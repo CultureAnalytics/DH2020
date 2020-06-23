@@ -26,6 +26,12 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 
 ### The Workshop
 
+The workshop itself will be held via Zoom and start at 5PM/17:00 CET (Central European Time -- e.g., *Paris*) or 11AM/11:00 ET (Eastern Time, e.g. *New York*). Registered participants will receive the Zoom link via email. We suggest everyone connect early, so that any connections issues that arise -- and they always do! -- can be addressed. 
+
+During the workshop, we want to encourage everyone to work alongside Mathieu as he walks us through ingesting data into Gephi, setting up a network visualization, and then understanding what they are seeing. In a live setting, that usually means the presenter projects his/her work onto a screen and participants switch between the screen and their own laptop screens. We won't have that here, and so we encourage you, if you can, to set yourself up with two screens or to find the largest possible screen to which you have access so that you can have the Zoom video playing in one window and then Gephi in another window adjacent to it:
+
+![Single Monitor Setup](images/monitor_setup.png)
+
 | 01:15 | 	Hands-on: Mathieu Jacomy, developer of Gephi : Gephi is a popular network visualization and analysis tool. It helps scholar investigate empirical phenomena that can be seen as nodes and links, entities and relations. Drawing from graph theory and information design, it helps shifting the focus from the entities to their relations. It repurposes computational metrics to describe and characterize the topology of empirical networks. In this tutorial you will learn the basics of Gephi, how to read its visualizations, which metrics to use in different situations, and how to organize an exploratory data analysis in a humanities setting.|
 |02:30 | Break                                  |
 |02:45 | Continuation of the hands-on session.  |
