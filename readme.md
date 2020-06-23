@@ -1,4 +1,6 @@
 
+[GH Pages version]( https://cultureanalytics.github.io/DH2020/)
+
 # Network Studies of Culture
 
 Following the 2019 workshop which focused on the use of time series as a way to understand and visualize humanities data, the 2020 workshop is dedicated to how network exploration and analysis can be similarly used to understand and visualize. The questions that focus the workshop are: How can network visualisations provide a distant viewing of data? What are the different steps to build a network? How to read it?
