@@ -41,7 +41,10 @@ During the workshop, we want to encourage everyone to work alongside Mathieu as 
 
 ## Workshop Leaders
 
-### Presenter: Mathieu Jacomy
+### Presenter
+
+**Mathieu Jacomy** is a co-founder of Gephi. He is a PhD student in techno-anthropology at the Aalborg University TANT Lab, and has been a research engineer for 10 years at the Sciences Po médialab in Paris. He develops digital instruments involving data visualization and network analysis for the social science and humanities. His current research focuses on visual network analysis, digital methods and issue mapping. He contributes to developing the web crawler Hyphe, the online network sharing platform MiniVan, and Gephi. He tweets at @jacomyma and blogs at [reticular.hypotheses.org](http://reticular.hypotheses.org/).
+
 
 
 ### Facilitators
