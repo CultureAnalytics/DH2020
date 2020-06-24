@@ -36,11 +36,11 @@ During the workshop, we want to encourage everyone to work alongside Mathieu as 
 | Time    | Event |
 | ------- |-------|
 |05:00pm |  Start of the session, welcome, practical issues.
-|05:15 | 	Hands-on: Mathieu Jacomy, developer of Gephi : Gephi is a popular network visualization and analysis tool. It helps scholar investigate empirical phenomena that can be seen as nodes and links, entities and relations. Drawing from graph theory and information design, it helps shifting the focus from the entities to their relations. It repurposes computational metrics to describe and characterize the topology of empirical networks. In this tutorial you will learn the basics of Gephi, how to read its visualizations, which metrics to use in different situations, and how to organize an exploratory data analysis in a humanities setting.|
-|06:30 | Break                                  |
-|06:45 | Continuation of the hands-on session.  |
-|07:45 | Wrap up                                |
-|08:00 | End of the workshop                    |
+|05:15pm | 	Hands-on: Mathieu Jacomy, developer of Gephi : Gephi is a popular network visualization and analysis tool. It helps scholar investigate empirical phenomena that can be seen as nodes and links, entities and relations. Drawing from graph theory and information design, it helps shifting the focus from the entities to their relations. It repurposes computational metrics to describe and characterize the topology of empirical networks. In this tutorial you will learn the basics of Gephi, how to read its visualizations, which metrics to use in different situations, and how to organize an exploratory data analysis in a humanities setting.|
+|06:30pm | Break                                  |
+|06:45pm | Continuation of the hands-on session.  |
+|07:45pm | Wrap up                                |
+|08:00pm | End of the workshop                    |
 
 
 ## Workshop Leaders
