@@ -3,11 +3,13 @@
 
 # Network Studies of Culture
 
-Following the 2019 workshop which focused on the use of time series as a way to understand and visualize humanities data, the 2020 workshop is dedicated to how network exploration and analysis can be similarly used to understand and visualize. The questions that focus the workshop are: How can network visualisations provide a distant viewing of data? What are the different steps to build a network? How to read it?
+Following the 2019 workshop, which focused on the use of time series as a way to understand and visualize humanities data, the 2020 workshop is dedicated to how network exploration and analysis can be similarly used to understand and visualize data. The questions at the focus the workshop are: How can network visualisations provide a distant viewing of data? What are the different steps to build a network? How to read it?
 
-These are the questions, but in the wake of the COVID pandemic and the re-structuring of this year's meeting(s), we have some different answers than we intended. Instead of our planned series of events, we are planning to offer a series of videos that anyone with an internet connection (and bandwidth) can view. (More on these videos in a moment.) Then, on the day of the workshop, July 21, we will host a live stream for registered participants to work with our presenter, Mathieu Jacomy, one of the developers of Gephi. (Like last year's workshop, we will also have facilitators on hand to help with any technical, procedural, or theoretical issues that arise over the course of the workshop that participants prefer to be addressed individually.)
+These are the questions, but in the wake of the COVID pandemic and the re-structuring of this year's DH2020 conference, we have some different answers than we intended. Instead of our planned series of events, we are planning to offer a series of videos that anyone with an internet connection (and bandwidth) can view. Then, on the day of the workshop, July 21,2020, we will host a live stream for registered participants to work with our presenter, Mathieu Jacomy, one of the developers of Gephi. Like last year's workshop, we will also have facilitators on hand to help with any technical, procedural, or theoretical issues that arise over the course of the workshop that participants prefer to be addressed individually.
 
-The videos themselves our described in the schedule below and will be made available a week before the workshop on July 14, along with other materials, like sample datasets, which we hope will maximize our time together. We hope you will join us for this series of asynchronous and synchronous events, but if you cannot, please feel free to view and/or download the materials and explore network studies of culture in a way most productive to you. If you have questions, please feel free to contact one of us, and we will find, to the best of our ability, someone who can be in touch with you. 
+The videos themselves are described in the schedule below and will be made available a week before the workshop on July 14, 2020, along with other materials, like sample datasets, which we hope will maximize our time together. 
+
+We hope you will join us for this series of asynchronous and synchronous events! If you cannot, please feel free to view and/or download the materials and explore network studies of culture in a way most productive to you! If you have any questions, please feel free to contact one of us. 
 
 
 ## Schedule
@@ -17,8 +19,7 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 ### Videos to View in Advance of the July 21 Workshop
 
 
-| Time    | Event |
-| ------- |-------|
+
 | 00:00 | 	Introduction: Culture Analytics and Networks, Tim Tangherlini, UCLA|
 | 00:30 | 	Research Example 1: Networks and circulation of knowledge in the internet, Mila Oiva, U Turku|
 | 00:45 | 	Research Example 2: Visualising the Merce Cunningham Company network, Clarisse Bardiot, UPHF|
@@ -32,11 +33,14 @@ During the workshop, we want to encourage everyone to work alongside Mathieu as 
 
 ![Single Monitor Setup](images/monitor_setup.png)
 
-| 01:15 | 	Hands-on: Mathieu Jacomy, developer of Gephi : Gephi is a popular network visualization and analysis tool. It helps scholar investigate empirical phenomena that can be seen as nodes and links, entities and relations. Drawing from graph theory and information design, it helps shifting the focus from the entities to their relations. It repurposes computational metrics to describe and characterize the topology of empirical networks. In this tutorial you will learn the basics of Gephi, how to read its visualizations, which metrics to use in different situations, and how to organize an exploratory data analysis in a humanities setting.|
-|02:30 | Break                                  |
-|02:45 | Continuation of the hands-on session.  |
-|03:45 | Wrap up                                |
-|04:00 | End of the workshop                    |
+| Time    | Event |
+| ------- |-------|
+|05:00pm |  Start of the session, welcome, practical issues.
+|05:15 | 	Hands-on: Mathieu Jacomy, developer of Gephi : Gephi is a popular network visualization and analysis tool. It helps scholar investigate empirical phenomena that can be seen as nodes and links, entities and relations. Drawing from graph theory and information design, it helps shifting the focus from the entities to their relations. It repurposes computational metrics to describe and characterize the topology of empirical networks. In this tutorial you will learn the basics of Gephi, how to read its visualizations, which metrics to use in different situations, and how to organize an exploratory data analysis in a humanities setting.|
+|06:30 | Break                                  |
+|06:45 | Continuation of the hands-on session.  |
+|07:45 | Wrap up                                |
+|08:00 | End of the workshop                    |
 
 
 ## Workshop Leaders
