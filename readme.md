@@ -18,7 +18,7 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 
 ### Videos to View in Advance of the July 21 Workshop
 
-
+| Time    | Event |
 | ------- |-------|
 | 00:00 | 	Introduction: Culture Analytics and Networks, Tim Tangherlini, UCLA|
 | 00:30 | 	Research Example 1: Networks and circulation of knowledge in the internet, Mila Oiva, U Turku|
