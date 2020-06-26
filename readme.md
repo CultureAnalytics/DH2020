@@ -20,11 +20,13 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 
 ### Videos to View in Advance of the July 21 Workshop
 
-| Time    | Event |
-| ------- |-------|
-| 00:00 | 	Introduction: Culture Analytics and Networks, Tim Tangherlini, UCLA|
-| 00:30 | 	Research Example 1: Visualising the Merce Cunningham Company network, Clarisse Bardiot, UPHF|
-| 00:45 | 	Research Example 2: title John Laudun|
+Traditionally, we would all gather in a room and warm up for the workshop with some overviews and case studies to prime our imaginations for the possibilities. While we cannot be together this year, we still thought it would be useful to have some way to suggest some possibilities. 
+
+We are especially excited by the opportunity to have Tim Tangherlini join us this year. Tangherlini has been instrumental not only in the development of culture analytics, through the long program he co-developed at UCLA's Institute for Pure and Applied Mathematics, but also in the introduction of network studies to humanities scholars: the NEH seminar on *Network Studies in the Humanities* was meeting ground, and launching pad, for a number of scholars active in the digital humanities today.
+
+* **Keynote**: *Culture Analytics and Networks*. Tim Tangherlini (University of California - Berkeley). 
+* **Example**: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
+* **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). 
 
 
 ### The Workshop
