@@ -21,9 +21,9 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 | Time    | Event |
 | ------- |-------|
 | 00:00 | 	Introduction: Culture Analytics and Networks, Tim Tangherlini, UCLA|
-| 00:30 | 	Research Example 1: Networks and circulation of knowledge in the internet, Mila Oiva, U Turku|
-| 00:45 | 	Research Example 2: Visualising the Merce Cunningham Company network, Clarisse Bardiot, UPHF|
-| 01:00 | 	Research Example 3: title John Laundun|
+| 00:30 | 	Research Example 1: Visualising the Merce Cunningham Company network, Clarisse Bardiot, UPHF|
+| 00:45 | 	Research Example 2: title John Laundun|
+
 
 ### The Workshop
 
