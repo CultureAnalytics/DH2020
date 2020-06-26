@@ -11,6 +11,8 @@ The videos themselves are described in the schedule below and will be made avail
 
 We hope you will join us for this series of asynchronous and synchronous events! If you cannot, please feel free to view and/or download the materials and explore network studies of culture in a way most productive to you! If you have any questions, please feel free to contact one of us. 
 
+Please sign up for the workshop using [this Google Form](https://forms.gle/jMXXvTFaW4VZgJcx9). (If you have any difficulties or prefer not to use Google Forms, please email one of the workshop facilitators: we will log your registration.) Please note that, for the time being, we are offering registration on a first-come, first-served basis. 
+
 
 ## Schedule
 
@@ -22,7 +24,7 @@ The planned half-day workshop is now a collection of videos to watch ahead of a 
 | ------- |-------|
 | 00:00 | 	Introduction: Culture Analytics and Networks, Tim Tangherlini, UCLA|
 | 00:30 | 	Research Example 1: Visualising the Merce Cunningham Company network, Clarisse Bardiot, UPHF|
-| 00:45 | 	Research Example 2: title John Laundun|
+| 00:45 | 	Research Example 2: title John Laudun|
 
 
 ### The Workshop
