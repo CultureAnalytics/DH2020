@@ -65,7 +65,7 @@ Email: 	milaoiv@utu.fi
 Website with CV: https://historydrafts.blogspot.com/p/blog-page.html
 Key project: https://sites.utu.fi/pseudohistoria/en/
 
-**John Laudun** is professor of English at the University of Louisiana (USA). His research focuses on folk narrative, both as a textual production in and of itself as well as a networked phenomenon. His published work includes a book-length study of embedded creativity and articles on folklore in both traditional and digital environments. In addition to scholarly journals and anthologies, his work is also featured in archives, CDs, films, and television series, and he has received funding from the NSF, NEH, the Andrew Mellon Foundation, the MacArthur Foundation, and the Jacob K. Javits program of the U.S. Department of Education. laudun@louisiana.edu. http://johnlaudun.net.
+**John Laudun** is professor of English at the University of Louisiana (USA). His research focuses on folk narrative, both as a textual production in and of itself as well as a networked phenomenon. His published work includes a book-length study of embedded creativity and articles on folklore in both traditional and digital environments. In addition to scholarly journals and anthologies, his work is also featured in archives, CDs, films, and television series, and he has received funding from the NSF, NEH, the Andrew Mellon Foundation, the MacArthur Foundation, and the Jacob K. Javits program of the U.S. Department of Education. laudun@louisiana.edu. http://johnlaudun.org/.
 
 
 ## About Culture Analytics
