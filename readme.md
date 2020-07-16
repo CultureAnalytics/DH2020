@@ -1,5 +1,5 @@
 
-[GH Pages version]( https://cultureanalytics.github.io/DH2020/)
+[WEBSITE]( https://cultureanalytics.github.io/DH2020/)
 
 # Network Studies of Culture
 
@@ -11,7 +11,7 @@ The videos themselves are described in the schedule below and will be made avail
 
 We hope you will join us for this series of asynchronous and synchronous events! If you cannot, please feel free to view and/or download the materials and explore network studies of culture in a way most productive to you! If you have any questions, please feel free to contact one of us. 
 
-The workshop is already full, and the registrations is closed. 
+**July 15 Update**: The workshop is full, and registration is closed. We are sorry for all those who have expressed interest, but for the workshop to succeed we can only handle so many people in the room -- even virtual rooms have their limits in terms of being able to give participants the attention they deserve!
 
 
 ## Schedule
@@ -24,14 +24,15 @@ Traditionally, we would all gather in a room and warm up for the workshop with s
 
 We are especially excited by the opportunity to have Tim Tangherlini join us this year. Tangherlini has been instrumental not only in the development of culture analytics, through the long program he co-developed at UCLA's Institute for Pure and Applied Mathematics, but also in the introduction of network studies to humanities scholars: the NEH seminar on *Network Studies in the Humanities* was meeting ground, and launching pad, for a number of scholars active in the digital humanities today.
 
-* **Keynote**: *Conspiracy in the Time of Covid: A Computational Pipeline for the Discovery of Conspiracy Narrative Frameworks*. Tim Tangherlini (University of California - Berkeley). [Watch the Keynote](keynote.md).
-* **Example**: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
+* Watch the **Keynote**: *Conspiracy in the Time of Covid: A Computational Pipeline for the Discovery of Conspiracy Narrative Frameworks*. Tim Tangherlini (University of California - Berkeley). [Watch the Keynote](keynote.md).
+* Watch the **example** study: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
 <!-- * **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). -->
 
 To be able to use our time together efficiently, we would like to ask you to do the following things before the workshop:
-* **Watch these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).**
-* **Download and install [Gephi](https://gephi.org/users/download/)**
-* **If you have any questions you would like us to address during the workshop, please write them down in the Drive document emailed to the participants. Here you can also signify your interest to the questions asked by other participants. This will ensure that we will be able to address the most pressing questions.**
+
+* **Watch** these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).
+* **Download** and **install** [Gephi](https://gephi.org/users/download/).
+* Please **write down your questions in the Drive document** emailed to the participants. Here you can also signify your interest in the questions asked by other participants. This will ensure that we will be able to address the most pressing questions during the course of the workshop.
 
  
 
@@ -52,6 +53,20 @@ During the workshop, we want to encourage everyone to work alongside Mathieu as 
 |07:45pm | Wrap up                                |
 |08:00pm | End of the workshop                    |
 
+## Workshop material
+
+### Gephi videos
+
+Mathieu produced three videos ahead of the workshop, to help you familiraize with Gephi beforehand. The first one, in particular, helps you install Gephi and tackle possible Java issues.
+
+* [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
+* [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
+* [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
+
+### Network data sets
+
+The data sets are hosted on the GitHub repository. Instructions in the READ ME:
+https://github.com/CultureAnalytics/DH2020/tree/master/data
 
 ## Workshop Leaders
 
@@ -79,18 +94,3 @@ Key project: https://sites.utu.fi/pseudohistoria/en/
 ## About Culture Analytics
 
 Culture Analytics is a collaborative, translational data science that explores culture and cultural interaction as a multi-scale / multi-resolution phenomenon. The macroscopic view, that allows a researcher to move from the microscale of close reading, up through the mesoscales, and on to the macroscale of distant reading, is a hallmark of the field. Culture analytics is focused on the productive intersection between humanities, mathematics, and data science.
-
-## Workshop material
-
-### Gephi videos
-
-Mathieu produced three videos ahead of the workshop, to help you familiraize with Gephi beforehand. The first one, in particular, helps you install Gephi and tackle possible Java issues.
-
-* [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
-* [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
-* [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
-
-### Network data sets
-
-The data sets are hosted on the GitHub repository. Instructions in the READ ME:
-https://github.com/CultureAnalytics/DH2020/tree/master/data
