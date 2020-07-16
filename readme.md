@@ -31,7 +31,7 @@ We are especially excited by the opportunity to have Tim Tangherlini join us thi
 To be able to use our time together efficiently, we would like to ask you to do the following things before the workshop:
 * **Watch these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).**
 * **Download and install [Gephi](https://gephi.org/users/download/)**
-* **If you have any questions you would like us to address during the workshop, please write them down in this Drive document. Here you can also signify your interest to the questions asked by other participants. This will ensure that we will be able to address the most pressing questions.**
+* **If you have any questions you would like us to address during the workshop, please write them down in the Drive document emailed to the participants. Here you can also signify your interest to the questions asked by other participants. This will ensure that we will be able to address the most pressing questions.**
 
  
 
