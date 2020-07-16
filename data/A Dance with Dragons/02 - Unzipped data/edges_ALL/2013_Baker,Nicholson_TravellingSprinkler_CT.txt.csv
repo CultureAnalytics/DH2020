@@ -1,0 +1,596 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Paul,Fort McClary,0.9615384615384616,3.205128205128205,57.37179487179487,0.3,think ride snort warn be come be do need happen
+Yeats,Merwin,3.3333333333333335,0.0,50.0,INF,be be do
+Samuel Rogers,Tennyson,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Samuel Rogers,Coleridge,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Samuel Rogers,Tennyson,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Samuel Rogers,Tennyson,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Samuel Rogers,Maud,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Tennyson,Coleridge,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Tennyson,Maud,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Coleridge,Tennyson,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Coleridge,Tennyson,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Coleridge,Maud,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Tennyson,Maud,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Tennyson,Maud,3.061224489795918,2.295918367346939,61.98979591836735,1.3333333333333333,do do remember be make haul look narrate ramble
+Tennyson,Maud,5.434782608695652,8.695652173913043,46.73913043478261,0.625,be write be
+Tennyson,Maud,5.434782608695652,8.695652173913043,46.73913043478261,0.625,be write be
+Tennyson,Coleridge,1.893939393939394,0.7575757575757576,54.92424242424242,2.5,have be remember beat hear
+Coleridge,Tennyson,1.893939393939394,0.7575757575757576,54.92424242424242,2.5,have be remember beat hear
+Coleridge,Tennyson,1.893939393939394,0.7575757575757576,54.92424242424242,2.5,have be remember beat hear
+Coleridge,Tennyson,8.125,2.5,59.375,3.25,do know have say be
+Coleridge,Tennyson,3.515625,1.953125,60.15625,1.8,be work have be use double play
+Coleridge,Tennyson,3.125,1.5625,57.8125,2.0,be include
+Coleridge,Tennyson,4.464285714285714,1.7857142857142856,72.32142857142857,2.5,know
+John,Fletcher,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,be
+Fletcher,Amy Lowell,4.6875,1.0416666666666665,60.9375,4.5,read write call be
+Amy Lowell,Fletcher,4.6875,1.0416666666666665,60.9375,4.5,read write call be
+Nan,Chuck,6.666666666666667,3.75,46.25,1.7777777777777777,be be think be
+Nan,Chuck,6.666666666666667,3.75,46.25,1.7777777777777777,be be think be
+Nan,Chuck,6.666666666666667,3.75,46.25,1.7777777777777777,be be think be
+Chuck,Navy,0.7142857142857143,1.4285714285714286,69.28571428571428,0.5,take be cause
+Chase,Pete Seeger,1.6129032258064515,0.4032258064516129,59.2741935483871,4.0,have stand say have be remember use sing
+Pete Seeger,Chase,1.1904761904761905,0.0,60.71428571428571,INF,learn name say learn
+Tim,Tufts,0.0,0.0,80.0,INF,teach
+Tim,Victoria de los Angeles,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+Tim,CIA,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+Tim,John,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+Victoria de los Angeles,CIA,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+Victoria de los Angeles,John,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+CIA,John,2.5,2.083333333333333,55.41666666666667,1.2,talk be
+Tim,Medea Benjamin,6.875000000000001,1.25,51.87500000000001,5.5,be be publish call
+Tim,Medea Benjamin,1.7241379310344827,1.7241379310344827,62.06896551724138,1.0,stand wait tell happen go give
+Tim,John,1.7241379310344827,1.7241379310344827,62.06896551724138,1.0,stand wait tell happen go give
+Tim,Medea Benjamin,1.7241379310344827,1.7241379310344827,62.06896551724138,1.0,stand wait tell happen go give
+Tim,John,1.7241379310344827,1.7241379310344827,62.06896551724138,1.0,stand wait tell happen go give
+Medea Benjamin,John,1.7241379310344827,1.7241379310344827,62.06896551724138,1.0,stand wait tell happen go give
+Tim,YouTube,0.0,0.0,58.333333333333336,INF,whip play
+Tim,YouTube,0.0,0.0,58.333333333333336,INF,whip play
+John,Medea Benjamin,3.1914893617021276,1.8617021276595744,52.3936170212766,1.7142857142857142,be talk stand say be kill
+Tim,Yukon Jack,1.644736842105263,0.9868421052631579,57.89473684210527,1.6666666666666667,tell be take stop drink be work have finish
+MacLeish,CIA,7.638888888888889,8.333333333333332,45.13888888888889,0.9166666666666666,have get
+Donovan,Tim,0.6944444444444444,3.4722222222222223,40.27777777777778,0.2,think imagine
+Donovan,Lennon,0.6944444444444444,3.4722222222222223,40.27777777777778,0.2,think imagine
+Tim,Lennon,0.6944444444444444,3.4722222222222223,40.27777777777778,0.2,think imagine
+Lennon,Paul McCartney,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Lennon,Sara Teasdale,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Lennon,Robert Frost,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Paul McCartney,Sara Teasdale,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Paul McCartney,Robert Frost,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Sara Teasdale,Robert Frost,2.448453608247423,0.7731958762886598,48.324742268041234,3.1666666666666665,say happen rhyme be be record lyricize do make have figure do be
+Peter Davison,St. Botolph Club,0.43103448275862066,2.586206896551724,45.258620689655174,0.16666666666666666,publish know ignore take
+Peter Davison,St. Botolph Club,0.43103448275862066,2.586206896551724,45.258620689655174,0.16666666666666666,publish know ignore take
+Peter Davison,Walter Cronkite,0.8928571428571428,0.8928571428571428,69.64285714285714,1.0,have lean whisper be
+Walter Cronkite,Kennedy,3.787878787878788,4.166666666666666,58.71212121212122,0.9090909090909091,look be look cry be shoot
+Walter Cronkite,Kennedy,3.787878787878788,4.166666666666666,58.71212121212122,0.9090909090909091,look be look cry be shoot
+Peter Davison,Stanley Kunitz,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,Stanley Kunitz,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,Stanley Kunitz,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,St. Botolph Club,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Peter Davison,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,St. Botolph Club,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,St. Botolph Club,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,St. Botolph Club,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Stanley Kunitz,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+St. Botolph Club,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+St. Botolph Club,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+St. Botolph Club,Walter Cronkite,1.2711864406779663,1.2711864406779663,50.0,1.0,publish love carry buy say publish know ignore
+Raymond,Nan,3.75,2.5,48.75,1.5,be be
+Nan,Raymond,1.5625,0.0,65.10416666666666,INF,invite go be give
+Nan,Raymond,0.0,0.0,55.55555555555556,INF,be come
+Wayne,Léonie Adams,2.083333333333333,2.083333333333333,62.5,1.0,think do read
+Wilson,MacLeish,5.859375,1.171875,42.96875,5.0,jeer write call
+Wilson,MacLeish,5.859375,1.171875,42.96875,5.0,jeer write call
+MacLeish,Wilson,3.4090909090909087,5.681818181818182,54.54545454545454,0.6,be
+MacLeish,Roosevelt,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,begin write ask be
+MacLeish,Roosevelt,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,begin write ask be
+MacLeish,Congress,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,begin write ask be
+Roosevelt,Congress,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,begin write ask be
+Roosevelt,Congress,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,begin write ask be
+Bill,Herzberg,0.0,1.7857142857142856,55.35714285714286,0.0,be
+Herzberg,Billy Brown,2.5,1.875,65.625,1.3333333333333333,be teach meditate practice
+Herzberg,Billy Brown,2.5,1.875,65.625,1.3333333333333333,be teach meditate practice
+Herzberg,Bernie Garfield,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Herzberg,Maurice Allard,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Herzberg,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Herzberg,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Bernie Garfield,Maurice Allard,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Bernie Garfield,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Bernie Garfield,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Maurice Allard,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Maurice Allard,Simon Kovar,2.272727272727273,0.5681818181818182,50.189393939393945,4.0,do empty be hope become achieve round hear play be
+Simon Kovar,Milde,2.2058823529411766,1.4705882352941175,43.38235294117647,1.5,have edit include record
+Milde,Simon Kovar,2.2058823529411766,1.4705882352941175,43.38235294117647,1.5,have edit include record
+Gabriel Pierné,Debussy,1.7857142857142856,4.464285714285714,58.03571428571429,0.4,be
+Debussy,Stravinsky,1.6666666666666667,9.166666666666666,62.5,0.18181818181818182,like
+Henri Büsser,Debussy,3.9634146341463414,3.6585365853658534,55.79268292682927,1.0833333333333333,be assign write say have be bear be say be bear make
+Debussy,Henri Büsser,3.9634146341463414,3.6585365853658534,55.79268292682927,1.0833333333333333,be assign write say have be bear be say be bear make
+Debussy,Tchaikovsky,1.9736842105263157,0.6578947368421052,44.73684210526316,3.0,accord be
+Debussy,Henri Büsser,1.3888888888888888,0.4629629629629629,50.0,3.0,die bear orchestrate kitsch
+Henri Büsser,Debussy,0.8064516129032258,3.6290322580645165,56.85483870967742,0.2222222222222222,be try do be
+Roz,NPR,4.285714285714286,0.7142857142857143,57.85714285714286,6.0,produce call be carpet hush be
+Rimsky-Korsakov,Maurice Ravel,0.0,0.0,52.77777777777778,INF,buy perform
+Rimsky-Korsakov,Stravinsky,0.0,0.0,52.77777777777778,INF,buy perform
+Maurice Ravel,Stravinsky,0.0,0.0,52.77777777777778,INF,buy perform
+Heckel,Bill,0.7352941176470588,0.0,52.20588235294118,INF,sell
+Paul,Polly,0.0,0.0,25.0,INF,
+Polly,Philip Glass,3.90625,2.34375,62.5,1.6666666666666667,say like
+Polly,Philip Glass,3.90625,2.34375,62.5,1.6666666666666667,say like
+Mark Rothko,Picasso,5.46875,7.8125,58.59375,0.7,be be move say
+Mark Rothko,Picasso,5.46875,7.8125,58.59375,0.7,be be move say
+Picasso,Matisse,3.125,10.9375,48.4375,0.2857142857142857,rip
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Polly,Picasso,3.5416666666666665,4.375,58.75,0.8095238095238095,know be be be be do want know be go go be dismiss
+Vannevar Bush,Harvard,0.0,0.78125,52.34375,0.0,give give
+Vannevar Bush,Allen Dulles,0.0,0.78125,52.34375,0.0,give give
+Vannevar Bush,CIA,0.0,0.78125,52.34375,0.0,give give
+Harvard,Vannevar Bush,0.0,0.78125,52.34375,0.0,give give
+Harvard,Allen Dulles,0.0,0.78125,52.34375,0.0,give give
+Harvard,CIA,0.0,0.78125,52.34375,0.0,give give
+Vannevar Bush,Allen Dulles,0.0,0.78125,52.34375,0.0,give give
+Vannevar Bush,CIA,0.0,0.78125,52.34375,0.0,give give
+Allen Dulles,CIA,0.0,0.78125,52.34375,0.0,give give
+Allen Dulles,Vannevar Bush,0.0,0.8928571428571428,59.82142857142857,0.0,smoke mull
+Allen Dulles,CIA,0.0,0.8928571428571428,59.82142857142857,0.0,smoke mull
+Vannevar Bush,Allen Dulles,0.0,0.8928571428571428,59.82142857142857,0.0,smoke mull
+Vannevar Bush,CIA,0.0,0.8928571428571428,59.82142857142857,0.0,smoke mull
+Allen Dulles,CIA,0.0,0.8928571428571428,59.82142857142857,0.0,smoke mull
+Tim,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Quaker,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Quaker,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Quaker,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Quaker,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Quaker,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Hannah,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,John,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Tim,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+John,Quaker,2.7243589743589745,4.326923076923077,57.05128205128205,0.6296296296296297,have be get go be explain be be go remember be think go see
+Hannah,Tim,3.6764705882352944,2.941176470588235,55.14705882352941,1.25,break move get have be meet
+Hannah,Tim,3.6764705882352944,2.941176470588235,55.14705882352941,1.25,break move get have be meet
+Hannah,Tufts,3.6764705882352944,2.941176470588235,55.14705882352941,1.25,break move get have be meet
+Tim,Tufts,3.6764705882352944,2.941176470588235,55.14705882352941,1.25,break move get have be meet
+Tim,Tufts,3.6764705882352944,2.941176470588235,55.14705882352941,1.25,break move get have be meet
+Nan,Raymond,0.0,1.4423076923076923,48.55769230769231,0.0,try blow blow kill kill
+Nan,Raymond,0.0,1.4423076923076923,48.55769230769231,0.0,try blow blow kill kill
+Tim,Hannah,1.4240506329113924,2.848101265822785,61.5506329113924,0.5,go give be have incorporate decide use be result
+John,Roz,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,have have buy read
+Chuck,Kurt Cobain,2.7083333333333335,1.0416666666666665,56.25,2.6,buy call edit have write be hope be set
+Nan,Raymond,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be
+Nan,Raymond,7.386363636363637,6.25,54.54545454545454,1.1818181818181819,seem think serve be
+Stravinsky,Robert Craft,3.353658536585366,2.1341463414634148,48.170731707317074,1.5714285714285714,read write include say be pass
+Stravinsky,Robert Craft,3.353658536585366,2.1341463414634148,48.170731707317074,1.5714285714285714,read write include say be pass
+Reagan,CIA,2.083333333333333,0.0,54.58333333333333,INF,send proclaim be love be
+Henry Cabot Lodge,Chuck,2.0,3.0,52.33333333333333,0.6666666666666666,think write have have do work
+Henry Cabot Lodge,Tom,2.0,3.0,52.33333333333333,0.6666666666666666,think write have have do work
+Chuck,Tom,2.0,3.0,52.33333333333333,0.6666666666666666,think write have have do work
+John Hall Wheelock,Sara Teasdale,4.166666666666666,1.893939393939394,63.63636363636363,2.2,be have die produce
+Smacko,Fort McClary,0.0,0.6756756756756757,56.08108108108109,0.0,help resist get be drive
+Roz,Fort McClary,0.7352941176470588,0.0,58.08823529411765,INF,be get
+Yukon Jack,Tyrconnell,1.25,8.75,50.0,0.14285714285714285,
+Roz,Lucy,0.625,0.0,59.375,INF,die make
+Lucy,Roz,0.625,0.0,59.375,INF,die make
+Lucy,Roz,0.625,0.0,59.375,INF,die make
+Roz,Quaker,1.8382352941176472,1.1029411764705883,50.0,1.6666666666666667,try get come be do want
+Quaker,Roz,1.8382352941176472,1.1029411764705883,50.0,1.6666666666666667,try get come be do want
+Quaker,Roz,1.8382352941176472,1.1029411764705883,50.0,1.6666666666666667,try get come be do want
+Roz,Harris,1.6666666666666667,0.0,48.333333333333336,INF,be go play be go say get
+Roz,Harris,1.6666666666666667,0.0,48.333333333333336,INF,be go play be go say get
+Debussy,Verlaine,4.910714285714286,0.4464285714285714,55.35714285714286,11.0,set be
+Debussy,Verlaine,4.910714285714286,0.4464285714285714,55.35714285714286,11.0,set be
+Donna,Eliot,0.0,0.0,42.857142857142854,INF,be
+Vannevar Bush,Obama,5.263157894736842,5.263157894736842,50.0,1.0,be traumatize make increase be elect
+Vannevar Bush,Obama,5.263157894736842,5.263157894736842,50.0,1.0,be traumatize make increase be elect
+Chuck,Nan,4.62962962962963,7.87037037037037,57.870370370370374,0.5882352941176471,work make write
+Nan,Chuck,4.62962962962963,7.87037037037037,57.870370370370374,0.5882352941176471,work make write
+CIA,MacLeish,10.576923076923077,0.9615384615384616,42.30769230769231,11.0,be
+MacLeish,Bill,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,MacLeish,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Bill,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Donovan,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+MacLeish,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Donovan,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Donovan,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Donovan,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Donovan,Congress,3.298611111111111,1.7361111111111112,57.46527777777778,1.9,have help stay fashion say be protect be set call be
+Roosevelt,MacLeish,2.604166666666667,4.166666666666666,59.895833333333336,0.625,want keep put
+Roosevelt,MacLeish,2.604166666666667,4.166666666666666,59.895833333333336,0.625,want keep put
+Donovan,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,Harvard,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,Congress,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Harvard,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Donovan,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Congress,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Harvard,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Donovan,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+MacLeish,Congress,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Harvard,Donovan,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Harvard,Congress,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Harvard,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,Congress,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Donovan,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+Congress,MacLeish,3.125,1.3157894736842104,58.7171052631579,2.375,meet sketch send include be set be cooperate say
+OSS,Donovan,0.5681818181818182,0.8522727272727272,57.67045454545454,0.6666666666666666,end be call do be classify abolish fire
+MacLeish,OSS,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+MacLeish,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+MacLeish,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+OSS,MacLeish,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+OSS,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+OSS,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+MacLeish,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+MacLeish,Truman,5.7835820895522385,0.5597014925373134,65.29850746268657,10.333333333333334,watch be leave realize need do be manifest
+Truman,OSS,1.1363636363636365,0.0,71.5909090909091,INF,want overthrow spread reconstitute
+Truman,OSS,1.1363636363636365,0.0,71.5909090909091,INF,want overthrow spread reconstitute
+MacLeish,Jesus,1.25,2.083333333333333,50.0,0.6,include become
+MacLeish,CIA,1.25,2.083333333333333,50.0,0.6,include become
+Jesus,CIA,1.25,2.083333333333333,50.0,0.6,include become
+Nan,Raymond,1.171875,2.34375,58.984375,0.5,be rock look raise tap fiddle
+Nan,Raymond,1.171875,2.34375,58.984375,0.5,be rock look raise tap fiddle
+Nan,Ray,0.6578947368421052,0.3289473684210526,56.9078947368421,2.0,hand put have listen move
+Nan,Ray,0.6578947368421052,0.3289473684210526,56.9078947368421,2.0,hand put have listen move
+Nan,Ray,0.6578947368421052,0.3289473684210526,56.9078947368421,2.0,hand put have listen move
+Nan,Ray,0.6578947368421052,0.3289473684210526,56.9078947368421,2.0,hand put have listen move
+Nan,Ray,0.6578947368421052,0.3289473684210526,56.9078947368421,2.0,hand put have listen move
+Nan,Paul McCartney,1.3157894736842104,0.0,64.47368421052632,INF,buy do have sing want remember do
+Nan,Radiohead,1.3157894736842104,0.0,64.47368421052632,INF,buy do have sing want remember do
+Paul McCartney,Radiohead,1.3157894736842104,0.0,64.47368421052632,INF,buy do have sing want remember do
+Radiohead,Raymond,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,have listen be say hear sing
+Radiohead,Raymond,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,have listen be say hear sing
+Bob Edwards,NPR,0.0,0.0,50.0,INF,be fire
+Peter Davison,Batucada Fantástica,1.4423076923076923,0.4807692307692308,51.92307692307693,3.0,be have be play drum call play
+Peter Davison,Bach,1.4423076923076923,0.4807692307692308,51.92307692307693,3.0,be have be play drum call play
+Batucada Fantástica,Bach,1.4423076923076923,0.4807692307692308,51.92307692307693,3.0,be have be play drum call play
+Debussy,Stravinsky,0.0,0.0,68.75,INF,be
+Stravinsky,Debussy,0.0,0.0,68.75,INF,be
+Robert Craft,Stravinsky,1.0,0.0,67.0,INF,write be surprise clang summon
+Robert Craft,Stravinsky,1.0,0.0,67.0,INF,write be surprise clang summon
+Robert Craft,Stravinsky,1.0,0.0,67.0,INF,write be surprise clang summon
+Robert Craft,Stravinsky,1.0,0.0,67.0,INF,write be surprise clang summon
+Stravinsky,Debussy,0.8333333333333334,0.0,59.166666666666664,INF,do do
+Stravinsky,Debussy,0.8333333333333334,0.0,59.166666666666664,INF,do do
+Debussy,Mallarmé,3.040540540540541,0.6756756756756757,44.932432432432435,4.5,have create inspire begin
+Stravinsky,Debussy,0.0,0.0,64.28571428571429,INF,be
+Debussy,Bernie Garfield,2.4671052631578947,2.4671052631578947,60.85526315789473,1.0,know do have be begin go play do sound
+Debussy,Bernie Garfield,2.4671052631578947,2.4671052631578947,60.85526315789473,1.0,know do have be begin go play do sound
+Chopin,Stravinsky,0.0,0.0,75.0,INF,be write be work
+Debussy,Mallarmé,0.4807692307692308,0.0,57.21153846153846,INF,know be
+Debussy,Mallarmé,0.4807692307692308,0.0,57.21153846153846,INF,know be
+Debussy,Stravinsky,1.0416666666666665,1.5625,68.22916666666666,0.6666666666666666,write play say be disturb
+Debussy,Stravinsky,1.0416666666666665,1.5625,68.22916666666666,0.6666666666666666,write play say be disturb
+Debussy,Stravinsky,1.0416666666666665,1.5625,68.22916666666666,0.6666666666666666,write play say be disturb
+Debussy,Stravinsky,1.0416666666666665,1.5625,68.22916666666666,0.6666666666666666,write play say be disturb
+Herzberg,Maurice Allard,2.083333333333333,0.4166666666666667,50.83333333333333,5.0,represent do grunt jab
+Rimbaud,Mallarmé,1.8617021276595744,1.0638297872340425,52.3936170212766,1.75,land be make feel be get be get
+Rimbaud,Gerry Rafferty,1.8617021276595744,1.0638297872340425,52.3936170212766,1.75,land be make feel be get be get
+Mallarmé,Gerry Rafferty,1.8617021276595744,1.0638297872340425,52.3936170212766,1.75,land be make feel be get be get
+Roz,Mayer,4.310344827586207,5.603448275862069,59.05172413793104,0.7692307692307693,be have be be play
+Roz,Mayer,2.5,4.5,53.0,0.5555555555555556,be be register
+Roz,Mayer,7.291666666666667,1.0416666666666665,41.66666666666667,7.0,love be
+John,Tracy Chapman,3.0172413793103448,0.0,59.05172413793104,INF,watch come listen be destroy
+John,Tracy Chapman,3.0172413793103448,0.0,59.05172413793104,INF,watch come listen be destroy
+Pat Pattison,Mayer,5.147058823529411,0.7352941176470588,64.70588235294117,7.0,be be let know
+Pat Pattison,Mayer,5.147058823529411,0.7352941176470588,64.70588235294117,7.0,be be let know
+Pat Pattison,Mayer,2.027027027027027,0.33783783783783783,57.0945945945946,6.0,say have prove be include
+Pat Pattison,Gillian Welch,2.027027027027027,0.33783783783783783,57.0945945945946,6.0,say have prove be include
+Pat Pattison,Mayer,2.027027027027027,0.33783783783783783,57.0945945945946,6.0,say have prove be include
+Pat Pattison,Gillian Welch,2.027027027027027,0.33783783783783783,57.0945945945946,6.0,say have prove be include
+Mayer,Gillian Welch,2.027027027027027,0.33783783783783783,57.0945945945946,6.0,say have prove be include
+Mayer,Gillian Welch,1.7857142857142856,0.8928571428571428,61.60714285714286,2.0,be be
+John,Mayer,5.113636363636364,0.5681818181818182,53.40909090909091,9.0,know say take
+Harvard,Abel,3.125,2.34375,65.36458333333334,1.3333333333333333,be name make think be read recite be
+Harvard,Tennyson,3.125,2.34375,65.36458333333334,1.3333333333333333,be name make think be read recite be
+Abel,Tennyson,3.125,2.34375,65.36458333333334,1.3333333333333333,be name make think be read recite be
+Roz,Sears,1.9736842105263157,0.9868421052631579,66.77631578947368,2.0,be wipe get go sleep have have serve wake write call agree have
+John Cusack,Minnie Driver,2.6785714285714284,0.8928571428571428,50.0,3.0,watch watch
+John Cusack,Minnie Driver,2.6785714285714284,0.8928571428571428,50.0,3.0,watch watch
+Minnie Driver,John Cusack,2.5,0.0,60.83333333333333,INF,play play employ
+Minnie Driver,CIA,2.5,0.0,60.83333333333333,INF,play play employ
+John Cusack,CIA,2.5,0.0,60.83333333333333,INF,play play employ
+CIA,Congress,3.888888888888889,1.1111111111111112,63.888888888888886,3.5,believe be be be begin be end
+Powell,Zimmer,1.1111111111111112,0.5555555555555556,45.0,2.0,work be bring steal
+Powell,Zimmer,1.1111111111111112,0.5555555555555556,45.0,2.0,work be bring steal
+Powell,Zimmer,1.1111111111111112,0.5555555555555556,45.0,2.0,work be bring steal
+Powell,Zimmer,0.0,1.9230769230769231,59.61538461538461,0.0,be
+Powell,Harry Gregson-Williams,0.0,1.9230769230769231,59.61538461538461,0.0,be
+Zimmer,Harry Gregson-Williams,0.0,1.9230769230769231,59.61538461538461,0.0,be
+Powell,Harry Gregson-Williams,5.208333333333334,3.125,50.0,1.6666666666666667,be
+Powell,Zimmer,5.208333333333334,3.125,50.0,1.6666666666666667,be
+Harry Gregson-Williams,Zimmer,5.208333333333334,3.125,50.0,1.6666666666666667,be
+Debussy,Stravinsky,4.411764705882353,8.088235294117647,52.20588235294118,0.5454545454545454,be steal
+Debussy,Stravinsky,4.411764705882353,8.088235294117647,52.20588235294118,0.5454545454545454,be steal
+Loretta,Sissy Spacek,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,teach
+Jeff,Paul,2.34375,0.78125,40.625,3.0,be hope be
+Picasso,Matisse,2.459016393442623,1.4344262295081966,63.31967213114754,1.7142857142857142,be poke look listen watch come use cut color see call
+Picasso,Matisse,2.459016393442623,1.4344262295081966,63.31967213114754,1.7142857142857142,be poke look listen watch come use cut color see call
+Picasso,Matisse,2.459016393442623,1.4344262295081966,63.31967213114754,1.7142857142857142,be poke look listen watch come use cut color see call
+Picasso,Matisse,2.459016393442623,1.4344262295081966,63.31967213114754,1.7142857142857142,be poke look listen watch come use cut color see call
+Yeats,Caesar,4.166666666666666,0.0,45.83333333333333,INF,say be
+Bach,Mrs. Trebert,0.78125,0.0,67.96875,INF,have like be
+Mrs. Trebert,Bach,1.875,2.5,60.62499999999999,0.75,sit listen play
+Mrs. Trebert,Bartók,1.875,2.5,60.62499999999999,0.75,sit listen play
+Bach,Bartók,1.875,2.5,60.62499999999999,0.75,sit listen play
+Bartók,Koussevitzky,0.0,0.0,69.23076923076923,INF,be be hire write have
+Bartók,Koussevitzky,2.604166666666667,0.0,51.5625,INF,be write write
+Jeff,Allstate,0.9615384615384616,1.4423076923076923,59.13461538461539,0.6666666666666666,say write say cover
+Jeff,Allstate,0.9615384615384616,1.4423076923076923,59.13461538461539,0.6666666666666666,say write say cover
+Jeff,Allstate,0.9615384615384616,1.4423076923076923,59.13461538461539,0.6666666666666666,say write say cover
+Howard Moss,Debussy,5.241935483870968,6.048387096774194,50.0,0.8666666666666667,have end mirror eat
+Raymond,Howard Moss,3.5999999999999996,3.170833333333333,51.5625,1.135348226018397,have get run
+Allstate,Roz,5.46875,0.0,44.53125,INF,come be go buy
+Debussy,Pierre Louÿs,1.1029411764705883,0.0,51.83823529411765,INF,set write call
+Debussy,Pierre Louÿs,1.1029411764705883,0.0,51.83823529411765,INF,set write call
+Maurice Ravel,Debussy,6.8181818181818175,4.545454545454546,52.27272727272727,1.5,know be
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Maurice Ravel,Debussy,1.0135135135135136,0.0,61.14864864864865,INF,be struggle be go have get put
+Nan,Raymond,1.893939393939394,3.0303030303030303,55.68181818181818,0.625,invite hope teach bend say
+Nan,Raymond,1.893939393939394,3.0303030303030303,55.68181818181818,0.625,invite hope teach bend say
+Raymond,Nan,1.893939393939394,3.0303030303030303,55.68181818181818,0.625,invite hope teach bend say
+Raymond,Nan,1.893939393939394,3.0303030303030303,55.68181818181818,0.625,invite hope teach bend say
+Brahms,John,0.43859649122807015,0.43859649122807015,53.50877192982456,1.0,use use use use let be use be use
+Roz,Harris,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,think be say
+Walden,Whitney Houston,1.3888888888888888,2.430555555555556,48.95833333333333,0.5714285714285714,hear turn be drum
+Walden,Aretha Franklin,1.3888888888888888,2.430555555555556,48.95833333333333,0.5714285714285714,hear turn be drum
+Walden,Whitney Houston,1.3888888888888888,2.430555555555556,48.95833333333333,0.5714285714285714,hear turn be drum
+Walden,Aretha Franklin,1.3888888888888888,2.430555555555556,48.95833333333333,0.5714285714285714,hear turn be drum
+Whitney Houston,Aretha Franklin,1.3888888888888888,2.430555555555556,48.95833333333333,0.5714285714285714,hear turn be drum
+Walden,Whitney Houston,0.0,0.0,57.14285714285714,INF,be work split
+Walden,Aretha Franklin,0.0,0.0,57.14285714285714,INF,be work split
+Walden,Eddie Murphy,0.0,0.0,57.14285714285714,INF,be work split
+Whitney Houston,Aretha Franklin,0.0,0.0,57.14285714285714,INF,be work split
+Whitney Houston,Eddie Murphy,0.0,0.0,57.14285714285714,INF,be work split
+Aretha Franklin,Eddie Murphy,0.0,0.0,57.14285714285714,INF,be work split
+Walden,Eddie Murphy,0.0,0.0,55.55555555555556,INF,produce put
+Eddie Murphy,Whitney Houston,0.0,1.3888888888888888,54.166666666666664,0.0,say do want go beat
+Whitney Houston,Eddie Murphy,0.0,1.3888888888888888,54.166666666666664,0.0,say do want go beat
+Whitney Houston,Walden,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Walden,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Whitney Houston,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Walden,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Walden,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Walden,Aretha Franklin,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Walden,Whitney Houston,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Aretha Franklin,Whitney Houston,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Aretha Franklin,Whitney Houston,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Aretha Franklin,Whitney Houston,7.5,0.7142857142857143,46.07142857142857,10.5,say know care sing produce
+Nan,Roz,5.0,5.0,50.0,1.0,have be like
+Ben Taylor,Carly Simon,1.0416666666666665,0.0,40.625,INF,be
+Bach,Victoria de los Angeles,4.934210526315789,0.6578947368421052,65.46052631578947,7.5,come be be be be run sing name
+Victoria de los Angeles,Heitor Villa-Lobos,3.804347826086957,2.717391304347826,45.65217391304348,1.4,be go be go be go
+Lucy,Harris,1.875,3.125,52.5,0.6,be drive say be go try be be
+Lucy,Harris,1.875,3.125,52.5,0.6,be drive say be go try be be
+Smacko,Roz,3.009259259259259,2.5462962962962963,57.407407407407405,1.1818181818181819,shower find drive be be
+Smacko,Roz,3.009259259259259,2.5462962962962963,57.407407407407405,1.1818181818181819,shower find drive be be
+Roz,Netflix,0.0,0.0,50.0,INF,find
+Katharine Hepburn,Cary Grant,1.0869565217391304,2.1739130434782608,53.2608695652174,0.5,be be
+Harris,Roz,8.125,2.5,39.375,3.25,court fuss feel say
+Cary Grant,Roz,0.0,0.0,42.857142857142854,INF,sleep say
+Roz,Lucy,3.225806451612903,1.2096774193548387,50.403225806451616,2.6666666666666665,leave be seem want avoid have explain understand
+Swinburne,Hopkins,0.8620689655172413,0.0,54.310344827586206,INF,oppose oppose oppose say
+Swinburne,Tony Hoagland,0.8620689655172413,0.0,54.310344827586206,INF,oppose oppose oppose say
+Hopkins,Tony Hoagland,0.8620689655172413,0.0,54.310344827586206,INF,oppose oppose oppose say
+Mary Oliver,Roz,1.1627906976744187,0.872093023255814,53.779069767441854,1.3333333333333333,take drive have relocate buy give get
+Mary Oliver,Roz,1.1627906976744187,0.872093023255814,53.779069767441854,1.3333333333333333,take drive have relocate buy give get
+Margarita,Roz,5.729166666666666,1.0416666666666665,51.5625,5.5,order go
+Glenn Gould,Bach,4.166666666666666,0.0,62.5,INF,know use sing play
+Glenn Gould,Bach,4.166666666666666,0.0,62.5,INF,know use sing play
+Nan,Sears,4.044117647058823,3.308823529411765,69.11764705882352,1.2222222222222223,stand watch peck leave
+Raymond,Bob Marley,0.8620689655172413,0.0,57.758620689655174,INF,go have fill
+MacLeish,Amy Lowell,7.5,0.0,52.5,INF,pay
+MacLeish,Amy Lowell,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,be write have see spend get publish
+MacLeish,Amy Lowell,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,be write have see spend get publish
+Amy Lowell,MacLeish,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,be write have see spend get publish
+Eliot,Amy Lowell,3.4375000000000004,0.3125,61.25000000000001,11.0,become have fall dismiss write
+CIA,Jackson Pollock,5.46875,2.34375,54.6875,2.3333333333333335,come begin reward
+MacLeish,CIA,3.6458333333333335,0.5208333333333333,54.166666666666664,7.0,be be
+CIA,Reagan,0.0,0.0,56.666666666666664,INF,happen sell use fund
+Tennyson,Paul,2.941176470588235,4.411764705882353,69.11764705882352,0.6666666666666666,mean be call
+Tennyson,Paul,2.941176470588235,4.411764705882353,69.11764705882352,0.6666666666666666,mean be call
+Tennyson,Paul,2.941176470588235,4.411764705882353,69.11764705882352,0.6666666666666666,mean be call
+Tennyson,Kate Earl,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Tracy Chapman,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Paul McCartney,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,George Clinton,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Lennon,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tennyson,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Tracy Chapman,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Paul McCartney,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,George Clinton,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Lennon,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Kate Earl,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,Paul McCartney,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,George Clinton,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,Lennon,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tracy Chapman,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul McCartney,George Clinton,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul McCartney,Lennon,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul McCartney,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul McCartney,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul McCartney,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+George Clinton,Lennon,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+George Clinton,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+George Clinton,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+George Clinton,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Lennon,Tom,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Lennon,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Lennon,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tom,Paul Jacobs,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Tom,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Paul Jacobs,Debussy,1.3719512195121952,1.0670731707317074,40.243902439024396,1.2857142857142858,send do have imagine play
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Lalo,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Lalo,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Namouna,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Lalo,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Lalo,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Namouna,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Lalo,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Debussy,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Pierre Louÿs,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Lalo,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Pierre Louÿs,Debussy,3.229166666666667,1.5625,51.041666666666664,2.066666666666667,be be call base forge have applaud have memorize include roll be become write hear see feel
+Poe,Tennyson,4.545454545454546,1.2987012987012987,51.298701298701296,3.5,be sink rise submerge call lap
+Poe,Rimbaud,4.545454545454546,1.2987012987012987,51.298701298701296,3.5,be sink rise submerge call lap
+Tennyson,Rimbaud,4.545454545454546,1.2987012987012987,51.298701298701296,3.5,be sink rise submerge call lap
+Swinburne,Debussy,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Debussy,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Debussy,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Pierre Louÿs,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Swinburne,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Pierre Louÿs,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Debussy,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Debussy,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Pierre Louÿs,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Swinburne,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Pierre Louÿs,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Pierre Louÿs,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Debussy,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Pierre Louÿs,Brahms,4.477611940298507,2.2388059701492535,44.02985074626866,2.0,be ruin see crumble admire be translate champion lose
+Chopin,Debussy,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Chopin,Debussy,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Chopin,Debussy,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Chopin,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Chopin,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Chopin,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Poe,4.123711340206185,2.8350515463917527,47.680412371134025,1.4545454545454546,be be submerge dissolve remake be know finish base base be know play outlive
+Debussy,Gabriel Pierné,2.9166666666666665,2.083333333333333,51.66666666666667,1.4,be cut bind put
+Debussy,Gabriel Pierné,2.9166666666666665,2.083333333333333,51.66666666666667,1.4,be cut bind put
+Chopin,Rummel,2.272727272727273,1.3636363636363635,54.54545454545454,1.6666666666666667,guess be be wander
+Rummel,Debussy,3.571428571428571,0.0,53.57142857142857,INF,be
+Debussy,Rummel,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,write praise have give
+Debussy,Rummel,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,write praise have give
+Rummel,Debussy,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,write praise have give
+Debussy,Rummel,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,write praise have give
+Debussy,The New York Times,3.77906976744186,2.3255813953488373,56.68604651162791,1.625,read give have perform
+The New York Times,Debussy,3.77906976744186,2.3255813953488373,56.68604651162791,1.625,read give have perform
+Roz,Nan,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Raymond,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Nan,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Nan,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Raymond,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Raymond,Nan,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Raymond,Nan,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Raymond,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Raymond,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Nan,Chuck,0.9259259259259258,0.9259259259259258,50.0,1.0,tell be be go hear
+Roz,Judy,0.0,0.0,60.0,INF,be sit watch
+Judy,Roz,0.0,5.0,28.333333333333332,0.0,get say
+Tim,Hannah,5.0,0.0,45.0,INF,wish stay
+Hannah,Roz,0.0,0.0,33.33333333333333,INF,do say
+Ellen,Mary Oliver,2.5,1.6666666666666667,52.5,1.5,be tell give loan hope be
+Mary Oliver,Ellen,2.5,1.6666666666666667,52.5,1.5,be tell give loan hope be
+Jesus,Roz,0.0,0.0,20.0,INF,
+Nan,Chuck,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Nan,Roz,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Nan,Lucy,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Chuck,Roz,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Chuck,Lucy,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Roz,Lucy,0.0,1.0416666666666665,57.291666666666664,0.0,ride meet
+Raymond,Paul Oakenfold,2.8846153846153846,0.0,50.96153846153846,INF,do play
+Nan,Chuck,2.34375,0.0,41.40625,INF,come dance
+Lucy,Nan,0.0,0.0,50.0,INF,ask dance go
+Lucy,Chuck,0.0,0.0,50.0,INF,ask dance go
+Nan,Chuck,0.0,0.0,50.0,INF,ask dance go
+Roz,Lucy,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink
+Roz,Nan,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink
+Roz,Chuck,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink
+Lucy,Nan,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink
+Lucy,Chuck,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink
+Nan,Chuck,4.62962962962963,2.314814814814815,48.61111111111111,2.0,shout be enjoy drink

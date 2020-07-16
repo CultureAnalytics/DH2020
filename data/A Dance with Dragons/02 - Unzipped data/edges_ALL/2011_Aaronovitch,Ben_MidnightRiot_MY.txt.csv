@@ -1,0 +1,840 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Martin,Piazza,3.571428571428571,2.5,62.5,1.4285714285714286,be think be have choose
+Royal Opera House,St. Paul 's Church,0.6756756756756757,0.33783783783783783,63.85135135135135,2.0,be
+St. Paul 's Church,Inigo Jones,1.8518518518518516,1.3888888888888888,56.018518518518526,1.3333333333333333,be know differentiate be build
+Leslie,Piazza,0.0,0.0,48.64864864864865,INF,be guard guard
+Piazza,Leslie,0.0,0.0,48.64864864864865,INF,be guard guard
+Piazza,St. Martin,3.515625,1.5625,54.296875,2.25,be have be leave supervise pursue
+Leslie,James Street,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,be say watch dart
+Mr. Headless,Leslie,0.0,4.166666666666666,62.5,0.0,have say make
+Peter,Neblett,0.0,0.0,45.0,INF,tell say do see go
+Peter,Neblett,0.0,0.0,42.857142857142854,INF,say
+CCTV,Leslie,0.0,0.0,37.5,INF,have go say
+CCTV,Leslie,0.0,3.125,38.54166666666667,0.0,watch say
+Leslie,Nicholas,2.6515151515151514,3.787878787878788,51.13636363636363,0.7,tell murder turn change knock be
+William Skirmish,Leslie,0.0,0.0,25.0,INF,say
+Nicholas,Leslie,0.4032258064516129,0.0,51.20967741935484,INF,start see be do
+HOLMES,Metropolitan Police,0.3472222222222222,0.3472222222222222,65.97222222222221,1.0,access like keep tie fix be leave sell
+Leslie,HOLMES,3.125,1.875,57.49999999999999,1.6666666666666667,have sneak risk be catch prefer plug
+HOLMES,CCTV,1.2755102040816326,0.25510204081632654,59.693877551020414,5.0,handle be attach be call
+William Skirmish,CCTV,1.293103448275862,3.4482758620689653,53.879310344827594,0.375,assign have waste grab see get
+Nicholas,CCTV,1.5625,4.6875,68.75,0.3333333333333333,have say be be
+Leslie,William Skirmish,0.8928571428571428,4.910714285714286,47.767857142857146,0.18181818181818182,be connect be enhance murder
+Nicholas,St. Martin,4.044117647058823,4.411764705882353,62.13235294117647,0.9166666666666666,have be track have say take vanish
+Nicholas,Drury Lane,4.044117647058823,4.411764705882353,62.13235294117647,0.9166666666666666,have be track have say take vanish
+Nicholas,St. Martin,4.044117647058823,4.411764705882353,62.13235294117647,0.9166666666666666,have be track have say take vanish
+Nicholas,Drury Lane,4.044117647058823,4.411764705882353,62.13235294117647,0.9166666666666666,have be track have say take vanish
+St. Martin,Drury Lane,4.044117647058823,4.411764705882353,62.13235294117647,0.9166666666666666,have be track have say take vanish
+Nicholas,Leslie,0.0,0.0,30.76923076923077,INF,say
+Nicholas,Leslie,0.0,0.0,30.76923076923077,INF,say
+Peter,Leslie,0.0,0.0,28.57142857142857,INF,say
+Peter,Leslie,6.944444444444445,3.4722222222222223,39.58333333333333,2.0,know be say
+Neblett,Leslie,3.3333333333333335,0.0,56.666666666666664,INF,hand seem open
+Tesco,St. Martin,1.25,2.083333333333333,53.333333333333336,0.6,be
+Tesco,Drury Lane,1.25,2.083333333333333,53.333333333333336,0.6,be
+St. Martin,Drury Lane,1.25,2.083333333333333,53.333333333333336,0.6,be
+Nightingale,St. Martin,3.75,3.125,53.125,1.2,say grab
+Nightingale,St. Martin,0.0,0.0,66.66666666666666,INF,wipe
+Nightingale,Seawoll,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,be say
+Peter,Nightingale,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be say
+William Skirmish,Heath,3.3653846153846154,1.4423076923076923,52.88461538461539,2.3333333333333335,have live be walk
+HOLMES,Leslie,5.448717948717949,3.205128205128205,47.756410256410255,1.7,have be note log do know bark
+Seawoll,Leslie,2.5,3.75,53.75,0.6666666666666666,hear yell say
+Toby,Mrs. Palmarron,6.0,1.5,60.5,4.0,be have notice be
+Toby,Mrs. Palmarron,2.6785714285714284,0.0,47.32142857142857,INF,be want say
+Mrs. Palmarron,Toby,1.9230769230769231,0.0,67.3076923076923,INF,look be chase
+Mrs. Palmarron,Toby,1.9230769230769231,0.0,67.3076923076923,INF,look be chase
+Nightingale,Mrs. Coopertown,0.625,1.25,68.125,0.5,rise bustle be follow
+Nightingale,Brandon Coopertown,0.625,1.25,68.125,0.5,rise bustle be follow
+Mrs. Coopertown,Brandon Coopertown,0.625,1.25,68.125,0.5,rise bustle be follow
+Nightingale,Brandon Coopertown,3.2407407407407405,0.9259259259259258,69.9074074074074,3.5,look roll use have use
+Nightingale,Brandon Coopertown,3.2407407407407405,0.9259259259259258,69.9074074074074,3.5,look roll use have use
+Nightingale,Toby,3.2407407407407405,0.9259259259259258,69.9074074074074,3.5,look roll use have use
+Brandon Coopertown,Toby,3.2407407407407405,0.9259259259259258,69.9074074074074,3.5,look roll use have use
+Brandon Coopertown,Toby,3.2407407407407405,0.9259259259259258,69.9074074074074,3.5,look roll use have use
+Mrs. Coopertown,Brandon Coopertown,2.941176470588235,5.88235294117647,73.52941176470588,0.5,think be teethe have
+Nightingale,Mrs. Coopertown,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,leave promise take be
+Leslie,Toby,1.3888888888888888,1.3888888888888888,58.333333333333336,1.0,be perch reach scratch
+Leslie,Brandon Coopertown,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Leslie,Brandon Coopertown,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Leslie,HOLMES,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Brandon Coopertown,Leslie,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Brandon Coopertown,HOLMES,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Leslie,Brandon Coopertown,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Leslie,HOLMES,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Brandon Coopertown,HOLMES,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do zap promise put
+Toby,Piazza,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,be turn reach find park get be tow
+Toby,Nightingale,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,be turn reach find park get be tow
+Piazza,Nightingale,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,be turn reach find park get be tow
+Nightingale,Toby,2.7777777777777777,3.2407407407407405,60.64814814814815,0.8571428571428571,suspect vanish hear
+Toby,Nicholas,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,hear be
+Nightingale,Toby,3.75,2.5,43.75,1.5,return report
+Tesco,Toby,4.375,1.25,54.37499999999999,3.5,go whir
+Tesco,Toby,4.375,1.25,54.37499999999999,3.5,go whir
+Toby,St. Martin,2.027027027027027,2.364864864864865,65.87837837837837,0.8571428571428571,run have give be gain cross
+Toby,Drury Lane,2.027027027027027,2.364864864864865,65.87837837837837,0.8571428571428571,run have give be gain cross
+Toby,St. Martin,2.027027027027027,2.364864864864865,65.87837837837837,0.8571428571428571,run have give be gain cross
+St. Martin,Drury Lane,2.027027027027027,2.364864864864865,65.87837837837837,0.8571428571428571,run have give be gain cross
+Drury Lane,St. Martin,2.027027027027027,2.364864864864865,65.87837837837837,0.8571428571428571,run have give be gain cross
+Toby,J. Sheekey,2.027027027027027,1.0135135135135136,59.12162162162162,2.0,whir be
+Toby,Charing Cross,2.027027027027027,1.0135135135135136,59.12162162162162,2.0,whir be
+J. Sheekey,Charing Cross,2.027027027027027,1.0135135135135136,59.12162162162162,2.0,whir be
+Brandon Coopertown,Leslie,0.0,0.0,53.84615384615385,INF,tell check say
+Mrs. Coopertown,Brandon Coopertown,0.9615384615384616,0.0,45.19230769230769,INF,accord be
+Leslie,Honda,4.166666666666666,2.380952380952381,69.64285714285714,1.75,arrive look have be use
+Leslie,Toby,0.9615384615384616,4.807692307692308,63.46153846153846,0.2,give scramble
+Peter,Leslie,3.8461538461538463,0.9615384615384616,33.65384615384615,4.0,say incline
+Leslie,CCTV,2.579365079365079,3.571428571428571,39.88095238095239,0.7222222222222222,be go defy tell be be
+Leslie,Brandon Coopertown,2.579365079365079,3.571428571428571,39.88095238095239,0.7222222222222222,be go defy tell be be
+CCTV,Brandon Coopertown,2.579365079365079,3.571428571428571,39.88095238095239,0.7222222222222222,be go defy tell be be
+Nightingale,Leslie,0.8333333333333334,0.0,52.5,INF,shout be
+Leslie,Nightingale,2.5,0.0,57.49999999999999,INF,stop pile
+Leslie,Nightingale,2.5,0.0,57.49999999999999,INF,stop pile
+Jesus Christ,Nightingale,0.0,5.0,35.0,0.0,whisper
+Peter,Nightingale,2.272727272727273,0.0,52.27272727272727,INF,get call
+Peter,Nightingale,3.125,0.0,46.875,INF,say
+Nightingale,Leslie,1.5,0.0,58.5,INF,tell wait fade check be
+Nightingale,Leslie,0.0,0.0,54.54545454545454,INF,look stand shiver
+Toby,Honda,2.430555555555556,1.7361111111111112,62.5,1.4,let spend clean drive
+Toby,Charing Cross,2.430555555555556,1.7361111111111112,62.5,1.4,let spend clean drive
+Honda,Charing Cross,2.430555555555556,1.7361111111111112,62.5,1.4,let spend clean drive
+Nightingale,Brandon Coopertown,2.232142857142857,2.6785714285714284,45.089285714285715,0.8333333333333334,be book guide
+Dr. Walid,Nightingale,0.0,0.0,53.84615384615385,INF,handle say
+Dr. Walid,Brandon Coopertown,1.4423076923076923,2.8846153846153846,57.21153846153846,0.5,have use splay tear look
+Nightingale,Dr. Walid,2.6785714285714284,0.0,61.60714285714286,INF,follow peer
+Dr. Walid,Brandon Coopertown,0.0,0.625,39.375,0.0,see say indicate
+Dr. Walid,Nightingale,4.25,3.0,46.75,1.4166666666666667,see say be associate be
+Mr. Coopertown,Nightingale,3.289473684210526,0.6578947368421052,38.15789473684211,5.0,be do say
+Dr. Walid,Nightingale,0.0,0.0,66.66666666666666,INF,look
+Dr. Walid,Nightingale,4.6875,3.125,54.6875,1.5,be look realize be wait catch
+Nightingale,Dr. Walid,0.0,0.0,60.0,INF,shake
+Nightingale,Peter,4.166666666666666,1.1363636363636365,52.27272727272727,3.6666666666666665,tell raise read do swear be
+Isaac,Nightingale,0.0,0.0,44.44444444444444,INF,do say
+Molly,Nightingale,4.807692307692308,0.0,41.34615384615385,INF,say
+Molly,Nightingale,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be say
+Molly,Nightingale,8.75,6.875000000000001,64.375,1.2727272727272727,lower do have be
+Toby,Molly,3.571428571428571,2.6785714285714284,65.17857142857143,1.3333333333333333,growl snarl show
+Molly,Nightingale,6.25,0.0,43.75,INF,say
+Molly,Nightingale,3.9473684210526314,0.0,53.94736842105263,INF,cover turn go glide come
+Molly,Nightingale,3.9473684210526314,0.0,53.94736842105263,INF,cover turn go glide come
+Nightingale,Molly,3.9473684210526314,0.0,53.94736842105263,INF,cover turn go glide come
+Molly,Nightingale,3.9473684210526314,0.0,53.94736842105263,INF,cover turn go glide come
+Nightingale,August Coopertown,1.25,0.4166666666666667,65.0,3.0,do see be be stand clear
+Fischers,Nightingale,2.631578947368421,0.0,65.78947368421053,INF,doubt notice see do think be think be go offer put
+Fabroni,Turco,1.9021739130434785,0.8152173913043478,49.45652173913043,2.3333333333333335,be identify have come dry have claim make
+Mr. Ranatunga,Turco,3.4090909090909087,0.5681818181818182,41.47727272727273,6.0,inform have pay
+Mr. Ranatunga,Fabroni,3.4090909090909087,0.5681818181818182,41.47727272727273,6.0,inform have pay
+Turco,Fabroni,3.4090909090909087,0.5681818181818182,41.47727272727273,6.0,inform have pay
+Turco,Fabroni,1.3888888888888888,2.314814814814815,40.74074074074074,0.6,pay
+Celia Munroe,Antonia,1.1029411764705883,0.0,43.01470588235294,INF,be have bring
+Celia Munroe,Alex,1.1029411764705883,0.0,43.01470588235294,INF,be have bring
+Celia Munroe,Antonia,1.1029411764705883,0.0,43.01470588235294,INF,be have bring
+Celia Munroe,Alex,1.1029411764705883,0.0,43.01470588235294,INF,be have bring
+Antonia,Alex,1.1029411764705883,0.0,43.01470588235294,INF,be have bring
+Mr. Ranatunga,Ms. Munroe,2.295918367346939,6.377551020408164,56.63265306122449,0.36,indicate be ask be be say have bother brief
+Ms. Munroe,Mr. Ranatunga,2.295918367346939,6.377551020408164,56.63265306122449,0.36,indicate be ask be be say have bother brief
+Ms. Munroe,Mr. Ranatunga,2.295918367346939,6.377551020408164,56.63265306122449,0.36,indicate be ask be be say have bother brief
+Ms. Munroe,Mr. Ranatunga,2.295918367346939,6.377551020408164,56.63265306122449,0.36,indicate be ask be be say have bother brief
+Ms. Munroe,Mr. Ranatunga,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Ms. Munroe,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Ms. Munroe,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Ms. Munroe,Mr. Ranatunga,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Ms. Munroe,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Ms. Munroe,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Mr. Ranatunga,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Mr. Ranatunga,Leslie,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Mr. Ranatunga,Ms. Munroe,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Leslie,Ms. Munroe,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Leslie,Ms. Munroe,1.25,3.3333333333333335,38.75,0.375,express surprise accord
+Leslie,Ms. Munroe,1.3888888888888888,1.7361111111111112,52.43055555555556,0.8,be decide intervene have have step ask be make
+Leslie,Ms. Munroe,1.3888888888888888,1.7361111111111112,52.43055555555556,0.8,be decide intervene have have step ask be make
+Leslie,Ms. Munroe,0.4032258064516129,0.0,54.43548387096774,INF,get let go go sprawl
+Leslie,Ms. Munroe,0.4032258064516129,0.0,54.43548387096774,INF,get let go go sprawl
+Leslie,Ms. Munroe,0.4032258064516129,0.0,54.43548387096774,INF,get let go go sprawl
+Leslie,Ms. Munroe,0.4032258064516129,0.0,54.43548387096774,INF,get let go go sprawl
+Leslie,Charing Cross,4.310344827586207,4.310344827586207,60.3448275862069,1.0,look have tend have corral call
+Nightingale,Mother Thames,0.5208333333333333,0.0,57.8125,INF,be go run
+Mother Thames,Nightingale,0.8620689655172413,3.4482758620689653,50.86206896551724,0.25,explain take be
+Mother Thames,Nightingale,0.8620689655172413,3.4482758620689653,50.86206896551724,0.25,explain take be
+Nathaniel,Nightingale,2.5,1.25,36.25,2.0,be say
+Nathaniel,Nightingale,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,duck approach crouch
+Nathaniel,Nightingale,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,duck approach crouch
+Nightingale,Nathaniel,2.586206896551724,0.43103448275862066,59.05172413793104,6.0,return round ask have be
+Father Thames,Mother Thames,3.787878787878788,1.1363636363636365,64.77272727272727,3.3333333333333335,have be have come raid be catch
+Mother Thames,Father Thames,0.0,0.0,60.0,INF,be belong
+Mother Thames,Father Thames,0.0,0.0,60.0,INF,be belong
+Nightingale,Leslie,4.545454545454546,0.0,68.18181818181817,INF,shop
+Baba Thames,Mama Thames,6.61764705882353,0.7352941176470588,57.35294117647059,9.0,be be say
+Peter,Beverley,0.0,0.0,33.33333333333333,INF,say
+Baba Thames,Mother Thames,1.5625,0.0,35.9375,INF,think be say
+Baba Thames,Mother Thames,1.5625,0.0,35.9375,INF,think be say
+Isaac,Nightingale,5.078125,0.390625,60.15625,13.0,say have come question be
+Isaac,Jesus Christ,5.078125,0.390625,60.15625,13.0,say have come question be
+Nightingale,Isaac,5.078125,0.390625,60.15625,13.0,say have come question be
+Nightingale,Jesus Christ,5.078125,0.390625,60.15625,13.0,say have come question be
+Isaac,Jesus Christ,5.078125,0.390625,60.15625,13.0,say have come question be
+Jesus Christ,Nightingale,5.208333333333334,2.083333333333333,59.375,2.5,have say
+Leslie,Beverley,0.9090909090909091,5.0,52.27272727272727,0.18181818181818182,dream be share be have be do dare embrace offend
+Molly,Toby,0.5,0.0,63.5,INF,be mix sit be
+Molly,Toby,0.5,0.0,63.5,INF,be mix sit be
+Toby,Molly,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Toby,Molly,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Molly,Toby,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Molly,Toby,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Toby,Molly,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Toby,Molly,2.232142857142857,4.464285714285714,54.01785714285714,0.5,bark tease send fly
+Toby,Molly,0.8928571428571428,3.125,63.83928571428571,0.2857142857142857,chew turn begin hear
+Molly,Toby,1.1363636363636365,2.272727272727273,69.31818181818183,0.5,pick wave do
+Toby,Molly,3.125,7.03125,71.09375,0.4444444444444444,bark stick
+Molly,Toby,3.125,7.03125,71.09375,0.4444444444444444,bark stick
+Leslie,Celia Munroe,3.787878787878788,0.3787878787878788,53.40909090909091,10.0,get be give
+Leslie,Blackstone,5.182926829268292,0.3048780487804878,50.609756097560975,17.0,think bring have have publish
+Leslie,Mother Thames,5.182926829268292,0.3048780487804878,50.609756097560975,17.0,think bring have have publish
+Blackstone,Mother Thames,5.182926829268292,0.3048780487804878,50.609756097560975,17.0,think bring have have publish
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Celia Munroe,Mr. Ranatunga,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,sit accuse have bring share
+Brandon Coopertown,Leslie,0.0,0.0,42.857142857142854,INF,be say
+William Skirmish,Beverley,0.0,0.0,41.66666666666667,INF,be say
+William Skirmish,Leslie,2.364864864864865,1.3513513513513513,50.33783783783784,1.75,have become complete have be hand
+Leslie,William Skirmish,3.8194444444444446,0.0,60.06944444444444,INF,spend reconstruct be share excruciate
+William Skirmish,Leslie,3.8194444444444446,0.0,60.06944444444444,INF,spend reconstruct be share excruciate
+Leslie,William Skirmish,3.1976744186046515,0.5813953488372093,52.03488372093024,5.5,check find trawl be meet
+Leslie,William Skirmish,3.1976744186046515,0.5813953488372093,52.03488372093024,5.5,check find trawl be meet
+Leslie,William Skirmish,3.1976744186046515,0.5813953488372093,52.03488372093024,5.5,check find trawl be meet
+Leslie,CCTV,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,Leslie,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+CCTV,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+William Skirmish,Leslie,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+William Skirmish,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,William Skirmish,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+William Skirmish,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+William Skirmish,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+William Skirmish,Mrs. Coopertown,0.0,0.6147540983606558,46.92622950819672,0.0,trace pass tell walk catch walk
+Leslie,Mrs. Coopertown,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Leslie,Brandon Coopertown,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Leslie,Brandon Coopertown,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Leslie,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Leslie,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Mrs. Coopertown,Brandon Coopertown,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Mrs. Coopertown,Brandon Coopertown,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Mrs. Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Mrs. Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Brandon Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Brandon Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Brandon Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Brandon Coopertown,William Skirmish,4.779411764705882,1.1029411764705883,41.17647058823529,4.333333333333333,tell have invade force change kill
+Mama Thames,Molly,6.4655172413793105,1.293103448275862,40.51724137931034,5.0,lead know be
+Leslie,William Skirmish,1.6304347826086956,0.5434782608695652,41.30434782608695,3.0,be say have be interfere
+Mrs. Coopertown,Brandon Coopertown,1.7045454545454544,3.4090909090909087,49.43181818181818,0.5,remember lurch
+Leslie,Celia Monroe,2.7777777777777777,0.0,52.77777777777778,INF,glance sit
+Celia Monroe,Leslie,1.25,3.75,55.00000000000001,0.3333333333333333,catch look flinch
+Mrs. Coopertown,Leslie,4.166666666666666,1.1904761904761905,32.73809523809524,3.5,be say be echo
+Mrs. Coopertown,Leslie,4.166666666666666,1.1904761904761905,32.73809523809524,3.5,be say be echo
+Nightingale,Brandon Coopertown,0.0,1.4423076923076923,63.942307692307686,0.0,be wear recognize work
+Purley,Brandon Coopertown,1.6304347826086956,1.0869565217391304,32.065217391304344,1.5,be go say throw
+Purley,IKEA,0.5952380952380952,0.0,42.26190476190476,INF,morph pass crown
+Nightingale,Frank,0.0,0.0,57.14285714285714,INF,introduce
+Nightingale,Frank,0.0,0.0,66.66666666666666,INF,turn
+Nightingale,Frank,0.8064516129032258,0.4032258064516129,56.85483870967742,2.0,get direct say
+Frank,Nightingale,0.0,0.0,63.63636363636363,INF,arrive exchange nod stride lead get brief
+Nightingale,Frank,1.9021739130434785,0.0,58.96739130434783,INF,do have explain go be examine declare be cause sanitize
+Brandon Coopertown,Dr. Walid,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,remember say be
+Eric,Dr. Framline,1.8292682926829267,3.9634146341463414,47.86585365853659,0.46153846153846156,hear be be injure hear come charge be
+Beverley,Nightingale,2.302631578947368,0.3289473684210526,52.63157894736842,7.0,be distract take run call
+Beverley,Nightingale,2.302631578947368,0.3289473684210526,52.63157894736842,7.0,be distract take run call
+Beverley,Nightingale,2.302631578947368,0.3289473684210526,52.63157894736842,7.0,be distract take run call
+Toby,Mrs. Coopertown,0.390625,0.0,49.609375,INF,bite be start do go run
+Toby,Mrs. Coopertown,0.390625,0.0,49.609375,INF,bite be start do go run
+Toby,Brandon Coopertown,0.390625,0.0,49.609375,INF,bite be start do go run
+Mrs. Coopertown,Brandon Coopertown,0.390625,0.0,49.609375,INF,bite be start do go run
+Mrs. Coopertown,Brandon Coopertown,0.390625,0.0,49.609375,INF,bite be start do go run
+Brandon Coopertown,Mrs. Coopertown,0.6578947368421052,3.289473684210526,59.210526315789465,0.2,get meet get knock
+Mrs. Coopertown,Brandon Coopertown,0.6578947368421052,3.289473684210526,59.210526315789465,0.2,get meet get knock
+Brandon Coopertown,Mrs. Coopertown,5.092592592592593,0.0,43.05555555555556,INF,be affect explain be
+Mrs. Coopertown,Brandon Coopertown,5.092592592592593,0.0,43.05555555555556,INF,be affect explain be
+Nightingale,Toby,1.6666666666666667,0.0,51.66666666666667,INF,say tell be
+Toby,Mrs. Coopertown,3.125,1.25,40.625,2.5,be play be take
+Nightingale,Toby,2.631578947368421,0.0,44.73684210526316,INF,say say coordinate
+Beverley,Dr. Framline,0.625,0.0,54.37499999999999,INF,grin catch look hand
+Beverley,Dr. Framline,0.625,0.0,54.37499999999999,INF,grin catch look hand
+Nightingale,Molly,0.8064516129032258,0.0,70.16129032258065,INF,have leave meet wrap tie
+Nightingale,Tesco,0.8064516129032258,0.0,70.16129032258065,INF,have leave meet wrap tie
+Molly,Tesco,0.8064516129032258,0.0,70.16129032258065,INF,have leave meet wrap tie
+Dr. Framline,Beverley,0.7978723404255319,2.127659574468085,69.41489361702128,0.375,be be give be think own be share
+Peter,Beverley,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,be be be
+Beverley,Dr. Framline,2.8846153846153846,3.8461538461538463,47.11538461538461,0.75,perk get be head
+Dr. Framline,Beverley,0.0,0.0,40.0,INF,call tell
+Beverley,Leslie,0.0,7.142857142857142,35.714285714285715,0.0,give
+Beverley,Dr. Framline,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,leave pop check be desert have arrive
+Tyburn,Beverley,0.5,1.0,38.5,0.5,call want spend dangle say
+Leslie,Beverley,2.7777777777777777,0.0,58.333333333333336,INF,spot pull flash get
+Leslie,Beverley,2.7777777777777777,0.0,58.333333333333336,INF,spot pull flash get
+Leslie,Beverley,0.0,0.0,42.857142857142854,INF,jerk
+Leslie,Beverley,0.0,0.0,42.857142857142854,INF,jerk
+Beverley,Leslie,1.6666666666666667,0.8333333333333334,30.833333333333336,2.0,be turn
+Beverley,Leslie,1.6666666666666667,0.8333333333333334,30.833333333333336,2.0,be turn
+Beverley,Mother Thames,7.954545454545454,1.1363636363636365,27.27272727272727,7.0,be know
+Dr. Framline,Leslie,3.75,1.25,55.00000000000001,3.0,realize do have look be expect interview follow
+Dr. Framline,Leslie,3.75,1.25,55.00000000000001,3.0,realize do have look be expect interview follow
+Leslie,Dr. Framline,0.0,7.8125,50.520833333333336,0.0,give pity pull
+Leslie,Beverley,5.769230769230769,0.4807692307692308,39.90384615384615,12.0,be tell keep
+Beverley,Nokia,0.7575757575757576,0.3787878787878788,56.439393939393945,2.0,hand look stuff
+Tesco,Molly,4.6875,2.34375,57.552083333333336,2.0,open unwrap find garnish have be fry tend approach
+Leslie,Beverley,3.977272727272727,4.545454545454546,55.11363636363637,0.875,eat think be dive hesitate
+Peter,Beverley,0.0,0.0,28.57142857142857,INF,say
+Stephanopoulos,Seawoll,1.4705882352941175,0.0,33.82352941176471,INF,be
+Nightingale,Seawoll,1.0416666666666665,3.125,70.83333333333334,0.3333333333333333,debrief take be offer
+Seawoll,Leslie,8.75,0.0,41.25,INF,glare be
+Leslie,Seawoll,11.666666666666666,0.0,35.0,INF,glare be be
+Leslie,Seawoll,11.666666666666666,0.0,35.0,INF,glare be be
+Seawoll,Stephanopoulos,2.717391304347826,0.0,36.41304347826087,INF,troop attend
+Stephanopoulos,Seawoll,0.0,2.734375,56.640625,0.0,give give say
+Stephanopoulos,Leslie,0.0,2.734375,56.640625,0.0,give give say
+Seawoll,Leslie,0.0,2.734375,56.640625,0.0,give give say
+Shampwell,Dr. Walid,0.0,0.0,33.33333333333333,INF,be say
+Mrs. Coopertown,Shampwell,2.272727272727273,0.3787878787878788,57.95454545454546,6.0,seem start be bite be strike ride
+Seawoll,Stephanopoulos,0.0,0.0,40.0,INF,glance
+Peter,Shampwell,1.744186046511628,0.872093023255814,53.19767441860465,2.0,include witness take have identify have show say
+Peter,Leslie,1.744186046511628,0.872093023255814,53.19767441860465,2.0,include witness take have identify have show say
+Shampwell,Leslie,1.744186046511628,0.872093023255814,53.19767441860465,2.0,include witness take have identify have show say
+Nightingale,Dr. Walid,2.272727272727273,0.0,58.333333333333336,INF,be turn tell get
+HOLMES,Leslie,3.6458333333333335,1.5625,53.125,2.3333333333333335,tell need access have rely
+Nightingale,HOLMES,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,ask tackle
+Peter,HOLMES,0.0,0.0,42.857142857142854,INF,say
+Beck,Leslie,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,lay know prefer settle watch wait turn
+Beck,Leslie,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,lay know prefer settle watch wait turn
+Beverley,Leslie,0.0,0.0,33.33333333333333,INF,bring say
+Molly,Beverley,0.0,0.0,50.0,INF,slip drift sit
+Molly,Beverley,0.0,0.0,50.0,INF,slip drift sit
+Molly,Nightingale,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Molly,Leslie,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Molly,Beverley,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Molly,Nightingale,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Molly,Leslie,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Molly,Beverley,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Nightingale,Leslie,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Nightingale,Beverley,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Leslie,Beverley,3.8461538461538463,0.9615384615384616,61.858974358974365,4.0,shoot come get be stand
+Beverley,Leslie,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,sit flop sit bob perch
+Beverley,Molly,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,sit flop sit bob perch
+Leslie,Molly,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,sit flop sit bob perch
+Nightingale,Beverley,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,nod roll
+Nightingale,Beverley,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,nod roll
+Nightingale,Beverley,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,be say
+Father Thames,William Skirmish,0.6048387096774194,0.0,63.91129032258065,INF,be transport show recline arrange
+Nightingale,Father Thames,0.0,0.0,66.66666666666666,INF,join shake
+Father Thames,Nightingale,3.125,0.6944444444444444,57.291666666666664,4.5,have look mix be thame size
+Nightingale,Father Thames,3.125,0.6944444444444444,57.291666666666664,4.5,have look mix be thame size
+Father Thames,Mother Thames,0.5952380952380952,1.7857142857142856,54.761904761904766,0.3333333333333333,be do emphasize
+Father Thames,Mother Thames,0.5952380952380952,1.7857142857142856,54.761904761904766,0.3333333333333333,be do emphasize
+Mother Thames,Father Thames,4.761904761904762,1.7857142857142856,60.11904761904761,2.6666666666666665,be
+Isis,Oxley,3.5000000000000004,1.0,27.500000000000004,3.5,be say be
+Isis,Peter,3.5000000000000004,1.0,27.500000000000004,3.5,be say be
+Oxley,Peter,3.5000000000000004,1.0,27.500000000000004,3.5,be say be
+Beverley,Molly,3.125,4.6875,46.35416666666667,0.6666666666666666,take be notice
+Isis,Oxley,1.4344262295081966,0.819672131147541,51.84426229508197,1.75,ask hesitate say swear get partake place
+Isis,Oxley,1.4344262295081966,0.819672131147541,51.84426229508197,1.75,ask hesitate say swear get partake place
+Isis,Drury Lane,5.357142857142857,4.910714285714286,57.58928571428571,1.0909090909090908,set be burn
+Isis,Anne,3.4722222222222223,0.0,63.19444444444444,INF,be be
+Isis,Anne,3.4722222222222223,0.0,63.19444444444444,INF,be be
+Isis,Battenberg,0.7352941176470588,0.0,52.20588235294118,INF,say offer
+Oxley,Isis,0.0,0.0,28.57142857142857,INF,say
+Nightingale,Oxley,2.34375,1.5625,52.34375,1.5,be expect choose say
+Oxley,Isis,0.0,0.0,40.0,INF,laugh
+Nightingale,Oxley,2.631578947368421,1.3157894736842104,43.42105263157895,2.0,head tell
+Bartholomew,Nightingale,3.4722222222222223,0.0,29.86111111111111,INF,mean say
+Bartholomew,Nightingale,3.4722222222222223,0.0,29.86111111111111,INF,mean say
+Nightingale,Oxley,5.0,1.875,53.125,2.6666666666666665,be ask have talk
+Nightingale,Oxley,1.9736842105263157,7.894736842105263,58.55263157894737,0.25,hesitate say be look
+Nightingale,Oxley,0.4464285714285714,0.0,67.41071428571429,INF,put put top
+Dr. Walid,Krishna,1.5151515151515151,0.7575757575757576,61.36363636363637,2.0,find have get be crouch dress
+Krishna,Mrs. Coopertown,2.7777777777777777,3.4722222222222223,49.30555555555556,0.8,be ruin have be
+Nightingale,Leslie,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,ask do hear
+Seawoll,Nightingale,1.1363636363636365,2.840909090909091,55.11363636363637,0.4,pair conduct work pair
+Seawoll,Leslie,1.1363636363636365,2.840909090909091,55.11363636363637,0.4,pair conduct work pair
+Nightingale,Leslie,1.1363636363636365,2.840909090909091,55.11363636363637,0.4,pair conduct work pair
+Stephanopoulos,CCTV,0.0,0.0,50.0,INF,handle collate
+James Brown,J. Sheekey,0.8333333333333334,1.6666666666666667,47.5,0.5,be have
+Oxley,Isis,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Oxley,Krishna,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Oxley,Charing Cross,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Isis,Krishna,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Isis,Charing Cross,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Krishna,Charing Cross,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,be sit enter
+Willard Jones,J. Sheekey,4.2682926829268295,0.9146341463414633,53.35365853658537,4.666666666666667,be accord have be surprise come say want hear
+Willard Jones,Michael Smith,4.2682926829268295,0.9146341463414633,53.35365853658537,4.666666666666667,be accord have be surprise come say want hear
+Willard Jones,Michael Smith,4.2682926829268295,0.9146341463414633,53.35365853658537,4.666666666666667,be accord have be surprise come say want hear
+J. Sheekey,Michael Smith,4.2682926829268295,0.9146341463414633,53.35365853658537,4.666666666666667,be accord have be surprise come say want hear
+J. Sheekey,Michael Smith,4.2682926829268295,0.9146341463414633,53.35365853658537,4.666666666666667,be accord have be surprise come say want hear
+Gurcan Temiz,Michael Smith,1.9230769230769231,1.9230769230769231,57.692307692307686,1.0,disturb constitute step remonstrate
+Gurcan Temiz,Henry MacIlvoy,1.0714285714285714,0.0,44.642857142857146,INF,be rush proceed kick
+Gurcan Temiz,William Cattrington,1.0714285714285714,0.0,44.642857142857146,INF,be rush proceed kick
+Henry MacIlvoy,William Cattrington,1.0714285714285714,0.0,44.642857142857146,INF,be rush proceed kick
+Gurcan Temiz,Henry MacIlvoy,1.0135135135135136,0.33783783783783783,50.0,3.0,go disperse go stream be
+Gurcan Temiz,William Cattrington,1.0135135135135136,0.33783783783783783,50.0,3.0,go disperse go stream be
+Henry MacIlvoy,William Cattrington,1.0135135135135136,0.33783783783783783,50.0,3.0,go disperse go stream be
+Willard Jones,Michael Smith,3.571428571428571,0.0,67.85714285714286,INF,have happen
+Nightingale,Father Thames,1.4534883720930232,0.5813953488372093,53.779069767441854,2.5,say be catch be throw take explode be be go pay
+Seawoll,Willard Jones,5.288461538461538,1.4423076923076923,62.5,3.6666666666666665,be be watch pluck have
+Leslie,J. Sheekey,3.4375000000000004,0.0,61.5625,INF,e-mail check track deliver use
+Leslie,Seawoll,2.2058823529411766,0.0,56.61764705882353,INF,figure do count call invite say be run
+Leslie,Seawoll,2.2058823529411766,0.0,56.61764705882353,INF,figure do count call invite say be run
+Leslie,Seawoll,2.2058823529411766,0.0,56.61764705882353,INF,figure do count call invite say be run
+Leslie,Seawoll,2.2058823529411766,0.0,56.61764705882353,INF,figure do count call invite say be run
+Molly,Nightingale,1.25,0.0,68.75,INF,have ask ask meet
+Molly,Nightingale,4.838709677419355,2.4193548387096775,63.70967741935484,2.0,catch turn find shine reflect fix
+J. Sheekey,Michael Smith,1.5625,2.734375,64.453125,0.5714285714285714,be blame have shoot kill
+Beverley,Father Thames,4.285714285714286,2.857142857142857,50.0,1.5,call say have tell have do do
+Beverley,Father Thames,4.285714285714286,2.857142857142857,50.0,1.5,call say have tell have do do
+Beverley,Father Thames,4.285714285714286,2.857142857142857,50.0,1.5,call say have tell have do do
+Beverley,Father Thames,4.285714285714286,2.857142857142857,50.0,1.5,call say have tell have do do
+Charing Cross,Leslie,2.380952380952381,1.1904761904761905,55.952380952380956,2.0,be be call ask want try
+Charing Cross,Leslie,2.380952380952381,1.1904761904761905,55.952380952380956,2.0,be be call ask want try
+Judy,John,2.11864406779661,1.059322033898305,44.27966101694915,2.0,explain have be show perform tell
+Judy,Piccini,2.11864406779661,1.059322033898305,44.27966101694915,2.0,explain have be show perform tell
+Judy,John,2.11864406779661,1.059322033898305,44.27966101694915,2.0,explain have be show perform tell
+Judy,Piccini,2.11864406779661,1.059322033898305,44.27966101694915,2.0,explain have be show perform tell
+John,Piccini,2.11864406779661,1.059322033898305,44.27966101694915,2.0,explain have be show perform tell
+Toby,Judy,1.9736842105263157,0.0,55.92105263157895,INF,go throw beat
+Toby,Judy,1.9736842105263157,0.0,55.92105263157895,INF,go throw beat
+Toby,Judy,1.9736842105263157,0.0,55.92105263157895,INF,go throw beat
+Judy,John,0.0,2.083333333333333,39.58333333333333,0.0,tell
+Judy,Piccini,0.0,2.083333333333333,39.58333333333333,0.0,tell
+John,Piccini,0.0,2.083333333333333,39.58333333333333,0.0,tell
+Piccini,Mr. Punch,1.893939393939394,4.924242424242424,59.84848484848485,0.38461538461538464,accord be be be throw
+Piccini,Mr. Punch,1.893939393939394,4.924242424242424,59.84848484848485,0.38461538461538464,accord be be be throw
+Nightingale,Molly,1.2195121951219512,7.01219512195122,47.86585365853659,0.17391304347826086,be hang imagine say be be watch slip
+Nightingale,Mr. Punch,1.2195121951219512,7.01219512195122,47.86585365853659,0.17391304347826086,be hang imagine say be be watch slip
+Nightingale,Mr. Punch,1.2195121951219512,7.01219512195122,47.86585365853659,0.17391304347826086,be hang imagine say be be watch slip
+Molly,Mr. Punch,1.2195121951219512,7.01219512195122,47.86585365853659,0.17391304347826086,be hang imagine say be be watch slip
+Molly,Mr. Punch,1.2195121951219512,7.01219512195122,47.86585365853659,0.17391304347826086,be hang imagine say be be watch slip
+Toby,Mr. Punch,3.8461538461538463,0.9615384615384616,64.42307692307693,4.0,bang snuffle
+Nicholas,Nightingale,0.0,0.8333333333333334,39.166666666666664,0.0,see talk say
+Toby,Dr. Framline,3.5000000000000004,1.5,63.0,2.3333333333333335,do pause have attack pee
+Polidori,Piazza,1.744186046511628,3.77906976744186,52.616279069767444,0.46153846153846156,insist be detach decease cling theorize feed be replenish fade
+Toby,Molly,1.0416666666666665,0.0,61.458333333333336,INF,run find curl
+Toby,Molly,1.0416666666666665,0.0,61.458333333333336,INF,run find curl
+Peter,Nightingale,0.9615384615384616,0.0,45.19230769230769,INF,have release say
+Molly,Nightingale,2.4456521739130435,2.1739130434782608,56.25,1.125,stop take have be do have lay get
+Bartholomew,Nightingale,3.4722222222222223,1.0416666666666665,45.48611111111111,3.3333333333333335,accord become feed bring say
+Bartholomew,Nightingale,2.380952380952381,0.5952380952380952,61.30952380952381,4.0,spend go persuade be catch
+Nicholas,Nightingale,2.9166666666666665,0.4166666666666667,56.666666666666664,7.0,have be show be go be station
+Nightingale,Nicholas,2.9166666666666665,0.4166666666666667,56.666666666666664,7.0,have be show be go be station
+Henry Pyke,Nicholas,2.5,0.0,44.166666666666664,INF,say be buy say
+Henry Pyke,Nightingale,0.0,6.25,33.75,0.0,hear say
+Peter,Nightingale,1.1363636363636365,0.0,44.31818181818182,INF,put say
+Peter,Nightingale,1.7857142857142856,0.0,41.07142857142857,INF,have get say
+Nicholas,Henry Pyke,8.152173913043478,0.0,52.71739130434783,INF,have hint be bury check
+Nicholas,Judy,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,have be
+Piccini,Nicholas,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,be publish say be guess
+Piccini,Henry Pyke,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,be publish say be guess
+Nicholas,Henry Pyke,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,be publish say be guess
+Oxley,Isis,0.0,0.0,53.84615384615385,INF,know
+Oxley,John,0.0,0.0,53.84615384615385,INF,know
+Oxley,Henry Pyke,0.0,0.0,53.84615384615385,INF,know
+Isis,John,0.0,0.0,53.84615384615385,INF,know
+Isis,Henry Pyke,0.0,0.0,53.84615384615385,INF,know
+John,Henry Pyke,0.0,0.0,53.84615384615385,INF,know
+Beverley,Father Thames,3.353658536585366,2.1341463414634148,60.36585365853659,1.5714285714285714,be be go tell be deal get say
+Beverley,Father Thames,3.353658536585366,2.1341463414634148,60.36585365853659,1.5714285714285714,be be go tell be deal get say
+Mother Thames,Oxley,1.9230769230769231,1.4423076923076923,62.019230769230774,1.3333333333333333,be mark be know
+Beverley,Staines,3.7162162162162162,4.391891891891892,48.64864864864865,0.8461538461538461,have tell be go twig be swing head
+Beverley,Staines,3.7162162162162162,4.391891891891892,48.64864864864865,0.8461538461538461,have tell be go twig be swing head
+Beverley,Oxley,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,cross assure be reach
+Nightingale,Isis,3.6290322580645165,3.225806451612903,57.66129032258065,1.125,have say eat have be see approve fraternize
+Nightingale,Battenberg,3.6290322580645165,3.225806451612903,57.66129032258065,1.125,have say eat have be see approve fraternize
+Isis,Battenberg,3.6290322580645165,3.225806451612903,57.66129032258065,1.125,have say eat have be see approve fraternize
+Peter,Isis,0.0,0.0,28.57142857142857,INF,say
+Isis,Beverley,5.357142857142857,3.571428571428571,38.69047619047619,1.5,spot do lose come
+Isis,Beverley,5.357142857142857,3.571428571428571,38.69047619047619,1.5,spot do lose come
+Isis,Beverley,5.357142857142857,3.571428571428571,38.69047619047619,1.5,spot do lose come
+Isis,Beverley,5.357142857142857,3.571428571428571,38.69047619047619,1.5,spot do lose come
+Beverley,Isis,3.571428571428571,1.7857142857142856,23.214285714285715,2.0,be
+Beverley,Isis,8.75,0.0,51.24999999999999,INF,extend shake
+Oxley,Isis,0.5681818181818182,0.0,58.52272727272727,INF,be grin be make behave
+Oxley,Beverley,0.0,0.0,66.66666666666666,INF,look walk
+Oxley,Beverley,0.0,0.0,62.5,INF,shift feel take
+Oxley,Beverley,0.0,0.0,62.5,INF,shift feel take
+Oxley,Isis,4.891304347826087,4.891304347826087,55.434782608695656,1.0,have cover like
+Oxley,Isis,4.891304347826087,4.891304347826087,55.434782608695656,1.0,have cover like
+Isis,Beverley,0.9375,2.1875,64.375,0.42857142857142855,offer mutter collect discard fold drape dry
+Isis,Beverley,0.9375,2.1875,64.375,0.42857142857142855,offer mutter collect discard fold drape dry
+Oxley,Beverley,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,have be
+Isis,Henry Pyke,0.0,0.0,50.0,INF,ask remember
+Isis,Henry Pyke,0.0,0.0,50.0,INF,ask remember
+Peter,Molly,0.0,6.25,43.75,0.0,be murder say
+Oxley,Isis,1.0,2.0,53.0,0.5,pad sit ignore grab
+Peter,Isis,1.4705882352941175,0.0,45.588235294117645,INF,be believe say
+Beverley,Isis,0.0,4.464285714285714,52.67857142857143,0.0,say give panic
+Isis,Oxley,10.0,0.0,50.0,INF,slap
+Oxley,Isis,1.5625,0.0,54.6875,INF,sigh go watch go
+Isis,Oxley,1.5625,0.0,54.6875,INF,sigh go watch go
+Isis,Oxley,1.5625,0.0,54.6875,INF,sigh go watch go
+Oxley,Beverley,4.807692307692308,6.730769230769231,50.0,0.7142857142857143,be have make
+Beverley,Lea,4.166666666666666,0.7352941176470588,44.11764705882353,5.666666666666667,be find have get lose
+Beverley,Tyburn,4.166666666666666,0.7352941176470588,44.11764705882353,5.666666666666667,be find have get lose
+Lea,Tyburn,4.166666666666666,0.7352941176470588,44.11764705882353,5.666666666666667,be find have get lose
+Oxley,Isis,0.0,6.25,23.75,0.0,be
+Tyburn,Lea,3.787878787878788,0.0,44.696969696969695,INF,stroke trickle thicken fill
+Tyburn,Lea,3.787878787878788,0.0,44.696969696969695,INF,stroke trickle thicken fill
+Peter,Lea,0.0,0.0,28.57142857142857,INF,say
+Beverley,Oxley,3.4090909090909087,1.1363636363636365,43.93939393939394,3.0,be live get
+Beverley,Mother Thames,3.4090909090909087,1.1363636363636365,43.93939393939394,3.0,be live get
+Oxley,Mother Thames,3.4090909090909087,1.1363636363636365,43.93939393939394,3.0,be live get
+Bartholomew,Polidori,0.0,1.1363636363636365,39.77272727272727,0.0,suggest draw
+Leslie,Nightingale,0.0,1.1904761904761905,51.19047619047619,0.0,do fuck happen say
+Henry Pyke,Charles Macklin,4.0,4.0,64.0,1.0,remember fail have be murder
+Henry Pyke,Leslie,3.90625,7.8125,25.78125,0.5,have be arrest say
+Henry Pyke,Leslie,3.90625,7.8125,25.78125,0.5,have be arrest say
+Charles Macklin,Nightingale,1.7857142857142856,0.0,55.35714285714286,INF,live say
+Charles Macklin,Henry Pyke,0.0,5.88235294117647,52.94117647058824,0.0,know commit hear
+Nightingale,Dr. Walid,0.8333333333333334,0.0,72.5,INF,look get
+Nightingale,Piccini,3.8461538461538463,6.730769230769231,58.65384615384615,0.5714285714285714,have be carry
+Henry Pyke,Nightingale,0.0,0.0,54.54545454545454,INF,track say
+Leslie,Nightingale,1.9736842105263157,0.0,50.6578947368421,INF,be come say
+Oxley,Beverley,3.3333333333333335,1.6666666666666667,35.0,2.0,tell
+Peter,Oxley,0.0,0.0,42.857142857142854,INF,say
+Mother Thames,Ty,1.25,0.0,43.75,INF,have pick
+Nightingale,Peter,3.618421052631579,1.9736842105263157,52.30263157894737,1.8333333333333333,finish say be offer be kill know
+Peter,Oxley,6.8181818181818175,7.954545454545454,39.77272727272727,0.8571428571428571,be say
+Molly,Nightingale,0.0,0.0,50.0,INF,do say
+Henry Fielding,Royal Opera House,2.142857142857143,0.7142857142857143,60.0,3.0,be be be supplement act
+Henry Fielding,Charles Macklin,2.142857142857143,0.7142857142857143,60.0,3.0,be be be supplement act
+Henry Fielding,Charles Macklin,2.142857142857143,0.7142857142857143,60.0,3.0,be be be supplement act
+Royal Opera House,Charles Macklin,2.142857142857143,0.7142857142857143,60.0,3.0,be be be supplement act
+Royal Opera House,Charles Macklin,2.142857142857143,0.7142857142857143,60.0,3.0,be be be supplement act
+Henry Fielding,John,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Charles Macklin,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Henry Pyke,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,John,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Charles Macklin,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Henry Pyke,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,John,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Charles Macklin,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Henry Fielding,Henry Pyke,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+John,Charles Macklin,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+John,Henry Pyke,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+Charles Macklin,Henry Pyke,1.8229166666666667,1.8229166666666667,58.854166666666664,1.0,die be take strengthen stop beat
+William Skirmish,Jack Ketch,1.25,1.7500000000000002,53.0,0.7142857142857143,be send be start be remand
+Royal Opera House,Nightingale,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,be find round know get
+Terry,Nightingale,1.6203703703703702,1.3888888888888888,67.36111111111111,1.1666666666666667,be say weigh be be use be store do say have be
+Peter,Nightingale,2.403846153846154,0.2403846153846154,56.97115384615385,10.0,be say remember study know read have write be remember
+Peter,Bartholomew,2.403846153846154,0.2403846153846154,56.97115384615385,10.0,be say remember study know read have write be remember
+Nightingale,Bartholomew,2.403846153846154,0.2403846153846154,56.97115384615385,10.0,be say remember study know read have write be remember
+John,Nightingale,2.389705882352941,4.779411764705882,61.94852941176471,0.5,have wear hide have call be be manage consider be
+John,Nightingale,2.389705882352941,4.779411764705882,61.94852941176471,0.5,have wear hide have call be be manage consider be
+Henry Pyke,Nightingale,4.545454545454546,0.0,31.818181818181817,INF,say
+Henry Pyke,Punchinella,0.0,0.0,47.05882352941176,INF,go
+Henry Pyke,Nightingale,0.0,0.0,46.15384615384615,INF,let go arrest say
+Nightingale,Seawoll,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Nightingale,Stephanopoulos,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Nightingale,Leslie,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Seawoll,Stephanopoulos,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Seawoll,Leslie,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Stephanopoulos,Leslie,1.25,1.5625,47.1875,0.8,work take be do be identify contain track arrest
+Henry Pyke,Nightingale,0.0,0.3676470588235294,55.51470588235294,0.0,be identify do do
+Nightingale,Henry Pyke,0.0,0.3676470588235294,55.51470588235294,0.0,be identify do do
+Nightingale,Henry Pyke,0.0,0.3676470588235294,55.51470588235294,0.0,be identify do do
+Nightingale,Henry Pyke,0.0,0.3676470588235294,55.51470588235294,0.0,be identify do do
+Seawoll,Dr. Walid,1.9230769230769231,7.051282051282051,60.256410256410255,0.2727272727272727,provide go stand help have have fall
+Nightingale,Henry Pyke,1.1029411764705883,0.3676470588235294,72.05882352941177,3.0,have handle turn be bury
+Seawoll,Henry Pyke,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,be be put
+Nightingale,Royal Opera House,0.0,0.0,65.51724137931035,INF,be suppose be emerge step
+Henry Pyke,Charles Macklin,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,give be beat figure be start
+Henry Pyke,Nightingale,1.9736842105263157,4.605263157894736,59.210526315789465,0.42857142857142855,do think back be be hesitate shoot be talk
+Seawoll,Stephanopoulos,3.6764705882352944,2.5735294117647056,61.39705882352941,1.4285714285714286,choose catch make keep enter sit
+Seawoll,Stephanopoulos,1.8292682926829267,0.6097560975609756,53.65853658536586,3.0,go judge have make be watch
+Seawoll,ACPO,1.8292682926829267,0.6097560975609756,53.65853658536586,3.0,go judge have make be watch
+Stephanopoulos,ACPO,1.8292682926829267,0.6097560975609756,53.65853658536586,3.0,go judge have make be watch
+Seawoll,Stephanopoulos,0.0,2.2058823529411766,62.5,0.0,be turn identify be remind be help
+Seawoll,Nightingale,3.7037037037037033,0.4629629629629629,47.68518518518518,8.0,ask outline have be run be shoot
+Seawoll,Stephanopoulos,3.7037037037037033,0.4629629629629629,47.68518518518518,8.0,ask outline have be run be shoot
+Nightingale,Stephanopoulos,3.7037037037037033,0.4629629629629629,47.68518518518518,8.0,ask outline have be run be shoot
+Seawoll,Henry Pyke,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Seawoll,Judy,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Seawoll,Nightingale,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Seawoll,Henry Pyke,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Henry Pyke,Judy,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Henry Pyke,Nightingale,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Judy,Nightingale,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Judy,Henry Pyke,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Nightingale,Henry Pyke,0.5357142857142857,0.5357142857142857,58.92857142857143,1.0,nod give be be act use have devise put track destroy
+Stephanopoulos,Seawoll,2.5,2.5,40.0,1.0,suppress talk be
+Henry Pyke,Christopher Pinkman,1.25,5.0,33.75,0.25,be say deny shoot
+Henry Pyke,Seawoll,1.25,5.0,33.75,0.25,be say deny shoot
+Henry Pyke,Christopher Pinkman,1.25,5.0,33.75,0.25,be say deny shoot
+Henry Pyke,Christopher Pinkman,1.25,5.0,33.75,0.25,be say deny shoot
+Christopher Pinkman,Seawoll,1.25,5.0,33.75,0.25,be say deny shoot
+Seawoll,Christopher Pinkman,1.25,5.0,33.75,0.25,be say deny shoot
+Seawoll,Christopher Pinkman,1.25,5.0,33.75,0.25,be say deny shoot
+Christopher Pinkman,Seawoll,0.9615384615384616,0.0,52.88461538461539,INF,claim be say
+Christopher Pinkman,Stephanopoulos,1.9736842105263157,4.605263157894736,35.526315789473685,0.42857142857142855,say
+Christopher Pinkman,Stephanopoulos,4.166666666666666,0.0,54.166666666666664,INF,teach say
+Seawoll,Stephanopoulos,0.4464285714285714,0.4464285714285714,63.39285714285714,1.0,look give wake look
+Stephanopoulos,Nokia,2.302631578947368,0.9868421052631579,38.81578947368421,2.3333333333333335,do believe say lean mask be pop
+Stephanopoulos,Nokia,2.302631578947368,0.9868421052631579,38.81578947368421,2.3333333333333335,do believe say lean mask be pop
+Stephanopoulos,Nokia,2.302631578947368,0.9868421052631579,38.81578947368421,2.3333333333333335,do believe say lean mask be pop
+Stephanopoulos,Nokia,2.302631578947368,0.9868421052631579,38.81578947368421,2.3333333333333335,do believe say lean mask be pop
+Seawoll,Stephanopoulos,3.205128205128205,2.564102564102564,60.89743589743589,1.25,be break see stuff
+Seawoll,Stephanopoulos,3.205128205128205,2.564102564102564,60.89743589743589,1.25,be break see stuff
+Leslie,Seawoll,6.25,2.083333333333333,25.0,3.0,worry say
+Seawoll,Leslie,1.6666666666666667,0.0,48.333333333333336,INF,mean have step make try get have go
+Seawoll,Leslie,1.6666666666666667,0.0,48.333333333333336,INF,mean have step make try get have go
+Stephanopoulos,Nightingale,0.0,1.7857142857142856,41.07142857142857,0.0,grunt tap
+Seawoll,Alex,3.4722222222222223,0.0,40.97222222222222,INF,say please
+Folsom,Royal Opera House,5.357142857142857,4.761904761904762,51.78571428571429,1.125,be worry say
+Folsom,Seawoll,5.357142857142857,4.761904761904762,51.78571428571429,1.125,be worry say
+Royal Opera House,Seawoll,5.357142857142857,4.761904761904762,51.78571428571429,1.125,be worry say
+Seawoll,Folsom,0.4629629629629629,0.0,51.388888888888886,INF,end sell be fall
+St. Martin,Drury Lane,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,walk
+Frank,Nightingale,2.5,0.8333333333333334,56.666666666666664,3.0,recognize be
+Frank,Nightingale,3.125,3.571428571428571,57.58928571428571,0.875,suspect be be be
+Molly,Nightingale,1.0416666666666665,2.083333333333333,51.041666666666664,0.5,assume be be prop
+Tyburn,Molly,2.272727272727273,3.4090909090909087,57.95454545454546,0.6666666666666666,keep gaze
+Peter,Tyburn,0.0,0.0,40.0,INF,grow say
+Molly,Toby,0.5681818181818182,0.0,67.61363636363636,INF,be watch hold
+Toby,Molly,0.5681818181818182,0.0,67.61363636363636,INF,be watch hold
+Dr. Walid,Nightingale,3.9473684210526314,0.0,64.47368421052632,INF,wake find
+Henry Pyke,Christopher Pinkman,0.9615384615384616,1.6025641025641024,58.97435897435898,0.6,mean be have maneuver
+Henry Pyke,Royal Opera House,0.9615384615384616,1.6025641025641024,58.97435897435898,0.6,mean be have maneuver
+Christopher Pinkman,Royal Opera House,0.9615384615384616,1.6025641025641024,58.97435897435898,0.6,mean be have maneuver
+Stephanopoulos,Seawoll,2.5735294117647056,1.8382352941176472,42.64705882352941,1.4,give be talk see discuss have follow
+Stephanopoulos,Leslie,2.5735294117647056,1.8382352941176472,42.64705882352941,1.4,give be talk see discuss have follow
+Seawoll,Leslie,2.5735294117647056,1.8382352941176472,42.64705882352941,1.4,give be talk see discuss have follow
+OCU,HOLMES,0.9146341463414633,0.6097560975609756,59.45121951219512,1.5,be be have specialize install authorize
+Nightingale,OCU,3.1818181818181817,1.5909090909090908,51.590909090909086,2.0,mean mean install be provide
+William Skirmish,Mrs. Coopertown,2.4456521739130435,4.3478260869565215,58.42391304347826,0.5625,be prove be throw have have be have be
+William Skirmish,Mrs. Coopertown,2.4456521739130435,4.3478260869565215,58.42391304347826,0.5625,be prove be throw have have be have be
+Mrs. Coopertown,William Skirmish,2.4456521739130435,4.3478260869565215,58.42391304347826,0.5625,be prove be throw have have be have be
+Mrs. Coopertown,William Skirmish,2.4456521739130435,4.3478260869565215,58.42391304347826,0.5625,be prove be throw have have be have be
+Leslie,CCTV,3.5256410256410255,4.166666666666666,61.53846153846154,0.8461538461538461,have tell have take accord have be force
+Leslie,Charing Cross,3.5256410256410255,4.166666666666666,61.53846153846154,0.8461538461538461,have tell have take accord have be force
+CCTV,Charing Cross,3.5256410256410255,4.166666666666666,61.53846153846154,0.8461538461538461,have tell have take accord have be force
+HOLMES,Bailey,2.027027027027027,1.3513513513513513,58.78378378378378,1.5,go rummage have upload
+Honda,Mrs. Coopertown,1.0,2.5,40.5,0.4,be kill
+Honda,Brandon Coopertown,1.0,2.5,40.5,0.4,be kill
+Honda,Dr. Framline,1.0,2.5,40.5,0.4,be kill
+Mrs. Coopertown,Brandon Coopertown,1.0,2.5,40.5,0.4,be kill
+Mrs. Coopertown,Dr. Framline,1.0,2.5,40.5,0.4,be kill
+Brandon Coopertown,Dr. Framline,1.0,2.5,40.5,0.4,be kill
+Honda,Royal Opera House,0.8620689655172413,3.0172413793103448,47.8448275862069,0.2857142857142857,be plan arrive pick miss
+Royal Opera House,Honda,0.8620689655172413,3.0172413793103448,47.8448275862069,0.2857142857142857,be plan arrive pick miss
+Leslie,Henry Pyke,0.0,1.1904761904761905,51.19047619047619,0.0,be sequestrate
+Leslie,Henry Pyke,0.0,1.1904761904761905,51.19047619047619,0.0,be sequestrate
+Leslie,William Skirmish,2.430555555555556,2.083333333333333,45.48611111111111,1.1666666666666667,wonder have be have knock meet
+Leslie,William Skirmish,2.430555555555556,2.083333333333333,45.48611111111111,1.1666666666666667,wonder have be have knock meet
+Leslie,Nicholas,2.430555555555556,2.083333333333333,45.48611111111111,1.1666666666666667,wonder have be have knock meet
+William Skirmish,Nicholas,2.430555555555556,2.083333333333333,45.48611111111111,1.1666666666666667,wonder have be have knock meet
+William Skirmish,Nicholas,2.430555555555556,2.083333333333333,45.48611111111111,1.1666666666666667,wonder have be have knock meet
+Leslie,Henry Pyke,4.166666666666666,1.0416666666666665,65.625,4.0,have be sequestrate be sit have be sit
+Henry Pyke,Leslie,4.166666666666666,1.0416666666666665,65.625,4.0,have be sequestrate be sit have be sit
+Henry Pyke,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Henry Pyke,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Henry Pyke,Punchinella,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Henry Pyke,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Henry Pyke,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Leslie,Punchinella,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Leslie,Punchinella,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Punchinella,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Punchinella,Leslie,0.78125,2.734375,40.234375,0.2857142857142857,have activate make be have disguise ruin
+Henry Pyke,Leslie,4.941860465116279,2.616279069767442,50.58139534883721,1.8888888888888888,do know get get make fall think know stop
+Henry Pyke,Leslie,4.941860465116279,2.616279069767442,50.58139534883721,1.8888888888888888,do know get get make fall think know stop
+Henry Pyke,Leslie,4.941860465116279,2.616279069767442,50.58139534883721,1.8888888888888888,do know get get make fall think know stop
+Leslie,Seawoll,2.941176470588235,3.6764705882352944,28.676470588235293,0.8,be
+Piazza,Royal Opera House,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,be go do
+Leslie,Henry Pyke,4.166666666666666,2.604166666666667,43.22916666666667,1.6,leave sequestrate be go make fall
+Henry Pyke,Leslie,4.166666666666666,2.604166666666667,43.22916666666667,1.6,leave sequestrate be go make fall
+Henry Pyke,Leslie,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,shut be bet do stay intend
+Henry Pyke,Leslie,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,shut be bet do stay intend
+Nightingale,Henry Pyke,1.3157894736842104,0.3289473684210526,48.35526315789473,4.0,wake get die be do go
+Leslie,Seawoll,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Leslie,Royal Opera House,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Leslie,Seawoll,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Leslie,Royal Opera House,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Seawoll,Leslie,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Seawoll,Royal Opera House,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Leslie,Royal Opera House,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,be monitor warn go await let know see head
+Leslie,Stephanopoulos,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,tell be head convince look produce
+Beverley,Henry Pyke,8.984375,2.734375,53.90625,3.2857142857142856,be guess have be draw make
+Beverley,Royal Opera House,0.0,1.0416666666666665,57.291666666666664,0.0,pull
+Leslie,Seawoll,4.166666666666666,2.9166666666666665,59.583333333333336,1.4285714285714286,be be watch give nod be get
+Leslie,Seawoll,4.166666666666666,2.9166666666666665,59.583333333333336,1.4285714285714286,be be watch give nod be get
+Leslie,Henry Pyke,3.308823529411765,0.7352941176470588,48.89705882352941,4.5,be do have expect push
+Leslie,Henry Pyke,3.308823529411765,0.7352941176470588,48.89705882352941,4.5,be do have expect push
+Henry Pyke,Seawoll,6.875000000000001,3.125,40.0,2.2,influence be
+Mr. Punch,Piccini,1.715686274509804,0.24509803921568626,58.82352941176471,7.0,recognize sing be be be
+Mr. Punch,Henry Pyke,1.293103448275862,2.1551724137931036,48.275862068965516,0.6,present
+Mr. Punch,Leslie,1.5625,0.0,35.9375,INF,say
+Leslie,Henry Pyke,0.0,0.390625,62.109375,0.0,see be do judge be act watch be assemble
+Leslie,Henry Pyke,0.0,0.390625,62.109375,0.0,see be do judge be act watch be assemble
+Leslie,Piccini,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Leslie,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Leslie,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Leslie,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Piccini,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Piccini,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Piccini,Henry Pyke,0.25510204081632654,0.7653061224489796,58.16326530612245,0.3333333333333333,do seem be follow be regale burgeon
+Nightingale,Leslie,2.7777777777777777,1.1904761904761905,62.698412698412696,2.3333333333333335,have start do know take hold bet be be decide be have fall shrivel
+Nightingale,Leslie,2.7777777777777777,1.1904761904761905,62.698412698412696,2.3333333333333335,have start do know take hold bet be be decide be have fall shrivel
+Nightingale,Leslie,2.7777777777777777,1.1904761904761905,62.698412698412696,2.3333333333333335,have start do know take hold bet be be decide be have fall shrivel
+Dr. Walid,Leslie,2.5,1.7857142857142856,61.42857142857143,1.4,have say be go need wrap be go keep get
+Dr. Walid,Leslie,2.5,1.7857142857142856,61.42857142857143,1.4,have say be go need wrap be go keep get
+Leslie,Henry Pyke,0.3205128205128205,1.9230769230769231,54.166666666666664,0.16666666666666666,get bear think be give
+Leslie,Henry Pyke,0.3205128205128205,1.9230769230769231,54.166666666666664,0.16666666666666666,get bear think be give
+Leslie,Henry Pyke,0.3205128205128205,1.9230769230769231,54.166666666666664,0.16666666666666666,get bear think be give
+Leslie,Henry Pyke,0.3205128205128205,1.9230769230769231,54.166666666666664,0.16666666666666666,get bear think be give
+Henry Pyke,Charles Macklin,3.7162162162162162,4.054054054054054,51.689189189189186,0.9166666666666666,blame claim have turn challenge have strike
+Charles Macklin,Henry Pyke,3.7162162162162162,4.054054054054054,51.689189189189186,0.9166666666666666,blame claim have turn challenge have strike
+Charles Macklin,Henry Pyke,3.7162162162162162,4.054054054054054,51.689189189189186,0.9166666666666666,blame claim have turn challenge have strike
+Charles Macklin,Henry Pyke,3.7162162162162162,4.054054054054054,51.689189189189186,0.9166666666666666,blame claim have turn challenge have strike
+Charles Macklin,Henry Pyke,3.7162162162162162,4.054054054054054,51.689189189189186,0.9166666666666666,blame claim have turn challenge have strike
+Charles Macklin,Leslie,2.5,0.0,17.5,INF,call
+Jack Ketch,Charles Perry,0.7653061224489796,2.0408163265306123,62.5,0.375,remember fame be publish blame fail stay swing
+Jack Ketch,Judy,3.571428571428571,0.0,42.857142857142854,INF,explain show be get use
+Jack Ketch,Leslie,3.571428571428571,0.0,42.857142857142854,INF,explain show be get use
+Judy,Leslie,3.571428571428571,0.0,42.857142857142854,INF,explain show be get use
+Leslie,Seawoll,4.861111111111112,7.638888888888889,43.05555555555556,0.6363636363636364,have be calibrate be
+Leslie,Seawoll,0.9615384615384616,0.9615384615384616,63.46153846153846,1.0,sit slump kick
+Henry Pyke,Leslie,3.0555555555555554,0.2777777777777778,67.77777777777779,11.0,do do be know be use have be read
+Henry Pyke,Royal Opera House,2.631578947368421,0.0,55.26315789473685,INF,be feel let loose
+Peter,Henry Pyke,0.0,0.0,37.5,INF,say
+Henry Pyke,Mr. Punch,1.0,0.5,58.5,2.0,be be cobble
+Henry Pyke,Leslie,0.0,2.604166666666667,55.729166666666664,0.0,be be
+Henry Pyke,Leslie,0.0,2.604166666666667,55.729166666666664,0.0,be be
+Peter,Neblett,3.8461538461538463,7.6923076923076925,42.30769230769231,0.5,be say
+Russell Street,Neblett,0.0,0.0,35.714285714285715,INF,be stage say
+Leslie,Dr. Walid,1.25,0.0,38.75,INF,have get subdue get
+Leslie,Dr. Walid,1.25,0.0,38.75,INF,have get subdue get
+Leslie,Dr. Walid,1.25,0.0,38.75,INF,have get subdue get
+Leslie,Charles Macklin,1.1363636363636365,1.893939393939394,60.60606060606061,0.6,decide assume be look have have be bury
+Neblett,Folsom,4.545454545454546,0.0,59.09090909090909,INF,pause wish give run
+Royal Opera House,Piazza,0.0,0.625,59.375,0.0,emerge
+Beverley,Royal Opera House,0.0,0.0,54.54545454545454,INF,try drag
+Beverley,Piazza,0.872093023255814,2.3255813953488373,59.59302325581395,0.375,tell look walk have start roll
+Beverley,James Street,1.7045454545454544,1.1363636363636365,56.25,1.5,get agitate see drag
+Beverley,James Street,1.7045454545454544,1.1363636363636365,56.25,1.5,get agitate see drag
+Peter,Beverley,0.0,0.0,28.57142857142857,INF,say
+Henry Pyke,Charles Macklin,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Henry Pyke,Mrs. Coopertown,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Henry Pyke,Charles Macklin,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Henry Pyke,Mrs. Coopertown,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Charles Macklin,Henry Pyke,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Charles Macklin,Henry Pyke,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Charles Macklin,Mrs. Coopertown,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Charles Macklin,Henry Pyke,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Henry Pyke,Mrs. Coopertown,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Henry Pyke,Mrs. Coopertown,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Mrs. Coopertown,Henry Pyke,2.5,6.458333333333334,52.708333333333336,0.3870967741935484,have die burn act do seem make want force beat
+Mr. Punch,Henry Pyke,0.7352941176470588,0.0,46.32352941176471,INF,be be fuck
+Mr. Punch,Henry Pyke,0.7352941176470588,0.0,46.32352941176471,INF,be be fuck
+Henry Pyke,Mrs. Coopertown,0.8333333333333334,1.6666666666666667,40.833333333333336,0.5,be be
+Henry Pyke,Mr. Punch,0.8333333333333334,1.6666666666666667,40.833333333333336,0.5,be be
+Mrs. Coopertown,Mr. Punch,0.8333333333333334,1.6666666666666667,40.833333333333336,0.5,be be
+Beverley,Isis,3.2407407407407405,2.7777777777777777,60.64814814814815,1.1666666666666667,want go swim have mean have warn do
+Beverley,Isis,3.2407407407407405,2.7777777777777777,60.64814814814815,1.1666666666666667,want go swim have mean have warn do
+Peter,Dr. Walid,0.0,0.0,42.857142857142854,INF,say
+Nightingale,Dr. Walid,0.0,0.0,62.5,INF,grimace shift
+Nightingale,Dr. Walid,3.571428571428571,1.3392857142857142,48.660714285714285,2.6666666666666665,have enlist have have have be bear be lie
+Nightingale,Dr. Walid,3.571428571428571,1.3392857142857142,48.660714285714285,2.6666666666666665,have enlist have have have be bear be lie
+Dr. Walid,Leslie,3.7037037037037033,3.2407407407407405,48.61111111111111,1.1428571428571428,do want tell be lock
+Dr. Walid,Leslie,3.7037037037037033,3.2407407407407405,48.61111111111111,1.1428571428571428,do want tell be lock
+Dr. Walid,Molly,2.5,0.0,47.5,INF,ask help track shake
+Dr. Walid,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Dr. Walid,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Dr. Walid,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Molly,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Molly,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Molly,Henry Pyke,2.5,0.0,47.5,INF,ask help track shake
+Tyburn,Nightingale,0.0,0.0,33.33333333333333,INF,say
+Brian,Mama Thames,5.603448275862069,0.0,53.01724137931034,INF,have hire do get
+Brian,Mama Thames,5.603448275862069,0.0,53.01724137931034,INF,have hire do get
+Brian,Mama Thames,5.603448275862069,0.0,53.01724137931034,INF,have hire do get
+Lea,Mother Thames,1.2096774193548387,0.0,56.85483870967742,INF,rise skirt make
+Lea,Mother Thames,1.2096774193548387,0.0,56.85483870967742,INF,rise skirt make
+Lea,Oxley,7.8125,3.90625,38.28125,2.0,be
+Brent,Lea,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be say
+Brent,Lea,4.166666666666666,0.0,54.166666666666664,INF,squirm grab
+Brent,Mama Thames,10.15625,4.6875,60.15625,2.1666666666666665,let pull
+Brent,Mama Thames,5.681818181818182,3.787878787878788,51.13636363636363,1.5,let go essay spoil skip hurl
+Peter,Mama Thames,9.722222222222223,0.0,45.83333333333333,INF,say
+Mama Thames,Lea,12.5,7.954545454545454,43.18181818181818,1.5714285714285714,ask take
+Mama Thames,Tyburn,9.821428571428571,1.7857142857142856,52.67857142857143,5.5,turn step
+Peter,Mama Thames,5.833333333333333,0.0,47.5,INF,say beckon
+Molly,Nightingale,3.75,0.0,51.24999999999999,INF,tell be lie say ask be
+Molly,Toby,3.75,0.0,51.24999999999999,INF,tell be lie say ask be
+Molly,Nightingale,3.75,0.0,51.24999999999999,INF,tell be lie say ask be
+Nightingale,Toby,3.75,0.0,51.24999999999999,INF,tell be lie say ask be
+Toby,Nightingale,3.75,0.0,51.24999999999999,INF,tell be lie say ask be
+William Skirmish,Jesus Christ,0.5434782608695652,0.8152173913043478,52.9891304347826,0.6666666666666666,resign head found take
+Jesus Christ,Salvation Army,1.3513513513513513,1.0135135135135136,67.9054054054054,1.3333333333333333,declare be tire be call be be bear
+Skeleton Army,Salvation Army,0.8333333333333334,4.722222222222222,65.55555555555556,0.17647058823529413,drive growl be work be be preach break disrupt attack
+Nicholas,Skeleton Army,0.0,0.0,53.84615384615385,INF,spot be be recover
+Molly,Nightingale,1.6891891891891893,0.6756756756756757,67.9054054054054,2.5,be be see think catch make
+Molly,Nightingale,1.6891891891891893,0.6756756756756757,67.9054054054054,2.5,be be see think catch make
+Nicholas,Henry Pyke,1.1904761904761905,1.7857142857142856,56.547619047619044,0.6666666666666666,be go be go lead want reveal rest
+Nicholas,Henry Pyke,1.1904761904761905,1.7857142857142856,56.547619047619044,0.6666666666666666,be go be go lead want reveal rest
+Nicholas,Henry Pyke,1.1904761904761905,1.7857142857142856,56.547619047619044,0.6666666666666666,be go be go lead want reveal rest
+Nicholas,Henry Pyke,1.1904761904761905,1.7857142857142856,56.547619047619044,0.6666666666666666,be go be go lead want reveal rest
+Nicholas,Russell Street,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Nicholas,Piazza,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Nicholas,Royal Opera House,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Russell Street,Piazza,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Russell Street,Royal Opera House,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Piazza,Royal Opera House,1.1627906976744187,0.5813953488372093,61.04651162790697,2.0,be expect lead pull
+Henry Pyke,Charles Macklin,2.358490566037736,1.650943396226415,50.70754716981132,1.4285714285714286,assume be go be enter
+Charles Macklin,Henry Pyke,2.358490566037736,1.650943396226415,50.70754716981132,1.4285714285714286,assume be go be enter
+Charles Macklin,Henry Pyke,2.358490566037736,1.650943396226415,50.70754716981132,1.4285714285714286,assume be go be enter
+Charles Macklin,Henry Pyke,2.358490566037736,1.650943396226415,50.70754716981132,1.4285714285714286,assume be go be enter
+Nicholas,Henry Pyke,0.0,7.291666666666667,51.041666666666664,0.0,be
+Nicholas,Nightingale,1.4705882352941175,0.0,57.35294117647059,INF,explain show
+Henry Pyke,Mr. Punch,5.448717948717949,0.641025641025641,52.88461538461539,8.5,get fuck change become caricature have come know
+Henry Pyke,Mr. Punch,5.448717948717949,0.641025641025641,52.88461538461539,8.5,get fuck change become caricature have come know
+Henry Pyke,Mr. Punch,2.4193548387096775,0.0,52.41935483870967,INF,be have say throw shriek
+Henry Pyke,Mr. Punch,2.4193548387096775,0.0,52.41935483870967,INF,be have say throw shriek
+Leslie,Mr. Punch,7.5,10.833333333333334,41.66666666666667,0.6923076923076923,be squeal
+Toby,Molly,1.744186046511628,4.651162790697675,56.395348837209305,0.375,be be domesticate bark be bounce
+Molly,Toby,2.1739130434782608,4.3478260869565215,58.69565217391305,0.5,be have lean bite flinch
+Toby,Molly,2.1739130434782608,4.3478260869565215,58.69565217391305,0.5,be have lean bite flinch
+Leslie,Nightingale,0.5208333333333333,0.0,53.645833333333336,INF,be wait hold stare
+Nightingale,Leslie,0.5208333333333333,0.0,53.645833333333336,INF,be wait hold stare
+Leslie,Henry Pyke,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,speak be slur keep close hide
+Henry Pyke,Leslie,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,have get
+Dr. Walid,Leslie,1.3888888888888888,0.0,43.05555555555556,INF,believe save
+Dr. Walid,Leslie,3.125,0.0,46.875,INF,mean summon say
+Dr. Walid,Leslie,0.0,0.0,53.84615384615385,INF,promise say follow start wind
+Peter,Henry Pyke,0.0,0.0,30.76923076923077,INF,say
+Metropolitan Police,Leslie,1.7241379310344827,0.43103448275862066,70.25862068965517,4.0,finish be check be
+Dr. Walid,Leslie,10.714285714285714,0.5952380952380952,45.83333333333333,18.0,have say save increase
+Heath,Toby,2.2222222222222223,3.3333333333333335,65.55555555555556,0.6666666666666666,be figure have kick
+Heath,Brandon Coopertown,2.2222222222222223,3.3333333333333335,65.55555555555556,0.6666666666666666,be figure have kick
+Toby,Brandon Coopertown,2.2222222222222223,3.3333333333333335,65.55555555555556,0.6666666666666666,be figure have kick
+Royal Opera House,Charles Macklin,0.390625,1.5625,58.984375,0.25,be have stage entitle show show tell be
+Royal Opera House,William Skirmish,2.556818181818182,0.5681818181818182,60.51136363636363,4.5,fall give go find have attend
+Royal Opera House,Brandon Coopertown,2.556818181818182,0.5681818181818182,60.51136363636363,4.5,fall give go find have attend
+William Skirmish,Brandon Coopertown,2.556818181818182,0.5681818181818182,60.51136363636363,4.5,fall give go find have attend
+Mama Thames,Beverley,9.868421052631579,4.605263157894736,43.42105263157895,2.142857142857143,figure think be cause
+Mama Thames,Beverley,9.868421052631579,4.605263157894736,43.42105263157895,2.142857142857143,figure think be cause
+Isis,Beverley,1.293103448275862,0.0,57.327586206896555,INF,hug be persuade relinquish lead
+Beverley,Isis,1.293103448275862,0.0,57.327586206896555,INF,hug be persuade relinquish lead
+Beverley,Isis,1.293103448275862,0.0,57.327586206896555,INF,hug be persuade relinquish lead
+Beverley,Isis,1.293103448275862,0.0,57.327586206896555,INF,hug be persuade relinquish lead
+Father Thames,Mother Thames,1.3157894736842104,0.6578947368421052,61.18421052631579,2.0,have
+Beverley,Isis,0.0,0.0,58.333333333333336,INF,follow step
+Isis,Beverley,1.25,0.0,62.083333333333336,INF,coach have show bow follow
+Isis,Beverley,1.25,0.0,62.083333333333336,INF,coach have show bow follow

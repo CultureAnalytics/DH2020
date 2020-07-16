@@ -1,0 +1,659 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Kathleen,Katherine,0.0,8.928571428571429,5.357142857142857,0.0,be
+David,Sael,3.977272727272727,3.977272727272727,32.95454545454545,1.0,break continue
+David,Mike,0.0,0.0,60.0,INF,turn
+Sael,Katherine,3.571428571428571,1.7857142857142856,8.928571428571429,2.0,be
+Katherine,Sael,0.0,0.0,16.666666666666664,INF,meet
+Jesus,Katherine,3.4090909090909087,1.7045454545454544,44.88636363636363,2.0,know promise go
+Jesus,Katherine,3.4090909090909087,1.7045454545454544,44.88636363636363,2.0,know promise go
+David,Sael,5.714285714285714,2.857142857142857,60.0,2.0,peer be engage wisecrack remind
+David,Sael,3.3653846153846154,1.9230769230769231,56.25,1.75,do take hope get drink
+Andrea,Lucas,3.4090909090909087,3.4090909090909087,38.63636363636363,1.0,be
+Lucas,Andrea,1.201923076923077,1.201923076923077,59.13461538461539,1.0,creak hear close do want wake move adjust get reach
+Katherine,Sael,0.0,0.0,28.57142857142857,INF,call come
+Susie Ranford,DWHA,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+Susie Ranford,Emily,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+DWHA,Susie Ranford,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+DWHA,Emily,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+DWHA,Susie Ranford,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+Susie Ranford,Emily,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+Emily,Susie Ranford,2.5735294117647056,2.2058823529411766,45.220588235294116,1.1666666666666667,start do walk love be kill
+Cynthia,Susie Ranford,3.6764705882352944,1.911764705882353,49.705882352941174,1.9230769230769231,think streak tailor have ask explain understand be reserve have go
+Cynthia,DWHA,3.6764705882352944,1.911764705882353,49.705882352941174,1.9230769230769231,think streak tailor have ask explain understand be reserve have go
+Susie Ranford,DWHA,3.6764705882352944,1.911764705882353,49.705882352941174,1.9230769230769231,think streak tailor have ask explain understand be reserve have go
+Cynthia,Susie Ranford,6.578947368421052,1.3157894736842104,71.05263157894737,5.0,wait stare have prod
+Cynthia,Susie Ranford,6.578947368421052,1.3157894736842104,71.05263157894737,5.0,wait stare have prod
+Susie Ranford,Cynthia,6.578947368421052,1.3157894736842104,71.05263157894737,5.0,wait stare have prod
+Susie Ranford,Cynthia,6.578947368421052,1.3157894736842104,71.05263157894737,5.0,wait stare have prod
+Emily,Susie Ranford,1.7857142857142856,2.976190476190476,38.095238095238095,0.6,be find
+Emily,Susie Ranford,1.7857142857142856,2.976190476190476,38.095238095238095,0.6,be find
+Kathleen,Jennifer Wegerle,3.571428571428571,0.7653061224489796,67.09183673469387,4.666666666666667,be read be teach love cook work be be marry
+Kathleen,Melissa Lin,3.571428571428571,0.7653061224489796,67.09183673469387,4.666666666666667,be read be teach love cook work be be marry
+Jennifer Wegerle,Melissa Lin,3.571428571428571,0.7653061224489796,67.09183673469387,4.666666666666667,be read be teach love cook work be be marry
+Richard,Dick,2.5,0.0,47.5,INF,be call
+Dad,Dick,0.0,0.0,62.5,INF,do call
+Dad,Richard,5.0,0.0,35.0,INF,call
+Richard,Dick,4.166666666666666,0.0,54.166666666666664,INF,call die find
+Sael,David,0.0,4.411764705882353,54.41176470588235,0.0,fade come have do
+David,Cherry,4.761904761904762,0.0,47.61904761904761,INF,buy buy
+David,Coke,4.761904761904762,0.0,47.61904761904761,INF,buy buy
+Cherry,Coke,4.761904761904762,0.0,47.61904761904761,INF,buy buy
+Ted Bundy,Sael,5.681818181818182,6.25,51.70454545454546,0.9090909090909091,be take mean take do think
+Ted Bundy,Sael,5.681818181818182,6.25,51.70454545454546,0.9090909090909091,be take mean take do think
+Andrea,Lucas,7.386363636363637,5.113636363636364,37.5,1.4444444444444444,look know be think be affect
+Andrea,Lucas,7.386363636363637,5.113636363636364,37.5,1.4444444444444444,look know be think be affect
+Andrea,Lucas,7.386363636363637,5.113636363636364,37.5,1.4444444444444444,look know be think be affect
+Andrea,Lucas,7.386363636363637,5.113636363636364,37.5,1.4444444444444444,look know be think be affect
+Andrea,Lucas,5.769230769230769,0.0,40.38461538461539,INF,be be
+Sael,David,1.5625,4.166666666666666,73.4375,0.375,look subdue describe
+David,Sael,6.730769230769231,3.8461538461538463,35.57692307692308,1.75,say ignore
+Andrea,David,5.0,2.5,22.5,2.0,be be
+Andrea,Sael,5.0,2.5,22.5,2.0,be be
+David,Sael,5.0,2.5,22.5,2.0,be be
+David,Sael,2.7777777777777777,1.3888888888888888,18.055555555555554,2.0,be
+David,Andrea,2.7777777777777777,1.3888888888888888,18.055555555555554,2.0,be
+Sael,Andrea,2.7777777777777777,1.3888888888888888,18.055555555555554,2.0,be
+Andrea,Sael,0.6578947368421052,0.0,51.973684210526315,INF,be
+Sael,Andrea,0.9615384615384616,0.0,45.19230769230769,INF,say laugh nod
+Sael,Andrea,0.9615384615384616,0.0,45.19230769230769,INF,say laugh nod
+David,Sael,1.953125,2.34375,67.578125,0.8333333333333334,give come be subdue tell be
+David,Sael,1.953125,2.34375,67.578125,0.8333333333333334,give come be subdue tell be
+David,Sael,0.7352941176470588,1.9607843137254901,54.166666666666664,0.375,be survey rock lean listen
+David,Andrea,0.7352941176470588,1.9607843137254901,54.166666666666664,0.375,be survey rock lean listen
+Sael,Andrea,0.7352941176470588,1.9607843137254901,54.166666666666664,0.375,be survey rock lean listen
+Katherine,Lucas,3.8461538461538463,1.9230769230769231,25.0,2.0,be be
+Katherine,Lucas,3.8461538461538463,1.9230769230769231,25.0,2.0,be be
+Lucas,Katherine,3.8461538461538463,1.9230769230769231,25.0,2.0,be be
+Lucas,Katherine,3.8461538461538463,1.9230769230769231,25.0,2.0,be be
+David,Sael,10.15625,2.34375,43.75,4.333333333333333,be be be delight
+David,Andrea,10.15625,2.34375,43.75,4.333333333333333,be be be delight
+Sael,Andrea,10.15625,2.34375,43.75,4.333333333333333,be be be delight
+Andrea,Lucas,0.625,0.0,44.375,INF,say ask kat take
+Andrea,Kat,0.625,0.0,44.375,INF,say ask kat take
+Lucas,Kat,0.625,0.0,44.375,INF,say ask kat take
+Andrea,Lucas,14.285714285714285,12.5,30.357142857142854,1.1428571428571428,be worry
+Sael,Andrea,5.0,3.75,46.25,1.3333333333333333,be make be roll pretend be disgust
+Sael,Andrea,5.0,3.75,46.25,1.3333333333333333,be make be roll pretend be disgust
+Andrea,Lucas,0.0,0.0,40.0,INF,mean
+David,Andrea,0.0,0.0,50.0,INF,show
+Andrea,Sael,1.7857142857142856,0.0,41.07142857142857,INF,look
+Richard,Dick,4.545454545454546,3.787878787878788,52.27272727272727,1.2,have come forage hear call fight
+Cherry,Hanley,1.6666666666666667,5.416666666666667,52.916666666666664,0.3076923076923077,wear see
+Andrea,Sael,2.840909090909091,1.7045454545454544,40.909090909090914,1.6666666666666667,say be
+Andrea,David,1.5151515151515151,1.5151515151515151,57.57575757575758,1.0,have be be be stand say
+Andrea,Sael,1.5151515151515151,1.5151515151515151,57.57575757575758,1.0,have be be be stand say
+David,Sael,1.5151515151515151,1.5151515151515151,57.57575757575758,1.0,have be be be stand say
+David,Andrea,1.5151515151515151,1.5151515151515151,57.57575757575758,1.0,have be be be stand say
+Sael,Andrea,1.5151515151515151,1.5151515151515151,57.57575757575758,1.0,have be be be stand say
+Andrea,Lucas,5.555555555555555,4.166666666666666,45.83333333333333,1.3333333333333333,do talk
+Andrea,David,6.8181818181818175,1.7045454545454544,50.56818181818182,4.0,know mean say be ask
+Sael,Andrea,8.333333333333332,1.0416666666666665,32.29166666666667,8.0,be say
+Andrea,Lucas,0.0,2.272727272727273,61.36363636363637,0.0,do want wake
+Katherine,Sael,0.0,0.0,8.333333333333332,INF,be do
+Sael,David,5.769230769230769,0.9615384615384616,31.73076923076923,6.0,say be
+Andrea,Sael,0.0,0.0,55.00000000000001,INF,open call turn climb
+Andrea,Lucas,2.7777777777777777,4.166666666666666,70.83333333333334,0.6666666666666666,think find
+Andrea,Lucas,7.954545454545454,2.272727272727273,44.31818181818182,3.5,overhear talk want know
+Lucas,Andrea,3.125,1.5625,70.3125,2.0,have pick
+Lucas,Momma,6.730769230769231,3.8461538461538463,43.269230769230774,1.75,hear
+Lucas,Momma,0.0,3.125,46.875,0.0,promise promise promise cross tell hear
+Lucas,Momma,0.0,3.125,46.875,0.0,promise promise promise cross tell hear
+Momma,Lucas,0.0,3.125,46.875,0.0,promise promise promise cross tell hear
+Lucas,Andrea,3.8461538461538463,0.0,42.30769230769231,INF,want see have say
+Andrea,Lucas,4.166666666666666,2.083333333333333,52.083333333333336,2.0,have tell
+Andrea,Lucas,0.43103448275862066,2.586206896551724,41.810344827586206,0.16666666666666666,be pick need show be do be be
+Lucas,Andrea,1.0,0.0,67.0,INF,happen pick be have be
+Lucas,Mrs. Ryder,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,name have hand ask contact
+Lucas,Andrea,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,name have hand ask contact
+Lucas,Andrea,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,name have hand ask contact
+Mrs. Ryder,Andrea,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,name have hand ask contact
+Mrs. Ryder,Andrea,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,name have hand ask contact
+Mrs. Ryder,Momma,11.76470588235294,5.88235294117647,35.294117647058826,2.0,want talk do know want talk
+Mrs. Ryder,Momma,4.166666666666666,1.5625,40.10416666666667,2.6666666666666665,draw tell see want talk
+Mrs. Ryder,Momma,4.166666666666666,1.5625,40.10416666666667,2.6666666666666665,draw tell see want talk
+Andrea,Lucas,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,resent seem offer
+Andrea,Lucas,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,resent seem offer
+Lucas,Andrea,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,resent seem offer
+Andrea,Lucas,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,resent seem offer
+Andrea,Lucas,4.779411764705882,4.779411764705882,49.26470588235294,1.0,seem gloat say be go be be love do
+Lucas,Andrea,4.779411764705882,4.779411764705882,49.26470588235294,1.0,seem gloat say be go be be love do
+Sasha,Liz,2.314814814814815,2.314814814814815,58.333333333333336,1.0,be remember
+Jesus,Kat,2.5,2.5,61.66666666666667,1.0,do
+Andrea,David,7.5,2.5,40.0,3.0,guess be root
+Sael,David,1.5151515151515151,0.3787878787878788,52.65151515151515,4.0,mean have hear seem be close be
+Sael,David,4.545454545454546,0.0,50.0,INF,be
+Andrea,Lucas,1.9736842105263157,0.6578947368421052,50.0,3.0,be go camp
+Liz,Natalie Shapiro,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,have be allow have say
+Susie Ranford,DWHA,0.3787878787878788,0.7575757575757576,65.53030303030303,0.5,be confirm celebrate be hold
+DWHA,Susie Ranford,0.3787878787878788,0.7575757575757576,65.53030303030303,0.5,be confirm celebrate be hold
+Megan,Hanley,4.411764705882353,0.0,60.29411764705882,INF,have tell have find hang
+Megan,Hanley,4.411764705882353,0.0,60.29411764705882,INF,have tell have find hang
+Natalie Shapiro,Hanley,1.5625,0.5208333333333333,35.41666666666667,3.0,be say
+Sael,Katherine,4.166666666666666,2.083333333333333,21.52777777777778,2.0,say be
+Katherine,David,1.6666666666666667,0.8333333333333334,37.5,2.0,be go say
+Katherine,Sael,3.214285714285714,1.4285714285714286,38.21428571428571,2.25,say be remember be
+Katherine,Sael,3.214285714285714,1.4285714285714286,38.21428571428571,2.25,say be remember be
+Sael,Margot,0.4166666666666667,3.75,59.166666666666664,0.1111111111111111,glance appear be return beam lower
+Sael,Margot,0.4166666666666667,3.75,59.166666666666664,0.1111111111111111,glance appear be return beam lower
+Sael,Margot,0.0,0.0,25.0,INF,prompt
+Margot,Sael,2.083333333333333,0.0,47.91666666666667,INF,be
+Sara,Sael,1.25,0.0,38.75,INF,be
+Sael,Sara,1.5625,7.8125,40.625,0.2,be get
+Sael,Sara,1.9230769230769231,3.3653846153846154,44.71153846153847,0.5714285714285714,have know be date let live
+Sael,Sara,1.9230769230769231,3.3653846153846154,44.71153846153847,0.5714285714285714,have know be date let live
+Sael,Margot,0.0,4.166666666666666,51.388888888888886,0.0,do spare hate
+Sara,Sael,1.5625,0.0,48.4375,INF,be
+Lucy,Lucas,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucy,Andrea,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucy,Lucas,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucy,Lucas,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucy,Andrea,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucy,Lucas,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucas,Andrea,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Andrea,Lucas,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,be be be try get give
+Lucas,Lucy,5.208333333333334,0.0,36.45833333333333,INF,be
+Andrea,Lucas,0.0,3.8461538461538463,50.0,0.0,move do ruin
+Andrea,Lucas,0.5681818181818182,0.0,35.79545454545455,INF,say come pick
+Andrea,Lucas,5.555555555555555,0.4629629629629629,56.94444444444444,12.0,have put have come tidy drift sit
+Lucas,Andrea,5.555555555555555,0.4629629629629629,56.94444444444444,12.0,have put have come tidy drift sit
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Andrea,Lucas,1.3888888888888888,1.3888888888888888,45.370370370370374,1.0,look squeal tickle praise
+Lucas,Andrea,0.0,1.5625,35.9375,0.0,
+Lucas,Andrea,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Lucas,Andrea,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Lucas,Andrea,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Andrea,Lucas,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Lucas,Andrea,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Lucas,Andrea,5.303030303030303,4.166666666666666,48.10606060606061,1.2727272727272727,be fight lie
+Katherine,Andrea,1.7857142857142856,0.0,12.5,INF,say
+David,Andrea,5.978260869565218,3.4420289855072466,52.89855072463768,1.736842105263158,be do have think live do have think
+Andrea,Katherine,1.0416666666666665,0.0,32.29166666666667,INF,press say
+Andrea,Jesus,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,be think be turn say need get lay
+Andrea,Jesus,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,be think be turn say need get lay
+Katherine,Lucas,3.6458333333333335,4.6875,50.0,0.7777777777777778,mean imagine flash affect
+Katherine,Lucas,3.6458333333333335,4.6875,50.0,0.7777777777777778,mean imagine flash affect
+Lucas,Katherine,3.6458333333333335,4.6875,50.0,0.7777777777777778,mean imagine flash affect
+Katherine,Lucas,3.6458333333333335,4.6875,50.0,0.7777777777777778,mean imagine flash affect
+Lucas,Katherine,2.083333333333333,5.555555555555555,42.36111111111111,0.375,be leave hoist
+Katherine,Lucas,2.083333333333333,5.555555555555555,42.36111111111111,0.375,be leave hoist
+Lucas,Katherine,1.3888888888888888,0.6944444444444444,42.36111111111111,2.0,tuck have be do
+Lucas,Katherine,1.3888888888888888,0.6944444444444444,42.36111111111111,2.0,tuck have be do
+Katherine,Andrea,0.9615384615384616,0.0,29.807692307692307,INF,be
+Katherine,Lucas,0.0,0.0,45.0,INF,carry follow
+Katherine,Mrs. Kaskow,0.0,0.0,45.0,INF,carry follow
+Lucas,Mrs. Kaskow,0.0,0.0,45.0,INF,carry follow
+Katherine,Lucas,0.0,0.0,33.33333333333333,INF,sit
+Lucas,Katherine,0.0,0.0,33.33333333333333,INF,sit
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Lucas,Katherine,2.5,0.0,57.49999999999999,INF,turn snuggle
+Mrs. Kaskow,Katherine,3.75,2.5,53.75,1.5,tighten say
+Kat,Lucas,0.78125,2.34375,65.625,0.3333333333333333,feel rumble come
+Kat,Katherine,0.78125,2.34375,65.625,0.3333333333333333,feel rumble come
+Kat,Katherine,0.78125,2.34375,65.625,0.3333333333333333,feel rumble come
+Lucas,Katherine,0.78125,2.34375,65.625,0.3333333333333333,feel rumble come
+Lucas,Katherine,0.78125,2.34375,65.625,0.3333333333333333,feel rumble come
+Katherine,Mrs. Kaskow,0.0,0.0,46.15384615384615,INF,alert look
+Katherine,Lucas,0.0,0.0,50.0,INF,
+Katherine,Lucas,0.0,0.0,50.0,INF,
+Mrs. Kaskow,Lucas,1.25,2.5,46.25,0.5,get
+Mrs. Kaskow,Katherine,1.25,2.5,46.25,0.5,get
+Lucas,Katherine,1.25,2.5,46.25,0.5,get
+Lucas,Katherine,4.807692307692308,4.807692307692308,51.92307692307693,1.0,be hold
+Lucas,Katherine,4.807692307692308,4.807692307692308,51.92307692307693,1.0,be hold
+Katherine,Lucas,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Katherine,Lucas,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Katherine,Lucas,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Lucas,Katherine,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Lucas,Katherine,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Lucas,Katherine,3.935185185185185,1.1574074074074074,50.46296296296296,3.4,give leave look be show decide try tell
+Lucas,Momma,6.944444444444445,0.6944444444444444,64.58333333333334,10.0,wake be sit look
+Momma,Lucas,6.944444444444445,0.6944444444444444,64.58333333333334,10.0,wake be sit look
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Momma,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Momma,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Momma,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Lucas,Mrs. Kaskow,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,9.166666666666666,3.888888888888889,46.94444444444444,2.357142857142857,tell be be be be sit look want cry
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Lucas,Mrs. Kaskow,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,1.5625,3.125,50.31250000000001,0.5,shake put be wake ask be shake ask be nod want do
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Mrs. Kaskow,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Mrs. Kaskow,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Mrs. Kaskow,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Lucas,Momma,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+Momma,Lucas,7.025547445255474,3.4671532846715327,55.200729927007295,2.026315789473684,shake be point know want be point be do want look look know be put lie close be be cry be do cry be cry feel feel feel keep close
+David,Rebecca Lamb,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+David,Rebecca Lamb,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+David,Sara,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+David,Rebecca Lamb,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+David,Rebecca Lamb,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+David,Sara,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+Rebecca Lamb,Sara,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+Rebecca Lamb,Sara,1.5,0.5,57.99999999999999,3.0,be mean be hang be
+Sael,Sara,4.285714285714286,0.35714285714285715,55.35714285714286,12.0,say hear do know be tell have be hit
+Sael,Sara,4.285714285714286,0.35714285714285715,55.35714285714286,12.0,say hear do know be tell have be hit
+Cheryl,Katherine,1.25,0.0,28.749999999999996,INF,be
+Katherine,Lucas,5.952380952380952,7.142857142857142,44.047619047619044,0.8333333333333334,be have be deal
+Andrea,Lucas,1.7857142857142856,0.0,48.214285714285715,INF,have mention ask
+Andrea,Sael,1.179245283018868,2.5943396226415096,50.943396226415096,0.45454545454545453,call call recommend call write run know proceed
+Cheryl,Lucas,4.0625,2.1875,56.25,1.8571428571428572,pause say be be think see be do let speak
+Cheryl,Lucas,4.0625,2.1875,56.25,1.8571428571428572,pause say be be think see be do let speak
+Cheryl,Kat,0.0,0.0,21.428571428571427,INF,be
+Kat,Lucas,2.5,0.0,47.5,INF,do tell call
+Andrea,Lucas,2.083333333333333,2.083333333333333,56.94444444444444,1.0,turn be hope look
+David,Margot,2.1739130434782608,2.717391304347826,34.23913043478261,0.8,whisper play
+David,Sael,2.1739130434782608,2.717391304347826,34.23913043478261,0.8,whisper play
+Margot,Sael,2.1739130434782608,2.717391304347826,34.23913043478261,0.8,whisper play
+David,Sael,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,sound say thank
+David,Sael,1.25,1.875,41.875,0.6666666666666666,shut be be
+Sael,Andrea,0.0,5.833333333333333,27.500000000000004,0.0,want talk
+Katherine,David,0.0,0.0,36.84210526315789,INF,grow be tell tell
+David,Sara,1.524390243902439,3.6585365853658534,46.03658536585366,0.4166666666666667,be be talk let happen
+David,Sara,1.524390243902439,3.6585365853658534,46.03658536585366,0.4166666666666667,be be talk let happen
+David,Sara,1.524390243902439,3.6585365853658534,46.03658536585366,0.4166666666666667,be be talk let happen
+David,Sara,1.524390243902439,3.6585365853658534,46.03658536585366,0.4166666666666667,be be talk let happen
+Katherine,Sael,4.166666666666666,2.083333333333333,18.75,2.0,do tell
+Katherine,Sara,4.166666666666666,2.083333333333333,18.75,2.0,do tell
+Sael,Sara,4.166666666666666,2.083333333333333,18.75,2.0,do tell
+Sael,Sara,0.0,0.0,63.63636363636363,INF,say be hit
+David,Sara,0.0,0.0,22.22222222222222,INF,happen
+Sael,Sara,6.25,3.125,28.125,2.0,do tell
+Sara,David,2.5,6.25,41.25,0.4,be murder have say
+Katherine,David,6.25,0.78125,49.21875,8.0,know come love
+David,Katherine,6.25,0.78125,49.21875,8.0,know come love
+David,Katherine,6.25,0.78125,49.21875,8.0,know come love
+David,Katherine,6.25,0.78125,49.21875,8.0,know come love
+Katherine,Sael,1.7045454545454544,0.0,52.84090909090909,INF,stare turn gaze hang
+Katherine,Sael,1.7045454545454544,0.0,52.84090909090909,INF,stare turn gaze hang
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+Katherine,David,2.2887323943661975,2.112676056338028,51.93661971830986,1.0833333333333333,pull see scream be see roll fall fix see
+David,Katherine,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,have suffer be believe fall be stab
+David,Katherine,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,have suffer be believe fall be stab
+David,Katherine,1.0,2.5,48.5,0.4,inform have leave intend kill
+David,Sael,1.0,2.5,48.5,0.4,inform have leave intend kill
+Katherine,Sael,1.0,2.5,48.5,0.4,inform have leave intend kill
+David,Sael,5.0,2.5,39.166666666666664,2.0,be
+Clare,David,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Clare,Katherine,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Clare,David,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Clare,Sael,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+David,Katherine,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+David,Sael,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Katherine,David,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Katherine,Sael,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+David,Sael,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,believe be obsess be
+Andrea,Katherine,4.545454545454546,0.5681818181818182,44.88636363636363,8.0,plan kill be achieve say
+Andrea,Clare,4.545454545454546,0.5681818181818182,44.88636363636363,8.0,plan kill be achieve say
+Katherine,Clare,4.545454545454546,0.5681818181818182,44.88636363636363,8.0,plan kill be achieve say
+David,Sael,1.8382352941176472,2.941176470588235,48.161764705882355,0.625,be add say have know be
+Sael,Katherine,0.0,2.7777777777777777,52.77777777777778,0.0,decline comment
+David,Ted Bundy,2.34375,3.6458333333333335,48.17708333333333,0.6428571428571429,describe know have be liken confess have cause
+David,Ted Bundy,2.34375,3.6458333333333335,48.17708333333333,0.6428571428571429,describe know have be liken confess have cause
+Susie Ranford,DWHA,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+Susie Ranford,Emily,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+DWHA,Susie Ranford,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+DWHA,Emily,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+DWHA,Susie Ranford,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+Susie Ranford,Emily,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+Emily,Susie Ranford,3.0797101449275366,0.5434782608695652,47.10144927536232,5.666666666666667,bring know be say found do walk
+David,Samantha Rodriguez,1.9230769230769231,1.9230769230769231,30.76923076923077,1.0,wish have kill say
+David,Sierra Balan,0.0,1.7857142857142856,48.214285714285715,0.0,be claim
+David,Sierra Balan,0.0,1.7857142857142856,48.214285714285715,0.0,be claim
+David,Katherine,0.0,1.3888888888888888,54.166666666666664,0.0,be sit
+David,Katherine,4.0,3.5000000000000004,44.5,1.1428571428571428,smile see move
+David,Katherine,4.0,3.5000000000000004,44.5,1.1428571428571428,smile see move
+Katherine,David,0.0,2.976190476190476,58.92857142857143,0.0,see hold handle
+David,Katherine,0.0,2.976190476190476,58.92857142857143,0.0,see hold handle
+David,Katherine,0.0,2.976190476190476,58.92857142857143,0.0,see hold handle
+David,Katherine,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+David,Katherine,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+David,Katherine,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,1.9886363636363635,0.5681818181818182,51.98863636363637,3.5,be be look bend speak be offer hold say try
+Katherine,David,0.5952380952380952,0.0,61.30952380952381,INF,take hold do look look
+Katherine,Sael,0.5952380952380952,0.0,61.30952380952381,INF,take hold do look look
+David,Sael,0.5952380952380952,0.0,61.30952380952381,INF,take hold do look look
+David,Sael,3.125,3.6458333333333335,43.22916666666667,0.8571428571428571,call concern be talk
+David,Sael,3.125,3.6458333333333335,43.22916666666667,0.8571428571428571,call concern be talk
+David,Sael,0.0,2.976190476190476,35.11904761904761,0.0,say listen
+Katherine,Lucas,0.8928571428571428,0.0,61.011904761904766,INF,send work become
+Katherine,Lucas,0.8928571428571428,0.0,61.011904761904766,INF,send work become
+Sael,Mrs. Kaskow,2.5,0.0,57.49999999999999,INF,have stand
+Phil,Lorna,0.0,0.0,40.0,INF,be

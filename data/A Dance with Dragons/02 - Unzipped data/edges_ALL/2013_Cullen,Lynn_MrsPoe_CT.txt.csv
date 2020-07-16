@@ -1,0 +1,1592 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mr. Poe,Mr. Longfellow,0.5208333333333333,6.770833333333333,59.375,0.07692307692307693,be be do need
+Mr. Poe,Mr. Bryant,0.5208333333333333,6.770833333333333,59.375,0.07692307692307693,be be do need
+Mr. Longfellow,Mr. Bryant,0.5208333333333333,6.770833333333333,59.375,0.07692307692307693,be be do need
+Ann Street,Mr. Barnum,0.0,0.0,61.904761904761905,INF,advertise arrive
+Samuel,Astor House,6.944444444444445,0.9259259259259258,55.092592592592595,7.5,have insist take have move make
+Samuel,Boston Lyceum,2.5,4.375,53.125,0.5714285714285714,think expect
+Boston Lyceum,Samuel,2.5,4.375,53.125,0.5714285714285714,think expect
+Mr. Astor,Prince,0.0,2.1739130434782608,60.86956521739131,0.0,refuse budge be show mint construct
+Mr. Astor,Prince,0.0,2.1739130434782608,60.86956521739131,0.0,refuse budge be show mint construct
+Mamma,Mr. Osgood,13.750000000000002,0.0,36.25,INF,do buy
+Mamma,Vinnie,8.59375,1.5625,27.34375,5.5,demand do buy
+Vinnie,Ellen,3.8461538461538463,0.0,57.692307692307686,INF,reveal
+Vinnie,Ellen,0.0,0.0,50.0,INF,rattle remain move speak
+Vinnie,Ellen,0.0,0.0,50.0,INF,rattle remain move speak
+Mother,Ellen,2.6785714285714284,2.6785714285714284,30.357142857142854,1.0,do need fly say
+Samuel,Ellen,1.5625,0.78125,35.15625,2.0,stunt spoil
+Samuel,Ellen,1.5625,0.78125,35.15625,2.0,stunt spoil
+Samuel,Ellen,3.4090909090909087,1.1363636363636365,54.54545454545454,3.0,spin see
+Eliza,Samuel,4.326923076923077,4.326923076923077,56.730769230769226,1.0,do speak inquire sit let lie
+Eliza,Samuel,4.326923076923077,4.326923076923077,56.730769230769226,1.0,do speak inquire sit let lie
+Mary,Mrs. Osgood,3.4722222222222223,0.0,46.52777777777778,INF,please take
+Mary,Henry,3.4722222222222223,0.0,46.52777777777778,INF,please take
+Mrs. Osgood,Henry,3.4722222222222223,0.0,46.52777777777778,INF,please take
+Mr. Poe,Anne,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,be go appear name
+Eliza,Johnny,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,give have be beg
+Eliza,Vinnie,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,give have be beg
+Eliza,Vinnie,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,give have be beg
+Johnny,Vinnie,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,give have be beg
+Johnny,Vinnie,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,give have be beg
+Miss Lynch,Russell,2.631578947368421,0.0,34.21052631578947,INF,be be
+Miss Lynch,Russell,2.631578947368421,0.0,34.21052631578947,INF,be be
+Miss Lynch,Russell,2.2058823529411766,1.8382352941176472,54.779411764705884,1.2,stop tell be attempt start
+Miss Lynch,Russell,2.2058823529411766,1.8382352941176472,54.779411764705884,1.2,stop tell be attempt start
+Russell,Miss Lynch,2.2058823529411766,1.8382352941176472,54.779411764705884,1.2,stop tell be attempt start
+Russell,Miss Lynch,2.2058823529411766,1.8382352941176472,54.779411764705884,1.2,stop tell be attempt start
+Miss Lynch,Mr. Poe,9.166666666666666,3.3333333333333335,60.83333333333333,2.75,daresay have have snag
+Miss Lynch,Mr. Poe,7.5,1.25,31.25,6.0,wonder lure
+Vinnie,Mr. Longfellow,7.638888888888889,1.3888888888888888,57.638888888888886,5.5,tear make
+Vinnie,Mr. Morris,9.0,4.0,59.0,2.25,have wonder
+Mr. Morris,Vinnie,9.0,4.0,59.0,2.25,have wonder
+Miss Lynch,Vinnie,4.166666666666666,4.166666666666666,33.33333333333333,1.0,tell see
+Vinnie,Johnny,0.0,3.125,59.375,0.0,jog
+Vinnie,Eliza,0.0,3.125,59.375,0.0,jog
+Johnny,Eliza,0.0,3.125,59.375,0.0,jog
+Vinnie,Mr. Poe,2.717391304347826,10.326086956521738,47.82608695652174,0.2631578947368421,become be
+Eliza,Martha,0.75,1.7500000000000002,45.5,0.42857142857142855,slip whisper see crouch
+Eliza,Martha,0.75,1.7500000000000002,45.5,0.42857142857142855,slip whisper see crouch
+Eliza,Martha,0.75,1.7500000000000002,45.5,0.42857142857142855,slip whisper see crouch
+Samuel,Mrs. Osgood,1.5625,0.0,73.4375,INF,be bear be
+Gilbert Stuart,George Washington,0.6944444444444444,0.6944444444444444,76.38888888888889,1.0,be work set
+Mr. Washington,Gilbert Stuart,6.521739130434782,1.0869565217391304,61.95652173913043,6.0,do have know look
+Eliza,Vinnie,1.650943396226415,2.1226415094339623,56.60377358490566,0.7777777777777778,wash be dress swathe settle be drain have improve
+Eliza,Ellen,1.650943396226415,2.1226415094339623,56.60377358490566,0.7777777777777778,wash be dress swathe settle be drain have improve
+Vinnie,Ellen,1.650943396226415,2.1226415094339623,56.60377358490566,0.7777777777777778,wash be dress swathe settle be drain have improve
+Eliza,Mrs. Bartlett,5.5,3.5000000000000004,63.0,1.5714285714285714,have go pay be be tend
+Mr. Bartlett,Astor House,0.5434782608695652,3.260869565217391,65.76086956521739,0.16666666666666666,be run satiate write
+Mr. Bartlett,Astor House,0.5434782608695652,3.260869565217391,65.76086956521739,0.16666666666666666,be run satiate write
+Astor House,Mr. Bartlett,0.5434782608695652,3.260869565217391,65.76086956521739,0.16666666666666666,be run satiate write
+Mr. Audubon,Mr. Whitman,2.5423728813559325,0.847457627118644,64.40677966101694,3.0,recognize be wear
+Mr. Audubon,Mr. Whitman,2.5423728813559325,0.847457627118644,64.40677966101694,3.0,recognize be wear
+Mr. Greeley,Miss Fuller,1.6304347826086956,0.2717391304347826,63.315217391304344,6.0,be support be
+Mr. Greeley,Tribune,3.6290322580645165,1.6129032258064515,49.596774193548384,2.25,be stain set have pass
+Tribune,Mr. Greeley,3.6290322580645165,1.6129032258064515,49.596774193548384,2.25,be stain set have pass
+Mr. Andrews,Miss Lynch,3.4482758620689653,2.1551724137931036,53.01724137931034,1.6,glance be speak
+Miss Fuller,Mr. Andrews,2.5,10.0,42.5,0.25,say be be
+Margaret,Mr. Greeley,0.5208333333333333,0.0,45.3125,INF,do tell be say
+Mr. Greeley,Miss Fuller,0.0,7.8125,54.6875,0.0,seem hear
+Mr. Poe,Mathew Brady,0.0,0.0,47.368421052631575,INF,have hear be court-martial say
+Miss Fuller,Mr. Poe,3.571428571428571,1.0714285714285714,52.5,3.3333333333333335,be say find touch be preoccupy
+Miss Fuller,Mr. Poe,3.571428571428571,1.0714285714285714,52.5,3.3333333333333335,be say find touch be preoccupy
+Mr. Greeley,Mr. Brady,5.0,2.5,52.5,2.0,grow
+Mr. Poe,Mr. Greeley,1.5625,1.0416666666666665,59.895833333333336,1.5,do think be be have say
+Mr. Poe,Mr. Greeley,1.5625,1.0416666666666665,59.895833333333336,1.5,do think be be have say
+Miss Lynch,Mr. Poe,1.5625,3.90625,44.53125,0.4,exclaim present
+Mr. Willis,Mr. Morris,0.0,0.5434782608695652,53.80434782608695,0.0,flutter sweep
+Mr. Audubon,Mrs. Poe,2.840909090909091,0.0,56.25,INF,step put dangle
+Mr. Audubon,Mrs. Poe,2.840909090909091,0.0,56.25,INF,step put dangle
+Mrs. Poe,Mr. Audubon,2.840909090909091,0.0,56.25,INF,step put dangle
+Mr. Audubon,Mr. Poe,3.125,7.8125,51.5625,0.4,shield pursue
+Mrs. Poe,Miss Fuller,2.272727272727273,0.5681818181818182,65.3409090909091,4.0,sound be be
+Miss Fuller,Mrs. Poe,2.272727272727273,0.5681818181818182,65.3409090909091,4.0,sound be be
+Mr. Audubon,Mrs. Poe,5.555555555555555,0.0,50.0,INF,fold
+Mrs. Poe,Mr. Audubon,5.555555555555555,0.0,50.0,INF,fold
+Miss Fuller,Mr. Poe,1.25,1.25,77.5,1.0,see detain
+Mr. Greeley,Mr. Brady,2.5,1.25,66.25,2.0,pretend listen observe
+Mr. Greeley,Mr. Poe,2.5,1.25,66.25,2.0,pretend listen observe
+Mr. Greeley,Mr. Poe,2.5,1.25,66.25,2.0,pretend listen observe
+Mr. Brady,Mr. Poe,2.5,1.25,66.25,2.0,pretend listen observe
+Mr. Brady,Mr. Poe,2.5,1.25,66.25,2.0,pretend listen observe
+Mr. Poe,Miss Fiske,4.573170731707317,0.6097560975609756,55.79268292682927,7.5,stop be listen have die have deepen enable feel
+Mr. Poe,Miss Fiske,4.573170731707317,0.6097560975609756,55.79268292682927,7.5,stop be listen have die have deepen enable feel
+Mr. Poe,Miss Fiske,4.573170731707317,0.6097560975609756,55.79268292682927,7.5,stop be listen have die have deepen enable feel
+Mr. Poe,Miss Fiske,4.573170731707317,0.6097560975609756,55.79268292682927,7.5,stop be listen have die have deepen enable feel
+Mr. Poe,Miss Fiske,4.573170731707317,0.6097560975609756,55.79268292682927,7.5,stop be listen have die have deepen enable feel
+Miss Fiske,Mr. Poe,5.0,0.0,45.0,INF,peer
+Mr. Poe,Miss Fiske,3.4090909090909087,0.0,60.22727272727273,INF,glance
+Mr. Poe,Eliza,0.0,0.0,37.5,INF,turn gaze
+Mr. Poe,Eliza,0.0,0.0,37.5,INF,turn gaze
+Mr. Poe,Mrs. Osgood,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mr. Poe,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mr. Poe,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mr. Poe,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mrs. Osgood,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mrs. Osgood,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mrs. Osgood,Fanny,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be call
+Mrs. Butler,Miss Lynch,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Mrs. Butler,Miss Lynch,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Mrs. Butler,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Mrs. Butler,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Miss Lynch,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Miss Lynch,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Miss Lynch,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Miss Lynch,Mr. Andrews,2.083333333333333,1.6666666666666667,66.25,1.25,be vilify have be brave invite have invite
+Mrs. Butler,Mr. Poe,3.289473684210526,0.0,33.55263157894737,INF,be speak say
+Mr. Poe,Mrs. Butler,1.3888888888888888,2.7777777777777777,51.388888888888886,0.5,stare dim
+Mr. Poe,Mrs. Butler,1.3888888888888888,2.7777777777777777,51.388888888888886,0.5,stare dim
+Miss Lynch,Mr. Whitman,8.552631578947368,2.631578947368421,57.23684210526315,3.25,call wish read
+Mr. Poe,Mrs. Butler,0.7352941176470588,0.0,52.20588235294118,INF,gather notice
+Mr. Poe,Mr. Whitman,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Poe,Mrs. Butler,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Poe,Mr. Whitman,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Poe,Mrs. Butler,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Whitman,Mr. Poe,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Whitman,Mrs. Butler,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mr. Poe,Mrs. Butler,2.4456521739130435,2.989130434782609,59.78260869565217,0.8181818181818182,have be flutter have feel have be stand begin cough
+Mrs. Poe,Mr. Poe,3.6764705882352944,3.6764705882352944,45.588235294117645,1.0,regain excuse
+Mrs. Poe,Mr. Poe,3.6764705882352944,3.6764705882352944,45.588235294117645,1.0,regain excuse
+Mr. Poe,Mrs. Butler,2.232142857142857,3.571428571428571,58.48214285714286,0.625,leave hold have flash
+Mr. Poe,New York Society Library,5.833333333333333,1.25,56.25,4.666666666666667,know have go hear give
+Mr. Poe,Ann Street,4.545454545454546,2.272727272727273,56.81818181818182,2.0,tip stride
+Mr. Poe,Ann Street,4.545454545454546,2.272727272727273,56.81818181818182,2.0,tip stride
+Margaret,Astor House,0.0,0.0,57.14285714285714,INF,be wave
+Miss Fuller,Madame Restell,0.8333333333333334,1.6666666666666667,30.833333333333336,0.5,see puzzle say
+Miss Fuller,Madame Restell,0.8333333333333334,1.6666666666666667,30.833333333333336,0.5,see puzzle say
+Mr. Poe,Mr. Longfellow,0.0,0.0,62.5,INF,accuse
+Mr. Poe,Mr. Bryant,3.571428571428571,0.0,25.0,INF,call
+Mr. Poe,Miss Lynch,0.0,0.8333333333333334,59.166666666666664,0.0,do think remember
+Mr. Poe,Miss Fuller,1.9736842105263157,1.9736842105263157,48.68421052631579,1.0,be say be seat
+Frances,Miss Lynch,0.0,1.25,58.75,0.0,meet
+Miss Fuller,Samuel,7.954545454545454,2.272727272727273,62.5,3.5,wonder know
+Mr. Morris,Mr. Willis,2.604166666666667,0.0,51.5625,INF,salute
+Mr. Morris,Mr. Willis,2.604166666666667,0.0,51.5625,INF,salute
+Mr. Poe,Miss Fuller,3.3333333333333335,0.0,36.666666666666664,INF,tell come instruct
+Mr. Poe,Mrs. Osgood,0.0,2.976190476190476,39.88095238095239,0.0,ask give ask
+Mr. Poe,Mrs. Osgood,0.0,2.976190476190476,39.88095238095239,0.0,ask give ask
+Mrs. Osgood,Mr. Poe,2.8846153846153846,0.4807692307692308,42.78846153846153,6.0,believe be say like speak
+Mrs. Osgood,Mr. Poe,2.8846153846153846,0.4807692307692308,42.78846153846153,6.0,believe be say like speak
+Mr. Poe,Frances,6.25,0.0,33.75,INF,do know take
+Mr. Poe,Frances,6.25,0.0,33.75,INF,do know take
+Mr. Poe,New York Society Library,2.232142857142857,4.464285714285714,57.58928571428571,0.5,have champion withdraw say
+New York Society Library,Mr. Poe,2.232142857142857,4.464285714285714,57.58928571428571,0.5,have champion withdraw say
+New York Society Library,Mr. Poe,2.232142857142857,4.464285714285714,57.58928571428571,0.5,have champion withdraw say
+Mr. Poe,Mrs. Osgood,0.0,4.166666666666666,49.166666666666664,0.0,do answer say thank
+Mrs. Poe,Mrs. Osgood,4.6875,1.5625,39.58333333333333,3.0,like encourage show delight
+Mrs. Poe,Mrs. Osgood,4.6875,1.5625,39.58333333333333,3.0,like encourage show delight
+Mrs. Poe,Mrs. Osgood,4.6875,1.5625,39.58333333333333,3.0,like encourage show delight
+Mrs. Poe,Mrs. Osgood,4.6875,1.5625,39.58333333333333,3.0,like encourage show delight
+Eliza,Miss Lynch,0.0,1.3888888888888888,43.05555555555556,0.0,attend
+Miss Fuller,Mr. Greeley,0.78125,0.0,61.71875,INF,be surprise motion join
+Frances,Miss Fuller,0.0,0.0,50.0,INF,be keep claim say
+Frances,Mr. Greeley,0.0,0.0,50.0,INF,be keep claim say
+Miss Fuller,Mr. Greeley,0.0,0.0,50.0,INF,be keep claim say
+Mrs. Poe,Miss Fuller,2.2058823529411766,0.7352941176470588,61.76470588235294,3.0,have be try interview say
+Frances,Astor House,0.0,0.6944444444444444,49.30555555555556,0.0,sashay
+Mrs. Osgood,Miss Fuller,4.861111111111112,3.4722222222222223,47.22222222222222,1.4,cut
+Mrs. Osgood,Mr. Greeley,4.861111111111112,3.4722222222222223,47.22222222222222,1.4,cut
+Miss Fuller,Mr. Greeley,4.861111111111112,3.4722222222222223,47.22222222222222,1.4,cut
+Mr. Poe,Frances,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Poe,Frances,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Poe,New York Society Library,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Poe,Miss Fuller,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Poe,Frances,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Poe,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,New York Society Library,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,Miss Fuller,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,New York Society Library,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,Miss Fuller,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+New York Society Library,Miss Fuller,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+New York Society Library,Frances,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+New York Society Library,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Miss Fuller,Frances,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Miss Fuller,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Frances,Mr. Longfellow,0.0,0.0,57.57575757575758,INF,recall praise say crucify
+Mr. Greeley,Mr. Brady,1.4705882352941175,0.7352941176470588,74.26470588235294,2.0,call be pass
+Mr. Poe,Mrs. Osgood,0.78125,0.0,49.21875,INF,ask visit say
+Mr. Poe,Mr. Greeley,0.78125,0.0,49.21875,INF,ask visit say
+Mrs. Osgood,Mr. Poe,0.78125,0.0,49.21875,INF,ask visit say
+Mrs. Osgood,Mr. Greeley,0.78125,0.0,49.21875,INF,ask visit say
+Mr. Poe,Mr. Greeley,0.78125,0.0,49.21875,INF,ask visit say
+Mr. Poe,Mrs. Osgood,5.208333333333334,3.125,50.0,1.6666666666666667,delight
+Mrs. Osgood,Miss Fuller,0.0,0.0,55.55555555555556,INF,do have be say
+Mrs. Osgood,Miss Fuller,0.0,0.0,55.55555555555556,INF,do have be say
+Mr. Poe,Mrs. Osgood,2.941176470588235,0.0,61.76470588235294,INF,say go have set say
+Mr. Poe,Mr. Brady,1.7857142857142856,3.571428571428571,51.78571428571429,0.5,see be worry say
+Mr. Poe,Mrs. Osgood,0.0,0.0,53.84615384615385,INF,whisk
+Mr. Poe,Mrs. Osgood,3.125,3.75,48.125,0.8333333333333334,have wonder be be say
+Mr. Poe,Miss Fuller,3.125,3.75,48.125,0.8333333333333334,have wonder be be say
+Mrs. Osgood,Miss Fuller,3.125,3.75,48.125,0.8333333333333334,have wonder be be say
+Mrs. Osgood,Mr. Greeley,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,have be thirteen marry say tell have be
+Mr. Poe,Mrs. Poe,5.208333333333334,0.0,44.79166666666667,INF,tell teach
+Mr. Poe,Mrs. Poe,5.208333333333334,0.0,44.79166666666667,INF,tell teach
+Mr. Greeley,David,3.3854166666666665,0.78125,45.83333333333333,4.333333333333333,lay flare be
+Mr. Greeley,David,3.3854166666666665,0.78125,45.83333333333333,4.333333333333333,lay flare be
+Mr. Greeley,David,3.3854166666666665,0.78125,45.83333333333333,4.333333333333333,lay flare be
+Mr. Greeley,David,3.3854166666666665,0.78125,45.83333333333333,4.333333333333333,lay flare be
+Mr. Greeley,David,3.3854166666666665,0.78125,45.83333333333333,4.333333333333333,lay flare be
+Mrs. Osgood,Miss Fuller,1.3157894736842104,0.0,40.78947368421053,INF,say have meet
+Mrs. Osgood,Reverend Griswold,1.3157894736842104,0.0,40.78947368421053,INF,say have meet
+Miss Fuller,Reverend Griswold,1.3157894736842104,0.0,40.78947368421053,INF,say have meet
+Griswold,Mrs. Osgood,7.8125,0.0,17.1875,INF,know
+Griswold,Miss Fuller,0.0,0.0,33.33333333333333,INF,say
+Margaret,Reverend Griswold,0.0,0.0,33.33333333333333,INF,say
+Margaret,Mr. Greeley,0.0,0.0,33.33333333333333,INF,say
+Reverend Griswold,Mr. Greeley,0.0,0.0,33.33333333333333,INF,say
+Frances,Poes,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,have be invite
+Frances,Griswold,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,have be invite
+Poes,Griswold,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,have be invite
+Mr. Poe,Miss Fuller,2.734375,3.125,47.265625,0.875,suspect wend bludgeon say
+Mr. Poe,Miss Fuller,2.734375,3.125,47.265625,0.875,suspect wend bludgeon say
+Mr. Brady,Mr. Poe,0.5681818181818182,0.0,44.88636363636363,INF,be say convince come sit
+Griswold,Mr. Poe,0.0,0.0,37.5,INF,get
+Mrs. Osgood,Mr. Poe,1.7045454545454544,0.5681818181818182,34.090909090909086,3.0,say stroke be
+Mrs. Osgood,Mr. Poe,1.7045454545454544,0.5681818181818182,34.090909090909086,3.0,say stroke be
+Mrs. Osgood,Mrs. Clemm,1.7045454545454544,0.5681818181818182,34.090909090909086,3.0,say stroke be
+Mr. Poe,Mrs. Clemm,1.7045454545454544,0.5681818181818182,34.090909090909086,3.0,say stroke be
+Mr. Poe,Mrs. Clemm,1.7045454545454544,0.5681818181818182,34.090909090909086,3.0,say stroke be
+Mrs. Clemm,Mr. Poe,2.941176470588235,5.147058823529411,50.73529411764706,0.5714285714285714,tell have say
+Eddie,Broadway Journal,0.0,0.0,33.33333333333333,INF,have hear
+Mother,Mrs. Poe,9.821428571428571,0.8928571428571428,60.71428571428571,11.0,make add
+Ellen,Vinnie,2.631578947368421,1.3157894736842104,43.42105263157895,2.0,be go call be
+Eddie,Mrs. Poe,5.208333333333334,0.0,53.125,INF,have teach announce
+Mrs. Poe,Mr. Poe,2.314814814814815,0.0,60.64814814814815,INF,sit sip cough produce
+Mrs. Poe,Mr. Poe,2.314814814814815,0.0,60.64814814814815,INF,sit sip cough produce
+Mrs. Poe,Mr. Poe,2.314814814814815,0.0,60.64814814814815,INF,sit sip cough produce
+Mrs. Poe,Mr. Poe,2.314814814814815,0.0,60.64814814814815,INF,sit sip cough produce
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,1.524390243902439,53.65853658536586,0.6,urge drink down jump retrieve pour
+Mrs. Poe,Mr. Poe,1.3392857142857142,3.125,63.39285714285714,0.42857142857142855,bark rub wring be
+Mr. Poe,Mrs. Poe,1.3392857142857142,3.125,63.39285714285714,0.42857142857142855,bark rub wring be
+Mr. Poe,Mrs. Poe,1.3392857142857142,3.125,63.39285714285714,0.42857142857142855,bark rub wring be
+Mr. Poe,Mrs. Poe,1.3392857142857142,3.125,63.39285714285714,0.42857142857142855,bark rub wring be
+Mr. Poe,Mrs. Poe,1.1363636363636365,7.954545454545454,45.45454545454545,0.14285714285714285,hold
+Mrs. Poe,Mr. Poe,1.1363636363636365,7.954545454545454,45.45454545454545,0.14285714285714285,hold
+Mrs. Poe,Mr. Poe,0.7352941176470588,2.2058823529411766,61.76470588235294,0.3333333333333333,pull drape
+Mr. Poe,Mrs. Poe,0.7352941176470588,2.2058823529411766,61.76470588235294,0.3333333333333333,pull drape
+Mr. Poe,Mrs. Poe,0.7352941176470588,2.2058823529411766,61.76470588235294,0.3333333333333333,pull drape
+Mr. Poe,Mrs. Poe,0.7352941176470588,2.2058823529411766,61.76470588235294,0.3333333333333333,pull drape
+Mrs. Poe,Mr. Poe,1.7045454545454544,2.272727272727273,64.20454545454545,0.75,sink watch help
+Mr. Poe,Mrs. Clemm,0.625,0.0,54.37499999999999,INF,watch go upright polish shamble
+Mr. Poe,Eliza,3.5000000000000004,1.0,47.5,3.5,be glean speak
+Eliza,Mr. Poe,0.6578947368421052,0.0,62.5,INF,say do tell leave call
+Mr. Griswold,Russell,5.952380952380952,1.1904761904761905,50.0,5.0,be say have
+Mr. Griswold,Russell,5.952380952380952,1.1904761904761905,50.0,5.0,be say have
+Eliza,Mary,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Eliza,Miss Fiske,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Eliza,Miss Lynch,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Mary,Miss Fiske,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Mary,Miss Lynch,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Miss Fiske,Miss Lynch,1.7857142857142856,4.166666666666666,57.53968253968254,0.42857142857142855,strike button be take look fit set be muster give have
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Miss Lynch,Samuel,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Samuel,Miss Lynch,3.787878787878788,5.303030303030303,45.45454545454545,0.7142857142857143,have scoff have learn live be
+Vinnie,Mary,1.3888888888888888,0.0,54.166666666666664,INF,stroke arrange
+Mary,Mrs. Butler,3.75,2.5,37.083333333333336,1.5,do know be renown
+Mary,Miss Lynch,3.75,2.5,37.083333333333336,1.5,do know be renown
+Mary,Miss Lynch,3.75,2.5,37.083333333333336,1.5,do know be renown
+Mrs. Butler,Miss Lynch,3.75,2.5,37.083333333333336,1.5,do know be renown
+Mrs. Butler,Miss Lynch,3.75,2.5,37.083333333333336,1.5,do know be renown
+Mary,Miss Lynch,0.0,0.0,38.46153846153847,INF,thank say finish
+Mary,Eliza,5.147058823529411,0.7352941176470588,52.94117647058824,7.0,claim be
+Ellen,Samuel,1.1029411764705883,6.985294117647059,47.794117647058826,0.15789473684210525,step gather hurt be have be hurt
+Ellen,Samuel,1.1029411764705883,6.985294117647059,47.794117647058826,0.15789473684210525,step gather hurt be have be hurt
+Ellen,Samuel,1.1029411764705883,6.985294117647059,47.794117647058826,0.15789473684210525,step gather hurt be have be hurt
+Ellen,Samuel,1.1029411764705883,6.985294117647059,47.794117647058826,0.15789473684210525,step gather hurt be have be hurt
+Vinnie,Ellen,0.7352941176470588,4.411764705882353,41.911764705882355,0.16666666666666666,open bring
+Vinnie,Ellen,0.0,0.0,40.0,INF,wipe
+Ellen,Miss Fuller,3.6458333333333335,0.5208333333333333,62.5,7.0,have meet have be
+Ellen,Miss Fuller,3.6458333333333335,0.5208333333333333,62.5,7.0,have meet have be
+Eliza,Mr. Poe,3.804347826086957,0.0,52.71739130434783,INF,be be find like
+Samuel,Mr. Poe,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Miss Fuller,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Mr. Greeley,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Mr. Poe,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Miss Fuller,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Mr. Greeley,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Mr. Poe,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Miss Fuller,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Samuel,Mr. Greeley,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Mr. Poe,Miss Fuller,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Mr. Poe,Mr. Greeley,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Miss Fuller,Mr. Greeley,4.017857142857143,1.3392857142857142,67.85714285714286,3.0,fasten have give have be court have give have feel have speak
+Miss Fuller,Mr. Greeley,5.113636363636364,0.5681818181818182,57.95454545454546,9.0,be relieve find be
+Miss Lynch,Mrs. Butler,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Miss Lynch,Mrs. Butler,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Miss Lynch,Mrs. Butler,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Miss Lynch,Reverend Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Miss Lynch,Mr. Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Reverend Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Mr. Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Reverend Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Mr. Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Reverend Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Mrs. Butler,Mr. Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Reverend Griswold,Mr. Griswold,1.8764150943396225,2.840566037735849,53.77358490566038,0.6605778811026236,be free be observe have interact relax be rebuff puncture
+Eliza,Russell,0.0,3.4722222222222223,46.52777777777778,0.0,shake
+Eliza,Russell,0.0,3.4722222222222223,46.52777777777778,0.0,shake
+Eliza,Russell,0.0,3.4722222222222223,46.52777777777778,0.0,shake
+Eliza,Russell,0.0,3.4722222222222223,46.52777777777778,0.0,shake
+Mrs. Butler,Mr. Davis,0.0,0.0,66.66666666666666,INF,step
+Mr. Davis,Mrs. Butler,2.2058823529411766,0.0,62.5,INF,seat pull
+Mrs. Butler,Mr. Davis,2.2058823529411766,0.0,62.5,INF,seat pull
+Miss Lynch,Mr. Poe,0.0,1.7857142857142856,55.35714285714286,0.0,flit
+Mr. Davis,Mrs. Butler,4.861111111111112,2.083333333333333,65.27777777777779,2.3333333333333335,be get see put
+Mr. Poe,Miss Lynch,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,catch lead have be occupy
+Mr. Poe,Miss Lynch,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,catch lead have be occupy
+Miss Lynch,Mr. Poe,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,catch lead have be occupy
+Mr. Poe,Miss Lynch,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,catch lead have be occupy
+Mr. Davis,Miss Lynch,6.081081081081082,1.3513513513513513,60.13513513513513,4.5,watch take shine have look lift
+Mr. Davis,Miss Lynch,6.081081081081082,1.3513513513513513,60.13513513513513,4.5,watch take shine have look lift
+Mr. Davis,Miss Lynch,6.081081081081082,1.3513513513513513,60.13513513513513,4.5,watch take shine have look lift
+Mr. Davis,Miss Lynch,6.081081081081082,1.3513513513513513,60.13513513513513,4.5,watch take shine have look lift
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Miss Lynch,Mr. Davis,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Miss Lynch,Mr. Davis,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Mr. Davis,Miss Lynch,2.586206896551724,0.8620689655172413,41.37931034482759,3.0,hear command follow hear tell be get
+Miss Lynch,Mr. Davis,0.0,0.0,61.53846153846154,INF,witness grow step close put
+Miss Lynch,Mr. Davis,0.0,0.0,61.53846153846154,INF,witness grow step close put
+Mr. Greeley,Miss Fuller,0.0,0.0,71.42857142857143,INF,stir reveal tiptoe recognize be
+Mr. Greeley,Tribune,0.0,0.0,71.42857142857143,INF,stir reveal tiptoe recognize be
+Miss Fuller,Tribune,0.0,0.0,71.42857142857143,INF,stir reveal tiptoe recognize be
+Miss Fuller,Miss Lynch,1.6666666666666667,0.8333333333333334,70.83333333333334,2.0,take have find
+Miss Fuller,Miss Lynch,1.6666666666666667,0.8333333333333334,70.83333333333334,2.0,take have find
+Mrs. Butler,Mr. Davis,0.8928571428571428,0.8928571428571428,83.92857142857143,1.0,be meow
+Mr. Davis,Mrs. Butler,2.6785714285714284,0.0,47.32142857142857,INF,command sleep ask see
+Mr. Davis,Mrs. Butler,2.6785714285714284,0.0,47.32142857142857,INF,command sleep ask see
+Mr. Davis,Mrs. Butler,2.6785714285714284,0.0,47.32142857142857,INF,command sleep ask see
+Anne,Mrs. Butler,0.0,7.6923076923076925,38.46153846153847,0.0,whisper
+Anne,Miss Lynch,0.0,7.6923076923076925,38.46153846153847,0.0,whisper
+Mrs. Butler,Miss Lynch,0.0,7.6923076923076925,38.46153846153847,0.0,whisper
+Mr. Davis,Mr. Poe,0.8928571428571428,0.0,63.39285714285714,INF,laugh notice
+Mr. Poe,Mr. Davis,2.8846153846153846,0.9615384615384616,73.07692307692307,3.0,break take
+Miss Fuller,Mr. Poe,6.25,3.125,65.625,2.0,strain see be occupy
+Anne,Mr. Poe,10.416666666666668,4.166666666666666,35.41666666666667,2.5,ask whisper
+Mr. Poe,Mr. Andrews,1.0416666666666665,0.0,82.29166666666666,INF,glance engage
+Mr. Poe,Griswold,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,doubt take say
+Mr. Poe,Miss Fuller,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,doubt take say
+Griswold,Miss Fuller,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,doubt take say
+Reverend Griswold,Griswold,8.333333333333332,1.0416666666666665,65.625,8.0,raise
+Eddie,Mrs. Poe,1.1363636363636365,5.681818181818182,38.63636363636363,0.2,say
+Mrs. Clemm,Mr. Poe,5.729166666666666,0.0,52.604166666666664,INF,seem tell think
+Mrs. Clemm,Mr. Poe,5.729166666666666,0.0,52.604166666666664,INF,seem tell think
+Mrs. Poe,Samuel,12.5,0.0,51.78571428571429,INF,be favor
+Samuel,Mrs. Poe,2.6785714285714284,4.464285714285714,50.0,0.6,know draw
+Samuel,Mrs. Poe,2.6785714285714284,4.464285714285714,50.0,0.6,know draw
+Samuel,Mrs. Poe,2.6785714285714284,4.464285714285714,50.0,0.6,know draw
+Mrs. Clemm,Mrs. Poe,1.5625,0.0,56.770833333333336,INF,have rush return be
+Mr. Poe,Mrs. Poe,1.1363636363636365,0.0,62.5,INF,be do snatch shove
+Mrs. Poe,Mrs. Clemm,0.0,0.5952380952380952,51.78571428571429,0.0,give prompt jump trot
+Mrs. Poe,Mrs. Clemm,0.0,0.5952380952380952,51.78571428571429,0.0,give prompt jump trot
+Gilbert Stuart,Mr. Poe,1.488095238095238,0.8928571428571428,47.61904761904761,1.6666666666666667,say nail say make see
+Mrs. Clemm,Mr. Poe,0.0,0.0,58.82352941176471,INF,retreat return be fray take hurry
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mrs. Poe,Mr. Poe,3.3333333333333335,0.5555555555555556,56.111111111111114,6.0,look have bring recall have be do have compose stare
+Mr. Poe,Mrs. Poe,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,respond be produce fade hold
+Mrs. Poe,Mr. Poe,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,give
+Mr. Poe,Mrs. Poe,1.8518518518518516,0.0,53.70370370370371,INF,take rise stalk stroll
+Mrs. Poe,Mr. Poe,1.8518518518518516,0.0,53.70370370370371,INF,take rise stalk stroll
+Mrs. Poe,Eddie,2.604166666666667,1.0416666666666665,58.854166666666664,2.5,ooze chatter play
+Mrs. Poe,Eddie,2.604166666666667,1.0416666666666665,58.854166666666664,2.5,ooze chatter play
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mrs. Poe,Mr. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mrs. Poe,Mr. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mrs. Poe,Mr. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mrs. Poe,Mr. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mr. Poe,Mrs. Poe,0.7142857142857143,0.0,62.142857142857146,INF,be return say cut bite renew
+Mrs. Clemm,Mrs. Poe,0.8064516129032258,0.4032258064516129,53.62903225806451,2.0,spoon get excuse leave
+Miss Lynch,Vinnie,0.0,0.43103448275862066,61.63793103448276,0.0,step follow stop lean look
+Vinnie,Miss Lynch,0.0,0.43103448275862066,61.63793103448276,0.0,step follow stop lean look
+Eliza,Miss Lynch,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Eliza,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Eliza,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Eliza,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Miss Lynch,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Miss Lynch,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Miss Lynch,Mary,1.7361111111111112,1.0416666666666665,58.333333333333336,1.6666666666666667,enter have be invite pause
+Mr. Poe,Vinnie,4.807692307692308,0.0,33.65384615384615,INF,want go explain
+Mr. Poe,Eliza,3.9893617021276597,0.7978723404255319,61.170212765957444,5.0,have bring tell have save get keep have insist take have determine be
+Eliza,Mr. Poe,3.9893617021276597,0.7978723404255319,61.170212765957444,5.0,have bring tell have save get keep have insist take have determine be
+Miss Fuller,Miss Lynch,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,march tell
+Miss Fuller,Miss Lynch,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,march tell
+Miss Lynch,Eliza,0.0,0.0,25.0,INF,nod
+Miss Lynch,Eliza,0.0,0.0,25.0,INF,nod
+Eliza,Frances,0.0,0.0,40.0,INF,say
+Miss Fuller,Eliza,1.1029411764705883,0.3676470588235294,51.470588235294116,3.0,shake wait remove wrap pile take
+Miss Fuller,Miss Lynch,1.1029411764705883,0.3676470588235294,51.470588235294116,3.0,shake wait remove wrap pile take
+Eliza,Miss Lynch,1.1029411764705883,0.3676470588235294,51.470588235294116,3.0,shake wait remove wrap pile take
+Miss Lynch,Vinnie,0.0,6.944444444444445,37.5,0.0,ask take
+Vinnie,Miss Lynch,0.0,6.944444444444445,37.5,0.0,ask take
+Mr. Poe,Vinnie,10.227272727272728,0.0,35.22727272727273,INF,save explain
+Vinnie,Eliza,0.0,0.0,45.0,INF,run trudge
+Vinnie,Ellen,0.0,0.0,45.0,INF,run trudge
+Vinnie,Eliza,0.0,0.0,45.0,INF,run trudge
+Vinnie,Mary,0.0,0.0,45.0,INF,run trudge
+Vinnie,Eliza,0.0,0.0,45.0,INF,run trudge
+Eliza,Ellen,0.0,0.0,45.0,INF,run trudge
+Eliza,Mary,0.0,0.0,45.0,INF,run trudge
+Ellen,Eliza,0.0,0.0,45.0,INF,run trudge
+Ellen,Mary,0.0,0.0,45.0,INF,run trudge
+Ellen,Eliza,0.0,0.0,45.0,INF,run trudge
+Eliza,Mary,0.0,0.0,45.0,INF,run trudge
+Mary,Eliza,0.0,0.0,45.0,INF,run trudge
+Miss Lynch,Mr. Bartlett,0.0,1.25,58.75,0.0,leave
+Eliza,Miss Fuller,0.0,0.0,68.0,INF,throw take usher
+Mr. Greeley,Astor House,0.0,0.0,75.0,INF,have
+Reverend Griswold,Mr. Griswold,0.78125,0.0,55.46875,INF,live be
+Miss Fuller,Samuel,9.166666666666666,6.666666666666667,37.5,1.375,have know abandon
+Miss Fuller,Samuel,9.166666666666666,6.666666666666667,37.5,1.375,have know abandon
+Boston Lyceum,Mr. Poe,2.75,1.0,62.25000000000001,2.75,compare commend submit explain prefer remain
+Boston Lyceum,Mr. Poe,2.75,1.0,62.25000000000001,2.75,compare commend submit explain prefer remain
+Mr. Poe,Miss Fuller,3.4482758620689653,3.0172413793103448,45.258620689655174,1.1428571428571428,accept publish be make
+Mr. Poe,Miss Fuller,3.4482758620689653,3.0172413793103448,45.258620689655174,1.1428571428571428,accept publish be make
+Frances,Mrs. Poe,0.9615384615384616,0.4807692307692308,52.40384615384615,2.0,come be look
+Broadway Journal,Mr. Poe,1.1904761904761905,0.0,55.952380952380956,INF,accept go
+Miss Fuller,Tribune,0.6578947368421052,0.6578947368421052,59.210526315789465,1.0,support write
+Miss Fuller,Godey,0.6578947368421052,0.6578947368421052,59.210526315789465,1.0,support write
+Tribune,Godey,0.6578947368421052,0.6578947368421052,59.210526315789465,1.0,support write
+Mr. Greeley,Miss Fuller,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,arrive shine draw
+Margaret,Poes,0.9615384615384616,2.8846153846153846,50.0,0.3333333333333333,want write
+Griswold,Eliza,0.0,0.0,57.14285714285714,INF,say watch
+Reverend Griswold,Griswold,3.214285714285714,2.142857142857143,57.49999999999999,1.5,bring pay take give be
+Miss Lynch,Griswold,0.0,0.8333333333333334,59.166666666666664,0.0,rush greet beat
+Miss Lynch,Miss Fuller,0.0,0.8333333333333334,59.166666666666664,0.0,rush greet beat
+Miss Lynch,Miss Fuller,0.0,0.8333333333333334,59.166666666666664,0.0,rush greet beat
+Griswold,Miss Fuller,0.0,0.8333333333333334,59.166666666666664,0.0,rush greet beat
+Griswold,Miss Fuller,0.0,0.8333333333333334,59.166666666666664,0.0,rush greet beat
+Mr. Poe,Miss Fuller,5.208333333333334,0.0,78.125,INF,look pump
+Miss Fuller,Mr. Poe,5.208333333333334,0.0,78.125,INF,look pump
+Miss Lynch,Mr. Poe,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Miss Lynch,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Miss Lynch,Mr. Poe,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Miss Lynch,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Miss Lynch,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Mr. Poe,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Mr. Poe,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Mr. Poe,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Miss Fuller,Mr. Poe,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Mr. Poe,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Mr. Poe,Miss Fuller,3.8461538461538463,2.8846153846153846,58.65384615384615,1.3333333333333333,let lead jangle speak
+Reverend Griswold,Griswold,1.4423076923076923,0.0,56.25,INF,return be list be include
+Mr. Poe,Miss Fuller,0.7352941176470588,0.0,58.08823529411765,INF,smile be disengage
+Mr. Longfellow,Mr. Poe,7.5,2.5,40.0,3.0,consider be say
+Miss Fiske,Miss Alcott,0.0,0.0,50.0,INF,rustle
+Mr. Poe,Eliza,1.6203703703703702,0.0,59.49074074074075,INF,remind do have have include have submit argue accept come say do
+Eliza,Mr. Poe,1.6203703703703702,0.0,59.49074074074075,INF,remind do have have include have submit argue accept come say do
+Eliza,Mr. Poe,1.6203703703703702,0.0,59.49074074074075,INF,remind do have have include have submit argue accept come say do
+Eliza,Mr. Poe,1.6203703703703702,0.0,59.49074074074075,INF,remind do have have include have submit argue accept come say do
+Eliza,Mr. Poe,2.7439024390243905,1.8292682926829267,63.71951219512195,1.5,sit compose feel explain
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Eliza,Henry,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Henry,Eliza,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Henry,Eliza,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,feel sew play
+Vinnie,Mary,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Vinnie,Mary,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Vinnie,Anna,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Vinnie,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Vinnie,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Anna,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Anna,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Mary,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Anna,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Anna,Ellen,2.450980392156863,2.2058823529411766,63.970588235294116,1.1111111111111112,feel feed give be read
+Miss Fuller,Margaret,0.8928571428571428,5.357142857142857,47.32142857142857,0.16666666666666666,thank say know be do like
+Miss Fuller,Margaret,0.8928571428571428,5.357142857142857,47.32142857142857,0.16666666666666666,thank say know be do like
+Miss Fuller,Mr. Poe,0.0,0.0,35.0,INF,say tell be
+Miss Fuller,Mr. Poe,0.0,0.0,35.0,INF,say tell be
+Mr. Poe,Astor House,2.8846153846153846,1.9230769230769231,56.730769230769226,1.5,expect
+Tribune,Mr. Poe,0.0,0.8928571428571428,45.535714285714285,0.0,want write dig
+Mr. Barnum,Ann Street,0.0,0.0,59.09090909090909,INF,land
+Mr. Poe,Christ,0.3205128205128205,0.641025641025641,52.88461538461539,0.5,agitate continue
+Mr. Poe,Madame Restell,2.7777777777777777,3.4722222222222223,65.97222222222221,0.8,think do like have live
+Mr. Poe,Madame Restell,2.7777777777777777,3.4722222222222223,65.97222222222221,0.8,think do like have live
+Mr. Poe,Mrs. Poe,2.2058823529411766,1.4705882352941175,55.14705882352941,1.5,mean be say
+Eddie,Mamma,4.861111111111112,0.0,45.13888888888889,INF,leave be
+Eddie,Boston Lyceum,4.861111111111112,0.0,45.13888888888889,INF,leave be
+Mamma,Eddie,4.861111111111112,0.0,45.13888888888889,INF,leave be
+Mamma,Boston Lyceum,4.861111111111112,0.0,45.13888888888889,INF,leave be
+Eddie,Boston Lyceum,4.861111111111112,0.0,45.13888888888889,INF,leave be
+Eddie,Mamma,3.571428571428571,0.4464285714285714,49.55357142857143,8.0,have adopt be snatch
+Eddie,Mamma,3.571428571428571,0.4464285714285714,49.55357142857143,8.0,have adopt be snatch
+Mrs. Clemm,Eddie,1.3392857142857142,2.232142857142857,46.42857142857143,0.6,say meet say treat
+Mrs. Clemm,Eddie,1.3392857142857142,2.232142857142857,46.42857142857143,0.6,say meet say treat
+Mr. Allan,Eddie,1.0,3.5000000000000004,55.50000000000001,0.2857142857142857,send board be
+Eddie,Mr. Allan,1.0,3.5000000000000004,55.50000000000001,0.2857142857142857,send board be
+Mr. Allan,Eddie,0.0,0.0,41.66666666666667,INF,let come say warm
+Mr. Allan,Eddie,0.0,0.0,41.66666666666667,INF,let come say warm
+Mr. Allan,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Mr. Allan,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Eddie,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Eddie,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Eddie,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Eddie,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,let come say warm
+Eddie,Mr. Allan,3.8793103448275863,0.8620689655172413,46.98275862068966,4.5,go give eat let buy
+Eddie,Mr. Allan,3.8793103448275863,0.8620689655172413,46.98275862068966,4.5,go give eat let buy
+Mrs. Poe,Mr. Allan,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,demand do tell
+Mrs. Poe,Mr. Allan,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,demand do tell
+Mrs. Poe,Mr. Poe,1.6666666666666667,0.0,58.333333333333336,INF,watch come
+Mrs. Poe,Mr. Poe,1.6666666666666667,0.0,58.333333333333336,INF,watch come
+Mr. Poe,Mrs. Poe,1.6666666666666667,0.0,58.333333333333336,INF,watch come
+Mrs. Poe,Mr. Poe,1.6666666666666667,0.0,58.333333333333336,INF,watch come
+Mrs. Osgood,Mrs. Poe,6.25,1.25,52.5,5.0,be tell cheat say
+Mr. Allan,Eddie,0.0,0.0,62.5,INF,die be do leave
+Mr. Allan,Eddie,0.0,0.0,62.5,INF,die be do leave
+Mr. Allan,Eddie,0.0,0.0,62.5,INF,die be do leave
+Eddie,Mrs. Clemm,0.0,0.0,50.0,INF,be write say whisk
+Eddie,Mrs. Clemm,0.0,0.0,50.0,INF,be write say whisk
+Eddie,Mrs. Poe,1.25,0.0,58.75,INF,be say
+Eddie,Mrs. Poe,4.166666666666666,0.0,35.833333333333336,INF,tell
+Eddie,Mrs. Clemm,0.390625,0.0,49.609375,INF,come live tag go say
+Eddie,Mrs. Clemm,0.390625,0.0,49.609375,INF,come live tag go say
+Eddie,Mrs. Clemm,0.390625,0.0,49.609375,INF,come live tag go say
+Mrs. Clemm,Eddie,0.390625,0.0,49.609375,INF,come live tag go say
+Eddie,Mary,0.0,1.3888888888888888,70.83333333333334,0.0,be court make
+Mary,Eddie,0.0,1.3888888888888888,70.83333333333334,0.0,be court make
+Mary,Eddie,0.0,1.3888888888888888,70.83333333333334,0.0,be court make
+Eddie,Mary,6.578947368421052,1.3157894736842104,50.0,5.0,do make go
+Mother,Mrs. Poe,0.8928571428571428,0.0,56.25,INF,be say
+Eddie,Mary,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,give get drink find go charge
+Eddie,Mary,0.0,0.0,58.333333333333336,INF,go dare
+Mary,Eddie,0.0,0.0,58.333333333333336,INF,go dare
+Eddie,Mary,4.411764705882353,0.0,54.41176470588235,INF,have do
+Mary,Eddie,4.411764705882353,0.0,54.41176470588235,INF,have do
+Eddie,Miss Fuller,1.6666666666666667,1.6666666666666667,43.333333333333336,1.0,be talk ask
+Mrs. Poe,Mrs. Clemm,0.9615384615384616,0.0,37.5,INF,thank
+Mr. Poe,Eliza,6.25,2.34375,41.40625,2.6666666666666665,be say
+Mr. Poe,Eliza,6.25,2.34375,41.40625,2.6666666666666665,be say
+Eliza,Poes,8.59375,4.6875,49.21875,1.8333333333333333,have answer
+Mrs. Poe,Eddie,3.7037037037037033,0.0,55.55555555555556,INF,name have attend
+Mrs. Poe,Eddie,3.7037037037037033,0.0,55.55555555555556,INF,name have attend
+Mrs. Poe,Mr. Barnum,0.35714285714285715,0.0,56.785714285714285,INF,take round approach
+Mr. Barnum,Mrs. Poe,0.0,0.0,22.22222222222222,INF,say
+Mr. Poe,Mrs. Poe,0.9615384615384616,0.0,52.88461538461539,INF,take turn
+Mr. Poe,Mrs. Poe,0.9615384615384616,0.0,52.88461538461539,INF,take turn
+Mr. Poe,Mrs. Poe,7.291666666666667,3.125,47.91666666666667,2.3333333333333335,have tell
+Mr. Poe,Mr. Barnum,7.291666666666667,3.125,47.91666666666667,2.3333333333333335,have tell
+Mrs. Poe,Mr. Barnum,7.291666666666667,3.125,47.91666666666667,2.3333333333333335,have tell
+Mrs. Poe,Mr. Poe,4.807692307692308,0.9615384615384616,40.38461538461539,5.0,have echo
+Mr. Poe,Mrs. Poe,5.357142857142857,0.0,58.92857142857143,INF,tell enjoy introduce ask be introduce
+Mr. Poe,Mrs. Poe,5.357142857142857,0.0,58.92857142857143,INF,tell enjoy introduce ask be introduce
+Mr. Poe,Mrs. Poe,5.357142857142857,0.0,58.92857142857143,INF,tell enjoy introduce ask be introduce
+Poes,Mr. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Poes,Mr. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Poes,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Poes,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Mr. Poe,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Mr. Poe,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Mr. Poe,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Mr. Poe,Mrs. Poe,6.696428571428571,1.3392857142857142,45.535714285714285,5.0,repeat have form admire
+Mrs. Poe,Mr. Poe,4.017857142857143,1.3392857142857142,58.92857142857143,3.0,stand notice greet grow
+Frances,Mrs. Poe,3.125,8.125,33.75,0.38461538461538464,do whisper be
+Eddie,Mrs. Poe,0.8333333333333334,0.0,39.166666666666664,INF,be say
+Samuel,Mrs. Poe,1.8292682926829267,3.6585365853658534,60.36585365853659,0.5,be gaze hate abandon leave be ruffle return carry
+Samuel,Mr. Poe,1.8292682926829267,3.6585365853658534,60.36585365853659,0.5,be gaze hate abandon leave be ruffle return carry
+Mrs. Poe,Mr. Poe,1.8292682926829267,3.6585365853658534,60.36585365853659,0.5,be gaze hate abandon leave be ruffle return carry
+Mr. Poe,Mrs. Poe,3.75,0.0,56.25,INF,return be fill have speak have receive pay
+Mr. Poe,Mrs. Poe,3.75,0.0,56.25,INF,return be fill have speak have receive pay
+Mr. Poe,Mrs. Poe,3.75,0.0,56.25,INF,return be fill have speak have receive pay
+Mr. Poe,Mrs. Poe,3.125,0.4464285714285714,57.14285714285714,7.0,leave be mob wish
+Mr. Poe,Mrs. Poe,3.125,0.4464285714285714,57.14285714285714,7.0,leave be mob wish
+Mr. Poe,Mrs. Poe,7.836842105263157,4.663157894736842,50.6578947368421,1.6805869074492097,pat cough deepen
+Mr. Poe,Mrs. Poe,7.836842105263157,4.663157894736842,50.6578947368421,1.6805869074492097,pat cough deepen
+Eliza,Mrs. Poe,0.78125,3.125,55.46875,0.25,reach be curl stroke
+Eliza,Mrs. Poe,0.78125,3.125,55.46875,0.25,reach be curl stroke
+Eliza,Mrs. Poe,0.78125,3.125,55.46875,0.25,reach be curl stroke
+Eliza,Mrs. Poe,0.78125,3.125,55.46875,0.25,reach be curl stroke
+Mary,Eliza,0.0,1.4705882352941175,39.705882352941174,0.0,take say lower
+Mary,Eliza,0.0,1.4705882352941175,39.705882352941174,0.0,take say lower
+Fanny,Mr. Poe,6.666666666666667,0.8333333333333334,45.83333333333333,8.0,mean be be
+Martha,Mr. Poe,0.8333333333333334,0.0,59.166666666666664,INF,keep gaze bring see pull
+Eliza,Miss Lynch,1.5,0.5,42.0,3.0,do steer say
+Eliza,Mr. Bartlett,1.5,0.5,42.0,3.0,do steer say
+Miss Lynch,Mr. Bartlett,1.5,0.5,42.0,3.0,do steer say
+Fanny,Eliza,0.0,5.681818181818182,30.681818181818183,0.0,be say
+Mr. Bartlett,Eliza,5.0,0.0,55.00000000000001,INF,raise
+Eliza,Fanny,3.804347826086957,1.0869565217391304,38.58695652173913,3.5,do know say be write
+Eliza,Tribune,3.804347826086957,1.0869565217391304,38.58695652173913,3.5,do know say be write
+Fanny,Tribune,3.804347826086957,1.0869565217391304,38.58695652173913,3.5,do know say be write
+Russell,Eliza,2.6785714285714284,0.0,33.035714285714285,INF,say be scare
+Mr. Bartlett,Mr. Poe,5.147058823529411,5.147058823529411,60.29411764705882,1.0,be have
+Mr. Bartlett,Mr. Poe,5.147058823529411,5.147058823529411,60.29411764705882,1.0,be have
+Poes,Mr. Poe,3.4722222222222223,3.125,51.736111111111114,1.1111111111111112,have be interview have be be feel
+Poes,Mrs. Poe,3.4722222222222223,3.125,51.736111111111114,1.1111111111111112,have be interview have be be feel
+Mr. Poe,Mrs. Poe,3.4722222222222223,3.125,51.736111111111114,1.1111111111111112,have be interview have be be feel
+Mrs. Poe,Mr. Bartlett,11.538461538461538,4.807692307692308,49.03846153846153,2.4,boast have correct have be
+Mr. Bartlett,Mrs. Poe,11.538461538461538,4.807692307692308,49.03846153846153,2.4,boast have correct have be
+Mr. Bartlett,Mrs. Poe,2.0,4.0,50.0,0.5,see come lose be be speak
+Mr. Bartlett,Mrs. Poe,2.0,4.0,50.0,0.5,see come lose be be speak
+Mr. Bartlett,Mrs. Poe,2.0,4.0,50.0,0.5,see come lose be be speak
+Mr. Bartlett,Mrs. Poe,2.0,4.0,50.0,0.5,see come lose be be speak
+Mrs. Poe,Mr. Bartlett,2.0,4.0,50.0,0.5,see come lose be be speak
+Mrs. Poe,Mr. Bartlett,2.0,4.0,50.0,0.5,see come lose be be speak
+Mr. Bartlett,Mrs. Clemm,6.875000000000001,4.375,53.75,1.5714285714285714,have be direct follow
+Mr. Poe,Mr. Bartlett,2.2058823529411766,8.088235294117647,42.64705882352941,0.2727272727272727,want put say
+Russell,Eliza,0.8928571428571428,1.7857142857142856,40.17857142857143,0.5,be go say
+Mr. Poe,Mr. Bartlett,0.6818181818181818,1.3636363636363635,48.86363636363637,0.5,be agitate arrive have do do do observe drink
+Mr. Bartlett,Mr. Poe,0.6818181818181818,1.3636363636363635,48.86363636363637,0.5,be agitate arrive have do do do observe drink
+Mr. Bartlett,Mr. Poe,0.6818181818181818,1.3636363636363635,48.86363636363637,0.5,be agitate arrive have do do do observe drink
+Mr. Melville,Samuel,4.651162790697675,1.1627906976744187,56.97674418604651,4.0,choke help consider have inhabit be have do
+Mr. Melville,Samuel,4.651162790697675,1.1627906976744187,56.97674418604651,4.0,choke help consider have inhabit be have do
+Mr. Melville,William Wilson,2.9017857142857144,1.7857142857142856,45.3125,1.625,feel be like keep glance be declaim
+Mr. Melville,Mr. Bryant,2.9017857142857144,1.7857142857142856,45.3125,1.625,feel be like keep glance be declaim
+Mr. Melville,William Wilson,2.9017857142857144,1.7857142857142856,45.3125,1.625,feel be like keep glance be declaim
+Mr. Melville,Mr. Bryant,2.9017857142857144,1.7857142857142856,45.3125,1.625,feel be like keep glance be declaim
+William Wilson,Mr. Bryant,2.9017857142857144,1.7857142857142856,45.3125,1.625,feel be like keep glance be declaim
+Mr. Bryant,Mr. Melville,2.34375,3.90625,62.5,0.6,have be sink have have give
+Mr. Bryant,Mr. Melville,2.34375,3.90625,62.5,0.6,have be sink have have give
+Mr. Melville,Mr. Poe,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,gaze keep slip look
+Reverend Griswold,Griswold,0.0,0.0,55.55555555555556,INF,step cradle
+Griswold,Mr. Melville,9.166666666666666,0.0,57.49999999999999,INF,flash return
+Reverend Griswold,Griswold,0.0,0.0,44.44444444444444,INF,ping
+Reverend Griswold,Griswold,0.0,0.0,44.44444444444444,INF,ping
+Mr. Melville,Reverend Griswold,0.625,0.625,53.75,1.0,glance imply listen
+Mr. Melville,Griswold,0.625,0.625,53.75,1.0,glance imply listen
+Reverend Griswold,Griswold,0.625,0.625,53.75,1.0,glance imply listen
+Mr. Poe,Miss Lynch,1.1363636363636365,2.272727272727273,69.31818181818183,0.5,see be talk
+Miss Lynch,Mr. Poe,0.0,0.0,44.44444444444444,INF,be lead
+Eliza,Mr. Bryant,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Eliza,Mr. Poe,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Eliza,Miss Lynch,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Mr. Bryant,Eliza,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Mr. Bryant,Mr. Poe,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Mr. Bryant,Miss Lynch,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Eliza,Mr. Poe,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Eliza,Miss Lynch,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Mr. Poe,Miss Lynch,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,see enter
+Mr. Poe,Miss Lynch,1.5625,1.5625,59.375,1.0,excuse
+Mr. Poe,Reverend Griswold,2.272727272727273,0.0,43.18181818181818,INF,say
+Eliza,Mr. Bartlett,1.6666666666666667,4.166666666666666,47.5,0.4,see scowl
+Mr. Poe,Reverend Griswold,6.25,0.0,64.58333333333334,INF,flick surprise find begin steer
+Reverend Griswold,Mr. Poe,6.25,0.0,64.58333333333334,INF,flick surprise find begin steer
+Reverend Griswold,Mr. Osgood,5.357142857142857,5.357142857142857,25.0,1.0,exclaim
+Reverend Griswold,Griswold,1.25,1.25,67.5,1.0,be stun
+Griswold,Mr. Poe,1.1363636363636365,1.1363636363636365,79.54545454545455,1.0,throw gaze
+Mr. Poe,Mr. Bryant,3.571428571428571,0.0,53.57142857142857,INF,let guide
+Mr. Poe,Eliza,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Mr. Poe,Eliza,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Mr. Poe,Mr. Bryant,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Eliza,Mr. Poe,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Eliza,Mr. Bryant,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Eliza,Mr. Poe,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Eliza,Mr. Bryant,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Mr. Poe,Mr. Bryant,4.642857142857143,3.571428571428571,51.78571428571429,1.3,do reply stare say mollify say be create be leave be grow
+Mr. Poe,Eliza,0.0,0.0,37.5,INF,come rest
+Mr. Poe,Eliza,1.7857142857142856,3.571428571428571,66.07142857142857,0.5,give
+Mr. Bartlett,Mr. Bryant,3.0172413793103448,0.0,59.05172413793104,INF,laugh save have feel loosen
+Mr. Bartlett,Mr. Bryant,3.0172413793103448,0.0,59.05172413793104,INF,laugh save have feel loosen
+Mr. Bartlett,Mr. Bryant,3.0172413793103448,0.0,59.05172413793104,INF,laugh save have feel loosen
+Mr. Poe,Miss Lynch,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,say be convince recite
+Mr. Bryant,Mr. Poe,1.0416666666666665,0.0,48.95833333333333,INF,have hear
+Mr. Poe,Miss Lynch,1.7857142857142856,1.7857142857142856,82.14285714285714,1.0,nod
+Mr. Bartlett,Mr. Bryant,5.859375,0.0,59.765625,INF,clap have march flare
+Mr. Bartlett,Reverend Griswold,5.859375,0.0,59.765625,INF,clap have march flare
+Mr. Bartlett,Mr. Bryant,5.859375,0.0,59.765625,INF,clap have march flare
+Mr. Bryant,Reverend Griswold,5.859375,0.0,59.765625,INF,clap have march flare
+Reverend Griswold,Mr. Bryant,5.859375,0.0,59.765625,INF,clap have march flare
+Mr. Poe,Mrs. Osgood,1.9736842105263157,1.9736842105263157,48.68421052631579,1.0,say assure understand
+Mr. Poe,Mrs. Osgood,1.9736842105263157,1.9736842105263157,48.68421052631579,1.0,say assure understand
+Eliza,Mary,4.3478260869565215,3.804347826086957,44.02173913043478,1.1428571428571428,bob
+Reverend Griswold,Griswold,0.0,0.0,66.66666666666666,INF,hasten see
+Reverend Griswold,Griswold,0.0,1.3157894736842104,56.57894736842105,0.0,march process give pass prompt bow
+Reverend Griswold,Griswold,0.0,1.3157894736842104,56.57894736842105,0.0,march process give pass prompt bow
+Mr. Bartlett,Mr. Poe,0.78125,3.90625,64.0625,0.2,recall murder
+Eliza,Mr. Poe,2.2058823529411766,0.0,56.61764705882353,INF,turn seek have spot
+Mr. Poe,Eliza,3.9473684210526314,1.9736842105263157,41.44736842105263,2.0,be extend
+Mr. Poe,Eliza,3.9473684210526314,1.9736842105263157,41.44736842105263,2.0,be extend
+Eliza,Mr. Poe,3.9473684210526314,1.9736842105263157,41.44736842105263,2.0,be extend
+Mrs. Poe,Mary,3.8461538461538463,1.9230769230769231,63.46153846153846,2.0,charge carry introduce have be make stand
+Mrs. Poe,Mary,3.8461538461538463,1.9230769230769231,63.46153846153846,2.0,charge carry introduce have be make stand
+Mother,Mrs. Poe,1.1363636363636365,2.272727272727273,46.590909090909086,0.5,ask do want
+Mother,Mrs. Clemm,1.1363636363636365,2.272727272727273,46.590909090909086,0.5,ask do want
+Mrs. Poe,Mrs. Clemm,1.1363636363636365,2.272727272727273,46.590909090909086,0.5,ask do want
+Mrs. Poe,Vinnie,3.4090909090909087,0.0,60.22727272727273,INF,dab
+Mrs. Poe,Mr. Poe,7.03125,0.0,42.96875,INF,say have name
+Mr. Poe,Vinnie,8.333333333333332,0.6944444444444444,24.305555555555554,12.0,save say give
+Mr. Poe,Mamma,8.333333333333332,0.6944444444444444,24.305555555555554,12.0,save say give
+Vinnie,Mamma,8.333333333333332,0.6944444444444444,24.305555555555554,12.0,save say give
+Eliza,Mr. Poe,3.125,3.125,62.5,1.0,frown be stare
+Eliza,Mr. Poe,3.125,3.125,62.5,1.0,frown be stare
+Mr. Bartlett,Mr. Poe,3.125,0.0,84.375,INF,stare
+Eliza,Mrs. Poe,2.5,0.0,57.49999999999999,INF,ask
+Eddie,Mrs. Poe,1.1904761904761905,0.0,46.42857142857143,INF,say walk like go
+Mr. Poe,Mrs. Poe,0.0,8.333333333333332,47.22222222222222,0.0,turn
+Mrs. Poe,Mrs. Clemm,0.78125,0.0,42.96875,INF,say
+Eliza,Fanny,0.6097560975609756,2.4390243902439024,50.609756097560975,0.25,be have arrive send say be
+Eliza,Catherine,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,perch wait light have want use
+Eliza,Mr. Bartlett,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,perch wait light have want use
+Catherine,Mr. Bartlett,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,perch wait light have want use
+Mrs. Osgood,Mr. Bartlett,0.0,0.0,46.15384615384615,INF,remove come
+Mrs. Osgood,Mr. Bartlett,0.0,0.0,46.15384615384615,INF,remove come
+Mrs. Osgood,Mr. Bartlett,0.0,0.0,46.15384615384615,INF,remove come
+Fanny,Eliza,1.0416666666666665,0.0,23.958333333333336,INF,be say
+Mr. Bartlett,Mr. Poe,1.744186046511628,3.488372093023256,48.25581395348838,0.5,thank provide mean say say interrupt be appear have get
+Mr. Poe,Mr. Bartlett,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,warn say
+Mr. Poe,Eliza,3.571428571428571,6.25,33.035714285714285,0.5714285714285714,keep say
+Mr. Poe,Eliza,3.571428571428571,6.25,33.035714285714285,0.5714285714285714,keep say
+Fanny,Eliza,2.8846153846153846,0.0,27.884615384615387,INF,be frighten say
+Mr. Poe,Mrs. Osgood,0.0,0.0,50.0,INF,ask see
+Mr. Bartlett,Eliza,3.125,0.0,46.875,INF,rise shake receive seat
+Mr. Bartlett,Eliza,3.125,0.0,46.875,INF,rise shake receive seat
+Eliza,Mr. Bartlett,3.125,0.0,46.875,INF,rise shake receive seat
+Mrs. Osgood,Mathew Brady,0.6578947368421052,0.0,41.44736842105263,INF,like invite come
+Mr. Osgood,Mr. Poe,2.8846153846153846,8.653846153846153,42.30769230769231,0.3333333333333333,have fear say
+Mr. Poe,Mr. Bartlett,1.5625,1.5625,71.875,1.0,give
+Mr. Bartlett,Mr. Poe,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Eliza,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Mr. Poe,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Eliza,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Mr. Poe,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Eliza,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Mr. Poe,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Bartlett,Eliza,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mr. Poe,Eliza,3.214285714285714,0.0,53.92857142857142,INF,release spend discuss classify shoot search
+Mrs. Poe,Mr. Poe,1.9230769230769231,1.201923076923077,54.567307692307686,1.6,fold truss breathe listen recount have attend
+Mrs. Poe,Mr. Poe,1.9230769230769231,1.201923076923077,54.567307692307686,1.6,fold truss breathe listen recount have attend
+Mr. Poe,Eliza,3.125,3.90625,61.71875,0.8,have look have retrieve
+Eddie,Mr. Poe,3.260869565217391,0.0,48.91304347826087,INF,be wait see treat have
+Mr. Poe,Mr. Bartlett,7.5,9.166666666666666,56.666666666666664,0.8181818181818182,do fear keep occupy
+Mr. Poe,Mr. Bartlett,7.5,9.166666666666666,56.666666666666664,0.8181818181818182,do fear keep occupy
+Anne,Mr. Audubon,0.0,0.0,59.09090909090909,INF,recognize
+Anne,Mr. Greeley,0.0,0.0,59.09090909090909,INF,recognize
+Anne,Mr. Astor,0.0,0.0,59.09090909090909,INF,recognize
+Mr. Audubon,Mr. Greeley,0.0,0.0,59.09090909090909,INF,recognize
+Mr. Audubon,Mr. Astor,0.0,0.0,59.09090909090909,INF,recognize
+Mr. Greeley,Mr. Astor,0.0,0.0,59.09090909090909,INF,recognize
+Mrs. Poe,Mr. Brady,3.125,1.171875,55.078125,2.6666666666666665,be examine cough trample wipe
+Mrs. Poe,Mr. Brady,3.125,1.171875,55.078125,2.6666666666666665,be examine cough trample wipe
+Mrs. Poe,Mr. Brady,3.125,1.171875,55.078125,2.6666666666666665,be examine cough trample wipe
+Mrs. Poe,Mr. Brady,3.125,1.171875,55.078125,2.6666666666666665,be examine cough trample wipe
+Mr. Brady,Mrs. Poe,8.75,0.0,51.24999999999999,INF,kiss come
+Dickens,Mr. Poe,1.0416666666666665,0.0,57.291666666666664,INF,see have say
+Dickens,Mrs. Poe,0.8333333333333334,0.0,52.5,INF,be have make say
+Dickens,Mrs. Poe,0.8333333333333334,0.0,52.5,INF,be have make say
+Dickens,Delmonico,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Delmonico,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Delmonico,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Delmonico,Dickens,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Delmonico,Dickens,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Delmonico,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Dickens,Blackwell,0.3048780487804878,2.7439024390243905,40.853658536585364,0.1111111111111111,orchestrate
+Mr. Poe,Mr. Brady,1.7857142857142856,7.142857142857142,76.78571428571429,0.25,frown
+Mr. Brady,Mr. Poe,1.6666666666666667,0.0,61.66666666666667,INF,glance see have wait be make
+Mr. Brady,Mr. Poe,1.6666666666666667,0.0,61.66666666666667,INF,glance see have wait be make
+Mr. Brady,Mrs. Poe,0.9615384615384616,0.0,75.96153846153845,INF,direct
+Mr. Brady,Mrs. Poe,2.0161290322580645,0.4032258064516129,65.32258064516128,5.0,arrange be turn face adjust cover rest
+Mr. Brady,Mrs. Poe,2.0161290322580645,0.4032258064516129,65.32258064516128,5.0,arrange be turn face adjust cover rest
+Mr. Brady,Mrs. Poe,2.0161290322580645,0.4032258064516129,65.32258064516128,5.0,arrange be turn face adjust cover rest
+Mr. Brady,Mrs. Poe,0.0,1.5625,73.4375,0.0,pull stand
+Mr. Brady,Mrs. Poe,2.717391304347826,1.6304347826086956,56.52173913043478,1.6666666666666667,put tighten arrange
+Mr. Brady,Mrs. Poe,2.717391304347826,1.6304347826086956,56.52173913043478,1.6666666666666667,put tighten arrange
+Mr. Brady,Mrs. Poe,1.4423076923076923,0.4807692307692308,63.46153846153846,3.0,release help hurry contain expose
+Mr. Brady,Mrs. Poe,1.4423076923076923,0.4807692307692308,63.46153846153846,3.0,release help hurry contain expose
+Mrs. Poe,Mr. Brady,1.4423076923076923,0.4807692307692308,63.46153846153846,3.0,release help hurry contain expose
+Mrs. Poe,Mr. Brady,1.4423076923076923,0.4807692307692308,63.46153846153846,3.0,release help hurry contain expose
+Mr. Poe,Mr. Brady,3.75,0.0,56.25,INF,submit
+Mrs. Poe,Mr. Brady,2.5,2.5,35.0,1.0,speak comment know like know
+Mr. Brady,Mrs. Poe,2.5,2.5,35.0,1.0,speak comment know like know
+Mr. Brady,Mrs. Poe,2.5,2.5,35.0,1.0,speak comment know like know
+Mrs. Poe,Mr. Poe,2.604166666666667,0.0,59.895833333333336,INF,light have engrave own
+Mrs. Poe,Mr. Poe,2.604166666666667,0.0,59.895833333333336,INF,light have engrave own
+Mrs. Poe,Mr. Poe,1.7045454545454544,3.4090909090909087,53.97727272727273,0.5,wait be tell
+Vinnie,Mrs. Poe,0.8620689655172413,0.8620689655172413,56.896551724137936,1.0,hunch try draw
+Henry,Johnny,1.25,0.0,58.75,INF,look
+Vinnie,Mary,0.0,1.25,58.75,0.0,sputter blink rinse
+Fanny,Mr. Poe,4.166666666666666,1.3888888888888888,50.0,3.0,be
+Mr. Poe,Russell,0.0,0.0,57.14285714285714,INF,come see
+Mary,Vinnie,1.5625,0.0,42.1875,INF,be protest shiver be
+Mary,Eliza,1.9230769230769231,1.9230769230769231,50.0,1.0,have be say
+Mary,Mr. Poe,1.3888888888888888,0.0,48.61111111111111,INF,like take leave
+Eliza,Ellen,1.0,4.5,42.5,0.2222222222222222,put read strain hear
+Vinnie,Ellen,2.5,0.0,57.49999999999999,INF,have tuck
+Mr. Bartlett,Mr. Poe,9.375,3.125,75.0,3.0,give
+Mr. Bartlett,Mr. Poe,3.4722222222222223,4.861111111111112,58.333333333333336,0.7142857142857143,laugh know guess have
+Eliza,Mr. Bartlett,5.681818181818182,0.0,30.681818181818183,INF,say
+Mr. Bartlett,Eliza,0.0,0.0,60.0,INF,grin
+Mr. Longfellow,Mr. Poe,2.083333333333333,0.0,59.02777777777778,INF,leave say
+Mr. Poe,Eliza,4.761904761904762,1.7857142857142856,41.07142857142857,2.6666666666666665,tell deserve
+Mr. Poe,Mr. Brady,1.7045454545454544,2.840909090909091,63.63636363636363,0.6,wonder do give go
+Mrs. Osgood,Mr. Poe,7.638888888888889,3.4722222222222223,50.0,2.2,be spend say
+Mrs. Osgood,Mr. Poe,7.638888888888889,3.4722222222222223,50.0,2.2,be spend say
+Mrs. Osgood,Mr. Bartlett,1.6666666666666667,0.0,38.333333333333336,INF,have hear name say
+Miss Fuller,Fanny,0.0,0.0,55.55555555555556,INF,have tell
+Mr. Poe,Mr. Bartlett,0.6578947368421052,0.0,41.44736842105263,INF,say ask
+Mr. Poe,Fanny,0.6578947368421052,0.0,41.44736842105263,INF,say ask
+Mr. Bartlett,Fanny,0.6578947368421052,0.0,41.44736842105263,INF,say ask
+Mr. Poe,Samuel,1.7857142857142856,10.714285714285714,58.92857142857143,0.16666666666666666,ask
+Mrs. Osgood,Mr. Bartlett,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be say
+Mr. Bartlett,Samuel,0.0,0.0,46.15384615384615,INF,say do
+Russell,Eliza,4.605263157894736,0.0,37.5,INF,say make sound
+Mr. Poe,Mr. Morse,0.8928571428571428,0.4464285714285714,70.08928571428571,2.0,nod find have develop send
+Frances,Mr. Poe,9.090909090909092,0.0,45.45454545454545,INF,say
+Mr. Poe,New York Society Library,0.7575757575757576,0.3787878787878788,62.5,2.0,be take present
+Mr. Poe,New York Society Library,0.7575757575757576,0.3787878787878788,62.5,2.0,be take present
+Mrs. Poe,Eddie,2.5,3.125,54.37499999999999,0.8,cough add chase
+Catherine,Mrs. Poe,0.7352941176470588,0.0,46.32352941176471,INF,go say be write
+Mr. Poe,Mrs. Poe,0.9615384615384616,0.0,52.88461538461539,INF,be say
+Mr. Poe,Mrs. Poe,0.9615384615384616,0.0,52.88461538461539,INF,be say
+Mr. Poe,Mrs. Poe,1.25,0.0,58.75,INF,come say
+Mr. Poe,Mr. Bartlett,0.0,0.0,72.72727272727273,INF,have come see
+Mr. Bartlett,Astor House,0.0,0.0,66.66666666666666,INF,do check
+Eddie,New York Society Library,0.78125,0.0,49.21875,INF,be go
+Eddie,Mr. Bartlett,2.6785714285714284,1.7857142857142856,38.392857142857146,1.5,be think be
+Mr. Bartlett,Eddie,2.6785714285714284,1.7857142857142856,38.392857142857146,1.5,be think be
+Mr. Poe,Mr. Bartlett,0.4807692307692308,0.0,64.90384615384616,INF,do take think have marry
+Mrs. Clemm,Mrs. Poe,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Mrs. Clemm,Eddie,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Mrs. Clemm,Mrs. Osgood,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Mrs. Poe,Eddie,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Mrs. Poe,Mrs. Osgood,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Eddie,Mrs. Osgood,1.8518518518518516,5.092592592592593,44.907407407407405,0.36363636363636365,sit say be come
+Eliza,Mrs. Poe,2.2058823529411766,0.0,50.73529411764706,INF,let keep tell
+Mrs. Poe,Eliza,2.7777777777777777,0.0,58.333333333333336,INF,look lay
+Eliza,Mrs. Poe,2.7777777777777777,0.0,58.333333333333336,INF,look lay
+Mrs. Poe,Mrs. Butler,3.289473684210526,0.0,59.86842105263158,INF,put
+Mrs. Poe,Mrs. Butler,3.289473684210526,0.0,59.86842105263158,INF,put
+Mrs. Poe,Eliza,2.083333333333333,0.0,52.083333333333336,INF,be wind
+Mrs. Poe,Eliza,2.083333333333333,0.0,52.083333333333336,INF,be wind
+Mrs. Poe,Anna,2.083333333333333,0.0,52.083333333333336,INF,be wind
+Eliza,Anna,2.083333333333333,0.0,52.083333333333336,INF,be wind
+Eliza,Anna,2.083333333333333,0.0,52.083333333333336,INF,be wind
+Mr. Bartlett,Eliza,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,give pat swing
+Mr. Bartlett,Anna,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,give pat swing
+Eliza,Anna,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,give pat swing
+Eliza,Mr. Bartlett,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,give pat swing
+Anna,Mr. Bartlett,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,give pat swing
+Mr. Bartlett,Johnny,2.6785714285714284,8.035714285714286,75.0,0.3333333333333333,put do demand
+Mr. Poe,Russell,2.6785714285714284,0.0,33.035714285714285,INF,go support say
+Mr. Poe,Eliza,2.6785714285714284,0.0,33.035714285714285,INF,go support say
+Russell,Eliza,2.6785714285714284,0.0,33.035714285714285,INF,go support say
+Mr. Poe,Broadway Journal,0.6944444444444444,1.3888888888888888,67.36111111111111,0.5,recognize appear
+Mr. Poe,Mr. Willis,0.6944444444444444,1.3888888888888888,67.36111111111111,0.5,recognize appear
+Broadway Journal,Mr. Willis,0.6944444444444444,1.3888888888888888,67.36111111111111,0.5,recognize appear
+Mr. Poe,Mr. Griswold,4.166666666666666,0.0,62.5,INF,say near
+Mr. Poe,Mr. Griswold,4.166666666666666,0.0,62.5,INF,say near
+Reverend Griswold,Griswold,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,spread be
+Reverend Griswold,Griswold,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,spread be
+Eliza,Reverend Griswold,1.875,0.625,47.5,3.0,chat hover
+Eliza,Miss Fuller,3.125,0.0,46.875,INF,move find pull
+Eliza,Miss Fuller,3.125,0.0,46.875,INF,move find pull
+Reverend Griswold,Griswold,0.0,0.0,60.0,INF,crane hear
+Miss Fuller,Griswold,0.0,10.0,50.0,0.0,ignore
+Reverend Griswold,Griswold,1.5625,4.6875,43.75,0.3333333333333333,flare
+Miss Fuller,Mr. Poe,0.0,0.0,50.0,INF,beckon
+Mr. Poe,Reverend Griswold,1.7857142857142856,8.035714285714286,40.17857142857143,0.2222222222222222,say near
+Mr. Poe,Griswold,1.7857142857142856,8.035714285714286,40.17857142857143,0.2222222222222222,say near
+Reverend Griswold,Griswold,1.7857142857142856,8.035714285714286,40.17857142857143,0.2222222222222222,say near
+Mr. Bartlett,Mr. Poe,7.8125,0.0,67.1875,INF,shake
+Reverend Griswold,Griswold,2.272727272727273,0.0,34.090909090909086,INF,say watch
+Mr. Poe,Eliza,2.083333333333333,0.0,47.91666666666667,INF,turn
+Mr. Bartlett,Eliza,0.9375,3.4375000000000004,58.12500000000001,0.2727272727272727,sit bowl peer cast glance absorb
+Eliza,Mr. Bartlett,0.9375,3.4375000000000004,58.12500000000001,0.2727272727272727,sit bowl peer cast glance absorb
+Mr. Poe,Eliza,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,be acknowledge take sound
+Mr. Poe,Eliza,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,be acknowledge take sound
+Mr. Bartlett,Mr. Poe,5.603448275862069,3.4482758620689653,59.91379310344828,1.625,help regain wonder have be have be
+Mr. Bartlett,Mr. Poe,5.603448275862069,3.4482758620689653,59.91379310344828,1.625,help regain wonder have be have be
+Ellen,Anna,0.5952380952380952,1.1904761904761905,64.88095238095238,0.5,hold join
+Ellen,Anna,0.5952380952380952,1.1904761904761905,64.88095238095238,0.5,hold join
+Ellen,Anna,0.5952380952380952,1.1904761904761905,64.88095238095238,0.5,hold join
+Mr. Bartlett,Martha,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,be say have overhear
+Martha,Mr. Bartlett,0.8928571428571428,3.571428571428571,38.392857142857146,0.25,scoot head
+Martha,Mr. Bartlett,0.8928571428571428,3.571428571428571,38.392857142857146,0.25,scoot head
+Mrs. Bartlett,Mr. Bartlett,1.7857142857142856,5.357142857142857,57.14285714285714,0.3333333333333333,be take tell
+Mrs. Bartlett,Catherine,1.7857142857142856,5.357142857142857,57.14285714285714,0.3333333333333333,be take tell
+Mr. Bartlett,Catherine,1.7857142857142856,5.357142857142857,57.14285714285714,0.3333333333333333,be take tell
+Johnny,Mrs. Bartlett,3.571428571428571,6.25,40.17857142857143,0.5714285714285714,be refuse leave
+Mrs. Bartlett,Johnny,3.571428571428571,6.25,40.17857142857143,0.5714285714285714,be refuse leave
+Margaret,Mrs. Bartlett,0.0,1.3392857142857142,55.80357142857143,0.0,be make
+Mr. Bartlett,Margaret,0.0,0.0,72.72727272727273,INF,hear greet
+Margaret,Mr. Bartlett,0.0,0.0,72.72727272727273,INF,hear greet
+Eliza,Miss Lynch,0.0,3.571428571428571,53.57142857142857,0.0,do accompany
+Eliza,Miss Lynch,0.0,3.571428571428571,53.57142857142857,0.0,do accompany
+Eliza,Johnny,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,insist stay linger be get
+Eliza,Johnny,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,insist stay linger be get
+Eliza,Johnny,7.738095238095238,5.357142857142857,53.57142857142857,1.4444444444444444,have lose be leave be
+Eliza,Johnny,7.738095238095238,5.357142857142857,53.57142857142857,1.4444444444444444,have lose be leave be
+Reverend Griswold,Miss Lynch,0.0,0.6578947368421052,51.973684210526315,0.0,be hover enter
+Boston Lyceum,Griswold,7.065217391304348,1.0869565217391304,57.065217391304344,6.5,be come say lead
+Boston Lyceum,Griswold,7.065217391304348,1.0869565217391304,57.065217391304344,6.5,be come say lead
+Reverend Griswold,Griswold,0.0,0.0,50.0,INF,do get
+Mr. Brady,Mr. Greeley,1.6666666666666667,1.25,50.416666666666664,1.3333333333333333,be form be
+Mr. Brady,Miss Fuller,1.6666666666666667,1.25,50.416666666666664,1.3333333333333333,be form be
+Mr. Greeley,Miss Fuller,1.6666666666666667,1.25,50.416666666666664,1.3333333333333333,be form be
+Reverend Griswold,Griswold,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Reverend Griswold,Mr. Brady,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Reverend Griswold,Mr. Morris,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Griswold,Mr. Brady,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Griswold,Mr. Morris,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Mr. Brady,Mr. Morris,1.0,3.0,52.0,0.3333333333333333,allow pull turn
+Mr. Irving,Reverend Griswold,1.7045454545454544,5.681818181818182,56.25,0.3,be get say
+Margaret,Mrs. Osgood,0.0,0.0,30.0,INF,cover
+Mrs. Osgood,Mr. Brady,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Mrs. Osgood,Mr. Morris,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Mrs. Osgood,Mr. Poe,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Mr. Brady,Mr. Morris,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Mr. Brady,Mr. Poe,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Mr. Morris,Mr. Poe,1.3888888888888888,6.944444444444445,44.44444444444444,0.2,fear hear say be be
+Reverend Griswold,Griswold,3.3333333333333335,1.6666666666666667,61.66666666666667,2.0,pull clamp
+Mr. Poe,Miss Lynch,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,enter compose
+Miss Lynch,Mr. Poe,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,enter compose
+Miss Fiske,Miss Alcott,2.380952380952381,0.0,50.0,INF,visit make swish skirt
+Miss Fiske,Mr. Poe,2.380952380952381,0.0,50.0,INF,visit make swish skirt
+Miss Fiske,Miss Alcott,2.380952380952381,0.0,50.0,INF,visit make swish skirt
+Miss Fiske,Mr. Poe,2.380952380952381,0.0,50.0,INF,visit make swish skirt
+Miss Alcott,Mr. Poe,2.380952380952381,0.0,50.0,INF,visit make swish skirt
+Miss Fuller,Griswold,0.0,1.0416666666666665,65.625,0.0,let appraise come rest
+Mr. Poe,Miss Fuller,3.6764705882352944,0.7352941176470588,60.29411764705882,5.0,say inspire be say
+Mr. Greeley,Madame Restell,1.171875,0.78125,54.296875,1.5,speak say do hear catch
+Mr. Greeley,Mr. Poe,3.90625,2.34375,62.5,1.6666666666666667,draw register
+Mr. Greeley,Mr. Poe,3.90625,2.34375,62.5,1.6666666666666667,draw register
+Mr. Poe,Reverend Griswold,2.34375,0.78125,40.625,3.0,need leap say
+Edgar,Miss Fuller,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,count say
+Margaret,Mr. Brady,0.0,0.0,40.0,INF,say be
+Mr. Poe,Mr. Greeley,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,laugh save decline offer keep
+Mr. Poe,Mr. Greeley,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,laugh save decline offer keep
+Mr. Poe,Mr. Greeley,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,laugh save decline offer keep
+Mr. Poe,Mr. Greeley,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,laugh save decline offer keep
+Reverend Griswold,Mr. Poe,0.7352941176470588,3.6764705882352944,42.64705882352941,0.2,say have hear
+Mrs. Poe,Mr. Greeley,1.4204545454545454,1.7045454545454544,58.23863636363637,0.8333333333333334,pinch look sit have loan
+Mrs. Poe,Mr. Greeley,1.4204545454545454,1.7045454545454544,58.23863636363637,0.8333333333333334,pinch look sit have loan
+Mrs. Poe,Mr. Greeley,1.4204545454545454,1.7045454545454544,58.23863636363637,0.8333333333333334,pinch look sit have loan
+Reverend Griswold,Griswold,1.7045454545454544,3.4090909090909087,49.43181818181818,0.5,cringe perch
+Reverend Griswold,Griswold,1.7045454545454544,3.4090909090909087,49.43181818181818,0.5,cringe perch
+Mrs. Clemm,Griswold,2.083333333333333,0.0,64.58333333333334,INF,hear lob
+Mamma,Mr. Poe,7.6923076923076925,0.0,30.76923076923077,INF,say take announce
+Mamma,Vinnie,7.6923076923076925,0.0,30.76923076923077,INF,say take announce
+Mr. Poe,Vinnie,7.6923076923076925,0.0,30.76923076923077,INF,say take announce
+Mr. Poe,Bridget,1.7857142857142856,0.0,55.35714285714286,INF,take hamper have pack
+Reverend Griswold,Mr. Poe,0.0,0.6578947368421052,51.973684210526315,0.0,light approach
+Ellen,Mr. Poe,2.027027027027027,1.3513513513513513,47.97297297297297,1.5,tuck hamper swing take chirrup
+Reverend Griswold,Eddie,1.7857142857142856,3.125,45.089285714285715,0.5714285714285714,have say do sink own
+Reverend Griswold,Eddie,1.7857142857142856,3.125,45.089285714285715,0.5714285714285714,have say do sink own
+Reverend Griswold,Eddie,1.7857142857142856,3.125,45.089285714285715,0.5714285714285714,have say do sink own
+Mrs. Clemm,Vinnie,0.0,0.0,55.55555555555556,INF,cover go neighbor
+Reverend Griswold,Griswold,1.5625,0.0,60.9375,INF,plop
+Mrs. Osgood,Griswold,4.166666666666666,5.555555555555555,40.27777777777778,0.75,hope let row base
+Vinnie,Mrs. Poe,7.142857142857142,0.0,50.0,INF,look
+Vinnie,Mrs. Poe,0.0,0.0,40.0,INF,say ask
+Miss Fuller,Mr. Poe,7.5,1.25,71.25,6.0,have see
+Mr. Greeley,Reverend Griswold,6.666666666666667,0.8333333333333334,45.83333333333333,8.0,be say
+Reverend Griswold,Mr. Poe,4.891304347826087,1.6304347826086956,63.04347826086957,3.0,squint tie begin help
+Reverend Griswold,Griswold,0.0,0.0,53.84615384615385,INF,dig produce
+Mr. Poe,Reverend Griswold,0.0,5.46875,50.78125,0.0,consume
+Griswold,Mr. Poe,2.142857142857143,2.5,58.214285714285715,0.8571428571428571,play end fall
+Mrs. Clemm,Mrs. Poe,1.5625,2.34375,55.46875,0.6666666666666666,retire make wink blow insist keep
+Mrs. Clemm,Mr. Poe,1.5625,2.34375,55.46875,0.6666666666666666,retire make wink blow insist keep
+Mrs. Clemm,Mrs. Poe,1.5625,2.34375,55.46875,0.6666666666666666,retire make wink blow insist keep
+Mrs. Clemm,Mr. Poe,1.5625,2.34375,55.46875,0.6666666666666666,retire make wink blow insist keep
+Mrs. Poe,Mr. Poe,1.5625,2.34375,55.46875,0.6666666666666666,retire make wink blow insist keep
+Ellen,Mr. Poe,5.88235294117647,5.88235294117647,41.17647058823529,1.0,chortle stagger pretend find
+Ellen,Mr. Poe,5.88235294117647,5.88235294117647,41.17647058823529,1.0,chortle stagger pretend find
+Mr. Poe,Vinnie,0.0,0.7352941176470588,69.85294117647058,0.0,tag crouch overlook
+Vinnie,Ellen,0.6944444444444444,4.861111111111112,50.0,0.14285714285714285,keep be
+Vinnie,Blackwell,0.0,0.0,37.5,INF,gaze go
+Mrs. Osgood,Eddie,0.0,0.0,28.57142857142857,INF,take
+Mrs. Poe,Mr. Poe,1.7857142857142856,0.0,55.35714285714286,INF,hit
+Eddie,Mrs. Poe,1.1363636363636365,0.0,44.31818181818182,INF,go hide say
+Mrs. Poe,Mr. Poe,3.2407407407407405,1.8518518518518516,57.870370370370374,1.75,rest have right drag
+Mrs. Poe,Mr. Poe,3.2407407407407405,1.8518518518518516,57.870370370370374,1.75,rest have right drag
+Mr. Poe,Mrs. Clemm,0.9868421052631579,0.0,51.64473684210527,INF,climb take squeeze
+Mr. Poe,Mrs. Poe,0.9868421052631579,0.0,51.64473684210527,INF,climb take squeeze
+Mrs. Clemm,Mrs. Poe,0.9868421052631579,0.0,51.64473684210527,INF,climb take squeeze
+Mrs. Poe,Mr. Poe,0.35714285714285715,0.0,53.92857142857142,INF,draw wriggle order see carry
+Mrs. Poe,Mr. Poe,0.35714285714285715,0.0,53.92857142857142,INF,draw wriggle order see carry
+Reverend Griswold,Griswold,6.25,3.125,58.12500000000001,2.0,clutch bounce be have keep
+Reverend Griswold,Griswold,6.25,3.125,58.12500000000001,2.0,clutch bounce be have keep
+Reverend Griswold,Mr. Poe,6.25,3.125,58.12500000000001,2.0,clutch bounce be have keep
+Griswold,Mr. Poe,6.25,3.125,58.12500000000001,2.0,clutch bounce be have keep
+Griswold,Mr. Poe,6.25,3.125,58.12500000000001,2.0,clutch bounce be have keep
+Sissy,Eddie,0.0,0.0,41.66666666666667,INF,say
+Sissy,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,say
+Eddie,Mrs. Clemm,0.0,0.0,41.66666666666667,INF,say
+Eddie,Sissy,0.0,0.0,33.33333333333333,INF,count
+Eliza,Mary,3.977272727272727,4.545454545454546,50.56818181818182,0.875,grin gallop try hush
+Eliza,Mary,3.977272727272727,4.545454545454546,50.56818181818182,0.875,grin gallop try hush
+Mr. Poe,Broadway Journal,0.0,6.25,58.03571428571429,0.0,send be publish
+Mr. Poe,Broadway Journal,0.0,6.25,58.03571428571429,0.0,send be publish
+Edgar,Miss Fuller,4.375,3.125,62.5,1.4,be step say
+Mr. Barnum,Mr. Bartlett,0.0,0.0,50.0,INF,say
+Eliza,Vinnie,0.0,0.0,16.666666666666664,INF,ask
+Eliza,Ellen,0.0,0.0,16.666666666666664,INF,ask
+Vinnie,Ellen,0.0,0.0,16.666666666666664,INF,ask
+Broadway Journal,Miss Fuller,1.9736842105263157,0.0,55.92105263157895,INF,have enjoy say settle
+Edgar,Frances,2.272727272727273,6.8181818181818175,45.45454545454545,0.3333333333333333,be seem
+Edgar,Frances,2.272727272727273,6.8181818181818175,45.45454545454545,0.3333333333333333,be seem
+Eliza,Johnny,2.1551724137931036,2.1551724137931036,54.310344827586206,1.0,enchant be be convince come be
+Mrs. Osgood,Mr. Poe,1.3888888888888888,0.0,43.05555555555556,INF,
+Mr. Bartlett,Eliza,0.0,0.0,44.44444444444444,INF,push
+Mr. Poe,Mrs. Osgood,4.166666666666666,3.4722222222222223,42.36111111111111,1.2,say hear be break
+Mr. Poe,Mrs. Osgood,4.166666666666666,3.4722222222222223,42.36111111111111,1.2,say hear be break
+Eliza,Mr. Bartlett,2.5,1.0,40.5,2.5,see look say do tell be do
+Eliza,Mrs. Osgood,2.5,1.0,40.5,2.5,see look say do tell be do
+Mr. Bartlett,Eliza,2.5,1.0,40.5,2.5,see look say do tell be do
+Mr. Bartlett,Mrs. Osgood,2.5,1.0,40.5,2.5,see look say do tell be do
+Eliza,Mrs. Osgood,2.5,1.0,40.5,2.5,see look say do tell be do
+Mr. Bartlett,Eliza,9.722222222222223,4.166666666666666,41.66666666666667,2.3333333333333335,hold hush
+Mr. Bartlett,Eliza,9.722222222222223,4.166666666666666,41.66666666666667,2.3333333333333335,hold hush
+Mrs. Osgood,Mr. Osgood,1.5625,1.5625,51.041666666666664,1.0,be insist cease write
+Niblo,Mr. Astor,0.0,0.0,48.0,INF,bring
+Miss Fuller,Mr. Poe,3.75,0.0,76.25,INF,have pry
+Mr. Greeley,Miss Fuller,0.390625,0.78125,58.203125,0.5,find stroll color shine
+Mrs. Ellet,Mr. Poe,3.061224489795918,1.530612244897959,60.71428571428571,2.0,have come rest include be drone step
+Mrs. Ellet,Mr. Poe,3.061224489795918,1.530612244897959,60.71428571428571,2.0,have come rest include be drone step
+Mrs. Ellet,Mr. Poe,3.061224489795918,1.530612244897959,60.71428571428571,2.0,have come rest include be drone step
+Mrs. Ellet,Mr. Poe,3.061224489795918,1.530612244897959,60.71428571428571,2.0,have come rest include be drone step
+Mr. Brady,Mrs. Poe,3.9473684210526314,2.631578947368421,51.31578947368421,1.5,upset say forgive
+Mr. Brady,Mrs. Poe,3.9473684210526314,2.631578947368421,51.31578947368421,1.5,upset say forgive
+Mr. Poe,Mrs. Osgood,1.0,5.0,42.0,0.2,say injure
+Mr. Poe,Mrs. Osgood,1.0,5.0,42.0,0.2,say injure
+Mr. Poe,Mrs. Poe,7.065217391304348,5.978260869565218,65.21739130434783,1.1818181818181819,swell shrink stare turn
+Mr. Poe,Mrs. Poe,7.065217391304348,5.978260869565218,65.21739130434783,1.1818181818181819,swell shrink stare turn
+Mr. Poe,Mrs. Poe,7.065217391304348,5.978260869565218,65.21739130434783,1.1818181818181819,swell shrink stare turn
+Eddie,Reverend Griswold,2.734375,0.390625,46.875,7.0,say announce brave have be release be
+Eddie,Mr. Poe,2.734375,0.390625,46.875,7.0,say announce brave have be release be
+Eddie,Mr. Poe,2.734375,0.390625,46.875,7.0,say announce brave have be release be
+Reverend Griswold,Mr. Poe,2.734375,0.390625,46.875,7.0,say announce brave have be release be
+Reverend Griswold,Mr. Poe,2.734375,0.390625,46.875,7.0,say announce brave have be release be
+Mr. Greeley,Mr. Brady,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Mr. Greeley,Miss Fuller,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Mr. Greeley,Mrs. Poe,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Mr. Brady,Miss Fuller,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Mr. Brady,Mrs. Poe,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Miss Fuller,Mrs. Poe,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,feel fascinate scowl
+Mrs. Bochsa,Henry,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,be
+Mrs. Bochsa,Henry,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,be
+Mrs. Poe,Mr. Poe,1.9230769230769231,5.769230769230769,76.92307692307693,0.3333333333333333,mince be pick
+Mr. Poe,Mrs. Poe,1.644736842105263,3.289473684210526,58.223684210526315,0.5,lead cough throw mine
+Mr. Poe,Mrs. Poe,1.644736842105263,3.289473684210526,58.223684210526315,0.5,lead cough throw mine
+Reverend Griswold,Griswold,2.5,2.083333333333333,58.75,1.2,sit clutch be undo
+Niblo,Mr. Poe,3.3333333333333335,1.3888888888888888,64.16666666666667,2.4,have stop announce have move
+Niblo,Mr. Poe,3.3333333333333335,1.3888888888888888,64.16666666666667,2.4,have stop announce have move
+Niblo,Mr. Poe,3.3333333333333335,1.3888888888888888,64.16666666666667,2.4,have stop announce have move
+Mr. Poe,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Poe,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Poe,Eliza,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Poe,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Poe,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Bartlett,Eliza,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Bartlett,Eliza,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Eliza,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Eliza,Mr. Bartlett,2.450980392156863,0.24509803921568626,60.049019607843135,10.0,begin drop consider consider
+Mr. Bartlett,Eliza,2.8017241379310347,0.43103448275862066,58.83620689655172,6.5,turn present rise stand write lope hunch shriek feel reach
+Eliza,Mr. Bartlett,2.8017241379310347,0.43103448275862066,58.83620689655172,6.5,turn present rise stand write lope hunch shriek feel reach
+Eliza,Mr. Bartlett,2.8017241379310347,0.43103448275862066,58.83620689655172,6.5,turn present rise stand write lope hunch shriek feel reach
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Reverend Griswold,Eliza,3.009259259259259,3.935185185185185,48.61111111111111,0.7647058823529411,grasp anchor crawl stretch puncture
+Miss Fuller,Tribune,0.78125,1.5625,60.15625,0.5,have go
+Eliza,Mr. Bartlett,3.125,0.0,55.208333333333336,INF,look
+Eliza,Mr. Bartlett,3.125,0.0,55.208333333333336,INF,look
+Catherine,Mr. Poe,1.5625,0.0,60.9375,INF,announce
+Reverend Griswold,Griswold,0.0,0.0,42.857142857142854,INF,jump
+Mr. Bartlett,Reverend Griswold,0.625,3.125,46.25,0.2,close grimace suppress
+Mr. Bartlett,Reverend Griswold,0.625,3.125,46.25,0.2,close grimace suppress
+Mr. Noyes,Reverend Griswold,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,suppose think be say
+Reverend Griswold,Mr. Poe,11.11111111111111,0.0,66.66666666666666,INF,fling
+Reverend Griswold,Griswold,7.942857142857143,6.342857142857143,42.857142857142854,1.2522522522522523,flare
+Reverend Griswold,Mr. Bartlett,0.0,3.125,46.875,0.0,be agree say
+Reverend Griswold,Griswold,3.3333333333333335,0.0,63.33333333333333,INF,glance snatch drink
+Griswold,Mr. Poe,8.035714285714286,0.0,70.53571428571429,INF,think have wound turn
+Griswold,Mr. Poe,8.035714285714286,0.0,70.53571428571429,INF,think have wound turn
+Mr. Poe,Mr. Bartlett,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Mr. Poe,Eliza,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Mr. Poe,Reverend Griswold,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Mr. Bartlett,Eliza,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Mr. Bartlett,Reverend Griswold,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Eliza,Reverend Griswold,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,split sulk
+Mr. Poe,Reverend Griswold,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Mr. Poe,Eliza,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Mr. Poe,Trinity Church,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Reverend Griswold,Eliza,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Reverend Griswold,Trinity Church,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Eliza,Trinity Church,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,feel gaze hold be install
+Eliza,Griswold,1.7857142857142856,7.142857142857142,48.214285714285715,0.25,give wince
+Reverend Griswold,Griswold,0.0,4.6875,57.8125,0.0,cross
+Eliza,Fanny,1.0416666666666665,0.0,44.79166666666667,INF,see be head say be
+Eliza,Fanny,1.0416666666666665,0.0,44.79166666666667,INF,see be head say be
+Mrs. Osgood,Mrs. Poe,3.4090909090909087,0.0,42.04545454545455,INF,call cough
+Ellen,Vinnie,0.0,3.75,46.25,0.0,breathe
+Catherine,Bridget,1.3392857142857142,2.232142857142857,67.85714285714286,0.6,find stand clutch
+Eliza,Mr. Bartlett,1.0869565217391304,0.0,55.434782608695656,INF,have take escape leave
+Mary,Martha,2.272727272727273,0.0,58.333333333333336,INF,be have go have develop have cause stay have go
+Mary,Martha,2.272727272727273,0.0,58.333333333333336,INF,be have go have develop have cause stay have go
+Mary,Martha,2.272727272727273,0.0,58.333333333333336,INF,be have go have develop have cause stay have go
+Mary,Martha,2.272727272727273,0.0,58.333333333333336,INF,be have go have develop have cause stay have go
+Mary,Eliza,6.25,0.625,48.125,10.0,have recover have leave have rejoice have
+Mary,Eliza,6.25,0.625,48.125,10.0,have recover have leave have rejoice have
+Bridget,Martha,1.9230769230769231,0.0,51.92307692307693,INF,go call
+Bridget,Mr. Bartlett,0.0,0.6944444444444444,49.30555555555556,0.0,quiver
+Mr. Poe,Mrs. Poe,1.0416666666666665,0.0,65.625,INF,let go run
+Mrs. Poe,Mr. Poe,1.7857142857142856,0.0,41.07142857142857,INF,throw
+Mr. Poe,Mrs. Poe,3.571428571428571,0.0,67.85714285714286,INF,push
+Mary,Mr. Poe,0.0,0.0,40.0,INF,take say
+Mr. Poe,Mrs. Poe,3.125,0.0,46.875,INF,place
+Mr. Poe,Mrs. Poe,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,storm leave
+Eddie,Mrs. Poe,4.464285714285714,0.0,38.392857142857146,INF,do love cry
+Mrs. Clemm,Mrs. Poe,2.380952380952381,4.166666666666666,55.35714285714286,0.5714285714285714,disappear come drink
+Bridget,Catherine,0.0,3.804347826086957,57.065217391304344,0.0,find play pinch
+Bridget,Catherine,0.0,0.0,66.66666666666666,INF,exchange
+Mr. Bartlett,Mary,0.0,2.272727272727273,61.36363636363637,0.0,be hang
+Mr. Bartlett,Mary,0.0,2.272727272727273,61.36363636363637,0.0,be hang
+Mary,Mr. Bartlett,0.0,0.0,61.111111111111114,INF,get tell ease
+Mary,Bridget,0.0,0.0,61.111111111111114,INF,get tell ease
+Mary,Mr. Bartlett,0.0,0.0,61.111111111111114,INF,get tell ease
+Mr. Bartlett,Bridget,0.0,0.0,61.111111111111114,INF,get tell ease
+Mr. Bartlett,Mary,0.0,0.0,61.111111111111114,INF,get tell ease
+Bridget,Mr. Bartlett,0.0,0.0,61.111111111111114,INF,get tell ease
+Bridget,Mary,0.0,0.0,61.111111111111114,INF,get tell ease
+Mr. Bartlett,Mary,0.0,0.0,61.111111111111114,INF,get tell ease
+Astor House,Mr. Bartlett,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Astor House,Mr. Brady,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Astor House,Tribune,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Astor House,Mr. Poe,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Mr. Bartlett,Mr. Brady,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Mr. Bartlett,Tribune,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Mr. Bartlett,Mr. Poe,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Mr. Brady,Tribune,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Mr. Brady,Mr. Poe,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Tribune,Mr. Poe,2.027027027027027,1.0135135135135136,61.82432432432432,2.0,include have be miss
+Miss Lynch,Mr. Poe,2.272727272727273,2.840909090909091,49.43181818181818,0.8,run bury leave press
+Miss Lynch,Mr. Poe,2.272727272727273,2.840909090909091,49.43181818181818,0.8,run bury leave press
+Mr. Poe,Miss Lynch,2.272727272727273,2.840909090909091,49.43181818181818,0.8,run bury leave press
+Miss Lynch,Mr. Poe,2.272727272727273,2.840909090909091,49.43181818181818,0.8,run bury leave press
+Miss Lynch,Mr. Poe,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,glitter lead
+Miss Lynch,Mr. Poe,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,glitter lead
+Miss Lynch,Mr. Poe,7.8125,3.90625,38.28125,2.0,have realize be
+Miss Lynch,Mr. Poe,2.717391304347826,2.1739130434782608,51.63043478260869,1.25,rest laugh have escape
+Miss Lynch,Mr. Poe,2.717391304347826,2.1739130434782608,51.63043478260869,1.25,rest laugh have escape
+Mr. Poe,Mr. Bartlett,4.166666666666666,4.6875,57.8125,0.8888888888888888,fear act have predict goad worry
+Mr. Poe,Mr. Bartlett,4.166666666666666,4.6875,57.8125,0.8888888888888888,fear act have predict goad worry
+Mrs. Ellet,Mr. Poe,1.1363636363636365,0.0,44.31818181818182,INF,place
+Griswold,Mr. Poe,4.605263157894736,0.0,53.289473684210535,INF,seem have surprise have have
+Griswold,Mr. Poe,4.605263157894736,0.0,53.289473684210535,INF,seem have surprise have have
+Mrs. Ellet,Mr. Poe,1.4705882352941175,5.147058823529411,40.44117647058824,0.2857142857142857,scowl be
+Mrs. Ellet,Mr. Poe,1.4705882352941175,5.147058823529411,40.44117647058824,0.2857142857142857,scowl be
+Mrs. Ellet,Mr. Poe,1.5625,0.0,48.4375,INF,resume beam
+Mrs. Ellet,Mr. Poe,1.5625,0.0,48.4375,INF,resume beam
+Mr. Poe,Mrs. Ellet,4.166666666666666,0.0,62.5,INF,glare look
+Frances,Miss Lynch,0.0,1.1363636363636365,53.40909090909091,0.0,go say
+Mrs. Ellet,Mr. Poe,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,be turn race cling
+Miss Fuller,Mr. Poe,4.166666666666666,0.0,51.388888888888886,INF,do think leave
+Mr. Brady,Mrs. Ellet,0.0,2.5,52.5,0.0,see walk insist go see whisper
+Mr. Brady,Mr. Rice,0.0,0.0,71.42857142857143,INF,have talk come play
+Miss Lynch,Mr. Rice,0.0,0.78125,80.46875,0.0,lead hitch
+Miss Lynch,Mr. Rice,0.0,0.78125,80.46875,0.0,lead hitch
+Vinnie,Samuel,0.0,0.0,62.5,INF,sit pose gather be
+Mr. Poe,Samuel,6.8181818181818175,1.7045454545454544,64.20454545454545,4.0,shake glance see be
+Vinnie,Samuel,0.0,0.0,38.46153846153847,INF,hop sit
+Vinnie,Ellen,0.0,0.0,38.46153846153847,INF,hop sit
+Samuel,Ellen,0.0,0.0,38.46153846153847,INF,hop sit
+Samuel,Mr. Poe,1.6666666666666667,0.0,58.333333333333336,INF,squint
+Vinnie,Samuel,6.730769230769231,1.9230769230769231,45.19230769230769,3.5,have change please
+Samuel,Ellen,0.8333333333333334,0.0,45.83333333333333,INF,say say do move
+Ellen,Vinnie,4.166666666666666,4.166666666666666,41.66666666666667,1.0,take lead skip
+Vinnie,Ellen,4.166666666666666,4.166666666666666,41.66666666666667,1.0,take lead skip
+Mrs. Bartlett,Mr. Bartlett,0.0,0.0,72.22222222222221,INF,see inform be come
+Mrs. Bartlett,Mr. Bartlett,0.0,0.0,72.22222222222221,INF,see inform be come
+Ellen,Vinnie,7.236842105263158,7.894736842105263,42.76315789473684,0.9166666666666666,have be hurt be overcome
+Ellen,Vinnie,7.236842105263158,7.894736842105263,42.76315789473684,0.9166666666666666,have be hurt be overcome
+Vinnie,Ellen,7.236842105263158,7.894736842105263,42.76315789473684,0.9166666666666666,have be hurt be overcome
+Vinnie,Ellen,0.0,0.0,62.5,INF,run follow
+Vinnie,Ellen,0.0,0.0,62.5,INF,run follow
+Eliza,Samuel,1.171875,1.171875,41.40625,1.0,stay return be allow visit
+Eliza,Samuel,1.171875,1.171875,41.40625,1.0,stay return be allow visit
+Eliza,Samuel,1.171875,1.171875,41.40625,1.0,stay return be allow visit
+Eliza,Samuel,1.171875,1.171875,41.40625,1.0,stay return be allow visit
+Eliza,Samuel,2.0161290322580645,5.241935483870968,44.354838709677416,0.38461538461538464,know have be cheat know yearn
+Samuel,Eliza,2.0161290322580645,5.241935483870968,44.354838709677416,0.38461538461538464,know have be cheat know yearn
+Eliza,Samuel,4.017857142857143,1.7857142857142856,58.48214285714286,2.25,provide meet give figure trust
+Eliza,Samuel,4.017857142857143,1.7857142857142856,58.48214285714286,2.25,provide meet give figure trust
+Mr. Bartlett,Samuel,5.208333333333334,6.25,42.70833333333333,0.8333333333333334,want banish forgive
+Mr. Bartlett,Samuel,5.208333333333334,6.25,42.70833333333333,0.8333333333333334,want banish forgive
+Mr. Bartlett,Samuel,5.208333333333334,6.25,42.70833333333333,0.8333333333333334,want banish forgive
+Samuel,Mr. Bartlett,1.7857142857142856,0.5952380952380952,64.28571428571429,3.0,be give come
+Samuel,Mr. Bartlett,0.0,4.464285714285714,66.96428571428571,0.0,nod recount
+Samuel,Mr. Bartlett,0.0,4.464285714285714,66.96428571428571,0.0,nod recount
+Mr. Bartlett,Mr. Poe,1.3888888888888888,0.0,54.166666666666664,INF,trust be consider
+Samuel,Mr. Poe,4.166666666666666,0.0,59.166666666666664,INF,play accept be
+Samuel,Mr. Poe,3.4722222222222223,4.166666666666666,59.02777777777778,0.8333333333333334,protest come have be
+Mr. Poe,Samuel,3.4722222222222223,4.166666666666666,59.02777777777778,0.8333333333333334,protest come have be
+Mr. Poe,Samuel,1.25,3.75,61.66666666666667,0.3333333333333333,be have assume wrong
+Mr. Poe,Samuel,1.25,3.75,61.66666666666667,0.3333333333333333,be have assume wrong
+Catherine,Eliza,0.5208333333333333,0.0,61.979166666666664,INF,present call put receive
+Catherine,Eliza,0.5208333333333333,0.0,61.979166666666664,INF,present call put receive
+Mr. Poe,Mrs. Clemm,0.8928571428571428,0.0,34.82142857142857,INF,say
+Mr. Poe,Catherine,0.8928571428571428,0.0,34.82142857142857,INF,say
+Mrs. Clemm,Catherine,0.8928571428571428,0.0,34.82142857142857,INF,say
+Samuel,Mrs. Clemm,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Samuel,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Samuel,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Samuel,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Mrs. Clemm,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Mrs. Clemm,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Mrs. Clemm,Mr. Poe,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,have jump see totter follow lean
+Mrs. Poe,Eliza,8.823529411764707,2.941176470588235,47.05882352941176,3.0,glitter receive
+Mrs. Poe,Eliza,8.823529411764707,2.941176470588235,47.05882352941176,3.0,glitter receive
+Samuel,Mrs. Poe,9.375,0.0,65.625,INF,take
+Samuel,Mrs. Poe,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,give kiss
+Samuel,Mrs. Poe,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,give kiss
+Samuel,Mrs. Poe,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,give kiss
+Samuel,Mr. Poe,1.25,11.25,67.5,0.1111111111111111,look
+Mr. Poe,Mrs. Poe,2.5,0.0,44.166666666666664,INF,say like paint be honor do
+Eliza,Mrs. Poe,1.6666666666666667,4.166666666666666,60.83333333333333,0.4,grimace have turn
+Ellen,Vinnie,0.78125,0.0,24.21875,INF,like go
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,fade listen like appear nod
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Mrs. Poe,8.620689655172415,2.1551724137931036,47.8448275862069,4.0,arrange bid take assure worry
+Samuel,Edgar,0.0,5.357142857142857,58.92857142857143,0.0,scowl remove
+Mr. Poe,Mrs. Poe,4.166666666666666,0.0,62.5,INF,stare
+Mr. Poe,Samuel,4.166666666666666,5.555555555555555,34.72222222222222,0.75,say
+Edgar,Mrs. Poe,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,please excuse tell
+Edgar,Samuel,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,please excuse tell
+Mrs. Poe,Samuel,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,please excuse tell
+Mrs. Clemm,Mrs. Poe,3.4090909090909087,3.4090909090909087,47.72727272727273,1.0,stir
+Mrs. Clemm,Mrs. Poe,3.4090909090909087,3.4090909090909087,47.72727272727273,1.0,stir
+Edgar,Mrs. Poe,6.25,0.0,43.75,INF,go find say
+Mrs. Poe,Edgar,5.434782608695652,2.1739130434782608,57.608695652173914,2.5,languish have drain have leave
+Mrs. Poe,Edgar,5.434782608695652,2.1739130434782608,57.608695652173914,2.5,languish have drain have leave
+Samuel,Mrs. Clemm,0.9146341463414633,0.6097560975609756,52.13414634146341,1.5,perch click twitch
+Samuel,Mrs. Clemm,0.9146341463414633,0.6097560975609756,52.13414634146341,1.5,perch click twitch
+Samuel,Mrs. Poe,0.9146341463414633,0.6097560975609756,52.13414634146341,1.5,perch click twitch
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,0.6097560975609756,52.13414634146341,1.5,perch click twitch
+Mrs. Clemm,Mrs. Poe,0.9146341463414633,0.6097560975609756,52.13414634146341,1.5,perch click twitch
+Mr. Osgood,Mr. Poe,0.0,5.208333333333334,44.79166666666667,0.0,have bring say
+Mrs. Clemm,Mr. Poe,2.083333333333333,3.125,36.45833333333333,0.6666666666666666,go look disturb close
+Samuel,Mrs. Poe,2.083333333333333,0.0,64.58333333333334,INF,nod
+Mrs. Poe,Mr. Poe,1.3888888888888888,0.0,54.166666666666664,INF,trail
+Mrs. Poe,Catherine,2.5735294117647056,0.0,59.19117647058824,INF,have push be observe take dip touch
+Mrs. Poe,Catherine,2.5735294117647056,0.0,59.19117647058824,INF,have push be observe take dip touch
+Mrs. Poe,Catherine,2.5735294117647056,0.0,59.19117647058824,INF,have push be observe take dip touch
+Catherine,Samuel,0.4629629629629629,0.0,58.79629629629629,INF,go set say hear think
+Catherine,Fanny,0.4629629629629629,0.0,58.79629629629629,INF,go set say hear think
+Samuel,Fanny,0.4629629629629629,0.0,58.79629629629629,INF,go set say hear think
+Mrs. Poe,Samuel,3.125,0.390625,49.609375,8.0,say like come be
+Mrs. Poe,Samuel,1.5625,7.8125,53.125,0.2,seem hear
+Samuel,Mr. Poe,1.5,1.0,53.5,1.5,be amble
+Mr. Morse,Mr. Poe,3.4482758620689653,2.1551724137931036,70.25862068965517,1.6,stop cause
+Mr. Poe,Mr. Morse,4.521276595744681,2.127659574468085,55.053191489361694,2.125,say ask be be catch be
+Mr. Morse,Edgar,2.0,0.5,57.49999999999999,4.0,possess be exceed
+Samuel,Edgar,0.8333333333333334,0.0,59.166666666666664,INF,unfold see be
+Mrs. Poe,Fanny,2.7777777777777777,8.333333333333332,22.22222222222222,0.3333333333333333,be die
+Mr. Poe,Samuel,1.25,0.0,68.75,INF,say stare
+Eliza,Mr. Bartlett,0.0,0.0,60.0,INF,trail carry
+Eliza,Johnny,0.0,0.0,60.0,INF,trail carry
+Mr. Bartlett,Johnny,0.0,0.0,60.0,INF,trail carry
+Samuel,Mr. Poe,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,lean ask be invite
+Samuel,Fanny,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,lean ask be invite
+Mr. Poe,Fanny,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,lean ask be invite
+Vinnie,Mrs. Clemm,0.0,1.25,48.75,0.0,shrug ride
+Vinnie,Mrs. Clemm,0.0,1.25,48.75,0.0,shrug ride
+Mrs. Clemm,Eliza,0.0,0.0,52.17391304347826,INF,be sit come
+Mrs. Clemm,Eliza,2.6785714285714284,1.7857142857142856,52.67857142857143,1.5,fold refold walk
+Mrs. Clemm,Eliza,2.6785714285714284,1.7857142857142856,52.67857142857143,1.5,fold refold walk
+Eddie,Mrs. Poe,2.7777777777777777,0.0,41.66666666666667,INF,spend
+Eliza,Mrs. Clemm,2.8846153846153846,3.8461538461538463,47.11538461538461,0.75,peer be hide
+Mrs. Poe,Eddie,1.3888888888888888,0.0,43.05555555555556,INF,like come
+Eddie,Eliza,6.730769230769231,0.9615384615384616,30.76923076923077,7.0,do know be blurt
+Eddie,Boston Lyceum,2.083333333333333,0.0,53.47222222222222,INF,have go work
+Eddie,Boston Lyceum,2.083333333333333,0.0,53.47222222222222,INF,have go work
+Eddie,Boston Lyceum,2.083333333333333,0.0,53.47222222222222,INF,have go work
+Mrs. Clemm,Mrs. Poe,6.730769230769231,3.8461538461538463,50.96153846153846,1.75,exclaim be
+Mother,Mrs. Poe,1.0416666666666665,0.0,48.95833333333333,INF,do lie say
+Edgar,Mr. Poe,0.625,0.0,49.375,INF,take
+Mr. Poe,Mrs. Poe,2.1739130434782608,4.3478260869565215,58.69565217391305,0.5,do come take
+Mr. Bartlett,Mr. Poe,2.976190476190476,1.7857142857142856,61.904761904761905,1.6666666666666667,recall pronounce be
+Mr. Poe,Boston Lyceum,4.3478260869565215,0.0,56.52173913043478,INF,be be
+Boston Lyceum,Mr. Poe,4.3478260869565215,0.0,56.52173913043478,INF,be be
+Boston Lyceum,Mr. Poe,4.3478260869565215,0.0,56.52173913043478,INF,be be
+Boston Lyceum,Frances,0.8333333333333334,0.0,39.166666666666664,INF,like come
+Eliza,Mother,6.8181818181818175,5.681818181818182,42.04545454545455,1.2,know see
+Mr. Poe,Boston Lyceum,1.1363636363636365,0.0,80.68181818181817,INF,keep picture
+Vinnie,Mr. Poe,1.5,8.5,42.0,0.17647058823529413,scold wear hate
+Eliza,Mary,3.3333333333333335,5.833333333333333,47.5,0.5714285714285714,listen complain increase grow be
+Mary,Eliza,3.3333333333333335,5.833333333333333,47.5,0.5714285714285714,listen complain increase grow be
+Mary,Eliza,3.3333333333333335,5.833333333333333,47.5,0.5714285714285714,listen complain increase grow be
+Mrs. Butler,Miss Fuller,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Mrs. Butler,Mr. Greeley,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Mrs. Butler,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Mrs. Butler,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Miss Fuller,Mr. Greeley,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Miss Fuller,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Miss Fuller,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Mr. Greeley,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Mr. Greeley,Miss Lynch,1.8292682926829267,3.048780487804878,51.21951219512195,0.6,talk have let face have be
+Reverend Griswold,Griswold,0.0,0.0,66.66666666666666,INF,claim be go leave do
+Mrs. Ellet,Reverend Griswold,0.9259259259259258,2.314814814814815,52.31481481481482,0.4,do respond add say frequent be stay
+Mrs. Ellet,Mr. Poe,0.9259259259259258,2.314814814814815,52.31481481481482,0.4,do respond add say frequent be stay
+Reverend Griswold,Mr. Poe,0.9259259259259258,2.314814814814815,52.31481481481482,0.4,do respond add say frequent be stay
+Mr. Poe,Mr. Bartlett,1.9230769230769231,0.9615384615384616,66.34615384615384,2.0,have be help
+Mrs. Ellet,Mrs. Poe,1.9736842105263157,0.6578947368421052,50.0,3.0,allow pass ask be
+Mr. Poe,Boston Lyceum,3.571428571428571,2.976190476190476,50.595238095238095,1.2,be leave keep
+Mr. Poe,Mrs. Ellet,3.571428571428571,2.976190476190476,50.595238095238095,1.2,be leave keep
+Boston Lyceum,Mrs. Ellet,3.571428571428571,2.976190476190476,50.595238095238095,1.2,be leave keep
+Boston Lyceum,Mr. Poe,1.1111111111111112,3.3333333333333335,51.11111111111111,0.3333333333333333,have burn know stop join walk
+Boston Lyceum,Mr. Poe,1.1111111111111112,3.3333333333333335,51.11111111111111,0.3333333333333333,have burn know stop join walk
+Boston Lyceum,Tremont House,1.1111111111111112,3.3333333333333335,51.11111111111111,0.3333333333333333,have burn know stop join walk
+Mr. Poe,Tremont House,1.1111111111111112,3.3333333333333335,51.11111111111111,0.3333333333333333,have burn know stop join walk
+Mr. Poe,Tremont House,1.1111111111111112,3.3333333333333335,51.11111111111111,0.3333333333333333,have burn know stop join walk
+Mr. Poe,Mrs. Poe,1.9230769230769231,1.9230769230769231,61.53846153846154,1.0,shroud have stand let write
+Edgar,Boston Lyceum,3.977272727272727,0.5681818181818182,68.18181818181817,7.0,have be catch have meet
+Edgar,Boston Lyceum,3.977272727272727,0.5681818181818182,68.18181818181817,7.0,have be catch have meet
+Edgar,Boston Lyceum,3.977272727272727,0.5681818181818182,68.18181818181817,7.0,have be catch have meet
+Edgar,Boston Lyceum,3.977272727272727,0.5681818181818182,68.18181818181817,7.0,have be catch have meet
+Edgar,Mrs. Bartlett,3.90625,0.0,52.34375,INF,have leave say have enjoy
+Edgar,Mr. Bartlett,3.90625,0.0,52.34375,INF,have leave say have enjoy
+Mrs. Bartlett,Mr. Bartlett,3.90625,0.0,52.34375,INF,have leave say have enjoy
+Mrs. Poe,Mr. Poe,4.166666666666666,4.166666666666666,65.0,1.0,care be
+Mr. Poe,Eliza,5.0,0.0,60.0,INF,say have finish
+Mr. Poe,Mr. Bartlett,5.0,0.0,60.0,INF,say have finish
+Eliza,Mr. Bartlett,5.0,0.0,60.0,INF,say have finish
+Mr. Poe,Reverend Griswold,0.0,0.0,50.0,INF,dish
+Mr. Poe,Mr. Longfellow,0.0,0.0,50.0,INF,dish
+Reverend Griswold,Mr. Longfellow,0.0,0.0,50.0,INF,dish
+Mr. Poe,Boston Lyceum,6.25,2.6785714285714284,48.214285714285715,2.3333333333333335,do hear be
+Eliza,Russell,1.9230769230769231,0.0,51.92307692307693,INF,stab ask have get
+Eliza,Mary,1.9230769230769231,0.0,51.92307692307693,INF,stab ask have get
+Eliza,Mary,1.9230769230769231,0.0,51.92307692307693,INF,stab ask have get
+Russell,Mary,1.9230769230769231,0.0,51.92307692307693,INF,stab ask have get
+Russell,Mary,1.9230769230769231,0.0,51.92307692307693,INF,stab ask have get
+Mary,Eliza,2.34375,0.0,41.40625,INF,have decide let go tell
+Mary,Fanny,2.2058823529411766,0.7352941176470588,26.47058823529412,3.0,be be say
+Eliza,Mr. Bartlett,4.166666666666666,0.0,79.16666666666666,INF,flash smile
+Eliza,Mary,2.34375,1.5625,52.34375,1.5,say ask be come
+Eliza,Mr. Bartlett,2.5,0.0,37.5,INF,stare
+Eliza,Mr. Bartlett,3.571428571428571,0.0,60.71428571428571,INF,blink chew
+Mr. Bartlett,Eliza,3.571428571428571,0.0,60.71428571428571,INF,blink chew
+Edgar,Boston Lyceum,1.7857142857142856,0.5952380952380952,64.28571428571429,3.0,tumble do
+Mr. Poe,Russell,0.0,0.8333333333333334,52.5,0.0,have hear talk be turn
+Eliza,Mr. Poe,7.142857142857142,3.571428571428571,46.42857142857143,2.0,reverberate
+Eliza,Mr. Bartlett,4.807692307692308,5.288461538461538,51.442307692307686,0.9090909090909091,have consider soil impact
+Catherine,Martha,0.0,0.0,56.25,INF,come be remove
+Martha,Mr. Bartlett,0.0,3.3333333333333335,56.666666666666664,0.0,frown lower
+Martha,Mr. Bartlett,0.0,3.3333333333333335,56.666666666666664,0.0,frown lower
+Eliza,Catherine,2.1739130434782608,1.0869565217391304,40.21739130434783,2.0,say have be go
+Eliza,Catherine,2.1739130434782608,1.0869565217391304,40.21739130434783,2.0,say have be go
+Catherine,Mr. Bartlett,0.0,0.0,50.0,INF,have let go say
+Russell,Eliza,0.0,0.0,28.57142857142857,INF,protest
+Mrs. Poe,Boston Lyceum,0.0,0.0,45.45454545454545,INF,
+Mrs. Poe,Eliza,7.5,4.375,43.125,1.7142857142857142,arrive say think
+Eliza,Russell,0.0,4.6875,64.0625,0.0,glance be scowl chew continue
+Eliza,Russell,0.0,4.6875,64.0625,0.0,glance be scowl chew continue
+Russell,Eliza,0.0,4.6875,64.0625,0.0,glance be scowl chew continue
+Russell,Eliza,0.0,4.6875,64.0625,0.0,glance be scowl chew continue
+Mrs. Poe,Catherine,3.9285714285714284,2.142857142857143,51.07142857142857,1.8333333333333333,be have come light be grow
+Catherine,Mrs. Poe,2.7777777777777777,0.6944444444444444,63.19444444444444,4.0,have draw open start cough
+Mrs. Poe,Catherine,0.0,0.0,57.14285714285714,INF,rush shout bring
+Catherine,Mrs. Poe,1.9230769230769231,2.8846153846153846,64.42307692307693,0.6666666666666666,be go do straighten
+Catherine,Mrs. Poe,2.380952380952381,2.976190476190476,56.547619047619044,0.8,return tell have leave
+Catherine,Mrs. Poe,2.380952380952381,2.976190476190476,56.547619047619044,0.8,return tell have leave
+Russell,Mr. Bartlett,0.8928571428571428,0.4464285714285714,45.089285714285715,2.0,say look have see be say interject
+Eliza,Mr. Bartlett,1.6666666666666667,1.6666666666666667,50.0,1.0,glance wrap acknowledge
+Eliza,Mr. Bartlett,1.6666666666666667,1.6666666666666667,50.0,1.0,glance wrap acknowledge
+Mr. Bartlett,Eliza,1.6666666666666667,1.6666666666666667,50.0,1.0,glance wrap acknowledge
+Eliza,Mr. Bartlett,1.6666666666666667,1.6666666666666667,50.0,1.0,glance wrap acknowledge
+Russell,Ellen,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,be ready strike light shout
+Mrs. Poe,Vinnie,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,have see say be
+Mrs. Poe,Boston Lyceum,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,have see say be
+Vinnie,Boston Lyceum,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,have see say be
+Mrs. Poe,Catherine,6.875000000000001,6.875000000000001,31.25,1.0,be blame be wronghead
+Mrs. Poe,Catherine,6.875000000000001,6.875000000000001,31.25,1.0,be blame be wronghead
+Boston Lyceum,Mr. Poe,6.25,3.4090909090909087,63.06818181818182,1.8333333333333333,seem have do dim
+Miss Lynch,Mr. Poe,1.3888888888888888,2.2222222222222223,58.611111111111114,0.625,have arrange follow crowd arrive
+Miss Lynch,Mr. Poe,1.3888888888888888,2.2222222222222223,58.611111111111114,0.625,have arrange follow crowd arrive
+Mr. Bartlett,Mr. Poe,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,come get stake
+Mr. Bartlett,Mr. Poe,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,come get stake
+Mr. Bartlett,Mr. Poe,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,come get stake
+Mr. Bartlett,Mr. Poe,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,come get stake
+Mr. Bartlett,Mr. Poe,2.083333333333333,3.6458333333333335,52.604166666666664,0.5714285714285714,guess have turn
+Mr. Poe,Mr. Bartlett,2.083333333333333,3.6458333333333335,52.604166666666664,0.5714285714285714,guess have turn
+Edgar,Miss Fuller,2.941176470588235,2.2058823529411766,59.55882352941176,1.3333333333333333,be say
+Reverend Griswold,Griswold,0.0,0.0,57.14285714285714,INF,flare
+Mr. Poe,Miss Ellet,5.729166666666666,1.0416666666666665,34.89583333333333,5.5,want understand be say read
+Miss Ellet,Mr. Poe,5.729166666666666,1.0416666666666665,34.89583333333333,5.5,want understand be say read
+Mrs. Ellet,Griswold,0.0,10.0,30.0,0.0,ignore
+Mr. Poe,Boston Lyceum,2.9166666666666665,2.9166666666666665,37.5,1.0,do call
+Mrs. Ellet,Mr. Poe,6.61764705882353,0.7352941176470588,57.35294117647059,9.0,come offer be
+Mrs. Ellet,Mr. Poe,6.61764705882353,0.7352941176470588,57.35294117647059,9.0,come offer be
+Mr. Poe,Mrs. Ellet,2.5,0.0,57.49999999999999,INF,stare
+Mr. Poe,Miss Fuller,2.5,0.0,47.5,INF,read snap
+Reverend Griswold,Mr. Poe,0.8928571428571428,4.464285714285714,51.78571428571429,0.2,do
+Edgar,Mrs. Ellet,0.0,0.0,60.0,INF,ask
+Mrs. Ellet,Edgar,5.555555555555555,5.555555555555555,33.33333333333333,1.0,lift
+Mrs. Ellet,Edgar,5.555555555555555,5.555555555555555,33.33333333333333,1.0,lift
+Edgar,Mrs. Ellet,2.5,0.0,57.49999999999999,INF,stare
+Mr. Poe,Mr. Greeley,3.9473684210526314,0.0,43.42105263157895,INF,get say try make
+Edgar,Madame Restell,3.125,4.6875,38.02083333333333,0.6666666666666666,have suspect disapprove
+Madame Restell,Edgar,3.125,4.6875,38.02083333333333,0.6666666666666666,have suspect disapprove
+Madame Restell,Edgar,3.125,4.6875,38.02083333333333,0.6666666666666666,have suspect disapprove
+Mr. Poe,Edgar,4.166666666666666,15.277777777777779,25.0,0.2727272727272727,enrage
+Mrs. Osgood,Edgar,1.1363636363636365,0.0,35.22727272727273,INF,have drop have
+Griswold,Edgar,0.8333333333333334,5.833333333333333,66.66666666666666,0.14285714285714285,think be involve do
+Edgar,Mrs. Jones,1.0869565217391304,1.6304347826086956,62.5,0.6666666666666666,have know be go be have refuse come
+Mrs. Jones,Mr. Poe,3.723404255319149,0.26595744680851063,44.9468085106383,14.0,be tempt believe announce be
+Mrs. Jones,M. Valdemar,3.723404255319149,0.26595744680851063,44.9468085106383,14.0,be tempt believe announce be
+Mrs. Jones,Mr. Poe,3.723404255319149,0.26595744680851063,44.9468085106383,14.0,be tempt believe announce be
+Mrs. Jones,M. Valdemar,3.723404255319149,0.26595744680851063,44.9468085106383,14.0,be tempt believe announce be
+Mr. Poe,M. Valdemar,3.723404255319149,0.26595744680851063,44.9468085106383,14.0,be tempt believe announce be
+Mrs. Jones,Reverend Griswold,4.166666666666666,0.8333333333333334,55.00000000000001,5.0,follow
+Mr. Bartlett,Eliza,0.0,0.0,66.66666666666666,INF,step take
+Mr. Bartlett,Eliza,0.0,6.25,56.25,0.0,see whisper
+Edgar,Mrs. Jones,3.0303030303030303,2.272727272727273,61.36363636363637,1.3333333333333333,watch move lift cradle
+Mrs. Jones,Edgar,3.0303030303030303,2.272727272727273,61.36363636363637,1.3333333333333333,watch move lift cradle
+Mr. Poe,Reverend Griswold,0.7352941176470588,5.147058823529411,47.05882352941176,0.14285714285714285,take say
+Fanny,Eliza,0.0,0.0,35.714285714285715,INF,say have go
+Reverend Griswold,Griswold,3.7037037037037033,0.4629629629629629,55.092592592592595,8.0,be see watch dawn see
+Reverend Griswold,Griswold,3.7037037037037033,0.4629629629629629,55.092592592592595,8.0,be see watch dawn see
+Eliza,Bridget,1.7045454545454544,0.0,57.38636363636363,INF,spread cook fill have roll
+Bridget,Mary,5.0,3.9285714285714284,51.07142857142857,1.2727272727272727,have give have depart make need make
+Graham,Godey,4.861111111111112,0.3472222222222222,47.56944444444444,14.0,have sell have be
+Graham,Mr. Poe,4.861111111111112,0.3472222222222222,47.56944444444444,14.0,have sell have be
+Godey,Mr. Poe,4.861111111111112,0.3472222222222222,47.56944444444444,14.0,have sell have be
+Nick,Samuel,0.0,0.0,50.0,INF,say
+Mrs. Ellet,Samuel,2.7777777777777777,8.333333333333332,50.0,0.3333333333333333,have be resist tell
+Vinnie,Samuel,0.0,1.7857142857142856,55.35714285714286,0.0,bound drag
+Samuel,Vinnie,3.289473684210526,2.631578947368421,62.5,1.25,be get leave know be
+Samuel,Vinnie,3.289473684210526,2.631578947368421,62.5,1.25,be get leave know be
+Eliza,Ellen,1.25,1.875,41.875,0.6666666666666666,have come
+Eliza,Ellen,1.25,1.875,41.875,0.6666666666666666,have come
+Samuel,Mr. Poe,3.3333333333333335,0.8333333333333334,62.5,4.0,meet stare shrug kiss
+Samuel,Ellen,3.3333333333333335,0.8333333333333334,62.5,4.0,meet stare shrug kiss
+Mr. Poe,Ellen,3.3333333333333335,0.8333333333333334,62.5,4.0,meet stare shrug kiss
+Mrs. Poe,Edgar,6.578947368421052,0.0,46.05263157894737,INF,placate hear have come
+Mrs. Poe,Edgar,6.578947368421052,0.0,46.05263157894737,INF,placate hear have come
+Samuel,Mr. Poe,5.0,8.75,66.25,0.5714285714285714,talk
+Mr. Bartlett,Eliza,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Mr. Bartlett,Samuel,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Mr. Bartlett,Mr. Poe,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Eliza,Samuel,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Eliza,Mr. Poe,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Samuel,Mr. Poe,0.4629629629629629,0.0,62.5,INF,try pick have run snip
+Vinnie,Eliza,3.4090909090909087,5.681818181818182,36.36363636363637,0.6,clap set
+Mr. Poe,Samuel,1.25,0.0,48.75,INF,say
+Mr. Poe,Mr. Bartlett,0.9259259259259258,0.9259259259259258,57.407407407407405,1.0,walk be wait finish leave let begin
+Catherine,Mary,3.4482758620689653,3.0172413793103448,62.5,1.1428571428571428,be throw do have
+Eliza,Mary,3.571428571428571,2.5,53.92857142857142,1.4285714285714286,be see get have write be come
+Eliza,Mary,3.571428571428571,2.5,53.92857142857142,1.4285714285714286,be see get have write be come
+Mr. Bartlett,Vinnie,0.0,4.166666666666666,62.5,0.0,turn
+Mr. Bartlett,Eliza,3.571428571428571,4.464285714285714,56.25,0.8,do mean have go
+Mr. Bartlett,Madame Restell,3.571428571428571,4.464285714285714,56.25,0.8,do mean have go
+Eliza,Madame Restell,3.571428571428571,4.464285714285714,56.25,0.8,do mean have go
+Mr. Bartlett,Eliza,6.25,10.0,43.75,0.625,fear be talk
+Mrs. Poe,Mr. Poe,4.069767441860465,6.976744186046512,56.395348837209305,0.5833333333333334,mince hate cause help think be
+Eliza,Mary,0.0,0.0,50.0,INF,meet daze
+Eliza,Mary,0.0,6.8181818181818175,56.81818181818182,0.0,be be
+Mrs. Ellet,Reverend Griswold,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,keep have turn be hobble
+Reverend Griswold,Griswold,0.0,0.0,50.0,INF,smile
+Mrs. Ellet,Reverend Griswold,1.25,3.75,30.0,0.3333333333333333,be notice
+Mrs. Ellet,Mr. Poe,0.8333333333333334,1.6666666666666667,50.83333333333333,0.5,respond shout
+Mr. Poe,Mrs. Ellet,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,be be snap
+Mr. Poe,Mrs. Ellet,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,be be snap
+Mrs. Ellet,Reverend Griswold,0.0,0.0,44.44444444444444,INF,latch
+Mary,Mr. Bartlett,3.4722222222222223,2.7777777777777777,46.52777777777778,1.25,be have bring smudge cough have look
+Mr. Bartlett,Mary,3.4722222222222223,2.7777777777777777,46.52777777777778,1.25,be have bring smudge cough have look
+Mr. Bartlett,Mary,3.4722222222222223,2.7777777777777777,46.52777777777778,1.25,be have bring smudge cough have look
+Mary,Poes,1.5625,0.0,48.4375,INF,be
+Eliza,Mary,6.730769230769231,5.288461538461538,34.13461538461539,1.2727272727272727,welcome have relish
+Eliza,Mary,6.730769230769231,5.288461538461538,34.13461538461539,1.2727272727272727,welcome have relish
+Mary,Eliza,6.730769230769231,5.288461538461538,34.13461538461539,1.2727272727272727,welcome have relish
+Mrs. Osgood,Edgar,5.357142857142857,0.0,58.92857142857143,INF,be write
+Mr. Poe,Trinity Church,0.641025641025641,0.0,63.46153846153846,INF,be be be
+Prince,Mr. Astor,0.0,0.0,60.0,INF,fly
+Paul,Mr. Brady,2.0161290322580645,2.4193548387096775,63.306451612903224,0.8333333333333334,shuffle close have depart
+Mrs. Osgood,Edgar,0.0,0.0,70.0,INF,be
+Mrs. Ellet,Mr. Poe,9.659090909090908,0.0,44.88636363636363,INF,have say want know be read
+Mrs. Ellet,Mr. Poe,9.659090909090908,0.0,44.88636363636363,INF,have say want know be read
+Mr. Bartlett,Mr. Poe,1.875,5.0,58.12500000000001,0.375,have warn couple
+Mr. Bartlett,Mr. Poe,1.875,5.0,58.12500000000001,0.375,have warn couple
+Mrs. Clemm,Mr. Poe,4.166666666666666,0.0,42.5,INF,bustle amplify
+Mr. Poe,Mrs. Clemm,4.166666666666666,0.0,42.5,INF,bustle amplify
+Mr. Poe,Mrs. Clemm,1.25,1.25,47.5,1.0,shrug throw embrace
+Mrs. Clemm,Mary,0.0,0.0,31.25,INF,say be
+Mr. Poe,Mrs. Clemm,0.0,0.0,55.55555555555556,INF,wrestle
+Frances,Mr. Poe,3.4722222222222223,4.166666666666666,36.80555555555556,0.8333333333333334,say think be
+Mrs. Clemm,Mr. Poe,1.5625,17.1875,43.75,0.09090909090909091,give scowl
+Mary,Mr. Bartlett,0.5434782608695652,0.5434782608695652,55.434782608695656,1.0,believe find drift moon
+Frances,Mr. Poe,3.289473684210526,2.9605263157894735,49.01315789473684,1.1111111111111112,think kill have dream ask
+Mrs. Clemm,Mr. Poe,2.083333333333333,0.0,47.91666666666667,INF,turn
+Mr. Poe,Mrs. Clemm,1.3888888888888888,0.0,65.27777777777779,INF,spring catch
+Mrs. Clemm,Mr. Poe,0.0,0.0,33.33333333333333,INF,fight sway
+Mr. Poe,Mrs. Clemm,0.0,0.0,33.33333333333333,INF,fight sway
+Samuel,Mrs. Ellet,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mr. Poe,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mrs. Ellet,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mr. Poe,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mrs. Ellet,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mr. Poe,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mrs. Ellet,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Samuel,Mr. Poe,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Mrs. Ellet,Mr. Poe,2.403846153846154,1.6826923076923077,57.45192307692307,1.4285714285714286,have insist live claim be have find be have resist have announce have write
+Miss Lynch,Miss Fuller,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,think be act have go demand
+Miss Lynch,Mr. Poe,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,think be act have go demand
+Miss Fuller,Mr. Poe,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,think be act have go demand
+Mr. Poe,Boston Lyceum,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Mr. Poe,Miss Lynch,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Mr. Poe,Edgar,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Boston Lyceum,Mr. Poe,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Boston Lyceum,Miss Lynch,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Boston Lyceum,Edgar,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Mr. Poe,Miss Lynch,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Mr. Poe,Edgar,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Miss Lynch,Edgar,2.6923076923076925,1.5384615384615385,58.84615384615385,1.75,have have write name be write keep be read send fall
+Reverend Griswold,Miss Lynch,0.0,1.0416666666666665,48.95833333333333,0.0,see enter
+Mr. Barnum,Mr. Poe,7.000000000000001,1.0,52.0,7.0,occur suggest add
+Mr. Barnum,Mr. Poe,7.000000000000001,1.0,52.0,7.0,occur suggest add
+Mr. Barnum,Mr. Poe,7.000000000000001,1.0,52.0,7.0,occur suggest add
+Mr. Barnum,Mr. Poe,7.000000000000001,1.0,52.0,7.0,occur suggest add
+Brooks Brothers,Miss Lynch,0.0,0.5681818181818182,72.1590909090909,0.0,be try remember see come
+Miss Lynch,Brooks Brothers,0.0,0.5681818181818182,72.1590909090909,0.0,be try remember see come
+Frances,Miss Lynch,0.0,0.0,33.33333333333333,INF,say
+Reverend Griswold,Mr. Barnum,6.25,3.4722222222222223,40.27777777777778,1.8,be say catch
+Mrs. Ellet,Mr. Poe,4.166666666666666,2.976190476190476,50.0,1.4,have stir have increase
+Reverend Griswold,Mrs. Poe,7.142857142857142,1.7857142857142856,48.214285714285715,4.0,have be visit
+Griswold,Mrs. Poe,6.25,4.166666666666666,56.25,1.5,have be fan get
+Griswold,Edgar,6.25,4.166666666666666,56.25,1.5,have be fan get
+Mrs. Poe,Edgar,6.25,4.166666666666666,56.25,1.5,have be fan get
+Edgar,Mrs. Ellet,6.0,0.5,53.5,12.0,have write have read have serve sever
+Mr. Poe,Godey,1.953125,2.34375,58.203125,0.8333333333333334,have make write paint
+Godey,Mr. Poe,1.953125,2.34375,58.203125,0.8333333333333334,have make write paint
+Mr. Poe,Mr. Bryant,6.944444444444445,2.7777777777777777,34.72222222222222,2.5,say be
+Mr. Poe,Miss Fuller,5.0,2.5,62.5,2.0,be
+Mr. Poe,Reverend Griswold,0.0,5.147058823529411,36.029411764705884,0.0,blame ruin say
+Mrs. Poe,Mr. Poe,3.571428571428571,0.0,44.047619047619044,INF,be have buy keep
+Mrs. Poe,Mr. Poe,3.571428571428571,0.0,44.047619047619044,INF,be have buy keep
+Mr. Poe,Mrs. Poe,3.571428571428571,0.0,44.047619047619044,INF,be have buy keep
+Frances,Anne,0.8333333333333334,0.0,32.5,INF,tell be go
+Frances,Griswold,0.8333333333333334,0.0,32.5,INF,tell be go
+Anne,Griswold,0.8333333333333334,0.0,32.5,INF,tell be go
+Miss Lynch,Mr. Barnum,0.0,1.7857142857142856,83.92857142857143,0.0,glance
+Miss Lynch,Reverend Griswold,0.0,1.3888888888888888,65.27777777777779,0.0,hand
+Miss Lynch,Reverend Griswold,0.0,1.3888888888888888,65.27777777777779,0.0,hand
+Miss Lynch,Griswold,3.571428571428571,0.0,53.57142857142857,INF,say juggle give
+Miss Lynch,Mr. Barnum,0.0,0.0,50.0,INF,bid take walk
+Frances,Miss Lynch,2.5,0.8333333333333334,43.333333333333336,3.0,say shrug
+Mrs. Clemm,Miss Lynch,2.840909090909091,3.977272727272727,52.27272727272727,0.7142857142857143,be leave
+Mrs. Clemm,Miss Lynch,2.840909090909091,3.977272727272727,52.27272727272727,0.7142857142857143,be leave
+Mrs. Clemm,Catherine,2.380952380952381,0.5952380952380952,73.21428571428571,4.0,be have use cough distract light

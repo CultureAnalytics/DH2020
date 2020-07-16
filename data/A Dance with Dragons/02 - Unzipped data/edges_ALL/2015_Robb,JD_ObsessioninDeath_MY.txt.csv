@@ -1,0 +1,973 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mr. Haversham,Peabody,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be be
+Mr. Warren,Bastwick,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,state try reach have give do
+Mr. Warren,Bastwick,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,state try reach have give do
+Mr. Warren,Bastwick,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,state try reach have give do
+Mr. Warren,Bastwick,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,state try reach have give do
+Mr. Warren,Bastwick,3.125,1.953125,60.546875,1.6,contact discover have arrive have remain
+Bastwick,Mr. Warren,3.125,1.953125,60.546875,1.6,contact discover have arrive have remain
+Peabody,Leanore Bastwick,0.4807692307692308,0.4807692307692308,56.730769230769226,1.0,screw have give lose
+Peabody,Jess Barrow,0.4807692307692308,0.4807692307692308,56.730769230769226,1.0,screw have give lose
+Leanore Bastwick,Jess Barrow,0.4807692307692308,0.4807692307692308,56.730769230769226,1.0,screw have give lose
+Roarke,Bastwick,0.6944444444444444,0.0,43.75,INF,do do
+Peabody,PPC,6.5,2.5,43.0,2.6,insert weigh zip
+Bastwick,Leanore Bastwick,0.9615384615384616,0.0,29.807692307692307,INF,get
+Dawson,Bastwick,3.6764705882352944,6.61764705882353,42.64705882352941,0.5555555555555556,study
+Bastwick,Dawson,3.6764705882352944,6.61764705882353,42.64705882352941,0.5555555555555556,study
+Bastwick,Dawson,3.6764705882352944,6.61764705882353,42.64705882352941,0.5555555555555556,study
+Dawson,Bastwick,0.0,0.0,62.5,INF,study do
+Peabody,Bastwick,3.4090909090909087,2.272727272727273,48.86363636363637,1.5,get tell
+Fitzhugh,Leanore Bastwick,3.3333333333333335,5.833333333333333,44.166666666666664,0.5714285714285714,be murder
+Mira,Kyung,0.0,0.0,52.63157894736842,INF,get put shrink
+Peabody,Bastwick,2.941176470588235,0.0,50.0,INF,make happen say drive
+Whitney,Bastwick,0.0,0.0,43.75,INF,be go add park
+Whitney,Bastwick,0.0,0.0,43.75,INF,be go add park
+Bastwick,Whitney,0.0,0.0,36.36363636363637,INF,reach
+Bastwick,Whitney,0.0,0.0,36.36363636363637,INF,reach
+Dr. Mira,Whitney,0.0,1.5625,42.1875,0.0,take mutter open
+Leanore Bastwick,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Leanore Bastwick,Cecil,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Leanore Bastwick,Cecil,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Leanore Bastwick,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Leanore Bastwick,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Dr. Mira,Cecil,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Dr. Mira,Cecil,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Cecil,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Cecil,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Cecil,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Cecil,Dr. Mira,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,be discover concern let
+Mr. Haversham,Dr. Mira,2.272727272727273,0.0,43.18181818181818,INF,have
+Dr. Mira,Mr. Haversham,2.272727272727273,0.0,43.18181818181818,INF,have
+Jess Barrow,Fitzhugh,0.0,1.9736842105263157,29.605263157894733,0.0,
+Fitzhugh,Leanore Bastwick,3.6764705882352944,0.7352941176470588,45.588235294117645,5.0,come have cross have have
+Fitzhugh,Leanore Bastwick,3.6764705882352944,0.7352941176470588,45.588235294117645,5.0,come have cross have have
+Bastwick,Leanore Bastwick,3.6458333333333335,4.6875,41.66666666666667,0.7777777777777778,access say know do
+Jenkinson,Baxter,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Jenkinson,Baxter,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Baxter,Jenkinson,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Baxter,Jenkinson,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Baxter,Jenkinson,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Baxter,Jenkinson,2.7027027027027026,4.391891891891892,46.95945945945946,0.6153846153846154,slurp scowl prop talk
+Peabody,Morris,1.0869565217391304,0.5434782608695652,50.54347826086957,2.0,be start connect
+Mira,Nadine,0.5,0.0,43.5,INF,be come walk close
+Mira,Nadine,0.5,0.0,43.5,INF,be come walk close
+Nadine,Mira,6.25,4.166666666666666,28.47222222222222,1.5,be toss have scowl
+Mira,Nadine,2.941176470588235,0.0,61.76470588235294,INF,stop pat indicate be take
+Mira,Nadine,2.1739130434782608,6.521739130434782,47.82608695652174,0.3333333333333333,wear be
+Mira,Nadine,4.326923076923077,1.4423076923076923,51.92307692307693,3.0,draw sit wince pinch cross
+Mira,Nadine,0.0,0.0,33.33333333333333,INF,tap
+Nadine,Leanore Bastwick,0.0,0.0,45.45454545454545,INF,look
+Nadine,Leanore Bastwick,0.0,0.0,45.45454545454545,INF,look
+Leanore Bastwick,Bastwick,0.0,0.0,60.0,INF,be
+Nadine,Mira,4.6875,0.0,45.3125,INF,look
+Peabody,Mira,4.166666666666666,0.0,56.94444444444444,INF,have read admit
+Roarke,Mira,1.0416666666666665,2.604166666666667,38.02083333333333,0.4,think target
+Carolina,Stern,1.5625,0.0,48.4375,INF,be
+Leanore Bastwick,Bastwick,0.0,0.0,50.0,INF,turn remember
+Peabody,Stern,0.0,0.0,50.0,INF,say push
+Stern,Peabody,0.0,5.833333333333333,34.166666666666664,0.0,be begin
+Carolina,Leanore Bastwick,0.0,0.0,60.0,INF,sit do
+Leanore Bastwick,Carolina,1.5625,1.5625,40.625,1.0,serve be
+Bastwick,Fitzhugh,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,know check have hate have move
+Bastwick,Leanore Bastwick,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,know check have hate have move
+Bastwick,Fitzhugh,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,know check have hate have move
+Bastwick,Leanore Bastwick,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,know check have hate have move
+Fitzhugh,Leanore Bastwick,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,know check have hate have move
+Bastwick,Stern,3.571428571428571,0.0,53.57142857142857,INF,want
+Arthur,Leanore Bastwick,0.0,5.555555555555555,38.88888888888889,0.0,do think kill
+Arthur,Leanore Bastwick,4.3478260869565215,2.1739130434782608,50.0,2.0,know dislike see come do
+Leanore Bastwick,Arthur,4.3478260869565215,2.1739130434782608,50.0,2.0,know dislike see come do
+Bastwick,Arthur,0.0,7.291666666666667,42.70833333333333,0.0,agree push
+Arthur,Bastwick,0.0,7.291666666666667,42.70833333333333,0.0,agree push
+Arthur,Leanore Bastwick,0.0,1.5625,48.4375,0.0,do threaten
+Bastwick,Fitzhugh,3.125,0.0,28.125,INF,do make
+Carolina,Cecil,1.3888888888888888,0.0,31.944444444444443,INF,take
+Stern,Peabody,0.0,0.0,55.00000000000001,INF,think be tell say leave
+Peabody,Bastwick,1.1363636363636365,1.1363636363636365,61.36363636363637,1.0,grin wiggle
+Peabody,Bastwick,1.1363636363636365,1.1363636363636365,61.36363636363637,1.0,grin wiggle
+Carolina,Fitzhugh,0.5434782608695652,0.0,51.63043478260869,INF,have move try see
+Carolina,Fitzhugh,0.5434782608695652,0.0,51.63043478260869,INF,have move try see
+Fitzhugh,Carolina,0.5434782608695652,0.0,51.63043478260869,INF,have move try see
+Carolina,Fitzhugh,0.0,12.5,27.500000000000004,0.0,
+Stern,Fitzhugh,3.571428571428571,4.761904761904762,39.285714285714285,0.75,say be
+Peabody,Bastwick,4.464285714285714,2.6785714285714284,57.14285714285714,1.6666666666666667,adore stroke
+Stern,Leanore Bastwick,1.6666666666666667,4.166666666666666,47.5,0.4,want see know play
+Leanore Bastwick,Stern,1.6666666666666667,4.166666666666666,47.5,0.4,want see know play
+Stern,Bastwick,0.0,0.8064516129032258,50.806451612903224,0.0,be go rake be do have want
+Bastwick,Stern,0.0,0.8064516129032258,50.806451612903224,0.0,be go rake be do have want
+Bastwick,Stern,0.0,0.8064516129032258,50.806451612903224,0.0,be go rake be do have want
+Bastwick,Peabody,0.0,9.722222222222223,56.94444444444444,0.0,say pity
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Bastwick,Morris,0.0,0.0,50.0,INF,make catch push
+Leanore Bastwick,Bastwick,6.730769230769231,5.769230769230769,49.03846153846153,1.1666666666666667,leanore have die have
+Bastwick,Leanore Bastwick,1.25,2.5,26.25,0.5,ask lift
+Bastwick,Leanore Bastwick,1.25,2.5,26.25,0.5,ask lift
+Bastwick,Morris,0.6578947368421052,0.0,51.973684210526315,INF,do doubt circle pull
+Morris,Bastwick,0.6578947368421052,0.0,51.973684210526315,INF,do doubt circle pull
+Bastwick,Morris,0.0,0.0,62.5,INF,nod slide look
+Bastwick,Morris,0.0,0.0,62.5,INF,nod slide look
+Bastwick,Morris,0.0,0.0,62.5,INF,nod slide look
+Jesus,Peabody,0.4032258064516129,2.4193548387096775,61.693548387096776,0.16666666666666666,be thank have say make smile walk
+Jesus,Bastwick,0.4032258064516129,2.4193548387096775,61.693548387096776,0.16666666666666666,be thank have say make smile walk
+Peabody,Bastwick,0.4032258064516129,2.4193548387096775,61.693548387096776,0.16666666666666666,be thank have say make smile walk
+Peabody,Bastwick,0.390625,2.34375,56.640625,0.16666666666666666,hunch move pull wear
+Peabody,Bastwick,0.390625,2.34375,56.640625,0.16666666666666666,hunch move pull wear
+Peabody,Bastwick,0.390625,2.34375,56.640625,0.16666666666666666,hunch move pull wear
+Peabody,Bastwick,0.0,0.0,66.66666666666666,INF,study
+Peabody,Bastwick,0.0,0.0,64.70588235294117,INF,tap hiss fist
+Peabody,Bastwick,0.0,0.0,64.70588235294117,INF,tap hiss fist
+Bastwick,Feeney,3.0303030303030303,0.0,54.54545454545454,INF,go find go meet
+Feeney,Bastwick,3.0303030303030303,0.0,54.54545454545454,INF,go find go meet
+McNab,Peabody,0.6578947368421052,0.0,46.71052631578947,INF,have get say refer
+Jesus,Roarke,0.0,0.0,40.0,INF,do put be
+Jesus,Feeney,0.0,0.0,16.666666666666664,INF,
+Webster,IAB,2.5,5.625,51.87500000000001,0.4444444444444444,be go be
+Feeney,Bastwick,0.0,0.0,50.0,INF,tap
+Feeney,Bastwick,0.0,0.0,50.0,INF,tap
+Feeney,Bastwick,3.3333333333333335,0.0,56.666666666666664,INF,be ask make think
+Feeney,Bastwick,3.3333333333333335,0.0,56.666666666666664,INF,be ask make think
+Nadine,Leanore Bastwick,0.0,2.1739130434782608,41.30434782608695,0.0,call indicate kill be
+Nadine,Leanore Bastwick,0.0,2.1739130434782608,41.30434782608695,0.0,call indicate kill be
+Peabody,Kyung,4.094827586206897,1.293103448275862,56.68103448275862,3.1666666666666665,be be immerse pursue take do add get be report
+Leanore Bastwick,Bastwick,4.464285714285714,1.7857142857142856,48.51190476190476,2.5,stand stand do use bring
+Kyung,Roarke,1.1904761904761905,1.1904761904761905,26.190476190476193,1.0,need go work speak
+Kyung,Roarke,1.1904761904761905,1.1904761904761905,26.190476190476193,1.0,need go work speak
+Kyung,Roarke,1.1904761904761905,1.1904761904761905,26.190476190476193,1.0,need go work speak
+Kyung,Peabody,0.0,0.0,63.63636363636363,INF,find
+Peabody,Kyung,0.0,0.0,63.63636363636363,INF,find
+Stern,Bastwick,0.0,0.0,50.0,INF,hire
+Kyung,Leanore Bastwick,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,break walk
+Feeney,Roarke,4.861111111111112,5.555555555555555,39.58333333333333,0.875,embarrass have come irk come
+Roarke,Feeney,0.0,0.0,38.46153846153847,INF,come frame
+Leanore Bastwick,Roarke,0.0,4.807692307692308,33.65384615384615,0.0,do get point
+Roarke,Galahad,1.3888888888888888,0.0,54.166666666666664,INF,settle sprawl snore finish set
+Mira,Nadine,0.0,0.0,25.925925925925924,INF,bring see
+Mira,McNab,0.0,0.0,25.925925925925924,INF,bring see
+Mira,Feeney,0.0,0.0,25.925925925925924,INF,bring see
+Mira,Reo,0.0,0.0,25.925925925925924,INF,bring see
+Nadine,McNab,0.0,0.0,25.925925925925924,INF,bring see
+Nadine,Feeney,0.0,0.0,25.925925925925924,INF,bring see
+Nadine,Reo,0.0,0.0,25.925925925925924,INF,bring see
+McNab,Feeney,0.0,0.0,25.925925925925924,INF,bring see
+McNab,Reo,0.0,0.0,25.925925925925924,INF,bring see
+Feeney,Reo,0.0,0.0,25.925925925925924,INF,bring see
+APA,Jess Barrow,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+APA,Fitzhugh,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+APA,Whitney,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+Jess Barrow,Fitzhugh,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+Jess Barrow,Whitney,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+Fitzhugh,Whitney,6.071428571428571,2.142857142857143,57.49999999999999,2.8333333333333335,have be have have talk
+Mira,Bastwick,0.0,0.0,56.25,INF,tempt pull opt
+Feeney,Bastwick,3.804347826086957,3.260869565217391,66.84782608695652,1.1666666666666667,send include
+Bastwick,Feeney,4.326923076923077,0.9615384615384616,56.25,4.5,note be find enhance get
+Leanore Bastwick,Stern,0.0,0.0,47.05882352941176,INF,deliver
+Leanore Bastwick,Stern,0.0,0.0,47.05882352941176,INF,deliver
+Bastwick,McNab,0.0,0.0,33.33333333333333,INF,move
+Stern,Bastwick,3.125,1.5625,45.3125,2.0,be be have expect be
+Bastwick,Stern,3.125,1.5625,45.3125,2.0,be be have expect be
+Stern,Bastwick,3.90625,0.0,58.59375,INF,file cite
+Stern,Leanore Bastwick,0.0,0.0,52.94117647058824,INF,be beat put
+Leanore Bastwick,Stern,0.0,0.0,52.94117647058824,INF,be beat put
+Leanore Bastwick,Bastwick,0.0,1.875,38.125,0.0,be restrict impede
+APA,Reo,2.604166666666667,7.8125,35.41666666666667,0.3333333333333333,scowl
+Leanore Bastwick,Bastwick,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,tell do believe kill
+Baxter,Trueheart,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Baxter,Reineke,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Baxter,Jenkinson,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Trueheart,Reineke,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Trueheart,Baxter,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Trueheart,Jenkinson,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Reineke,Baxter,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Reineke,Jenkinson,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Baxter,Jenkinson,1.5151515151515151,0.3787878787878788,55.68181818181818,4.0,get take be
+Baxter,Reineke,1.0416666666666665,1.0416666666666665,43.75,1.0,get knock make
+Reo,Mira,0.0,0.0,41.66666666666667,INF,go shrink open
+Leanore Bastwick,Bastwick,5.0,2.5,42.5,2.0,kill spend study know get
+Roarke,Jesus,0.0,18.181818181818183,36.36363636363637,0.0,be hurt
+Reo,Leanore Bastwick,0.4464285714285714,1.7857142857142856,33.482142857142854,0.25,add be have pull
+Leanore Bastwick,Bastwick,2.5,0.0,50.83333333333333,INF,sweep fall
+Leanore Bastwick,Jess Barrow,2.5,0.0,50.83333333333333,INF,sweep fall
+Bastwick,Jess Barrow,2.5,0.0,50.83333333333333,INF,sweep fall
+Bastwick,Leanore Bastwick,0.0,0.0,37.5,INF,turn
+Bastwick,Leanore Bastwick,0.0,0.0,37.5,INF,turn
+Leanore Bastwick,Bastwick,1.6304347826086956,0.0,67.93478260869566,INF,slam well
+Leanore Bastwick,Bastwick,1.6304347826086956,0.0,67.93478260869566,INF,slam well
+Jess Barrow,Bastwick,0.9615384615384616,0.0,45.19230769230769,INF,help put
+Bastwick,Leanore Bastwick,0.0,0.0,60.0,INF,stack decide look
+Leanore Bastwick,Bastwick,0.0,0.0,41.66666666666667,INF,say study
+Leanore Bastwick,Bastwick,3.125,2.34375,63.28125,1.3333333333333333,swipe come drip
+Leanore Bastwick,Bastwick,3.125,2.34375,63.28125,1.3333333333333333,swipe come drip
+Bastwick,Roarke,0.0,0.5681818181818182,58.52272727272727,0.0,wake shake draw eke
+Roarke,Bastwick,0.0,0.5681818181818182,58.52272727272727,0.0,wake shake draw eke
+Ledo,Gametown,3.125,1.875,50.0,1.6666666666666667,be
+Leanore Bastwick,Bastwick,4.166666666666666,5.833333333333333,36.666666666666664,0.7142857142857143,have be think protect
+Peabody,Ms. Decker,0.5681818181818182,2.272727272727273,51.70454545454546,0.25,be be catch leave
+Peabody,Ms. Decker,0.5681818181818182,2.272727272727273,51.70454545454546,0.25,be be catch leave
+Baxter,Reineke,1.3888888888888888,3.4722222222222223,22.916666666666664,0.4,have get talk
+Baxter,Jenkinson,1.3888888888888888,3.4722222222222223,22.916666666666664,0.4,have get talk
+Reineke,Jenkinson,1.3888888888888888,3.4722222222222223,22.916666666666664,0.4,have get talk
+Bastwick,Roarke,3.8461538461538463,6.730769230769231,43.269230769230774,0.5714285714285714,rub say
+Bastwick,Roarke,3.8461538461538463,6.730769230769231,43.269230769230774,0.5714285714285714,rub say
+Roarke,Bastwick,7.142857142857142,0.0,35.714285714285715,INF,take
+Bastwick,Roarke,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Bastwick,Peabody,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Bastwick,Roarke,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Bastwick,Peabody,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Roarke,Bastwick,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Roarke,Peabody,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Roarke,Bastwick,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Bastwick,Peabody,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Peabody,Bastwick,0.6756756756756757,2.027027027027027,64.86486486486487,0.3333333333333333,move grab swing hesitate hold recognize have make
+Bastwick,Peabody,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,wrap head have go
+Bastwick,Peabody,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,wrap head have go
+Bastwick,Peabody,0.0,0.0,63.63636363636363,INF,stride wait pull
+Peabody,Bastwick,0.0,0.0,63.63636363636363,INF,stride wait pull
+Peabody,Bastwick,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Peabody,Bastwick,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Peabody,PPC,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Peabody,Ledo,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Bastwick,PPC,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Bastwick,Ledo,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Bastwick,PPC,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Bastwick,Ledo,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+PPC,Ledo,1.4705882352941175,2.5735294117647056,60.66176470588235,0.5714285714285714,argue be wear jump pull do
+Roarke,Peabody,3.125,1.5625,45.3125,2.0,tell say bullete
+Snooks,Gametown,0.0,0.0,50.0,INF,find play
+Roarke,Peabody,0.0,0.0,55.00000000000001,INF,drive slip slide
+Leanore Bastwick,Ledo,3.125,2.232142857142857,62.5,1.4,involve focus know be
+Bastwick,Peabody,0.0,0.0,66.66666666666666,INF,drum drive
+Bastwick,Peabody,0.0,0.0,66.66666666666666,INF,drum drive
+Bastwick,Peabody,0.0,0.0,66.66666666666666,INF,drum drive
+Roarke,PPC,0.0,4.166666666666666,37.5,0.0,lean work
+Peabody,Ledo,2.403846153846154,2.403846153846154,64.42307692307693,1.0,gesture lay stain do want think
+Vic,Ledo,0.0,0.0,28.57142857142857,INF,confirm
+Vic,Ledo,0.0,0.0,28.57142857142857,INF,confirm
+Morris,Mira,0.0,0.0,33.33333333333333,INF,
+Morris,Whitney,0.0,0.0,33.33333333333333,INF,
+Mira,Whitney,0.0,0.0,33.33333333333333,INF,
+Peabody,Roarke,0.0,0.0,34.78260869565217,INF,rise gesture sit step
+Roarke,Peabody,2.083333333333333,4.166666666666666,27.083333333333332,0.5,lift
+Lottie,Charis,0.0,0.0,28.57142857142857,INF,
+Carmine,Gametown,0.0,2.5,37.5,0.0,own
+Carmine,Ledo,0.78125,0.78125,48.4375,1.0,deal go
+Hilly Decker,Peabody,2.631578947368421,3.289473684210526,51.973684210526315,0.8,stand
+Hilly Decker,Peabody,2.631578947368421,3.289473684210526,51.973684210526315,0.8,stand
+Mrs. Missenelli,Peabody,0.0,0.0,53.84615384615385,INF,be wear point
+Mrs. Missenelli,Toby,1.5625,0.0,23.4375,INF,
+Toby,Galahad,8.333333333333332,0.0,41.66666666666667,INF,meet
+Josie,Vivi,3.90625,0.0,46.09375,INF,have go
+Carmine,Vivi,0.0,2.083333333333333,59.02777777777778,0.0,pause assume wheel
+Vivi,Carmine,1.0869565217391304,5.434782608695652,54.347826086956516,0.2,add hand
+Vivi,Peabody,0.0,1.7857142857142856,41.07142857142857,0.0,pour doctor
+Carmine,Vivi,1.5625,1.5625,53.125,1.0,look take
+Carmine,Vivi,1.5625,1.5625,53.125,1.0,look take
+Carmine,Vivi,2.272727272727273,0.0,56.81818181818182,INF,sit run sit
+Vivi,Carmine,2.272727272727273,0.0,56.81818181818182,INF,sit run sit
+Carmine,Peabody,0.0,0.0,50.0,INF,have tell glance
+Carmine,Peabody,0.0,0.0,50.0,INF,have tell glance
+Carmine,PPC,0.0,0.0,50.0,INF,have tell glance
+Peabody,PPC,0.0,0.0,50.0,INF,have tell glance
+Peabody,PPC,0.0,0.0,50.0,INF,have tell glance
+Ledo,Whitney,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Ledo,Mira,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Ledo,Hilly Decker,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Whitney,Mira,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Whitney,Hilly Decker,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Mira,Hilly Decker,0.0,1.0869565217391304,42.391304347826086,0.0,write copy include
+Jenkinson,Reineke,1.9736842105263157,0.6578947368421052,55.26315789473685,3.0,cast remember be work
+Jenkinson,Reineke,1.9736842105263157,0.6578947368421052,55.26315789473685,3.0,cast remember be work
+UNSUB,Dr. Mira,3.6764705882352944,2.941176470588235,34.55882352941176,1.25,be accord organize control
+Leanore Bastwick,Bastwick,6.081081081081082,2.7027027027027026,47.97297297297297,2.25,leave take prevent believe study stalk know
+Leanore Bastwick,Baxter,0.9615384615384616,2.8846153846153846,42.30769230769231,0.3333333333333333,make comment
+Peabody,Mira,0.0,0.0,75.0,INF,have follow have flag
+Reineke,Baxter,0.0,1.7857142857142856,62.5,0.0,lean dip
+Reineke,Baxter,0.0,1.7857142857142856,62.5,0.0,lean dip
+Peabody,Bastwick,0.7352941176470588,0.0,52.20588235294118,INF,look have claw
+Peabody,Bastwick,0.7352941176470588,0.0,52.20588235294118,INF,look have claw
+Reineke,Jenkinson,0.0,0.0,40.0,INF,nod
+Baxter,Reineke,0.0,0.0,33.33333333333333,INF,ask
+Baxter,Jenkinson,0.0,0.0,33.33333333333333,INF,ask
+Reineke,Jenkinson,0.0,0.0,33.33333333333333,INF,ask
+Feeney,McNab,0.0,1.7857142857142856,31.547619047619047,0.0,speak profile shrink
+Feeney,Mira,0.0,1.7857142857142856,31.547619047619047,0.0,speak profile shrink
+McNab,Mira,0.0,1.7857142857142856,31.547619047619047,0.0,speak profile shrink
+Jenkinson,Peabody,0.0,0.0,50.0,INF,be comment
+Trueheart,Peabody,1.5625,0.78125,60.15625,2.0,finish poke
+Baxter,Nadine,0.0,0.0,42.857142857142854,INF,detour plant
+Baxter,Nadine,0.0,0.0,42.857142857142854,INF,detour plant
+Nadine,Trueheart,0.0,0.0,33.33333333333333,INF,send
+Nadine,Bruno,1.0869565217391304,2.717391304347826,52.71739130434783,0.4,be suppose be name
+Nadine,Bruno,4.545454545454546,2.272727272727273,47.72727272727273,2.0,tell
+Peabody,Nadine,0.0,1.6891891891891893,63.17567567567568,0.0,start walk toss
+Peabody,Nadine,0.0,1.6891891891891893,63.17567567567568,0.0,start walk toss
+Jesus,Kyung,0.0,9.821428571428571,40.17857142857143,0.0,remember say be
+Nadine,Peabody,1.4423076923076923,2.403846153846154,57.692307692307686,0.6,give do work start refresh
+Nadine,Mira,1.4423076923076923,2.403846153846154,57.692307692307686,0.6,give do work start refresh
+Peabody,Mira,1.4423076923076923,2.403846153846154,57.692307692307686,0.6,give do work start refresh
+Mason,Peabody,0.7352941176470588,0.0,46.32352941176471,INF,report get
+Mason,Roth,3.75,1.25,55.00000000000001,3.0,be
+Mason,Mira,1.293103448275862,2.1551724137931036,55.172413793103445,0.6,cut have do hit
+Mason,Mira,1.293103448275862,2.1551724137931036,55.172413793103445,0.6,cut have do hit
+Morris,Pepsi,0.6944444444444444,0.0,54.861111111111114,INF,nod walk get
+Pepsi,Morris,0.6944444444444444,0.0,54.861111111111114,INF,nod walk get
+Morris,Peabody,0.0,0.0,80.0,INF,glance
+Leanore Bastwick,Ledo,1.7857142857142856,1.0714285714285714,40.0,1.6666666666666667,say have meet
+Leanore Bastwick,Ledo,0.78125,4.6875,38.28125,0.16666666666666666,suggest
+Leanore Bastwick,Peabody,0.78125,4.6875,38.28125,0.16666666666666666,suggest
+Ledo,Peabody,0.78125,4.6875,38.28125,0.16666666666666666,suggest
+Morris,Ledo,0.0,0.0,30.76923076923077,INF,add
+Carmine,Ledo,0.0,0.0,38.46153846153847,INF,be go take
+Morris,Pepsi,0.0,5.681818181818182,48.86363636363637,0.0,polish roll
+Morris,Ledo,2.5,0.0,37.5,INF,do agree turn
+Morris,Kyung,0.78125,0.0,42.96875,INF,get
+Kyung,Morris,5.681818181818182,0.0,30.681818181818183,INF,know tell
+Leanore Bastwick,Ledo,2.2058823529411766,3.6764705882352944,29.411764705882355,0.6,indicate murder
+Kyung,Nadine,1.0,0.0,51.0,INF,spot travel have
+Nadine,Kyung,1.0,0.0,51.0,INF,spot travel have
+Nadine,Kyung,1.0,0.0,51.0,INF,spot travel have
+Nadine,Kyung,1.0,0.0,51.0,INF,spot travel have
+Leanore Bastwick,Ledo,2.302631578947368,0.0,42.43421052631579,INF,include write be process analyze study dissect use identify apprehend
+Bastwick,Jess Barrow,0.0,0.0,57.14285714285714,INF,represent be arrest
+Kyung,Mira,0.0,0.0,54.54545454545454,INF,go prepare battle get
+Mira,Kyung,0.0,1.3157894736842104,46.05263157894737,0.0,hold bare
+Mira,Kyung,0.5434782608695652,1.6304347826086956,54.347826086956516,0.3333333333333333,nod walk
+Ledo,Leanore Bastwick,0.0,0.0,35.294117647058826,INF,come begin
+Ledo,Mira,0.0,0.0,35.294117647058826,INF,come begin
+Leanore Bastwick,Mira,0.0,0.0,35.294117647058826,INF,come begin
+Leanore Bastwick,Jess Barrow,5.113636363636364,2.272727272727273,42.61363636363637,2.25,discredit be
+Ledo,Leanore Bastwick,4.583333333333333,2.083333333333333,56.666666666666664,2.2,have be kill be need want take
+Mira,Kyung,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,sip cross
+Leanore Bastwick,Ledo,0.0,3.125,38.54166666666667,0.0,defend accuse commit
+Kyung,Mira,0.0,1.25,48.75,0.0,hesitate be
+Mira,Kyung,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,set lean
+Kyung,Mira,2.6785714285714284,1.3392857142857142,42.410714285714285,2.0,close think have
+Kyung,Mira,2.6785714285714284,1.3392857142857142,42.410714285714285,2.0,close think have
+Kyung,Mira,2.6785714285714284,1.3392857142857142,42.410714285714285,2.0,close think have
+Kyung,Mira,2.6785714285714284,1.3392857142857142,42.410714285714285,2.0,close think have
+Mira,Kyung,2.6785714285714284,1.3392857142857142,42.410714285714285,2.0,close think have
+Kyung,Mason,0.0,0.0,57.14285714285714,INF,take
+Kyung,Ledo,0.0,0.0,37.5,INF,find label label
+Kyung,Ledo,1.5,0.0,58.5,INF,run wade backtrack zero
+Kyung,Mason,1.5,0.0,58.5,INF,run wade backtrack zero
+Ledo,Mason,1.5,0.0,58.5,INF,run wade backtrack zero
+Brown,Bastwick,0.0,0.9868421052631579,41.118421052631575,0.0,do jibe write do get grab
+Brown,Bastwick,0.0,0.9868421052631579,41.118421052631575,0.0,do jibe write do get grab
+Brown,Bastwick,0.0,0.9868421052631579,41.118421052631575,0.0,do jibe write do get grab
+Brown,Bastwick,0.0,0.9868421052631579,41.118421052631575,0.0,do jibe write do get grab
+Jenkinson,Bastwick,0.0,0.0,35.714285714285715,INF,start swing
+Jenkinson,Bastwick,0.0,0.0,35.714285714285715,INF,start swing
+Jenkinson,Bastwick,0.0,0.0,35.714285714285715,INF,start swing
+Peabody,Roarke,1.5350877192982455,0.43859649122807015,54.166666666666664,3.5,put figure be bring live solve
+Peabody,Leanore Bastwick,0.0,0.0,45.83333333333333,INF,check claim be
+Nadine,Mason,0.6578947368421052,0.3289473684210526,38.48684210526316,2.0,go update set review intend update
+Mason,Nadine,0.6578947368421052,0.3289473684210526,38.48684210526316,2.0,go update set review intend update
+Mason,Nadine,0.6578947368421052,0.3289473684210526,38.48684210526316,2.0,go update set review intend update
+Mason,Nadine,2.4193548387096775,1.6129032258064515,63.70967741935484,1.5,roll stretch yawn watch strip pull dig
+Mason,Nadine,2.4193548387096775,1.6129032258064515,63.70967741935484,1.5,roll stretch yawn watch strip pull dig
+Galahad,Mason,2.6785714285714284,0.0,47.32142857142857,INF,stir bump
+Galahad,Nadine,2.6785714285714284,0.0,47.32142857142857,INF,stir bump
+Mason,Nadine,2.6785714285714284,0.0,47.32142857142857,INF,stir bump
+Nadine,Mason,2.5,4.166666666666666,53.333333333333336,0.6,give poke
+Nadine,Mason,2.5,4.166666666666666,53.333333333333336,0.6,give poke
+Roarke,Nadine,2.7777777777777777,5.902777777777778,41.31944444444444,0.47058823529411764,do consider think be do have be put do
+Roarke,Nadine,2.7777777777777777,5.902777777777778,41.31944444444444,0.47058823529411764,do consider think be do have be put do
+Roarke,Nadine,2.7777777777777777,5.902777777777778,41.31944444444444,0.47058823529411764,do consider think be do have be put do
+Roarke,Nadine,2.7777777777777777,5.902777777777778,41.31944444444444,0.47058823529411764,do consider think be do have be put do
+Summerset,Roarke,3.75,5.0,41.25,0.75,add ask
+Roarke,Summerset,0.5,0.5,59.0,1.0,take hang hide hang
+Summerset,Roarke,5.434782608695652,1.0869565217391304,28.26086956521739,5.0,continue know be
+Galahad,Roarke,4.545454545454546,0.0,59.09090909090909,INF,roll approach expose
+Summerset,Roarke,2.586206896551724,4.310344827586207,55.172413793103445,0.6,accord have come injure think sport
+Summerset,Roarke,2.586206896551724,4.310344827586207,55.172413793103445,0.6,accord have come injure think sport
+Summerset,Roarke,2.586206896551724,4.310344827586207,55.172413793103445,0.6,accord have come injure think sport
+Hastings,Yancy,0.0,0.0,54.54545454545454,INF,study
+Polinsky,Mason,3.4090909090909087,0.0,60.22727272727273,INF,have describe
+Mason,Yancy,2.9166666666666665,0.4166666666666667,60.0,7.0,be believe be indicate
+Mason,Yancy,2.9166666666666665,0.4166666666666667,60.0,7.0,be believe be indicate
+Roarke,Carmichael,3.571428571428571,0.0,46.42857142857143,INF,say walk
+Roarke,Carmichael,1.0869565217391304,3.260869565217391,43.47826086956522,0.3333333333333333,give begin break signal
+Roarke,Carmichael,1.5625,0.0,60.9375,INF,suggest get
+Matilda,Hastings,4.761904761904762,0.5952380952380952,61.30952380952381,8.0,rub tell have be
+Hastings,Matilda,4.761904761904762,0.5952380952380952,61.30952380952381,8.0,rub tell have be
+Matilda,Hastings,0.0,0.0,50.0,INF,snarl brood
+Matilda,Hastings,0.0,0.0,50.0,INF,snarl brood
+Peabody,Hastings,0.0,0.0,30.0,INF,be
+Peabody,Hastings,0.0,0.0,30.0,INF,be
+Hastings,Matilda,2.8846153846153846,0.0,27.884615384615387,INF,smirk pat
+Hastings,Matilda,2.8846153846153846,0.0,27.884615384615387,INF,smirk pat
+Matilda,Hastings,2.8846153846153846,0.0,27.884615384615387,INF,smirk pat
+Matilda,Hastings,2.8846153846153846,0.0,27.884615384615387,INF,smirk pat
+Matilda,Hastings,0.0,1.7857142857142856,55.35714285714286,0.0,poke
+Hastings,Matilda,4.375,4.375,46.25,1.0,take die
+Matilda,Hastings,4.375,4.375,46.25,1.0,take die
+Jesus,Matilda,0.0,0.0,20.0,INF,
+Hastings,Matilda,0.0,3.125,59.375,0.0,sigh
+Matilda,Roarke,0.0,1.1363636363636365,30.681818181818183,0.0,want step describe see
+Matilda,Hastings,0.0,0.0,28.57142857142857,INF,say
+Matilda,Hastings,0.0,0.9615384615384616,45.19230769230769,0.0,take kiss
+Matilda,Hastings,0.0,0.9615384615384616,45.19230769230769,0.0,take kiss
+Hastings,Matilda,0.0,0.9615384615384616,45.19230769230769,0.0,take kiss
+Matilda,Hastings,0.0,0.9615384615384616,45.19230769230769,0.0,take kiss
+Matilda,Roarke,5.208333333333334,0.0,36.45833333333333,INF,get offer
+Matilda,Roarke,5.208333333333334,0.0,36.45833333333333,INF,get offer
+Matilda,Roarke,2.0,4.0,50.0,0.5,have meet begin cause lift lead
+Matilda,Roarke,2.0,4.0,50.0,0.5,have meet begin cause lift lead
+Roarke,Matilda,2.0,4.0,50.0,0.5,have meet begin cause lift lead
+Peabody,Hastings,0.0,0.0,58.333333333333336,INF,arrive turn
+Peabody,Matilda,0.0,0.0,58.333333333333336,INF,arrive turn
+Hastings,Matilda,0.0,0.0,58.333333333333336,INF,arrive turn
+Matilda,Roarke,7.211538461538461,4.326923076923077,42.30769230769231,1.6666666666666667,hear have move be talk know
+Roarke,Matilda,7.211538461538461,4.326923076923077,42.30769230769231,1.6666666666666667,hear have move be talk know
+Matilda,Hastings,2.8846153846153846,0.0,43.269230769230774,INF,say walk
+Matilda,Hastings,0.0,0.0,44.44444444444444,INF,coordinate get tell
+Matilda,Hastings,2.5,2.5,50.0,1.0,appreciate get begin send
+Hastings,Matilda,7.03125,3.90625,57.8125,1.8,be
+Matilda,Peabody,0.0,0.0,50.0,INF,have sit tell
+Matilda,Peabody,0.0,0.0,28.57142857142857,INF,repeat
+Peabody,Matilda,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Peabody,Matilda,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Peabody,Matilda,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Peabody,UNSUB,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Matilda,UNSUB,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Matilda,UNSUB,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Matilda,UNSUB,0.3676470588235294,0.0,34.92647058823529,INF,be be think deflect
+Matilda,Hastings,3.125,0.78125,58.59375,4.0,see run have be do
+Matilda,Hastings,0.8333333333333334,0.0,45.83333333333333,INF,come carry see
+Hastings,Matilda,5.0,1.25,33.75,4.0,smack comment
+Matilda,Hastings,0.0,0.0,20.0,INF,see see
+Matilda,UNSUB,0.0,0.0,20.0,INF,see see
+Hastings,UNSUB,0.0,0.0,20.0,INF,see see
+Matilda,Peabody,0.0,0.0,40.0,INF,turn
+Roarke,Matilda,0.0,0.0,40.0,INF,glance
+Matilda,Hastings,7.291666666666667,0.0,51.041666666666664,INF,say have
+Hastings,Matilda,7.291666666666667,0.0,51.041666666666664,INF,say have
+Matilda,Roarke,5.681818181818182,0.0,57.95454545454546,INF,pause study
+Hastings,Roarke,0.0,0.0,30.76923076923077,INF,go say
+Roarke,Matilda,0.0,0.0,41.66666666666667,INF,park turn
+Matilda,Roarke,0.0,0.0,48.148148148148145,INF,have storm grab pull hold try push
+Roarke,Matilda,0.0,0.0,48.148148148148145,INF,have storm grab pull hold try push
+Roarke,Matilda,0.0,0.0,48.148148148148145,INF,have storm grab pull hold try push
+Roarke,Matilda,0.0,0.0,48.148148148148145,INF,have storm grab pull hold try push
+Feeney,McNab,0.9615384615384616,0.3205128205128205,57.692307692307686,3.0,be lock have put take break
+Roarke,Matilda,0.0,1.293103448275862,46.98275862068966,0.0,work work carry sleep pace
+Matilda,Hastings,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,have know be
+Peabody,McNab,0.0,0.0,53.333333333333336,INF,have come spare
+Peabody,Feeney,0.0,0.0,53.333333333333336,INF,have come spare
+Peabody,Feeney,0.0,0.0,53.333333333333336,INF,have come spare
+McNab,Feeney,0.0,0.0,53.333333333333336,INF,have come spare
+McNab,Feeney,0.0,0.0,53.333333333333336,INF,have come spare
+Hastings,Bastwick,8.333333333333332,5.833333333333333,52.5,1.4285714285714286,guess come talk be
+Leanore Bastwick,Bastwick,4.761904761904762,2.976190476190476,44.642857142857146,1.6,have get live
+McNab,Feeney,0.0,0.0,20.0,INF,leave clear
+McNab,Feeney,0.0,0.0,20.0,INF,leave clear
+Roarke,Feeney,0.4166666666666667,0.0,42.916666666666664,INF,connect hear speak
+Roarke,Feeney,0.4166666666666667,0.0,42.916666666666664,INF,connect hear speak
+Whitney,Mira,3.4482758620689653,0.0,48.275862068965516,INF,consider write send
+Whitney,Feeney,3.4482758620689653,0.0,48.275862068965516,INF,consider write send
+Mira,Feeney,3.4482758620689653,0.0,48.275862068965516,INF,consider write send
+Swisher,Nixie,5.64516129032258,5.241935483870968,31.048387096774192,1.0769230769230769,find contact compel
+Nixie,Roarke,0.0,0.0,14.285714285714285,INF,say
+Roarke,Nixie,2.941176470588235,2.2058823529411766,30.14705882352941,1.3333333333333333,suppose be
+Peabody,McNab,0.5681818181818182,2.272727272727273,42.61363636363637,0.25,come add hear prance announce
+McNab,Peabody,4.861111111111112,1.3888888888888888,43.75,3.5,hold drag
+Peabody,McNab,4.861111111111112,1.3888888888888888,43.75,3.5,hold drag
+McNab,Peabody,0.0,0.0,68.42105263157895,INF,turn come
+McNab,Peabody,0.0,0.0,68.42105263157895,INF,turn come
+McNab,Peabody,0.0,0.0,68.42105263157895,INF,turn come
+McNab,Roarke,3.225806451612903,2.0161290322580645,36.693548387096776,1.6,wear have have make contribute
+McNab,Roarke,3.225806451612903,2.0161290322580645,36.693548387096776,1.6,wear have have make contribute
+Roarke,McNab,3.225806451612903,2.0161290322580645,36.693548387096776,1.6,wear have have make contribute
+Peabody,McNab,2.380952380952381,2.976190476190476,42.26190476190476,0.8,turn
+McNab,Roarke,0.6944444444444444,1.7361111111111112,42.01388888888889,0.4,finish bring send
+Roarke,Peabody,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,be juice work add
+Peabody,Roarke,0.0,0.0,41.66666666666667,INF,say go
+McNab,Roarke,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,turn
+Roarke,McNab,0.0,5.769230769230769,78.84615384615384,0.0,rattle bring
+Roarke,McNab,2.631578947368421,2.631578947368421,63.1578947368421,1.0,push roll
+Roarke,McNab,2.631578947368421,2.631578947368421,63.1578947368421,1.0,push roll
+Roarke,McNab,2.631578947368421,2.631578947368421,63.1578947368421,1.0,push roll
+Peabody,McNab,3.0303030303030303,1.893939393939394,40.53030303030303,1.6,sniff catch glance see steam assume
+Whitney,Mira,0.6578947368421052,7.236842105263158,44.73684210526316,0.09090909090909091,take send
+Whitney,Feeney,0.6578947368421052,7.236842105263158,44.73684210526316,0.09090909090909091,take send
+Mira,Feeney,0.6578947368421052,7.236842105263158,44.73684210526316,0.09090909090909091,take send
+Roarke,Ledo,1.7045454545454544,0.0,48.29545454545455,INF,glance put pull
+Roarke,Peabody,0.0,2.941176470588235,26.47058823529412,0.0,be remind take
+UNSUB,Ledo,2.9166666666666665,0.8333333333333334,56.25,3.5,do expect be wait pick hold
+Roarke,McNab,0.0,0.0,42.10526315789473,INF,be put draw
+Roarke,McNab,0.0,0.0,42.10526315789473,INF,be put draw
+Feeney,McNab,5.0,0.8333333333333334,34.166666666666664,6.0,need know be
+Feeney,Whitney,0.0,0.0,37.5,INF,have
+Feeney,Mira,0.0,0.0,37.5,INF,have
+Whitney,Mira,0.0,0.0,37.5,INF,have
+McNab,Roarke,0.0,0.0,50.0,INF,glance
+Whitney,Feeney,0.0,0.0,16.666666666666664,INF,
+Feeney,Roarke,0.0,0.0,26.666666666666668,INF,handle add
+McNab,Roarke,2.5,0.0,47.5,INF,pull take
+McNab,Peabody,0.0,0.0,52.94117647058824,INF,say climb
+Peabody,McNab,0.0,0.0,52.94117647058824,INF,say climb
+McNab,Peabody,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,go say stroll have give
+Peabody,McNab,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,go say stroll have give
+Peabody,McNab,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,go say stroll have give
+Peabody,McNab,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,go say stroll have give
+Feeney,McNab,0.0,0.0,27.27272727272727,INF,straight tell
+Tortelli,Roth,4.5,3.5000000000000004,52.0,1.2857142857142858,be get bust hack turn
+Roth,Tortelli,4.5,3.5000000000000004,52.0,1.2857142857142858,be get bust hack turn
+Tortelli,Baxter,0.0,0.0,47.05882352941176,INF,do write add walk join
+Tortelli,Trueheart,0.0,0.0,47.05882352941176,INF,do write add walk join
+Baxter,Trueheart,0.0,0.0,47.05882352941176,INF,do write add walk join
+Trueheart,Baxter,4.464285714285714,4.464285714285714,55.35714285714286,1.0,flush flash
+Trueheart,Baxter,1.3888888888888888,0.0,31.944444444444443,INF,claim be be use be have say
+Leonardo,Mavis,3.804347826086957,0.0,44.02173913043478,INF,take say know take
+Leonardo,Mavis,3.804347826086957,0.0,44.02173913043478,INF,take say know take
+Reo,Charles,0.0,0.0,12.5,INF,
+Reo,Louise,0.0,0.0,12.5,INF,
+Charles,Louise,0.0,0.0,12.5,INF,
+Peabody,Trina,0.0,1.3888888888888888,43.05555555555556,0.0,have talk
+Jesus,Morris,0.0,0.0,50.0,INF,
+Mira,Mavis,1.1363636363636365,0.0,35.22727272727273,INF,get tell
+Mavis,Peabody,0.0,0.0,56.25,INF,walk grab swing
+Mavis,Peabody,0.0,0.0,56.25,INF,walk grab swing
+Peabody,Mavis,0.0,0.0,60.0,INF,tell grab
+Peabody,Carmichael,0.0,0.0,60.0,INF,tell grab
+Peabody,Mavis,0.0,0.0,60.0,INF,tell grab
+Mavis,Carmichael,0.0,0.0,60.0,INF,tell grab
+Carmichael,Mavis,0.0,0.0,60.0,INF,tell grab
+Peabody,Mavis,0.0,5.0,55.00000000000001,0.0,grab jog catch
+Peabody,Mavis,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,pull begin wrap
+Peabody,Mavis,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,pull begin wrap
+Peabody,Mavis,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,pull begin wrap
+Tortelli,Roth,2.380952380952381,4.761904761904762,40.476190476190474,0.5,be look brush
+Tortelli,Roth,4.861111111111112,0.6944444444444444,50.0,7.0,be please play
+Peabody,Mavis,2.1875,3.125,54.6875,0.7,need say twist fold have knot fluff
+Peabody,Mavis,10.0,5.0,45.0,2.0,roll
+Mavis,Leonardo,0.0,0.0,33.33333333333333,INF,be
+Mavis,Bella,0.0,0.0,33.33333333333333,INF,be
+Leonardo,Bella,0.0,0.0,33.33333333333333,INF,be
+Ben,Steve,16.25,6.25,37.5,2.6,be
+Mr. Arsenial,Tortelli,7.083333333333333,1.25,51.66666666666667,5.666666666666667,make find make produce
+Tortelli,PPC,1.0869565217391304,1.0869565217391304,54.347826086956516,1.0,say pull bring hold
+PPC,Tortelli,1.0869565217391304,1.0869565217391304,54.347826086956516,1.0,say pull bring hold
+Tortelli,Jesus,1.282051282051282,3.205128205128205,44.230769230769226,0.4,be go talk tell knock get
+Tortelli,Jesus,1.282051282051282,3.205128205128205,44.230769230769226,0.4,be go talk tell knock get
+Tortelli,Peabody,0.0,0.5434782608695652,73.36956521739131,0.0,be say start
+Tortelli,Peabody,0.5208333333333333,3.125,58.854166666666664,0.16666666666666666,stop snatch burn stare
+Peabody,Tortelli,0.0,0.0,60.0,INF,hunch
+Tortelli,Peabody,9.239130434782608,1.6304347826086956,54.347826086956516,5.666666666666667,do know have play huddle
+Tortelli,Peabody,9.239130434782608,1.6304347826086956,54.347826086956516,5.666666666666667,do know have play huddle
+Tortelli,Peabody,9.239130434782608,1.6304347826086956,54.347826086956516,5.666666666666667,do know have play huddle
+Tortelli,Peabody,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Tortelli,Peabody,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Tortelli,Peabody,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Tortelli,Peabody,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Peabody,Tortelli,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Peabody,Tortelli,2.083333333333333,0.6944444444444444,50.0,3.0,double dig think pull crouch see
+Tortelli,Peabody,1.6666666666666667,1.6666666666666667,50.0,1.0,say see reach
+Tortelli,Peabody,1.6666666666666667,1.6666666666666667,50.0,1.0,say see reach
+Peabody,Tortelli,1.6666666666666667,1.6666666666666667,50.0,1.0,say see reach
+Hilda Farmer,Tortelli,1.8617021276595744,0.0,53.45744680851063,INF,involve overprice track work
+Leanore Bastwick,Ledo,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be
+Tortelli,Peabody,3.125,0.8928571428571428,53.125,3.5,sling cuddle get
+Peabody,Tortelli,3.125,0.8928571428571428,53.125,3.5,sling cuddle get
+Peabody,Delia,1.25,0.0,58.75,INF,book
+Peabody,Delia,0.0,3.4090909090909087,60.22727272727273,0.0,be trail look
+Leanore Bastwick,Bastwick,0.0,3.4090909090909087,32.95454545454545,0.0,open
+Leanore Bastwick,Bastwick,0.0,1.0416666666666665,40.625,0.0,move give
+Leanore Bastwick,Bastwick,3.90625,0.0,64.84375,INF,go convulse flap
+Peabody,Bastwick,0.0,0.0,47.368421052631575,INF,come say refer
+Bastwick,Leanore Bastwick,0.0,2.34375,41.40625,0.0,add deadlift heft carry
+Leanore Bastwick,Bastwick,0.0,2.34375,41.40625,0.0,add deadlift heft carry
+Bastwick,Ledo,2.232142857142857,4.017857142857143,54.46428571428571,0.5555555555555556,be bet spend comb be be leave
+Bastwick,Peabody,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,have look take remove
+Hastings,Bastwick,0.0,1.9230769230769231,51.92307692307693,0.0,be say
+Peabody,Bastwick,0.7352941176470588,1.4705882352941175,44.85294117647059,0.5,begin turn
+Leanore Bastwick,Hastings,2.1739130434782608,0.5434782608695652,40.76086956521739,4.0,watch knock jiggle crash
+Hastings,Matilda,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Hastings,Ledo,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Hastings,Peabody,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Hastings,Matilda,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Hastings,Ledo,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Hastings,Peabody,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Matilda,Ledo,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Matilda,Peabody,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Ledo,Peabody,1.9736842105263157,1.3157894736842104,41.44736842105263,1.5,get take have have be be point
+Matilda,Peabody,4.464285714285714,0.0,38.392857142857146,INF,do know do conclude
+Tortelli,Matilda,3.3653846153846154,2.403846153846154,44.230769230769226,1.4,want be talk finish read
+Matilda,Peabody,1.25,0.0,58.75,INF,beetle walk
+Matilda,Peabody,1.25,0.0,58.75,INF,beetle walk
+Feeney,Peabody,0.0,0.0,41.66666666666667,INF,turn spot nod
+Feeney,Peabody,0.0,0.0,41.66666666666667,INF,turn spot nod
+Peabody,McNab,0.0,0.0,41.66666666666667,INF,
+Peabody,Mavis,0.0,0.0,41.66666666666667,INF,
+McNab,Mavis,0.0,0.0,41.66666666666667,INF,
+Feeney,Ledo,3.8461538461538463,0.0,30.76923076923077,INF,read know get
+Leanore Bastwick,Bastwick,3.289473684210526,3.289473684210526,56.57894736842105,1.0,make have play
+Ledo,Leanore Bastwick,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,
+Feeney,Peabody,0.0,0.0,27.27272727272727,INF,be
+Mavis,Feeney,2.027027027027027,3.3783783783783785,59.45945945945946,0.6,be be take take lean study pop
+Mavis,Feeney,2.027027027027027,3.3783783783783785,59.45945945945946,0.6,be be take take lean study pop
+Mavis,Feeney,2.027027027027027,3.3783783783783785,59.45945945945946,0.6,be be take take lean study pop
+Mavis,Feeney,0.0,6.25,33.75,0.0,
+McNab,Peabody,1.1904761904761905,0.0,46.42857142857143,INF,be go run
+McNab,Mavis,1.1904761904761905,0.0,46.42857142857143,INF,be go run
+McNab,Peabody,1.1904761904761905,0.0,46.42857142857143,INF,be go run
+McNab,Mavis,1.1904761904761905,0.0,46.42857142857143,INF,be go run
+Peabody,Mavis,1.1904761904761905,0.0,46.42857142857143,INF,be go run
+Feeney,Kyung,2.232142857142857,0.0,47.767857142857146,INF,glance have draft step
+Leanore Bastwick,Ledo,3.125,4.375,17.5,0.7142857142857143,be
+Hastings,Leanore Bastwick,3.0,0.0,53.0,INF,believe be perpetrate
+Hastings,Ledo,3.0,0.0,53.0,INF,believe be perpetrate
+Leanore Bastwick,Ledo,3.0,0.0,53.0,INF,believe be perpetrate
+Peabody,McNab,0.0,0.0,30.0,INF,let
+McNab,Peabody,0.0,0.78125,49.21875,0.0,climb give
+McNab,Kyung,0.0,0.78125,49.21875,0.0,climb give
+Peabody,Kyung,0.0,0.78125,49.21875,0.0,climb give
+Yancy,UNSUB,0.78125,0.0,36.71875,INF,get play
+McNab,Kyung,0.0,0.0,66.66666666666666,INF,program pass
+McNab,Peabody,0.0,0.0,75.0,INF,hand
+Peabody,Kyung,0.0,0.8333333333333334,52.5,0.0,put grin
+Kyung,Peabody,1.3888888888888888,4.861111111111112,54.861111111111114,0.2857142857142857,know flip lever
+Kyung,Peabody,1.3888888888888888,4.861111111111112,54.861111111111114,0.2857142857142857,know flip lever
+Peabody,Kyung,2.272727272727273,3.4090909090909087,67.04545454545455,0.6666666666666666,smell think look run perform
+Kyung,Mavis,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Kyung,McNab,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Kyung,Yancy,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Mavis,Kyung,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Mavis,McNab,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Mavis,Yancy,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Kyung,McNab,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+Kyung,Yancy,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+McNab,Yancy,5.0,1.6666666666666667,46.666666666666664,3.0,make attack determine be spend study
+McNab,Peabody,0.0,0.0,62.5,INF,answer
+Mavis,Leonardo,0.8064516129032258,0.4032258064516129,56.85483870967742,2.0,live make work be toss
+Mavis,McNab,0.0,0.0,44.44444444444444,INF,lose tell
+Mavis,Peabody,0.0,0.0,44.44444444444444,INF,lose tell
+McNab,Peabody,0.0,0.0,44.44444444444444,INF,lose tell
+Mavis,Trevor,1.5625,0.0,67.1875,INF,think be knock
+Lolo,Trevor,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,say be get
+Lolo,Mavis,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,say be get
+Lolo,Trevor,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,say be get
+Trevor,Mavis,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,say be get
+Mavis,Trevor,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,say be get
+Trevor,Mavis,0.7352941176470588,2.5735294117647056,55.51470588235294,0.2857142857142857,freak keel keep go grab shove scatter
+Trevor,Mavis,0.0,0.0,22.22222222222222,INF,get
+Lolo,Trevor,1.5625,0.0,23.4375,INF,get
+Lolo,Casey,0.4629629629629629,0.4629629629629629,65.74074074074075,1.0,turn be cluck
+Peabody,McNab,3.125,1.25,30.625000000000004,2.5,think cohabb
+Peabody,Mavis,3.125,1.25,30.625000000000004,2.5,think cohabb
+Peabody,Mavis,3.125,1.25,30.625000000000004,2.5,think cohabb
+McNab,Mavis,3.125,1.25,30.625000000000004,2.5,think cohabb
+McNab,Mavis,3.125,1.25,30.625000000000004,2.5,think cohabb
+Roarke,Mavis,3.125,0.0,34.375,INF,have deal
+Leonardo,Mavis,0.0,1.5,66.5,0.0,smile
+Ben,Steve,1.9736842105263157,0.0,55.92105263157895,INF,go do call
+Leonardo,Bella,5.263157894736842,0.6578947368421052,51.973684210526315,8.0,reach brush
+Leonardo,Bella,5.263157894736842,0.6578947368421052,51.973684210526315,8.0,reach brush
+Mavis,Peabody,0.8333333333333334,0.0,59.166666666666664,INF,take look
+Peabody,Mavis,0.8333333333333334,0.0,59.166666666666664,INF,take look
+Leonardo,Bella,5.263157894736842,4.605263157894736,53.289473684210535,1.1428571428571428,give hold gaze
+Bella,Mavis,3.125,3.125,60.416666666666664,1.0,plop giggle dance
+Bella,Mavis,3.125,3.125,60.416666666666664,1.0,plop giggle dance
+Jesus,Mavis,3.8461538461538463,0.0,50.0,INF,think be
+Jesus,Mavis,3.8461538461538463,0.0,50.0,INF,think be
+Mavis,Bella,1.25,1.25,57.49999999999999,1.0,pluck give
+Mavis,Bella,1.25,1.25,57.49999999999999,1.0,pluck give
+Bella,Peabody,0.0,1.0416666666666665,48.95833333333333,0.0,glance hear
+Bella,Peabody,0.0,1.0416666666666665,48.95833333333333,0.0,glance hear
+McNab,Leonardo,0.0,0.0,57.14285714285714,INF,do announce come
+McNab,Leonardo,0.0,0.0,57.14285714285714,INF,do announce come
+Mavis,Leonardo,4.166666666666666,1.0416666666666665,53.125,4.0,reach give
+Mavis,Leonardo,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,swipe kiss lay
+Mavis,Leonardo,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,swipe kiss lay
+Mavis,Leonardo,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,swipe kiss lay
+Mavis,Leonardo,0.0,0.0,60.0,INF,wait move
+Mavis,Peabody,0.0,0.0,50.0,INF,turn come drape
+Mavis,Bella,0.0,0.0,50.0,INF,turn come drape
+Peabody,Bella,0.0,0.0,50.0,INF,turn come drape
+Bella,Mavis,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,take scan leave turn study
+Mavis,Summerset,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,see
+Ivanna,Summerset,0.0,0.0,60.0,INF,glance
+Roarke,Summerset,0.0,0.0,54.54545454545454,INF,meet say take
+Summerset,Roarke,1.1363636363636365,5.113636363636364,48.29545454545455,0.2222222222222222,be know have heal
+Roarke,Summerset,1.1363636363636365,5.113636363636364,48.29545454545455,0.2222222222222222,be know have heal
+Marlena,Mavis,0.0,0.0,45.45454545454545,INF,be
+McNab,Mavis,1.3392857142857142,3.125,49.107142857142854,0.42857142857142855,rig try get go
+UNSUB,Mavis,4.910714285714286,8.482142857142858,50.89285714285714,0.5789473684210527,get put cross
+Mavis,Nadine,1.25,2.5,42.916666666666664,0.5,say be go go be be
+Mavis,Mira,1.25,2.5,42.916666666666664,0.5,say be go go be be
+Nadine,Mira,1.25,2.5,42.916666666666664,0.5,say be go go be be
+Nadine,Mavis,1.25,2.5,42.916666666666664,0.5,say be go go be be
+Mira,Mavis,1.25,2.5,42.916666666666664,0.5,say be go go be be
+McNab,Yancy,2.1739130434782608,1.0869565217391304,57.608695652173914,2.0,have get come
+McNab,Yancy,2.1739130434782608,1.0869565217391304,57.608695652173914,2.0,have get come
+Bastwick,Ledo,0.0,7.142857142857142,35.714285714285715,0.0,kill
+Bastwick,Hastings,5.681818181818182,0.0,39.77272727272727,INF,do know plan
+Bastwick,Hastings,0.0,2.272727272727273,52.27272727272727,0.0,carry
+Bastwick,Hastings,0.0,0.0,11.11111111111111,INF,be have
+Roarke,Bastwick,1.3513513513513513,2.364864864864865,39.52702702702703,0.5714285714285714,equate give have be appreciate consider follow want take
+Peabody,McNab,0.0,0.5208333333333333,41.14583333333333,0.0,look sleep
+Peabody,Feeney,0.0,0.5208333333333333,41.14583333333333,0.0,look sleep
+Peabody,Feeney,0.0,0.5208333333333333,41.14583333333333,0.0,look sleep
+McNab,Feeney,0.0,0.5208333333333333,41.14583333333333,0.0,look sleep
+McNab,Feeney,0.0,0.5208333333333333,41.14583333333333,0.0,look sleep
+Mavis,Mira,2.5,3.0,50.5,0.8333333333333334,count be put
+Mira,Mavis,2.5,3.0,50.5,0.8333333333333334,count be put
+Mavis,Nadine,3.6111111111111107,1.9444444444444444,45.55555555555556,1.8571428571428572,be have have read see know have
+Mavis,Nadine,3.6111111111111107,1.9444444444444444,45.55555555555556,1.8571428571428572,be have have read see know have
+Mavis,Mira,3.6111111111111107,1.9444444444444444,45.55555555555556,1.8571428571428572,be have have read see know have
+Nadine,Mira,3.6111111111111107,1.9444444444444444,45.55555555555556,1.8571428571428572,be have have read see know have
+Nadine,Mira,3.6111111111111107,1.9444444444444444,45.55555555555556,1.8571428571428572,be have have read see know have
+APA,Reo,0.0,5.208333333333334,36.45833333333333,0.0,be be
+Louise,Charles,0.0,0.0,25.0,INF,
+Trina,Mavis,3.125,1.4423076923076923,56.97115384615385,2.1666666666666665,see go think think talk sit have
+Delia,Mira,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Nadine,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Mavis,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Morris,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Reo,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Delia,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Nadine,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Mavis,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Morris,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Reo,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mira,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Mavis,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Morris,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Reo,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Morris,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Reo,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Mavis,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Reo,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Morris,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,Charles,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Reo,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Charles,Louise,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Charles,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Charles,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Charles,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Charles,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Louise,Feeney,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Louise,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Louise,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Louise,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Feeney,McNab,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Feeney,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Feeney,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+McNab,Jamie,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+McNab,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Jamie,Summerset,0.3472222222222222,2.430555555555556,25.0,0.14285714285714285,
+Nadine,Mira,3.4090909090909087,1.1363636363636365,50.0,3.0,say close set
+Nadine,Mira,5.625,0.0,44.375,INF,be make edge be
+McNab,Yancy,2.34375,1.5625,46.09375,1.5,use be try
+Nadine,Bruno,2.840909090909091,0.0,56.25,INF,be bask warm
+Ms. Furst,Mr. Cabott,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be messenger
+Louise,Charles,6.25,1.1363636363636365,56.25,5.5,do want invest have choose
+Louise,Roarke,0.0,0.0,28.57142857142857,INF,ask
+Leanore Bastwick,Ledo,9.027777777777777,2.083333333333333,50.0,4.333333333333333,mean be
+Nadine,Bing,0.0,0.0,16.666666666666664,INF,
+Roarke,Nadine,0.0,0.0,47.368421052631575,INF,leap stop
+Nadine,Roarke,0.0,0.0,26.666666666666668,INF,do tell race
+Nadine,Roarke,0.0,0.0,64.28571428571429,INF,swipe look bring
+Roarke,Nadine,0.0,0.0,64.28571428571429,INF,swipe look bring
+Nadine,Roarke,7.142857142857142,0.0,35.714285714285715,INF,find say
+Roarke,Nadine,0.0,0.0,42.857142857142854,INF,pat
+Roarke,Summerset,8.653846153846153,0.0,29.807692307692307,INF,let know be come
+Nadine,Roarke,0.0,0.0,58.333333333333336,INF,start shake speak
+Jamie,Nadine,1.3888888888888888,6.944444444444445,13.88888888888889,0.2,think
+Nadine,Jamie,1.3888888888888888,6.944444444444445,13.88888888888889,0.2,think
+Feeney,Roarke,0.0,0.0,30.0,INF,
+Roarke,Jamie,0.0,0.0,46.666666666666664,INF,look nod speak respond
+Nadine,Peabody,0.0,0.0,27.27272727272727,INF,be go
+Bocco,Thea,0.0,0.0,50.0,INF,be
+Peabody,Nadine,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,hand
+Nadine,Roarke,0.0,0.0,20.0,INF,turn
+Peabody,Nadine,1.7857142857142856,0.0,55.35714285714286,INF,pat call
+Nadine,Bocco,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,push hold
+Bocco,Nadine,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,push hold
+Nadine,Roarke,2.232142857142857,1.3392857142857142,57.14285714285714,1.6666666666666667,hobble sniff wag
+Osgood,Nadine,1.5625,1.5625,46.875,1.0,say be
+Nadine,Thea,0.0,0.0,40.0,INF,
+Bocco,Roarke,4.166666666666666,2.083333333333333,35.41666666666667,2.0,rub walk
+Nadine,Thea,2.5,0.0,44.166666666666664,INF,correct send
+Thea,Bocco,0.0,0.0,45.45454545454545,INF,put
+Thea,Rizz,3.90625,1.953125,44.140625,2.0,be do notice be tell prank be
+Rizz,Thea,3.90625,1.953125,44.140625,2.0,be do notice be tell prank be
+Jamie,Roarke,2.8846153846153846,4.807692307692308,53.84615384615385,0.6,give shake
+Roarke,Jamie,2.8846153846153846,4.807692307692308,53.84615384615385,0.6,give shake
+Jamie,Roarke,0.0,0.0,63.63636363636363,INF,rig tell
+Roarke,Jamie,3.804347826086957,0.0,57.065217391304344,INF,pay consider bloom
+Roarke,Jamie,3.804347826086957,0.0,57.065217391304344,INF,pay consider bloom
+Roarke,Jamie,0.8333333333333334,0.0,45.83333333333333,INF,like tell
+UNSUB,Leanore Bastwick,2.5,1.25,6.25,2.0,be
+UNSUB,Ledo,2.5,1.25,6.25,2.0,be
+Leanore Bastwick,Ledo,2.5,1.25,6.25,2.0,be
+Jamie,Roarke,8.125,6.25,45.625,1.3,have think wish stick
+Nadine,Jamie,0.7352941176470588,0.7352941176470588,27.941176470588236,1.0,need look
+Roarke,Ms. Furst,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,lift bring
+Ms. Furst,UNSUB,0.8333333333333334,0.0,52.5,INF,cradle watch
+Ms. Furst,Nadine,0.8333333333333334,0.0,52.5,INF,cradle watch
+UNSUB,Nadine,0.8333333333333334,0.0,52.5,INF,cradle watch
+Jesus,Nadine,0.0,0.0,44.44444444444444,INF,be reach
+Jesus,Nadine,0.0,0.0,44.44444444444444,INF,be reach
+Nadine,Roarke,2.2058823529411766,2.941176470588235,36.029411764705884,0.75,have take pull suggest
+Roarke,Thea,0.8928571428571428,3.571428571428571,52.67857142857143,0.25,wake wrap
+Thea,Roarke,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Thea,Roarke,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Roarke,Thea,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Roarke,Thea,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Roarke,Thea,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Roarke,Thea,3.6585365853658534,0.6097560975609756,46.95121951219512,6.0,have say have drop be drop have pluck have be cart
+Thea,Peabody,0.0,1.0416666666666665,57.291666666666664,0.0,do dump
+Feeney,McNab,0.0,0.0,52.63157894736842,INF,let play think be go
+Feeney,Yancy,0.0,0.0,52.63157894736842,INF,let play think be go
+Feeney,McNab,0.0,0.0,52.63157894736842,INF,let play think be go
+McNab,Yancy,0.0,0.0,52.63157894736842,INF,let play think be go
+Yancy,McNab,0.0,0.0,52.63157894736842,INF,let play think be go
+Summerset,DeWinter,3.977272727272727,0.5681818181818182,45.45454545454545,7.0,have talk have be leave
+Summerset,Nadine,3.977272727272727,0.5681818181818182,45.45454545454545,7.0,have talk have be leave
+DeWinter,Nadine,3.977272727272727,0.5681818181818182,45.45454545454545,7.0,have talk have be leave
+Dawson,Morris,1.4423076923076923,0.0,48.55769230769231,INF,let hit say go run
+DeWinter,Dawson,2.976190476190476,3.869047619047619,55.05952380952381,0.7692307692307693,occur note hold have be decimate have be
+DeWinter,Dawson,2.976190476190476,3.869047619047619,55.05952380952381,0.7692307692307693,occur note hold have be decimate have be
+DeWinter,Dawson,2.976190476190476,3.869047619047619,55.05952380952381,0.7692307692307693,occur note hold have be decimate have be
+DeWinter,Dawson,5.88235294117647,0.0,41.17647058823529,INF,include cover
+Peabody,DeWinter,0.78125,0.78125,42.1875,1.0,be move study
+DeWinter,Peabody,0.0,0.0,33.33333333333333,INF,hand
+Leanore Bastwick,Ledo,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be do
+Bastwick,Nadine,0.0,0.0,44.44444444444444,INF,hear try
+DeWinter,Peabody,5.0,2.5,32.5,2.0,think ask
+DeWinter,Baxter,0.0,0.0,37.5,INF,glance
+Peabody,DeWinter,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,spread say head
+DeWinter,Peabody,0.0,0.0,62.5,INF,work come
+Messner,Peabody,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,be say come
+Messner,Jess Barrow,0.0,0.0,46.15384615384615,INF,be
+Messner,Peabody,0.0,0.7352941176470588,52.20588235294118,0.0,listen drive speak
+Messner,Peabody,0.0,0.7352941176470588,52.20588235294118,0.0,listen drive speak
+Peabody,Messner,0.0,0.7352941176470588,52.20588235294118,0.0,listen drive speak
+Baxter,Mavis,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,be note close
+Mavis,Baxter,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,be note close
+Mavis,Baxter,1.3888888888888888,0.0,54.166666666666664,INF,walk shove
+Baxter,Mavis,0.0,1.5625,60.9375,0.0,change see
+Baxter,Mavis,0.0,1.5625,60.9375,0.0,change see
+Baxter,Trueheart,0.0,0.0,75.0,INF,jerk
+Lottie,Dawson,1.7857142857142856,0.0,55.35714285714286,INF,do look think
+Jesus,Lottie,0.0,0.0,40.0,INF,be
+DeWinter,Lottie,0.78125,0.0,36.71875,INF,have get say rush
+DeWinter,Peabody,0.78125,0.0,36.71875,INF,have get say rush
+DeWinter,Lottie,0.78125,0.0,36.71875,INF,have get say rush
+Lottie,Peabody,0.78125,0.0,36.71875,INF,have get say rush
+Peabody,Lottie,0.78125,0.0,36.71875,INF,have get say rush
+Lottie,Leanore Bastwick,0.0,0.0,27.27272727272727,INF,work
+Lottie,Ledo,0.0,0.0,27.27272727272727,INF,work
+Lottie,Hastings,0.0,0.0,27.27272727272727,INF,work
+Leanore Bastwick,Ledo,0.0,0.0,27.27272727272727,INF,work
+Leanore Bastwick,Hastings,0.0,0.0,27.27272727272727,INF,work
+Ledo,Hastings,0.0,0.0,27.27272727272727,INF,work
+Baxter,Trueheart,0.0,0.0,11.11111111111111,INF,be
+Peabody,McNab,0.0,0.0,40.0,INF,
+Leanore Bastwick,Ledo,0.0,0.0,0.0,INF,
+Roarke,Mira,0.4807692307692308,0.0,61.057692307692314,INF,bull bull carve
+Roarke,Mira,0.4807692307692308,0.0,61.057692307692314,INF,bull bull carve
+Roarke,Mira,0.4807692307692308,0.0,61.057692307692314,INF,bull bull carve
+Mira,Whitney,1.3392857142857142,0.0,52.23214285714286,INF,have cut hone let
+Whitney,Feeney,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,snap work
+Whitney,McNab,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,snap work
+Feeney,McNab,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,snap work
+Roarke,Feeney,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,apprise demand get work
+Reineke,Feeney,2.083333333333333,2.083333333333333,34.72222222222222,1.0,describe say
+Feeney,Roarke,5.555555555555555,0.0,50.0,INF,lay
+Peabody,Lottie,8.59375,3.125,50.78125,2.75,have shift stand
+Leanore Bastwick,Ledo,8.75,1.25,10.0,7.0,get deserve
+Lottie,Reineke,0.0,0.0,38.46153846153847,INF,shift count
+Lottie,Reineke,0.0,0.0,38.46153846153847,INF,shift count
+Lottie,Roarke,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,think jab
+Roarke,Lottie,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,think jab
+Roarke,Lottie,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,think jab
+Baxter,Lottie,1.0416666666666665,0.0,40.625,INF,drop
+Baxter,Lottie,1.0416666666666665,0.0,40.625,INF,drop
+Roarke,Lottie,7.954545454545454,0.0,46.590909090909086,INF,clamp roll
+Peabody,Roarke,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Peabody,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Peabody,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Peabody,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Roarke,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Roarke,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Roarke,Lottie,1.4285714285714286,1.4285714285714286,51.42857142857142,1.0,preoccupy reply turn see love
+Lottie,Roarke,2.7777777777777777,1.3888888888888888,34.72222222222222,2.0,sandwich do want let go
+Lottie,Roarke,2.7777777777777777,1.3888888888888888,34.72222222222222,2.0,sandwich do want let go
+Lottie,Roarke,0.625,0.625,58.75,1.0,surge give shove
+Lottie,Reineke,4.166666666666666,0.0,37.5,INF,get turn
+Lottie,Reineke,4.166666666666666,0.0,37.5,INF,get turn
+Peabody,Mira,2.717391304347826,0.5434782608695652,53.2608695652174,5.0,give smile kiss linger
+Feeney,Jenkinson,1.3888888888888888,0.0,48.61111111111111,INF,hand have punch
+Feeney,Reineke,1.3888888888888888,0.0,48.61111111111111,INF,hand have punch
+Jenkinson,Reineke,1.3888888888888888,0.0,48.61111111111111,INF,hand have punch
+Ledo,Hastings,0.0,0.0,28.57142857142857,INF,
+Lottie,Ledo,4.464285714285714,0.0,38.392857142857146,INF,have lead
+Lottie,Hastings,4.464285714285714,0.0,38.392857142857146,INF,have lead
+Lottie,Ledo,4.464285714285714,0.0,38.392857142857146,INF,have lead
+Lottie,Hastings,4.464285714285714,0.0,38.392857142857146,INF,have lead
+Ledo,Hastings,4.464285714285714,0.0,38.392857142857146,INF,have lead
+Dawson,Hastings,1.0,0.0,63.0,INF,tag tell be want see
+Dawson,Hastings,1.0,0.0,63.0,INF,tag tell be want see
+Roarke,Lottie,0.0,0.0,40.0,INF,beat
+Jesus,Mira,0.0,0.0,50.0,INF,nail
+Hastings,Lottie,0.0,3.571428571428571,53.57142857142857,0.0,hand
+Lottie,Pepsi,0.0,0.0,57.14285714285714,INF,take
+Dr. Mira,Lottie,0.0,0.0,33.33333333333333,INF,be
+Mira,Mavis,0.0,4.166666666666666,55.833333333333336,0.0,be
+Mira,Nadine,0.0,4.166666666666666,55.833333333333336,0.0,be
+Mira,Peabody,0.0,4.166666666666666,55.833333333333336,0.0,be
+Mavis,Nadine,0.0,4.166666666666666,55.833333333333336,0.0,be
+Mavis,Peabody,0.0,4.166666666666666,55.833333333333336,0.0,be
+Nadine,Peabody,0.0,4.166666666666666,55.833333333333336,0.0,be
+Peabody,Lottie,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Peabody,McNab,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Peabody,Lottie,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Peabody,McNab,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Lottie,McNab,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Lottie,McNab,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+McNab,Lottie,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Lottie,McNab,0.0,0.7352941176470588,52.20588235294118,0.0,stride
+Lottie,Dawson,0.0,0.0,60.0,INF,find
+Feeney,Lottie,0.0,0.0,14.285714285714285,INF,hiss
+Dawson,Lottie,2.2058823529411766,5.147058823529411,45.588235294117645,0.42857142857142855,come settle
+Dawson,PPC,2.2058823529411766,5.147058823529411,45.588235294117645,0.42857142857142855,come settle
+Lottie,Dawson,2.2058823529411766,5.147058823529411,45.588235294117645,0.42857142857142855,come settle
+Lottie,PPC,2.2058823529411766,5.147058823529411,45.588235294117645,0.42857142857142855,come settle
+Dawson,PPC,2.2058823529411766,5.147058823529411,45.588235294117645,0.42857142857142855,come settle
+Lottie,Dawson,0.0,0.0,60.0,INF,lay
+Lottie,Dawson,0.0,0.0,60.0,INF,lay

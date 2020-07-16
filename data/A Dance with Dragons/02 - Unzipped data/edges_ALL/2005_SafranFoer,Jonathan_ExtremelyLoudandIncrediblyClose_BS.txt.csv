@@ -1,0 +1,304 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Jose,Mark,0.7352941176470588,0.0,34.55882352941176,INF,tell be think
+Grandma,Gerald,5.0,0.5,50.5,10.0,squeeze knit tell kick want make crack make crack be
+Grandma,Gerald,5.0,0.5,50.5,10.0,squeeze knit tell kick want make crack make crack be
+Grandma,Gerald,5.0,0.5,50.5,10.0,squeeze knit tell kick want make crack make crack be
+Gerald,Grandma,0.0,0.0,52.94117647058824,INF,look say be say
+Grandma,Alicia,3.8461538461538463,0.4807692307692308,49.519230769230774,8.0,move tell need
+Dad,New York Times,2.4691358024691357,3.5493827160493825,59.413580246913575,0.6956521739130435,get examine bring be read mark
+Dad,New York Times,2.4691358024691357,3.5493827160493825,59.413580246913575,0.6956521739130435,get examine bring be read mark
+Buckminster,Dad,0.0,1.25,48.75,0.0,purr shrug
+Buckminster,Dad,0.0,1.25,48.75,0.0,purr shrug
+Dad,New York Times,2.754237288135593,0.0,49.78813559322034,INF,use tuck tell read whistle be be explain mean frustrate
+Dad,New York Times,2.754237288135593,0.0,49.78813559322034,INF,use tuck tell read whistle be be explain mean frustrate
+Dad,New York Times,2.754237288135593,0.0,49.78813559322034,INF,use tuck tell read whistle be be explain mean frustrate
+Dad,New York Times,2.754237288135593,0.0,49.78813559322034,INF,use tuck tell read whistle be be explain mean frustrate
+Dad,Grandma,7.575757575757576,1.1363636363636365,48.86363636363637,6.666666666666667,be work do work love be
+Dad,Morse,2.6595744680851063,1.8617021276595744,61.43617021276596,1.4285714285714286,lift flip wear do be convert use be call think
+Oskar,Ron,3.6458333333333335,0.5208333333333333,41.66666666666667,7.0,put say be
+Morse,Dad,2.34375,2.083333333333333,58.072916666666664,1.125,make be be make
+Shakespeare,Grandma,2.054794520547945,0.8561643835616438,58.73287671232876,2.4,reach move go get set buy find be go be bring have stack be
+Shakespeare,Grandma,2.054794520547945,0.8561643835616438,58.73287671232876,2.4,reach move go get set buy find be go be bring have stack be
+Shakespeare,Yorick,2.054794520547945,0.8561643835616438,58.73287671232876,2.4,reach move go get set buy find be go be bring have stack be
+Grandma,Yorick,2.054794520547945,0.8561643835616438,58.73287671232876,2.4,reach move go get set buy find be go be bring have stack be
+Grandma,Yorick,2.054794520547945,0.8561643835616438,58.73287671232876,2.4,reach move go get set buy find be go be bring have stack be
+Larry,Buckminster,2.403846153846154,1.6346153846153848,55.96153846153846,1.4705882352941178,do know be see sleep eat go have take be go explode get have get eat be be run be get start want be know leave be go
+Larry,Buckminster,2.403846153846154,1.6346153846153848,55.96153846153846,1.4705882352941178,do know be see sleep eat go have take be go explode get have get eat be be run be get start want be know leave be go
+Dad,New York Times,7.142857142857142,1.3392857142857142,62.94642857142857,5.333333333333333,ask be think be use read
+Black,Dad,2.9166666666666665,2.083333333333333,55.00000000000001,1.4,spend find name learn know
+Grandma,Oskar,4.807692307692308,0.0,49.03846153846153,INF,say leave
+Grandma,Dad,4.166666666666666,0.4166666666666667,58.75,10.0,have be live die be have meet
+Jake,Buckminster,5.113636363636364,0.0,49.43181818181818,INF,do have
+Grandma,Oskar,7.371794871794872,1.9230769230769231,47.11538461538461,3.8333333333333335,put say know be talk be need
+Grandma,Dad,0.2840909090909091,0.0,56.53409090909091,INF,write see spend try design throw
+Grandma,Dad,0.2840909090909091,0.0,56.53409090909091,INF,write see spend try design throw
+Grandma,Dad,0.0,0.0,65.0,INF,remember write die be do go
+Abby,Dad,2.840909090909091,0.0,56.25,INF,go put use do
+Abby,Dad,2.840909090909091,0.0,56.25,INF,go put use do
+Abby,Dad,0.78125,0.78125,35.9375,1.0,ask be feel be ask
+Abby,Dad,0.78125,0.78125,35.9375,1.0,ask be feel be ask
+Abby,Thomas Schell,3.260869565217391,0.0,48.91304347826087,INF,say do know do believe
+Thomas Schell,Abby,3.260869565217391,0.0,48.91304347826087,INF,say do know do believe
+Abby,Hamlet,1.9736842105263157,0.6578947368421052,50.0,3.0,tell play be be
+Dad,Grandma,0.0,1.6666666666666667,51.66666666666667,0.0,tell give trim be use
+Dad,Grandma,0.0,1.6666666666666667,51.66666666666667,0.0,tell give trim be use
+Dad,Grandma,0.0,1.6666666666666667,51.66666666666667,0.0,tell give trim be use
+Dad,Grandma,0.625,4.0625,57.8125,0.15384615384615385,tell give need keep come tell be
+Dad,Grandma,0.625,4.0625,57.8125,0.15384615384615385,tell give need keep come tell be
+Grandma,Dad,4.166666666666666,0.0,76.78571428571429,INF,stay die be go put
+Stan,Grandma,0.6944444444444444,0.0,43.75,INF,take say do sit
+Buckminster,Grandma,0.0,0.33783783783783783,59.12162162162162,0.0,take rest be hear be go
+Dr. Fein,Grandma,0.0,3.4090909090909087,60.22727272727273,0.0,be see carry
+Thomas Schell,Alexander Graham Bell,0.847457627118644,0.211864406779661,44.70338983050847,4.0,have get say point be be
+Dad,Buckminster,0.4807692307692308,2.403846153846154,50.96153846153846,0.2,do think be spend die count
+Anna,Thomas Schell,2.9296875,0.1953125,57.8125,15.0,make meet be stand spring be be stain please meet
+Anna,Simon Goldberg,2.9296875,0.1953125,57.8125,15.0,make meet be stand spring be be stain please meet
+Thomas Schell,Simon Goldberg,2.9296875,0.1953125,57.8125,15.0,make meet be stand spring be be stain please meet
+Anna,Mr. Goldberg,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Anna,Mr. Goldberg,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Anna,Mr. Goldberg,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Anna,Mr. Goldberg,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Mr. Goldberg,Anna,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Mr. Goldberg,Anna,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Mr. Goldberg,Anna,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Mr. Goldberg,Anna,3.209459459459459,0.6756756756756757,58.27702702702703,4.75,say do know be be be introduce want find ask do be tell do do laugh do be say
+Anna,Simon Goldberg,2.1875,1.25,46.5625,1.75,tell do be do tell be
+Anna,Mr. Goldberg,0.6711409395973155,1.174496644295302,50.50335570469798,0.5714285714285714,speak go lay be stall see know look get fall kick see grow go go stay arrive depart end begin be
+Mr. Goldberg,Anna,0.6711409395973155,1.174496644295302,50.50335570469798,0.5714285714285714,speak go lay be stall see know look get fall kick see grow go go stay arrive depart end begin be
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Mr. Goldberg,Anna,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,2.03862660944206,1.1802575107296138,56.866952789699575,1.7272727272727273,pull hold be be pull see laugh say hear put feel burst know do be have be have be coil be happen have happen happen do recognize say roll escape want make whisper know do be arrive be depart lift say have recognize hear breathe have take have see
+Anna,Mr. Goldberg,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Anna,Mr. Goldberg,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Anna,Mr. Goldberg,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Anna,Mr. Goldberg,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Mr. Goldberg,Anna,0.641025641025641,1.9230769230769231,55.12820512820513,0.3333333333333333,be burst whimper stomp let wound ask be upset shake fall rest see be cry
+Shakespeare,Grandma,4.166666666666666,3.431372549019608,45.34313725490196,1.2142857142857142,be be know set buy be cut be be be be
+JIMMY SNYDER,Horatio,0.0,0.0,37.5,INF,say hold know
+Ron,Grandma,16.25,1.25,42.5,13.0,be
+Abby,Black,4.166666666666666,2.083333333333333,27.083333333333332,2.0,be
+Yorick,Horatio,4.807692307692308,0.0,41.34615384615385,INF,know
+Grandma,Ron,4.166666666666666,1.9230769230769231,55.44871794871795,2.1666666666666665,have be go do ask be be do want
+Grandma,Ron,4.166666666666666,1.9230769230769231,55.44871794871795,2.1666666666666665,have be go do ask be be do want
+Hamlet,Grandma,3.1914893617021276,2.393617021276596,47.6063829787234,1.3333333333333333,applaud find drown be suppose be boo score be
+JIMMY SNYDER,Grandma,1.9736842105263157,0.0,50.6578947368421,INF,close imitate
+JIMMY SNYDER,Grandma,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,do swat leave be
+JIMMY SNYDER,Grandma,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,do swat leave be
+JIMMY SNYDER,Grandma,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,do swat leave be
+JIMMY SNYDER,Grandma,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,do swat leave be
+Hamlet,JIMMY SNYDER,2.272727272727273,0.0,43.18181818181818,INF,take know
+Hamlet,JIMMY SNYDER,2.272727272727273,0.0,43.18181818181818,INF,take know
+Hamlet,Horatio,2.272727272727273,0.0,43.18181818181818,INF,take know
+JIMMY SNYDER,Horatio,2.272727272727273,0.0,43.18181818181818,INF,take know
+JIMMY SNYDER,Horatio,2.272727272727273,0.0,43.18181818181818,INF,take know
+JIMMY SNYDER,Mrs. Rigley,3.571428571428571,0.5952380952380952,52.976190476190474,6.0,look be flip
+JIMMY SNYDER,Horatio,1.8518518518518516,2.7777777777777777,50.92592592592593,0.6666666666666666,know have
+JIMMY SNYDER,Ron,3.9634146341463414,1.3719512195121952,43.44512195121951,2.888888888888889,keep smash be let get get die ask come know
+JIMMY SNYDER,Dr. Fein,3.9634146341463414,1.3719512195121952,43.44512195121951,2.888888888888889,keep smash be let get get die ask come know
+Ron,Dr. Fein,3.9634146341463414,1.3719512195121952,43.44512195121951,2.888888888888889,keep smash be let get get die ask come know
+Abe,Dad,7.738095238095238,2.976190476190476,55.952380952380956,2.6,be do know
+Abe,Ada Black,0.0,1.5,58.5,0.0,go tell do
+Ada Black,Abe,0.0,1.5,58.5,0.0,go tell do
+Ada Black,Gail,1.5625,0.0,48.4375,INF,be look say
+Ada Black,Gail,1.5625,0.0,48.4375,INF,be look say
+Ada Black,Oskar,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,be tell think make feel
+Ada Black,Gail,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,be tell think make feel
+Oskar,Gail,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,be tell think make feel
+Ada Black,Oskar,5.357142857142857,0.0,51.78571428571429,INF,wonder do tell be
+Ada Black,Jose,5.241935483870968,0.8064516129032258,55.24193548387096,6.5,come ask want freak be say
+Google,Winston Churchill,4.464285714285714,0.0,59.82142857142857,INF,decide be get mention do know be
+Fitzgerald,Google,1.6355140186915886,0.9345794392523363,55.373831775700936,1.75,be get powder neck go try remember have forget
+Fitzgerald,Winston Churchill,1.6355140186915886,0.9345794392523363,55.373831775700936,1.75,be get powder neck go try remember have forget
+Google,Winston Churchill,1.6355140186915886,0.9345794392523363,55.373831775700936,1.75,be get powder neck go try remember have forget
+Dad,Winston Churchill,0.78125,3.90625,57.8125,0.2,be be
+Jose,Mr. Black,0.0,0.0,25.0,INF,tell
+Mr. Black,Grandma,6.887755102040815,2.0408163265306123,48.214285714285715,3.375,tell be think be talk think fall know do help
+Mr. Black,Grandma,6.887755102040815,2.0408163265306123,48.214285714285715,3.375,tell be think be talk think fall know do help
+Mr. Black,Hamlet,4.545454545454546,0.8522727272727272,62.78409090909091,5.333333333333333,want stay watch hear be get have be be
+Oskar,Ron,3.125,3.125,52.083333333333336,1.0,be go
+Mr. Ishido,Masako,2.7777777777777777,0.0,52.77777777777778,INF,call ask
+Mr. Keegan,Oskar,2.142857142857143,1.0714285714285714,53.92857142857142,2.0,say wipe stand have give think
+Mr. Keegan,Oskar,2.142857142857143,1.0714285714285714,53.92857142857142,2.0,say wipe stand have give think
+Mr. Keegan,Oskar,2.142857142857143,1.0714285714285714,53.92857142857142,2.0,say wipe stand have give think
+Mr. Keegan,Oskar,2.142857142857143,1.0714285714285714,53.92857142857142,2.0,say wipe stand have give think
+Mr. Keegan,JIMMY SNYDER,0.0,0.0,38.095238095238095,INF,walk say be
+Mr. Keegan,Oskar,0.0,0.0,38.095238095238095,INF,walk say be
+Mr. Keegan,Buckminster,0.0,0.0,38.095238095238095,INF,walk say be
+JIMMY SNYDER,Oskar,0.0,0.0,38.095238095238095,INF,walk say be
+JIMMY SNYDER,Buckminster,0.0,0.0,38.095238095238095,INF,walk say be
+Oskar,Buckminster,0.0,0.0,38.095238095238095,INF,walk say be
+JIMMY SNYDER,Buckminster,1.8382352941176472,0.7352941176470588,50.36764705882353,2.5,tell be be design be
+JIMMY SNYDER,Buckminster,0.0,0.0,40.0,INF,say mean
+JIMMY SNYDER,Buckminster,3.8793103448275863,0.8620689655172413,53.879310344827594,4.5,do know be ask bring drop show reach make have survive take realize be go relax correct
+Buckminster,JIMMY SNYDER,3.8793103448275863,0.8620689655172413,53.879310344827594,4.5,do know be ask bring drop show reach make have survive take realize be go relax correct
+Mr. Keegan,JIMMY SNYDER,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,get say
+JIMMY SNYDER,Oskar,2.272727272727273,2.272727272727273,36.36363636363637,1.0,say have
+JIMMY SNYDER,Emma Watson,2.272727272727273,2.272727272727273,36.36363636363637,1.0,say have
+Oskar,Emma Watson,2.272727272727273,2.272727272727273,36.36363636363637,1.0,say have
+JIMMY SNYDER,Emma Watson,5.208333333333334,0.0,61.458333333333336,INF,tell do know be
+Jake,JIMMY SNYDER,9.375,4.375,41.25,2.142857142857143,be crack be get
+Stan,Mr. Black,1.5625,3.125,45.3125,0.5,say be
+Mr. Black,Stan,3.125,6.25,28.125,0.5,be
+Mr. Black,Stan,4.166666666666666,3.125,51.041666666666664,1.3333333333333333,stick shake
+Mr. Black,Stan,4.166666666666666,3.125,51.041666666666664,1.3333333333333333,stick shake
+Stan,Mr. Black,0.0,3.125,46.875,0.0,tell live
+Stan,Mr. Black,3.90625,4.6875,60.15625,0.8333333333333334,take do think be offend
+Stan,Mr. Black,3.90625,4.6875,60.15625,0.8333333333333334,take do think be offend
+Mr. Black,Stan,2.564102564102564,1.6025641025641024,54.807692307692314,1.6,point be call do think speak
+Mr. Black,Oskar,4.166666666666666,4.166666666666666,36.11111111111111,1.0,holler
+Mr. Black,Oskar,0.0,3.75,36.25,0.0,say tell
+Dr. Fein,Stan,4.444444444444445,2.2222222222222223,46.666666666666664,2.0,do have take explain need be explain get do believe talk
+Farley,Grandma,9.375,0.0,46.875,INF,do know be have start
+Grandma,Farley,9.375,0.0,46.875,INF,do know be have start
+Dad,Grandma,0.9615384615384616,5.769230769230769,47.11538461538461,0.16666666666666666,hope see
+Dad,Grandma,1.7857142857142856,3.571428571428571,66.07142857142857,0.5,pretend be start
+Aaron Black,Abby,2.840909090909091,8.522727272727272,47.72727272727273,0.3333333333333333,tell be kiss
+Aaron Black,Abe,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Aaron Black,Ada Black,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Aaron Black,Mr. Black,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Abe,Ada Black,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Abe,Mr. Black,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Ada Black,Mr. Black,2.083333333333333,5.416666666666667,52.5,0.38461538461538464,tell fly
+Black,Ada Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Black,Ada Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Black,Ada Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Black,Ada Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Ada Black,Black,3.571428571428571,2.976190476190476,60.11904761904761,1.2,have get divorce get be have
+Black,Mark,2.2916666666666665,2.9166666666666665,54.79166666666667,0.7857142857142857,be cry open see have be wait come knock stop hope be know hope
+Oskar,Mr. Black,3.289473684210526,1.9736842105263157,47.368421052631575,1.6666666666666667,say be say pat
+Ruth,Mr. Black,1.25,3.125,55.625,0.4,be think be do know live
+Mr. Black,Stephen Hawking,2.430555555555556,2.604166666666667,58.854166666666664,0.9333333333333333,squeeze stop invent snap fall shoot fly be open get
+Mr. Black,Ruth,1.7857142857142856,0.0,41.07142857142857,INF,be say ask be
+Mr. Black,Ruth,1.7857142857142856,0.0,41.07142857142857,INF,be say ask be
+Ruth,Black,3.125,6.25,65.625,0.5,think say be
+Ruth,Black,3.125,6.25,65.625,0.5,think say be
+Black,Ruth,1.875,1.875,56.25,1.0,be be ask know
+Black,Mr. Black,1.875,1.875,56.25,1.0,be be ask know
+Black,Ruth,1.875,1.875,56.25,1.0,be be ask know
+Ruth,Mr. Black,1.875,1.875,56.25,1.0,be be ask know
+Mr. Black,Ruth,1.875,1.875,56.25,1.0,be be ask know
+Mr. Black,Jose,0.0,4.6875,32.8125,0.0,say
+Mr. Black,Ruth,0.0,4.6875,57.8125,0.0,take
+Mr. Black,Ruth,0.0,2.8846153846153846,50.96153846153846,0.0,tell thank be do
+Mr. Black,Ruth,0.0,2.8846153846153846,50.96153846153846,0.0,tell thank be do
+Anna,Oskar,1.25,1.25,47.5,1.0,ask say have go run
+Simon Goldberg,Oskar,1.3157894736842104,1.710526315789474,53.815789473684205,0.7692307692307693,wrap squeeze feel beat be try beat say turn rush be be want go wait
+Simon Goldberg,Oskar,1.3157894736842104,1.710526315789474,53.815789473684205,0.7692307692307693,wrap squeeze feel beat be try beat say turn rush be be want go wait
+Simon Goldberg,Oskar,1.3157894736842104,1.710526315789474,53.815789473684205,0.7692307692307693,wrap squeeze feel beat be try beat say turn rush be be want go wait
+Simon Goldberg,Oskar,1.3157894736842104,1.710526315789474,53.815789473684205,0.7692307692307693,wrap squeeze feel beat be try beat say turn rush be be want go wait
+Simon Goldberg,Oskar,1.3157894736842104,1.710526315789474,53.815789473684205,0.7692307692307693,wrap squeeze feel beat be try beat say turn rush be be want go wait
+Dad,Mr. Black,0.4464285714285714,4.017857142857143,63.39285714285714,0.1111111111111111,dig go
+Mr. Black,Dad,5.0,1.6666666666666667,60.0,3.0,have tell call be
+Mr. Black,Dad,3.787878787878788,2.083333333333333,60.79545454545454,1.8181818181818181,do know be be be spend make dig be look find feel be move
+Mr. Black,Dad,3.787878787878788,2.083333333333333,60.79545454545454,1.8181818181818181,do know be be be spend make dig be look find feel be move
+Black,Peter,0.0,4.6875,70.3125,0.0,visit be
+Oskar,Peter,5.88235294117647,2.2058823529411766,38.970588235294116,2.6666666666666665,be say keep
+Peter,Oskar,5.88235294117647,2.2058823529411766,38.970588235294116,2.6666666666666665,be say keep
+Dad,Thomas Schell,7.758620689655173,0.8620689655172413,60.3448275862069,9.0,make wonder be name do wonder be
+Oskar,Abby,3.571428571428571,7.142857142857142,17.857142857142858,0.5,be
+Abby,Black,1.7857142857142856,2.6785714285714284,59.82142857142857,0.6666666666666666,be have go
+Ada Black,Oskar,3.389830508474576,0.847457627118644,55.08474576271186,4.0,make know live have wait knock say leave be have tell be
+Ada Black,Oskar,3.389830508474576,0.847457627118644,55.08474576271186,4.0,make know live have wait knock say leave be have tell be
+Abby,Oskar,4.166666666666666,0.0,18.055555555555554,INF,say
+Oskar,Abby,0.9615384615384616,0.0,37.5,INF,say say
+Oskar,Abby,0.9615384615384616,0.0,37.5,INF,say say
+Abby,Oskar,4.166666666666666,0.0,29.166666666666668,INF,say be say
+Dad,Mr. Black,0.0,1.3297872340425532,53.98936170212766,0.0,pull make be rest
+Dad,New York Times,7.954545454545454,1.1363636363636365,72.72727272727273,7.0,be hold
+New York Times,Dad,7.954545454545454,1.1363636363636365,72.72727272727273,7.0,be hold
+Ron,Oskar,0.0,0.0,58.333333333333336,INF,say do have
+Gerald,Dad,2.3255813953488373,3.488372093023256,54.65116279069767,0.6666666666666666,sit do see think be think be
+Gerald,Dad,2.3255813953488373,3.488372093023256,54.65116279069767,0.6666666666666666,sit do see think be think be
+Gerald,Janet,5.46875,0.0,38.28125,INF,hear say find love
+Gerald,Janet,5.46875,0.0,38.28125,INF,hear say find love
+Gerald,Janet,5.46875,0.0,38.28125,INF,hear say find love
+Gerald,Janet,5.46875,0.0,38.28125,INF,hear say find love
+Grandma,Hamlet,1.282051282051282,3.205128205128205,45.51282051282051,0.4,bury be suggest be think get have receive make
+Dad,New York Times,6.048387096774194,0.0,58.46774193548387,INF,have go swipe walk read leave

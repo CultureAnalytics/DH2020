@@ -1,0 +1,491 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Vince Flynn,Mayflower,0.5681818181818182,0.2840909090909091,55.96590909090909,2.0,click visit sign show have be pack cross
+Liberty,Mayflower,0.0,5.208333333333334,44.79166666666667,0.0,be
+Liberty,Rush Revere,0.0,0.0,50.0,INF,start gallop yell rush
+Principal Sherman,Mr. Revere,3.2407407407407405,0.0,59.72222222222222,INF,turn say be
+Paul Revere,Boston Tea Party,0.0,0.0,77.77777777777779,INF,take
+Liberty,Tommy,0.4807692307692308,0.0,61.057692307692314,INF,be soak think be stand
+Liberty,Tommy,2.34375,0.78125,53.125,3.0,watch be crowd
+Liberty,Tommy,2.34375,0.78125,53.125,3.0,watch be crowd
+Liberty,Tommy,2.941176470588235,4.411764705882353,51.470588235294116,0.6666666666666666,smile imagine be come
+Liberty,Tommy,2.82258064516129,0.6048387096774194,54.63709677419355,4.666666666666667,form establish insure provide promote secure do ordain establish say gasp
+Liberty,Tommy,0.5,4.0,47.5,0.125,ignore come surround touch pet
+Liberty,Tommy,0.5,4.0,47.5,0.125,ignore come surround touch pet
+Tommy,Liberty,0.0,0.0,62.5,INF,start scratch
+Mr. Revere,Tommy,3.571428571428571,0.0,39.285714285714285,INF,say
+Mr. Revere,Tommy,3.571428571428571,0.0,39.285714285714285,INF,say
+Liberty,Tommy,4.166666666666666,0.0,62.5,INF,open shut
+Liberty,George Washington,0.9868421052631579,2.631578947368421,51.64473684210527,0.375,think be try say be be refer say introduce
+Liberty,Tommy,0.4629629629629629,0.0,51.388888888888886,INF,be speak walk grab write
+Liberty,Rush Revere,0.6944444444444444,0.0,49.30555555555556,INF,bound say rush
+Puritans,William,0.625,0.0,44.375,INF,be look lead
+Dorothy,John,0.0,0.0,42.10526315789473,INF,have decide leave
+John,Dorothy,3.804347826086957,5.978260869565218,46.73913043478261,0.6363636363636364,be care imagine have be
+Rush Revere,William,2.232142857142857,0.0,47.767857142857146,INF,be look visit remember have say
+William,Mayflower,5.208333333333334,0.0,53.125,INF,know sail
+Liberty,James,0.78125,7.8125,53.90625,0.1,reply be sound
+James,Puritans,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,hear do want have choose believe
+Tommy,James,5.978260869565218,3.260869565217391,42.934782608695656,1.8333333333333333,raise say be
+Tommy,James,5.978260869565218,3.260869565217391,42.934782608695656,1.8333333333333333,raise say be
+James,Elizabeth,7.608695652173914,0.0,53.2608695652174,INF,mean say realize have call
+James,Elizabeth,7.608695652173914,0.0,53.2608695652174,INF,mean say realize have call
+Tommy,James,0.0,0.0,42.857142857142854,INF,try cover resist say
+Tommy,Elizabeth,3.90625,0.0,64.84375,INF,put give
+Tommy,Elizabeth,3.90625,0.0,64.84375,INF,put give
+Elizabeth,Tommy,0.0,12.5,12.5,0.0,ignore
+Tommy,William,3.6764705882352944,0.0,43.38235294117647,INF,say like
+Elizabeth,Mayflower,11.18421052631579,1.3157894736842104,55.92105263157895,8.5,have forget raise
+Elizabeth,Mayflower,11.18421052631579,1.3157894736842104,55.92105263157895,8.5,have forget raise
+William,Dorothy,3.6111111111111107,6.111111111111111,41.388888888888886,0.5909090909090909,do know be be give
+Liberty,Principal Sherman,1.6025641025641024,1.9230769230769231,65.7051282051282,0.8333333333333334,turn look wonder be alarm be
+Tommy,Liberty,3.8461538461538463,6.730769230769231,43.269230769230774,0.5714285714285714,let take
+Tommy,Principal Sherman,0.9259259259259258,2.314814814814815,56.018518518518526,0.4,report be say growl finish
+Tommy,Principal Sherman,0.9259259259259258,2.314814814814815,56.018518518518526,0.4,report be say growl finish
+Principal Sherman,Tommy,0.78125,0.0,55.46875,INF,see be ponder examine
+Liberty,Tommy,0.0,2.083333333333333,47.91666666666667,0.0,hold say try catch
+Tommy,Liberty,5.357142857142857,0.0,66.07142857142857,INF,look
+Tommy,Liberty,8.088235294117647,2.941176470588235,59.55882352941176,2.75,walk touch make be
+Liberty,Tommy,8.088235294117647,2.941176470588235,59.55882352941176,2.75,walk touch make be
+Liberty,Tommy,0.5681818181818182,5.681818181818182,48.29545454545455,0.1,clear begin be
+Tommy,Liberty,0.5681818181818182,5.681818181818182,48.29545454545455,0.1,clear begin be
+Boston Tea Party,Paul Revere,0.8522727272727272,0.2840909090909091,51.13636363636363,3.0,remember invent
+Boston Tea Party,Hill,0.8522727272727272,0.2840909090909091,51.13636363636363,3.0,remember invent
+Paul Revere,Hill,0.8522727272727272,0.2840909090909091,51.13636363636363,3.0,remember invent
+Liberty,Tommy,1.3888888888888888,0.0,48.61111111111111,INF,do explain end say
+Liberty,Tommy,1.8382352941176472,0.0,59.92647058823529,INF,be arrive appear
+Rush Revere,Paul Revere,0.0,3.4722222222222223,68.75,0.0,mean meet recognize
+Tommy,Liberty,3.9473684210526314,0.0,53.94736842105263,INF,look nod
+Mr. Revere,Tommy,0.0,0.0,43.47826086956522,INF,look say
+Mr. Revere,Liberty,0.0,0.0,43.47826086956522,INF,look say
+Tommy,Liberty,0.0,0.0,43.47826086956522,INF,look say
+Liberty,Tommy,0.8928571428571428,0.0,56.25,INF,climb invite join
+Liberty,Tommy,0.0,0.0,58.82352941176471,INF,start gallop say rush
+Liberty,Rush Revere,0.0,0.0,58.82352941176471,INF,start gallop say rush
+Tommy,Rush Revere,0.0,0.0,58.82352941176471,INF,start gallop say rush
+Tommy,Liberty,0.5681818181818182,0.0,58.52272727272727,INF,be chew reopen jump
+Tommy,Liberty,0.5681818181818182,0.0,58.52272727272727,INF,be chew reopen jump
+Liberty,Tommy,0.0,0.0,55.55555555555556,INF,walk climb
+Liberty,Tommy,4.787234042553192,0.5319148936170213,56.38297872340425,9.0,be be get defend have be land
+Liberty,Tommy,4.787234042553192,0.5319148936170213,56.38297872340425,9.0,be be get defend have be land
+Tommy,Liberty,4.787234042553192,0.5319148936170213,56.38297872340425,9.0,be be get defend have be land
+Tommy,Liberty,4.787234042553192,0.5319148936170213,56.38297872340425,9.0,be be get defend have be land
+Liberty,Mayflower,2.8846153846153846,4.807692307692308,38.46153846153847,0.6,need land
+Liberty,Tommy,0.0,0.0,85.71428571428571,INF,say gallop
+Plymouth Plantation,Mayflower,1.3888888888888888,0.9259259259259258,49.53703703703704,1.5,pronounce
+William,Rush Revere,0.0,0.0,56.25,INF,reach recognize say
+William,Tommy,7.954545454545454,7.954545454545454,56.81818181818182,1.0,smile straighten
+Tommy,William,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+Tommy,William,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+Tommy,William,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+William,Tommy,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+William,Tommy,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+William,Tommy,1.8518518518518516,0.0,50.0,INF,be meet say reach shake
+Brewster,William,0.0,0.0,27.77777777777778,INF,hold
+Brewster,Myles,0.0,0.0,27.77777777777778,INF,hold
+William,Myles,0.0,0.0,27.77777777777778,INF,hold
+Mayflower,Plymouth Plantation,0.0,3.9473684210526314,48.68421052631579,0.0,board head
+Mayflower,Plymouth Plantation,0.0,0.0,55.00000000000001,INF,wave leave
+William,Mayflower,0.0,0.0,46.15384615384615,INF,continue cross
+Tommy,Liberty,2.840909090909091,0.0,65.3409090909091,INF,smile continue be know be
+Tommy,Liberty,2.840909090909091,0.0,65.3409090909091,INF,smile continue be know be
+William,Dorothy,2.631578947368421,0.6578947368421052,49.34210526315789,4.0,be thrill see walk
+William,Dorothy,2.631578947368421,0.6578947368421052,49.34210526315789,4.0,be thrill see walk
+Rush Revere,William,0.0,0.0,43.75,INF,join say
+Liberty,William,1.1363636363636365,0.0,65.53030303030303,INF,know be have ask have volunteer be
+Liberty,William,1.1363636363636365,0.0,65.53030303030303,INF,know be have ask have volunteer be
+Liberty,Mayflower,1.1363636363636365,0.0,65.53030303030303,INF,know be have ask have volunteer be
+William,Mayflower,1.1363636363636365,0.0,65.53030303030303,INF,know be have ask have volunteer be
+William,Mayflower,1.1363636363636365,0.0,65.53030303030303,INF,know be have ask have volunteer be
+Mayflower,Puritans,4.545454545454546,2.272727272727273,47.72727272727273,2.0,include
+Tommy,William,0.0,0.0,37.5,INF,follow follow
+William,Tommy,0.0,0.0,37.5,INF,follow follow
+William,Tommy,0.5952380952380952,0.5952380952380952,41.66666666666667,1.0,overhear crouch speak include
+William,Tommy,0.5952380952380952,0.5952380952380952,41.66666666666667,1.0,overhear crouch speak include
+Tommy,Francis,1.3157894736842104,2.631578947368421,53.94736842105263,0.5,speak twist say warn
+Tommy,Francis,1.3157894736842104,2.631578947368421,53.94736842105263,0.5,speak twist say warn
+Myles,William,3.8793103448275863,2.1551724137931036,38.793103448275865,1.8,hurt happen thank be say
+Myles,William,2.6785714285714284,0.0,40.17857142857143,INF,let introduce say
+Tommy,Myles,0.0,4.605263157894736,48.026315789473685,0.0,lean whisper be be
+Myles,Principal Sherman,9.722222222222223,2.7777777777777777,54.166666666666664,3.5,seem
+Myles,Tommy,0.0,0.0,63.63636363636363,INF,wink smile mess
+William,Myles,0.0,0.0,33.33333333333333,INF,ask have see
+William,Elder Brewster,0.0,0.0,33.33333333333333,INF,ask have see
+Myles,Elder Brewster,0.0,0.0,33.33333333333333,INF,ask have see
+Myles,William,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,believe be return finish start
+William,Myles,0.0,0.0,50.0,INF,hurry follow notice call
+William,Jones,6.25,0.0,43.75,INF,call look
+Myles,Tommy,0.0,0.0,60.0,INF,reach grab
+Myles,Tommy,2.604166666666667,0.0,59.895833333333336,INF,be slip reach grab continue pull
+Myles,Tommy,2.604166666666667,0.0,59.895833333333336,INF,be slip reach grab continue pull
+Myles,Tommy,2.604166666666667,0.0,59.895833333333336,INF,be slip reach grab continue pull
+Tommy,Myles,3.4090909090909087,0.0,42.04545454545455,INF,yell go
+William,Elder Brewster,6.4655172413793105,1.293103448275862,54.310344827586206,5.0,open turn say provide
+William,Elder Brewster,6.4655172413793105,1.293103448275862,54.310344827586206,5.0,open turn say provide
+Myles,Tommy,0.0,0.0,50.0,INF,be sit
+Elder Brewster,William,0.0,0.0,25.0,INF,say
+John,Myles,2.314814814814815,0.0,56.94444444444444,INF,have follow stay look say
+John,Myles,2.314814814814815,0.0,56.94444444444444,INF,have follow stay look say
+John,Elder Brewster,0.9615384615384616,7.6923076923076925,37.5,0.125,do condemn say
+Jones,William,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be use be bully threaten say
+Tommy,John,1.4705882352941175,1.8382352941176472,49.63235294117647,0.8,talk walk say believe hang
+John,Tommy,0.0,0.0,57.14285714285714,INF,look confuse
+William,Jones,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+William,Brewster,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+William,Puritans,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+Jones,Brewster,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+Jones,Puritans,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+Brewster,Puritans,1.7857142857142856,0.0,45.83333333333333,INF,introduce
+William,Rush Revere,0.0,0.0,40.0,INF,say thank
+Liberty,Tommy,5.681818181818182,3.4090909090909087,45.45454545454545,1.6666666666666667,hope be say
+Liberty,Tommy,0.0,0.0,28.57142857142857,INF,say
+Tommy,Liberty,5.88235294117647,1.4705882352941175,51.470588235294116,4.0,close wrap chew
+Liberty,Tommy,5.88235294117647,1.4705882352941175,51.470588235294116,4.0,close wrap chew
+Liberty,Tommy,0.0,0.0,44.44444444444444,INF,reappear slip
+Liberty,Rush Revere,0.0,0.0,46.15384615384615,INF,say rush
+Tommy,Mayflower,0.0,0.0,40.0,INF,echo
+Liberty,Tommy,0.6944444444444444,2.7777777777777777,63.19444444444444,0.25,turn break be feel
+Liberty,Tommy,0.0,0.0,50.0,INF,jump say scratch
+Tommy,Liberty,0.5,6.0,45.5,0.08333333333333333,jump say be want
+Jones,William,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,think be
+Tommy,Liberty,3.8793103448275863,2.586206896551724,48.706896551724135,1.5,be lean laugh say
+Myles,Tommy,3.571428571428571,0.0,46.42857142857143,INF,say stand
+Elder Brewster,Brewster,3.75,1.25,75.0,3.0,be encourage
+Tommy,Myles,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Mayflower,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Myles,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Mayflower,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Myles,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Mayflower,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Myles,Mayflower,4.017857142857143,0.4464285714285714,52.67857142857143,9.0,raise be ask happen get
+Tommy,Myles,5.208333333333334,7.291666666666667,20.833333333333336,0.7142857142857143,say
+Tommy,Myles,6.25,1.7857142857142856,56.25,3.5,be furrow think have say
+Tommy,Myles,6.25,1.7857142857142856,56.25,3.5,be furrow think have say
+Myles,Tommy,2.5,4.166666666666666,40.0,0.6,laugh say be
+Rush Revere,Tommy,0.0,0.0,41.66666666666667,INF,come rush say
+Rush Revere,Myles,0.0,0.0,41.66666666666667,INF,come rush say
+Tommy,Myles,0.0,0.0,41.66666666666667,INF,come rush say
+Jones,William,3.4090909090909087,0.0,42.04545454545455,INF,let take
+Jones,William,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+Jones,Tommy,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+Jones,Myles,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+William,Tommy,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+William,Myles,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+Tommy,Myles,6.907894736842106,1.644736842105263,41.44736842105263,4.2,walk visit say get thank know catch
+Myles,Tommy,0.0,0.0,42.857142857142854,INF,stop look
+Jones,William,2.34375,0.0,47.65625,INF,see say
+Jones,William,2.34375,0.0,47.65625,INF,see say
+Jones,Rush Revere,2.34375,0.0,47.65625,INF,see say
+William,Rush Revere,2.34375,0.0,47.65625,INF,see say
+William,Rush Revere,2.34375,0.0,47.65625,INF,see say
+William,Jones,1.875,0.0,58.12500000000001,INF,add spot
+William,Plymouth Plantation,1.4423076923076923,0.4807692307692308,48.07692307692308,3.0,say leave be finish
+William,Tommy,1.4423076923076923,0.4807692307692308,48.07692307692308,3.0,say leave be finish
+Plymouth Plantation,Tommy,1.4423076923076923,0.4807692307692308,48.07692307692308,3.0,say leave be finish
+Tommy,Jones,10.227272727272728,2.272727272727273,32.95454545454545,4.5,say
+Myles,Tommy,0.0,2.5,42.5,0.0,walk ask catch
+William,Myles,2.5,10.0,47.5,0.25,give say like
+Myles,William,3.571428571428571,0.0,39.285714285714285,INF,go say
+Rush Revere,Tommy,5.357142857142857,0.0,37.5,INF,be come please do feel have
+Plymouth Plantation,Mayflower,5.88235294117647,2.2058823529411766,56.61764705882353,2.6666666666666665,raise save sink
+Myles,Stephen Hopkins,0.0,5.88235294117647,41.17647058823529,0.0,lean whisper be
+Stephen Hopkins,Mayflower,3.273809523809524,4.464285714285714,47.023809523809526,0.7333333333333333,be say ask say be be bear
+Stephen Hopkins,Mayflower,3.273809523809524,4.464285714285714,47.023809523809526,0.7333333333333333,be say ask say be be bear
+Stephen Hopkins,William,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+Stephen Hopkins,Myles,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+Stephen Hopkins,Elder Brewster,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+William,Myles,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+William,Elder Brewster,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+Myles,Elder Brewster,0.0,1.8229166666666667,46.09375,0.0,point shout want come use have command
+Stephen Hopkins,Liberty,6.666666666666667,0.0,53.333333333333336,INF,do say use name
+Liberty,Elder Brewster,0.0,0.0,56.25,INF,be tickle
+William,Jones,3.3783783783783785,1.6891891891891893,51.689189189189186,2.0,turn say request set compose bind
+William,Mayflower,4.166666666666666,2.083333333333333,52.083333333333336,2.0,be propose be
+Jones,William,1.6304347826086956,0.0,54.891304347826086,INF,agree create offer compose
+Mayflower,Plymouth Colony,3.6458333333333335,1.0416666666666665,70.3125,3.5,establish sign
+Plymouth Colony,Mayflower,3.6458333333333335,1.0416666666666665,70.3125,3.5,establish sign
+Mayflower,Brewster,0.0,0.0,38.88888888888889,INF,include
+Mayflower,Myles,0.0,0.0,38.88888888888889,INF,include
+Mayflower,William,0.0,0.0,38.88888888888889,INF,include
+Brewster,Myles,0.0,0.0,38.88888888888889,INF,include
+Brewster,William,0.0,0.0,38.88888888888889,INF,include
+Myles,William,0.0,0.0,38.88888888888889,INF,include
+Rush Revere,William,1.3888888888888888,0.0,43.05555555555556,INF,be think say smile
+Liberty,Tommy,0.0,0.0,58.82352941176471,INF,grab feed
+Tommy,Mayflower,0.0,0.0,40.0,INF,finish ask do think climb watch sign
+Liberty,Tommy,9.090909090909092,3.977272727272727,46.02272727272727,2.2857142857142856,do worry sigh try make feel leave
+Liberty,Tommy,0.0,2.083333333333333,43.75,0.0,be continue daydream whisper let go
+Myles,William,3.125,1.0416666666666665,70.83333333333334,3.0,be stand sit
+Myles,William,0.0,2.604166666666667,47.39583333333333,0.0,wear look be pounce object
+Myles,William,0.0,2.604166666666667,47.39583333333333,0.0,wear look be pounce object
+Myles,William,0.0,2.604166666666667,47.39583333333333,0.0,wear look be pounce object
+William,Myles,0.0,0.0,58.82352941176471,INF,dip hand sign
+William,Myles,0.0,0.0,58.82352941176471,INF,dip hand sign
+Tommy,Liberty,2.82258064516129,0.0,52.016129032258064,INF,exit climb look be
+Tommy,Liberty,1.4705882352941175,1.4705882352941175,44.11764705882353,1.0,walk have see whisper
+Tommy,Francis,1.25,0.625,53.125,2.0,pop say be
+Tommy,Francis,1.25,0.625,53.125,2.0,pop say be
+Tommy,Myles,0.0,0.0,33.33333333333333,INF,get say
+Tommy,Liberty,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,whisper be
+Tommy,Mayflower,2.976190476190476,0.0,39.88095238095239,INF,ask do enjoy
+Liberty,Tommy,2.631578947368421,1.644736842105263,58.88157894736842,1.6,walk pick write throw
+Liberty,Tommy,0.0,0.0,40.0,INF,laugh
+Liberty,Tommy,0.0,3.3333333333333335,56.666666666666664,0.0,slip hold vanish
+Principal Sherman,Tommy,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,tower threaten
+Principal Sherman,Mayflower,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,tower threaten
+Tommy,Mayflower,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,tower threaten
+Mr. Revere,Tommy,9.558823529411764,0.7352941176470588,54.41176470588235,13.0,say be know say
+Mr. Revere,Tommy,9.558823529411764,0.7352941176470588,54.41176470588235,13.0,say be know say
+William,Mayflower,4.947916666666666,6.25,53.385416666666664,0.7916666666666666,be call be be save sign mean stick
+Tommy,Liberty,0.0,0.0,63.63636363636363,INF,guide say try meet
+Tommy,Liberty,0.0,0.0,63.63636363636363,INF,guide say try meet
+Mr. Revere,Tommy,0.0,0.0,41.66666666666667,INF,say
+Liberty,Tommy,1.25,0.0,28.749999999999996,INF,do say say
+Myles,Tommy,0.0,0.0,50.0,INF,bet be say
+Tommy,Liberty,3.571428571428571,0.0,46.42857142857143,INF,say scratch
+Brewster,Myles,0.0,4.464285714285714,38.392857142857146,0.0,pray
+Liberty,Brewster,1.3888888888888888,1.3888888888888888,41.66666666666667,1.0,be brave say pat
+Mr. Revere,Tommy,0.0,0.0,45.45454545454545,INF,do di say
+Tommy,Elizabeth,2.5,2.5,35.0,1.0,say
+Elizabeth,Liberty,0.625,0.625,53.75,1.0,squint spot be look lie
+Elizabeth,Liberty,0.625,0.625,53.75,1.0,squint spot be look lie
+Elizabeth,Liberty,0.625,0.625,53.75,1.0,squint spot be look lie
+Liberty,Tommy,0.0,0.0,50.0,INF,respond sprint spring
+Liberty,Plymouth Plantation,0.0,0.0,50.0,INF,open start gallop say
+Tommy,Liberty,1.875,0.625,62.5,3.0,watch bounce jump
+Liberty,Tommy,1.875,0.625,62.5,3.0,watch bounce jump
+Liberty,Tommy,3.90625,0.0,52.34375,INF,exhale watch crystallize
+William,Myles,3.571428571428571,2.976190476190476,55.35714285714286,1.2,notice speak point
+Common House,William,2.604166666666667,1.5625,54.166666666666664,1.6666666666666667,be finish say approach
+Myles,Rush Revere,0.0,0.0,53.333333333333336,INF,turn see say
+Rush Revere,Myles,0.0,0.0,53.333333333333336,INF,turn see say
+Tommy,Plymouth Rock,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,find assume land disembark go explore
+Myles,William,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be say
+William,Myles,3.4090909090909087,0.0,51.13636363636363,INF,say forget have meet
+William,Liberty,3.4090909090909087,0.0,51.13636363636363,INF,say forget have meet
+Myles,Liberty,3.4090909090909087,0.0,51.13636363636363,INF,say forget have meet
+William,Dorothy,1.6666666666666667,0.0,31.666666666666664,INF,have have survive
+William,Dorothy,1.6666666666666667,0.0,31.666666666666664,INF,have have survive
+William,Dorothy,6.25,0.0,50.0,INF,sigh say die find
+William,Common House,0.6578947368421052,0.0,46.71052631578947,INF,point say be
+Rush Revere,William,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,say smile
+Hill,William,0.0,0.0,62.96296296296296,INF,think see say squint look
+Hill,William,0.0,0.0,62.96296296296296,INF,think see say squint look
+Common House,William,8.333333333333332,0.0,51.66666666666667,INF,work call
+Tommy,Myles,0.0,0.0,42.10526315789473,INF,promise teach fight say
+Tommy,Myles,0.0,0.0,42.10526315789473,INF,promise teach fight say
+Liberty,Tommy,0.0,0.0,64.0,INF,start climb hear see come
+Liberty,Tommy,0.0,0.0,64.0,INF,start climb hear see come
+Plymouth Plantation,Plymouth Colony,0.7352941176470588,0.0,63.970588235294116,INF,grow thrive
+Mayflower,Plymouth Plantation,6.25,1.4423076923076923,53.84615384615385,4.333333333333333,be suppose provide be stand
+Mayflower,Plymouth Plantation,0.0,0.0,81.81818181818183,INF,notice be anchor
+Liberty,Francis,0.0,0.0,55.55555555555556,INF,shake stomp
+Liberty,Francis,0.0,0.0,55.55555555555556,INF,shake stomp
+Liberty,Francis,0.5208333333333333,1.5625,52.083333333333336,0.3333333333333333,hit say step pet
+Tommy,Francis,0.0,0.0,55.55555555555556,INF,start hold
+Liberty,Francis,11.11111111111111,8.333333333333332,47.22222222222222,1.3333333333333333,roll look
+Liberty,Francis,0.0,0.0,57.89473684210527,INF,hold search pull
+Francis,Liberty,0.0,0.0,66.66666666666666,INF,grab pull leave
+Francis,Liberty,0.0,0.0,66.66666666666666,INF,try pull be
+Liberty,Francis,0.9615384615384616,6.730769230769231,61.53846153846154,0.14285714285714285,have use feel jerk
+Liberty,Francis,0.9615384615384616,6.730769230769231,61.53846153846154,0.14285714285714285,have use feel jerk
+Francis,Liberty,2.272727272727273,1.1363636363636365,57.1969696969697,2.0,be say kick buck
+Liberty,Francis,2.272727272727273,1.1363636363636365,57.1969696969697,2.0,be say kick buck
+Liberty,Francis,2.272727272727273,1.1363636363636365,57.1969696969697,2.0,be say kick buck
+Francis,William,0.0,0.0,58.82352941176471,INF,land cave fall
+William,Francis,0.0,0.0,58.82352941176471,INF,land cave fall
+Francis,Liberty,2.6785714285714284,0.0,54.46428571428571,INF,have admit have come say
+William,Tommy,0.0,0.0,35.714285714285715,INF,look be say point
+Rush Revere,Tommy,0.0,0.0,28.57142857142857,INF,
+William,Somoset,4.464285714285714,0.0,41.964285714285715,INF,stare turn say
+William,Somoset,3.125,0.0,21.875,INF,respond
+William,Plymouth Plantation,0.0,0.0,60.0,INF,be call
+Somoset,William,0.0,0.0,43.47826086956522,INF,stretch say pause point
+Somoset,William,0.0,0.0,43.47826086956522,INF,stretch say pause point
+Plymouth Colony,William,1.4705882352941175,0.0,39.705882352941174,INF,state
+William,Myles,2.7777777777777777,0.0,36.11111111111111,INF,turn say come
+William,Somoset,2.7777777777777777,0.0,36.11111111111111,INF,turn say come
+Myles,Somoset,2.7777777777777777,0.0,36.11111111111111,INF,turn say come
+William,Tommy,1.6025641025641024,1.6025641025641024,45.51282051282051,1.0,see stand say run be gather ask
+William,Tommy,1.6025641025641024,1.6025641025641024,45.51282051282051,1.0,see stand say run be gather ask
+William,Somoset,0.0,0.0,33.33333333333333,INF,turn
+Myles,Somoset,2.6785714285714284,8.035714285714286,53.57142857142857,0.3333333333333333,be believe mean
+Myles,Massasoit,1.3157894736842104,0.0,46.05263157894737,INF,say tell have
+Massasoit,William,0.0,0.0,33.33333333333333,INF,
+Somoset,William,1.1363636363636365,0.0,71.5909090909091,INF,smile do salute
+Somoset,William,1.1363636363636365,0.0,71.5909090909091,INF,smile do salute
+William,Somoset,3.571428571428571,1.1904761904761905,47.61904761904761,3.0,help begin gesture try communicate
+Somoset,William,3.571428571428571,1.1904761904761905,47.61904761904761,3.0,help begin gesture try communicate
+William,Myles,1.3157894736842104,1.9736842105263157,33.55263157894737,0.6666666666666666,look
+William,Elder Brewster,1.3157894736842104,1.9736842105263157,33.55263157894737,0.6666666666666666,look
+Myles,Elder Brewster,1.3157894736842104,1.9736842105263157,33.55263157894737,0.6666666666666666,look
+Myles,William,1.3157894736842104,7.894736842105263,53.94736842105263,0.16666666666666666,welcome say be
+Myles,Squanto,1.3157894736842104,7.894736842105263,53.94736842105263,0.16666666666666666,welcome say be
+William,Squanto,1.3157894736842104,7.894736842105263,53.94736842105263,0.16666666666666666,welcome say be
+Somoset,Squanto,0.0,0.0,33.33333333333333,INF,continue translate
+Somoset,Massasoit,0.0,0.0,33.33333333333333,INF,continue translate
+Squanto,Massasoit,0.0,0.0,33.33333333333333,INF,continue translate
+Massasoit,William,6.25,0.0,53.75,INF,help
+Massasoit,Squanto,0.0,0.0,35.714285714285715,INF,look meet say
+Massasoit,William,0.0,0.0,35.714285714285715,INF,look meet say
+Squanto,William,0.0,0.0,35.714285714285715,INF,look meet say
+Liberty,William,4.6875,2.34375,49.21875,2.0,whisper believe be scare
+Somoset,William,3.3333333333333335,1.3888888888888888,48.61111111111111,2.4,be wonder be plot have sneak watch whisper
+William,Somoset,0.0,1.3157894736842104,67.10526315789474,0.0,take reach touch
+William,Somoset,0.0,1.3157894736842104,67.10526315789474,0.0,take reach touch
+Somoset,William,0.0,0.0,58.333333333333336,INF,lean clip
+Somoset,William,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,use turn whisper seem befriend
+Somoset,William,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,use turn whisper seem befriend
+Somoset,Myles,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,use turn whisper seem befriend
+William,Myles,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,use turn whisper seem befriend
+William,Myles,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,use turn whisper seem befriend
+Myles,Massasoit,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+Myles,Massasoit,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+Massasoit,Myles,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+Massasoit,Myles,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+Myles,Massasoit,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+Myles,Massasoit,0.78125,3.515625,51.953125,0.2222222222222222,clear say assume be send turn offend offend
+William,Elder Brewster,0.0,0.0,46.15384615384615,INF,turn say agree
+Liberty,William,4.166666666666666,2.7777777777777777,43.05555555555556,1.5,whisper put
+Tommy,Somoset,3.125,1.25,45.625,2.5,lean whisper do think give
+Tommy,William,3.125,1.25,45.625,2.5,lean whisper do think give
+Somoset,William,3.125,1.25,45.625,2.5,lean whisper do think give
+Somoset,Squanto,1.7857142857142856,2.976190476190476,38.095238095238095,0.6,reply accord have read become
+Somoset,William,1.7857142857142856,2.976190476190476,38.095238095238095,0.6,reply accord have read become
+Squanto,William,1.7857142857142856,2.976190476190476,38.095238095238095,0.6,reply accord have read become
+Somoset,Common House,2.0,0.0,54.0,INF,lead decide be
+Somoset,Massasoit,2.1341463414634148,0.6097560975609756,53.35365853658537,3.5,seem suggest get eat
+Somoset,Squanto,2.1341463414634148,0.6097560975609756,53.35365853658537,3.5,seem suggest get eat
+Massasoit,Squanto,2.1341463414634148,0.6097560975609756,53.35365853658537,3.5,seem suggest get eat
+Tommy,Liberty,1.9230769230769231,0.9615384615384616,66.34615384615384,2.0,be ride follow
+Somoset,Massasoit,1.0,0.0,43.0,INF,be mean say know have die
+Tommy,Liberty,4.166666666666666,0.8333333333333334,41.66666666666667,5.0,need say
+Tommy,Liberty,0.0,0.0,47.368421052631575,INF,dismount walk pine
+Francis,Liberty,5.208333333333334,0.0,36.45833333333333,INF,help struggle say
+Mr. Revere,Francis,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be be freeze
+Mr. Revere,Francis,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be be freeze
+Tommy,Francis,6.61764705882353,1.4705882352941175,44.85294117647059,4.5,hang attach
+Tommy,Francis,0.0,0.0,56.25,INF,gather help
+Tommy,Francis,0.0,0.0,56.25,INF,gather help
+Francis,Liberty,0.7352941176470588,0.0,63.970588235294116,INF,bolt store
+William,Rush Revere,2.6785714285714284,0.8928571428571428,50.0,3.0,turn say be expect see be see
+Tommy,William,6.944444444444445,3.4722222222222223,56.25,2.0,think ask
+Tommy,William,0.0,0.0,30.0,INF,come say
+Tommy,William,5.833333333333333,5.0,49.166666666666664,1.1666666666666667,think tell say
+Tommy,William,5.833333333333333,5.0,49.166666666666664,1.1666666666666667,think tell say
+Somoset,William,1.5625,0.0,54.6875,INF,stop have stop
+Somoset,Squanto,0.0,1.3157894736842104,40.78947368421053,0.0,say clip
+Somoset,William,0.0,1.3157894736842104,40.78947368421053,0.0,say clip
+Squanto,Somoset,0.0,1.3157894736842104,40.78947368421053,0.0,say clip
+Squanto,William,0.0,1.3157894736842104,40.78947368421053,0.0,say clip
+Somoset,William,0.0,1.3157894736842104,40.78947368421053,0.0,say clip
+William,Somoset,2.631578947368421,1.9736842105263157,53.289473684210535,1.3333333333333333,wear make be
+William,Somoset,2.631578947368421,1.9736842105263157,53.289473684210535,1.3333333333333333,wear make be
+Squanto,William,0.0,0.0,44.44444444444444,INF,be say
+Myles,Massasoit,1.25,0.0,52.083333333333336,INF,have come meet stand say be
+Myles,Massasoit,1.25,0.0,52.083333333333336,INF,have come meet stand say be
+Squanto,Somoset,3.4090909090909087,3.4090909090909087,29.545454545454547,1.0,listen live say
+Somoset,Squanto,1.4705882352941175,0.7352941176470588,33.088235294117645,2.0,be leave return say
+Somoset,William,2.083333333333333,0.6944444444444444,58.333333333333336,3.0,give turn leave
+Squanto,William,0.6944444444444444,4.166666666666666,50.69444444444444,0.16666666666666666,stop talk stare
+Squanto,William,1.25,0.0,58.75,INF,blink tear roll
+Tommy,William,1.5625,0.0,57.8125,INF,nudge say sound give win
+William,Tommy,0.78125,0.0,36.71875,INF,smile say like think
+Squanto,Tommy,1.9230769230769231,0.0,44.230769230769226,INF,follow call
+Tommy,Plymouth Colony,0.0,0.0,76.92307692307693,INF,serve
+Tommy,Liberty,0.0,0.0,50.0,INF,climb
+Liberty,Paul Revere,2.272727272727273,1.1363636363636365,64.77272727272727,2.0,say dream be race carry
+Tommy,Liberty,0.4166666666666667,2.083333333333333,47.5,0.2,do waste slide grab rush change
+Elizabeth,Massasoit,1.3888888888888888,0.0,76.38888888888889,INF,be
+Tommy,William,0.0,0.0,30.76923076923077,INF,repeat remember
+Tommy,William,0.0,0.0,30.76923076923077,INF,repeat remember
+Rush Revere,Liberty,0.0,0.78125,55.46875,0.0,rush come tease
+Rush Revere,Liberty,0.0,0.78125,55.46875,0.0,rush come tease
+Tommy,William,2.403846153846154,0.0,47.59615384615385,INF,stammer try figure get
+Massasoit,Plymouth Colony,0.0,0.0,78.57142857142857,INF,visit
+Squanto,William,0.4166666666666667,0.0,49.583333333333336,INF,finish lead slip ask give
+Liberty,William,2.7777777777777777,2.7777777777777777,66.66666666666666,1.0,ignore ponder send seal
+Liberty,William,6.8181818181818175,3.977272727272727,57.38636363636363,1.7142857142857142,look be embarrass know say do say
+Liberty,William,0.0,0.8333333333333334,45.83333333333333,0.0,hold walk
+Elizabeth,Liberty,0.0,3.8461538461538463,57.692307692307686,0.0,be do have disappear
+Elizabeth,Principal Sherman,2.272727272727273,0.0,52.27272727272727,INF,turn pull
+William,Mr. Revere,0.0,0.0,66.66666666666666,INF,take visit
+Elizabeth,Liberty,1.893939393939394,1.893939393939394,62.878787878787875,1.0,take look be point have gasp have vanish
+Principal Sherman,Elizabeth,0.0,0.0,61.53846153846154,INF,put start leave
+Principal Sherman,Elizabeth,0.0,0.0,61.53846153846154,INF,put start leave
+Tommy,Mr. Revere,0.0,0.0,50.0,INF,continue write interrupt
+Tommy,Liberty,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,climb waste
+Rush Revere,Liberty,0.0,0.0,46.15384615384615,INF,rush say
+Plymouth Plantation,Liberty,0.0,0.0,58.620689655172406,INF,say run jump swirl
+Tommy,Liberty,2.5,7.5,60.0,0.3333333333333333,be jump
+Liberty,Tommy,0.0,0.0,50.0,INF,clear say
+William,Myles,0.0,0.0,57.89473684210527,INF,look be find
+William,Elder Brewster,0.0,0.0,57.89473684210527,INF,look be find
+Myles,Elder Brewster,0.0,0.0,57.89473684210527,INF,look be find
+Mr. Revere,Tommy,0.0,3.75,36.25,0.0,say
+William,Tommy,0.9615384615384616,0.9615384615384616,28.846153846153843,1.0,hope come bring
+William,Massasoit,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,come be
+Squanto,Tommy,4.166666666666666,3.125,51.041666666666664,1.3333333333333333,remember talk die
+Massasoit,William,0.0,1.875,43.125,0.0,say assume go
+Massasoit,Mayflower,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,work
+William,Massasoit,0.9615384615384616,0.0,60.57692307692307,INF,present
+Massasoit,William,0.78125,3.125,58.59375,0.25,present
+Squanto,Massasoit,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,turn say do speak translate
+Squanto,Massasoit,1.0416666666666665,0.0,48.95833333333333,INF,approach turn acknowledge
+Squanto,William,1.0416666666666665,0.0,48.95833333333333,INF,approach turn acknowledge
+Massasoit,William,1.0416666666666665,0.0,48.95833333333333,INF,approach turn acknowledge
+Massasoit,William,0.0,0.0,47.05882352941176,INF,turn see rush greet
+Massasoit,William,0.0,0.0,47.05882352941176,INF,turn see rush greet
+Squanto,William,0.0,0.0,41.66666666666667,INF,see have find say
+William,Massasoit,0.0,0.0,60.0,INF,take lead
+William,Squanto,2.2058823529411766,0.0,44.85294117647059,INF,translate introduce
+Squanto,William,2.2058823529411766,0.0,44.85294117647059,INF,translate introduce
+Massasoit,William,6.25,0.0,62.5,INF,reach shake
+Massasoit,Squanto,0.0,0.0,47.368421052631575,INF,speak say ask have bring trade
+Squanto,Massasoit,0.0,5.357142857142857,51.78571428571429,0.0,translate place
+Squanto,Massasoit,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,please tell be
+Squanto,Massasoit,0.0,2.272727272727273,25.0,0.0,excuse
+Rush Revere,William,0.8928571428571428,0.0,49.107142857142854,INF,like show say
+Squanto,Massasoit,0.0,0.0,50.0,INF,translate nod
+William,Squanto,1.1363636363636365,0.0,57.95454545454546,INF,walk step say have
+Squanto,William,4.861111111111112,0.6944444444444444,38.88888888888889,7.0,have be say
+William,Squanto,1.0416666666666665,2.083333333333333,30.208333333333332,0.5,be say
+Squanto,William,1.0416666666666665,0.0,40.625,INF,see consider be
+William,Mr. Bradford,5.208333333333334,1.0416666666666665,52.083333333333336,5.0,turn say thank invite
+Plymouth Colony,William,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,include
+William,Tommy,7.5,3.75,38.75,2.0,reply be
+Common House,Tommy,3.0172413793103448,1.7241379310344827,53.879310344827594,1.75,be see know find get
+William,Squanto,2.083333333333333,6.25,41.66666666666667,0.3333333333333333,be say
+Squanto,Myles,0.0,0.0,60.86956521739131,INF,say slip walk
+Tommy,Myles,2.5,0.0,17.5,INF,say
+Plymouth Rock,William,1.0416666666666665,0.0,48.95833333333333,INF,be stand say
+Tommy,Liberty,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,walk arrive tell
+Tommy,William,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,walk arrive tell
+Liberty,William,1.7241379310344827,0.8620689655172413,45.689655172413794,2.0,walk arrive tell
+William,Mayflower,0.0,2.840909090909091,60.79545454545454,0.0,see influence create
+Tommy,Liberty,1.056338028169014,1.4084507042253522,67.95774647887323,0.75,be rule sit stampede fall smile listen
+William,Myles,3.125,1.25,30.625000000000004,2.5,be brave
+William,Brewster,3.125,1.25,30.625000000000004,2.5,be brave
+William,Squanto,3.125,1.25,30.625000000000004,2.5,be brave
+Myles,Brewster,3.125,1.25,30.625000000000004,2.5,be brave
+Myles,Squanto,3.125,1.25,30.625000000000004,2.5,be brave
+Brewster,Squanto,3.125,1.25,30.625000000000004,2.5,be brave
+Rush Revere,Liberty,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,go want
+Rush Revere,Liberty,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,go want
+Vince Flynn,Simon & Schuster,3.6764705882352944,0.7352941176470588,51.470588235294116,5.0,hear put help bring
+Vince Flynn,Simon & Schuster,0.0,0.0,27.77777777777778,INF,thank
+Rush Revere,Tommy,1.6666666666666667,0.0,38.333333333333336,INF,do
+Plymouth Plantation,Rush Revere,0.0,0.0,61.53846153846154,INF,be leave
+Miriam,Ira D. Wallach,1.25,0.0,45.416666666666664,INF,
+Miriam,New York Public Library,1.25,0.0,45.416666666666664,INF,
+Miriam,Astor,1.25,0.0,45.416666666666664,INF,
+Ira D. Wallach,New York Public Library,1.25,0.0,45.416666666666664,INF,
+Ira D. Wallach,Astor,1.25,0.0,45.416666666666664,INF,
+New York Public Library,Astor,1.25,0.0,45.416666666666664,INF,
+Miriam,Ira D. Wallach,1.25,0.0,45.416666666666664,INF,
+Miriam,New York Public Library,1.25,0.0,45.416666666666664,INF,
+Miriam,Astor,1.25,0.0,45.416666666666664,INF,
+Ira D. Wallach,New York Public Library,1.25,0.0,45.416666666666664,INF,
+Ira D. Wallach,Astor,1.25,0.0,45.416666666666664,INF,
+New York Public Library,Astor,1.25,0.0,45.416666666666664,INF,
+New York Public Library,Astor,2.2058823529411766,0.0,50.73529411764706,INF,
+Mayflower,Liberty,0.33783783783783783,1.3513513513513513,68.58108108108108,0.25,note be

@@ -1,0 +1,1323 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Cheston,Santa Fe,2.403846153846154,0.0,62.980769230769226,INF,have pick
+Cheston,Ron Polland,3.4090909090909087,0.5681818181818182,46.02272727272727,6.0,hope ask
+Cheston,Ron Polland,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,know be have happen
+Ron Polland,Polland,5.0,2.5,61.38888888888889,2.0,have be have fly claim need be finish have promise start
+Ron Polland,Polland,5.0,2.5,61.38888888888889,2.0,have be have fly claim need be finish have promise start
+Ron Polland,Polland,5.0,2.5,61.38888888888889,2.0,have be have fly claim need be finish have promise start
+Ross Biltmore,Cheston,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Ross Biltmore,Cheston,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Ross Biltmore,Cheston,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Ross Biltmore,Cheston,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Cheston,Ross Biltmore,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Cheston,Ross Biltmore,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Ross Biltmore,Cheston,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Cheston,Ross Biltmore,1.9230769230769231,0.9615384615384616,52.88461538461539,2.0,be stick write want be go get write
+Cheston,Ross Biltmore,3.0303030303030303,4.166666666666666,47.34848484848485,0.7272727272727273,have know room do mean be
+Ross Biltmore,Cheston,3.0303030303030303,4.166666666666666,47.34848484848485,0.7272727272727273,have know room do mean be
+Ross Biltmore,Cheston,0.5102040816326531,0.7653061224489796,66.07142857142857,0.6666666666666666,leave travel study be work
+Ross Biltmore,Cheston,1.3888888888888888,0.0,57.870370370370374,INF,write begin take
+Ross Biltmore,Cheston,1.3888888888888888,0.0,57.870370370370374,INF,write begin take
+Ross Biltmore,Cheston,1.3888888888888888,0.0,57.870370370370374,INF,write begin take
+Ross Biltmore,Cheston,1.3888888888888888,0.0,57.870370370370374,INF,write begin take
+Ross Biltmore,Cheston,1.293103448275862,2.1551724137931036,62.06896551724138,0.6,withdraw remain pay
+Ross Biltmore,Cheston,1.293103448275862,2.1551724137931036,62.06896551724138,0.6,withdraw remain pay
+Ross Biltmore,Cheston,1.293103448275862,2.1551724137931036,62.06896551724138,0.6,withdraw remain pay
+Cheston,Ross Biltmore,6.547619047619048,0.0,50.595238095238095,INF,know be
+Cheston,Ross Biltmore,1.293103448275862,8.189655172413794,49.137931034482754,0.15789473684210525,know mind ask be offer
+Cheston,Ross Biltmore,1.293103448275862,8.189655172413794,49.137931034482754,0.15789473684210525,know mind ask be offer
+Cheston,Ross Biltmore,0.3787878787878788,1.893939393939394,58.333333333333336,0.2,arrive put get
+Cheston,Ross Biltmore,0.3787878787878788,1.893939393939394,58.333333333333336,0.2,arrive put get
+Ross Biltmore,Cheston,2.1739130434782608,0.2717391304347826,64.94565217391305,8.0,have explain call be head have finish be leave rock
+Ross Biltmore,Cheston,2.1739130434782608,0.2717391304347826,64.94565217391305,8.0,have explain call be head have finish be leave rock
+Ross Biltmore,Cheston,2.1739130434782608,0.2717391304347826,64.94565217391305,8.0,have explain call be head have finish be leave rock
+Cheston,Ross Biltmore,2.314814814814815,0.0,75.46296296296296,INF,think be watch be go
+Oliver,Evangeline,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Oliver,Evangeline,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Oliver,Harley,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Oliver,Evangeline,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Evangeline,Harley,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Evangeline,Harley,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Harley,Evangeline,0.8333333333333334,0.0,65.83333333333333,INF,have mean clock know calm center sit
+Oliver,Evangeline,12.5,5.208333333333334,57.291666666666664,2.4,have be need
+Evangeline,Diveen,0.0,0.0,30.0,INF,be
+Diveen,Evangeline,1.5625,7.8125,40.625,0.2,be
+Daniel,Evangeline,7.6923076923076925,0.9615384615384616,60.57692307692307,8.0,have be
+Evangeline,Dorisanne,2.8846153846153846,0.0,50.96153846153846,INF,have watch grow
+Evangeline,Daniel,1.25,2.5,41.25,0.5,be remember have see
+Evangeline,Daniel,1.25,2.5,41.25,0.5,be remember have see
+Jack,Matthew,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,seem tell be take have
+Jack,Matthew,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,seem tell be take have
+Jack,Matthew,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,seem tell be take have
+Jack,Matthew,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,seem tell be take have
+Matthew,Santa Fe,2.5,0.625,51.87500000000001,4.0,want call tell drive
+Matthew,Santa Fe,3.8461538461538463,0.0,42.30769230769231,INF,drive correct
+Matthew,Santa Fe,3.8461538461538463,0.0,42.30769230769231,INF,drive correct
+Megan,Cheston,0.0,0.0,60.0,INF,wait continue end get
+Evangeline,Daniel,1.25,0.625,58.12500000000001,2.0,respond have walk
+Aaron,Silver Cross,1.8292682926829267,0.9146341463414633,67.98780487804879,2.0,be have do do come love
+Ewing,Silver Cross,0.0,0.0,69.56521739130434,INF,open border
+Ewing,Santa Fe,6.081081081081082,1.3513513513513513,52.02702702702703,4.5,do love want make love
+Ewing,Santa Fe,6.081081081081082,1.3513513513513513,52.02702702702703,4.5,do love want make love
+Ewing,Santa Fe,6.081081081081082,1.3513513513513513,52.02702702702703,4.5,do love want make love
+Ewing,Aaron,1.25,1.25,67.5,1.0,laugh be
+Ewing,Aaron,5.88235294117647,2.941176470588235,50.0,2.0,understand be
+Ewing,Aaron,3.0303030303030303,2.272727272727273,67.42424242424242,1.3333333333333333,have be explain do do feel have jump walk
+Ewing,Aaron,3.0303030303030303,2.272727272727273,67.42424242424242,1.3333333333333333,have be explain do do feel have jump walk
+Ewing,Aaron,0.8928571428571428,0.2976190476190476,60.71428571428571,3.0,be be ask take
+Ewing,Santa Fe,0.8928571428571428,0.2976190476190476,60.71428571428571,3.0,be be ask take
+Aaron,Santa Fe,0.8928571428571428,0.2976190476190476,60.71428571428571,3.0,be be ask take
+Aaron,Ewing,5.592105263157895,2.302631578947368,55.26315789473685,2.4285714285714284,think be have ask handle know have talk be love
+Aaron,Ewing,5.592105263157895,2.302631578947368,55.26315789473685,2.4285714285714284,think be have ask handle know have talk be love
+Aaron,Ewing,5.592105263157895,2.302631578947368,55.26315789473685,2.4285714285714284,think be have ask handle know have talk be love
+Aaron,Ewing,5.592105263157895,2.302631578947368,55.26315789473685,2.4285714285714284,think be have ask handle know have talk be love
+Aaron,Molly,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,saddle be ride
+Aaron,Lucy,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,saddle be ride
+Molly,Lucy,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,saddle be ride
+Molly,Aaron,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,saddle be ride
+Lucy,Aaron,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,saddle be ride
+Molly,Lucy,9.558823529411764,3.6764705882352944,45.588235294117645,2.6,be have buck kick
+Ewing,Aaron,0.0,0.0,70.0,INF,do tell be head
+Ewing,Aaron,0.0,0.0,70.0,INF,do tell be head
+Aaron,Molly,2.272727272727273,3.0303030303030303,52.27272727272727,0.75,try explain ride do have yank know be trust do
+Aaron,Lucy,0.5434782608695652,2.717391304347826,61.95652173913043,0.2,keep shift be begin act do
+Aaron,Clover,2.0491803278688523,0.6147540983606558,49.795081967213115,3.3333333333333335,mount decide choose lead
+Aaron,Clover,2.0491803278688523,0.6147540983606558,49.795081967213115,3.3333333333333335,mount decide choose lead
+Molly,Aaron,1.1363636363636365,0.2840909090909091,48.57954545454545,4.0,have stop have turn face offer
+Aaron,Molly,1.1363636363636365,0.2840909090909091,48.57954545454545,4.0,have stop have turn face offer
+Lucy,Aaron,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Lucy,Aaron,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Lucy,Aaron,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Aaron,Lucy,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Aaron,Lucy,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Lucy,Aaron,1.4344262295081966,0.819672131147541,63.31967213114754,1.75,have walk be try get have stop choose let do wish turn try make
+Aaron,Clover,1.0714285714285714,3.571428571428571,52.5,0.3,pull begin back plow cause buck drop
+Aaron,Lucy,1.0714285714285714,3.571428571428571,52.5,0.3,pull begin back plow cause buck drop
+Aaron,Lucy,1.0714285714285714,3.571428571428571,52.5,0.3,pull begin back plow cause buck drop
+Clover,Lucy,1.0714285714285714,3.571428571428571,52.5,0.3,pull begin back plow cause buck drop
+Clover,Lucy,1.0714285714285714,3.571428571428571,52.5,0.3,pull begin back plow cause buck drop
+Aaron,Lucy,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,call grab jump take make be hurt
+Aaron,Clover,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,call grab jump take make be hurt
+Lucy,Clover,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,call grab jump take make be hurt
+Aaron,Molly,2.1739130434782608,5.434782608695652,57.608695652173914,0.4,hold assess be hurt see have pull yank appear remain spook
+Evangeline,Daniel,1.1904761904761905,0.0,55.952380952380956,INF,be have close
+Daniel,Evangeline,1.1904761904761905,0.0,55.952380952380956,INF,be have close
+Evangeline,Megan,0.8333333333333334,0.0,52.5,INF,yank pull watch
+Evangeline,Megan,0.8333333333333334,0.0,52.5,INF,yank pull watch
+Daniel,Megan,0.0,0.0,58.333333333333336,INF,turn notice struggle
+Daniel,Megan,0.0,0.0,58.333333333333336,INF,turn notice struggle
+Megan,Daniel,1.1363636363636365,0.0,71.5909090909091,INF,smile look
+Daniel,Megan,1.1363636363636365,0.0,71.5909090909091,INF,smile look
+Mr. Cheston,Daniel,3.289473684210526,1.3157894736842104,37.5,2.5,be watch
+Daniel,Evangeline,2.941176470588235,0.0,61.76470588235294,INF,sit face give
+Evangeline,Daniel,2.941176470588235,0.0,61.76470588235294,INF,sit face give
+Daniel,Megan,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,be be suppose be finish be plan pipe
+Daniel,Megan,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,be be suppose be finish be plan pipe
+Daniel,Megan,3.125,0.8928571428571428,63.83928571428571,3.5,glance understand have be ask do
+Megan,Daniel,3.125,0.8928571428571428,63.83928571428571,3.5,glance understand have be ask do
+Megan,Evangeline,0.0,0.0,42.857142857142854,INF,seem be study
+Evangeline,Daniel,3.4090909090909087,0.0,60.22727272727273,INF,look
+Evangeline,Megan,3.4090909090909087,0.0,60.22727272727273,INF,look
+Daniel,Megan,3.4090909090909087,0.0,60.22727272727273,INF,look
+Daniel,Megan,3.6764705882352944,0.0,61.029411764705884,INF,have take join wait
+Daniel,Megan,3.6764705882352944,0.0,61.029411764705884,INF,have take join wait
+Dorisanne,Megan,6.25,0.8928571428571428,42.857142857142854,7.0,have be
+Megan,Jackson,0.9259259259259258,0.0,73.14814814814815,INF,have stay serve be work
+Dorisanne,Robbie,4.525925925925925,4.270370370370371,39.351851851851855,1.059843885516045,pause think have hear gamble
+Jackson,Daniel,0.0,4.545454545454546,40.909090909090914,0.0,try warn comment
+Megan,Daniel,2.272727272727273,2.272727272727273,31.818181818181817,1.0,want see reply
+Daniel,Megan,3.125,2.5,49.375,1.25,study be ask walk wait
+Evangeline,Jackson,3.4722222222222223,4.861111111111112,36.11111111111111,0.7142857142857143,watch choose respond
+Jackson,Evangeline,3.4722222222222223,4.861111111111112,36.11111111111111,0.7142857142857143,watch choose respond
+Jackson,Evangeline,3.4722222222222223,4.861111111111112,36.11111111111111,0.7142857142857143,watch choose respond
+Megan,Evangeline,0.0,0.0,40.0,INF,meet say
+Megan,Daniel,0.0,0.0,33.33333333333333,INF,come
+Diveen,Jackson,1.7857142857142856,0.0,26.785714285714285,INF,blurt correct
+Diveen,Evangeline,1.7857142857142856,0.0,26.785714285714285,INF,blurt correct
+Diveen,Evangeline,1.7857142857142856,0.0,26.785714285714285,INF,blurt correct
+Jackson,Evangeline,1.7857142857142856,0.0,26.785714285714285,INF,blurt correct
+Jackson,Evangeline,1.7857142857142856,0.0,26.785714285714285,INF,blurt correct
+Mr. Divine,Evangeline,1.7241379310344827,0.0,43.103448275862064,INF,be see be have announce
+Tina,Evangeline,1.9230769230769231,0.4807692307692308,51.442307692307686,4.0,be be continue pull
+Tina,Evangeline,1.9230769230769231,0.4807692307692308,51.442307692307686,4.0,be be continue pull
+Evangeline,Mr. Divine,5.263157894736842,1.3157894736842104,56.57894736842105,4.0,pull check have be amputate
+Megan,Santa Fe,3.75,2.5,43.75,1.5,be
+Evangeline,Tina,2.2058823529411766,1.4705882352941175,69.85294117647058,1.5,be accent ask be go
+Evangeline,Harley,0.0,2.5,44.166666666666664,0.0,slip take
+Evangeline,Harley,0.0,2.5,44.166666666666664,0.0,slip take
+Evangeline,Daniel,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Evangeline,Harley,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Daniel,Evangeline,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Daniel,Evangeline,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Daniel,Harley,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Evangeline,Harley,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Evangeline,Harley,5.952380952380952,1.1904761904761905,40.476190476190474,5.0,be have take give retrieve
+Evangeline,Harley,2.717391304347826,0.0,53.80434782608695,INF,pray read chant ride remain
+Harley,Evangeline,2.717391304347826,0.0,53.80434782608695,INF,pray read chant ride remain
+Evangeline,Daniel,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,slide hope be question
+Evangeline,Daniel,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,slide hope be question
+Evangeline,Daniel,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,slide hope be question
+Daniel,Evangeline,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,slide hope be question
+Dorisanne,Evangeline,4.761904761904762,0.0,52.38095238095239,INF,have tell be take
+Dorisanne,Evangeline,4.761904761904762,0.0,52.38095238095239,INF,have tell be take
+Evangeline,Megan,8.75,0.0,41.25,INF,have find be do
+Evangeline,Dorisanne,6.944444444444445,4.166666666666666,51.85185185185185,1.6666666666666667,be punch taunt have get be
+Dorisanne,Evangeline,6.944444444444445,4.166666666666666,51.85185185185185,1.6666666666666667,be punch taunt have get be
+Dorisanne,Evangeline,6.944444444444445,4.166666666666666,51.85185185185185,1.6666666666666667,be punch taunt have get be
+Stanley,Megan,2.976190476190476,3.571428571428571,64.88095238095238,0.8333333333333334,have seem threaten have meet take
+Stanley,Megan,2.976190476190476,3.571428571428571,64.88095238095238,0.8333333333333334,have seem threaten have meet take
+Megan,Stanley,2.976190476190476,3.571428571428571,64.88095238095238,0.8333333333333334,have seem threaten have meet take
+Megan,Stanley,2.976190476190476,3.571428571428571,64.88095238095238,0.8333333333333334,have seem threaten have meet take
+Megan,Stanley,1.0869565217391304,1.6304347826086956,49.45652173913043,0.6666666666666666,see follow reply smile relax
+Stanley,Megan,1.0869565217391304,1.6304347826086956,49.45652173913043,0.6666666666666666,see follow reply smile relax
+Stanley,Megan,5.681818181818182,7.386363636363637,46.02272727272727,0.7692307692307693,seem question wear
+Stanley,Megan,5.681818181818182,7.386363636363637,46.02272727272727,0.7692307692307693,seem question wear
+Mr. Divine,Megan,1.5625,0.5208333333333333,56.25,3.0,like visit go add
+Mr. Divine,Evangeline,1.5625,0.5208333333333333,56.25,3.0,like visit go add
+Megan,Evangeline,1.5625,0.5208333333333333,56.25,3.0,like visit go add
+Evangeline,Daniel,1.25,0.0,53.75,INF,recall mention get be bring
+Evangeline,Megan,1.25,0.0,53.75,INF,recall mention get be bring
+Daniel,Megan,1.25,0.0,53.75,INF,recall mention get be bring
+Thomas,Megan,1.4344262295081966,2.0491803278688523,52.254098360655746,0.7,say speak have try keep be stop visit happen be
+Thomas,Megan,1.4344262295081966,2.0491803278688523,52.254098360655746,0.7,say speak have try keep be stop visit happen be
+Thomas,Cheston,1.4344262295081966,2.0491803278688523,52.254098360655746,0.7,say speak have try keep be stop visit happen be
+Megan,Cheston,1.4344262295081966,2.0491803278688523,52.254098360655746,0.7,say speak have try keep be stop visit happen be
+Megan,Cheston,1.4344262295081966,2.0491803278688523,52.254098360655746,0.7,say speak have try keep be stop visit happen be
+Megan,Stanley,0.0,0.0,60.0,INF,look
+Evangeline,Megan,4.6875,7.291666666666667,50.520833333333336,0.6428571428571429,wish have eavesdrop have listen follow
+Evangeline,Megan,4.6875,7.291666666666667,50.520833333333336,0.6428571428571429,wish have eavesdrop have listen follow
+Evangeline,Megan,4.6875,7.291666666666667,50.520833333333336,0.6428571428571429,wish have eavesdrop have listen follow
+Tommy,Stanley,0.0,0.0,58.333333333333336,INF,soften push walk
+Megan,Tommy,0.0,0.78125,42.96875,0.0,do think interrupt
+Megan,Evangeline,3.571428571428571,6.25,40.17857142857143,0.5714285714285714,turn be try meet
+Megan,Evangeline,3.571428571428571,6.25,40.17857142857143,0.5714285714285714,turn be try meet
+Evangeline,Thomas,2.976190476190476,1.7857142857142856,52.38095238095239,1.6666666666666667,look seem be try direct say
+Thomas,Evangeline,2.976190476190476,1.7857142857142856,52.38095238095239,1.6666666666666667,look seem be try direct say
+Evangeline,Megan,0.0,0.0,36.36363636363637,INF,glance turn
+Evangeline,Megan,2.083333333333333,0.23148148148148145,60.64814814814815,9.0,be allow see love be be push go believe begin stop
+Evangeline,Megan,2.083333333333333,0.23148148148148145,60.64814814814815,9.0,be allow see love be be push go believe begin stop
+Evangeline,Megan,2.083333333333333,0.23148148148148145,60.64814814814815,9.0,be allow see love be be push go believe begin stop
+Megan,Evangeline,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,grab wait give
+Evangeline,Thomas,1.1363636363636365,2.272727272727273,46.590909090909086,0.5,hear bark be
+Evangeline,Megan,4.807692307692308,3.8461538461538463,49.03846153846153,1.25,be be relieve sail
+Megan,Evangeline,4.807692307692308,3.8461538461538463,49.03846153846153,1.25,be be relieve sail
+Lou Anne,Megan,0.0,2.083333333333333,47.91666666666667,0.0,call add
+Megan,Santa Fe,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Santa Fe,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Santa Fe,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Santa Fe,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Santa Fe,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Santa Fe,Cheston,0.75,0.5,48.75,1.5,clear answer come be suppose be be wait give
+Megan,Evangeline,3.125,0.625,46.25,5.0,have stick be walk be
+Megan,Evangeline,3.125,0.625,46.25,5.0,have stick be walk be
+Megan,Evangeline,3.125,0.625,46.25,5.0,have stick be walk be
+Megan,Evangeline,3.125,0.625,46.25,5.0,have stick be walk be
+Evangeline,Megan,0.0,0.0,33.33333333333333,INF,ask face
+Cheston,Polland,2.7777777777777777,0.0,52.77777777777778,INF,call
+Evangeline,Marcie,3.6290322580645165,1.2096774193548387,43.54838709677419,3.0,think explain be do continue
+Evangeline,Megan,3.6290322580645165,1.2096774193548387,43.54838709677419,3.0,think explain be do continue
+Marcie,Evangeline,3.6290322580645165,1.2096774193548387,43.54838709677419,3.0,think explain be do continue
+Marcie,Megan,3.6290322580645165,1.2096774193548387,43.54838709677419,3.0,think explain be do continue
+Evangeline,Megan,3.6290322580645165,1.2096774193548387,43.54838709677419,3.0,think explain be do continue
+Cheston,Evangeline,4.924242424242424,1.1363636363636365,54.54545454545454,4.333333333333333,do show be ask
+Evangeline,Megan,3.040540540540541,4.72972972972973,46.28378378378378,0.6428571428571429,be startle see recognize be complain take look
+Evangeline,Megan,3.040540540540541,4.72972972972973,46.28378378378378,0.6428571428571429,be startle see recognize be complain take look
+Evangeline,Megan,3.040540540540541,4.72972972972973,46.28378378378378,0.6428571428571429,be startle see recognize be complain take look
+Evangeline,Megan,3.040540540540541,4.72972972972973,46.28378378378378,0.6428571428571429,be startle see recognize be complain take look
+Evangeline,Megan,4.787234042553192,0.7978723404255319,47.6063829787234,6.0,watch begin make get want pass
+Evangeline,Megan,4.787234042553192,0.7978723404255319,47.6063829787234,6.0,watch begin make get want pass
+Diveen,Evangeline,2.7777777777777777,0.0,19.444444444444446,INF,be explain
+Evangeline,Megan,0.4629629629629629,5.555555555555555,45.83333333333333,0.08333333333333333,respond enter close
+Evangeline,Megan,0.4629629629629629,5.555555555555555,45.83333333333333,0.08333333333333333,respond enter close
+Jackson,Evangeline,4.6875,7.8125,50.0,0.6,be murder
+Evangeline,Megan,3.8461538461538463,0.0,42.30769230769231,INF,step make
+Cheston,Megan,0.0,1.7857142857142856,19.642857142857142,0.0,come pray answer
+Cheston,Megan,0.0,1.7857142857142856,19.642857142857142,0.0,come pray answer
+Cheston,Megan,2.5,1.25,36.25,2.0,be add
+Megan,Evangeline,7.4074074074074066,6.944444444444445,44.907407407407405,1.0666666666666667,look have be note pay have say
+Megan,Evangeline,0.0,0.0,40.0,INF,clear
+Mr. Cheston,Silver Cross,1.3888888888888888,1.3888888888888888,50.0,1.0,open bellow be say kill throw
+Mr. Cheston,Silver Cross,1.3888888888888888,1.3888888888888888,50.0,1.0,open bellow be say kill throw
+Santa Fe,Evangeline,7.327586206896551,1.7241379310344827,53.01724137931034,4.25,begin have transfer have say
+Megan,Evangeline,3.571428571428571,2.380952380952381,51.19047619047619,1.5,stand be worry escalate control
+Megan,Evangeline,3.571428571428571,2.380952380952381,51.19047619047619,1.5,stand be worry escalate control
+Evangeline,Megan,4.166666666666666,1.6666666666666667,47.5,2.5,appear be think
+Evangeline,Santa Fe,2.864583333333333,0.0,42.96875,INF,say have have meet do pull have
+Evangeline,Megan,2.864583333333333,0.0,42.96875,INF,say have have meet do pull have
+Santa Fe,Megan,2.864583333333333,0.0,42.96875,INF,say have have meet do pull have
+Ewing,Silver Cross,4.166666666666666,0.9615384615384616,56.41025641025641,4.333333333333333,have return be surprise find gather
+Ewing,Silver Cross,4.166666666666666,0.9615384615384616,56.41025641025641,4.333333333333333,have return be surprise find gather
+Ewing,Silver Cross,4.166666666666666,0.9615384615384616,56.41025641025641,4.333333333333333,have return be surprise find gather
+Aaron,Ewing,0.0,12.5,37.5,0.0,face
+Evangeline,Megan,3.90625,1.5625,53.90625,2.5,have go learn have be take suffer
+Evangeline,Megan,3.90625,1.5625,53.90625,2.5,have go learn have be take suffer
+Evangeline,Megan,3.90625,1.5625,53.90625,2.5,have go learn have be take suffer
+Evangeline,Megan,3.90625,1.5625,53.90625,2.5,have go learn have be take suffer
+Mr. Divine,Evangeline,2.403846153846154,0.9615384615384616,46.63461538461539,2.5,start pronounce try ease
+Evangeline,Daniel,7.5,0.0,39.166666666666664,INF,hug feel shove glance
+Daniel,Evangeline,7.5,0.0,39.166666666666664,INF,hug feel shove glance
+Evangeline,Daniel,0.0,0.0,63.63636363636363,INF,hold remove
+Evangeline,Daniel,0.0,0.0,63.63636363636363,INF,hold remove
+Evangeline,Daniel,0.0,0.0,63.63636363636363,INF,hold remove
+Evangeline,Daniel,0.0,0.0,63.63636363636363,INF,hold remove
+Evangeline,Daniel,0.0,0.0,52.94117647058824,INF,have say go hang
+Evangeline,Daniel,3.4722222222222223,2.7777777777777777,49.30555555555556,1.25,be answer sit
+Daniel,Jackson,0.0,1.3392857142857142,52.23214285714286,0.0,do think be be suppose work note stop
+Daniel,Evangeline,7.291666666666667,1.0416666666666665,41.66666666666667,7.0,be have sleep
+Daniel,Evangeline,4.411764705882353,4.411764705882353,50.0,1.0,glance get add
+Megan,Cheston,3.4090909090909087,1.7045454545454544,72.1590909090909,2.0,say have stop do have get crank
+Cheston,Daniel,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,be crank be find respond
+Daniel,Jackson,2.8688524590163933,0.4098360655737705,57.377049180327866,7.0,leave show follow bring stay ring drop welcome
+Daniel,Jackson,2.8688524590163933,0.4098360655737705,57.377049180327866,7.0,leave show follow bring stay ring drop welcome
+Evangeline,Jackson,10.9375,4.6875,46.875,2.3333333333333335,have be be exhaust
+Jackson,Evangeline,3.977272727272727,1.1363636363636365,44.88636363636363,3.5,be obey stop give
+Megan,Cheston,5.0,1.875,48.125,2.6666666666666665,be tell have be monitor
+Megan,Cheston,5.0,1.875,48.125,2.6666666666666665,be tell have be monitor
+Evangeline,Oliver,7.03125,5.46875,46.875,1.2857142857142858,think roll ask keep buy wander
+Evangeline,Oliver,7.03125,5.46875,46.875,1.2857142857142858,think roll ask keep buy wander
+Oliver,Evangeline,7.03125,5.46875,46.875,1.2857142857142858,think roll ask keep buy wander
+Oliver,Evangeline,7.03125,5.46875,46.875,1.2857142857142858,think roll ask keep buy wander
+Daniel,Evangeline,1.5625,4.6875,37.5,0.3333333333333333,fight have remind
+Megan,Charles Cheston,2.864583333333333,1.3020833333333335,45.83333333333333,2.2,be make break have be deem
+Megan,Charles Cheston,2.864583333333333,1.3020833333333335,45.83333333333333,2.2,be make break have be deem
+Megan,Charles Cheston,2.864583333333333,1.3020833333333335,45.83333333333333,2.2,be make break have be deem
+Megan,Evangeline,2.631578947368421,4.605263157894736,55.92105263157895,0.5714285714285714,be make hand
+Evangeline,Megan,2.1875,1.875,50.9375,1.1666666666666667,exchange listen offer drive see return
+Evangeline,Megan,2.1875,1.875,50.9375,1.1666666666666667,exchange listen offer drive see return
+Evangeline,Megan,2.1875,1.875,50.9375,1.1666666666666667,exchange listen offer drive see return
+Megan,Evangeline,2.644230769230769,1.4423076923076923,51.682692307692314,1.8333333333333333,walk put consider notice slump be have begin
+Evangeline,Megan,2.644230769230769,1.4423076923076923,51.682692307692314,1.8333333333333333,walk put consider notice slump be have begin
+Megan,Jackson,0.3289473684210526,0.0,57.56578947368421,INF,head finish make place put inform be serve
+Michael,Sarah,0.0,0.0,50.0,INF,stay
+Michael,Sarah,2.083333333333333,0.0,56.25,INF,stay watch come go
+Evangeline,Dorisanne,1.3888888888888888,6.944444444444445,36.11111111111111,0.2,know feel
+Michael,Sarah,0.0,3.90625,52.34375,0.0,look be stay do come
+Evangeline,Dorisanne,8.984375,0.0,31.640625,INF,be think help deal make understand say
+Evangeline,Dorisanne,8.984375,0.0,31.640625,INF,be think help deal make understand say
+Dorisanne,Evangeline,8.984375,0.0,31.640625,INF,be think help deal make understand say
+Dorisanne,Evangeline,8.984375,0.0,31.640625,INF,be think help deal make understand say
+Steve,Evangeline,2.82258064516129,2.0161290322580645,56.451612903225815,1.4,be like appreciate care
+Evangeline,Steve,2.82258064516129,2.0161290322580645,56.451612903225815,1.4,be like appreciate care
+Evangeline,Steve,2.82258064516129,2.0161290322580645,56.451612903225815,1.4,be like appreciate care
+Evangeline,Steve,2.25,2.75,56.99999999999999,0.8181818181818182,know pastore be travel parish be seem
+Evangeline,Steve,2.25,2.75,56.99999999999999,0.8181818181818182,know pastore be travel parish be seem
+Evangeline,Steve,2.25,2.75,56.99999999999999,0.8181818181818182,know pastore be travel parish be seem
+Evangeline,Steve,2.25,2.75,56.99999999999999,0.8181818181818182,know pastore be travel parish be seem
+Evangeline,Steve,2.25,2.75,56.99999999999999,0.8181818181818182,know pastore be travel parish be seem
+Evangeline,Steve,3.0,0.5,40.5,6.0,introduce note take
+Steve,Evangeline,3.0,0.5,40.5,6.0,introduce note take
+Steve,Evangeline,3.0,0.5,40.5,6.0,introduce note take
+Steve,Evangeline,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Steve,Evangeline,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Steve,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Steve,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Evangeline,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Evangeline,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Evangeline,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Evangeline,Jackson,3.125,0.6944444444444444,54.513888888888886,4.5,smile mention ask be do
+Jackson,Evangeline,4.583333333333333,0.4166666666666667,55.00000000000001,11.0,explain be think want stop offer
+Jackson,Evangeline,4.583333333333333,0.4166666666666667,55.00000000000001,11.0,explain be think want stop offer
+Mama,Evangeline,13.636363636363635,0.0,22.727272727272727,INF,love say
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Jackson,Evangeline,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Jackson,8.333333333333332,6.25,32.63888888888889,1.3333333333333333,think say be complain
+Evangeline,Santa Fe,1.2195121951219512,0.3048780487804878,59.45121951219512,4.0,explain happen be retire know be base run
+Santa Fe,Evangeline,1.2195121951219512,0.3048780487804878,59.45121951219512,4.0,explain happen be retire know be base run
+Megan,Evangeline,0.0,0.0,36.84210526315789,INF,announce see pull
+Megan,Evangeline,0.0,0.0,36.84210526315789,INF,announce see pull
+Megan,Evangeline,1.25,0.0,58.75,INF,stand smile have bring
+Evangeline,Megan,0.0,0.625,54.37499999999999,0.0,have add take
+Ron Polland,Polland,0.9615384615384616,0.0,45.19230769230769,INF,get
+Megan,Evangeline,0.0,0.0,40.0,INF,shake
+Cheston,Evangeline,0.0,3.4090909090909087,32.95454545454545,0.0,be confess
+Jackson,Evangeline,5.88235294117647,1.4705882352941175,39.705882352941174,4.0,be see have say
+Jackson,Evangeline,5.88235294117647,1.4705882352941175,39.705882352941174,4.0,be see have say
+Megan,Cheston,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Megan,Jackson,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Cheston,Megan,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Cheston,Jackson,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Cheston,Megan,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Megan,Jackson,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Jackson,Megan,8.46774193548387,2.0161290322580645,41.12903225806452,4.2,do make appear be take answer wait add
+Terrance,Megan,4.411764705882353,0.0,36.76470588235294,INF,do note
+Terrance,Megan,4.411764705882353,0.0,36.76470588235294,INF,do note
+Terrance,Polland,1.0416666666666665,0.0,32.29166666666667,INF,land call tell be
+Terrance,Polland,1.0416666666666665,0.0,32.29166666666667,INF,land call tell be
+Terrance,Cheston,1.0416666666666665,0.0,32.29166666666667,INF,land call tell be
+Polland,Cheston,1.0416666666666665,0.0,32.29166666666667,INF,land call tell be
+Polland,Cheston,1.0416666666666665,0.0,32.29166666666667,INF,land call tell be
+Polland,Cheston,2.857142857142857,1.7857142857142856,52.5,1.6,make wait call see have hear see have get
+Polland,Cheston,2.857142857142857,1.7857142857142856,52.5,1.6,make wait call see have hear see have get
+Polland,Cheston,2.857142857142857,1.7857142857142856,52.5,1.6,make wait call see have hear see have get
+Polland,Megan,0.6578947368421052,0.0,46.71052631578947,INF,be leave respond
+Polland,Megan,0.6578947368421052,0.0,46.71052631578947,INF,be leave respond
+Evangeline,Jackson,0.0,0.0,37.5,INF,notice
+Megan,Jackson,0.0,0.0,28.57142857142857,INF,prod
+Polland,Santa Fe,1.9230769230769231,0.0,67.3076923076923,INF,buy
+Polland,Santa Fe,1.9230769230769231,0.0,67.3076923076923,INF,buy
+Evangeline,Megan,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,be surprise see have be snatch be hide
+Diveen,Evangeline,1.1363636363636365,0.0,26.136363636363637,INF,be inform
+Evangeline,Megan,5.0,2.5,45.83333333333333,2.0,be concern want be be stand
+Evangeline,Megan,5.0,2.5,45.83333333333333,2.0,be concern want be be stand
+Evangeline,Megan,5.0,2.5,45.83333333333333,2.0,be concern want be be stand
+Evangeline,Ricky,0.0,0.0,44.44444444444444,INF,open walk
+Megan,Twila,0.0,0.0,47.61904761904761,INF,do take go get
+Megan,Evangeline,0.0,0.0,33.33333333333333,INF,grab
+Evangeline,Ricky,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,be tell write
+Ricky,Evangeline,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,be tell write
+Evangeline,Ricky,0.6578947368421052,0.6578947368421052,40.78947368421053,1.0,call need say hand
+Evangeline,Megan,1.25,0.0,53.75,INF,watch pull
+Evangeline,Megan,1.25,0.0,53.75,INF,watch pull
+Megan,Evangeline,0.0,0.0,55.00000000000001,INF,ask stop pull
+Evangeline,Megan,8.823529411764707,0.7352941176470588,37.5,12.0,have be have have ask visit
+Evangeline,Megan,8.823529411764707,0.7352941176470588,37.5,12.0,have be have have ask visit
+Twila,Megan,2.7777777777777777,0.0,41.66666666666667,INF,respond reach
+Twila,Evangeline,6.944444444444445,1.3888888888888888,36.11111111111111,5.0,know love ride
+Megan,Twila,4.6875,1.5625,43.75,3.0,clear turn have forget be
+Megan,Evangeline,4.6875,1.5625,43.75,3.0,clear turn have forget be
+Megan,Twila,4.6875,1.5625,43.75,3.0,clear turn have forget be
+Twila,Evangeline,4.6875,1.5625,43.75,3.0,clear turn have forget be
+Evangeline,Twila,4.6875,1.5625,43.75,3.0,clear turn have forget be
+Twila,Megan,1.1363636363636365,3.4090909090909087,27.27272727272727,0.3333333333333333,respond make be
+Twila,Megan,1.1363636363636365,3.4090909090909087,27.27272727272727,0.3333333333333333,respond make be
+Megan,Evangeline,2.976190476190476,1.7857142857142856,38.095238095238095,1.6666666666666667,hesitate turn appear need finish
+Megan,Evangeline,2.976190476190476,1.7857142857142856,38.095238095238095,1.6666666666666667,hesitate turn appear need finish
+Megan,Evangeline,0.0,0.0,60.0,INF,smile retreat
+Evangeline,Megan,1.6666666666666667,0.0,45.0,INF,add glance
+Twila,Megan,5.0,0.0,41.66666666666667,INF,make whip note
+Twila,Megan,2.083333333333333,0.0,47.91666666666667,INF,be eye
+Silver Cross,Twila,0.0,0.0,52.94117647058824,INF,hear find say
+Twila,Evangeline,2.5,1.25,46.25,2.0,kill say seem notice raise take mean quit talk
+Twila,Evangeline,2.5,1.25,46.25,2.0,kill say seem notice raise take mean quit talk
+Twila,Evangeline,2.5,1.25,46.25,2.0,kill say seem notice raise take mean quit talk
+Evangeline,Megan,0.0,0.0,53.84615384615385,INF,head follow
+Evangeline,Megan,0.0,0.0,53.84615384615385,INF,head follow
+Evangeline,Dorisanne,4.3478260869565215,4.891304347826087,42.934782608695656,0.8888888888888888,remember mention give pay
+Dorisanne,Evangeline,4.3478260869565215,4.891304347826087,42.934782608695656,0.8888888888888888,remember mention give pay
+Dorisanne,Evangeline,4.3478260869565215,4.891304347826087,42.934782608695656,0.8888888888888888,remember mention give pay
+Evangeline,Twila,0.0,0.0,36.36363636363637,INF,respond arrive
+Evangeline,Megan,0.0,0.0,33.33333333333333,INF,follow
+Megan,Evangeline,0.0,0.0,33.33333333333333,INF,follow
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Evangeline,Megan,3.353658536585366,2.7439024390243905,40.243902439024396,1.2222222222222223,be do recognize see blush know do
+Polland,Evangeline,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be
+Polland,Cheston,0.0,0.0,20.0,INF,be stop
+Polland,Megan,0.0,0.0,20.0,INF,be stop
+Cheston,Megan,0.0,0.0,20.0,INF,be stop
+Polland,Cheston,0.0,0.0,36.36363636363637,INF,be amend
+Polland,Megan,0.0,0.0,36.36363636363637,INF,be amend
+Cheston,Megan,0.0,0.0,36.36363636363637,INF,be amend
+Megan,Evangeline,4.391891891891892,0.6756756756756757,54.391891891891895,6.5,glance have occupy look be scan
+Megan,Evangeline,4.391891891891892,0.6756756756756757,54.391891891891895,6.5,glance have occupy look be scan
+Megan,Evangeline,4.391891891891892,0.6756756756756757,54.391891891891895,6.5,glance have occupy look be scan
+Megan,Evangeline,4.391891891891892,0.6756756756756757,54.391891891891895,6.5,glance have occupy look be scan
+Ron Polland,Evangeline,2.1739130434782608,0.0,45.65217391304348,INF,appear understand be consider reach pull be
+Ron Polland,Polland,2.1739130434782608,0.0,45.65217391304348,INF,appear understand be consider reach pull be
+Ron Polland,Polland,2.1739130434782608,0.0,45.65217391304348,INF,appear understand be consider reach pull be
+Evangeline,Polland,2.1739130434782608,0.0,45.65217391304348,INF,appear understand be consider reach pull be
+Evangeline,Polland,2.1739130434782608,0.0,45.65217391304348,INF,appear understand be consider reach pull be
+Evangeline,Megan,7.638888888888889,2.7777777777777777,39.58333333333333,2.75,watch lift have pay
+Evangeline,Megan,7.638888888888889,2.7777777777777777,39.58333333333333,2.75,watch lift have pay
+Evangeline,Megan,7.638888888888889,2.7777777777777777,39.58333333333333,2.75,watch lift have pay
+Megan,Twila,3.3653846153846154,0.0,42.78846153846153,INF,have thank bring stand grin
+Ron Polland,Megan,0.0,0.0,40.0,INF,be watch
+Polland,Twila,3.125,0.0,52.43055555555556,INF,have touch have place do seem notice stand wait take give
+Twila,Polland,3.125,0.0,52.43055555555556,INF,have touch have place do seem notice stand wait take give
+Evangeline,Polland,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Evangeline,Polland,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Evangeline,Polland,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Polland,Evangeline,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Polland,Evangeline,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Polland,Evangeline,3.040540540540541,1.3513513513513513,49.66216216216216,2.25,make have make pull remove
+Polland,Evangeline,2.6785714285714284,1.7857142857142856,59.82142857142857,1.5,jerk frighten
+Polland,Evangeline,0.0,0.0,50.0,INF,turn face
+Ron Polland,Polland,0.0,0.0,37.5,INF,remind
+Ron Polland,Evangeline,0.0,0.0,37.5,INF,remind
+Polland,Evangeline,0.0,0.0,37.5,INF,remind
+Meg,Evangeline,0.0,1.25,28.749999999999996,0.0,know answer
+Cheston,Megan,5.0,0.0,48.333333333333336,INF,be help find pipe
+Evangeline,Megan,0.0,0.0,22.22222222222222,INF,add
+Ron Polland,Megan,0.0,0.0,33.33333333333333,INF,move
+Meg,Santa Fe,0.9615384615384616,0.0,52.88461538461539,INF,see be do head
+Polland,Megan,5.555555555555555,0.0,50.0,INF,smile pat
+Ron Polland,Polland,0.8928571428571428,0.8928571428571428,62.5,1.0,drink put
+Ron Polland,Polland,0.8928571428571428,0.8928571428571428,62.5,1.0,drink put
+Polland,Evangeline,0.0,0.0,62.5,INF,stand throw turn face
+Evangeline,Megan,3.125,6.25,46.875,0.5,look meet
+Ricky,Santa Fe,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Ricky,Daniel,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Ricky,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Ricky,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Ricky,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Santa Fe,Daniel,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Santa Fe,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Santa Fe,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Santa Fe,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Daniel,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Daniel,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Daniel,Evangeline,2.82258064516129,0.0,61.693548387096776,INF,be work plan go know have
+Evangeline,Twila,2.8846153846153846,0.0,50.96153846153846,INF,finish take
+Evangeline,Twila,2.8846153846153846,0.0,50.96153846153846,INF,finish take
+Twila,Evangeline,2.8846153846153846,0.0,50.96153846153846,INF,finish take
+Harley,Twila,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,be have buy be
+Twila,Megan,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have give ride join keep be ride happen be wear show
+Twila,Megan,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have give ride join keep be ride happen be wear show
+Twila,Megan,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have give ride join keep be ride happen be wear show
+Twila,Megan,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have give ride join keep be ride happen be wear show
+Twila,Megan,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have give ride join keep be ride happen be wear show
+Megan,Ron Polland,1.7045454545454544,0.0,66.47727272727273,INF,drive wonder appear have
+Ron Polland,Megan,1.7045454545454544,0.0,66.47727272727273,INF,drive wonder appear have
+Megan,Polland,5.405405405405405,2.364864864864865,54.391891891891895,2.2857142857142856,seem be have say seem be
+Megan,Polland,5.405405405405405,2.364864864864865,54.391891891891895,2.2857142857142856,seem be have say seem be
+Polland,Megan,5.405405405405405,2.364864864864865,54.391891891891895,2.2857142857142856,seem be have say seem be
+Megan,Polland,5.405405405405405,2.364864864864865,54.391891891891895,2.2857142857142856,seem be have say seem be
+Megan,Polland,2.734375,0.0,37.890625,INF,have try get go have mention say leave
+Polland,Megan,2.734375,0.0,37.890625,INF,have try get go have mention say leave
+Polland,Megan,2.734375,0.0,37.890625,INF,have try get go have mention say leave
+Polland,Megan,2.734375,0.0,37.890625,INF,have try get go have mention say leave
+Ron Polland,Megan,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Ron Polland,Polland,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Ron Polland,Megan,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Ron Polland,Megan,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Megan,Polland,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Polland,Megan,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Polland,Megan,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,make join make refuse have jump
+Polland,Evangeline,3.125,9.375,50.0,0.3333333333333333,have give
+Evangeline,Ron Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Ron Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Ron Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Ron Polland,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Ron Polland,Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Ron Polland,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Megan,Polland,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Polland,Megan,1.524390243902439,0.0,47.256097560975604,INF,speed enjoy think treat seem be control
+Evangeline,Megan,1.1363636363636365,5.681818181818182,38.63636363636363,0.2,know be
+Evangeline,Megan,1.1363636363636365,5.681818181818182,38.63636363636363,0.2,know be
+Evangeline,Ron Polland,1.3157894736842104,1.9736842105263157,59.86842105263158,0.6666666666666666,cause cower have make
+Evangeline,Madeline,2.9166666666666665,0.4166666666666667,63.33333333333333,7.0,stand smile serve
+Evangeline,Santa Fe,2.9166666666666665,0.4166666666666667,63.33333333333333,7.0,stand smile serve
+Evangeline,Madeline,2.9166666666666665,0.4166666666666667,63.33333333333333,7.0,stand smile serve
+Evangeline,Santa Fe,2.9166666666666665,0.4166666666666667,63.33333333333333,7.0,stand smile serve
+Madeline,Santa Fe,2.9166666666666665,0.4166666666666667,63.33333333333333,7.0,stand smile serve
+Twila,Evangeline,0.0,0.0,20.0,INF,be say
+Ross Biltmore,Madeline,2.272727272727273,3.4090909090909087,30.681818181818183,0.6666666666666666,be reply
+Ross Biltmore,Madeline,0.0,0.0,25.0,INF,say
+Mr. Biltmore,Cheston,3.75,0.0,36.25,INF,be name
+Evangeline,Daniel,2.6785714285714284,0.0,40.17857142857143,INF,be return
+Cheston,Daniel,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,be shout
+Ron Polland,Evangeline,0.0,0.0,25.0,INF,announce
+Cheston,Evangeline,0.0,0.0,20.0,INF,add
+Twila,Evangeline,0.0,0.0,22.22222222222222,INF,confirm
+Polland,Megan,3.571428571428571,0.8928571428571428,52.67857142857143,4.0,come be have
+Polland,Megan,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Polland,Megan,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Polland,Megan,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Polland,Megan,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Megan,Polland,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Polland,Megan,4.910714285714286,0.0,62.94642857142857,INF,come do be be look come find
+Polland,Megan,3.3333333333333335,0.0,56.666666666666664,INF,have send ask
+Polland,Santa Fe,3.3333333333333335,0.0,56.666666666666664,INF,have send ask
+Polland,Megan,3.3333333333333335,0.0,56.666666666666664,INF,have send ask
+Megan,Santa Fe,3.3333333333333335,0.0,56.666666666666664,INF,have send ask
+Santa Fe,Megan,3.3333333333333335,0.0,56.666666666666664,INF,have send ask
+Megan,Hinds,0.0,1.0416666666666665,40.625,0.0,tell be work
+Hinds,Megan,0.0,1.0416666666666665,40.625,0.0,tell be work
+Megan,Hinds,7.142857142857142,0.8928571428571428,41.964285714285715,8.0,do realize do care
+Megan,Hinds,4.069767441860465,3.77906976744186,40.98837209302326,1.0769230769230769,know do think be hear give piss refuse
+Ron Polland,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Ron Polland,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Ron Polland,Santa Fe,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Ron Polland,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Ron Polland,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Ron Polland,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Megan,Santa Fe,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Megan,Santa Fe,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Santa Fe,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Santa Fe,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Santa Fe,Megan,0.8333333333333334,1.1111111111111112,53.61111111111111,0.75,fly be arrest arrange find suspect rent stay await
+Megan,Evangeline,3.4375000000000004,0.625,53.43750000000001,5.5,have be write sign be
+Evangeline,Santa Fe,3.7946428571428568,2.6785714285714284,59.59821428571429,1.4166666666666667,have promise get continue tidy have be clear drive have realize have agree work
+Evangeline,Santa Fe,3.7946428571428568,2.6785714285714284,59.59821428571429,1.4166666666666667,have promise get continue tidy have be clear drive have realize have agree work
+Santa Fe,Evangeline,3.7946428571428568,2.6785714285714284,59.59821428571429,1.4166666666666667,have promise get continue tidy have be clear drive have realize have agree work
+Santa Fe,Evangeline,3.7946428571428568,2.6785714285714284,59.59821428571429,1.4166666666666667,have promise get continue tidy have be clear drive have realize have agree work
+Evangeline,Cheston,4.009433962264151,1.650943396226415,56.60377358490566,2.4285714285714284,see allow tease have improve get
+Evangeline,Santa Fe,4.009433962264151,1.650943396226415,56.60377358490566,2.4285714285714284,see allow tease have improve get
+Cheston,Santa Fe,4.009433962264151,1.650943396226415,56.60377358490566,2.4285714285714284,see allow tease have improve get
+Hinds,Evangeline,0.7142857142857143,0.35714285714285715,61.78571428571429,2.0,find be work accuse be bar have
+Daniel,Jackson,2.2058823529411766,0.0,56.61764705882353,INF,limit
+Daniel,Jackson,2.2058823529411766,0.0,56.61764705882353,INF,limit
+Jackson,Daniel,2.2058823529411766,0.0,56.61764705882353,INF,limit
+Megan,Daniel,0.78125,5.46875,43.75,0.14285714285714285,turn recant respond
+Evangeline,Megan,5.487804878048781,2.7439024390243905,47.86585365853659,2.0,like believe be commit clear be begin worry mean tell
+Megan,Evangeline,5.487804878048781,2.7439024390243905,47.86585365853659,2.0,like believe be commit clear be begin worry mean tell
+Megan,Evangeline,5.487804878048781,2.7439024390243905,47.86585365853659,2.0,like believe be commit clear be begin worry mean tell
+Megan,Evangeline,5.487804878048781,2.7439024390243905,47.86585365853659,2.0,like believe be commit clear be begin worry mean tell
+Megan,Cheston,0.35714285714285715,0.0,56.785714285714285,INF,talk be arrest say get be
+Megan,Cheston,0.35714285714285715,0.0,56.785714285714285,INF,talk be arrest say get be
+Megan,Cheston,0.35714285714285715,0.0,56.785714285714285,INF,talk be arrest say get be
+Megan,Cheston,0.35714285714285715,0.0,56.785714285714285,INF,talk be arrest say get be
+Megan,Mr. Divine,3.5000000000000004,1.5,47.0,2.3333333333333335,go stay see
+Megan,Mr. Divine,3.5000000000000004,1.5,47.0,2.3333333333333335,go stay see
+Megan,Mr. Divine,4.166666666666666,0.0,49.166666666666664,INF,go find be
+Megan,Mr. Divine,4.166666666666666,0.0,49.166666666666664,INF,go find be
+Evangeline,Megan,0.0,0.0,52.38095238095239,INF,open begin rifle search
+Evangeline,Megan,0.0,0.0,52.38095238095239,INF,open begin rifle search
+Diveen,Megan,0.0,0.0,26.666666666666668,INF,be say
+Diveen,Ricky,0.0,0.0,26.666666666666668,INF,be say
+Megan,Ricky,0.0,0.0,26.666666666666668,INF,be say
+Evangeline,Diveen,0.0,8.928571428571429,19.642857142857142,0.0,
+Megan,Mr. Divine,0.0,0.0,60.0,INF,do notice be go
+Ricky,Peggy,0.0,0.0,40.0,INF,let take
+Ricky,Peggy,4.375,0.9375,49.6875,4.666666666666667,know be realize have bring be work be
+Ricky,Peggy,4.375,0.9375,49.6875,4.666666666666667,know be realize have bring be work be
+Evangeline,Ricky,1.25,0.0,48.75,INF,look be grin
+Peggy,Ricky,3.125,0.0,40.625,INF,be note
+Evangeline,Ross Biltmore,0.0,3.9473684210526314,48.68421052631579,0.0,drive be get lock
+Evangeline,Mr. Biltmore,1.4285714285714286,1.0714285714285714,57.49999999999999,1.3333333333333333,talk have sell say be see make
+Evangeline,Daniel,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Evangeline,Madeline,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Evangeline,Daniel,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Evangeline,Madeline,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Evangeline,Daniel,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Evangeline,Madeline,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Daniel,Madeline,2.7439024390243905,2.7439024390243905,55.487804878048784,1.0,be push think be go bring speed be go repeat be say
+Madeline,Daniel,0.0,3.571428571428571,53.57142857142857,0.0,stand walk fix
+Ross Biltmore,Cheston,0.7352941176470588,2.941176470588235,55.14705882352941,0.25,say leave go disappear
+Daniel,Evangeline,0.0,0.0,54.54545454545454,INF,wink hand
+Daniel,Evangeline,0.0,0.0,54.54545454545454,INF,wink hand
+Evangeline,Daniel,0.0,0.0,54.54545454545454,INF,wink hand
+Evangeline,Daniel,0.0,0.0,54.54545454545454,INF,wink hand
+Ross Biltmore,Madeline,0.0,0.0,41.17647058823529,INF,own
+Twila,Ewing,0.0,0.0,33.33333333333333,INF,say meet
+Twila,Ewing,0.0,0.0,33.33333333333333,INF,say meet
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Megan,Daniel,0.3787878787878788,1.893939393939394,37.121212121212125,0.2,think do do suppose kill dispose abandon get
+Evangeline,Ewing,0.0,0.0,36.36363636363637,INF,see walk
+Jack,Ewing,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,say push
+Jackson,Evangeline,0.0,0.0,56.25,INF,move have walk
+Ewing,Evangeline,0.0,0.0,33.33333333333333,INF,nod turn
+Ewing,Evangeline,0.0,0.0,33.33333333333333,INF,nod turn
+Jackson,Megan,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,have agree tell be work
+Ewing,Evangeline,6.8181818181818175,0.0,47.72727272727273,INF,look
+Evangeline,Ewing,3.125,0.0,46.875,INF,want see respond
+Charles Cheston,Jackson,2.7439024390243905,0.9146341463414633,67.07317073170732,3.0,hear rent seem like be wonder come try ride press
+Charles Cheston,Jackson,2.7439024390243905,0.9146341463414633,67.07317073170732,3.0,hear rent seem like be wonder come try ride press
+Evangeline,FBI,2.925531914893617,0.26595744680851063,50.0,11.0,know have ask know check
+Evangeline,Cheston,2.925531914893617,0.26595744680851063,50.0,11.0,know have ask know check
+FBI,Cheston,2.925531914893617,0.26595744680851063,50.0,11.0,know have ask know check
+FBI,J. P. Sanders,3.3653846153846154,0.4807692307692308,50.0,7.0,be bring work
+FBI,Santa Fe,3.3653846153846154,0.4807692307692308,50.0,7.0,be bring work
+J. P. Sanders,Santa Fe,3.3653846153846154,0.4807692307692308,50.0,7.0,be bring work
+Daniel,FBI,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,serve
+Evangeline,Daniel,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Evangeline,Daniel,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Daniel,Evangeline,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Daniel,Evangeline,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Daniel,Evangeline,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Evangeline,Daniel,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Evangeline,Daniel,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Evangeline,Daniel,5.555555555555555,3.125,55.208333333333336,1.7777777777777777,remember learn be have hear hear know have be devastate
+Daniel,Evangeline,5.357142857142857,0.0,51.78571428571429,INF,seem sense
+Evangeline,Daniel,0.0,0.0,42.857142857142854,INF,jerk face
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Dorisanne,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Dorisanne,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Daniel,Evangeline,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Daniel,Dorisanne,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Dorisanne,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Dorisanne,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Dorisanne,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Dorisanne,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Dorisanne,Daniel,3.7280701754385963,4.824561403508771,45.83333333333333,0.7727272727272727,be want say think tell have face be think have stay marry
+Evangeline,Madeline,3.75,0.0,46.25,INF,see have
+Evangeline,Madeline,3.75,0.0,46.25,INF,see have
+Evangeline,Madeline,0.0,0.0,44.44444444444444,INF,sit lean
+Evangeline,Cheston,1.3157894736842104,3.289473684210526,48.026315789473685,0.4,assume be need be ask
+Evangeline,Madeline,4.285714285714286,2.5,50.357142857142854,1.7142857142857142,put drive think have
+Evangeline,Madeline,4.285714285714286,2.5,50.357142857142854,1.7142857142857142,put drive think have
+Madeline,Evangeline,4.285714285714286,2.5,50.357142857142854,1.7142857142857142,put drive think have
+Evangeline,Ross Biltmore,2.82258064516129,2.4193548387096775,52.82258064516129,1.1666666666666667,put swerve get position
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Evangeline,Madeline,0.6756756756756757,0.0,50.67567567567568,INF,think be go visit be wear find
+Madeline,Dorisanne,3.0555555555555554,6.388888888888888,48.333333333333336,0.4782608695652174,have figure be remember buy be put try navigate be have bargain
+Dorisanne,Madeline,3.0555555555555554,6.388888888888888,48.333333333333336,0.4782608695652174,have figure be remember buy be put try navigate be have bargain
+Dorisanne,Madeline,3.0555555555555554,6.388888888888888,48.333333333333336,0.4782608695652174,have figure be remember buy be put try navigate be have bargain
+Dorisanne,Madeline,3.0555555555555554,6.388888888888888,48.333333333333336,0.4782608695652174,have figure be remember buy be put try navigate be have bargain
+Evangeline,Dorisanne,2.5,0.5,53.0,5.0,be have invite come go ride
+Dorisanne,Evangeline,2.5,0.5,53.0,5.0,be have invite come go ride
+Evangeline,Sam Hill,0.0,0.0,47.05882352941176,INF,be do
+Daniel,Evangeline,4.166666666666666,0.0,45.83333333333333,INF,say greet
+Mama,Dorisanne,7.03125,1.5625,47.65625,4.5,bring play live
+Evangeline,Jackson,3.125,0.0,34.375,INF,call
+Mr. Biltmore,Daniel,1.7045454545454544,1.7045454545454544,42.04545454545455,1.0,get see be answer
+Mr. Biltmore,Daniel,4.761904761904762,0.0,66.66666666666666,INF,think be come check explain
+Mr. Biltmore,Evangeline,4.032258064516129,0.8064516129032258,53.2258064516129,5.0,be know look comment have be ask
+Mr. Biltmore,Evangeline,4.032258064516129,0.8064516129032258,53.2258064516129,5.0,be know look comment have be ask
+Jackson,Evangeline,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Jackson,Evangeline,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Jackson,Daniel,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Jackson,Santa Fe,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Evangeline,Daniel,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Evangeline,Santa Fe,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Evangeline,Daniel,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Evangeline,Santa Fe,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Daniel,Santa Fe,1.6666666666666667,0.8333333333333334,54.166666666666664,2.0,ride be park need get file
+Mr. Biltmore,Cheston,0.0,1.3888888888888888,54.166666666666664,0.0,do have
+Daniel,Ross Biltmore,1.1904761904761905,0.0,46.42857142857143,INF,think watch walk
+Miss Blanchard,Evangeline,0.0,0.0,30.0,INF,say smile
+Jackson,Evangeline,2.6785714285714284,3.571428571428571,43.75,0.75,turn face
+Jackson,Ross Biltmore,3.571428571428571,1.3392857142857142,70.08928571428571,2.6666666666666665,have be preoccupy search title
+Cheston,Ross Biltmore,1.4423076923076923,0.0,56.25,INF,have go be follow be wait
+Ross Biltmore,Cheston,1.4423076923076923,0.0,56.25,INF,have go be follow be wait
+Cheston,Ross Biltmore,1.4285714285714286,1.4285714285714286,42.857142857142854,1.0,kill drive walk drive
+Cheston,Ross Biltmore,1.4285714285714286,1.4285714285714286,42.857142857142854,1.0,kill drive walk drive
+Megan,Cheston,0.0,0.0,55.55555555555556,INF,do see drive
+Megan,Ross Biltmore,0.0,0.0,56.25,INF,see be come
+Cheston,Mr. Biltmore,4.276315789473684,2.302631578947368,56.57894736842105,1.8571428571428572,have give be have see head go disappear
+Cheston,Mr. Biltmore,4.276315789473684,2.302631578947368,56.57894736842105,1.8571428571428572,have give be have see head go disappear
+Madeline,Ross Biltmore,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,have confirm have suspect hear say have see
+Madeline,Ross Biltmore,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,have confirm have suspect hear say have see
+Cheston,Ron Polland,1.7857142857142856,0.25510204081632654,42.857142857142854,7.0,list do recognize
+Cheston,Megan,1.7857142857142856,0.25510204081632654,42.857142857142854,7.0,list do recognize
+Ron Polland,Megan,1.7857142857142856,0.25510204081632654,42.857142857142854,7.0,list do recognize
+Cheston,Ross Biltmore,2.083333333333333,0.0,47.91666666666667,INF,get guess
+Cheston,Jackson,2.083333333333333,0.0,47.91666666666667,INF,get guess
+Cheston,Ross Biltmore,2.083333333333333,0.0,47.91666666666667,INF,get guess
+Cheston,Jackson,2.083333333333333,0.0,47.91666666666667,INF,get guess
+Ross Biltmore,Jackson,2.083333333333333,0.0,47.91666666666667,INF,get guess
+Ross Biltmore,Cheston,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,have blackmail want say
+Ross Biltmore,Cheston,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,have blackmail want say
+Ross Biltmore,Cheston,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,have blackmail want say
+Ross Biltmore,Cheston,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,have blackmail want say
+Ross Biltmore,Cheston,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,have blackmail want say
+Cheston,Ross Biltmore,4.464285714285714,3.571428571428571,49.107142857142854,1.25,steal find
+Ross Biltmore,Cheston,0.0,4.166666666666666,45.83333333333333,0.0,be disappear
+Cheston,Megan,2.717391304347826,1.6304347826086956,60.86956521739131,1.6666666666666667,know be declare be miss
+Megan,Cheston,2.717391304347826,1.6304347826086956,60.86956521739131,1.6666666666666667,know be declare be miss
+Evangeline,Megan,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Evangeline,Jackson,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Evangeline,Megan,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Evangeline,Jackson,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Megan,Jackson,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Megan,Jackson,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Jackson,Megan,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Megan,Jackson,8.333333333333332,2.5,55.833333333333336,3.3333333333333335,have wonder have be be arrive be hide
+Megan,Santa Fe,6.25,0.0,52.083333333333336,INF,make
+Megan,Cheston,0.0,0.0,56.25,INF,shed buy
+Megan,Cheston,0.0,0.0,56.25,INF,shed buy
+Megan,Cheston,7.5,2.5,60.0,3.0,know
+Megan,Jackson,9.821428571428571,3.571428571428571,50.89285714285714,2.75,be seem know
+Daniel,Ron Polland,3.125,3.125,50.0,1.0,be tell want check
+Evangeline,Megan,0.0,0.4464285714285714,63.83928571428571,0.0,be clear post be stay head
+Evangeline,Megan,0.0,0.4464285714285714,63.83928571428571,0.0,be clear post be stay head
+Ron Polland,Meg,0.9615384615384616,0.0,45.19230769230769,INF,do give
+Cheston,Megan,0.0,0.0,37.5,INF,miss say
+Megan,Charles Jr.,0.0,5.357142857142857,37.5,0.0,do think kill
+Charles Jr.,Evangeline,3.571428571428571,4.166666666666666,25.595238095238095,0.8571428571428571,be say
+Ron Polland,Cheston,0.0,5.0,35.0,0.0,think kill
+Cheston,Megan,0.0,2.083333333333333,39.58333333333333,0.0,do kill whimper
+Megan,Ron Polland,2.232142857142857,0.0,51.33928571428571,INF,do know be feed know be go have put
+Ron Polland,Megan,2.232142857142857,0.0,51.33928571428571,INF,do know be feed know be go have put
+Ron Polland,Megan,2.232142857142857,0.0,51.33928571428571,INF,do know be feed know be go have put
+Ron Polland,Megan,2.232142857142857,0.0,51.33928571428571,INF,do know be feed know be go have put
+Cheston,Megan,2.5,1.25,36.25,2.0,be give
+Megan,Polland,0.7352941176470588,2.2058823529411766,44.11764705882353,0.3333333333333333,get find make
+Polland,Megan,4.044117647058823,1.4705882352941175,47.42647058823529,2.75,say get have agree take help
+Polland,Megan,4.044117647058823,1.4705882352941175,47.42647058823529,2.75,say get have agree take help
+Polland,Megan,4.044117647058823,1.4705882352941175,47.42647058823529,2.75,say get have agree take help
+Polland,Megan,4.044117647058823,1.4705882352941175,47.42647058823529,2.75,say get have agree take help
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Megan,Polland,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Megan,Polland,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Polland,Megan,2.857142857142857,1.7857142857142856,49.642857142857146,1.6,say have see react have hear let take
+Megan,Polland,0.0,0.0,50.0,INF,make be get
+Evangeline,Jackson,0.0,2.8846153846153846,35.57692307692308,0.0,flush answer notice
+Evangeline,Jackson,1.25,0.0,28.749999999999996,INF,watch
+Jackson,Evangeline,1.25,0.0,28.749999999999996,INF,watch
+Evangeline,Jackson,0.0,0.0,57.14285714285714,INF,tell be lie
+Megan,Cheston,3.9473684210526314,2.631578947368421,30.263157894736842,1.5,guess ask get
+Megan,Cheston,3.9473684210526314,2.631578947368421,30.263157894736842,1.5,guess ask get
+Ron Polland,Megan,3.4722222222222223,4.166666666666666,25.694444444444443,0.8333333333333334,think know protect grouse
+Ron Polland,Jackson,3.4722222222222223,4.166666666666666,25.694444444444443,0.8333333333333334,think know protect grouse
+Megan,Jackson,3.4722222222222223,4.166666666666666,25.694444444444443,0.8333333333333334,think know protect grouse
+Hinds,Jackson,2.6785714285714284,2.6785714285714284,51.78571428571429,1.0,be nod
+Megan,Cheston,4.807692307692308,3.8461538461538463,29.807692307692307,1.25,know be disappear
+Megan,Cheston,4.807692307692308,3.8461538461538463,29.807692307692307,1.25,know be disappear
+Ron Polland,Polland,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Ron Polland,Megan,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Ron Polland,Polland,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Ron Polland,Polland,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Polland,Megan,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Megan,Polland,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Megan,Polland,2.5,0.7142857142857143,45.357142857142854,3.5,raise hover be do have
+Polland,Cheston,6.8181818181818175,1.1363636363636365,46.590909090909086,6.0,do need make
+Cheston,Ron Polland,0.0,0.0,27.27272727272727,INF,be cheston
+Ron Polland,Cheston,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,have give write
+Polland,Cheston,0.5434782608695652,2.717391304347826,57.608695652173914,0.2,say come disappear tell be go
+Polland,Cheston,0.5434782608695652,2.717391304347826,57.608695652173914,0.2,say come disappear tell be go
+Polland,Cheston,0.5434782608695652,2.717391304347826,57.608695652173914,0.2,say come disappear tell be go
+Polland,Cheston,0.5434782608695652,2.717391304347826,57.608695652173914,0.2,say come disappear tell be go
+Ron Polland,Cheston,1.9230769230769231,0.0,44.230769230769226,INF,sound think be steal
+Ron Polland,Cheston,1.9230769230769231,0.0,44.230769230769226,INF,sound think be steal
+Ron Polland,Polland,1.4204545454545454,2.272727272727273,48.57954545454545,0.625,tell arrange disappear be mean put prove be
+Ron Polland,Cheston,1.4204545454545454,2.272727272727273,48.57954545454545,0.625,tell arrange disappear be mean put prove be
+Polland,Cheston,1.4204545454545454,2.272727272727273,48.57954545454545,0.625,tell arrange disappear be mean put prove be
+Jackson,Ron Polland,7.608695652173914,2.1739130434782608,46.73913043478261,3.5,nod think be tell
+Ron Polland,Polland,4.891304347826087,3.260869565217391,52.71739130434783,1.5,have be read approve claim have see end
+Cheston,Ron Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Cheston,Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Cheston,Ron Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Cheston,Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Cheston,Ron Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Cheston,Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Ron Polland,Polland,0.9259259259259258,1.3888888888888888,56.94444444444444,0.6666666666666666,tell be finish tell need be work end
+Polland,Cheston,1.3888888888888888,1.7361111111111112,60.763888888888886,0.8,have kill be do get tire wait find finish
+Polland,Cheston,1.3888888888888888,1.7361111111111112,60.763888888888886,0.8,have kill be do get tire wait find finish
+Polland,Cheston,1.3888888888888888,1.7361111111111112,60.763888888888886,0.8,have kill be do get tire wait find finish
+Polland,Cheston,1.3888888888888888,1.7361111111111112,60.763888888888886,0.8,have kill be do get tire wait find finish
+Cheston,Megan,2.9166666666666665,0.0,57.08333333333333,INF,be hover feed cover be let take
+Cheston,Megan,2.9166666666666665,0.0,57.08333333333333,INF,be hover feed cover be let take
+Megan,Cheston,2.9166666666666665,0.0,57.08333333333333,INF,be hover feed cover be let take
+Cheston,Megan,2.9166666666666665,0.0,57.08333333333333,INF,be hover feed cover be let take
+Megan,Ron Polland,2.083333333333333,0.0,39.58333333333333,INF,call do show
+Megan,Cheston,2.083333333333333,0.0,39.58333333333333,INF,call do show
+Ron Polland,Cheston,2.083333333333333,0.0,39.58333333333333,INF,call do show
+Cheston,Megan,0.0,0.0,37.5,INF,be drive have contact
+Megan,Cheston,0.0,0.0,37.5,INF,be drive have contact
+Evangeline,Jackson,1.0416666666666665,2.083333333333333,46.875,0.5,nod understand be go
+Cheston,Megan,0.9259259259259258,1.1574074074074074,57.17592592592593,0.8,have be take act tell come be drive get notice have go
+Megan,Cheston,0.9259259259259258,1.1574074074074074,57.17592592592593,0.8,have be take act tell come be drive get notice have go
+Megan,Cheston,0.9259259259259258,1.1574074074074074,57.17592592592593,0.8,have be take act tell come be drive get notice have go
+Megan,Cheston,0.9259259259259258,1.1574074074074074,57.17592592592593,0.8,have be take act tell come be drive get notice have go
+Megan,Cheston,0.9259259259259258,1.1574074074074074,57.17592592592593,0.8,have be take act tell come be drive get notice have go
+Megan,Polland,0.0,3.4722222222222223,68.75,0.0,say work
+Jackson,Evangeline,2.232142857142857,2.232142857142857,52.67857142857143,1.0,decide engage take press hurry
+Jackson,Evangeline,2.232142857142857,2.232142857142857,52.67857142857143,1.0,decide engage take press hurry
+Polland,Santa Fe,2.8846153846153846,0.9615384615384616,57.692307692307686,3.0,go seem be feel
+Ross Biltmore,Megan,1.358695652173913,0.2717391304347826,44.02173913043478,5.0,have stay talk have go check share see be help
+Ross Biltmore,Cheston,1.358695652173913,0.2717391304347826,44.02173913043478,5.0,have stay talk have go check share see be help
+Ross Biltmore,Megan,1.358695652173913,0.2717391304347826,44.02173913043478,5.0,have stay talk have go check share see be help
+Megan,Cheston,1.358695652173913,0.2717391304347826,44.02173913043478,5.0,have stay talk have go check share see be help
+Cheston,Megan,1.358695652173913,0.2717391304347826,44.02173913043478,5.0,have stay talk have go check share see be help
+Evangeline,Ross Biltmore,3.5256410256410255,0.9615384615384616,44.230769230769226,3.6666666666666665,think have work know ask get be
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Evangeline,Delphine,1.7543859649122806,0.21929824561403508,50.6578947368421,8.0,watch grimace move have tell do rest be go call come leave go
+Megan,Ross Biltmore,2.2058823529411766,1.715686274509804,52.94117647058824,1.2857142857142858,need go check share see be give have be write be
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Mr. Biltmore,Cheston,3.8636363636363633,2.0454545454545454,54.090909090909086,1.8888888888888888,get confide find leave have write be be talk
+Evangeline,Megan,5.0,4.166666666666666,44.166666666666664,1.2,want dig
+Megan,Mr. Biltmore,4.464285714285714,1.3392857142857142,37.05357142857143,3.3333333333333335,know do make find talk
+Megan,Mr. Biltmore,4.464285714285714,1.3392857142857142,37.05357142857143,3.3333333333333335,know do make find talk
+Mr. Biltmore,Megan,1.9736842105263157,1.9736842105263157,59.210526315789465,1.0,have sound do
+Ross Biltmore,Cheston,0.7352941176470588,0.0,34.55882352941176,INF,get be
+Ross Biltmore,Cheston,0.7352941176470588,0.0,34.55882352941176,INF,get be
+Cheston,Daniel,5.113636363636364,2.272727272727273,51.70454545454546,2.25,check make be ask take
+Hinds,Ross Biltmore,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,do look have
+Megan,Daniel,9.375,1.5625,45.3125,6.0,figure make get
+Megan,Daniel,9.375,1.5625,45.3125,6.0,figure make get
+Megan,Ross Biltmore,9.375,1.5625,45.3125,6.0,figure make get
+Daniel,Ross Biltmore,9.375,1.5625,45.3125,6.0,figure make get
+Daniel,Ross Biltmore,9.375,1.5625,45.3125,6.0,figure make get
+Megan,Daniel,3.125,3.125,43.75,1.0,see need rest
+Evangeline,Jackson,7.5,3.0,45.5,2.5,wait be say see do
+Jackson,Evangeline,7.5,3.0,45.5,2.5,wait be say see do
+Evangeline,Dorisanne,6.61764705882353,1.4705882352941175,56.61764705882353,4.5,wear pack have leave
+Evangeline,Dorisanne,6.61764705882353,1.4705882352941175,56.61764705882353,4.5,wear pack have leave
+Dorisanne,Evangeline,6.61764705882353,1.4705882352941175,56.61764705882353,4.5,wear pack have leave
+Evangeline,Megan,1.4285714285714286,1.4285714285714286,45.714285714285715,1.0,hand have use jot live open get
+Evangeline,Megan,1.4285714285714286,1.4285714285714286,45.714285714285715,1.0,hand have use jot live open get
+Evangeline,Megan,1.4285714285714286,1.4285714285714286,45.714285714285715,1.0,hand have use jot live open get
+Evangeline,Megan,1.4285714285714286,1.4285714285714286,45.714285714285715,1.0,hand have use jot live open get
+Megan,Cheston,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,be look see find establish shed have want
+Megan,Cheston,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,be look see find establish shed have want
+Megan,Cheston,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,be look see find establish shed have want
+Megan,Cheston,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,be look see find establish shed have want
+Evangeline,Megan,6.0,4.5,53.5,1.3333333333333333,wonder recognize decide be give
+Evangeline,Megan,6.0,4.5,53.5,1.3333333333333333,wonder recognize decide be give
+Evangeline,Berihun,1.9444444444444444,0.0,51.388888888888886,INF,have leave be have feel have describe be turn
+Evangeline,Berihun,1.9444444444444444,0.0,51.388888888888886,INF,have leave be have feel have describe be turn
+Evangeline,Berihun,1.9444444444444444,0.0,51.388888888888886,INF,have leave be have feel have describe be turn
+Berihun,Evangeline,1.9444444444444444,0.0,51.388888888888886,INF,have leave be have feel have describe be turn
+Berihun,Evangeline,1.9444444444444444,0.0,51.388888888888886,INF,have leave be have feel have describe be turn
+Evangeline,Megan,0.0,0.0,50.0,INF,reach pull
+Berihun,Megan,2.083333333333333,11.458333333333332,19.791666666666664,0.18181818181818182,be reply
+Evangeline,Megan,2.631578947368421,0.0,50.0,INF,have call search
+Evangeline,Megan,3.515625,2.34375,47.265625,1.5,bear seem be have be tell
+Megan,Santa Fe,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Megan,Cheston,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Megan,Santa Fe,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Megan,Cheston,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Santa Fe,Megan,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Santa Fe,Cheston,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Santa Fe,Megan,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Megan,Cheston,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Cheston,Megan,2.857142857142857,0.7142857142857143,50.71428571428571,4.0,have speak discover call have be tell be go
+Megan,Cheston,2.7439024390243905,0.0,58.231707317073166,INF,have make want pack find desire add
+Megan,Cheston,2.7439024390243905,0.0,58.231707317073166,INF,have make want pack find desire add
+Megan,Cheston,2.7439024390243905,0.0,58.231707317073166,INF,have make want pack find desire add
+Santa Fe,Megan,3.125,3.125,47.91666666666667,1.0,do need go drop want
+Evangeline,Mr. Biltmore,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Evangeline,Ewing,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Mr. Biltmore,Evangeline,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Mr. Biltmore,Ewing,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Mr. Biltmore,Evangeline,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Evangeline,Ewing,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Ewing,Evangeline,9.285714285714286,1.7857142857142856,43.214285714285715,5.2,want know be ask have go notice walk
+Evangeline,Ewing,3.2407407407407405,2.314814814814815,68.51851851851852,1.4,wonder be take see be carry hold
+Evangeline,Ewing,3.2407407407407405,2.314814814814815,68.51851851851852,1.4,wonder be take see be carry hold
+Evangeline,Ewing,3.2407407407407405,2.314814814814815,68.51851851851852,1.4,wonder be take see be carry hold
+Ross Biltmore,Ewing,3.125,0.0,63.541666666666664,INF,get stick add
+Evangeline,Ewing,1.7857142857142856,0.0,41.07142857142857,INF,think see
+Evangeline,Ewing,1.7857142857142856,0.0,41.07142857142857,INF,think see
+Ewing,Evangeline,0.0,7.8125,67.1875,0.0,seem be follow
+Ewing,Evangeline,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,answer ask
+Ross Biltmore,Evangeline,0.0,0.0,22.22222222222222,INF,repeat
+Ross Biltmore,Ewing,0.0,0.0,22.22222222222222,INF,repeat
+Evangeline,Ewing,0.0,0.0,22.22222222222222,INF,repeat
+Ron Polland,Megan,0.0,1.9230769230769231,44.230769230769226,0.0,answer be stay
+Polland,Megan,0.0,0.0,55.55555555555556,INF,step enter
+Megan,Ron Polland,8.333333333333332,0.0,47.22222222222222,INF,do be
+Megan,Polland,3.125,0.0,51.041666666666664,INF,be have put follow
+Megan,Polland,3.125,0.0,51.041666666666664,INF,be have put follow
+Megan,Polland,3.125,0.0,51.041666666666664,INF,be have put follow
+Evangeline,Diveen,1.0416666666666665,5.208333333333334,35.41666666666667,0.2,be be
+Megan,Polland,5.208333333333334,6.25,46.875,0.8333333333333334,be have tell
+Megan,Polland,5.208333333333334,6.25,46.875,0.8333333333333334,be have tell
+Megan,Polland,0.6578947368421052,2.631578947368421,49.34210526315789,0.25,get say get answer
+Polland,Megan,0.0,0.0,50.0,INF,study
+Polland,Megan,1.4705882352941175,0.0,51.470588235294116,INF,walk have visit
+Polland,Megan,1.4705882352941175,0.0,51.470588235294116,INF,walk have visit
+Polland,Megan,1.4705882352941175,0.0,51.470588235294116,INF,walk have visit
+Megan,Ron Polland,7.386363636363637,0.0,47.159090909090914,INF,have intend stay have plan have
+Megan,Ron Polland,7.386363636363637,0.0,47.159090909090914,INF,have intend stay have plan have
+Megan,Polland,0.0,0.0,42.857142857142854,INF,head
+Megan,Polland,0.0,0.0,50.0,INF,sit
+Megan,Ron Polland,3.289473684210526,2.631578947368421,51.973684210526315,1.25,be want give seem have
+Megan,Polland,3.289473684210526,2.631578947368421,51.973684210526315,1.25,be want give seem have
+Megan,Ron Polland,3.289473684210526,2.631578947368421,51.973684210526315,1.25,be want give seem have
+Megan,Polland,3.289473684210526,2.631578947368421,51.973684210526315,1.25,be want give seem have
+Ron Polland,Polland,3.289473684210526,2.631578947368421,51.973684210526315,1.25,be want give seem have
+Megan,Polland,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Megan,Evangeline,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Megan,Polland,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Megan,Evangeline,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Polland,Megan,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Polland,Megan,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Polland,Evangeline,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Megan,Evangeline,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Megan,Evangeline,3.787878787878788,3.0303030303030303,41.66666666666667,1.25,know be post get stay be
+Evangeline,Cheston,0.78125,3.125,55.46875,0.25,be see disappear
+Ron Polland,Polland,8.928571428571429,1.7857142857142856,51.19047619047619,5.0,eye know be make
+Megan,Cheston,0.0,10.227272727272728,35.22727272727273,0.0,warn get involve
+Evangeline,Polland,4.032258064516129,4.435483870967742,65.7258064516129,0.9090909090909091,be ask think be keep go
+Evangeline,Polland,4.032258064516129,4.435483870967742,65.7258064516129,0.9090909090909091,be ask think be keep go
+Cheston,Charles Cheston,3.214285714285714,1.4285714285714286,58.214285714285715,2.25,let tell have clean know excuse know
+Megan,Charles Cheston,0.0,1.7857142857142856,48.214285714285715,0.0,do stay be
+Megan,Charles Cheston,0.0,1.7857142857142856,48.214285714285715,0.0,do stay be
+Ron Polland,Polland,0.0,0.0,42.857142857142854,INF,laugh shake
+Megan,Charles Cheston,1.0416666666666665,0.0,57.291666666666664,INF,believe say be divorce
+Megan,Charles Cheston,1.0416666666666665,0.0,57.291666666666664,INF,believe say be divorce
+Megan,Charles Cheston,1.0416666666666665,0.0,57.291666666666664,INF,believe say be divorce
+Megan,Charles Cheston,1.0416666666666665,0.0,57.291666666666664,INF,believe say be divorce
+Megan,Charles Cheston,1.1363636363636365,0.0,62.5,INF,believe say stop use
+Megan,Charles Cheston,1.1363636363636365,0.0,62.5,INF,believe say stop use
+Megan,Charles Cheston,1.1363636363636365,0.0,62.5,INF,believe say stop use
+Megan,Charles Cheston,6.25,0.0,43.75,INF,believe say love
+Megan,Charles Cheston,6.25,0.0,43.75,INF,believe say love
+Megan,Charles Cheston,6.25,0.0,43.75,INF,believe say love
+Charles Cheston,Megan,6.25,0.0,43.75,INF,believe say love
+Charles Cheston,Megan,6.25,0.0,43.75,INF,believe say love
+Charles Cheston,Megan,6.25,0.0,43.75,INF,believe say love
+Megan,Charles Cheston,7.03125,6.25,42.96875,1.125,commit believe be deserve
+Megan,Charles Cheston,0.0,0.0,52.38095238095239,INF,be have suffer do kill
+Megan,Charles Cheston,0.0,0.0,52.38095238095239,INF,be have suffer do kill
+Charles Cheston,Megan,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Charles Cheston,Megan,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Megan,Charles Cheston,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Megan,Charles Cheston,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Megan,Charles Cheston,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Megan,Charles Cheston,3.308823529411765,5.88235294117647,43.75,0.5625,be come have lose be lose
+Evangeline,Polland,2.272727272727273,2.272727272727273,59.09090909090909,1.0,have turn be watch
+Polland,Evangeline,1.1363636363636365,0.0,53.40909090909091,INF,glance appear be look
+Megan,Evangeline,3.125,0.0,21.875,INF,call
+Ewing,Ross Biltmore,0.0,0.0,46.15384615384615,INF,see meet
+Mr. Ewing,Mr. Biltmore,9.210526315789473,3.9473684210526314,44.73684210526316,2.3333333333333335,appear be see
+Ross Biltmore,Ewing,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,be
+Megan,Cheston,2.083333333333333,4.861111111111112,54.166666666666664,0.42857142857142855,suspect have believe be suggest
+Evangeline,Megan,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Evangeline,Megan,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Evangeline,Ron Polland,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Evangeline,Cheston,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Evangeline,Megan,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Megan,Ron Polland,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Megan,Cheston,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Megan,Ron Polland,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Megan,Cheston,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Ron Polland,Cheston,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Ron Polland,Megan,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Cheston,Megan,7.065217391304348,2.1739130434782608,34.23913043478261,3.25,remember look have hear have say
+Megan,Ron Polland,3.9473684210526314,0.3289473684210526,43.09210526315789,12.0,wonder have make have get unlock have happen have leave
+Megan,Polland,3.9473684210526314,0.3289473684210526,43.09210526315789,12.0,wonder have make have get unlock have happen have leave
+Ron Polland,Megan,3.9473684210526314,0.3289473684210526,43.09210526315789,12.0,wonder have make have get unlock have happen have leave
+Ron Polland,Polland,3.9473684210526314,0.3289473684210526,43.09210526315789,12.0,wonder have make have get unlock have happen have leave
+Megan,Polland,3.9473684210526314,0.3289473684210526,43.09210526315789,12.0,wonder have make have get unlock have happen have leave
+Ross Biltmore,Cheston,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Cheston,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ross Biltmore,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ross Biltmore,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ross Biltmore,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Cheston,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Cheston,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Cheston,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Ross Biltmore,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Cheston,Ewing,4.605263157894736,2.9605263157894735,42.43421052631579,1.5555555555555556,have be guess be write kill be help cover
+Megan,Ross Biltmore,0.0,2.2058823529411766,50.73529411764706,0.0,be try figure
+Megan,Polland,0.0,2.2058823529411766,50.73529411764706,0.0,be try figure
+Ross Biltmore,Polland,0.0,2.2058823529411766,50.73529411764706,0.0,be try figure
+Ewing,Silver Cross,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,recall do act visit
+Ewing,Silver Cross,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,recall do act visit
+Polland,Megan,0.0,2.5,37.5,0.0,drive reply
+Polland,Cheston,1.7857142857142856,0.0,48.214285714285715,INF,admit think be steal
+Polland,Cheston,1.7857142857142856,0.0,48.214285714285715,INF,admit think be steal
+Polland,Cheston,1.7857142857142856,0.0,48.214285714285715,INF,admit think be steal
+Polland,Cheston,1.7857142857142856,0.0,48.214285714285715,INF,admit think be steal
+Cheston,Ron Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Ron Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Ron Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Ron Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Cheston,Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Ron Polland,Polland,3.3333333333333335,1.6666666666666667,51.66666666666667,2.0,say be be head use be be
+Polland,Cheston,2.5,0.0,50.83333333333333,INF,have tell get
+Cheston,Megan,2.717391304347826,2.1739130434782608,51.63043478260869,1.25,think have come disappear have see
+Cheston,Megan,2.717391304347826,2.1739130434782608,51.63043478260869,1.25,think have come disappear have see
+Megan,Cheston,2.717391304347826,2.1739130434782608,51.63043478260869,1.25,think have come disappear have see
+Megan,Cheston,0.0,0.0,22.22222222222222,INF,be cover
+Megan,Ron Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Ron Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Ron Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Ron Polland,Megan,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Ron Polland,Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Polland,2.5735294117647056,1.8382352941176472,45.588235294117645,1.4,be be say be hear say be cover
+Megan,Ron Polland,1.3888888888888888,0.0,31.944444444444443,INF,think
+Megan,Ron Polland,1.3888888888888888,0.0,31.944444444444443,INF,think
+Cheston,Megan,1.3888888888888888,4.166666666666666,44.44444444444444,0.3333333333333333,appear support be kill
+Evangeline,Dorisanne,3.125,1.875,45.0,1.6666666666666667,have fix clean give
+Evangeline,Madeline,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Mr. Biltmore,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Madeline,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Mr. Biltmore,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Madeline,Evangeline,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Madeline,Evangeline,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Madeline,Mr. Biltmore,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Mr. Biltmore,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Mr. Biltmore,0.0,2.1551724137931036,39.224137931034484,0.0,tell be go visit choose mention stop introduce
+Evangeline,Ron Polland,4.464285714285714,3.125,53.125,1.4285714285714286,know disallow promise confront ask be feel make have think be
+Evangeline,Ron Polland,4.464285714285714,3.125,53.125,1.4285714285714286,know disallow promise confront ask be feel make have think be
+Evangeline,Ron Polland,4.464285714285714,3.125,53.125,1.4285714285714286,know disallow promise confront ask be feel make have think be
+Evangeline,Ron Polland,4.464285714285714,3.125,53.125,1.4285714285714286,know disallow promise confront ask be feel make have think be
+Evangeline,Ron Polland,4.464285714285714,3.125,53.125,1.4285714285714286,know disallow promise confront ask be feel make have think be
+Ewing,Mr. Biltmore,0.0,0.0,42.857142857142854,INF,be
+Daniel,Evangeline,1.293103448275862,0.0,43.53448275862069,INF,hold escort
+Daniel,Evangeline,1.293103448275862,0.0,43.53448275862069,INF,hold escort
+Evangeline,Daniel,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,do say have hoist be stand
+Daniel,Evangeline,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,do say have hoist be stand
+Daniel,Evangeline,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,do say have hoist be stand
+Daniel,Evangeline,0.0,0.5434782608695652,69.02173913043478,0.0,be dress be use see be
+Evangeline,Daniel,0.0,0.5434782608695652,69.02173913043478,0.0,be dress be use see be
+Evangeline,Daniel,0.0,0.5434782608695652,69.02173913043478,0.0,be dress be use see be
+Evangeline,Daniel,0.0,0.0,47.05882352941176,INF,see
+Evangeline,Daniel,0.0,0.0,47.05882352941176,INF,see
+Evangeline,Daniel,0.0,0.0,50.0,INF,glance
+Daniel,Evangeline,2.272727272727273,5.681818181818182,64.77272727272727,0.4,have cover get
+Daniel,Evangeline,0.0,0.0,50.0,INF,study
+Evangeline,Daniel,3.4090909090909087,0.0,51.13636363636363,INF,get shut
+Daniel,Evangeline,1.7857142857142856,0.0,55.35714285714286,INF,be stand
+Daniel,Evangeline,0.0,0.0,50.0,INF,study
+Daniel,Evangeline,1.4705882352941175,1.4705882352941175,55.88235294117647,1.0,be head seem be drive
+Evangeline,Daniel,4.6875,3.4375000000000004,44.375,1.3636363636363635,shout jump be be go be t-bone careen plow
+Evangeline,Daniel,5.0,7.5,60.83333333333333,0.6666666666666666,dawn have be injure jump
+Evangeline,Daniel,5.0,7.5,60.83333333333333,0.6666666666666666,dawn have be injure jump
+Evangeline,Daniel,4.605263157894736,4.605263157894736,48.68421052631579,1.0,ignore have be ask open call
+Evangeline,Daniel,4.605263157894736,4.605263157894736,48.68421052631579,1.0,ignore have be ask open call
+Evangeline,Daniel,0.0,0.0,44.44444444444444,INF,see
+Evangeline,Daniel,5.0,0.0,65.0,INF,reach take
+Evangeline,Daniel,0.7352941176470588,1.4705882352941175,44.85294117647059,0.5,pull climb move bump
+Daniel,Evangeline,0.7352941176470588,1.4705882352941175,44.85294117647059,0.5,pull climb move bump
+Daniel,Evangeline,3.8793103448275863,3.4482758620689653,51.293103448275865,1.125,be answer drop try pick have land
+Evangeline,Daniel,3.8793103448275863,3.4482758620689653,51.293103448275865,1.125,be answer drop try pick have land
+Evangeline,Daniel,0.0,0.0,55.55555555555556,INF,see hand
+Evangeline,Daniel,0.0,0.0,55.55555555555556,INF,see hand
+Daniel,Evangeline,3.571428571428571,0.0,53.57142857142857,INF,have
+Mr. Ewing,Evangeline,0.0,2.5,27.500000000000004,0.0,reply
+Evangeline,Daniel,0.4629629629629629,0.0,40.27777777777778,INF,use be say come
+Daniel,Evangeline,0.4629629629629629,0.0,40.27777777777778,INF,use be say come
+Evangeline,Daniel,4.6875,1.5625,68.75,3.0,amaze have come
+Daniel,Evangeline,5.208333333333334,0.0,61.458333333333336,INF,be think
+Ewing,Daniel,2.1739130434782608,0.0,41.30434782608695,INF,take mean want move walk
+Daniel,Ewing,2.1739130434782608,0.0,41.30434782608695,INF,take mean want move walk
+Daniel,Ewing,2.1739130434782608,0.0,41.30434782608695,INF,take mean want move walk
+Daniel,Ewing,1.3888888888888888,0.0,65.27777777777779,INF,turn give
+Mr. Ewing,Ewing,0.0,0.0,45.45454545454545,INF,finish
+Mr. Ewing,Ewing,0.0,0.0,45.45454545454545,INF,finish
+Daniel,Ewing,0.641025641025641,0.641025641025641,52.56410256410257,1.0,get turn wait get move ease
+Daniel,Ewing,6.25,0.0,53.75,INF,look shake
+Ewing,Daniel,6.25,0.0,53.75,INF,look shake
+Cheston,Megan,5.952380952380952,1.488095238095238,44.94047619047619,4.0,do have prove kill need help come provide do
+Cheston,Megan,5.952380952380952,1.488095238095238,44.94047619047619,4.0,do have prove kill need help come provide do
+Dorisanne,Michael,0.625,0.0,54.37499999999999,INF,drive get take
+Dorisanne,Sarah,0.625,0.0,54.37499999999999,INF,drive get take
+Dorisanne,Sarah,0.625,0.0,54.37499999999999,INF,drive get take
+Michael,Sarah,0.625,0.0,54.37499999999999,INF,drive get take
+Michael,Sarah,0.625,0.0,54.37499999999999,INF,drive get take
+Daniel,Ewing,3.8461538461538463,0.0,42.30769230769231,INF,say tell check
+Cheston,Ross Biltmore,2.7777777777777777,0.0,41.66666666666667,INF,be pay
+Ross Biltmore,Cheston,0.0,0.0,63.1578947368421,INF,say talk be schedule pick
+Ross Biltmore,Cheston,0.0,0.0,63.1578947368421,INF,say talk be schedule pick
+Cheston,Ross Biltmore,0.0,0.0,63.1578947368421,INF,say talk be schedule pick
+Evangeline,Daniel,0.0,0.0,33.33333333333333,INF,figure be tell
+Daniel,Evangeline,0.0,0.0,33.33333333333333,INF,figure be tell
+Evangeline,Daniel,0.0,0.0,50.0,INF,glance
+Daniel,Cheston,3.75,0.0,66.25,INF,admit have
+Daniel,Cheston,3.75,0.0,66.25,INF,admit have
+Evangeline,Ross Biltmore,6.666666666666667,6.666666666666667,53.333333333333336,1.0,be disappoint have be cross
+Ron Polland,Cheston,0.0,0.0,46.666666666666664,INF,take
+Megan,Cheston,7.954545454545454,2.272727272727273,35.22727272727273,3.5,have talk
+Megan,Cheston,7.954545454545454,2.272727272727273,35.22727272727273,3.5,have talk
+Charles Jr.,Charles Cheston,2.232142857142857,3.571428571428571,69.19642857142857,0.625,know have kick have
+Polland,Cheston,0.0,0.0,52.94117647058824,INF,check have be steal
+Polland,Cheston,0.0,0.0,52.94117647058824,INF,check have be steal
+Ron Polland,Evangeline,9.210526315789473,9.868421052631579,54.60526315789473,0.9333333333333333,have leave seem meet
+Ron Polland,Santa Fe,9.210526315789473,9.868421052631579,54.60526315789473,0.9333333333333333,have leave seem meet
+Evangeline,Santa Fe,9.210526315789473,9.868421052631579,54.60526315789473,0.9333333333333333,have leave seem meet
+Evangeline,Megan,5.681818181818182,5.681818181818182,43.18181818181818,1.0,have drop
+Megan,Ross Biltmore,5.416666666666667,0.8333333333333334,50.416666666666664,6.5,be meet let know have find feel be
+Megan,Ross Biltmore,5.416666666666667,0.8333333333333334,50.416666666666664,6.5,be meet let know have find feel be
+Lee McDonald,Megan,3.308823529411765,0.0,55.51470588235294,INF,like think be do be have meet be build
+Lee McDonald,Megan,3.308823529411765,0.0,55.51470588235294,INF,like think be do be have meet be build
+Megan,Ron Polland,0.0,0.0,68.42105263157895,INF,figure be be wait
+Megan,Santa Fe,5.147058823529411,0.7352941176470588,58.82352941176471,7.0,know have be
+Megan,Ron Polland,4.605263157894736,4.605263157894736,53.94736842105263,1.0,do know be do discover
+Megan,Polland,4.605263157894736,4.605263157894736,53.94736842105263,1.0,do know be do discover
+Ron Polland,Polland,4.605263157894736,4.605263157894736,53.94736842105263,1.0,do know be do discover
+Megan,Polland,2.840909090909091,0.0,42.61363636363637,INF,think decide have
+Megan,Polland,2.840909090909091,0.0,42.61363636363637,INF,think decide have
+Megan,Polland,2.840909090909091,0.0,42.61363636363637,INF,think decide have
+Evangeline,Polland,0.0,0.0,63.63636363636363,INF,glance place
+Megan,Evangeline,1.9230769230769231,3.3653846153846154,40.86538461538461,0.5714285714285714,seem comment recall drop
+Megan,Evangeline,1.9230769230769231,3.3653846153846154,40.86538461538461,0.5714285714285714,seem comment recall drop
+Megan,Evangeline,1.9230769230769231,3.3653846153846154,40.86538461538461,0.5714285714285714,seem comment recall drop
+Ron Polland,Polland,3.6458333333333335,1.0416666666666665,57.8125,3.5,check think need move be
+Ron Polland,Polland,3.6458333333333335,1.0416666666666665,57.8125,3.5,check think need move be
+Evangeline,Polland,7.03125,3.125,52.34375,2.25,be ask touch
+Polland,Evangeline,7.03125,3.125,52.34375,2.25,be ask touch
+Polland,Evangeline,0.0,2.5,57.49999999999999,0.0,seem push
+Evangeline,Ross Biltmore,1.3157894736842104,2.631578947368421,48.68421052631579,0.5,wait expect hear be miss owe
+Evangeline,Ross Biltmore,1.0,1.0,42.0,1.0,have hear be owe figure be miss
+Ross Biltmore,Evangeline,1.0,1.0,42.0,1.0,have hear be owe figure be miss
+Elizabeth White,Betsy White,3.125,1.5625,45.3125,2.0,be
+Evangeline,Ron Polland,5.208333333333334,0.0,44.79166666666667,INF,have use call
+Evangeline,Betsy,11.71875,1.5625,49.21875,7.5,want find name have mention
+Evangeline,Megan,11.71875,1.5625,49.21875,7.5,want find name have mention
+Betsy,Megan,11.71875,1.5625,49.21875,7.5,want find name have mention
+Evangeline,Betsy,2.272727272727273,0.5681818181818182,56.25,4.0,tell be have be promise
+Evangeline,Cheston,2.272727272727273,0.5681818181818182,56.25,4.0,tell be have be promise
+Betsy,Cheston,2.272727272727273,0.5681818181818182,56.25,4.0,tell be have be promise
+Polland,Cheston,2.7777777777777777,0.0,52.77777777777778,INF,think take be
+Polland,Cheston,2.7777777777777777,0.0,52.77777777777778,INF,think take be
+Polland,Megan,1.25,3.75,45.0,0.3333333333333333,squeeze flinch
+Polland,Megan,1.25,3.75,45.0,0.3333333333333333,squeeze flinch
+Megan,Polland,0.0,0.0,42.857142857142854,INF,hand
+Megan,Polland,5.681818181818182,5.681818181818182,52.27272727272727,1.0,assume mean
+Polland,Megan,5.681818181818182,5.681818181818182,52.27272727272727,1.0,assume mean
+Megan,Polland,2.34375,0.0,60.15625,INF,pick have set
+Polland,Megan,2.34375,0.0,60.15625,INF,pick have set
+Polland,Megan,0.0,0.0,62.5,INF,
+Polland,Megan,0.0,0.0,62.5,INF,
+Megan,Polland,2.083333333333333,3.125,36.45833333333333,0.6666666666666666,pause expect jump
+Megan,Polland,3.125,3.90625,55.46875,0.8,be believe be make
+Megan,Polland,3.125,3.90625,55.46875,0.8,be believe be make
+Cheston,Megan,1.3157894736842104,3.9473684210526314,42.10526315789473,0.3333333333333333,hate be do want put
+Ron Polland,Megan,0.0,0.0,50.0,INF,be wait
+Robbie,Megan,5.769230769230769,0.0,32.69230769230769,INF,
+Megan,Robbie,6.25,6.25,47.5,1.0,have realize be
+Megan,Robert,6.25,6.25,47.5,1.0,have realize be
+Robbie,Robert,6.25,6.25,47.5,1.0,have realize be
+Dorisanne,Megan,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,accompany have have lose remember
+Robbie,Dorisanne,2.34375,0.0,47.65625,INF,be run be run
+Dorisanne,Robbie,2.34375,0.0,47.65625,INF,be run be run
+Megan,Ron Polland,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,see understand be say decide go finish
+Ron Polland,Megan,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,see understand be say decide go finish
+Ron Polland,Megan,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,see understand be say decide go finish
+Evangeline,Polland,1.0416666666666665,1.0416666666666665,64.58333333333334,1.0,watch finish
+Evangeline,Polland,1.0416666666666665,1.0416666666666665,64.58333333333334,1.0,watch finish
+Evangeline,Polland,10.0,1.6666666666666667,41.66666666666667,6.0,nod join think have transpire
+Evangeline,Betsy White,5.357142857142857,1.7857142857142856,52.85714285714286,3.0,be excite be be have call
+Evangeline,Megan,5.357142857142857,1.7857142857142856,52.85714285714286,3.0,be excite be be have call
+Evangeline,Betsy White,5.357142857142857,1.7857142857142856,52.85714285714286,3.0,be excite be be have call
+Evangeline,Megan,5.357142857142857,1.7857142857142856,52.85714285714286,3.0,be excite be be have call
+Betsy White,Megan,5.357142857142857,1.7857142857142856,52.85714285714286,3.0,be excite be be have call
+Megan,Elizabeth White,4.3604651162790695,1.744186046511628,61.337209302325576,2.5,know have make be confirm have match show
+Megan,Elizabeth White,4.3604651162790695,1.744186046511628,61.337209302325576,2.5,know have make be confirm have match show
+Megan,Elizabeth White,4.3604651162790695,1.744186046511628,61.337209302325576,2.5,know have make be confirm have match show
+Megan,Elizabeth White,4.3604651162790695,1.744186046511628,61.337209302325576,2.5,know have make be confirm have match show
+Elizabeth White,Ms. White,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Elizabeth White,Betsy,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Elizabeth White,Ron Polland,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Ms. White,Betsy,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Ms. White,Ron Polland,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Betsy,Ron Polland,0.5952380952380952,0.0,51.78571428571429,INF,confirm know handle
+Ms. White,Polland,2.857142857142857,1.4285714285714286,44.285714285714285,2.0,be label require make
+Ms. White,Mr. Cheston,2.857142857142857,1.4285714285714286,44.285714285714285,2.0,be label require make
+Polland,Mr. Cheston,2.857142857142857,1.4285714285714286,44.285714285714285,2.0,be label require make
+Ms. White,Polland,4.891304347826087,2.717391304347826,53.2608695652174,1.8,be tell
+Ms. White,Mr. Cheston,4.891304347826087,2.717391304347826,53.2608695652174,1.8,be tell
+Ms. White,Polland,4.891304347826087,2.717391304347826,53.2608695652174,1.8,be tell
+Ms. White,Mr. Cheston,4.891304347826087,2.717391304347826,53.2608695652174,1.8,be tell
+Polland,Mr. Cheston,4.891304347826087,2.717391304347826,53.2608695652174,1.8,be tell
+Ms. White,Polland,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Cheston,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Polland,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Cheston,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Polland,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Cheston,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Polland,Cheston,2.696078431372549,1.2254901960784315,49.01960784313725,2.2,say be have change remove require add
+Ms. White,Megan,1.9230769230769231,0.0,28.846153846153843,INF,do ask have speak
+Ms. White,Megan,1.9230769230769231,0.0,28.846153846153843,INF,do ask have speak
+Megan,Ms. White,7.236842105263158,0.6578947368421052,55.26315789473685,11.0,know claim have be take act
+Evangeline,Santa Fe,4.5,0.5,55.00000000000001,9.0,have drive be make work
+Evangeline,Elizabeth White,4.5,0.5,55.00000000000001,9.0,have drive be make work
+Santa Fe,Elizabeth White,4.5,0.5,55.00000000000001,9.0,have drive be make work
+Polland,Evangeline,2.1551724137931036,0.8620689655172413,48.706896551724135,2.5,let see do say sum feel
+Polland,Evangeline,2.1551724137931036,0.8620689655172413,48.706896551724135,2.5,let see do say sum feel
+Betsy,Cheston,5.25,2.25,38.5,2.3333333333333335,know do want confess do blame tell happen tell get know be
+Megan,Ron Polland,2.1739130434782608,0.0,41.30434782608695,INF,have gather listen have send
+Polland,Elizabeth White,1.3888888888888888,1.3888888888888888,52.77777777777778,1.0,have make schedule make
+Polland,Megan,1.3888888888888888,1.3888888888888888,52.77777777777778,1.0,have make schedule make
+Elizabeth White,Megan,1.3888888888888888,1.3888888888888888,52.77777777777778,1.0,have make schedule make
+Evangeline,Megan,0.0,0.0,40.0,INF,look
+Elizabeth White,Cheston,0.0,1.7857142857142856,33.92857142857143,0.0,make want kill
+Cheston,Megan,3.515625,0.0,58.984375,INF,tell have be break have divorce be
+Cheston,Megan,3.515625,0.0,58.984375,INF,tell have be break have divorce be
+Cheston,Megan,3.515625,0.0,58.984375,INF,tell have be break have divorce be
+Cheston,Megan,3.515625,0.0,58.984375,INF,tell have be break have divorce be
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Megan,Cheston,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Megan,Cheston,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,3.5000000000000004,5.5,55.00000000000001,0.6363636363636364,say love be have accept be break
+Cheston,Megan,0.0,8.928571428571429,48.214285714285715,0.0,say be
+Evangeline,Megan,0.0,0.0,33.33333333333333,INF,turn
+Cheston,Megan,0.0,0.0,33.33333333333333,INF,be add
+Polland,Ross Biltmore,7.5,1.6666666666666667,50.83333333333333,4.5,do know be write
+Cheston,Evangeline,0.0,0.0,38.46153846153847,INF,do mean kill say
+Evangeline,Megan,2.717391304347826,2.717391304347826,59.78260869565217,1.0,glance have have speak stop
+Megan,Evangeline,2.717391304347826,2.717391304347826,59.78260869565217,1.0,glance have have speak stop
+Evangeline,Diveen,0.0,6.25,33.75,0.0,be be
+Ricky,Evangeline,0.0,0.0,40.0,INF,walk
+Evangeline,Dorisanne,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,die call
+Evangeline,Dorisanne,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,die call
+Megan,Cheston,1.3888888888888888,0.0,43.05555555555556,INF,buy have stay
+Megan,Cheston,1.3888888888888888,0.0,43.05555555555556,INF,buy have stay
+Ross Biltmore,Ron Polland,2.0,1.0,53.0,2.0,become credit turn
+Dorisanne,Daniel,3.3653846153846154,0.9615384615384616,64.90384615384616,3.5,lead be do recognize think have be
+Daniel,Twila,4.583333333333333,0.8333333333333334,44.583333333333336,5.5,know be know include
+Dorisanne,Daniel,5.092592592592593,0.9259259259259258,56.94444444444444,5.5,have come watch film have be
+Jackson,Ricky,0.7142857142857143,0.0,45.0,INF,travel be hold
+Jackson,Santa Fe,0.7142857142857143,0.0,45.0,INF,travel be hold
+Ricky,Santa Fe,0.7142857142857143,0.0,45.0,INF,travel be hold
+Dorisanne,Evangeline,6.0,2.0,56.00000000000001,3.0,be excite have be produce
+Dorisanne,Ron Polland,6.0,2.0,56.00000000000001,3.0,be excite have be produce
+Evangeline,Ron Polland,6.0,2.0,56.00000000000001,3.0,be excite have be produce
+Dorisanne,Evangeline,0.0,0.0,40.0,INF,raise
+Evangeline,Diveen,4.326923076923077,2.403846153846154,43.269230769230774,1.8,figure be talk have make be change

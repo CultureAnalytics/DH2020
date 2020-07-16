@@ -1,0 +1,566 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Jack,Metropolitan Police,1.5625,0.78125,63.28125,2.0,be select operate escape have construct defy have produce
+Jack,Metropolitan Police,1.5625,0.78125,63.28125,2.0,be select operate escape have construct defy have produce
+Galton,Darwin,5.625,0.625,48.75,9.0,have write be have read grasp
+Galton,Darwin,5.625,0.625,48.75,9.0,have write be have read grasp
+Galton,Darwin,5.625,0.625,48.75,9.0,have write be have read grasp
+Jeb,Mr. O’Connor,3.0,1.7500000000000002,57.25,1.7142857142857142,have advance be be try prevail
+Dare,Mr. O’Connor,2.272727272727273,2.727272727272727,47.72727272727273,0.8333333333333334,be be be build include forget be see
+Massingale,Burrows,2.142857142857143,0.7142857142857143,51.42857142857142,3.0,say fix have leave
+Mr. O’Connor,Massingale,2.631578947368421,3.289473684210526,30.92105263157895,0.8,see say do make
+Judy,Charlie,3.6585365853658534,1.8292682926829267,48.170731707317074,2.0,discover name live lie see
+Charlie,Judy,3.6585365853658534,1.8292682926829267,48.170731707317074,2.0,discover name live lie see
+Henry Bright,Sholes & Glidden,0.0,1.7045454545454544,57.38636363636363,0.0,be hover assail move note
+Henry Bright,Pitman,0.0,1.7045454545454544,57.38636363636363,0.0,be hover assail move note
+Sholes & Glidden,Pitman,0.0,1.7045454545454544,57.38636363636363,0.0,be hover assail move note
+Horn,Henry Bright,0.4807692307692308,0.4807692307692308,56.730769230769226,1.0,be affiliate occur write
+Da,Johnto,2.5390625,3.3203125,50.390625,0.7647058823529411,have be start explain get talk smack look get be disappoint do know
+Johnto,Da,2.5390625,3.3203125,50.390625,0.7647058823529411,have be start explain get talk smack look get be disappoint do know
+Johnto,Paul,5.833333333333333,0.0,34.166666666666664,INF,remember be
+Jeb,Mary Jane,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Jeb,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Jeb,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Jeb,Mary Jane,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Jeb,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Jeb,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Mary Jane,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Mary Jane,Polly,2.4456521739130435,0.0,58.42391304347826,INF,turn name be run depend be call know use
+Charlie,Thain,1.3513513513513513,2.364864864864865,61.14864864864865,0.5714285714285714,come make signal turn
+Charlie,Thain,1.3513513513513513,2.364864864864865,61.14864864864865,0.5714285714285714,come make signal turn
+Jack,Jeb,3.618421052631579,2.631578947368421,46.381578947368425,1.375,make fix take give cease maneuver
+Jack,Jeb,3.618421052631579,2.631578947368421,46.381578947368425,1.375,make fix take give cease maneuver
+Jack,Jeb,3.618421052631579,2.631578947368421,46.381578947368425,1.375,make fix take give cease maneuver
+Jack,Jeb,3.618421052631579,2.631578947368421,46.381578947368425,1.375,make fix take give cease maneuver
+Jack,Jeb,3.618421052631579,2.631578947368421,46.381578947368425,1.375,make fix take give cease maneuver
+Ross,Metropolitan Police,4.861111111111112,2.083333333333333,56.94444444444444,2.3333333333333335,turn be have buzz have be hand
+Ross,Metropolitan Police,4.861111111111112,2.083333333333333,56.94444444444444,2.3333333333333335,turn be have buzz have be hand
+Warren,Ross,1.5,1.0,57.49999999999999,1.5,mean have set
+Warren,George,1.5,1.0,57.49999999999999,1.5,mean have set
+Warren,Metropolitans,1.5,1.0,57.49999999999999,1.5,mean have set
+Ross,George,1.5,1.0,57.49999999999999,1.5,mean have set
+Ross,Metropolitans,1.5,1.0,57.49999999999999,1.5,mean have set
+George,Metropolitans,1.5,1.0,57.49999999999999,1.5,mean have set
+Ross,Metropolitan Police,2.5,0.5,61.0,5.0,have confirm know be be
+Jeb,Polly,4.220779220779221,4.383116883116883,51.13636363636363,0.9629629629629629,tick make realize get have be allow track look be fit have muck squirm find lift
+Jeb,Charlie,2.364864864864865,1.3513513513513513,58.445945945945944,1.75,yield leave call reveal be use be work
+Jeb,Charlie,2.364864864864865,1.3513513513513513,58.445945945945944,1.75,yield leave call reveal be use be work
+Hanbury,Judy,1.1627906976744187,2.0348837209302326,59.59302325581395,0.5714285714285714,take be begin find know
+Judy,Hanbury,4.375,0.625,60.0,7.0,have time intercept make
+Judy,Hanbury,6.0344827586206895,2.1551724137931036,33.189655172413794,2.8,find say lead
+Judy,John,2.1739130434782608,1.0869565217391304,53.2608695652174,2.0,drift tell
+Judy,Hanbury,2.5,1.25,51.24999999999999,2.0,have anticipate have probe indicate put open reveal be
+Judy,Hanbury,2.5,1.25,51.24999999999999,2.0,have anticipate have probe indicate put open reveal be
+Judy,Hanbury,2.5,1.25,51.24999999999999,2.0,have anticipate have probe indicate put open reveal be
+Jeb,Annie,0.0,0.0,44.0,INF,be meet turn scoop be
+Annie,Polly,1.293103448275862,3.4482758620689653,43.53448275862069,0.375,note be
+Annie,Polly,1.293103448275862,3.4482758620689653,43.53448275862069,0.375,note be
+Annie,Polly,1.293103448275862,3.4482758620689653,43.53448275862069,0.375,note be
+Polly,Annie,1.293103448275862,3.4482758620689653,43.53448275862069,0.375,note be
+Chandler,Annie,2.941176470588235,1.8382352941176472,45.220588235294116,1.6,point have be array
+Chandler,Annie,2.941176470588235,1.8382352941176472,45.220588235294116,1.6,point have be array
+George,Dr. Phillips,0.0,2.0161290322580645,46.37096774193548,0.0,take slide drink
+Chandler,Sussex Regiment,2.2058823529411766,0.0,56.61764705882353,INF,have turn say
+Henry Bright,Jeb,1.1627906976744187,4.941860465116279,45.05813953488372,0.23529411764705882,pass pick lose have
+Jeb,Henry Bright,1.1627906976744187,4.941860465116279,45.05813953488372,0.23529411764705882,pass pick lose have
+Annie,Wentworth,3.571428571428571,3.214285714285714,58.92857142857143,1.1111111111111112,find be look use be be use
+Wentworth,Annie,3.571428571428571,3.214285714285714,58.92857142857143,1.1111111111111112,find be look use be be use
+Jeb,Annie,0.625,0.0,34.375,INF,see
+Dr. Phillips,Annie,2.631578947368421,0.6578947368421052,49.34210526315789,4.0,remember remark surmise
+Jeb,Harry,2.717391304347826,1.2681159420289856,53.985507246376805,2.142857142857143,call do know have get have report name be
+Jeb,Harry,2.717391304347826,1.2681159420289856,53.985507246376805,2.142857142857143,call do know have get have report name be
+Jeb,Annie,2.717391304347826,1.2681159420289856,53.985507246376805,2.142857142857143,call do know have get have report name be
+Harry,Annie,2.717391304347826,1.2681159420289856,53.985507246376805,2.142857142857143,call do know have get have report name be
+Harry,Annie,2.717391304347826,1.2681159420289856,53.985507246376805,2.142857142857143,call do know have get have report name be
+Harry,Polly,1.4423076923076923,3.8461538461538463,56.25,0.375,play intimate
+Annie,Warren,2.4364406779661016,1.9067796610169492,52.436440677966104,1.2777777777777777,forget compete distract crush be begin be render forget dismiss accord place be run suppose have send heathen move rob
+Annie,Warren,2.4364406779661016,1.9067796610169492,52.436440677966104,1.2777777777777777,forget compete distract crush be begin be render forget dismiss accord place be run suppose have send heathen move rob
+Annie,Vicky,2.4364406779661016,1.9067796610169492,52.436440677966104,1.2777777777777777,forget compete distract crush be begin be render forget dismiss accord place be run suppose have send heathen move rob
+Warren,Vicky,2.4364406779661016,1.9067796610169492,52.436440677966104,1.2777777777777777,forget compete distract crush be begin be render forget dismiss accord place be run suppose have send heathen move rob
+Warren,Vicky,2.4364406779661016,1.9067796610169492,52.436440677966104,1.2777777777777777,forget compete distract crush be begin be render forget dismiss accord place be run suppose have send heathen move rob
+Sherlock Holmes,Conan Doyle,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,tremble be exist
+Sherlock Holmes,Conan Doyle,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,tremble be exist
+Annie,Dr. Phillips,2.5,1.7857142857142856,50.0,1.4,discover go need expostulate be have sell
+Annie,Dr. Phillips,0.0,3.977272727272727,57.38636363636363,0.0,seem be be lament doom corrupt be prove
+Annie,Dr. Phillips,0.0,3.977272727272727,57.38636363636363,0.0,seem be be lament doom corrupt be prove
+Annie,Dr. Phillips,0.0,3.977272727272727,57.38636363636363,0.0,seem be be lament doom corrupt be prove
+Annie,Dr. Phillips,0.0,3.977272727272727,57.38636363636363,0.0,seem be be lament doom corrupt be prove
+Polly,Annie,2.0,3.5000000000000004,52.5,0.5714285714285714,appear be bring crush have go
+Polly,Annie,2.0,3.5000000000000004,52.5,0.5714285714285714,appear be bring crush have go
+Polly,Annie,2.0,3.5000000000000004,52.5,0.5714285714285714,appear be bring crush have go
+Polly,Annie,2.0,3.5000000000000004,52.5,0.5714285714285714,appear be bring crush have go
+Annie,Dr. Phillips,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be tell be suppose remark
+Annie,Dr. Phillips,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be tell be suppose remark
+Annie,Dr. Phillips,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be tell be suppose remark
+Annie,Dr. Phillips,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be tell be suppose remark
+Jeb,Charlie,2.941176470588235,0.49019607843137253,59.31372549019608,6.0,open find be remove unfold recognize recognize
+Charlie,Atheneum,2.8963414634146343,3.9634146341463414,58.993902439024396,0.7307692307692307,come have be spend be be get publish
+Charlie,Atheneum,2.8963414634146343,3.9634146341463414,58.993902439024396,0.7307692307692307,come have be spend be be get publish
+Charlie,Atheneum,2.8963414634146343,3.9634146341463414,58.993902439024396,0.7307692307692307,come have be spend be be get publish
+Mr. O’Connor,Charlie,1.9230769230769231,4.807692307692308,50.96153846153846,0.4,work see be run
+Tom,University of London,1.25,0.0,58.75,INF,do
+Jeb,Warren,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,detest understand be think catch call
+Warren,Jeb,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,detest understand be think catch call
+Warren,Jeb,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,detest understand be think catch call
+Dare,Jeb,2.7777777777777777,0.9259259259259258,48.148148148148145,3.0,sha lie be do know
+Polly,Annie,2.443609022556391,3.6654135338345863,51.78571428571429,0.6666666666666666,try be form offer have refuse authorize be be rat opine be seem
+Polly,Warren,2.443609022556391,3.6654135338345863,51.78571428571429,0.6666666666666666,try be form offer have refuse authorize be be rat opine be seem
+Annie,Warren,2.443609022556391,3.6654135338345863,51.78571428571429,0.6666666666666666,try be form offer have refuse authorize be be rat opine be seem
+Pitman,Mr. O’Connor,0.25510204081632654,2.0408163265306123,50.76530612244898,0.125,be transform go approach say need see
+Harry,Mr. O’Connor,2.734375,4.296875,61.71875,0.6363636363636364,have be wear boat be be find
+Harry,Eton,0.29069767441860467,2.3255813953488373,62.5,0.125,be wear edge
+Jeb,Harry,3.289473684210526,2.631578947368421,46.71052631578947,1.25,have be tell be have do
+Mr. O’Connor,Harry,1.5625,3.125,57.8125,0.5,suck toss look smile
+Tom,Harry,5.147058823529411,0.7352941176470588,58.82352941176471,7.0,be
+Darwin,Galton,0.9615384615384616,4.807692307692308,55.769230769230774,0.2,join
+Harry,Mr. O’Connor,0.0,1.0416666666666665,40.625,0.0,say do go
+Harry,Mr. O’Connor,0.6578947368421052,0.6578947368421052,35.526315789473685,1.0,be write say
+Jeb,Mr. O’Connor,0.0,0.0,33.33333333333333,INF,listen say
+Harry,Mr. O’Connor,1.3888888888888888,3.2407407407407405,60.18518518518518,0.42857142857142855,be have use be use
+Tom,John,4.0625,2.8125,48.125,1.4444444444444444,come go be say need slide remember provoke amuse
+Mr. O’Connor,Harry,4.545454545454546,1.1363636363636365,39.77272727272727,4.0,grasp
+Jack,Gatling,1.893939393939394,2.6515151515151514,59.09090909090909,0.7142857142857143,wave drift intermingle have pile have break have turn raise
+Gatling,Jack,1.893939393939394,2.6515151515151514,59.09090909090909,0.7142857142857143,wave drift intermingle have pile have break have turn raise
+Polly,Annie,5.46875,0.78125,37.5,7.0,say be
+Jeb,Dutfield,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Jeb,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Jeb,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Jeb,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Dutfield,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Dutfield,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Dutfield,Jack,1.7605633802816902,1.7605633802816902,57.04225352112676,1.0,be come think strike have rearrange be fly seem pay
+Harry,Mr. O’Connor,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Harry,Henry Bright,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Harry,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Harry,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Mr. O’Connor,Henry Bright,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Mr. O’Connor,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Mr. O’Connor,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Henry Bright,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Henry Bright,Jack,2.3706896551724137,0.8620689655172413,55.38793103448276,2.75,have adopt have fly be leave be sulk
+Mr. O’Connor,Harry,0.0,2.586206896551724,52.58620689655172,0.0,go wear be be
+Mr. O’Connor,Harry,0.0,2.586206896551724,52.58620689655172,0.0,go wear be be
+Mr. O’Connor,Harry,6.521739130434782,0.0,54.347826086956516,INF,say read tell be focus
+Mr. O’Connor,Harry,6.521739130434782,0.0,54.347826086956516,INF,say read tell be focus
+Harry,Eton,0.0,0.0,42.10526315789473,INF,run reach pull
+Harry,Eton,0.0,0.0,42.10526315789473,INF,run reach pull
+Jeb,Harry,7.8125,1.5625,28.125,5.0,listen
+Jeb,Jack,0.43103448275862066,0.43103448275862066,50.86206896551724,1.0,be be come let mangle
+Jeb,Jack,3.260869565217391,0.5434782608695652,52.71739130434783,6.0,employ sell elevate
+Mr. O’Connor,Harry,3.289473684210526,1.3157894736842104,58.55263157894737,2.5,watch copy do come resemble have be educate come think be
+Mr. O’Connor,Harry,3.289473684210526,1.3157894736842104,58.55263157894737,2.5,watch copy do come resemble have be educate come think be
+Central News Agency,Harry,3.2407407407407405,1.8518518518518516,65.27777777777779,1.75,go hire make drop say
+Mr. O’Connor,Harry,2.5,7.5,30.0,0.3333333333333333,go say depart
+Jack,Dutfield,1.25,4.166666666666666,56.25,0.3,be come dawdle be learn have do hear call be be
+Jack,Harry,1.25,4.166666666666666,56.25,0.3,be come dawdle be learn have do hear call be be
+Jack,Dutfield,1.25,4.166666666666666,56.25,0.3,be come dawdle be learn have do hear call be be
+Jack,Harry,1.25,4.166666666666666,56.25,0.3,be come dawdle be learn have do hear call be be
+Dutfield,Harry,1.25,4.166666666666666,56.25,0.3,be come dawdle be learn have do hear call be be
+Jeb,Henry Bright,1.1363636363636365,0.0,44.31818181818182,INF,say
+Berner,Jack,1.953125,1.171875,59.375,1.6666666666666667,guess be look get be
+Dr. Brown,Smith,2.083333333333333,4.166666666666666,56.25,0.5,be be
+Smith,George,1.0869565217391304,0.0,55.434782608695656,INF,be
+Mary Jane,Anne Boleyn,1.09375,1.40625,47.5,0.7777777777777778,seem spring be sunder
+Smith,Dr. Brown,1.5625,1.171875,72.265625,1.3333333333333333,be show take be arrive
+Berner,Smith,0.5,2.0,61.5,0.25,kill say say
+Pitman,Smith,0.78125,2.34375,65.625,0.3333333333333333,be write note
+Watkins,Jeb,2.34375,2.34375,64.0625,1.0,say have be rip
+Jeb,Goulston,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,arrive have order wash
+Jeb,Warren,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,arrive have order wash
+Goulston,Warren,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,arrive have order wash
+Goulston,Dutfield,4.0625,5.625,62.81250000000001,0.7222222222222222,claim think be have receive notice scrawl
+Goulston,Dutfield,4.0625,5.625,62.81250000000001,0.7222222222222222,claim think be have receive notice scrawl
+Goulston,Dutfield,4.0625,5.625,62.81250000000001,0.7222222222222222,claim think be have receive notice scrawl
+Dutfield,Goulston,4.0625,5.625,62.81250000000001,0.7222222222222222,claim think be have receive notice scrawl
+Goulston,Wentworth,2.1226415094339623,0.2358490566037736,61.79245283018868,9.0,go show put be have form
+Cavanagh,Warren,4.513888888888888,4.166666666666666,60.763888888888886,1.0833333333333333,demand be have order erase have adjudge arrive
+Liz,Halse,3.009259259259259,0.9259259259259258,51.620370370370374,3.25,have ask say have be make chime help be have put match tear be
+Liz,Smith,3.009259259259259,0.9259259259259258,51.620370370370374,3.25,have ask say have be make chime help be have put match tear be
+Halse,Smith,3.009259259259259,0.9259259259259258,51.620370370370374,3.25,have ask say have be make chime help be have put match tear be
+Halse,Liz,3.4375000000000004,6.875000000000001,39.6875,0.5,say be be be blame oppose be be blame
+Louis Stevenson,Jekyll,1.3888888888888888,1.3888888888888888,60.18518518518518,1.0,be
+Louis Stevenson,Hyde,1.3888888888888888,1.3888888888888888,60.18518518518518,1.0,be
+Jekyll,Hyde,1.3888888888888888,1.3888888888888888,60.18518518518518,1.0,be
+Sherlock Holmes,Watson,0.0,3.125,59.375,0.0,be be
+Jack,Mrs. Eddowes,1.9886363636363635,1.9886363636363635,55.11363636363637,1.0,coin have know involve be leave loose
+Warren,Jack,4.563492063492063,1.984126984126984,55.35714285714286,2.3,help prattle dream be be succeed feel be put
+Elizabeth,Joe,2.240566037735849,2.4764150943396226,52.83018867924528,0.9047619047619048,have get lock be pay be shut be be pay come poke be want come talk believe try go leave be be
+Elizabeth,Joe,2.240566037735849,2.4764150943396226,52.83018867924528,0.9047619047619048,have get lock be pay be shut be be pay come poke be want come talk believe try go leave be be
+Elizabeth,Joe,2.240566037735849,2.4764150943396226,52.83018867924528,0.9047619047619048,have get lock be pay be shut be be pay come poke be want come talk believe try go leave be be
+Elizabeth,Joe,2.240566037735849,2.4764150943396226,52.83018867924528,0.9047619047619048,have get lock be pay be shut be be pay come poke be want come talk believe try go leave be be
+Elizabeth,Joe,2.240566037735849,2.4764150943396226,52.83018867924528,0.9047619047619048,have get lock be pay be shut be be pay come poke be want come talk believe try go leave be be
+Johnny Upright,Abberline,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Johnny Upright,Warren,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Johnny Upright,Jack,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Abberline,Warren,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Abberline,Jack,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Warren,Jack,5.253623188405797,0.7246376811594203,54.891304347826086,7.25,be be chase arrest be be be have get save
+Mr. O’Connor,Jack,3.571428571428571,1.3392857142857142,45.089285714285715,2.6666666666666665,do keep hubb insist run know be rehammer contain inspire
+Mr. O’Connor,Jack,3.571428571428571,1.3392857142857142,45.089285714285715,2.6666666666666665,do keep hubb insist run know be rehammer contain inspire
+Mr. O’Connor,Jacky,3.571428571428571,1.3392857142857142,45.089285714285715,2.6666666666666665,do keep hubb insist run know be rehammer contain inspire
+Jack,Jacky,3.571428571428571,1.3392857142857142,45.089285714285715,2.6666666666666665,do keep hubb insist run know be rehammer contain inspire
+Jack,Jacky,3.571428571428571,1.3392857142857142,45.089285714285715,2.6666666666666665,do keep hubb insist run know be rehammer contain inspire
+Harry,Henry Bright,2.8846153846153846,2.644230769230769,56.00961538461539,1.0909090909090908,work unite think have read offer be
+Harry,Gazette,2.8846153846153846,2.644230769230769,56.00961538461539,1.0909090909090908,work unite think have read offer be
+Henry Bright,Gazette,2.8846153846153846,2.644230769230769,56.00961538461539,1.0909090909090908,work unite think have read offer be
+Elizabeth Stride,Dutfield,4.166666666666666,3.6231884057971016,53.07971014492754,1.15,be be be meet be be have return have be
+Elizabeth Stride,Liz,4.166666666666666,3.6231884057971016,53.07971014492754,1.15,be be be meet be be have return have be
+Elizabeth Stride,Dutfield,4.166666666666666,3.6231884057971016,53.07971014492754,1.15,be be be meet be be have return have be
+Elizabeth Stride,Liz,4.166666666666666,3.6231884057971016,53.07971014492754,1.15,be be be meet be be have return have be
+Dutfield,Liz,4.166666666666666,3.6231884057971016,53.07971014492754,1.15,be be be meet be be have return have be
+Jack,Dutfield,4.545454545454546,3.4090909090909087,51.13636363636363,1.3333333333333333,emerge have escape trap
+Dutfield,Jack,4.545454545454546,3.4090909090909087,51.13636363636363,1.3333333333333333,emerge have escape trap
+Jack,Mrs. Eddowes,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Goulston,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Wentworth,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Mrs. Eddowes,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Goulston,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Wentworth,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Mrs. Eddowes,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Mrs. Eddowes,Goulston,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Mrs. Eddowes,Wentworth,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Mrs. Eddowes,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Mrs. Eddowes,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Goulston,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Jack,Wentworth,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Goulston,Wentworth,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Goulston,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Goulston,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Wentworth,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Wentworth,Jack,2.669902912621359,1.6990291262135921,63.59223300970874,1.5714285714285714,have get be know be be sound have escape lock surround be arrive deposit leave
+Dare,Jack,1.293103448275862,0.8620689655172413,56.46551724137932,1.5,keep keen tear
+Jack,Hyde,4.605263157894736,3.9473684210526314,59.86842105263158,1.1666666666666667,spot observe
+Jack,Hyde,4.605263157894736,3.9473684210526314,59.86842105263158,1.1666666666666667,spot observe
+Jack,Hyde,4.605263157894736,3.9473684210526314,59.86842105263158,1.1666666666666667,spot observe
+Jack,Hyde,4.605263157894736,3.9473684210526314,59.86842105263158,1.1666666666666667,spot observe
+Houndsditch,Duke,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Houndsditch,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Houndsditch,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Houndsditch,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Duke,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Duke,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Duke,Mrs. Eddowes,3.048780487804878,1.524390243902439,46.646341463414636,2.0,pass spy come put lead
+Jack,Mrs. Eddowes,3.373015873015873,3.571428571428571,62.89682539682539,0.9444444444444444,make acknowledge wear be have be insult
+Jack,Mrs. Eddowes,3.373015873015873,3.571428571428571,62.89682539682539,0.9444444444444444,make acknowledge wear be have be insult
+Jack,Mrs. Eddowes,3.373015873015873,3.571428571428571,62.89682539682539,0.9444444444444444,make acknowledge wear be have be insult
+Maddy,Dare,2.586206896551724,3.6637931034482754,38.577586206896555,0.7058823529411765,scream be be be look see smell spill
+Maddy,Jack,2.586206896551724,3.6637931034482754,38.577586206896555,0.7058823529411765,scream be be be look see smell spill
+Dare,Jack,2.586206896551724,3.6637931034482754,38.577586206896555,0.7058823529411765,scream be be be look see smell spill
+Jeb,Sherlock Holmes,0.0,0.0,63.63636363636363,INF,be
+Jeb,Sherlock Holmes,0.0,0.0,63.63636363636363,INF,be
+Wilde,Dare,4.166666666666666,1.3888888888888888,55.55555555555556,3.0,wonder do know borrow
+Dare,Wilde,4.166666666666666,1.3888888888888888,55.55555555555556,3.0,wonder do know borrow
+Sussex Regiment,Annie,2.5735294117647056,1.4705882352941175,57.720588235294116,1.75,be have encounter discount miss find prove be
+Juliet,Shakespeare,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,dub
+Juliet,Judy,3.125,4.086538461538462,48.55769230769231,0.7647058823529411,be be see ply stay feed appear
+Juliet,Jack,3.125,4.086538461538462,48.55769230769231,0.7647058823529411,be be see ply stay feed appear
+Judy,Jack,3.125,4.086538461538462,48.55769230769231,0.7647058823529411,be be see ply stay feed appear
+Jeb,Mr. O’Connor,1.3392857142857142,2.232142857142857,67.85714285714286,0.6,have sell let take work
+Lucy,Mother,3.90625,4.6875,60.15625,0.8333333333333334,make trill watch pounce devour
+Pitman,Jack,3.431372549019608,1.9607843137254901,59.31372549019608,1.75,try write list have hear seem
+Jack,Annie,5.357142857142857,1.7857142857142856,57.14285714285714,3.0,be have take
+Jack,Hanbury,5.357142857142857,1.7857142857142856,57.14285714285714,3.0,be have take
+Annie,Hanbury,5.357142857142857,1.7857142857142856,57.14285714285714,3.0,be have take
+Polly,Liz Stride,1.0869565217391304,5.434782608695652,54.347826086956516,0.2,do cut eviscerate assume
+Polly,Liz Stride,1.0869565217391304,5.434782608695652,54.347826086956516,0.2,do cut eviscerate assume
+Warren,Abberline,2.380952380952381,4.761904761904762,35.714285714285715,0.5,be
+Dare,Jack,2.663934426229508,1.0245901639344261,52.04918032786885,2.6,be record
+Dare,Jack,2.663934426229508,1.0245901639344261,52.04918032786885,2.6,be record
+Dare,Pitman,2.663934426229508,1.0245901639344261,52.04918032786885,2.6,be record
+Jack,Pitman,2.663934426229508,1.0245901639344261,52.04918032786885,2.6,be record
+Jack,Pitman,2.663934426229508,1.0245901639344261,52.04918032786885,2.6,be record
+Jack,Annie,7.196969696969697,1.5151515151515151,48.86363636363637,4.75,be organize set indicate seem think
+Jack,Annie,7.196969696969697,1.5151515151515151,48.86363636363637,4.75,be organize set indicate seem think
+Annie,Jack,7.196969696969697,1.5151515151515151,48.86363636363637,4.75,be organize set indicate seem think
+Annie,Jack,7.196969696969697,1.5151515151515151,48.86363636363637,4.75,be organize set indicate seem think
+Dare,Pitman,2.5,1.0416666666666665,49.791666666666664,2.4,dare pause check award plug put suck enjoy exhale fill set
+Mr. Diemschutz,Jack,4.807692307692308,2.8846153846153846,53.84615384615385,1.6666666666666667,have inform
+Jack,Annie,2.857142857142857,0.0,42.857142857142854,INF,have perform know guide
+Jack,Hanbury,2.857142857142857,0.0,42.857142857142854,INF,have perform know guide
+Annie,Jack,2.857142857142857,0.0,42.857142857142854,INF,have perform know guide
+Annie,Hanbury,2.857142857142857,0.0,42.857142857142854,INF,have perform know guide
+Jack,Hanbury,2.857142857142857,0.0,42.857142857142854,INF,have perform know guide
+Jeb,Jack,2.34375,1.5625,52.34375,1.5,be say
+Jack,Jeb,2.34375,1.5625,52.34375,1.5,be say
+East India Company,Johnny Upright,1.893939393939394,0.5681818181818182,59.65909090909091,3.3333333333333335,be call be remove be sell consider bargaineer
+East India Company,Johnny Upright,1.893939393939394,0.5681818181818182,59.65909090909091,3.3333333333333335,be call be remove be sell consider bargaineer
+Abberline,Warren,3.5416666666666665,2.083333333333333,52.708333333333336,1.7,be get be be challenge be muck
+Polly,Annie,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Polly,Liz,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Polly,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Polly,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Annie,Liz,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Annie,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Annie,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Liz,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Liz,Kate,3.125,1.25,50.625,2.5,turn have turn have have have turn offer slide feel see know drive
+Jeb,Mr. O’Connor,1.5151515151515151,0.7575757575757576,58.333333333333336,2.0,confide be omit know bear
+Henry Bright,Harry,1.644736842105263,1.644736842105263,67.76315789473685,1.0,be give be be leave continue cover keep stoke
+Mr. O’Connor,Penny,3.6764705882352944,0.5514705882352942,63.41911764705882,6.666666666666667,set cover be name have cover have be be say have ride
+Harry,Whitehall,4.6875,0.78125,60.15625,6.0,know be know wage call
+Harry,Cumberland House,4.6875,0.78125,60.15625,6.0,know be know wage call
+Whitehall,Cumberland House,4.6875,0.78125,60.15625,6.0,know be know wage call
+Penny,Boswell,0.0,2.604166666666667,55.729166666666664,0.0,be judge be play
+Dare,Mr. O’Connor,1.4285714285714286,0.7142857142857143,57.85714285714286,2.0,pay reiterate have work have sell stop
+Penny,Jack,4.901960784313726,1.9607843137254901,48.03921568627451,2.5,do understand say have occur have be assure be
+Jeb,Jack,4.952830188679245,2.5943396226415096,47.16981132075472,1.9090909090909092,be say be pay lay
+Penny,Jack,2.989130434782609,0.5434782608695652,55.16304347826087,5.5,give examine be be
+Penny,Jack,2.989130434782609,0.5434782608695652,55.16304347826087,5.5,give examine be be
+Ross,Abberline,2.7027027027027026,0.0,48.64864864864865,INF,inform trust be think go arrange meet be set
+Ross,Abberline,2.7027027027027026,0.0,48.64864864864865,INF,inform trust be think go arrange meet be set
+Dare,Jacky,4.069767441860465,2.9069767441860463,55.81395348837209,1.4,be have go choose go
+Darwin,Galton,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Darwin,Arnold,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Darwin,Dare,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Darwin,Galton,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Darwin,Arnold,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Darwin,Dare,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Galton,Arnold,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Galton,Dare,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Arnold,Dare,5.303030303030303,3.0303030303030303,61.36363636363637,1.75,have be take have question
+Harry,Dare,4.545454545454546,9.090909090909092,68.18181818181817,0.5,involve dare
+Harry,Dare,1.0416666666666665,1.5625,68.22916666666666,0.6666666666666666,be have figure be work drive dare
+Jack,Tom,2.5,2.1875,62.81250000000001,1.1428571428571428,take bribe keep be have
+Jack,Tom,2.5,2.1875,62.81250000000001,1.1428571428571428,take bribe keep be have
+University of London,Tom,2.976190476190476,0.0,44.642857142857146,INF,be know be
+Shakespeare,Wagner,3.767123287671233,2.2260273972602738,44.69178082191781,1.6923076923076923,be be understand lay be
+Jeb,Penny,1.1363636363636365,0.0,58.86363636363636,INF,turn know look provide designate forward
+Jeb,Penny,1.1363636363636365,0.0,58.86363636363636,INF,turn know look provide designate forward
+Pullham,Woodruff,0.6578947368421052,0.0,46.71052631578947,INF,commit
+Dare,Pullham,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Dare,Huw,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Dare,Woodruff,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Pullham,Huw,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Pullham,Woodruff,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Huw,Woodruff,1.5804597701149428,2.0114942528735633,53.879310344827594,0.7857142857142857,dare chart learn live stand be be be get
+Dare,Jack,2.1551724137931036,1.293103448275862,51.724137931034484,1.6666666666666667,hold mean bring
+Dare,Jack,2.1551724137931036,1.293103448275862,51.724137931034484,1.6666666666666667,hold mean bring
+Jeb,Dare,3.8793103448275863,2.1551724137931036,52.58620689655172,1.8,be make
+Jeb,University of London,3.8793103448275863,2.1551724137931036,52.58620689655172,1.8,be make
+Dare,University of London,3.8793103448275863,2.1551724137931036,52.58620689655172,1.8,be make
+Jeb,Jack,3.5256410256410255,0.641025641025641,47.11538461538461,5.5,be be express
+Pullham,Woodruff,4.166666666666666,0.0,29.166666666666668,INF,do prefer
+Woodruff,Jack,3.977272727272727,3.125,47.44318181818182,1.2727272727272727,have give be
+Woodruff,Jack,3.977272727272727,3.125,47.44318181818182,1.2727272727272727,have give be
+Woodruff,Jack,3.977272727272727,3.125,47.44318181818182,1.2727272727272727,have give be
+Jack,Annie,3.125,1.0416666666666665,45.83333333333333,3.0,be forget take
+Pullham,Jack,1.953125,1.171875,37.5,1.6666666666666667,say
+Abberline,Jack,3.7735849056603774,2.1226415094339623,56.367924528301884,1.7777777777777777,sit sip enjoy smoke laugh seem feel have assure lurk enjoy
+Judy,Jack,1.8292682926829267,0.3048780487804878,53.963414634146346,6.0,help think happen be steam set pop come decide do
+Mary Jane,McCarthy,4.583333333333333,0.0,45.416666666666664,INF,name know do live
+Mary Jane,McCarthy,4.583333333333333,0.0,45.416666666666664,INF,name know do live
+Mary Jane,McCarthy,4.583333333333333,0.0,45.416666666666664,INF,name know do live
+Jeb,Pullham,0.0,2.232142857142857,62.05357142857143,0.0,live
+Sahib,Howdah,0.4464285714285714,0.4464285714285714,59.82142857142857,1.0,pull cock hammer lunge fire
+Sahib,Howdah,0.4464285714285714,0.4464285714285714,59.82142857142857,1.0,pull cock hammer lunge fire
+Bobby,Dare,0.9433962264150944,3.0660377358490565,54.48113207547169,0.3076923076923077,be nestle happen be see come assure do
+Bobby,Dare,0.9433962264150944,3.0660377358490565,54.48113207547169,0.3076923076923077,be nestle happen be see come assure do
+Jack,Fournier,8.333333333333332,0.0,50.0,INF,see engage be
+Jack,Fournier,1.5625,9.375,43.22916666666667,0.16666666666666666,enjoy see know be stun
+Jack,Fournier,1.5625,9.375,43.22916666666667,0.16666666666666666,enjoy see know be stun
+Jack,Fournier,1.5625,9.375,43.22916666666667,0.16666666666666666,enjoy see know be stun
+Joe,Mary Jane,2.272727272727273,2.6515151515151514,55.68181818181818,0.8571428571428571,be accept be
+Joe,Mary Jane,2.272727272727273,2.6515151515151514,55.68181818181818,0.8571428571428571,be accept be
+Mary Jane,Joe,1.3888888888888888,0.6944444444444444,57.17592592592593,2.0,be be make take let hit
+Joe,Mary Jane,1.3888888888888888,0.6944444444444444,57.17592592592593,2.0,be be make take let hit
+Joe,Mary Jane,1.3888888888888888,0.6944444444444444,57.17592592592593,2.0,be be make take let hit
+Joe,Mary Jane,1.3888888888888888,0.6944444444444444,57.17592592592593,2.0,be be make take let hit
+Horn,Mary Jane,1.9230769230769231,7.6923076923076925,44.230769230769226,0.25,be
+George,Jack,2.293577981651376,1.3761467889908259,56.88073394495413,1.6666666666666667,have go whistle be yell be be say be sir hold get perambulate look travel
+Miller,Sherlock Holmes,0.5681818181818182,0.5681818181818182,62.5,1.0,solve
+Mary Jane,Joe,2.840909090909091,6.25,36.36363636363637,0.45454545454545453,puzzle worry have reunite go get marry
+Hanbury,Jack,1.953125,1.953125,52.34375,1.0,receive accompany begin be
+Jeb,Howdah,2.083333333333333,0.4166666666666667,54.166666666666664,5.0,have splay grip
+Pullham,Judy,0.0,2.976190476190476,58.92857142857143,0.0,be pull send be
+Pullham,Judy,0.0,2.976190476190476,58.92857142857143,0.0,be pull send be
+Lucy,Mother,6.666666666666667,0.0,53.333333333333336,INF,be
+Mother,Howdah,1.9607843137254901,3.1862745098039214,53.67647058823529,0.6153846153846154,leave be be pull lock be lock head
+Mother,Howdah,1.9607843137254901,3.1862745098039214,53.67647058823529,0.6153846153846154,leave be be pull lock be lock head
+Mr. O’Connor,Miller,0.0,0.0,51.85185185185185,INF,say have request be convey
+Warren,Jack,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,have do be
+Jack,Warren,5.978260869565218,5.163043478260869,56.25,1.1578947368421053,have look see be do exist seem enjoy start have resign
+Cavanagh,Central News Agency,3.4375000000000004,0.3125,46.25,11.0,see look
+Ross,Jeb,0.0,4.069767441860465,47.093023255813954,0.0,do want confer embarrass work shield whisper be
+Ross,Jeb,0.0,4.069767441860465,47.093023255813954,0.0,do want confer embarrass work shield whisper be
+Ross,Jeb,0.0,4.069767441860465,47.093023255813954,0.0,do want confer embarrass work shield whisper be
+Ross,Jeb,0.0,4.069767441860465,47.093023255813954,0.0,do want confer embarrass work shield whisper be
+Jeb,Ross,0.0,0.0,40.0,INF,say
+Dare,Mary Jane,2.380952380952381,0.2976190476190476,49.702380952380956,8.0,knock make get pay be
+Dare,Mary Jane,2.380952380952381,0.2976190476190476,49.702380952380956,8.0,knock make get pay be
+Arnold,Dr. Phillips,0.7978723404255319,2.127659574468085,60.90425531914894,0.375,be note seem have stop
+Arnold,Dr. Phillips,0.7978723404255319,2.127659574468085,60.90425531914894,0.375,be note seem have stop
+Arnold,Dr. Phillips,0.7978723404255319,2.127659574468085,60.90425531914894,0.375,be note seem have stop
+Abberline,Warren,0.0,0.0,50.0,INF,gaze strike come
+Abberline,Warren,3.6290322580645165,0.8064516129032258,66.53225806451613,4.5,have keep think see control
+Abberline,Warren,3.6290322580645165,0.8064516129032258,66.53225806451613,4.5,have keep think see control
+Warren,Arnold,0.6944444444444444,1.3888888888888888,64.58333333333334,0.5,watch go confer be give
+Jesus,Abberline,0.7352941176470588,4.411764705882353,41.911764705882355,0.16666666666666666,say
+Jesus,Jack,0.7352941176470588,4.411764705882353,41.911764705882355,0.16666666666666666,say
+Abberline,Jack,0.7352941176470588,4.411764705882353,41.911764705882355,0.16666666666666666,say
+Mary Jane,Jack,1.293103448275862,5.172413793103448,41.810344827586206,0.25,read drive be
+Mary Jane,Jack,1.293103448275862,5.172413793103448,41.810344827586206,0.25,read drive be
+Mary Jane,Jack,5.7926829268292686,5.7926829268292686,49.390243902439025,1.0,be have be be say be serve
+Jeb,Pullham,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jeb,Pullham,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jeb,Pullham,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jeb,Jack,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jeb,Mary Jane,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Jack,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Mary Jane,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Jack,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Mary Jane,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Jack,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Pullham,Mary Jane,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jack,Mary Jane,4.941860465116279,6.395348837209303,51.45348837209303,0.7727272727272727,be have be be set prevent get desire be stalk
+Jack,Mary Jane,4.336734693877551,2.295918367346939,54.59183673469388,1.8888888888888888,be preen feel be engineer work have make be seem have involve
+Jack,Mary Jane,4.336734693877551,2.295918367346939,54.59183673469388,1.8888888888888888,be preen feel be engineer work have make be seem have involve
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Jack,Mary Jane,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Jack,Mary Jane,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Jack,Mary Jane,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Jack,4.75,0.25,56.99999999999999,19.0,be help accord pass alert be alert have be
+Mary Jane,Dare,5.5,1.0,51.5,5.5,be be proclaim be have be desire be believe have achieve
+Goulston,Dare,3.070175438596491,3.070175438596491,55.26315789473685,1.0,sayeth be be suggest learn be
+Goulston,Dare,3.070175438596491,3.070175438596491,55.26315789473685,1.0,sayeth be be suggest learn be
+Goulston,Dare,3.070175438596491,3.070175438596491,55.26315789473685,1.0,sayeth be be suggest learn be
+Goulston,Dare,3.070175438596491,3.070175438596491,55.26315789473685,1.0,sayeth be be suggest learn be
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Mattuwes,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Mattuwes,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Chamberlain,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Matthews,Mattuwes,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Chamberlain,Mattuwes,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Chamberlain,Mattuwes,3.653846153846154,0.7692307692307693,52.5,4.75,take make christen make have do doubt
+Huw,Woodruff,5.555555555555555,6.481481481481481,47.22222222222222,0.8571428571428571,be be admire check
+Matthews,Mattuwes,0.0,0.0,14.285714285714285,INF,
+Shaw,George,0.8928571428571428,0.4464285714285714,45.089285714285715,2.0,be have ask be
+George,Shaw,0.8928571428571428,0.4464285714285714,45.089285714285715,2.0,be have ask be
+Jeb,Dare,4.891304347826087,1.0869565217391304,54.891304347826086,4.5,tell have show be predict have emerge
+Ross,Sherlock Holmes,1.2254901960784315,2.941176470588235,48.77450980392157,0.4166666666666667,say have accompany buttress wait get go take
+Ross,Sherlock Holmes,1.2254901960784315,2.941176470588235,48.77450980392157,0.4166666666666667,say have accompany buttress wait get go take
+Sexton Wilson,Leonard,3.0303030303030303,0.7575757575757576,56.81818181818182,4.0,turn be send name put
+Mary Jane,Marie Jeanette Kelly,0.7653061224489796,1.7857142857142856,44.38775510204081,0.42857142857142855,accompany die get have die
+Mary Jane,Marie Jeanette Kelly,0.7653061224489796,1.7857142857142856,44.38775510204081,0.42857142857142855,accompany die get have die
+Marie Jeanette Kelly,Mary Jane,0.7653061224489796,1.7857142857142856,44.38775510204081,0.42857142857142855,accompany die get have die
+Mary Jane,Marie Jeanette Kelly,0.7653061224489796,1.7857142857142856,44.38775510204081,0.42857142857142855,accompany die get have die
+Sexton Wilson,Leonard,2.0089285714285716,1.7857142857142856,53.34821428571429,1.125,go obtain make go be put be draw
+Mary Jane,Jack,0.6756756756756757,5.743243243243244,53.04054054054054,0.11764705882352941,think be invest give know say be offer want have invest shred splay
+Jack,Mary Jane,0.6756756756756757,5.743243243243244,53.04054054054054,0.11764705882352941,think be invest give know say be offer want have invest shred splay
+Jack,Mary Jane,0.6756756756756757,5.743243243243244,53.04054054054054,0.11764705882352941,think be invest give know say be offer want have invest shred splay
+Sexton Wilson,Leonard,3.024193548387097,1.6129032258064515,53.42741935483871,1.875,watch be remove bear say consecrate send
+Sexton Wilson,Mary Jane,3.024193548387097,1.6129032258064515,53.42741935483871,1.875,watch be remove bear say consecrate send
+Leonard,Mary Jane,3.024193548387097,1.6129032258064515,53.42741935483871,1.875,watch be remove bear say consecrate send
+Mary Jane,Joe,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Mary Jane,McCarthy,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Mary Jane,Joe,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Mary Jane,McCarthy,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Joe,Mary Jane,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Joe,McCarthy,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Joe,Mary Jane,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Mary Jane,McCarthy,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+McCarthy,Mary Jane,1.9817073170731707,1.676829268292683,47.5609756097561,1.1818181818181819,be transport soil claim know traverse clamber carriage have acquire begin
+Bishopsgate,Houndsditch,2.5,2.2222222222222223,53.05555555555556,1.125,course take cross evade have take head
+Bishopsgate,Kate,2.5,2.2222222222222223,53.05555555555556,1.125,course take cross evade have take head
+Houndsditch,Kate,2.5,2.2222222222222223,53.05555555555556,1.125,course take cross evade have take head
+Mother,George,0.24509803921568626,3.9215686274509802,46.81372549019608,0.0625,pull protect evince hear say tell amount
+Jack,John,3.3333333333333335,4.166666666666666,54.72222222222223,0.8,dip hope encounter come feel have breach depart
+Jack,Judy,3.3333333333333335,4.166666666666666,54.72222222222223,0.8,dip hope encounter come feel have breach depart
+John,Judy,3.3333333333333335,4.166666666666666,54.72222222222223,0.8,dip hope encounter come feel have breach depart
+Jekyll,Hyde,3.4090909090909087,0.0,23.863636363636363,INF,be
+Jack,Warren,2.717391304347826,1.6304347826086956,56.52173913043478,1.6666666666666667,halt solve have multiply
+Sherlock Holmes,Watson,3.8461538461538463,0.0,57.692307692307686,INF,see admit
+Sherlock Holmes,Watson,0.0,0.0,54.54545454545454,INF,solve tell
+Dare,Jeb,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Polly,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Annie,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Liz,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Kate,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Dare,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Polly,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Annie,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Liz,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Kate,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Jeb,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Annie,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Liz,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Kate,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Polly,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Liz,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Kate,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Liz,Kate,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Liz,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Liz,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Liz,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Kate,Mary Jane,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Kate,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Kate,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Mary Jane,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Mary Jane,Woodruff,3.0555555555555554,3.3333333333333335,42.5,0.9166666666666666,do dare rest
+Annie,Judy,2.9545454545454546,1.3636363636363635,50.227272727272734,2.1666666666666665,be name open find pickle make
+Conan Doyle,Louis Stevenson,1.8518518518518516,0.0,61.111111111111114,INF,have approach
+Conan Doyle,Dickens,1.8518518518518516,0.0,61.111111111111114,INF,have approach
+Conan Doyle,Dickens,1.8518518518518516,0.0,61.111111111111114,INF,have approach
+Louis Stevenson,Dickens,1.8518518518518516,0.0,61.111111111111114,INF,have approach
+Louis Stevenson,Dickens,1.8518518518518516,0.0,61.111111111111114,INF,have approach
+Sherlock Holmes,Dare,1.3392857142857142,4.464285714285714,62.05357142857143,0.3,see see
+Sherlock Holmes,Watson,1.3392857142857142,4.464285714285714,62.05357142857143,0.3,see see
+Dare,Watson,1.3392857142857142,4.464285714285714,62.05357142857143,0.3,see see
+Conan Doyle,Mr. Holmes,3.958333333333333,4.166666666666666,51.87500000000001,0.95,see be have think construct go achieve investigate see create
+Conan Doyle,Mr. Holmes,3.958333333333333,4.166666666666666,51.87500000000001,0.95,see be have think construct go achieve investigate see create
+Sherlock Holmes,Watson,1.875,3.75,54.37499999999999,0.5,be have do be
+Sherlock Holmes,Jack,1.875,3.75,54.37499999999999,0.5,be have do be
+Watson,Jack,1.875,3.75,54.37499999999999,0.5,be have do be
+Dare,Shaw,1.6666666666666667,5.833333333333333,59.166666666666664,0.2857142857142857,be have do be
+Kate,Goulston,3.0,1.5,47.5,2.0,have see have spend be have be leave
+Mother,Lucy,3.4090909090909087,2.556818181818182,62.21590909090909,1.3333333333333333,awake have be know sing
+Jack,Victoria,0.8928571428571428,2.6785714285714284,60.71428571428571,0.3333333333333333,be be
+Dare,Elizabeth,7.236842105263158,7.236842105263158,48.68421052631579,1.0,be announce disappear
+Dare,Elizabeth,7.236842105263158,7.236842105263158,48.68421052631579,1.0,be announce disappear
+Dare,Elizabeth,7.236842105263158,7.236842105263158,48.68421052631579,1.0,be announce disappear
+Dare,Elizabeth,7.236842105263158,7.236842105263158,48.68421052631579,1.0,be announce disappear
+Jeb,Dare,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Jeb,Dutfield,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Jeb,Elizabeth Stride,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Dare,Dutfield,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Dare,Elizabeth Stride,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Dutfield,Elizabeth Stride,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,invite meet
+Dutfield,Berner,1.1363636363636365,0.9090909090909091,50.68181818181819,1.25,return point form stand
+Hanbury,Miller,1.5625,5.078125,55.859375,0.3076923076923077,be construe
+Annie,Liz,3.5000000000000004,2.5,38.0,1.4,invite
+Liz,Elizabeth,0.6756756756756757,3.3783783783783785,52.702702702702695,0.2,labor be believe
+Woodruff,Elizabeth,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Woodruff,Elizabeth,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Woodruff,Elizabeth,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Woodruff,Elizabeth,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Elizabeth,Woodruff,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Woodruff,Elizabeth,2.5,5.833333333333333,41.66666666666667,0.42857142857142855,occur be send fear do
+Elizabeth,Woodruff,1.5625,3.90625,50.78125,0.4,step reveal
+Polly,Annie,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Polly,Liz,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Polly,Kate,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Polly,Mary Jane,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Annie,Liz,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Annie,Kate,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Annie,Mary Jane,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Liz,Kate,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Liz,Mary Jane,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see
+Kate,Mary Jane,1.3888888888888888,4.166666666666666,35.18518518518518,0.3333333333333333,page see

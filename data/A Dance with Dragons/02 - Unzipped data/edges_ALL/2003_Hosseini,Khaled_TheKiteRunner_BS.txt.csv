@@ -1,0 +1,1741 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Hassan,Ali,3.2407407407407405,1.8518518518518516,54.166666666666664,1.75,use catch get get
+Hassan,Ali,3.2407407407407405,1.8518518518518516,54.166666666666664,1.75,use catch get get
+Baba,Wazir Akbar Khan,5.147058823529411,0.3676470588235294,50.36764705882353,14.0,agree have build
+Baba,Ali,2.34375,2.34375,76.5625,1.0,recline have serve
+Baba,Ali,2.34375,2.34375,76.5625,1.0,recline have serve
+Baba,Rahim Khan,2.4390243902439024,0.3048780487804878,58.231707317073166,8.0,be stand smile be be hold look
+Baba,Rahim Khan,2.4390243902439024,0.3048780487804878,58.231707317073166,8.0,be stand smile be be hold look
+Rahim Khan,Baba,2.4390243902439024,0.3048780487804878,58.231707317073166,8.0,be stand smile be be hold look
+Baba,Rahim Khan,0.0,0.6578947368421052,57.23684210526315,0.0,be be be curl
+Baba,Ali,2.9166666666666665,2.083333333333333,61.66666666666667,1.4,have plant take
+Hassan,Baba,1.8382352941176472,1.8382352941176472,52.20588235294118,1.0,be live
+Hassan,Ali,2.0,0.5,57.49999999999999,4.0,live step
+Baba,Hassan,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,go have be bear live
+Hassan,Baba,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,go have be bear live
+Hassan,Baba,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,go have be bear live
+Hassan,Baba,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,go have be bear live
+Hassan,Baba,0.6578947368421052,2.302631578947368,57.56578947368421,0.2857142857142857,be fray do
+Baba,Ali,1.7857142857142856,0.0,55.35714285714286,INF,have buy
+Ali,Baba,1.7857142857142856,0.0,55.35714285714286,INF,have buy
+Hassan,Sanaubar,0.0,1.0416666666666665,53.125,0.0,be give
+Hassan,Baba,0.0,1.0416666666666665,53.125,0.0,be give
+Sanaubar,Baba,0.0,1.0416666666666665,53.125,0.0,be give
+Hassan,Baba,0.5952380952380952,1.7857142857142856,59.523809523809526,0.3333333333333333,hemorrhage lose be bear
+Hassan,Baba,0.5952380952380952,1.7857142857142856,59.523809523809526,0.3333333333333333,hemorrhage lose be bear
+Hassan,Baba,3.571428571428571,10.714285714285714,35.714285714285715,0.3333333333333333,talk have exist
+Baba,Hassan,3.571428571428571,10.714285714285714,35.714285714285715,0.3333333333333333,talk have exist
+Baba,Hassan,7.894736842105263,3.289473684210526,41.44736842105263,2.4,wonder dream look be
+Baba,Hassan,7.894736842105263,3.289473684210526,41.44736842105263,2.4,wonder dream look be
+Baba,Hassan,7.894736842105263,3.289473684210526,41.44736842105263,2.4,wonder dream look be
+Baba,Hassan,8.333333333333332,4.166666666666666,43.05555555555556,2.0,wonder long meet
+Baba,Hassan,2.7777777777777777,9.027777777777777,49.30555555555556,0.3076923076923077,do ache ache have meet
+Baba,Rahim Khan,2.5943396226415096,0.2358490566037736,59.43396226415094,11.0,be walk take have forbid take be
+Baba,Rahim Khan,2.5943396226415096,0.2358490566037736,59.43396226415094,11.0,be walk take have forbid take be
+Ali,Sanaubar,5.769230769230769,2.8846153846153846,63.141025641025635,2.0,have raise have memorize marry live
+Ali,Muslim,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be
+Ali,Hazara,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be
+Muslim,Hazara,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be
+Ali,Sanaubar,3.125,3.125,48.75,1.0,have
+Sanaubar,Ali,2.4456521739130435,2.717391304347826,49.184782608695656,0.9,have have tempt have render smile leave
+Sanaubar,Ali,2.4456521739130435,2.717391304347826,49.184782608695656,0.9,have have tempt have render smile leave
+Sanaubar,Ali,2.4456521739130435,2.717391304347826,49.184782608695656,0.9,have have tempt have render smile leave
+Sanaubar,Ali,2.4456521739130435,2.717391304347826,49.184782608695656,0.9,have have tempt have render smile leave
+Ali,Babalu,2.272727272727273,0.0,52.27272727272727,INF,have take call
+Ali,Hassan,1.4705882352941175,0.0,27.941176470588236,INF,call
+Ali,Hazara,1.4705882352941175,0.0,27.941176470588236,INF,call
+Ali,Hassan,1.4705882352941175,0.0,27.941176470588236,INF,call
+Ali,Hazara,1.4705882352941175,0.0,27.941176470588236,INF,call
+Hassan,Hazara,1.4705882352941175,0.0,27.941176470588236,INF,call
+Sanaubar,Ali,2.083333333333333,7.638888888888889,62.5,0.2727272727272727,share join taunt
+Hassan,Ali,0.0,7.5,45.83333333333333,0.0,have hear make
+Hassan,Ali,0.0,7.5,45.83333333333333,0.0,have hear make
+Ali,Sanaubar,2.0,2.0,56.00000000000001,1.0,suspect have be
+Ali,Sanaubar,2.0,2.0,56.00000000000001,1.0,suspect have be
+Ali,Sanaubar,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Sanaubar,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Sanaubar,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Sanaubar,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Sanaubar,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Ali,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Sanaubar,Hassan,3.225806451612903,2.4193548387096775,45.96774193548387,1.3333333333333333,be have find have give
+Sanaubar,Ali,3.6764705882352944,0.0,55.14705882352941,INF,lie stain help
+Hassan,Ali,7.758620689655173,4.310344827586207,43.103448275862064,1.8,have need be be hurt
+Hassan,Ali,7.758620689655173,4.310344827586207,43.103448275862064,1.8,have need be be hurt
+Sanaubar,Ali,1.8617021276595744,0.7978723404255319,63.297872340425535,2.3333333333333335,confide have tell listen have take see bark
+Baba,Hassan,1.7857142857142856,2.6785714285714284,66.96428571428571,0.6666666666666666,hire have feed
+Ali,Hassan,0.0,1.25,48.75,0.0,tell be
+Ali,Hazara,0.0,1.25,48.75,0.0,tell be
+Hassan,Hazara,0.0,1.25,48.75,0.0,tell be
+Babalu,Ali,2.2058823529411766,0.0,50.73529411764706,INF,have use say
+Hassan,Ali,3.804347826086957,0.0,52.71739130434783,INF,do sing ask know have tell
+Hassan,Ali,3.804347826086957,0.0,52.71739130434783,INF,do sing ask know have tell
+Ali,God,1.4423076923076923,0.0,56.25,INF,clear begin stand cry
+Ali,God,1.4423076923076923,0.0,56.25,INF,clear begin stand cry
+Ali,God,1.4423076923076923,0.0,56.25,INF,clear begin stand cry
+Ali,God,2.7777777777777777,5.555555555555555,47.22222222222222,0.5,bring
+Baba,Amir,0.0,0.0,50.0,INF,be
+Rahim Khan,Baba,0.0,0.0,55.55555555555556,INF,be refer become
+Rahim Khan,Toophan,0.0,0.0,55.55555555555556,INF,be refer become
+Rahim Khan,Baba,0.0,0.0,55.55555555555556,INF,be refer become
+Rahim Khan,Toophan,0.0,0.0,55.55555555555556,INF,be refer become
+Baba,Toophan,0.0,0.0,55.55555555555556,INF,be refer become
+Baba,Jadeh Maywand,2.1551724137931036,2.1551724137931036,40.51724137931034,1.0,pay
+Jadeh Maywand,Baba,2.1551724137931036,2.1551724137931036,40.51724137931034,1.0,pay
+Rahim Khan,Baba,1.3513513513513513,2.364864864864865,53.04054054054054,0.5714285714285714,tell have fund pay mention need
+Baba,Hassan,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,ask fetch lie tell have
+Baba,Hassan,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,ask fetch lie tell have
+Hassan,Baba,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,ask fetch lie tell have
+Baba,Hassan,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,ask fetch lie tell have
+Hassan,Baba,3.125,0.5208333333333333,54.6875,6.0,be skim make skip
+Hassan,Baba,3.125,0.5208333333333333,54.6875,6.0,be skim make skip
+Baba,Hassan,0.0,0.0,57.14285714285714,INF,be watch pat
+Baba,Hassan,0.0,0.0,57.14285714285714,INF,be watch pat
+Baba,Rahim Khan,3.4722222222222223,0.0,57.638888888888886,INF,build
+Baba,Sofia Akrami,5.989583333333334,3.3854166666666665,55.208333333333336,1.7692307692307692,scoff marry be wed educate regard respect
+Baba,Sofia Akrami,5.989583333333334,3.3854166666666665,55.208333333333336,1.7692307692307692,scoff marry be wed educate regard respect
+Baba,Sofia Akrami,5.989583333333334,3.3854166666666665,55.208333333333336,1.7692307692307692,scoff marry be wed educate regard respect
+Baba,Mullah Fatiullah Khan,4.326923076923077,0.9615384615384616,56.25,4.5,be tell have teach
+Baba,Mullah Fatiullah Khan,4.326923076923077,0.9615384615384616,56.25,4.5,be tell have teach
+Baba,Amir,3.125,2.083333333333333,42.01388888888889,1.5,tell say understand understand learn
+Ali,Baba,0.0,0.390625,65.234375,0.0,ask be be come know be overlook supervise
+Ali,Baba,0.0,0.390625,65.234375,0.0,ask be be come know be overlook supervise
+Ali,Baba,0.0,0.390625,65.234375,0.0,ask be be come know be overlook supervise
+Rahim Khan,Baba,1.6666666666666667,4.166666666666666,60.83333333333333,0.4,be have tell
+Amir,Baba,1.5625,2.34375,52.34375,0.6666666666666666,be steal say
+God,Baba,5.172413793103448,0.43103448275862066,59.91379310344828,12.0,be hope have attend eat
+Khayyám,Hãfez,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,want be recite
+Khayyám,Rumi,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,want be recite
+Hãfez,Rumi,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,want be recite
+Rumi,Hãfez,2.840909090909091,0.5681818181818182,32.95454545454545,5.0,read
+Rumi,Saadi,2.840909090909091,0.5681818181818182,32.95454545454545,5.0,read
+Hãfez,Saadi,2.840909090909091,0.5681818181818182,32.95454545454545,5.0,read
+Henry Kissinger,Rahim Khan,8.928571428571429,1.7857142857142856,32.142857142857146,5.0,be be say
+Rahim Khan,Baba,0.6578947368421052,0.0,62.5,INF,be know get say
+Rahim Khan,Baba,3.125,3.125,33.75,1.0,be mean know shoot
+Baba,Hassan,0.0,1.9736842105263157,55.92105263157895,0.0,be prepare ask be bother
+Baba,Zahir Shah,2.1739130434782608,0.2717391304347826,54.07608695652174,8.0,be bear begin get
+Baba,Ford,2.1739130434782608,0.2717391304347826,54.07608695652174,8.0,be bear begin get
+Zahir Shah,Baba,2.1739130434782608,0.2717391304347826,54.07608695652174,8.0,be bear begin get
+Zahir Shah,Ford,2.1739130434782608,0.2717391304347826,54.07608695652174,8.0,be bear begin get
+Baba,Ford,2.1739130434782608,0.2717391304347826,54.07608695652174,8.0,be bear begin get
+Ali,Baba,3.3333333333333335,2.083333333333333,67.91666666666667,1.6,grow cripple grow
+Ali,Hassan,3.3333333333333335,2.083333333333333,67.91666666666667,1.6,grow cripple grow
+Baba,Ali,3.3333333333333335,2.083333333333333,67.91666666666667,1.6,grow cripple grow
+Baba,Hassan,3.3333333333333335,2.083333333333333,67.91666666666667,1.6,grow cripple grow
+Ali,Hassan,3.3333333333333335,2.083333333333333,67.91666666666667,1.6,grow cripple grow
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Agha,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Agha,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Ali,Agha,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Ali,Agha,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Ali,Agha,1.358695652173913,4.3478260869565215,50.815217391304344,0.3125,be tell use cause shake say tell be
+Baba,Ali,0.0,0.0,60.0,INF,throw
+Baba,Ali,0.0,0.0,60.0,INF,throw
+Ali,Baba,0.78125,0.0,67.96875,INF,do refer
+Ali,Baba,0.78125,0.0,67.96875,INF,do refer
+Baba,Ali,0.78125,0.0,67.96875,INF,do refer
+Ali,Baba,0.78125,0.0,67.96875,INF,do refer
+Bravo,John Wayne,0.9615384615384616,0.0,56.730769230769226,INF,see
+Baba,John Wayne,0.0,0.0,68.75,INF,remember beg take meet
+Hassan,Ali,1.0080645161290323,2.82258064516129,57.45967741935484,0.35714285714285715,drag lumber have wash pray toast top place
+Ali,Hazara,0.0,0.0,60.86956521739131,INF,hear sing iron
+Ali,Hazara,0.0,0.0,60.86956521739131,INF,hear sing iron
+Hazara,Ali,0.0,0.0,60.86956521739131,INF,hear sing iron
+Baba,Ford,2.272727272727273,2.272727272727273,61.36363636363637,1.0,drive draw be have drive play
+Baba,Ford,2.272727272727273,2.272727272727273,61.36363636363637,1.0,drive draw be have drive play
+Hassan,Ali,0.8522727272727272,3.125,50.56818181818182,0.2727272727272727,stay help hang sweep buy marinate water
+Hassan,Wazir Akbar Khan,2.0161290322580645,0.0,56.048387096774185,INF,meet grab trot
+Ali,Amir,0.0,0.0,53.333333333333336,INF,use carve
+Ali,Hassan,0.0,0.0,53.333333333333336,INF,use carve
+Amir,Hassan,0.0,0.0,53.333333333333336,INF,use carve
+Ali,Hassan,3.9285714285714284,0.0,53.214285714285715,INF,sit leave pluck read read
+Hassan,Ali,3.9285714285714284,0.0,53.214285714285715,INF,sit leave pluck read read
+Hassan,Ali,3.9285714285714284,0.0,53.214285714285715,INF,sit leave pluck read read
+Hassan,Ali,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Hassan,Ali,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Hassan,Ali,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Hassan,Sanaubar,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Ali,Sanaubar,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Ali,Sanaubar,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Ali,Sanaubar,3.571428571428571,1.7857142857142856,59.94897959183674,2.0,grow have be decide have be bear have be conceive do have write
+Hassan,Mullah Nasruddin,5.357142857142857,0.5952380952380952,51.19047619047619,9.0,read be come do know
+Mullah Nasruddin,Rostam,0.8620689655172413,0.0,30.17241379310345,INF,be
+Mullah Nasruddin,Sohrab,0.8620689655172413,0.0,30.17241379310345,INF,be
+Mullah Nasruddin,Rostam,0.8620689655172413,0.0,30.17241379310345,INF,be
+Mullah Nasruddin,Rostam,0.8620689655172413,0.0,30.17241379310345,INF,be
+Rostam,Sohrab,0.8620689655172413,0.0,30.17241379310345,INF,be
+Sohrab,Rostam,0.8620689655172413,0.0,30.17241379310345,INF,be
+Sohrab,Rostam,0.8620689655172413,0.0,30.17241379310345,INF,be
+Rostam,Sohrab,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Rostam,Sohrab,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Rostam,Sohrab,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Rostam,Sohrab,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Sohrab,Rostam,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Sohrab,Rostam,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,discover be
+Amir,Hassan,3.90625,0.78125,48.4375,5.0,appeal be go read please say
+Hassan,Rostam,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Hassan,Rostam,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Hassan,Rostam,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Hassan,Sohrab,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Hassan,Rostam,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Rostam,Sohrab,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Rostam,Sohrab,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Rostam,Sohrab,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Sohrab,Rostam,4.25,4.0,45.75,1.0625,pool read wonder weep cover die long
+Rostam,Hassan,0.9259259259259258,1.3888888888888888,49.53703703703704,0.6666666666666666,start ask like rise begin clap
+Rostam,Hassan,0.9259259259259258,1.3888888888888888,49.53703703703704,0.6666666666666666,start ask like rise begin clap
+Baba,Rahim Khan,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,be smoke sip come
+Baba,Rahim Khan,9.166666666666666,2.5,61.66666666666667,3.6666666666666665,look have be rescue
+Baba,Rahim Khan,9.166666666666666,2.5,61.66666666666667,3.6666666666666665,look have be rescue
+Mashallah,God,6.25,1.25,52.5,5.0,have grant
+Rahim Khan,Ali,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,buoy grab hurry be sleep
+Rahim Khan,Hassan,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,buoy grab hurry be sleep
+Rahim Khan,Ali,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,buoy grab hurry be sleep
+Rahim Khan,Hassan,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,buoy grab hurry be sleep
+Ali,Hassan,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,buoy grab hurry be sleep
+Baba,Ali,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,be sleep be have watch
+Hassan,Baba,1.6666666666666667,0.0,58.333333333333336,INF,shake ask want hear
+Hassan,Baba,1.6666666666666667,0.0,58.333333333333336,INF,shake ask want hear
+Hassan,Ali,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,be immerse shift change
+Mashallah,Amir,0.0,0.0,33.33333333333333,INF,
+Hassan,Ali,7.5,0.0,25.833333333333336,INF,exaggerate say love
+Hassan,Ali,0.0,0.0,33.33333333333333,INF,yelp outstretch
+Hassan,Ali,0.0,0.0,33.33333333333333,INF,yelp outstretch
+Hassan,Baba,0.35714285714285715,1.4285714285714286,61.07142857142858,0.25,remember crouch sip listen break
+Hassan,Rahim Khan,0.35714285714285715,1.4285714285714286,61.07142857142858,0.25,remember crouch sip listen break
+Baba,Rahim Khan,0.35714285714285715,1.4285714285714286,61.07142857142858,0.25,remember crouch sip listen break
+Hassan,Baba,0.0,1.4705882352941175,57.35294117647059,0.0,go get run grab
+Assef,Wali,2.5,0.8333333333333334,30.0,3.0,be approach
+Assef,Kamal,2.5,0.8333333333333334,30.0,3.0,be approach
+Assef,Wali,2.5,0.8333333333333334,30.0,3.0,be approach
+Assef,Kamal,2.5,0.8333333333333334,30.0,3.0,be approach
+Wali,Kamal,2.5,0.8333333333333334,30.0,3.0,be approach
+Assef,Mahmood,0.6944444444444444,0.6944444444444444,43.05555555555556,1.0,be
+Wazir Akbar Khan,Assef,4.296875,3.125,45.703125,1.375,be know
+Wazir Akbar Khan,Assef,4.296875,3.125,45.703125,1.375,be know
+Wazir Akbar Khan,Assef,2.272727272727273,0.0,38.63636363636363,INF,have nickname
+Wazir Akbar Khan,Assef,2.272727272727273,0.0,38.63636363636363,INF,have nickname
+Wazir Akbar Khan,Assef,2.272727272727273,0.0,38.63636363636363,INF,have nickname
+Wazir Akbar Khan,Assef,2.272727272727273,0.0,38.63636363636363,INF,have nickname
+Ali,Assef,3.6764705882352944,0.0,55.14705882352941,INF,be
+Assef,Babalu,2.1739130434782608,1.6304347826086956,39.67391304347826,1.3333333333333333,be do eat
+Assef,Babalu,2.1739130434782608,1.6304347826086956,39.67391304347826,1.3333333333333333,be do eat
+Assef,Babalu,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,feel inspire spice badger flat-nose do eat
+Assef,Babalu,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,feel inspire spice badger flat-nose do eat
+Assef,Babalu,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,feel inspire spice badger flat-nose do eat
+Baba,Assef,4.545454545454546,2.272727272727273,59.84848484848485,2.0,occur be have believe have refrain harass
+Assef,Hassan,0.0,0.0,42.857142857142854,INF,tip
+Assef,Hassan,0.0,0.0,42.857142857142854,INF,tip
+Daoud Khan,Amir,8.928571428571429,0.0,33.92857142857143,INF,know do know
+Kamal,Wali,0.0,0.0,42.857142857142854,INF,cackle
+Daoud Khan,Assef,0.0,0.0,52.94117647058824,INF,dine go
+Daoud Khan,Hitler,3.571428571428571,0.4464285714285714,56.69642857142857,8.0,tell remember have let finish have start be
+Daoud Khan,Hitler,3.571428571428571,0.4464285714285714,56.69642857142857,8.0,tell remember have let finish have start be
+Baba,Hitler,2.734375,2.734375,63.28125,1.0,say be order kill hear say clamp
+Baba,Hitler,2.734375,2.734375,63.28125,1.0,say be order kill hear say clamp
+Assef,Hassan,8.928571428571429,3.571428571428571,30.357142857142854,2.5,flick
+Hitler,Assef,1.25,2.5,46.25,0.5,say
+Wali,Kamal,0.0,1.3888888888888888,43.05555555555556,0.0,nod grunt
+Baba,Hassan,1.7857142857142856,0.0,51.78571428571429,INF,come visit do include
+Kamal,Wali,2.717391304347826,3.804347826086957,54.347826086956516,0.7142857142857143,see see have happen
+Hassan,Assef,0.0,0.0,54.54545454545454,INF,hold point
+Agha,Hassan,5.46875,2.34375,54.6875,2.3333333333333335,please leave say
+Assef,Agha,4.411764705882353,0.3676470588235294,56.98529411764706,12.0,refer wonder be live
+Assef,Agha,4.411764705882353,0.3676470588235294,56.98529411764706,12.0,refer wonder be live
+Agha,Hassan,5.208333333333334,0.0,44.79166666666667,INF,please leave be say
+Wali,Kamal,4.166666666666666,0.0,20.833333333333336,INF,watch
+Assef,Hassan,0.0,0.0,25.0,INF,look
+Assef,Hassan,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,search
+Assef,Hassan,4.3478260869565215,0.0,47.82608695652174,INF,find have convince lower
+Assef,Hassan,4.3478260869565215,0.0,47.82608695652174,INF,find have convince lower
+Hassan,Assef,4.3478260869565215,0.0,47.82608695652174,INF,find have convince lower
+Hassan,Assef,4.3478260869565215,0.0,47.82608695652174,INF,find have convince lower
+Hazara,Assef,8.333333333333332,1.6666666666666667,23.333333333333332,5.0,know say
+Hazara,Amir,2.5,5.0,45.83333333333333,0.5,make say
+Hazara,Assef,2.5,5.0,45.83333333333333,0.5,make say
+Amir,Assef,2.5,5.0,45.83333333333333,0.5,make say
+Hassan,Assef,1.4705882352941175,0.0,57.35294117647059,INF,be try tuck tremble
+Hassan,Ali,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,follow be play build call
+Hassan,Ali,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,follow be play build call
+Hassan,Agha,0.0,3.125,30.208333333333332,0.0,want talk
+Ali,Hassan,1.5625,0.78125,47.65625,2.0,have be wait be
+Hassan,Ali,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be lie
+Ali,Baba,4.605263157894736,4.605263157894736,48.68421052631579,1.0,pretend know have buy
+Ali,Hassan,4.605263157894736,4.605263157894736,48.68421052631579,1.0,pretend know have buy
+Baba,Hassan,4.605263157894736,4.605263157894736,48.68421052631579,1.0,pretend know have buy
+Baba,Hassan,0.0,12.5,44.642857142857146,0.0,miss
+Baba,Hassan,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Baba,Hassan,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Hassan,Baba,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Hassan,Baba,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Baba,Hassan,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Baba,Hassan,4.032258064516129,2.4193548387096775,58.06451612903226,1.6666666666666667,use ask want give do be suggest
+Baba,Hassan,5.059523809523809,4.166666666666666,43.154761904761905,1.2142857142857142,have surprise wear have
+Hassan,Baba,2.2058823529411766,0.0,38.970588235294116,INF,say smile meet
+Ali,Baba,3.977272727272727,1.7045454545454544,71.5909090909091,2.3333333333333335,stand look
+Salaam,Hassan,0.0,1.3888888888888888,31.944444444444443,0.0,say
+Ali,Hassan,5.208333333333334,0.0,53.125,INF,move set
+Ali,Hassan,5.208333333333334,0.0,53.125,INF,move set
+Baba,Hassan,11.363636363636363,4.545454545454546,29.545454545454547,2.5,meet puzzle
+Hassan,Dr. Kumar,0.0,0.0,40.0,INF,shake
+Dr. Kumar,Baba,0.0,0.0,50.0,INF,look
+Dr. Kumar,Ali,0.0,0.0,50.0,INF,look
+Dr. Kumar,Baba,0.0,0.0,50.0,INF,look
+Dr. Kumar,Ali,0.0,0.0,50.0,INF,look
+Baba,Ali,0.0,0.0,50.0,INF,look
+Agha,Dr. Kumar,4.891304347826087,1.0869565217391304,46.19565217391305,4.5,do intervene smile
+Agha,Hassan,7.291666666666667,2.604166666666667,48.4375,2.8,be scare have be fool be
+Hassan,Baba,8.333333333333332,2.380952380952381,41.66666666666667,3.5,have do earn be bear
+Hassan,Baba,8.333333333333332,2.380952380952381,41.66666666666667,3.5,have do earn be bear
+Ali,Hassan,10.0,2.5,54.166666666666664,4.0,hold take
+Ali,Hassan,10.0,2.5,54.166666666666664,4.0,hold take
+Ahmad Zahir,Assef,1.0869565217391304,2.717391304347826,57.065217391304344,0.4,have wear be
+Ahmad Zahir,Assef,1.0869565217391304,2.717391304347826,57.065217391304344,0.4,have wear be
+Baba,Saifo,3.8461538461538463,0.9615384615384616,49.03846153846153,4.0,start take buy
+Baba,Hassan,6.048387096774194,1.6129032258064515,50.403225806451616,3.75,change ask buy buy
+Baba,Hassan,6.048387096774194,1.6129032258064515,50.403225806451616,3.75,change ask buy buy
+Ali,Hassan,2.272727272727273,0.0,56.81818181818182,INF,have serve curry have retire
+Marjan,Baba,1.7857142857142856,0.0,44.642857142857146,INF,go see yawn steal
+Marjan,Baba,1.7857142857142856,0.0,44.642857142857146,INF,go see yawn steal
+Baba,Amir,1.0416666666666665,0.0,73.95833333333334,INF,call do
+Baba,Rahim Khan,1.0416666666666665,0.0,73.95833333333334,INF,call do
+Amir,Rahim Khan,1.0416666666666665,0.0,73.95833333333334,INF,call do
+Hassan,Ali,0.0,3.125,53.125,0.0,kill play
+Baba,Rahim Khan,1.2096774193548387,3.225806451612903,56.85483870967742,0.375,be discuss recognize
+Baba,Assef,1.2096774193548387,3.225806451612903,56.85483870967742,0.375,be discuss recognize
+Baba,Rahim Khan,1.2096774193548387,3.225806451612903,56.85483870967742,0.375,be discuss recognize
+Baba,Assef,1.2096774193548387,3.225806451612903,56.85483870967742,0.375,be discuss recognize
+Rahim Khan,Assef,1.2096774193548387,3.225806451612903,56.85483870967742,0.375,be discuss recognize
+Hassan,Baba,1.25,7.5,41.25,0.16666666666666666,be live
+Baba,Hassan,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,brew tell have
+Hassan,Baba,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,brew tell have
+Agha,Rahim Khan,0.8620689655172413,2.586206896551724,41.37931034482759,0.3333333333333333,be say
+Agha,Baba,0.8620689655172413,2.586206896551724,41.37931034482759,0.3333333333333333,be say
+Rahim Khan,Baba,0.8620689655172413,2.586206896551724,41.37931034482759,0.3333333333333333,be say
+Amir,Hassan,0.0,0.0,43.58974358974359,INF,change call get charge
+Baba,Rahim Khan,0.0,0.0,62.96296296296296,INF,turn gaze find sit dress sip
+Baba,Hassan,0.0,0.0,61.53846153846154,INF,tell be wave
+Hassan,Baba,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,read read
+Hassan,Baba,4.464285714285714,0.0,59.82142857142857,INF,occur have make
+Baba,Saifo,2.586206896551724,3.4482758620689653,42.241379310344826,0.75,lift meet mark
+Baba,God,4.375,1.25,64.375,3.5,have make
+Baba,Rahim Khan,2.5,0.0,67.5,INF,keep steal sit wonder be think
+Baba,Rahim Khan,2.5,0.0,67.5,INF,keep steal sit wonder be think
+Baba,God,2.840909090909091,3.4090909090909087,66.47727272727273,0.8333333333333334,be be say let win
+Bravo,Amir,0.0,0.0,50.0,INF,
+Hassan,Baba,4.166666666666666,0.0,29.166666666666668,INF,know say break embrace
+Baba,Hassan,4.166666666666666,4.166666666666666,50.0,1.0,smile disappear
+Baba,Hassan,4.166666666666666,4.166666666666666,50.0,1.0,smile disappear
+Baba,Polaroid,3.571428571428571,0.0,72.61904761904762,INF,see smile be fade
+Ali,Baba,6.25,3.125,65.625,2.0,do ask
+Rostam,Sohrab,0.0,7.8125,42.1875,0.0,size
+Omar,Baba,0.5434782608695652,0.5434782608695652,55.434782608695656,1.0,see be
+Amir,Omar,0.0,0.0,50.0,INF,hear win say
+Amir,Agha,7.5,1.25,31.25,6.0,need find
+Hassan,Daoud Khan,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,block be have save
+Hassan,Daoud Khan,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,block be have save
+Daoud Khan,Hassan,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,block be have save
+Hassan,Daoud Khan,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,block be have save
+Wali,Kamal,0.6578947368421052,3.289473684210526,43.42105263157895,0.2,be stand
+Wali,Assef,0.6578947368421052,3.289473684210526,43.42105263157895,0.2,be stand
+Kamal,Assef,0.6578947368421052,3.289473684210526,43.42105263157895,0.2,be stand
+Assef,Hassan,2.82258064516129,4.032258064516129,44.75806451612903,0.7,shift look corner
+Hassan,Assef,2.82258064516129,4.032258064516129,44.75806451612903,0.7,shift look corner
+Hazara,Assef,8.928571428571429,0.8928571428571428,33.035714285714285,10.0,be say
+Kamal,Assef,0.7352941176470588,2.941176470588235,66.91176470588235,0.25,be try sound be
+Kamal,Assef,0.7352941176470588,2.941176470588235,66.91176470588235,0.25,be try sound be
+Assef,Hassan,9.821428571428571,8.035714285714286,39.285714285714285,1.2222222222222223,understand be
+Hazara,Assef,5.147058823529411,0.0,30.14705882352941,INF,be say take
+Hazara,Hassan,5.147058823529411,0.0,30.14705882352941,INF,be say take
+Assef,Hassan,5.147058823529411,0.0,30.14705882352941,INF,be say take
+Hassan,Kamal,2.604166666666667,4.6875,46.875,0.5555555555555556,be stand see creep shake
+Hassan,Kamal,2.604166666666667,4.6875,46.875,0.5555555555555556,be stand see creep shake
+Amir,Hassan,1.0416666666666665,0.0,48.95833333333333,INF,be say
+Assef,Hassan,3.125,2.604166666666667,48.4375,1.2,motion separate form
+Assef,Hassan,3.125,2.604166666666667,48.4375,1.2,motion separate form
+Assef,Hassan,0.0,0.0,46.666666666666664,INF,yelp fling knock
+Assef,Hassan,0.0,0.0,46.666666666666664,INF,yelp fling knock
+Hassan,Assef,0.0,0.0,46.666666666666664,INF,yelp fling knock
+Wali,Kamal,0.0,0.0,20.0,INF,follow
+Hassan,Hazara,0.0,0.0,44.44444444444444,INF,be sing
+Hazara,Hassan,0.0,0.0,44.44444444444444,INF,be sing
+Hassan,Wali,0.0,0.0,40.0,INF,lay pin
+Kamal,Wali,3.0,1.0,48.0,3.0,grip twist be press
+Kamal,Hassan,3.0,1.0,48.0,3.0,grip twist be press
+Wali,Hassan,3.0,1.0,48.0,3.0,grip twist be press
+Wali,Kamal,3.0,1.0,48.0,3.0,grip twist be press
+Hassan,Kamal,3.0,1.0,48.0,3.0,grip twist be press
+Assef,Hassan,0.625,0.0,44.375,INF,be stand crush
+Assef,Hassan,0.625,0.0,44.375,INF,be stand crush
+Assef,Kamal,0.0,0.0,40.0,INF,turn
+Hazara,Assef,3.6764705882352944,0.0,31.61764705882353,INF,be say
+Wali,Kamal,0.0,0.0,20.0,INF,nod
+Assef,Hassan,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Assef,Hassan,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Hassan,Assef,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Hassan,Assef,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Assef,Hassan,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Hassan,Assef,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,kneel put lift
+Assef,Hassan,5.263157894736842,0.0,57.89473684210527,INF,keep undo
+Hassan,Assef,5.263157894736842,0.0,57.89473684210527,INF,keep undo
+Hassan,Assef,5.263157894736842,0.0,57.89473684210527,INF,keep undo
+Assef,Hassan,0.0,0.0,50.0,INF,position
+Muslim,God,0.5,1.25,50.24999999999999,0.4,be call celebrate sacrifice
+Hassan,Ali,0.0,0.0,43.75,INF,stand
+Hassan,Baba,0.0,0.0,43.75,INF,stand
+Ali,Baba,0.0,0.0,43.75,INF,stand
+Hassan,Assef,1.7857142857142856,0.0,46.785714285714285,INF,step stand stand accept happen
+Hassan,Baba,3.125,3.125,53.75,1.0,be have pay have slay win
+Baba,Hazara,4.891304347826087,0.0,55.97826086956522,INF,float thwart be be
+Hazara,Baba,4.891304347826087,0.0,55.97826086956522,INF,float thwart be be
+Hassan,Assef,0.0,2.8846153846153846,58.65384615384615,0.0,drag wipe
+Agha,God,3.125,0.0,63.541666666666664,INF,worry be say
+Baba,Rahim Khan,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,be drink listen crackle
+Hassan,Baba,1.0,0.5,50.5,2.0,be iron fold leave do
+Ali,Hassan,0.0,0.0,42.857142857142854,INF,ask be
+Hassan,Baba,0.7352941176470588,0.7352941176470588,51.470588235294116,1.0,have see say
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Baba,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Homayoun,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Nader,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Kaka Homayoun,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Nader,Kaka Faruq,2.6729559748427674,1.4937106918238994,54.32389937106918,1.7894736842105263,call be mention be go have study have say love have bring be be visit like tag be stay have be invite have go be invite have be ask be hurt invite fill
+Baba,Rahim Khan,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Baba,Kaka Homayoun,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Baba,Kaka Homayoun,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Baba,Khala Jamila,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Rahim Khan,Kaka Homayoun,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Rahim Khan,Baba,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Rahim Khan,Kaka Homayoun,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Rahim Khan,Khala Jamila,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Kaka Homayoun,Baba,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Kaka Homayoun,Khala Jamila,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Baba,Kaka Homayoun,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Baba,Khala Jamila,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Kaka Homayoun,Khala Jamila,3.8461538461538463,0.3205128205128205,54.807692307692314,12.0,ride have teach call
+Fazila,Karima,0.9146341463414633,3.048780487804878,49.69512195121951,0.3,ask tell be trade get
+Hassan,Amir,0.0,0.0,50.0,INF,run
+Rahim Khan,Baba,0.0,0.0,56.25,INF,sit be
+Baba,Kaka Homayoun,2.1739130434782608,0.0,54.347826086956516,INF,be smoke be tell stop cry buy
+Kaka Homayoun,Baba,2.1739130434782608,0.0,54.347826086956516,INF,be smoke be tell stop cry buy
+Baba,Rahim Khan,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,be sit
+Baba,Kaka Homayoun,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,be sit
+Baba,Kaka Homayoun,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,be sit
+Rahim Khan,Kaka Homayoun,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,be sit
+Rahim Khan,Kaka Homayoun,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,be sit
+Baba,Kaka Faruq,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,be sit eat
+Baba,Kaka Homayoun,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,be sit eat
+Kaka Faruq,Kaka Homayoun,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,be sit eat
+Hassan,Kaka Homayoun,1.6666666666666667,2.5,42.5,0.6666666666666666,have grab drag
+Hassan,Kaka Homayoun,4.605263157894736,3.9473684210526314,54.60526315789473,1.1666666666666667,look lose have form
+Hassan,Kaka Homayoun,4.605263157894736,3.9473684210526314,54.60526315789473,1.1666666666666667,look lose have form
+Ali,Amir,0.3787878787878788,0.0,51.13636363636363,INF,carve stand look
+Ali,Hassan,0.3787878787878788,0.0,51.13636363636363,INF,carve stand look
+Amir,Hassan,0.3787878787878788,0.0,51.13636363636363,INF,carve stand look
+Kaka Homayoun,Kaka Faruq,0.0,0.0,44.44444444444444,INF,eat go see
+Rahim Khan,Baba,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,come let sit
+Rahim Khan,Baba,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,come let sit
+Ali,Baba,0.8928571428571428,0.0,63.39285714285714,INF,grow say clench
+Amir,Baba,2.232142857142857,2.232142857142857,52.67857142857143,1.0,have lay say look shake
+Amir,Baba,2.232142857142857,2.232142857142857,52.67857142857143,1.0,have lay say look shake
+Hassan,Baba,0.0,5.681818181818182,39.77272727272727,0.0,go snap
+Hassan,Wazir Akbar Khan,0.0,6.8181818181818175,38.63636363636363,0.0,look stain
+Hassan,Wazir Akbar Khan,4.6875,0.625,69.6875,7.5,do get stand look daze drag be enjoy stroll
+Hassan,Wazir Akbar Khan,4.6875,0.625,69.6875,7.5,do get stand look daze drag be enjoy stroll
+Hassan,Wazir Akbar Khan,2.083333333333333,2.083333333333333,62.5,1.0,do pelt
+Hassan,Wazir Akbar Khan,5.416666666666667,5.833333333333333,58.75,0.9285714285714286,know be stop exhaust be smear be shoot
+Hãfez,Khayyám,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,go thumb write
+Dello,Baba,1.875,1.875,41.25,1.0,call refuse
+Dello,Baba,1.875,1.875,41.25,1.0,call refuse
+Dello,Baba,1.875,1.875,41.25,1.0,call refuse
+Rahim Khan,Dello,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Rahim Khan,Baba,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Rahim Khan,Dello,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Rahim Khan,Baba,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Dello,Baba,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Dello,Baba,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Baba,Dello,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Dello,Baba,0.9259259259259258,0.9259259259259258,53.70370370370371,1.0,be whisper marinate have lend open
+Baba,Dello,1.7241379310344827,2.1551724137931036,61.63793103448276,0.8,have refuse have show insist leave take
+Dello,Baba,1.7241379310344827,2.1551724137931036,61.63793103448276,0.8,have refuse have show insist leave take
+Dello,Baba,1.7241379310344827,2.1551724137931036,61.63793103448276,0.8,have refuse have show insist leave take
+Dello,Baba,1.7241379310344827,2.1551724137931036,61.63793103448276,0.8,have refuse have show insist leave take
+Baba,Amir,4.545454545454546,0.0,54.54545454545454,INF,be stand say
+Assef,Mahmood,0.625,2.5,46.875,0.25,be
+Assef,Tanya,0.0,0.0,61.111111111111114,INF,be smile blink
+Tanya,Assef,4.807692307692308,2.8846153846153846,30.76923076923077,1.6666666666666667,twitch flick
+Tanya,Assef,4.807692307692308,2.8846153846153846,30.76923076923077,1.6666666666666667,twitch flick
+Baba,Assef,3.4090909090909087,0.0,51.13636363636363,INF,want be
+Assef,Baba,14.0625,0.0,60.9375,INF,favor
+Baba,Assef,0.9615384615384616,2.8846153846153846,57.692307692307686,0.3333333333333333,elbow knock
+Mahmood,Tanya,5.357142857142857,1.7857142857142856,50.0,3.0,be wonder frighten
+Wali,Kamal,1.5625,3.125,32.8125,0.5,be
+Assef,Baba,0.0,6.25,35.41666666666667,0.0,say shrug
+Baba,Amir,0.0,0.0,63.63636363636363,INF,do call
+Baba,Assef,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,embarrass get step
+Baba,Assef,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,embarrass get step
+Baba,Rahim Khan,1.0416666666666665,0.5208333333333333,65.10416666666666,2.0,hear tell have buy be work
+Rahim Khan,Baba,1.3888888888888888,0.6944444444444444,64.58333333333334,2.0,light be
+Rahim Khan,Baba,1.3888888888888888,0.6944444444444444,64.58333333333334,2.0,light be
+Rahim Khan,Baba,3.571428571428571,2.380952380952381,53.57142857142857,1.5,think alter write forget bring return
+Rahim Khan,Baba,3.571428571428571,2.380952380952381,53.57142857142857,1.5,think alter write forget bring return
+Hassan,Assef,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,see forget serve
+Hassan,Wali,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,see forget serve
+Assef,Wali,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,see forget serve
+Assef,Hassan,1.6666666666666667,0.4166666666666667,54.58333333333333,4.0,wink crackle knead
+Rahim Khan,Homaira,5.182926829268292,1.524390243902439,46.95121951219512,3.4,sit turn think have say dismiss have be
+Homaira,Rahim Khan,5.182926829268292,1.524390243902439,46.95121951219512,3.4,sit turn think have say dismiss have be
+Kaka Homayoun,Hassan,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Kaka Homayoun,Assef,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Kaka Homayoun,Wali,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Hassan,Kaka Homayoun,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Hassan,Assef,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Hassan,Wali,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Kaka Homayoun,Assef,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Kaka Homayoun,Wali,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Assef,Wali,2.2435897435897436,0.0,49.03846153846153,INF,get stick keep flash serve
+Hassan,Ali,1.0869565217391304,1.0869565217391304,54.347826086956516,1.0,roll be clean
+Salaam,Ali,0.0,0.0,50.0,INF,say wave
+Hassan,Ali,1.9230769230769231,2.403846153846154,45.67307692307692,0.8,present give say hand
+Rostam,Sohrab,0.0,3.4722222222222223,35.41666666666667,0.0,inflict
+Rostam,Sohrab,0.0,3.4722222222222223,35.41666666666667,0.0,inflict
+Hassan,Ali,1.0869565217391304,2.1739130434782608,44.565217391304344,0.5,say be be miss say
+Ali,Hassan,0.0,0.0,57.14285714285714,INF,look wait go push
+Ali,Hassan,0.0,0.0,57.14285714285714,INF,go cross enter
+Ali,Hassan,0.4629629629629629,0.0,55.092592592592595,INF,watch push load
+Baba,Ali,0.0,0.0,61.53846153846154,INF,see emerge walk
+Baba,Ali,0.0,0.0,55.55555555555556,INF,point nod
+Baba,Ali,0.8928571428571428,0.0,49.107142857142854,INF,come follow
+Baba,Hassan,0.8928571428571428,0.0,49.107142857142854,INF,come follow
+Ali,Hassan,0.8928571428571428,0.0,49.107142857142854,INF,come follow
+Hassan,Ali,0.0,0.0,76.92307692307693,INF,be join
+Amir,Hassan,5.0,0.0,35.0,INF,do steal
+Baba,Hassan,0.6578947368421052,4.605263157894736,47.368421052631575,0.14285714285714285,say have believe know lie
+Baba,Hassan,0.6578947368421052,4.605263157894736,47.368421052631575,0.14285714285714285,say have believe know lie
+Baba,Hassan,0.6578947368421052,4.605263157894736,47.368421052631575,0.14285714285714285,say have believe know lie
+Baba,Hassan,15.625,0.0,34.375,INF,forgive
+Agha,Ali,0.0,0.0,50.0,INF,be leave say
+Agha,Ali,1.7857142857142856,0.0,41.07142857142857,INF,forgive do hear
+Ali,Hassan,0.0,0.0,46.666666666666664,INF,draw curl
+Ali,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Ali,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Ali,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Hassan,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Hassan,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Hassan,Baba,0.0,0.0,46.666666666666664,INF,draw curl
+Ali,Hassan,1.25,4.375,49.375,0.2857142857142857,glance see have tell
+Ali,Hassan,1.25,4.375,49.375,0.2857142857142857,glance see have tell
+Hassan,Ali,1.25,4.375,49.375,0.2857142857142857,glance see have tell
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Ali,Assef,8.854166666666668,3.6458333333333335,33.33333333333333,2.4285714285714284,have tell have do
+Agha,Ali,4.375,4.375,51.24999999999999,1.0,do make be say
+Hassan,Ali,2.4193548387096775,0.4032258064516129,55.24193548387096,6.0,force look be slump twirl
+Hassan,Ali,2.4193548387096775,0.4032258064516129,55.24193548387096,6.0,force look be slump twirl
+Hassan,Ali,2.4193548387096775,0.4032258064516129,55.24193548387096,6.0,force look be slump twirl
+Hassan,Ali,2.4193548387096775,0.4032258064516129,55.24193548387096,6.0,force look be slump twirl
+Ali,Baba,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,do tell do confess
+Ali,Hassan,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,do tell do confess
+Baba,Ali,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,do tell do confess
+Baba,Hassan,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,do tell do confess
+Ali,Hassan,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,do tell do confess
+Hassan,Ali,4.296875,6.640625,48.4375,0.6470588235294118,know imagine weep plead give
+Agha,Ali,0.7352941176470588,0.0,46.32352941176471,INF,forbid say
+Baba,Ali,4.761904761904762,0.0,47.61904761904761,INF,be say have turn trail
+Baba,Hassan,4.761904761904762,0.0,47.61904761904761,INF,be say have turn trail
+Baba,Ali,4.761904761904762,0.0,47.61904761904761,INF,be say have turn trail
+Ali,Hassan,4.761904761904762,0.0,47.61904761904761,INF,be say have turn trail
+Hassan,Ali,4.761904761904762,0.0,47.61904761904761,INF,be say have turn trail
+Baba,Ali,0.0,0.8333333333333334,59.166666666666664,0.0,rain take
+Baba,Hassan,0.0,0.8333333333333334,59.166666666666664,0.0,rain take
+Ali,Hassan,0.0,0.8333333333333334,59.166666666666664,0.0,rain take
+Baba,Ali,1.7857142857142856,2.6785714285714284,45.535714285714285,0.6666666666666666,have offer drive refuse
+Ali,Baba,0.4032258064516129,0.0,51.20967741935484,INF,watch haul carry idle
+Hassan,Baba,0.0,1.4705882352941175,51.470588235294116,0.0,lug roll tie
+Hassan,Baba,0.0,1.4705882352941175,51.470588235294116,0.0,lug roll tie
+Hassan,Baba,0.0,7.291666666666667,46.875,0.0,pull tell be mix
+Hassan,Baba,1.7241379310344827,1.7241379310344827,65.51724137931035,1.0,catch slump turn leave play
+Karim,Toor,2.7777777777777777,0.8333333333333334,54.166666666666664,3.3333333333333335,be take have be wait drive
+Karim,Toor,2.7777777777777777,0.8333333333333334,54.166666666666664,3.3333333333333335,be take have be wait drive
+Baba,Karim,1.9736842105263157,0.0,66.44736842105263,INF,hear discuss
+Karim,Baba,5.416666666666667,1.25,40.0,4.333333333333333,be reassure have be
+Baba,Karim,5.416666666666667,1.25,40.0,4.333333333333333,be reassure have be
+Agha,Karim,3.3333333333333335,1.6666666666666667,35.0,2.0,take close say
+Agha,Karim,3.3333333333333335,1.6666666666666667,35.0,2.0,take close say
+Karim,Baba,2.272727272727273,0.3787878787878788,57.95454545454546,6.0,overhear tell know work have set
+Baba,Karim,2.272727272727273,0.3787878787878788,57.95454545454546,6.0,overhear tell know work have set
+Baba,Karim,2.272727272727273,0.3787878787878788,57.95454545454546,6.0,overhear tell know work have set
+Toor,Karim,3.8461538461538463,6.730769230769231,43.269230769230774,0.5714285714285714,speak take
+Karim,Sahib,1.953125,1.5625,71.484375,1.25,tell ask show have have
+Sahib,Karim,1.953125,1.5625,71.484375,1.25,tell ask show have have
+Sahib,Karim,1.953125,1.5625,71.484375,1.25,tell ask show have have
+Baba,Karim,0.0,0.0,64.28571428571429,INF,say look
+Agha,Karim,0.78125,3.90625,39.0625,0.2,say be like
+Agha,Roussi,0.78125,3.90625,39.0625,0.2,say be like
+Karim,Roussi,0.78125,3.90625,39.0625,0.2,say be like
+Kamal,Wali,1.7857142857142856,0.0,26.785714285714285,INF,hold
+Kamal,Hassan,1.7857142857142856,0.0,26.785714285714285,INF,hold
+Wali,Hassan,1.7857142857142856,0.0,26.785714285714285,INF,hold
+Karim,Toor,1.6304347826086956,4.3478260869565215,54.891304347826086,0.375,take give take
+Karim,Toor,1.6304347826086956,4.3478260869565215,54.891304347826086,0.375,take give take
+Karim,Baba,2.7777777777777777,1.3888888888888888,62.5,2.0,wrap be
+Baba,Agha,0.6578947368421052,0.0,36.18421052631579,INF,put be kill say
+Baba,Agha,0.6578947368421052,0.0,36.18421052631579,INF,put be kill say
+Karim,Baba,0.0,0.0,64.70588235294117,INF,collapse roll fight let go
+Baba,Karim,1.7857142857142856,0.0,55.35714285714286,INF,say stand
+Kamal,Baba,0.7142857142857143,1.4285714285714286,63.57142857142857,0.5,have own be tell have strike kill
+Kamal,Baba,0.7142857142857143,1.4285714285714286,63.57142857142857,0.5,have own be tell have strike kill
+Baba,Kamal,12.5,3.571428571428571,55.35714285714286,3.5,tell
+Baba,Kamal,12.5,3.571428571428571,55.35714285714286,3.5,tell
+Baba,God,2.857142857142857,1.7857142857142856,51.07142857142857,1.6,catch have let go know try fight take bleed do talk stare be tell spend
+Baba,Karim,2.857142857142857,1.7857142857142856,51.07142857142857,1.6,catch have let go know try fight take bleed do talk stare be tell spend
+God,Karim,2.857142857142857,1.7857142857142856,51.07142857142857,1.6,catch have let go know try fight take bleed do talk stare be tell spend
+Baba,Kamal,0.0,0.0,29.411764705882355,INF,leave
+Baba,Kamal,0.0,0.0,29.411764705882355,INF,leave
+Amir,Baba,0.0,0.0,41.66666666666667,INF,be say
+Kamal,Karim,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,shove lunge be stand
+Kamal,Karim,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,shove lunge be stand
+Kamal,Karim,3.6764705882352944,0.0,49.26470588235294,INF,be stand
+Amir,Baba,0.6944444444444444,0.0,60.416666666666664,INF,be say
+Shorawi,Baba,3.515625,0.0,55.859375,INF,go call go buy give
+Baba,Zahir Shah,0.0,0.0,62.5,INF,frame hang nail shake
+Baba,Zahir Shah,0.0,0.0,62.5,INF,frame hang nail shake
+Baba,Mrs. Nguyen,2.586206896551724,2.586206896551724,67.24137931034483,1.0,watch jaywalk enter run
+Nguyens,Mr. Nguyen,0.0,0.0,48.148148148148145,INF,find face wrap
+Nguyens,Mr. Nguyen,0.0,0.0,48.148148148148145,INF,find face wrap
+Baba,Mr. Nguyen,1.5625,0.78125,60.15625,2.0,write have ask
+Baba,Mr. Nguyen,1.5625,0.78125,60.15625,2.0,write have ask
+Baba,Nguyens,0.7352941176470588,3.6764705882352944,42.64705882352941,0.2,be say smile
+Mr. Nguyen,Baba,0.0,0.0,66.66666666666666,INF,be point
+Baba,Mr. Nguyen,0.0,0.0,66.66666666666666,INF,be point
+Mr. Nguyen,Baba,4.166666666666666,7.291666666666667,38.54166666666667,0.5714285714285714,leave
+Mr. Nguyen,Baba,4.166666666666666,7.291666666666667,38.54166666666667,0.5714285714285714,leave
+Baba,Nguyens,0.0,2.604166666666667,47.39583333333333,0.0,make promise go return apologize
+Baba,Nguyens,0.0,2.604166666666667,47.39583333333333,0.0,make promise go return apologize
+Mrs. Nguyen,Baba,3.125,3.125,58.03571428571429,1.0,see be shake make cause shake
+Mrs. Nguyen,Baba,3.125,3.125,58.03571428571429,1.0,see be shake make cause shake
+Baba,Mrs. Dobbins,2.272727272727273,1.7045454545454544,55.11363636363637,1.3333333333333333,be hire go
+Baba,Mrs. Dobbins,2.272727272727273,1.7045454545454544,55.11363636363637,1.3333333333333333,be hire go
+Baba,Mrs. Dobbins,0.0,1.1363636363636365,62.5,0.0,drop stack
+Baba,Mrs. Dobbins,2.82258064516129,1.2096774193548387,57.25806451612904,2.3333333333333335,pick look be pull slip use say
+Baba,Hassan,2.82258064516129,1.2096774193548387,57.25806451612904,2.3333333333333335,pick look be pull slip use say
+Mrs. Dobbins,Hassan,2.82258064516129,1.2096774193548387,57.25806451612904,2.3333333333333335,pick look be pull slip use say
+Amir,Baba,0.0,0.0,45.45454545454545,INF,be say
+Baba,Hayward,1.3157894736842104,2.631578947368421,69.73684210526315,0.5,take order
+Hassan,Baba,8.035714285714286,0.8928571428571428,48.214285714285715,9.0,wish have be say
+Baba,Wazir Akbar Khan,1.4705882352941175,0.0,63.23529411764706,INF,make look
+Amir,Baba,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Amir,Sahib,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Amir,Khanum Taheri,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Baba,Sahib,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Baba,Khanum Taheri,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Sahib,Khanum Taheri,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,say motion be
+Salaam,Sahib,3.571428571428571,0.0,46.42857142857143,INF,say shake
+Amir,Baba,1.7857142857142856,0.8928571428571428,61.60714285714286,2.0,be go be say
+Mashallah,Khanum Taheri,0.0,0.0,25.0,INF,say
+Khanum Taheri,Baba,5.357142857142857,3.571428571428571,57.738095238095234,1.5,manage heave pat
+Balay,Sahib,2.083333333333333,2.604166666666667,45.3125,0.8,do say wish call
+Balay,Baba,2.083333333333333,2.604166666666667,45.3125,0.8,do say wish call
+Sahib,Baba,2.083333333333333,2.604166666666667,45.3125,0.8,do say wish call
+Rostam,Sohrab,1.5957446808510638,1.3297872340425532,46.01063829787234,1.2,have touch fly
+Soraya,Khanum Taheri,0.0,0.0,33.33333333333333,INF,say
+Khanum Taheri,Baba,2.941176470588235,0.0,44.11764705882353,INF,kiss shake
+Khanum Taheri,Baba,2.941176470588235,0.0,44.11764705882353,INF,kiss shake
+Khanum Taheri,Baba,2.941176470588235,0.0,44.11764705882353,INF,kiss shake
+Amir,Baba,1.0714285714285714,1.0714285714285714,66.42857142857143,1.0,be happen change say
+Hassan,Ali,0.0,0.2777777777777778,57.49999999999999,0.0,be use stay tuck toss tell pass
+Baba,Soraya,0.0,0.3205128205128205,58.65384615384615,0.0,count see sit arrange jingle
+Baba,Soraya,0.0,0.3205128205128205,58.65384615384615,0.0,count see sit arrange jingle
+Baba,Soraya,0.0,0.3205128205128205,58.65384615384615,0.0,count see sit arrange jingle
+Soraya,Baba,1.3257575757575757,0.5681818181818182,52.65151515151515,2.3333333333333335,promise talk be reopen redden fall sweep waken leave sprout have have look
+Baba,Soraya,1.3257575757575757,0.5681818181818182,52.65151515151515,2.3333333333333335,promise talk be reopen redden fall sweep waken leave sprout have have look
+Baba,Coke,2.5,0.0,64.16666666666667,INF,get stretch ask want
+Baba,Coke,2.5,0.0,64.16666666666667,INF,get stretch ask want
+Amir,Baba,3.3333333333333335,0.0,56.666666666666664,INF,be say begin walk
+God,Baba,0.0,0.0,40.0,INF,
+Amir,Soraya,2.5,1.25,41.25,2.0,see say unload
+Allah,Soraya,0.5952380952380952,1.1904761904761905,55.35714285714286,0.5,rest burrow fold
+Allah,Soraya,0.5952380952380952,1.1904761904761905,55.35714285714286,0.5,rest burrow fold
+Khala Jamila,Soraya,0.0,0.0,36.36363636363637,INF,be
+Salaam,Khala Jamila,1.171875,1.5625,56.640625,0.75,say be know have be
+Salaam,Soraya,1.171875,1.5625,56.640625,0.75,say be know have be
+Salaam,Soraya,1.171875,1.5625,56.640625,0.75,say be know have be
+Khala Jamila,Soraya,1.171875,1.5625,56.640625,0.75,say be know have be
+Khala Jamila,Soraya,1.171875,1.5625,56.640625,0.75,say be know have be
+Baba,Khanum Taheri,3.3333333333333335,0.0,63.33333333333333,INF,ask have marry
+Soraya,Khanum Taheri,3.0,1.7500000000000002,55.25,1.7142857142857142,have come go have sing have paint have hold have be have dance
+Soraya,Khanum Taheri,3.0,1.7500000000000002,55.25,1.7142857142857142,have come go have sing have paint have hold have be have dance
+Soraya,Khanum Taheri,3.0,1.7500000000000002,55.25,1.7142857142857142,have come go have sing have paint have hold have be have dance
+Khanum Taheri,Soraya,3.0,1.7500000000000002,55.25,1.7142857142857142,have come go have sing have paint have hold have be have dance
+Soraya,Amir,0.0,0.0,30.0,INF,get
+Khanum Taheri,Soraya,1.5151515151515151,2.6515151515151514,41.28787878787879,0.5714285714285714,be offer chat know
+Khanum Taheri,Soraya,1.5151515151515151,2.6515151515151514,41.28787878787879,0.5714285714285714,be offer chat know
+Kaka Homayoun,Soraya,5.769230769230769,1.9230769230769231,23.076923076923077,3.0,miss say
+Khanum Taheri,Soraya,3.6290322580645165,2.4193548387096775,42.33870967741936,1.5,like be be relax
+Khanum Taheri,Soraya,3.6290322580645165,2.4193548387096775,42.33870967741936,1.5,like be be relax
+Khanum Taheri,Soraya,3.6290322580645165,2.4193548387096775,42.33870967741936,1.5,like be be relax
+Khanum Taheri,Soraya,3.2407407407407405,6.018518518518518,38.88888888888889,0.5384615384615384,chaperon make fawn embarrass
+Khanum Taheri,Soraya,3.2407407407407405,6.018518518518518,38.88888888888889,0.5384615384615384,chaperon make fawn embarrass
+Ziba,Soraya,2.6515151515151514,1.5151515151515151,62.5,1.75,know sound write know be want be
+Hassan,Amir,3.571428571428571,0.35714285714285715,50.357142857142854,10.0,redden blush have blurt take be
+Hassan,Amir,3.571428571428571,0.35714285714285715,50.357142857142854,10.0,redden blush have blurt take be
+Hassan,Amir,3.571428571428571,0.35714285714285715,50.357142857142854,10.0,redden blush have blurt take be
+Salaam,Sahib,0.0,0.0,61.53846153846154,INF,say
+Amir,Baba,0.0,0.0,33.33333333333333,INF,sigh
+Dr. Schneider,Baba,0.0,0.0,42.857142857142854,INF,be go ask be
+Dr. Schneider,Baba,0.0,0.0,42.857142857142854,INF,be go ask be
+Dr. Schneider,Baba,0.0,0.0,42.857142857142854,INF,be go ask be
+Baba,Dr. Schneider,1.7857142857142856,0.0,55.35714285714286,INF,read wait
+Baba,Roussi,0.4807692307692308,2.8846153846153846,58.17307692307693,0.16666666666666666,do care be bear be say grimace be
+Baba,Roussi,0.4807692307692308,2.8846153846153846,58.17307692307693,0.16666666666666666,do care be bear be say grimace be
+Roussi,Baba,0.4807692307692308,2.8846153846153846,58.17307692307693,0.16666666666666666,do care be bear be say grimace be
+Baba,Roussi,4.545454545454546,2.272727272727273,29.545454545454547,2.0,be be
+Baba,Roussi,4.545454545454546,2.272727272727273,29.545454545454547,2.0,be be
+Roussi,Baba,4.545454545454546,2.272727272727273,29.545454545454547,2.0,be be
+Baba,Roussi,4.545454545454546,2.272727272727273,29.545454545454547,2.0,be be
+Dr. Schneider,Shorawi,0.0,0.0,35.714285714285715,INF,flee do see
+Dr. Amani,Baba,0.0,0.0,46.15384615384615,INF,be approve
+Dr. Amani,Baba,1.0204081632653061,0.25510204081632654,61.98979591836735,4.0,tell have review scan have perform call get
+Dr. Amani,Baba,1.0204081632653061,0.25510204081632654,61.98979591836735,4.0,tell have review scan have perform call get
+Baba,Dr. Amani,0.0,0.0,62.5,INF,ask
+Dr. Amani,Baba,0.0,0.9615384615384616,45.19230769230769,0.0,bite use
+Baba,Mrs. Dobbins,1.4423076923076923,0.9615384615384616,66.82692307692307,1.5,have resolve drop stack
+Baba,Mrs. Dobbins,1.4423076923076923,0.9615384615384616,66.82692307692307,1.5,have resolve drop stack
+Baba,Mrs. Dobbins,1.4423076923076923,0.9615384615384616,66.82692307692307,1.5,have resolve drop stack
+Baba,Amir,2.34375,1.5625,46.09375,1.5,do challenge
+Khanum Taheri,Dr. Amani,2.027027027027027,0.6756756756756757,59.45945945945946,3.0,have speak be step pass spray
+Baba,VW,1.7241379310344827,3.0172413793103448,64.22413793103449,0.5714285714285714,appear stay drive
+Baba,VW,3.3783783783783785,1.0135135135135136,63.17567567567568,3.3333333333333335,be sell rummage cover
+VW,Baba,3.3783783783783785,1.0135135135135136,63.17567567567568,3.3333333333333335,be sell rummage cover
+Khanum Taheri,Baba,0.0,0.0,33.33333333333333,INF,come
+Khanum Taheri,Baba,5.555555555555555,0.0,50.0,INF,say take
+Baba,Sahib,5.681818181818182,3.977272727272727,49.43181818181818,1.4285714285714286,be look thank
+Baba,Sahib,5.681818181818182,3.977272727272727,49.43181818181818,1.4285714285714286,be look thank
+Baba,Soraya,0.0,0.0,50.0,INF,open walk
+Soraya,Baba,0.0,0.0,50.0,INF,open walk
+Amir,Soraya,0.0,5.208333333333334,36.45833333333333,0.0,be say
+Baba,Ford,0.0,0.0,58.82352941176471,INF,thank sign take
+Balay,Baba,0.0,0.0,16.666666666666664,INF,
+Salaam,Baba,0.0,0.0,42.857142857142854,INF,say
+Sahib,Salaam,5.0,1.25,38.75,4.0,be
+Sahib,Balay,5.0,1.25,38.75,4.0,be
+Salaam,Balay,5.0,1.25,38.75,4.0,be
+Sahib,Khanum Taheri,0.0,0.0,57.14285714285714,INF,be call ask pay
+Baba,Ford,0.0,0.0,64.28571428571429,INF,help slip
+Soraya,Hassan,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Soraya,Baba,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Soraya,Baba,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Soraya,Ali,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Hassan,Baba,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Hassan,Baba,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Hassan,Ali,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Baba,Ali,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Baba,Ali,0.0,0.4166666666666667,52.916666666666664,0.0,open tell betray lie drive destroy
+Amir,Baba,8.333333333333332,0.0,41.66666666666667,INF,be say smile
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khanum Taheri,Soraya,1.3888888888888888,2.4691358024691357,50.46296296296296,0.5625,see become wave smile glint
+Khala Jamila,Soraya,5.303030303030303,0.3787878787878788,42.803030303030305,14.0,hope come see pray
+Baba,Khanum Taheri,1.0,0.5,46.5,2.0,be
+Baba,Soraya,1.0,0.5,46.5,2.0,be
+Khanum Taheri,Soraya,1.0,0.5,46.5,2.0,be
+Soraya,Sharif,0.0,0.0,39.130434782608695,INF,stand clear
+Soraya,Khanum Taheri,0.0,0.0,39.130434782608695,INF,stand clear
+Soraya,Khanum Taheri,0.0,0.0,39.130434782608695,INF,stand clear
+Sharif,Khanum Taheri,0.0,0.0,39.130434782608695,INF,stand clear
+Sharif,Khanum Taheri,0.0,0.0,39.130434782608695,INF,stand clear
+Soraya,Khanum Taheri,2.941176470588235,0.0,61.76470588235294,INF,have tell have live
+Khanum Taheri,INS,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,work have
+Soraya,Sharif,0.0,0.0,54.54545454545454,INF,hold inch
+Soraya,Baba,0.0,0.0,57.14285714285714,INF,be suggest move
+Soraya,Baba,0.0,0.0,57.14285714285714,INF,be suggest move
+Soraya,Baba,2.976190476190476,0.5952380952380952,63.095238095238095,5.0,shut catch slide
+Sharif,Suzy,0.0,0.0,34.48275862068966,INF,come
+Sharif,Soraya,0.0,0.0,34.48275862068966,INF,come
+Sharif,Suzy,0.0,0.0,34.48275862068966,INF,come
+Sharif,Soraya,0.0,0.0,34.48275862068966,INF,come
+Suzy,Soraya,0.0,0.0,34.48275862068966,INF,come
+Soraya,Sharif,0.0,0.5,51.5,0.0,play lay
+Soraya,Suzy,0.0,0.5,51.5,0.0,play lay
+Soraya,Baba,0.0,0.5,51.5,0.0,play lay
+Sharif,Suzy,0.0,0.5,51.5,0.0,play lay
+Sharif,Baba,0.0,0.5,51.5,0.0,play lay
+Suzy,Baba,0.0,0.5,51.5,0.0,play lay
+Baba,Sharif,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,watch joke watch lace watch push curl
+Baba,Soraya,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,watch joke watch lace watch push curl
+Baba,Soraya,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,watch joke watch lace watch push curl
+Sharif,Soraya,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,watch joke watch lace watch push curl
+Sharif,Soraya,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,watch joke watch lace watch push curl
+Soraya,Baba,0.0,0.0,50.0,INF,place wrap
+Soraya,Baba,0.0,0.0,50.0,INF,place wrap
+Baba,Soraya,1.7857142857142856,5.357142857142857,42.857142857142854,0.3333333333333333,lower have turn
+Baba,Soraya,1.7857142857142856,5.357142857142857,42.857142857142854,0.3333333333333333,lower have turn
+Kaka Homayoun,Soraya,1.1904761904761905,0.0,41.66666666666667,INF,come say
+Soraya,Baba,0.0,0.0,50.0,INF,pull
+Kaka Homayoun,Baba,2.3529411764705883,0.7352941176470588,48.67647058823529,3.2,help build bless turn lend find know listen realize be be have be define have leave
+Kaka Homayoun,Baba,2.3529411764705883,0.7352941176470588,48.67647058823529,3.2,help build bless turn lend find know listen realize be be have be define have leave
+Kaka Homayoun,Baba,2.3529411764705883,0.7352941176470588,48.67647058823529,3.2,help build bless turn lend find know listen realize be be have be define have leave
+Kaka Homayoun,Baba,2.3529411764705883,0.7352941176470588,48.67647058823529,3.2,help build bless turn lend find know listen realize be be have be define have leave
+Muslim,Baba,2.083333333333333,0.5208333333333333,51.5625,4.0,have watch
+Baba,Soraya,1.3888888888888888,0.0,54.166666666666664,INF,glint
+Soraya,Baba,0.0,0.8333333333333334,65.83333333333333,0.0,see drive
+Soraya,Baba,2.840909090909091,2.272727272727273,49.43181818181818,1.25,learn have sleep remember
+Soraya,Khanum Taheri,2.840909090909091,2.272727272727273,49.43181818181818,1.25,learn have sleep remember
+Baba,Khanum Taheri,2.840909090909091,2.272727272727273,49.43181818181818,1.25,learn have sleep remember
+Baba,Soraya,2.840909090909091,2.272727272727273,49.43181818181818,1.25,learn have sleep remember
+Khanum Taheri,Soraya,2.840909090909091,2.272727272727273,49.43181818181818,1.25,learn have sleep remember
+Soraya,Khanum Taheri,0.0,1.7857142857142856,69.64285714285714,0.0,tell take
+Khanum Taheri,Khala Jamila,3.5000000000000004,0.5,48.0,7.0,learn call have be
+Khanum Taheri,Khala Jamila,3.5000000000000004,0.5,48.0,7.0,learn call have be
+Khala Jamila,Johnny Carson,0.8333333333333334,0.0,59.166666666666664,INF,play watch
+Soraya,Johnny Carson,0.0,3.571428571428571,53.57142857142857,0.0,marry take
+Sahib,Khala Jamila,2.7027027027027026,3.7162162162162162,47.63513513513514,0.7272727272727273,guard do correct continue call make adore
+Sahib,Khala Jamila,2.7027027027027026,3.7162162162162162,47.63513513513514,0.7272727272727273,guard do correct continue call make adore
+Soraya,Sharif,0.0,0.5,47.5,0.0,work be marry
+Soraya,INS,0.0,0.5,47.5,0.0,work be marry
+Soraya,Sharif,0.0,0.5,47.5,0.0,work be marry
+Sharif,INS,0.0,0.5,47.5,0.0,work be marry
+INS,Sharif,0.0,0.5,47.5,0.0,work be marry
+Baba,Soraya,2.0161290322580645,0.0,52.82258064516129,INF,move
+Baba,Khala Jamila,2.0161290322580645,0.0,52.82258064516129,INF,move
+Soraya,Khala Jamila,2.0161290322580645,0.0,52.82258064516129,INF,move
+Baba,Amir,1.9230769230769231,0.4807692307692308,70.67307692307693,4.0,have slip write hope discover
+Khanum Taheri,Baba,0.0,2.5,49.5,0.0,sell have go
+Khanum Taheri,VW,0.0,2.5,49.5,0.0,sell have go
+Baba,VW,0.0,2.5,49.5,0.0,sell have go
+Baba,Soraya,7.03125,3.125,42.96875,2.25,drive find know have be
+Amir,Soraya,5.0,1.25,48.75,4.0,do know earn be
+Hayward,Khala Jamila,0.6578947368421052,0.0,46.71052631578947,INF,excuse meet try console
+Hayward,Soraya,0.6578947368421052,0.0,46.71052631578947,INF,excuse meet try console
+Khala Jamila,Soraya,0.6578947368421052,0.0,46.71052631578947,INF,excuse meet try console
+Khala Jamila,Soraya,0.0,2.083333333333333,31.25,0.0,bite
+Soraya,Khala Jamila,0.0,2.2058823529411766,50.73529411764706,0.0,kiss wrap insist pass
+Khanum Taheri,Soraya,1.6666666666666667,1.6666666666666667,56.666666666666664,1.0,leave celebrate have buy do approve drink do drink
+Khanum Taheri,Soraya,1.6666666666666667,1.6666666666666667,56.666666666666664,1.0,leave celebrate have buy do approve drink do drink
+Dr. Rosen,Soraya,1.7857142857142856,0.5952380952380952,73.80952380952381,3.0,give hand
+Soraya,Dr. Rosen,1.0869565217391304,0.0,64.13043478260869,INF,undergo call insert take
+Dr. Rosen,Soraya,1.0869565217391304,0.0,64.13043478260869,INF,undergo call insert take
+Soraya,Dr. Rosen,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,break
+Soraya,Dr. Rosen,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,break
+Khala Jamila,Soraya,7.8125,0.0,42.1875,INF,have reach caress say know
+Khala Jamila,God,7.8125,0.0,42.1875,INF,have reach caress say know
+Khala Jamila,Soraya,7.8125,0.0,42.1875,INF,have reach caress say know
+Khala Jamila,God,7.8125,0.0,42.1875,INF,have reach caress say know
+Soraya,God,7.8125,0.0,42.1875,INF,have reach caress say know
+Amir,God,0.625,0.625,43.75,1.0,be give come do hesitate
+God,Amir,0.625,0.625,43.75,1.0,be give come do hesitate
+Khanum Taheri,Soraya,6.25,3.125,40.625,2.0,linger
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Khala Jamila,Soraya,2.840909090909091,2.556818181818182,46.875,1.1111111111111112,bemoan move think need get be be drive move
+Amir,Soraya,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,look say have give housewarm
+Amir,Soraya,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,look say have give housewarm
+Soraya,Aflatoon,3.260869565217391,2.1739130434782608,51.08695652173913,1.5,be lie nestle bury
+Aflatoon,Soraya,3.260869565217391,2.1739130434782608,51.08695652173913,1.5,be lie nestle bury
+Aflatoon,Soraya,3.260869565217391,2.1739130434782608,51.08695652173913,1.5,be lie nestle bury
+Soraya,Aflatoon,1.0416666666666665,0.0,40.625,INF,sit leap
+Soraya,Rahim Khan,5.0,5.833333333333333,42.5,0.8571428571428571,meet have tell
+Soraya,Rahim Khan,5.0,5.833333333333333,42.5,0.8571428571428571,meet have tell
+Rahim Khan,Soraya,5.0,5.833333333333333,42.5,0.8571428571428571,meet have tell
+Soraya,Rahim Khan,5.0,5.833333333333333,42.5,0.8571428571428571,meet have tell
+Rahim Khan,Baba,1.5151515151515151,0.3787878787878788,58.71212121212122,4.0,picture blow bend
+Rahim Khan,Baba,1.5151515151515151,0.3787878787878788,58.71212121212122,4.0,picture blow bend
+Rahim Khan,Assef,2.631578947368421,2.631578947368421,42.10526315789473,1.0,know
+Padar,Rahim Khan,2.586206896551724,0.43103448275862066,52.1551724137931,6.0,stay have break
+Rahim Khan,Khala Jamila,3.4090909090909087,0.0,42.04545454545455,INF,have bring run
+Khala Jamila,Baba,3.869047619047619,0.8928571428571428,52.38095238095239,4.333333333333333,remember be wait fall sing remember play
+Hassan,Rahim Khan,0.0,3.2407407407407405,48.61111111111111,0.0,dream run drag
+Hassan,Rahim Khan,0.0,3.2407407407407405,48.61111111111111,0.0,dream run drag
+Hassan,Rahim Khan,0.0,3.2407407407407405,48.61111111111111,0.0,dream run drag
+Rahim Khan,Baba,4.166666666666666,0.0,69.16666666666667,INF,have come say have flee
+Baba,Rahim Khan,0.0,0.0,58.82352941176471,INF,arrive keep
+Baba,Rahim Khan,0.0,0.0,58.82352941176471,INF,arrive keep
+Rahim Khan,Baba,4.411764705882353,0.7352941176470588,65.44117647058823,6.0,have speak have be
+Khanum Taheri,Sharif,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,be marry
+Soraya,Khala Jamila,0.0,0.0,14.285714285714285,INF,be
+Soraya,Balay,0.0,0.0,14.285714285714285,INF,be
+Khala Jamila,Balay,0.0,0.0,14.285714285714285,INF,be
+Sharif,INS,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,be be work handle
+Baba,Rahim Khan,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,slurp do ask have be meet
+Baba,Rahim Khan,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,slurp do ask have be meet
+Rahim Khan,Baba,5.092592592592593,0.9259259259259258,45.83333333333333,5.5,tell die
+Rahim Khan,Baba,5.092592592592593,0.9259259259259258,45.83333333333333,5.5,tell die
+Rahim Khan,Baba,5.092592592592593,0.9259259259259258,45.83333333333333,5.5,tell die
+Rahim Khan,Baba,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,tell arrange have live know
+Rahim Khan,Baba,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,tell arrange have live know
+Rahim Khan,Baba,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,tell arrange have live know
+Rahim Khan,Baba,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,tell arrange have live know
+Baba,Rahim Khan,1.3888888888888888,0.0,59.72222222222222,INF,have sell flee
+Baba,Rahim Khan,1.3888888888888888,0.0,59.72222222222222,INF,have sell flee
+Baba,Wazir Akbar Khan,1.8292682926829267,0.9146341463414633,55.79268292682927,2.0,have see be return
+Wazir Akbar Khan,Rahim Khan,0.0,0.7352941176470588,52.20588235294118,0.0,give keep
+Hassan,Rahim Khan,3.9473684210526314,1.9736842105263157,51.973684210526315,2.0,remember cross have tease
+Hassan,Rahim Khan,3.9473684210526314,1.9736842105263157,51.973684210526315,2.0,remember cross have tease
+Hassan,Rahim Khan,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,have cry put
+Taliban,Rahim Khan,1.4423076923076923,0.0,52.40384615384615,INF,roll kick dance say
+Baba,Rahim Khan,3.5000000000000004,1.7500000000000002,50.74999999999999,2.0,have spend sweat make be lay say
+Baba,Rahim Khan,3.5000000000000004,1.7500000000000002,50.74999999999999,2.0,have spend sweat make be lay say
+Taliban,Rahim Khan,3.8461538461538463,1.4423076923076923,40.86538461538461,2.6666666666666665,be come be say
+God,Amir,3.75,1.25,55.00000000000001,3.0,be
+Ali,Hassan,3.0172413793103448,0.0,55.603448275862064,INF,remember dismiss tell have move
+Hassan,Ali,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,have be know
+Hassan,Ali,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,have be know
+Ali,Hassan,3.9473684210526314,0.6578947368421052,58.55263157894737,6.0,have be have leave
+Rahim Khan,Hassan,2.6785714285714284,0.8928571428571428,32.142857142857146,3.0,be say
+Farzana,Hassan,5.128205128205128,5.128205128205128,48.717948717948715,1.0,be be speak raise meet gaze
+Farzana,Hassan,5.128205128205128,5.128205128205128,48.717948717948715,1.0,be be speak raise meet gaze
+Farzana,Hassan,5.128205128205128,5.128205128205128,48.717948717948715,1.0,be be speak raise meet gaze
+Farzana,Hassan,5.128205128205128,5.128205128205128,48.717948717948715,1.0,be be speak raise meet gaze
+Hassan,Amir,3.260869565217391,2.717391304347826,59.2391304347826,1.2,be look have be sit
+Hassan,Amir,3.260869565217391,2.717391304347826,59.2391304347826,1.2,be look have be sit
+Hassan,Amir,0.0,0.0,40.0,INF,drop gaze
+Amir,Ali,4.435483870967742,2.0161290322580645,61.29032258064516,2.2,tell have own have be kill
+Amir,Ali,4.435483870967742,2.0161290322580645,61.29032258064516,2.2,tell have own have be kill
+Farzana,Hassan,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Farzana,Ali,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Farzana,Ali,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Hassan,Ali,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Hassan,Ali,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Hassan,Farzana,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Ali,Farzana,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Ali,Farzana,2.142857142857143,0.35714285714285715,54.64285714285714,6.0,have wash have serve say be have make
+Farzana,Hassan,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,hear hear sob
+Hassan,Farzana,1.3157894736842104,0.0,51.31578947368421,INF,tell have decide move
+Rahim Khan,Hassan,1.4705882352941175,0.7352941176470588,33.088235294117645,2.0,do have drop say
+Agha,God,1.6666666666666667,0.0,58.333333333333336,INF,be give
+Hassan,Amir,0.0,0.0,57.89473684210527,INF,rebuild stand
+Farzana,Amir,1.5,1.0,57.49999999999999,1.5,stay wail be wail
+Hassan,Khayyám,0.8928571428571428,0.0,41.964285714285715,INF,sit read cook
+Hassan,Farzana,0.8928571428571428,0.0,41.964285714285715,INF,sit read cook
+Khayyám,Farzana,0.8928571428571428,0.0,41.964285714285715,INF,sit read cook
+Amir,Hassan,7.8125,0.0,54.6875,INF,take squeeze
+Hassan,Amir,7.142857142857142,0.0,35.714285714285715,INF,roll
+Hassan,Amir,5.555555555555555,0.0,38.88888888888889,INF,pull scar
+Amir,Hassan,5.555555555555555,0.0,38.88888888888889,INF,pull scar
+Sanaubar,Hassan,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,have see have elope have give
+Sanaubar,Hassan,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,have see have elope have give
+Sanaubar,Hassan,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,have see have elope have give
+Hassan,Amir,1.4705882352941175,5.147058823529411,46.32352941176471,0.2857142857142857,see be
+Amir,Hassan,1.4705882352941175,5.147058823529411,46.32352941176471,0.2857142857142857,see be
+Amir,Hassan,1.4705882352941175,5.147058823529411,46.32352941176471,0.2857142857142857,see be
+Sanaubar,Hassan,2.364864864864865,0.33783783783783783,40.54054054054054,7.0,take tell cry want be say
+Sanaubar,Hassan,2.364864864864865,0.33783783783783783,40.54054054054054,7.0,take tell cry want be say
+Sanaubar,Hassan,2.364864864864865,0.33783783783783783,40.54054054054054,7.0,take tell cry want be say
+Sanaubar,Hassan,2.364864864864865,0.33783783783783783,40.54054054054054,7.0,take tell cry want be say
+Hassan,Farzana,11.11111111111111,1.3888888888888888,20.833333333333336,8.0,nurse
+Farzana,Hassan,11.11111111111111,1.3888888888888888,20.833333333333336,8.0,nurse
+Sanaubar,Hassan,0.0,0.0,46.15384615384615,INF,be deliver
+Sanaubar,Hassan,1.875,0.0,63.125,INF,remember come hold have wrap
+Sohrab,Hassan,7.738095238095238,0.5952380952380952,25.0,13.0,name know
+Sohrab,Amir,7.738095238095238,0.5952380952380952,25.0,13.0,name know
+Hassan,Amir,7.738095238095238,0.5952380952380952,25.0,13.0,name know
+Sanaubar,Amir,0.0,0.0,33.33333333333333,INF,have see
+Amir,Hassan,0.0,0.0,50.0,INF,become
+Hassan,Amir,0.0,0.0,45.0,INF,sew build dry
+Hassan,Amir,0.0,0.0,45.0,INF,sew build dry
+Amir,Hassan,0.0,0.0,61.111111111111114,INF,catch stay fast
+Hassan,Amir,4.411764705882353,0.7352941176470588,41.911764705882355,6.0,burn cast
+Sohrab,Amir,0.0,0.0,53.84615384615385,INF,be be call
+Sohrab,Hassan,0.0,0.0,53.84615384615385,INF,be be call
+Sohrab,Sasa,0.0,0.0,53.84615384615385,INF,be be call
+Amir,Hassan,0.0,0.0,53.84615384615385,INF,be be call
+Amir,Sasa,0.0,0.0,53.84615384615385,INF,be be call
+Hassan,Sasa,0.0,0.0,53.84615384615385,INF,be be call
+Hassan,Amir,4.761904761904762,2.976190476190476,49.404761904761905,1.6,live see turn do wake
+Amir,Hassan,4.761904761904762,2.976190476190476,49.404761904761905,1.6,live see turn do wake
+Amir,Sasa,4.3478260869565215,0.0,52.17391304347826,INF,keep walk look know be forget
+Hassan,Sohrab,0.0,0.35714285714285715,45.357142857142854,0.0,ease be take see
+Hassan,Marjan,0.0,0.35714285714285715,45.357142857142854,0.0,ease be take see
+Sohrab,Marjan,0.0,0.35714285714285715,45.357142857142854,0.0,ease be take see
+Hassan,Wazir Akbar Khan,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Hassan,Wazir Akbar Khan,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Hassan,Sohrab,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Hassan,Wazir Akbar Khan,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Wazir Akbar Khan,Sohrab,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Wazir Akbar Khan,Sohrab,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Sohrab,Wazir Akbar Khan,1.8617021276595744,0.0,55.58510638297872,INF,teach shoot be have become stand hit prop
+Hassan,Wazir Akbar Khan,5.357142857142857,5.357142857142857,51.19047619047619,1.0,teach read write be go grow have
+Hassan,Wazir Akbar Khan,5.357142857142857,5.357142857142857,51.19047619047619,1.0,teach read write be go grow have
+Hassan,Wazir Akbar Khan,5.357142857142857,5.357142857142857,51.19047619047619,1.0,teach read write be go grow have
+Sohrab,Wazir Akbar Khan,1.0714285714285714,0.7142857142857143,49.642857142857146,1.5,buy have destroy read get
+Sohrab,Wazir Akbar Khan,1.0714285714285714,0.7142857142857143,49.642857142857146,1.5,buy have destroy read get
+Wazir Akbar Khan,Amir,5.263157894736842,1.9736842105263157,34.868421052631575,2.6666666666666665,remind love read be
+Hassan,Amir,0.0,1.1363636363636365,53.40909090909091,0.0,take run
+Hassan,Sohrab,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,prop go trot run climb have drop
+Hassan,Amir,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,prop go trot run climb have drop
+Sohrab,Amir,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,prop go trot run climb have drop
+Amir,Hassan,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,remember be
+Hassan,Sohrab,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,hang have run
+God,Rahim Khan,3.3333333333333335,0.0,43.333333333333336,INF,help say
+God,Amir,3.3333333333333335,0.0,43.333333333333336,INF,help say
+Rahim Khan,Amir,3.3333333333333335,0.0,43.333333333333336,INF,help say
+Hassan,Sohrab,0.0,0.0,27.77777777777778,INF,ring
+Hassan,Ali,0.0,0.0,27.77777777777778,INF,ring
+Hassan,Farzana,0.0,0.0,27.77777777777778,INF,ring
+Hassan,Sanaubar,0.0,0.0,27.77777777777778,INF,ring
+Sohrab,Ali,0.0,0.0,27.77777777777778,INF,ring
+Sohrab,Farzana,0.0,0.0,27.77777777777778,INF,ring
+Sohrab,Sanaubar,0.0,0.0,27.77777777777778,INF,ring
+Ali,Farzana,0.0,0.0,27.77777777777778,INF,ring
+Ali,Sanaubar,0.0,0.0,27.77777777777778,INF,ring
+Farzana,Sanaubar,0.0,0.0,27.77777777777778,INF,ring
+Rahim Khan,Ali,1.9736842105263157,1.644736842105263,62.17105263157895,1.2,hear speak be find have be open begin play do eat
+Rahim Khan,Babalu,1.9736842105263157,1.644736842105263,62.17105263157895,1.2,hear speak be find have be open begin play do eat
+Ali,Babalu,1.9736842105263157,1.644736842105263,62.17105263157895,1.2,hear speak be find have be open begin play do eat
+Allah,Amir,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Allah,Farzana,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Allah,Sohrab,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Amir,Farzana,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Amir,Sohrab,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Amir,Allah,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Farzana,Sohrab,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Farzana,Allah,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Sohrab,Allah,8.254716981132075,0.2358490566037736,44.339622641509436,35.0,begin read pray find grace
+Farzana,Sohrab,4.326923076923077,2.403846153846154,54.807692307692314,1.8,have tell grow play run
+Farzana,Amir,1.5,3.0,63.5,0.5,ask do hear think have
+Farzana,Amir,1.5,3.0,63.5,0.5,ask do hear think have
+Amir,Farzana,1.5,3.0,63.5,0.5,ask do hear think have
+Farzana,Amir,1.5,3.0,63.5,0.5,ask do hear think have
+Farzana,Talib,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,ask run hit
+Farzana,Talib,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,ask run hit
+Talib,Farzana,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,ask run hit
+Farzana,Talib,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,ask run hit
+Talib,Farzana,1.3888888888888888,8.333333333333332,56.94444444444444,0.16666666666666666,strike fall
+Talib,Farzana,1.3888888888888888,8.333333333333332,56.94444444444444,0.16666666666666666,strike fall
+Talib,Farzana,4.891304347826087,6.521739130434782,53.80434782608695,0.75,be scream say do allow speak
+Sohrab,Rahim Khan,4.545454545454546,0.0,59.09090909090909,INF,take buy
+Rostam,Sohrab,3.4090909090909087,4.545454545454546,37.5,0.75,be tell be
+Amir,Rahim Khan,5.0,12.5,52.5,0.4,be
+Farzana,Sohrab,1.3888888888888888,2.083333333333333,57.638888888888886,0.6666666666666666,have tell be go be
+Farzana,Rahim Khan,1.3888888888888888,2.083333333333333,57.638888888888886,0.6666666666666666,have tell be go be
+Sohrab,Rahim Khan,1.3888888888888888,2.083333333333333,57.638888888888886,0.6666666666666666,have tell be go be
+Hazara,Wazir Akbar Khan,1.644736842105263,1.3157894736842104,65.46052631578947,1.25,tell take be live
+Hazara,Taliban,1.644736842105263,1.3157894736842104,65.46052631578947,1.25,tell take be live
+Wazir Akbar Khan,Taliban,1.644736842105263,1.3157894736842104,65.46052631578947,1.25,tell take be live
+Talib,Hassan,1.0416666666666665,0.0,48.95833333333333,INF,come investigate interrogate
+Talib,Hassan,1.5151515151515151,0.3787878787878788,52.65151515151515,4.0,accuse lie tell be live include call support
+Talib,Hassan,1.5151515151515151,0.3787878787878788,52.65151515151515,4.0,accuse lie tell be live include call support
+Hassan,Talib,1.5151515151515151,0.3787878787878788,52.65151515151515,4.0,accuse lie tell be live include call support
+Talib,Hassan,1.5151515151515151,0.3787878787878788,52.65151515151515,4.0,accuse lie tell be live include call support
+Talibs,Talib,0.4629629629629629,2.314814814814815,56.481481481481474,0.2,say be order get
+Talibs,Talib,0.4629629629629629,2.314814814814815,56.481481481481474,0.2,say be order get
+Talibs,Talib,0.4629629629629629,2.314814814814815,56.481481481481474,0.2,say be order get
+Talibs,Talib,4.375,1.25,59.375,3.5,say be look do say
+Baba,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Baba,Ali,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Baba,Hassan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Baba,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Baba,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Rahim Khan,Ali,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Rahim Khan,Hassan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Ali,Hassan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Ali,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Ali,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Hassan,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Hassan,Rahim Khan,2.7777777777777777,0.0,56.481481481481474,INF,have huddle watch examine
+Taliban,Rahim Khan,0.0,0.0,38.46153846153847,INF,move say
+Hassan,Farzana,1.7857142857142856,3.571428571428571,44.642857142857146,0.5,be dismiss
+Amir,Rahim Khan,3.75,0.0,66.25,INF,be cough
+Sohrab,Rahim Khan,0.0,2.083333333333333,47.91666666666667,0.0,want bring say
+Thomas,Betty Caldwell,5.263157894736842,0.6578947368421052,67.76315789473685,8.0,know name
+Sohrab,Rahim Khan,1.8518518518518516,0.0,38.88888888888889,INF,have tell be be
+Thomas,Betty Caldwell,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,be be see treat
+Rahim Khan,Sanaubar,3.6764705882352944,0.0,31.61764705882353,INF,be
+Rahim Khan,Ali,3.6764705882352944,0.0,31.61764705882353,INF,be
+Sanaubar,Ali,3.6764705882352944,0.0,31.61764705882353,INF,be
+Rahim Khan,Hazara,0.0,0.0,50.0,INF,be marry
+Ali,Rahim Khan,0.0,6.25,43.75,0.0,be say
+Ali,Sanaubar,2.5,0.0,27.500000000000004,INF,have do
+Ali,Hassan,2.5,0.0,27.500000000000004,INF,have do
+Sanaubar,Hassan,2.5,0.0,27.500000000000004,INF,have do
+Hassan,Rahim Khan,1.5625,1.5625,28.125,1.0,have do say
+Baba,Dr. Kumar,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,have be see come fly hire fix
+Baba,Hassan,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,have be see come fly hire fix
+Dr. Kumar,Hassan,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,have be see come fly hire fix
+Baba,Hassan,0.0,12.5,44.642857142857146,0.0,miss
+Hassan,Baba,0.0,10.0,40.0,0.0,go bark
+Baba,Ali,3.125,10.15625,49.21875,0.3076923076923077,have weep weep announce be leave
+Baba,Ali,3.125,10.15625,49.21875,0.3076923076923077,have weep weep announce be leave
+Baba,Hassan,3.125,10.15625,49.21875,0.3076923076923077,have weep weep announce be leave
+Ali,Hassan,3.125,10.15625,49.21875,0.3076923076923077,have weep weep announce be leave
+Ali,Hassan,3.125,10.15625,49.21875,0.3076923076923077,have weep weep announce be leave
+Soraya,Khala Jamila,1.4705882352941175,2.2058823529411766,43.38235294117647,0.6666666666666666,take have try think need finish
+Baba,Ford,5.0675675675675675,0.6756756756756757,59.12162162162162,7.5,keep see sit give smell say wish have be
+Baba,Hassan,5.0675675675675675,0.6756756756756757,59.12162162162162,7.5,keep see sit give smell say wish have be
+Baba,Ford,5.0675675675675675,0.6756756756756757,59.12162162162162,7.5,keep see sit give smell say wish have be
+Baba,Hassan,5.0675675675675675,0.6756756756756757,59.12162162162162,7.5,keep see sit give smell say wish have be
+Ford,Hassan,5.0675675675675675,0.6756756756756757,59.12162162162162,7.5,keep see sit give smell say wish have be
+Baba,Hassan,4.6875,4.0625,41.25,1.1538461538461537,steal have be know have
+Baba,Ali,4.6875,4.0625,41.25,1.1538461538461537,steal have be know have
+Hassan,Ali,4.6875,4.0625,41.25,1.1538461538461537,steal have be know have
+Baba,Ali,1.9736842105263157,1.3157894736842104,59.86842105263158,1.5,keep come have bring look
+Baba,Soraya,4.166666666666666,2.604166666666667,43.22916666666667,1.6,be go reconcile have be imprint hobble ask
+Baba,Soraya,4.166666666666666,2.604166666666667,43.22916666666667,1.6,be go reconcile have be imprint hobble ask
+Baba,Soraya,4.166666666666666,2.604166666666667,43.22916666666667,1.6,be go reconcile have be imprint hobble ask
+Rahim Khan,Baba,3.7037037037037033,4.166666666666666,43.98148148148148,0.8888888888888888,come have summon atone
+Ali,Taliban,4.166666666666666,0.0,51.388888888888886,INF,have make have bring shoot
+Ali,Hassan,4.166666666666666,0.0,51.388888888888886,INF,have make have bring shoot
+Taliban,Hassan,4.166666666666666,0.0,51.388888888888886,INF,have make have bring shoot
+Hassan,Ali,2.083333333333333,0.0,56.25,INF,have drive
+Hassan,Baba,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Hassan,Baba,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Hassan,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Hassan,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Baba,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Baba,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Baba,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Baba,Hazara,2.7777777777777777,0.5555555555555556,61.111111111111114,5.0,have have care be do know be
+Rahim Khan,Baba,0.8620689655172413,2.1551724137931036,59.05172413793104,0.4,remember say be have do
+Amir,Rahim Khan,0.0,0.0,42.857142857142854,INF,pray say
+Adam,Ahmad Zahir,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,wear refer
+Adam,Ahmad Zahir,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,wear refer
+Rahim Khan,Farid,1.9230769230769231,0.0,67.3076923076923,INF,be have introduce
+Farid,Shorawi,1.6666666666666667,0.0,45.0,INF,have join
+Farid,Shorawi,1.6666666666666667,0.0,45.0,INF,have join
+Farid,Rahim Khan,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Farid,Polaroid,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Farid,Hassan,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Farid,Sohrab,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Farid,Taliban,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Rahim Khan,Polaroid,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Rahim Khan,Hassan,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Rahim Khan,Sohrab,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Rahim Khan,Taliban,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Polaroid,Hassan,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Polaroid,Sohrab,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Polaroid,Taliban,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Hassan,Sohrab,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Hassan,Taliban,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Sohrab,Taliban,1.911764705882353,2.5,47.35294117647059,0.7647058823529411,be make include exchange wear live
+Salaam,Kaka Homayoun,0.0,0.0,12.5,INF,
+Salaam,Maryam,1.5625,5.208333333333334,43.22916666666667,0.3,reply give have deny
+Salaam,Farid,1.5625,5.208333333333334,43.22916666666667,0.3,reply give have deny
+Salaam,Farid,1.5625,5.208333333333334,43.22916666666667,0.3,reply give have deny
+Maryam,Farid,1.5625,5.208333333333334,43.22916666666667,0.3,reply give have deny
+Maryam,Farid,1.5625,5.208333333333334,43.22916666666667,0.3,reply give have deny
+Farid,Wahid,3.125,0.0,38.54166666666667,INF,introduce
+Farid,Wahid,3.125,0.0,38.54166666666667,INF,introduce
+Wahid,Farid,3.125,0.0,38.54166666666667,INF,introduce
+Farid,Wahid,0.6944444444444444,0.0,38.19444444444444,INF,be say flick
+Wahid,Farid,0.6944444444444444,0.0,38.19444444444444,INF,be say flick
+Wahid,Farid,2.380952380952381,0.0,45.23809523809524,INF,sit have ambush climb
+Wahid,Farid,2.380952380952381,0.0,45.23809523809524,INF,sit have ambush climb
+Wahid,Maryam,0.7575757575757576,4.166666666666666,52.65151515151515,0.18181818181818182,order fetch be ask bring
+Farid,Wahid,0.8928571428571428,0.0,49.107142857142854,INF,say speak fix gaze
+Wahid,Farid,0.0,4.166666666666666,29.166666666666668,0.0,flinch
+Amir,Wahid,2.272727272727273,0.0,43.18181818181818,INF,forgive say
+Hassan,Wahid,2.8846153846153846,9.615384615384617,49.03846153846153,0.3,see tear
+Wahid,Farid,0.0,0.0,54.54545454545454,INF,thank chance
+Maryam,Wahid,2.142857142857143,0.7142857142857143,51.42857142857142,3.0,wash pour ask give
+Maryam,Wahid,2.142857142857143,0.7142857142857143,51.42857142857142,3.0,wash pour ask give
+Baba,Roussi,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,have get shoot stone have make
+Roussi,Baba,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,have get shoot stone have make
+Farid,Wahid,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,have become
+Talibs,Farid,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,keep be say
+Hãfez,Khayyám,3.571428571428571,0.0,10.714285714285714,INF,teach
+Hãfez,Rumi,3.571428571428571,0.0,10.714285714285714,INF,teach
+Hãfez,Saadi,3.571428571428571,0.0,10.714285714285714,INF,teach
+Khayyám,Rumi,3.571428571428571,0.0,10.714285714285714,INF,teach
+Khayyám,Saadi,3.571428571428571,0.0,10.714285714285714,INF,teach
+Rumi,Saadi,3.571428571428571,0.0,10.714285714285714,INF,teach
+Amir,Baba,0.0,2.8846153846153846,43.269230769230774,0.0,go say
+Salaam,Farid,0.0,0.0,37.5,INF,say
+Farid,Polaroid,0.0,0.0,50.0,INF,show
+Taliban,Farid,2.5,3.125,49.375,0.8,be say
+Wahid,Sohrab,3.125,3.125,43.75,1.0,remember realize leave find
+Talib,Zaman,2.272727272727273,3.4090909090909087,48.86363636363637,0.6666666666666666,be mutter
+Farid,Zaman,0.0,0.0,75.0,INF,be go
+Zaman,Farid,0.0,0.0,52.94117647058824,INF,go fly fall pin
+Zaman,Farid,0.0,0.0,52.94117647058824,INF,go fly fall pin
+Zaman,Farid,0.0,0.0,52.94117647058824,INF,go fly fall pin
+Zaman,Farid,0.6578947368421052,0.0,62.5,INF,run see scream be muffle be strangle
+Zaman,Farid,0.6578947368421052,0.0,62.5,INF,run see scream be muffle be strangle
+Farid,Zaman,0.8333333333333334,0.0,72.5,INF,look drop
+Farid,Zaman,0.8333333333333334,0.0,72.5,INF,look drop
+Farid,Sohrab,0.0,0.0,63.1578947368421,INF,take croak shield
+Farid,Zaman,0.0,0.0,63.1578947368421,INF,take croak shield
+Farid,Zaman,0.0,0.0,63.1578947368421,INF,take croak shield
+Sohrab,Zaman,0.0,0.0,63.1578947368421,INF,take croak shield
+Sohrab,Zaman,0.0,0.0,63.1578947368421,INF,take croak shield
+Zaman,Farid,0.0,0.0,60.0,INF,drop
+Ali,Hassan,1.0,2.0,61.0,0.5,set build pretend be
+Hassan,Ali,1.0,2.0,61.0,0.5,set build pretend be
+Hassan,Amir,4.166666666666666,1.1111111111111112,45.83333333333333,3.75,be receive walk grow
+Baba,Ali,0.8620689655172413,0.8620689655172413,56.896551724137936,1.0,see have plant spill
+Hassan,Ali,2.083333333333333,0.0,47.91666666666667,INF,have watch load
+Amir,Farid,2.7777777777777777,0.0,41.66666666666667,INF,call
+Ali,Hassan,3.571428571428571,2.976190476190476,55.35714285714286,1.2,want walk use make take
+Hassan,Hazara,0.0,0.0,59.09090909090909,INF,have listen sing
+Hassan,Baba,4.3478260869565215,0.5434782608695652,47.28260869565217,8.0,break hike
+Amir,Hassan,1.875,1.25,56.875,1.5,carve have dull fade be
+Farid,Shorawi,2.083333333333333,1.0416666666666665,59.375,2.0,tell join fight
+Farid,Shorawi,2.083333333333333,1.0416666666666665,59.375,2.0,tell join fight
+Farid,Shorawi,2.083333333333333,1.0416666666666665,59.375,2.0,tell join fight
+Agha,Mullah Nasruddin,1.5,3.0,43.5,0.5,do hear do come complain have beat
+Agha,Mullah Nasruddin,1.5,3.0,43.5,0.5,do hear do come complain have beat
+Mullah Nasruddin,Mullah Fatiullah Khan,3.75,2.8125,50.9375,1.3333333333333333,beat send tell be be go beat beat
+Mullah Nasruddin,Mullah Fatiullah Khan,3.75,2.8125,50.9375,1.3333333333333333,beat send tell be be go beat beat
+Mullah Nasruddin,Mullah Fatiullah Khan,3.75,2.8125,50.9375,1.3333333333333333,beat send tell be be go beat beat
+Mullah Nasruddin,Mullah Fatiullah Khan,3.75,2.8125,50.9375,1.3333333333333333,beat send tell be be go beat beat
+Agha,Farid,2.083333333333333,1.0416666666666665,46.875,2.0,get catch give waken mutter
+Agha,Farid,2.083333333333333,1.0416666666666665,46.875,2.0,get catch give waken mutter
+Agha,Farid,2.083333333333333,1.0416666666666665,46.875,2.0,get catch give waken mutter
+Farid,Adam,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,bob mumble
+Adam,Farid,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,bob mumble
+Adam,Farid,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,bob mumble
+Allah,Muhammad,1.8382352941176472,0.0,51.10294117647059,INF,be be be
+Allah,Muhammad,1.8382352941176472,0.0,51.10294117647059,INF,be be be
+Talib,John Lennon,3.0172413793103448,0.0,62.5,INF,be look squat toss
+Farid,Talibs,2.1875,2.8125,57.49999999999999,0.7777777777777778,be remind be have do be tell have discuss
+Farid,Wazir Akbar Khan,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,ease
+Baba,Hayward,2.7777777777777777,3.4722222222222223,65.97222222222221,0.8,be bury
+Soraya,Baba,4.605263157894736,0.0,53.289473684210535,INF,have place
+Kaka Homayoun,Fazila,1.9736842105263157,0.0,48.026315789473685,INF,remember have have use drop listen
+Kaka Homayoun,Karima,1.9736842105263157,0.0,48.026315789473685,INF,remember have have use drop listen
+Fazila,Karima,1.9736842105263157,0.0,48.026315789473685,INF,remember have have use drop listen
+Talib,John Lennon,2.083333333333333,1.3888888888888888,60.416666666666664,1.5,open return wear look
+Talib,John Lennon,2.083333333333333,1.3888888888888888,60.416666666666664,1.5,open return wear look
+Rahim Khan,Polaroid,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,have do
+Talib,Sohrab,1.3888888888888888,0.0,15.277777777777779,INF,say call
+Sohrab,Talib,1.3888888888888888,0.0,15.277777777777779,INF,say call
+Sohrab,Talib,0.9615384615384616,0.0,45.19230769230769,INF,go head stand
+Sohrab,Talib,0.9615384615384616,0.0,45.19230769230769,INF,go head stand
+Talib,Sohrab,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,lock rest
+Talib,Sohrab,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,lock rest
+Sohrab,Talib,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,lock rest
+Sohrab,Talib,0.7352941176470588,0.0,63.970588235294116,INF,look keep steal
+Talib,Sohrab,5.113636363636364,1.7045454545454544,38.63636363636363,3.0,have be wonder say peer
+Talib,Sohrab,5.113636363636364,1.7045454545454544,38.63636363636363,3.0,have be wonder say peer
+Talib,Sohrab,0.0,0.0,53.333333333333336,INF,brush keep
+Talib,Sohrab,0.0,0.0,53.333333333333336,INF,brush keep
+Sohrab,Talib,0.0,0.0,53.333333333333336,INF,brush keep
+Talib,Assef,0.0,0.0,30.0,INF,escape
+Assef,Sohrab,0.0,0.0,44.44444444444444,INF,kiss
+Assef,Sohrab,0.0,0.0,55.55555555555556,INF,pinch
+Sohrab,Assef,0.0,0.0,55.55555555555556,INF,pinch
+Amir,Hazara,3.571428571428571,0.0,48.80952380952381,INF,wonder have come come
+Assef,Sohrab,0.0,0.0,50.0,INF,shove push
+Sohrab,Assef,0.0,0.0,50.0,INF,shove push
+Amir,Assef,3.75,0.0,26.25,INF,take say
+Sohrab,Assef,1.5,1.5,53.0,1.0,help swat have stick
+Sohrab,Assef,1.5,1.5,53.0,1.0,help swat have stick
+Amir,Assef,0.0,0.0,33.33333333333333,INF,go take say point
+Sohrab,Polaroid,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Sohrab,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Sohrab,Hassan,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Sohrab,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Sohrab,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Polaroid,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Polaroid,Hassan,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Polaroid,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Polaroid,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Assef,Hassan,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Hassan,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Hassan,Assef,0.0,0.4464285714285714,53.125,0.0,see be wrap rest
+Assef,Amir,0.5434782608695652,0.0,38.58695652173913,INF,say do say take
+Daoud Khan,Hassan,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Hassan,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Daoud Khan,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Hassan,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Daoud Khan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Assef,Hassan,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Hassan,Assef,0.0,0.0,43.18181818181818,INF,hear see be point say have start call
+Assef,Hassan,0.0,0.0,37.5,INF,keep
+Agha,Assef,0.0,0.0,33.33333333333333,INF,let stay say
+Assef,Clark Gable,0.0,0.0,75.0,INF,have
+Assef,Clark Gable,0.0,0.0,75.0,INF,have
+Clark Gable,Assef,0.0,0.0,75.0,INF,have
+Hassan,Assef,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,remember have pelt try provoke
+Sohrab,Assef,2.5,0.0,37.5,INF,have point
+Sohrab,Assef,8.125,4.375,42.5,1.8571428571428572,please stop say pool mix
+Hazara,Assef,1.1363636363636365,0.0,35.22727272727273,INF,put hiss
+Sohrab,Assef,0.0,0.0,40.0,INF,shake
+Agha,Assef,6.944444444444445,0.0,37.5,INF,say
+Sohrab,Farid,0.0,0.0,47.82608695652174,INF,make see run
+Farid,Sohrab,0.0,0.0,42.857142857142854,INF,exchange
+Farid,Bismillah,0.0,0.0,37.5,INF,be repeat
+Farid,Clark Gable,0.0,2.2058823529411766,47.794117647058826,0.0,do remember stain
+Clark Gable,Farid,0.0,2.2058823529411766,47.794117647058826,0.0,do remember stain
+Baba,Toophan,3.4722222222222223,4.513888888888888,44.79166666666667,0.7692307692307693,be tower
+Baba,Toophan,3.4722222222222223,4.513888888888888,44.79166666666667,0.7692307692307693,be tower
+Clark Gable,Dr. Faruqi,0.0,0.0,52.94117647058824,INF,turn be
+Clark Gable,Armand,1.4285714285714286,0.0,72.85714285714285,INF,be keep name set
+Amir,Armand,1.7857142857142856,5.357142857142857,42.857142857142854,0.3333333333333333,say
+Farid,Sohrab,0.0,0.0,40.0,INF,come visit
+Armand,Al Pacino,0.8928571428571428,0.0,56.25,INF,be do sound
+Farzana,Sohrab,4.326923076923077,2.403846153846154,54.807692307692314,1.8,have tell grow play run
+Sohrab,Farid,0.0,0.0,35.294117647058826,INF,stay say find
+Sohrab,Farid,0.0,0.0,35.294117647058826,INF,stay say find
+Sohrab,Farid,0.0,0.0,35.294117647058826,INF,stay say find
+Farid,Sohrab,6.25,1.5625,54.6875,4.0,wander walk arrive
+Aisha,Farid,0.0,0.0,42.857142857142854,INF,ask
+Farid,Aisha,6.730769230769231,3.8461538461538463,43.269230769230774,1.75,pay scan
+Aisha,Farid,6.730769230769231,3.8461538461538463,43.269230769230774,1.75,pay scan
+Farid,Sohrab,0.78125,0.0,49.21875,INF,pick unfold
+Farid,Rahim Khan,0.78125,0.0,49.21875,INF,pick unfold
+Sohrab,Rahim Khan,0.78125,0.0,49.21875,INF,pick unfold
+Amir,Hassan,0.0,0.0,61.111111111111114,INF,be tear
+Amir,Hassan,6.770833333333333,4.166666666666666,43.22916666666667,1.625,love love long
+Amir,Hassan,6.770833333333333,4.166666666666666,43.22916666666667,1.625,love love long
+Hassan,Amir,6.770833333333333,4.166666666666666,43.22916666666667,1.625,love love long
+Baba,Hassan,0.3205128205128205,1.9230769230769231,56.730769230769226,0.16666666666666666,sell look see
+Baba,Hassan,0.3205128205128205,1.9230769230769231,56.730769230769226,0.16666666666666666,sell look see
+Farid,Sohrab,4.807692307692308,0.0,56.730769230769226,INF,come put
+Sohrab,Farid,0.0,3.4722222222222223,52.083333333333336,0.0,take rest
+Sohrab,Farid,0.0,3.4722222222222223,52.083333333333336,0.0,take rest
+Sohrab,Farid,1.0416666666666665,5.208333333333334,60.416666666666664,0.2,be look crease
+John Lennon,Betty Caldwell,0.0,0.0,28.57142857142857,INF,
+Farid,Sohrab,0.0,0.0,40.0,INF,turn
+Sohrab,John Lennon,0.8928571428571428,4.464285714285714,37.5,0.2,drive
+Sohrab,Betty Caldwell,0.8928571428571428,4.464285714285714,37.5,0.2,drive
+John Lennon,Betty Caldwell,0.8928571428571428,4.464285714285714,37.5,0.2,drive
+Farid,Sohrab,0.0,0.0,25.0,INF,arrive
+John Lennon,Betty Caldwell,0.625,0.0,34.375,INF,be say
+John Lennon,Farid,0.625,0.0,34.375,INF,be say
+Betty Caldwell,Farid,0.625,0.0,34.375,INF,be say
+Rahim Khan,Farid,1.2096774193548387,0.0,37.5,INF,do understand say go say pick
+John Lennon,Betty Caldwell,0.0,5.208333333333334,61.458333333333336,0.0,be
+Talib,Assef,3.571428571428571,2.976190476190476,60.11904761904761,1.2,suspect stare be send
+Sohrab,Farid,0.5208333333333333,2.604166666666667,55.208333333333336,0.2,be look rest
+Amir,Farid,0.0,1.7857142857142856,41.07142857142857,0.0,say
+Amir,Farid,0.0,1.7857142857142856,41.07142857142857,0.0,say
+Baba,Hassan,2.5510204081632653,1.0204081632653061,57.6530612244898,2.5,have take have tell eat want buy have end
+Khala Jamila,Soraya,4.166666666666666,0.0,48.214285714285715,INF,pat say know be mean be
+Khala Jamila,God,4.166666666666666,0.0,48.214285714285715,INF,pat say know be mean be
+Soraya,God,4.166666666666666,0.0,48.214285714285715,INF,pat say know be mean be
+Sohrab,Farid,0.0,0.0,56.00000000000001,INF,perk lean look turn
+Amir,Farid,0.0,0.0,46.15384615384615,INF,get go say
+Sohrab,Farid,0.0,0.0,40.0,INF,say
+Farid,Sohrab,0.0,1.9230769230769231,59.61538461538461,0.0,wait pay
+Sohrab,Farid,0.0,1.9230769230769231,59.61538461538461,0.0,wait pay
+Sohrab,Farid,2.941176470588235,1.4705882352941175,60.29411764705882,2.0,return find lie curl be close tell be sleep
+Sohrab,Farid,2.941176470588235,1.4705882352941175,60.29411764705882,2.0,return find lie curl be close tell be sleep
+Sohrab,Mr. Fayyaz,0.0,0.7352941176470588,40.44117647058824,0.0,see call describe
+Mother,Sasa,1.7857142857142856,3.571428571428571,51.78571428571429,0.5,come
+Polaroid,Hassan,0.0,0.0,33.33333333333333,INF,find
+Polaroid,Sohrab,0.0,0.0,33.33333333333333,INF,find
+Hassan,Sohrab,0.0,0.0,33.33333333333333,INF,find
+God,Baba,3.8461538461538463,4.807692307692308,45.19230769230769,0.8,begin choke
+Mother,Baba,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,miss croak
+Sasa,Rahim Khan,0.0,0.0,40.0,INF,miss
+Baba,Hassan,3.75,1.25,51.66666666666667,3.0,think have allow pat have
+Baba,Hassan,3.75,1.25,51.66666666666667,3.0,think have allow pat have
+Baba,Hassan,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,picture beam remove
+Sohrab,Andrews,0.5681818181818182,0.0,49.43181818181818,INF,be hold think seat
+Andrews,Sohrab,3.3783783783783785,4.72972972972973,56.75675675675676,0.7142857142857143,say care give do look speak
+Sohrab,Andrews,3.3783783783783785,4.72972972972973,56.75675675675676,0.7142857142857143,say care give do look speak
+Sohrab,Andrews,3.3783783783783785,4.72972972972973,56.75675675675676,0.7142857142857143,say care give do look speak
+Dr. Amani,Baba,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,do remember give
+Sohrab,Baba,3.8461538461538463,0.0,34.61538461538461,INF,reach intertwine
+Sohrab,Andrews,0.0,1.5625,48.4375,0.0,look
+Sohrab,Andrews,4.5,4.0,43.5,1.125,be say think
+Sohrab,Andrews,0.0,0.9615384615384616,52.88461538461539,0.0,slide rest
+Polaroid,Andrews,0.9615384615384616,0.0,45.19230769230769,INF,remember
+Polaroid,Hassan,0.9615384615384616,0.0,45.19230769230769,INF,remember
+Andrews,Hassan,0.9615384615384616,0.0,45.19230769230769,INF,remember
+Soraya,Andrews,2.083333333333333,0.0,56.25,INF,pass have tell
+Padar,Amir,1.6666666666666667,6.666666666666667,45.0,0.25,be read
+Sharif,INS,0.9615384615384616,0.0,45.19230769230769,INF,call say
+Sharif,Soraya,0.9615384615384616,0.0,45.19230769230769,INF,call say
+Sharif,INS,0.9615384615384616,0.0,45.19230769230769,INF,call say
+Sharif,Soraya,0.9615384615384616,0.0,45.19230769230769,INF,call say
+INS,Soraya,0.9615384615384616,0.0,45.19230769230769,INF,call say
+Omar,Sohrab,0.0,3.4090909090909087,60.22727272727273,0.0,sit keep harry
+Mr. Andrews,Omar,0.0,0.6578947368421052,46.71052631578947,0.0,be give say
+Omar,Sohrab,0.0,0.0,40.0,INF,turn
+Sohrab,Mr. Faisal,4.6875,2.34375,36.71875,2.0,be tell
+Sohrab,Omar,0.8333333333333334,0.0,45.83333333333333,INF,slide shake
+Sohrab,Omar,0.8333333333333334,0.0,45.83333333333333,INF,slide shake
+Salaam,Omar,0.0,0.0,58.333333333333336,INF,say
+Sohrab,Omar,0.0,0.0,30.0,INF,say
+Omar,Rahim Khan,2.1739130434782608,1.6304347826086956,39.67391304347826,1.3333333333333333,tell stone
+Assef,Sohrab,0.0,0.0,36.0,INF,tell
+Sohrab,Assef,0.0,0.0,36.0,INF,tell
+Amir,Assef,0.0,0.0,35.714285714285715,INF,be preach say
+Taliban,Amir,0.9615384615384616,4.487179487179487,56.08974358974359,0.21428571428571427,be manmade be believe be ascertain be
+INS,Amir,0.0,2.604166666666667,39.0625,0.0,be be tell work say touch
+INS,Omar,0.0,2.604166666666667,39.0625,0.0,be be tell work say touch
+Amir,Omar,0.0,2.604166666666667,39.0625,0.0,be be tell work say touch
+Omar,Sohrab,0.0,0.0,57.14285714285714,INF,glance smile
+Omar,VW,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,walk
+Omar,VW,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,walk
+Mashallah,Sohrab,8.653846153846153,2.403846153846154,35.09615384615385,3.6,be have meet redden blush
+Mashallah,Omar,8.653846153846153,2.403846153846154,35.09615384615385,3.6,be have meet redden blush
+Sohrab,Omar,8.653846153846153,2.403846153846154,35.09615384615385,3.6,be have meet redden blush
+Amir,Omar,0.0,2.976190476190476,49.404761904761905,0.0,promise put say
+God,Amir,0.0,0.0,66.66666666666666,INF,
+Sohrab,Mr. Fayyaz,0.0,0.0,61.53846153846154,INF,be be take
+Soraya,Salaam,3.125,1.0416666666666665,37.5,3.0,
+Sharif,Sohrab,0.0,0.0,54.54545454545454,INF,say be get
+Sharif,INS,1.1363636363636365,0.0,71.5909090909091,INF,make
+Sharif,INS,1.1363636363636365,0.0,71.5909090909091,INF,make
+Sharif,Sohrab,2.5,2.5,70.0,1.0,call say be get
+Sharif,Sohrab,2.5,2.5,70.0,1.0,call say be get
+Sharif,Sohrab,2.5,2.5,70.0,1.0,call say be get
+Allah,Muhammad,0.9615384615384616,0.9615384615384616,63.46153846153846,1.0,do matter remember
+God,Allah,4.166666666666666,4.166666666666666,66.66666666666666,1.0,be be
+God,Muhammad,4.166666666666666,4.166666666666666,66.66666666666666,1.0,be be
+Allah,Muhammad,4.166666666666666,4.166666666666666,66.66666666666666,1.0,be be
+Baba,God,4.166666666666666,5.555555555555555,68.05555555555556,0.75,see be be have be
+Hassan,God,2.1226415094339623,0.4716981132075472,54.009433962264154,4.5,do think be stain pray do let get stain
+Allah,Muhammad,2.430555555555556,1.7361111111111112,56.94444444444444,1.4,say have cut have lose begin mutter
+Dr. Nawaz,Sohrab,1.6304347826086956,3.260869565217391,51.63043478260869,0.5,have think see
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Dr. Nawaz,Andrews,0.78125,4.166666666666666,61.71875,0.1875,take remember manicure have part see be
+Mr. Fayyaz,Sohrab,3.888888888888889,1.9444444444444444,49.72222222222222,2.0,wait think have say have go look be be
+Sohrab,Mr. Fayyaz,5.88235294117647,4.411764705882353,66.17647058823529,1.3333333333333333,have go sleep have give fear
+Rostam,Sohrab,5.803571428571429,0.0,26.339285714285715,INF,be be get know know
+Sohrab,Rostam,0.5208333333333333,1.5625,47.91666666666667,0.3333333333333333,give unto be begin
+Rostam,Sohrab,1.9886363636363635,0.8522727272727272,38.06818181818182,2.3333333333333335,bethink read come know
+Rostam,Sohrab,1.9886363636363635,0.8522727272727272,38.06818181818182,2.3333333333333335,bethink read come know
+Rostam,Sohrab,0.0,0.0,54.54545454545454,INF,lead
+Sohrab,Dr. Nawaz,0.0,0.0,0.0,INF,
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Hassan,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Hassan,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Ali,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Hassan,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Ali,Baba,1.331967213114754,1.8442622950819672,58.29918032786885,0.7222222222222222,be look be play belt call chase dip see drag stuff watch
+Sohrab,God,2.5,0.0,47.5,INF,give wish
+Omar,Sohrab,5.769230769230769,1.4423076923076923,46.63461538461539,4.0,have begin enter
+Hassan,Ali,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Hassan,Rahim Khan,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Hassan,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Hassan,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Ali,Rahim Khan,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Ali,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Ali,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Rahim Khan,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Rahim Khan,Baba,4.525862068965517,0.43103448275862066,51.939655172413794,10.5,come watch mill want know be do find
+Hassan,Sohrab,7.327586206896551,0.43103448275862066,33.62068965517241,17.0,be ask end know say
+Salaam,Sohrab,0.0,0.0,25.0,INF,be
+Salaam,Khala Jamila,0.0,0.0,25.0,INF,be
+Sohrab,Khala Jamila,0.0,0.0,25.0,INF,be
+Soraya,Sohrab,5.514705882352941,5.514705882352941,53.67647058823529,1.0,look smile tear have have be have betray
+Soraya,Sohrab,5.514705882352941,5.514705882352941,53.67647058823529,1.0,look smile tear have have be have betray
+Sohrab,Soraya,5.514705882352941,5.514705882352941,53.67647058823529,1.0,look smile tear have have be have betray
+Sohrab,Soraya,5.514705882352941,5.514705882352941,53.67647058823529,1.0,look smile tear have have be have betray
+Sohrab,Soraya,5.514705882352941,5.514705882352941,53.67647058823529,1.0,look smile tear have have be have betray
+Rahim Khan,Polaroid,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Rahim Khan,Sohrab,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Rahim Khan,Omar,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Polaroid,Sohrab,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Polaroid,Omar,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Sohrab,Omar,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,see be have give sohrab have sit
+Hassan,Sohrab,4.838709677419355,0.0,50.0,INF,stand squint smile be
+Hassan,Baba,0.0,1.3888888888888888,65.27777777777779,0.0,look show miss slant
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Khala Jamila,Soraya,1.7241379310344827,1.7241379310344827,41.37931034482759,1.0,cut hand have bring
+Soraya,Sohrab,2.586206896551724,0.43103448275862066,48.706896551724135,6.0,tell be be hand
+Soraya,Khala Jamila,2.586206896551724,0.43103448275862066,48.706896551724135,6.0,tell be be hand
+Sohrab,Soraya,2.586206896551724,0.43103448275862066,48.706896551724135,6.0,tell be be hand
+Sohrab,Khala Jamila,2.586206896551724,0.43103448275862066,48.706896551724135,6.0,tell be be hand
+Soraya,Khala Jamila,2.586206896551724,0.43103448275862066,48.706896551724135,6.0,tell be be hand
+Sohrab,Soraya,0.0,0.0,28.57142857142857,INF,take
+Khala Jamila,Soraya,3.205128205128205,3.0448717948717947,52.72435897435898,1.0526315789473684,answer answer ask tell have be mug reassure have come be eat try rub make fade
+Khala Jamila,Soraya,3.205128205128205,3.0448717948717947,52.72435897435898,1.0526315789473684,answer answer ask tell have be mug reassure have come be eat try rub make fade
+Khala Jamila,Soraya,3.205128205128205,3.0448717948717947,52.72435897435898,1.0526315789473684,answer answer ask tell have be mug reassure have come be eat try rub make fade
+Taliban,Soraya,1.6666666666666667,2.5,52.5,0.6666666666666666,listen nod ed tell have spot sell
+Taliban,Soraya,1.6666666666666667,2.5,52.5,0.6666666666666666,listen nod ed tell have spot sell
+Taliban,Soraya,1.6666666666666667,2.5,52.5,0.6666666666666666,listen nod ed tell have spot sell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Assef,Rahim Khan,4.166666666666666,0.7575757575757576,58.71212121212122,5.5,ask say have meet shake tell
+Rahim Khan,Sohrab,2.5,1.25,56.25,2.0,speak catch drift sleep
+Rahim Khan,Amir,0.8928571428571428,0.2976190476190476,53.57142857142857,3.0,skirt come put say be go tell have bring
+Amir,Soraya,0.0,0.0,28.57142857142857,INF,begin
+Sahib,Hassan,3.125,1.5625,45.3125,2.0,bear name
+Sahib,Hazara,2.2058823529411766,3.6764705882352944,41.17647058823529,0.6,refer
+Sohrab,Soraya,1.3888888888888888,11.11111111111111,43.05555555555556,0.125,be
+Soraya,Sohrab,3.75,1.25,50.0,3.0,have tell be plan
+Soraya,Sohrab,3.75,1.25,50.0,3.0,have tell be plan
+Soraya,Sohrab,1.4534883720930232,2.9069767441860463,53.779069767441854,0.5,walk catch sit have be
+Baba,Hassan,1.7857142857142856,3.571428571428571,44.642857142857146,0.5,be take
+Baba,Hassan,2.380952380952381,2.6785714285714284,61.60714285714286,0.8888888888888888,do remember sit take sip see spit
+Soraya,Khala Jamila,0.0,0.0,52.38095238095239,INF,take
+Soraya,Sohrab,0.0,0.0,52.38095238095239,INF,take
+Khala Jamila,Sohrab,0.0,0.0,52.38095238095239,INF,take
+Kabir,Soraya,5.514705882352941,2.941176470588235,47.42647058823529,1.875,have rejoice have open
+Soraya,Khala Jamila,0.2840909090909091,1.7045454545454544,52.55681818181818,0.16666666666666666,smile rush bounce
+Soraya,Sohrab,0.2840909090909091,1.7045454545454544,52.55681818181818,0.16666666666666666,smile rush bounce
+Khala Jamila,Sohrab,0.2840909090909091,1.7045454545454544,52.55681818181818,0.16666666666666666,smile rush bounce
+Soraya,Khala Jamila,0.0,0.9615384615384616,45.19230769230769,0.0,drift fry
+Sohrab,Hassan,1.488095238095238,1.1904761904761905,49.702380952380956,1.25,stay step stuff plaster
+Zahir Shah,Ali,2.25,2.75,55.00000000000001,0.8181818181818182,remember overthrow remember light have take tell be be
+Zahir Shah,Ali,2.25,2.75,55.00000000000001,0.8181818181818182,remember overthrow remember light have take tell be be
+Zahir Shah,Hassan,2.25,2.75,55.00000000000001,0.8181818181818182,remember overthrow remember light have take tell be be
+Ali,Hassan,2.25,2.75,55.00000000000001,0.8181818181818182,remember overthrow remember light have take tell be be
+Ali,Hassan,2.25,2.75,55.00000000000001,0.8181818181818182,remember overthrow remember light have take tell be be
+Baba,Soraya,2.272727272727273,1.1363636363636365,69.31818181818183,2.0,be chat tell have be pull
+Amir,Soraya,0.0,0.0,33.33333333333333,INF,look
+Adam,Baba,0.0,0.0,63.63636363636363,INF,rise fall swallow

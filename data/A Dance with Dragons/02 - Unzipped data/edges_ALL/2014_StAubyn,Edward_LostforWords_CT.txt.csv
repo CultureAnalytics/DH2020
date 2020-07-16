@@ -1,0 +1,1743 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+David,Elysian Group,2.734375,1.5625,58.203125,1.75,have approach become ask consider
+David,Malcolm,2.734375,1.5625,58.203125,1.75,have approach become ask consider
+David,Elysian Group,2.734375,1.5625,58.203125,1.75,have approach become ask consider
+David,Malcolm,2.734375,1.5625,58.203125,1.75,have approach become ask consider
+Elysian Group,Malcolm,2.734375,1.5625,58.203125,1.75,have approach become ask consider
+Malcolm,David,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Malcolm,Foreign Office,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Malcolm,Parliament,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+David,Foreign Office,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+David,Malcolm,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+David,Parliament,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Foreign Office,Malcolm,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Foreign Office,Parliament,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Malcolm,Parliament,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,have have be be
+Malcolm,David,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+Malcolm,David,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+Malcolm,Elysian Group,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+Malcolm,David,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+David,Elysian Group,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+David,Elysian Group,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+Elysian Group,David,1.4705882352941175,0.24509803921568626,57.107843137254896,6.0,retire take be hand include have fall select
+Malcolm,David,4.166666666666666,8.333333333333332,43.05555555555556,0.5,be confine
+Elysian Group,Malcolm,4.741379310344827,0.0,53.879310344827594,INF,weaponize have come be ask sit
+Elysian Group,Malcolm,4.741379310344827,0.0,53.879310344827594,INF,weaponize have come be ask sit
+Jo,Malcolm,3.90625,2.34375,50.0,1.6666666666666667,turn be manage make turn be
+Malcolm,Jo,3.90625,2.34375,50.0,1.6666666666666667,turn be manage make turn be
+Malcolm,Jo,3.90625,2.34375,50.0,1.6666666666666667,turn be manage make turn be
+Malcolm,Vanessa,3.260869565217391,0.0,44.565217391304344,INF,invite keep say be
+Malcolm,Vanessa,3.260869565217391,0.0,44.565217391304344,INF,invite keep say be
+Malcolm,Vanessa,3.260869565217391,0.0,44.565217391304344,INF,invite keep say be
+Malcolm,David,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+Malcolm,Foreign Office,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+Malcolm,Penny,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+David,Foreign Office,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+David,Penny,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+Foreign Office,Penny,0.5952380952380952,2.976190476190476,58.333333333333336,0.2,resent be
+Vanessa,David,1.3157894736842104,2.631578947368421,51.31578947368421,0.5,have recommend establish be
+Vanessa,David,1.3157894736842104,2.631578947368421,51.31578947368421,0.5,have recommend establish be
+David,Vanessa,1.3157894736842104,2.631578947368421,51.31578947368421,0.5,have recommend establish be
+David,Vanessa,1.3157894736842104,2.631578947368421,51.31578947368421,0.5,have recommend establish be
+Malcolm,Vanessa,0.5434782608695652,0.0,42.934782608695656,INF,look think be do
+Malcolm,Vanessa,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Malcolm,Vanessa,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Vanessa,Malcolm,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Vanessa,Malcolm,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Malcolm,Vanessa,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Vanessa,Malcolm,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,have remind have be make go
+Tobias,David,3.125,1.5625,61.979166666666664,2.0,be have be be
+Tobias,Malcolm,3.125,1.5625,61.979166666666664,2.0,be have be be
+David,Malcolm,3.125,1.5625,61.979166666666664,2.0,be have be be
+Malcolm,Penny,0.5208333333333333,0.5208333333333333,53.125,1.0,ask look feel investigate
+Malcolm,Tobias,0.5208333333333333,0.5208333333333333,53.125,1.0,ask look feel investigate
+Penny,Tobias,0.5208333333333333,0.5208333333333333,53.125,1.0,ask look feel investigate
+Tobias,Alistair Mackintosh,6.785714285714286,2.857142857142857,56.07142857142857,2.375,be have unearth be support
+Tobias,Alistair Mackintosh,6.785714285714286,2.857142857142857,56.07142857142857,2.375,be have unearth be support
+Sam,Hephaestus,3.260869565217391,3.804347826086957,49.45652173913043,0.8571428571428571,name have be
+Sam,Hephaestus,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,throw take
+Sam,Hephaestus,0.75,2.75,50.5,0.2727272727272727,put submit write publish
+Sam,Hephaestus,0.75,2.75,50.5,0.2727272727272727,put submit write publish
+Hephaestus,Sam,0.75,2.75,50.5,0.2727272727272727,put submit write publish
+Sam,Elysian Group,2.864583333333333,3.125,50.260416666666664,0.9166666666666666,know have join hope make re-submit win
+Sam,Elysian Group,2.864583333333333,3.125,50.260416666666664,0.9166666666666666,know have join hope make re-submit win
+Sam,Elysian Group,2.864583333333333,3.125,50.260416666666664,0.9166666666666666,know have join hope make re-submit win
+Sam,Katherine,1.3157894736842104,0.0,67.10526315789474,INF,find let elapse
+Sam,Katherine,4.166666666666666,1.0416666666666665,61.458333333333336,4.0,have be wait
+Katherine,Sam,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Elysian Group,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Sam,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Sam,Katherine,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Sam,Katherine,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Sam,Elysian Group,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Elysian Group,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Sam,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Elysian Group,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Katherine,Sam,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Elysian Group,Sam,2.8846153846153846,0.3205128205128205,53.205128205128204,9.0,have write say get be work make invite
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Alan,Sam,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Alan,Sam,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Alan,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Alan,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Sam,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Alan,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Alan,Katherine,2.5,1.25,61.25000000000001,2.0,have know be be dare lie
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,4.878048780487805,3.6585365853658534,52.4390243902439,1.3333333333333333,seem have be like worry be
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,2.455357142857143,3.7946428571428568,56.25,0.6470588235294118,command remind paralyse kill assure live know be defend
+Katherine,Alan,13.541666666666666,1.0416666666666665,35.41666666666667,13.0,be be adore
+Alan,Katherine,13.541666666666666,1.0416666666666665,35.41666666666667,13.0,be be adore
+Sonny,Katherine,4.545454545454546,1.7045454545454544,30.113636363636363,2.6666666666666665,say lean arrive
+Sonny,Katherine,3.4375000000000004,0.625,63.4375,5.5,be enjoy be consider be have be outweigh
+Sonny,Katherine,3.4375000000000004,0.625,63.4375,5.5,be enjoy be consider be have be outweigh
+Sonny,Katherine,3.4375000000000004,0.625,63.4375,5.5,be enjoy be consider be have be outweigh
+Katherine,Sonny,1.7857142857142856,8.928571428571429,32.142857142857146,0.2,watch murmur
+Katherine,Sonny,1.4705882352941175,1.4705882352941175,52.94117647058824,1.0,see swivel remind
+Sonny,Katherine,1.4705882352941175,1.4705882352941175,52.94117647058824,1.0,see swivel remind
+Katherine,Didier,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Katherine,Sonny,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Katherine,Didier,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Katherine,Sonny,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Didier,Sonny,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Didier,Katherine,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Sonny,Katherine,2.5,2.5,48.333333333333336,1.0,wish have ask call leave
+Katherine,Didier,3.214285714285714,0.7142857142857143,56.07142857142857,4.5,lead crush remain
+Didier,Katherine,3.214285714285714,0.7142857142857143,56.07142857142857,4.5,lead crush remain
+Didier,Sonny,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Didier,Sonny,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Didier,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Didier,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Didier,Sonny,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Sonny,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Sonny,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Sonny,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Sonny,Katherine,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Katherine,Sonny,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Katherine,Sonny,5.5,3.5000000000000004,39.0,1.5714285714285714,have see warn find
+Auntie,Katherine,1.4583333333333333,0.0,45.208333333333336,INF,say notice have move add do get fill
+Auntie,Katherine,1.4583333333333333,0.0,45.208333333333336,INF,say notice have move add do get fill
+Auntie,Katherine,1.4583333333333333,0.0,45.208333333333336,INF,say notice have move add do get fill
+Penny,Elysian Group,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Penny,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Penny,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Penny,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Penny,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Penny,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Elysian Group,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Elysian Group,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Elysian Group,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Elysian Group,Katherine,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Elysian Group,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Katherine,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Katherine,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Katherine,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Katherine,Roger,1.5957446808510638,0.26595744680851063,64.09574468085107,6.0,have be preoccupy become have neglect be determine get work
+Katherine,Audi,0.0,1.0,59.0,0.0,sit be call
+Katherine,Jane,0.0,1.0,59.0,0.0,sit be call
+Audi,Jane,0.0,1.0,59.0,0.0,sit be call
+Jane,Grove,6.521739130434782,0.0,50.0,INF,come rest blast
+Grove,Jane,6.521739130434782,0.0,50.0,INF,come rest blast
+Jane,Audi,0.0,0.0,43.75,INF,reach feel
+Audi,Jane,0.0,0.0,43.75,INF,reach feel
+Lane,Jane,3.5256410256410255,0.9615384615384616,51.92307692307693,3.6666666666666665,be have dance
+Jane,Lane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Jane,Lane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Jane,Lane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Jane,Lane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Jane,5.5,2.0,46.5,2.75,have be avoid plague have track deliver
+Lane,Thames House,0.5434782608695652,0.5434782608695652,59.78260869565217,1.0,sit watch turn lapi make
+Penny,Jane,6.854838709677419,4.032258064516129,50.403225806451616,1.7,be tear think be research think be
+Foreign Office,Jane,4.166666666666666,4.6875,53.645833333333336,0.8888888888888888,have be retire pursue become
+Jane,David,2.604166666666667,0.0,76.5625,INF,have stagnate
+Jane,David,0.6944444444444444,10.416666666666668,55.55555555555556,0.06666666666666667,ruin ruin
+David,Jane,0.6944444444444444,10.416666666666668,55.55555555555556,0.06666666666666667,ruin ruin
+David,Jane,0.6944444444444444,10.416666666666668,55.55555555555556,0.06666666666666667,ruin ruin
+David,Jane,3.532608695652174,0.8152173913043478,58.69565217391305,4.333333333333333,be be use call be consider
+David,Jane,3.532608695652174,0.8152173913043478,58.69565217391305,4.333333333333333,be be use call be consider
+Jane,David,3.532608695652174,0.8152173913043478,58.69565217391305,4.333333333333333,be be use call be consider
+David,Jane,3.532608695652174,0.8152173913043478,58.69565217391305,4.333333333333333,be be use call be consider
+Jane,Ibrahim al-Shukra,3.888888888888889,3.6111111111111107,34.72222222222222,1.0769230769230769,be face be
+Ibrahim al-Shukra,Jane,3.888888888888889,3.6111111111111107,34.72222222222222,1.0769230769230769,be face be
+Roger,Grove,0.0,0.0,25.0,INF,say
+Jane,Nicola,3.125,4.375,57.49999999999999,0.7142857142857143,be mean be have forget be
+Nicola,Penny,0.8333333333333334,1.25,47.91666666666667,0.6666666666666666,have reproach be be go have add
+Penny,Nicola,0.8333333333333334,1.25,47.91666666666667,0.6666666666666666,have reproach be be go have add
+Penny,Nicola,0.8333333333333334,1.25,47.91666666666667,0.6666666666666666,have reproach be be go have add
+Nicola,Penny,7.187499999999999,0.9375,51.87500000000001,7.666666666666667,have be plan see repeat have promise take have be force let
+Nicola,Penny,7.187499999999999,0.9375,51.87500000000001,7.666666666666667,have be plan see repeat have promise take have be force let
+Penny,Nicola,7.187499999999999,0.9375,51.87500000000001,7.666666666666667,have be plan see repeat have promise take have be force let
+Penny,Nicola,7.187499999999999,0.9375,51.87500000000001,7.666666666666667,have be plan see repeat have promise take have be force let
+Penny,Nicola,4.934210526315789,0.3289473684210526,65.78947368421053,15.0,have invade send invade have feel have stay help draft
+Penny,Nicola,4.934210526315789,0.3289473684210526,65.78947368421053,15.0,have invade send invade have feel have stay help draft
+Penny,Foreign Office,4.934210526315789,0.3289473684210526,65.78947368421053,15.0,have invade send invade have feel have stay help draft
+Nicola,Foreign Office,4.934210526315789,0.3289473684210526,65.78947368421053,15.0,have invade send invade have feel have stay help draft
+Nicola,Foreign Office,4.934210526315789,0.3289473684210526,65.78947368421053,15.0,have invade send invade have feel have stay help draft
+Penny,Nicola,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,help wince
+Didier,Katherine,1.6129032258064515,4.838709677419355,51.61290322580645,0.3333333333333333,be loop cup
+Didier,Katherine,1.6129032258064515,4.838709677419355,51.61290322580645,0.3333333333333333,be loop cup
+Didier,Katherine,1.6129032258064515,4.838709677419355,51.61290322580645,0.3333333333333333,be loop cup
+Didier,Katherine,6.547619047619048,4.166666666666666,27.380952380952383,1.5714285714285714,wonder be
+Didier,Katherine,6.547619047619048,4.166666666666666,27.380952380952383,1.5714285714285714,wonder be
+Katherine,Didier,3.125,2.34375,50.78125,1.3333333333333333,do want think be have
+Katherine,Alan,9.722222222222223,5.555555555555555,32.870370370370374,1.75,be deal take be know
+Katherine,Alan,3.225806451612903,2.4193548387096775,58.87096774193549,1.3333333333333333,have work get have go
+Katherine,Alan,3.225806451612903,2.4193548387096775,58.87096774193549,1.3333333333333333,have work get have go
+Alan,Katherine,1.7857142857142856,5.357142857142857,50.0,0.3333333333333333,count be leave
+Katherine,Sam,4.411764705882353,1.4705882352941175,58.82352941176471,3.0,want make get be come
+Katherine,Didier,1.3157894736842104,0.6578947368421052,45.39473684210527,2.0,give want roll raise lean
+Katherine,Didier,1.3157894736842104,0.6578947368421052,45.39473684210527,2.0,give want roll raise lean
+Katherine,Didier,1.3157894736842104,0.6578947368421052,45.39473684210527,2.0,give want roll raise lean
+Katherine,Didier,0.78125,2.34375,40.625,0.3333333333333333,be say kiss
+Katherine,Didier,0.78125,2.34375,40.625,0.3333333333333333,be say kiss
+Didier,Katherine,4.375,0.0,40.625,INF,get say turn lunge
+Katherine,Didier,4.375,0.0,40.625,INF,get say turn lunge
+Didier,Katherine,3.4090909090909087,2.840909090909091,48.29545454545455,1.2,be say get
+Katherine,Didier,0.7575757575757576,1.5151515151515151,43.18181818181818,0.5,do mean turn miss penetrate
+Katherine,Didier,0.5434782608695652,0.0,60.32608695652174,INF,get be clothe sit
+Didier,Katherine,0.5434782608695652,0.0,60.32608695652174,INF,get be clothe sit
+Didier,Katherine,2.34375,0.0,41.40625,INF,manage have step
+Didier,Katherine,2.34375,0.0,41.40625,INF,manage have step
+Didier,Katherine,4.166666666666666,0.0,45.83333333333333,INF,do think do know say emerge
+Didier,Katherine,4.166666666666666,0.0,45.83333333333333,INF,do think do know say emerge
+Didier,Katherine,1.6666666666666667,4.166666666666666,34.166666666666664,0.4,do worry say follow
+Sam,Katherine,0.0,0.0,37.5,INF,say press let
+Sam,Katherine,0.0,0.0,37.5,INF,say press let
+Katherine,Sam,0.0,0.0,37.5,INF,say press let
+Katherine,Sam,0.0,0.0,37.5,INF,say press let
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Didier,Katherine,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Didier,Katherine,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Didier,Katherine,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Didier,Katherine,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Katherine,Didier,2.34375,2.734375,57.421875,0.8571428571428571,take give know have stop talk be
+Sam,Katherine,8.653846153846153,0.9615384615384616,44.230769230769226,9.0,tell have be
+Sam,Didier,8.653846153846153,0.9615384615384616,44.230769230769226,9.0,tell have be
+Katherine,Didier,8.653846153846153,0.9615384615384616,44.230769230769226,9.0,tell have be
+Katherine,Didier,0.8928571428571428,0.0,56.25,INF,be smell
+Sam,Katherine,0.0,3.90625,58.59375,0.0,know be suppose be
+Katherine,Sam,9.375,8.59375,32.03125,1.0909090909090908,fill discourage
+Sam,Katherine,9.375,8.59375,32.03125,1.0909090909090908,fill discourage
+Katherine,Didier,1.7857142857142856,1.1904761904761905,54.166666666666664,1.5,have say determine go have start talk
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Didier,Sonny,2.272727272727273,5.681818181818182,55.68181818181818,0.4,see feel need click flash be churn await
+Sonny,Krishna,1.7857142857142856,1.1904761904761905,44.642857142857146,1.5,trace accord
+Sonny,Krishna,1.7857142857142856,1.1904761904761905,44.642857142857146,1.5,trace accord
+Krishna,Sonny,3.75,0.20833333333333334,51.041666666666664,18.0,have mingle infuse bring be smile be become found
+Krishna,Sonny,3.75,0.20833333333333334,51.041666666666664,18.0,have mingle infuse bring be smile be become found
+Sonny,Krishna,3.75,0.20833333333333334,51.041666666666664,18.0,have mingle infuse bring be smile be become found
+Sonny,Krishna,3.75,0.20833333333333334,51.041666666666664,18.0,have mingle infuse bring be smile be become found
+Sonny,Katherine,3.316326530612245,1.2755102040816326,68.87755102040816,2.6,speed check see have send shed have receive
+Sonny,Katherine,3.316326530612245,1.2755102040816326,68.87755102040816,2.6,speed check see have send shed have receive
+Sonny,Katherine,3.316326530612245,1.2755102040816326,68.87755102040816,2.6,speed check see have send shed have receive
+Sonny,Elysian Group,2.7777777777777777,2.579365079365079,58.13492063492064,1.0769230769230769,do pretend understand imagine want make synchronize
+Sonny,Elysian Group,2.7777777777777777,2.579365079365079,58.13492063492064,1.0769230769230769,do pretend understand imagine want make synchronize
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Arnold Bennett Suite,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Arnold Bennett Suite,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Sonny,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Claridge,Arnold Bennett Suite,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Claridge,Arnold Bennett Suite,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Arnold Bennett Suite,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Arnold Bennett Suite,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Arnold Bennett Suite,Claridge,1.4830508474576272,0.6355932203389831,55.50847457627118,2.3333333333333335,show confirm book admit give
+Vanessa,Stephen,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,be have go see
+Vanessa,Poppy,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,be have go see
+Stephen,Poppy,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,be have go see
+Poppy,Vanessa,0.0,0.0,75.0,INF,be drop
+Vanessa,Poppy,4.716981132075472,1.8867924528301887,59.43396226415094,2.5,be get work be treat be
+Poppy,Vanessa,4.716981132075472,1.8867924528301887,59.43396226415094,2.5,be get work be treat be
+Poppy,Vanessa,4.716981132075472,1.8867924528301887,59.43396226415094,2.5,be get work be treat be
+Poppy,Vanessa,1.9230769230769231,2.8846153846153846,56.730769230769226,0.6666666666666666,have start
+Poppy,Vanessa,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Poppy,Vanessa,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Poppy,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Poppy,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Vanessa,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Vanessa,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Vanessa,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Vanessa,Tom,1.2096774193548387,0.0,60.08064516129033,INF,be have lose lecture carry bowl
+Vanessa,Elysian Group,0.0,3.804347826086957,57.065217391304344,0.0,be surround pile
+Elysian Group,Vanessa,0.0,3.804347826086957,57.065217391304344,0.0,be surround pile
+Vanessa,Poppy,2.0220588235294117,3.6764705882352944,59.00735294117647,0.55,require reclaim clear think be liberate get be choose
+Poppy,Vanessa,2.0220588235294117,3.6764705882352944,59.00735294117647,0.55,require reclaim clear think be liberate get be choose
+Vanessa,Malcolm,0.0,0.0,48.38709677419355,INF,intend dispatch be take
+Vanessa,Malcolm,0.0,0.0,48.38709677419355,INF,intend dispatch be take
+Vanessa,Malcolm,4.0,0.5,43.5,8.0,be incline stay keep
+Malcolm,Vanessa,4.0,0.5,43.5,8.0,be incline stay keep
+Vanessa,Malcolm,3.8461538461538463,2.2435897435897436,45.19230769230769,1.7142857142857142,let have be admit be advance come have read
+Malcolm,Vanessa,3.8461538461538463,2.2435897435897436,45.19230769230769,1.7142857142857142,let have be admit be advance come have read
+Malcolm,Vanessa,3.8461538461538463,2.2435897435897436,45.19230769230769,1.7142857142857142,let have be admit be advance come have read
+Malcolm,Vanessa,3.8461538461538463,2.2435897435897436,45.19230769230769,1.7142857142857142,let have be admit be advance come have read
+Malcolm,Vanessa,3.8461538461538463,2.2435897435897436,45.19230769230769,1.7142857142857142,let have be admit be advance come have read
+Vanessa,Sam,5.46875,3.125,66.40625,1.75,admire be
+Alan,Katherine,4.017857142857143,3.125,42.857142857142854,1.2857142857142858,have manage catch expect text tell
+Alan,Katherine,4.017857142857143,3.125,42.857142857142854,1.2857142857142858,have manage catch expect text tell
+Alan,Katherine,4.017857142857143,3.125,42.857142857142854,1.2857142857142858,have manage catch expect text tell
+Alan,Katherine,4.017857142857143,3.125,42.857142857142854,1.2857142857142858,have manage catch expect text tell
+Alan,Katherine,2.5,2.0,51.5,1.25,long be know be picture have make
+Alan,Katherine,2.5,2.0,51.5,1.25,long be know be picture have make
+Katherine,Alan,2.5,2.0,51.5,1.25,long be know be picture have make
+Katherine,Alan,2.5,2.0,51.5,1.25,long be know be picture have make
+Alan,Katherine,2.5,2.0,51.5,1.25,long be know be picture have make
+Alan,Katherine,2.5,2.0,51.5,1.25,long be know be picture have make
+Katherine,Turner,1.7523364485981308,4.205607476635514,57.59345794392523,0.4166666666666667,sleep be sleep sleep let leave move have take warn wheel have lose have dry start write
+Katherine,Turner,1.7523364485981308,4.205607476635514,57.59345794392523,0.4166666666666667,sleep be sleep sleep let leave move have take warn wheel have lose have dry start write
+Katherine,Turner,1.7523364485981308,4.205607476635514,57.59345794392523,0.4166666666666667,sleep be sleep sleep let leave move have take warn wheel have lose have dry start write
+Katherine,Turner,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Katherine,Elysian Group,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Katherine,Turner,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Katherine,Elysian Group,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Turner,Katherine,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Turner,Elysian Group,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Katherine,Elysian Group,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,be be hope expect see
+Katherine,Alan,3.0,0.5,60.5,6.0,be make realize be
+Alan,Katherine,3.0,0.5,60.5,6.0,be make realize be
+Alan,Elysian Group,3.4340659340659343,1.7857142857142856,55.219780219780226,1.9230769230769231,have make hang be be do turn break engender carry forget give bring
+Alan,Elysian Group,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,have be hand get bike know continue
+Alan,Elysian Group,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,have be hand get bike know continue
+Elysian Group,Alan,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,have be hand get bike know continue
+Alan,Katherine,3.6764705882352944,0.3676470588235294,51.83823529411765,10.0,help find describe go
+Alan,Katherine,3.6764705882352944,0.3676470588235294,51.83823529411765,10.0,help find describe go
+Alan,Elysian Group,3.6764705882352944,0.3676470588235294,51.83823529411765,10.0,help find describe go
+Katherine,Elysian Group,3.6764705882352944,0.3676470588235294,51.83823529411765,10.0,help find describe go
+Katherine,Elysian Group,3.6764705882352944,0.3676470588235294,51.83823529411765,10.0,help find describe go
+Alan,Didier,4.0625,2.5,50.9375,1.625,turn spot look crumple have be drink have have go
+Alan,Sam,4.0625,2.5,50.9375,1.625,turn spot look crumple have be drink have have go
+Alan,Didier,4.0625,2.5,50.9375,1.625,turn spot look crumple have be drink have have go
+Alan,Sam,4.0625,2.5,50.9375,1.625,turn spot look crumple have be drink have have go
+Didier,Sam,4.0625,2.5,50.9375,1.625,turn spot look crumple have be drink have have go
+Sam,Alan,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Sam,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Sam,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Sam,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Alan,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Alan,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Alan,Turner,3.3653846153846154,1.9230769230769231,60.09615384615385,1.75,be tempt get
+Didier,Katherine,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Katherine,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Katherine,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Katherine,Didier,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Katherine,Didier,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Katherine,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Katherine,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Didier,Alan,2.5510204081632653,4.591836734693878,54.08163265306123,0.5555555555555556,dread see be do seem know be beat be try get publish
+Alan,Katherine,3.8793103448275863,0.8620689655172413,50.43103448275862,4.5,have be be try peddle
+Katherine,Alan,3.8793103448275863,0.8620689655172413,50.43103448275862,4.5,have be be try peddle
+Katherine,Alan,3.8793103448275863,0.8620689655172413,50.43103448275862,4.5,have be be try peddle
+Didier,Alan,0.6944444444444444,0.0,38.19444444444444,INF,call suggest follow
+Alan,Didier,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do need begin interrupt
+Didier,Alan,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,do need begin interrupt
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Alan,Didier,4.545454545454546,0.0,60.909090909090914,INF,have come be commit pass help wish go belong
+Didier,Alan,2.5943396226415096,3.30188679245283,54.48113207547169,0.7857142857142857,be spend erode try persuade lay allow choose
+Katherine,Alan,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,draw sweeten hurry
+Katherine,Alan,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,draw sweeten hurry
+Katherine,Alan,0.0,0.0,44.44444444444444,INF,be wait
+Alan,Katherine,5.833333333333333,0.0,47.5,INF,kiss lead draw
+Didier,Sam,3.75,2.5,48.75,1.5,talk see round
+Katherine,Sam,3.4090909090909087,2.272727272727273,44.31818181818182,1.5,have become say straddle imagine
+Katherine,Sam,0.0,0.0,70.0,INF,be take
+Penny,Malcolm,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,have be ask check
+Penny,Tobias,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,have be ask check
+Malcolm,Tobias,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,have be ask check
+Thomas Kyd,John,5.681818181818182,0.0,48.86363636363637,INF,do know
+Thomas Kyd,John,0.6944444444444444,6.25,48.61111111111111,0.1111111111111111,return continue scowl ignore
+Thomas Kyd,William,0.6944444444444444,6.25,48.61111111111111,0.1111111111111111,return continue scowl ignore
+Thomas Kyd,John,0.6944444444444444,6.25,48.61111111111111,0.1111111111111111,return continue scowl ignore
+Thomas Kyd,William,0.6944444444444444,6.25,48.61111111111111,0.1111111111111111,return continue scowl ignore
+John,William,0.6944444444444444,6.25,48.61111111111111,0.1111111111111111,return continue scowl ignore
+William,John,2.027027027027027,4.72972972972973,52.702702702702695,0.42857142857142855,respond rise point
+William,John,2.027027027027027,4.72972972972973,52.702702702702695,0.42857142857142855,respond rise point
+William,Ben,0.625,0.0,34.375,INF,come say
+Ben,William,0.625,0.0,34.375,INF,come say
+Penny,William,9.375,1.0416666666666665,47.91666666666667,9.0,help admire make feel be
+Penny,William,9.375,1.0416666666666665,47.91666666666667,9.0,help admire make feel be
+Thomas Kyd,Lucretia,1.7045454545454544,7.386363636363637,36.36363636363637,0.23076923076923078,speak say be come
+Lucretia,William,4.6875,0.0,39.0625,INF,hoist skirt straddle
+Lucretia,William,4.6875,0.0,39.0625,INF,hoist skirt straddle
+William,Lucretia,0.9259259259259258,0.4629629629629629,28.240740740740737,2.0,say click be promise
+William,Lucretia,0.9259259259259258,0.4629629629629629,28.240740740740737,2.0,say click be promise
+Lucretia,William,0.9259259259259258,0.4629629629629629,28.240740740740737,2.0,say click be promise
+William,Lucretia,0.9259259259259258,0.4629629629629629,28.240740740740737,2.0,say click be promise
+William,Lucretia,2.5,1.0,40.5,2.5,say clasp pull make plough yield
+William,Lucretia,2.5,1.0,40.5,2.5,say clasp pull make plough yield
+Lucretia,William,2.5,1.0,40.5,2.5,say clasp pull make plough yield
+Lucretia,William,2.5,1.0,40.5,2.5,say clasp pull make plough yield
+Lucretia,William,1.153846153846154,0.7692307692307693,48.84615384615385,1.5,say arch pull keep be come play leave be hear have play have
+William,Lucretia,1.153846153846154,0.7692307692307693,48.84615384615385,1.5,say arch pull keep be come play leave be hear have play have
+Lucretia,Alan,3.9179104477611943,2.425373134328358,50.373134328358205,1.6153846153846154,be include have do think
+Penny,Jo,2.34375,0.78125,65.625,3.0,be be see
+Jo,Penny,2.5,5.3125,44.6875,0.47058823529411764,avoid sound be complain
+Jo,Penny,2.5,5.3125,44.6875,0.47058823529411764,avoid sound be complain
+Penny,Jo,2.5,5.3125,44.6875,0.47058823529411764,avoid sound be complain
+Penny,Jo,2.5,5.3125,44.6875,0.47058823529411764,avoid sound be complain
+Jo,Malcolm,0.9615384615384616,1.4423076923076923,51.442307692307686,0.6666666666666666,appear have make win support
+Jo,Malcolm,0.9615384615384616,1.4423076923076923,51.442307692307686,0.6666666666666666,appear have make win support
+Malcolm,Bruce,1.5625,0.1953125,52.9296875,8.0,have choose bring go give end become be
+Penny,Vanessa,4.411764705882353,4.411764705882353,61.76470588235294,1.0,find take be
+Vanessa,Penny,4.375,6.25,49.375,0.7,be
+Vanessa,Penny,7.954545454545454,5.113636363636364,50.56818181818182,1.5555555555555556,be call have be make
+Penny,Vanessa,0.0,0.0,66.66666666666666,INF,glance
+Penny,Vanessa,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Vanessa,Penny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Vanessa,Penny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Vanessa,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Vanessa,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Vanessa,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Katherine,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Penny,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Katherine,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Katherine,Sonny,1.0135135135135136,4.054054054054054,51.689189189189186,0.25,be sit hunch bulge contract shudder realize know
+Katherine,Sonny,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Katherine,Sonny,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Sonny,Katherine,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Sonny,Katherine,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Katherine,Sonny,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Sonny,Katherine,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,let have greet cast begin sob
+Sonny,Katherine,0.0,0.4807692307692308,49.519230769230774,0.0,give send send
+Sonny,Katherine,0.0,0.4807692307692308,49.519230769230774,0.0,give send send
+Katherine,Sonny,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Katherine,Sonny,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Katherine,Sonny,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Katherine,Sonny,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Sonny,Katherine,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Sonny,Katherine,2.6785714285714284,2.976190476190476,51.488095238095234,0.9,imagine have laugh have be
+Katherine,Alan,0.9259259259259258,3.2407407407407405,51.388888888888886,0.2857142857142857,feel isolate have turn drive plead be take
+Katherine,Alan,0.9259259259259258,3.2407407407407405,51.388888888888886,0.2857142857142857,feel isolate have turn drive plead be take
+Katherine,Alan,0.9259259259259258,3.2407407407407405,51.388888888888886,0.2857142857142857,feel isolate have turn drive plead be take
+Katherine,Alan,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Katherine,Alan,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Katherine,Alan,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Katherine,Alan,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Alan,Katherine,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Alan,Katherine,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Alan,Katherine,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Alan,Katherine,2.232142857142857,0.0,54.91071428571429,INF,throw ring say have sack have leave
+Katherine,Alan,0.0,0.0,47.05882352941176,INF,take take say
+Katherine,Alan,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,love hang finish
+Katherine,Alan,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,love hang finish
+Alan,Elysian Group,0.0,4.166666666666666,57.738095238095234,0.0,seem be run
+Alan,Katherine,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,have be astonish be sleep don leave
+Katherine,Sam,2.272727272727273,0.0,52.27272727272727,INF,have lose lose
+Katherine,Alan,2.272727272727273,0.0,52.27272727272727,INF,have lose lose
+Sam,Katherine,2.272727272727273,0.0,52.27272727272727,INF,have lose lose
+Sam,Alan,2.272727272727273,0.0,52.27272727272727,INF,have lose lose
+Katherine,Alan,2.272727272727273,0.0,52.27272727272727,INF,have lose lose
+Sam,Katherine,6.8181818181818175,1.1363636363636365,51.13636363636363,6.0,do know be
+Sam,Katherine,6.8181818181818175,1.1363636363636365,51.13636363636363,6.0,do know be
+Didier,Katherine,2.9605263157894735,3.289473684210526,49.01315789473684,0.9,be leave be organize do want want
+Didier,Katherine,2.9605263157894735,3.289473684210526,49.01315789473684,0.9,be leave be organize do want want
+Didier,Katherine,2.9605263157894735,3.289473684210526,49.01315789473684,0.9,be leave be organize do want want
+Katherine,Alan,0.6578947368421052,3.289473684210526,43.42105263157895,0.2,fuck say look
+Katherine,Alan,0.0,7.142857142857142,21.428571428571427,0.0,ignore ring
+Katherine,Didier,0.0,7.142857142857142,21.428571428571427,0.0,ignore ring
+Alan,Didier,0.0,7.142857142857142,21.428571428571427,0.0,ignore ring
+Sam,Elysian Group,3.75,0.625,50.625,6.0,have make
+Sam,Katherine,7.5892857142857135,5.357142857142857,44.19642857142857,1.4166666666666667,prefer speculate have make contemplate
+Sam,Katherine,7.5892857142857135,5.357142857142857,44.19642857142857,1.4166666666666667,prefer speculate have make contemplate
+Katherine,Sam,5.681818181818182,5.113636363636364,43.75,1.1111111111111112,appear do have break
+Katherine,Sam,0.0,4.545454545454546,68.18181818181817,0.0,ignore dare send
+Sam,Katherine,4.62962962962963,1.3888888888888888,51.388888888888886,3.3333333333333335,hope be take do make tell end
+Katherine,Sam,4.62962962962963,1.3888888888888888,51.388888888888886,3.3333333333333335,hope be take do make tell end
+Katherine,Sam,4.62962962962963,1.3888888888888888,51.388888888888886,3.3333333333333335,hope be take do make tell end
+Katherine,Sam,4.62962962962963,1.3888888888888888,51.388888888888886,3.3333333333333335,hope be take do make tell end
+Katherine,Sam,4.62962962962963,1.3888888888888888,51.388888888888886,3.3333333333333335,hope be take do make tell end
+Sam,Didier,0.0,0.0,58.333333333333336,INF,be drive ring
+Katherine,Didier,0.9615384615384616,0.4807692307692308,37.019230769230774,2.0,use live explain send
+Didier,Katherine,0.9615384615384616,0.4807692307692308,37.019230769230774,2.0,use live explain send
+Alan,Didier,3.8461538461538463,0.0,34.61538461538461,INF,have throw confirm
+Sam,Katherine,3.8461538461538463,4.166666666666666,38.141025641025635,0.9230769230769231,have be market mind interrupt
+Sam,Katherine,3.8461538461538463,4.166666666666666,38.141025641025635,0.9230769230769231,have be market mind interrupt
+Sam,Didier,5.241935483870968,0.0,39.91935483870967,INF,speak call say hear
+Didier,Katherine,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Didier,Alan,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Didier,Katherine,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Katherine,Alan,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Katherine,Didier,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Alan,Didier,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Alan,Katherine,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Didier,Katherine,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,be be live annoy be sleep
+Katherine,Didier,5.357142857142857,4.761904761904762,37.5,1.125,be expect put theorize
+Sam,Didier,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Sam,Didier,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Sam,Katherine,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Sam,Didier,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Sam,Didier,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Sam,Katherine,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Didier,Katherine,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Didier,Katherine,1.4423076923076923,0.0,48.55769230769231,INF,realize have keep choose re-submit
+Didier,Katherine,3.260869565217391,4.891304347826087,48.369565217391305,0.6666666666666666,be allow act suffer
+Katherine,Didier,3.260869565217391,4.891304347826087,48.369565217391305,0.6666666666666666,be allow act suffer
+Katherine,Didier,3.260869565217391,4.891304347826087,48.369565217391305,0.6666666666666666,be allow act suffer
+Didier,Katherine,5.147058823529411,3.6764705882352944,55.88235294117647,1.4,pull make imagine be go
+Sam,Katherine,0.9259259259259258,4.166666666666666,50.46296296296296,0.2222222222222222,imagine start take
+Sam,Katherine,0.9259259259259258,4.166666666666666,50.46296296296296,0.2222222222222222,imagine start take
+Sam,Katherine,7.03125,3.90625,57.8125,1.8,filter imagine be have
+Sam,Katherine,7.03125,3.90625,57.8125,1.8,filter imagine be have
+Sam,Katherine,7.03125,3.90625,57.8125,1.8,filter imagine be have
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Sam,Katherine,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Sam,Katherine,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Sam,Katherine,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Sam,Katherine,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Sam,Katherine,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Katherine,Sam,4.375,0.625,47.5,7.0,be see have give be ask unbutton
+Elysian Group,Malcolm,6.25,6.640625,55.859375,0.9411764705882353,have exceed feel be
+Vanessa,Ladbrokes,1.4534883720930232,0.872093023255814,55.81395348837209,1.6666666666666667,be have be dictate bet
+Vanessa,Malcolm,1.4534883720930232,0.872093023255814,55.81395348837209,1.6666666666666667,be have be dictate bet
+Ladbrokes,Malcolm,1.4534883720930232,0.872093023255814,55.81395348837209,1.6666666666666667,be have be dictate bet
+Penny,Jo,4.398148148148148,1.3888888888888888,49.76851851851852,3.1666666666666665,enjoy pretend take have be oblige
+Penny,Tobias,4.398148148148148,1.3888888888888888,49.76851851851852,3.1666666666666665,enjoy pretend take have be oblige
+Jo,Tobias,4.398148148148148,1.3888888888888888,49.76851851851852,3.1666666666666665,enjoy pretend take have be oblige
+Tobias,Vanessa,0.625,0.0,59.375,INF,let keep be establish
+Proust,Vanessa,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Proust,Henry James,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Proust,Jo,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Proust,Malcolm,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Vanessa,Henry James,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Vanessa,Jo,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Vanessa,Malcolm,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Henry James,Jo,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Henry James,Malcolm,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Jo,Malcolm,3.488372093023256,0.436046511627907,56.5406976744186,8.0,be be compete say sell get be say know have read think have
+Malcolm,Elysian Group,1.9886363636363635,0.8522727272727272,42.61363636363637,2.3333333333333335,think be say do agree be be try dictate appoint
+Malcolm,Tobias,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,be be apologize arrive tour play wait
+Tobias,Malcolm,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,be be apologize arrive tour play wait
+Tobias,Malcolm,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,be be apologize arrive tour play wait
+Malcolm,Tobias,1.0416666666666665,0.0,40.625,INF,be
+Vanessa,Malcolm,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Vanessa,Malcolm,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Vanessa,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Vanessa,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Vanessa,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Malcolm,Jo,2.272727272727273,0.8522727272727272,53.69318181818182,2.6666666666666665,be be have form work be have hold
+Jo,Tobias,2.6785714285714284,2.6785714285714284,66.07142857142857,1.0,stay depend
+Malcolm,Tobias,3.3854166666666665,2.083333333333333,48.69791666666667,1.625,have give be have steer
+Malcolm,Tobias,3.3854166666666665,2.083333333333333,48.69791666666667,1.625,have give be have steer
+Malcolm,Tobias,3.3854166666666665,2.083333333333333,48.69791666666667,1.625,have give be have steer
+Tobias,Malcolm,3.3854166666666665,2.083333333333333,48.69791666666667,1.625,have give be have steer
+Tobias,Malcolm,3.3854166666666665,2.083333333333333,48.69791666666667,1.625,have give be have steer
+Malcolm,Penny,1.2096774193548387,0.8064516129032258,59.2741935483871,1.5,be invite value
+Malcolm,House of Commons,1.2096774193548387,0.8064516129032258,59.2741935483871,1.5,be invite value
+Penny,House of Commons,1.2096774193548387,0.8064516129032258,59.2741935483871,1.5,be invite value
+Penny,Malcolm,1.2096774193548387,0.8064516129032258,59.2741935483871,1.5,be invite value
+House of Commons,Malcolm,1.2096774193548387,0.8064516129032258,59.2741935483871,1.5,be invite value
+Sonny,Elysian Group,3.4090909090909087,0.9090909090909091,61.13636363636363,3.75,extend clasp support spin fire
+Sonny,Elysian Group,3.4090909090909087,0.9090909090909091,61.13636363636363,3.75,extend clasp support spin fire
+Sonny,Elysian Group,3.4090909090909087,0.9090909090909091,61.13636363636363,3.75,extend clasp support spin fire
+Sonny,Elysian Group,3.4090909090909087,0.9090909090909091,61.13636363636363,3.75,extend clasp support spin fire
+Sonny,Mayfair,4.076086956521739,0.8152173913043478,51.63043478260869,5.0,question wear mention lodge have take show dissolve
+Mayfair,Sonny,4.076086956521739,0.8152173913043478,51.63043478260869,5.0,question wear mention lodge have take show dissolve
+Mayfair,Sonny,4.076086956521739,0.8152173913043478,51.63043478260869,5.0,question wear mention lodge have take show dissolve
+Mayfair,Sonny,4.076086956521739,0.8152173913043478,51.63043478260869,5.0,question wear mention lodge have take show dissolve
+Sonny,Arnold Bennett Suite,0.0,1.0869565217391304,72.82608695652173,0.0,be beach
+Sonny,Mansur,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,have
+Sonny,Auntie,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,have
+Mansur,Auntie,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,have
+Sonny,Mansur,4.3478260869565215,0.5434782608695652,55.97826086956522,8.0,think take be
+Mansur,Sonny,4.3478260869565215,0.5434782608695652,55.97826086956522,8.0,think take be
+Sonny,Krishna,2.1551724137931036,3.0172413793103448,46.55172413793103,0.7142857142857143,see have be protect dispatch
+Sonny,Krishna,2.1551724137931036,3.0172413793103448,46.55172413793103,0.7142857142857143,see have be protect dispatch
+Sonny,Malcolm,2.1551724137931036,3.0172413793103448,46.55172413793103,0.7142857142857143,see have be protect dispatch
+Krishna,Malcolm,2.1551724137931036,3.0172413793103448,46.55172413793103,0.7142857142857143,see have be protect dispatch
+Krishna,Malcolm,2.1551724137931036,3.0172413793103448,46.55172413793103,0.7142857142857143,see have be protect dispatch
+Malcolm,Krishna,4.6875,0.0,45.3125,INF,have send
+Malcolm,Krishna,4.6875,0.0,45.3125,INF,have send
+Malcolm,Mansur,4.6875,0.0,45.3125,INF,have send
+Krishna,Mansur,4.6875,0.0,45.3125,INF,have send
+Krishna,Mansur,4.6875,0.0,45.3125,INF,have send
+Alan,Katherine,5.0,5.416666666666667,59.583333333333336,0.9230769230769231,be take have be ignore be take have be reject
+Alan,Marilyn,5.0,5.416666666666667,59.583333333333336,0.9230769230769231,be take have be ignore be take have be reject
+Katherine,Alan,5.0,5.416666666666667,59.583333333333336,0.9230769230769231,be take have be ignore be take have be reject
+Katherine,Marilyn,5.0,5.416666666666667,59.583333333333336,0.9230769230769231,be take have be ignore be take have be reject
+Alan,Marilyn,5.0,5.416666666666667,59.583333333333336,0.9230769230769231,be take have be ignore be take have be reject
+Alan,Turner,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Elysian Group,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Katherine,1.875,0.3125,47.8125,6.0,lose sack submit
+Turner,Alan,1.875,0.3125,47.8125,6.0,lose sack submit
+Turner,Alan,1.875,0.3125,47.8125,6.0,lose sack submit
+Turner,Elysian Group,1.875,0.3125,47.8125,6.0,lose sack submit
+Turner,Katherine,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Elysian Group,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Katherine,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Elysian Group,1.875,0.3125,47.8125,6.0,lose sack submit
+Alan,Katherine,1.875,0.3125,47.8125,6.0,lose sack submit
+Elysian Group,Katherine,1.875,0.3125,47.8125,6.0,lose sack submit
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Katherine,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Katherine,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Katherine,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Turner,Katherine,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Turner,Katherine,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Katherine,Turner,6.59090909090909,4.318181818181818,43.63636363636363,1.5263157894736843,have be rumour choose call prefer embark have be draw
+Yuri,Katherine,2.5,5.0,47.5,0.5,be divide have sleep
+Katherine,Yuri,5.113636363636364,0.0,63.06818181818182,INF,have grant manufacture go
+Katherine,Yuri,5.172413793103448,3.8793103448275863,42.672413793103445,1.3333333333333333,have know make leave
+Katherine,Yuri,5.172413793103448,3.8793103448275863,42.672413793103445,1.3333333333333333,have know make leave
+Yuri,Katherine,0.0,2.5,57.49999999999999,0.0,soften know earn
+Yuri,Katherine,0.0,2.5,57.49999999999999,0.0,soften know earn
+Alan,Yuri,11.538461538461538,0.9615384615384616,41.34615384615385,12.0,realize have be fire make
+Alan,Yuri,11.538461538461538,0.9615384615384616,41.34615384615385,12.0,realize have be fire make
+Yuri,Katherine,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Yuri,Katherine,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Katherine,Yuri,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Katherine,Yuri,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Katherine,Yuri,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Katherine,Yuri,7.954545454545454,1.1363636363636365,40.909090909090914,7.0,be punish cease acknowledge deepen
+Yuri,Katherine,4.6875,9.765625,38.671875,0.48,have be have be be
+Yuri,Katherine,4.6875,9.765625,38.671875,0.48,have be have be be
+Yuri,Katherine,4.6875,9.765625,38.671875,0.48,have be have be be
+Katherine,Yuri,4.6875,9.765625,38.671875,0.48,have be have be be
+Yuri,Katherine,1.1111111111111112,1.3888888888888888,48.61111111111111,0.8,count be persuade stay
+Yuri,Katherine,1.1111111111111112,1.3888888888888888,48.61111111111111,0.8,count be persuade stay
+Yuri,Turner,1.1111111111111112,1.3888888888888888,48.61111111111111,0.8,count be persuade stay
+Katherine,Turner,1.1111111111111112,1.3888888888888888,48.61111111111111,0.8,count be persuade stay
+Katherine,Turner,1.1111111111111112,1.3888888888888888,48.61111111111111,0.8,count be persuade stay
+Vanessa,Elysian Group,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Ben,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Elysian Group,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Ben,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Elysian Group,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Ben,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Elysian Group,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Elysian Group,Ben,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Elysian Group,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Elysian Group,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Elysian Group,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Vanessa,Ben,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Ben,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Ben,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Ben,Vanessa,2.638888888888889,1.6666666666666667,57.91666666666667,1.5833333333333333,be dominate sit look hang be be be supervise have arrive be be disseminate get be write
+Poppy,Vanessa,6.097560975609756,3.9634146341463414,48.47560975609756,1.5384615384615385,have ask use improve be write extol
+Poppy,Vanessa,6.097560975609756,3.9634146341463414,48.47560975609756,1.5384615384615385,have ask use improve be write extol
+Poppy,Vanessa,6.097560975609756,3.9634146341463414,48.47560975609756,1.5384615384615385,have ask use improve be write extol
+Poppy,Vanessa,6.097560975609756,3.9634146341463414,48.47560975609756,1.5384615384615385,have ask use improve be write extol
+Vanessa,Poppy,2.564102564102564,2.2435897435897436,64.42307692307693,1.1428571428571428,feel have go look look see
+Vanessa,Poppy,2.564102564102564,2.2435897435897436,64.42307692307693,1.1428571428571428,feel have go look look see
+Vanessa,Poppy,2.564102564102564,2.2435897435897436,64.42307692307693,1.1428571428571428,feel have go look look see
+Poppy,Vanessa,2.564102564102564,2.2435897435897436,64.42307692307693,1.1428571428571428,feel have go look look see
+Tom,Vanessa,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,have ask recommend read have organize
+Vanessa,Tom,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,have ask recommend read have organize
+Tom,Vanessa,10.576923076923077,0.0,35.57692307692308,INF,do know tell
+Tom,Vanessa,10.576923076923077,0.0,35.57692307692308,INF,do know tell
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Tom,Vanessa,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Tom,Vanessa,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,4.411764705882353,5.514705882352941,45.955882352941174,0.8,be flatter choose share be appal be cultivate
+Vanessa,Tom,1.5625,2.604166666666667,62.5,0.6,feel paralyse do be cast compare
+Vanessa,Tom,1.5625,2.604166666666667,62.5,0.6,feel paralyse do be cast compare
+Didier,Katherine,3.9215686274509802,2.696078431372549,50.245098039215684,1.4545454545454546,have be flatten knock send muffle echo scatter groan gasp
+Didier,Katherine,3.9215686274509802,2.696078431372549,50.245098039215684,1.4545454545454546,have be flatten knock send muffle echo scatter groan gasp
+Didier,Katherine,0.43103448275862066,3.8793103448275863,50.86206896551724,0.1111111111111111,be oppress toss neglect hide
+Katherine,Didier,0.43103448275862066,3.8793103448275863,50.86206896551724,0.1111111111111111,be oppress toss neglect hide
+Katherine,Didier,2.5,2.142857142857143,41.07142857142857,1.1666666666666667,hear accompany write find cry
+Katherine,Didier,2.5,2.142857142857143,41.07142857142857,1.1666666666666667,hear accompany write find cry
+Didier,Katherine,2.5,2.142857142857143,41.07142857142857,1.1666666666666667,hear accompany write find cry
+Katherine,Didier,2.5,2.142857142857143,41.07142857142857,1.1666666666666667,hear accompany write find cry
+Katherine,Yuri,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Alan,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Sam,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Didier,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Yuri,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Alan,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Sam,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Didier,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Yuri,Alan,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Yuri,Sam,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Yuri,Didier,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Alan,Sam,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Alan,Didier,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Sam,Didier,0.8333333333333334,1.1666666666666667,47.333333333333336,0.7142857142857143,live last start plummet wish be line become
+Katherine,Didier,1.644736842105263,4.276315789473684,46.71052631578947,0.38461538461538464,feel be cure run be run
+Katherine,Didier,1.644736842105263,4.276315789473684,46.71052631578947,0.38461538461538464,feel be cure run be run
+John,Katherine,4.166666666666666,2.6515151515151514,59.84848484848485,1.5714285714285714,be have leave invite
+Katherine,John,3.4722222222222223,0.0,57.638888888888886,INF,have meet
+Katherine,John,3.4722222222222223,0.0,57.638888888888886,INF,have meet
+John,Katherine,3.4722222222222223,0.0,57.638888888888886,INF,have meet
+John,Katherine,3.4722222222222223,0.0,57.638888888888886,INF,have meet
+Katherine,John,0.7352941176470588,2.2058823529411766,58.82352941176471,0.3333333333333333,be show be rest talk
+Katherine,John,0.7352941176470588,2.2058823529411766,58.82352941176471,0.3333333333333333,be show be rest talk
+Katherine,John,0.7352941176470588,2.2058823529411766,58.82352941176471,0.3333333333333333,be show be rest talk
+Katherine,John,0.7352941176470588,2.2058823529411766,58.82352941176471,0.3333333333333333,be show be rest talk
+John,Katherine,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,indicate sit
+John,Katherine,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,indicate sit
+Katherine,John,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,indicate sit
+John,Katherine,5.113636363636364,6.25,43.18181818181818,0.8181818181818182,look invite marvel hear
+John,Katherine,5.113636363636364,6.25,43.18181818181818,0.8181818181818182,look invite marvel hear
+John,Katherine,5.113636363636364,6.25,43.18181818181818,0.8181818181818182,look invite marvel hear
+Katherine,John,2.34375,0.0,47.65625,INF,unfold find fascinate
+John,Katherine,5.5,0.0,46.5,INF,love hang say bewitch
+John,Katherine,5.5,0.0,46.5,INF,love hang say bewitch
+Katherine,John,5.5,0.0,46.5,INF,love hang say bewitch
+John,Katherine,5.5,0.0,46.5,INF,love hang say bewitch
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+John,Katherine,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+John,Katherine,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+John,Katherine,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+John,Katherine,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+John,Katherine,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,2.403846153846154,1.201923076923077,52.16346153846154,2.0,have wait have tell be intoxicate have find commit
+Katherine,John,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Katherine,Elysian Group,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Katherine,John,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+John,Katherine,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+John,Elysian Group,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Katherine,Elysian Group,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Katherine,John,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Elysian Group,John,0.9259259259259258,6.944444444444445,55.092592592592595,0.13333333333333333,know be surround have reach
+Katherine,Angela,8.152173913043478,2.1739130434782608,37.5,3.75,be have get
+Angela,Katherine,8.152173913043478,2.1739130434782608,37.5,3.75,be have get
+Angela,Katherine,8.152173913043478,2.1739130434782608,37.5,3.75,be have get
+Angela,Turner,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Angela,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Angela,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Turner,Angela,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Turner,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Turner,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Angela,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Angela,David,1.953125,2.1484375,53.7109375,0.9090909090909091,have write request take explain have receive say be be go open plead
+Angela,Katherine,5.208333333333334,6.25,51.041666666666664,0.8333333333333334,give be go change feel take
+Angela,John,5.208333333333334,6.25,51.041666666666664,0.8333333333333334,give be go change feel take
+Katherine,John,5.208333333333334,6.25,51.041666666666664,0.8333333333333334,give be go change feel take
+Katherine,Alan,4.807692307692308,0.0,49.03846153846153,INF,have write have manage refrain
+Katherine,Alan,4.326923076923077,5.769230769230769,43.75,0.75,feel stop write stop
+Katherine,Sam,4.326923076923077,5.769230769230769,43.75,0.75,feel stop write stop
+Alan,Katherine,4.326923076923077,5.769230769230769,43.75,0.75,feel stop write stop
+Alan,Sam,4.326923076923077,5.769230769230769,43.75,0.75,feel stop write stop
+Katherine,Sam,4.326923076923077,5.769230769230769,43.75,0.75,feel stop write stop
+Katherine,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Katherine,Alan,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Katherine,Alan,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Katherine,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Katherine,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Sam,Alan,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Sam,Alan,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Alan,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Alan,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Alan,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Alan,Sam,5.833333333333333,2.5,60.55555555555555,2.3333333333333335,have receive have be run
+Katherine,Sam,2.941176470588235,5.147058823529411,38.970588235294116,0.5714285714285714,have answer be go
+Sam,Katherine,2.941176470588235,5.147058823529411,38.970588235294116,0.5714285714285714,have answer be go
+Didier,Sam,2.941176470588235,5.147058823529411,44.85294117647059,0.5714285714285714,be get take
+Didier,Alan,2.941176470588235,5.147058823529411,44.85294117647059,0.5714285714285714,be get take
+Sam,Alan,2.941176470588235,5.147058823529411,44.85294117647059,0.5714285714285714,be get take
+Katherine,Didier,3.125,3.125,35.41666666666667,1.0,know expect
+Didier,Katherine,4.0,2.0,50.0,2.0,have send be change publish take have publish
+Katherine,Didier,4.0,2.0,50.0,2.0,have send be change publish take have publish
+Katherine,Didier,4.0,2.0,50.0,2.0,have send be change publish take have publish
+Katherine,John,0.0,0.0,60.0,INF,ring take
+Katherine,John,0.0,0.0,60.0,INF,ring take
+Katherine,John,3.289473684210526,0.6578947368421052,48.68421052631579,5.0,be strike
+John,Katherine,3.289473684210526,0.6578947368421052,48.68421052631579,5.0,be strike
+Katherine,Angela,3.571428571428571,4.017857142857143,38.839285714285715,0.8888888888888888,notice
+Katherine,Angela,3.571428571428571,4.017857142857143,38.839285714285715,0.8888888888888888,notice
+Angela,Katherine,3.571428571428571,4.017857142857143,38.839285714285715,0.8888888888888888,notice
+Angela,Katherine,3.571428571428571,4.017857142857143,38.839285714285715,0.8888888888888888,notice
+Katherine,Alan,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Katherine,Alan,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Katherine,Alan,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Katherine,Alan,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Katherine,Alan,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Alan,Katherine,2.430555555555556,2.7777777777777777,48.95833333333333,0.875,horrify send have live leave be fall bear linger throw get determine leave
+Penny,Katherine,3.3333333333333335,0.8333333333333334,62.5,4.0,be buy
+Penny,Debenhams,3.3333333333333335,0.8333333333333334,62.5,4.0,be buy
+Katherine,Debenhams,3.3333333333333335,0.8333333333333334,62.5,4.0,be buy
+Katherine,Foreign Office,2.5,1.25,61.25000000000001,2.0,have be
+Katherine,David,5.208333333333334,3.958333333333333,55.833333333333336,1.3157894736842106,have take say be force admit make start look be
+Katherine,Elysian Group,5.208333333333334,2.083333333333333,69.79166666666666,2.5,have be have prove be brighten
+Penny,Katherine,5.113636363636364,1.1363636363636365,50.56818181818182,4.5,read have decide buy have get listen be read
+Gary,Debenhams,4.296875,1.953125,53.125,2.2,be be buy chat
+Gary,Debenhams,4.296875,1.953125,53.125,2.2,be be buy chat
+Gary,Jo,1.25,0.8333333333333334,51.24999999999999,1.5,be wait be force listen
+Gary,Jo,1.25,0.8333333333333334,51.24999999999999,1.5,be wait be force listen
+Penny,Gary,6.730769230769231,4.326923076923077,65.86538461538461,1.5555555555555556,hope be get need lose
+Penny,Gary,6.730769230769231,4.326923076923077,65.86538461538461,1.5555555555555556,hope be get need lose
+Penny,Gary,6.730769230769231,4.326923076923077,65.86538461538461,1.5555555555555556,hope be get need lose
+Jo,Penny,4.435483870967742,2.82258064516129,41.12903225806452,1.5714285714285714,have read decide be go listen
+Jo,Penny,4.435483870967742,2.82258064516129,41.12903225806452,1.5714285714285714,have read decide be go listen
+Penny,Jo,4.435483870967742,2.82258064516129,41.12903225806452,1.5714285714285714,have read decide be go listen
+Penny,Elysian Group,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Penny,Malcolm,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Penny,House of Commons,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Elysian Group,Malcolm,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Elysian Group,House of Commons,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Malcolm,House of Commons,2.536231884057971,1.8115942028985508,52.17391304347826,1.4,arrive face listen cast be have leave shake
+Penny,Foreign Office,2.272727272727273,6.0606060606060606,58.333333333333336,0.375,keep point have get use deal dissent
+Penny,Nicola,4.285714285714286,3.214285714285714,52.5,1.3333333333333333,set wonder repair have be be lash babysit
+Nicola,Penny,5.208333333333334,6.25,51.041666666666664,0.8333333333333334,have be bet be put get place have be
+Nicola,Penny,10.227272727272728,4.924242424242424,48.484848484848484,2.076923076923077,know need have prove have
+Penny,Nicola,10.227272727272728,4.924242424242424,48.484848484848484,2.076923076923077,know need have prove have
+Penny,Nicola,1.0,6.0,53.0,0.16666666666666666,remove dig protect
+Penny,Nicola,1.0,6.0,53.0,0.16666666666666666,remove dig protect
+Penny,Nicola,0.8522727272727272,1.9886363636363635,58.52272727272727,0.42857142857142855,be know be be intend support
+Sam,Katherine,5.208333333333334,4.166666666666666,40.625,1.25,let ruin
+Katherine,Didier,4.3478260869565215,9.782608695652174,33.69565217391305,0.4444444444444444,be lure
+Didier,Katherine,3.8194444444444446,3.125,56.94444444444444,1.2222222222222223,be surfeit have set go think stay
+Katherine,Didier,3.8194444444444446,3.125,56.94444444444444,1.2222222222222223,be surfeit have set go think stay
+Didier,Katherine,5.288461538461538,4.326923076923077,44.230769230769226,1.2222222222222223,have take be wholeheart do be go retreat
+Katherine,Didier,5.288461538461538,4.326923076923077,44.230769230769226,1.2222222222222223,have take be wholeheart do be go retreat
+Didier,Katherine,0.0,0.0,30.0,INF,continue communicate
+Didier,Katherine,0.0,0.0,30.0,INF,continue communicate
+Sam,Katherine,3.90625,4.166666666666666,56.510416666666664,0.9375,reassure have cure be try stop speak be hear say
+Sam,Katherine,3.90625,4.166666666666666,56.510416666666664,0.9375,reassure have cure be try stop speak be hear say
+Katherine,Sam,3.90625,4.166666666666666,56.510416666666664,0.9375,reassure have cure be try stop speak be hear say
+Katherine,Sam,3.90625,4.166666666666666,56.510416666666664,0.9375,reassure have cure be try stop speak be hear say
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Katherine,Sam,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+Sam,Katherine,3.488372093023256,2.3255813953488373,59.30232558139535,1.5,tell have become be pause resume have leave take come
+John,Claridge,2.5,0.0,57.49999999999999,INF,be have
+John,Sonny,1.0416666666666665,2.604166666666667,63.020833333333336,0.4,turn include remain slump hide
+John,Sonny,1.0416666666666665,2.604166666666667,63.020833333333336,0.4,turn include remain slump hide
+John,Auntie,6.377551020408164,2.0408163265306123,54.8469387755102,3.125,be turn be enhance take know have fail
+John,Auntie,6.377551020408164,2.0408163265306123,54.8469387755102,3.125,be turn be enhance take know have fail
+Auntie,John,6.377551020408164,2.0408163265306123,54.8469387755102,3.125,be turn be enhance take know have fail
+Katherine,John,4.375,3.125,42.5,1.4,know say have
+John,Sonny,0.7352941176470588,0.0,69.85294117647058,INF,try smile remain
+Auntie,Sonny,0.8064516129032258,2.0161290322580645,45.564516129032256,0.4,let face say burst be
+Sonny,Auntie,2.2435897435897436,1.9230769230769231,52.243589743589745,1.1666666666666667,have find want say resist write be be be overlook
+John,Sonny,3.2407407407407405,2.314814814814815,53.70370370370371,1.4,have begin turn finish
+John,Sonny,3.2407407407407405,2.314814814814815,53.70370370370371,1.4,have begin turn finish
+John,Sonny,3.2407407407407405,2.314814814814815,53.70370370370371,1.4,have begin turn finish
+John,Auntie,5.357142857142857,1.1904761904761905,60.11904761904761,4.5,be suck be go be
+Sonny,Mansur,4.6875,6.640625,57.421875,0.7058823529411765,have get finish be discipline lose
+Mansur,Sonny,4.6875,6.640625,57.421875,0.7058823529411765,have get finish be discipline lose
+Mansur,Sonny,4.6875,6.640625,57.421875,0.7058823529411765,have get finish be discipline lose
+Mansur,Sonny,4.6875,6.640625,57.421875,0.7058823529411765,have get finish be discipline lose
+Sonny,Mansur,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Sonny,Malcolm,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Sonny,Mansur,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Sonny,Malcolm,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Sonny,Mansur,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Sonny,Malcolm,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Mansur,Malcolm,3.8194444444444446,1.7361111111111112,47.22222222222222,2.2,have admit have be manufacture get discuss dispose
+Mansur,Sonny,4.444444444444445,6.111111111111111,62.77777777777778,0.7272727272727273,maintain have be carry seem be make
+Mansur,Sonny,4.444444444444445,6.111111111111111,62.77777777777778,0.7272727272727273,maintain have be carry seem be make
+Didier,Katherine,0.5,1.0,62.5,0.5,watch trickle rest
+Katherine,Didier,2.5,0.0,44.166666666666664,INF,be give
+Didier,Katherine,2.403846153846154,5.288461538461538,57.692307692307686,0.45454545454545453,have ignore write be require
+Didier,Katherine,2.272727272727273,0.0,61.36363636363637,INF,click read
+Didier,Katherine,2.272727272727273,0.0,61.36363636363637,INF,click read
+Didier,Lacan,1.5625,7.421875,50.390625,0.21052631578947367,think do exist do mean be
+Didier,Katherine,7.87037037037037,1.8518518518518516,49.53703703703704,4.25,have hold slip grope
+Didier,Katherine,7.87037037037037,1.8518518518518516,49.53703703703704,4.25,have hold slip grope
+Didier,Katherine,7.87037037037037,1.8518518518518516,49.53703703703704,4.25,have hold slip grope
+Didier,Katherine,0.43103448275862066,0.0,51.293103448275865,INF,get sweep smash draw
+Didier,Katherine,0.43103448275862066,0.0,51.293103448275865,INF,get sweep smash draw
+Didier,Katherine,6.428571428571428,3.571428571428571,47.14285714285714,1.8,have do know be write forget
+Didier,Katherine,6.428571428571428,3.571428571428571,47.14285714285714,1.8,have do know be write forget
+Didier,Katherine,6.428571428571428,3.571428571428571,47.14285714285714,1.8,have do know be write forget
+Didier,Katherine,6.428571428571428,3.571428571428571,47.14285714285714,1.8,have do know be write forget
+Didier,Sam,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Didier,Alan,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Didier,Katherine,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Sam,Alan,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Sam,Katherine,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Alan,Katherine,1.4705882352941175,0.0,51.470588235294116,INF,have join
+Sam,Katherine,3.273809523809524,6.25,45.23809523809524,0.5238095238095238,be have answer be want say enforce patronize
+Katherine,Sam,3.273809523809524,6.25,45.23809523809524,0.5238095238095238,be have answer be want say enforce patronize
+Sam,Katherine,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,be reply reply
+Sam,Katherine,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,be reply reply
+Sam,Katherine,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,be reply reply
+Malcolm,Tobias,2.455357142857143,3.125,53.34821428571429,0.7857142857142857,have insist attend decide arrive be have
+Malcolm,Tobias,2.455357142857143,3.125,53.34821428571429,0.7857142857142857,have insist attend decide arrive be have
+Malcolm,Tobias,2.455357142857143,3.125,53.34821428571429,0.7857142857142857,have insist attend decide arrive be have
+Malcolm,Tobias,2.455357142857143,3.125,53.34821428571429,0.7857142857142857,have insist attend decide arrive be have
+Malcolm,Tobias,2.455357142857143,3.125,53.34821428571429,0.7857142857142857,have insist attend decide arrive be have
+Tobias,Malcolm,4.807692307692308,4.807692307692308,44.230769230769226,1.0,emphasize leave feel
+Tobias,Malcolm,4.807692307692308,4.807692307692308,44.230769230769226,1.0,emphasize leave feel
+Malcolm,Tobias,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,be determine hide want be count
+Malcolm,Penny,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,be determine hide want be count
+Malcolm,Tobias,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,be determine hide want be count
+Malcolm,Penny,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,be determine hide want be count
+Tobias,Penny,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,be determine hide want be count
+Malcolm,Turner,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Malcolm,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Malcolm,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Malcolm,Turner,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Malcolm,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Malcolm,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Turner,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Turner,Jo,2.083333333333333,2.7777777777777777,56.25,0.75,have get read know have send be be be tell
+Jo,Vanessa,3.4722222222222223,0.0,40.97222222222222,INF,be do recognize say
+Malcolm,Tobias,5.147058823529411,1.4705882352941175,55.14705882352941,3.5,help challenge think be
+Malcolm,Tobias,5.147058823529411,1.4705882352941175,55.14705882352941,3.5,help challenge think be
+Malcolm,Tobias,5.147058823529411,1.4705882352941175,55.14705882352941,3.5,help challenge think be
+Master William,Rosalind,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,Rosalind,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,William,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,Rosalind,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,Rosalind,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,William,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Rosalind,William,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Rosalind,William,4.054054054054054,2.7027027027027026,55.4054054054054,1.5,be have swear love love
+Master William,Rosalind,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,Rosalind,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,Rosalind,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,Master William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,Master William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,Rosalind,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Master William,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+William,Rosalind,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Rosalind,William,4.829545454545454,1.5151515151515151,44.41287878787879,3.1875,have tarry change gaze burnish sail say say say say want contradict want make love trust
+Vanessa,Malcolm,3.508771929824561,6.578947368421052,39.03508771929825,0.5333333333333333,say be be be have take do get
+Malcolm,Penny,3.2692307692307696,2.8846153846153846,58.46153846153847,1.1333333333333333,have feign present imagine lift be let be load be be get occupy make
+Malcolm,Penny,3.2692307692307696,2.8846153846153846,58.46153846153847,1.1333333333333333,have feign present imagine lift be let be load be be get occupy make
+Malcolm,Penny,3.2692307692307696,2.8846153846153846,58.46153846153847,1.1333333333333333,have feign present imagine lift be let be load be be get occupy make
+Malcolm,Penny,3.2692307692307696,2.8846153846153846,58.46153846153847,1.1333333333333333,have feign present imagine lift be let be load be be get occupy make
+Penny,Vanessa,4.296875,4.296875,47.65625,1.0,hear realize be go make
+Penny,Vanessa,4.296875,4.296875,47.65625,1.0,hear realize be go make
+Penny,Vanessa,4.296875,4.296875,47.65625,1.0,hear realize be go make
+Bruce,Vanessa,2.7027027027027026,4.391891891891892,60.47297297297297,0.6153846153846154,start focus come hear be plagiarize call
+Bruce,Vanessa,2.7027027027027026,4.391891891891892,60.47297297297297,0.6153846153846154,start focus come hear be plagiarize call
+Tobias,Bruce,0.9146341463414633,1.8292682926829267,46.03658536585366,0.5,thank remind serve be say struggle tilt
+Tobias,Malcolm,0.9146341463414633,1.8292682926829267,46.03658536585366,0.5,thank remind serve be say struggle tilt
+Bruce,Malcolm,0.9146341463414633,1.8292682926829267,46.03658536585366,0.5,thank remind serve be say struggle tilt
+Vanessa,Malcolm,4.722222222222222,3.6111111111111107,49.44444444444444,1.3076923076923077,do know be go be lift have hear
+Vanessa,William,4.722222222222222,3.6111111111111107,49.44444444444444,1.3076923076923077,do know be go be lift have hear
+Vanessa,William,4.722222222222222,3.6111111111111107,49.44444444444444,1.3076923076923077,do know be go be lift have hear
+Malcolm,William,4.722222222222222,3.6111111111111107,49.44444444444444,1.3076923076923077,do know be go be lift have hear
+Malcolm,William,4.722222222222222,3.6111111111111107,49.44444444444444,1.3076923076923077,do know be go be lift have hear
+Malcolm,Vanessa,4.891304347826087,10.326086956521738,54.347826086956516,0.47368421052631576,have be smile allow darken
+Vanessa,Malcolm,4.891304347826087,10.326086956521738,54.347826086956516,0.47368421052631576,have be smile allow darken
+Vanessa,Tobias,0.8333333333333334,3.3333333333333335,42.5,0.25,be agree
+Penny,Vanessa,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Penny,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Penny,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Penny,Vanessa,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Penny,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Penny,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Vanessa,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Vanessa,Malcolm,1.2295081967213115,3.8934426229508197,45.69672131147541,0.3157894736842105,tell remember fly smash scatter splash soak
+Malcolm,Jo,8.5,1.0,58.5,8.5,choose have become be stop
+Alan,Henry James,7.440476190476191,2.380952380952381,52.083333333333336,3.125,spread realize have be miss have exaggerate call
+Alan,Henry James,7.440476190476191,2.380952380952381,52.083333333333336,3.125,spread realize have be miss have exaggerate call
+Alan,Henry James,7.440476190476191,2.380952380952381,52.083333333333336,3.125,spread realize have be miss have exaggerate call
+Alan,Henry James,7.440476190476191,2.380952380952381,52.083333333333336,3.125,spread realize have be miss have exaggerate call
+Henry James,James Miller,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,have write ask
+Henry James,IPG,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,have write ask
+Henry James,James Miller,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,have write ask
+Henry James,IPG,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,have write ask
+James Miller,IPG,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,have write ask
+Henry James,Turner,4.605263157894736,1.9736842105263157,67.10526315789474,2.3333333333333335,be expect be treat have be
+Henry James,Turner,4.605263157894736,1.9736842105263157,67.10526315789474,2.3333333333333335,be expect be treat have be
+James Miller,Alan,2.5,1.6666666666666667,59.166666666666664,1.5,have be be be give have do
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,2.840909090909091,3.6931818181818183,63.92045454545454,0.7692307692307693,put puzzle be dress meet realize have take leave
+Alan,Katherine,3.4722222222222223,4.166666666666666,59.02777777777778,0.8333333333333334,be dress be defy
+Alan,Katherine,3.4722222222222223,4.166666666666666,59.02777777777778,0.8333333333333334,be dress be defy
+Alan,Katherine,4.3478260869565215,0.0,52.17391304347826,INF,have do be make think
+Katherine,Alan,4.3478260869565215,0.0,52.17391304347826,INF,have do be make think
+Katherine,Alan,4.3478260869565215,0.0,52.17391304347826,INF,have do be make think
+Alan,Sam,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Alan,Didier,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Alan,Sam,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Alan,Didier,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Sam,Didier,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Sam,Alan,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Didier,Alan,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have admit have contribute have be
+Sam,Dostoyevsky,1.5,3.0,67.5,0.5,have spot stare
+Sam,Dostoyevsky,1.5,3.0,67.5,0.5,have spot stare
+Alan,Sam,0.4166666666666667,0.4166666666666667,72.5,1.0,be be interrupt know associate be try obliterate
+Alan,Sam,0.4166666666666667,0.4166666666666667,72.5,1.0,be be interrupt know associate be try obliterate
+Alan,Sam,0.4166666666666667,0.4166666666666667,72.5,1.0,be be interrupt know associate be try obliterate
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Sam,Alan,2.083333333333333,5.0,56.25,0.4166666666666667,be shock shake hurry
+Alan,Sam,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Alan,Sam,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Alan,Dostoyevsky,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Alan,Katherine,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Sam,Dostoyevsky,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Sam,Katherine,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Sam,Dostoyevsky,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Sam,Katherine,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Dostoyevsky,Katherine,10.625,7.5,56.875,1.4166666666666667,forget have absorb forget
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Sam,Alan,2.142857142857143,2.857142857142857,57.85714285714286,0.75,have be bear cave learn be
+Alan,Katherine,8.0,2.0,62.0,4.0,be put have manage get
+Didier,Katherine,1.0,1.5,37.5,0.6666666666666666,say have search
+Didier,Marilyn,1.1904761904761905,0.0,41.66666666666667,INF,say have ask take
+Alan,Katherine,1.6025641025641024,1.6025641025641024,42.94871794871795,1.0,look live be manage be get do
+Katherine,Alan,5.0,0.0,35.0,INF,love say
+Didier,Sam,5.592105263157895,0.0,33.881578947368425,INF,begin speak listen say place restrain understand
+Sam,Didier,5.592105263157895,0.0,33.881578947368425,INF,begin speak listen say place restrain understand
+Alan,Katherine,3.977272727272727,1.4204545454545454,46.875,2.8,wish do understand say push scrape mean be fuck be live
+Alan,Katherine,3.977272727272727,1.4204545454545454,46.875,2.8,wish do understand say push scrape mean be fuck be live
+Alan,Dostoyevsky,6.944444444444445,9.027777777777777,45.13888888888889,0.7692307692307693,need be
+Katherine,Didier,2.5,1.25,41.25,2.0,be sleep be live say
+Sam,Didier,3.515625,1.5625,60.546875,2.25,be believe have suffer offer give
+Sam,Didier,3.515625,1.5625,60.546875,2.25,be believe have suffer offer give
+Sam,Didier,3.515625,1.5625,60.546875,2.25,be believe have suffer offer give
+Didier,Katherine,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Didier,Yuri,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Didier,Sam,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Katherine,Yuri,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Katherine,Didier,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Katherine,Sam,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Yuri,Didier,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Yuri,Sam,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Didier,Sam,4.722222222222222,4.444444444444445,44.166666666666664,1.0625,be have be direct include
+Didier,Alan,2.6785714285714284,2.6785714285714284,58.92857142857143,1.0,ring take
+Slobodan,Alan,1.4423076923076923,0.9615384615384616,47.59615384615385,1.5,have grow tell be wait
+Slobodan,Alan,1.4423076923076923,0.9615384615384616,47.59615384615385,1.5,have grow tell be wait
+Slobodan,Alan,1.4423076923076923,0.9615384615384616,47.59615384615385,1.5,have grow tell be wait
+Slobodan,Alan,2.380952380952381,3.571428571428571,65.47619047619048,0.6666666666666666,acknowledge raise show be fool
+Slobodan,Alan,2.380952380952381,3.571428571428571,65.47619047619048,0.6666666666666666,acknowledge raise show be fool
+Penny,IPG,2.0161290322580645,2.4193548387096775,47.17741935483871,0.8333333333333334,be be prevent write
+Penny,IPG,2.0161290322580645,2.4193548387096775,47.17741935483871,0.8333333333333334,be be prevent write
+Penny,IPG,2.0161290322580645,2.4193548387096775,47.17741935483871,0.8333333333333334,be be prevent write
+IPG,Elysian Group,6.944444444444445,6.018518518518518,50.0,1.1538461538461537,be have come dominate
+David,IPG,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be take be go suggest
+David,IPG,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be take be go suggest
+David,Elysian Group,0.625,0.9375,58.4375,0.6666666666666666,be spend go enjoy gaze do intend ask have see finance
+Penny,Foreign Office,2.232142857142857,0.6696428571428571,64.95535714285714,3.3333333333333335,have be intend use get take lead show be
+Rhazin,Ibrahim al-Shukra,0.35714285714285715,0.7142857142857143,50.357142857142854,0.5,defy point be bankroll
+Jane,Thames House,5.208333333333334,3.4722222222222223,55.208333333333336,1.5,be reflect be know live pass
+Jane,Thames House,5.208333333333334,3.4722222222222223,55.208333333333336,1.5,be reflect be know live pass
+Jane,Lane,2.083333333333333,5.208333333333334,59.375,0.4,be tell be
+Lane,Jane,2.5,0.625,41.875,4.0,claim manage reprimand burn
+Jane,Rhazin,4.563492063492063,1.5873015873015872,55.75396825396825,2.875,have admit have be venture gain have be
+Jane,Audi,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Audi,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Audi,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Audi,Jane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Audi,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Audi,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Jane,Lane,1.9736842105263157,0.0,47.14912280701755,INF,have forget have send get transfer get
+Penny,Jane,9.5,0.0,50.5,INF,pause want give be get
+Jane,Penny,0.0,2.232142857142857,44.19642857142857,0.0,stop have run remind put
+Penny,Jane,0.0,2.232142857142857,44.19642857142857,0.0,stop have run remind put
+Penny,Jane,0.0,2.232142857142857,44.19642857142857,0.0,stop have run remind put
+Jane,Rhazin,2.6785714285714284,1.7857142857142856,50.89285714285714,1.5,use have be send have join throw roll purchase
+Jane,Rhazin,2.6785714285714284,1.7857142857142856,50.89285714285714,1.5,use have be send have join throw roll purchase
+Jane,Rhazin,2.6785714285714284,1.7857142857142856,50.89285714285714,1.5,use have be send have join throw roll purchase
+Jane,Rhazin,2.6785714285714284,1.7857142857142856,50.89285714285714,1.5,use have be send have join throw roll purchase
+Jane,Rhazin,2.6785714285714284,1.7857142857142856,50.89285714285714,1.5,use have be send have join throw roll purchase
+Jane,Penny,5.357142857142857,3.571428571428571,55.35714285714286,1.5,be pant pause close wait
+Penny,Jane,5.357142857142857,3.571428571428571,55.35714285714286,1.5,be pant pause close wait
+Nicola,Penny,4.3478260869565215,2.1739130434782608,50.0,2.0,have call feel
+Nicola,Penny,4.3478260869565215,2.1739130434782608,50.0,2.0,have call feel
+Nicola,David,7.5892857142857135,4.910714285714286,44.642857142857146,1.5454545454545454,have be destroy cling
+Nicola,David,7.5892857142857135,4.910714285714286,44.642857142857146,1.5454545454545454,have be destroy cling
+David,Nicola,2.083333333333333,2.083333333333333,58.333333333333336,1.0,be be feel disintegrate
+David,Nicola,2.083333333333333,2.083333333333333,58.333333333333336,1.0,be be feel disintegrate
+Nicola,David,2.1551724137931036,4.741379310344827,48.275862068965516,0.45454545454545453,forget be ask realize be
+Nicola,David,2.1551724137931036,4.741379310344827,48.275862068965516,0.45454545454545453,forget be ask realize be
+David,Nicola,2.1551724137931036,4.741379310344827,48.275862068965516,0.45454545454545453,forget be ask realize be
+David,Nicola,2.1551724137931036,4.741379310344827,48.275862068965516,0.45454545454545453,forget be ask realize be
+David,Nicola,2.083333333333333,1.25,50.0,1.6666666666666667,take have stay
+David,Nicola,2.9017857142857144,2.9017857142857144,65.625,1.0,seem know have be zigzag thunder stuff have see disappear
+David,Nicola,2.9017857142857144,2.9017857142857144,65.625,1.0,seem know have be zigzag thunder stuff have see disappear
+David,Nicola,2.9017857142857144,2.9017857142857144,65.625,1.0,seem know have be zigzag thunder stuff have see disappear
+David,Nicola,2.9017857142857144,2.9017857142857144,65.625,1.0,seem know have be zigzag thunder stuff have see disappear
+David,Nicola,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+David,Nicola,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+David,Nicola,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+Nicola,David,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+David,Nicola,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+David,Nicola,4.605263157894736,0.9868421052631579,60.19736842105263,4.666666666666667,have touch emphasize be make remain feel
+Nicola,Foreign Office,2.689873417721519,1.2658227848101267,51.74050632911392,2.125,be knight be have die be tear have imagine be
+John,Auntie,3.125,4.910714285714286,63.39285714285714,0.6363636363636364,have send go characterize come
+John,IPG,4.044117647058823,3.308823529411765,57.35294117647059,1.2222222222222223,have reveal be be treat have be pass lead
+Sonny,Arnold Bennett Suite,1.1904761904761905,0.5952380952380952,69.64285714285714,2.0,celebrate be throw
+Arnold Bennett Suite,Didier,1.7045454545454544,0.0,57.38636363636363,INF,have get leave
+Arnold Bennett Suite,Katherine,1.7045454545454544,0.0,57.38636363636363,INF,have get leave
+Arnold Bennett Suite,Didier,1.7045454545454544,0.0,57.38636363636363,INF,have get leave
+Arnold Bennett Suite,Katherine,1.7045454545454544,0.0,57.38636363636363,INF,have get leave
+Didier,Katherine,1.7045454545454544,0.0,57.38636363636363,INF,have get leave
+Auntie,Malcolm,1.1574074074074074,2.314814814814815,52.083333333333336,0.5,be surround socialize befall have get ask
+Auntie,Mansur,1.1574074074074074,2.314814814814815,52.083333333333336,0.5,be surround socialize befall have get ask
+Malcolm,Mansur,1.1574074074074074,2.314814814814815,52.083333333333336,0.5,be surround socialize befall have get ask
+Auntie,Didier,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Somerset Maugham,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Auntie,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Somerset Maugham,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Didier,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Sonny,Somerset Maugham,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Somerset Maugham,Sonny,2.1802325581395348,1.88953488372093,51.74418604651163,1.1538461538461537,become involve remember be entertain try press force beg
+Sonny,Mansur,3.3333333333333335,0.8333333333333334,55.833333333333336,4.0,reveal have take send buy
+Mansur,Sonny,0.0,1.744186046511628,51.74418604651163,0.0,go consist be do
+Mansur,Sonny,3.125,6.25,40.625,0.5,look apologize scold
+Mansur,Sonny,3.125,6.25,40.625,0.5,look apologize scold
+Sonny,Mayfair,4.296875,4.1015625,50.9765625,1.0476190476190477,be stare picture crush have bring go imagine slip get
+Sonny,Mansur,4.296875,4.1015625,50.9765625,1.0476190476190477,be stare picture crush have bring go imagine slip get
+Mayfair,Mansur,4.296875,4.1015625,50.9765625,1.0476190476190477,be stare picture crush have bring go imagine slip get
+Malcolm,Elysian Group,0.6578947368421052,0.0,67.76315789473685,INF,be announce live
+Auntie,Mr Elton,0.0,1.8518518518518516,46.2962962962963,0.0,say do think take
+Mr Elton,Sonny,2.7777777777777777,2.7777777777777777,52.77777777777778,1.0,tell be listen do torture think say
+Mr Elton,Sonny,2.7777777777777777,2.7777777777777777,52.77777777777778,1.0,tell be listen do torture think say
+Sonny,Auntie,0.0,0.0,40.0,INF,say click
+Sonny,Auntie,0.0,0.0,40.0,INF,say click
+Didier,Auntie,3.040540540540541,3.3783783783783785,55.74324324324324,0.9,arrive have surrender give greet
+Didier,Sonny,3.040540540540541,3.3783783783783785,55.74324324324324,0.9,arrive have surrender give greet
+Didier,Sonny,3.040540540540541,3.3783783783783785,55.74324324324324,0.9,arrive have surrender give greet
+Auntie,Sonny,3.040540540540541,3.3783783783783785,55.74324324324324,0.9,arrive have surrender give greet
+Auntie,Sonny,3.040540540540541,3.3783783783783785,55.74324324324324,0.9,arrive have surrender give greet
+Sonny,Didier,2.232142857142857,4.017857142857143,54.46428571428571,0.5555555555555556,throw start describe hope melt
+Sonny,Auntie,2.232142857142857,4.017857142857143,54.46428571428571,0.5555555555555556,throw start describe hope melt
+Didier,Auntie,2.232142857142857,4.017857142857143,54.46428571428571,0.5555555555555556,throw start describe hope melt
+Sonny,Auntie,4.829545454545454,1.7045454545454544,50.28409090909091,2.8333333333333335,be hope see conclude make win
+Sonny,Auntie,4.829545454545454,1.7045454545454544,50.28409090909091,2.8333333333333335,be hope see conclude make win
+Sonny,Auntie,4.829545454545454,1.7045454545454544,50.28409090909091,2.8333333333333335,be hope see conclude make win
+Didier,Auntie,2.7027027027027026,4.054054054054054,36.486486486486484,0.6666666666666666,be be say complete be
+Didier,Auntie,2.7027027027027026,4.054054054054054,36.486486486486484,0.6666666666666666,be be say complete be
+Auntie,Sonny,7.608695652173914,0.0,40.21739130434783,INF,please say restrain do see
+Sonny,Malcolm,0.5434782608695652,0.0,55.97826086956522,INF,be allow switch be near
+Malcolm,Sonny,0.5434782608695652,0.0,55.97826086956522,INF,be allow switch be near
+Sam,Hermione Fade,0.9803921568627451,3.1862745098039214,56.61764705882353,0.3076923076923077,be drown emanate
+Sam,Auntie,0.9803921568627451,3.1862745098039214,56.61764705882353,0.3076923076923077,be drown emanate
+Hermione Fade,Auntie,0.9803921568627451,3.1862745098039214,56.61764705882353,0.3076923076923077,be drown emanate
+Didier,Sam,0.0,0.0,35.714285714285715,INF,say pour
+Malcolm,Alistair Mackintosh,0.0,3.125,36.875,0.0,conclude
+Auntie,Mr Elton,3.7037037037037033,0.0,48.148148148148145,INF,do understand say click
+Auntie,Mr Elton,3.7037037037037033,0.0,48.148148148148145,INF,do understand say click
+Auntie,Sonny,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Auntie,Sonny,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Auntie,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Auntie,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Sonny,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Sonny,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Sonny,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Sonny,Didier,2.430555555555556,3.4722222222222223,41.31944444444444,0.7,go say understand have put
+Didier,Auntie,3.2407407407407405,0.0,33.7962962962963,INF,thank go smile thank explain
+Auntie,Didier,3.2407407407407405,0.0,33.7962962962963,INF,thank go smile thank explain
+Sam,Ladbrokes,4.6875,2.604166666666667,51.041666666666664,1.8,have try read help notice be
+Sam,Katherine,5.833333333333333,2.083333333333333,58.75,2.8,have dream win have be change
+Alan,Didier,3.9473684210526314,6.578947368421052,52.63157894736842,0.6,have make have write
+Attila,Sam,0.0,1.5625,65.10416666666666,0.0,be speak bark turn be
+Sam,Katherine,5.241935483870968,1.6129032258064515,51.20967741935484,3.25,have be wake trickle be die
+Katherine,Sam,5.241935483870968,1.6129032258064515,51.20967741935484,3.25,have be wake trickle be die
+Katherine,Sam,5.241935483870968,1.6129032258064515,51.20967741935484,3.25,have be wake trickle be die
+Katherine,Sam,1.7857142857142856,5.357142857142857,21.428571428571427,0.3333333333333333,hate
+Jo,Penny,6.779661016949152,2.754237288135593,46.39830508474576,2.4615384615384617,be have say pass fly say be get be have
+Jo,Vanessa,6.779661016949152,2.754237288135593,46.39830508474576,2.4615384615384617,be have say pass fly say be get be have
+Jo,Penny,6.779661016949152,2.754237288135593,46.39830508474576,2.4615384615384617,be have say pass fly say be get be have
+Jo,Vanessa,6.779661016949152,2.754237288135593,46.39830508474576,2.4615384615384617,be have say pass fly say be get be have
+Penny,Vanessa,6.779661016949152,2.754237288135593,46.39830508474576,2.4615384615384617,be have say pass fly say be get be have
+Angus,Parliament,2.1484375,2.5390625,53.125,0.8461538461538461,hurtle be return feel leave
+Vanessa,Penny,0.7978723404255319,1.8617021276595744,59.04255319148937,0.42857142857142855,want see hear reach switch see be decide take
+Vanessa,Penny,0.7978723404255319,1.8617021276595744,59.04255319148937,0.42857142857142855,want see hear reach switch see be decide take
+Vanessa,Penny,0.7978723404255319,1.8617021276595744,59.04255319148937,0.42857142857142855,want see hear reach switch see be decide take
+Vanessa,Penny,0.7978723404255319,1.8617021276595744,59.04255319148937,0.42857142857142855,want see hear reach switch see be decide take
+Penny,Vanessa,0.7978723404255319,1.8617021276595744,59.04255319148937,0.42857142857142855,want see hear reach switch see be decide take
+Penny,Malcolm,0.0,4.464285714285714,52.67857142857143,0.0,do think mean
+Penny,Tobias,0.625,2.5,46.875,0.25,do persuade be vote
+Vanessa,Malcolm,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Vanessa,Malcolm,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Malcolm,Vanessa,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Malcolm,Vanessa,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Malcolm,Vanessa,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Vanessa,Malcolm,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Malcolm,Vanessa,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Malcolm,Vanessa,3.8793103448275863,6.0344827586206895,45.258620689655174,0.6428571428571429,want resign want be reprimand imagine unfold come
+Parliament,Malcolm,3.2327586206896552,2.586206896551724,49.353448275862064,1.25,seem be think do lose improve
+Parliament,Malcolm,3.2327586206896552,2.586206896551724,49.353448275862064,1.25,seem be think do lose improve
+Vanessa,Penny,6.896551724137931,4.741379310344827,50.43103448275862,1.4545454545454546,be strike say get be question
+Penny,Vanessa,6.896551724137931,4.741379310344827,50.43103448275862,1.4545454545454546,be strike say get be question
+Penny,Vanessa,6.896551724137931,4.741379310344827,50.43103448275862,1.4545454545454546,be strike say get be question
+Penny,Vanessa,6.896551724137931,4.741379310344827,50.43103448275862,1.4545454545454546,be strike say get be question
+Malcolm,Penny,1.7857142857142856,6.25,34.82142857142857,0.2857142857142857,be say
+Penny,Mc Dougal,2.450980392156863,2.696078431372549,61.51960784313726,0.9090909090909091,seem put discover be
+Penny,Mc Dougal,2.450980392156863,2.696078431372549,61.51960784313726,0.9090909090909091,seem put discover be
+Vanessa,Poppy,2.734375,1.953125,57.8125,1.4,be rest eat be take do
+Poppy,Vanessa,2.734375,1.953125,57.8125,1.4,be rest eat be take do
+Poppy,Vanessa,2.083333333333333,2.9166666666666665,55.00000000000001,0.7142857142857143,read rob
+Poppy,Vanessa,2.083333333333333,2.9166666666666665,55.00000000000001,0.7142857142857143,read rob
+Vanessa,Poppy,8.620689655172415,5.172413793103448,51.724137931034484,1.6666666666666667,tell sit think hope be stop be
+Poppy,Vanessa,8.620689655172415,5.172413793103448,51.724137931034484,1.6666666666666667,tell sit think hope be stop be
+Poppy,Vanessa,8.620689655172415,5.172413793103448,51.724137931034484,1.6666666666666667,tell sit think hope be stop be
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+John,Katherine,2.528089887640449,1.6853932584269662,55.33707865168539,1.5,push slither run see reflect toast have find volunteer be rape
+Katherine,John,3.977272727272727,1.1363636363636365,49.43181818181818,3.5,be be grow
+Katherine,John,3.977272727272727,1.1363636363636365,49.43181818181818,3.5,be be grow
+John,Katherine,3.977272727272727,1.1363636363636365,49.43181818181818,3.5,be be grow
+John,Katherine,3.6764705882352944,8.088235294117647,35.294117647058826,0.45454545454545453,show be
+John,Katherine,7.211538461538461,1.9230769230769231,52.40384615384615,3.75,be unveil fuck repel get like
+John,Katherine,7.211538461538461,1.9230769230769231,52.40384615384615,3.75,be unveil fuck repel get like
+John,Katherine,7.211538461538461,1.9230769230769231,52.40384615384615,3.75,be unveil fuck repel get like
+Alan,Katherine,9.027777777777777,3.4722222222222223,48.61111111111111,2.6,have be
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Sam,Katherine,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Katherine,Sam,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Katherine,Sam,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Katherine,Sam,6.8181818181818175,0.0,44.696969696969695,INF,be want know be have get
+Katherine,Sam,1.1904761904761905,0.0,46.42857142857143,INF,be go do be do
+Katherine,Sam,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Katherine,Sam,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Katherine,Sam,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Katherine,Sam,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Sam,Katherine,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Sam,Katherine,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Sam,Katherine,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Katherine,Sam,1.171875,1.171875,50.78125,1.0,bear have nail see seep
+Katherine,Sam,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Katherine,Sam,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Sam,Katherine,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Sam,Katherine,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Katherine,Sam,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Sam,Katherine,1.4423076923076923,0.0,56.25,INF,have respond stop see feel get
+Katherine,Sam,2.5,4.583333333333333,42.916666666666664,0.5454545454545454,disarm be congratulate make
+Katherine,Elysian Group,2.5,4.583333333333333,42.916666666666664,0.5454545454545454,disarm be congratulate make
+Sam,Elysian Group,2.5,4.583333333333333,42.916666666666664,0.5454545454545454,disarm be congratulate make
+Katherine,Sam,2.9017857142857144,2.9017857142857144,51.33928571428571,1.0,pick scroll ignore click write make send
+Katherine,Sam,2.9017857142857144,2.9017857142857144,51.33928571428571,1.0,pick scroll ignore click write make send
+Sam,Katherine,2.9017857142857144,2.9017857142857144,51.33928571428571,1.0,pick scroll ignore click write make send
+Penny,Katherine,3.4090909090909087,5.303030303030303,67.04545454545455,0.6428571428571429,take skewer sport
+Hemingway,Penny,7.5,1.8181818181818181,47.04545454545455,4.125,have read do deal have give be
+Hemingway,Penny,7.5,1.8181818181818181,47.04545454545455,4.125,have read do deal have give be
+Penny,Proust,8.035714285714286,0.0,49.107142857142854,INF,have fare
+Penny,Proust,1.0135135135135136,2.7027027027027026,50.33783783783784,0.375,go mutter imagine cough be force leave
+Proust,Hemingway,5.714285714285714,2.857142857142857,57.14285714285714,2.0,be get spare have fail decide be be go win
+Malcolm,Jo,5.241935483870968,2.82258064516129,33.87096774193548,1.8571428571428572,be commit wot line
+Malcolm,Tobias,5.241935483870968,2.82258064516129,33.87096774193548,1.8571428571428572,be commit wot line
+Jo,Tobias,5.241935483870968,2.82258064516129,33.87096774193548,1.8571428571428572,be commit wot line
+Vanessa,Foreign Office,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Vanessa,Penny,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Foreign Office,Penny,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Foreign Office,Vanessa,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Foreign Office,Vanessa,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Penny,Vanessa,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Penny,Vanessa,3.0737704918032787,1.0245901639344261,63.114754098360656,3.0,have be involve make have know be act turn be
+Penny,Vanessa,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Penny,Vanessa,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Penny,Foreign Office,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Vanessa,Foreign Office,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Vanessa,Penny,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Vanessa,Foreign Office,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Vanessa,Penny,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Foreign Office,Penny,1.7241379310344827,0.43103448275862066,49.56896551724138,4.0,be tempt send know
+Penny,Vanessa,2.925531914893617,2.393617021276596,43.61702127659575,1.2222222222222223,destine land be send give be get
+Penny,Vanessa,2.925531914893617,2.393617021276596,43.61702127659575,1.2222222222222223,destine land be send give be get
+Vanessa,Jo,5.0675675675675675,4.391891891891892,50.0,1.1538461538461537,daydream have sprint swell
+Vanessa,Tobias,5.0675675675675675,4.391891891891892,50.0,1.1538461538461537,daydream have sprint swell
+Jo,Tobias,5.0675675675675675,4.391891891891892,50.0,1.1538461538461537,daydream have sprint swell
+Penny,Marcel,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Penny,Marcel,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Penny,David,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Penny,Jo,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,Penny,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,David,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,Jo,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,Penny,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,David,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Marcel,Jo,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Penny,David,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+Penny,Jo,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+David,Jo,0.9765625,3.7109375,51.5625,0.2631578947368421,enliven start grow come salute point say feel remember have take
+James Miller,IPG,4.642857142857143,1.0714285714285714,57.14285714285714,4.333333333333333,enliven have reinforce bring say have decide offer
+IPG,James Miller,4.642857142857143,1.0714285714285714,57.14285714285714,4.333333333333333,enliven have reinforce bring say have decide offer
+IPG,Elysian Group,0.6578947368421052,0.0,57.23684210526315,INF,celebrate be invite join
+Alan,Marilyn,3.6764705882352944,3.6764705882352944,33.82352941176471,1.0,be try hate stop worry
+Marilyn,Alan,3.6764705882352944,3.6764705882352944,33.82352941176471,1.0,be try hate stop worry
+Marilyn,Alan,7.8125,1.3020833333333335,49.21875,6.0,become be worry state have be worry put worry waste
+Marilyn,Alan,7.8125,1.3020833333333335,49.21875,6.0,become be worry state have be worry put worry waste
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Katherine,Alan,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,3.0434782608695654,2.8260869565217392,53.2608695652174,1.0769230769230769,have know lose be hear return have drape close stand tiptoe make look
+Alan,Katherine,2.941176470588235,3.6764705882352944,46.32352941176471,0.8,have receive
+Alan,Katherine,2.941176470588235,3.6764705882352944,46.32352941176471,0.8,have receive
+Alan,Katherine,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Marilyn,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Katherine,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Marilyn,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Katherine,Alan,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Katherine,Alan,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Katherine,Marilyn,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Marilyn,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Marilyn,1.9230769230769231,4.166666666666666,50.32051282051282,0.46153846153846156,recognize recognize be go imagine
+Alan,Katherine,2.0161290322580645,3.6290322580645165,45.96774193548387,0.5555555555555556,have deny last know have write find have write
+Alan,Katherine,2.0161290322580645,3.6290322580645165,45.96774193548387,0.5555555555555556,have deny last know have write find have write
+Katherine,Alan,2.0161290322580645,3.6290322580645165,45.96774193548387,0.5555555555555556,have deny last know have write find have write
+Alan,Katherine,2.0161290322580645,3.6290322580645165,45.96774193548387,0.5555555555555556,have deny last know have write find have write
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Alan,Katherine,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Alan,Katherine,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Katherine,Alan,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Alan,Katherine,2.2435897435897436,2.7243589743589745,50.16025641025641,0.8235294117647058,show be falter include be own know be be reject overlook appear be underline
+Alan,Katherine,4.741379310344827,5.603448275862069,51.724137931034484,0.8461538461538461,be have ask lay know have comply
+Katherine,Alan,4.741379310344827,5.603448275862069,51.724137931034484,0.8461538461538461,be have ask lay know have comply
+Katherine,Alan,4.741379310344827,5.603448275862069,51.724137931034484,0.8461538461538461,be have ask lay know have comply
+Katherine,Alan,4.741379310344827,5.603448275862069,51.724137931034484,0.8461538461538461,be have ask lay know have comply
+Alan,Elysian Group,2.941176470588235,1.2254901960784315,48.77450980392157,2.4,want go buy read rinse remind be go
+Alan,Elysian Group,2.941176470588235,1.2254901960784315,48.77450980392157,2.4,want go buy read rinse remind be go
+Alan,Elysian Group,2.941176470588235,1.2254901960784315,48.77450980392157,2.4,want go buy read rinse remind be go
+Malcolm,Jo,4.3478260869565215,2.717391304347826,45.108695652173914,1.6,be engage fight secure
+Malcolm,Vanessa,4.3478260869565215,2.717391304347826,45.108695652173914,1.6,be engage fight secure
+Malcolm,Vanessa,4.3478260869565215,2.717391304347826,45.108695652173914,1.6,be engage fight secure
+Jo,Vanessa,4.3478260869565215,2.717391304347826,45.108695652173914,1.6,be engage fight secure
+Jo,Vanessa,4.3478260869565215,2.717391304347826,45.108695652173914,1.6,be engage fight secure
+Tobias,Penny,1.893939393939394,2.272727272727273,50.378787878787875,0.8333333333333334,have go check stand have choose
+Auntie,Elysian Group,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Auntie,Didier,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Didier,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Elysian Group,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Auntie,Didier,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Auntie,Didier,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Didier,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Didier,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Didier,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Didier,Auntie,2.616279069767442,0.5813953488372093,40.98837209302326,4.5,be invite have reply say be bring like bring
+Auntie,Sonny,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be be assign smuggle
+Auntie,Mansur,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be be assign smuggle
+Sonny,Mansur,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be be assign smuggle
+Mansur,Sonny,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Mansur,Auntie,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Mansur,Sonny,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Mansur,Auntie,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Sonny,Auntie,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Sonny,Mansur,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Auntie,Mansur,3.869047619047619,3.273809523809524,57.14285714285714,1.1818181818181819,have be throw sit be surprise insist come
+Auntie,Sonny,3.4482758620689653,1.7241379310344827,53.44827586206896,2.0,disguise open check contain have write
+Auntie,Didier,3.4482758620689653,1.7241379310344827,53.44827586206896,2.0,disguise open check contain have write
+Sonny,Didier,3.4482758620689653,1.7241379310344827,53.44827586206896,2.0,disguise open check contain have write
+Sam,Katherine,0.7575757575757576,5.681818181818182,48.10606060606061,0.13333333333333333,lay wrap
+Sam,Katherine,0.7575757575757576,5.681818181818182,48.10606060606061,0.13333333333333333,lay wrap
+Katherine,Sam,0.7575757575757576,5.681818181818182,48.10606060606061,0.13333333333333333,lay wrap
+Sam,Katherine,0.7575757575757576,5.681818181818182,48.10606060606061,0.13333333333333333,lay wrap
+Katherine,Sam,1.6666666666666667,0.0,45.0,INF,have take
+Sam,Katherine,0.0,0.0,60.0,INF,lean feel merge
+Sam,Katherine,0.0,0.0,60.0,INF,lean feel merge
+Sam,Katherine,2.1739130434782608,2.717391304347826,55.97826086956522,0.8,notice be fish
+Sam,Katherine,2.1739130434782608,2.717391304347826,55.97826086956522,0.8,notice be fish
+Katherine,Sam,5.0,1.5,41.5,3.3333333333333335,say kiss make wonder want leave
+Katherine,Sam,5.0,1.5,41.5,3.3333333333333335,say kiss make wonder want leave
+Katherine,Sam,5.0,1.5,41.5,3.3333333333333335,say kiss make wonder want leave
+Katherine,Sam,5.0,1.5,41.5,3.3333333333333335,say kiss make wonder want leave
+John,Amanda,0.0,3.289473684210526,44.07894736842105,0.0,arrive accompany
+Amanda,John,0.0,3.289473684210526,44.07894736842105,0.0,arrive accompany
+John,Amanda,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+John,Amanda,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+Amanda,John,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+Amanda,John,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+John,Amanda,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+John,Amanda,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,do sleep make think be sleep
+John,Amanda,3.9285714285714284,1.4285714285714286,57.49999999999999,2.75,be put be be have
+John,Amanda,3.9285714285714284,1.4285714285714286,57.49999999999999,2.75,be put be be have
+John,Amanda,3.9285714285714284,1.4285714285714286,57.49999999999999,2.75,be put be be have
+John,Amanda,3.9285714285714284,1.4285714285714286,57.49999999999999,2.75,be put be be have
+Amanda,John,4.427083333333334,0.78125,42.70833333333333,5.666666666666667,say be be wonder mind depend be have be ask
+John,Amanda,4.427083333333334,0.78125,42.70833333333333,5.666666666666667,say be be wonder mind depend be have be ask
+John,Elysian Group,1.8617021276595744,2.127659574468085,55.58510638297872,0.875,plead receive say be give
+John,David,1.8617021276595744,2.127659574468085,55.58510638297872,0.875,plead receive say be give
+Elysian Group,David,1.8617021276595744,2.127659574468085,55.58510638297872,0.875,plead receive say be give
+John,Hermione Fade,0.0,0.0,65.0,INF,be authorize deliver win
+Auntie,Sonny,2.1341463414634148,3.353658536585366,55.487804878048784,0.6363636363636364,stand spoil
+Auntie,John,2.1341463414634148,3.353658536585366,55.487804878048784,0.6363636363636364,stand spoil
+Sonny,John,2.1341463414634148,3.353658536585366,55.487804878048784,0.6363636363636364,stand spoil
+Alan,James Miller,3.6764705882352944,3.6764705882352944,57.35294117647059,1.0,see be find
+James Miller,Alan,3.6764705882352944,3.6764705882352944,57.35294117647059,1.0,see be find
+Alan,Marilyn,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,1.4150943396226416,1.179245283018868,54.009433962264154,1.2,have be collect have end dress find
+Marilyn,Alan,0.0,0.8333333333333334,59.166666666666664,0.0,suggest move
+Alan,Elysian Group,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Elysian Group,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Elysian Group,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Elysian Group,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Elysian Group,Katherine,3.90625,4.166666666666666,44.01041666666667,0.9375,toy have be go turn have win return
+Alan,Yuri,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Alan,Turner,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Alan,Yuri,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Alan,Turner,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Yuri,Alan,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Yuri,Turner,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Alan,Turner,0.7352941176470588,0.0,46.32352941176471,INF,point greet be
+Alan,Katherine,1.3297872340425532,1.0638297872340425,44.41489361702128,1.25,say farm be reclaim suppose have be be
+Alan,Katherine,1.3297872340425532,1.0638297872340425,44.41489361702128,1.25,say farm be reclaim suppose have be be
+Alan,Katherine,1.3297872340425532,1.0638297872340425,44.41489361702128,1.25,say farm be reclaim suppose have be be
+Alan,Katherine,1.3297872340425532,1.0638297872340425,44.41489361702128,1.25,say farm be reclaim suppose have be be
+Katherine,Yuri,0.0,0.78125,49.21875,0.0,hear have give go
+Yuri,Alan,3.6458333333333335,1.0416666666666665,57.8125,3.5,give turn start stroll dispense
+Didier,Alan,2.631578947368421,3.070175438596491,50.43859649122807,0.8571428571428571,be say smile gaze
+Sonny,Didier,4.032258064516129,2.0161290322580645,42.33870967741936,2.0,have ask help say have write
+Sonny,Alan,4.032258064516129,2.0161290322580645,42.33870967741936,2.0,have ask help say have write
+Sonny,Alan,4.032258064516129,2.0161290322580645,42.33870967741936,2.0,have ask help say have write
+Didier,Alan,4.032258064516129,2.0161290322580645,42.33870967741936,2.0,have ask help say have write
+Didier,Alan,4.032258064516129,2.0161290322580645,42.33870967741936,2.0,have ask help say have write
+Didier,Alan,2.734375,2.734375,47.65625,1.0,go look grow be be want see
+Alan,Didier,3.571428571428571,4.464285714285714,34.82142857142857,0.8,turn know expect
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Katherine,Alan,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Alan,Katherine,1.4534883720930232,2.3255813953488373,54.360465116279066,0.625,frame kiss bite stand remind do depend be wear
+Katherine,Sam,2.430555555555556,1.3888888888888888,54.513888888888886,1.75,be look electrify need be pull get start
+Katherine,Sam,2.430555555555556,1.3888888888888888,54.513888888888886,1.75,be look electrify need be pull get start
+Alan,Katherine,1.3461538461538463,2.307692307692308,54.807692307692314,0.5833333333333334,appreciate pass have step encumber appear start shout
+Alan,Katherine,1.3461538461538463,2.307692307692308,54.807692307692314,0.5833333333333334,appreciate pass have step encumber appear start shout
+Penny,Katherine,1.4705882352941175,0.0,51.470588235294116,INF,come think return
+Malcolm,David,0.0,3.4090909090909087,55.68181818181818,0.0,be sit be bind turn
+Malcolm,David,0.0,3.4090909090909087,55.68181818181818,0.0,be sit be bind turn
+David,Penny,1.25,0.0,58.75,INF,stop
+Penny,David,1.0135135135135136,0.33783783783783783,60.810810810810814,3.0,confirm have arrive find sit look walk rest
+Penny,David,1.0135135135135136,0.33783783783783783,60.810810810810814,3.0,confirm have arrive find sit look walk rest
+David,Penny,0.0,0.0,50.0,INF,follow say take
+Penny,David,6.578947368421052,2.631578947368421,43.42105263157895,2.5,decide make hear be call
+David,Penny,2.5735294117647056,0.0,59.19117647058824,INF,be go take say help marvel have bounce
+David,Malcolm,2.5735294117647056,0.0,59.19117647058824,INF,be go take say help marvel have bounce
+Penny,Malcolm,2.5735294117647056,0.0,59.19117647058824,INF,be go take say help marvel have bounce
+David,Elysian Group,1.3888888888888888,1.8518518518518516,44.907407407407405,0.75,be say be
+Tobias,Penny,3.125,0.0,46.875,INF,say
+Tobias,Penny,3.125,0.0,46.875,INF,say
+Malcolm,David,0.5681818181818182,0.0,53.97727272727273,INF,manage get push
+Sam,Katherine,0.0,0.0,56.52173913043478,INF,arrive change be
+Sam,Katherine,0.0,0.0,40.0,INF,say
+Katherine,Sam,1.5625,0.0,44.27083333333333,INF,be forgive say smile graze
+Katherine,Sam,1.5625,0.0,44.27083333333333,INF,be forgive say smile graze
+Sam,Katherine,2.34375,0.78125,53.125,3.0,turn press
+Sam,Katherine,2.34375,0.78125,53.125,3.0,turn press
+Katherine,Sam,2.34375,0.78125,53.125,3.0,turn press
+Sam,Katherine,2.34375,0.78125,53.125,3.0,turn press
+Tobias,Malcolm,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,David,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,Penny,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,Malcolm,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,David,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,Penny,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Malcolm,David,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Malcolm,Penny,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+David,Penny,3.5416666666666665,2.2916666666666665,50.83333333333333,1.5454545454545454,give be look take be have be occupy accord
+Tobias,Shelley,1.524390243902439,1.8292682926829267,64.9390243902439,0.8333333333333334,have memorize impress get
+Shelley,Tobias,1.524390243902439,1.8292682926829267,64.9390243902439,0.8333333333333334,have memorize impress get
+Tobias,Sam,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,see be recognize weave
+Tobias,Sam,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,see be recognize weave
+Tobias,Sam,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,see be recognize weave
+Tobias,Sam,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,see be recognize weave
+Sonny,Malcolm,6.534090909090909,6.25,46.30681818181818,1.0454545454545454,be disconcert concentrate find cultivate assign
+Malcolm,Sonny,6.534090909090909,6.25,46.30681818181818,1.0454545454545454,be disconcert concentrate find cultivate assign
+Malcolm,Sonny,6.534090909090909,6.25,46.30681818181818,1.0454545454545454,be disconcert concentrate find cultivate assign
+Malcolm,Sonny,6.534090909090909,6.25,46.30681818181818,1.0454545454545454,be disconcert concentrate find cultivate assign
+Auntie,Mansur,1.6304347826086956,0.5434782608695652,71.73913043478261,3.0,have make bring hamper turn be
+Auntie,Elysian Group,1.6304347826086956,0.5434782608695652,71.73913043478261,3.0,have make bring hamper turn be
+Mansur,Elysian Group,1.6304347826086956,0.5434782608695652,71.73913043478261,3.0,have make bring hamper turn be
+Sonny,Malcolm,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,give say scan see arrive
+Sonny,Yuri,0.7978723404255319,1.3297872340425532,57.446808510638306,0.6,have inhale hear be press try muffle cough shake flush
+Yuri,Sonny,0.7978723404255319,1.3297872340425532,57.446808510638306,0.6,have inhale hear be press try muffle cough shake flush
+Yuri,Sonny,0.7978723404255319,1.3297872340425532,57.446808510638306,0.6,have inhale hear be press try muffle cough shake flush
+Yuri,Sonny,0.7978723404255319,1.3297872340425532,57.446808510638306,0.6,have inhale hear be press try muffle cough shake flush
+Jo,Tobias,3.75,0.0,51.24999999999999,INF,stare be lean listen be say
+Jo,Penny,3.75,0.0,51.24999999999999,INF,stare be lean listen be say
+Tobias,Penny,3.75,0.0,51.24999999999999,INF,stare be lean listen be say
+Tobias,Jo,3.75,0.0,51.24999999999999,INF,stare be lean listen be say
+Penny,Jo,3.75,0.0,51.24999999999999,INF,stare be lean listen be say
+Jo,Penny,0.6944444444444444,2.083333333333333,47.22222222222222,0.3333333333333333,thank say be
+Malcolm,David,3.0,0.5,52.5,6.0,do find seem have lose
+David,SAS,7.03125,2.34375,50.0,3.0,be be be save
+David,SAS,7.03125,2.34375,50.0,3.0,be be be save
+Malcolm,Vanessa,0.5434782608695652,0.0,55.97826086956522,INF,glance see be absorb listen
+Malcolm,Vanessa,0.5434782608695652,0.0,55.97826086956522,INF,glance see be absorb listen
+Malcolm,Vanessa,0.5434782608695652,0.0,55.97826086956522,INF,glance see be absorb listen
+Malcolm,Vanessa,0.5434782608695652,0.0,55.97826086956522,INF,glance see be absorb listen
+Tobias,Penny,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,budge say lean
+Tobias,Malcolm,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,budge say lean
+Penny,Malcolm,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,budge say lean
+Malcolm,Elysian Group,2.166666666666667,1.0,59.5,2.1666666666666665,be have have be accept be turn
+Malcolm,Penny,0.7352941176470588,2.941176470588235,49.26470588235294,0.25,devour abandon
+Malcolm,Tobias,0.7352941176470588,2.941176470588235,49.26470588235294,0.25,devour abandon
+Penny,Malcolm,0.7352941176470588,2.941176470588235,49.26470588235294,0.25,devour abandon
+Penny,Tobias,0.7352941176470588,2.941176470588235,49.26470588235294,0.25,devour abandon
+Malcolm,Tobias,0.7352941176470588,2.941176470588235,49.26470588235294,0.25,devour abandon
+Vanessa,David,3.125,1.7045454545454544,61.07954545454546,1.8333333333333333,excuse say be repeat crush have make claim be cling
+Vanessa,David,3.125,1.7045454545454544,61.07954545454546,1.8333333333333333,excuse say be repeat crush have make claim be cling
+Vanessa,David,3.125,1.7045454545454544,61.07954545454546,1.8333333333333333,excuse say be repeat crush have make claim be cling
+Vanessa,Malcolm,3.125,0.0,55.208333333333336,INF,hurry have see go
+Vanessa,Malcolm,3.125,0.0,55.208333333333336,INF,hurry have see go
+Vanessa,Malcolm,1.4705882352941175,0.0,69.11764705882352,INF,spot sit be check
+Malcolm,Vanessa,0.8928571428571428,0.0,41.964285714285715,INF,have speak say
+Vanessa,Malcolm,0.35714285714285715,0.7142857142857143,56.07142857142857,0.5,cry glance look continue lead
+Vanessa,Malcolm,0.35714285714285715,0.7142857142857143,56.07142857142857,0.5,cry glance look continue lead
+Malcolm,Vanessa,0.35714285714285715,0.7142857142857143,56.07142857142857,0.5,cry glance look continue lead
+Malcolm,Penny,0.0,5.357142857142857,47.023809523809526,0.0,watch be assail
+Vanessa,Nicola,3.4090909090909087,0.0,60.22727272727273,INF,have encourage place
+Vanessa,Penny,5.416666666666667,3.75,50.83333333333333,1.4444444444444444,have disappear have find refuse spoil tell
+Penny,Vanessa,5.416666666666667,3.75,50.83333333333333,1.4444444444444444,have disappear have find refuse spoil tell
+Penny,Vanessa,5.416666666666667,3.75,50.83333333333333,1.4444444444444444,have disappear have find refuse spoil tell
+Vanessa,Penny,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Vanessa,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Vanessa,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Vanessa,Penny,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Vanessa,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Penny,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Penny,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Penny,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Nicola,Penny,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Nicola,Penny,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Penny,Nicola,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,cross be do go be refund refund have win have provide
+Malcolm,Elysian Group,2.9166666666666665,0.0,37.083333333333336,INF,
+Malcolm,Elysian Group,3.3653846153846154,1.201923076923077,43.50961538461539,2.8,resume decide do be
+Jo,Vanessa,4.166666666666666,0.0,62.5,INF,smile
+Penny,Jo,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Penny,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Penny,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Penny,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Jo,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Jo,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Jo,Nicola,1.25,2.083333333333333,50.0,0.6,decide be choose gamble
+Yuri,Auntie,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Yuri,Auntie,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Yuri,Turner,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Yuri,Auntie,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Yuri,Auntie,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Yuri,Turner,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Auntie,Turner,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Auntie,Turner,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,express remind be
+Auntie,Sonny,1.5,4.5,38.0,0.3333333333333333,murmur be manage
+Sonny,Auntie,0.78125,0.78125,60.9375,1.0,come
+Foucault,Auntie,0.0,0.0,47.368421052631575,INF,tell go
+Katherine,Sam,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Katherine,Alan,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Katherine,Sam,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Katherine,Alan,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Sam,Katherine,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Sam,Katherine,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Sam,Alan,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Katherine,Alan,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Katherine,Alan,0.5208333333333333,0.78125,38.28125,0.6666666666666666,say stare stare be send
+Sam,Katherine,1.875,0.0,43.125,INF,go say lean
+Sam,Katherine,1.6666666666666667,0.4166666666666667,41.25,4.0,look taper
+Sam,Katherine,1.6666666666666667,0.4166666666666667,41.25,4.0,look taper
+Sam,Katherine,1.6666666666666667,0.4166666666666667,41.25,4.0,look taper
+Sam,Katherine,1.6666666666666667,0.4166666666666667,41.25,4.0,look taper
+Sam,Katherine,1.6666666666666667,0.4166666666666667,41.25,4.0,look taper
+Penny,Katherine,0.0,0.0,60.0,INF,be
+Penny,Jo,0.0,0.0,61.53846153846154,INF,turn walk
+Elysian Group,Katherine,4.166666666666666,2.450980392156863,50.245098039215684,1.7,suspect be hear be have get switch toss
+Elysian Group,Katherine,4.166666666666666,2.450980392156863,50.245098039215684,1.7,suspect be hear be have get switch toss

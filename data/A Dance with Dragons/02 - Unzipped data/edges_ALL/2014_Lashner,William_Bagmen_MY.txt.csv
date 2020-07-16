@@ -1,0 +1,623 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+McCall,Melanie,0.0,0.0,52.17391304347826,INF,be say indicate shine
+Melanie,American Express,2.34375,0.78125,65.625,3.0,be have snag invite have hand purchase cluck clutch steer
+Mr. Carl,McCall,1.25,0.0,38.75,INF,let introduce say
+Mr. Carl,Melanie,1.25,0.0,38.75,INF,let introduce say
+McCall,Melanie,1.25,0.0,38.75,INF,let introduce say
+McCall,Ronin,0.0,0.0,16.666666666666664,INF,say
+Ronin,McCall,0.0,0.0,16.666666666666664,INF,say
+Ronin,McCall,0.0,0.0,60.0,INF,have balance say
+Ronin,McCall,5.0,0.0,28.333333333333332,INF,be look
+McCall,Melanie,1.3888888888888888,1.3888888888888888,19.444444444444446,1.0,impress say
+Ossana,Melanie,3.4090909090909087,2.272727272727273,48.86363636363637,1.5,be give fetch
+Ossana,Melanie,1.25,0.8333333333333334,56.25,1.5,be be hold feel be think know
+Ossana,Melanie,1.25,0.8333333333333334,56.25,1.5,be be hold feel be think know
+Ossana,Melanie,1.25,0.8333333333333334,56.25,1.5,be be hold feel be think know
+Ossana,Melanie,0.0,1.25,48.75,0.0,let go
+Mitchum,Ossana,1.25,0.0,58.75,INF,be
+Ossana,House of Representatives,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,have want talk do
+House of Representatives,Ossana,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,have want talk do
+Bettenhauser,Mitchum,0.0,0.0,43.75,INF,say expectorate
+Melanie,Mitchum,0.0,1.3888888888888888,54.166666666666664,0.0,lean whisper burst
+McDeiss,Armbruster,0.5813953488372093,0.5813953488372093,45.348837209302324,1.0,tell ask say say be authorize
+Mr. Carl,Armbruster,2.5462962962962963,0.6944444444444444,44.907407407407405,3.6666666666666665,be say turn give know teach make feel
+Mr. Carl,Armbruster,0.0,1.3157894736842104,51.31578947368421,0.0,keep say duck
+Mr. Carl,Armbruster,0.0,1.3157894736842104,51.31578947368421,0.0,keep say duck
+Mr. Carl,McDeiss,0.0,3.977272727272727,36.93181818181818,0.0,growl catch save
+Mr. Carl,McDeiss,4.891304347826087,1.0869565217391304,46.19565217391305,4.5,say put nod
+Mr. Carl,Armbruster,4.891304347826087,1.0869565217391304,46.19565217391305,4.5,say put nod
+McDeiss,Armbruster,4.891304347826087,1.0869565217391304,46.19565217391305,4.5,say put nod
+Sloane,McDeiss,1.201923076923077,6.971153846153847,51.442307692307686,0.1724137931034483,give fear come head stink
+Melanie,Winston,5.813953488372093,3.1976744186046515,51.45348837209303,1.8181818181818181,love catch be open take give scan
+Melanie,Winston,5.813953488372093,3.1976744186046515,51.45348837209303,1.8181818181818181,love catch be open take give scan
+Colin Frost,Melanie,0.0,0.0,25.0,INF,say
+Clarence Darrow,Winston,0.0,1.9230769230769231,67.3076923076923,0.0,be
+Melanie,Winston,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,know push squeeze
+Commonwealth,Colin Frost,0.0,0.0,76.92307692307693,INF,be
+Colin Frost,Trumbull,3.2407407407407405,2.314814814814815,57.407407407407405,1.4,have be drive weave pull
+Trumbull,Colin Frost,0.0,0.0,62.96296296296296,INF,find charge distribute
+Trumbull,Colin Frost,0.0,0.0,62.96296296296296,INF,find charge distribute
+Melanie,Colin Frost,3.048780487804878,1.8292682926829267,63.41463414634146,1.6666666666666667,do know end be palm do
+Colin Frost,Melanie,3.048780487804878,1.8292682926829267,63.41463414634146,1.6666666666666667,do know end be palm do
+Colin Frost,Melanie,0.0,5.208333333333334,57.291666666666664,0.0,be turn nod see feel
+Sloane,Philadelphia Daily News,0.0,5.208333333333334,53.125,0.0,be fill
+Sloane,Melanie,0.0,0.0,57.14285714285714,INF,look look look
+Melanie,Sloane,0.0,0.0,57.14285714285714,INF,look look look
+Mr. Frost,Ms. Brooks,0.390625,0.0,49.609375,INF,think be represent look
+Mr. Frost,Ronin,0.390625,0.0,49.609375,INF,think be represent look
+Mr. Frost,McCall,0.390625,0.0,49.609375,INF,think be represent look
+Ms. Brooks,Ronin,0.390625,0.0,49.609375,INF,think be represent look
+Ms. Brooks,McCall,0.390625,0.0,49.609375,INF,think be represent look
+Ronin,McCall,0.390625,0.0,49.609375,INF,think be represent look
+Mr. Frost,Mr. Carl,4.166666666666666,0.4629629629629629,43.51851851851852,9.0,be say drop have
+Trumbull,Mr. Frost,0.3289473684210526,0.0,60.19736842105263,INF,say arrest testify stop drive be swerve
+Bunker Hill,Mr. Carl,2.272727272727273,0.0,29.545454545454547,INF,be
+Ronin,McCall,0.0,0.0,11.11111111111111,INF,
+Mr. Frost,Mr. Carl,0.0,0.78125,55.46875,0.0,make
+Ronin,McCall,2.6785714285714284,0.8928571428571428,25.0,3.0,be
+Ronin,McCall,0.0,0.0,33.33333333333333,INF,get do
+Sloane,Colin Frost,4.166666666666666,5.357142857142857,52.38095238095239,0.7777777777777778,be sniff say compromise
+Mr. Flores,Mr. Carl,2.083333333333333,1.3888888888888888,52.083333333333336,1.5,have say
+Melanie,American Express,5.0,1.6666666666666667,60.0,3.0,have give cover
+Peter,Ossana,0.5434782608695652,0.5434782608695652,59.78260869565217,1.0,be assign write be impress see
+Congress,House of Representatives,1.0245901639344261,1.2295081967213115,48.5655737704918,0.8333333333333334,be run be be be continue fight see send back
+Melanie,Mitchum,2.0,0.0,38.0,INF,say like meet
+Mitchum,Melanie,3.125,0.0,38.54166666666667,INF,trust say
+Melanie,Mitchum,0.6944444444444444,0.6944444444444444,65.27777777777779,1.0,elbow be
+Mitchum,Melanie,1.25,0.0,28.749999999999996,INF,thank say
+Mitchum,Ossana,1.9230769230769231,0.0,67.3076923076923,INF,say have leave grab
+Mr. Carl,Ossana,2.5,0.0,27.500000000000004,INF,be say
+Ossana,Mrs. DeMathis,3.571428571428571,0.0,32.142857142857146,INF,say
+Pete,Mrs. DeMathis,0.8928571428571428,0.0,49.107142857142854,INF,say approach
+Mr. Carl,Colin Frost,5.833333333333333,0.0,40.833333333333336,INF,do know spring
+Amanda Duddleman,Barnard,4.464285714285714,0.0,24.107142857142858,INF,do know go do
+Timothy,Boyds,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,usher spread indicate
+Boyds,Timothy,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,usher spread indicate
+Peter,Reginald,0.6944444444444444,0.0,49.30555555555556,INF,let send say stand
+Reginald,Heywood,2.4193548387096775,3.6290322580645165,42.33870967741936,0.6666666666666666,be make be employ fetch grow
+Reginald,Mrs. Devereaux,0.0,0.5208333333333333,53.645833333333336,0.0,be say reach take
+Heywood,Mrs. Devereaux,0.0,0.0,45.45454545454545,INF,lean slobber
+Heywood,Reginald,1.7857142857142856,6.25,63.39285714285714,0.2857142857142857,give take
+Matthew,Jessica Barnes,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Matthew,Jessica Barnes,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Matthew,Jessica Barnes,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Matthew,Jessica Barnes,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Jessica Barnes,Matthew,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Jessica Barnes,Matthew,1.6025641025641024,0.641025641025641,51.60256410256411,2.5,be lose say focus keep
+Matthew,Mr. Herbert,4.411764705882353,2.2058823529411766,58.08823529411765,2.0,be want do
+Mr. Herbert,Matthew,4.411764705882353,2.2058823529411766,58.08823529411765,2.0,be want do
+Ossana,Robin Hood,0.0,0.7352941176470588,55.14705882352941,0.0,be blackmail save be be
+Sloane,Jessica Barnes,1.9230769230769231,4.807692307692308,47.11538461538461,0.4,ask
+Sloane,McDeiss,1.9230769230769231,1.9230769230769231,51.92307692307693,1.0,offer relay describe give get be concern
+McDeiss,Mr. Carl,0.0,0.0,57.14285714285714,INF,state be
+Sloane,McDeiss,2.232142857142857,3.125,44.642857142857146,0.7142857142857143,include
+Mayfair,Guy Pelozzo,1.171875,1.953125,62.5,0.6,be have run zone be try renovate
+Mr. Carl,Ellie,0.0,5.208333333333334,28.125,0.0,be say
+Mr. Carl,Ellie,0.0,0.0,53.333333333333336,INF,take say step place
+Maud,Hump,0.0,0.0,48.484848484848484,INF,get be do work have
+Guy Pelozzo,Stony,0.0,5.113636363636364,58.52272727272727,0.0,open take soil toss
+Maud,Joan,3.125,1.5625,20.3125,2.0,call be
+Sloane,Colin Frost,1.3888888888888888,2.083333333333333,52.083333333333336,0.6666666666666666,have happen have be be be
+Sloane,Colin Frost,1.3888888888888888,2.083333333333333,52.083333333333336,0.6666666666666666,have happen have be be be
+Mrs. Devereaux,Bettenhauser,3.90625,1.171875,54.296875,3.3333333333333335,have make be go be
+Amanda Duddleman,Nietzsche,2.9829545454545454,1.5625,55.68181818181818,1.9090909090909092,be drink discuss fight be let grow develop toil end
+Stony,Hump,3.571428571428571,0.8928571428571428,31.25,4.0,say be
+Stony,Colin Frost,2.34375,0.0,35.15625,INF,tell be say
+Hump,Sazerac,2.9166666666666665,0.0,53.75,INF,come say bring
+Aubrey,Stony,0.0,0.0,20.0,INF,shout
+Sazerac,Stony,0.0,2.2058823529411766,56.61764705882353,0.0,drink wince make
+Hump,Stony,1.1363636363636365,0.7575757575757576,61.74242424242424,1.5,handle haul take pass
+Hump,Stony,0.0,0.0,31.25,INF,help see say
+Stony,Maud,6.666666666666667,0.8333333333333334,19.166666666666668,8.0,say be
+Miles Schimmeck,Commonwealth,0.0,1.3392857142857142,52.23214285714286,0.0,handle
+Hump,Miles Schimmeck,0.0,0.0,60.0,INF,pull slap close slip
+Miles Schimmeck,Sazerac,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,look snatch grab
+Miles Schimmeck,Sazerac,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,look snatch grab
+Miles Schimmeck,Sazerac,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,look snatch grab
+Sazerac,Miles Schimmeck,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,look snatch grab
+Maud,Hump,0.0,0.0,30.76923076923077,INF,have say
+Hump,Miles Schimmeck,0.4807692307692308,2.403846153846154,39.42307692307692,0.2,be say snap grab
+Hump,Miles Schimmeck,0.4807692307692308,2.403846153846154,39.42307692307692,0.2,be say snap grab
+Aubrey,Stony,0.78125,0.0,49.21875,INF,say bring
+Aubrey,Stony,0.78125,0.0,49.21875,INF,say bring
+Miles Schimmeck,Aubrey,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,talk give
+Miles Schimmeck,Aubrey,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,talk give
+Miles Schimmeck,Traffic Court,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,talk give
+Aubrey,Traffic Court,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,talk give
+Aubrey,Traffic Court,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,talk give
+McDeiss,Armbruster,0.0,0.0,53.333333333333336,INF,be walk
+McDeiss,Armbruster,1.3888888888888888,2.083333333333333,57.638888888888886,0.6666666666666666,toss pull scrape sit clasp lean
+Mr. Carl,Armbruster,0.0,0.0,21.428571428571427,INF,be say
+McDeiss,Armbruster,6.25,2.604166666666667,45.3125,2.4,stare open
+McDeiss,Armbruster,6.25,2.604166666666667,45.3125,2.4,stare open
+Jessica Barnes,Ossana,4.166666666666666,0.0,35.833333333333336,INF,know be blackmail say
+Jessica Barnes,Armbruster,4.166666666666666,0.0,35.833333333333336,INF,know be blackmail say
+Ossana,Armbruster,4.166666666666666,0.0,35.833333333333336,INF,know be blackmail say
+Jessica Barnes,Mrs. Devereaux,2.717391304347826,2.717391304347826,42.391304347826086,1.0,know pay pick
+McDeiss,Armbruster,6.0344827586206895,1.293103448275862,58.189655172413794,4.666666666666667,have be try keep have pour
+McDeiss,Jessica Barnes,0.0,1.6304347826086956,41.84782608695652,0.0,see say be
+Jessica Barnes,Armbruster,0.0,1.4705882352941175,27.941176470588236,0.0,do be hold say
+Ossana,Armbruster,0.0,0.8928571428571428,34.82142857142857,0.0,be talk say
+McDeiss,Armbruster,0.78125,0.0,55.46875,INF,stare lean mine write
+McDeiss,Armbruster,0.78125,0.0,55.46875,INF,stare lean mine write
+McDeiss,Armbruster,2.631578947368421,0.9868421052631579,43.75,2.6666666666666665,say be be act have be say put
+McDeiss,Jessica Barnes,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,tell be scrawl have find do react
+Walmart,Jack Herbert,0.29069767441860467,1.744186046511628,60.75581395348837,0.16666666666666666,send go buy register send be
+Walmart,Amanda Duddleman,0.29069767441860467,1.744186046511628,60.75581395348837,0.16666666666666666,send go buy register send be
+Jack Herbert,Amanda Duddleman,0.29069767441860467,1.744186046511628,60.75581395348837,0.16666666666666666,send go buy register send be
+McDeiss,Kip,7.291666666666667,0.0,42.70833333333333,INF,find lead
+Amanda Duddleman,Kip,4.464285714285714,0.0,38.392857142857146,INF,know be
+Amanda Duddleman,Jessica Barnes,0.6578947368421052,4.605263157894736,31.57894736842105,0.14285714285714285,give
+Amanda Duddleman,Jessica Barnes,0.6578947368421052,4.605263157894736,31.57894736842105,0.14285714285714285,give
+Ossana,Sazerac,0.0,2.083333333333333,43.75,0.0,come order ask
+Sazerac,Ossana,2.1739130434782608,3.804347826086957,46.19565217391305,0.5714285714285714,be make think take lick
+Mrs. Devereaux,Reginald,5.0,2.142857142857143,64.28571428571429,2.3333333333333335,be sit share make back
+Mrs. Devereaux,Reginald,5.0,2.142857142857143,64.28571428571429,2.3333333333333335,be sit share make back
+Lanvin,Reginald,0.0,0.0,38.46153846153847,INF,say mean
+Reginald,Lanvin,3.8461538461538463,8.173076923076923,45.67307692307692,0.47058823529411764,be loosen
+Reginald,Lanvin,3.8461538461538463,8.173076923076923,45.67307692307692,0.47058823529411764,be loosen
+Reginald,Lanvin,3.8461538461538463,8.173076923076923,45.67307692307692,0.47058823529411764,be loosen
+Timothy,Boyds,2.604166666666667,1.5625,45.83333333333333,1.6666666666666667,see say
+Lyudmila,Maud,0.3787878787878788,2.272727272727273,45.83333333333333,0.16666666666666666,be be allow return need say leave
+Lyudmila,Maud,0.3787878787878788,2.272727272727273,45.83333333333333,0.16666666666666666,be be allow return need say leave
+Amanda Duddleman,Jessica Barnes,2.34375,2.34375,39.0625,1.0,have investigate do
+Amanda Duddleman,Jessica Barnes,2.34375,2.34375,39.0625,1.0,have investigate do
+Reginald,Mrs. Devereaux,1.9230769230769231,0.0,59.61538461538461,INF,have act
+Hump,Stony,0.6756756756756757,0.33783783783783783,47.63513513513514,2.0,show say be drink discuss
+Briggs,Stony,1.3157894736842104,0.0,35.526315789473685,INF,be illuminate pass
+Briggs,Mr. Carl,1.3157894736842104,0.0,35.526315789473685,INF,be illuminate pass
+Stony,Mr. Carl,1.3157894736842104,0.0,35.526315789473685,INF,be illuminate pass
+Hanratty,Maud,3.125,0.0,41.875,INF,have get say lean
+Kip,Jessica Barnes,2.272727272727273,0.0,58.333333333333336,INF,do believe let go be head find
+Kip,Jessica Barnes,2.272727272727273,0.0,58.333333333333336,INF,do believe let go be head find
+Maud,Rosen,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,be do be have bring
+Rosen,Maud,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,be do be have bring
+Stony,Maud,6.845238095238096,2.083333333333333,45.83333333333333,3.2857142857142856,be be be blend be
+Stony,Maud,6.845238095238096,2.083333333333333,45.83333333333333,3.2857142857142856,be be be blend be
+Stony,Maud,6.845238095238096,2.083333333333333,45.83333333333333,3.2857142857142856,be be be blend be
+Thompson,NRA,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,be sell
+Ossana,Mitchum,3.125,0.0,46.875,INF,do say stand
+Stony,Maud,4.411764705882353,4.411764705882353,42.64705882352941,1.0,have wax mesh have ferry stink find match
+Mitchum,Bettenhauser,2.34375,0.0,60.15625,INF,tell say
+NRA,Bettenhauser,0.0,0.0,62.5,INF,pay
+Mrs. Devereaux,Mitchum,0.0,1.1363636363636365,35.22727272727273,0.0,talk say
+Sloane,Mitchum,0.0,0.8928571428571428,49.107142857142854,0.0,trust say
+Mitchum,Ossana,1.3888888888888888,0.0,31.944444444444443,INF,say
+Joan,McDeiss,10.714285714285714,5.357142857142857,33.92857142857143,2.0,have be question
+Lincoln,Hump,0.0,4.166666666666666,40.27777777777778,0.0,say
+Stony,Tommy Bettenhauser,0.4032258064516129,0.4032258064516129,57.25806451612904,1.0,be stone be sneak
+Stony,Tommy Bettenhauser,0.4032258064516129,0.4032258064516129,57.25806451612904,1.0,be stone be sneak
+Stony,Tommy Bettenhauser,0.4032258064516129,0.4032258064516129,57.25806451612904,1.0,be stone be sneak
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Bettenhauser,2.850877192982456,1.7543859649122806,60.30701754385965,1.625,have seem keep keep move park wait pass point
+Stony,Miles Schimmeck,3.125,1.5625,39.0625,2.0,get give say
+Aubrey,Stony,3.125,0.0,21.875,INF,call
+Miles Schimmeck,Hump,3.125,1.5625,57.8125,2.0,grumble nod
+Miles Schimmeck,Stony,3.125,1.5625,57.8125,2.0,grumble nod
+Hump,Stony,3.125,1.5625,57.8125,2.0,grumble nod
+Miles Schimmeck,Hump,4.545454545454546,5.681818181818182,44.31818181818182,0.8,be say
+Miles Schimmeck,Aubrey,3.0660377358490565,1.179245283018868,58.01886792452831,2.6,come walk point be be spot suck saunter be
+Miles Schimmeck,Aubrey,3.0660377358490565,1.179245283018868,58.01886792452831,2.6,come walk point be be spot suck saunter be
+Miles Schimmeck,Aubrey,3.0660377358490565,1.179245283018868,58.01886792452831,2.6,come walk point be be spot suck saunter be
+Miles Schimmeck,Aubrey,3.0660377358490565,1.179245283018868,58.01886792452831,2.6,come walk point be be spot suck saunter be
+Miles Schimmeck,Aubrey,3.0660377358490565,1.179245283018868,58.01886792452831,2.6,come walk point be be spot suck saunter be
+Maud,Sloane,0.4032258064516129,0.0,31.85483870967742,INF,give regard say tell be look sell
+Miles Schimmeck,Maud,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,say grab slide make
+Miles Schimmeck,Maud,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,say grab slide make
+Miles Schimmeck,Maud,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,say grab slide make
+Miles Schimmeck,Maud,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,say grab slide make
+Hump,Miles Schimmeck,0.0,1.9230769230769231,44.230769230769226,0.0,be say grab
+Sloane,Stony,1.3888888888888888,0.0,48.61111111111111,INF,know be have snap
+Sloane,Bettenhauser,1.3888888888888888,0.0,48.61111111111111,INF,know be have snap
+Stony,Bettenhauser,1.3888888888888888,0.0,48.61111111111111,INF,know be have snap
+Jessica Barnes,Franklin,0.9259259259259258,0.0,50.92592592592593,INF,make call keep
+Franklin,Jessica Barnes,0.9259259259259258,0.0,50.92592592592593,INF,make call keep
+Jessica Barnes,Franklin,2.0,2.0,56.00000000000001,1.0,have share be
+Jack Herbert,Amanda Duddleman,1.0714285714285714,2.857142857142857,53.214285714285715,0.375,figure reach take register send
+Jack Herbert,Aubrey,1.644736842105263,0.3289473684210526,48.026315789473685,5.0,toss have be catch look see stand
+Jack Herbert,Aubrey,1.644736842105263,0.3289473684210526,48.026315789473685,5.0,toss have be catch look see stand
+Ossana,Amanda Duddleman,1.0416666666666665,0.0,48.95833333333333,INF,return be cover
+Ossana,Amanda Duddleman,1.0416666666666665,0.0,48.95833333333333,INF,return be cover
+Melanie,McDeiss,0.0,0.0,52.0,INF,ask ask ask press
+Amanda Duddleman,Jessica Barnes,4.166666666666666,5.128205128205128,34.294871794871796,0.8125,toss turn bash stop think
+Amanda Duddleman,Ossana,4.166666666666666,5.128205128205128,34.294871794871796,0.8125,toss turn bash stop think
+Jessica Barnes,Ossana,4.166666666666666,5.128205128205128,34.294871794871796,0.8125,toss turn bash stop think
+Amanda Duddleman,Barnard,0.8333333333333334,0.0,52.5,INF,think do tell tell
+Amanda Duddleman,Barnard,0.8333333333333334,0.0,52.5,INF,think do tell tell
+Amanda Duddleman,Pete,0.0,0.0,36.36363636363637,INF,shout go
+Amanda Duddleman,Barnard,5.0,1.25,23.75,4.0,be go
+Amanda Duddleman,Barnard,5.0,1.25,23.75,4.0,be go
+Barnard,Amanda Duddleman,5.288461538461538,3.3653846153846154,60.57692307692307,1.5714285714285714,pull push realize have be do have be act
+Melanie,Rosen,0.9615384615384616,0.9615384615384616,44.230769230769226,1.0,watch stand
+Armbruster,Colin Frost,0.0,1.171875,55.078125,0.0,assure be have leave be bring
+Armbruster,Colin Frost,0.0,1.171875,55.078125,0.0,assure be have leave be bring
+Armbruster,Colin Frost,0.0,1.171875,55.078125,0.0,assure be have leave be bring
+Colin Frost,Miss Duddleman,0.0,3.571428571428571,25.0,0.0,escape kill
+Colin Frost,Miss Duddleman,0.0,3.571428571428571,25.0,0.0,escape kill
+Mr. Carl,Miss Duddleman,1.6891891891891893,2.027027027027027,42.22972972972973,0.8333333333333334,look do blame kick see be accuse expect get
+Miss Duddleman,Mr. Carl,1.6891891891891893,2.027027027027027,42.22972972972973,0.8333333333333334,look do blame kick see be accuse expect get
+Colin Frost,Jessica Barnes,2.5,0.0,50.83333333333333,INF,have plant be search
+Jessica Barnes,Mrs. Gaughan,4.375,1.25,54.37499999999999,3.5,need remind be be do remind
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Stony,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Mrs. Gaughan,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Stony,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Mrs. Gaughan,Jessica Barnes,4.6875,0.78125,41.40625,6.0,like understand be have tell have be
+Melinda Gaughan,Stony,0.0,0.0,23.076923076923077,INF,say
+Stony,Nadine,0.0,0.8333333333333334,65.83333333333333,0.0,look wait try
+Stony,Nadine,0.0,0.8333333333333334,65.83333333333333,0.0,look wait try
+Amanda Duddleman,Stony,0.6944444444444444,0.0,43.75,INF,see say aim
+Mrs. Gaughan,Nadine,1.7857142857142856,0.0,62.5,INF,put have show
+Nadine,Amanda Duddleman,3.0,3.5000000000000004,57.49999999999999,0.8571428571428571,speak turn see have look learn have be murder
+Nadine,Amanda Duddleman,3.0,3.5000000000000004,57.49999999999999,0.8571428571428571,speak turn see have look learn have be murder
+Stony,Nadine,0.5434782608695652,0.0,55.97826086956522,INF,stand press wait continue
+Buchanan,House of Representatives,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,be like tend preside be imagine do
+Buchanan,House of Representatives,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,be like tend preside be imagine do
+House of Representatives,Buchanan,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,be like tend preside be imagine do
+Buchanan,Stony,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,sing close wave
+Buchanan,Stony,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,sing close wave
+Stony,Lincoln,0.0,0.0,35.714285714285715,INF,be say start
+Stony,Honda,0.872093023255814,0.29069767441860467,66.27906976744185,3.0,pay follow make
+Stony,Honda,1.2755102040816326,3.826530612244898,54.08163265306123,0.3333333333333333,pass keep let keep be follow
+Mrs. Gaughan,Stony,0.0,2.604166666666667,55.729166666666664,0.0,turn slow fall
+Mrs. Gaughan,Honda,0.0,2.604166666666667,55.729166666666664,0.0,turn slow fall
+Stony,Honda,0.0,2.604166666666667,55.729166666666664,0.0,turn slow fall
+Mrs. Gaughan,Melinda Gaughan,1.3888888888888888,0.4629629629629629,57.407407407407405,3.0,dress hang do climb
+Mrs. Gaughan,Melinda Gaughan,1.3888888888888888,0.4629629629629629,57.407407407407405,3.0,dress hang do climb
+Mrs. Gaughan,Melinda Gaughan,1.3888888888888888,0.4629629629629629,57.407407407407405,3.0,dress hang do climb
+Mrs. Gaughan,Melinda Gaughan,1.3888888888888888,0.4629629629629629,57.407407407407405,3.0,dress hang do climb
+Melinda Gaughan,Mrs. Gaughan,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Melinda Gaughan,Mrs. Gaughan,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Melinda Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Melinda Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Mrs. Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Mrs. Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Mrs. Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Mrs. Gaughan,Amanda Duddleman,3.316326530612245,5.612244897959184,46.1734693877551,0.5909090909090909,have play ruin have lie see have convince be
+Nadine,Dr. Patusan,4.3478260869565215,0.0,65.21739130434783,INF,have ask do go
+Nadine,Amanda Duddleman,0.6944444444444444,0.3472222222222222,51.736111111111114,2.0,do ask have give do ask be allow give
+Amanda Duddleman,Nadine,0.6944444444444444,0.3472222222222222,51.736111111111114,2.0,do ask have give do ask be allow give
+Nadine,Mrs. Gaughan,5.319148936170213,1.0638297872340425,55.319148936170215,5.0,ask be review call tell have take show want make have check
+Nadine,Mrs. Gaughan,5.319148936170213,1.0638297872340425,55.319148936170215,5.0,ask be review call tell have take show want make have check
+Nadine,Mrs. Gaughan,5.319148936170213,1.0638297872340425,55.319148936170215,5.0,ask be review call tell have take show want make have check
+Nadine,Mrs. Gaughan,5.319148936170213,1.0638297872340425,55.319148936170215,5.0,ask be review call tell have take show want make have check
+Nadine,Amanda Duddleman,3.125,3.125,37.5,1.0,be have give have be wait show have die
+Nadine,Amanda Duddleman,3.125,3.125,37.5,1.0,be have give have be wait show have die
+Nadine,Amanda Duddleman,3.125,3.125,37.5,1.0,be have give have be wait show have die
+Stony,Goodrich Camera,0.0,0.0,54.54545454545454,INF,return let hightail slide
+Stony,Goodrich Camera,0.0,0.0,54.54545454545454,INF,return let hightail slide
+Carrie,Bettenhauser,2.403846153846154,0.4807692307692308,50.96153846153846,5.0,lead surround leave wait introduce
+Bettenhauser,Carrie,2.403846153846154,0.4807692307692308,50.96153846153846,5.0,lead surround leave wait introduce
+Bettenhauser,Sloane,1.6304347826086956,1.6304347826086956,44.565217391304344,1.0,do give have give
+Sloane,Bettenhauser,1.6304347826086956,1.6304347826086956,44.565217391304344,1.0,do give have give
+Sloane,Rosen,1.7857142857142856,0.0,44.642857142857146,INF,want give bring meet
+Sloane,Rosen,1.7857142857142856,0.0,44.642857142857146,INF,want give bring meet
+Ossana,Jessica Barnes,1.25,0.0,58.75,INF,see spin know be come have come
+Ossana,Amanda Duddleman,1.25,0.0,58.75,INF,see spin know be come have come
+Jessica Barnes,Amanda Duddleman,1.25,0.0,58.75,INF,see spin know be come have come
+Goodrich Camera,Stony,0.0,0.0,62.5,INF,say stuff
+Briggs,Mayfair,3.4090909090909087,1.5151515151515151,55.68181818181818,2.25,be detach perch
+Stony,Briggs,2.455357142857143,1.3392857142857142,60.49107142857143,1.8333333333333333,have think have hear depart have be live have
+Briggs,Stony,2.455357142857143,1.3392857142857142,60.49107142857143,1.8333333333333333,have think have hear depart have be live have
+Stony,Briggs,1.0714285714285714,1.7857142857142856,42.857142857142854,0.6,choose give stunt say be
+Stony,Goodrich Camera,2.2916666666666665,2.083333333333333,58.958333333333336,1.1,say have cuff be threaten cut stuff help feel
+Stony,Goodrich Camera,2.2916666666666665,2.083333333333333,58.958333333333336,1.1,say have cuff be threaten cut stuff help feel
+Stony,Goodrich Camera,2.2916666666666665,2.083333333333333,58.958333333333336,1.1,say have cuff be threaten cut stuff help feel
+Stony,Goodrich Camera,2.2916666666666665,2.083333333333333,58.958333333333336,1.1,say have cuff be threaten cut stuff help feel
+Ossana,McDeiss,0.0,0.2232142857142857,62.27678571428571,0.0,be make be walk be capture breakfast be pass be step
+Ossana,Mrs. Devereaux,0.0,0.2232142857142857,62.27678571428571,0.0,be make be walk be capture breakfast be pass be step
+McDeiss,Mrs. Devereaux,0.0,0.2232142857142857,62.27678571428571,0.0,be make be walk be capture breakfast be pass be step
+Stony,Boyds,4.605263157894736,0.6578947368421052,57.89473684210527,7.0,have be spy base enter buy have be shadow meet
+Boyds,Stony,4.605263157894736,0.6578947368421052,57.89473684210527,7.0,have be spy base enter buy have be shadow meet
+Franklin,Jessica Barnes,1.1029411764705883,2.5735294117647056,55.14705882352941,0.42857142857142855,be walk walk leave
+Franklin,Jessica Barnes,1.1029411764705883,2.5735294117647056,55.14705882352941,0.42857142857142855,be walk walk leave
+Colin Frost,Amanda Duddleman,2.0161290322580645,0.4032258064516129,52.41935483870967,5.0,be approach kill
+Stony,Hump,6.944444444444445,0.0,48.61111111111111,INF,do know do
+Stony,McDeiss,0.0,0.0,41.66666666666667,INF,turn say
+McDeiss,Stony,0.0,0.0,41.66666666666667,INF,turn say
+Stony,Maud,3.909302325581396,2.1953488372093024,52.03488372093024,1.780720338983051,aim descend be appear be make seem
+Stony,Maud,3.909302325581396,2.1953488372093024,52.03488372093024,1.780720338983051,aim descend be appear be make seem
+Stony,Maud,3.909302325581396,2.1953488372093024,52.03488372093024,1.780720338983051,aim descend be appear be make seem
+Stony,Maud,3.909302325581396,2.1953488372093024,52.03488372093024,1.780720338983051,aim descend be appear be make seem
+Maud,Hump,2.976190476190476,6.547619047619048,47.61904761904761,0.45454545454545453,come swirl
+Maud,Stony,2.976190476190476,6.547619047619048,47.61904761904761,0.45454545454545453,come swirl
+Maud,Stony,2.976190476190476,6.547619047619048,47.61904761904761,0.45454545454545453,come swirl
+Hump,Stony,2.976190476190476,6.547619047619048,47.61904761904761,0.45454545454545453,come swirl
+Hump,Stony,2.976190476190476,6.547619047619048,47.61904761904761,0.45454545454545453,come swirl
+Tommy Bettenhauser,Stony,4.807692307692308,1.201923076923077,49.75961538461539,4.0,have become be have do say have know realize be be betray
+Stony,Bettenhauser,1.8518518518518516,0.4629629629629629,53.24074074074075,4.0,be work have be work announce mean be work
+Stony,Bettenhauser,1.8518518518518516,0.4629629629629629,53.24074074074075,4.0,be work have be work announce mean be work
+Stony,Bettenhauser,1.8518518518518516,0.4629629629629629,53.24074074074075,4.0,be work have be work announce mean be work
+Timothy,Boyds,0.0,0.0,25.0,INF,
+Maud,Hump,1.893939393939394,0.0,46.590909090909086,INF,be say hand inhale light toss
+Maud,Hump,1.893939393939394,0.0,46.590909090909086,INF,be say hand inhale light toss
+Road Dog,Stony,1.8518518518518516,1.8518518518518516,44.44444444444444,1.0,say have shoot
+Stony,Rosen,4.435483870967742,2.82258064516129,41.12903225806452,1.5714285714285714,be do think stick happen be
+Stony,Rosen,4.435483870967742,2.82258064516129,41.12903225806452,1.5714285714285714,be do think stick happen be
+Stony,Maud,0.0,0.0,27.27272727272727,INF,go say
+Stony,Hump,1.7857142857142856,1.3392857142857142,46.875,1.3333333333333333,stick say fill
+Hoffa,Miles Schimmeck,0.0,0.0,23.076923076923077,INF,be do say
+Hoffa,Miles Schimmeck,1.3888888888888888,0.0,43.05555555555556,INF,be go say say
+Maud,Hump,1.875,0.0,55.625,INF,look toss light point put
+Maud,Miles Schimmeck,1.875,0.0,55.625,INF,look toss light point put
+Maud,Stony,1.875,0.0,55.625,INF,look toss light point put
+Maud,Stony,1.875,0.0,55.625,INF,look toss light point put
+Maud,Stony,1.875,0.0,55.625,INF,look toss light point put
+Maud,Stony,1.875,0.0,55.625,INF,look toss light point put
+Maud,Stony,1.875,0.0,55.625,INF,look toss light point put
+Hump,Miles Schimmeck,1.875,0.0,55.625,INF,look toss light point put
+Hump,Stony,1.875,0.0,55.625,INF,look toss light point put
+Hump,Stony,1.875,0.0,55.625,INF,look toss light point put
+Hump,Stony,1.875,0.0,55.625,INF,look toss light point put
+Hump,Stony,1.875,0.0,55.625,INF,look toss light point put
+Hump,Stony,1.875,0.0,55.625,INF,look toss light point put
+Miles Schimmeck,Stony,1.875,0.0,55.625,INF,look toss light point put
+Miles Schimmeck,Stony,1.875,0.0,55.625,INF,look toss light point put
+Miles Schimmeck,Stony,1.875,0.0,55.625,INF,look toss light point put
+Miles Schimmeck,Stony,1.875,0.0,55.625,INF,look toss light point put
+Miles Schimmeck,Stony,1.875,0.0,55.625,INF,look toss light point put
+Shannondell,Stony,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,be talk say
+Stony,Maud,4.464285714285714,0.0,66.96428571428571,INF,look shake be shake
+Maud,Stony,4.464285714285714,0.0,66.96428571428571,INF,look shake be shake
+Maud,Stony,4.464285714285714,0.0,66.96428571428571,INF,look shake be shake
+Briggs,Hump,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Briggs,Maud,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Briggs,Miles Schimmeck,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Briggs,Hump,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Briggs,Maud,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Briggs,Miles Schimmeck,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Hump,Maud,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Hump,Miles Schimmeck,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Maud,Miles Schimmeck,1.7857142857142856,1.7857142857142856,42.142857142857146,1.0,stand spin scurry be grab light
+Stony,Miles Schimmeck,2.7777777777777777,0.0,47.22222222222222,INF,do say
+Miles Schimmeck,Stony,0.0,0.0,40.0,INF,shut say
+McDeiss,Miles Schimmeck,0.0,0.0,33.33333333333333,INF,be say
+Stony,Briggs,2.083333333333333,4.166666666666666,43.75,0.5,hustle fumble
+Briggs,Stony,5.303030303030303,3.787878787878788,39.39393939393939,1.4,make buy say turn disappear disappear
+Briggs,Stony,5.303030303030303,3.787878787878788,39.39393939393939,1.4,make buy say turn disappear disappear
+Briggs,Stony,5.303030303030303,3.787878787878788,39.39393939393939,1.4,make buy say turn disappear disappear
+Briggs,Stony,5.303030303030303,3.787878787878788,39.39393939393939,1.4,make buy say turn disappear disappear
+Hump,Miles Schimmeck,0.0,0.5,39.5,0.0,smell look open
+Hump,Maud,0.0,0.5,39.5,0.0,smell look open
+Miles Schimmeck,Maud,0.0,0.5,39.5,0.0,smell look open
+Jason Howard,Amanda Duddleman,0.0,2.631578947368421,50.0,0.0,match give
+Ossana,Jason Howard,4.464285714285714,1.7857142857142856,22.321428571428573,2.5,be look
+Tommy Bettenhauser,Congress,3.571428571428571,1.7857142857142856,37.5,2.0,tell
+Colin Frost,Jason Howard,2.941176470588235,1.2254901960784315,48.77450980392157,2.4,base have say do suggest have be
+Stony,Ossana,2.5,2.5,55.00000000000001,1.0,be wonder have give play
+Mrs. Gaughan,Jessica Barnes,4.513888888888888,1.3888888888888888,55.208333333333336,3.25,be do appear lug stuff sit
+Colin Frost,Jason Howard,1.8518518518518516,2.314814814814815,32.870370370370374,0.8,be intend be
+Ronin,McCall,0.0,0.0,28.57142857142857,INF,be
+Melanie,Mrs. Gaughan,2.1551724137931036,3.4482758620689653,53.01724137931034,0.625,run collapse ruin go hug
+Melanie,Mrs. Gaughan,2.1551724137931036,3.4482758620689653,53.01724137931034,0.625,run collapse ruin go hug
+Melanie,Stony,3.4482758620689653,4.310344827586207,33.62068965517241,0.8,say have go
+Melanie,Stony,3.4482758620689653,4.310344827586207,33.62068965517241,0.8,say have go
+Melanie,Stony,3.4482758620689653,4.310344827586207,33.62068965517241,0.8,say have go
+Mrs. Gaughan,Lincoln,1.1363636363636365,4.924242424242424,42.42424242424242,0.23076923076923078,do complete be lead whisk someplace
+Mrs. Gaughan,Lincoln,1.1363636363636365,4.924242424242424,42.42424242424242,0.23076923076923078,do complete be lead whisk someplace
+Mazda,McDeiss,2.586206896551724,2.586206896551724,60.3448275862069,1.0,keep obey wend
+Lincoln,McDeiss,2.696078431372549,1.2254901960784315,68.62745098039215,2.2,be think lose have use escape direct be veer call
+Melanie,McDeiss,4.567307692307692,3.6057692307692304,55.28846153846154,1.2666666666666666,be keep ease accelerate catch take
+Mazda,Melanie,0.0,0.4629629629629629,47.68518518518518,0.0,jab leap grab handle yank
+Melanie,McDeiss,3.4090909090909087,0.0,48.86363636363637,INF,be stand clue be happen disengage drop reveal
+Mrs. DeMathis,Melanie,0.0,2.631578947368421,39.473684210526315,0.0,say open climb
+Mrs. DeMathis,McDeiss,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+Mrs. DeMathis,Mitchum,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+Mrs. DeMathis,Melanie,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+McDeiss,Mitchum,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+McDeiss,Melanie,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+Mitchum,Melanie,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,be talk hold
+Calynne,Melanie,0.78125,3.90625,57.8125,0.2,be get show
+Calynne,Melanie,3.289473684210526,2.631578947368421,51.973684210526315,1.25,carry be eye
+Mrs. DeMathis,Calynne,0.0,0.0,57.89473684210527,INF,smile lead follow
+Mrs. DeMathis,Melanie,0.0,0.0,57.89473684210527,INF,smile lead follow
+Mrs. DeMathis,Mitchum,0.0,0.0,57.89473684210527,INF,smile lead follow
+Calynne,Melanie,0.0,0.0,57.89473684210527,INF,smile lead follow
+Calynne,Mitchum,0.0,0.0,57.89473684210527,INF,smile lead follow
+Melanie,Mitchum,0.0,0.0,57.89473684210527,INF,smile lead follow
+Jason Howard,Amanda Duddleman,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Jason Howard,Jessica Barnes,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Jason Howard,McDeiss,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Amanda Duddleman,Jessica Barnes,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Amanda Duddleman,McDeiss,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Jessica Barnes,McDeiss,1.0,1.25,57.75,0.8,be slam hear run have do be run take
+Colin Frost,McDeiss,4.411764705882353,2.941176470588235,51.470588235294116,1.5,have maintain save pop
+McDeiss,Colin Frost,1.6025641025641024,2.564102564102564,54.807692307692314,0.625,think lunge warn twitch grab yank
+Jason Howard,Mrs. Gaughan,2.5,2.5,35.0,1.0,let say
+Colin Frost,Ossana,0.0,1.7361111111111112,48.26388888888889,0.0,press rub
+Colin Frost,Mrs. Gaughan,0.0,1.7361111111111112,48.26388888888889,0.0,press rub
+Ossana,Mrs. Gaughan,0.0,1.7361111111111112,48.26388888888889,0.0,press rub
+Colin Frost,Matthew,0.8522727272727272,1.4204545454545454,52.27272727272727,0.6,throw sprawl tell come knock
+McDeiss,Jason Howard,3.618421052631579,4.605263157894736,47.03947368421053,0.7857142857142857,do keep shout warn open step
+McDeiss,Jason Howard,3.618421052631579,4.605263157894736,47.03947368421053,0.7857142857142857,do keep shout warn open step
+Jessica Barnes,Amanda Duddleman,2.272727272727273,0.0,25.0,INF,be name
+McDeiss,Colin Frost,3.289473684210526,1.3157894736842104,37.5,2.5,be say hear
+Miles Schimmeck,Maud,2.7777777777777777,5.555555555555555,25.0,0.5,say
+Aubrey,Briggs,0.0,0.0,22.22222222222222,INF,yell
+Colin Frost,Jason Howard,3.8461538461538463,0.0,48.07692307692308,INF,be say do have tell check be do
+Briggs,Stony,0.6578947368421052,0.0,46.71052631578947,INF,be say be try tell
+Lyudmila,Maud,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Lyudmila,Briggs,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Lyudmila,Briggs,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Maud,Briggs,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Maud,Briggs,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Maud,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Maud,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Briggs,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Briggs,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Briggs,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+Briggs,Lyudmila,1.5625,0.0,51.5625,INF,dress be sit be teach aspire take
+gore,Rosen,2.989130434782609,1.4945652173913044,43.34239130434783,2.0,kneel put gore lean be minister whisper say be say lean tell
+Briggs,Sazerac,1.5,0.5,57.99999999999999,3.0,be say swallow be
+Briggs,Sazerac,1.5,0.5,57.99999999999999,3.0,be say swallow be
+Colin Frost,Jessica Barnes,2.734375,5.078125,42.1875,0.5384615384615384,look be weep have walk
+Colin Frost,Amanda Duddleman,2.734375,5.078125,42.1875,0.5384615384615384,look be weep have walk
+Jessica Barnes,Amanda Duddleman,2.734375,5.078125,42.1875,0.5384615384615384,look be weep have walk
+Ossana,Colin Frost,1.6304347826086956,7.065217391304348,39.130434782608695,0.23076923076923078,need disappear hide vanish
+Ossana,Amanda Duddleman,1.6304347826086956,7.065217391304348,39.130434782608695,0.23076923076923078,need disappear hide vanish
+Colin Frost,Ossana,1.6304347826086956,7.065217391304348,39.130434782608695,0.23076923076923078,need disappear hide vanish
+Colin Frost,Amanda Duddleman,1.6304347826086956,7.065217391304348,39.130434782608695,0.23076923076923078,need disappear hide vanish
+Ossana,Amanda Duddleman,1.6304347826086956,7.065217391304348,39.130434782608695,0.23076923076923078,need disappear hide vanish
+Stony,Briggs,0.8522727272727272,3.6931818181818183,52.27272727272727,0.23076923076923078,see write decide sell burn toss toss
+Stony,Briggs,0.8522727272727272,3.6931818181818183,52.27272727272727,0.23076923076923078,see write decide sell burn toss toss
+Stony,Ossana,4.166666666666666,6.25,50.69444444444444,0.6666666666666666,crap be be protect
+Hump,Mr. Flores,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Hump,Steinberg,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Hump,Mr. Flores,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Hump,Mr. Flores,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Mr. Flores,Steinberg,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Steinberg,Mr. Flores,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Steinberg,Mr. Flores,2.358490566037736,2.1226415094339623,54.009433962264154,1.1111111111111112,find name have mystify come win
+Briggs,House of Representatives,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+Briggs,Ossana,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+Briggs,Steinberg,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+House of Representatives,Ossana,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+House of Representatives,Steinberg,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+Ossana,Steinberg,1.2755102040816326,1.0204081632653061,60.96938775510205,1.25,have get work learn sit
+Briggs,Ossana,6.071428571428571,5.0,46.07142857142857,1.2142857142857142,be say have be face melt
+Miles Schimmeck,Colin Frost,1.8292682926829267,0.0,56.70731707317073,INF,pay have find allow slip
+Miles Schimmeck,Colin Frost,1.8292682926829267,0.0,56.70731707317073,INF,pay have find allow slip
+Miles Schimmeck,Colin Frost,1.8292682926829267,0.0,56.70731707317073,INF,pay have find allow slip
+Jessica Barnes,Amanda Duddleman,0.0,0.0,25.0,INF,
+Ronin,McCall,7.142857142857142,1.7857142857142856,38.69047619047619,4.0,impress have hear
+Ossana,Bettenhauser,4.6875,6.25,39.0625,0.75,lose win
+Ronin,McCall,8.333333333333332,4.166666666666666,20.833333333333336,2.0,have
+Peter,Grosset,1.5625,2.083333333333333,52.604166666666664,0.75,emerge seal be be lean put
+Peter,Melanie,1.5625,2.083333333333333,52.604166666666664,0.75,emerge seal be be lean put
+Peter,Melanie,1.5625,2.083333333333333,52.604166666666664,0.75,emerge seal be be lean put
+Grosset,Melanie,1.5625,2.083333333333333,52.604166666666664,0.75,emerge seal be be lean put
+Grosset,Melanie,1.5625,2.083333333333333,52.604166666666664,0.75,emerge seal be be lean put
+Vic,Melanie,0.0,0.0,40.0,INF,come say
+Jessica Barnes,Amanda Duddleman,0.0,0.0,40.909090909090914,INF,serve file
+Stony,Melanie,2.556818181818182,3.977272727272727,45.73863636363637,0.6428571428571429,have know be run assume be be avoid have be
+Stony,Melanie,2.556818181818182,3.977272727272727,45.73863636363637,0.6428571428571429,have know be run assume be be avoid have be
+McDeiss,Mrs. Devereaux,0.0,0.0,56.52173913043478,INF,go pay
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,Reginald,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Mrs. Devereaux,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Reginald,McDeiss,3.125,2.403846153846154,46.394230769230774,1.3,tell be involve let know implicate be be horrify slap grab
+Grosset,Colin Frost,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Colin Frost,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Colin Frost,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Colin Frost,Jessica Barnes,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Colin Frost,Grosset,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Colin Frost,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Jessica Barnes,Grosset,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Jessica Barnes,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Jessica Barnes,Grosset,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Jessica Barnes,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Ossana,4.166666666666666,0.0,33.33333333333333,INF,have push hire get be blackmail
+Grosset,Bettenhauser,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Ossana,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Bettenhauser,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Ossana,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Bettenhauser,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Ossana,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Grosset,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Ossana,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Bettenhauser,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Ossana,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Ossana,Jessica Barnes,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Ossana,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Ossana,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Ossana,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Jessica Barnes,Reginald,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Jessica Barnes,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Jessica Barnes,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Colin Frost,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Reginald,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+Colin Frost,Amanda Duddleman,3.3854166666666665,0.5208333333333333,50.260416666666664,6.5,hedge buy have urge give want keep mean hire get
+McDeiss,Sloane,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+McDeiss,Sloane,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+McDeiss,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+McDeiss,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+Sloane,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+Sloane,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+Sloane,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+Sloane,Grosset,0.29069767441860467,0.29069767441860467,45.93023255813954,1.0,be get file get be lay be
+Melanie,Grosset,1.4705882352941175,0.0,51.470588235294116,INF,call be be pull
+Melanie,Grosset,1.4705882352941175,0.0,51.470588235294116,INF,call be be pull
+Melanie,Grosset,1.4705882352941175,0.0,51.470588235294116,INF,call be be pull
+McDeiss,Grosset,3.3854166666666665,4.166666666666666,46.61458333333333,0.8125,be have climb shake look rage flop speak
+Grosset,McDeiss,2.5,3.125,54.37499999999999,0.8,have be lead put amble
+Grosset,McDeiss,2.5,3.125,54.37499999999999,0.8,have be lead put amble
+McDeiss,Grosset,2.5,3.125,54.37499999999999,0.8,have be lead put amble
+McDeiss,Melanie,0.625,0.625,43.75,1.0,like meet
+Reginald,Grosset,5.0,8.0,51.0,0.625,have be use pay have be use
+Reginald,Melanie,5.0,8.0,51.0,0.625,have be use pay have be use
+Grosset,Melanie,5.0,8.0,51.0,0.625,have be use pay have be use
+Briggs,McDeiss,1.1363636363636365,0.0,53.40909090909091,INF,think be say
+Ossana,Mr. Carl,0.0,0.0,27.27272727272727,INF,carry
+McDeiss,Grosset,0.625,1.25,53.125,0.5,adjust look do have look
+McDeiss,Grosset,0.625,1.25,53.125,0.5,adjust look do have look
+McDeiss,Melanie,0.0,0.0,44.44444444444444,INF,leave turn
+Ronin,McCall,0.0,1.9230769230769231,44.230769230769226,0.0,practice join
+Ronin,McCall,1.7857142857142856,0.8928571428571428,25.892857142857146,2.0,use
+Melanie,Grosset,0.0,0.0,59.09090909090909,INF,know have spit run
+Melanie,Grosset,0.0,0.0,59.09090909090909,INF,know have spit run
+Ossana,Armbruster,0.0,1.0,67.0,0.0,be hole approach serve
+Ossana,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Ossana,Armbruster,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Ossana,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Ossana,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Ossana,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Melanie,Armbruster,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Armbruster,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Armbruster,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Armbruster,Melanie,2.3255813953488373,1.1627906976744187,47.674418604651166,2.0,let achieve have be seek
+Grosset,Melanie,0.8333333333333334,1.6666666666666667,37.5,0.5,do matter happen say
+Clarence Darrow,Thurgood Marshall,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,remember be use

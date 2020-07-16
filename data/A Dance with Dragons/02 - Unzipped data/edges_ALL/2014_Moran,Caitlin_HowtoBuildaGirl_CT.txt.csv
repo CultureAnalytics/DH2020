@@ -1,0 +1,584 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Rock Perry,Ian,2.976190476190476,1.7857142857142856,61.904761904761905,1.6666666666666667,inform believe be call be call
+Rock Perry,Ian,2.976190476190476,1.7857142857142856,61.904761904761905,1.6666666666666667,inform believe be call be call
+Rock Perry,Dadda,1.1363636363636365,0.5681818181818182,61.93181818181818,2.0,stare be say
+Rock Perry,Dadda,1.1363636363636365,0.5681818181818182,61.93181818181818,2.0,stare be say
+Daddy,Rock Perry,3.3333333333333335,0.4166666666666667,56.25,8.0,be ask get say carry feel deserve
+Dadda,Lupin,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have steal have be use steal play
+Dadda,Gandalf,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have steal have be use steal play
+Lupin,Gandalf,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have steal have be use steal play
+Dadda,Gandalf,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Dadda,Yamaha,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Dadda,Bobby,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Gandalf,Yamaha,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Gandalf,Bobby,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Yamaha,Bobby,3.214285714285714,1.0714285714285714,50.0,3.0,have be find set fuck
+Dadda,Lupin,3.214285714285714,1.4285714285714286,61.07142857142858,2.25,think be use play start have burn start wet
+Dadda,Rock Perry,6.25,0.0,63.74999999999999,INF,find shout
+Krissi,Rock Perry,0.7352941176470588,3.6764705882352944,66.17647058823529,0.2,have be sit hold want fill
+Rock Perry,Phil Collins,2.5,1.5,48.0,1.6666666666666667,compare have become
+Rock Perry,Dadda,2.5,1.5,48.0,1.6666666666666667,compare have become
+Phil Collins,Dadda,2.5,1.5,48.0,1.6666666666666667,compare have become
+Dadda,Phil Collins,6.25,6.25,37.5,1.0,be like
+Bobby,Dadda,1.3157894736842104,3.9473684210526314,47.368421052631575,0.3333333333333333,be be say
+Phil Collins,Rock Perry,7.386363636363637,6.25,50.0,1.1818181818181819,be mean be say
+Dadda,Rock Perry,1.9736842105263157,3.9473684210526314,51.973684210526315,0.5,have take be push
+Dadda,Phil Collins,1.9736842105263157,3.9473684210526314,51.973684210526315,0.5,have take be push
+Rock Perry,Phil Collins,1.9736842105263157,3.9473684210526314,51.973684210526315,0.5,have take be push
+Krissi,Rock Perry,3.125,0.0,36.875,INF,know go watch
+Rock Perry,Ian,6.117021276595745,2.127659574468085,70.47872340425532,2.875,find know know be call be
+Auntie Lauren,Krissi,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,say come hunch try make look
+David Niven,Robbie,3.2327586206896552,3.4482758620689653,46.76724137931034,0.9375,have mean snare hassle call
+Johanna,Angie,2.2058823529411766,0.0,38.970588235294116,INF,look go be smirk
+Maria,Liesl,6.666666666666667,0.8333333333333334,59.166666666666664,8.0,be towel
+Krissi,Lupin,0.0,0.0,50.0,INF,have start call
+Krissi,David Niven,0.0,0.0,50.0,INF,have start call
+Lupin,David Niven,0.0,0.0,50.0,INF,have start call
+Lupin,Krissi,2.631578947368421,1.3157894736842104,48.68421052631579,2.0,enter look
+Krissi,Lupin,0.390625,2.734375,53.125,0.14285714285714285,shuffle sit smooth
+Margaret Thatcher,Gandalf,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,fuck kill say watch
+Margaret Thatcher,Gandalf,4.166666666666666,1.6666666666666667,40.833333333333336,2.5,say burn cry
+Wolverhampton,Bodley Head,1.5625,2.083333333333333,33.85416666666667,0.75,feel ruin
+Dadda,Bodley Head,0.0,0.0,63.1578947368421,INF,start do
+Dadda,Bodley Head,0.0,0.0,63.1578947368421,INF,start do
+Ali,Dad,0.6578947368421052,0.0,51.973684210526315,INF,be say wind drive
+Ali,Dad,0.6578947368421052,0.0,51.973684210526315,INF,be say wind drive
+Gilbert Blythe,Anne,2.302631578947368,1.9736842105263157,61.51315789473685,1.1666666666666667,be go go write
+Dorothy Parker,Tony Benn,3.4090909090909087,2.272727272727273,42.04545454545455,1.5,have admire come murmur do know do
+Stephen Fry,Hugh Laurie,4.807692307692308,1.9230769230769231,36.858974358974365,2.5,be require tell make cigarettesmoke wipe be
+Stephen Fry,Hugh Laurie,0.0,2.272727272727273,34.090909090909086,0.0,
+Wolverhampton,Bianca,0.9259259259259258,0.0,47.22222222222222,INF,reckon be go leave be continue
+Violet,Tonk,0.0,0.4032258064516129,57.66129032258065,0.0,go see live
+David Niven,David,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,David,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Violet,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,David,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,David,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Violet,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David Niven,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Violet,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Violet,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+David,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+Dennis,Violet,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+Violet,Dennis,2.1484375,2.34375,48.6328125,0.9166666666666666,mention lose mention keep
+Violet,Dennis,0.33783783783783783,4.391891891891892,52.02702702702703,0.07692307692307693,show be stop betray have fancy
+Violet,Dennis,0.33783783783783783,4.391891891891892,52.02702702702703,0.07692307692307693,show be stop betray have fancy
+Violet,Dennis,0.9868421052631579,0.3289473684210526,46.05263157894737,3.0,be show look
+Violet,Dennis,0.9868421052631579,0.3289473684210526,46.05263157894737,3.0,be show look
+Violet,Dennis,5.769230769230769,3.8461538461538463,51.92307692307693,1.5,say love be
+Violet,Dennis,4.6875,5.208333333333334,56.770833333333336,0.9,be ask think ask
+Violet,Bianca,4.6875,5.208333333333334,56.770833333333336,0.9,be ask think ask
+Dennis,Bianca,4.6875,5.208333333333334,56.770833333333336,0.9,be ask think ask
+Violet,Dadda,1.6025641025641024,6.730769230769231,45.51282051282051,0.23809523809523808,tell hate wait get become stiffen
+Lupin,Violet,0.6756756756756757,6.081081081081082,60.810810810810814,0.1111111111111111,be go fit wear speak have hear
+Violet,Social Services,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,ring be see mend
+Rik Mayall,Blackadder,3.4482758620689653,2.1551724137931036,53.01724137931034,1.6,love be
+Bruce Wayne,Batman,0.8928571428571428,0.8928571428571428,69.64285714285714,1.0,be
+Johanna,Lupin,0.35714285714285715,1.7857142857142856,46.42857142857143,0.2,come play beg hang climb
+Lupin,Johanna,1.9067796610169492,0.211864406779661,47.03389830508475,9.0,lie play be stop learn turn break terrify go have do
+Express & Star,Annie,3.308823529411765,1.8382352941176472,53.67647058823529,1.8,be want
+Dennis,Lupin,0.5434782608695652,3.260869565217391,57.065217391304344,0.16666666666666666,be say point
+Krissi,Dennis,0.0,0.0,50.0,INF,
+Lupin,Krissi,1.3888888888888888,0.0,20.833333333333336,INF,say
+Krissi,Dennis,0.0,0.0,50.0,INF,ask wipe
+Wolverhampton,Annie,8.035714285714286,1.7857142857142856,47.32142857142857,4.5,be know do
+Krissi,Annie,4.464285714285714,1.7857142857142856,43.75,2.5,know be want play
+Krissi,Bill Murray,0.6578947368421052,3.9473684210526314,42.76315789473684,0.16666666666666666,tell be say take
+Krissi,Miss Hannigan,0.6578947368421052,3.9473684210526314,42.76315789473684,0.16666666666666666,tell be say take
+Bill Murray,Miss Hannigan,0.6578947368421052,3.9473684210526314,42.76315789473684,0.16666666666666666,tell be say take
+Krissi,Dennis,0.6578947368421052,0.0,46.71052631578947,INF,have admit have die
+Express & Star,Midlands Weekend,2.806122448979592,0.5102040816326531,51.78571428571429,5.5,be be print read be watch
+Dad,Jim,2.398989898989899,1.7676767676767675,46.33838383838384,1.3571428571428572,arrive fret be go wear be have wear be ring borrow get put spend get celebrate be
+Dad,Lupin,2.398989898989899,1.7676767676767675,46.33838383838384,1.3571428571428572,arrive fret be go wear be have wear be ring borrow get put spend get celebrate be
+Jim,Lupin,2.398989898989899,1.7676767676767675,46.33838383838384,1.3571428571428572,arrive fret be go wear be have wear be ring borrow get put spend get celebrate be
+Dad,Johanna,1.5625,1.7578125,56.0546875,0.8888888888888888,spend wear sit stare do stare be drive mark
+Amanda,Dadda,2.34375,2.34375,59.895833333333336,1.0,call put be drink feel feel have have play
+Amanda,Dadda,2.2435897435897436,6.089743589743589,50.641025641025635,0.3684210526315789,fear be tell usher leave do leave
+Amanda,Dadda,2.2435897435897436,6.089743589743589,50.641025641025635,0.3684210526315789,fear be tell usher leave do leave
+Midlands Weekend,Alan,3.6363636363636362,1.8181818181818181,54.54545454545454,2.0,walk foreshadow bow reverse start vaporize remember
+Alan,Midlands Weekend,3.6363636363636362,1.8181818181818181,54.54545454545454,2.0,walk foreshadow bow reverse start vaporize remember
+Johanna,Wolverhampton,0.0,0.0,38.46153846153847,INF,
+Johanna,Dad,1.7857142857142856,0.0,26.785714285714285,INF,say
+Buddha,Daddy,2.9166666666666665,1.6666666666666667,45.416666666666664,1.75,give mean be refer be say
+Poirot,Krissi,2.564102564102564,5.128205128205128,48.717948717948715,0.5,be go find work kill say pretend knit turn
+Dolly Wilde,Oscar Wilde,5.5,0.0,54.50000000000001,INF,know be
+Anne,Blackadder,0.0,0.0,54.54545454545454,INF,
+Dorothy Parker,Elizabeth Taylor,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,
+Rik Mayall,Blackadder,0.0,0.0,44.44444444444444,INF,kick shout
+Emma Pagett,Winona Ryder,2.976190476190476,2.976190476190476,22.61904761904762,1.0,look
+Craig Miller,Emma Pagett,1.5,4.0,38.5,0.375,be stand look
+Craig Miller,Winona Ryder,1.5,4.0,38.5,0.375,be stand look
+Emma Pagett,Winona Ryder,1.5,4.0,38.5,0.375,be stand look
+Alan,Dolly Wilde,0.2403846153846154,0.0,43.99038461538461,INF,spend embroider search
+Ali,Wolverhampton,4.464285714285714,5.357142857142857,54.46428571428571,0.8333333333333334,be be call
+Lupin,Jesus,0.0,2.2058823529411766,56.61764705882353,0.0,loll take
+Primal Scream,Pixies,1.0135135135135136,0.6756756756756757,52.36486486486487,1.5,write sound
+Cocteau Twins,Jane,1.1627906976744187,1.1627906976744187,48.837209302325576,1.0,look cover infer sunset
+Lupin,Radio Times,2.9605263157894735,0.3289473684210526,51.973684210526315,9.0,plug lie sleep try find give
+Patti Smith,Jesus,2.564102564102564,2.8846153846153846,56.08974358974359,0.8888888888888888,rage be stand squeeze
+Patti Smith,Primal Scream,2.564102564102564,2.8846153846153846,56.08974358974359,0.8888888888888888,rage be stand squeeze
+Jesus,Primal Scream,2.564102564102564,2.8846153846153846,56.08974358974359,0.8888888888888888,rage be stand squeeze
+BBC,John,1.5625,0.390625,57.421875,4.0,appear look shout be
+BBC,Dad,1.5625,0.390625,57.421875,4.0,appear look shout be
+John,Dad,1.5625,0.390625,57.421875,4.0,appear look shout be
+Liverpool,Nanna,4.716981132075472,0.4716981132075472,51.41509433962265,10.0,be bear be bomb move bomb look follow
+Jim,Rich,0.0,1.644736842105263,48.35526315789473,0.0,refer be have
+Chris,Dad,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,have join fuck say do say
+Chris,Dad,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,have join fuck say do say
+Johanna,Auntie Viv,0.4464285714285714,0.0,49.55357142857143,INF,see become say nod
+Angie,Auntie Soo,1.0416666666666665,0.0,44.79166666666667,INF,bet dye sod say flick
+Auntie Viv,Auntie Lauren,3.1914893617021276,2.925531914893617,47.07446808510639,1.0909090909090908,say be give tell get mime make look
+Auntie Viv,Auntie Lauren,3.1914893617021276,2.925531914893617,47.07446808510639,1.0909090909090908,say be give tell get mime make look
+Auntie Viv,Stephen Fry,3.1914893617021276,2.925531914893617,47.07446808510639,1.0909090909090908,say be give tell get mime make look
+Auntie Lauren,Stephen Fry,3.1914893617021276,2.925531914893617,47.07446808510639,1.0909090909090908,say be give tell get mime make look
+Auntie Lauren,Stephen Fry,3.1914893617021276,2.925531914893617,47.07446808510639,1.0909090909090908,say be give tell get mime make look
+Auntie Soo,Express & Star,1.7500000000000002,0.0,56.25,INF,know say know end write review be end go
+Auntie Soo,Express & Star,1.7500000000000002,0.0,56.25,INF,know say know end write review be end go
+John Kite,Ali,7.5,1.25,51.24999999999999,6.0,love say
+John Kite,Slash,0.0,2.7777777777777777,41.66666666666667,0.0,be do turn
+John Kite,Slash,0.0,2.7777777777777777,41.66666666666667,0.0,be do turn
+Slash,Ali,0.5952380952380952,3.571428571428571,43.452380952380956,0.16666666666666666,go turn say
+Slash,Chris,0.8620689655172413,0.43103448275862066,46.98275862068966,2.0,point be
+Jareth,Jim,2.272727272727273,2.272727272727273,56.060606060606055,1.0,have be have buy be
+Jim,Jareth,1.9230769230769231,0.0,67.3076923076923,INF,look lay bang
+Dadda,Brendan Behan,2.1739130434782608,2.717391304347826,29.891304347826086,0.8,shout be rue
+Daddy,Dadda,1.6025641025641024,0.3205128205128205,57.05128205128205,5.0,jump be explode have start scream find
+Daddy,Dadda,1.6025641025641024,0.3205128205128205,57.05128205128205,5.0,jump be explode have start scream find
+John Lennon,Paul Tillich,0.5319148936170213,1.0638297872340425,55.85106382978723,0.5,be sit play play be be get piss
+Margaret Thatcher,Wolverhampton,3.260869565217391,5.434782608695652,65.21739130434783,0.6,understand vote make do
+Dolly Wilde,Biro,3.0303030303030303,1.1363636363636365,59.46969696969697,2.6666666666666665,pretend suck be realize be hold turn
+Dolly Wilde,Johanna,3.0303030303030303,1.1363636363636365,59.46969696969697,2.6666666666666665,pretend suck be realize be hold turn
+Biro,Johanna,3.0303030303030303,1.1363636363636365,59.46969696969697,2.6666666666666665,pretend suck be realize be hold turn
+Johanna,Dolly Wilde,5.208333333333334,2.083333333333333,59.375,2.5,have manage be
+Johanna,Dolly Wilde,3.353658536585366,2.1341463414634148,67.6829268292683,1.5714285714285714,be worry be go be get
+Dolly Wilde,Johanna,3.353658536585366,2.1341463414634148,67.6829268292683,1.5714285714285714,be worry be go be get
+Johanna,Dolly Wilde,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Dolly Wilde,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Johanna,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Johanna,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Dolly Wilde,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Johanna,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Johanna,Jim,0.1953125,0.0,54.4921875,INF,have sign d&me have pick speak review send write print
+Dolly Wilde,Johanna,6.640625,1.171875,51.5625,5.666666666666667,be go find be go turn remain be type
+Kathleen Hanna,Courtney Love,3.0303030303030303,3.4090909090909087,54.166666666666664,0.8888888888888888,be dress kill pay strip punch abuse
+Courtney Love,Kathleen Hanna,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,punch be let forget punch call
+David,Patti Smith,0.14204545454545456,2.840909090909091,54.97159090909091,0.05,imagine scrawl smell batter copy know try wake
+David,John,0.14204545454545456,2.840909090909091,54.97159090909091,0.05,imagine scrawl smell batter copy know try wake
+Patti Smith,John,0.14204545454545456,2.840909090909091,54.97159090909091,0.05,imagine scrawl smell batter copy know try wake
+Jane,Aztec Camera,0.4166666666666667,0.0,46.25,INF,
+Krissi,George Orwell,3.125,0.0,34.375,INF,do say look do be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Daddy,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Daddy,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Daddy,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Kenny,Annie,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Kenny,1.5625,1.5625,37.5,1.0,do say drip be ask live misunderstand think want be
+Annie,Midlands Weekend,3.0172413793103448,2.586206896551724,39.224137931034484,1.1666666666666667,say be
+Dolly Wilde,Johanna,1.6666666666666667,0.0,71.66666666666667,INF,look be act
+Lupin,Johanna,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,be have change
+Dolly Wilde,Kenny,5.448717948717949,0.0,43.269230769230774,INF,put say amuse have get write seem
+Kenny,Ed Edwards,0.0,9.722222222222223,56.94444444444444,0.0,sigh give
+James,D’arcy Wretzky,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+James,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+James,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+James,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+D’arcy Wretzky,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+D’arcy Wretzky,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+D’arcy Wretzky,Billy Corgan,2.710843373493976,1.8072289156626504,60.54216867469879,1.5,be read find be be start dabble turn be enter trigger be break be live
+Pat,Dad,2.7777777777777777,0.0,52.77777777777778,INF,chirp
+Dad,Krissi,0.0,0.0,54.54545454545454,INF,get be go be
+Krissi,Lupin,1.2195121951219512,3.353658536585366,46.646341463414636,0.36363636363636365,be be dress throw scream
+Kenny,Dolly Wilde,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,seem get think ring say be go interview
+Kenny,John Kite,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,seem get think ring say be go interview
+Dolly Wilde,John Kite,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,seem get think ring say be go interview
+Ed Edwards,John Kite,0.8064516129032258,6.048387096774194,51.20967741935484,0.13333333333333333,be go tell be sign
+Ed Edwards,John Kite,0.8064516129032258,6.048387096774194,51.20967741935484,0.13333333333333333,be go tell be sign
+Emma Pagett,John,1.875,0.0,55.625,INF,get billet put keep say have
+Emma Pagett,John,1.875,0.0,55.625,INF,get billet put keep say have
+Tim Hawley,Emma Pagett,0.0,3.4090909090909087,32.95454545454545,0.0,be cry note
+John,NME,6.578947368421052,6.578947368421052,34.21052631578947,1.0,be please be say
+John,Ed Edwards,6.578947368421052,6.578947368421052,34.21052631578947,1.0,be please be say
+NME,Ed Edwards,6.578947368421052,6.578947368421052,34.21052631578947,1.0,be please be say
+John,Ed Edwards,1.1363636363636365,3.125,50.28409090909091,0.36363636363636365,put be suppose be ring cry shut have turn
+John,Ed Edwards,1.1363636363636365,3.125,50.28409090909091,0.36363636363636365,put be suppose be ring cry shut have turn
+John,Ed Edwards,1.1363636363636365,3.125,50.28409090909091,0.36363636363636365,put be suppose be ring cry shut have turn
+MTV,John,1.4285714285714286,0.0,47.14285714285714,INF,get have be
+MTV,John,1.4285714285714286,0.0,47.14285714285714,INF,get have be
+John,Ed Edwards,0.0,0.0,42.857142857142854,INF,say
+Dolly Wilde,Ed Edwards,2.7777777777777777,6.944444444444445,34.72222222222222,0.4,be say
+Dolly Wilde,John,1.5625,0.78125,47.65625,2.0,say be meet
+John,Coke,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+John,Dolly Wilde,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+Coke,John,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+Coke,Dolly Wilde,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+Coke,John,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+John,Dolly Wilde,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+Dolly Wilde,John,0.0,0.5681818181818182,56.25,0.0,smile say drink thank laugh say do applaud say light
+John,Coke,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+John,Larkin,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+Coke,John,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+Coke,John,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+Coke,Larkin,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+John,Larkin,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+John,Larkin,5.2215189873417724,3.481012658227848,40.664556962025316,1.5,clink beam be start talk stop speak meet do like save be
+Pat,Serge Gainsbourg,4.924242424242424,0.3787878787878788,37.121212121212125,13.0,embolden tell fancy take say adore
+Pat,Serge Gainsbourg,4.924242424242424,0.3787878787878788,37.121212121212125,13.0,embolden tell fancy take say adore
+Ed Edwards,John,0.5952380952380952,3.273809523809524,62.797619047619044,0.18181818181818182,dress try give continue drink look think be
+Ed Edwards,John,0.5952380952380952,3.273809523809524,62.797619047619044,0.18181818181818182,dress try give continue drink look think be
+John,Ed Edwards,0.5952380952380952,3.273809523809524,62.797619047619044,0.18181818181818182,dress try give continue drink look think be
+John,Ed Edwards,0.5952380952380952,3.273809523809524,62.797619047619044,0.18181818181818182,dress try give continue drink look think be
+John Kite,John,0.7142857142857143,0.35714285714285715,36.07142857142857,2.0,press say be
+John,John Kite,0.7352941176470588,0.0,46.32352941176471,INF,be say think
+John,John Kite,3.4722222222222223,1.3888888888888888,47.91666666666667,2.5,start write want talk head
+John,NME,0.49019607843137253,0.0,42.64705882352941,INF,tear sound wear
+Biro,Serge Gainsbourg,2.1341463414634148,1.2195121951219512,52.743902439024396,1.75,scrawl write
+John,Serge Gainsbourg,5.208333333333334,4.166666666666666,53.125,1.25,have copy be sound
+John Kite,Kenny,4.166666666666666,0.5208333333333333,61.979166666666664,8.0,have file help notice have dry
+Kenny,John Kite,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Kenny,Dolly Wilde,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Kenny,John Kite,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Kenny,John Kite,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+John Kite,Dolly Wilde,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Dolly Wilde,John Kite,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Dolly Wilde,John Kite,3.040540540540541,0.8445945945945946,54.22297297297297,3.6,run walk be bill write describe fly end explain be
+Kenny,Ed Edwards,0.5208333333333333,2.083333333333333,30.729166666666668,0.25,have write
+Kenny,John,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Kenny,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+John,John Kite,3.833333333333333,1.6666666666666667,53.166666666666664,2.3,have write describe look sing be be sing jump swim start be have be
+Rob,John Kite,1.0869565217391304,3.260869565217391,69.56521739130434,0.3333333333333333,accompany come write be
+Rob,John Kite,2.1634615384615383,0.4807692307692308,58.894230769230774,4.5,be be sit come honk
+Rob,John Kite,2.1634615384615383,0.4807692307692308,58.894230769230774,4.5,be be sit come honk
+John Kite,Rob,2.1634615384615383,0.4807692307692308,58.894230769230774,4.5,be be sit come honk
+John Kite,Rob,2.1634615384615383,0.4807692307692308,58.894230769230774,4.5,be be sit come honk
+Elizabeth Taylor,George Orwell,1.7500000000000002,0.75,65.5,2.3333333333333335,pull become look have be obscure
+Elizabeth Taylor,John Kite,1.7500000000000002,0.75,65.5,2.3333333333333335,pull become look have be obscure
+George Orwell,John Kite,1.7500000000000002,0.75,65.5,2.3333333333333335,pull become look have be obscure
+Dadda,John Kite,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Dadda,Krissi,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Dadda,John Kite,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Dadda,John Kite,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Dadda,Krissi,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Dadda,John Kite,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+John Kite,Krissi,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Krissi,John Kite,3.515625,2.34375,47.265625,1.5,be leave cry slam be stand
+Johanna,Krissi,1.0416666666666665,0.0,23.958333333333336,INF,be do say
+Johanna,Dadda,3.75,0.0,31.25,INF,do know be go happen say
+Lupin,Krissi,2.1739130434782608,3.260869565217391,59.78260869565217,0.6666666666666666,wear be buy wear
+John Kite,Rich,0.8928571428571428,1.7857142857142856,50.89285714285714,0.5,fall
+Lupin,Best of Simon & Garfunkel,4.25531914893617,2.393617021276596,55.053191489361694,1.7777777777777777,be have have play scream
+Lupin,Dad,4.25531914893617,2.393617021276596,55.053191489361694,1.7777777777777777,be have have play scream
+Best of Simon & Garfunkel,Dad,4.25531914893617,2.393617021276596,55.053191489361694,1.7777777777777777,be have have play scream
+Dad,Johnny Hates Jazz,2.5510204081632653,1.7857142857142856,54.8469387755102,1.4285714285714286,end leave go get piss leave reshuffle rub
+Krissi,John Lennon,1.6025641025641024,0.3205128205128205,59.61538461538461,5.0,take be lay cover
+Dadda,Krissi,2.0,0.0,57.99999999999999,INF,say drive lie
+Lupin,Krissi,2.380952380952381,1.1904761904761905,58.333333333333336,2.0,look have say look
+Krissi,Lupin,0.43103448275862066,1.293103448275862,53.44827586206896,0.3333333333333333,put point have split be
+Lupin,John Kite,0.0,2.2058823529411766,59.55882352941176,0.0,get eat boil
+John Kite,Stephen Fry,0.6756756756756757,0.33783783783783783,63.85135135135135,2.0,keep redo say move live get marry
+Krissi,Dadda,2.840909090909091,0.5681818181818182,46.590909090909086,5.0,be post instruct cast
+Krissi,John Kite,0.0,0.0,59.25925925925925,INF,ask move share have
+Krissi,John Kite,0.0,0.0,59.25925925925925,INF,ask move share have
+Krissi,Lupin,0.0,0.0,59.25925925925925,INF,ask move share have
+Krissi,John Kite,0.0,0.0,59.25925925925925,INF,ask move share have
+John Kite,Lupin,0.0,0.0,59.25925925925925,INF,ask move share have
+John Kite,Lupin,0.0,0.0,59.25925925925925,INF,ask move share have
+Lupin,John Kite,0.0,0.0,59.25925925925925,INF,ask move share have
+Alan,Krissi,0.872093023255814,0.29069767441860467,59.30232558139535,3.0,have say write be arrange construct
+Margaret Thatcher,Lupin,2.941176470588235,0.0,50.0,INF,be be say
+Kenny,Dolly Wilde,1.5625,0.0,54.6875,INF,come ask feel have see
+Dolly Wilde,Kenny,1.1363636363636365,0.0,35.22727272727273,INF,say
+Dolly Wilde,John Kite,3.804347826086957,2.1739130434782608,59.2391304347826,1.75,excite hear remember love resurrect
+Dolly Wilde,John Kite,3.804347826086957,2.1739130434782608,59.2391304347826,1.75,excite hear remember love resurrect
+Dorothy Parker,Miki Berenyi,1.2096774193548387,1.2096774193548387,45.96774193548387,1.0,dye
+Dolly Wilde,Kenny,1.1904761904761905,0.0,41.66666666666667,INF,say look
+Dolly Wilde,Kenny,2.7777777777777777,0.0,50.0,INF,locate throw start say kick close sit
+Dolly Wilde,Kenny,2.7777777777777777,0.0,50.0,INF,locate throw start say kick close sit
+John Kite,Mary Poppins,5.357142857142857,1.7857142857142856,50.0,3.0,watch
+Kenny,Dolly Wilde,4.166666666666666,1.7361111111111112,46.875,2.4,bring say amuse reply thank
+John Kite,Best of Simon & Garfunkel,3.9473684210526314,5.921052631578947,42.76315789473684,0.6666666666666666,compare
+American Music Club,Nick Drake,0.0,1.5625,54.6875,0.0,
+American Music Club,Tim Buckley,0.0,1.5625,54.6875,0.0,
+Nick Drake,Tim Buckley,0.0,1.5625,54.6875,0.0,
+Kenny,Dolly Wilde,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,say get want
+John Kite,Kenny,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,come say
+Wolverhampton,Zee,1.6666666666666667,0.8333333333333334,37.5,2.0,be
+John Kite,Kenny,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,come say look
+Lupin,Ali,0.0,2.0161290322580645,68.95161290322581,0.0,be be wear be sit be sit be
+Coke,Dolly Wilde,0.5952380952380952,0.5952380952380952,36.904761904761905,1.0,have do
+Rob,Dolly Wilde,0.35714285714285715,1.7857142857142856,57.85714285714286,0.2,giggle have double throw
+John Kite,Ed Edwards,0.0,1.5625,60.9375,0.0,have
+John Kite,Lupin,4.545454545454546,2.6515151515151514,62.5,1.7142857142857142,tell tour crease tell play think
+John Kite,Lupin,4.545454545454546,2.6515151515151514,62.5,1.7142857142857142,tell tour crease tell play think
+John,John Kite,1.25,2.5,59.583333333333336,0.5,grind knock do press
+John,John Kite,1.25,2.5,59.583333333333336,0.5,grind knock do press
+John Kite,John,0.8064516129032258,1.2096774193548387,56.048387096774185,0.6666666666666666,leave be pump shout take
+Dolly Wilde,Rich,2.5,0.8333333333333334,43.333333333333336,3.0,be say introduce
+Dolly Wilde,Zee,2.5,0.8333333333333334,43.333333333333336,3.0,be say introduce
+Rich,Zee,2.5,0.8333333333333334,43.333333333333336,3.0,be say introduce
+Rich,Harvard,5.0,2.5,45.83333333333333,2.0,do be be
+Harvard,Rich,5.0,2.5,45.83333333333333,2.0,do be be
+Rich,John,0.7352941176470588,2.2058823529411766,61.76470588235294,0.3333333333333333,have be marry
+John Kite,Zee,4.6875,0.78125,44.53125,6.0,discuss say
+Christian,Jesus,2.976190476190476,0.8928571428571428,62.797619047619044,3.3333333333333335,feel be walk carry have have cheat
+Christian,Jesus,2.976190476190476,0.8928571428571428,62.797619047619044,3.3333333333333335,feel be walk carry have have cheat
+John Kite,Elvis,2.5,0.0,77.5,INF,believe believe
+Eurythmics,John Kite,5.88235294117647,4.411764705882353,48.529411764705884,1.3333333333333333,be track have misquote
+Rich,Eurythmics,3.289473684210526,2.9605263157894735,54.276315789473685,1.1111111111111112,have wince recall describe masturbate watch
+Eurythmics,Rich,3.289473684210526,2.9605263157894735,54.276315789473685,1.1111111111111112,have wince recall describe masturbate watch
+Eurythmics,Krissi,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Eurythmics,Rich,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Eurythmics,Annie,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Krissi,Rich,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Krissi,Annie,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Rich,Annie,2.6785714285714284,2.083333333333333,54.761904761904766,1.2857142857142858,do love do be have masturbate watch
+Krissi,Kenny,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be have be try wake
+Aztec Camera,Violet,1.3888888888888888,4.513888888888888,55.208333333333336,0.3076923076923077,get
+Wolverhampton,Ali,0.6578947368421052,1.3157894736842104,55.92105263157895,0.5,bump
+John Kite,Ali,4.807692307692308,6.730769230769231,34.61538461538461,0.7142857142857143,have go say
+Violet,Prince,3.125,0.8522727272727272,52.84090909090909,3.6666666666666665,do change be be have be intrigue say do
+Violet,Prince,3.125,0.8522727272727272,52.84090909090909,3.6666666666666665,do change be be have be intrigue say do
+Violet,Prince,3.125,0.8522727272727272,52.84090909090909,3.6666666666666665,do change be be have be intrigue say do
+Violet,Prince,3.125,0.8522727272727272,52.84090909090909,3.6666666666666665,do change be be have be intrigue say do
+Sally,Ali,12.5,0.9615384615384616,55.769230769230774,13.0,be look
+Jo,Dolly Wilde,3.125,1.5625,32.8125,2.0,be
+Krissi,Lupin,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,get be watch
+Krissi,Ali,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,get be watch
+Lupin,Ali,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,get be watch
+Gareth,Ali,2.631578947368421,0.0,55.26315789473685,INF,think be say look
+Gareth,Lupin,2.631578947368421,0.0,55.26315789473685,INF,think be say look
+Ali,Lupin,2.631578947368421,0.0,55.26315789473685,INF,think be say look
+Gareth,Krissi,3.3333333333333335,4.166666666666666,45.83333333333333,0.8,get say
+Ali,Dad,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,be work do add want talk
+Dadda,Ali,0.0,0.4629629629629629,47.68518518518518,0.0,sit make
+Bruce Wayne,Batman,3.75,4.166666666666666,58.75,0.9,be be read fill feel mention fancy
+Kenny,Krissi,2.272727272727273,0.0,47.72727272727273,INF,take lie
+Kenny,Rich,5.172413793103448,2.1551724137931036,54.741379310344826,2.4,ask distract make be socialize
+Rich,Dolly Wilde,0.0,0.0,45.45454545454545,INF,make call
+Rich,Johanna,0.625,4.375,50.0,0.14285714285714285,say be be say
+Rich,Johanna,0.625,4.375,50.0,0.14285714285714285,say be be say
+Jason,Krissi,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,be admit fancy tell do agree grow marry
+Krissi,Jason,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,be admit fancy tell do agree grow marry
+Krissi,Jason,9.090909090909092,2.272727272727273,34.090909090909086,4.0,be wrestle
+Krissi,Jason,9.090909090909092,2.272727272727273,34.090909090909086,4.0,be wrestle
+Peter Venkmann,Dana Barrett,1.3888888888888888,0.0,31.944444444444443,INF,say
+Kriss,Dana Barrett,3.214285714285714,3.214285714285714,45.0,1.0,tell lose ask say
+Kriss,Peter Venkmann,3.214285714285714,3.214285714285714,45.0,1.0,tell lose ask say
+Kriss,Peter Venkmann,3.214285714285714,3.214285714285714,45.0,1.0,tell lose ask say
+Dana Barrett,Peter Venkmann,3.214285714285714,3.214285714285714,45.0,1.0,tell lose ask say
+Dana Barrett,Peter Venkmann,3.214285714285714,3.214285714285714,45.0,1.0,tell lose ask say
+John Kite,Krissi,5.208333333333334,4.427083333333334,52.864583333333336,1.1764705882352942,be tell lose pull traumatize be write have happen
+John Kite,John,5.208333333333334,4.427083333333334,52.864583333333336,1.1764705882352942,be tell lose pull traumatize be write have happen
+Krissi,John Kite,5.208333333333334,4.427083333333334,52.864583333333336,1.1764705882352942,be tell lose pull traumatize be write have happen
+Krissi,John,5.208333333333334,4.427083333333334,52.864583333333336,1.1764705882352942,be tell lose pull traumatize be write have happen
+John Kite,John,5.208333333333334,4.427083333333334,52.864583333333336,1.1764705882352942,be tell lose pull traumatize be write have happen
+John,John Kite,4.444444444444445,1.3888888888888888,60.83333333333333,3.2,be go set have kiss have start finish spark have go find
+John,John Kite,4.444444444444445,1.3888888888888888,60.83333333333333,3.2,be go set have kiss have start finish spark have go find
+Rich,Lou Reed,9.615384615384617,4.807692307692308,39.42307692307692,2.0,be find
+Rich,Madonna,2.4390243902439024,0.0,58.536585365853654,INF,have have make have try use justify
+Al,Express & Star,4.30327868852459,2.459016393442623,58.81147540983606,1.75,need be offer go be have kill appear have occur eat be be
+Al,Express & Star,4.30327868852459,2.459016393442623,58.81147540983606,1.75,need be offer go be have kill appear have occur eat be be
+Rich,Cocteau Twins,0.8928571428571428,0.0,52.67857142857143,INF,decide get do read
+Primal Scream,Adrian Mole,0.2358490566037736,0.9433962264150944,57.311320754716974,0.25,be listen read have find cry
+Primal Scream,Adrian Mole,0.2358490566037736,0.9433962264150944,57.311320754716974,0.25,be listen read have find cry
+Al,Withnail,1.3513513513513513,1.0135135135135136,51.689189189189186,1.3333333333333333,find drag angle watch
+Al,Withnail,1.3513513513513513,1.0135135135135136,51.689189189189186,1.3333333333333333,find drag angle watch
+Withnail,Al,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be
+Serge Gainsbourg,Rob,3.5416666666666665,2.7083333333333335,52.083333333333336,1.3076923076923077,share be hear be look say know be think be
+Serge Gainsbourg,Rob,3.5416666666666665,2.7083333333333335,52.083333333333336,1.3076923076923077,share be hear be look say know be think be
+Rob,Kenny,4.824561403508771,2.4122807017543857,31.359649122807014,2.0,be be be assemble be be be
+Rob,Zee,0.0,2.631578947368421,50.0,0.0,go be do
+Rob,NME,0.0,2.631578947368421,50.0,0.0,go be do
+Zee,NME,0.0,2.631578947368421,50.0,0.0,go be do
+Zee,Rob,0.9259259259259258,0.0,50.92592592592593,INF,have start call thank sell
+Zee,Rob,0.9259259259259258,0.0,50.92592592592593,INF,have start call thank sell
+Zee,Rob,0.9259259259259258,0.0,50.92592592592593,INF,have start call thank sell
+Dadda,Rob,3.977272727272727,5.113636363636364,27.27272727272727,0.7777777777777778,be sing make
+Rob,Rich,1.1627906976744187,3.1976744186046515,51.45348837209303,0.36363636363636365,be be be come take put put
+Rob,Rich,1.1627906976744187,3.1976744186046515,51.45348837209303,0.36363636363636365,be be be come take put put
+Rob,Rich,1.1627906976744187,3.1976744186046515,51.45348837209303,0.36363636363636365,be be be come take put put
+Primal Scream,Kenny,1.3392857142857142,1.3392857142857142,58.03571428571429,1.0,have learn talk be do go mosh come have ask be cover
+Kenny,Dolly Wilde,0.7653061224489796,2.806122448979592,47.44897959183674,0.2727272727272727,have refuse send have blag review say fear have tell be
+Brixton Academy,Dolly Wilde,1.8229166666666667,0.26041666666666663,45.83333333333333,7.0,be enjoy come say be be
+Rich,Rob,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rich,Sinead O’Connor,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rich,Rob,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rich,Sinead O’Connor,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rob,Sinead O’Connor,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rob,Rich,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rob,Rich,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Sinead O’Connor,Rich,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Sinead O’Connor,Rich,2.5602409638554215,1.355421686746988,50.30120481927711,1.8888888888888888,be be use qualify say be lecture have grenade impact
+Rob,Rich,0.9615384615384616,2.403846153846154,50.480769230769226,0.4,have stand make do be
+Rob,Sinead O’Connor,0.9615384615384616,2.403846153846154,50.480769230769226,0.4,have stand make do be
+Rich,Sinead O’Connor,0.9615384615384616,2.403846153846154,50.480769230769226,0.4,have stand make do be
+Rich,Lupin,4.761904761904762,1.1904761904761905,46.42857142857143,4.0,do be have
+Morrissey,Rich,2.7122641509433962,3.1839622641509435,54.48113207547169,0.8518518518518519,end drink have lie talk feel be have stick be write be have guess be answer
+Morrissey,Rich,2.7122641509433962,3.1839622641509435,54.48113207547169,0.8518518518518519,end drink have lie talk feel be have stick be write be have guess be answer
+Wolverhampton,Rich,2.8017241379310347,0.646551724137931,51.724137931034484,4.333333333333333,try confuse be call invite do add do worry be go
+Wolverhampton,Rich,2.8017241379310347,0.646551724137931,51.724137931034484,4.333333333333333,try confuse be call invite do add do worry be go
+Primal Scream,Slash,0.8928571428571428,0.0,34.82142857142857,INF,be slash
+Johanna,Rich,0.0,0.0,23.076923076923077,INF,be be
+Krissi,Jack Daniel,3.125,6.25,35.06944444444444,0.5,be be treat be try talk
+Krissi,Annie,3.125,6.25,35.06944444444444,0.5,be be treat be try talk
+Jack Daniel,Annie,3.125,6.25,35.06944444444444,0.5,be be treat be try talk
+Kenny,Dadda,0.78125,0.0,30.46875,INF,say nod leave
+Rich,Dad,2.864583333333333,0.26041666666666663,48.95833333333333,11.0,be stand greet go
+Rich,Doc Martens,2.1929824561403506,3.070175438596491,52.63157894736842,0.7142857142857143,make feel show feel have splatter dry
+Rich,Express & Star,2.840909090909091,0.0,60.79545454545454,INF,have paint make look
+Rich,Express & Star,2.840909090909091,0.0,60.79545454545454,INF,have paint make look
+Rich,Wolverhampton,1.0,2.0,56.99999999999999,0.5,give have bring
+Rich,Wolverhampton,1.0,2.0,56.99999999999999,0.5,give have bring
+Harvard,Pixies,5.147058823529411,3.6764705882352944,44.11764705882353,1.4,bunk go see
+Rich,Dad,5.128205128205128,2.564102564102564,56.41025641025641,2.0,be be pass say light bring
+Dolly Wilde,Rich,2.631578947368421,1.9736842105263157,48.026315789473685,1.3333333333333333,be say
+Dolly Wilde,Johanna,0.0,8.59375,53.90625,0.0,
+Dolly Wilde,Johanna,0.0,8.59375,53.90625,0.0,
+Christian,Patti Smith,3.345070422535211,2.112676056338028,45.24647887323944,1.5833333333333333,be take interview ask get reply have have have have reply pat
+Christian,Patti Smith,3.345070422535211,2.112676056338028,45.24647887323944,1.5833333333333333,be take interview ask get reply have have have have reply pat
+Emilia,Rich,2.5,2.0,51.5,1.25,be sit have invalide smash
+Emilia,Rich,2.5,2.0,51.5,1.25,be sit have invalide smash
+Rich,Emilia,2.5,2.0,51.5,1.25,be sit have invalide smash
+Emilia,Rich,2.5,2.0,51.5,1.25,be sit have invalide smash
+Emilia,Rich,5.172413793103448,3.0172413793103448,46.98275862068966,1.7142857142857142,lean tell know use go
+Emilia,Rich,5.172413793103448,3.0172413793103448,46.98275862068966,1.7142857142857142,lean tell know use go
+Emilia,Rich,5.172413793103448,3.0172413793103448,46.98275862068966,1.7142857142857142,lean tell know use go
+Emilia,Rich,3.4090909090909087,2.272727272727273,53.40909090909091,1.5,dump be cut fuck
+Emilia,Rich,3.4090909090909087,2.272727272727273,53.40909090909091,1.5,dump be cut fuck
+Rich,Emilia,4.0,2.0,66.0,2.0,smoke reach be say
+Rich,Emilia,1.25,0.0,58.75,INF,take pull think
+Rich,Emilia,1.25,0.0,58.75,INF,take pull think
+Rich,Emilia,1.25,0.0,58.75,INF,take pull think
+Emilia,Rich,1.25,0.0,58.75,INF,take pull think
+Emilia,Rich,1.25,0.0,58.75,INF,take pull think
+Emilia,Rich,1.25,0.0,58.75,INF,take pull think
+Rich,Emilia,7.894736842105263,0.0,44.73684210526316,INF,think be be
+Emilia,Rich,3.6764705882352944,0.0,66.91176470588235,INF,be join
+Rich,Emilia,3.6764705882352944,0.0,66.91176470588235,INF,be join
+Rich,Emilia,2.604166666666667,1.5625,50.0,1.6666666666666667,say pull stare blast
+Rich,Christian,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,be talk
+Rich,Frances,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,be talk
+Christian,Frances,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,be talk
+Rich,Christian,0.0,2.941176470588235,44.11764705882353,0.0,be appear be mockfight
+Rich,Emilia,2.941176470588235,0.0,50.0,INF,see grind
+Emilia,Rich,2.941176470588235,0.0,50.0,INF,see grind
+Rich,Emilia,0.0,0.0,50.0,INF,turn face
+Emilia,Rich,5.0,0.8333333333333334,60.83333333333333,6.0,be piss have
+Emilia,Rich,5.0,0.8333333333333334,60.83333333333333,6.0,be piss have
+Rich,Emilia,0.6578947368421052,0.0,57.23684210526315,INF,come leave look confuse
+Rich,Emilia,7.5,0.0,72.5,INF,be look
+Rich,Express & Star,0.9868421052631579,0.0,67.43421052631578,INF,put make be grind pass
+Rich,Express & Star,0.9868421052631579,0.0,67.43421052631578,INF,put make be grind pass
+Rich,Express & Star,0.9868421052631579,0.0,67.43421052631578,INF,put make be grind pass
+James,Miki Berenyi,0.0,0.0,31.25,INF,
+John Kite,Rich,2.604166666666667,1.0416666666666665,42.1875,2.5,tell say end
+Rich,John Kite,2.604166666666667,1.0416666666666665,42.1875,2.5,tell say end
+John Kite,Orion,0.0,3.4090909090909087,55.68181818181818,0.0,yelp
+Rich,John Kite,2.2058823529411766,6.61764705882353,44.11764705882353,0.3333333333333333,think be say
+Alan,John Kite,0.43103448275862066,0.43103448275862066,50.86206896551724,1.0,be say point park
+John,John Kite,2.4725274725274726,1.6483516483516485,53.02197802197802,1.5,paddle sit tell look sit look describe visit be bang say talk
+John,John Kite,2.4725274725274726,1.6483516483516485,53.02197802197802,1.5,paddle sit tell look sit look describe visit be bang say talk
+John,John Kite,2.4725274725274726,1.6483516483516485,53.02197802197802,1.5,paddle sit tell look sit look describe visit be bang say talk
+John,John Kite,2.4725274725274726,1.6483516483516485,53.02197802197802,1.5,paddle sit tell look sit look describe visit be bang say talk
+John Kite,Withnail,3.90625,1.5625,47.65625,2.5,drag bubble burst stumble be make be make
+John,John Kite,2.083333333333333,0.0,47.91666666666667,INF,adjust say
+Kenny,Dolly Wilde,2.083333333333333,2.604166666666667,53.645833333333336,0.8,note have give go
+John,Lou Reed,3.0172413793103448,3.4482758620689653,38.362068965517246,0.875,be like
+Jesus,Johanna,0.0,0.0,27.27272727272727,INF,have do
+Krissi,Johanna,2.631578947368421,1.3157894736842104,32.89473684210527,2.0,say
+Rich,John Kite,3.2407407407407405,4.166666666666666,29.629629629629626,0.7777777777777778,start tell be
+Krissi,John Kite,0.4464285714285714,0.0,60.26785714285714,INF,kick curl krissi put
+Krissi,John Kite,0.4464285714285714,0.0,60.26785714285714,INF,kick curl krissi put
+John Kite,Krissi,5.263157894736842,3.618421052631579,56.9078947368421,1.4545454545454546,carry tell do feel be stay
+John Kite,Krissi,5.263157894736842,3.618421052631579,56.9078947368421,1.4545454545454546,carry tell do feel be stay
+Johanna,John Kite,1.9230769230769231,0.0,44.230769230769226,INF,say stare
+Amanda,Dennis,1.3888888888888888,0.0,20.833333333333336,INF,
+John Kite,Krissi,0.2777777777777778,0.2777777777777778,50.55555555555556,1.0,say look open spool wake press
+John Kite,Krissi,0.2777777777777778,0.2777777777777778,50.55555555555556,1.0,say look open spool wake press
+John Kite,Krissi,0.2777777777777778,0.2777777777777778,50.55555555555556,1.0,say look open spool wake press
+Krissi,John Kite,0.2777777777777778,0.2777777777777778,50.55555555555556,1.0,say look open spool wake press
+Johanna,Krissi,1.0416666666666665,1.0416666666666665,31.25,1.0,do be say
+Krissi,John Kite,0.0,0.0,45.45454545454545,INF,put
+Krissi,NWA,2.1551724137931036,1.7241379310344827,53.01724137931034,1.25,attend think be be learn borrow learn see quiz
+Anne,Courtney Love,1.488095238095238,0.8928571428571428,53.57142857142857,1.6666666666666667,watch sit try guess be watch walk hold wail wail gun need get
+Anne,Dorothy Parker,1.488095238095238,0.8928571428571428,53.57142857142857,1.6666666666666667,watch sit try guess be watch walk hold wail wail gun need get
+Anne,Courtney Love,1.488095238095238,0.8928571428571428,53.57142857142857,1.6666666666666667,watch sit try guess be watch walk hold wail wail gun need get
+Anne,Dorothy Parker,1.488095238095238,0.8928571428571428,53.57142857142857,1.6666666666666667,watch sit try guess be watch walk hold wail wail gun need get
+Courtney Love,Dorothy Parker,1.488095238095238,0.8928571428571428,53.57142857142857,1.6666666666666667,watch sit try guess be watch walk hold wail wail gun need get
+Robbie,Jason,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,say
+David Niven,Jack Daniel,0.0,0.0,50.0,INF,
+Johanna,David Niven,0.390625,2.34375,56.640625,0.16666666666666666,be say watch wriggle go play roast
+Lupin,Chrissie Hynde,2.34375,0.0,47.65625,INF,have keep pick make keep crawl
+Lupin,Chrissie Hynde,2.34375,0.0,47.65625,INF,have keep pick make keep crawl
+Lupin,Chrissie Hynde,2.34375,0.0,47.65625,INF,have keep pick make keep crawl
+Jack Daniel,David Niven,0.78125,0.0,61.71875,INF,put play go join
+David Niven,David,5.921052631578947,1.3157894736842104,50.6578947368421,4.5,be start use say
+David Niven,David,5.921052631578947,1.3157894736842104,50.6578947368421,4.5,be start use say
+Krissi,Ali,4.5,1.5,62.0,3.0,be sit look see
+Krissi,Ali,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,be go rave say gesture approach
+Ali,Krissi,0.0,2.976190476190476,54.166666666666664,0.0,go get lean go stand
+Krissi,Ali,0.0,2.976190476190476,54.166666666666664,0.0,go get lean go stand
+David Niven,David,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David Niven,David,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David Niven,David,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David Niven,Krissi,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David,Krissi,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David,Krissi,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+David,Krissi,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,look see be do be try push be reassure be occupy follow
+Krissi,David,0.0,0.0,54.54545454545454,INF,take
+Krissi,Johan,3.3333333333333335,0.0,30.0,INF,be manage
+Marty McFly,Krissi,0.0,0.0,12.5,INF,be
+Krissi,Marty McFly,4.761904761904762,1.7857142857142856,31.547619047619047,2.6666666666666665,be be say look
+John,John Kite,3.125,1.875,57.49999999999999,1.6666666666666667,know be be be be say slur
+Lupin,John Kite,1.3392857142857142,0.8928571428571428,58.48214285714286,1.5,see shift climb shut
+Chrissie Hynde,Elizabeth Taylor,3.3653846153846154,0.9615384615384616,43.75,3.5,get sing appear be overcome say be be fate have say
+Buddha,Johanna,0.7936507936507936,1.3888888888888888,47.023809523809526,0.5714285714285714,show be press rest take like
+Buddha,John Kite,0.7936507936507936,1.3888888888888888,47.023809523809526,0.5714285714285714,show be press rest take like
+Johanna,John Kite,0.7936507936507936,1.3888888888888888,47.023809523809526,0.5714285714285714,show be press rest take like
+Dadda,Johanna,0.0,0.0,28.57142857142857,INF,have pay
+Dadda,Buddha,0.43103448275862066,0.0,47.8448275862069,INF,have pay assure come
+John Kite,Dadda,2.8846153846153846,0.0,47.11538461538461,INF,owe continue start roll

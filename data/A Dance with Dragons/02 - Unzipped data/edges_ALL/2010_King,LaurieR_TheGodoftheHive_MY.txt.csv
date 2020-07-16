@@ -1,0 +1,1811 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Estelle,Sherlock Holmes,1.7045454545454544,0.0,39.20454545454545,INF,be
+Estelle,Damian,0.7142857142857143,1.4285714285714286,37.857142857142854,0.5,take have kill
+Estelle,Brothers,0.7142857142857143,1.4285714285714286,37.857142857142854,0.5,take have kill
+Damian,Brothers,0.7142857142857143,1.4285714285714286,37.857142857142854,0.5,take have kill
+Holmes,Whitehall,0.5208333333333333,0.26041666666666663,55.46875,2.0,have stroll settle be
+Holmes,Sosa,0.5208333333333333,0.26041666666666663,55.46875,2.0,have stroll settle be
+Whitehall,Holmes,0.5208333333333333,0.26041666666666663,55.46875,2.0,have stroll settle be
+Whitehall,Sosa,0.5208333333333333,0.26041666666666663,55.46875,2.0,have stroll settle be
+Holmes,Sosa,0.5208333333333333,0.26041666666666663,55.46875,2.0,have stroll settle be
+Victoria,Edward,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Victoria,Edward,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Victoria,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Victoria,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Victoria,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Edward,Holmes,1.3020833333333335,0.78125,58.333333333333336,1.6666666666666667,come go give be slash expand be fight flourish die walk settle
+Holmes,Secret Intelligence Service,4.0,2.0,50.0,2.0,inhabit belong
+Holmes,Secret Intelligence Service,4.0,2.0,50.0,2.0,inhabit belong
+Holmes,Secret Intelligence Service,4.0,2.0,50.0,2.0,inhabit belong
+Secret Intelligence Service,Holmes,4.0,2.0,50.0,2.0,inhabit belong
+Holmes,Secret Intelligence Service,4.0,2.0,50.0,2.0,inhabit belong
+Holmes,Secret Intelligence Service,4.0,2.0,50.0,2.0,inhabit belong
+Holmes,Lestrade,3.5256410256410255,7.051282051282051,53.52564102564102,0.5,be picture rain come make smile disprove call
+Lestrade,Holmes,3.5256410256410255,7.051282051282051,53.52564102564102,0.5,be picture rain come make smile disprove call
+RAF,Javitz,1.644736842105263,0.3289473684210526,69.07894736842105,5.0,be name have bring leave
+RAF,Orkney,1.644736842105263,0.3289473684210526,69.07894736842105,5.0,be name have bring leave
+Javitz,Orkney,1.644736842105263,0.3289473684210526,69.07894736842105,5.0,be name have bring leave
+Damian,Orkney,2.34375,2.864583333333333,46.875,0.8181818181818182,be rattle be bind toss fret be make hiss
+Damian,Orkney,2.34375,2.864583333333333,46.875,0.8181818181818182,be rattle be bind toss fret be make hiss
+Orkney,Damian,2.34375,2.864583333333333,46.875,0.8181818181818182,be rattle be bind toss fret be make hiss
+Sherlock Holmes,Holmes,0.0,0.0,57.692307692307686,INF,rearrange toss climb
+Sherlock Holmes,Holmes,0.0,0.0,50.0,INF,raise
+Strathy,Thurso,3.869047619047619,0.8928571428571428,57.14285714285714,4.333333333333333,come have aim do have
+Thurso,Russell,1.293103448275862,2.1551724137931036,62.06896551724138,0.6,be have have pass hire sail have escape have spread
+Russell,Thurso,3.571428571428571,10.267857142857142,43.30357142857143,0.34782608695652173,hope instruct avoid expect be
+Russell,Thurso,3.571428571428571,10.267857142857142,43.30357142857143,0.34782608695652173,hope instruct avoid expect be
+Thurso,Russell,3.571428571428571,10.267857142857142,43.30357142857143,0.34782608695652173,hope instruct avoid expect be
+Sherlock Holmes,Holmes,1.4423076923076923,1.4423076923076923,58.65384615384615,1.0,descend make take be sleep
+Sherlock Holmes,Damian,6.752777777777778,5.052777777777777,60.416666666666664,1.3364485981308412,have be have risk be require
+Watson,Sherlock Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Watson,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Watson,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Watson,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Sherlock Holmes,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Sherlock Holmes,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Sherlock Holmes,Holmes,3.90625,4.296875,57.421875,0.9090909090909091,be permit take consider have see have meet
+Watson,Sherlock Holmes,1.7857142857142856,3.125,66.51785714285714,0.5714285714285714,be suspect be
+Watson,Sherlock Holmes,1.7857142857142856,3.125,66.51785714285714,0.5714285714285714,be suspect be
+Sherlock Holmes,Holmes,2.564102564102564,0.9615384615384616,50.32051282051282,2.6666666666666665,know be remove hold be struggle rise breathe flee
+Sherlock Holmes,Damian,2.564102564102564,0.9615384615384616,50.32051282051282,2.6666666666666665,know be remove hold be struggle rise breathe flee
+Holmes,Damian,2.564102564102564,0.9615384615384616,50.32051282051282,2.6666666666666665,know be remove hold be struggle rise breathe flee
+Wick,Damian,0.8620689655172413,6.896551724137931,40.51724137931034,0.125,do try control
+Wick,Damian,0.8620689655172413,6.896551724137931,40.51724137931034,0.125,do try control
+Brothers,James Harmony Hayden,1.4423076923076923,0.4807692307692308,67.3076923076923,3.0,have claim lay
+Sherlock Holmes,Holmes,3.90625,3.90625,48.4375,1.0,have be have rip kick
+Sherlock Holmes,Damian,0.0,0.0,55.55555555555556,INF,pick pull
+Sherlock Holmes,Damian,0.0,0.0,55.55555555555556,INF,pick pull
+Holmes,Scots,1.25,3.125,60.62499999999999,0.4,have take
+Sherlock Holmes,Holmes,6.521739130434782,2.717391304347826,55.97826086956522,2.4,hope be be
+Sherlock Holmes,Damian,0.0,0.0,55.55555555555556,INF,pull feel come
+Damian,Sherlock Holmes,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,be impale lay
+Sherlock Holmes,Damian,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,be impale lay
+Sherlock Holmes,Holmes,3.125,3.75,58.12500000000001,0.8333333333333334,cover preceed keep
+Sherlock Holmes,Holmes,1.9736842105263157,2.302631578947368,48.35526315789473,0.8571428571428571,tie tug set walk
+Sherlock Holmes,Holmes,1.9736842105263157,2.302631578947368,48.35526315789473,0.8571428571428571,tie tug set walk
+Holmes,Sherlock Holmes,0.5208333333333333,1.0416666666666665,56.770833333333336,0.5,grin give be open realise
+Sherlock Holmes,Scots,2.34375,0.0,53.90625,INF,think allow leave
+Sherlock Holmes,Holmes,2.34375,0.0,53.90625,INF,think allow leave
+Scots,Holmes,2.34375,0.0,53.90625,INF,think allow leave
+Holmes,Gordon,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,say be be reach help
+Sherlock Holmes,Dr Henning,3.4722222222222223,0.6944444444444444,40.27777777777778,5.0,say speak be
+Brothers,Orkney,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Brothers,MacAuliffe,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Brothers,Gunderson,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Orkney,MacAuliffe,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Orkney,Brothers,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Orkney,Gunderson,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+MacAuliffe,Brothers,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+MacAuliffe,Gunderson,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+Brothers,Gunderson,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,seat smile have bring permit have
+MacAuliffe,Gunderson,3.0,1.5,59.5,2.0,have bleat be
+Yolanda,Gunderson,1.1029411764705883,0.0,51.83823529411765,INF,be be have think be
+Yolanda,Gunderson,1.1029411764705883,0.0,51.83823529411765,INF,be be have think be
+Yolanda,Gunderson,1.1029411764705883,0.0,51.83823529411765,INF,be be have think be
+Brothers,Gunderson,0.0,5.113636363636364,58.52272727272727,0.0,shift wince grab
+Holmes,Sherlock Holmes,2.2435897435897436,3.205128205128205,63.78205128205128,0.7,think have catch take reclaim
+Sherlock Holmes,Holmes,2.2435897435897436,3.205128205128205,63.78205128205128,0.7,think have catch take reclaim
+Holmes,Sherlock Holmes,3.4482758620689653,3.0172413793103448,45.258620689655174,1.1428571428571428,be look give have know
+Sherlock Holmes,Holmes,3.4482758620689653,3.0172413793103448,45.258620689655174,1.1428571428571428,be look give have know
+Brothers,Orkney,3.2327586206896552,4.094827586206897,54.741379310344826,0.7894736842105263,have be achieve overlook arm fail manage get wound
+Brothers,Orkney,3.2327586206896552,4.094827586206897,54.741379310344826,0.7894736842105263,have be achieve overlook arm fail manage get wound
+Orkney,Brothers,3.2327586206896552,4.094827586206897,54.741379310344826,0.7894736842105263,have be achieve overlook arm fail manage get wound
+Estelle,Javitz,0.0,0.0,53.84615384615385,INF,be shut peer
+Estelle,Javitz,0.0,0.0,25.0,INF,ask
+Javitz,Estelle,0.7142857142857143,2.857142857142857,42.142857142857146,0.25,shake warn ask bet like
+Thurso,Brothers,1.9736842105263157,3.9473684210526314,57.23684210526315,0.5,carry get
+Javitz,Estelle,1.7307692307692308,3.076923076923077,58.269230769230774,0.5625,land take slip be think see get call mind
+Javitz,Mary Russell,1.7307692307692308,3.076923076923077,58.269230769230774,0.5625,land take slip be think see get call mind
+Javitz,Estelle,1.7307692307692308,3.076923076923077,58.269230769230774,0.5625,land take slip be think see get call mind
+Javitz,Mary Russell,1.7307692307692308,3.076923076923077,58.269230769230774,0.5625,land take slip be think see get call mind
+Estelle,Mary Russell,1.7307692307692308,3.076923076923077,58.269230769230774,0.5625,land take slip be think see get call mind
+Estelle,Mrs Ross,2.9605263157894735,1.3157894736842104,53.61842105263158,2.25,wipe suggest have overlook lead
+Estelle,Mrs Ross,2.9605263157894735,1.3157894736842104,53.61842105263158,2.25,wipe suggest have overlook lead
+Javitz,Estelle,0.5208333333333333,0.0,57.8125,INF,pass climb let
+Estelle,Javitz,0.5208333333333333,0.0,57.8125,INF,pass climb let
+Estelle,Javitz,0.5208333333333333,0.0,57.8125,INF,pass climb let
+Javitz,Mrs Ross,0.847457627118644,1.9067796610169492,68.4322033898305,0.4444444444444444,grow prepare buzz glimpse be be be stand crane
+Javitz,Mrs Ross,0.847457627118644,1.9067796610169492,68.4322033898305,0.4444444444444444,grow prepare buzz glimpse be be be stand crane
+Thurso,Lestrade,1.0,0.0,55.00000000000001,INF,approach have leave
+Javitz,Brothers,4.166666666666666,0.5555555555555556,44.166666666666664,7.5,creep be turn return see be do
+Estelle,Brothers,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,have promise watch remove offer
+Estelle,Brothers,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,have promise watch remove offer
+Brothers,Orkney,4.427083333333334,3.3854166666666665,58.854166666666664,1.3076923076923077,have get be place have be
+Brothers,Estelle,2.083333333333333,0.0,53.47222222222222,INF,have be want find forge
+Watson,Dr Henning,3.571428571428571,1.1904761904761905,47.61904761904761,3.0,come think be have turn
+Watson,Dr Henning,3.571428571428571,1.1904761904761905,47.61904761904761,3.0,come think be have turn
+Sherlock Holmes,Holmes,5.0,0.0,55.00000000000001,INF,run stare
+Sherlock Holmes,Holmes,5.0,0.0,55.00000000000001,INF,run stare
+Sherlock Holmes,Holmes,5.0,0.0,55.00000000000001,INF,run stare
+Holmes,Gordon,0.0,0.0,57.14285714285714,INF,climb have
+Sherlock Holmes,Gordon,4.375,0.0,65.625,INF,help adjust linger settle
+Brothers,Russell,0.625,6.875000000000001,57.49999999999999,0.09090909090909091,be be be
+Russell,Sherlock Holmes,4.326923076923077,2.8846153846153846,54.32692307692307,1.5,be watch ease dry clot find
+Russell,Holmes,4.326923076923077,2.8846153846153846,54.32692307692307,1.5,be watch ease dry clot find
+Sherlock Holmes,Holmes,4.326923076923077,2.8846153846153846,54.32692307692307,1.5,be watch ease dry clot find
+Russell,Damian,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,march lift catch go
+Russell,Sherlock Holmes,0.0,0.0,50.0,INF,sit speak
+Damian,Brothers,1.4285714285714286,2.857142857142857,61.42857142857143,0.5,have hit have reach be lie
+Sherlock Holmes,Dr Henning,4.166666666666666,1.0416666666666665,36.45833333333333,4.0,be tell
+Dr Henning,Orkney,2.7777777777777777,0.3472222222222222,57.986111111111114,8.0,look lay hold have be leave
+Dr Henning,Orkney,2.7777777777777777,0.3472222222222222,57.986111111111114,8.0,look lay hold have be leave
+Dr Henning,Damian,6.25,3.125,40.625,2.0,go look
+Dr Henning,Sherlock Holmes,6.25,3.125,40.625,2.0,go look
+Dr Henning,Damian,6.25,3.125,40.625,2.0,go look
+Dr Henning,Sherlock Holmes,6.25,3.125,40.625,2.0,go look
+Damian,Sherlock Holmes,6.25,3.125,40.625,2.0,go look
+Holmes,Dr Henning,6.25,0.0,33.75,INF,assure
+Holmes,Dr Henning,2.6785714285714284,7.142857142857142,54.46428571428571,0.375,know have spend
+Dr Henning,Sherlock Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Dr Henning,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Dr Henning,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Dr Henning,Sherlock Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Dr Henning,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Dr Henning,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Sherlock Holmes,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Sherlock Holmes,Holmes,1.5625,1.171875,50.390625,1.3333333333333333,scrub leave warm climb arrange
+Holmes,Damian,0.0,1.2096774193548387,56.85483870967742,0.0,nod dry take suspend
+Holmes,Damian,0.0,1.2096774193548387,56.85483870967742,0.0,nod dry take suspend
+Damian,Holmes,1.1363636363636365,0.7575757575757576,64.77272727272727,1.5,be make be ease lock arch
+Damian,Sherlock Holmes,1.1363636363636365,0.7575757575757576,64.77272727272727,1.5,be make be ease lock arch
+Holmes,Sherlock Holmes,1.1363636363636365,0.7575757575757576,64.77272727272727,1.5,be make be ease lock arch
+Holmes,Damian,1.293103448275862,0.0,60.775862068965516,INF,close be wrap
+Damian,Holmes,10.0,5.0,45.0,2.0,meet
+Marcus Gunderson,Gunderson,4.72972972972973,1.0135135135135136,48.310810810810814,4.666666666666667,have question have be be
+Marcus Gunderson,Gunderson,4.72972972972973,1.0135135135135136,48.310810810810814,4.666666666666667,have question have be be
+Estelle,Javitz,5.46875,1.5625,36.71875,3.5,stir go come
+Javitz,Estelle,5.46875,1.5625,36.71875,3.5,stir go come
+Lestrade,Sherlock Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Sherlock Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Sherlock Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Lestrade,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Sherlock Holmes,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Sherlock Holmes,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Sherlock Holmes,Holmes,4.0,5.25,50.74999999999999,0.7619047619047619,be come post begin wonder have be
+Holmes,Sussex,3.6764705882352944,2.696078431372549,50.49019607843137,1.3636363636363635,grant appear be interview have leave have refuse believe have do
+Holmes,Sussex,3.6764705882352944,2.696078431372549,50.49019607843137,1.3636363636363635,grant appear be interview have leave have refuse believe have do
+Damian,Irene Adler,3.225806451612903,2.0161290322580645,49.596774193548384,1.6,be have be relate have be show
+Damian,Sherlock Holmes,0.4629629629629629,0.9259259259259258,54.166666666666664,0.5,be do have take
+Damian,Holmes,0.4629629629629629,0.9259259259259258,54.166666666666664,0.5,be do have take
+Sherlock Holmes,Holmes,0.4629629629629629,0.9259259259259258,54.166666666666664,0.5,be do have take
+Lestrade,Sherlock Holmes,3.4090909090909087,4.545454545454546,55.68181818181818,0.75,have take urge agree be let know tolerate
+Lestrade,Holmes,3.4090909090909087,4.545454545454546,55.68181818181818,0.75,have take urge agree be let know tolerate
+Sherlock Holmes,Holmes,3.4090909090909087,4.545454545454546,55.68181818181818,0.75,have take urge agree be let know tolerate
+Lestrade,Sherlock Holmes,3.75,2.25,50.0,1.6666666666666667,have become telephone say let have be miss be go do
+Holmes,Whitehall,1.1904761904761905,2.976190476190476,57.738095238095234,0.4,be telephone keep
+Holmes,Whitehall,1.1904761904761905,2.976190476190476,57.738095238095234,0.4,be telephone keep
+Holmes,Whitehall,1.1904761904761905,2.976190476190476,57.738095238095234,0.4,be telephone keep
+Holmes,Lestrade,3.723404255319149,3.1914893617021276,54.78723404255319,1.1666666666666667,say have come be have ring have leave return
+Holmes,Mr Holmes,3.723404255319149,3.1914893617021276,54.78723404255319,1.1666666666666667,say have come be have ring have leave return
+Lestrade,Holmes,3.723404255319149,3.1914893617021276,54.78723404255319,1.1666666666666667,say have come be have ring have leave return
+Lestrade,Mr Holmes,3.723404255319149,3.1914893617021276,54.78723404255319,1.1666666666666667,say have come be have ring have leave return
+Holmes,Mr Holmes,3.723404255319149,3.1914893617021276,54.78723404255319,1.1666666666666667,say have come be have ring have leave return
+Sherlock Holmes,Mary Russell,0.8620689655172413,1.7241379310344827,49.137931034482754,0.5,have vanish
+Sherlock Holmes,Damian,0.8620689655172413,1.7241379310344827,49.137931034482754,0.5,have vanish
+Sherlock Holmes,Damian,0.8620689655172413,1.7241379310344827,49.137931034482754,0.5,have vanish
+Mary Russell,Damian,0.8620689655172413,1.7241379310344827,49.137931034482754,0.5,have vanish
+Mary Russell,Damian,0.8620689655172413,1.7241379310344827,49.137931034482754,0.5,have vanish
+Reverend Brothers,Gunderson,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,say
+Damian,Sherlock Holmes,0.625,3.125,51.24999999999999,0.2,lick be hold drink
+Damian,Holmes,0.625,3.125,51.24999999999999,0.2,lick be hold drink
+Damian,Sherlock Holmes,0.625,3.125,51.24999999999999,0.2,lick be hold drink
+Damian,Holmes,0.625,3.125,51.24999999999999,0.2,lick be hold drink
+Sherlock Holmes,Holmes,0.625,3.125,51.24999999999999,0.2,lick be hold drink
+Dr Henning,Russell,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,have prove wonder make
+Dr Henning,Russell,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,have prove wonder make
+Dr Henning,Russell,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,have prove wonder make
+Dr Henning,Russell,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,have prove wonder make
+Sherlock Holmes,Damian,0.8064516129032258,0.4032258064516129,37.5,2.0,like launch say be feel
+Gordon,Sherlock Holmes,4.3478260869565215,2.1739130434782608,50.0,2.0,say savour study
+Gordon,Sherlock Holmes,2.272727272727273,2.840909090909091,58.52272727272727,0.8,have disappear feel be draw
+Gordon,Holmes,2.272727272727273,2.840909090909091,58.52272727272727,0.8,have disappear feel be draw
+Sherlock Holmes,Holmes,2.272727272727273,2.840909090909091,58.52272727272727,0.8,have disappear feel be draw
+Holmes,Brothers,4.947916666666666,4.427083333333334,53.125,1.1176470588235294,be require occupy head take examine
+Holmes,Brothers,4.947916666666666,4.427083333333334,53.125,1.1176470588235294,be require occupy head take examine
+Holmes,Brothers,4.947916666666666,4.427083333333334,53.125,1.1176470588235294,be require occupy head take examine
+Damian,Russell,3.75,2.75,59.5,1.3636363636363635,have take do tend lag die hope have linger have go unearth
+Damian,Brothers,3.75,2.75,59.5,1.3636363636363635,have take do tend lag die hope have linger have go unearth
+Russell,Brothers,3.75,2.75,59.5,1.3636363636363635,have take do tend lag die hope have linger have go unearth
+Russell,Damian,4.017857142857143,1.7857142857142856,47.767857142857146,2.25,have do slip remove destroy lead
+Russell,Damian,4.017857142857143,1.7857142857142856,47.767857142857146,2.25,have do slip remove destroy lead
+Sherlock Holmes,Holmes,3.6931818181818183,6.25,51.42045454545454,0.5909090909090909,suggest chew be miss
+Russell,Brothers,4.166666666666666,8.333333333333332,54.166666666666664,0.5,be vex be reach know be reach
+Brothers,Russell,4.166666666666666,8.333333333333332,54.166666666666664,0.5,be vex be reach know be reach
+Brothers,Holmes,1.0416666666666665,2.7777777777777777,54.513888888888886,0.375,make know bring take question
+Brothers,Holmes,1.0416666666666665,2.7777777777777777,54.513888888888886,0.375,make know bring take question
+Brothers,Holmes,1.0416666666666665,2.7777777777777777,54.513888888888886,0.375,make know bring take question
+Brothers,Holmes,1.0416666666666665,2.7777777777777777,54.513888888888886,0.375,make know bring take question
+Russell,Damian,2.8846153846153846,1.9230769230769231,45.19230769230769,1.5,indicate have be talk have keep
+Russell,Damian,2.8846153846153846,1.9230769230769231,45.19230769230769,1.5,indicate have be talk have keep
+Sherlock Holmes,Holmes,1.1363636363636365,1.7045454545454544,42.61363636363637,0.6666666666666666,reply resume
+Sherlock Holmes,Russell,4.75,5.75,45.5,0.8260869565217391,understand agree be see have land be
+Sherlock Holmes,Holmes,4.75,5.75,45.5,0.8260869565217391,understand agree be see have land be
+Sherlock Holmes,Russell,4.75,5.75,45.5,0.8260869565217391,understand agree be see have land be
+Russell,Holmes,4.75,5.75,45.5,0.8260869565217391,understand agree be see have land be
+Holmes,Russell,4.75,5.75,45.5,0.8260869565217391,understand agree be see have land be
+Holmes,Russell,0.0,0.0,50.0,INF,feel gaze bore
+Russell,Holmes,0.0,0.0,50.0,INF,feel gaze bore
+Damian,Sussex,0.0,0.0,63.1578947368421,INF,lose appear
+Damian,Sussex,0.0,0.0,63.1578947368421,INF,lose appear
+Damian,Orkney,0.872093023255814,1.4534883720930232,48.837209302325576,0.6,die solve uncover track be wound
+Damian,Mr Adler,0.872093023255814,1.4534883720930232,48.837209302325576,0.6,die solve uncover track be wound
+Orkney,Mr Adler,0.872093023255814,1.4534883720930232,48.837209302325576,0.6,die solve uncover track be wound
+Russell,Estelle,0.0,0.0,46.15384615384615,INF,split remain
+Javitz,Estelle,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,set think distract scramble
+Estelle,Javitz,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,set think distract scramble
+Javitz,Damian,6.521739130434782,3.260869565217391,33.69565217391305,2.0,notice concuss be
+Javitz,Green,6.521739130434782,3.260869565217391,33.69565217391305,2.0,notice concuss be
+Damian,Green,6.521739130434782,3.260869565217391,33.69565217391305,2.0,notice concuss be
+Javitz,Estelle,2.083333333333333,0.8928571428571428,44.642857142857146,2.3333333333333335,travel have turn be lay supplement
+Javitz,Estelle,2.083333333333333,0.8928571428571428,44.642857142857146,2.3333333333333335,travel have turn be lay supplement
+Javitz,Estelle,2.8846153846153846,3.8461538461538463,54.807692307692314,0.75,frown jump walk face
+Javitz,Estelle,3.90625,0.0,64.84375,INF,study contain code
+Estelle,Javitz,3.90625,0.0,64.84375,INF,study contain code
+Javitz,Estelle,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,find be look hold
+Javitz,Estelle,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,find be look hold
+Estelle,Javitz,5.625,3.75,45.625,1.5,have accept add break
+Goodman,Javitz,2.272727272727273,0.0,38.63636363636363,INF,thank supply hold
+Goodman,Estelle,2.272727272727273,0.0,38.63636363636363,INF,thank supply hold
+Javitz,Estelle,2.272727272727273,0.0,38.63636363636363,INF,thank supply hold
+Estelle,Javitz,3.9473684210526314,1.3157894736842104,31.57894736842105,3.0,be announce give shake
+Estelle,Javitz,3.9473684210526314,1.3157894736842104,31.57894736842105,3.0,be announce give shake
+Javitz,Estelle,3.125,0.0,31.874999999999996,INF,meet say help
+Javitz,Estelle,3.125,0.0,31.874999999999996,INF,meet say help
+Javitz,Estelle,3.125,0.0,55.208333333333336,INF,come trail
+Goodman,Oberon,0.5681818181818182,3.977272727272727,45.45454545454545,0.14285714285714285,confirm be
+Robin Goodfellow,Javitz,0.0,0.0,55.55555555555556,INF,pour refill
+Estelle,Goodman,1.7045454545454544,0.5681818181818182,70.45454545454545,3.0,be sit
+Estelle,Goodman,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Estelle,Goodman,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Estelle,Goodman,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Goodman,Estelle,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Goodman,Estelle,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Goodman,Estelle,3.214285714285714,2.857142857142857,53.92857142857142,1.125,be stuff lift sit have tell come
+Goodman,Estelle,2.232142857142857,0.8928571428571428,54.01785714285714,2.5,be be
+Estelle,Goodman,0.0,0.0,35.714285714285715,INF,have inform
+Estelle,Goodman,0.0,6.25,27.083333333333332,0.0,join
+Goodman,Estelle,5.681818181818182,2.272727272727273,43.56060606060606,2.5,juggle throw have grin
+Goodman,Estelle,5.681818181818182,2.272727272727273,43.56060606060606,2.5,juggle throw have grin
+Estelle,Goodman,1.7857142857142856,0.0,41.07142857142857,INF,do go tell
+Estelle,Goodman,1.0,0.5,66.5,2.0,be seat wait emerge
+Goodman,Estelle,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Goodman,Estelle,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Goodman,Estelle,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Goodman,Estelle,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Estelle,Goodman,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Goodman,Estelle,3.260869565217391,1.0869565217391304,56.52173913043478,3.0,rear look seem fascinate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Damian,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Damian,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Damian,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Damian,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Damian,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Damian,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Damian,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Damian,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Goodman,Estelle,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,0.5952380952380952,0.2976190476190476,41.964285714285715,2.0,be stretch use narrate
+Estelle,Goodman,2.3255813953488373,2.3255813953488373,65.11627906976744,1.0,have find astonish have survive leaf give make contain
+Goodman,Damian,6.5625,2.8125,45.625,2.3333333333333335,be hear reply have smile have be breed
+Goodman,Damian,6.5625,2.8125,45.625,2.3333333333333335,be hear reply have smile have be breed
+Damian,Estelle,8.333333333333332,2.083333333333333,47.91666666666667,4.0,tell think
+Estelle,Damian,10.0,0.625,39.375,16.0,giggle call explain have
+Damian,Estelle,10.0,0.625,39.375,16.0,giggle call explain have
+Damian,Estelle,10.0,0.625,39.375,16.0,giggle call explain have
+Yolanda,Sherlock Holmes,3.6764705882352944,4.779411764705882,53.30882352941176,0.7692307692307693,have think be know gaze
+Vogel,Goodman,0.0,2.5,17.5,0.0,reply
+Gunderson,Brothers,0.0,0.0,57.89473684210527,INF,pick follow wait clang
+Gunderson,Brothers,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,take accept
+Gunderson,Brothers,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,take accept
+Gunderson,Brothers,1.7857142857142856,2.6785714285714284,57.44047619047619,0.6666666666666666,come be draw be be launch have take
+Gunderson,Brothers,1.7857142857142856,2.6785714285714284,57.44047619047619,0.6666666666666666,come be draw be be launch have take
+Peter James West,Brothers,2.5,0.0,47.5,INF,say put
+Peter James West,Brothers,2.5,0.0,47.5,INF,say put
+Brothers,Gunderson,2.232142857142857,2.232142857142857,49.107142857142854,1.0,be think be be be
+Brothers,Yolanda,5.3125,2.8125,46.875,1.8888888888888888,have hand expect have become
+Brothers,Peter James West,3.90625,0.0,46.09375,INF,do know touch tell
+Green,Goodman,2.5,1.25,36.25,2.0,be
+Mr Robert,Goodman,0.0,0.0,50.0,INF,call
+Mr Robert,Goodman,4.166666666666666,0.0,54.166666666666664,INF,let be call
+Javitz,Estelle,0.0,0.0,46.666666666666664,INF,prop follow
+Javitz,Goodman,0.0,0.0,46.666666666666664,INF,prop follow
+Estelle,Goodman,0.0,0.0,46.666666666666664,INF,prop follow
+Javitz,Brothers,2.5,1.0714285714285714,53.57142857142857,2.3333333333333335,be stay walk be press be
+Sherlock Holmes,Damian,4.166666666666666,2.083333333333333,27.083333333333332,2.0,be
+Javitz,Estelle,9.615384615384617,0.0,36.53846153846153,INF,find
+Estelle,Sussex,0.0,0.0,50.0,INF,start come begin
+Brothers,Goodman,2.734375,0.78125,62.109375,3.5,think be get be have escape tell
+Brothers,Orkney,0.0,0.0,52.38095238095239,INF,have have
+Brothers,Thurso,0.0,0.0,52.38095238095239,INF,have have
+Orkney,Thurso,0.0,0.0,52.38095238095239,INF,have have
+Orkney,Brothers,0.0,0.0,52.38095238095239,INF,have have
+Thurso,Brothers,0.0,0.0,52.38095238095239,INF,have have
+Brothers,Robert Goodman,0.7352941176470588,6.61764705882353,57.35294117647059,0.1111111111111111,belong
+Lestrade,Sherlock Holmes,1.8518518518518516,0.9259259259259258,56.481481481481474,2.0,have direct inform be
+Lestrade,Sherlock Holmes,1.8518518518518516,0.9259259259259258,56.481481481481474,2.0,have direct inform be
+Estelle,Javitz,0.5434782608695652,0.5434782608695652,48.91304347826087,1.0,climb go find set have give
+Estelle,Goodman,0.5434782608695652,0.5434782608695652,48.91304347826087,1.0,climb go find set have give
+Javitz,Goodman,0.5434782608695652,0.5434782608695652,48.91304347826087,1.0,climb go find set have give
+Javitz,Estelle,0.5434782608695652,0.5434782608695652,48.91304347826087,1.0,climb go find set have give
+Goodman,Estelle,0.5434782608695652,0.5434782608695652,48.91304347826087,1.0,climb go find set have give
+Estelle,Goodman,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,thank present watch
+Estelle,Goodman,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,thank present watch
+Estelle,Goodman,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,thank present watch
+Estelle,Goodman,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,thank present watch
+Javitz,Goodman,5.288461538461538,2.8846153846153846,61.057692307692314,1.8333333333333333,shoot amuse wonder be play do hesitate
+Holmes,Labour,3.483606557377049,5.122950819672131,52.04918032786885,0.68,decide have have allow be blame deduct
+Labour,Holmes,3.483606557377049,5.122950819672131,52.04918032786885,0.68,decide have have allow be blame deduct
+Labour,Holmes,3.483606557377049,5.122950819672131,52.04918032786885,0.68,decide have have allow be blame deduct
+Labour,Holmes,3.483606557377049,5.122950819672131,52.04918032786885,0.68,decide have have allow be blame deduct
+Holmes,Ben,2.1341463414634148,0.9146341463414633,57.92682926829268,2.3333333333333335,be deliver hear toll
+Holmes,Parliament,2.1341463414634148,0.9146341463414633,57.92682926829268,2.3333333333333335,be deliver hear toll
+Ben,Parliament,2.1341463414634148,0.9146341463414633,57.92682926829268,2.3333333333333335,be deliver hear toll
+Estelle,Holmes,2.2058823529411766,1.1029411764705883,46.69117647058824,2.0,be stand call oversee
+Estelle,Holmes,2.2058823529411766,1.1029411764705883,46.69117647058824,2.0,be stand call oversee
+Estelle,Holmes,2.2058823529411766,1.1029411764705883,46.69117647058824,2.0,be stand call oversee
+Holmes,Secret Intelligence Service,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Holmes,Secret Intelligence Service,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Secret Intelligence Service,Holmes,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Secret Intelligence Service,Holmes,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Secret Intelligence Service,Holmes,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Secret Intelligence Service,Holmes,5.487804878048781,0.6097560975609756,57.3170731707317,9.0,have step take be make have use further
+Holmes,New Scotland Yard,2.34375,1.171875,71.484375,2.0,have do be cut think
+Holmes,New Scotland Yard,2.34375,1.171875,71.484375,2.0,have do be cut think
+Goodman,Estelle,2.083333333333333,0.0,60.416666666666664,INF,present articulate
+Goodman,Javitz,0.0,0.0,52.63157894736842,INF,finish make
+Goodman,The Times,1.6129032258064515,0.0,53.2258064516129,INF,take enclose run be use
+Goodman,The Times,1.6129032258064515,0.0,53.2258064516129,INF,take enclose run be use
+Lestrade,Brothers,5.357142857142857,3.125,55.80357142857143,1.7142857142857142,have decide be issue
+Lestrade,Brothers,5.357142857142857,3.125,55.80357142857143,1.7142857142857142,have decide be issue
+Estelle,Javitz,2.1604938271604937,4.166666666666666,49.2283950617284,0.5185185185185185,hop unpack be suppose require be lose be be have wash be
+Estelle,Javitz,2.1604938271604937,4.166666666666666,49.2283950617284,0.5185185185185185,hop unpack be suppose require be lose be be have wash be
+Javitz,Estelle,2.083333333333333,2.976190476190476,56.845238095238095,0.7,think distract collect slip
+Javitz,Estelle,2.083333333333333,2.976190476190476,56.845238095238095,0.7,think distract collect slip
+Goodman,Estelle,0.4032258064516129,0.0,51.20967741935484,INF,set leave
+Goodman,Javitz,0.4032258064516129,0.0,51.20967741935484,INF,set leave
+Goodman,Estelle,0.4032258064516129,0.0,51.20967741935484,INF,set leave
+Goodman,Javitz,0.4032258064516129,0.0,51.20967741935484,INF,set leave
+Estelle,Javitz,0.4032258064516129,0.0,51.20967741935484,INF,set leave
+Holmes,Brothers,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Holmes,Brothers,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Holmes,Brothers,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Holmes,Sherlock Holmes,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Brothers,Sherlock Holmes,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Brothers,Sherlock Holmes,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+Brothers,Sherlock Holmes,4.285714285714286,1.7857142857142856,59.64285714285714,2.4,be have decide send address come require stop reach be want reassure be
+The Times,Sherlock Holmes,4.296875,1.171875,44.53125,3.6666666666666665,have have fail yield buy disguise
+The Times,Holmes,4.296875,1.171875,44.53125,3.6666666666666665,have have fail yield buy disguise
+Sherlock Holmes,Holmes,4.296875,1.171875,44.53125,3.6666666666666665,have have fail yield buy disguise
+Sherlock Holmes,Holmes,2.604166666666667,2.083333333333333,66.14583333333334,1.25,be begin feel be
+Holmes,Gordon,5.592105263157895,0.9868421052631579,59.210526315789465,5.666666666666667,be reach have spend make
+Holmes,Gordon,5.592105263157895,0.9868421052631579,59.210526315789465,5.666666666666667,be reach have spend make
+Holmes,Gordon,5.592105263157895,0.9868421052631579,59.210526315789465,5.666666666666667,be reach have spend make
+Gordon,Dr Henning,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,have be make take describe
+Damian,Sherlock Holmes,5.803571428571429,0.8928571428571428,61.16071428571429,6.5,appear have admit suit look
+Damian,Sherlock Holmes,5.803571428571429,0.8928571428571428,61.16071428571429,6.5,appear have admit suit look
+Sherlock Holmes,Damian,0.0,0.0,63.63636363636363,INF,inform be run
+Sherlock Holmes,Holmes,3.571428571428571,5.357142857142857,62.5,0.6666666666666666,rub
+Sherlock Holmes,Gordon,0.0,7.6923076923076925,38.46153846153847,0.0,study
+Sherlock Holmes,Holmes,8.333333333333332,0.0,58.333333333333336,INF,put
+Sherlock Holmes,Holmes,1.1363636363636365,2.840909090909091,55.11363636363637,0.4,stay apply cool
+Damian,Yolanda,0.9615384615384616,0.9615384615384616,55.769230769230774,1.0,thrash sweat carry
+Yolanda,Damian,0.9615384615384616,0.9615384615384616,55.769230769230774,1.0,thrash sweat carry
+Sherlock Holmes,Holmes,0.0,0.78125,55.46875,0.0,stand study rest
+Sherlock Holmes,Yolanda,2.083333333333333,0.0,59.02777777777778,INF,be sleep say react
+Yolanda,Damian,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Yolanda,Damian,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Yolanda,Damian,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Damian,Yolanda,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Damian,Yolanda,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Damian,Yolanda,1.5625,0.390625,48.046875,4.0,stand feel roll grimace
+Sherlock Holmes,Yolanda,0.0,0.0,36.36363636363637,INF,go sleep tell
+Sherlock Holmes,The Times,3.571428571428571,2.976190476190476,64.88095238095238,1.2,be have discover be
+Sherlock Holmes,Dr Henning,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Sherlock Holmes,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Sherlock Holmes,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Sherlock Holmes,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Dr Henning,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Dr Henning,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Dr Henning,Holmes,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,turn take give sit draw
+Sherlock Holmes,Damian,1.3888888888888888,1.3888888888888888,49.074074074074076,1.0,lean listen feel
+Damian,Gordon,2.4193548387096775,4.032258064516129,51.61290322580645,0.6,do answer eye be work head deck
+Gordon,Damian,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Gordon,Watson,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Gordon,Damian,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Gordon,Watson,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Damian,Gordon,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Damian,Watson,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Gordon,Watson,4.0625,5.0,55.93749999999999,0.8125,open ask imagine have sleep change tell have be follow
+Gordon,Damian,5.0,4.0,51.0,1.25,glance have have overhear
+Damian,Gordon,5.0,4.0,51.0,1.25,glance have have overhear
+Damian,Gordon,1.25,4.166666666666666,54.58333333333333,0.3,have pick be be give
+Damian,Gordon,1.25,4.166666666666666,54.58333333333333,0.3,have pick be be give
+Gordon,Damian,1.7857142857142856,2.6785714285714284,63.39285714285714,0.6666666666666666,give sleep set roll draw
+Gordon,Damian,1.7857142857142856,2.6785714285714284,63.39285714285714,0.6666666666666666,give sleep set roll draw
+Gordon,Damian,1.7857142857142856,2.6785714285714284,63.39285714285714,0.6666666666666666,give sleep set roll draw
+Sherlock Holmes,Holmes,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Holmes,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Holmes,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Holmes,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Holmes,Dr Henning,1.355421686746988,1.8072289156626504,54.668674698795186,0.75,be shake trim change put have manage retain ask see be take be like send
+Sherlock Holmes,Holmes,1.3157894736842104,5.263157894736842,56.57894736842105,0.25,board have dub have suspect be
+Sherlock Holmes,Holmes,1.3157894736842104,5.263157894736842,56.57894736842105,0.25,board have dub have suspect be
+Sherlock Holmes,Holmes,0.0,3.977272727272727,50.56818181818182,0.0,take walk settle
+Holmes,The Times,2.380952380952381,1.1904761904761905,58.333333333333336,2.0,be leap search
+Orkney,Russell,2.142857142857143,1.4285714285714286,50.71428571428571,1.5,take be work
+Orkney,Russell,2.142857142857143,1.4285714285714286,50.71428571428571,1.5,take be work
+Russell,The Times,4.411764705882353,3.6764705882352944,56.61764705882353,1.2,find be
+Sherlock Holmes,Russell,1.875,5.625,62.5,0.3333333333333333,find
+Sherlock Holmes,Holmes,1.875,5.625,62.5,0.3333333333333333,find
+Russell,Holmes,1.875,5.625,62.5,0.3333333333333333,find
+Sherlock Holmes,Holmes,1.3513513513513513,4.054054054054054,64.86486486486487,0.3333333333333333,think rip turn be avoid make
+Sherlock Holmes,Holmes,1.3513513513513513,4.054054054054054,64.86486486486487,0.3333333333333333,think rip turn be avoid make
+Sherlock Holmes,Holmes,1.3513513513513513,4.054054054054054,64.86486486486487,0.3333333333333333,think rip turn be avoid make
+Holmes,Damian,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Holmes,Russell,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Damian,Holmes,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Damian,Russell,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Damian,Holmes,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Holmes,Russell,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Russell,Holmes,0.4464285714285714,0.0,53.125,INF,do have do have grimace fold
+Russell,Holmes,3.571428571428571,3.571428571428571,71.42857142857143,1.0,say be
+Sherlock Holmes,Holmes,3.125,0.0,46.875,INF,pull make
+Russell,Holmes,3.571428571428571,2.232142857142857,54.91071428571429,1.6,read permit be have leave
+Holmes,The Times,2.5735294117647056,2.2058823529411766,56.98529411764706,1.1666666666666667,mail have prepare begin thrive
+The Times,Holmes,2.5735294117647056,2.2058823529411766,56.98529411764706,1.1666666666666667,mail have prepare begin thrive
+Holmes,Russell,3.273809523809524,3.273809523809524,55.35714285714286,1.0,have be track pay keep nudge
+Russell,Holmes,3.273809523809524,3.273809523809524,55.35714285714286,1.0,have be track pay keep nudge
+Russell,Holmes,3.273809523809524,3.273809523809524,55.35714285714286,1.0,have be track pay keep nudge
+Holmes,Brothers,3.4482758620689653,1.7241379310344827,56.896551724137936,2.0,need concentrate keep protrude
+Holmes,Lestrade,3.4482758620689653,1.7241379310344827,56.896551724137936,2.0,need concentrate keep protrude
+Holmes,Lestrade,3.4482758620689653,1.7241379310344827,56.896551724137936,2.0,need concentrate keep protrude
+Brothers,Lestrade,3.4482758620689653,1.7241379310344827,56.896551724137936,2.0,need concentrate keep protrude
+Brothers,Lestrade,3.4482758620689653,1.7241379310344827,56.896551724137936,2.0,need concentrate keep protrude
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Lestrade,Holmes,3.804347826086957,1.6304347826086956,53.2608695652174,2.3333333333333335,grant be have lose be settle savour consider
+Damian,Holmes,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,be be focus
+Billy,Sherlock Holmes,1.8518518518518516,2.314814814814815,58.79629629629629,0.8,have know have introduce attempt pick
+Sherlock Holmes,Holmes,1.4285714285714286,2.142857142857143,53.57142857142857,0.6666666666666666,be catch lead hire appoint
+Sherlock Holmes,Holmes,1.4285714285714286,2.142857142857143,53.57142857142857,0.6666666666666666,be catch lead hire appoint
+Sherlock Holmes,Mrs Hudson,1.4285714285714286,2.142857142857143,53.57142857142857,0.6666666666666666,be catch lead hire appoint
+Holmes,Mrs Hudson,1.4285714285714286,2.142857142857143,53.57142857142857,0.6666666666666666,be catch lead hire appoint
+Holmes,Mrs Hudson,1.4285714285714286,2.142857142857143,53.57142857142857,0.6666666666666666,be catch lead hire appoint
+Billy,Sherlock Holmes,4.375,3.125,47.5,1.4,have become have dub
+Sherlock Holmes,Billy,4.375,3.125,47.5,1.4,have become have dub
+Sherlock Holmes,Billy,4.375,3.125,47.5,1.4,have become have dub
+Billy,Sherlock Holmes,3.4090909090909087,6.0606060606060606,54.166666666666664,0.5625,sound think have mean be have misunderstand be
+Billy,Holmes,3.4090909090909087,6.0606060606060606,54.166666666666664,0.5625,sound think have mean be have misunderstand be
+Sherlock Holmes,Billy,3.4090909090909087,6.0606060606060606,54.166666666666664,0.5625,sound think have mean be have misunderstand be
+Sherlock Holmes,Holmes,3.4090909090909087,6.0606060606060606,54.166666666666664,0.5625,sound think have mean be have misunderstand be
+Billy,Holmes,3.4090909090909087,6.0606060606060606,54.166666666666664,0.5625,sound think have mean be have misunderstand be
+Holmes,Russell,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Holmes,Dr Henning,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Holmes,Damian,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Russell,Dr Henning,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Russell,Damian,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Dr Henning,Damian,0.0,1.4705882352941175,45.588235294117645,0.0,know be
+Brothers,Marcus Gunderson,6.4655172413793105,2.586206896551724,46.12068965517241,2.5,see find name do
+Brothers,Marcus Gunderson,6.4655172413793105,2.586206896551724,46.12068965517241,2.5,see find name do
+Marcus Gunderson,Billy,0.0,0.0,25.0,INF,repeat
+Sherlock Holmes,Brothers,5.053191489361701,2.393617021276596,54.25531914893617,2.111111111111111,have have think be be have be investigate make
+Sherlock Holmes,Billy,5.053191489361701,2.393617021276596,54.25531914893617,2.111111111111111,have have think be be have be investigate make
+Brothers,Billy,5.053191489361701,2.393617021276596,54.25531914893617,2.111111111111111,have have think be be have be investigate make
+Brothers,Gunderson,2.8125,2.5,62.18749999999999,1.125,step have start
+Brothers,Gunderson,2.8125,2.5,62.18749999999999,1.125,step have start
+Billy,Lestrade,4.642857142857143,5.0,64.64285714285715,0.9285714285714286,do say provide wake decide
+Billy,Lestrade,4.642857142857143,5.0,64.64285714285715,0.9285714285714286,do say provide wake decide
+Gordon,Dr Henning,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Gordon,Damian,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Gordon,Brothers,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Dr Henning,Damian,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Dr Henning,Brothers,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Damian,Brothers,4.276315789473684,9.210526315789473,44.40789473684211,0.4642857142857143,bear decide have lose be
+Sherlock Holmes,The Times,5.208333333333334,0.0,69.79166666666666,INF,smile be
+Holmes,Wick,0.0,0.3787878787878788,51.13636363636363,0.0,step send
+Holmes,Thurso,0.0,0.3787878787878788,51.13636363636363,0.0,step send
+Holmes,Wick,0.0,0.3787878787878788,51.13636363636363,0.0,step send
+Wick,Thurso,0.0,0.3787878787878788,51.13636363636363,0.0,step send
+Thurso,Wick,0.0,0.3787878787878788,51.13636363636363,0.0,step send
+Wick,Russell,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Wick,Estelle,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Wick,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Wick,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Wick,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Wick,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Russell,Estelle,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Russell,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Russell,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Russell,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Russell,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Estelle,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Estelle,Damian,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Estelle,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Estelle,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Damian,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Damian,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Damian,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Damian,Holmes,3.25,2.25,54.50000000000001,1.4444444444444444,tell be be be be tell be go
+Holmes,Damian,2.6785714285714284,2.380952380952381,49.702380952380956,1.125,shop include have be force borrow be
+Sherlock Holmes,Holmes,0.0,0.5,63.5,0.0,tuck walk pass arrive examine
+Sherlock Holmes,Holmes,0.0,0.5,63.5,0.0,tuck walk pass arrive examine
+Peter James West,Gunderson,1.0714285714285714,0.0,53.214285714285715,INF,turn see be mention allow take
+Peter James West,Gunderson,1.0714285714285714,0.0,53.214285714285715,INF,turn see be mention allow take
+Peter James West,Gunderson,1.3392857142857142,2.232142857142857,60.71428571428571,0.6,take roll retrieve
+Peter James West,Gunderson,1.3392857142857142,2.232142857142857,60.71428571428571,0.6,take roll retrieve
+Gunderson,Brothers,1.6025641025641024,0.3205128205128205,62.17948717948718,5.0,wipe pull finish tuck be finish
+Gunderson,Brothers,1.6025641025641024,0.3205128205128205,62.17948717948718,5.0,wipe pull finish tuck be finish
+Peter James West,Brothers,2.1739130434782608,0.0,50.0,INF,free slide
+Brothers,MacAuliffe,2.6785714285714284,0.0,54.46428571428571,INF,have set
+Brothers,Damian,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be stay
+MacAuliffe,Gunderson,3.9473684210526314,1.9736842105263157,46.71052631578947,2.0,have be notice get have be add patch seem
+MacAuliffe,Brothers,3.9473684210526314,1.9736842105263157,46.71052631578947,2.0,have be notice get have be add patch seem
+Gunderson,Brothers,3.9473684210526314,1.9736842105263157,46.71052631578947,2.0,have be notice get have be add patch seem
+Brothers,MacAuliffe,1.7241379310344827,3.4482758620689653,56.896551724137936,0.5,be be find identify take trickle
+Peter James West,Gunderson,4.464285714285714,4.017857142857143,52.23214285714286,1.1111111111111112,join take cover have treat think set
+Peter James West,Gunderson,4.464285714285714,4.017857142857143,52.23214285714286,1.1111111111111112,join take cover have treat think set
+Peter James West,Gunderson,4.464285714285714,4.017857142857143,52.23214285714286,1.1111111111111112,join take cover have treat think set
+Peter James West,Gunderson,8.333333333333332,1.1904761904761905,47.61904761904761,7.0,watch shut have avoid meet
+Peter James West,Gunderson,8.333333333333332,1.1904761904761905,47.61904761904761,7.0,watch shut have avoid meet
+Peter James West,Gunderson,8.333333333333332,1.1904761904761905,47.61904761904761,7.0,watch shut have avoid meet
+Brothers,Secret Intelligence Service,3.4375000000000004,0.3125,51.24999999999999,11.0,agree be have drive help unseat become
+Peter James West,Gunderson,0.5,0.0,55.50000000000001,INF,be disembark walk have store
+Holmes,Buckner,2.8846153846153846,1.4423076923076923,61.057692307692314,2.0,send code place give
+Holmes,Buckner,2.8846153846153846,1.4423076923076923,61.057692307692314,2.0,send code place give
+Peter James West,Brothers,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,put lay take have wear
+Peter James West,Brothers,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,put lay take have wear
+Peter James West,Brothers,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,put lay take have wear
+Peter James West,Brothers,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,put lay take have wear
+Gunderson,Brothers,3.214285714285714,4.285714285714286,58.214285714285715,0.75,have give be do have be force leave lie
+Gunderson,Brothers,3.214285714285714,4.285714285714286,58.214285714285715,0.75,have give be do have be force leave lie
+Gunderson,Brothers,3.214285714285714,4.285714285714286,58.214285714285715,0.75,have give be do have be force leave lie
+Gunderson,Brothers,3.214285714285714,4.285714285714286,58.214285714285715,0.75,have give be do have be force leave lie
+Peter James West,Secret Intelligence Service,1.8382352941176472,2.7573529411764706,55.69852941176471,0.6666666666666666,have think be be pare be be see be snarl defend be be impose weaken
+Secret Intelligence Service,Peter James West,1.8382352941176472,2.7573529411764706,55.69852941176471,0.6666666666666666,have think be be pare be be see be snarl defend be be impose weaken
+Holmes,Peter James West,4.166666666666666,2.083333333333333,52.083333333333336,2.0,have think question
+Peter James West,Holmes,1.25,1.6666666666666667,63.74999999999999,0.75,feel play disguise carry dab
+Peter James West,Holmes,1.25,1.6666666666666667,63.74999999999999,0.75,feel play disguise carry dab
+Peter James West,Holmes,0.0,1.5625,48.4375,0.0,finish crush take
+Holmes,Mary Russell,0.0,0.0,54.166666666666664,INF,be pull call
+Holmes,Sherlock Holmes,0.0,0.0,54.166666666666664,INF,be pull call
+Mary Russell,Sherlock Holmes,0.0,0.0,54.166666666666664,INF,be pull call
+Goodman,Estelle,0.0,0.0,66.66666666666666,INF,try teach
+Estelle,Goodman,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Estelle,Goodman,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Estelle,Goodman,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Goodman,Estelle,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Goodman,Estelle,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Goodman,Estelle,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Goodman,Estelle,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Estelle,Goodman,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Estelle,Goodman,0.2717391304347826,2.989130434782609,55.434782608695656,0.09090909090909091,grow be bundle bring pine ask wish carve
+Goodman,Estelle,0.0,0.0,66.66666666666666,INF,carve
+Estelle,Goodman,1.875,0.0,48.125,INF,gather fall manage cook burn
+Sherlock Holmes,Damian,3.0303030303030303,2.272727272727273,49.24242424242424,1.3333333333333333,dance be post
+Sherlock Holmes,Sussex,3.0303030303030303,2.272727272727273,49.24242424242424,1.3333333333333333,dance be post
+Sherlock Holmes,Damian,3.0303030303030303,2.272727272727273,49.24242424242424,1.3333333333333333,dance be post
+Damian,Sussex,3.0303030303030303,2.272727272727273,49.24242424242424,1.3333333333333333,dance be post
+Sussex,Damian,3.0303030303030303,2.272727272727273,49.24242424242424,1.3333333333333333,dance be post
+Javitz,Estelle,1.3392857142857142,1.3392857142857142,50.89285714285714,1.0,be remove have join
+Javitz,Sherlock Holmes,1.3392857142857142,1.3392857142857142,50.89285714285714,1.0,be remove have join
+Estelle,Sherlock Holmes,1.3392857142857142,1.3392857142857142,50.89285714285714,1.0,be remove have join
+Goodman,Estelle,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Goodman,Estelle,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Goodman,Estelle,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Estelle,Goodman,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Estelle,Goodman,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Estelle,Goodman,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Estelle,Goodman,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Goodman,Estelle,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Goodman,Estelle,1.1574074074074074,1.1574074074074074,60.64814814814815,1.0,be instruct crumble stand measure envelop butter
+Sherlock Holmes,Dr Henning,4.807692307692308,3.8461538461538463,29.807692307692307,1.25,have decline accompany
+Sherlock Holmes,Gordon,4.807692307692308,3.8461538461538463,29.807692307692307,1.25,have decline accompany
+Dr Henning,Gordon,4.807692307692308,3.8461538461538463,29.807692307692307,1.25,have decline accompany
+Sherlock Holmes,Holmes,2.564102564102564,0.0,61.53846153846154,INF,follow bring resume have buy arrange have take
+Sherlock Holmes,Holmes,3.75,0.0,51.24999999999999,INF,make have arrive
+Sherlock Holmes,Holmes,0.0,0.0,47.61904761904761,INF,follow make find wait
+Sherlock Holmes,Holmes,0.0,0.0,47.61904761904761,INF,follow make find wait
+Sherlock Holmes,Holmes,2.302631578947368,0.9868421052631579,59.86842105263158,2.3333333333333335,go bore consider discard
+Holmes,Sherlock Holmes,2.5,1.0714285714285714,53.57142857142857,2.3333333333333335,have wish throw have instruct take wait approach
+Holmes,Sherlock Holmes,2.5,1.0714285714285714,53.57142857142857,2.3333333333333335,have wish throw have instruct take wait approach
+Holmes,Sherlock Holmes,2.5,1.0714285714285714,53.57142857142857,2.3333333333333335,have wish throw have instruct take wait approach
+Holmes,Sherlock Holmes,2.5,1.0714285714285714,53.57142857142857,2.3333333333333335,have wish throw have instruct take wait approach
+Sherlock Holmes,Holmes,2.6785714285714284,5.357142857142857,41.964285714285715,0.5,be offer be
+Sherlock Holmes,Holmes,3.75,3.125,53.125,1.2,do know do speak approach
+Brothers,Holmes,3.1976744186046515,1.4534883720930232,60.46511627906976,2.2,have be investigate remove be confront move
+Holmes,Lestrade,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Holmes,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Holmes,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Holmes,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Holmes,Lestrade,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Lestrade,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Lestrade,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Lestrade,Damian,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Damian,Lestrade,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Damian,Lestrade,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Damian,Lestrade,3.8461538461538463,4.807692307692308,50.32051282051282,0.8,have convince be risk approach
+Sherlock Holmes,Holmes,2.8125,3.125,56.56250000000001,0.9,have be give pursue come prove
+Sherlock Holmes,Holmes,2.8125,3.125,56.56250000000001,0.9,have be give pursue come prove
+Holmes,Billy,3.8194444444444446,2.083333333333333,57.986111111111114,1.8333333333333333,be have ask look be slip
+Holmes,Billy,3.8194444444444446,2.083333333333333,57.986111111111114,1.8333333333333333,be have ask look be slip
+Holmes,Brothers,3.8194444444444446,2.083333333333333,57.986111111111114,1.8333333333333333,be have ask look be slip
+Billy,Brothers,3.8194444444444446,2.083333333333333,57.986111111111114,1.8333333333333333,be have ask look be slip
+Billy,Brothers,3.8194444444444446,2.083333333333333,57.986111111111114,1.8333333333333333,be have ask look be slip
+Brothers,Holmes,3.431372549019608,0.7352941176470588,56.61764705882353,4.666666666666667,come seem have be know mean come do
+Brothers,Lofte,3.431372549019608,0.7352941176470588,56.61764705882353,4.666666666666667,come seem have be know mean come do
+Holmes,Lofte,3.431372549019608,0.7352941176470588,56.61764705882353,4.666666666666667,come seem have be know mean come do
+Holmes,Brothers,3.431372549019608,0.7352941176470588,56.61764705882353,4.666666666666667,come seem have be know mean come do
+Lofte,Brothers,3.431372549019608,0.7352941176470588,56.61764705882353,4.666666666666667,come seem have be know mean come do
+Sherlock Holmes,Holmes,5.0,0.8333333333333334,47.5,6.0,leave
+Brothers,Holmes,1.2755102040816326,3.061224489795918,56.88775510204081,0.4166666666666667,be be involve move give
+Brothers,Holmes,1.2755102040816326,3.061224489795918,56.88775510204081,0.4166666666666667,be be involve move give
+James Harmony Hayden,Brothers,2.34375,1.953125,48.828125,1.2,have slip have find be
+James Harmony Hayden,Brothers,2.34375,1.953125,48.828125,1.2,have slip have find be
+James Harmony Hayden,Brothers,2.34375,1.953125,48.828125,1.2,have slip have find be
+Mary Russell,Holmes,3.125,3.125,48.75,1.0,have be have begin feel
+Brothers,Sherlock Holmes,1.1363636363636365,0.0,53.40909090909091,INF,be slip have
+Damian,Billy,3.571428571428571,2.380952380952381,55.952380952380956,1.5,obtain have wait
+Sherlock Holmes,Holmes,9.166666666666666,1.6666666666666667,55.833333333333336,5.5,possess have show disguise think be
+Holmes,Russell,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,scan see be thrive note be get
+Holmes,Russell,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,scan see be thrive note be get
+Holmes,Russell,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,scan see be thrive note be get
+Holmes,Russell,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,scan see be thrive note be get
+Russell,Holmes,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,scan see be thrive note be get
+Holmes,Wick,4.23728813559322,2.5423728813559325,49.152542372881356,1.6666666666666667,have have know be extrapolate choose make plot
+Holmes,Damian,4.23728813559322,2.5423728813559325,49.152542372881356,1.6666666666666667,have have know be extrapolate choose make plot
+Wick,Damian,4.23728813559322,2.5423728813559325,49.152542372881356,1.6666666666666667,have have know be extrapolate choose make plot
+Gordon,Billy,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Gordon,Billy,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Gordon,Billy,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Gordon,Russell,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Gordon,Thurso,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Gordon,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Russell,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Thurso,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Russell,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Thurso,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Russell,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Thurso,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Billy,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Russell,Thurso,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Russell,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Thurso,Wick,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,have be have
+Sherlock Holmes,Holmes,4.464285714285714,3.869047619047619,55.952380952380956,1.1538461538461537,stare darken try construct explain have send be be fill
+Sherlock Holmes,Holmes,4.464285714285714,3.869047619047619,55.952380952380956,1.1538461538461537,stare darken try construct explain have send be be fill
+Sherlock Holmes,Holmes,4.464285714285714,3.869047619047619,55.952380952380956,1.1538461538461537,stare darken try construct explain have send be be fill
+Brothers,Holmes,3.125,0.0,59.375,INF,have decide be sink
+Lestrade,Sherlock Holmes,6.5,5.0,44.5,1.3,have drive issue make have be be
+Lestrade,Damian,16.071428571428573,0.0,41.07142857142857,INF,make
+Lestrade,Holmes,0.78125,0.390625,55.078125,2.0,put turn feel turn hide
+Lestrade,Holmes,0.78125,0.390625,55.078125,2.0,put turn feel turn hide
+Holmes,Lestrade,0.78125,0.390625,55.078125,2.0,put turn feel turn hide
+Lestrade,Sherlock Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Lestrade,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Lestrade,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Lestrade,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Sherlock Holmes,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Sherlock Holmes,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Sherlock Holmes,Holmes,4.487179487179487,1.9230769230769231,50.0,2.3333333333333335,be respect do mean change
+Lestrade,Whitehall,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Lestrade,Sherlock Holmes,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Lestrade,Holmes,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Whitehall,Sherlock Holmes,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Whitehall,Holmes,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Sherlock Holmes,Holmes,3.4482758620689653,2.1551724137931036,66.8103448275862,1.6,have telephone be tell be miss put
+Mayfair,New Scotland Yard,5.89622641509434,0.9433962264150944,59.198113207547166,6.25,have begin involve miss have come know demand turn do
+Mayfair,Lestrade,4.910714285714286,0.4464285714285714,51.78571428571429,11.0,have walk have stop have be call
+Lestrade,Holmes,0.9615384615384616,1.4423076923076923,47.59615384615385,0.6666666666666666,be reprimand search take
+Holmes,Secret Intelligence Service,6.388888888888888,3.888888888888889,51.94444444444445,1.6428571428571428,have hold be be forgo
+Holmes,Lestrade,6.388888888888888,3.888888888888889,51.94444444444445,1.6428571428571428,have hold be be forgo
+Secret Intelligence Service,Lestrade,6.388888888888888,3.888888888888889,51.94444444444445,1.6428571428571428,have hold be be forgo
+Lestrade,Mayfair,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,top creep cane have have be say have come worry
+Lestrade,Mayfair,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,top creep cane have have be say have come worry
+Lestrade,Mayfair,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,top creep cane have have be say have come worry
+Mayfair,Lestrade,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,top creep cane have have be say have come worry
+Holmes,Lestrade,4.583333333333333,4.583333333333333,54.166666666666664,1.0,do know have be want tell have say
+Holmes,Lestrade,4.583333333333333,4.583333333333333,54.166666666666664,1.0,do know have be want tell have say
+Holmes,Lestrade,4.583333333333333,4.583333333333333,54.166666666666664,1.0,do know have be want tell have say
+Holmes,Lestrade,4.583333333333333,4.583333333333333,54.166666666666664,1.0,do know have be want tell have say
+Lestrade,Sherlock Holmes,5.208333333333334,5.208333333333334,64.58333333333334,1.0,do know be
+Lestrade,Holmes,5.208333333333334,5.208333333333334,64.58333333333334,1.0,do know be
+Sherlock Holmes,Holmes,5.208333333333334,5.208333333333334,64.58333333333334,1.0,do know be
+Holmes,Damian,1.9736842105263157,7.236842105263158,59.210526315789465,0.2727272727272727,do have be
+Holmes,Brothers,1.9736842105263157,7.236842105263158,59.210526315789465,0.2727272727272727,do have be
+Damian,Brothers,1.9736842105263157,7.236842105263158,59.210526315789465,0.2727272727272727,do have be
+Damian,Irene Adler,2.604166666666667,3.125,52.604166666666664,0.8333333333333334,have be prove be
+Damian,Irene Adler,2.604166666666667,3.125,52.604166666666664,0.8333333333333334,have be prove be
+Damian,Holmes,2.734375,0.0,56.640625,INF,do know be be know have talk be
+Damian,Holmes,2.734375,0.0,56.640625,INF,do know be be know have talk be
+Damian,Lestrade,2.734375,0.0,56.640625,INF,do know be be know have talk be
+Holmes,Lestrade,2.734375,0.0,56.640625,INF,do know be be know have talk be
+Holmes,Lestrade,2.734375,0.0,56.640625,INF,do know be be know have talk be
+Peter James West,Holmes,1.7500000000000002,0.5,55.75,3.5,re-read be find have be
+Peter James West,Holmes,1.7500000000000002,0.5,55.75,3.5,re-read be find have be
+Peter James West,Holmes,1.7500000000000002,0.5,55.75,3.5,re-read be find have be
+Holmes,Mr Holmes,2.556818181818182,1.9886363636363635,61.36363636363637,1.2857142857142858,have issue regard indicate have be evince
+Holmes,Sherlock Holmes,2.556818181818182,1.9886363636363635,61.36363636363637,1.2857142857142858,have issue regard indicate have be evince
+Mr Holmes,Sherlock Holmes,2.556818181818182,1.9886363636363635,61.36363636363637,1.2857142857142858,have issue regard indicate have be evince
+Mr Holmes,Holmes,2.556818181818182,1.9886363636363635,61.36363636363637,1.2857142857142858,have issue regard indicate have be evince
+Sherlock Holmes,Holmes,2.556818181818182,1.9886363636363635,61.36363636363637,1.2857142857142858,have issue regard indicate have be evince
+Gunderson,Peter James West,2.272727272727273,0.7575757575757576,57.57575757575758,3.0,have do dispose be
+Sherlock Holmes,Gunderson,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Sherlock Holmes,Holmes,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Sherlock Holmes,Holmes,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Sherlock Holmes,Orkney,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Gunderson,Holmes,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Gunderson,Holmes,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Gunderson,Orkney,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Holmes,Orkney,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Holmes,Orkney,3.125,1.953125,51.171875,1.6,be have place spirit be deal
+Gunderson,Buckner,1.5,0.0,38.5,INF,appear have return manage
+Gunderson,Buckner,1.5,0.0,38.5,INF,appear have return manage
+Holmes,Goodman,1.358695652173913,1.9021739130434785,57.608695652173914,0.7142857142857143,walk be lose spend fall watch go
+Secret Intelligence Service,Javitz,2.5,2.9545454545454546,56.36363636363636,0.8461538461538461,be be account break have divulge know reveal answer
+Damian,Holmes,0.0,0.0,50.0,INF,have make
+Estelle,Javitz,4.166666666666666,0.0,40.27777777777778,INF,be say
+Estelle,Goodman,4.166666666666666,0.0,40.27777777777778,INF,be say
+Javitz,Goodman,4.166666666666666,0.0,40.27777777777778,INF,be say
+Goodman,Estelle,0.625,1.25,48.125,0.5,remember have make gather add sling
+Estelle,Goodman,2.083333333333333,4.166666666666666,27.083333333333332,0.5,order stammer
+Estelle,Javitz,1.1904761904761905,4.166666666666666,42.26190476190476,0.2857142857142857,take wake cry
+Javitz,Estelle,1.1904761904761905,4.166666666666666,42.26190476190476,0.2857142857142857,take wake cry
+Estelle,Goodman,1.0135135135135136,0.0,50.33783783783784,INF,carve have become attach have buy be leave
+Goodman,Estelle,1.0135135135135136,0.0,50.33783783783784,INF,carve have become attach have buy be leave
+Estelle,Dolly,0.0,0.5,47.5,0.0,say get do promise be
+Sherlock Holmes,Holmes,4.605263157894736,5.921052631578947,68.42105263157895,0.7777777777777778,doubt have face
+Estelle,Javitz,3.571428571428571,0.0,39.285714285714285,INF,mind take come
+Goodman,Mr Robert,5.769230769230769,0.0,40.38461538461539,INF,take
+Robert Goodman,Robin Goodfellow,0.0,0.0,61.53846153846154,INF,chortle
+Robert Goodman,Goodman,2.5735294117647056,2.5735294117647056,53.67647058823529,1.0,press handle have work anticipate be go starve
+Robert Goodman,Goodman,2.5735294117647056,2.5735294117647056,53.67647058823529,1.0,press handle have work anticipate be go starve
+Javitz,Estelle,2.083333333333333,1.0416666666666665,46.875,2.0,do hope be
+Holmes,Javitz,1.8518518518518516,3.2407407407407405,61.57407407407407,0.5714285714285714,be have suggest find seem
+Holmes,Estelle,1.8518518518518516,3.2407407407407405,61.57407407407407,0.5714285714285714,be have suggest find seem
+Javitz,Estelle,1.8518518518518516,3.2407407407407405,61.57407407407407,0.5714285714285714,be have suggest find seem
+Javitz,Estelle,2.34375,2.34375,54.6875,1.0,judge have feel sit be
+Javitz,Estelle,2.34375,2.34375,54.6875,1.0,judge have feel sit be
+Goodman,Javitz,1.0,0.5,54.50000000000001,2.0,support tell be
+Estelle,Javitz,0.0,2.840909090909091,47.159090909090914,0.0,shift inch encounter move
+Goodman,Javitz,5.133928571428571,3.7946428571428568,53.57142857142857,1.3529411764705883,have be have be march stumble make feel
+Javitz,Estelle,0.0,0.0,40.909090909090914,INF,fold deposit
+Estelle,Javitz,0.0,0.0,40.909090909090914,INF,fold deposit
+Javitz,Russell,1.3888888888888888,1.8518518518518516,52.31481481481482,0.75,do come hang
+Russell,Javitz,5.0,0.0,45.0,INF,be add
+Javitz,Goodman,1.5625,2.34375,55.46875,0.6666666666666666,look suggest lean do step
+Javitz,Goodman,1.5625,2.34375,55.46875,0.6666666666666666,look suggest lean do step
+Javitz,Goodman,1.5625,2.34375,55.46875,0.6666666666666666,look suggest lean do step
+Javitz,Goodman,1.5625,2.34375,55.46875,0.6666666666666666,look suggest lean do step
+Javitz,Goodman,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Javitz,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Javitz,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Javitz,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Javitz,Dolly,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Goodman,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Goodman,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Goodman,Estelle,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Goodman,Dolly,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Estelle,Dolly,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Estelle,Dolly,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Estelle,Dolly,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,join reappear try peer lift sit supervise
+Goodman,Estelle,3.125,0.0,43.30357142857143,INF,hold stop turn
+Goodman,Estelle,3.125,0.0,43.30357142857143,INF,hold stop turn
+Goodman,Estelle,2.840909090909091,2.840909090909091,44.31818181818182,1.0,turn have be make burn
+Estelle,Goodman,2.840909090909091,2.840909090909091,44.31818181818182,1.0,turn have be make burn
+Javitz,RAF,2.127659574468085,3.4574468085106385,56.11702127659575,0.6153846153846154,lift say be go suggest have see be
+Estelle,Javitz,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,be settle reach
+Javitz,Estelle,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,open wink reach
+Javitz,Estelle,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,open wink reach
+Estelle,Javitz,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,open wink reach
+Damian,Sherlock Holmes,8.928571428571429,4.464285714285714,50.89285714285714,2.0,have know be
+Damian,Javitz,4.305555555555555,3.75,47.5,1.1481481481481481,do want abandon do wish place seem be keep have be
+Sherlock Holmes,Holmes,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,huddle vaporise pour wonder make
+Damian,Gordon,3.515625,2.734375,62.5,1.2857142857142858,leave have feel turn hold have anticipate cajole stay
+Damian,Gordon,3.515625,2.734375,62.5,1.2857142857142858,leave have feel turn hold have anticipate cajole stay
+Damian,Gordon,3.515625,2.734375,62.5,1.2857142857142858,leave have feel turn hold have anticipate cajole stay
+Sherlock Holmes,Holmes,4.910714285714286,3.571428571428571,59.375,1.375,remind be perform stoop
+Holmes,Lestrade,3.6458333333333335,5.208333333333334,57.8125,0.7,have be have agonise be
+Peter James West,Sherlock Holmes,4.6875,3.125,67.1875,1.5,have be have hire land
+Peter James West,Thurso,4.6875,3.125,67.1875,1.5,have be have hire land
+Sherlock Holmes,Thurso,4.6875,3.125,67.1875,1.5,have be have hire land
+Sherlock Holmes,Holmes,3.571428571428571,4.166666666666666,49.404761904761905,0.8571428571428571,do imagine overlook be
+Sherlock Holmes,Holmes,0.0,0.0,33.33333333333333,INF,miss
+Lestrade,Holmes,1.5151515151515151,0.0,56.060606060606055,INF,stand draw fold
+Lestrade,Holmes,1.5151515151515151,0.0,56.060606060606055,INF,stand draw fold
+Lestrade,Holmes,1.5151515151515151,0.0,56.060606060606055,INF,stand draw fold
+Lestrade,Holmes,4.861111111111112,9.722222222222223,57.638888888888886,0.5,do believe have be murder have venture
+Lestrade,Holmes,4.861111111111112,9.722222222222223,57.638888888888886,0.5,do believe have be murder have venture
+Holmes,Sherlock Holmes,1.7857142857142856,7.142857142857142,45.357142857142854,0.25,shake be tie urge overlook bring
+Holmes,Sherlock Holmes,1.7857142857142856,7.142857142857142,45.357142857142854,0.25,shake be tie urge overlook bring
+Sherlock Holmes,Holmes,1.7857142857142856,7.142857142857142,45.357142857142854,0.25,shake be tie urge overlook bring
+Holmes,Sherlock Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Holmes,Damian,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Holmes,Yolanda,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Sherlock Holmes,Damian,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Sherlock Holmes,Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Sherlock Holmes,Yolanda,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Sherlock Holmes,Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Damian,Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Damian,Yolanda,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Damian,Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Holmes,Yolanda,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Yolanda,Holmes,0.5681818181818182,3.977272727272727,52.27272727272727,0.14285714285714285,be be have stick be find
+Holmes,Sherlock Holmes,3.125,3.125,62.5,1.0,be have be have withdraw
+Holmes,Mary Russell,3.125,3.125,62.5,1.0,be have be have withdraw
+Holmes,Sherlock Holmes,3.125,3.125,62.5,1.0,be have be have withdraw
+Holmes,Mary Russell,3.125,3.125,62.5,1.0,be have be have withdraw
+Holmes,Sherlock Holmes,3.125,3.125,62.5,1.0,be have be have withdraw
+Holmes,Mary Russell,3.125,3.125,62.5,1.0,be have be have withdraw
+Sherlock Holmes,Mary Russell,3.125,3.125,62.5,1.0,be have be have withdraw
+Sherlock Holmes,Holmes,4.464285714285714,6.25,64.28571428571429,0.7142857142857143,have employ call
+Sherlock Holmes,Holmes,4.464285714285714,6.25,64.28571428571429,0.7142857142857143,have employ call
+Sherlock Holmes,Holmes,1.6666666666666667,2.5,46.94444444444444,0.6666666666666666,be re-shape
+Sherlock Holmes,Billy,1.25,1.25,60.83333333333333,1.0,be have end bash be drive leave
+Sherlock Holmes,Billy,1.25,1.25,60.83333333333333,1.0,be have end bash be drive leave
+Robert Goodman,Billy,0.0,0.0,72.0,INF,thread tell spot slump drape
+Robert Goodman,Billy,0.0,0.0,72.0,INF,thread tell spot slump drape
+Robert Goodman,Billy,0.0,0.0,72.0,INF,thread tell spot slump drape
+Robert Goodman,Billy,0.0,0.0,72.0,INF,thread tell spot slump drape
+Mr Mycroft,Billy,1.5625,0.0,44.27083333333333,INF,stay go blurt
+Billy,Goodman,1.8518518518518516,3.7037037037037033,57.407407407407405,0.5,mean insist step decide be intimidate obey have be be put look
+Billy,Goodman,1.8518518518518516,3.7037037037037033,57.407407407407405,0.5,mean insist step decide be intimidate obey have be be put look
+Billy,Goodman,1.8518518518518516,3.7037037037037033,57.407407407407405,0.5,mean insist step decide be intimidate obey have be be put look
+Billy,Goodman,2.82258064516129,2.82258064516129,55.64516129032258,1.0,let go bundle glance
+Sherlock Holmes,Billy,0.0,6.944444444444445,48.61111111111111,0.0,cut
+Goodman,Billy,0.0,2.7777777777777777,63.888888888888886,0.0,stir put
+Mr Holmes,Mr Mycroft,2.380952380952381,0.5952380952380952,54.166666666666664,4.0,tell have be see be know
+Holmes,Mr Mycroft,2.5735294117647056,2.2058823529411766,56.98529411764706,1.1666666666666667,say ring be die be pick question
+Mr Mycroft,Holmes,0.0,0.0,30.76923076923077,INF,talk
+Brothers,Marcus Gunderson,2.5,0.0,53.5,INF,do find come
+Brothers,Marcus Gunderson,2.5,0.0,53.5,INF,do find come
+Marcus Gunderson,Brothers,4.6875,0.0,57.8125,INF,start work
+Brothers,Mr Mycroft,2.5,3.3333333333333335,40.833333333333336,0.75,do think have do
+Brothers,Gunderson,4.545454545454546,1.9886363636363635,59.375,2.2857142857142856,brutalise be make find be go be ask
+Sherlock Holmes,Holmes,0.0,0.4464285714285714,53.125,0.0,fail show have look
+Holmes,Mr Holmes,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,be be do
+Holmes,Sherlock Holmes,6.875000000000001,1.25,56.875,5.5,be touch contort amuse be
+Sherlock Holmes,Holmes,6.875000000000001,1.25,56.875,5.5,be touch contort amuse be
+Sherlock Holmes,Goodman,4.032258064516129,3.225806451612903,50.806451612903224,1.25,see be have grow
+Goodman,Russell,5.434782608695652,1.6304347826086956,53.80434782608695,3.3333333333333335,find combine
+Sherlock Holmes,Holmes,0.0,2.5,57.49999999999999,0.0,be tuck
+Sherlock Holmes,Holmes,6.25,9.821428571428571,62.5,0.6363636363636364,have be be
+Holmes,Damian,3.4482758620689653,2.586206896551724,49.137931034482754,1.3333333333333333,be check show have be
+Holmes,Damian,3.4482758620689653,2.586206896551724,49.137931034482754,1.3333333333333333,be check show have be
+Sherlock Holmes,Holmes,2.083333333333333,2.083333333333333,70.83333333333334,1.0,be be lie
+Goodman,Estelle,0.0,0.0,42.857142857142854,INF,mean suffer
+Holmes,Sherlock Holmes,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,be examine be be devote concentrate
+Sherlock Holmes,Holmes,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,be examine be be devote concentrate
+Lestrade,Holmes,3.75,3.125,48.125,1.2,be wash
+Holmes,Secret Intelligence Service,3.260869565217391,1.9021739130434785,51.358695652173914,1.7142857142857142,connect decide leave last keep keep
+Holmes,Mrs Cowper,4.0,0.25,57.75,16.0,have command be renovate have stick come crash
+Holmes,Mrs Cowper,0.78125,1.953125,59.765625,0.4,cook have become
+Holmes,Goodman,0.5208333333333333,0.0,53.645833333333336,INF,be sit ponder swing part admit
+Holmes,Sherlock Holmes,4.5,1.5,46.0,3.0,have hand
+Holmes,Goodman,0.0,0.0,52.0,INF,be pull lay
+Holmes,Watson,2.2058823529411766,2.941176470588235,51.71568627450981,0.75,have be name be suck lose
+Holmes,Sophy Melas,2.2058823529411766,2.941176470588235,51.71568627450981,0.75,have be name be suck lose
+Watson,Holmes,2.2058823529411766,2.941176470588235,51.71568627450981,0.75,have be name be suck lose
+Watson,Sophy Melas,2.2058823529411766,2.941176470588235,51.71568627450981,0.75,have be name be suck lose
+Holmes,Sophy Melas,2.2058823529411766,2.941176470588235,51.71568627450981,0.75,have be name be suck lose
+Sophy Melas,Holmes,0.4629629629629629,1.3888888888888888,46.2962962962963,0.3333333333333333,attribute be
+Richard Sosa,Holmes,2.083333333333333,4.583333333333333,56.666666666666664,0.45454545454545453,have meet be ask take
+Richard Sosa,Holmes,2.083333333333333,4.583333333333333,56.666666666666664,0.45454545454545453,have meet be ask take
+Mr Melas,Mr Holmes,0.0,2.840909090909091,51.70454545454546,0.0,be be
+Holmes,Sherlock Holmes,1.0,0.0,63.0,INF,sound utilise sound have do
+Holmes,Watson,1.0,0.0,63.0,INF,sound utilise sound have do
+Sherlock Holmes,Watson,1.0,0.0,63.0,INF,sound utilise sound have do
+The Times,Holmes,6.666666666666667,0.8333333333333334,65.83333333333333,8.0,make sound have be
+Holmes,Sherlock Holmes,3.431372549019608,2.696078431372549,58.57843137254902,1.2727272727272727,rise be cut range keep put be bother go verify
+Sherlock Holmes,Holmes,3.431372549019608,2.696078431372549,58.57843137254902,1.2727272727272727,rise be cut range keep put be bother go verify
+Sherlock Holmes,Holmes,3.431372549019608,2.696078431372549,58.57843137254902,1.2727272727272727,rise be cut range keep put be bother go verify
+Mr Holmes,Goodman,3.4090909090909087,3.977272727272727,60.79545454545454,0.8571428571428571,ask talk say
+Mr Holmes,Goodman,4.166666666666666,1.0416666666666665,53.125,4.0,use be coax
+Orkney,Sherlock Holmes,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,have be fly be bob be say have be
+Orkney,Holmes,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,have be fly be bob be say have be
+Sherlock Holmes,Holmes,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,have be fly be bob be say have be
+Holmes,Lestrade,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,be be take question disappear
+Holmes,Sosa,1.0416666666666665,1.7361111111111112,47.22222222222222,0.6,be be gather be tell
+Holmes,Sosa,1.0416666666666665,1.7361111111111112,47.22222222222222,0.6,be be gather be tell
+Sosa,Mr Holmes,0.8333333333333334,3.3333333333333335,59.166666666666664,0.25,go miss believe be be preoccupy
+Mr Holmes,MacDonald,0.0,0.0,70.0,INF,mention
+Mr West,Peter James West,2.232142857142857,1.7857142857142856,60.26785714285714,1.25,be call have do
+Mr West,Peter James West,2.232142857142857,1.7857142857142856,60.26785714285714,1.25,be call have do
+Mr West,Peter James West,2.232142857142857,1.7857142857142856,60.26785714285714,1.25,be call have do
+Mr Holmes,Mrs Melas,3.6764705882352944,4.411764705882353,44.85294117647059,0.8333333333333334,be acknowledge say
+Mrs Melas,Holmes,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,do deliver
+Holmes,Mrs Melas,0.0,1.1904761904761905,41.66666666666667,0.0,thank make get
+Holmes,Mrs Melas,0.0,1.1904761904761905,41.66666666666667,0.0,thank make get
+Holmes,Goodman,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,speak tell
+Holmes,Sophy Melas,4.761904761904762,3.571428571428571,25.0,1.3333333333333333,be rôle play
+Holmes,Sophy Melas,4.761904761904762,3.571428571428571,25.0,1.3333333333333333,be rôle play
+Richard Sosa,Holmes,1.3888888888888888,1.8518518518518516,48.61111111111111,0.75,be have keep type
+Richard Sosa,Holmes,1.3888888888888888,1.8518518518518516,48.61111111111111,0.75,be have keep type
+Mayfair,Holmes,0.78125,4.296875,48.046875,0.18181818181818182,live
+Lestrade,New Scotland Yard,6.081081081081082,1.0135135135135136,57.770270270270274,6.0,lay please
+Brothers,Marcus Gunderson,0.0,0.0,64.70588235294117,INF,include request
+Brothers,Holmes,1.9230769230769231,0.4807692307692308,43.75,4.0,be pin have bring
+Brothers,Marcus Gunderson,1.9230769230769231,0.4807692307692308,43.75,4.0,be pin have bring
+Holmes,Marcus Gunderson,1.9230769230769231,0.4807692307692308,43.75,4.0,be pin have bring
+Holmes,Sosa,1.5151515151515151,1.893939393939394,48.10606060606061,0.8,be do discover call have be
+Sosa,Holmes,1.5151515151515151,1.893939393939394,48.10606060606061,0.8,be do discover call have be
+Sosa,Holmes,1.5151515151515151,1.893939393939394,48.10606060606061,0.8,be do discover call have be
+Holmes,Sophy Melas,10.416666666666668,4.166666666666666,43.75,2.5,have talk
+Holmes,Sosa,1.0,0.75,54.25,1.3333333333333333,have know do be test envision be use lay
+Holmes,Sosa,1.0,0.75,54.25,1.3333333333333333,have know do be test envision be use lay
+Holmes,Sosa,1.0,0.75,54.25,1.3333333333333333,have know do be test envision be use lay
+Holmes,Sosa,1.0,0.75,54.25,1.3333333333333333,have know do be test envision be use lay
+Brothers,Holmes,3.4722222222222223,3.4722222222222223,59.72222222222222,1.0,be be back be suborn
+Lestrade,Damian,1.7361111111111112,1.3888888888888888,41.31944444444444,1.25,be be think lay lead
+Lestrade,Yolanda,1.7361111111111112,1.3888888888888888,41.31944444444444,1.25,be be think lay lead
+Lestrade,Damian,1.7361111111111112,1.3888888888888888,41.31944444444444,1.25,be be think lay lead
+Lestrade,Yolanda,1.7361111111111112,1.3888888888888888,41.31944444444444,1.25,be be think lay lead
+Damian,Yolanda,1.7361111111111112,1.3888888888888888,41.31944444444444,1.25,be be think lay lead
+Estelle,Goodman,2.272727272727273,1.7045454545454544,36.93181818181818,1.3333333333333333,say add be go
+Lestrade,Sherlock Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Lestrade,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Lestrade,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Lestrade,Sherlock Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Lestrade,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Lestrade,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Sherlock Holmes,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Sherlock Holmes,Holmes,4.044117647058823,3.308823529411765,45.588235294117645,1.2222222222222223,be have arrest need know be see tell be
+Estelle,Sherlock Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Damian,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Orkney,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Thurso,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Javitz,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Damian,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Orkney,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Thurso,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Javitz,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Estelle,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sherlock Holmes,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Orkney,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Thurso,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Javitz,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Estelle,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Damian,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Thurso,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Javitz,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Estelle,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Orkney,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Javitz,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Estelle,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Thurso,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Javitz,Estelle,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Javitz,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Javitz,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Javitz,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Javitz,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Billy,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Estelle,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Billy,Holmes,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Billy,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Billy,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Holmes,Sophy Melas,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Holmes,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Sophy Melas,Sosa,2.7131782945736433,1.550387596899225,47.674418604651166,1.75,be change sit record have happen have part cut have find leave have say have find word have tell
+Lestrade,Holmes,4.807692307692308,0.0,49.03846153846153,INF,believe leave
+Damian,Estelle,1.0,2.0,41.0,0.5,beg wait do have solve ensure
+Mr Robert,Robin Goodfellow,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,commend be
+Holmes,Estelle,4.75,4.25,49.0,1.1176470588235294,set put be intercept be give do care give
+Lestrade,Holmes,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Lestrade,Sherlock Holmes,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Lestrade,Sussex,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Holmes,Sherlock Holmes,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Holmes,Sussex,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Sherlock Holmes,Sussex,0.0,0.3048780487804878,53.35365853658537,0.0,fold add write leave
+Lestrade,Sherlock Holmes,2.2058823529411766,1.9607843137254901,54.65686274509803,1.125,have die bequeath
+Lestrade,Sherlock Holmes,2.2058823529411766,1.9607843137254901,54.65686274509803,1.125,have die bequeath
+Richard Sosa,Mayfair,2.4193548387096775,3.6290322580645165,55.24193548387096,0.6666666666666666,be be imagine live do
+Richard Sosa,Holmes,2.7777777777777777,1.3888888888888888,18.055555555555554,2.0,be
+Sosa,Brothers,6.395348837209303,4.069767441860465,50.0,1.5714285714285714,go prefer hear say have record
+Brothers,Sosa,6.395348837209303,4.069767441860465,50.0,1.5714285714285714,go prefer hear say have record
+Brothers,Sosa,6.395348837209303,4.069767441860465,50.0,1.5714285714285714,go prefer hear say have record
+Sosa,Holmes,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Sosa,Holmes,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Sosa,Holmes,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Holmes,Sosa,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Sosa,Holmes,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Sosa,Holmes,4.891304347826087,2.717391304347826,44.565217391304344,1.8,fret do come ask make say indicate do get
+Brothers,Damian,3.9473684210526314,4.605263157894736,59.86842105263158,0.8571428571428571,be hear mean do know be
+Brothers,Marcus Gunderson,0.7352941176470588,1.2867647058823528,59.74264705882353,0.5714285714285714,be be include leave stab have ask shed bundle have come pick
+Brothers,Marcus Gunderson,0.7352941176470588,1.2867647058823528,59.74264705882353,0.5714285714285714,be be include leave stab have ask shed bundle have come pick
+Brothers,Marcus Gunderson,0.7352941176470588,1.2867647058823528,59.74264705882353,0.5714285714285714,be be include leave stab have ask shed bundle have come pick
+Brothers,Marcus Gunderson,0.7352941176470588,1.2867647058823528,59.74264705882353,0.5714285714285714,be be include leave stab have ask shed bundle have come pick
+Damian,Brothers,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Brothers,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Brothers,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Brothers,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Damian,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Damian,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Damian,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Damian,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Brothers,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Yolanda,4.918032786885246,2.2540983606557377,46.92622950819672,2.1818181818181817,keep say have do find be do be crank do know have be marry
+Damian,Brothers,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,tell be
+Damian,Brothers,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Damian,Orkney,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Damian,Brothers,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Brothers,Orkney,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Brothers,Damian,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Orkney,Brothers,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Orkney,Damian,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Brothers,Damian,2.8125,4.0625,48.125,0.6923076923076923,do know be see be try be injure
+Holmes,Lestrade,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,be stand say
+Brothers,Gunderson,7.8125,4.6875,43.75,1.6666666666666667,be have
+Lestrade,Holmes,1.8292682926829267,5.182926829268292,49.08536585365854,0.35294117647058826,have disagree say testify be quit
+Lestrade,Holmes,1.8292682926829267,5.182926829268292,49.08536585365854,0.35294117647058826,have disagree say testify be quit
+Lestrade,Holmes,1.8292682926829267,5.182926829268292,49.08536585365854,0.35294117647058826,have disagree say testify be quit
+Lestrade,Russell,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,look think need forget think
+Holmes,Sherlock Holmes,3.3653846153846154,3.8461538461538463,62.019230769230774,0.875,raise have be have resemble ferret
+Sherlock Holmes,Holmes,3.3653846153846154,3.8461538461538463,62.019230769230774,0.875,raise have be have resemble ferret
+Holmes,Sosa,1.6666666666666667,2.5,52.5,0.6666666666666666,be tie be force believe
+Holmes,Reverend Brothers,1.6666666666666667,2.5,52.5,0.6666666666666666,be tie be force believe
+Sosa,Reverend Brothers,1.6666666666666667,2.5,52.5,0.6666666666666666,be tie be force believe
+Holmes,Sosa,9.191176470588236,2.5735294117647056,41.17647058823529,3.5714285714285716,do have worry be arrest be stop go ask know be
+Sosa,Holmes,3.308823529411765,4.779411764705882,41.911764705882355,0.6923076923076923,concern be be trouble
+Lestrade,Sosa,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,decide search find
+Lestrade,Sosa,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,decide search find
+Russell,Damian,5.357142857142857,0.8928571428571428,36.607142857142854,6.0,need speak
+Sosa,Estelle,0.625,3.75,40.625,0.16666666666666666,give be give be
+Sosa,Damian,0.625,3.75,40.625,0.16666666666666666,give be give be
+Sosa,Sherlock Holmes,0.625,3.75,40.625,0.16666666666666666,give be give be
+Estelle,Sosa,0.625,3.75,40.625,0.16666666666666666,give be give be
+Estelle,Damian,0.625,3.75,40.625,0.16666666666666666,give be give be
+Estelle,Sherlock Holmes,0.625,3.75,40.625,0.16666666666666666,give be give be
+Sosa,Damian,0.625,3.75,40.625,0.16666666666666666,give be give be
+Sosa,Sherlock Holmes,0.625,3.75,40.625,0.16666666666666666,give be give be
+Damian,Sherlock Holmes,0.625,3.75,40.625,0.16666666666666666,give be give be
+Brothers,Gunderson,2.34375,1.5625,46.09375,1.5,be say
+Brothers,Sosa,2.34375,1.5625,46.09375,1.5,be say
+Gunderson,Sosa,2.34375,1.5625,46.09375,1.5,be say
+Sherlock Holmes,Holmes,3.571428571428571,10.714285714285714,35.714285714285715,0.3333333333333333,see kick have anticipate
+Sherlock Holmes,Holmes,0.8064516129032258,5.241935483870968,52.016129032258064,0.15384615384615385,trickle be see move
+Sherlock Holmes,Holmes,1.8518518518518516,0.0,57.407407407407405,INF,move deliver wait keep
+Sherlock Holmes,Holmes,1.8518518518518516,0.0,57.407407407407405,INF,move deliver wait keep
+Sherlock Holmes,Holmes,0.6944444444444444,0.6944444444444444,62.5,1.0,settle be walk park
+Sherlock Holmes,Holmes,1.4285714285714286,1.4285714285714286,45.714285714285715,1.0,ready walk toss get
+Sherlock Holmes,Holmes,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,be arrive check
+Holmes,Billy,3.618421052631579,5.592105263157895,56.57894736842105,0.6470588235294118,manipulate have buy have try reach
+Holmes,Billy,2.604166666666667,2.083333333333333,55.729166666666664,1.25,be stand wonder be whistle break
+Sherlock Holmes,Holmes,1.9230769230769231,9.615384615384617,65.38461538461539,0.2,be have make
+Sherlock Holmes,Holmes,2.6515151515151514,0.0,57.95454545454546,INF,keep come stand approach go join
+Sherlock Holmes,Holmes,2.604166666666667,2.604166666666667,61.458333333333336,1.0,be shift be sit dangle
+Sherlock Holmes,Holmes,2.604166666666667,2.604166666666667,61.458333333333336,1.0,be shift be sit dangle
+Lestrade,Holmes,0.0,3.75,51.24999999999999,0.0,buy drive take
+Lestrade,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Lestrade,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Lestrade,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Holmes,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Holmes,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Holmes,Billy,0.0,3.75,51.24999999999999,0.0,buy drive take
+Holmes,Ben,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Holmes,Parliament,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Holmes,New Scotland Yard,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Ben,Parliament,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Ben,New Scotland Yard,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Parliament,New Scotland Yard,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,see ride
+Robert Goodman,Estelle,4.0,2.0,54.0,2.0,have want give have do lead be have
+Robert Goodman,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Robert Goodman,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Robert Goodman,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Estelle,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Estelle,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Estelle,Javitz,4.0,2.0,54.0,2.0,have want give have do lead be have
+Goodman,Sherlock Holmes,0.6944444444444444,1.7361111111111112,64.23611111111111,0.4,take write tell be see have write be
+Holmes,Goodman,2.5,4.583333333333333,59.583333333333336,0.5454545454545454,have be have hear pass mean have take leave
+Holmes,Goodman,2.5,4.583333333333333,59.583333333333336,0.5454545454545454,have be have hear pass mean have take leave
+Holmes,Goodman,2.5,4.583333333333333,59.583333333333336,0.5454545454545454,have be have hear pass mean have take leave
+Lofte,Holmes,4.166666666666666,2.083333333333333,52.083333333333336,2.0,be have give
+Lofte,Brothers,4.166666666666666,2.083333333333333,52.083333333333336,2.0,be have give
+Holmes,Brothers,4.166666666666666,2.083333333333333,52.083333333333336,2.0,be have give
+Brothers,Lofte,0.0,2.8846153846153846,58.65384615384615,0.0,work have give do
+Billy,Sherlock Holmes,5.263157894736842,3.9473684210526314,59.210526315789465,1.3333333333333333,be be go be
+Billy,Holmes,5.263157894736842,3.9473684210526314,59.210526315789465,1.3333333333333333,be be go be
+Sherlock Holmes,Holmes,5.263157894736842,3.9473684210526314,59.210526315789465,1.3333333333333333,be be go be
+Sosa,Sherlock Holmes,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Sosa,Holmes,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Sosa,Brothers,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Sherlock Holmes,Holmes,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Sherlock Holmes,Brothers,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Holmes,Brothers,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,think ring send link
+Dolly,Mr Robert,3.125,1.3392857142857142,45.535714285714285,2.3333333333333335,hop scramble stand be
+Javitz,Estelle,0.0,2.272727272727273,34.090909090909086,0.0,want see persist
+Javitz,Estelle,5.147058823529411,0.7352941176470588,52.94117647058824,7.0,be be shut
+Javitz,Estelle,5.147058823529411,0.7352941176470588,52.94117647058824,7.0,be be shut
+Javitz,Estelle,1.5625,2.34375,55.46875,0.6666666666666666,cast blink say mean do want talk
+Javitz,Estelle,1.5625,2.34375,55.46875,0.6666666666666666,cast blink say mean do want talk
+Estelle,Javitz,1.5625,2.34375,55.46875,0.6666666666666666,cast blink say mean do want talk
+Estelle,Javitz,1.5625,2.34375,55.46875,0.6666666666666666,cast blink say mean do want talk
+Estelle,Javitz,3.5000000000000004,0.0,48.5,INF,do hire help save point
+Goodman,McAlpin,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+Goodman,Moreton,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+Goodman,McAlpin,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+Goodman,Moreton,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+McAlpin,Goodman,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+McAlpin,Moreton,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+McAlpin,Goodman,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+Goodman,Moreton,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+Moreton,Goodman,1.524390243902439,3.6585365853658534,43.59756097560975,0.4166666666666667,be try seem think know be say
+McAlpin,Moreton,1.4285714285714286,3.571428571428571,55.00000000000001,0.4,spread name think include be drag testify
+Goodman,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Goodman,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Moreton,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Moreton,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Moreton,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Moreton,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Moreton,McAlpin,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+McAlpin,Moreton,3.0585106382978724,1.9946808510638299,53.45744680851063,1.5333333333333334,refuse acknowledge say have be be save be gaol bring light concern have know have have leave be have be
+Javitz,Goodman,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Javitz,Goodman,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Javitz,Goodman,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Goodman,Javitz,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Goodman,Javitz,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Goodman,Javitz,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Goodman,Javitz,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Goodman,Javitz,2.666666666666667,0.33333333333333337,51.66666666666667,8.0,be explain have come have tell be go take show keep demand know lead
+Javitz,Estelle,2.5,0.625,61.875,4.0,feel be concern permit accuse
+Goodman,RAF,4.310344827586207,0.43103448275862066,53.879310344827594,10.0,be have permit shove
+RAF,Goodman,4.310344827586207,0.43103448275862066,53.879310344827594,10.0,be have permit shove
+Peter James West,Lestrade,1.5625,0.0,56.770833333333336,INF,walk be
+Holmes,Russell,2.1551724137931036,6.896551724137931,59.91379310344828,0.3125,see go have be be
+Holmes,Lestrade,0.0,0.0,45.45454545454545,INF,represent
+Lestrade,Russell,1.875,4.375,53.75,0.42857142857142855,think interrupt be
+Lestrade,Mary Russell,1.875,4.375,53.75,0.42857142857142855,think interrupt be
+Russell,Mary Russell,1.875,4.375,53.75,0.42857142857142855,think interrupt be
+Brothers,Lestrade,0.0,1.7361111111111112,56.59722222222222,0.0,think find reach seize cut
+Peter James West,Reverend Brothers,1.3888888888888888,2.314814814814815,59.25925925925925,0.6,sit pick
+Peter James West,Reverend Brothers,1.3888888888888888,2.314814814814815,59.25925925925925,0.6,sit pick
+Brothers,Gunderson,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Brothers,Holmes,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Gunderson,Brothers,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Gunderson,Holmes,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Gunderson,Brothers,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Brothers,Holmes,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Holmes,Brothers,2.8846153846153846,3.3653846153846154,59.13461538461539,0.8571428571428571,be tempt send own have kill decide be have think
+Brothers,Gunderson,0.0,0.0,45.0,INF,tell keep send
+Gunderson,Brothers,0.0,0.0,45.0,INF,tell keep send
+Gunderson,Brothers,0.0,0.0,45.0,INF,tell keep send
+Gunderson,Orkneys,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,return tidy have be summon be return
+Gunderson,Orkneys,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,return tidy have be summon be return
+Peter James West,Holmes,0.0,0.0,71.42857142857143,INF,raise come
+Moreton,Robert Goodman,2.586206896551724,0.0,62.93103448275862,INF,concern know
+Robert Goodman,Moreton,0.43103448275862066,3.0172413793103448,44.827586206896555,0.14285714285714285,
+Robert Goodman,Moreton,0.43103448275862066,3.0172413793103448,44.827586206896555,0.14285714285714285,
+Robert Goodman,Craiglockhart,0.43103448275862066,3.0172413793103448,44.827586206896555,0.14285714285714285,
+Moreton,Craiglockhart,0.43103448275862066,3.0172413793103448,44.827586206896555,0.14285714285714285,
+Moreton,Craiglockhart,0.43103448275862066,3.0172413793103448,44.827586206896555,0.14285714285714285,
+Robert Goodman,Moreton,2.4193548387096775,1.2096774193548387,51.20967741935484,2.0,tell
+Robert Goodman,Moreton,2.4193548387096775,1.2096774193548387,51.20967741935484,2.0,tell
+Robert Goodman,Craiglockhart,2.4193548387096775,1.2096774193548387,51.20967741935484,2.0,tell
+Moreton,Craiglockhart,2.4193548387096775,1.2096774193548387,51.20967741935484,2.0,tell
+Moreton,Craiglockhart,2.4193548387096775,1.2096774193548387,51.20967741935484,2.0,tell
+Robert Goodman,Moreton,1.6666666666666667,0.4166666666666667,61.25000000000001,4.0,write concern begin
+Moreton,Robert Goodman,1.7045454545454544,1.4204545454545454,35.51136363636363,1.2,use refer describe become
+Robert Goodman,Craiglockhart,0.7352941176470588,2.941176470588235,61.029411764705884,0.25,arrive
+Moreton,Craiglockhart,0.0,3.3653846153846154,50.480769230769226,0.0,choose attribute shell be send
+Moreton,Craiglockhart,0.0,3.3653846153846154,50.480769230769226,0.0,choose attribute shell be send
+Moreton,Craiglockhart,0.0,3.3653846153846154,50.480769230769226,0.0,choose attribute shell be send
+Moreton,Robert Goodman,3.6458333333333335,3.6458333333333335,46.875,1.0,reply be tell be go
+Robert Goodman,Moreton,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,appear be have drop wish do
+Robert Goodman,Moreton,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,appear be have drop wish do
+Robert Goodman,Goodman,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,appear be have drop wish do
+Moreton,Goodman,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,appear be have drop wish do
+Moreton,Goodman,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,appear be have drop wish do
+Robert Goodman,Moreton,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Moreton,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Moreton,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Moreton,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Moreton,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Moreton,Goodman,2.0161290322580645,4.032258064516129,54.166666666666664,0.5,find tempt write describe embrace spend draw be permit appear confront give have shift
+Robert Goodman,Goodman,1.6666666666666667,0.4166666666666667,52.916666666666664,4.0,be take come beg keep follow drive
+Robert Goodman,Goodman,1.6666666666666667,0.4166666666666667,52.916666666666664,4.0,be take come beg keep follow drive
+Robert Goodman,Goodman,1.6666666666666667,0.4166666666666667,52.916666666666664,4.0,be take come beg keep follow drive
+McAlpin,Moreton,2.8301886792452833,0.2358490566037736,53.5377358490566,12.0,include concern be make concern have meet
+McAlpin,Craiglockhart,2.8301886792452833,0.2358490566037736,53.5377358490566,12.0,include concern be make concern have meet
+Moreton,McAlpin,2.8301886792452833,0.2358490566037736,53.5377358490566,12.0,include concern be make concern have meet
+Moreton,Craiglockhart,2.8301886792452833,0.2358490566037736,53.5377358490566,12.0,include concern be make concern have meet
+McAlpin,Craiglockhart,2.8301886792452833,0.2358490566037736,53.5377358490566,12.0,include concern be make concern have meet
+Robert Goodman,Goodman,2.6595744680851063,6.382978723404255,54.78723404255319,0.4166666666666667,have attend shatter be do have think
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Robert Goodman,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Robert Goodman,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Holmes,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Mary Russell,Robert Goodman,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Holmes,Robert Goodman,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Holmes,Robert Goodman,6.578947368421052,1.9736842105263157,54.60526315789473,3.3333333333333335,be think love have have be have enjoy
+Russell,Sherlock Holmes,3.125,0.78125,52.34375,4.0,have be see
+Sherlock Holmes,Holmes,0.0,0.0,56.52173913043478,INF,find stroll wait pounce
+Sherlock Holmes,Holmes,3.977272727272727,1.1363636363636365,49.43181818181818,3.5,have remove set
+Sherlock Holmes,Holmes,3.977272727272727,1.1363636363636365,49.43181818181818,3.5,have remove set
+Holmes,Billy,1.7857142857142856,5.803571428571429,56.69642857142857,0.3076923076923077,jerk frown disguise be
+Wick,Goodman,3.125,0.0,55.208333333333336,INF,say
+Sherlock Holmes,Russell,3.3333333333333335,0.8333333333333334,42.5,4.0,do think
+Sherlock Holmes,Holmes,1.1363636363636365,0.3787878787878788,59.09090909090909,3.0,move put toss have make
+Sherlock Holmes,Damian,1.1363636363636365,0.3787878787878788,59.09090909090909,3.0,move put toss have make
+Holmes,Damian,1.1363636363636365,0.3787878787878788,59.09090909090909,3.0,move put toss have make
+Brothers,Holmes,1.3888888888888888,0.0,54.166666666666664,INF,have
+Brothers,Holmes,1.3888888888888888,0.0,54.166666666666664,INF,have
+Holmes,Brothers,1.3888888888888888,0.0,54.166666666666664,INF,have
+Holmes,Brothers,1.3888888888888888,0.0,54.166666666666664,INF,have
+Sherlock Holmes,Holmes,1.5625,3.125,52.81249999999999,0.5,see jolt have see have skip
+Sherlock Holmes,Holmes,1.5625,3.125,52.81249999999999,0.5,see jolt have see have skip
+Sherlock Holmes,Brothers,0.6578947368421052,0.0,51.973684210526315,INF,see
+Sherlock Holmes,Holmes,0.6578947368421052,0.0,51.973684210526315,INF,see
+Brothers,Holmes,0.6578947368421052,0.0,51.973684210526315,INF,see
+Thurso,Holmes,1.5625,0.0,35.9375,INF,add
+Holmes,Javitz,1.0416666666666665,0.78125,46.09375,1.3333333333333333,tell have be
+Holmes,Javitz,1.0416666666666665,0.78125,46.09375,1.3333333333333333,tell have be
+Holmes,Estelle,1.0416666666666665,0.78125,46.09375,1.3333333333333333,tell have be
+Javitz,Estelle,1.0416666666666665,0.78125,46.09375,1.3333333333333333,tell have be
+Javitz,Estelle,1.0416666666666665,0.78125,46.09375,1.3333333333333333,tell have be
+Javitz,Richard Sosa,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Javitz,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Javitz,Lestrade,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Javitz,Sophy Melas,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Javitz,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Javitz,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Richard Sosa,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Richard Sosa,Lestrade,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Richard Sosa,Sophy Melas,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Richard Sosa,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Richard Sosa,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Holmes,Lestrade,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Holmes,Sophy Melas,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Lestrade,Sophy Melas,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Lestrade,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Lestrade,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Sophy Melas,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Sophy Melas,Holmes,0.7692307692307693,0.19230769230769232,45.19230769230769,4.0,tell have find have uncover change say tell
+Sinclair,Secret Intelligence Service,1.0,4.0,47.0,0.25,have include
+Peter James West,Richard Sosa,4.166666666666666,6.25,31.25,0.6666666666666666,
+Javitz,Estelle,7.142857142857142,0.5952380952380952,49.404761904761905,12.0,be determine get
+Javitz,Estelle,7.142857142857142,0.5952380952380952,49.404761904761905,12.0,be determine get
+Javitz,Estelle,4.5,6.0,57.49999999999999,0.75,be mean be guard
+Javitz,Estelle,4.5,6.0,57.49999999999999,0.75,be mean be guard
+Goodman,Lestrade,2.631578947368421,0.9868421052631579,62.17105263157895,2.6666666666666665,see take write give think set decide arrest
+Billy,Holmes,0.8333333333333334,2.083333333333333,53.75,0.4,be be know feel expose do want risk
+Sherlock Holmes,Holmes,0.625,3.125,56.25,0.2,be doubt tackle
+Sherlock Holmes,Holmes,0.625,3.125,56.25,0.2,be doubt tackle
+Mr Robert,Robert Goodman,0.0,0.5681818181818182,58.52272727272727,0.0,say wait resume attempt
+Sherlock Holmes,Goodman,3.3653846153846154,0.4807692307692308,57.692307692307686,7.0,look say be agree
+Goodman,Sherlock Holmes,0.0,5.681818181818182,48.86363636363637,0.0,presume reply
+Goodman,Sherlock Holmes,1.875,3.75,44.375,0.5,need thank protest be have mean
+Sherlock Holmes,Holmes,0.0,0.0,62.5,INF,look
+Goodman,Estelle,0.0,1.25,43.75,0.0,nod reply say look
+Goodman,Estelle,0.0,1.25,43.75,0.0,nod reply say look
+Holmes,Sosa,5.147058823529411,0.0,41.911764705882355,INF,have have
+Holmes,Sosa,5.147058823529411,0.0,41.911764705882355,INF,have have
+Sosa,Sinclair,0.2717391304347826,0.0,49.72826086956522,INF,believe adopt take be take mean
+Sherlock Holmes,Holmes,2.1634615384615383,1.9230769230769231,55.52884615384615,1.125,be abandon dig have don use be drive
+Sherlock Holmes,Holmes,2.1634615384615383,1.9230769230769231,55.52884615384615,1.125,be abandon dig have don use be drive
+Goodman,Sherlock Holmes,0.0,0.0,61.53846153846154,INF,choose join tell
+Sherlock Holmes,Holmes,2.6785714285714284,1.7857142857142856,56.25,1.5,roll pull drive set have steal
+Sherlock Holmes,Holmes,2.6785714285714284,1.7857142857142856,56.25,1.5,roll pull drive set have steal
+Goodman,Sherlock Holmes,3.0172413793103448,4.310344827586207,51.293103448275865,0.7,look catch
+Goodman,Sherlock Holmes,3.0172413793103448,4.310344827586207,51.293103448275865,0.7,look catch
+Sherlock Holmes,Holmes,0.0,0.0,52.94117647058824,INF,toss pull
+Holmes,Goodman,0.0,0.0,75.0,INF,pick interrupt
+Sherlock Holmes,Holmes,0.0,0.0,60.0,INF,lay
+Goodman,Sherlock Holmes,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,wrap wait be stand shine
+Goodman,Holmes,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,wrap wait be stand shine
+Goodman,Sherlock Holmes,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,wrap wait be stand shine
+Goodman,Holmes,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,wrap wait be stand shine
+Sherlock Holmes,Holmes,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,wrap wait be stand shine
+Sherlock Holmes,Holmes,1.9230769230769231,8.653846153846153,47.11538461538461,0.2222222222222222,stifle be tell hold
+Sherlock Holmes,Holmes,1.9230769230769231,8.653846153846153,47.11538461538461,0.2222222222222222,stifle be tell hold
+Sherlock Holmes,Goodman,1.9230769230769231,8.653846153846153,47.11538461538461,0.2222222222222222,stifle be tell hold
+Holmes,Goodman,1.9230769230769231,8.653846153846153,47.11538461538461,0.2222222222222222,stifle be tell hold
+Holmes,Goodman,1.9230769230769231,8.653846153846153,47.11538461538461,0.2222222222222222,stifle be tell hold
+Goodman,Sherlock Holmes,3.316326530612245,2.295918367346939,59.693877551020414,1.4444444444444444,let rest shine think be contain
+Goodman,Sherlock Holmes,3.316326530612245,2.295918367346939,59.693877551020414,1.4444444444444444,let rest shine think be contain
+Goodman,Sherlock Holmes,3.316326530612245,2.295918367346939,59.693877551020414,1.4444444444444444,let rest shine think be contain
+Sherlock Holmes,Holmes,1.0,0.0,55.00000000000001,INF,pull dangle continue direct
+Goodman,Sherlock Holmes,6.944444444444445,0.0,26.38888888888889,INF,know say
+Sosa,Holmes,2.5,1.25,36.25,2.0,be hide
+Sherlock Holmes,Holmes,6.25,10.416666666666668,50.0,0.6,retract
+Sherlock Holmes,Holmes,0.0,1.0416666666666665,73.95833333333334,0.0,ask begin fling
+Goodman,Sherlock Holmes,4.891304347826087,2.717391304347826,48.91304347826087,1.8,come appropriate have be lean
+Sherlock Holmes,Holmes,2.631578947368421,0.0,55.26315789473685,INF,be have get
+Sherlock Holmes,Holmes,2.631578947368421,0.0,55.26315789473685,INF,be have get
+Holmes,Javitz,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,be catch
+Holmes,Goodman,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,be catch
+Javitz,Goodman,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,be catch
+Javitz,Estelle,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,have depend watch have do ask
+Estelle,Javitz,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,have depend watch have do ask
+Javitz,Goodman,12.5,2.7777777777777777,40.27777777777778,4.5,know say
+Holmes,The Times,5.357142857142857,2.976190476190476,58.333333333333336,1.8,do know
+Peter James West,Holmes,1.3888888888888888,2.7777777777777777,58.79629629629629,0.5,have stand grow melt
+Peter James West,Holmes,1.3888888888888888,2.7777777777777777,58.79629629629629,0.5,have stand grow melt
+Buckner,Gunderson,6.578947368421052,0.0,40.78947368421053,INF,have see have do
+Buckner,Gunderson,6.578947368421052,0.0,40.78947368421053,INF,have see have do
+Goodman,Sherlock Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Goodman,Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Goodman,Sherlock Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Goodman,Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Goodman,Sherlock Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Goodman,Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Sherlock Holmes,Holmes,2.430555555555556,1.3888888888888888,60.06944444444444,1.75,place steam have summon let finish raise
+Sosa,Holmes,3.90625,4.6875,41.40625,0.8333333333333334,expect inherit
+Peter James West,Holmes,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,be
+Holmes,Peter James West,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,be
+Holmes,Lestrade,0.0,4.411764705882353,60.29411764705882,0.0,go see be give
+Holmes,Lestrade,0.0,4.411764705882353,60.29411764705882,0.0,go see be give
+Peter James West,Holmes,3.4090909090909087,2.6515151515151514,51.515151515151516,1.2857142857142858,be bring have think possess
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Holmes,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Sinclair,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Holmes,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Secret Intelligence Service,2.358490566037736,2.1226415094339623,48.34905660377358,1.1111111111111112,be have see constitute be express regard
+Sinclair,Bolsheviks,2.380952380952381,5.357142857142857,44.642857142857146,0.4444444444444444,maintain have be crush penetrate
+Holmes,Sinclair,1.7857142857142856,2.6785714285714284,49.107142857142854,0.6666666666666666,have agree possess have be
+Sinclair,Holmes,1.7857142857142856,2.6785714285714284,49.107142857142854,0.6666666666666666,have agree possess have be
+Holmes,Goodman,0.0,3.125,61.875,0.0,be light slide do take
+Goodman,Sherlock Holmes,0.3472222222222222,5.208333333333334,50.0,0.06666666666666667,see cause come think request stay do
+Goodman,Holmes,0.3472222222222222,5.208333333333334,50.0,0.06666666666666667,see cause come think request stay do
+Goodman,Holmes,0.3472222222222222,5.208333333333334,50.0,0.06666666666666667,see cause come think request stay do
+Sherlock Holmes,Holmes,0.3472222222222222,5.208333333333334,50.0,0.06666666666666667,see cause come think request stay do
+Sherlock Holmes,Holmes,0.3472222222222222,5.208333333333334,50.0,0.06666666666666667,see cause come think request stay do
+Goodman,Sherlock Holmes,0.0,0.0,58.333333333333336,INF,reach latch grab
+Goodman,Holmes,0.0,0.0,58.333333333333336,INF,reach latch grab
+Sherlock Holmes,Holmes,0.0,0.0,58.333333333333336,INF,reach latch grab
+Mr Robert,Robert Goodman,0.0,0.0,42.857142857142854,INF,be
+Sherlock Holmes,Holmes,0.0,0.0,58.333333333333336,INF,shove follow
+Lestrade,Sherlock Holmes,4.375,0.0,65.625,INF,have leave come lay
+Sherlock Holmes,Holmes,6.25,1.5625,48.4375,4.0,dawn give
+Holmes,Mrs Cowper,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Holmes,Sherlock Holmes,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Holmes,Mrs Cowper,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Holmes,Sherlock Holmes,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Mrs Cowper,Holmes,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Mrs Cowper,Sherlock Holmes,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Holmes,Sherlock Holmes,2.6515151515151514,1.7045454545454544,65.3409090909091,1.5555555555555556,have include screw have block hang jerk cross attack
+Sherlock Holmes,Holmes,2.083333333333333,2.5,52.083333333333336,0.8333333333333334,pick draw put twist examine
+Sherlock Holmes,Holmes,2.083333333333333,2.5,52.083333333333336,0.8333333333333334,pick draw put twist examine
+Goodman,Mrs Cowper,0.0,5.0,65.0,0.0,make see drag climb
+Goodman,Mrs Cowper,0.0,5.0,65.0,0.0,make see drag climb
+Holmes,Green,3.8461538461538463,0.0,57.692307692307686,INF,hiss lock
+Holmes,Green,3.8461538461538463,0.0,57.692307692307686,INF,hiss lock
+Goodman,Sherlock Holmes,0.0,3.804347826086957,70.1086956521739,0.0,do do reply wait give let go
+Goodman,Sherlock Holmes,0.0,3.804347826086957,70.1086956521739,0.0,do do reply wait give let go
+Goodman,Sherlock Holmes,0.0,3.804347826086957,70.1086956521739,0.0,do do reply wait give let go
+Sherlock Holmes,Goodman,5.952380952380952,3.571428571428571,57.14285714285714,1.6666666666666667,bounce
+Sherlock Holmes,Goodman,1.5625,0.0,57.8125,INF,try cling peer see explore
+Sherlock Holmes,Holmes,1.5625,0.0,57.8125,INF,try cling peer see explore
+Goodman,Holmes,1.5625,0.0,57.8125,INF,try cling peer see explore
+Sherlock Holmes,Holmes,0.0,3.9473684210526314,69.73684210526315,0.0,stretch fall hear click
+Sherlock Holmes,Holmes,0.0,0.0,53.84615384615385,INF,shift say
+Goodman,Mrs Melas,0.0,0.0,33.33333333333333,INF,say be be wait ask
+Holmes,Goodman,7.907692307692307,5.073076923076923,60.09615384615385,1.5587566338134953,have be eye
+Holmes,Sherlock Holmes,7.907692307692307,5.073076923076923,60.09615384615385,1.5587566338134953,have be eye
+Goodman,Sherlock Holmes,7.907692307692307,5.073076923076923,60.09615384615385,1.5587566338134953,have be eye
+Goodman,Holmes,7.907692307692307,5.073076923076923,60.09615384615385,1.5587566338134953,have be eye
+Sherlock Holmes,Holmes,7.907692307692307,5.073076923076923,60.09615384615385,1.5587566338134953,have be eye
+Holmes,Sophy Melas,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Holmes,Victoria,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Holmes,Sophy Melas,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Holmes,Victoria,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Sophy Melas,Victoria,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Sophy Melas,Victoria,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Victoria,Sophy Melas,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Sophy Melas,Victoria,2.9545454545454546,2.5,54.54545454545454,1.1818181818181819,lead sit furnish set have escape lay have be
+Goodman,Sherlock Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Damian,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Sherlock Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Damian,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Goodman,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Sherlock Holmes,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Sherlock Holmes,Damian,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Sherlock Holmes,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Holmes,Damian,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Damian,Holmes,4.391891891891892,4.391891891891892,50.67567567567568,1.0,ignore listen tell have encounter
+Holmes,Cumming,0.0,0.0,45.83333333333333,INF,think begin begin cum die
+Cumming,Sinclair,4.375,1.875,48.75,2.3333333333333335,cum take find be do
+Cumming,Sinclair,4.375,1.875,48.75,2.3333333333333335,cum take find be do
+Cumming,Sinclair,4.375,1.875,48.75,2.3333333333333335,cum take find be do
+Cumming,Sinclair,4.375,1.875,48.75,2.3333333333333335,cum take find be do
+Cumming,Secret Intelligence Service,6.597222222222222,4.166666666666666,47.56944444444444,1.5833333333333333,cum have be put say be
+Goodman,Holmes,0.0,3.125,46.875,0.0,continue lower begin
+Goodman,Holmes,0.0,3.125,46.875,0.0,continue lower begin
+Sherlock Holmes,Holmes,3.571428571428571,0.0,63.095238095238095,INF,look be study
+Sherlock Holmes,Holmes,3.571428571428571,0.0,63.095238095238095,INF,look be study
+Sinclair,Secret Intelligence Service,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,set brush present
+Sinclair,Labour,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,set brush present
+Secret Intelligence Service,Labour,3.0303030303030303,2.6515151515151514,57.95454545454546,1.1428571428571428,set brush present
+Sosa,Holmes,2.5,6.25,31.25,0.4,say
+Sosa,Holmes,3.804347826086957,10.326086956521738,46.73913043478261,0.3684210526315789,disappear stand work
+Sosa,Holmes,3.804347826086957,10.326086956521738,46.73913043478261,0.3684210526315789,disappear stand work
+Holmes,Sosa,1.5625,1.25,62.18749999999999,1.25,stumble see be throw return catch unfurl dance
+Sosa,Holmes,4.545454545454546,0.5681818181818182,49.43181818181818,8.0,have be tell
+Sosa,Sherlock Holmes,0.7352941176470588,2.2058823529411766,44.11764705882353,0.3333333333333333,be wish inherit say
+Sosa,Lofte,6.8181818181818175,0.0,56.81818181818182,INF,have instruct send
+Sosa,Lofte,6.8181818181818175,0.0,56.81818181818182,INF,have instruct send
+Sosa,Lofte,6.8181818181818175,0.0,56.81818181818182,INF,have instruct send
+Brothers,Gunderson,0.0,1.4705882352941175,63.23529411764706,0.0,be miss be
+Brothers,Gunderson,0.0,1.4705882352941175,63.23529411764706,0.0,be miss be
+Sosa,Lofte,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Sosa,Gunderson,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Sosa,Brothers,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Lofte,Gunderson,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Lofte,Brothers,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Gunderson,Brothers,1.1363636363636365,0.0,56.439393939393945,INF,place make send return
+Sosa,Gunderson,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,wait leave be have be dispatch bring drug
+Sosa,Gunderson,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,wait leave be have be dispatch bring drug
+Holmes,Sosa,9.166666666666666,0.8333333333333334,43.333333333333336,11.0,describe terrify have rescue
+Holmes,Sosa,9.166666666666666,0.8333333333333334,43.333333333333336,11.0,describe terrify have rescue
+Holmes,Sosa,9.166666666666666,0.8333333333333334,43.333333333333336,11.0,describe terrify have rescue
+Sosa,Gunderson,1.171875,3.515625,54.6875,0.3333333333333333,tell keep go confront seem think be leave
+Sosa,Gunderson,1.171875,3.515625,54.6875,0.3333333333333333,tell keep go confront seem think be leave
+Sosa,Mrs Hudson,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sosa,Mrs Cowper,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sosa,Mrs Hudson,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sosa,Mrs Cowper,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sosa,Mrs Hudson,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sosa,Mrs Cowper,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Mrs Hudson,Mrs Cowper,1.7857142857142856,0.0,44.642857142857146,INF,send have get
+Sherlock Holmes,Holmes,5.0,0.0,35.0,INF,say
+Damian,Javitz,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Damian,Estelle,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Damian,Goodman,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Javitz,Estelle,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Javitz,Goodman,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Estelle,Goodman,0.3787878787878788,4.545454545454546,46.590909090909086,0.08333333333333333,be lodge be protect be remain consider
+Holmes,Sherlock Holmes,2.430555555555556,1.3888888888888888,54.513888888888886,1.75,follow lead lay amend be require succeed
+Holmes,Gunderson,7.738095238095238,7.142857142857142,51.78571428571429,1.0833333333333333,realise be be be miss
+Holmes,Gunderson,7.738095238095238,7.142857142857142,51.78571428571429,1.0833333333333333,realise be be be miss
+Holmes,Whitehall,0.625,0.625,58.75,1.0,walk send scurry
+Holmes,Whitehall,0.625,0.625,58.75,1.0,walk send scurry
+Sherlock Holmes,Holmes,0.0,5.208333333333334,61.458333333333336,0.0,be frown speak
+Goodman,Estelle,1.1904761904761905,0.0,51.19047619047619,INF,begin stir wake stretch look
+Sherlock Holmes,Goodman,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Sherlock Holmes,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Sherlock Holmes,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Sherlock Holmes,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Sherlock Holmes,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Goodman,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Goodman,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Goodman,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Goodman,Holmes,3.125,0.6696428571428571,55.13392857142857,4.666666666666667,start object be pop tell know know take see use be
+Sherlock Holmes,Goodman,1.893939393939394,1.5151515151515151,57.1969696969697,1.25,sit glance find have think enter wake
+Mr Robert,Goodman,2.34,4.088571428571429,56.42857142857143,0.5723270440251572,become have be order drive claw bleed
+Goodman,Mr Robert,2.34,4.088571428571429,56.42857142857143,0.5723270440251572,become have be order drive claw bleed
+Goodman,Mr Robert,2.34,4.088571428571429,56.42857142857143,0.5723270440251572,become have be order drive claw bleed
+Goodman,Craiglockhart,3.225806451612903,1.2096774193548387,50.403225806451616,2.6666666666666665,expect be line come send
+Goodman,Craiglockhart,3.225806451612903,1.2096774193548387,50.403225806451616,2.6666666666666665,expect be line come send
+Wordsworth,Mary Russell,5.46875,4.6875,58.59375,1.1666666666666667,wish have talk
+Wordsworth,Mary Russell,5.46875,4.6875,58.59375,1.1666666666666667,wish have talk
+Sherlock Holmes,Holmes,0.9615384615384616,0.0,52.88461538461539,INF,address suggest believe
+Sherlock Holmes,Holmes,1.7045454545454544,1.1363636363636365,65.3409090909091,1.5,climb hear say need
+Sherlock Holmes,Holmes,1.7045454545454544,1.1363636363636365,65.3409090909091,1.5,climb hear say need
+Holmes,Goodman,1.25,0.4166666666666667,55.00000000000001,3.0,go notice pass have clean
+Holmes,Russell,4.166666666666666,6.944444444444445,33.33333333333333,0.6,be
+Holmes,Secret Intelligence Service,6.854838709677419,1.6129032258064515,43.145161290322584,4.25,hope be do counteract spawn blackmail know
+Holmes,Secret Intelligence Service,6.854838709677419,1.6129032258064515,43.145161290322584,4.25,hope be do counteract spawn blackmail know
+Holmes,Secret Intelligence Service,2.5415094339622644,1.467924528301887,50.70754716981132,1.7313624678663238,come have decide manage undertake be drive lie be be be
+Holmes,Sherlock Holmes,2.5415094339622644,1.467924528301887,50.70754716981132,1.7313624678663238,come have decide manage undertake be drive lie be be be
+Holmes,Secret Intelligence Service,2.5415094339622644,1.467924528301887,50.70754716981132,1.7313624678663238,come have decide manage undertake be drive lie be be be
+Holmes,Sherlock Holmes,2.5415094339622644,1.467924528301887,50.70754716981132,1.7313624678663238,come have decide manage undertake be drive lie be be be
+Secret Intelligence Service,Sherlock Holmes,2.5415094339622644,1.467924528301887,50.70754716981132,1.7313624678663238,come have decide manage undertake be drive lie be be be
+Damian,Sherlock Holmes,0.0,0.0,53.333333333333336,INF,leave say
+Estelle,Goodman,0.0,5.0,55.00000000000001,0.0,throw demand be return
+de Fontaine,Mr Russell,0.9615384615384616,2.403846153846154,42.78846153846153,0.4,be have mean
+Mr Russell,Mary Russell,1.9230769230769231,0.0,51.92307692307693,INF,say ring
+Sophy Melas,Goodman,1.3888888888888888,5.208333333333334,48.95833333333333,0.26666666666666666,be be sound puzzle ask have
+Holmes,Mrs Melas,0.0,0.0,62.5,INF,find dress testify
+Sherlock Holmes,Goodman,3.571428571428571,2.380952380952381,60.71428571428571,1.5,be miss tell have be
+Goodman,Sherlock Holmes,3.571428571428571,2.380952380952381,60.71428571428571,1.5,be miss tell have be
+Sherlock Holmes,Holmes,0.0,1.875,58.12500000000001,0.0,decide be venture see learn
+Holmes,Lestrade,5.357142857142857,0.0,58.92857142857143,INF,believe make do
+Sherlock Holmes,Goodman,0.0,0.0,44.44444444444444,INF,do take
+Sherlock Holmes,Holmes,0.0,0.0,44.44444444444444,INF,do take
+Goodman,Holmes,0.0,0.0,44.44444444444444,INF,do take
+Estelle,Javitz,0.0,0.0,28.57142857142857,INF,be tell
+Estelle,Holmes,0.0,0.0,28.57142857142857,INF,be tell
+Javitz,Holmes,0.0,0.0,28.57142857142857,INF,be tell
+Brothers,Holmes,0.0,0.0,60.0,INF,die say
+Brothers,Holmes,1.0,1.0,42.0,1.0,be be concern
+Holmes,Sosa,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,be aim suppose feel
+Holmes,Russell,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,be aim suppose feel
+Sosa,Russell,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,be aim suppose feel
+Sosa,Holmes,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,be aim suppose feel
+Russell,Holmes,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,be aim suppose feel
+Holmes,Brothers,1.3888888888888888,0.0,65.27777777777779,INF,remove
+Holmes,Orkney,1.3888888888888888,0.0,65.27777777777779,INF,remove
+Brothers,Orkney,1.3888888888888888,0.0,65.27777777777779,INF,remove
+Holmes,Gunderson,7.352941176470589,0.7352941176470588,44.85294117647059,10.0,suspect be be
+Gunderson,Sherlock Holmes,2.82258064516129,4.838709677419355,53.62903225806451,0.5833333333333334,know possess claim possess decide be push
+Sherlock Holmes,Holmes,0.0,2.272727272727273,34.090909090909086,0.0,have answer
+Russell,Goodman,6.944444444444445,2.7777777777777777,34.72222222222222,2.5,
+Holmes,Estelle,2.6595744680851063,1.0638297872340425,55.85106382978723,2.5,be have come mind have say be turn go play
+Holmes,Estelle,2.6595744680851063,1.0638297872340425,55.85106382978723,2.5,be have come mind have say be turn go play
+Sherlock Holmes,Holmes,4.166666666666666,2.5,43.333333333333336,1.6666666666666667,turn retrieve do ignore
+Javitz,Estelle,2.9166666666666665,0.8333333333333334,62.916666666666664,3.5,bring hear come be counter produce
+Javitz,Mr Robert,2.9166666666666665,0.8333333333333334,62.916666666666664,3.5,bring hear come be counter produce
+Estelle,Mr Robert,2.9166666666666665,0.8333333333333334,62.916666666666664,3.5,bring hear come be counter produce
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Javitz,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Dolly,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Estelle,Javitz,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Dolly,Javitz,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Dolly,Javitz,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Dolly,Javitz,5.681818181818182,1.1363636363636365,40.909090909090914,5.0,assure be do distract have enjoy return
+Goodman,Javitz,4.166666666666666,3.3333333333333335,45.83333333333333,1.25,help get ring say be relieve hear sound resign
+Goodman,Javitz,4.166666666666666,3.3333333333333335,45.83333333333333,1.25,help get ring say be relieve hear sound resign
+Sophy Melas,Goodman,0.0,2.272727272727273,61.36363636363637,0.0,be miss
+Sherlock Holmes,Holmes,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Sherlock Holmes,Holmes,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Sherlock Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Sherlock Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Holmes,Damian,1.25,1.25,57.49999999999999,1.0,listen attempt reassure have need wave
+Lestrade,Sherlock Holmes,2.717391304347826,5.434782608695652,70.1086956521739,0.5,feel come suspect come
+Lestrade,Holmes,2.717391304347826,5.434782608695652,70.1086956521739,0.5,feel come suspect come
+Sherlock Holmes,Holmes,2.717391304347826,5.434782608695652,70.1086956521739,0.5,feel come suspect come
+Holmes,Lestrade,3.125,1.25,40.625,2.5,cast decide telephone let know need wait tell appear
+Holmes,Lestrade,3.125,1.25,40.625,2.5,cast decide telephone let know need wait tell appear
+Victoria,Parliament,1.8292682926829267,0.0,56.70731707317073,INF,cross turn meet
+Victoria,St Thomas,1.8292682926829267,0.0,56.70731707317073,INF,cross turn meet
+Parliament,St Thomas,1.8292682926829267,0.0,56.70731707317073,INF,cross turn meet
+Parliament,New Scotland Yard,1.0714285714285714,0.0,56.07142857142857,INF,be house know
+Sherlock Holmes,Lestrade,3.571428571428571,0.7142857142857143,67.14285714285714,5.0,have know have be shoot
+Holmes,Parliament,1.3888888888888888,0.0,46.75925925925926,INF,be shelter be know
+Parliament,Holmes,1.3888888888888888,0.0,46.75925925925926,INF,be shelter be know
+Billy,Sherlock Holmes,0.6756756756756757,0.0,61.48648648648649,INF,be be have use bring
+Billy,Sherlock Holmes,0.6756756756756757,0.0,61.48648648648649,INF,be be have use bring
+Sherlock Holmes,Billy,0.6756756756756757,0.0,61.48648648648649,INF,be be have use bring
+Billy,Goodman,0.0,2.380952380952381,69.04761904761905,0.0,be get leave meet be miss
+Holmes,Sherlock Holmes,4.6875,4.6875,53.125,1.0,stand admit be worry
+Holmes,Tunbridge Wells,0.0,0.0,44.44444444444444,INF,be go
+Holmes,Estelle,0.0,0.0,25.0,INF,take
+Sherlock Holmes,Holmes,2.34375,4.6875,61.71875,0.5,have leave wait set
+Sherlock Holmes,Holmes,0.9615384615384616,0.4807692307692308,56.25,2.0,have be draw do have come
+Holmes,Parliament,3.308823529411765,2.2058823529411766,62.13235294117647,1.5,lay set know be
+Parliament,Holmes,3.308823529411765,2.2058823529411766,62.13235294117647,1.5,lay set know be
+Holmes,Gunderson,5.357142857142857,7.142857142857142,58.92857142857143,0.75,wish be
+Gunderson,Orkney,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Peter James West,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Orkney,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Peter James West,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Orkney,Peter James West,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Orkney,Gunderson,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Orkney,Gunderson,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Orkney,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Peter James West,Gunderson,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Peter James West,Gunderson,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Peter James West,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Gunderson,Buckner,1.6304347826086956,2.4456521739130435,52.44565217391305,0.6666666666666666,have know be have re-schedule consider move go put
+Peter James West,Buckner,1.3888888888888888,0.0,54.166666666666664,INF,go
+Damian,Buckner,8.333333333333332,5.681818181818182,40.53030303030303,1.4666666666666666,be force go take prefer know take
+Damian,Buckner,2.0454545454545454,4.545454545454546,47.95454545454545,0.45,have be be drag have bring learn call lead
+Damian,Buckner,2.0454545454545454,4.545454545454546,47.95454545454545,0.45,have be be drag have bring learn call lead
+Mr Adler,Peter James West,1.3888888888888888,0.0,43.05555555555556,INF,have come take call
+Buckner,Peter James West,1.7045454545454544,0.5681818181818182,52.27272727272727,3.0,dig hand hunch barrel
+Peter James West,Buckner,1.7045454545454544,0.5681818181818182,52.27272727272727,3.0,dig hand hunch barrel
+Buckner,Peter James West,0.0,0.0,45.0,INF,bounce shove
+Buckner,Peter James West,0.0,0.0,45.0,INF,bounce shove
+Buckner,Peter James West,0.0,0.0,45.0,INF,bounce shove
+Peter James West,Buckner,2.5,1.4285714285714286,56.07142857142857,1.75,hold slap come be be
+Damian,Buckner,1.0416666666666665,9.375,43.75,0.1111111111111111,get cuff be fear
+Peter James West,Buckner,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Peter James West,Damian,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Peter James West,Buckner,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Peter James West,Damian,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Buckner,Damian,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Buckner,Damian,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Damian,Buckner,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Buckner,Damian,2.1739130434782608,0.5434782608695652,60.32608695652174,4.0,have keep make drop have wear
+Parliament,Peter James West,0.0,0.0,52.17391304347826,INF,stand lay
+Parliament,Peter James West,0.0,0.0,52.17391304347826,INF,stand lay
+Buckner,Mr Adler,0.0,0.0,40.0,INF,say be do
+Buckner,Peter James West,2.5,0.0,57.49999999999999,INF,repress close
+Buckner,Peter James West,2.5,0.0,57.49999999999999,INF,repress close
+Peter James West,Buckner,1.9230769230769231,0.0,67.3076923076923,INF,pull have take
+Peter James West,Brothers,1.9230769230769231,0.0,67.3076923076923,INF,pull have take
+Buckner,Brothers,1.9230769230769231,0.0,67.3076923076923,INF,pull have take
+Sherlock Holmes,Lestrade,3.3783783783783785,1.0135135135135136,57.770270270270274,3.3333333333333335,have hear have know intend tell need have ring
+Sherlock Holmes,Holmes,3.3783783783783785,1.0135135135135136,57.770270270270274,3.3333333333333335,have hear have know intend tell need have ring
+Sherlock Holmes,Lestrade,3.3783783783783785,1.0135135135135136,57.770270270270274,3.3333333333333335,have hear have know intend tell need have ring
+Lestrade,Holmes,3.3783783783783785,1.0135135135135136,57.770270270270274,3.3333333333333335,have hear have know intend tell need have ring
+Holmes,Lestrade,3.3783783783783785,1.0135135135135136,57.770270270270274,3.3333333333333335,have hear have know intend tell need have ring
+Sherlock Holmes,Holmes,0.5208333333333333,2.604166666666667,51.041666666666664,0.2,see stand
+Sherlock Holmes,Holmes,0.5208333333333333,2.604166666666667,51.041666666666664,0.2,see stand
+Sherlock Holmes,Holmes,3.125,1.0416666666666665,48.61111111111111,3.0,tear have be look stand hide
+Sherlock Holmes,Damian,3.125,1.0416666666666665,48.61111111111111,3.0,tear have be look stand hide
+Sherlock Holmes,Holmes,3.125,1.0416666666666665,48.61111111111111,3.0,tear have be look stand hide
+Holmes,Damian,3.125,1.0416666666666665,48.61111111111111,3.0,tear have be look stand hide
+Damian,Holmes,3.125,1.0416666666666665,48.61111111111111,3.0,tear have be look stand hide
+Sherlock Holmes,Holmes,0.390625,3.515625,46.09375,0.1111111111111111,do decide walk stand
+Sherlock Holmes,Holmes,0.390625,3.515625,46.09375,0.1111111111111111,do decide walk stand
+Sherlock Holmes,Holmes,2.027027027027027,0.6756756756756757,56.75675675675676,3.0,have close hear see double stand see have cause
+Sherlock Holmes,Holmes,2.027027027027027,0.6756756756756757,56.75675675675676,3.0,have close hear see double stand see have cause
+Sherlock Holmes,Damian,3.125,2.34375,57.03125,1.3333333333333333,keep move hope hold have
+Sherlock Holmes,Holmes,0.5952380952380952,1.1904761904761905,50.595238095238095,0.5,be throw order stop
+Holmes,Damian,4.166666666666666,5.0,50.83333333333333,0.8333333333333334,be see be mask reveal
+Gunderson,Holmes,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Gunderson,Holmes,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Gunderson,Sherlock Holmes,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Sherlock Holmes,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Sherlock Holmes,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Sherlock Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Sherlock Holmes,Gunderson,3.040540540540541,0.0,42.9054054054054,INF,watch call make cut
+Sherlock Holmes,Holmes,6.25,0.0,56.25,INF,fight keep
+Damian,Parliament,0.75,1.5,45.75,0.5,blink see stand leave stretch rear twitch reach sketch
+Damian,Parliament,0.75,1.5,45.75,0.5,blink see stand leave stretch rear twitch reach sketch
+Damian,Parliament,0.75,1.5,45.75,0.5,blink see stand leave stretch rear twitch reach sketch
+Damian,Parliament,0.75,1.5,45.75,0.5,blink see stand leave stretch rear twitch reach sketch
+Parliament,Damian,0.75,1.5,45.75,0.5,blink see stand leave stretch rear twitch reach sketch
+Peter James West,Buckner,1.7857142857142856,3.571428571428571,42.26190476190476,0.5,snap do want shoot
+Mr Holmes,Sherlock Holmes,2.2058823529411766,0.7352941176470588,50.0,3.0,be shout
+Peter James West,Goodman,2.083333333333333,0.0,72.91666666666666,INF,move have leave
+Estelle,Mr Robert,1.5151515151515151,0.3787878787878788,49.621212121212125,4.0,lay flash drape
+Sherlock Holmes,Holmes,1.0,1.0,57.99999999999999,1.0,take think freeze shout
+Holmes,Sherlock Holmes,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Holmes,Damian,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Sherlock Holmes,Damian,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Sherlock Holmes,Holmes,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Sherlock Holmes,Holmes,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Damian,Holmes,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Damian,Holmes,0.22727272727272727,0.22727272727272727,48.63636363636364,1.0,hear turn be turn move be shove struggle shout keep go need
+Sherlock Holmes,Holmes,1.9230769230769231,0.0,51.92307692307693,INF,duck tear see
+Mr Robert,Robert Goodman,1.7857142857142856,0.0,44.642857142857146,INF,let help let have say
+Mr Robert,Damian,6.730769230769231,0.9615384615384616,30.76923076923077,7.0,please take get ask
+Robert Goodman,Green,1.8292682926829267,0.0,64.02439024390245,INF,see have work know look be speak
+Robert Goodman,Estelle,1.8292682926829267,0.0,64.02439024390245,INF,see have work know look be speak
+Green,Estelle,1.8292682926829267,0.0,64.02439024390245,INF,see have work know look be speak
+Damian,Robert Goodman,0.0,0.0,44.0,INF,reach be stop go
+Sherlock Holmes,Russell,0.0,4.166666666666666,42.5,0.0,be come
+Holmes,Peter James West,2.1875,0.3125,50.0,7.0,be breach restore have be go prove uncover
+Peter James West,Holmes,2.1875,0.3125,50.0,7.0,be breach restore have be go prove uncover
+Peter James West,Holmes,2.1875,0.3125,50.0,7.0,be breach restore have be go prove uncover
+Sherlock Holmes,Holmes,2.604166666666667,7.291666666666667,56.770833333333336,0.35714285714285715,claim do blame overthrow do believe
+Sherlock Holmes,Holmes,2.604166666666667,7.291666666666667,56.770833333333336,0.35714285714285715,claim do blame overthrow do believe
+Estelle,Mr Robert,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,tell be go throw weep find be loose
+Estelle,Mr Robert,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,tell be go throw weep find be loose
+Mr Robert,Estelle,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,tell be go throw weep find be loose
+Mr Robert,Estelle,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,tell be go throw weep find be loose
+Estelle,Damian,0.0,3.571428571428571,48.80952380952381,0.0,weep tell
+Damian,Estelle,0.0,3.571428571428571,48.80952380952381,0.0,weep tell
+Estelle,Scots,3.4375000000000004,0.3125,61.25000000000001,11.0,find sit help read drink
+Estelle,Scots,3.4375000000000004,0.3125,61.25000000000001,11.0,find sit help read drink
+Lestrade,Damian,1.9230769230769231,2.8846153846153846,56.730769230769226,0.6666666666666666,stay leave assure have be clear
+Sherlock Holmes,Sussex,1.8617021276595744,3.1914893617021276,56.64893617021277,0.5833333333333334,do return have be divert surprise have be
+Sussex,Sherlock Holmes,1.8617021276595744,3.1914893617021276,56.64893617021277,0.5833333333333334,do return have be divert surprise have be
+Damian,Estelle,2.5,1.25,49.583333333333336,2.0,settle have drive pick
+Sherlock Holmes,Dr Henning,3.90625,3.90625,35.9375,1.0,expect join
+Estelle,Damian,1.25,0.0,38.75,INF,shriek laugh bundle
+Mary Russell,Damian,0.0,0.0,41.66666666666667,INF,work say
+Estelle,John Barleycorn,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,Goodman,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,John Barleycorn,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,Goodman,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,John Barleycorn,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,Goodman,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,John Barleycorn,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Estelle,Goodman,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+John Barleycorn,Goodman,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+John Barleycorn,Estelle,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Goodman,Estelle,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,be sing set have teach
+Holmes,Estelle,0.0,0.0,50.0,INF,send declare
+Damian,Mrs Hudson,5.434782608695652,0.5434782608695652,54.891304347826086,10.0,have pick have snatch
+Mrs Hudson,Damian,5.434782608695652,0.5434782608695652,54.891304347826086,10.0,have pick have snatch
+Mrs Hudson,Damian,1.530612244897959,3.826530612244898,51.78571428571429,0.4,be find pick look

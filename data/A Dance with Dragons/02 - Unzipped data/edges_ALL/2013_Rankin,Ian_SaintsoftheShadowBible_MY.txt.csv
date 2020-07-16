@@ -1,0 +1,2060 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Rebus,Meikle,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,make resume stare
+Saab,Salisbury Crags,0.0,0.0,47.82608695652174,INF,be skirt
+Saab,St Margaret,0.0,0.0,47.82608695652174,INF,be skirt
+Salisbury Crags,St Margaret,0.0,0.0,47.82608695652174,INF,be skirt
+Rebus,Arthur,0.0,2.34375,60.15625,0.0,be begin
+Meikle,Rebus,2.941176470588235,1.4705882352941175,72.05882352941177,2.0,watch break
+Rebus,Meikle,0.0,1.9230769230769231,59.61538461538461,0.0,exhale offer
+Rebus,Meikle,0.0,3.90625,58.59375,0.0,turn undo push
+Rebus,Meikle,0.0,3.90625,58.59375,0.0,turn undo push
+Dorothy,Meikle,7.5,3.75,18.75,2.0,be state
+Dorothy,Meikle,3.125,1.5625,45.3125,2.0,be
+Dorothy,Meikle,0.0,2.34375,44.53125,0.0,have go meet visit show ask
+Meikle,Dorothy,0.0,2.34375,44.53125,0.0,have go meet visit show ask
+Rebus,Meikle,0.0,0.8333333333333334,59.166666666666664,0.0,be
+Meikle,Saab,1.0416666666666665,0.0,32.29166666666667,INF,watch climb start
+Meikle,Saab,1.0416666666666665,0.0,32.29166666666667,INF,watch climb start
+Clarke,Rebus,0.0,0.8333333333333334,52.5,0.0,arrive tell
+Aye,Clarke,0.0,0.0,33.33333333333333,INF,concede
+Clarke,Rebus,5.0,0.0,65.0,INF,stick take
+Rebus,Clarke,0.0,0.0,40.0,INF,turn
+Clarke,Paterson,3.125,1.5625,20.3125,2.0,be
+Clarke,Paterson,1.25,0.625,33.125,2.0,have be
+Clarke,Paterson,1.25,0.625,33.125,2.0,have be
+Paterson,Porkbelly,0.0,0.0,43.75,INF,use go say
+Paterson,Rebus,0.0,0.0,43.75,INF,use go say
+Porkbelly,Rebus,0.0,0.0,43.75,INF,use go say
+Paterson,Rebus,3.3653846153846154,0.0,58.17307692307693,INF,be have say be
+Paterson,Rebus,3.3653846153846154,0.0,58.17307692307693,INF,be have say be
+Paterson,Rebus,3.3653846153846154,0.0,58.17307692307693,INF,be have say be
+Rebus,Clarke,0.0,0.0,40.0,INF,turn
+Rebus,Dod Blantyre,3.125,0.0,34.375,INF,go manage
+Paterson,Clarke,0.0,0.0,40.0,INF,turn
+Summerhall,Rebus,1.3888888888888888,1.3888888888888888,58.333333333333336,1.0,explain
+Rebus,John,2.0,0.0,46.0,INF,have learn make counter take shake
+John,Clarke,1.9230769230769231,1.9230769230769231,34.61538461538461,1.0,like confide
+Paterson,Rebus,0.0,0.0,66.66666666666666,INF,make study
+Paterson,Rebus,0.8333333333333334,3.3333333333333335,42.5,0.25,say
+Gilmour,Clarke,5.769230769230769,0.0,63.46153846153846,INF,explain have suffer
+Gilmour,Dod Blantyre,5.769230769230769,0.0,63.46153846153846,INF,explain have suffer
+Clarke,Dod Blantyre,5.769230769230769,0.0,63.46153846153846,INF,explain have suffer
+Clarke,Paterson,0.0,1.6666666666666667,58.333333333333336,0.0,want add
+Paterson,Rebus,0.0,0.0,77.77777777777779,INF,wag
+Paterson,Maggie,0.0,2.717391304347826,32.065217391304344,0.0,do want disappoint see be fix
+Paterson,Rebus,3.3333333333333335,0.0,70.0,INF,try stare nod pat
+Rebus,Paterson,3.3333333333333335,0.0,70.0,INF,try stare nod pat
+Rebus,Clarke,0.0,0.0,54.54545454545454,INF,murmur be fix
+Rebus,Macari,0.0,0.0,54.54545454545454,INF,murmur be fix
+Clarke,Macari,0.0,0.0,54.54545454545454,INF,murmur be fix
+Rebus,Clarke,0.0,0.0,50.0,INF,ask
+Macari,Clarke,1.9736842105263157,7.236842105263158,38.15789473684211,0.2727272727272727,see give twitch acknowledge
+Clarke,Macari,0.8928571428571428,0.0,56.25,INF,make leave spot make have swerve
+Clarke,Rebus,0.8928571428571428,0.0,56.25,INF,make leave spot make have swerve
+Clarke,Macari,0.8928571428571428,0.0,56.25,INF,make leave spot make have swerve
+Macari,Rebus,0.8928571428571428,0.0,56.25,INF,make leave spot make have swerve
+Rebus,Macari,0.8928571428571428,0.0,56.25,INF,make leave spot make have swerve
+Macari,Rebus,0.0,4.166666666666666,52.976190476190474,0.0,frown try place go retreat
+Macari,Rebus,0.0,4.166666666666666,52.976190476190474,0.0,frown try place go retreat
+Clarke,Fox,0.4807692307692308,0.0,61.057692307692314,INF,watch take lead
+Fox,Clarke,0.4807692307692308,0.0,61.057692307692314,INF,watch take lead
+Fox,Clarke,0.4807692307692308,0.0,61.057692307692314,INF,watch take lead
+Clarke,Astra,2.7777777777777777,0.0,30.555555555555557,INF,have come
+Rebus,Clarke,0.0,0.0,46.15384615384615,INF,take study speak
+Rebus,Clarke,0.0,0.0,46.15384615384615,INF,take study speak
+Clarke,John,5.555555555555555,0.0,61.111111111111114,INF,be check
+Mr Traynor,Clarke,0.0,0.0,28.57142857142857,INF,say be
+Rebus,Jessica,3.90625,0.0,58.59375,INF,wonder have come
+Jessica,Clarke,0.0,0.0,57.14285714285714,INF,be shake
+Rebus,Jessica,0.0,0.0,46.666666666666664,INF,remember
+Rebus,Clarke,0.0,0.0,46.666666666666664,INF,remember
+Jessica,Clarke,0.0,0.0,46.666666666666664,INF,remember
+Jessica,Clarke,0.4629629629629629,0.9259259259259258,46.75925925925926,0.5,have go be need ask tell
+Jessica,Clarke,0.4629629629629629,0.9259259259259258,46.75925925925926,0.5,have go be need ask tell
+Jessica,Rebus,8.333333333333332,3.3333333333333335,55.00000000000001,2.5,run give
+Jessica,Rebus,8.333333333333332,3.3333333333333335,55.00000000000001,2.5,run give
+Jessica,Clarke,0.0,0.0,50.0,INF,shake take offer
+Clarke,Rebus,1.0416666666666665,0.0,44.79166666666667,INF,thank say take turn lead
+Clarke,Rebus,1.0416666666666665,0.0,44.79166666666667,INF,thank say take turn lead
+Rebus,Clarke,0.0,0.0,66.66666666666666,INF,head buy
+Rebus,Clarke,2.8846153846153846,5.288461538461538,30.288461538461537,0.5454545454545454,say go be
+Clarke,Rebus,0.0,0.0,30.76923076923077,INF,ask agree
+Jessica,Clarke,2.5,0.625,36.875,4.0,begin be be
+Jessica,Clarke,2.5,0.625,36.875,4.0,begin be be
+Jessica,Rebus,2.5,0.625,36.875,4.0,begin be be
+Clarke,Rebus,2.5,0.625,36.875,4.0,begin be be
+Clarke,Rebus,2.5,0.625,36.875,4.0,begin be be
+Jessica,Clarke,0.0,0.0,62.5,INF,stiffen take
+Jessica,Clarke,2.272727272727273,2.272727272727273,31.818181818181817,1.0,have rise
+Clarke,Jessica,3.571428571428571,0.0,39.285714285714285,INF,turn
+Jessica,Clarke,4.807692307692308,0.9615384615384616,32.69230769230769,5.0,say try relax
+Clarke,Rebus,1.8518518518518516,0.9259259259259258,63.888888888888886,2.0,give let go extend indicate lead
+Rebus,Clarke,1.8518518518518516,0.9259259259259258,63.888888888888886,2.0,give let go extend indicate lead
+Alice,Alison,0.0,0.0,42.857142857142854,INF,meet
+Clarke,James Page,1.5,3.5000000000000004,67.0,0.42857142857142855,listen
+Rebus,Clarke,1.5625,4.166666666666666,52.604166666666664,0.375,be be sit
+Leith Walk,Clarke,0.0,6.666666666666667,46.666666666666664,0.0,bother do add
+Clarke,Rebus,0.0,0.0,50.0,INF,look
+Jessica,Alice,1.4705882352941175,0.0,63.23529411764706,INF,have call
+Jessica,Alison,1.4705882352941175,0.0,63.23529411764706,INF,have call
+Alice,Alison,1.4705882352941175,0.0,63.23529411764706,INF,have call
+Alice,Alison,3.6764705882352944,3.6764705882352944,39.705882352941174,1.0,be have
+Esson,Ogilvie,4.166666666666666,0.8333333333333334,35.0,5.0,be
+Clarke,Rebus,3.8461538461538463,0.0,57.692307692307686,INF,check make
+Ogilvie,Clarke,0.0,5.357142857142857,44.642857142857146,0.0,offer boil shake
+Esson,Rebus,3.125,3.125,43.75,1.0,decide need enlighten
+Rebus,Clarke,0.0,2.083333333333333,47.91666666666667,0.0,be ask
+Clarke,Rebus,0.0,2.083333333333333,47.91666666666667,0.0,be ask
+Rebus,Esson,0.0,0.0,28.57142857142857,INF,turn
+Rebus,Ogilvie,0.0,0.0,28.57142857142857,INF,turn
+Esson,Ogilvie,0.0,0.0,28.57142857142857,INF,turn
+Alice,Alison,0.0,0.0,45.45454545454545,INF,say
+Rebus,Alice,0.0,0.0,63.63636363636363,INF,ask be concentrate
+Rebus,Clarke,0.0,0.0,63.63636363636363,INF,ask be concentrate
+Alice,Clarke,0.0,0.0,63.63636363636363,INF,ask be concentrate
+Clarke,Rebus,0.0,0.0,45.45454545454545,INF,decide settle
+Jessica,Alice,0.0,0.0,27.27272727272727,INF,do see
+Rebus,Clarke,1.7857142857142856,1.7857142857142856,32.142857142857146,1.0,digest glance go
+McCuskey,Clarke,0.0,3.125,30.208333333333332,0.0,prompt
+Clarke,McCuskey,0.0,0.0,14.285714285714285,INF,be
+McCuskey,Clarke,0.0,0.0,28.57142857142857,INF,echo add
+Clarke,Alice,0.0,0.0,57.14285714285714,INF,look
+Alice,Clarke,2.380952380952381,2.976190476190476,51.78571428571429,0.8,nod turn give twitch
+Alice,Rebus,2.380952380952381,2.976190476190476,51.78571428571429,0.8,nod turn give twitch
+Clarke,Rebus,2.380952380952381,2.976190476190476,51.78571428571429,0.8,nod turn give twitch
+Alice,McCuskey,0.0,2.083333333333333,59.02777777777778,0.0,be find
+Clarke,Rebus,0.0,0.0,57.14285714285714,INF,follow lead
+Clarke,Alice,0.0,0.0,57.14285714285714,INF,follow lead
+Rebus,Alice,0.0,0.0,57.14285714285714,INF,follow lead
+Rebus,Jessica,2.272727272727273,2.272727272727273,63.63636363636363,1.0,be mind ask see know do have
+Jessica,Rebus,2.272727272727273,2.272727272727273,63.63636363636363,1.0,be mind ask see know do have
+Clarke,Alice,1.7045454545454544,1.7045454545454544,46.590909090909086,1.0,be ready close remember do have
+Galvin,Google,1.4285714285714286,0.0,52.85714285714286,INF,look marry call be think
+Galvin,Bethany McCuskey,1.4285714285714286,0.0,52.85714285714286,INF,look marry call be think
+Galvin,Bethany McCuskey,1.4285714285714286,0.0,52.85714285714286,INF,look marry call be think
+Google,Bethany McCuskey,1.4285714285714286,0.0,52.85714285714286,INF,look marry call be think
+Google,Bethany McCuskey,1.4285714285714286,0.0,52.85714285714286,INF,look marry call be think
+Clarke,Bethany McCuskey,5.681818181818182,0.0,39.77272727272727,INF,realise do know
+Clarke,Jessica,5.681818181818182,0.0,39.77272727272727,INF,realise do know
+Bethany McCuskey,Jessica,5.681818181818182,0.0,39.77272727272727,INF,realise do know
+Clarke,Jessica,0.0,0.0,42.857142857142854,INF,be picture
+Clarke,Google,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Owen Traynor,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Google,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Owen Traynor,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Google,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Owen Traynor,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Google,Owen Traynor,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Google,Clarke,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Owen Traynor,Clarke,2.0161290322580645,2.4193548387096775,56.85483870967742,0.8333333333333334,take think do be get
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be tell notice have touch
+Clarke,Galvin,0.0,18.75,6.25,0.0,chide
+Clarke,Galvin,1.7857142857142856,0.0,26.785714285714285,INF,share
+Rebus,Clarke,2.0161290322580645,0.0,65.7258064516129,INF,have take pick
+Rebus,Clarke,2.0161290322580645,0.0,65.7258064516129,INF,have take pick
+Rebus,Saab,2.0161290322580645,0.0,65.7258064516129,INF,have take pick
+Clarke,Saab,2.0161290322580645,0.0,65.7258064516129,INF,have take pick
+Clarke,Saab,2.0161290322580645,0.0,65.7258064516129,INF,have take pick
+Rebus,McCuskey,0.5952380952380952,1.1904761904761905,45.83333333333333,0.5,have get say indicate
+Alice,McCuskey,0.0,0.0,57.14285714285714,INF,be squeeze
+Rebus,McCuskey,0.0,0.625,44.375,0.0,assure watch head
+Rebus,McCuskey,0.0,0.625,44.375,0.0,assure watch head
+Rebus,Alice,0.0,0.625,44.375,0.0,assure watch head
+McCuskey,Alice,0.0,0.625,44.375,0.0,assure watch head
+McCuskey,Alice,0.0,0.625,44.375,0.0,assure watch head
+Rebus,Jessica,0.0,0.0,40.0,INF,turn
+Rebus,Jessica,3.3333333333333335,0.0,43.333333333333336,INF,say greet
+Jessica,Rebus,0.0,0.0,50.0,INF,see walk
+Jessica,Rebus,6.25,1.5625,48.4375,4.0,concede do know be
+Rebus,Jessica,3.75,5.625,50.625,0.6666666666666666,nod seem relax stare lose
+Jessica,Rebus,3.75,5.625,50.625,0.6666666666666666,nod seem relax stare lose
+Rebus,Clarke,0.0,0.0,54.54545454545454,INF,be vibrate
+Rebus,Clarke,0.7575757575757576,4.545454545454546,58.333333333333336,0.16666666666666666,tap be wander spit chew lift
+Rebus,Clarke,0.7575757575757576,4.545454545454546,58.333333333333336,0.16666666666666666,tap be wander spit chew lift
+Clarke,Rebus,0.7575757575757576,4.545454545454546,58.333333333333336,0.16666666666666666,tap be wander spit chew lift
+Clarke,Rebus,0.7575757575757576,4.545454545454546,58.333333333333336,0.16666666666666666,tap be wander spit chew lift
+Rebus,Clarke,0.0,0.8928571428571428,49.107142857142854,0.0,lead be wait
+Rebus,Clarke,0.0,0.8928571428571428,49.107142857142854,0.0,lead be wait
+Clarke,McCuskey,1.3888888888888888,0.0,43.05555555555556,INF,gesture sit
+Rebus,McCuskey,5.241935483870968,0.8064516129032258,55.24193548387096,6.5,be be prefer lean be question
+McCuskey,Clarke,0.0,1.5625,48.4375,0.0,be go take recover bluff give sink
+McCuskey,Clarke,7.142857142857142,3.571428571428571,17.857142857142858,2.0,meet
+Clarke,Rebus,5.147058823529411,0.0,53.67647058823529,INF,help glance shake
+Clarke,McCuskey,5.147058823529411,0.0,53.67647058823529,INF,help glance shake
+Clarke,McCuskey,5.147058823529411,0.0,53.67647058823529,INF,help glance shake
+Rebus,McCuskey,5.147058823529411,0.0,53.67647058823529,INF,help glance shake
+Rebus,McCuskey,5.147058823529411,0.0,53.67647058823529,INF,help glance shake
+Clarke,Rebus,3.4722222222222223,2.083333333333333,61.111111111111114,1.6666666666666667,be study try work be tell
+Clarke,McCuskey,3.4722222222222223,2.083333333333333,61.111111111111114,1.6666666666666667,be study try work be tell
+Rebus,McCuskey,3.4722222222222223,2.083333333333333,61.111111111111114,1.6666666666666667,be study try work be tell
+Clarke,Rebus,0.8928571428571428,0.0,63.39285714285714,INF,share
+Clarke,Rebus,0.8928571428571428,0.0,63.39285714285714,INF,share
+McCuskey,Alice,0.0,0.0,33.33333333333333,INF,coincide leave
+Clarke,Rebus,2.083333333333333,12.5,52.083333333333336,0.16666666666666666,stare
+Pat McCuskey,Owen Traynor,5.0,1.875,40.625,2.6666666666666665,have admit be do wonder end pull favour
+Pat McCuskey,Jessica,5.0,1.875,40.625,2.6666666666666665,have admit be do wonder end pull favour
+Owen Traynor,Jessica,5.0,1.875,40.625,2.6666666666666665,have admit be do wonder end pull favour
+Alice,McCuskey,0.8333333333333334,0.8333333333333334,45.0,1.0,go get talk
+Rebus,Owen Traynor,0.0,0.0,66.66666666666666,INF,walk wait
+Jessica,Rebus,2.5,0.5,56.99999999999999,5.0,pass turn startle find
+Jessica,Mr McCuskey,7.142857142857142,0.8928571428571428,27.67857142857143,8.0,be
+Jessica,Mr McCuskey,2.5,0.0,37.5,INF,stare
+Jessica,Rebus,2.083333333333333,0.0,56.25,INF,begin edge make
+Fox,Clarke,2.717391304347826,0.0,40.76086956521739,INF,say rise extend
+Clarke,Fox,0.0,0.0,55.55555555555556,INF,slide
+Clarke,Fox,1.4705882352941175,0.0,57.35294117647059,INF,bring ask want
+Clarke,Fox,1.4705882352941175,0.0,57.35294117647059,INF,bring ask want
+Fox,Clarke,0.0,0.0,20.0,INF,turn
+Clarke,Galvin,6.25,0.78125,49.21875,8.0,know have be hint
+Rebus,John,6.578947368421052,4.605263157894736,51.973684210526315,1.4285714285714286,be want be know use know
+Paterson,Rebus,8.552631578947368,1.9736842105263157,47.368421052631575,4.333333333333333,see know do
+Paterson,Summerhall,8.552631578947368,1.9736842105263157,47.368421052631575,4.333333333333333,see know do
+Rebus,Summerhall,8.552631578947368,1.9736842105263157,47.368421052631575,4.333333333333333,see know do
+Fox,Saints,0.7142857142857143,2.857142857142857,39.285714285714285,0.25,say lower be have hear
+Fox,Saints,0.7142857142857143,2.857142857142857,39.285714285714285,0.25,say lower be have hear
+Dod Blantyre,Maggie,2.840909090909091,0.0,47.159090909090914,INF,go find be go be
+Maggie,Rebus,1.0416666666666665,5.208333333333334,64.58333333333334,0.2,ask call send dispatch
+Rebus,Maggie,1.0416666666666665,5.208333333333334,64.58333333333334,0.2,ask call send dispatch
+Dod Blantyre,Maggie,10.416666666666668,0.0,22.916666666666664,INF,
+Paterson,Saab,0.0,0.0,33.33333333333333,INF,nod
+Paterson,Rebus,0.0,1.25,68.75,0.0,give pat
+Paterson,Rebus,2.083333333333333,0.0,75.69444444444444,INF,receive peck step be
+Maggie,Paterson,2.0,1.0,45.0,2.0,linger press rub have leave
+Maggie,Paterson,2.0,1.0,45.0,2.0,linger press rub have leave
+Paterson,Maggie,2.0,1.0,45.0,2.0,linger press rub have leave
+Paterson,Maggie,2.0,1.0,45.0,2.0,linger press rub have leave
+Paterson,Maggie,2.0,1.0,45.0,2.0,linger press rub have leave
+Maggie,Paterson,2.0,1.0,45.0,2.0,linger press rub have leave
+Maggie,Paterson,2.0,1.0,45.0,2.0,linger press rub have leave
+Paterson,Maggie,2.0,1.0,45.0,2.0,linger press rub have leave
+John,Maggie,0.0,0.0,28.57142857142857,INF,say
+Maggie,John,2.2058823529411766,0.0,56.61764705882353,INF,lead close
+Rebus,Maggie,0.0,0.0,45.45454545454545,INF,wrestle help
+Rebus,Maggie,0.0,0.0,45.45454545454545,INF,wrestle help
+Maggie,Rebus,0.0,0.0,45.45454545454545,INF,wrestle help
+Maggie,Rebus,1.6666666666666667,1.6666666666666667,36.666666666666664,1.0,assure touch
+Maggie,Rebus,1.6666666666666667,1.6666666666666667,36.666666666666664,1.0,assure touch
+Dod Blantyre,Rebus,0.0,1.0,63.0,0.0,be seat dress
+Porkbelly,Gilmour,0.0,0.0,22.22222222222222,INF,say
+Gilmour,Rebus,0.0,0.0,60.0,INF,shake turn
+Paterson,Rebus,0.0,0.0,60.0,INF,gesture
+Paterson,Dod Blantyre,4.861111111111112,0.0,61.80555555555556,INF,head squeeze greet
+Maggie,Paterson,0.0,3.9473684210526314,59.210526315789465,0.0,hang make slur
+Dod Blantyre,Paterson,0.0,1.0416666666666665,32.29166666666667,0.0,be tell
+Dod Blantyre,Paterson,0.0,1.0416666666666665,32.29166666666667,0.0,be tell
+Maggie,Paterson,0.0,0.0,55.55555555555556,INF,nod turn
+Maggie,Rebus,0.0,0.0,55.55555555555556,INF,nod turn
+Paterson,Rebus,0.0,0.0,55.55555555555556,INF,nod turn
+Maggie,Paterson,5.769230769230769,1.9230769230769231,53.84615384615385,3.0,seem know want
+Rebus,Maggie,0.0,0.0,58.333333333333336,INF,nod
+Dod Blantyre,Rebus,11.363636363636363,0.0,43.18181818181818,INF,know be drink
+Saints,Gilmour,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,be hear say
+Rebus,Gilmour,4.761904761904762,2.976190476190476,49.404761904761905,1.6,seat see lean
+Summerhall,Gilmour,2.34375,0.390625,56.640625,6.0,have be call
+Summerhall,Paterson,2.34375,0.390625,56.640625,6.0,have be call
+Summerhall,Maggie,2.34375,0.390625,56.640625,6.0,have be call
+Summerhall,Rebus,2.34375,0.390625,56.640625,6.0,have be call
+Summerhall,Frazer,2.34375,0.390625,56.640625,6.0,have be call
+Gilmour,Paterson,2.34375,0.390625,56.640625,6.0,have be call
+Gilmour,Maggie,2.34375,0.390625,56.640625,6.0,have be call
+Gilmour,Rebus,2.34375,0.390625,56.640625,6.0,have be call
+Gilmour,Frazer,2.34375,0.390625,56.640625,6.0,have be call
+Paterson,Maggie,2.34375,0.390625,56.640625,6.0,have be call
+Paterson,Rebus,2.34375,0.390625,56.640625,6.0,have be call
+Paterson,Frazer,2.34375,0.390625,56.640625,6.0,have be call
+Maggie,Rebus,2.34375,0.390625,56.640625,6.0,have be call
+Maggie,Frazer,2.34375,0.390625,56.640625,6.0,have be call
+Rebus,Frazer,2.34375,0.390625,56.640625,6.0,have be call
+John,Maggie,0.0,6.25,60.416666666666664,0.0,be say
+Paterson,Rebus,0.0,0.0,60.0,INF,turn
+John,Frazer,0.0,0.0,38.46153846153847,INF,be confuse interrupt
+John,Gilmour,0.0,0.0,38.46153846153847,INF,be confuse interrupt
+Frazer,Gilmour,0.0,0.0,38.46153846153847,INF,be confuse interrupt
+Porkbelly,Maggie,0.0,3.3333333333333335,50.0,0.0,do give warn
+Porkbelly,Paterson,0.0,3.3333333333333335,50.0,0.0,do give warn
+Maggie,Paterson,0.0,3.3333333333333335,50.0,0.0,do give warn
+Maggie,Gilmour,0.0,0.0,60.0,INF,look
+Maggie,Gilmour,7.8125,0.0,29.6875,INF,smile seem
+Gilmour,Paterson,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,say parrot
+Maggie,Rebus,0.0,0.0,50.0,INF,ask
+Rebus,John,2.631578947368421,2.631578947368421,36.84210526315789,1.0,be
+Paterson,Rebus,0.0,6.25,63.74999999999999,0.0,pat
+Paterson,Rebus,0.0,6.25,63.74999999999999,0.0,pat
+John,Frazer,0.0,0.0,45.45454545454545,INF,do fetch
+Rebus,Gilmour,0.0,0.0,40.0,INF,inform
+Macari,Maggie,0.0,0.0,37.5,INF,go be say
+Macari,Maggie,0.0,0.0,37.5,INF,go be say
+Macari,Maggie,0.0,0.0,37.5,INF,go be say
+Paterson,Maggie,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,lift angle
+Maggie,Gilmour,4.807692307692308,0.9615384615384616,48.07692307692308,5.0,be give tell
+Gilmour,Rebus,3.571428571428571,4.464285714285714,34.82142857142857,0.8,turn
+Rebus,Maggie,0.0,0.0,54.54545454545454,INF,echo come
+Rebus,Maggie,0.0,0.0,53.84615384615385,INF,follow
+Maggie,Rebus,0.0,0.0,61.53846153846154,INF,light hand
+Maggie,Rebus,0.0,0.0,61.53846153846154,INF,light hand
+Maggie,Rebus,0.0,0.0,61.53846153846154,INF,light hand
+Frazer,Maggie,8.333333333333332,4.166666666666666,37.5,2.0,smell
+Maggie,Frazer,1.6129032258064515,3.225806451612903,59.67741935483871,0.5,see turn suck exhale be wreathe
+Frazer,Maggie,1.6129032258064515,3.225806451612903,59.67741935483871,0.5,see turn suck exhale be wreathe
+Frazer,Maggie,1.6129032258064515,3.225806451612903,59.67741935483871,0.5,see turn suck exhale be wreathe
+Frazer,Maggie,1.6129032258064515,3.225806451612903,59.67741935483871,0.5,see turn suck exhale be wreathe
+Maggie,Frazer,0.0,0.0,42.857142857142854,INF,begin be shake
+Frazer,Maggie,0.0,0.0,42.857142857142854,INF,begin be shake
+Frazer,Maggie,0.0,0.0,42.857142857142854,INF,begin be shake
+Dod Blantyre,Summerhall,8.333333333333332,4.166666666666666,54.166666666666664,2.0,talk
+Rebus,Maggie,1.1363636363636365,0.0,53.40909090909091,INF,ask inspect
+Maggie,Rebus,1.1363636363636365,0.0,53.40909090909091,INF,ask inspect
+Saints,Rebus,0.0,5.434782608695652,51.08695652173913,0.0,do trust finish drop
+Paterson,Rebus,0.78125,2.34375,53.125,0.3333333333333333,be confide
+Paterson,Saab,0.78125,2.34375,53.125,0.3333333333333333,be confide
+Rebus,Saab,0.78125,2.34375,53.125,0.3333333333333333,be confide
+Maggie,Dod Blantyre,8.333333333333332,0.0,45.0,INF,get
+Rebus,Paterson,5.0,0.0,65.0,INF,hold shake
+Paterson,Rebus,8.333333333333332,0.0,58.333333333333336,INF,release
+Rebus,Paterson,3.571428571428571,0.0,39.285714285714285,INF,help unbuckle remind
+Paterson,Rebus,5.681818181818182,0.5681818181818182,66.47727272727273,10.0,come wave look let know take
+Paterson,Rebus,5.681818181818182,0.5681818181818182,66.47727272727273,10.0,come wave look let know take
+Rebus,Saab,1.25,1.875,51.87500000000001,0.6666666666666666,put try calculate
+Rebus,Craddock,0.4464285714285714,0.0,63.83928571428571,INF,take play seem turn
+Rebus,Clarke,2.5,0.0,67.5,INF,stay call
+Fox,John,1.3888888888888888,2.7777777777777777,29.166666666666668,0.5,be be spit
+John,Fox,1.3888888888888888,2.7777777777777777,29.166666666666668,0.5,be be spit
+Fox,Maggie,2.314814814814815,0.4629629629629629,52.77777777777778,5.0,remember be run say
+Maggie,Fox,2.314814814814815,0.4629629629629629,52.77777777777778,5.0,remember be run say
+DI Clarke,Clarke,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,be tell reveal
+Rebus,DI Clarke,2.7777777777777777,0.0,41.66666666666667,INF,correct
+Rebus,Fox,0.5,0.0,55.50000000000001,INF,rattle allow be
+Clarke,Rebus,0.0,0.0,46.15384615384615,INF,be point
+Clarke,Rebus,1.9736842105263157,1.3157894736842104,54.60526315789473,1.5,squeeze say
+Rebus,Clarke,0.0,0.0,40.0,INF,turn
+Clarke,Bettina,0.0,1.1363636363636365,53.40909090909091,0.0,answer be put beat
+Saunders,Fox,0.0,0.0,60.0,INF,add
+Bettina,Summerhall,0.0,0.0,28.57142857142857,INF,collapse
+Saunders,Summerhall,5.555555555555555,1.3888888888888888,48.61111111111111,4.0,have be
+Douglas Merchant,Bettina,3.571428571428571,2.976190476190476,60.11904761904761,1.2,kill be call have be spend
+Summerhall,Saints,0.0,3.8461538461538463,50.0,0.0,
+Rebus,Fox,1.1363636363636365,0.0,71.5909090909091,INF,ask try stifle
+Fox,Rebus,5.208333333333334,0.0,61.458333333333336,INF,nod let know be
+Gilmour,Paterson,0.0,0.0,33.33333333333333,INF,be
+Fox,Rebus,8.333333333333332,5.555555555555555,52.77777777777778,1.5,be fix
+Bettina,Summerhall,5.113636363636364,3.4090909090909087,36.93181818181818,1.5,flare have be
+Fox,Paterson,2.5,2.5,55.00000000000001,1.0,be warn hold shake
+Fox,Clarke,2.5,2.5,55.00000000000001,1.0,be warn hold shake
+Paterson,Clarke,2.5,2.5,55.00000000000001,1.0,be warn hold shake
+Paterson,Fox,2.5,2.5,55.00000000000001,1.0,be warn hold shake
+Clarke,Fox,2.5,2.5,55.00000000000001,1.0,be warn hold shake
+Rebus,Paterson,2.604166666666667,3.125,69.27083333333334,0.8333333333333334,have pause get go call
+John,Paterson,0.0,0.0,50.0,INF,be say pick
+John,Paterson,0.0,0.0,50.0,INF,be say pick
+Fox,Macari,5.769230769230769,3.8461538461538463,28.846153846153843,1.5,make
+Rebus,Clarke,1.25,1.25,57.49999999999999,1.0,watch emerge
+Paterson,Clarke,0.0,0.0,33.33333333333333,INF,see wave
+John,Rebus,0.0,0.0,47.05882352941176,INF,think snap end
+Clarke,Fox,2.5,0.0,37.5,INF,watch shrug
+Clarke,Fox,2.976190476190476,0.0,39.88095238095239,INF,correct think use be
+Fox,Saints,0.0,1.6666666666666667,45.0,0.0,bind get twitch
+Rebus,Macari,7.142857142857142,3.571428571428571,46.42857142857143,2.0,know
+Clarke,Rebus,0.0,0.0,40.0,INF,nod
+Paterson,Rebus,2.976190476190476,0.0,49.404761904761905,INF,call make be report confirm
+Fox,Clarke,2.083333333333333,0.0,64.58333333333334,INF,have start walk catch
+Fox,Clarke,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,be take comment
+Clarke,Rebus,5.0,1.25,43.75,4.0,be agree
+Rebus,Esson,0.8928571428571428,0.0,41.964285714285715,INF,get walk
+Rebus,Esson,0.8928571428571428,0.0,41.964285714285715,INF,get walk
+Rebus,Esson,0.9259259259259258,0.0,47.22222222222222,INF,do start say return angle stretch
+Rebus,Esson,0.9259259259259258,0.0,47.22222222222222,INF,do start say return angle stretch
+Rebus,Esson,0.9259259259259258,0.0,47.22222222222222,INF,do start say return angle stretch
+Rebus,Esson,0.9259259259259258,0.0,47.22222222222222,INF,do start say return angle stretch
+Esson,Owen Traynor,6.61764705882353,0.0,46.32352941176471,INF,begin read
+Rebus,Jessica,1.3888888888888888,2.083333333333333,40.97222222222222,0.6666666666666666,tap ask be fare
+Kaye,Rebus,5.0,0.0,35.0,INF,have have
+John Rebus,Rebus,0.0,11.458333333333332,38.54166666666667,0.0,be fuck complain
+Fox,Kaye,5.0,0.0,65.0,INF,tell think help
+Kaye,Macari,1.0416666666666665,0.0,57.291666666666664,INF,have call unzip
+Kaye,Macari,1.0416666666666665,0.0,57.291666666666664,INF,have call unzip
+Macari,Kaye,0.0,0.0,55.55555555555556,INF,end respond
+Fox,Sheriff Court,1.5151515151515151,3.0303030303030303,71.21212121212122,0.5,turn have give
+Fox,Kaye,1.5151515151515151,3.0303030303030303,71.21212121212122,0.5,turn have give
+Sheriff Court,Kaye,1.5151515151515151,3.0303030303030303,71.21212121212122,0.5,turn have give
+Fox,Rebus,0.0,2.083333333333333,57.91666666666667,0.0,look sense place take
+Fox,Rebus,0.0,2.083333333333333,57.91666666666667,0.0,look sense place take
+Fox,Rebus,0.0,2.083333333333333,57.91666666666667,0.0,look sense place take
+Rebus,Fox,0.0,0.0,75.0,INF,gesture
+Alice,Sheriff Court,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Alice,Rebus,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Alice,Fox,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Sheriff Court,Rebus,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Sheriff Court,Fox,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Rebus,Fox,3.125,0.3472222222222222,52.083333333333336,9.0,be be concede know do
+Rebus,Fox,0.0,2.083333333333333,56.25,0.0,sink smack
+Saints,Fox,0.0,0.0,46.15384615384615,INF,bring state
+Rebus,Meikle,0.9615384615384616,0.0,52.88461538461539,INF,think
+Rebus,Arthur,0.9615384615384616,0.0,52.88461538461539,INF,think
+Meikle,Arthur,0.9615384615384616,0.0,52.88461538461539,INF,think
+Fox,Rebus,4.166666666666666,5.208333333333334,44.79166666666667,0.8,be spare have be
+Clarke,Rebus,2.272727272727273,0.0,52.27272727272727,INF,be stand
+Fox,Clarke,0.0,0.0,33.33333333333333,INF,show
+Clarke,Fox,0.0,0.0,33.33333333333333,INF,show
+Clarke,Fox,0.0,0.0,38.46153846153847,INF,tell
+Fox,Rebus,0.0,0.0,37.5,INF,follow
+Rebus,Fox,0.0,0.0,50.0,INF,ask
+Rebus,Fox,0.0,0.0,55.55555555555556,INF,be slide
+Fox,Rebus,0.0,0.0,55.55555555555556,INF,be slide
+Fox,Rebus,3.8461538461538463,1.9230769230769231,55.769230769230774,2.0,be pick reappear
+Fox,Rebus,0.0,0.0,62.5,INF,dump place
+Rebus,Fox,0.0,4.166666666666666,62.5,0.0,hand
+Miles Davis,Fox,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,think get
+Fox,Miles Davis,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,think get
+Rebus,Fox,3.289473684210526,1.3157894736842104,63.81578947368421,2.5,be lift remember do
+Rebus,Clarke,0.0,0.0,46.42857142857143,INF,be go have come get state
+Rebus,Gilmour,0.3676470588235294,0.0,55.51470588235294,INF,rise walk stare revolve travel
+Bettina,Gilmour,2.7777777777777777,0.0,30.555555555555557,INF,have have
+Maggie,Gilmour,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,tell reopen do react
+Maggie,Gilmour,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,tell reopen do react
+Gilmour,Bettina,0.0,2.7777777777777777,41.66666666666667,0.0,resign
+Bettina,Saunders,0.0,0.0,47.05882352941176,INF,do have hold let
+Bettina,Macari,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Bettina,Saunders,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Bettina,Saunders,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Bettina,Gilmour,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Macari,Saunders,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Macari,Saunders,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Macari,Gilmour,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Saunders,Gilmour,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Saunders,Gilmour,4.166666666666666,3.6458333333333335,25.520833333333332,1.1428571428571428,know come gun want talk
+Bettina,Gilmour,2.604166666666667,2.604166666666667,40.625,1.0,do have do have be
+Fox,Saints,2.734375,0.0,44.140625,INF,dig hit do take do arrange
+Bettina,Fox,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,question state
+Fox,Sheriff Court,1.1904761904761905,0.0,60.71428571428571,INF,be remove have bring
+Fox,Rebus,1.1904761904761905,0.0,60.71428571428571,INF,be remove have bring
+Fox,Sheriff Court,1.1904761904761905,0.0,60.71428571428571,INF,be remove have bring
+Sheriff Court,Rebus,1.1904761904761905,0.0,60.71428571428571,INF,be remove have bring
+Rebus,Sheriff Court,1.1904761904761905,0.0,60.71428571428571,INF,be remove have bring
+Rebus,Fox,2.5,1.5625,58.4375,1.6,have arrive weave confuse find lock
+Rebus,Fox,2.5,1.5625,58.4375,1.6,have arrive weave confuse find lock
+Fox,Rebus,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,arrive have be return
+Rebus,Fox,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Rebus,Fox,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Rebus,Fox,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Rebus,Fox,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Fox,Rebus,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Fox,Rebus,6.018518518518518,0.0,64.35185185185185,INF,have ask have have shake have decide press
+Rebus,Bettina,5.681818181818182,0.0,48.86363636363637,INF,have throw
+Macari,Mr Saunders,1.0416666666666665,0.0,40.625,INF,be question
+Saints,Bettina,2.314814814814815,0.9259259259259258,48.61111111111111,2.5,think help ask hear
+Bettina,Macari,1.1904761904761905,0.5952380952380952,50.595238095238095,2.0,have be interview take
+Rebus,Fox,5.555555555555555,3.4722222222222223,63.19444444444444,1.6,be wonder have be huckle reel
+Rebus,Fox,5.555555555555555,3.4722222222222223,63.19444444444444,1.6,be wonder have be huckle reel
+Rebus,Fox,0.8333333333333334,1.6666666666666667,77.5,0.5,watch make
+Maggie,Paterson,0.0,0.0,33.33333333333333,INF,
+DS Paterson,DC Spence,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,show have
+Rebus,Fox,0.0,2.34375,60.15625,0.0,start relax look
+Clarke,Fox,0.0,0.0,75.0,INF,ask
+Fox,Rebus,7.638888888888889,1.3888888888888888,52.083333333333336,5.5,do look be wait
+Fox,Rebus,7.638888888888889,1.3888888888888888,52.083333333333336,5.5,do look be wait
+McCuskey,Clarke,0.0,0.0,33.33333333333333,INF,announce
+Rebus,Clarke,10.0,5.0,45.0,2.0,narrow
+Rebus,Fox,0.0,0.0,50.0,INF,gesture
+Rebus,Clarke,0.5681818181818182,0.0,63.06818181818182,INF,run move
+Rebus,Astra,0.5681818181818182,0.0,63.06818181818182,INF,run move
+Rebus,Clarke,0.5681818181818182,0.0,63.06818181818182,INF,run move
+Clarke,Astra,0.5681818181818182,0.0,63.06818181818182,INF,run move
+Astra,Clarke,0.5681818181818182,0.0,63.06818181818182,INF,run move
+Clarke,Sheriff Court,0.0,0.0,45.83333333333333,INF,remind try do be
+Rebus,McCuskey,0.0,0.0,61.53846153846154,INF,see show
+Rebus,Clarke,0.0,5.357142857142857,51.78571428571429,0.0,be go want warn
+McCuskey,Rebus,0.6944444444444444,0.0,32.63888888888889,INF,hear say come look
+Rebus,McCuskey,0.6944444444444444,0.0,32.63888888888889,INF,hear say come look
+Clarke,McCuskey,4.464285714285714,0.0,38.392857142857146,INF,nod let know be add
+Clarke,McCuskey,4.464285714285714,0.0,38.392857142857146,INF,nod let know be add
+Clarke,McCuskey,4.464285714285714,0.0,38.392857142857146,INF,nod let know be add
+Clarke,McCuskey,4.464285714285714,0.0,38.392857142857146,INF,nod let know be add
+Clarke,Rebus,0.0,0.0,66.66666666666666,INF,ask stab
+Rebus,Clarke,3.125,2.083333333333333,69.79166666666666,1.5,give offer
+Rebus,Clarke,0.0,0.0,50.0,INF,stomp follow
+Fox,Rebus,0.35714285714285715,0.35714285714285715,56.42857142857143,1.0,be head be remove stuff go
+Fox,Rebus,0.35714285714285715,0.35714285714285715,56.42857142857143,1.0,be head be remove stuff go
+Fox,Rebus,0.35714285714285715,0.35714285714285715,56.42857142857143,1.0,be head be remove stuff go
+Rebus,Clarke,0.0,3.6458333333333335,63.020833333333336,0.0,be rejoin come
+Clarke,Rebus,0.0,0.0,60.0,INF,start speak notice head
+Clarke,Rebus,0.0,0.0,60.0,INF,start speak notice head
+Clarke,Rebus,0.0,0.0,60.0,INF,start speak notice head
+Clarke,Rebus,0.0,0.0,60.0,INF,start speak notice head
+Ogilvie,McCuskey,3.4722222222222223,0.0,40.97222222222222,INF,have send wake
+McCuskey,Jessica,5.978260869565218,0.0,46.19565217391305,INF,be be be leave
+Fox,Rebus,2.5,0.0,27.500000000000004,INF,work correct
+Rebus,Fox,2.5,0.0,27.500000000000004,INF,work correct
+Clarke,James Page,3.289473684210526,2.631578947368421,51.973684210526315,1.25,nod watch get take enunciate make catch
+James Page,Clarke,3.289473684210526,2.631578947368421,51.973684210526315,1.25,nod watch get take enunciate make catch
+James Page,Clarke,3.289473684210526,2.631578947368421,51.973684210526315,1.25,nod watch get take enunciate make catch
+James Page,Clarke,3.289473684210526,2.631578947368421,51.973684210526315,1.25,nod watch get take enunciate make catch
+James Page,Clarke,3.289473684210526,2.631578947368421,51.973684210526315,1.25,nod watch get take enunciate make catch
+Clarke,Fox,0.8333333333333334,0.0,39.166666666666664,INF,have admit be comment
+Rebus,Clarke,2.6515151515151514,0.0,51.89393939393939,INF,be retort take head seek make
+Rebus,Clarke,2.6515151515151514,0.0,51.89393939393939,INF,be retort take head seek make
+Rebus,Saab,2.083333333333333,4.166666666666666,57.08333333333333,0.5,have leave warn stop get
+Rebus,Saab,2.083333333333333,4.166666666666666,57.08333333333333,0.5,have leave warn stop get
+Saab,Rebus,2.083333333333333,4.166666666666666,57.08333333333333,0.5,have leave warn stop get
+Saab,Rebus,2.083333333333333,4.166666666666666,57.08333333333333,0.5,have leave warn stop get
+Jessica,Rebus,0.0,0.0,62.5,INF,be wait
+Jessica,Rebus,1.6304347826086956,3.260869565217391,69.02173913043478,0.5,hesitate lead turn
+Rebus,Jessica,3.125,0.78125,46.09375,4.0,see have be peruse
+Jessica,Rebus,9.090909090909092,6.8181818181818175,47.72727272727273,1.3333333333333333,stare check
+Jessica,Mr Traynor,2.083333333333333,2.083333333333333,29.166666666666668,1.0,turn study
+Rebus,Mr Traynor,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Rebus,Jessica,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Rebus,Mr Traynor,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Rebus,Mr Traynor,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Mr Traynor,Jessica,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Jessica,Mr Traynor,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Jessica,Mr Traynor,2.272727272727273,0.5681818181818182,56.25,4.0,have add want see have check have lock knock slide
+Rebus,Patrick McCuskey,0.6944444444444444,0.0,49.30555555555556,INF,say be attack
+Rebus,Patrick McCuskey,0.6944444444444444,0.0,49.30555555555556,INF,say be attack
+Rebus,Owen Traynor,3.571428571428571,1.7857142857142856,37.5,2.0,confirm
+Rebus,Jessica,3.571428571428571,1.7857142857142856,37.5,2.0,confirm
+Owen Traynor,Jessica,3.571428571428571,1.7857142857142856,37.5,2.0,confirm
+Jessica,Rebus,3.4090909090909087,0.0,60.22727272727273,INF,have take clench
+Rebus,Owen Traynor,0.0,0.0,52.63157894736842,INF,do be hold stare
+Jessica,McCuskey,1.2195121951219512,2.4390243902439024,59.756097560975604,0.5,have get be guess have be mean be shake
+Pat McCuskey,McCuskey,0.5434782608695652,0.0,55.97826086956522,INF,think be go give
+Jessica,Rebus,0.0,4.166666666666666,49.166666666666664,0.0,do confirm turn face
+Rebus,Jessica,8.333333333333332,2.7777777777777777,44.44444444444444,3.0,have
+Rebus,Jessica,8.333333333333332,2.7777777777777777,44.44444444444444,3.0,have
+Rebus,Fox,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be say walk
+Fox,Rebus,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be say walk
+Fox,Rebus,0.0,2.083333333333333,72.91666666666666,0.0,hold give
+Saints,Gilmour,0.0,0.0,53.333333333333336,INF,destroy put
+Saints,John,11.25,8.75,40.0,1.2857142857142858,be
+Rebus,Saunders,2.5,0.0,57.49999999999999,INF,consider ask be go interview
+Saunders,Rebus,3.260869565217391,0.5434782608695652,39.67391304347826,6.0,have keep
+Rebus,Cuttle,1.25,0.0,48.75,INF,happen be
+Rebus,Fox,0.0,0.0,66.66666666666666,INF,look
+Rebus,Paterson,0.4166666666666667,0.4166666666666667,55.833333333333336,1.0,be arrive offer
+Rebus,Paterson,0.4166666666666667,0.4166666666666667,55.833333333333336,1.0,be arrive offer
+Rebus,Paterson,0.0,0.4807692307692308,57.21153846153846,0.0,shake return
+Rebus,Paterson,0.0,0.4807692307692308,57.21153846153846,0.0,shake return
+Paterson,Rebus,0.0,0.4807692307692308,57.21153846153846,0.0,shake return
+Rebus,Fox,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,be seat have talk
+Rebus,Paterson,5.555555555555555,1.3888888888888888,59.72222222222222,4.0,have text say
+Albert Stout,Cuttle,0.0,0.0,50.0,INF,
+Bettina,Gilmour,0.0,0.0,16.666666666666664,INF,belong
+Rebus,Paterson,0.0,0.0,58.333333333333336,INF,pause study
+Paterson,Rebus,0.0,0.0,58.333333333333336,INF,pause study
+Fox,Saints,4.6875,1.25,59.06249999999999,3.75,walk be wander hate find have tuck show be bury
+John,Paterson,5.833333333333333,4.166666666666666,36.666666666666664,1.4,be keep say
+Gilmour,Dod Blantyre,0.0,0.0,27.27272727272727,INF,vouch
+Rebus,Paterson,1.7045454545454544,1.1363636363636365,47.159090909090914,1.5,do forget finish buy cost watch leave
+McCuskey,Bethany McCuskey,0.0,0.0,57.692307692307686,INF,be follow arrive drive
+McCuskey,Bethany McCuskey,0.0,0.0,57.692307692307686,INF,be follow arrive drive
+Bethany McCuskey,McCuskey,0.0,0.0,57.692307692307686,INF,be follow arrive drive
+Bethany McCuskey,McCuskey,0.0,0.0,57.692307692307686,INF,be follow arrive drive
+Owen Traynor,Rebus,1.3888888888888888,0.0,43.05555555555556,INF,admit state
+Owen Traynor,Rebus,0.0,0.0,45.45454545454545,INF,add
+Astra,Rebus,2.232142857142857,0.8928571428571428,50.44642857142857,2.5,be shift give
+Aye,Gilmour,0.6944444444444444,0.0,27.083333333333332,INF,pipe
+Jess,Owen Traynor,0.0,2.840909090909091,60.79545454545454,0.0,be bugger
+Jess,Owen Traynor,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,say listen end
+Rebus,Owen Traynor,0.0,5.769230769230769,67.3076923076923,0.0,start open be
+Fox,Paterson,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,have text ask be need
+John,Rebus,1.9230769230769231,1.9230769230769231,42.30769230769231,1.0,have mutter
+Fox,Dod Blantyre,1.7045454545454544,2.840909090909091,59.09090909090909,0.6,have be ask be answer
+Dod Blantyre,Fox,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,do want go
+Dod Blantyre,Fox,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,do want go
+Rebus,Maggie,1.7857142857142856,2.6785714285714284,45.535714285714285,0.6666666666666666,turn be study
+Maggie,Rebus,1.7857142857142856,2.6785714285714284,45.535714285714285,0.6666666666666666,turn be study
+Fox,Maggie,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Fox,Saunders,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Fox,Maggie,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Fox,Maggie,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Maggie,Saunders,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Saunders,Maggie,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Saunders,Maggie,2.5,3.125,39.375,0.8,be be want retry happen need know go bite
+Saunders,Clarke,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,need take apologise see
+Pat McCuskey,Maggie,8.59375,1.5625,39.84375,5.5,die say
+Pat McCuskey,Maggie,8.59375,1.5625,39.84375,5.5,die say
+Esson,Ogilvie,0.0,11.538461538461538,34.61538461538461,0.0,
+Maggie,Ralph,1.4705882352941175,3.6764705882352944,47.794117647058826,0.4,seem be fret be get
+Rebus,Maggie,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,nod take flick
+Rebus,Clarke,1.25,0.0,38.75,INF,get go tell
+Rebus,Maggie,0.0,0.0,50.0,INF,spot
+Maggie,Rebus,0.0,0.0,40.0,INF,smile touch
+Maggie,Rebus,0.0,0.0,40.0,INF,smile touch
+Rebus,Maggie,0.0,0.0,40.0,INF,smile touch
+Rebus,Maggie,0.0,0.0,40.0,INF,smile touch
+Rebus,Sheriff Court,1.4705882352941175,1.4705882352941175,67.64705882352942,1.0,be growl have be
+Rebus,Sheriff Court,1.4705882352941175,1.4705882352941175,67.64705882352942,1.0,be growl have be
+Paterson,Rebus,1.5625,0.0,73.4375,INF,have offer fiddle
+Paterson,Fox,1.5625,0.0,73.4375,INF,have offer fiddle
+Rebus,Fox,1.5625,0.0,73.4375,INF,have offer fiddle
+Paterson,Rebus,0.0,0.8333333333333334,45.83333333333333,0.0,be say give
+Rebus,Fox,8.035714285714286,0.0,49.107142857142854,INF,be hire
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Fox,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,clasp start begin stare lob
+Paterson,Rebus,0.0,0.0,57.14285714285714,INF,gaze shift
+John,Fox,2.941176470588235,0.0,44.11764705882353,INF,tell slap
+John,Fox,2.941176470588235,0.0,44.11764705882353,INF,tell slap
+Paterson,Fox,8.333333333333332,4.166666666666666,43.05555555555556,2.0,be drill
+DI Gilmour,Mr Saunders,0.0,1.7857142857142856,33.92857142857143,0.0,resign take
+Paterson,Rebus,0.0,0.0,60.0,INF,look
+Paterson,John,1.5625,0.0,48.4375,INF,do do
+Paterson,John,1.5625,0.0,48.4375,INF,do do
+John,Fox,0.78125,0.0,55.46875,INF,be think have owe comment
+John,Paterson,2.083333333333333,1.0416666666666665,46.875,2.0,be shoot
+Paterson,Rebus,2.5,0.0,57.49999999999999,INF,wait have nod
+Paterson,Rebus,2.5,0.0,57.49999999999999,INF,wait have nod
+Paterson,Fox,0.0,5.0,75.0,0.0,sound be nod
+Fox,Paterson,0.0,0.0,53.84615384615385,INF,thank tell see
+Fox,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Fox,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Paterson,Fox,0.0,0.0,53.84615384615385,INF,thank tell see
+Paterson,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Paterson,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Fox,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Fox,Rebus,0.0,0.0,53.84615384615385,INF,thank tell see
+Paterson,Gilmour,1.4705882352941175,2.2058823529411766,55.14705882352941,0.6666666666666666,pull call
+Paterson,Gilmour,1.4705882352941175,2.2058823529411766,55.14705882352941,0.6666666666666666,pull call
+Paterson,Gilmour,4.017857142857143,3.125,35.714285714285715,1.2857142857142858,leave tell phone add know be daft
+Paterson,Gilmour,4.017857142857143,3.125,35.714285714285715,1.2857142857142858,leave tell phone add know be daft
+Paterson,John,0.0,0.0,53.84615384615385,INF,do think be play
+Paterson,John,0.0,0.0,53.84615384615385,INF,do think be play
+Paterson,Rebus,0.0,1.3888888888888888,65.27777777777779,0.0,jab
+Gilmour,Saunders,2.1739130434782608,1.0869565217391304,35.869565217391305,2.0,play be call
+Gilmour,Saunders,2.1739130434782608,1.0869565217391304,35.869565217391305,2.0,play be call
+Gilmour,Saunders,2.1739130434782608,1.0869565217391304,35.869565217391305,2.0,play be call
+Porkbelly,Rebus,2.2058823529411766,4.411764705882353,52.20588235294118,0.5,be say
+John,Dod Blantyre,0.0,0.0,52.38095238095239,INF,tell be start see
+Paterson,Rebus,4.741379310344827,2.586206896551724,58.189655172413794,1.8333333333333333,happen be be need pause look
+Gilmour,Bettina,0.0,0.0,50.0,INF,leave see do go
+Gilmour,Bettina,0.0,0.0,50.0,INF,leave see do go
+Rebus,Paterson,5.555555555555555,0.0,50.0,INF,notice be outstretch
+Rebus,Paterson,3.125,0.78125,58.59375,4.0,take return let go
+Paterson,Rebus,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,have spot have surmise have ask
+Paterson,Rebus,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,have spot have surmise have ask
+Paterson,Rebus,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,have spot have surmise have ask
+Paterson,Bettina,3.75,6.25,20.0,0.6,contact
+Fox,Rebus,4.166666666666666,0.0,62.5,INF,study shake
+Fox,Rebus,4.166666666666666,0.0,62.5,INF,study shake
+Clarke,Ralph,0.625,1.875,47.5,0.3333333333333333,squeeze reach introduce
+Olivia Webster,Clarke,0.0,0.0,44.44444444444444,INF,say follow
+John,McCuskey,1.3888888888888888,4.62962962962963,53.24074074074075,0.3,have be attend
+John,McCuskey,1.3888888888888888,4.62962962962963,53.24074074074075,0.3,have be attend
+Clarke,Owen Traynor,1.5625,0.0,48.4375,INF,think
+Clarke,Ralph,1.0,4.0,35.0,0.25,find press see
+Rebus,McCuskey,0.0,2.840909090909091,51.70454545454546,0.0,be spot
+McCuskey,Rebus,3.125,0.0,63.541666666666664,INF,stand stride
+Rebus,McCuskey,6.25,0.0,43.75,INF,pass say let know live
+Jessica,Rebus,0.0,0.0,41.66666666666667,INF,include interview continue
+Rebus,McCuskey,0.0,0.0,42.857142857142854,INF,gesture
+McCuskey,Rebus,7.142857142857142,3.571428571428571,46.42857142857143,2.0,lock
+Clarke,Fox,1.5151515151515151,4.166666666666666,67.04545454545455,0.36363636363636365,be have choose sense be
+Clarke,Fox,0.0,0.0,71.42857142857143,INF,order
+Fox,Clarke,0.0,2.5,47.5,0.0,hear think complain relent lead be find
+Clarke,Fox,3.7162162162162162,2.7027027027027026,53.04054054054054,1.375,be wrap please see be wear
+Clarke,Rebus,1.4705882352941175,1.4705882352941175,55.88235294117647,1.0,take ask be go
+Sheriff Court,Fox,0.0,1.4705882352941175,80.88235294117648,0.0,be arrive find lock
+Esson,Ogilvie,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,have be
+Esson,James Page,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,have be
+Ogilvie,James Page,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,have be
+Ogilvie,Esson,2.7777777777777777,0.0,30.555555555555557,INF,buy explain
+Rebus,Ogilvie,0.0,0.0,33.33333333333333,INF,look
+Ogilvie,Esson,0.0,0.0,55.55555555555556,INF,see
+Bettina,Rebus,4.807692307692308,0.9615384615384616,40.38461538461539,5.0,accord feel qualify
+Saunders,Niddrie,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,be find
+Rebus,Fox,2.083333333333333,2.083333333333333,54.166666666666664,1.0,hear nod
+Rebus,Fox,2.083333333333333,2.083333333333333,54.166666666666664,1.0,hear nod
+Fox,Rebus,0.0,0.4032258064516129,51.20967741935484,0.0,do tell be do give
+Fox,Rebus,0.0,0.4032258064516129,51.20967741935484,0.0,do tell be do give
+Gilmour,Fox,0.0,0.9615384615384616,29.807692307692307,0.0,be talk interrupt
+Fox,Rebus,0.6578947368421052,3.289473684210526,53.94736842105263,0.2,receive have give
+Rebus,Saab,0.0,0.0,33.33333333333333,INF,open take
+Rebus,Niddrie,0.0,0.0,33.33333333333333,INF,open take
+Saab,Niddrie,0.0,0.0,33.33333333333333,INF,open take
+Rebus,Saunders,4.545454545454546,2.272727272727273,38.63636363636363,2.0,narrow
+Rebus,Saunders,4.545454545454546,2.272727272727273,38.63636363636363,2.0,narrow
+Bettina,Douglas Merchant,3.125,3.90625,55.46875,0.8,be marry have be kill
+Bettina,Douglas Merchant,3.125,3.90625,55.46875,0.8,be marry have be kill
+Rebus,Fox,1.7857142857142856,0.0,48.214285714285715,INF,do introduce tell
+Fox,Saunders,0.0,0.0,36.36363636363637,INF,be mention
+Saunders,Niddrie,1.7857142857142856,0.0,69.64285714285714,INF,do have
+Rebus,Saunders,7.291666666666667,2.083333333333333,57.291666666666664,3.5,clear ask
+Rebus,Douglas Merchant,7.291666666666667,2.083333333333333,57.291666666666664,3.5,clear ask
+Rebus,Saunders,7.291666666666667,2.083333333333333,57.291666666666664,3.5,clear ask
+Rebus,Douglas Merchant,7.291666666666667,2.083333333333333,57.291666666666664,3.5,clear ask
+Saunders,Douglas Merchant,7.291666666666667,2.083333333333333,57.291666666666664,3.5,clear ask
+Saunders,Fox,0.0,0.0,40.0,INF,glower
+Saab,Fox,0.0,0.0,52.63157894736842,INF,ask be try
+Saab,Rebus,0.0,0.0,52.63157894736842,INF,ask be try
+Fox,Rebus,0.0,0.0,52.63157894736842,INF,ask be try
+Fox,Rebus,2.5,2.5,40.0,1.0,say reach walk
+Rebus,Fox,3.214285714285714,6.071428571428571,59.285714285714285,0.5294117647058824,have be recognise seat break walk
+Fox,Rebus,3.214285714285714,6.071428571428571,59.285714285714285,0.5294117647058824,have be recognise seat break walk
+Christie,Rebus,1.5625,0.0,35.9375,INF,say
+Christie,Rebus,1.7857142857142856,0.0,69.64285714285714,INF,look
+Rebus,Fox,1.3888888888888888,8.333333333333332,45.83333333333333,0.16666666666666666,ignore turn
+Mr Christie,Fox,2.5,8.333333333333332,42.5,0.3,say sound
+Christie,Fox,1.2096774193548387,0.4032258064516129,56.451612903225815,3.0,feel trust be speak open respond
+Christie,Fox,1.2096774193548387,0.4032258064516129,56.451612903225815,3.0,feel trust be speak open respond
+Fox,Christie,1.2096774193548387,0.4032258064516129,56.451612903225815,3.0,feel trust be speak open respond
+Fox,Christie,1.2096774193548387,0.4032258064516129,56.451612903225815,3.0,feel trust be speak open respond
+Christie,Rebus,2.7777777777777777,2.7777777777777777,38.88888888888889,1.0,tell snap
+Christie,Kenny Magrath,0.0,3.125,36.875,0.0,be owe put
+Rebus,Christie,4.166666666666666,0.0,69.16666666666667,INF,be turn
+Rebus,Fox,4.166666666666666,0.0,69.16666666666667,INF,be turn
+Christie,Fox,4.166666666666666,0.0,69.16666666666667,INF,be turn
+Fox,Bettina,1.7857142857142856,0.0,33.92857142857143,INF,think have do
+Ralph,Clarke,3.804347826086957,1.6304347826086956,42.391304347826086,2.3333333333333335,have bring
+Ralph,Owen Traynor,3.804347826086957,1.6304347826086956,42.391304347826086,2.3333333333333335,have bring
+Clarke,Owen Traynor,3.804347826086957,1.6304347826086956,42.391304347826086,2.3333333333333335,have bring
+Jessica,Ralph,4.545454545454546,2.272727272727273,38.63636363636363,2.0,be be interrupt
+Rebus,McCuskey,0.5434782608695652,2.1739130434782608,53.80434782608695,0.25,blame be try stir bring
+Rebus,McCuskey,0.5434782608695652,2.1739130434782608,53.80434782608695,0.25,blame be try stir bring
+Jessica,Clarke,2.083333333333333,12.5,35.41666666666667,0.16666666666666666,stare
+Mr Traynor,Ralph,5.113636363636364,0.0,40.340909090909086,INF,be say
+Ralph,Patrick McCuskey,6.481481481481481,4.166666666666666,30.09259259259259,1.5555555555555556,be go ignore have meet
+Ralph,Bethany McCuskey,6.481481481481481,4.166666666666666,30.09259259259259,1.5555555555555556,be go ignore have meet
+Patrick McCuskey,Bethany McCuskey,6.481481481481481,4.166666666666666,30.09259259259259,1.5555555555555556,be go ignore have meet
+McCuskey,Jessica,0.0,3.3333333333333335,16.666666666666664,0.0,do blame happen
+Jessica,Bethany McCuskey,2.083333333333333,0.0,47.91666666666667,INF,stare
+Clarke,Bethany McCuskey,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Clarke,Bethany McCuskey,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Bethany McCuskey,Clarke,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Bethany McCuskey,Clarke,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Bethany McCuskey,Clarke,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Clarke,Bethany McCuskey,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Clarke,Bethany McCuskey,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Bethany McCuskey,Clarke,1.8518518518518516,3.2407407407407405,54.166666666666664,0.5714285714285714,state tell be lie shift speak
+Jessica,Ralph,0.0,2.7777777777777777,52.77777777777778,0.0,tug
+Clarke,Jessica,2.8846153846153846,2.403846153846154,33.17307692307692,1.2,be cause flee help
+Jessica,Clarke,2.8846153846153846,2.403846153846154,33.17307692307692,1.2,be cause flee help
+Jessica,Clarke,3.125,0.0,38.54166666666667,INF,glare turn
+Jessica,Clarke,3.125,0.0,38.54166666666667,INF,glare turn
+Jessica,Ralph,3.125,0.0,38.54166666666667,INF,glare turn
+Clarke,Ralph,3.125,0.0,38.54166666666667,INF,glare turn
+Clarke,Ralph,3.125,0.0,38.54166666666667,INF,glare turn
+Olivia Webster,Jessica,1.3888888888888888,0.0,54.166666666666664,INF,be summon lead
+Clarke,Ralph,0.0,0.0,46.15384615384615,INF,stand watch leave
+Ralph,Clarke,0.0,0.0,46.15384615384615,INF,stand watch leave
+Clarke,Ralph,0.0,5.555555555555555,33.33333333333333,0.0,want get comment
+Rebus,Fox,0.0,0.0,63.63636363636363,INF,be play
+Rebus,Fox,4.545454545454546,0.0,50.0,INF,help say
+Rebus,Fox,0.0,1.3888888888888888,65.27777777777779,0.0,remove
+Owen Traynor,Jessica,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Owen Traynor,Patrick McCuskey,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Owen Traynor,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Owen Traynor,Rebus,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Owen Traynor,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Jessica,Patrick McCuskey,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Jessica,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Jessica,Rebus,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Jessica,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Patrick McCuskey,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Patrick McCuskey,Rebus,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Patrick McCuskey,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Clarke,Rebus,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Rebus,Clarke,2.2388059701492535,0.7462686567164178,49.25373134328358,3.0,cut leave explain be be mutter give start
+Rebus,Gilmour,4.941860465116279,0.872093023255814,45.348837209302324,5.666666666666667,sense use see be announce be walk call greet
+Gilmour,Rebus,4.941860465116279,0.872093023255814,45.348837209302324,5.666666666666667,sense use see be announce be walk call greet
+Rebus,Fox,0.0,0.0,63.63636363636363,INF,shake introduce
+Fox,Gilmour,0.4166666666666667,0.0,52.916666666666664,INF,say settle stretch
+Gilmour,Fox,0.4166666666666667,0.0,52.916666666666664,INF,say settle stretch
+Owen Traynor,Gilmour,4.807692307692308,0.0,49.03846153846153,INF,see say
+Gilmour,Rebus,0.6578947368421052,0.0,51.973684210526315,INF,pop be comment
+Gilmour,Rebus,0.6578947368421052,0.0,51.973684210526315,INF,pop be comment
+Gilmour,John,6.25,3.125,28.125,2.0,
+Rebus,Fox,0.9615384615384616,0.9615384615384616,82.6923076923077,1.0,stay take
+Saunders,Fox,0.0,0.0,38.46153846153847,INF,be do say
+Fox,Mr Saunders,0.0,2.083333333333333,39.58333333333333,0.0,care comment
+Gilmour,Rebus,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,be find abandon explain
+Gilmour,Fox,9.722222222222223,4.166666666666666,41.66666666666667,2.3333333333333335,want know break fix
+Fox,Rebus,1.1363636363636365,2.272727272727273,69.31818181818183,0.5,point aim
+Fox,Rebus,1.1363636363636365,2.272727272727273,69.31818181818183,0.5,point aim
+Fox,Rebus,1.1363636363636365,2.272727272727273,69.31818181818183,0.5,point aim
+Gilmour,Rebus,0.0,3.90625,58.59375,0.0,stand nod
+Mr Gilmour,Fox,3.9473684210526314,3.9473684210526314,34.21052631578947,1.0,comment be
+Gilmour,Fox,0.0,0.0,53.84615384615385,INF,walk plant
+Saunders,John,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+Saunders,Gilmour,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+Saunders,Rebus,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+John,Gilmour,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+John,Rebus,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+Gilmour,Rebus,1.9230769230769231,0.0,44.230769230769226,INF,mean call
+Bettina,Saunders,1.4705882352941175,3.6764705882352944,41.911764705882355,0.4,be reckon be get
+Saunders,Summerhall,0.0,1.25,58.75,0.0,tell want be go be
+Saunders,Summerhall,0.0,1.25,58.75,0.0,tell want be go be
+Saunders,Summerhall,0.0,1.25,58.75,0.0,tell want be go be
+Gilmour,Fox,0.0,0.0,53.84615384615385,INF,jut
+Gilmour,Fox,0.0,0.0,53.84615384615385,INF,jut
+Fox,Gilmour,6.944444444444445,8.333333333333332,40.27777777777778,0.8333333333333334,pretend guess
+Rebus,Gilmour,2.6785714285714284,0.0,54.46428571428571,INF,think recognise
+Fox,Rebus,0.0,0.0,72.22222222222221,INF,be do hear
+Fox,Gilmour,2.5,0.0,54.166666666666664,INF,comment shake press
+Fox,Gilmour,2.5,0.0,54.166666666666664,INF,comment shake press
+Fox,Gilmour,2.5,0.0,54.166666666666664,INF,comment shake press
+Gilmour,Saunders,2.9166666666666665,0.8333333333333334,52.916666666666664,3.5,join lock settle wonder do
+Rebus,Saunders,0.0,0.0,60.0,INF,ring know be
+Fox,Gilmour,0.0,0.0,72.72727272727273,INF,listen draw
+Fox,Gilmour,0.0,0.0,72.72727272727273,INF,listen draw
+Gilmour,SNP,0.0,1.25,48.75,0.0,be
+Clarke,Galvin,0.0,0.0,41.66666666666667,INF,wait come
+Clarke,Galvin,1.5,0.0,54.50000000000001,INF,watch emerge rub reassure have remember wash
+Clarke,Galvin,1.5,0.0,54.50000000000001,INF,watch emerge rub reassure have remember wash
+Clarke,Galvin,1.5,0.0,54.50000000000001,INF,watch emerge rub reassure have remember wash
+Clarke,Galvin,0.0,7.5,32.5,0.0,prick say
+Galvin,Rebus,2.5,0.0,47.5,INF,take call
+Fox,Gilmour,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,think slip make
+Fox,Gilmour,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,think slip make
+Gilmour,Pat McCuskey,0.8333333333333334,0.0,39.166666666666664,INF,know know mean
+Gilmour,Pat McCuskey,0.8333333333333334,0.0,39.166666666666664,INF,know know mean
+Smith,Clarke,0.0,1.7857142857142856,48.214285714285715,0.0,raise know say
+Smith,Clarke,0.0,1.7857142857142856,48.214285714285715,0.0,raise know say
+Smith,Clarke,3.571428571428571,0.0,53.57142857142857,INF,work be equip
+McCuskey,Clarke,4.166666666666666,3.3333333333333335,32.5,1.25,want ask guess
+Clarke,Smith,1.4705882352941175,0.0,57.35294117647059,INF,watch drum steer
+Smith,Clarke,1.4705882352941175,0.0,57.35294117647059,INF,watch drum steer
+Smith,Jessica,0.9259259259259258,2.314814814814815,59.72222222222222,0.4,have call go write
+Jessica,Smith,0.9259259259259258,2.314814814814815,59.72222222222222,0.4,have call go write
+Smith,Clarke,0.0,5.208333333333334,44.79166666666667,0.0,switch twist
+Jessica,McCuskey,2.717391304347826,0.5434782608695652,53.2608695652174,5.0,be end
+Owen Traynor,Smith,9.782608695652174,4.891304347826087,41.84782608695652,2.0,let guess have be be check
+Clarke,Smith,6.666666666666667,1.6666666666666667,45.0,4.0,smile
+Rebus,Smith,10.9375,1.5625,50.0,7.0,be keep
+Smith,Bettina,0.8333333333333334,0.0,39.166666666666664,INF,have manage wangle
+Smith,Bettina,0.8333333333333334,0.0,39.166666666666664,INF,have manage wangle
+Clarke,Smith,2.083333333333333,4.166666666666666,60.416666666666664,0.5,give
+Gilmour,Bettina,5.208333333333334,0.0,19.791666666666664,INF,know leave
+Owen Traynor,Dod Blantyre,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,expect see flash stand look
+Owen Traynor,Maggie,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,expect see flash stand look
+Dod Blantyre,Maggie,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,expect see flash stand look
+Maggie,Owen Traynor,4.3478260869565215,4.3478260869565215,39.130434782608695,1.0,have turn be
+Gilmour,John,0.0,2.083333333333333,39.58333333333333,0.0,
+Smith,Maggie,0.0,0.0,44.44444444444444,INF,be spin
+Clarke,Rebus,0.0,0.0,61.53846153846154,INF,be perch opt stand
+Ralph,Jessica,5.0,2.5,42.5,2.0,tell
+Jessica,McCuskey,0.0,0.0,56.666666666666664,INF,have take have go come open take be
+Clarke,Rebus,2.6785714285714284,5.357142857142857,34.82142857142857,0.5,be warn
+Clarke,Neil Young,1.7361111111111112,0.0,39.93055555555556,INF,know walk stand
+Clarke,Ralph,1.7361111111111112,0.0,39.93055555555556,INF,know walk stand
+Neil Young,Ralph,1.7361111111111112,0.0,39.93055555555556,INF,know walk stand
+Albert Stout,Cuttle,0.0,0.8928571428571428,49.107142857142854,0.0,have fix
+Summerhall,Douglas Merchant,0.0,0.0,40.0,INF,
+Saunders,Gilmour,0.0,0.0,33.33333333333333,INF,be
+Bettina,Gilmour,1.5625,3.6458333333333335,53.125,0.42857142857142855,lose have shake
+Summerhall,Gilmour,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,seem recall be
+Paterson,George Blantyre,0.0,0.9615384615384616,37.5,0.0,be talk
+Gilmour,Fox,0.0,0.0,25.0,INF,add
+Summerhall,Mr Stout,1.0416666666666665,0.0,48.95833333333333,INF,
+Frazer,John,0.0,0.0,42.857142857142854,INF,work be say
+Frazer,Fox,0.0,0.0,42.857142857142854,INF,work be say
+John,Fox,0.0,0.0,42.857142857142854,INF,work be say
+Rebus,Saab,0.78125,2.34375,65.625,0.3333333333333333,wish bring be park
+Rebus,Saab,0.78125,2.34375,65.625,0.3333333333333333,wish bring be park
+Rebus,Saab,0.78125,2.34375,65.625,0.3333333333333333,wish bring be park
+Fox,Rebus,0.0,2.272727272727273,70.45454545454545,0.0,do look see fire
+Rebus,Fox,5.0,3.125,66.875,1.6,have suggest put have ease
+Fox,Cuttle,0.0,0.0,56.52173913043478,INF,keep drive head
+Rebus,Fox,0.0,0.0,60.0,INF,turn
+Dod Blantyre,Maggie,0.6578947368421052,1.3157894736842104,45.39473684210527,0.5,remember escape
+Cuttle,Albert Stout,3.3333333333333335,4.166666666666666,65.83333333333333,0.8,be require
+Rebus,Cuttle,5.416666666666667,0.4166666666666667,67.5,13.0,remember take respect be gather
+Rebus,Cuttle,5.416666666666667,0.4166666666666667,67.5,13.0,remember take respect be gather
+Rebus,Cuttle,5.416666666666667,0.4166666666666667,67.5,13.0,remember take respect be gather
+Cuttle,Rebus,0.0,8.928571428571429,62.5,0.0,apologise remember
+Fox,Cuttle,2.0161290322580645,0.8064516129032258,58.46774193548387,2.5,take be sit be stand leave
+Cuttle,Fox,2.0161290322580645,0.8064516129032258,58.46774193548387,2.5,take be sit be stand leave
+Cuttle,Fox,2.0161290322580645,0.8064516129032258,58.46774193548387,2.5,take be sit be stand leave
+Douglas Merchant,Fox,4.166666666666666,2.083333333333333,43.75,2.0,be nudge
+Fox,Cuttle,0.43103448275862066,1.293103448275862,53.44827586206896,0.3333333333333333,watch sift include decease
+Cuttle,Fox,0.43103448275862066,1.293103448275862,53.44827586206896,0.3333333333333333,watch sift include decease
+Saunders,Douglas Merchant,2.34375,1.5625,64.84375,1.5,tell have have belong
+Saunders,Douglas Merchant,2.34375,1.5625,64.84375,1.5,tell have have belong
+Fox,Bettina,4.017857142857143,0.4464285714285714,56.25,9.0,ask have do do sound convince be play
+Bettina,Cuttle,4.276315789473684,1.644736842105263,57.23684210526315,2.6,jump have be argue have be sleep give shrug pull
+Fox,Cuttle,3.4375000000000004,3.4375000000000004,50.625,1.0,explain mean want go snatch
+Cuttle,Rebus,4.166666666666666,0.0,73.61111111111111,INF,blink look
+Fox,Cuttle,2.083333333333333,7.8125,56.770833333333336,0.26666666666666666,press keep shake fear do
+Fox,Cuttle,2.083333333333333,7.8125,56.770833333333336,0.26666666666666666,press keep shake fear do
+Fox,Rebus,2.083333333333333,7.8125,56.770833333333336,0.26666666666666666,press keep shake fear do
+Cuttle,Rebus,2.083333333333333,7.8125,56.770833333333336,0.26666666666666666,press keep shake fear do
+Cuttle,Rebus,2.083333333333333,7.8125,56.770833333333336,0.26666666666666666,press keep shake fear do
+Rebus,Fox,3.6764705882352944,0.0,49.26470588235294,INF,let find linger
+Gilmour,Saints,0.0,3.260869565217391,44.565217391304344,0.0,be protect put include
+Gilmour,John,0.0,3.260869565217391,44.565217391304344,0.0,be protect put include
+Saints,John,0.0,3.260869565217391,44.565217391304344,0.0,be protect put include
+Rebus,Fox,3.4090909090909087,0.5681818181818182,64.20454545454545,6.0,stick grab be
+John,Rebus,4.044117647058823,4.411764705882353,53.30882352941176,0.9166666666666666,need be take ponder manage
+Rebus,John,4.044117647058823,4.411764705882353,53.30882352941176,0.9166666666666666,need be take ponder manage
+Rebus,Fox,1.25,0.0,68.75,INF,glance
+Rebus,Fox,0.0,0.0,70.0,INF,see
+Rebus,Clarke,0.0,0.0,58.333333333333336,INF,rendezvous
+Clarke,Jessica,0.0,0.0,35.714285714285715,INF,nod press
+Clarke,Rebus,0.0,0.0,61.53846153846154,INF,push follow wind
+Clarke,Jessica,1.1363636363636365,0.0,53.40909090909091,INF,offer ask be do
+Alice,Rebus,1.9230769230769231,0.0,67.3076923076923,INF,sit stay
+Alice,Clarke,1.9230769230769231,0.0,67.3076923076923,INF,sit stay
+Rebus,Clarke,1.9230769230769231,0.0,67.3076923076923,INF,sit stay
+Rebus,Alice,3.4722222222222223,0.0,40.97222222222222,INF,give say
+Rebus,Jessica,2.5,3.125,54.37499999999999,0.8,be say warn shake
+Jessica,Clarke,1.9230769230769231,0.0,36.53846153846153,INF,hear sell explain
+Jessica,McCuskey,2.717391304347826,0.0,45.108695652173914,INF,come say have die
+Rebus,Jessica,0.0,0.0,62.5,INF,stare be direct
+Rebus,Jessica,0.5208333333333333,0.0,45.3125,INF,leave approach crouch
+Jessica,Rebus,0.5208333333333333,0.0,45.3125,INF,leave approach crouch
+McCuskey,Rebus,0.0,1.25,38.75,0.0,go
+Jessica,Alice,2.232142857142857,0.0,44.19642857142857,INF,shake scoop take
+Owen Traynor,Gilmour,4.0,1.5,38.5,2.6666666666666665,have know be do
+Clarke,Gilmour,1.25,2.5,51.24999999999999,0.5,be have
+Cuttle,Rebus,4.296875,2.34375,58.984375,1.8333333333333333,have say be drop succumb take file follow
+Cuttle,Summerhall,4.296875,2.34375,58.984375,1.8333333333333333,have say be drop succumb take file follow
+Rebus,Summerhall,4.296875,2.34375,58.984375,1.8333333333333333,have say be drop succumb take file follow
+Fox,Macari,3.125,0.78125,52.34375,4.0,have be summon
+Rebus,Douglas Merchant,0.390625,1.171875,60.9375,0.3333333333333333,pad open seek lead
+Rebus,Douglas Merchant,0.390625,1.171875,60.9375,0.3333333333333333,pad open seek lead
+Fox,Rebus,0.0,0.0,60.0,INF,gesture
+Rebus,Fox,3.289473684210526,2.631578947368421,57.23684210526315,1.25,work explain hope keep
+Bank of Scotland,Gilmour,8.333333333333332,2.7777777777777777,22.22222222222222,3.0,want question
+Gilmour,Bettina,2.7777777777777777,0.0,30.555555555555557,INF,have
+Rebus,Fox,2.5,0.0,77.5,INF,watch
+Fox,Rebus,0.0,0.0,57.14285714285714,INF,notice be look
+Magnus Henderson,Rebus,0.0,0.0,44.44444444444444,INF,remember say
+Saints,Rebus,3.0,5.5,43.5,0.5454545454545454,be be confess offer shrug
+DI Clarke,Fox,0.0,1.7857142857142856,69.64285714285714,0.0,fix stare
+Fox,Rebus,4.464285714285714,3.571428571428571,63.39285714285714,1.25,keep pass
+Fox,Rebus,4.464285714285714,3.571428571428571,63.39285714285714,1.25,keep pass
+Rebus,Fox,0.0,0.0,50.0,INF,interrupt
+Rebus,Fox,2.380952380952381,3.571428571428571,55.952380952380956,0.6666666666666666,arrive have be put
+Rebus,Clarke,2.380952380952381,3.571428571428571,55.952380952380956,0.6666666666666666,arrive have be put
+Fox,Clarke,2.380952380952381,3.571428571428571,55.952380952380956,0.6666666666666666,arrive have be put
+Olivia Webster,Clarke,0.0,2.083333333333333,53.47222222222222,0.0,be make
+Rebus,Clarke,5.769230769230769,2.8846153846153846,45.19230769230769,2.0,be drip
+Rebus,Clarke,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,wear think recognise
+Rebus,Pat McCuskey,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,wear think recognise
+Clarke,Pat McCuskey,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,wear think recognise
+Pat McCuskey,Clarke,2.5,0.0,37.5,INF,go have say
+Fox,Bettina,5.5,1.5,41.0,3.6666666666666665,know have remind
+Bettina,Fox,5.5,1.5,41.0,3.6666666666666665,know have remind
+Clarke,Olivia Webster,0.0,4.807692307692308,49.03846153846153,0.0,head
+Bettina,Saunders,1.1904761904761905,0.5952380952380952,41.07142857142857,2.0,be swallow
+Rebus,Saunders,3.125,0.0,53.125,INF,say suck
+Fox,Rebus,7.352941176470589,0.7352941176470588,27.205882352941174,10.0,be know tell
+Clarke,Rebus,2.403846153846154,1.9230769230769231,53.36538461538461,1.25,happen be study seek wait
+Rebus,Fox,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,do say give say pat
+Rebus,Fox,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,do say give say pat
+Clarke,Fox,2.314814814814815,0.9259259259259258,52.31481481481482,2.5,change pause
+Clarke,Fox,2.314814814814815,0.9259259259259258,52.31481481481482,2.5,change pause
+Fox,Clarke,2.314814814814815,0.9259259259259258,52.31481481481482,2.5,change pause
+Clarke,Fox,2.314814814814815,0.9259259259259258,52.31481481481482,2.5,change pause
+Fox,Bettina,2.2058823529411766,0.7352941176470588,55.88235294117647,3.0,change dispense head wait be keen be comfort
+Fox,Bettina,2.2058823529411766,0.7352941176470588,55.88235294117647,3.0,change dispense head wait be keen be comfort
+Saunders,Fox,0.7352941176470588,4.411764705882353,30.14705882352941,0.16666666666666666,give complain
+Bettina,Fox,0.0,0.78125,36.71875,0.0,have meet be say
+Craddock,Bettina,1.1363636363636365,0.0,53.40909090909091,INF,do look have say do suffer follow be hear
+Craddock,Bettina,1.1363636363636365,0.0,53.40909090909091,INF,do look have say do suffer follow be hear
+Fox,Craddock,7.291666666666667,2.083333333333333,40.625,3.5,decide make
+Craddock,Fox,7.291666666666667,2.083333333333333,40.625,3.5,decide make
+Bettina,Saunders,5.681818181818182,0.0,48.86363636363637,INF,place
+Saunders,Fox,7.142857142857142,5.357142857142857,44.642857142857146,1.3333333333333333,fix
+Saunders,Fox,7.142857142857142,5.357142857142857,44.642857142857146,1.3333333333333333,fix
+Clarke,Fox,0.0,0.0,60.0,INF,seek
+Clarke,Fox,2.8846153846153846,3.8461538461538463,47.11538461538461,0.75,be say
+Clarke,Fox,0.0,0.0,40.0,INF,nod
+Fox,William Saunders,2.6785714285714284,0.4464285714285714,46.875,6.0,explain have be help form
+Fox,William Saunders,2.6785714285714284,0.4464285714285714,46.875,6.0,explain have be help form
+Mr Saunders,Douglas Merchant,1.3888888888888888,2.083333333333333,63.19444444444444,0.6666666666666666,be charge call
+Clarke,Macari,0.4807692307692308,0.4807692307692308,52.88461538461539,1.0,go be come have clear
+Fox,Bettina,7.4074074074074066,4.166666666666666,40.27777777777778,1.7777777777777777,start add be be
+Gilmour,Bettina,0.0,0.0,33.33333333333333,INF,contact
+Saunders,Clarke,6.8181818181818175,2.840909090909091,49.43181818181818,2.4,have question have be commit have be nod
+Olivia Webster,Fox,0.0,0.0,66.66666666666666,INF,suggest be sleep say
+Rebus,James Page,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,want do return have be leave
+Rebus,Fox,2.941176470588235,3.6764705882352944,52.20588235294118,0.8,trim lie check
+Rebus,Sheriff Court,1.9230769230769231,2.564102564102564,59.61538461538461,0.75,be head have lock have bother ask
+Rebus,Fox,1.9230769230769231,2.564102564102564,59.61538461538461,0.75,be head have lock have bother ask
+Sheriff Court,Fox,1.9230769230769231,2.564102564102564,59.61538461538461,0.75,be head have lock have bother ask
+Sheriff Court,Rebus,1.9230769230769231,2.564102564102564,59.61538461538461,0.75,be head have lock have bother ask
+Fox,Rebus,1.9230769230769231,2.564102564102564,59.61538461538461,0.75,be head have lock have bother ask
+Rebus,Gilmour,0.0,3.75,46.25,0.0,tap
+Saints,Gilmour,6.25,1.0416666666666665,34.375,6.0,
+Gilmour,Rebus,0.0,3.571428571428571,60.71428571428571,0.0,be say do blame increase
+Gilmour,Rebus,0.0,3.571428571428571,60.71428571428571,0.0,be say do blame increase
+John,Rebus,0.0,4.761904761904762,47.61904761904761,0.0,mutter crush
+Rebus,John,0.0,4.761904761904762,47.61904761904761,0.0,mutter crush
+John,Saab,1.1363636363636365,0.0,35.22727272727273,INF,get drive
+John,Saab,1.1363636363636365,0.0,35.22727272727273,INF,get drive
+Rebus,Clarke,0.8928571428571428,1.3392857142857142,44.19642857142857,0.6666666666666666,have become sense take weigh
+Rebus,Clarke,1.1904761904761905,0.0,60.71428571428571,INF,have come see be work
+Rebus,Drake,1.1904761904761905,0.0,60.71428571428571,INF,have come see be work
+Clarke,Drake,1.1904761904761905,0.0,60.71428571428571,INF,have come see be work
+Rebus,Alice,0.0,0.0,60.0,INF,tap
+Drake,Rebus,0.0,0.0,83.33333333333334,INF,look
+Saunders,Douglas Merchant,0.5,0.0,67.5,INF,be lead
+Rebus,Rhona,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rebus,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rebus,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rebus,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rhona,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rhona,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Rhona,Sammy,1.7361111111111112,1.0416666666666665,55.55555555555556,1.6666666666666667,be ban be show remember drag sleep
+Sammy,Summerhall,1.25,0.0,63.74999999999999,INF,think recall do
+Sammy,Summerhall,1.25,0.0,63.74999999999999,INF,think recall do
+Gilmour,Saints,0.4166666666666667,0.0,57.91666666666667,INF,have blag watch listen take step notice be empty unplug pack
+Gilmour,Rebus,0.4166666666666667,0.0,57.91666666666667,INF,have blag watch listen take step notice be empty unplug pack
+Gilmour,Rebus,0.4166666666666667,0.0,57.91666666666667,INF,have blag watch listen take step notice be empty unplug pack
+Saints,Rebus,0.4166666666666667,0.0,57.91666666666667,INF,have blag watch listen take step notice be empty unplug pack
+Saints,Rebus,0.4166666666666667,0.0,57.91666666666667,INF,have blag watch listen take step notice be empty unplug pack
+Rebus,Kennedy,0.4464285714285714,0.0,60.26785714285714,INF,think remember be clog
+Rebus,Gilmour,0.4464285714285714,0.0,60.26785714285714,INF,think remember be clog
+Rebus,Kennedy,0.4464285714285714,0.0,60.26785714285714,INF,think remember be clog
+Kennedy,Gilmour,0.4464285714285714,0.0,60.26785714285714,INF,think remember be clog
+Gilmour,Kennedy,0.4464285714285714,0.0,60.26785714285714,INF,think remember be clog
+Frazer,Rebus,2.272727272727273,0.5681818181818182,65.3409090909091,4.0,be have come announce
+Kennedy,Douglas Merchant,2.314814814814815,1.8518518518518516,69.9074074074074,1.25,have pass have lie
+Cuttle,Rebus,4.62962962962963,0.4629629629629629,57.870370370370374,10.0,be drop wonder have happen
+Cuttle,Kennedy,4.62962962962963,0.4629629629629629,57.870370370370374,10.0,be drop wonder have happen
+Rebus,Kennedy,4.62962962962963,0.4629629629629629,57.870370370370374,10.0,be drop wonder have happen
+Clarke,Fox,2.142857142857143,3.9285714285714284,62.5,0.5454545454545454,have slice open be arrive duck
+CCTV,Bettina,2.604166666666667,0.5208333333333333,61.458333333333336,5.0,base have have be sleep cover feel flatten
+Saunders,CCTV,3.90625,0.78125,60.9375,5.0,have find indicate have be eat be be check
+Gilmour,Rebus,2.272727272727273,0.0,43.18181818181818,INF,chime tell
+Fox,Summerhall,2.840909090909091,1.7045454545454544,36.36363636363637,1.6666666666666667,need tell
+Fox,Bettina,2.840909090909091,1.7045454545454544,36.36363636363637,1.6666666666666667,need tell
+Summerhall,Bettina,2.840909090909091,1.7045454545454544,36.36363636363637,1.6666666666666667,need tell
+Rebus,Summerhall,0.0,0.0,47.05882352941176,INF,be arrive take
+Rebus,Summerhall,0.0,0.0,47.05882352941176,INF,be arrive take
+Summerhall,Rebus,0.0,0.0,47.05882352941176,INF,be arrive take
+Gilmour,Maggie,0.0,0.0,22.22222222222222,INF,
+Gilmour,Paterson,0.0,0.0,22.22222222222222,INF,
+Maggie,Paterson,0.0,0.0,22.22222222222222,INF,
+Fox,Clarke,0.7352941176470588,0.0,75.73529411764706,INF,nod watch let hiss
+Clarke,Saints,2.840909090909091,2.272727272727273,44.88636363636363,1.25,be ask do believe
+Saints,Clarke,2.840909090909091,2.272727272727273,44.88636363636363,1.25,be ask do believe
+Smith,William Saunders,0.0,0.0,52.38095238095239,INF,be call quit brief
+Clarke,Fox,0.0,0.0,25.0,INF,be
+Cuttle,Rebus,1.6666666666666667,4.166666666666666,54.166666666666664,0.4,have inform
+Fox,Rebus,2.5,3.3333333333333335,54.166666666666664,0.75,seem keep apologise lower
+DI Gilmour,Rebus,0.0,0.0,44.44444444444444,INF,be see be vibrate
+DI Gilmour,Rebus,0.0,0.0,44.44444444444444,INF,be see be vibrate
+DI Gilmour,James Page,3.8461538461538463,0.0,73.07692307692307,INF,take check
+Fox,Cuttle,0.9615384615384616,2.403846153846154,38.94230769230769,0.4,be say be
+Rebus,Summerhall,1.7857142857142856,0.0,26.785714285714285,INF,be investigate
+Douglas Merchant,William Saunders,2.5,0.0,37.5,INF,
+Cuttle,Rebus,2.5,0.0,77.5,INF,watch
+Bettina,Saunders,0.0,0.0,50.0,INF,have turn have
+Rebus,Donner,0.0,0.0,50.0,INF,rise
+Gilmour,Wester Hailes,5.147058823529411,0.7352941176470588,64.70588235294117,7.0,have be bring
+Gilmour,Clarke,1.953125,2.34375,42.578125,0.8333333333333334,have have complain listen include
+Gilmour,Fox,1.953125,2.34375,42.578125,0.8333333333333334,have have complain listen include
+Clarke,Fox,1.953125,2.34375,42.578125,0.8333333333333334,have have complain listen include
+Gilmour,Fox,5.729166666666666,3.6458333333333335,57.291666666666664,1.5714285714285714,keep cast look wonder have tell
+Gilmour,Fox,5.729166666666666,3.6458333333333335,57.291666666666664,1.5714285714285714,keep cast look wonder have tell
+Gilmour,Clarke,5.729166666666666,3.6458333333333335,57.291666666666664,1.5714285714285714,keep cast look wonder have tell
+Fox,Clarke,5.729166666666666,3.6458333333333335,57.291666666666664,1.5714285714285714,keep cast look wonder have tell
+Fox,Clarke,5.729166666666666,3.6458333333333335,57.291666666666664,1.5714285714285714,keep cast look wonder have tell
+Traquair,Clarke,0.390625,3.125,40.234375,0.125,arrive introduce apologise hand
+Traquair,Fox,0.390625,3.125,40.234375,0.125,arrive introduce apologise hand
+Clarke,Fox,0.390625,3.125,40.234375,0.125,arrive introduce apologise hand
+Traquair,Fox,2.9069767441860463,2.616279069767442,54.94186046511628,1.1111111111111112,rest open unscrew check mark
+Clarke,William Saunders,4.435483870967742,1.2096774193548387,49.193548387096776,3.6666666666666665,oblige have be question concern call
+Traquair,Mr Gilmour,1.8382352941176472,1.8382352941176472,52.20588235294118,1.0,understand drawl be decease
+Macari,Saunders,1.6304347826086956,0.0,63.58695652173913,INF,rush have see
+Gilmour,Macari,4.411764705882353,0.0,42.64705882352941,INF,ask be go say
+Gilmour,Macari,4.411764705882353,0.0,42.64705882352941,INF,ask be go say
+William Saunders,Mr Gilmour,0.0,0.0,30.0,INF,do meet
+DI Clarke,Traquair,5.833333333333333,3.3333333333333335,37.5,1.75,insist have place warn
+Traquair,DI Clarke,5.833333333333333,3.3333333333333335,37.5,1.75,insist have place warn
+Traquair,DI Clarke,5.833333333333333,3.3333333333333335,37.5,1.75,insist have place warn
+Traquair,Gilmour,0.0,0.0,25.0,INF,ask
+Gilmour,Clarke,1.0416666666666665,8.333333333333332,32.29166666666667,0.125,say stare
+Maggie,Paterson,8.333333333333332,4.166666666666666,37.5,2.0,
+Clarke,DI Clarke,2.604166666666667,1.0416666666666665,33.85416666666667,2.5,need say rise
+Clarke,DI Clarke,2.604166666666667,1.0416666666666665,33.85416666666667,2.5,need say rise
+Traquair,Clarke,1.6304347826086956,1.6304347826086956,48.91304347826087,1.0,say close begin screw
+Traquair,Clarke,1.6304347826086956,1.6304347826086956,48.91304347826087,1.0,say close begin screw
+DI Clarke,Fox,1.5625,0.0,48.4375,INF,point
+Gilmour,Fox,7.236842105263158,0.6578947368421052,44.73684210526316,11.0,give tell caution
+Saunders,Clarke,0.0,0.0,30.76923076923077,INF,speak state
+Clarke,Fox,0.0,3.4722222222222223,57.638888888888886,0.0,add
+Clarke,Fox,1.3157894736842104,0.0,61.8421052631579,INF,look realise have duck
+Summerhall,Fox,2.7777777777777777,0.0,30.555555555555557,INF,explain
+Clarke,Fox,0.0,0.0,57.14285714285714,INF,stop look
+Saunders,Fox,3.0,0.0,56.99999999999999,INF,use kill be shake
+Saunders,Fox,3.0,0.0,56.99999999999999,INF,use kill be shake
+Rebus,Fox,0.78125,0.0,74.21875,INF,be seat get
+Rebus,Fox,0.78125,0.0,74.21875,INF,be seat get
+Laurie Martin,John,1.7857142857142856,8.035714285714286,33.035714285714285,0.2222222222222222,be
+John,Summerhall,0.0,0.0,71.42857142857143,INF,be bring
+John,Clarke,0.0,4.464285714285714,31.25,0.0,be
+Fox,Summerhall,1.6666666666666667,1.6666666666666667,43.333333333333336,1.0,be be memorise
+Fox,Rebus,3.2407407407407405,0.0,59.72222222222222,INF,be do lead end get light flick
+Fox,Paterson,10.416666666666668,0.0,56.25,INF,call
+Gilmour,Maggie,6.25,3.125,28.125,2.0,
+Aye,Frazer,0.0,0.0,45.45454545454545,INF,draw
+Cuttle,Gilmour,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Cuttle,Maggie,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Cuttle,Paterson,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Gilmour,Maggie,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Gilmour,Paterson,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Maggie,Paterson,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have supply be choose ignore
+Kennedy,Paterson,0.0,2.5,52.5,0.0,do see fit be say
+Rebus,Paterson,0.78125,0.0,55.46875,INF,end finish flick
+Paterson,Alice,0.0,3.9473684210526314,27.631578947368425,0.0,be be talk be
+McCuskey,Alice,4.435483870967742,2.82258064516129,50.806451612903224,1.5714285714285714,be occupy yank step look
+McCuskey,Paterson,4.435483870967742,2.82258064516129,50.806451612903224,1.5714285714285714,be occupy yank step look
+Alice,Paterson,4.435483870967742,2.82258064516129,50.806451612903224,1.5714285714285714,be occupy yank step look
+Paterson,Saab,2.7777777777777777,1.3888888888888888,45.83333333333333,2.0,see narrow form determine
+Saab,Paterson,2.7777777777777777,1.3888888888888888,45.83333333333333,2.0,see narrow form determine
+Saab,Paterson,2.7777777777777777,1.3888888888888888,45.83333333333333,2.0,see narrow form determine
+Rebus,Paterson,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+Rebus,Paterson,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+Rebus,Paterson,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+Paterson,Rebus,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+Rebus,Paterson,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+Rebus,Paterson,0.8928571428571428,0.0,45.535714285714285,INF,gesture come join do open get slam close
+McCuskey,Jessica,0.0,0.0,30.0,INF,take
+Alison,Pat McCuskey,0.9615384615384616,0.0,72.11538461538461,INF,say be tell be
+McCuskey,Jessica,0.0,0.0,0.0,INF,
+McCuskey,Alice,2.7777777777777777,1.7361111111111112,31.59722222222222,1.6,know be be be
+Jessica,McCuskey,3.6458333333333335,3.90625,36.19791666666667,0.9333333333333333,be be play have share start investigate have grow
+Jessica,Mr McCuskey,3.6458333333333335,3.90625,36.19791666666667,0.9333333333333333,be be play have share start investigate have grow
+McCuskey,Mr McCuskey,3.6458333333333335,3.90625,36.19791666666667,0.9333333333333333,be be play have share start investigate have grow
+McCuskey,Jessica,3.125,2.083333333333333,61.458333333333336,1.5,keep run leave lurch
+Deano,Rebus,0.0,0.0,28.57142857142857,INF,agree
+McCuskey,Jessica,0.0,4.166666666666666,37.5,0.0,whisper
+McCuskey,Jess,6.25,1.0416666666666665,42.70833333333333,6.0,call accuse kill
+McCuskey,Jess,6.25,1.0416666666666665,42.70833333333333,6.0,call accuse kill
+Jess,McCuskey,5.357142857142857,3.571428571428571,41.07142857142857,1.5,be make harden
+McCuskey,Jess,5.357142857142857,3.571428571428571,41.07142857142857,1.5,be make harden
+McCuskey,Alice,4.807692307692308,0.0,25.961538461538463,INF,know be drive
+McCuskey,Jess,1.1363636363636365,0.0,53.40909090909091,INF,watch cross enter
+McCuskey,Jess,1.1363636363636365,0.0,53.40909090909091,INF,watch cross enter
+Jess,McCuskey,3.125,0.78125,58.59375,4.0,be notice have leave
+McCuskey,Jess,3.125,0.78125,58.59375,4.0,be notice have leave
+Rebus,Jess,11.25,1.25,37.5,9.0,help admire
+Deano,Rebus,0.0,8.75,31.25,0.0,reply
+Deano,Rebus,0.0,0.0,78.57142857142857,INF,tell be
+Deano,Rebus,0.0,0.0,78.57142857142857,INF,tell be
+Deano,Rebus,0.9615384615384616,0.0,52.88461538461539,INF,close resume stare
+Deano,Rebus,0.9615384615384616,0.0,52.88461538461539,INF,close resume stare
+Christie,Rebus,4.464285714285714,1.7857142857142856,36.607142857142854,2.5,go want know press
+Rebus,Saab,0.0,0.0,41.66666666666667,INF,nod sit
+Rebus,Deano,2.5,0.0,57.49999999999999,INF,watch
+Christie,Deano,4.62962962962963,1.8518518518518516,37.96296296296296,2.5,be find be conduct stiffen square
+Christie,Deano,4.62962962962963,1.8518518518518516,37.96296296296296,2.5,be find be conduct stiffen square
+Deano,Christie,4.62962962962963,1.8518518518518516,37.96296296296296,2.5,be find be conduct stiffen square
+Rebus,Deano,4.779411764705882,1.4705882352941175,46.69117647058824,3.25,need know say seem take be say
+Rebus,Deano,4.779411764705882,1.4705882352941175,46.69117647058824,3.25,need know say seem take be say
+Rebus,Deano,1.25,0.0,48.75,INF,cross get
+Deano,Clarke,5.208333333333334,0.0,53.125,INF,have recognise park
+Deano,Astra,5.208333333333334,0.0,53.125,INF,have recognise park
+Clarke,Astra,5.208333333333334,0.0,53.125,INF,have recognise park
+Clarke,Deano,5.208333333333334,0.0,53.125,INF,have recognise park
+Astra,Deano,5.208333333333334,0.0,53.125,INF,have recognise park
+Rebus,Clarke,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,say settle
+Rebus,Gilmour,4.464285714285714,0.0,45.535714285714285,INF,nod ask question have go
+Rebus,McCuskey,0.8620689655172413,0.0,68.10344827586206,INF,get head pull crouch light blow
+Fox,Macari,0.0,0.0,46.666666666666664,INF,be play
+Fox,Clarke,0.0,0.0,33.33333333333333,INF,trust state
+Deano,Christie,2.380952380952381,8.333333333333332,51.19047619047619,0.2857142857142857,be boot
+Deano,Christie,2.380952380952381,8.333333333333332,51.19047619047619,0.2857142857142857,be boot
+Gilmour,Owen Traynor,5.769230769230769,0.0,25.0,INF,know connect
+Fox,Cuttle,0.7352941176470588,0.7352941176470588,63.23529411764706,1.0,sit think
+Fox,Cuttle,0.7352941176470588,0.7352941176470588,63.23529411764706,1.0,sit think
+Fox,Cuttle,0.7352941176470588,0.7352941176470588,63.23529411764706,1.0,sit think
+Fox,Rebus,2.232142857142857,4.910714285714286,57.14285714285714,0.45454545454545453,have be reveal be
+Fox,Rebus,2.232142857142857,4.910714285714286,57.14285714285714,0.45454545454545453,have be reveal be
+Fox,Mitch Fox,0.9615384615384616,0.0,52.88461538461539,INF,look see have decide keep
+Mitch Fox,Fox,0.0,0.0,54.54545454545454,INF,lay bunch study
+Mitch Fox,Fox,0.0,0.0,54.54545454545454,INF,lay bunch study
+Fox,Mitch Fox,3.90625,2.34375,46.875,1.6666666666666667,have be tempt afford see
+Fox,Mitch Fox,3.90625,2.34375,46.875,1.6666666666666667,have be tempt afford see
+Rebus,Saunders,0.0,0.0,60.0,INF,doubt turn
+Gilmour,Rebus,4.861111111111112,2.7777777777777777,53.47222222222222,1.75,have travel wonder be
+Rebus,Gilmour,5.46875,2.34375,54.6875,2.3333333333333335,be watch
+Gilmour,Rebus,7.5,0.0,72.5,INF,see
+Gilmour,Rebus,1.5625,1.5625,46.875,1.0,turn study
+Gilmour,Rebus,1.5625,1.5625,46.875,1.0,turn study
+Rebus,Gilmour,0.0,0.0,50.0,INF,hold stare
+Dod Blantyre,Frazer,0.6944444444444444,4.166666666666666,56.25,0.16666666666666666,doubt have make
+Rebus,Gilmour,5.555555555555555,1.3888888888888888,37.5,4.0,be have
+Gilmour,Macari,0.0,0.0,33.33333333333333,INF,tell
+Porkbelly,Gilmour,2.604166666666667,3.125,52.604166666666664,0.8333333333333334,speak be let take do
+Porkbelly,Frazer,2.604166666666667,3.125,52.604166666666664,0.8333333333333334,speak be let take do
+Gilmour,Frazer,2.604166666666667,3.125,52.604166666666664,0.8333333333333334,speak be let take do
+Gilmour,Rebus,8.333333333333332,4.166666666666666,31.944444444444443,2.0,be bore
+McCuskey,Rebus,2.5,0.0,47.5,INF,turn seem recognise
+McCuskey,Rebus,2.5,0.0,47.5,INF,turn seem recognise
+Jessica,Alice,3.3333333333333335,0.0,30.0,INF,be make
+Rebus,McCuskey,0.0,0.5,39.5,0.0,notice reach rest
+Rebus,Jessica,0.0,0.5,39.5,0.0,notice reach rest
+Rebus,McCuskey,0.0,0.5,39.5,0.0,notice reach rest
+McCuskey,Jessica,0.0,0.5,39.5,0.0,notice reach rest
+Jessica,McCuskey,0.0,0.5,39.5,0.0,notice reach rest
+Jessica,Alice,4.807692307692308,6.730769230769231,34.61538461538461,0.7142857142857143,focus
+Rebus,Wester Hailes,9.558823529411764,0.0,55.14705882352941,INF,arrive find bring
+Rebus,Deano,9.558823529411764,0.0,55.14705882352941,INF,arrive find bring
+Wester Hailes,Deano,9.558823529411764,0.0,55.14705882352941,INF,arrive find bring
+Rebus,Summerhall,0.5208333333333333,1.0416666666666665,56.770833333333336,0.5,poke find be look
+Rebus,Summerhall,0.5208333333333333,1.0416666666666665,56.770833333333336,0.5,poke find be look
+Rebus,Summerhall,0.5208333333333333,1.0416666666666665,56.770833333333336,0.5,poke find be look
+Kennedy,Rebus,0.0,0.0,44.44444444444444,INF,state
+Douglas Merchant,Kennedy,0.6578947368421052,2.631578947368421,70.39473684210526,0.25,be kill take
+Donner,Rebus,1.6666666666666667,5.0,60.0,0.3333333333333333,be do slice break
+Rebus,Cuttle,3.2407407407407405,1.8518518518518516,57.870370370370374,1.75,be have reel go see admit
+Cuttle,Rebus,3.2407407407407405,1.8518518518518516,57.870370370370374,1.75,be have reel go see admit
+Fox,Saunders,1.0,0.5,46.5,2.0,be do think have do vanish
+Summerhall,Rebus,0.0,1.25,28.749999999999996,0.0,add
+Rebus,Saab,0.0,0.0,33.33333333333333,INF,take
+Rebus,Fox,2.083333333333333,5.729166666666666,50.520833333333336,0.36363636363636365,exit warn reckon have give
+Rebus,Cuttle,2.083333333333333,5.729166666666666,50.520833333333336,0.36363636363636365,exit warn reckon have give
+Fox,Cuttle,2.083333333333333,5.729166666666666,50.520833333333336,0.36363636363636365,exit warn reckon have give
+Bettina,Saunders,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,have be arrange
+Cuttle,Rebus,2.272727272727273,6.8181818181818175,36.36363636363637,0.3333333333333333,complain recognise
+Rebus,Cuttle,3.7037037037037033,2.7777777777777777,52.77777777777778,1.3333333333333333,need clarify assure drag settle
+DS Paterson,DC Spence,0.0,0.0,42.857142857142854,INF,
+Rebus,Fox,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,glance note be enjoy
+Rebus,Fox,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,glance note be enjoy
+Cuttle,Fox,0.0,0.0,80.0,INF,look
+Rebus,Fox,7.142857142857142,3.571428571428571,60.71428571428571,2.0,echo
+Donner,Summerhall,1.3157894736842104,0.0,40.78947368421053,INF,say be
+Donner,Gilmour,0.0,0.0,30.0,INF,know
+Fox,Rebus,0.0,0.0,57.14285714285714,INF,shift
+Fox,Rebus,0.0,0.0,57.14285714285714,INF,shift
+Fox,Rebus,3.4090909090909087,0.0,69.31818181818183,INF,say drive
+Fox,Wester Hailes,3.4090909090909087,0.0,69.31818181818183,INF,say drive
+Rebus,Wester Hailes,3.4090909090909087,0.0,69.31818181818183,INF,say drive
+Donner,Rebus,2.083333333333333,0.0,52.083333333333336,INF,splash show be intone
+Donner,Rebus,2.083333333333333,0.0,52.083333333333336,INF,splash show be intone
+Donner,Gilmour,0.0,0.5952380952380952,66.07142857142857,0.0,be remember tip
+Cuttle,Kennedy,3.8461538461538463,0.4807692307692308,61.057692307692314,8.0,get tip make look have be drink
+Bettina,Gilmour,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,be guess think be have do know
+Bettina,Kennedy,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,be guess think be have do know
+Gilmour,Bettina,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,be guess think be have do know
+Gilmour,Kennedy,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,be guess think be have do know
+Bettina,Kennedy,3.571428571428571,0.8928571428571428,38.392857142857146,4.0,be guess think be have do know
+Bettina,Kennedy,0.0,1.7045454545454544,43.75,0.0,be be work have come
+Rebus,Cuttle,2.083333333333333,1.0416666666666665,46.875,2.0,be remind
+Cuttle,Rebus,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Cuttle,Fox,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Cuttle,Wester Hailes,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Cuttle,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Rebus,Fox,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Rebus,Wester Hailes,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Rebus,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Rebus,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Rebus,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Fox,Wester Hailes,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Fox,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Fox,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Fox,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Wester Hailes,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Wester Hailes,Cuttle,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Wester Hailes,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Cuttle,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+Cuttle,Dean Grant,2.302631578947368,0.6578947368421052,60.19736842105263,3.5,rendezvous work tell
+John,Cuttle,0.0,0.0,30.0,INF,be conclude
+John,Bettina,5.729166666666666,1.0416666666666665,43.22916666666667,5.5,be know help
+Fox,Cuttle,0.78125,0.0,36.71875,INF,have get inform
+Fox,Cuttle,0.0,0.0,47.05882352941176,INF,lay
+Fox,Cuttle,0.0,0.0,47.05882352941176,INF,lay
+Rebus,Gilmour,0.0,0.0,57.14285714285714,INF,travel say work
+Rebus,Gilmour,0.0,0.0,57.14285714285714,INF,travel say work
+Dod Blantyre,Donner,1.25,0.625,53.125,2.0,be be come
+Rebus,Clarke,3.8194444444444446,3.4722222222222223,51.041666666666664,1.1,be end head have finish be hold
+Rebus,Gilmour,3.8194444444444446,3.4722222222222223,51.041666666666664,1.1,be end head have finish be hold
+Rebus,Gilmour,3.8194444444444446,3.4722222222222223,51.041666666666664,1.1,be end head have finish be hold
+Clarke,Gilmour,3.8194444444444446,3.4722222222222223,51.041666666666664,1.1,be end head have finish be hold
+Clarke,Gilmour,3.8194444444444446,3.4722222222222223,51.041666666666664,1.1,be end head have finish be hold
+Clarke,Fox,10.714285714285714,5.357142857142857,41.07142857142857,2.0,be
+Jessica,Rebus,0.0,0.0,38.46153846153847,INF,be sleep state
+Rebus,Clarke,0.0,0.0,50.0,INF,turn
+Rebus,Clarke,0.0,0.0,50.0,INF,turn
+Bettina,John,2.7777777777777777,4.166666666666666,26.38888888888889,0.6666666666666666,be
+Clarke,Margiotta,0.0,0.0,58.333333333333336,INF,curse lock cross stop walk
+Clarke,Margiotta,0.0,0.0,58.333333333333336,INF,curse lock cross stop walk
+Rebus,McCuskey,0.0,0.0,44.44444444444444,INF,nudge
+Rebus,McCuskey,0.0,0.0,44.44444444444444,INF,nudge
+Rebus,Christie,1.6666666666666667,0.0,58.333333333333336,INF,see be stare
+Christie,Rebus,1.6666666666666667,0.0,58.333333333333336,INF,see be stare
+Rebus,Christie,1.5625,0.0,48.4375,INF,gauge
+Christie,Dean Grant,4.910714285714286,2.232142857142857,71.42857142857143,2.2,accept stay end owe
+Christie,Dean Grant,4.910714285714286,2.232142857142857,71.42857142857143,2.2,accept stay end owe
+Christie,Rebus,4.910714285714286,2.232142857142857,71.42857142857143,2.2,accept stay end owe
+Dean Grant,Rebus,4.910714285714286,2.232142857142857,71.42857142857143,2.2,accept stay end owe
+Dean Grant,Rebus,4.910714285714286,2.232142857142857,71.42857142857143,2.2,accept stay end owe
+Rebus,Summerhall,4.605263157894736,0.0,42.76315789473684,INF,wait help look
+Rebus,Christie,3.125,0.0,71.875,INF,watch nod
+Rebus,Christie,2.5,0.0,57.49999999999999,INF,stare
+Rebus,Livingston,0.8928571428571428,0.0,41.964285714285715,INF,move
+Rebus,Fox,5.0,0.0,61.66666666666667,INF,have think be
+Christie,Rebus,0.4807692307692308,0.0,57.21153846153846,INF,signal pull turn
+Christie,Rebus,0.4807692307692308,0.0,57.21153846153846,INF,signal pull turn
+Christie,Rebus,0.4807692307692308,0.0,57.21153846153846,INF,signal pull turn
+DI Clarke,Dean Grant,0.0,0.0,61.53846153846154,INF,do think use
+Rebus,Christie,0.0,3.4090909090909087,51.13636363636363,0.0,mutter
+Fox,Clarke,0.0,0.0,61.904761904761905,INF,be sit walk
+Fox,Leith Walk,0.0,0.0,61.904761904761905,INF,be sit walk
+Clarke,Leith Walk,0.0,0.0,61.904761904761905,INF,be sit walk
+Dean Grant,McCuskey,0.0,0.0,50.0,INF,sell
+Dean Grant,Saunders,0.8928571428571428,0.0,56.25,INF,be see
+Bettina,McCuskey,0.0,0.0,36.36363636363637,INF,end
+Bettina,Pat McCuskey,0.7352941176470588,5.147058823529411,29.411764705882355,0.14285714285714285,be miss
+Gilmour,Fox,0.0,0.0,25.0,INF,state
+Clarke,Pat McCuskey,0.0,0.0,57.14285714285714,INF,nod chew
+Ralph,McCuskey,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,want know be sleep
+Ralph,McCuskey,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,want know be sleep
+Ralph,Alice,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,want know be sleep
+McCuskey,Alice,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,want know be sleep
+McCuskey,Alice,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,want know be sleep
+John,Maggie,5.0,1.6666666666666667,40.0,3.0,say widen recognise
+John,Maggie,5.0,1.6666666666666667,40.0,3.0,say widen recognise
+Maggie,John,5.0,1.6666666666666667,40.0,3.0,say widen recognise
+Maggie,John,5.0,1.6666666666666667,40.0,3.0,say widen recognise
+John,Maggie,0.0,0.6578947368421052,46.71052631578947,0.0,look assure drape
+John,Maggie,0.0,0.6578947368421052,46.71052631578947,0.0,look assure drape
+Maggie,John,0.0,0.6578947368421052,46.71052631578947,0.0,look assure drape
+Maggie,John,0.0,0.6578947368421052,46.71052631578947,0.0,look assure drape
+Dod Blantyre,John,2.272727272727273,6.8181818181818175,45.45454545454545,0.3333333333333333,be
+Maggie,Rebus,0.0,0.0,56.25,INF,nod begin back head sit
+Dod Blantyre,John,0.3676470588235294,0.0,67.27941176470588,INF,be seem be wear stain drape
+Dod Blantyre,Rebus,0.3676470588235294,0.0,67.27941176470588,INF,be seem be wear stain drape
+Dod Blantyre,John,0.3676470588235294,0.0,67.27941176470588,INF,be seem be wear stain drape
+John,Rebus,0.3676470588235294,0.0,67.27941176470588,INF,be seem be wear stain drape
+Rebus,John,0.3676470588235294,0.0,67.27941176470588,INF,be seem be wear stain drape
+Rebus,Maggie,0.0,0.0,60.0,INF,undo drape
+Maggie,Rebus,1.3888888888888888,0.0,65.27777777777779,INF,try twist
+Rebus,Bettina,0.0,0.9615384615384616,37.5,0.0,
+Rebus,Maggie,1.1904761904761905,3.571428571428571,52.38095238095239,0.3333333333333333,be break nudge carry
+Rebus,Maggie,0.0,3.571428571428571,39.285714285714285,0.0,take
+Rebus,Maggie,3.125,0.0,46.875,INF,use make say remember
+Rebus,Maggie,0.9615384615384616,0.0,45.19230769230769,INF,spend add
+John,Maggie,0.78125,0.78125,48.4375,1.0,need inform
+Maggie,John,0.78125,0.78125,48.4375,1.0,need inform
+Rebus,Saunders,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,sip sit
+Rebus,Maggie,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,sip sit
+Saunders,Maggie,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,sip sit
+Maggie,Saunders,1.7857142857142856,0.0,55.35714285714286,INF,manage shake
+Kennedy,Gilmour,1.1363636363636365,0.5681818181818182,61.93181818181818,2.0,return have be open have empty
+Gilmour,Dod Blantyre,0.0,0.0,50.0,INF,do
+Kennedy,John,0.0,0.0,46.15384615384615,INF,be
+Saunders,Douglas Merchant,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Saunders,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Saunders,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Saunders,Douglas Merchant,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Saunders,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Saunders,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Douglas Merchant,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Douglas Merchant,Gilmour,3.5000000000000004,1.5,51.0,2.3333333333333335,find mean kill know owe
+Gilmour,Maggie,0.0,1.25,43.75,0.0,let happen be try shake jerk
+Maggie,Gilmour,0.0,1.25,43.75,0.0,let happen be try shake jerk
+Maggie,Gilmour,0.0,1.25,43.75,0.0,let happen be try shake jerk
+Porkbelly,Maggie,0.0,2.717391304347826,58.152173913043484,0.0,disappear turn fix stare
+Porkbelly,Rebus,0.0,2.717391304347826,58.152173913043484,0.0,disappear turn fix stare
+Maggie,Rebus,0.0,2.717391304347826,58.152173913043484,0.0,disappear turn fix stare
+Dod Blantyre,Rebus,1.9736842105263157,0.6578947368421052,55.26315789473685,3.0,offer carry
+Rebus,Gilmour,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Rebus,Paterson,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Rebus,Frazer,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Gilmour,Paterson,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Gilmour,Frazer,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Paterson,Frazer,1.0416666666666665,0.6944444444444444,42.70833333333333,1.5,lift transport wait
+Rebus,Dod Blantyre,1.8617021276595744,4.787234042553192,59.308510638297875,0.3888888888888889,have remember say sit overheate fix live
+Rebus,Johnny Boy,1.8617021276595744,4.787234042553192,59.308510638297875,0.3888888888888889,have remember say sit overheate fix live
+Dod Blantyre,Johnny Boy,1.8617021276595744,4.787234042553192,59.308510638297875,0.3888888888888889,have remember say sit overheate fix live
+Maggie,Rebus,5.0,2.5,52.5,2.0,notice flit
+Kennedy,Dod Blantyre,4.6875,0.0,70.3125,INF,turn face
+Rebus,Maggie,2.6785714285714284,0.0,54.46428571428571,INF,have pull emerge
+Rebus,Maggie,2.6785714285714284,0.0,54.46428571428571,INF,have pull emerge
+Maggie,Rebus,0.0,1.0,51.0,0.0,reach turn open
+Maggie,Rebus,0.0,1.0,51.0,0.0,reach turn open
+Maggie,John,0.9615384615384616,0.0,60.57692307692307,INF,be call head
+Johnny Boy,Rebus,2.2435897435897436,4.807692307692308,46.794871794871796,0.4666666666666667,talk come be go stop mutter unlock get
+Rebus,Johnny Boy,2.2435897435897436,4.807692307692308,46.794871794871796,0.4666666666666667,talk come be go stop mutter unlock get
+Johnny Boy,Maggie,0.0,0.0,50.0,INF,buzz know be
+Johnny Boy,Maggie,0.0,0.0,50.0,INF,buzz know be
+Fox,Summerhall,4.3604651162790695,2.3255813953488373,46.80232558139535,1.875,do know say think be relish get be
+Rebus,Wester Hailes,1.6304347826086956,0.0,63.58695652173913,INF,be seat
+Rebus,Fox,0.0,0.0,57.14285714285714,INF,say hang
+Rebus,Fox,0.0,0.0,57.14285714285714,INF,say hang
+Rebus,Clarke,0.0,0.0,58.333333333333336,INF,tap
+Bettina,Saints,0.8333333333333334,3.3333333333333335,42.5,0.25,say be be kill
+Gilmour,Bettina,0.26595744680851063,0.26595744680851063,46.27659574468085,1.0,go ask account die be deal bet have set be be
+Gilmour,Saunders,0.26595744680851063,0.26595744680851063,46.27659574468085,1.0,go ask account die be deal bet have set be be
+Gilmour,Bettina,0.26595744680851063,0.26595744680851063,46.27659574468085,1.0,go ask account die be deal bet have set be be
+Gilmour,Saunders,0.26595744680851063,0.26595744680851063,46.27659574468085,1.0,go ask account die be deal bet have set be be
+Bettina,Saunders,0.26595744680851063,0.26595744680851063,46.27659574468085,1.0,go ask account die be deal bet have set be be
+Rebus,Fox,0.0,0.0,40.0,INF,look
+Rebus,Clarke,0.0,0.0,40.0,INF,look
+Fox,Clarke,0.0,0.0,40.0,INF,look
+Clarke,Saints,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,fall do tear
+Clarke,Saints,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,fall do tear
+Paterson,Maggie,0.0,0.0,44.44444444444444,INF,bring
+Maggie,Gilmour,0.0,3.6764705882352944,55.14705882352941,0.0,be be rig say
+Paterson,Gilmour,2.272727272727273,0.0,61.36363636363637,INF,have
+Clarke,Fox,4.6875,0.0,45.3125,INF,have shift
+Fox,Rebus,5.46875,0.0,44.53125,INF,say be comment
+Jessica,Fox,0.0,0.0,50.0,INF,comment
+DI Clarke,Rebus,1.0416666666666665,0.0,40.625,INF,say tell
+DI Clarke,Smith,1.0416666666666665,0.0,40.625,INF,say tell
+Rebus,Smith,1.0416666666666665,0.0,40.625,INF,say tell
+Alice,Smith,6.8181818181818175,1.1363636363636365,46.590909090909086,6.0,owe retort
+Smith,Alice,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,sell have want be give
+Alice,Rebus,0.0,0.0,40.0,INF,look
+Alice,Christie,2.5,2.5,45.0,1.0,
+Christie,Alice,3.6764705882352944,0.7352941176470588,60.29411764705882,5.0,be have go
+Christie,Rebus,4.761904761904762,0.0,57.14285714285714,INF,explain feel want have
+Christie,Rebus,4.761904761904762,0.0,57.14285714285714,INF,explain feel want have
+Christie,Rebus,4.761904761904762,0.0,57.14285714285714,INF,explain feel want have
+Christie,Rebus,4.761904761904762,0.0,57.14285714285714,INF,explain feel want have
+Rebus,Christie,0.0,0.0,57.14285714285714,INF,hand
+Christie,Rebus,0.0,0.0,57.14285714285714,INF,hand
+Smith,Rebus,0.0,0.0,62.5,INF,gesture
+Smith,Rebus,3.8461538461538463,1.9230769230769231,55.769230769230774,2.0,end look widen
+Rory Bell,Alice,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+Rory Bell,Smith,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+Rory Bell,Rebus,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+Alice,Smith,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+Alice,Rebus,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+Smith,Rebus,2.1551724137931036,3.8793103448275863,52.58620689655172,0.5555555555555556,have sniff be be
+DI Clarke,Rebus,0.4032258064516129,1.2096774193548387,50.0,0.3333333333333333,be remind be follow
+Rebus,Clarke,0.9615384615384616,2.8846153846153846,50.0,0.3333333333333333,sit tap
+Clarke,Rebus,0.9615384615384616,2.8846153846153846,50.0,0.3333333333333333,sit tap
+Ralph,Alice,3.125,1.5625,45.3125,2.0,speak tell
+Ralph,Alice,3.125,1.5625,45.3125,2.0,speak tell
+Fox,Rebus,0.0,0.0,53.333333333333336,INF,hang toss
+Alice,Rebus,4.6875,1.0416666666666665,48.4375,4.5,know have deduce be admit
+Alice,Rebus,4.6875,1.0416666666666665,48.4375,4.5,know have deduce be admit
+Rebus,Alice,2.7777777777777777,2.7777777777777777,38.88888888888889,1.0,get
+McCuskey,Jessica,2.604166666666667,2.604166666666667,40.625,1.0,drive open
+John,Clarke,2.6785714285714284,0.0,40.17857142857143,INF,trust confide
+John,Fox,2.6785714285714284,0.0,40.17857142857143,INF,trust confide
+Clarke,Fox,2.6785714285714284,0.0,40.17857142857143,INF,trust confide
+Rebus,Esson,0.0,0.0,58.333333333333336,INF,find
+James Page,John,2.8846153846153846,0.0,58.65384615384615,INF,be
+John,Rebus,11.76470588235294,0.0,52.94117647058824,INF,flick greet busy write
+John,Rebus,11.76470588235294,0.0,52.94117647058824,INF,flick greet busy write
+Alice,Rebus,0.9615384615384616,0.0,37.5,INF,have get comment
+John,Esson,0.0,0.0,50.0,INF,ask
+Rebus,Greggs,0.4807692307692308,0.0,53.36538461538461,INF,comprise eat run continue work
+Rebus,Saab,0.4807692307692308,0.0,53.36538461538461,INF,comprise eat run continue work
+Greggs,Saab,0.4807692307692308,0.0,53.36538461538461,INF,comprise eat run continue work
+Clarke,Fox,0.0,0.0,33.33333333333333,INF,
+Porkbelly,Gilmour,5.0,2.5,2.5,2.0,
+Gilmour,John,4.807692307692308,1.9230769230769231,39.42307692307692,2.5,be assume make be
+Rebus,Alice,0.0,0.0,56.25,INF,walk see be
+Rebus,Alice,0.0,0.0,56.25,INF,walk see be
+Jessica,McCuskey,4.464285714285714,0.0,31.25,INF,be oblige be
+Ralph,Rebus,3.6458333333333335,0.0,54.6875,INF,nod greet apologise lead
+Ralph,Alice,3.6458333333333335,0.0,54.6875,INF,nod greet apologise lead
+Rebus,Alice,3.6458333333333335,0.0,54.6875,INF,nod greet apologise lead
+Fox,Rebus,6.25,2.083333333333333,41.66666666666667,3.0,miss inform
+Fox,Clarke,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,be ask crash
+Fox,Jessica,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,be ask crash
+Clarke,Jessica,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,be ask crash
+McCuskey,Jessica,2.0,5.0,61.0,0.4,turn be have seem do think
+McCuskey,Alice,0.0,2.941176470588235,26.47058823529412,0.0,remove replace
+McCuskey,Alice,0.0,2.941176470588235,26.47058823529412,0.0,remove replace
+Fox,Clarke,1.9230769230769231,0.0,55.769230769230774,INF,have produce line seem stare fold
+Fox,Rebus,1.9230769230769231,0.0,55.769230769230774,INF,have produce line seem stare fold
+Fox,Clarke,1.9230769230769231,0.0,55.769230769230774,INF,have produce line seem stare fold
+Fox,Rebus,1.9230769230769231,0.0,55.769230769230774,INF,have produce line seem stare fold
+Clarke,Rebus,1.9230769230769231,0.0,55.769230769230774,INF,have produce line seem stare fold
+Gilmour,Fox,5.0,5.0,23.333333333333332,1.0,be lend add
+Gilmour,Fox,5.0,5.0,23.333333333333332,1.0,be lend add
+Clarke,Philip Kennedy,4.375,0.0,30.625000000000004,INF,clarify ask state
+William Saunders,Douglas Merchant,3.3333333333333335,1.6666666666666667,28.333333333333332,2.0,
+Clarke,Fox,2.6785714285714284,0.0,68.75,INF,notice watch
+Rebus,Fox,0.0,5.681818181818182,67.04545454545455,0.0,be go
+Esson,Clarke,2.083333333333333,0.0,39.58333333333333,INF,be tell have
+Esson,Clarke,2.083333333333333,0.0,39.58333333333333,INF,be tell have
+Alice,Rory Bell,0.0,0.0,28.57142857142857,INF,
+Rory Bell,Clarke,0.0,0.0,33.33333333333333,INF,be
+Google,Clarke,2.272727272727273,0.0,43.18181818181818,INF,correct
+Rory Bell,Clarke,3.125,1.25,60.62499999999999,2.5,listen have find be tell
+Rory Bell,Smith,3.125,1.25,60.62499999999999,2.5,listen have find be tell
+Clarke,Rory Bell,3.125,1.25,60.62499999999999,2.5,listen have find be tell
+Clarke,Smith,3.125,1.25,60.62499999999999,2.5,listen have find be tell
+Rory Bell,Smith,3.125,1.25,60.62499999999999,2.5,listen have find be tell
+Rory Bell,Clarke,0.0,0.0,55.55555555555556,INF,thank end
+Rory Bell,Alice,3.4090909090909087,0.0,51.13636363636363,INF,be wonder be
+Rory Bell,Clarke,3.4090909090909087,0.0,51.13636363636363,INF,be wonder be
+Alice,Clarke,3.4090909090909087,0.0,51.13636363636363,INF,be wonder be
+Rory Bell,Clarke,5.46875,0.0,57.03125,INF,slip help
+Rory Bell,Clarke,5.46875,0.0,57.03125,INF,slip help
+Clarke,Jessica,1.7857142857142856,0.8928571428571428,40.17857142857143,2.0,have be
+Rebus,Clarke,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,doubt have stay phone
+Rebus,Clarke,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,doubt have stay phone
+Rebus,Esson,2.5,0.9090909090909091,58.409090909090914,2.75,remember close have take open follow be winch call ask pull
+Rebus,Clarke,2.5,0.9090909090909091,58.409090909090914,2.75,remember close have take open follow be winch call ask pull
+Rebus,Esson,2.5,0.9090909090909091,58.409090909090914,2.75,remember close have take open follow be winch call ask pull
+Rebus,Clarke,2.5,0.9090909090909091,58.409090909090914,2.75,remember close have take open follow be winch call ask pull
+Esson,Clarke,2.5,0.9090909090909091,58.409090909090914,2.75,remember close have take open follow be winch call ask pull
+Bairstow,Rebus,1.7045454545454544,0.0,61.93181818181818,INF,be stare have hang
+Bairstow,Rebus,1.7045454545454544,0.0,61.93181818181818,INF,be stare have hang
+Bairstow,Rebus,1.7045454545454544,0.0,61.93181818181818,INF,be stare have hang
+Bairstow,Rebus,1.7045454545454544,0.0,61.93181818181818,INF,be stare have hang
+Bairstow,Rebus,1.9230769230769231,0.9615384615384616,58.65384615384615,2.0,lead be park
+Bairstow,Rebus,0.0,1.0416666666666665,53.125,0.0,be open reach hold
+Alice,McCuskey,1.25,6.25,62.5,0.2,be stare
+Alice,Jessica,1.25,6.25,62.5,0.2,be stare
+McCuskey,Jessica,1.25,6.25,62.5,0.2,be stare
+Jessica,McCuskey,0.0,1.293103448275862,43.53448275862069,0.0,speak say wince remove face
+McCuskey,Jessica,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+McCuskey,Alice,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+McCuskey,Jessica,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+McCuskey,Alice,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+Jessica,McCuskey,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+Jessica,McCuskey,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+Jessica,Alice,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+McCuskey,Alice,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+McCuskey,Alice,5.681818181818182,0.7575757575757576,48.10606060606061,7.5,have rise start keep make
+Jessica,McCuskey,1.0416666666666665,0.0,32.29166666666667,INF,be tell
+Porkbelly,Dod Blantyre,0.0,0.0,38.46153846153847,INF,take have hear
+John,Saints,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,be suppose impress
+Clarke,Gilmour,1.25,0.0,38.75,INF,
+Dod Blantyre,Porkbelly,0.8928571428571428,1.7857142857142856,47.32142857142857,0.5,be lift
+Summerhall,Dod Blantyre,2.9605263157894735,0.0,60.19736842105263,INF,open take laugh wag pat let know beat
+Summerhall,Gilmour,2.9605263157894735,0.0,60.19736842105263,INF,open take laugh wag pat let know beat
+Summerhall,Gilmour,2.9605263157894735,0.0,60.19736842105263,INF,open take laugh wag pat let know beat
+Dod Blantyre,Gilmour,2.9605263157894735,0.0,60.19736842105263,INF,open take laugh wag pat let know beat
+Dod Blantyre,Gilmour,2.9605263157894735,0.0,60.19736842105263,INF,open take laugh wag pat let know beat
+Gilmour,Summerhall,0.0,0.0,42.857142857142854,INF,die
+Porkbelly,Gilmour,0.0,2.5,47.5,0.0,give do
+Kennedy,Rebus,0.0,0.0,40.909090909090914,INF,take leave state
+Kennedy,Rebus,0.0,0.0,40.909090909090914,INF,take leave state
+Kennedy,Rebus,0.0,0.0,40.909090909090914,INF,take leave state
+Dod Blantyre,Donner,0.0,0.0,40.0,INF,
+Clarke,Rebus,0.0,0.0,25.0,INF,take advise
+John,Gilmour,2.0161290322580645,0.0,49.596774193548384,INF,tell seem know come
+John,Rory Bell,2.0161290322580645,0.0,49.596774193548384,INF,tell seem know come
+Gilmour,Rory Bell,2.0161290322580645,0.0,49.596774193548384,INF,tell seem know come
+Gilmour,Rebus,0.0,2.083333333333333,47.91666666666667,0.0,be go inform
+Rory Bell,Gilmour,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,be break look
+Rory Bell,Rebus,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,be break look
+Gilmour,Rebus,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,be break look
+Rebus,Gilmour,0.0,2.5,57.49999999999999,0.0,recite repeat end
+Rebus,Gilmour,0.0,2.5,57.49999999999999,0.0,recite repeat end
+Kennedy,Porkbelly,8.482142857142858,0.8928571428571428,33.482142857142854,9.5,tell do know be go do
+Clarke,Wester Hailes,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Clarke,Bettina,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Clarke,Ralph,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Clarke,Pat McCuskey,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Wester Hailes,Bettina,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Wester Hailes,Ralph,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Wester Hailes,Pat McCuskey,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Bettina,Ralph,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Bettina,Pat McCuskey,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Ralph,Pat McCuskey,1.6666666666666667,3.3333333333333335,48.333333333333336,0.5,be be be run
+Ralph,James Page,0.0,0.625,54.37499999999999,0.0,wait be
+Rebus,Leith Walk,3.8461538461538463,0.0,50.0,INF,know head
+Rebus,Esson,1.3157894736842104,5.921052631578947,45.39473684210527,0.2222222222222222,be warn receive
+Rebus,Esson,1.3157894736842104,5.921052631578947,45.39473684210527,0.2222222222222222,be warn receive
+Esson,Ogilvie,0.0,3.4722222222222223,40.97222222222222,0.0,pick
+Esson,Rebus,4.0,0.0,56.00000000000001,INF,busy flick indicate be
+Esson,Rebus,4.0,0.0,56.00000000000001,INF,busy flick indicate be
+Gates,Curt,0.0,0.0,37.5,INF,know
+Rebus,Paterson,0.0,0.0,81.81818181818183,INF,be seat arrive
+Paterson,Rebus,0.8928571428571428,0.0,63.39285714285714,INF,get shake
+Porkbelly,Kennedy,9.821428571428571,2.6785714285714284,30.357142857142854,3.6666666666666665,be know
+Paterson,Rebus,4.166666666666666,0.5208333333333333,57.8125,8.0,fail make find
+Aye,Paterson,0.0,0.0,57.89473684210527,INF,say stretch
+Aye,Paterson,0.0,0.0,57.89473684210527,INF,say stretch
+Paterson,Rebus,4.6875,3.125,67.1875,1.5,risk gaze
+Saunders,Douglas Merchant,0.78125,0.0,67.96875,INF,know be go do
+Saunders,Douglas Merchant,0.78125,0.0,67.96875,INF,know be go do
+Gilmour,Maggie,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Gilmour,Donner,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Gilmour,Magnus Henderson,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Maggie,Donner,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Maggie,Magnus Henderson,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Donner,Magnus Henderson,3.75,3.0,41.25,1.25,be be be guess have be tamper know
+Magnus Henderson,John,3.125,1.5625,32.8125,2.0,be
+Bettina,Dod Blantyre,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,be have go
+Gilmour,Summerhall,0.0,4.166666666666666,62.5,0.0,be see leave
+John,Frazer,4.861111111111112,0.6944444444444444,50.0,7.0,be have serve
+John,Frazer,4.861111111111112,0.6944444444444444,50.0,7.0,be have serve
+Gilmour,Saunders,3.4090909090909087,0.0,51.13636363636363,INF,mean think shoot
+Paterson,Frazer,0.0,0.0,27.27272727272727,INF,be offer
+Gilmour,Frazer,1.5625,1.0416666666666665,47.39583333333333,1.5,try use realise be
+Gilmour,Saints,1.5625,1.0416666666666665,47.39583333333333,1.5,try use realise be
+Frazer,Saints,1.5625,1.0416666666666665,47.39583333333333,1.5,try use realise be
+Frazer,Albert Stout,0.0,1.7857142857142856,58.214285714285715,0.0,be use send do give
+Frazer,Gilmour,0.0,1.7857142857142856,58.214285714285715,0.0,be use send do give
+Albert Stout,Frazer,0.0,1.7857142857142856,58.214285714285715,0.0,be use send do give
+Albert Stout,Gilmour,0.0,1.7857142857142856,58.214285714285715,0.0,be use send do give
+Frazer,Gilmour,0.0,1.7857142857142856,58.214285714285715,0.0,be use send do give
+Paterson,Rebus,0.0,0.0,69.23076923076923,INF,take
+Rebus,Paterson,0.0,0.0,53.84615384615385,INF,visualise tip
+Rebus,Kennedy,0.0,0.0,53.84615384615385,INF,visualise tip
+Rebus,Paterson,0.0,0.0,53.84615384615385,INF,visualise tip
+Paterson,Kennedy,0.0,0.0,53.84615384615385,INF,visualise tip
+Kennedy,Paterson,0.0,0.0,53.84615384615385,INF,visualise tip
+Rebus,Gilmour,0.0,0.0,57.14285714285714,INF,remember rub wash
+Rebus,Gilmour,0.0,0.0,57.14285714285714,INF,remember rub wash
+Rebus,John,5.263157894736842,0.0,42.10526315789473,INF,meet say shake
+Gilmour,Rory Bell,0.8928571428571428,0.0,41.964285714285715,INF,say be begin
+Rory Bell,Gilmour,0.8928571428571428,0.0,41.964285714285715,INF,say be begin
+John,Livingston,0.5434782608695652,3.260869565217391,52.71739130434783,0.16666666666666666,get
+John,Gilmour,2.083333333333333,6.25,25.0,0.3333333333333333,be bounce
+Gilmour,John,2.083333333333333,6.25,25.0,0.3333333333333333,be bounce
+John,Rebus,3.3333333333333335,0.0,50.0,INF,be rise extend shake
+John,Rebus,3.3333333333333335,0.0,50.0,INF,be rise extend shake
+Rebus,Saab,3.3333333333333335,0.0,43.333333333333336,INF,say unlock get
+McCuskey,Jessica,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,have be picture name
+Rebus,Quant,3.3333333333333335,2.5,40.833333333333336,1.3333333333333333,notice give
+Rebus,Quant,3.3333333333333335,2.5,40.833333333333336,1.3333333333333333,notice give
+Rebus,Quant,5.769230769230769,0.0,63.46153846153846,INF,guess be have mention
+Thomas,Rebus,3.90625,2.34375,62.5,1.6666666666666667,know be give greet
+Rebus,Quant,0.0,1.3888888888888888,54.166666666666664,0.0,look
+Thomas,Quant,1.1904761904761905,0.0,46.42857142857143,INF,explain have find bruise
+Thomas,Rebus,1.1904761904761905,0.0,46.42857142857143,INF,explain have find bruise
+Quant,Rebus,1.1904761904761905,0.0,46.42857142857143,INF,explain have find bruise
+Thomas,Rebus,2.272727272727273,0.0,43.18181818181818,INF,confuse reassure
+Quant,Rebus,10.714285714285714,5.357142857142857,41.07142857142857,2.0,be
+Rebus,Thomas,2.941176470588235,4.411764705882353,27.941176470588236,0.6666666666666666,mutter know hear
+Rebus,Thomas,2.941176470588235,4.411764705882353,27.941176470588236,0.6666666666666666,mutter know hear
+Rebus,Thomas,0.78125,0.0,42.96875,INF,see smile sense be think
+Rebus,Thomas,0.78125,0.0,42.96875,INF,see smile sense be think
+Quant,Rebus,0.0,0.0,50.0,INF,turn
+Clarke,Fox,0.8333333333333334,7.5,45.0,0.1111111111111111,be reach
+Saunders,Clarke,3.90625,1.953125,44.140625,2.0,do know be be argue button seem have originate
+Gilmour,Saints,0.0,0.0,12.5,INF,
+Clarke,Gilmour,0.0,0.0,40.0,INF,fold
+George Blantyre,Paterson,0.78125,10.15625,45.3125,0.07692307692307693,
+Gilmour,Fox,2.083333333333333,0.0,64.58333333333334,INF,watch nod
+CCTV,Fox,5.681818181818182,0.0,39.77272727272727,INF,know buy
+Bettina,Saunders,1.7857142857142856,0.5952380952380952,54.761904761904766,3.0,drive like be
+Fox,Clarke,0.0,0.0,60.0,INF,look
+Fox,Patrick McCuskey,4.166666666666666,0.0,40.27777777777778,INF,have do
+Fox,William Saunders,0.0,3.571428571428571,53.57142857142857,0.0,be work be kill
+Clarke,Fox,6.8181818181818175,4.545454545454546,56.81818181818182,1.5,be have screw
+Patrick McCuskey,Fox,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,need talk be say
+Fox,Mr Saunders,1.8382352941176472,2.2058823529411766,48.89705882352941,0.8333333333333334,keep need contact unwrap tell wait
+Fox,Clarke,1.8382352941176472,2.2058823529411766,48.89705882352941,0.8333333333333334,keep need contact unwrap tell wait
+Mr Saunders,Clarke,1.8382352941176472,2.2058823529411766,48.89705882352941,0.8333333333333334,keep need contact unwrap tell wait
+Mr Saunders,Fox,1.8382352941176472,2.2058823529411766,48.89705882352941,0.8333333333333334,keep need contact unwrap tell wait
+Clarke,Fox,1.8382352941176472,2.2058823529411766,48.89705882352941,0.8333333333333334,keep need contact unwrap tell wait
+Fox,Wester Hailes,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Fox,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Fox,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Fox,Wester Hailes,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Fox,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Fox,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Wester Hailes,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Wester Hailes,Mr Saunders,1.7857142857142856,0.0,55.35714285714286,INF,nod drive pick
+Mr Saunders,Fox,0.0,0.0,66.66666666666666,INF,look feel energise
+Fox,Clarke,0.0,0.0,50.0,INF,see say open undo
+Fox,Mr Saunders,0.0,0.0,50.0,INF,see say open undo
+Fox,Mr Saunders,0.0,0.0,50.0,INF,see say open undo
+Clarke,Mr Saunders,0.0,0.0,50.0,INF,see say open undo
+Clarke,Mr Saunders,0.0,0.0,50.0,INF,see say open undo
+Fox,Mr Saunders,1.0416666666666665,7.291666666666667,41.66666666666667,0.14285714285714285,assure
+McCuskey,Jessica,3.289473684210526,1.9736842105263157,47.368421052631575,1.6666666666666667,have be manage walk
+McCuskey,Jessica,3.289473684210526,1.9736842105263157,47.368421052631575,1.6666666666666667,have be manage walk
+Alice,Mr Saunders,1.25,1.25,57.49999999999999,1.0,be
+Alice,Mr Saunders,1.25,1.25,57.49999999999999,1.0,be
+Jessica,McCuskey,2.8846153846153846,1.4423076923076923,34.13461538461539,2.0,be gesture help get
+Jessica,Alice,2.8846153846153846,1.4423076923076923,34.13461538461539,2.0,be gesture help get
+McCuskey,Alice,2.8846153846153846,1.4423076923076923,34.13461538461539,2.0,be gesture help get
+McCuskey,Jessica,1.0416666666666665,1.0416666666666665,22.916666666666664,1.0,need phone tell
+McCuskey,Jessica,4.0,0.5,43.5,8.0,be finish
+McCuskey,Jessica,0.0,0.0,33.33333333333333,INF,go call say
+Alice,McCuskey,0.390625,0.390625,55.46875,1.0,go fetch end seat feel
+Alice,McCuskey,0.390625,0.390625,55.46875,1.0,go fetch end seat feel
+McCuskey,Jessica,4.545454545454546,2.272727272727273,56.81818181818182,2.0,see be make
+McCuskey,Alice,10.714285714285714,5.357142857142857,26.785714285714285,2.0,be
+Alice,McCuskey,2.5,7.5,40.0,0.3333333333333333,begin ask break
+McCuskey,Rebus,0.0,0.0,66.66666666666666,INF,be write drive
+Rebus,Rory Bell,2.34375,0.0,41.40625,INF,have get
+Rebus,Esson,2.34375,0.0,41.40625,INF,have get
+Rory Bell,Esson,2.34375,0.0,41.40625,INF,have get
+Jessica,Esson,3.75,8.75,57.49999999999999,0.42857142857142855,have crash
+Jessica,Livingston,1.6129032258064515,0.4032258064516129,52.82258064516129,4.0,have be be
+Rebus,Saab,4.761904761904762,2.976190476190476,49.404761904761905,1.6,take leave find ask
+Rebus,CCTV,0.625,0.0,44.375,INF,spot manoeuvre
+Rebus,Saab,0.625,0.0,44.375,INF,spot manoeuvre
+CCTV,Saab,0.625,0.0,44.375,INF,spot manoeuvre
+Rebus,Saab,1.4423076923076923,0.0,48.55769230769231,INF,bring say watch trudge
+Rebus,Saab,1.4423076923076923,0.0,48.55769230769231,INF,bring say watch trudge
+Rebus,McCuskey,0.0,0.0,41.17647058823529,INF,be collect say hold
+Alice,Rory Bell,3.3333333333333335,0.0,30.0,INF,be go be
+Alice,Rebus,0.0,0.0,41.17647058823529,INF,say see
+McCuskey,Jessica,6.666666666666667,0.0,26.666666666666668,INF,have manage make
+McCuskey,Livingston,7.352941176470589,0.7352941176470588,33.088235294117645,10.0,have be visit
+Alice,Rory Bell,4.166666666666666,0.0,49.166666666666664,INF,come go have
+Rebus,McCuskey,0.0,0.0,53.333333333333336,INF,try be determine block
+Rebus,McCuskey,0.0,0.0,53.333333333333336,INF,try be determine block
+McCuskey,Rebus,0.0,0.0,50.0,INF,turn
+McCuskey,Alice,0.0,0.0,50.0,INF,turn
+Rebus,Alice,0.0,0.0,50.0,INF,turn
+Rebus,Owen Traynor,6.25,0.0,63.74999999999999,INF,turn reach
+Jessica,Rebus,1.3157894736842104,0.0,46.05263157894737,INF,emerge limp throw embrace
+Jessica,Rebus,1.3157894736842104,0.0,46.05263157894737,INF,emerge limp throw embrace
+Jessica,Rebus,0.625,0.625,48.75,1.0,drape begin steer
+Jessica,Rebus,0.625,0.625,48.75,1.0,drape begin steer
+Rebus,McCuskey,0.0,4.166666666666666,42.5,0.0,shake disappear
+Rebus,McCuskey,0.0,4.166666666666666,42.5,0.0,shake disappear
+Esson,Rebus,2.8846153846153846,0.0,50.96153846153846,INF,be reach
+Esson,Rebus,2.8846153846153846,0.0,50.96153846153846,INF,be reach
+Rebus,Esson,0.0,0.0,50.0,INF,inform take
+Rebus,Esson,0.0,0.0,50.0,INF,inform take
+Esson,Rebus,0.0,0.0,50.0,INF,inform take
+Esson,Rebus,0.0,0.0,50.0,INF,inform take
+Esson,Rebus,0.0,0.0,50.0,INF,inform take
+Esson,Rebus,0.0,0.0,50.0,INF,inform take
+McCuskey,Jessica,0.0,3.4090909090909087,32.95454545454545,0.0,get
+Rory Bell,CCTV,3.75,2.5,38.75,1.5,mean have
+McCuskey,Owen Traynor,0.8333333333333334,0.0,52.5,INF,be register have enter be
+McCuskey,Owen Traynor,0.8333333333333334,0.0,52.5,INF,be register have enter be
+Owen Traynor,Alice,0.0,0.0,50.0,INF,do cease exist
+Rebus,Ralph,2.083333333333333,0.0,47.91666666666667,INF,take have
+Rebus,Ralph,2.083333333333333,0.0,47.91666666666667,INF,take have
+Pat McCuskey,Rebus,5.978260869565218,1.0869565217391304,58.152173913043484,5.5,have draw be welcome
+Rory Bell,Google,2.2222222222222223,1.1111111111111112,65.55555555555556,2.0,need go sift have put fire get start
+Rory Bell,Google,2.2222222222222223,1.1111111111111112,65.55555555555556,2.0,need go sift have put fire get start
+Google,Rory Bell,2.2222222222222223,1.1111111111111112,65.55555555555556,2.0,need go sift have put fire get start
+Rory Bell,Esson,2.083333333333333,3.125,53.125,0.6666666666666666,take spot have miss
+Rebus,Jack Redpath,0.4464285714285714,0.4464285714285714,66.96428571428571,1.0,pick manage get connect remember
+Jack Redpath,Esson,3.125,0.4464285714285714,53.57142857142857,7.0,look be rest
+Facebook,Rebus,0.0,0.0,45.45454545454545,INF,be have turn look
+Rebus,Jack Redpath,5.0,2.5,52.5,2.0,describe wait
+Rebus,Esson,0.0,0.0,40.0,INF,wait tell
+Rebus,Quant,5.833333333333333,0.0,40.833333333333336,INF,remember do help
+Rebus,Esson,5.833333333333333,0.0,40.833333333333336,INF,remember do help
+Quant,Esson,5.833333333333333,0.0,40.833333333333336,INF,remember do help
+Rebus,Esson,0.0,0.0,42.857142857142854,INF,repeat
+Rebus,Esson,0.0,2.5,57.49999999999999,0.0,smile give make
+Rebus,Esson,0.0,2.5,57.49999999999999,0.0,smile give make
+Rebus,Jack Redpath,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,study
+Jack Redpath,Rebus,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,study
+Rebus,John Rebus,6.985294117647059,2.2058823529411766,61.39705882352941,3.1666666666666665,have know know be give leave do be
+Rebus,John Rebus,6.985294117647059,2.2058823529411766,61.39705882352941,3.1666666666666665,have know know be give leave do be
+John Rebus,Rebus,6.985294117647059,2.2058823529411766,61.39705882352941,3.1666666666666665,have know know be give leave do be
+Rebus,John Rebus,6.985294117647059,2.2058823529411766,61.39705882352941,3.1666666666666665,have know know be give leave do be
+Rebus,John Rebus,0.0,4.411764705882353,36.76470588235294,0.0,lie take catch
+Rebus,James Page,0.0,4.411764705882353,36.76470588235294,0.0,lie take catch
+John Rebus,James Page,0.0,4.411764705882353,36.76470588235294,0.0,lie take catch
+Rebus,John Rebus,0.0,2.5,32.5,0.0,miss do vanish
+Rebus,Saab,6.25,0.0,37.5,INF,indicate leave
+Bairstow,Rebus,0.8928571428571428,2.6785714285714284,60.71428571428571,0.3333333333333333,be repeat
+Rebus,Bairstow,0.8928571428571428,2.6785714285714284,60.71428571428571,0.3333333333333333,be repeat
+Bairstow,Eddie Duke,14.285714285714285,3.571428571428571,39.285714285714285,4.0,check answer
+Rebus,Bairstow,6.25,4.6875,51.5625,1.3333333333333333,fix
+Rebus,Ralph,1.6666666666666667,0.0,51.66666666666667,INF,have walk
+Ralph,Rebus,2.631578947368421,0.0,44.73684210526316,INF,have see have respond have introduce
+Alice,Jack Redpath,2.5,3.3333333333333335,40.833333333333336,0.75,be say kill
+Pat McCuskey,Alice,5.357142857142857,0.0,51.78571428571429,INF,find go
+Ralph,Rebus,5.0,0.0,55.00000000000001,INF,reach take
+Ralph,Rebus,5.0,0.0,55.00000000000001,INF,reach take
+John,Rebus,3.125,0.0,53.125,INF,make shake
+John,Rebus,3.125,0.0,53.125,INF,make shake
+Rebus,John,0.0,0.0,42.857142857142854,INF,say
+John,Ralph,0.0,0.0,33.33333333333333,INF,be
+Leith Docks,Jack Redpath,1.5625,0.78125,47.65625,2.0,be haul be
+Jack Redpath,McCuskey,1.1363636363636365,4.166666666666666,43.18181818181818,0.2727272727272727,be be be connect
+Rebus,Wester Hailes,2.232142857142857,5.357142857142857,42.410714285714285,0.4166666666666667,warn be be trust be
+Rebus,Wester Hailes,2.232142857142857,5.357142857142857,42.410714285714285,0.4166666666666667,warn be be trust be
+Rebus,Wester Hailes,2.232142857142857,5.357142857142857,42.410714285714285,0.4166666666666667,warn be be trust be
+Rebus,Wester Hailes,2.232142857142857,5.357142857142857,42.410714285714285,0.4166666666666667,warn be be trust be
+Ralph,Rebus,0.0,0.7352941176470588,69.85294117647058,0.0,place slide
+John,James Page,3.804347826086957,0.0,65.76086956521739,INF,stare go knock ask
+McCuskey,Jessica,0.0,0.0,62.5,INF,be seat
+Ralph,Jess,1.5625,0.78125,41.40625,2.0,say need see
+Ralph,Alice,1.5625,0.78125,41.40625,2.0,say need see
+Ralph,Jess,1.5625,0.78125,41.40625,2.0,say need see
+Ralph,Alice,1.5625,0.78125,41.40625,2.0,say need see
+Jess,Alice,1.5625,0.78125,41.40625,2.0,say need see
+McCuskey,Ralph,2.2058823529411766,1.4705882352941175,25.735294117647058,1.5,do want see
+Alice,Ralph,0.9615384615384616,0.0,60.57692307692307,INF,realise be stand
+Alice,Jess,0.9615384615384616,0.0,60.57692307692307,INF,realise be stand
+Ralph,Jess,0.9615384615384616,0.0,60.57692307692307,INF,realise be stand
+Jess,Ralph,0.0,0.0,42.857142857142854,INF,look
+Ralph,Rory Bell,2.7777777777777777,0.0,41.66666666666667,INF,do pluck press listen question
+Ralph,Rory Bell,2.7777777777777777,0.0,41.66666666666667,INF,do pluck press listen question
+Rebus,Clarke,0.0,0.0,57.14285714285714,INF,look
+Fox,Rebus,0.0,0.0,50.0,INF,nod
+Fox,Rebus,0.7352941176470588,0.0,52.20588235294118,INF,retreat stuff match
+Fox,Rebus,0.7352941176470588,0.0,52.20588235294118,INF,retreat stuff match
+Fox,Rebus,0.7352941176470588,0.0,52.20588235294118,INF,retreat stuff match
+Rebus,Fox,0.6944444444444444,0.0,71.52777777777779,INF,take hang stare
+Rebus,Fox,0.6944444444444444,0.0,71.52777777777779,INF,take hang stare
+Fox,Rebus,2.34375,0.78125,46.875,3.0,rest lean
+Fox,Rebus,2.34375,0.78125,46.875,3.0,rest lean
+Bettina,Saunders,1.25,3.75,45.0,0.3333333333333333,set
+Bettina,Saunders,5.555555555555555,0.4629629629629629,56.94444444444444,12.0,be get know be buy
+Bettina,Saunders,0.0,0.0,44.44444444444444,INF,offer agree
+Bettina,Saunders,0.0,0.0,44.44444444444444,INF,offer agree
+Rebus,Gilmour,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,let guess be phone
+Rebus,Gilmour,0.5102040816326531,1.7857142857142856,58.92857142857143,0.2857142857142857,be recall be lift be tell get manage haul
+Rebus,Dod Blantyre,0.5102040816326531,1.7857142857142856,58.92857142857143,0.2857142857142857,be recall be lift be tell get manage haul
+Gilmour,Dod Blantyre,0.5102040816326531,1.7857142857142856,58.92857142857143,0.2857142857142857,be recall be lift be tell get manage haul
+Fox,Rebus,0.0,0.0,50.0,INF,finish gesture
+Fox,Rebus,0.0,0.0,50.0,INF,finish gesture
+Rebus,Fox,0.8333333333333334,0.0,59.166666666666664,INF,look push get
+John,Maggie,4.166666666666666,0.0,45.83333333333333,INF,place
+Rebus,Maggie,1.25,0.0,58.75,INF,be
+Maggie,Fox,1.9230769230769231,0.0,59.61538461538461,INF,have relent usher close
+Dod Blantyre,Fox,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,have
+Rebus,Maggie,2.34375,0.78125,46.875,3.0,fix seem sense know
+Rebus,Maggie,2.34375,0.78125,46.875,3.0,fix seem sense know
+Rebus,Fox,2.34375,0.78125,46.875,3.0,fix seem sense know
+Maggie,Fox,2.34375,0.78125,46.875,3.0,fix seem sense know
+Maggie,Fox,2.34375,0.78125,46.875,3.0,fix seem sense know
+Fox,Dod Blantyre,2.6785714285714284,0.0,40.17857142857143,INF,go sit
+Rebus,Maggie,0.0,0.0,53.333333333333336,INF,lead
+Rebus,Maggie,0.0,2.5,44.166666666666664,0.0,light offer refuse
+Rebus,Maggie,0.0,2.5,44.166666666666664,0.0,light offer refuse
+Saunders,Gilmour,5.0,3.3333333333333335,38.333333333333336,1.5,be scare do be
+Saunders,Gilmour,5.0,3.3333333333333335,38.333333333333336,1.5,be scare do be
+Saunders,Gilmour,5.0,3.3333333333333335,38.333333333333336,1.5,be scare do be
+Gilmour,Saints,0.4629629629629629,0.0,47.68518518518518,INF,be go stop give save
+Saints,Gilmour,0.4629629629629629,0.0,47.68518518518518,INF,be go stop give save
+Dod Blantyre,Kennedy,0.0,4.545454545454546,50.0,0.0,be kill
+Maggie,Rebus,0.0,0.0,44.44444444444444,INF,wait tell
+Rebus,Maggie,0.8620689655172413,1.7241379310344827,56.03448275862068,0.5,follow watch start rummage
+Rebus,Maggie,0.8620689655172413,1.7241379310344827,56.03448275862068,0.5,follow watch start rummage
+Maggie,Rebus,0.0,0.0,33.33333333333333,INF,be hand
+Rebus,John,0.0,0.0,47.82608695652174,INF,slip try grab lie
+John,Maggie,0.0,5.833333333333333,67.5,0.0,try place shrug
+John,Maggie,0.0,5.833333333333333,67.5,0.0,try place shrug
+John,Maggie,2.717391304347826,1.0869565217391304,44.02173913043478,2.5,snatch spit wipe
+John,Maggie,2.717391304347826,1.0869565217391304,44.02173913043478,2.5,snatch spit wipe
+John,Maggie,2.717391304347826,1.0869565217391304,44.02173913043478,2.5,snatch spit wipe
+Rebus,Maggie,1.0416666666666665,0.0,48.95833333333333,INF,take lead
+Rebus,Maggie,1.0416666666666665,0.0,48.95833333333333,INF,take lead
+Maggie,John,0.0,0.0,53.84615384615385,INF,make go
+Fox,Rebus,0.0,5.0,55.00000000000001,0.0,demand
+Fox,Rebus,4.807692307692308,0.0,49.03846153846153,INF,get appear carry
+Fox,Rebus,4.807692307692308,0.0,49.03846153846153,INF,get appear carry
+Fox,Rebus,4.807692307692308,0.0,49.03846153846153,INF,get appear carry
+Rebus,Maggie,2.8846153846153846,0.0,27.884615384615387,INF,do do
+Maggie,Rebus,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,need talk say
+Maggie,Rebus,2.2058823529411766,0.0,44.85294117647059,INF,give say grip
+Rebus,Fox,0.0,0.0,52.38095238095239,INF,look nod file make
+Fox,Maggie,0.78125,2.34375,46.875,0.3333333333333333,walk ask confess
+Clarke,Wester Hailes,4.166666666666666,0.0,54.166666666666664,INF,be wait
+Maggie,Rebus,0.0,1.0,47.0,0.0,do leave say push break
+Rebus,Fox,3.571428571428571,0.0,67.85714285714286,INF,bang realise be stand
+Rebus,Fox,3.571428571428571,0.0,67.85714285714286,INF,bang realise be stand
+Rebus,Maggie,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Rebus,Maggie,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Rebus,Fox,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Rebus,Maggie,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Maggie,Fox,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Maggie,Fox,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Fox,Maggie,0.5434782608695652,0.0,51.63043478260869,INF,fly see loom shove
+Rebus,Maggie,0.0,0.0,58.333333333333336,INF,pull hook
+Rebus,Maggie,0.0,0.0,58.333333333333336,INF,pull hook
+Fox,Dod Blantyre,5.769230769230769,0.0,55.769230769230774,INF,get flick
+Rebus,Maggie,0.0,0.6944444444444444,49.30555555555556,0.0,let do tell crumple wail
+Rebus,Maggie,0.0,0.6944444444444444,49.30555555555556,0.0,let do tell crumple wail
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Maggie,0.0,3.125,55.208333333333336,0.0,be stroke weep bury
+Rebus,Dod Blantyre,0.0,0.0,66.66666666666666,INF,turn see be watch
+Dod Blantyre,Rebus,0.0,0.0,66.66666666666666,INF,turn see be watch
+Dod Blantyre,Rebus,0.0,0.0,66.66666666666666,INF,turn see be watch
+Fox,Clarke,0.0,0.0,60.0,INF,return arrive
+John,Fox,6.0,1.0,53.0,6.0,know be hand ask want
+John,Rebus,6.0,1.0,53.0,6.0,know be hand ask want
+John,Clarke,6.0,1.0,53.0,6.0,know be hand ask want
+Fox,Rebus,6.0,1.0,53.0,6.0,know be hand ask want
+Fox,Clarke,6.0,1.0,53.0,6.0,know be hand ask want
+Rebus,Clarke,6.0,1.0,53.0,6.0,know be hand ask want
+Fox,Rebus,0.0,0.0,33.33333333333333,INF,send say
+Rebus,Fox,0.0,0.0,66.66666666666666,INF,stop return
+John,Maggie,1.7857142857142856,0.0,48.214285714285715,INF,hear admit
+John,Bettina,1.7857142857142856,0.0,48.214285714285715,INF,hear admit
+Maggie,Bettina,1.7857142857142856,0.0,48.214285714285715,INF,hear admit
+Clarke,Fox,0.0,0.0,42.857142857142854,INF,shift
+Fox,Clarke,5.0,0.8333333333333334,47.5,6.0,shrug stare slump
+Fox,Rebus,4.411764705882353,4.411764705882353,61.76470588235294,1.0,make sit lift have leave
+Fox,Clarke,5.921052631578947,0.6578947368421052,56.57894736842105,9.0,rest make letter
+Fox,Clarke,5.921052631578947,0.6578947368421052,56.57894736842105,9.0,rest make letter
+Saab,Livingston,2.5,1.25,36.25,2.0,be head
+Fox,Rebus,0.0,0.0,80.0,INF,look
+Bettina,Maggie,0.0,4.807692307692308,41.34615384615385,0.0,try take go
+George Blantyre,Kennedy,1.3888888888888888,6.944444444444445,58.333333333333336,0.2,say push
+Kennedy,George Blantyre,1.3888888888888888,6.944444444444445,58.333333333333336,0.2,say push
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+George Blantyre,Kennedy,2.5,0.0,71.78571428571429,INF,be notice be take make look fall
+Gilmour,Paterson,5.5,3.5000000000000004,43.0,1.5714285714285714,look breathe know be be
+Rebus,Fox,0.8928571428571428,0.0,63.39285714285714,INF,get walk follow
+Owen Traynor,Rory Bell,0.0,0.0,45.45454545454545,INF,meet discuss happen
+Jessica,Alice,7.352941176470589,3.6764705882352944,47.794117647058826,2.0,know come look persuade need be move
+McCuskey,Jessica,0.8620689655172413,0.8620689655172413,60.3448275862069,1.0,see be take decide need
+McCuskey,Alice,0.8620689655172413,0.8620689655172413,60.3448275862069,1.0,see be take decide need
+Jessica,Alice,0.8620689655172413,0.8620689655172413,60.3448275862069,1.0,see be take decide need
+Jessica,McCuskey,0.8620689655172413,0.8620689655172413,60.3448275862069,1.0,see be take decide need
+Alice,McCuskey,0.8620689655172413,0.8620689655172413,60.3448275862069,1.0,see be take decide need
+Jessica,Alice,4.296875,1.5625,41.015625,2.75,come ask be find come look come look
+Jessica,McCuskey,0.0,0.7352941176470588,40.44117647058824,0.0,take be watch
+Jessica,CCTV,0.0,0.7352941176470588,40.44117647058824,0.0,take be watch
+McCuskey,CCTV,0.0,0.7352941176470588,40.44117647058824,0.0,take be watch
+McCuskey,Patrick McCuskey,0.78125,0.78125,35.9375,1.0,mean have lead
+Rebus,Fox,2.083333333333333,3.4722222222222223,61.111111111111114,0.6,buy
+Rebus,Fox,1.4705882352941175,1.4705882352941175,55.88235294117647,1.0,go counsel tip
+Rebus,Fox,1.4705882352941175,1.4705882352941175,55.88235294117647,1.0,go counsel tip
+Saab,Fox,2.857142857142857,0.7142857142857143,36.42857142857142,4.0,be ask be daft dump do
+Saab,Jack Redpath,2.857142857142857,0.7142857142857143,36.42857142857142,4.0,be ask be daft dump do
+Fox,Jack Redpath,2.857142857142857,0.7142857142857143,36.42857142857142,4.0,be ask be daft dump do
+Eddie Duke,Bairstow,4.166666666666666,2.7777777777777777,54.166666666666664,1.5,be expect hear be answer
+Rebus,Bairstow,0.0,0.0,45.45454545454545,INF,be tell
+Bairstow,Rebus,0.0,3.4722222222222223,57.638888888888886,0.0,get be be mutter end
+Bairstow,Fox,2.5,0.0,77.5,INF,stare
+Eddie Duke,Boris,5.357142857142857,0.0,51.78571428571429,INF,have take
+Rebus,Rory Bell,4.375,0.0,55.625,INF,have see be have describe
+Rory Bell,Rebus,4.375,0.0,55.625,INF,have see be have describe
+Rory Bell,Rebus,4.375,0.0,55.625,INF,have see be have describe
+Rebus,Bairstow,0.0,0.0,42.857142857142854,INF,listen
+Fox,Rebus,6.61764705882353,5.147058823529411,58.82352941176471,1.2857142857142858,have move tell need
+Fox,Rebus,3.75,0.0,66.25,INF,hold examine
+Rebus,Fox,0.0,0.8928571428571428,49.107142857142854,0.0,say pat
+Fox,Bairstow,0.0,0.0,41.66666666666667,INF,take unlock
+Fox,Renault,0.0,0.0,41.66666666666667,INF,take unlock
+Bairstow,Renault,0.0,0.0,41.66666666666667,INF,take unlock
+Rebus,Ralph,1.3157894736842104,2.631578947368421,48.68421052631579,0.5,be get ask speak
+Ralph,Rebus,0.0,0.0,46.15384615384615,INF,be find lay
+Ralph,Rebus,0.0,0.0,46.15384615384615,INF,be find lay
+Rebus,Fox,6.25,5.0,58.75,1.25,watch roll
+Fox,Rebus,6.25,5.0,58.75,1.25,watch roll
+Ralph,Livingston,2.7777777777777777,0.6944444444444444,40.97222222222222,4.0,need
+John,Ralph,0.0,0.0,38.46153846153847,INF,see say
+Fox,Owen Traynor,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,have explain be go have
+Fox,Owen Traynor,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,have explain be go have
+Owen Traynor,Jessica,3.125,0.0,46.875,INF,be provide
+Owen Traynor,Alice,3.125,0.0,46.875,INF,be provide
+Jessica,Alice,3.125,0.0,46.875,INF,be provide
+Jessica,Owen Traynor,3.125,0.0,46.875,INF,be provide
+Alice,Owen Traynor,3.125,0.0,46.875,INF,be provide
+Fox,Rebus,3.6764705882352944,0.0,43.38235294117647,INF,let know be take
+Fox,Rebus,3.6764705882352944,0.0,43.38235294117647,INF,let know be take
+Rebus,Fox,3.6764705882352944,0.0,43.38235294117647,INF,let know be take
+Rebus,Fox,0.0,1.9230769230769231,75.0,0.0,be try tug
+Rebus,Fox,0.0,1.9230769230769231,75.0,0.0,be try tug
+Fox,Rebus,0.0,2.083333333333333,47.91666666666667,0.0,thank reply usher
+Jessica,Fox,0.5952380952380952,2.976190476190476,39.285714285714285,0.2,get indicate be close
+Fox,Jessica,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Fox,Alice,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Fox,Jessica,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Fox,Alice,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Fox,Jessica,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Fox,Alice,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Jessica,Alice,2.083333333333333,0.0,52.083333333333336,INF,varnish creak make pass belong
+Jessica,Rory Bell,0.0,0.0,50.0,INF,seem
+Jessica,Rebus,0.0,0.0,55.55555555555556,INF,look shake
+Jessica,Rory Bell,0.0,0.0,55.55555555555556,INF,look shake
+Rebus,Rory Bell,0.0,0.0,55.55555555555556,INF,look shake
+Jessica,Alice,0.0,0.0,0.0,INF,
+Jessica,Rory Bell,0.8928571428571428,4.464285714285714,58.92857142857143,0.2,gaze grow focus decide answer
+Rebus,Fox,0.0,0.0,62.5,INF,turn indicate take
+Rebus,Fox,0.0,0.0,62.5,INF,turn indicate take
+Fox,Rebus,0.0,0.0,62.5,INF,turn indicate take
+Alice,Rebus,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Alice,Rebus,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Alice,Jessica,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Alice,McCuskey,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Rebus,Jessica,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Rebus,McCuskey,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Rebus,Jessica,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Rebus,McCuskey,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Jessica,McCuskey,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,do blame tell be get
+Jessica,Rebus,5.803571428571429,3.571428571428571,44.19642857142857,1.625,have be say
+Jessica,Rebus,5.803571428571429,3.571428571428571,44.19642857142857,1.625,have be say
+Alice,McCuskey,6.8181818181818175,0.0,38.63636363636363,INF,like belong
+Alice,McCuskey,6.8181818181818175,0.0,38.63636363636363,INF,like belong
+Alice,Jessica,6.8181818181818175,0.0,38.63636363636363,INF,like belong
+McCuskey,Jessica,6.8181818181818175,0.0,38.63636363636363,INF,like belong
+McCuskey,Jessica,6.8181818181818175,0.0,38.63636363636363,INF,like belong
+Rebus,McCuskey,0.0,0.0,62.5,INF,be start see be
+McCuskey,Jessica,0.0,5.147058823529411,47.794117647058826,0.0,say be leave lurch
+McCuskey,Jessica,0.0,5.147058823529411,47.794117647058826,0.0,say be leave lurch
+McCuskey,Jessica,1.953125,0.0,51.171875,INF,be get be
+McCuskey,Rebus,1.953125,0.0,51.171875,INF,be get be
+McCuskey,John,1.953125,0.0,51.171875,INF,be get be
+Jessica,Rebus,1.953125,0.0,51.171875,INF,be get be
+Jessica,John,1.953125,0.0,51.171875,INF,be get be
+Rebus,John,1.953125,0.0,51.171875,INF,be get be
+Jessica,Owen Traynor,0.0,0.0,40.0,INF,shake
+Rebus,Fox,0.0,0.0,60.0,INF,turn
+Rebus,Jessica,0.0,4.464285714285714,45.535714285714285,0.0,hurt be intone
+Rebus,Owen Traynor,0.0,4.464285714285714,45.535714285714285,0.0,hurt be intone
+Jessica,Owen Traynor,0.0,4.464285714285714,45.535714285714285,0.0,hurt be intone
+Jessica,Rebus,3.125,0.0,59.375,INF,have join
+Mr Traynor,Rory Bell,0.0,0.0,43.75,INF,use open
+Fox,Owen Traynor,10.096153846153847,0.4807692307692308,43.269230769230774,21.0,do know muse say do
+Clarke,Fox,0.5952380952380952,4.166666666666666,47.61904761904761,0.14285714285714285,say march
+Clarke,Rebus,0.5952380952380952,4.166666666666666,47.61904761904761,0.14285714285714285,say march
+Fox,Rebus,0.5952380952380952,4.166666666666666,47.61904761904761,0.14285714285714285,say march
+Maggie,Fox,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,fix
+Maggie,Fox,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,fix
+Philip Kennedy,Saunders,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Philip Kennedy,Summerhall,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Philip Kennedy,Fox,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Philip Kennedy,Rebus,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Saunders,Summerhall,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Saunders,Fox,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Saunders,Rebus,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Summerhall,Fox,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Summerhall,Rebus,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Fox,Rebus,1.25,4.166666666666666,51.24999999999999,0.3,want try look
+Maggie,Ralph,0.0,0.0,29.411764705882355,INF,tell say lead
+Maggie,Ralph,0.0,0.0,29.411764705882355,INF,tell say lead
+Ralph,Rebus,2.083333333333333,0.0,64.58333333333334,INF,be focus
+Rebus,Livingston,1.25,0.625,58.12500000000001,2.0,walk identify be question
+Rebus,Christie,2.5,0.0,67.5,INF,get do
+Rory Bell,Christie,5.681818181818182,2.272727272727273,46.590909090909086,2.5,hear say
+Christie,Rebus,0.8928571428571428,0.0,49.107142857142854,INF,be try acknowledge
+Rebus,Christie,0.5952380952380952,5.952380952380952,55.35714285714286,0.1,pause turn
+Rebus,Christie,0.5952380952380952,5.952380952380952,55.35714285714286,0.1,pause turn
+Meikle,Rebus,0.3289473684210526,0.6578947368421052,64.80263157894737,0.5,emerge intensify clock
+Meikle,Rebus,0.3289473684210526,0.6578947368421052,64.80263157894737,0.5,emerge intensify clock
+Meikle,Rebus,0.3289473684210526,0.6578947368421052,64.80263157894737,0.5,emerge intensify clock
+Meikle,Rebus,0.8333333333333334,0.0,39.166666666666664,INF,get fasten
+Meikle,Saab,0.8333333333333334,0.0,39.166666666666664,INF,get fasten
+Meikle,Rebus,0.8333333333333334,0.0,39.166666666666664,INF,get fasten
+Rebus,Saab,0.8333333333333334,0.0,39.166666666666664,INF,get fasten
+Saab,Rebus,0.8333333333333334,0.0,39.166666666666664,INF,get fasten
+Rebus,Meikle,0.0,0.0,60.0,INF,glance
+Salisbury Crags,St Margaret,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,be snake leave pass take begin
+Salisbury Crags,Arthur,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,be snake leave pass take begin
+St Margaret,Arthur,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,be snake leave pass take begin
+Neighbours,Dorothy,0.0,0.0,60.0,INF,know know
+Christie,Dean Grant,1.7045454545454544,4.545454545454546,57.38636363636363,0.375,be have take
+Meikle,Saab,3.6458333333333335,0.0,50.520833333333336,INF,ask grip handle stop be open
+Meikle,Saab,3.6458333333333335,0.0,50.520833333333336,INF,ask grip handle stop be open
+Christie,Meikle,1.25,1.25,17.5,1.0,be splutter
+Christie,Meikle,4.411764705882353,0.7352941176470588,41.911764705882355,6.0,owe have decide be
+Meikle,Christie,1.1904761904761905,0.0,46.42857142857143,INF,look see
+Meikle,Christie,1.1904761904761905,0.0,46.42857142857143,INF,look see
+Meikle,Rebus,5.113636363636364,2.840909090909091,55.68181818181818,1.8,be be wrench be unclip
+Meikle,Rebus,5.113636363636364,2.840909090909091,55.68181818181818,1.8,be be wrench be unclip
+Meikle,Rebus,5.113636363636364,2.840909090909091,55.68181818181818,1.8,be be wrench be unclip
+Meikle,Rebus,5.113636363636364,2.840909090909091,55.68181818181818,1.8,be be wrench be unclip
+Clarke,Christie,0.0,0.0,22.22222222222222,INF,say
+Smith,Rebus,0.6944444444444444,1.3888888888888888,59.02777777777778,0.5,do take be smile end
+Meikle,Christie,1.3157894736842104,0.0,56.57894736842105,INF,get hold walk
+Meikle,Rebus,1.3157894736842104,0.0,56.57894736842105,INF,get hold walk
+Christie,Rebus,1.3157894736842104,0.0,56.57894736842105,INF,get hold walk
+Rebus,Saab,0.0,0.4464285714285714,49.55357142857143,0.0,open throw pick
+Rebus,Meikle,0.0,0.4464285714285714,49.55357142857143,0.0,open throw pick
+Saab,Meikle,0.0,0.4464285714285714,49.55357142857143,0.0,open throw pick

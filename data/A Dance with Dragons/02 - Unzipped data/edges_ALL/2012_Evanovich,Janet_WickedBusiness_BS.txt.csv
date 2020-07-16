@@ -1,0 +1,669 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Wulf,Diesel,3.571428571428571,2.6785714285714284,47.32142857142857,1.3333333333333333,be think inhabit have be bestow prevent collect
+Diesel,Wulf,3.571428571428571,2.6785714285714284,47.32142857142857,1.3333333333333333,be think inhabit have be bestow prevent collect
+Wulf,Reedy,0.0,3.90625,39.84375,0.0,think pitch
+Diesel,Wulf,2.941176470588235,0.0,61.76470588235294,INF,feel move touch
+Diesel,Wulf,2.941176470588235,0.0,61.76470588235294,INF,feel move touch
+Wulf,Diesel,1.0416666666666665,0.5208333333333333,60.9375,2.0,be be do go say
+Wulf,Diesel,1.0416666666666665,0.5208333333333333,60.9375,2.0,be be do go say
+Diesel,Wulf,0.0,0.0,50.0,INF,be
+Wulf,Diesel,0.78125,0.0,49.21875,INF,think lock say
+Diesel,Carl,0.0,2.5,47.5,0.0,slip return
+Glo,Carl,1.6304347826086956,2.717391304347826,56.52173913043478,0.6,be sit pull hug
+Glo,Carl,1.6304347826086956,2.717391304347826,56.52173913043478,0.6,be sit pull hug
+Glo,Carl,1.6304347826086956,2.717391304347826,56.52173913043478,0.6,be sit pull hug
+Diesel,Carl,0.0,1.6666666666666667,48.333333333333336,0.0,open rush follow be perch
+Diesel,Carl,0.0,1.6666666666666667,48.333333333333336,0.0,open rush follow be perch
+Glo,Carl,3.8461538461538463,0.9615384615384616,33.65384615384615,4.0,rescue give
+Diesel,Glo,0.0,0.0,50.0,INF,ask
+Glo,Carl,1.3888888888888888,0.0,54.166666666666664,INF,set
+Glo,Harry Potter,6.25,0.78125,55.46875,8.0,read have
+Glo,Carl,1.0869565217391304,2.1739130434782608,53.2608695652174,0.5,like be be
+Glo,Carl,1.0869565217391304,2.1739130434782608,53.2608695652174,0.5,like be be
+Glo,Carl,0.0,0.0,69.23076923076923,INF,rummage pull
+Reedy,Diesel,0.0,1.4705882352941175,57.35294117647059,0.0,want do say
+Diesel,Glo,0.0,0.5952380952380952,47.023809523809526,0.0,amble join hop
+Diesel,Carl,0.0,0.5952380952380952,47.023809523809526,0.0,amble join hop
+Glo,Carl,0.0,0.5952380952380952,47.023809523809526,0.0,amble join hop
+Carl,Diesel,0.0,0.0,50.0,INF,see eat agree
+Carl,Diesel,0.0,0.0,50.0,INF,throw glare
+Carl,Diesel,0.0,0.0,50.0,INF,throw glare
+Diesel,Carl,0.5,4.0,51.5,0.125,blow pluck cart pitch
+Diesel,Carl,0.5,4.0,51.5,0.125,blow pluck cart pitch
+Diesel,Carl,0.5,4.0,51.5,0.125,blow pluck cart pitch
+Diesel,Carl,0.0,0.8928571428571428,56.25,0.0,mop
+Reedy,Lovey,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,bet be talk
+Carl,Diesel,0.0,1.25,48.75,0.0,walk moon
+Diesel,Carl,0.0,0.0,33.33333333333333,INF,say
+Diesel,Reedy,2.8846153846153846,0.9615384615384616,57.692307692307686,3.0,wrap hug
+Reedy,Diesel,0.0,0.0,47.368421052631575,INF,turn step lock
+Reedy,Diesel,0.0,0.0,47.368421052631575,INF,turn step lock
+Diesel,Lovey,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,seem say do see
+Reedy,Shakespeare,0.0,0.0,47.368421052631575,INF,have turn say
+Reedy,Diesel,0.0,0.0,47.368421052631575,INF,have turn say
+Shakespeare,Diesel,0.0,0.0,47.368421052631575,INF,have turn say
+Reedy,Luxuria Stone,4.6875,3.125,63.020833333333336,1.5,copy write underline
+Reedy,Luxuria Stone,4.6875,3.125,63.020833333333336,1.5,copy write underline
+Diesel,Reedy,0.0,0.0,60.0,INF,look
+Reedy,Luxuria Stone,3.125,3.125,50.0,1.0,do think be kill be research
+Reedy,Luxuria Stone,3.125,3.125,50.0,1.0,do think be kill be research
+Hatchet,Diesel,0.0,0.0,55.55555555555556,INF,be say
+Hatchet,Wulf,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,be swear be
+Diesel,Hatchet,0.0,0.0,75.0,INF,ask
+Diesel,Hatchet,1.0869565217391304,0.5434782608695652,67.93478260869566,2.0,slide ease reach
+Wulf,Luxuria Stone,12.5,1.0416666666666665,28.125,12.0,know be look
+Wulf,Reedy,0.0,0.0,54.166666666666664,INF,be go cut see say
+Wulf,Diesel,0.0,0.0,54.166666666666664,INF,be go cut see say
+Reedy,Diesel,0.0,0.0,54.166666666666664,INF,be go cut see say
+Hatchet,Wulf,0.0,1.3157894736842104,51.31578947368421,0.0,want get be go have go
+Hatchet,Diesel,3.4090909090909087,3.4090909090909087,47.72727272727273,1.0,have defend call say
+Carl,Diesel,1.25,2.5,56.25,0.5,scratch eyeball
+Carl,Diesel,1.25,2.5,56.25,0.5,scratch eyeball
+Carl,Diesel,1.1363636363636365,0.5681818181818182,57.38636363636363,2.0,give turn have place
+Luxuria Stone,Carl,5.263157894736842,0.0,63.1578947368421,INF,contain call name
+Diesel,Hatchet,0.78125,3.125,46.09375,0.25,have get lose say
+Diesel,Wulf,6.25,6.25,45.83333333333333,1.0,do look bow
+Diesel,Hatchet,6.25,6.25,45.83333333333333,1.0,do look bow
+Wulf,Hatchet,6.25,6.25,45.83333333333333,1.0,do look bow
+Diesel,Wulf,0.0,0.0,50.0,INF,ask
+Hatchet,Wulf,5.0,1.6666666666666667,46.666666666666664,3.0,pop get
+Wulf,Hatchet,0.0,0.0,58.333333333333336,INF,raise take fly latch
+Diesel,Hatchet,0.8333333333333334,6.666666666666667,52.5,0.125,grab lift
+Diesel,Hatchet,0.8333333333333334,6.666666666666667,52.5,0.125,grab lift
+Diesel,Hatchet,0.0,0.0,59.09090909090909,INF,cart pitch close lock
+Diesel,Hatchet,0.0,0.0,59.09090909090909,INF,cart pitch close lock
+Diesel,Hatchet,1.25,0.0,68.75,INF,open look
+Diesel,Hatchet,0.0,0.6944444444444444,54.861111111111114,0.0,retrieve give close lock
+Clara,Mr. Nelson,3.289473684210526,1.9736842105263157,47.368421052631575,1.6666666666666667,need want
+Diesel,Lovey,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Diesel,Reedy,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Diesel,Reedy,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Diesel,Shakespeare,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Lovey,Reedy,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Lovey,Reedy,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Lovey,Shakespeare,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Reedy,Shakespeare,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Reedy,Shakespeare,1.0869565217391304,0.0,51.08695652173913,INF,have take be
+Hatchet,Wulf,4.296875,5.859375,49.21875,0.7333333333333333,stare think be lurk wait snatch
+Diesel,Wulf,0.5,3.0,44.5,0.16666666666666666,let spend have protect bloodsuck
+Wulf,Hatchet,0.0,3.571428571428571,53.57142857142857,0.0,
+Hatchet,Wulf,5.357142857142857,3.571428571428571,48.214285714285715,1.5,be intrude
+Hatchet,Clara,0.0,0.0,60.0,INF,glare
+Glo,Clara,4.166666666666666,0.0,45.83333333333333,INF,have wrinkle
+Clara,Hatchet,0.0,0.0,40.0,INF,say
+Hatchet,Glo,3.9473684210526314,1.9736842105263157,51.973684210526315,2.0,be be go help
+Glo,Hatchet,3.9473684210526314,1.9736842105263157,51.973684210526315,2.0,be be go help
+Lovey,Glo,0.0,0.0,27.27272727272727,INF,be say
+Carl,Lizzy,0.0,1.6304347826086956,46.19565217391305,0.0,be go find give
+Reedy,Clara,0.0,0.0,50.0,INF,be say
+Reedy,Lovey,0.8928571428571428,0.0,63.39285714285714,INF,get join date
+Lovey,Reedy,0.8928571428571428,0.0,63.39285714285714,INF,get join date
+Reedy,Clara,0.0,0.0,38.46153846153847,INF,be say
+McGinty,Lynn,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,live
+Diesel,McGinty,6.25,3.125,59.375,2.0,check smile lock
+McGinty,Diesel,1.3888888888888888,0.0,37.5,INF,have find say look
+Diesel,McGinty,3.125,3.125,52.083333333333336,1.0,want kick see knock kick do want become
+Diesel,McGinty,3.125,3.125,52.083333333333336,1.0,want kick see knock kick do want become
+Diesel,McGinty,3.125,3.125,52.083333333333336,1.0,want kick see knock kick do want become
+Diesel,Reedy,5.113636363636364,2.840909090909091,46.590909090909086,1.8,look know mean
+McGinty,Diesel,3.75,0.0,41.25,INF,thank truck get
+Reedy,Diesel,9.090909090909092,6.8181818181818175,38.63636363636363,1.3333333333333333,have be have ruin say
+Danko,Diesel,1.3888888888888888,4.166666666666666,50.0,0.3333333333333333,be be say
+Danko,Diesel,1.0416666666666665,0.0,32.29166666666667,INF,be look say
+Reedy,Danko,4.6875,1.5625,31.25,3.0,want ask say
+Reedy,Diesel,3.90625,2.34375,31.25,1.6666666666666667,like talk say
+Reedy,Ann,4.545454545454546,0.3787878787878788,55.68181818181818,12.0,go think like name come get dump
+Ann,Reedy,4.545454545454546,0.3787878787878788,55.68181818181818,12.0,go think like name come get dump
+Reedy,Ann,4.545454545454546,5.681818181818182,26.136363636363637,0.8,be babble
+Reedy,Ann,4.545454545454546,5.681818181818182,26.136363636363637,0.8,be babble
+Reedy,Ann,4.545454545454546,5.681818181818182,26.136363636363637,0.8,be babble
+Van Gogh,Lovey,0.8064516129032258,2.0161290322580645,55.24193548387096,0.4,do find be be copy decorate
+Van Gogh,Lovey,0.8064516129032258,2.0161290322580645,55.24193548387096,0.4,do find be be copy decorate
+Lovey,Van Gogh,0.8064516129032258,2.0161290322580645,55.24193548387096,0.4,do find be be copy decorate
+Lovey,Van Gogh,0.8064516129032258,2.0161290322580645,55.24193548387096,0.4,do find be be copy decorate
+Reedy,Julie,0.0,0.0,66.66666666666666,INF,be
+Reedy,Julie,2.083333333333333,10.416666666666668,54.166666666666664,0.2,think be
+Reedy,Julie,5.357142857142857,7.142857142857142,58.92857142857143,0.75,have confide
+Reedy,Diesel,1.3157894736842104,0.0,51.31578947368421,INF,say have choose date say
+Harvard,Reedy,4.166666666666666,0.0,56.94444444444444,INF,like poke see find
+Diesel,Gordon,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,tap ask contact
+Diesel,Reedy,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,tap ask contact
+Gordon,Reedy,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,tap ask contact
+Diesel,Reedy,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,be have know
+Diesel,Charles Street,0.0,0.0,52.94117647058824,INF,drive take
+Julie,Barker Center,0.6578947368421052,0.0,51.973684210526315,INF,meet
+Daniel Crowley,Reedy,1.6666666666666667,0.8333333333333334,37.5,2.0,tell be
+Barker Center,Reedy,1.25,2.5,56.25,0.5,enter have locate
+Diesel,Daniel Crowley,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,introduce fill
+Diesel,Julie,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,introduce fill
+Daniel Crowley,Julie,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,introduce fill
+Dr. Reedy,Diesel,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be hope see say
+Julie,Reedy,0.5952380952380952,0.0,47.023809523809526,INF,follow stop
+Dr. Reedy,Julie,0.0,0.78125,55.46875,0.0,sleep live say
+Dr. Reedy,Julie,0.0,0.78125,55.46875,0.0,sleep live say
+Dr. Reedy,Julie,0.0,0.78125,55.46875,0.0,sleep live say
+Dr. Reedy,Lovey,7.065217391304348,0.0,49.45652173913043,INF,be be forget
+Dr. Reedy,Lovey,7.065217391304348,0.0,49.45652173913043,INF,be be forget
+Dr. Reedy,Lovey,0.6578947368421052,0.0,57.23684210526315,INF,stumble be affect
+Dr. Reedy,Lovey,1.9230769230769231,0.0,59.61538461538461,INF,write
+Lovey,Goodfellow,1.9230769230769231,0.0,44.230769230769226,INF,be be name
+Dr. Reedy,Goodfellow,0.0,0.0,43.333333333333336,INF,visit allow be fill
+Goodfellow,Dr. Reedy,0.0,0.0,43.333333333333336,INF,visit allow be fill
+Diesel,Julie,0.0,0.0,42.857142857142854,INF,take
+Diesel,Julie,0.5434782608695652,1.0869565217391304,63.58695652173913,0.5,be lock get do
+Goodfellow,Julie,0.43103448275862066,0.43103448275862066,47.41379310344828,1.0,be be say look
+Dr. Reedy,Goodfellow,0.0,0.0,50.0,INF,stumble be
+Dr. Reedy,Goodfellow,0.0,0.0,50.0,INF,stumble be
+Lovey,Goodfellow,0.4807692307692308,2.8846153846153846,42.78846153846153,0.16666666666666666,describe tell
+Lovey,Goodfellow,0.4807692307692308,2.8846153846153846,42.78846153846153,0.16666666666666666,describe tell
+Goodfellow,Lovey,0.4807692307692308,2.8846153846153846,42.78846153846153,0.16666666666666666,describe tell
+Reedy,Diesel,1.1363636363636365,0.0,44.31818181818182,INF,believe date say
+Diesel,Goodfellow,0.4032258064516129,1.2096774193548387,56.451612903225815,0.3333333333333333,be read be find wish be work
+Reedy,Deirdre Early,3.125,3.125,33.75,1.0,get
+Reedy,Lovey,3.125,3.125,33.75,1.0,get
+Reedy,Luxuria Stone,3.125,3.125,33.75,1.0,get
+Deirdre Early,Lovey,3.125,3.125,33.75,1.0,get
+Deirdre Early,Luxuria Stone,3.125,3.125,33.75,1.0,get
+Lovey,Luxuria Stone,3.125,3.125,33.75,1.0,get
+Glo,Deirdre Early,2.1739130434782608,0.5434782608695652,40.76086956521739,4.0,have be head
+Nina,Glo,0.0,0.0,42.857142857142854,INF,smile see
+Nina,Glo,0.0,0.0,42.857142857142854,INF,smile see
+Nina,Glo,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,cut
+Nina,Glo,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,cut
+Glo,Nina,0.0,3.289473684210526,49.34210526315789,0.0,be start bark
+Glo,Nina,2.8846153846153846,6.730769230769231,51.92307692307693,0.42857142857142855,take
+Lovey,Nina,2.5,3.125,39.375,0.8,want talk say
+Wulf,Diesel,2.7777777777777777,0.0,63.888888888888886,INF,want stop help
+Wulf,Diesel,0.0,0.0,50.0,INF,stop help
+Goodfellow,Lovey,6.944444444444445,2.7777777777777777,34.72222222222222,2.5,do say
+Lovey,Goodfellow,0.35714285714285715,2.857142857142857,53.92857142857142,0.125,tell be be be shed
+Lovey,Goodfellow,0.35714285714285715,2.857142857142857,53.92857142857142,0.125,tell be be be shed
+Goodfellow,Lovey,0.35714285714285715,2.857142857142857,53.92857142857142,0.125,tell be be be shed
+Lovey,Goodfellow,5.0,1.25,43.75,4.0,tell be
+Harvard,Clara,0.8928571428571428,0.0,49.107142857142854,INF,like go say
+Julie,Reedy,0.0,1.0416666666666665,48.95833333333333,0.0,meet
+Dr. Reedy,Lovey,0.0,0.0,55.172413793103445,INF,put have tell be come
+Lovey,Luxuria Stone,3.571428571428571,0.0,60.71428571428571,INF,say contain
+Lovey,Dr. Reedy,0.0,0.0,59.25925925925925,INF,pay accord own hold
+Dr. Reedy,Julie,5.5,0.0,58.5,INF,be look believe decipher say
+Dr. Reedy,Ann,0.0,0.0,50.0,INF,change meet
+Julie,Reedy,0.0,0.0,45.45454545454545,INF,leave stay
+Wulf,Hatchet,6.25,0.0,53.75,INF,be get try steal
+Lovey,Van Gogh,2.027027027027027,0.0,62.83783783783784,INF,have seem catch remember say remind
+Lovey,Van Gogh,0.0,0.0,61.111111111111114,INF,say remind
+Julie,Reedy,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,be say go see
+Boston Common,Charles Street,2.976190476190476,0.5952380952380952,67.85714285714286,5.0,be delineate
+Charles Street,State House,1.5625,1.953125,58.984375,0.8,walk have
+Diesel,Vernon,0.0,0.0,40.909090909090914,INF,leave drive find turn
+Carl,Diesel,0.5208333333333333,0.0,53.645833333333336,INF,retrieve get bring
+Diesel,Carl,1.953125,0.0,54.296875,INF,be say work be
+Diesel,Carl,0.0,5.357142857142857,66.07142857142857,0.0,give cut
+Wulf,Diesel,0.0,1.6666666666666667,58.333333333333336,0.0,do want do want
+Wulf,Diesel,3.8461538461538463,0.0,34.61538461538461,INF,say
+Bruins,Wulf,0.625,0.0,44.375,INF,win say come cart
+Bruins,Van Gogh,0.625,0.0,44.375,INF,win say come cart
+Bruins,Van Gogh,0.625,0.0,44.375,INF,win say come cart
+Wulf,Van Gogh,0.625,0.0,44.375,INF,win say come cart
+Wulf,Van Gogh,0.625,0.0,44.375,INF,win say come cart
+Carl,Diesel,3.571428571428571,7.142857142857142,53.57142857142857,0.5,be share
+Diesel,Carl,0.9615384615384616,6.730769230769231,53.84615384615385,0.14285714285714285,strip kick
+Diesel,Carl,0.9615384615384616,6.730769230769231,53.84615384615385,0.14285714285714285,strip kick
+Diesel,Carl,0.9615384615384616,6.730769230769231,53.84615384615385,0.14285714285714285,strip kick
+Carl,Diesel,3.787878787878788,1.5151515151515151,58.333333333333336,2.5,hear realize be creep try get try find sleep
+Carl,Diesel,3.4722222222222223,0.0,46.52777777777778,INF,find sleep say
+Diesel,Carl,0.0,0.0,55.00000000000001,INF,switch march hold
+Clara,Diesel,1.7857142857142856,0.0,66.07142857142857,INF,be help make stroll carry wrap
+Diesel,Clara,3.8461538461538463,4.807692307692308,75.96153846153845,0.8,call say be have
+Charles Duane,Old North Church,0.6578947368421052,0.0,51.973684210526315,INF,be surprise see be
+Charles Duane,Old North Church,0.0,0.0,56.25,INF,be let go
+Glo,Hatchet,0.0,0.0,60.71428571428571,INF,be jump brandish
+Glo,Hatchet,0.0,0.0,60.71428571428571,INF,be jump brandish
+Glo,Hatchet,0.0,0.0,25.0,INF,ask
+Jeez Louise,Glo,0.0,0.0,12.5,INF,say
+Hatchet,Glo,2.1739130434782608,0.0,58.69565217391305,INF,swoosh lock light
+Hatchet,Glo,2.1739130434782608,0.0,58.69565217391305,INF,swoosh lock light
+Carl,Diesel,0.0,0.0,52.63157894736842,INF,help scamper follow
+Glo,Carl,0.0,0.0,20.0,INF,say
+Carl,Diesel,0.0,0.78125,55.46875,0.0,give push
+Luxuria Stone,Glo,3.90625,0.0,33.59375,INF,find lead say
+Diesel,Carl,0.0,0.0,73.33333333333333,INF,rise look
+Charles Duane,Glo,0.0,0.0,25.0,INF,say
+Charles Duane,Old North Church,2.5,3.125,59.375,0.8,google find be
+Charles Duane,Old North Church,2.5,3.125,59.375,0.8,google find be
+Diesel,Carl,0.0,0.0,50.0,INF,lean eat
+Diesel,Carl,0.0,0.0,66.66666666666666,INF,finish move
+Glo,Clara,4.910714285714286,0.8928571428571428,47.767857142857146,5.5,be read try find reverse put
+Glo,Hatchet,4.910714285714286,0.8928571428571428,47.767857142857146,5.5,be read try find reverse put
+Clara,Hatchet,4.910714285714286,0.8928571428571428,47.767857142857146,5.5,be read try find reverse put
+Mortimer,Diesel,2.5,1.25,46.25,2.0,be say
+Glo,Diesel,0.0,0.0,50.0,INF,ask
+Mortimer,Clara,0.0,0.0,66.66666666666666,INF,look
+Mortimer,Clara,0.0,0.0,18.181818181818183,INF,say
+Morty,Diesel,1.7045454545454544,0.0,57.38636363636363,INF,move screen step prohibit
+Diesel,Morty,2.34375,0.78125,59.375,3.0,be be stand
+Glo,Morty,4.166666666666666,2.083333333333333,49.30555555555556,2.0,meander study have be pretend read
+Diesel,Charles Duane,4.605263157894736,1.3157894736842104,41.44736842105263,3.5,be get
+Diesel,Morty,0.0,0.0,43.75,INF,be go walk say
+Glo,Morty,0.0,0.0,40.0,INF,include be crouch
+Glo,Morty,2.5,3.125,39.375,0.8,help get say
+Diesel,Morty,0.8928571428571428,0.0,56.25,INF,be whisk
+Diesel,Morty,4.166666666666666,0.0,49.166666666666664,INF,know bend say
+Diesel,Charles Duane,0.0,0.0,57.14285714285714,INF,play accord clang hold appear
+Diesel,Morty,0.0,2.272727272727273,43.18181818181818,0.0,steal say
+Diesel,Glo,0.0,3.75,56.25,0.0,drop get
+Glo,Clara,3.977272727272727,1.7045454545454544,44.31818181818182,2.3333333333333335,be appear say unlock
+Hatchet,Wulf,1.1904761904761905,0.5952380952380952,41.07142857142857,2.0,be do get talk say
+Hatchet,Glo,1.1904761904761905,0.5952380952380952,41.07142857142857,2.0,be do get talk say
+Wulf,Glo,1.1904761904761905,0.5952380952380952,41.07142857142857,2.0,be do get talk say
+Clara,Hatchet,0.0,0.0,50.0,INF,jump
+Hatchet,Glo,1.25,2.5,46.25,0.5,turn run
+Glo,Hatchet,1.25,2.5,46.25,0.5,turn run
+Glo,Hatchet,0.6944444444444444,0.0,49.30555555555556,INF,take fly tag go
+Hatchet,Glo,0.0,1.1363636363636365,57.95454545454546,0.0,be kick claw be hold be appear
+Hatchet,Wulf,0.0,1.1363636363636365,57.95454545454546,0.0,be kick claw be hold be appear
+Glo,Wulf,0.0,1.1363636363636365,57.95454545454546,0.0,be kick claw be hold be appear
+Glo,Hatchet,0.0,0.0,57.14285714285714,INF,go look
+Glo,Wulf,0.0,0.0,57.14285714285714,INF,go look
+Hatchet,Wulf,0.0,0.0,57.14285714285714,INF,go look
+Wulf,Glo,0.5434782608695652,1.0869565217391304,67.93478260869566,0.5,go stand fart hear squelch
+Wulf,Glo,0.5434782608695652,1.0869565217391304,67.93478260869566,0.5,go stand fart hear squelch
+Wulf,Hatchet,0.0,5.0,45.0,0.0,slip disappear
+Hatchet,Glo,2.083333333333333,3.125,48.95833333333333,0.6666666666666666,talk be
+Wulf,Glo,0.0,5.833333333333333,47.5,0.0,hand copy
+Diesel,Carl,0.0,2.2058823529411766,44.85294117647059,0.0,be wait happen say take
+Carl,Diesel,0.0,0.0,80.0,INF,look
+Tichy,Carl,1.4705882352941175,0.0,45.588235294117645,INF,be read
+Mrs. Weintraub,Hatchet,0.5952380952380952,0.0,70.83333333333334,INF,be select get fart
+Hatchet,Mrs. Weintraub,0.5952380952380952,0.0,70.83333333333334,INF,be select get fart
+Mrs. Weintraub,Glo,0.0,3.125,51.041666666666664,0.0,take say pretend have notice
+Mrs. Weintraub,Hatchet,0.0,3.125,51.041666666666664,0.0,take say pretend have notice
+Glo,Hatchet,0.0,3.125,51.041666666666664,0.0,take say pretend have notice
+Glo,Mrs. Weintraub,0.0,0.0,44.44444444444444,INF,hand
+Hatchet,Mrs. Weintraub,0.0,0.0,40.0,INF,say
+Glo,Hatchet,0.8333333333333334,0.0,39.166666666666664,INF,get learn control say
+Mrs. Weintraub,Hatchet,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,turn clap say
+Glo,Hatchet,1.5625,3.90625,50.78125,0.4,be suppose seal be last say
+Glo,Hatchet,0.0,0.0,64.28571428571429,INF,put pass
+Hatchet,Clara,0.4807692307692308,1.4423076923076923,51.92307692307693,0.3333333333333333,watch swish light spray
+Hatchet,Clara,0.4807692307692308,1.4423076923076923,51.92307692307693,0.3333333333333333,watch swish light spray
+Glo,Clara,3.125,1.0416666666666665,37.5,3.0,be stand
+Wulf,Clara,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,get tell
+Diesel,Clara,0.0,8.653846153846153,29.807692307692307,0.0,fear say
+Diesel,Harvard,0.0,0.7352941176470588,81.61764705882352,0.0,turn block follow
+Tichy,Diesel,4.464285714285714,2.6785714285714284,35.714285714285715,1.6666666666666667,persuade prevail say
+Tichy,Hatchet,0.0,0.0,55.00000000000001,INF,frame bind
+Tichy,Diesel,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be say
+Hatchet,Tichy House,5.555555555555555,0.6944444444444444,54.861111111111114,8.0,see drive be go
+Diesel,Harvard,0.0,0.0,64.70588235294117,INF,follow skirt hook
+Tichy,Mary,0.0,0.0,35.0,INF,survive
+Tichy,Catherine,0.0,0.0,35.0,INF,survive
+Tichy,Monroe,0.0,0.0,35.0,INF,survive
+Mary,Catherine,0.0,0.0,35.0,INF,survive
+Mary,Monroe,0.0,0.0,35.0,INF,survive
+Catherine,Monroe,0.0,0.0,35.0,INF,survive
+Diesel,Hatchet,0.8333333333333334,0.0,59.166666666666664,INF,scramble watch pull
+Wulf,Diesel,0.0,0.0,40.0,INF,be say
+Diesel,Hatchet,0.0,0.0,57.14285714285714,INF,prod
+Diesel,Hatchet,0.0,0.0,57.14285714285714,INF,prod
+Diesel,Hatchet,0.0,0.0,57.14285714285714,INF,kick
+Diesel,Hatchet,0.0,0.0,60.0,INF,shake
+Diesel,Hatchet,0.0,0.0,50.0,INF,grab hoist
+Diesel,Hatchet,0.0,0.0,50.0,INF,grab hoist
+Diesel,Hatchet,0.0,0.0,50.0,INF,grab hoist
+Diesel,Hatchet,0.0,0.0,50.0,INF,grab hoist
+Diesel,Hatchet,1.0,1.0,57.99999999999999,1.0,take see indicate follow
+Diesel,Hatchet,0.0,0.0,51.724137931034484,INF,take be tempt run load
+Diesel,Hatchet,0.0,0.0,51.724137931034484,INF,take be tempt run load
+Diesel,Hatchet,0.0,0.0,51.724137931034484,INF,take be tempt run load
+Diesel,Hatchet,0.0,6.25,33.75,0.0,tell
+Diesel,Wulf,2.6785714285714284,0.0,54.46428571428571,INF,slip continue call
+Wulf,Hatchet,1.7857142857142856,0.0,48.214285714285715,INF,annoy be
+Wulf,Hatchet,0.0,0.0,50.0,INF,be determine capture do have
+Wulf,Hatchet,0.0,0.0,50.0,INF,be determine capture do have
+Tichy,Diesel,4.464285714285714,2.6785714285714284,35.714285714285715,1.6666666666666667,persuade prevail say
+Hatchet,Glo,0.0,2.941176470588235,50.0,0.0,throw chase say
+Clara,Hatchet,0.0,0.0,60.0,INF,squint
+Clara,Glo,0.0,0.0,20.0,INF,turn
+Glo,Clara,0.0,0.0,47.05882352941176,INF,take walk
+Glo,Hatchet,0.0,0.0,47.05882352941176,INF,take walk
+Clara,Hatchet,0.0,0.0,47.05882352941176,INF,take walk
+Glo,Hatchet,4.464285714285714,0.8928571428571428,44.642857142857146,5.0,be block say
+Glo,Hatchet,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,like tell
+Glo,Hatchet,0.0,2.5,67.5,0.0,decline swear see twitch take
+Hatchet,Glo,0.0,2.5,67.5,0.0,decline swear see twitch take
+Nina,Glo,0.0,0.0,57.14285714285714,INF,shake
+Nina,Glo,0.0,0.0,57.14285714285714,INF,shake
+Glo,Nina,0.0,0.0,44.44444444444444,INF,pull
+Nina,Glo,0.0,0.0,63.63636363636363,INF,measure seal pass
+Hatchet,Nina,0.0,10.576923076923077,50.96153846153846,0.0,stand try
+Nina,Hatchet,0.0,3.125,59.375,0.0,take throw
+Nina,Hatchet,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,turn clap say
+Nina,Hatchet,0.0,5.357142857142857,51.78571428571429,0.0,take give
+Glo,Hatchet,0.0,0.0,50.0,INF,ask
+Reedy,Lovey,1.3888888888888888,0.0,54.166666666666664,INF,go find name
+Reedy,Monroe,1.3888888888888888,0.0,54.166666666666664,INF,go find name
+Lovey,Monroe,1.3888888888888888,0.0,54.166666666666664,INF,go find name
+Monroe,Lovey,7.738095238095238,1.1904761904761905,48.214285714285715,6.5,be thank introduce be marry
+Lovey,Monroe,7.738095238095238,1.1904761904761905,48.214285714285715,6.5,be thank introduce be marry
+Lovey,Monroe,7.738095238095238,1.1904761904761905,48.214285714285715,6.5,be thank introduce be marry
+Lovey,Monroe,7.738095238095238,1.1904761904761905,48.214285714285715,6.5,be thank introduce be marry
+Monroe,Goodfellow,0.0,0.0,53.84615384615385,INF,be
+Lovey,Monroe,6.8181818181818175,1.1363636363636365,55.68181818181818,6.0,feel have
+Monroe,Tichy,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Mary,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Mary,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Tichy,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Mary,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Mary,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Mary,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Mary,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Mary,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Catherine,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Catherine,Monroe,0.78125,2.734375,52.734375,0.2857142857142857,be give say be survive
+Monroe,Lovey,0.0,0.0,45.45454545454545,INF,be
+Monroe,Boston Society of Natural History,3.571428571428571,8.333333333333332,54.761904761904766,0.42857142857142855,be
+Monroe,Boston Society of Natural History,3.571428571428571,8.333333333333332,54.761904761904766,0.42857142857142855,be
+Charles Street,Boston Museum of Science,0.0,0.0,59.09090909090909,INF,move become
+Monroe,Tichy,0.0,0.0,50.0,INF,bury
+Diesel,Monroe,3.225806451612903,0.4032258064516129,64.11290322580645,8.0,follow move rest stand tiptoe see
+Wulf,Diesel,1.5,1.5,56.99999999999999,1.0,get be say
+Diesel,Carl,0.0,0.0,55.55555555555556,INF,look
+Wulf,Tichy,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,do think be dig
+Hatchet,Wulf,1.5625,0.0,60.9375,INF,think follow pry come go
+Hatchet,Tichy,1.5625,0.0,60.9375,INF,think follow pry come go
+Wulf,Tichy,1.5625,0.0,60.9375,INF,think follow pry come go
+Diesel,Carl,0.0,0.0,35.714285714285715,INF,be say
+Diesel,Carl,1.5625,0.0,48.4375,INF,jog get stuff
+Diesel,Carl,1.5625,0.0,48.4375,INF,jog get stuff
+Carl,Diesel,0.0,0.0,50.0,INF,take show
+Carl,Diesel,0.0,0.0,50.0,INF,take show
+Carl,Diesel,2.631578947368421,1.9736842105263157,63.81578947368421,1.3333333333333333,give gasp see look
+Diesel,Carl,2.631578947368421,1.9736842105263157,63.81578947368421,1.3333333333333333,give gasp see look
+Diesel,Carl,2.631578947368421,1.9736842105263157,63.81578947368421,1.3333333333333333,give gasp see look
+Diesel,Carl,0.0,0.0,57.14285714285714,INF,take
+Reedy,Ann,8.333333333333332,2.604166666666667,39.0625,3.2,want stretch wonder be
+Ann,Reedy,0.0,6.25,18.75,0.0,have kill
+Carl,Diesel,0.0,0.0,50.0,INF,leave cross
+Hatchet,Carl,2.840909090909091,0.5681818181818182,55.68181818181818,5.0,turn look see have make be stand press try find get
+Hatchet,Carl,2.840909090909091,0.5681818181818182,55.68181818181818,5.0,turn look see have make be stand press try find get
+Carl,Hatchet,4.166666666666666,0.0,62.5,INF,call
+Motion Machine,Monroe,0.0,0.0,50.0,INF,
+Diesel,Carl,0.0,0.0,58.333333333333336,INF,join look
+Diesel,Monroe,0.0,0.0,58.333333333333336,INF,join look
+Carl,Monroe,0.0,0.0,58.333333333333336,INF,join look
+Carl,Motion Machine,1.5625,0.0,52.604166666666664,INF,create put walk
+Monroe,Motion Machine,0.0,0.0,68.42105263157895,INF,look see be go
+Monroe,Diesel,0.0,0.0,68.42105263157895,INF,look see be go
+Motion Machine,Diesel,0.0,0.0,68.42105263157895,INF,look see be go
+Carl,Hatchet,2.083333333333333,0.0,57.91666666666667,INF,leap scurry dodge catapult begin close
+Carl,Diesel,0.3472222222222222,0.0,63.541666666666664,INF,sit stand take set
+Carl,Motion Machine,0.3472222222222222,0.0,63.541666666666664,INF,sit stand take set
+Diesel,Motion Machine,0.3472222222222222,0.0,63.541666666666664,INF,sit stand take set
+Diesel,Carl,0.3472222222222222,0.0,63.541666666666664,INF,sit stand take set
+Motion Machine,Carl,0.3472222222222222,0.0,63.541666666666664,INF,sit stand take set
+Glo,Diesel,1.25,1.25,37.5,1.0,need say
+Monroe,Motion Machine,0.0,0.0,58.82352941176471,INF,stand eat take
+Diesel,Monroe,0.0,0.0,50.0,INF,finish put
+Diesel,Monroe,0.0,0.0,50.0,INF,finish put
+Carl,Glo,1.7857142857142856,2.6785714285714284,52.67857142857143,0.6666666666666666,be watch come
+Tichy,Diesel,4.464285714285714,2.6785714285714284,35.714285714285715,1.6666666666666667,persuade prevail say
+Glo,Monroe,2.0,0.5,65.5,4.0,make try be
+Carl,Diesel,0.0,5.681818181818182,48.86363636363637,0.0,listen say
+Carl,Motion Machine,0.0,0.78125,61.71875,0.0,keep give
+Carl,Diesel,0.0,0.78125,61.71875,0.0,keep give
+Carl,Motion Machine,0.0,0.78125,61.71875,0.0,keep give
+Carl,Diesel,0.0,0.78125,61.71875,0.0,keep give
+Motion Machine,Carl,0.0,0.78125,61.71875,0.0,keep give
+Motion Machine,Diesel,0.0,0.78125,61.71875,0.0,keep give
+Carl,Diesel,0.0,0.78125,61.71875,0.0,keep give
+Diesel,Carl,0.0,0.0,66.66666666666666,INF,look
+Carl,Diesel,0.0,0.0,37.5,INF,do say
+Monroe,Motion Machine,0.0,0.0,75.0,INF,be sit
+Diesel,Wulf,3.5000000000000004,2.0,46.5,1.75,think move
+Glo,Clara,0.5681818181818182,0.0,63.06818181818182,INF,walk set hang tote
+Wulf,Clara,0.0,0.0,25.0,INF,tell
+Wulf,Glo,2.5,2.5,35.0,1.0,be say
+Clara,Glo,1.25,1.25,52.5,1.0,be do bake start poke
+Glo,Clara,1.25,1.25,52.5,1.0,be do bake start poke
+Clara,Glo,3.3333333333333335,0.0,30.0,INF,help say escape
+Jeez Louise,Clara,0.0,0.0,20.0,INF,say
+Clara,John Knit,0.0,0.0,41.17647058823529,INF,say take
+Jeez Louise,Glo,0.0,0.0,46.666666666666664,INF,do think move say
+Glo,Clara,3.804347826086957,0.0,44.02173913043478,INF,get put roll
+Clara,Glo,1.1363636363636365,0.0,39.77272727272727,INF,walk lock drive
+Clara,Glo,1.1363636363636365,0.0,39.77272727272727,INF,walk lock drive
+Diesel,Clara,3.8461538461538463,0.0,57.692307692307686,INF,call tell have happen
+Clara,Glo,0.0,3.8461538461538463,50.0,0.0,look enter
+Wulf,Hatchet,0.0,0.0,75.0,INF,say have target do have recruit
+Diesel,Vernon,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,find walk
+Boston Common,Diesel,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,be look
+Morty,Diesel,0.0,0.0,22.22222222222222,INF,say
+Morty,Diesel,0.0,0.0,40.0,INF,say
+Diesel,Morty,0.0,1.9230769230769231,51.92307692307693,0.0,appear usher
+Diesel,Senate,0.0,0.7352941176470588,52.20588235294118,0.0,take lead
+Reedy,Shakespeare,0.0,0.0,50.0,INF,be
+Diesel,Lovey,0.0,0.0,58.82352941176471,INF,take place
+Diesel,Shakespeare,0.0,0.0,58.82352941176471,INF,take place
+Lovey,Shakespeare,0.0,0.0,58.82352941176471,INF,take place
+Morty,Diesel,0.5952380952380952,2.976190476190476,48.80952380952381,0.2,hand get drive
+Hatchet,Diesel,2.7777777777777777,3.4722222222222223,49.30555555555556,0.8,be start think be say
+Diesel,Bruno,0.0,0.0,70.0,INF,follow
+Glo,Deirdre Early,0.5208333333333333,3.6458333333333335,54.166666666666664,0.14285714285714285,be know be
+William M. Butterfield,Boston Society of Natural History,0.0,0.0,41.37931034482759,INF,belong
+Monroe,Lovey,1.8518518518518516,0.0,50.0,INF,have know be know
+Charles Duane,Van Gogh,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,be guess be
+Charles Duane,Boston Society of Natural History,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,be guess be
+Van Gogh,Boston Society of Natural History,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,be guess be
+Lovey,Boston Society of Natural History,3.787878787878788,0.3787878787878788,53.40909090909091,10.0,have energize trigger
+Diesel,Bruno,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,leave study have copy return
+Lovey,Glo,0.0,2.272727272727273,34.090909090909086,0.0,want say
+Wulf,Lizzy,0.0,0.0,50.0,INF,have
+Wulf,Hatchet,0.9615384615384616,0.9615384615384616,67.3076923076923,1.0,be use slow
+Wulf,Diesel,0.0,0.0,33.33333333333333,INF,say
+Hatchet,Diesel,6.61764705882353,1.4705882352941175,56.61764705882353,4.5,walk open be knock
+Hatchet,Wulf,2.6785714285714284,0.0,47.32142857142857,INF,step sense see
+Hatchet,Wulf,2.6785714285714284,0.0,47.32142857142857,INF,step sense see
+Wulf,Hatchet,0.0,0.0,50.0,INF,snap scurry return
+Wulf,Hatchet,0.0,0.0,50.0,INF,snap scurry return
+Wulf,Glo,0.0,0.0,50.0,INF,snap scurry return
+Wulf,Hatchet,0.0,0.0,50.0,INF,snap scurry return
+Wulf,Hatchet,0.0,0.0,50.0,INF,snap scurry return
+Wulf,Glo,0.0,0.0,50.0,INF,snap scurry return
+Hatchet,Glo,0.0,0.0,50.0,INF,snap scurry return
+Hatchet,Glo,0.0,0.0,50.0,INF,snap scurry return
+Hatchet,Wulf,1.5625,3.90625,50.78125,0.4,be get carry say
+Diesel,Wulf,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Diesel,Wulf,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Diesel,Hatchet,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Diesel,Glo,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Wulf,Hatchet,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Wulf,Glo,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Wulf,Hatchet,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Wulf,Glo,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Hatchet,Glo,0.8333333333333334,0.8333333333333334,38.333333333333336,1.0,give motion release
+Wulf,Diesel,3.571428571428571,0.0,32.142857142857146,INF,make say
+Lovey,Hatchet,0.4629629629629629,0.4629629629629629,65.74074074074075,1.0,be work direct ensure do succeed
+Hatchet,Lovey,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be show slice say
+Hatchet,Lovey,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be show slice say
+Hatchet,Wulf,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be show slice say
+Lovey,Wulf,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be show slice say
+Lovey,Wulf,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be show slice say
+Diesel,Carl,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,stop get put
+Diesel,Carl,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,stop get put
+Diesel,Glo,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,stop get put
+Carl,Glo,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,stop get put
+Carl,Glo,0.6578947368421052,2.631578947368421,38.81578947368421,0.25,stop get put
+Carl,Glo,0.0,0.0,40.0,INF,say
+Diesel,Glo,0.6578947368421052,0.0,57.23684210526315,INF,drive get be come
+Wulf,Luxuria Stone,10.227272727272728,2.272727272727273,32.95454545454545,4.5,do say
+Diesel,Glo,0.0,0.0,50.0,INF,ask
+Wulf,Hatchet,0.0,0.0,66.66666666666666,INF,ask make
+Wulf,Hatchet,3.4090909090909087,1.1363636363636365,68.18181818181817,3.0,tell clean bandage
+Diesel,Glo,3.125,1.0416666666666665,54.166666666666664,3.0,be come
+Hatchet,Glo,4.166666666666666,0.0,42.5,INF,know be be
+Wulf,Diesel,6.8181818181818175,1.1363636363636365,55.68181818181818,6.0,deserve say
+Glo,Carl,0.0,0.0,45.83333333333333,INF,send put
+Carl,Glo,0.0,0.0,45.83333333333333,INF,send put
+Glo,Carl,1.3888888888888888,0.0,43.05555555555556,INF,stay
+Wulf,Hatchet,0.0,3.571428571428571,53.57142857142857,0.0,
+Hatchet,Diesel,3.125,1.0416666666666665,54.166666666666664,3.0,look be say
+Wheelock,Lou,1.0869565217391304,4.3478260869565215,42.391304347826086,0.25,cross bypass think look settle
+Scott,Diesel,6.25,0.0,33.75,INF,find say
+Wulf,Hatchet,6.25,0.0,52.84090909090909,INF,have pass have attach
+Diesel,Wulf,1.7857142857142856,0.0,60.11904761904761,INF,be get get
+Diesel,Wulf,1.7857142857142856,0.0,60.11904761904761,INF,be get get
+Wulf,Diesel,1.7857142857142856,0.0,60.11904761904761,INF,be get get
+Diesel,Wulf,1.7857142857142856,0.0,60.11904761904761,INF,be get get
+Wulf,Hatchet,0.0,5.681818181818182,48.86363636363637,0.0,identify say
+Diesel,Hatchet,1.7045454545454544,1.1363636363636365,74.43181818181817,1.5,look show know be think be
+Diesel,Hatchet,1.7045454545454544,1.1363636363636365,74.43181818181817,1.5,look show know be think be
+Diesel,Hatchet,0.0,0.0,44.44444444444444,INF,say
+Hatchet,Diesel,0.0,0.0,50.0,INF,retreat lead
+Diesel,Hatchet,0.0,0.0,55.55555555555556,INF,yell come climb scramble
+Diesel,Hatchet,0.0,0.0,55.55555555555556,INF,yell come climb scramble
+Diesel,Hatchet,0.0,0.0,55.55555555555556,INF,yell come climb scramble
+Hatchet,Diesel,1.1363636363636365,0.0,62.5,INF,be bleed be smile
+Luxuria Stone,Diesel,5.555555555555555,0.0,38.88888888888889,INF,say
+Diesel,Hatchet,0.625,0.0,49.375,INF,grab turn shake drop
+Diesel,Hatchet,1.7857142857142856,0.0,69.64285714285714,INF,set
+Wulf,Hatchet,5.681818181818182,1.7045454545454544,60.79545454545454,3.3333333333333335,think be walk know have
+Wulf,Hatchet,5.681818181818182,1.7045454545454544,60.79545454545454,3.3333333333333335,think be walk know have
+Hatchet,Wulf,5.681818181818182,1.7045454545454544,60.79545454545454,3.3333333333333335,think be walk know have
+Wulf,Hatchet,5.681818181818182,1.7045454545454544,60.79545454545454,3.3333333333333335,think be walk know have
+Wulf,Diesel,0.0,0.0,50.0,INF,track say walk
+Diesel,Hatchet,0.8928571428571428,1.7857142857142856,61.60714285714286,0.5,walk look
+Diesel,Hatchet,2.0,1.0,56.99999999999999,2.0,pick run explode go
+Diesel,Wulf,2.0,1.0,56.99999999999999,2.0,pick run explode go
+Hatchet,Wulf,2.0,1.0,56.99999999999999,2.0,pick run explode go
+Diesel,Wulf,1.9230769230769231,3.8461538461538463,48.07692307692308,0.5,unlock flop lay stretch beat breathe
+Diesel,Wulf,1.9230769230769231,3.8461538461538463,48.07692307692308,0.5,unlock flop lay stretch beat breathe
+Diesel,Wulf,3.125,0.78125,52.34375,4.0,give move
+Diesel,Wulf,0.0,0.0,50.0,INF,ask
+Hatchet,Wulf,1.5625,0.0,42.1875,INF,say have obtain take
+Wulf,Hatchet,0.0,0.6944444444444444,43.75,0.0,give smack knock
+Hatchet,Wulf,0.0,0.6944444444444444,43.75,0.0,give smack knock
+Hatchet,Wulf,0.0,0.6944444444444444,43.75,0.0,give smack knock
+Hatchet,Wulf,0.0,0.6944444444444444,43.75,0.0,give smack knock
+Hatchet,Wulf,1.875,0.0,58.12500000000001,INF,remember pick turn
+Wulf,Luxuria Stone,7.236842105263158,1.3157894736842104,54.60526315789473,5.5,be think go discover have
+Wulf,Luxuria Stone,7.236842105263158,1.3157894736842104,54.60526315789473,5.5,be think go discover have
+Wulf,Luxuria Stone,7.236842105263158,1.3157894736842104,54.60526315789473,5.5,be think go discover have
+Wulf,Luxuria Stone,6.547619047619048,0.5952380952380952,40.476190476190474,11.0,be think be drop
+Wulf,Luxuria Stone,6.547619047619048,0.5952380952380952,40.476190476190474,11.0,be think be drop
+Luxuria Stone,Wulf,6.547619047619048,0.5952380952380952,40.476190476190474,11.0,be think be drop
+Carl,Diesel,9.090909090909092,1.1363636363636365,48.86363636363637,8.0,have be deserve say
+Carl,Diesel,0.0,0.0,44.44444444444444,INF,be say
+Diesel,Carl,0.0,0.0,50.0,INF,swing
+Diesel,Carl,0.0,0.0,50.0,INF,swing
+Diesel,Glo,0.0,0.0,50.0,INF,take go research
+Diesel,Deirdre Early,0.0,0.0,50.0,INF,take go research
+Glo,Deirdre Early,0.0,0.0,50.0,INF,take go research
+Deirdre Early,Wulf,1.9736842105263157,0.6578947368421052,50.0,3.0,think seem be
+Wulf,Deirdre Early,1.9736842105263157,0.6578947368421052,50.0,3.0,think seem be
+Glo,Clara,0.0,0.0,56.41025641025641,INF,be help be pull be
+Glo,Deirdre Early,0.0,0.0,56.41025641025641,INF,be help be pull be
+Clara,Deirdre Early,0.0,0.0,56.41025641025641,INF,be help be pull be
+Glo,Clara,0.0,0.0,40.0,INF,rush snap
+Mr. Nelson,Luxuria Stone,7.03125,0.0,61.71875,INF,say be know be
+Hatchet,Clara,3.90625,1.5625,38.28125,2.5,be say clench narrow
+Hatchet,Clara,3.90625,1.5625,38.28125,2.5,be say clench narrow
+Wulf,Clara,1.9230769230769231,0.4807692307692308,55.28846153846154,4.0,be throw get be
+Mr. Nelson,Clara,0.0,0.0,40.0,INF,be say
+Mr. Nelson,Clara,0.9615384615384616,0.9615384615384616,44.230769230769226,1.0,give have say
+Diesel,Mindy,0.0,1.25,68.75,0.0,amble suck
+Mindy,Diesel,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be say
+Mindy,Diesel,4.464285714285714,1.3392857142857142,44.19642857142857,3.3333333333333335,know try get say hand
+Mindy,Aston Martin,4.464285714285714,1.3392857142857142,44.19642857142857,3.3333333333333335,know try get say hand
+Diesel,Aston Martin,4.464285714285714,1.3392857142857142,44.19642857142857,3.3333333333333335,know try get say hand
+Mindy,Diesel,0.8620689655172413,6.0344827586206895,55.172413793103445,0.14285714285714285,flush see be be go do
+Diesel,Mindy,0.8620689655172413,6.0344827586206895,55.172413793103445,0.14285714285714285,flush see be be go do
+Mindy,Diesel,3.125,0.78125,52.34375,4.0,pull smile give
+Charles Duane,Motion Machine,0.0,0.0,58.620689655172406,INF,run come carry wrap
+Mindy,Motion Machine,0.0,0.0,43.75,INF,take take
+Mindy,Motion Machine,0.0,0.0,43.75,INF,take take
+Mindy,Diesel,0.0,0.0,57.14285714285714,INF,hand
+Diesel,Charles Duane,0.0,0.0,60.0,INF,shake
+Aston Martin,Diesel,0.0,2.5,52.5,0.0,be buckle be
+Aston Martin,Carl,0.0,2.5,52.5,0.0,be buckle be
+Diesel,Carl,0.0,2.5,52.5,0.0,be buckle be
+Diesel,Carl,2.941176470588235,0.0,50.0,INF,have fill have
+Carl,Diesel,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,go follow come close plunge
+Diesel,Carl,0.8928571428571428,0.8928571428571428,62.5,1.0,put watch fix
+Diesel,Carl,0.78125,0.0,49.21875,INF,put attach
+Diesel,Carl,0.78125,0.0,49.21875,INF,put attach
+Diesel,Carl,3.7735849056603774,3.30188679245283,49.528301886792455,1.1428571428571428,come look chip paint be make make
+Diesel,Carl,0.78125,3.125,39.84375,0.25,go peer
+Diesel,Carl,0.0,3.4722222222222223,52.083333333333336,0.0,bring say slip
+Diesel,Carl,9.375,0.0,32.29166666666667,INF,be say
+Carl,Diesel,0.0,2.083333333333333,47.91666666666667,0.0,give
+Diesel,Carl,0.8928571428571428,0.0,52.67857142857143,INF,tie pick bob
+Diesel,Carl,0.8928571428571428,0.0,52.67857142857143,INF,tie pick bob
+Diesel,Carl,0.8928571428571428,0.0,52.67857142857143,INF,tie pick bob
+Diesel,Carl,0.0,0.0,57.14285714285714,INF,hang
+Diesel,Carl,3.125,0.0,28.125,INF,remember be look call
+Carl,Diesel,0.0,0.0,45.45454545454545,INF,be say
+Diesel,Carl,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,lift swing
+Diesel,Carl,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,lift swing
+Carl,Diesel,0.0,0.0,50.0,INF,drop kick
+Diesel,Carl,2.2058823529411766,0.7352941176470588,44.11764705882353,3.0,go say send
+Diesel,Carl,0.0,0.0,77.77777777777779,INF,land
+Carl,Diesel,2.083333333333333,2.083333333333333,62.5,1.0,jump give
+Diesel,Carl,1.3888888888888888,0.0,54.166666666666664,INF,get look
+Pete,Diesel,4.807692307692308,0.0,25.961538461538463,INF,say
+Diesel,Carl,0.0,0.0,33.33333333333333,INF,say
+Diesel,Carl,3.6764705882352944,1.4705882352941175,53.67647058823529,2.5,get be worry
+Diesel,Carl,2.5,1.6666666666666667,69.16666666666667,1.5,be guide
+Diesel,Aston Martin,3.571428571428571,3.571428571428571,54.761904761904766,1.0,be worry say wrap hold close
+Aston Martin,Carl,5.729166666666666,0.0,56.770833333333336,INF,kiss be get climb sit
+Diesel,Carl,0.0,5.208333333333334,44.79166666666667,0.0,take remote
+Hatchet,Glo,0.0,0.0,33.33333333333333,INF,be say
+Clara,Hatchet,0.0,0.0,53.84615384615385,INF,go look
+Glo,Carl,3.90625,0.0,39.84375,INF,love sing
+Glo,Carl,3.90625,0.0,39.84375,INF,love sing
+Glo,Hatchet,0.0,0.0,46.15384615384615,INF,kiss miss sing
+Mrs. Kramer,Glo,0.0,0.0,40.0,INF,look
+Glo,Hatchet,0.0,0.0,54.54545454545454,INF,storm yell
+Glo,Hatchet,0.0,0.0,66.66666666666666,INF,open throw
+Glo,Carl,0.0,0.0,40.0,INF,shout
+Hatchet,Glo,3.260869565217391,0.5434782608695652,44.02173913043478,6.0,appreciate jump run say
+Hatchet,Diesel,0.0,4.166666666666666,55.833333333333336,0.0,be go drop
+Wulf,Glo,0.0,0.0,14.285714285714285,INF,say
+Wulf,Lizzy,0.0,4.166666666666666,29.166666666666668,0.0,want talk
+Glo,Clara,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be wait go
+Diesel,Wulf,0.7352941176470588,4.411764705882353,71.32352941176471,0.16666666666666666,text say be
+Glo,Clara,7.954545454545454,0.0,37.5,INF,promise take see find
+Glo,Clara,1.1363636363636365,0.5681818181818182,43.75,2.0,elbow get get
+Wulf,Glo,6.25,1.875,41.875,3.3333333333333335,be have say
+Glo,Clara,0.0,0.0,50.0,INF,chug
+Glo,Clara,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,be spy
+Glo,Clara,0.0,0.0,50.0,INF,pull
+Clara,Glo,0.0,0.0,54.166666666666664,INF,be know be leave
+Glo,Clara,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Glo,Nina,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Clara,Nina,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Hatchet,Wulf,0.8928571428571428,0.0,56.25,INF,get carry
+Glo,Clara,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be smudge
+Glo,Nina,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be smudge
+Clara,Nina,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be smudge
+Glo,Nina,3.571428571428571,4.464285714285714,34.82142857142857,0.8,be say
+Wulf,Nina,1.9736842105263157,3.618421052631579,49.67105263157895,0.5454545454545454,come have be leave sob brush wipe
+Wulf,Nina,1.9736842105263157,3.618421052631579,49.67105263157895,0.5454545454545454,come have be leave sob brush wipe
+Wulf,Nina,1.9736842105263157,3.618421052631579,49.67105263157895,0.5454545454545454,come have be leave sob brush wipe
+Wulf,Clara,4.6875,0.0,39.0625,INF,do know get say
+Diesel,Wulf,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be tell be follow
+Diesel,Wulf,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be tell be follow
+Wulf,Diesel,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be tell be follow
+Wulf,Diesel,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be tell be follow
+Reedy,Wulf,1.7857142857142856,2.380952380952381,38.69047619047619,0.75,kill throw discover have
+Reedy,Wulf,1.7857142857142856,2.380952380952381,38.69047619047619,0.75,kill throw discover have
+Glo,Clara,1.7045454545454544,0.5681818181818182,38.63636363636363,3.0,be be leave
+Glo,Nina,1.7045454545454544,0.5681818181818182,38.63636363636363,3.0,be be leave
+Clara,Nina,1.7045454545454544,0.5681818181818182,38.63636363636363,3.0,be be leave
+Diesel,Aston Martin,0.0,0.0,50.0,INF,make

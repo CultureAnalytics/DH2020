@@ -1,0 +1,1505 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Alan,Claire,0.0,0.0,50.0,INF,catch stop
+Claire,Alan,0.0,0.0,50.0,INF,catch stop
+Alan,Claire,0.0,10.9375,39.0625,0.0,pretend see
+Claire,Alan,0.6578947368421052,3.9473684210526314,53.289473684210535,0.16666666666666666,walk head pretend have see
+Alan,Claire,7.8125,0.0,54.6875,INF,have see
+Claire,Vincent,0.4807692307692308,1.9230769230769231,59.13461538461539,0.25,pass dress stand greet
+Claire,Conroys,1.1363636363636365,0.0,44.31818181818182,INF,be head
+Alan,Claire,3.125,2.6785714285714284,51.33928571428571,1.1666666666666667,be work carry do know
+Claire,Conroys,0.8333333333333334,5.555555555555555,44.72222222222222,0.15,see feel have take tumble be stumble
+Conroys,Claire,0.8333333333333334,5.555555555555555,44.72222222222222,0.15,see feel have take tumble be stumble
+Dave,Claire,0.0,0.0,60.0,INF,push hold pass
+Dave,Claire,0.0,0.0,60.0,INF,push hold pass
+Claire,Dave,1.1363636363636365,0.0,44.31818181818182,INF,smell
+Claire,Dave,2.7777777777777777,4.861111111111112,47.91666666666667,0.5714285714285714,be move
+Claire,Dave,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,smile be have notice
+Claire,Dave,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,smile be have notice
+Dave,Claire,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,smile be have notice
+Claire,Dave,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,smile be have notice
+Claire,Gareth,2.083333333333333,0.0,47.91666666666667,INF,smile
+Dermot,Claire,5.769230769230769,2.8846153846153846,60.57692307692307,2.0,glance give lift
+Dermot,Paul,0.0,0.0,54.166666666666664,INF,push be
+Dermot,Paul,0.0,0.0,54.166666666666664,INF,push be
+Dermot,Paul,0.0,0.0,54.166666666666664,INF,push be
+Dermot,Paul,0.0,0.0,54.166666666666664,INF,push be
+Conroy,Conroys,0.9615384615384616,0.0,49.03846153846153,INF,be have own
+Conroy,Conroys,0.9615384615384616,0.0,49.03846153846153,INF,be have own
+Gareth,Claire,4.605263157894736,0.0,48.026315789473685,INF,have have have have
+Claire,Tommy,1.3888888888888888,0.0,31.944444444444443,INF,think be
+Paul,Dermot,0.0,0.0,50.0,INF,be listen
+Dermot,Paul,1.171875,2.34375,62.109375,0.5,be talk glance shred peel drop
+Paul,Dermot,1.171875,2.34375,62.109375,0.5,be talk glance shred peel drop
+Paul,Dermot,1.171875,2.34375,62.109375,0.5,be talk glance shred peel drop
+Paul,Claire,1.0416666666666665,1.0416666666666665,56.25,1.0,talk leave fidget
+Paul,Claire,1.3888888888888888,1.3888888888888888,41.66666666666667,1.0,make talk think
+Claire,Paul,4.166666666666666,6.944444444444445,44.44444444444444,0.6,think bother
+Alan,Claire,3.90625,0.390625,58.203125,10.0,have gaze look do know glaze drip
+Alan,Claire,3.90625,0.390625,58.203125,10.0,have gaze look do know glaze drip
+Paul,Alan,1.5625,2.34375,58.59375,0.6666666666666666,be wear be have say
+Claire,Alan,1.25,2.5,51.24999999999999,0.5,have imagine
+Alan,Claire,3.6764705882352944,3.6764705882352944,39.705882352941174,1.0,have set have follow
+Alan,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Paul,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Grainne,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Alan,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Claire,Paul,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Claire,Grainne,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Paul,Grainne,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Paul,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Paul,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Paul,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Paul,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Grainne,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Grainne,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Grainne,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Grainne,Claire,0.9803921568627451,2.2058823529411766,47.794117647058826,0.4444444444444444,clamp face roll pull round round twist
+Claire,Alan,0.0,0.0,50.0,INF,tense feel prepare speak
+Claire,Alan,0.0,0.0,50.0,INF,tense feel prepare speak
+Claire,Alan,0.0,0.0,50.0,INF,tense feel prepare speak
+Claire,Alan,0.0,0.0,50.0,INF,tense feel prepare speak
+Alan,Claire,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be tell know
+Alan,Claire,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be tell know
+Claire,Paul,5.092592592592593,3.7037037037037033,43.05555555555556,1.375,be talk want lean tell be
+Claire,Paul,5.092592592592593,3.7037037037037033,43.05555555555556,1.375,be talk want lean tell be
+Claire,Paul,12.5,7.142857142857142,37.5,1.75,think understand
+Claire,Paul,0.0,0.0,59.25925925925925,INF,meet make
+Claire,Paul,0.0,0.0,59.25925925925925,INF,meet make
+Paul,Grainne,0.0,0.6944444444444444,49.30555555555556,0.0,
+Paul,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,
+Grainne,Paul,0.0,0.6944444444444444,49.30555555555556,0.0,
+Grainne,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,
+Paul,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,
+Claire,Grainne,1.3888888888888888,3.4722222222222223,39.58333333333333,0.4,slip listen have try ignore
+Grainne,Claire,1.3888888888888888,3.4722222222222223,39.58333333333333,0.4,slip listen have try ignore
+Paul,Claire,0.0,0.0,55.55555555555556,INF,look see smile
+Paul,Claire,1.7857142857142856,0.0,69.64285714285714,INF,be look
+Claire,Paul,3.125,0.0,34.375,INF,feel look
+Paul,Claire,3.125,0.0,34.375,INF,feel look
+Claire,Paul,0.0,0.0,58.333333333333336,INF,be smudge see
+Paul,Claire,0.0,0.0,58.333333333333336,INF,be smudge see
+Dermot,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Dermot,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Dermot,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Dermot,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Dermot,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Dermot,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Claire,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Claire,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Claire,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Claire,Gareth,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Gareth,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Gareth,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Gareth,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Gareth,Claire,0.20161290322580644,2.217741935483871,42.74193548387097,0.09090909090909091,be bother say tell get see tell be feel fall lumber blush
+Claire,Paul,0.0,2.7777777777777777,41.66666666666667,0.0,pause glance embarrass
+Claire,Paul,0.0,0.0,40.0,INF,smile
+Tommy,Joyce,1.1111111111111112,4.444444444444445,50.0,0.25,stare chatter blether talk strain
+Tommy,Claire,1.1111111111111112,4.444444444444445,50.0,0.25,stare chatter blether talk strain
+Joyce,Claire,1.1111111111111112,4.444444444444445,50.0,0.25,stare chatter blether talk strain
+Claire,Gareth,1.6891891891891893,1.3513513513513513,59.12162162162162,1.25,lean hold stare stand angle watch fill
+Claire,Gareth,1.4705882352941175,1.4705882352941175,32.35294117647059,1.0,excuse call see turn
+Gareth,Claire,2.631578947368421,0.0,65.78947368421053,INF,look lean
+Gareth,Claire,1.1363636363636365,0.0,62.5,INF,pass
+Dermot,Paul,6.730769230769231,0.0,47.11538461538461,INF,be
+Claire,Paul,0.0,0.0,40.0,INF,hand touch
+Paul,Claire,0.0,0.0,53.333333333333336,INF,take fold hold
+Claire,Paul,0.0,0.0,53.333333333333336,INF,take fold hold
+Claire,Paul,0.0,0.0,25.0,INF,go say
+Claire,Gareth,0.0,0.0,25.0,INF,go say
+Paul,Gareth,0.0,0.0,25.0,INF,go say
+Claire,Paul,0.0,0.0,50.0,INF,sit
+Claire,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Conroys,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Paul,Conroys,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Paul,Conroys,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Paul,Conroys,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Conroys,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Conroys,Paul,2.0,0.5,49.5,4.0,have follow stretch fall want ease step curl
+Claire,Paul,3.125,4.6875,54.6875,0.6666666666666666,make see
+Paul,Claire,0.0,0.0,42.857142857142854,INF,remind
+Paul,Claire,0.0,0.0,42.857142857142854,INF,remind
+Claire,Paul,0.78125,0.78125,48.4375,1.0,wait watch fumble
+Claire,Paul,0.78125,0.78125,48.4375,1.0,wait watch fumble
+Claire,Paul,0.0,0.0,37.5,INF,follow
+Grainne,Claire,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Grainne,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Grainne,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Grainne,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Claire,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Claire,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Claire,Paul,1.0869565217391304,0.0,51.08695652173913,INF,think wake shower dry
+Claire,Paul,6.521739130434782,0.0,32.608695652173914,INF,know do say find plaster
+Paul,Claire,2.083333333333333,0.0,47.91666666666667,INF,smile
+Claire,Paul,0.0,0.0,37.5,INF,turn fetch
+Claire,Paul,3.125,0.0,59.375,INF,look look
+Claire,Paul,2.7777777777777777,0.9259259259259258,51.85185185185185,3.0,smell see
+Claire,Paul,2.7777777777777777,0.9259259259259258,51.85185185185185,3.0,smell see
+Claire,Paul,2.7777777777777777,0.9259259259259258,51.85185185185185,3.0,smell see
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Paul,Claire,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Paul,Claire,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Paul,Claire,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,3.125,0.625,41.25,5.0,want reach turn taste be taste
+Claire,Paul,2.7777777777777777,0.0,41.66666666666667,INF,dab
+Paul,Claire,1.7857142857142856,0.0,69.64285714285714,INF,look
+Paul,Claire,9.722222222222223,0.0,56.94444444444444,INF,reach take
+Paul,Claire,4.411764705882353,3.6764705882352944,44.85294117647059,1.2,be make notice be
+Paul,Claire,4.411764705882353,3.6764705882352944,44.85294117647059,1.2,be make notice be
+Paul,Claire,7.142857142857142,0.0,64.28571428571429,INF,turn
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Paul,Claire,3.90625,0.390625,48.828125,10.0,reach put have touch press
+Alan,Paul,9.615384615384617,1.9230769230769231,42.30769230769231,5.0,have turn
+Alan,Claire,2.1739130434782608,0.0,58.69565217391305,INF,be notice seem
+Alan,Claire,6.730769230769231,0.0,54.807692307692314,INF,feel perceive have call
+Alan,Claire,6.730769230769231,0.0,54.807692307692314,INF,feel perceive have call
+Claire,Alan,6.730769230769231,0.0,54.807692307692314,INF,feel perceive have call
+Alan,Claire,6.730769230769231,0.0,54.807692307692314,INF,feel perceive have call
+Alan,Oxford,2.34375,0.78125,62.5,3.0,arrive follow be lose
+Oxford,Alan,2.34375,0.78125,62.5,3.0,arrive follow be lose
+Mrs. Blundell,Alan,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,teach have give try
+Alan,Mrs. Blundell,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,teach have give try
+Alan,Mrs. Blundell,2.083333333333333,0.0,53.47222222222222,INF,notice
+Alan,Mrs. Blundell,2.5,4.0,49.5,0.625,watch expect see straighten right settle
+Alan,Mrs. Blundell,2.5,4.0,49.5,0.625,watch expect see straighten right settle
+Alan,Mrs. Blundell,2.5,4.0,49.5,0.625,watch expect see straighten right settle
+Alan,Mrs. Blundell,0.0,3.9473684210526314,59.210526315789465,0.0,find smoke
+Alan,Mrs. Blundell,0.7575757575757576,0.0,56.81818181818182,INF,hear funnel light leave
+Alan,Mrs. Blundell,0.7575757575757576,0.0,56.81818181818182,INF,hear funnel light leave
+Alan,Mrs. Blundell,0.7575757575757576,0.0,56.81818181818182,INF,hear funnel light leave
+Brown,Alan,5.555555555555555,6.944444444444445,43.05555555555556,0.8,look
+Alan,Oxford,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,have have come
+Alan,Oxford,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,have have come
+Alan,Mrs. Hall,2.0348837209302326,2.9069767441860463,57.84883720930233,0.7,shark have settle
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Mrs. Peters,0.0,0.0,53.84615384615385,INF,glance see sit fold
+Alan,Oxford,2.989130434782609,2.4456521739130435,61.95652173913043,1.2222222222222223,have come have meet look be speak do stare glaze wander talk
+Oxford,Alan,2.989130434782609,2.4456521739130435,61.95652173913043,1.2222222222222223,have come have meet look be speak do stare glaze wander talk
+Oxford,Alan,2.989130434782609,2.4456521739130435,61.95652173913043,1.2222222222222223,have come have meet look be speak do stare glaze wander talk
+Oxford,Alan,2.989130434782609,2.4456521739130435,61.95652173913043,1.2222222222222223,have come have meet look be speak do stare glaze wander talk
+Oxford,Alan,2.989130434782609,2.4456521739130435,61.95652173913043,1.2222222222222223,have come have meet look be speak do stare glaze wander talk
+Mrs. Hall,Jennifer,0.0,0.0,33.33333333333333,INF,draw
+Jennifer,Mrs. Hall,0.0,0.0,33.33333333333333,INF,draw
+Emma,Claire,1.4705882352941175,0.0,39.705882352941174,INF,drop drop
+Emma,Claire,1.4705882352941175,0.0,39.705882352941174,INF,drop drop
+Emma,Claire,0.0,0.0,40.74074074074074,INF,cross see
+Mrs. Hall,Emma,0.0,0.0,50.0,INF,smell go
+Claire,Emma,0.8928571428571428,0.0,49.107142857142854,INF,round hear ripple
+Emma,Claire,1.3513513513513513,3.040540540540541,44.25675675675676,0.4444444444444444,rise be drop swell hear be
+Claire,Emma,1.3513513513513513,3.040540540540541,44.25675675675676,0.4444444444444444,rise be drop swell hear be
+Claire,Emma,1.3513513513513513,3.040540540540541,44.25675675675676,0.4444444444444444,rise be drop swell hear be
+Claire,Alan,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,watch lean swirl
+Claire,Alan,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,watch lean swirl
+Claire,Alan,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,watch lean swirl
+Alan,Claire,0.4629629629629629,0.0,55.092592592592595,INF,gesture rise pad step look
+Alan,Claire,0.0,0.0,53.333333333333336,INF,reach slosh
+Claire,Alan,0.0,0.0,40.0,INF,smile
+Alan,Claire,0.0,0.0,60.0,INF,glance look laugh
+Alan,Claire,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Alan,Claire,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Claire,Alan,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Claire,Alan,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Alan,Claire,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Alan,Claire,1.9886363636363635,4.261363636363636,41.47727272727273,0.4666666666666667,realise be be see be choke
+Claire,Yale,0.5952380952380952,0.0,56.547619047619044,INF,pull hear click
+Claire,Yale,0.5952380952380952,0.0,56.547619047619044,INF,pull hear click
+Claire,Grainne,0.0,0.0,41.66666666666667,INF,have go
+Claire,Grainne,3.289473684210526,1.3157894736842104,37.5,2.5,want get have go
+Grainne,Claire,3.289473684210526,1.3157894736842104,37.5,2.5,want get have go
+Claire,Paul,0.6097560975609756,1.2195121951219512,46.95121951219512,0.5,climb step curl pull sink
+Claire,Paul,0.6097560975609756,1.2195121951219512,46.95121951219512,0.5,climb step curl pull sink
+Paul,Claire,0.6097560975609756,1.2195121951219512,46.95121951219512,0.5,climb step curl pull sink
+Claire,Paul,0.0,0.0,47.368421052631575,INF,lie belong
+Claire,Paul,0.0,2.083333333333333,47.91666666666667,0.0,see be
+Claire,Conroys,0.0,0.0,28.57142857142857,INF,go
+Gareth,Dermot,0.0,0.8333333333333334,52.5,0.0,be be cradle
+Claire,Conroys,0.0,0.0,14.285714285714285,INF,go
+Claire,Grainne,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,get take bathe go
+Grainne,Claire,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,get take bathe go
+Grainne,Claire,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,get take bathe go
+Grainne,Claire,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,get take bathe go
+Claire,Grainne,2.631578947368421,0.0,28.947368421052634,INF,have listen have say have smile
+Grainne,Claire,2.631578947368421,0.0,28.947368421052634,INF,have listen have say have smile
+Paul,Claire,0.625,3.75,50.625,0.16666666666666666,break connect lift
+Grainne,Paul,0.43103448275862066,0.0,51.293103448275865,INF,buckle twist slip displace
+Grainne,Claire,0.43103448275862066,0.0,51.293103448275865,INF,buckle twist slip displace
+Grainne,Claire,0.43103448275862066,0.0,51.293103448275865,INF,buckle twist slip displace
+Paul,Claire,0.43103448275862066,0.0,51.293103448275865,INF,buckle twist slip displace
+Paul,Claire,0.43103448275862066,0.0,51.293103448275865,INF,buckle twist slip displace
+Grainne,Paul,0.0,0.0,52.94117647058824,INF,round press
+Grainne,Paul,0.0,0.0,52.94117647058824,INF,round press
+Grainne,Paul,0.0,0.0,52.94117647058824,INF,round press
+Grainne,Claire,0.0,0.0,52.94117647058824,INF,round press
+Paul,Claire,0.0,0.0,52.94117647058824,INF,round press
+Paul,Claire,0.0,0.0,52.94117647058824,INF,round press
+Paul,Claire,0.0,0.0,52.94117647058824,INF,round press
+Paul,Claire,0.0,0.0,50.0,INF,haunt taste
+Paul,Claire,0.0,0.0,50.0,INF,haunt taste
+Claire,Paul,0.0,0.0,50.0,INF,haunt taste
+Claire,Paul,0.0,0.0,50.0,INF,haunt taste
+Claire,Grainne,1.1363636363636365,2.272727272727273,46.590909090909086,0.5,leave be
+Claire,Grainne,0.0,0.6944444444444444,60.416666666666664,0.0,smile
+Grainne,Claire,0.0,0.6944444444444444,60.416666666666664,0.0,smile
+Grainne,Claire,6.25,5.46875,44.53125,1.1428571428571428,have ask have be explain be laugh
+Grainne,Claire,6.25,5.46875,44.53125,1.1428571428571428,have ask have be explain be laugh
+Claire,Grainne,0.0,0.0,56.52173913043478,INF,see unlock swing come do unbutton
+Grainne,Claire,0.0,0.0,56.52173913043478,INF,see unlock swing come do unbutton
+Grainne,Claire,0.0,0.0,56.52173913043478,INF,see unlock swing come do unbutton
+Claire,Grainne,1.1904761904761905,1.1904761904761905,38.095238095238095,1.0,do take think hear
+Claire,Grainne,1.1904761904761905,1.1904761904761905,38.095238095238095,1.0,do take think hear
+Claire,Grainne,1.1904761904761905,1.1904761904761905,38.095238095238095,1.0,do take think hear
+Grainne,Claire,0.0,2.7777777777777777,19.444444444444446,0.0,listen mutter
+Alan,Grainne,6.25,3.4722222222222223,18.055555555555554,1.8,be know
+Claire,Grainne,0.0,0.0,41.66666666666667,INF,hear start
+Claire,Jim,0.0,0.0,57.89473684210527,INF,squint seem try work be say
+Claire,Jim,0.0,0.0,57.89473684210527,INF,squint seem try work be say
+Claire,Jim,0.0,0.0,33.33333333333333,INF,reach
+Claire,Jim,5.769230769230769,0.0,55.769230769230774,INF,touch be
+Grainne,Claire,6.944444444444445,1.3888888888888888,36.11111111111111,5.0,have think be
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Jim,Claire,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Jim,3.125,1.5625,57.8125,2.0,watch be be be watch move talk be be be go
+Claire,Paul,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Claire,Paul,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Claire,Paul,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Claire,Paul,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Paul,Claire,1.9927536231884055,1.4492753623188406,44.38405797101449,1.375,turn be sit press have say sound have smile be
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Paul,Claire,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,2.0408163265306123,0.6377551020408163,49.36224489795919,3.2,have touch look try hear be say be talk have hear talk hear feel feel make want smack shout hear be say stop
+Claire,Paul,0.0,0.0,20.0,INF,kiss
+Claire,Paul,0.0,1.6666666666666667,38.333333333333336,0.0,kiss ask stay say
+Claire,Paul,0.0,1.6666666666666667,38.333333333333336,0.0,kiss ask stay say
+Claire,Paul,0.0,1.6666666666666667,38.333333333333336,0.0,kiss ask stay say
+Grainne,Paul,3.125,0.0,53.125,INF,have slide lean
+Gareth,Alan,4.166666666666666,0.0,50.0,INF,be lean give grin
+Gareth,Alan,4.166666666666666,0.0,50.0,INF,be lean give grin
+Gareth,Alan,4.166666666666666,0.0,50.0,INF,be lean give grin
+Grainne,Claire,4.464285714285714,3.571428571428571,34.82142857142857,1.25,
+Claire,Gareth,0.0,1.0416666666666665,57.291666666666664,0.0,smile peer jostle
+Claire,Alan,0.0,0.0,34.78260869565217,INF,recline haunt
+Claire,Alan,0.0,0.0,34.78260869565217,INF,recline haunt
+Alan,Mrs. Hall,3.125,7.8125,57.8125,0.4,realise need visit
+Alan,Mrs. Hall,3.125,7.8125,57.8125,0.4,realise need visit
+Alan,Paul,0.0,0.0,83.33333333333334,INF,wait tell
+Alan,Heidegger,3.571428571428571,0.0,53.57142857142857,INF,have put
+Alan,Heidegger,3.571428571428571,0.0,53.57142857142857,INF,have put
+Alan,Claire,5.555555555555555,2.083333333333333,36.80555555555556,2.6666666666666665,become mount
+Alan,Claire,5.555555555555555,2.083333333333333,36.80555555555556,2.6666666666666665,become mount
+Alan,Claire,2.5,0.0,57.49999999999999,INF,turn flatten be haunt
+Alan,Claire,0.0,0.0,50.0,INF,call decide ask come
+Alan,Claire,0.0,0.0,50.0,INF,call decide ask come
+Claire,Alan,0.0,0.0,50.0,INF,call decide ask come
+Alan,Claire,0.0,0.0,50.0,INF,call decide ask come
+Claire,Alan,3.4090909090909087,4.545454545454546,37.5,0.75,suspect think resolve
+Alan,Claire,0.0,1.9230769230769231,71.15384615384616,0.0,work sit scratch
+Alan,Claire,0.0,1.9230769230769231,71.15384615384616,0.0,work sit scratch
+Claire,Alan,0.0,1.9230769230769231,71.15384615384616,0.0,work sit scratch
+Alan,Claire,0.0,0.0,54.54545454545454,INF,notice
+Claire,Alan,0.0,1.7857142857142856,69.64285714285714,0.0,leave sleep chew
+Alan,Claire,0.0,1.7857142857142856,69.64285714285714,0.0,leave sleep chew
+Claire,Alan,1.7857142857142856,1.1904761904761905,35.11904761904761,1.5,be tell question
+Claire,Alan,1.7857142857142856,1.1904761904761905,35.11904761904761,1.5,be tell question
+Alan,Claire,1.7857142857142856,1.1904761904761905,35.11904761904761,1.5,be tell question
+Alan,Claire,1.7857142857142856,1.1904761904761905,35.11904761904761,1.5,be tell question
+Claire,Alan,0.0,4.605263157894736,26.973684210526315,0.0,tell mean tell be
+Claire,Alan,0.0,4.605263157894736,26.973684210526315,0.0,tell mean tell be
+Claire,Alan,0.0,4.605263157894736,26.973684210526315,0.0,tell mean tell be
+Claire,Alan,0.0,0.0,36.36363636363637,INF,follow
+Claire,Alan,3.289473684210526,5.921052631578947,32.89473684210527,0.5555555555555556,want say flinch
+Alan,Claire,3.75,3.75,42.5,1.0,shrug understand begin tell be
+Claire,Oxford,1.1363636363636365,0.0,53.40909090909091,INF,stay get
+Oxford,Claire,1.1363636363636365,0.0,53.40909090909091,INF,stay get
+Oxford,Claire,1.1363636363636365,0.0,53.40909090909091,INF,stay get
+Claire,Alan,0.0,0.0,14.285714285714285,INF,stay
+Claire,Alan,0.0,0.0,38.46153846153847,INF,find be stay say throw send
+Claire,Alan,0.0,0.0,38.46153846153847,INF,find be stay say throw send
+Alan,Claire,0.0,0.0,38.46153846153847,INF,find be stay say throw send
+Claire,Alan,0.0,0.0,38.46153846153847,INF,find be stay say throw send
+Alan,Claire,5.978260869565218,2.1739130434782608,44.02173913043478,2.75,have be have be be
+Claire,Alan,3.6764705882352944,0.0,55.14705882352941,INF,leave be switch
+Claire,Alan,0.9615384615384616,0.0,68.26923076923077,INF,come be stare
+Alan,Claire,0.0,0.0,56.25,INF,come wake move open shut clean hawk
+Claire,Alan,0.0,0.0,56.25,INF,come wake move open shut clean hawk
+Claire,Alan,0.0,0.0,56.25,INF,come wake move open shut clean hawk
+Claire,Alan,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,buy walk pound
+Claire,Alan,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,buy walk pound
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Claire,Alan,2.083333333333333,0.0,37.916666666666664,INF,sling kiss say see turn
+Alan,Claire,2.5,0.0,64.16666666666667,INF,hear shut
+Claire,Alan,1.9736842105263157,3.289473684210526,36.84210526315789,0.6,abandon need
+Claire,Alan,1.9736842105263157,3.289473684210526,36.84210526315789,0.6,abandon need
+Alan,Claire,1.9736842105263157,3.289473684210526,36.84210526315789,0.6,abandon need
+Alan,Claire,1.9736842105263157,3.289473684210526,36.84210526315789,0.6,abandon need
+Claire,Alan,3.0172413793103448,3.0172413793103448,45.689655172413794,1.0,behave make see
+Claire,Alan,3.0172413793103448,3.0172413793103448,45.689655172413794,1.0,behave make see
+Claire,Alan,3.0172413793103448,3.0172413793103448,45.689655172413794,1.0,behave make see
+Claire,Jennifer,2.0,1.0,53.0,2.0,swing have see shift
+Jennifer,Claire,2.0,1.0,53.0,2.0,swing have see shift
+Claire,Jen,0.8064516129032258,1.2096774193548387,36.693548387096776,0.6666666666666666,be distract ask have reply be handle
+Claire,Jen,0.8064516129032258,1.2096774193548387,36.693548387096776,0.6666666666666666,be distract ask have reply be handle
+Claire,Jen,0.8064516129032258,1.2096774193548387,36.693548387096776,0.6666666666666666,be distract ask have reply be handle
+Jen,Alan,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,ask spoof
+Jen,Oxford,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,ask spoof
+Alan,Oxford,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,ask spoof
+Claire,Jen,0.0,0.0,45.45454545454545,INF,tread hear
+Claire,Jen,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,peer see pull
+Claire,Jen,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,peer see pull
+Claire,Jen,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,peer see pull
+Claire,Jen,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,peer see pull
+Claire,Jennifer,0.0,0.0,58.82352941176471,INF,feel move roll swim
+Claire,Jen,2.1551724137931036,0.0,49.56896551724138,INF,look crouch jen
+Claire,Jen,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,pick be
+Claire,Jennifer,0.0,0.0,52.63157894736842,INF,cross slip
+Claire,Jen,0.4807692307692308,3.3653846153846154,50.0,0.14285714285714285,watch deafen tug spin
+Claire,Jen,0.4807692307692308,3.3653846153846154,50.0,0.14285714285714285,watch deafen tug spin
+Claire,Jennifer,3.125,4.166666666666666,26.041666666666668,0.75,feel
+Claire,Jennifer,3.125,4.166666666666666,26.041666666666668,0.75,feel
+Mrs. Rothwell,Claire,2.6785714285714284,2.0089285714285716,47.098214285714285,1.3333333333333333,holler shift see stain mush break wonder disappear consider hide
+Tom,Nick,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,be sit
+Jennifer,Claire,0.8928571428571428,0.0,34.82142857142857,INF,hitch climb
+Jennifer,Tom,0.0,1.25,38.75,0.0,smile
+Tom,Jennifer,4.166666666666666,0.0,62.5,INF,continue grin
+Jennifer,Mrs. Hall,0.0,0.8333333333333334,59.166666666666664,0.0,smile grunt turn
+Jennifer,Mrs. Hall,0.0,0.8333333333333334,59.166666666666664,0.0,smile grunt turn
+Tom,Jennifer,1.9230769230769231,4.807692307692308,47.11538461538461,0.4,laugh shake smile
+Tom,Jennifer,1.9230769230769231,4.807692307692308,47.11538461538461,0.4,laugh shake smile
+Jennifer,Claire,0.9615384615384616,2.8846153846153846,34.61538461538461,0.3333333333333333,pay follow
+Jennifer,Claire,0.9615384615384616,2.8846153846153846,34.61538461538461,0.3333333333333333,pay follow
+Mrs. Hall,Tom,1.0416666666666665,0.0,73.95833333333334,INF,crumble glow be roast
+Jennifer,Claire,2.083333333333333,2.083333333333333,45.83333333333333,1.0,give
+Jen,Claire,6.25,0.8928571428571428,25.0,7.0,think give let know be do
+Jen,Claire,6.25,0.8928571428571428,25.0,7.0,think give let know be do
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Jennifer,Tom,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Tom,Jennifer,1.1627906976744187,1.1627906976744187,55.81395348837209,1.0,place lean look tap
+Claire,Tom,0.0,0.0,57.14285714285714,INF,look
+Claire,Jen,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Jen,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Jen,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Jen,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Tom,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Tom,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Tom,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Tom,Claire,4.6568627450980395,0.49019607843137253,45.83333333333333,9.5,close see gesture speak wave roll catch be tear
+Claire,Jennifer,3.4090909090909087,0.0,46.590909090909086,INF,listen hear have catch
+Jennifer,Claire,3.4090909090909087,0.0,46.590909090909086,INF,listen hear have catch
+Alan,Claire,0.0,0.0,30.0,INF,do ask come
+Claire,Alan,0.0,0.0,30.0,INF,do ask come
+Alan,Claire,5.0,1.6666666666666667,60.0,3.0,do tell have be call
+Claire,Alan,5.0,1.6666666666666667,60.0,3.0,do tell have be call
+Alan,Claire,13.461538461538462,5.769230769230769,34.61538461538461,2.3333333333333335,do think deserve know
+Oxford,Alan,4.326923076923077,1.4423076923076923,48.07692307692308,3.0,be have organise
+Claire,Alan,8.928571428571429,0.0,48.214285714285715,INF,be prey
+Alan,Claire,0.9615384615384616,0.0,45.19230769230769,INF,think find grit
+Claire,Alan,0.9615384615384616,0.0,45.19230769230769,INF,think find grit
+Claire,Alan,0.9615384615384616,0.0,45.19230769230769,INF,think find grit
+Alan,Claire,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Alan,Claire,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Claire,Alan,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Claire,Alan,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Alan,Claire,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Claire,Alan,7.386363636363637,0.5681818181818182,42.04545454545455,13.0,have be think be
+Alan,Claire,0.0,0.0,60.0,INF,be go have put
+Claire,Alan,1.25,0.0,38.75,INF,go neglect
+Alan,Oxford,2.083333333333333,0.0,64.58333333333334,INF,have get
+Alan,Claire,0.0,0.0,44.44444444444444,INF,deal
+Jen,Tom,3.75,1.25,55.00000000000001,3.0,get bore
+Jen,Tom,10.576923076923077,5.769230769230769,37.5,1.8333333333333333,be
+Claire,Grainne,2.083333333333333,0.0,56.25,INF,have pack
+Dad,Claire,1.953125,0.390625,47.65625,5.0,blink be go have scoop meet hold
+Dad,Claire,1.953125,0.390625,47.65625,5.0,blink be go have scoop meet hold
+Dad,Claire,1.953125,0.390625,47.65625,5.0,blink be go have scoop meet hold
+Alan,Dad,8.088235294117647,0.7352941176470588,50.0,11.0,have be seem have like
+Alan,Dad,8.088235294117647,0.7352941176470588,50.0,11.0,have be seem have like
+Dad,Alan,8.088235294117647,0.7352941176470588,50.0,11.0,have be seem have like
+Dad,Alan,8.088235294117647,0.7352941176470588,50.0,11.0,have be seem have like
+Dad,Alan,0.0,0.0,66.66666666666666,INF,do realise be come
+Claire,Alan,7.6923076923076925,2.8846153846153846,27.884615384615387,2.6666666666666665,wonder bother know
+Alan,Claire,7.6923076923076925,2.8846153846153846,27.884615384615387,2.6666666666666665,wonder bother know
+Claire,Alan,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Claire,Alan,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Alan,Claire,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Alan,Claire,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Alan,Claire,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Claire,Alan,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Claire,Alan,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Claire,Alan,0.35714285714285715,2.857142857142857,42.5,0.125,pick try be see flinch
+Claire,Alan,0.0,0.6944444444444444,65.97222222222221,0.0,peel keep
+Claire,Alan,0.0,0.6944444444444444,65.97222222222221,0.0,peel keep
+Alan,Claire,0.0,0.0,40.0,INF,lower
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Claire,Alan,0.390625,3.515625,46.09375,0.1111111111111111,see hear nod flicker
+Ray,Fran,3.977272727272727,0.0,59.65909090909091,INF,have come yellow
+Ben,Sam,2.9605263157894735,2.9605263157894735,46.71052631578947,1.0,be bring like be march
+Ben,Claire,2.9605263157894735,2.9605263157894735,46.71052631578947,1.0,be bring like be march
+Ben,Claire,2.9605263157894735,2.9605263157894735,46.71052631578947,1.0,be bring like be march
+Sam,Claire,2.9605263157894735,2.9605263157894735,46.71052631578947,1.0,be bring like be march
+Sam,Claire,2.9605263157894735,2.9605263157894735,46.71052631578947,1.0,be bring like be march
+Oxford,Alan,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Oxford,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Oxford,Alan,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Oxford,Alan,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Oxford,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Oxford,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Claire,Alan,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Claire,Alan,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Alan,Claire,1.2195121951219512,1.8292682926829267,50.609756097560975,0.6666666666666666,lay spangle tell make
+Claire,Mrs. Hall,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,follow see harbour
+Frank,Claire,6.25,0.0,63.74999999999999,INF,be
+Frank,Claire,10.0,0.0,50.0,INF,have make
+Frank,Claire,4.807692307692308,2.8846153846153846,53.84615384615385,1.6666666666666667,be court have
+Margaret,Frank,0.9615384615384616,0.4807692307692308,56.25,2.0,be grow return work
+Margaret,Frank,0.9615384615384616,0.4807692307692308,56.25,2.0,be grow return work
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Claire,Margaret,5.147058823529411,0.7352941176470588,32.35294117647059,7.0,want find keep listen find be want ask
+Brown,Claire,0.0,2.5,57.49999999999999,0.0,fall slop
+Claire,Jennifer,0.625,3.125,46.25,0.2,trickle see imagine stride
+Claire,Jennifer,0.625,3.125,46.25,0.2,trickle see imagine stride
+Claire,Jennifer,0.625,3.125,46.25,0.2,trickle see imagine stride
+Claire,Jennifer,0.625,3.125,46.25,0.2,trickle see imagine stride
+Claire,Joseph,2.6785714285714284,0.8928571428571428,50.0,3.0,know remember know have come
+Claire,Joseph,2.6785714285714284,0.8928571428571428,50.0,3.0,know remember know have come
+Claire,Joseph,2.6785714285714284,0.8928571428571428,50.0,3.0,know remember know have come
+Moss,Anne,1.0416666666666665,0.4166666666666667,53.541666666666664,2.5,pack buy drive
+Moss,Anne,1.0416666666666665,0.4166666666666667,53.541666666666664,2.5,pack buy drive
+Anne,Moss,1.0416666666666665,0.4166666666666667,53.541666666666664,2.5,pack buy drive
+Moss,Claire,3.8461538461538463,1.4423076923076923,56.25,2.6666666666666665,know have be have leave
+Moss,Claire,3.8461538461538463,1.4423076923076923,56.25,2.6666666666666665,know have be have leave
+Claire,Moss,3.8461538461538463,1.4423076923076923,56.25,2.6666666666666665,know have be have leave
+Moss,Claire,3.8461538461538463,1.4423076923076923,56.25,2.6666666666666665,know have be have leave
+Anne,Claire,5.188679245283019,0.2358490566037736,53.06603773584906,22.0,be have smell be have say struggle have come
+Anne,Oxford,5.188679245283019,0.2358490566037736,53.06603773584906,22.0,be have smell be have say struggle have come
+Claire,Oxford,5.188679245283019,0.2358490566037736,53.06603773584906,22.0,be have smell be have say struggle have come
+Anne,Claire,5.555555555555555,4.861111111111112,39.58333333333333,1.1428571428571428,have be pass
+Claire,Moss,0.992063492063492,0.1984126984126984,57.53968253968254,5.0,sit lie stretch have sip notice
+Claire,Anne,0.992063492063492,0.1984126984126984,57.53968253968254,5.0,sit lie stretch have sip notice
+Moss,Anne,0.992063492063492,0.1984126984126984,57.53968253968254,5.0,sit lie stretch have sip notice
+Anne,Claire,5.859375,1.5625,39.453125,3.75,have tell do know be
+Anne,Claire,5.859375,1.5625,39.453125,3.75,have tell do know be
+Claire,Dad,1.4423076923076923,3.8461538461538463,52.40384615384615,0.375,send blow
+Claire,Dad,1.4423076923076923,3.8461538461538463,52.40384615384615,0.375,send blow
+Claire,Rise Hill,1.5625,0.390625,57.421875,4.0,consider turn run bounce follow rattle
+Claire,Rise Hill,1.5625,0.390625,57.421875,4.0,consider turn run bounce follow rattle
+Claire,Rise Hill,1.5625,0.390625,57.421875,4.0,consider turn run bounce follow rattle
+Rise Hill,Claire,1.5625,0.390625,57.421875,4.0,consider turn run bounce follow rattle
+Claire,Jennifer,4.0,0.0,60.0,INF,be have stay have stay
+Claire,Jennifer,4.0,0.0,60.0,INF,be have stay have stay
+Jennifer,Claire,4.0,0.0,60.0,INF,be have stay have stay
+Claire,Joseph,2.1551724137931036,0.8620689655172413,52.1551724137931,2.5,tire have find stand talk be
+Claire,Joseph,2.1551724137931036,0.8620689655172413,52.1551724137931,2.5,tire have find stand talk be
+Claire,Joseph,2.1551724137931036,0.8620689655172413,52.1551724137931,2.5,tire have find stand talk be
+Joseph,Claire,3.125,0.0,71.875,INF,have look
+Claire,Joseph,3.125,3.125,47.91666666666667,1.0,have see be sit have have run finish
+Joseph,Claire,3.125,3.125,47.91666666666667,1.0,have see be sit have have run finish
+Claire,Joseph,0.0,6.944444444444445,48.61111111111111,0.0,sit
+Joseph,Claire,8.035714285714286,0.8928571428571428,55.35714285714286,9.0,have rest stroke
+Joseph,Claire,8.035714285714286,0.8928571428571428,55.35714285714286,9.0,have rest stroke
+Claire,Alan,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Alan,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Alan,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Alan,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Alan,Claire,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Alan,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Jen,1.9736842105263157,2.631578947368421,55.04385964912281,0.75,stuff have notice forget leave hang have hate be borrow get give
+Claire,Paul,0.5681818181818182,2.272727272727273,38.06818181818182,0.25,remember
+Claire,Paul,0.5681818181818182,2.272727272727273,38.06818181818182,0.25,remember
+Claire,Ben,2.083333333333333,1.3888888888888888,40.97222222222222,1.5,say be
+Claire,Sam,2.083333333333333,1.3888888888888888,40.97222222222222,1.5,say be
+Ben,Sam,2.083333333333333,1.3888888888888888,40.97222222222222,1.5,say be
+Sid,Claire,0.0,0.0,28.57142857142857,INF,be say
+Claire,Sid,0.0,0.0,53.125,INF,unravel boot slip topple
+Ben,Sam,1.5625,0.0,35.9375,INF,be
+Alan,Claire,2.941176470588235,0.0,61.76470588235294,INF,watch glance
+Claire,Alan,2.941176470588235,0.0,61.76470588235294,INF,watch glance
+Alan,Claire,1.875,0.0,48.125,INF,do hear speak have say smile
+Alan,Claire,1.875,0.0,48.125,INF,do hear speak have say smile
+Alan,Claire,1.875,0.0,48.125,INF,do hear speak have say smile
+Alan,Claire,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,lift hold
+Alan,Claire,0.0,0.0,46.15384615384615,INF,speak come turn
+Alan,Claire,0.0,0.0,46.15384615384615,INF,speak come turn
+Claire,Alan,0.0,0.0,46.15384615384615,INF,speak come turn
+Claire,Alan,0.0,0.0,46.15384615384615,INF,speak come turn
+Alan,Claire,0.0,0.0,58.82352941176471,INF,hold slip
+Alan,Claire,0.0,0.0,58.82352941176471,INF,hold slip
+Claire,Alan,0.0,0.0,38.46153846153847,INF,say laugh
+Claire,Alan,0.0,0.0,38.46153846153847,INF,say laugh
+Claire,Alan,0.0,0.0,25.0,INF,see
+Claire,Alan,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,come crumble
+Claire,Alan,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,come crumble
+Alan,Claire,4.166666666666666,0.0,45.83333333333333,INF,realise be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Claire,Alan,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,7.01219512195122,1.8292682926829267,42.3780487804878,3.8333333333333335,have take draw be have think be
+Alan,Claire,8.653846153846153,0.0,52.88461538461539,INF,have want be
+Alan,Claire,3.571428571428571,3.571428571428571,53.57142857142857,1.0,think be focus be look see
+Alan,Claire,3.571428571428571,3.571428571428571,53.57142857142857,1.0,think be focus be look see
+Alan,Claire,3.571428571428571,3.571428571428571,53.57142857142857,1.0,think be focus be look see
+Alan,Claire,3.571428571428571,3.571428571428571,53.57142857142857,1.0,think be focus be look see
+Alan,Claire,4.62962962962963,7.87037037037037,43.05555555555556,0.5882352941176471,be know be be fill
+Alan,Claire,4.62962962962963,7.87037037037037,43.05555555555556,0.5882352941176471,be know be be fill
+Claire,Alan,4.62962962962963,7.87037037037037,43.05555555555556,0.5882352941176471,be know be be fill
+Claire,Alan,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Claire,Alan,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Claire,Alan,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Claire,Alan,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Alan,Claire,2.850877192982456,0.8771929824561403,48.90350877192983,3.25,walk upright play watch sway feel be intend be
+Claire,Alan,0.0,0.0,50.0,INF,see lean
+Claire,Alan,0.0,0.0,50.0,INF,see lean
+Claire,Alan,0.0,0.0,50.0,INF,see lean
+Alan,Claire,0.0,0.0,50.0,INF,see lean
+Alan,Claire,0.0,0.0,50.0,INF,see lean
+Alan,Claire,0.0,0.0,50.0,INF,see lean
+Alan,Claire,1.6666666666666667,0.0,51.66666666666667,INF,have speak leave
+Alan,Claire,0.0,0.0,42.857142857142854,INF,tell have do
+Alan,Claire,0.0,0.0,42.857142857142854,INF,tell have do
+Alan,Claire,0.0,0.0,44.44444444444444,INF,speak
+Claire,Alan,0.0,0.0,43.75,INF,know speak wind
+Claire,Alan,0.0,0.0,43.75,INF,know speak wind
+Claire,Alan,0.0,0.0,43.75,INF,know speak wind
+Claire,Alan,0.0,0.0,50.0,INF,lay listen shout
+Claire,Alan,2.380952380952381,2.380952380952381,38.095238095238095,1.0,wake buzz lurch heave
+Claire,Alan,1.7857142857142856,0.0,48.214285714285715,INF,watch walk scratch
+Claire,Alan,1.7857142857142856,0.0,48.214285714285715,INF,watch walk scratch
+Claire,Alan,0.0,0.0,33.33333333333333,INF,hear lock
+Claire,Alan,3.8461538461538463,0.0,42.30769230769231,INF,stretch
+Claire,Alan,2.272727272727273,0.0,56.81818181818182,INF,hear rattle splash run
+Claire,Alan,1.4423076923076923,0.0,48.55769230769231,INF,put hear walk
+Claire,Alan,1.4423076923076923,0.0,48.55769230769231,INF,put hear walk
+Claire,Alan,0.9615384615384616,0.0,68.26923076923077,INF,hear tread walk
+Claire,Alan,0.9615384615384616,0.0,68.26923076923077,INF,hear tread walk
+Alan,Claire,0.0,0.0,71.42857142857143,INF,look
+Claire,Alan,2.7777777777777777,0.4629629629629629,52.31481481481482,6.0,put stand look
+Alan,Claire,2.7777777777777777,0.4629629629629629,52.31481481481482,6.0,put stand look
+Claire,Alan,0.0,0.0,50.0,INF,hear move
+Claire,Alan,0.0,0.0,42.857142857142854,INF,see hear move
+Claire,Alan,0.0,0.0,42.857142857142854,INF,see hear move
+Alan,Conroys,1.0416666666666665,0.0,48.95833333333333,INF,congratulate arrange
+Alan,Claire,1.0416666666666665,0.0,48.95833333333333,INF,congratulate arrange
+Conroys,Claire,1.0416666666666665,0.0,48.95833333333333,INF,congratulate arrange
+Alan,Claire,3.4090909090909087,2.272727272727273,67.04545454545455,1.5,have suspect
+Gareth,Claire,0.0,0.0,40.0,INF,let get
+Gareth,Claire,2.5,2.5,41.66666666666667,1.0,notice be
+Gareth,Alan,2.5,2.5,41.66666666666667,1.0,notice be
+Claire,Alan,2.5,2.5,41.66666666666667,1.0,notice be
+Gareth,Claire,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,be keep suffer do
+Gareth,Alan,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,be keep suffer do
+Claire,Gareth,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,be keep suffer do
+Claire,Alan,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,be keep suffer do
+Gareth,Alan,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,be keep suffer do
+Alan,Gareth,0.6578947368421052,1.9736842105263157,34.21052631578947,0.3333333333333333,realise
+Alan,Claire,0.6578947368421052,1.9736842105263157,34.21052631578947,0.3333333333333333,realise
+Gareth,Claire,0.6578947368421052,1.9736842105263157,34.21052631578947,0.3333333333333333,realise
+Claire,Alan,0.0,0.6944444444444444,46.52777777777778,0.0,be bring show take wear
+Claire,Alan,0.0,0.6944444444444444,46.52777777777778,0.0,be bring show take wear
+Claire,Alan,0.0,0.6944444444444444,46.52777777777778,0.0,be bring show take wear
+Claire,Alan,0.0,0.6944444444444444,46.52777777777778,0.0,be bring show take wear
+Claire,Alan,0.0,0.6944444444444444,46.52777777777778,0.0,be bring show take wear
+Alan,Claire,5.555555555555555,0.0,50.0,INF,show be
+Claire,Alan,5.555555555555555,0.0,50.0,INF,show be
+Alan,Claire,2.083333333333333,0.0,53.47222222222222,INF,hear have be
+Alan,Claire,0.0,0.0,58.333333333333336,INF,go hang see
+Alan,Claire,0.0,0.0,58.333333333333336,INF,go hang see
+Alan,Claire,5.769230769230769,2.403846153846154,45.67307692307692,2.4,congratulate decide take
+Alan,Claire,5.769230769230769,2.403846153846154,45.67307692307692,2.4,congratulate decide take
+Alan,Claire,5.769230769230769,2.403846153846154,45.67307692307692,2.4,congratulate decide take
+Claire,Alan,4.3478260869565215,7.065217391304348,53.80434782608695,0.6153846153846154,be like be go allow get
+Claire,Alan,4.3478260869565215,7.065217391304348,53.80434782608695,0.6153846153846154,be like be go allow get
+Alan,Claire,0.0,5.681818181818182,57.95454545454546,0.0,be go let spoil
+Claire,Alan,0.0,5.681818181818182,57.95454545454546,0.0,be go let spoil
+Claire,Alan,1.0416666666666665,0.0,40.625,INF,be stand
+Claire,Alan,1.0416666666666665,0.0,40.625,INF,be stand
+Claire,Alan,0.0,1.7045454545454544,66.47727272727273,0.0,be catch see feather
+Alan,Claire,0.0,1.7045454545454544,66.47727272727273,0.0,be catch see feather
+Alan,Claire,2.631578947368421,0.0,50.0,INF,step put kiss
+Alan,Claire,2.631578947368421,0.0,50.0,INF,step put kiss
+Alan,Claire,2.631578947368421,0.0,50.0,INF,step put kiss
+Alan,Claire,0.0,5.681818181818182,48.86363636363637,0.0,turn switch
+Claire,Alan,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Claire,Alan,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Claire,Alan,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Alan,Claire,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Claire,Alan,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Claire,Alan,2.380952380952381,0.5952380952380952,39.88095238095239,4.0,be see force smile
+Alan,Claire,0.0,0.0,61.53846153846154,INF,be determine be go let annoy
+Alan,Claire,0.0,0.0,61.53846153846154,INF,be determine be go let annoy
+Claire,Alan,0.0,0.0,61.53846153846154,INF,be determine be go let annoy
+Alan,Paul,6.578947368421052,0.0,51.31578947368421,INF,be go show be
+Claire,Alan,3.125,1.5625,57.8125,2.0,be notice
+Claire,Alan,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,put place
+Claire,Alan,0.6578947368421052,3.289473684210526,48.68421052631579,0.2,put place
+Alan,Claire,0.0,0.0,50.0,INF,wait fetch
+Claire,Alan,0.0,0.0,50.0,INF,ask hand
+Alan,Claire,1.7857142857142856,0.0,48.214285714285715,INF,watch watch
+Alan,Claire,1.7857142857142856,0.0,48.214285714285715,INF,watch watch
+Alan,Claire,0.0,0.0,55.55555555555556,INF,look
+Paul,Alan,0.0,0.0,44.44444444444444,INF,be say
+Claire,Alan,3.8461538461538463,0.0,57.692307692307686,INF,glance
+Alan,Claire,3.8461538461538463,0.0,57.692307692307686,INF,glance
+Alan,Claire,0.0,3.804347826086957,52.71739130434783,0.0,be say watch bow
+Alan,Claire,0.0,0.0,62.5,INF,reach take
+Alan,Claire,1.3888888888888888,0.0,59.72222222222222,INF,sit wait cross bounce
+Alan,Claire,0.0,0.0,44.44444444444444,INF,see ripple
+Alan,Claire,0.0,0.0,44.44444444444444,INF,see ripple
+Alan,Claire,0.0,0.0,44.44444444444444,INF,see ripple
+Alan,Claire,0.0,0.0,44.44444444444444,INF,see ripple
+Alan,Claire,3.75,0.625,40.625,6.0,have say reach touch
+Claire,Alan,7.065217391304348,0.0,45.108695652173914,INF,have do think do know start
+Claire,Alan,7.065217391304348,0.0,45.108695652173914,INF,have do think do know start
+Alan,Claire,7.065217391304348,0.0,45.108695652173914,INF,have do think do know start
+Alan,Claire,0.0,0.0,55.55555555555556,INF,sit
+Alan,Claire,0.0,0.0,55.55555555555556,INF,sit
+Alan,Claire,5.208333333333334,0.0,53.125,INF,feel make
+Claire,Paul,0.0,2.717391304347826,58.152173913043484,0.0,roll twist play
+Claire,Paul,0.0,2.717391304347826,58.152173913043484,0.0,roll twist play
+Claire,Paul,0.0,2.717391304347826,58.152173913043484,0.0,roll twist play
+Claire,Paul,0.0,6.25,33.75,0.0,let have
+Claire,Paul,2.6785714285714284,3.571428571428571,65.17857142857143,0.75,have offer arrive
+Claire,Paul,0.0,0.0,42.857142857142854,INF,have pick
+Paul,Alan,3.125,2.604166666666667,44.27083333333333,1.2,have dog have take taint
+Paul,Alan,3.125,2.604166666666667,44.27083333333333,1.2,have dog have take taint
+Paul,Grainne,2.083333333333333,4.166666666666666,43.75,0.5,seem have decide pretend be happen
+Paul,Claire,0.0,0.0,55.55555555555556,INF,tighten
+Paul,Claire,0.0,0.0,55.55555555555556,INF,tighten
+Paul,Claire,4.0,1.0,47.0,4.0,feel breathe be surprise find twitch stir
+Paul,Claire,4.0,1.0,47.0,4.0,feel breathe be surprise find twitch stir
+Claire,Paul,4.0,1.0,47.0,4.0,feel breathe be surprise find twitch stir
+Paul,Claire,4.0,1.0,47.0,4.0,feel breathe be surprise find twitch stir
+Alan,Claire,0.5,1.0,42.5,0.5,feel want get
+Alan,Claire,0.5,1.0,42.5,0.5,feel want get
+Paul,Claire,0.0,0.0,50.0,INF,ask
+Alan,Claire,0.0,0.0,44.44444444444444,INF,feel grit
+Claire,Alan,0.0,0.0,44.44444444444444,INF,feel grit
+Oxford,Alan,0.0,0.0,44.44444444444444,INF,say
+Claire,Jennifer,2.9545454545454546,0.9090909090909091,56.13636363636364,3.25,have be sit have have clamp join be allow give
+Claire,Jennifer,2.9545454545454546,0.9090909090909091,56.13636363636364,3.25,have be sit have have clamp join be allow give
+Jennifer,Claire,2.9545454545454546,0.9090909090909091,56.13636363636364,3.25,have be sit have have clamp join be allow give
+Jennifer,Claire,2.9545454545454546,0.9090909090909091,56.13636363636364,3.25,have be sit have have clamp join be allow give
+Nick,Jen,0.0,0.0,46.666666666666664,INF,be sit
+Nick,Claire,5.357142857142857,0.8928571428571428,61.60714285714286,6.0,leave have be have be thirteen have tell
+Nick,Claire,5.357142857142857,0.8928571428571428,61.60714285714286,6.0,leave have be have be thirteen have tell
+Nick,Jennifer,5.357142857142857,0.8928571428571428,61.60714285714286,6.0,leave have be have be thirteen have tell
+Claire,Jennifer,5.357142857142857,0.8928571428571428,61.60714285714286,6.0,leave have be have be thirteen have tell
+Claire,Jennifer,5.357142857142857,0.8928571428571428,61.60714285714286,6.0,leave have be have be thirteen have tell
+Nick,Claire,1.1904761904761905,0.0,55.952380952380956,INF,have lean howl
+Nick,Claire,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Nick,Claire,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Nick,Claire,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Nick,Claire,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Nick,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Claire,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Nick,Jen,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Jen,Nick,1.7187500000000002,1.875,52.65625000000001,0.9166666666666666,sing lean pull tug shout start shout turn scream be stare be laugh be laugh
+Jen,Nick,5.0,0.9090909090909091,45.0,5.5,feel be burn walk follow get do know look be stumble feel do know put
+Jen,Nick,5.0,0.9090909090909091,45.0,5.5,feel be burn walk follow get do know look be stumble feel do know put
+Nick,Jen,5.0,0.9090909090909091,45.0,5.5,feel be burn walk follow get do know look be stumble feel do know put
+Nick,Jen,5.0,0.9090909090909091,45.0,5.5,feel be burn walk follow get do know look be stumble feel do know put
+Nick,Jen,5.0,0.9090909090909091,45.0,5.5,feel be burn walk follow get do know look be stumble feel do know put
+Claire,Nick,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Nick,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Nick,Claire,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Nick,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Nick,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Nick,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Nick,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Nick,Jennifer,1.4285714285714286,1.0714285714285714,43.214285714285715,1.3333333333333333,hear inhale turn snap speak have leap
+Claire,Jennifer,0.0,0.9615384615384616,45.19230769230769,0.0,tell find
+Jennifer,Claire,0.0,0.9615384615384616,45.19230769230769,0.0,tell find
+Claire,Ben,1.893939393939394,1.5151515151515151,57.1969696969697,1.25,leave account have be cram bake
+Claire,Sam,1.893939393939394,1.5151515151515151,57.1969696969697,1.25,leave account have be cram bake
+Ben,Sam,1.893939393939394,1.5151515151515151,57.1969696969697,1.25,leave account have be cram bake
+Ben,Sam,3.0172413793103448,2.1551724137931036,60.3448275862069,1.4,be tell make communicate
+Claire,Sid,0.625,5.625,33.75,0.1111111111111111,miss muddy
+Claire,Sid,0.625,5.625,33.75,0.1111111111111111,miss muddy
+Claire,Sid,0.625,5.625,33.75,0.1111111111111111,miss muddy
+Sid,Claire,0.625,5.625,33.75,0.1111111111111111,miss muddy
+Jennifer,Jen,0.9868421052631579,0.0,54.276315789473685,INF,make look come answer colour resolve open smile
+Jennifer,Jen,0.9868421052631579,0.0,54.276315789473685,INF,make look come answer colour resolve open smile
+Claire,Mrs. Rothwell,0.0,0.0,56.52173913043478,INF,walk ring wait be peer
+Jen,Claire,1.2096774193548387,5.64516129032258,47.983870967741936,0.21428571428571427,imagine be wait call slip pull
+Mrs. Rothwell,Claire,0.0,0.0,41.66666666666667,INF,turn see fall
+Mrs. Rothwell,Claire,0.0,0.0,41.66666666666667,INF,turn see fall
+Jennifer,Claire,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,come smell mince
+Jennifer,Claire,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,come smell mince
+Jennifer,Claire,1.1029411764705883,1.8382352941176472,41.17647058823529,0.6,have do lend peel hand watch change
+Jennifer,Claire,1.1029411764705883,1.8382352941176472,41.17647058823529,0.6,have do lend peel hand watch change
+Jennifer,Claire,1.1029411764705883,1.8382352941176472,41.17647058823529,0.6,have do lend peel hand watch change
+Jennifer,Claire,1.1029411764705883,1.8382352941176472,41.17647058823529,0.6,have do lend peel hand watch change
+Jennifer,Claire,1.1029411764705883,1.8382352941176472,41.17647058823529,0.6,have do lend peel hand watch change
+Claire,Jennifer,4.017857142857143,0.8928571428571428,55.80357142857143,4.5,walk clink have feel cling
+Jennifer,Claire,4.017857142857143,0.8928571428571428,55.80357142857143,4.5,walk clink have feel cling
+Nick,Claire,7.291666666666667,2.083333333333333,48.95833333333333,3.5,be bump do like
+Tom,Claire,1.6666666666666667,0.0,51.66666666666667,INF,rise fall beat chime have hear
+Claire,Tom,0.0,0.0,61.53846153846154,INF,stand watch try work be make
+Tom,Claire,3.75,1.25,65.0,3.0,have sense look
+Claire,Tom,3.75,1.25,65.0,3.0,have sense look
+Tom,Claire,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,notice be
+Jenny,Tom,0.0,0.0,40.0,INF,be say
+Jenny,Tom,2.5,0.0,37.5,INF,be see call
+Jenny,Claire,2.5,0.0,37.5,INF,be see call
+Tom,Claire,2.5,0.0,37.5,INF,be see call
+Jennifer,Claire,1.5625,0.0,48.4375,INF,look
+Tom,Jen,1.3888888888888888,0.0,43.05555555555556,INF,say be
+Jennifer,Claire,3.9473684210526314,0.0,43.42105263157895,INF,grin put shake
+Jennifer,Claire,3.9473684210526314,0.0,43.42105263157895,INF,grin put shake
+Jen,Claire,1.0416666666666665,0.0,48.95833333333333,INF,walk face
+Tom,Claire,9.821428571428571,2.6785714285714284,44.642857142857146,3.6666666666666665,think do know be talk
+Claire,Tom,9.821428571428571,2.6785714285714284,44.642857142857146,3.6666666666666665,think do know be talk
+Jen,Jenny,3.125,0.0,41.875,INF,be have change be be say
+Jen,Jenny,3.125,0.0,41.875,INF,be have change be be say
+Jennifer,Claire,0.0,1.5625,54.6875,0.0,angle raise
+Jennifer,Claire,0.0,0.0,50.0,INF,laugh shake
+Jen,Tom,9.821428571428571,0.0,47.32142857142857,INF,have fall have decide stay
+Tom,Jen,17.5,0.0,42.5,INF,make
+Jennifer,Claire,1.3157894736842104,0.0,46.05263157894737,INF,press push
+Jennifer,Claire,1.3157894736842104,0.0,46.05263157894737,INF,press push
+Jennifer,Claire,1.3157894736842104,0.0,46.05263157894737,INF,press push
+Claire,Jen,5.88235294117647,5.88235294117647,41.17647058823529,1.0,reach look
+Tom,Claire,1.5625,3.125,32.8125,0.5,miss say
+Jennifer,Claire,2.272727272727273,2.272727272727273,40.909090909090914,1.0,have miss say
+Claire,Jennifer,2.272727272727273,2.272727272727273,40.909090909090914,1.0,have miss say
+Jennifer,Claire,2.8846153846153846,6.25,52.40384615384615,0.46153846153846156,have work have try notice pick
+Jennifer,Tom,1.5625,0.0,48.4375,INF,decide go see
+Tom,Jennifer,0.5208333333333333,0.0,57.8125,INF,invite make sit
+Tom,Jennifer,0.5208333333333333,0.0,57.8125,INF,invite make sit
+Jennifer,Tom,0.5208333333333333,0.0,57.8125,INF,invite make sit
+Jennifer,Tom,0.5208333333333333,0.0,57.8125,INF,invite make sit
+Jennifer,Tom,1.25,0.0,28.749999999999996,INF,spend
+Jennifer,Tom,0.0,0.0,37.5,INF,have
+Tom,Jennifer,0.0,0.0,37.5,INF,have
+Jennifer,Tom,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,be say think see
+Jennifer,Tom,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,be say think see
+Jennifer,Tom,0.6578947368421052,0.0,62.5,INF,get be
+Tom,Jennifer,1.3888888888888888,3.4722222222222223,50.69444444444444,0.4,have let drop wait
+Tom,Jennifer,1.3888888888888888,3.4722222222222223,50.69444444444444,0.4,have let drop wait
+Jennifer,Tom,10.416666666666668,0.0,39.58333333333333,INF,leap
+Jennifer,Tom,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,assume be go get
+Tom,Jennifer,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,assume be go get
+Jennifer,Tom,1.953125,3.90625,56.640625,0.5,lay think piss be come see do be moan
+Tom,Jennifer,1.953125,3.90625,56.640625,0.5,lay think piss be come see do be moan
+Tom,Jennifer,1.953125,3.90625,56.640625,0.5,lay think piss be come see do be moan
+Claire,Jennifer,1.644736842105263,5.263157894736842,45.723684210526315,0.3125,look pore trace radiate
+Jennifer,Claire,1.644736842105263,5.263157894736842,45.723684210526315,0.3125,look pore trace radiate
+Jennifer,Claire,1.644736842105263,5.263157894736842,45.723684210526315,0.3125,look pore trace radiate
+Jennifer,Claire,1.644736842105263,5.263157894736842,45.723684210526315,0.3125,look pore trace radiate
+Claire,Jen,1.6304347826086956,5.434782608695652,49.45652173913043,0.3,do sound do come look
+Claire,Jen,1.6304347826086956,5.434782608695652,49.45652173913043,0.3,do sound do come look
+Claire,Jen,1.6304347826086956,5.434782608695652,49.45652173913043,0.3,do sound do come look
+Claire,Alan,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Claire,Alan,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Alan,Claire,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Alan,Claire,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Claire,Alan,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Alan,Claire,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,help suspect be get know come
+Claire,Alan,0.6944444444444444,3.4722222222222223,51.388888888888886,0.2,be wake flick
+Alan,Claire,0.8620689655172413,0.0,61.206896551724135,INF,have shower breakfast go work haul air curl
+Alan,Claire,0.0,0.0,54.54545454545454,INF,split point use do
+Claire,Alan,0.0,0.0,54.54545454545454,INF,split point use do
+Claire,Alan,0.0,1.4705882352941175,48.529411764705884,0.0,return be taint come
+Claire,Alan,0.0,1.4705882352941175,48.529411764705884,0.0,return be taint come
+Alan,Claire,0.0,3.6458333333333335,58.854166666666664,0.0,be hate
+Claire,Alan,0.0,3.6458333333333335,58.854166666666664,0.0,be hate
+Claire,Alan,0.0,12.5,54.166666666666664,0.0,know hate
+Claire,Alan,4.0,1.5,54.50000000000001,2.6666666666666665,serve sit rub knot
+Claire,Alan,4.0,1.5,54.50000000000001,2.6666666666666665,serve sit rub knot
+Claire,Alan,4.0,1.5,54.50000000000001,2.6666666666666665,serve sit rub knot
+Claire,Alan,4.0,1.5,54.50000000000001,2.6666666666666665,serve sit rub knot
+Claire,Alan,0.625,0.625,63.74999999999999,1.0,shower wash put watch
+Claire,Alan,0.625,0.625,63.74999999999999,1.0,shower wash put watch
+Alan,Claire,0.0,0.0,41.66666666666667,INF,call sit
+Claire,Alan,0.0,0.0,41.66666666666667,INF,call sit
+Alan,Claire,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Alan,Claire,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Alan,Claire,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Claire,Alan,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Alan,Claire,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Alan,Claire,0.0,2.840909090909091,51.70454545454546,0.0,walk dress
+Alan,Claire,0.0,4.464285714285714,31.25,0.0,say see
+Alan,Claire,1.1363636363636365,1.1363636363636365,46.21212121212121,1.0,prove be engross be disturb reply
+Claire,Alan,1.1363636363636365,1.1363636363636365,46.21212121212121,1.0,prove be engross be disturb reply
+Claire,Alan,1.1363636363636365,1.1363636363636365,46.21212121212121,1.0,prove be engross be disturb reply
+Claire,Alan,8.333333333333332,4.166666666666666,43.05555555555556,2.0,have try talk
+Claire,Alan,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Claire,Paul,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Claire,Grainne,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Alan,Paul,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Alan,Grainne,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Alan,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Alan,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Paul,Grainne,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Paul,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Paul,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Grainne,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Grainne,Claire,4.411764705882353,1.8382352941176472,40.80882352941176,2.4,have try tell come spot call talk
+Dermot,Claire,10.227272727272728,3.4090909090909087,50.0,3.0,have ask tease
+Dermot,Claire,10.227272727272728,3.4090909090909087,50.0,3.0,have ask tease
+Dermot,Claire,9.722222222222223,0.0,45.83333333333333,INF,have say exaggerate
+Gareth,Claire,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Gareth,Claire,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Gareth,Claire,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Gareth,Claire,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Gareth,Alan,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Claire,Alan,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Claire,Alan,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Claire,Alan,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Claire,Alan,3.4090909090909087,3.4090909090909087,41.66666666666667,1.0,share get have ask be settle be
+Claire,Alan,3.977272727272727,2.840909090909091,65.9090909090909,1.4,have speak have gather have set grit
+Claire,Alan,3.977272727272727,2.840909090909091,65.9090909090909,1.4,have speak have gather have set grit
+Claire,Alan,3.977272727272727,2.840909090909091,65.9090909090909,1.4,have speak have gather have set grit
+Claire,Alan,3.977272727272727,2.840909090909091,65.9090909090909,1.4,have speak have gather have set grit
+Alan,Claire,0.0,0.0,50.0,INF,know be tell
+Alan,Claire,0.0,0.0,50.0,INF,know be tell
+Alan,Claire,1.6304347826086956,2.1739130434782608,44.02173913043478,0.75,have lend go bring ask
+Alan,Claire,1.6304347826086956,2.1739130434782608,44.02173913043478,0.75,have lend go bring ask
+Jen,Claire,5.434782608695652,0.0,38.04347826086957,INF,see deal make feel defeat
+Jen,Claire,5.434782608695652,0.0,38.04347826086957,INF,see deal make feel defeat
+Oxford,Claire,3.214285714285714,2.857142857142857,48.214285714285715,1.125,be curl
+Oxford,Claire,3.214285714285714,2.857142857142857,48.214285714285715,1.125,be curl
+Oxford,Claire,3.214285714285714,2.857142857142857,48.214285714285715,1.125,be curl
+Claire,Gareth,2.34375,2.34375,45.3125,1.0,hang bite key
+Claire,Gareth,2.34375,2.34375,45.3125,1.0,hang bite key
+Claire,Gareth,2.34375,2.34375,45.3125,1.0,hang bite key
+Claire,Gareth,1.25,0.625,58.12500000000001,2.0,ask be go work
+Gareth,Claire,1.25,0.625,58.12500000000001,2.0,ask be go work
+Claire,Alan,4.545454545454546,0.0,50.0,INF,look
+Alan,Claire,0.0,0.0,54.54545454545454,INF,ask be stop
+Alan,Claire,0.0,0.0,54.54545454545454,INF,ask be stop
+Claire,Alan,0.9615384615384616,4.807692307692308,48.07692307692308,0.2,hear turn
+Claire,Alan,0.0,0.0,54.54545454545454,INF,step hear walk walk
+Alan,Claire,0.0,0.0,25.0,INF,climb
+Alan,Claire,0.0,0.78125,61.71875,0.0,move stand let run
+Claire,Alan,0.0,0.78125,61.71875,0.0,move stand let run
+Claire,Alan,0.0,0.0,50.0,INF,smile
+Alan,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Alan,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Alan,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Alan,Claire,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Claire,Alan,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Claire,Alan,0.0,0.6944444444444444,49.30555555555556,0.0,put pull
+Alan,Claire,0.0,4.166666666666666,40.27777777777778,0.0,press harden
+Claire,Alan,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Claire,Alan,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Claire,Alan,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Claire,Alan,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Alan,Claire,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Claire,Alan,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,reach rub wipe take hold pull touch
+Alan,Claire,0.0,0.0,57.14285714285714,INF,kiss
+Claire,Alan,3.3333333333333335,6.666666666666667,43.333333333333336,0.5,shut take rub
+Alan,Claire,3.3333333333333335,6.666666666666667,43.333333333333336,0.5,shut take rub
+Alan,Claire,3.3333333333333335,0.0,50.0,INF,get wrap
+Claire,Alan,2.734375,3.125,47.265625,0.875,lean rub try listen head
+Claire,Alan,2.734375,3.125,47.265625,0.875,lean rub try listen head
+Claire,Alan,2.734375,3.125,47.265625,0.875,lean rub try listen head
+Claire,Alan,2.734375,3.125,47.265625,0.875,lean rub try listen head
+Alan,Claire,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,stand look flounder
+Alan,Claire,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,stand look flounder
+Alan,Claire,3.804347826086957,1.6304347826086956,55.434782608695656,2.3333333333333335,stand look flounder
+Alan,Claire,4.166666666666666,0.0,54.166666666666664,INF,reach grab
+Alan,Claire,4.166666666666666,0.0,54.166666666666664,INF,reach grab
+Alan,Claire,4.166666666666666,0.0,62.5,INF,help sit stand
+Alan,Claire,0.0,0.0,58.333333333333336,INF,hold step
+Alan,Claire,0.0,0.0,58.333333333333336,INF,hold step
+Alan,Claire,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,steer turn
+Alan,Claire,5.555555555555555,2.7777777777777777,58.333333333333336,2.0,hold
+Claire,Alan,0.0,0.0,66.66666666666666,INF,pull hold
+Alan,Claire,7.291666666666667,0.0,76.04166666666666,INF,dry wrap
+Alan,Claire,0.0,5.681818181818182,57.95454545454546,0.0,take wrap round
+Alan,Claire,0.0,5.681818181818182,57.95454545454546,0.0,take wrap round
+Alan,Claire,0.0,0.78125,49.21875,0.0,put guide
+Alan,Claire,0.0,0.78125,49.21875,0.0,put guide
+Alan,Claire,0.8333333333333334,0.0,59.166666666666664,INF,sit pull
+Alan,Claire,0.8333333333333334,0.0,59.166666666666664,INF,sit pull
+Claire,Alan,0.0,0.0,50.0,INF,look
+Claire,Alan,3.8461538461538463,1.9230769230769231,40.38461538461539,2.0,open look
+Claire,Alan,3.8461538461538463,1.9230769230769231,40.38461538461539,2.0,open look
+Alan,Claire,0.0,0.7352941176470588,52.20588235294118,0.0,stand wait finish
+Claire,Alan,0.0,0.0,50.0,INF,glance
+Alan,Claire,5.147058823529411,2.2058823529411766,57.35294117647059,2.3333333333333335,look pull
+Claire,Alan,5.147058823529411,2.2058823529411766,57.35294117647059,2.3333333333333335,look pull
+Claire,Alan,1.5625,0.0,48.4375,INF,watch tie
+Claire,Alan,1.5625,0.0,48.4375,INF,watch tie
+Claire,Alan,1.9736842105263157,0.0,55.92105263157895,INF,hear shut
+Alan,Claire,0.8333333333333334,4.166666666666666,61.66666666666667,0.2,peel stick
+Alan,Claire,0.0,0.0,60.0,INF,look
+Alan,Claire,0.0,0.0,50.0,INF,hand
+Claire,Alan,0.0,0.0,50.0,INF,look
+Claire,Alan,1.1363636363636365,0.0,44.31818181818182,INF,slip turn
+Alan,Claire,3.4090909090909087,0.5681818181818182,64.20454545454545,6.0,have be stand watch turn
+Alan,Claire,3.4090909090909087,0.5681818181818182,64.20454545454545,6.0,have be stand watch turn
+Claire,Grainne,0.0,0.0,50.0,INF,do see come
+Claire,Paul,0.0,0.0,50.0,INF,do see come
+Grainne,Paul,0.0,0.0,50.0,INF,do see come
+Claire,Grainne,0.0,1.0416666666666665,57.291666666666664,0.0,swing pound be
+Grainne,Claire,3.75,0.0,36.25,INF,smile step hug
+Claire,Grainne,1.3888888888888888,2.083333333333333,46.52777777777778,0.6666666666666666,clutch stare
+Claire,Grainne,1.3888888888888888,2.083333333333333,46.52777777777778,0.6666666666666666,clutch stare
+Claire,Grainne,1.3888888888888888,2.083333333333333,46.52777777777778,0.6666666666666666,clutch stare
+Grainne,Claire,4.861111111111112,1.3888888888888888,43.75,3.5,hear say step look
+Ray,Fran,1.7857142857142856,5.357142857142857,40.476190476190474,0.3333333333333333,
+Fran,Joseph,0.0,0.0,58.333333333333336,INF,prop lay sleep
+Anne,Joseph,0.0,1.3888888888888888,65.27777777777779,0.0,sleep permeate
+Joseph,Anne,0.0,1.3888888888888888,65.27777777777779,0.0,sleep permeate
+Anne,Joseph,4.435483870967742,1.2096774193548387,55.64516129032258,3.6666666666666665,have fall lullaby
+Anne,Joseph,4.435483870967742,1.2096774193548387,55.64516129032258,3.6666666666666665,have fall lullaby
+Joseph,Anne,4.435483870967742,1.2096774193548387,55.64516129032258,3.6666666666666665,have fall lullaby
+Anne,Joseph,4.435483870967742,1.2096774193548387,55.64516129032258,3.6666666666666665,have fall lullaby
+Joseph,Anne,3.571428571428571,7.142857142857142,46.42857142857143,0.5,be have tell have know be
+Joseph,Anne,3.571428571428571,7.142857142857142,46.42857142857143,0.5,be have tell have know be
+Anne,Joseph,0.0,0.0,47.05882352941176,INF,lay listen
+Anne,Joseph,0.0,0.0,47.05882352941176,INF,lay listen
+Anne,Joseph,4.0,0.0,48.0,INF,have keep have keep assure be be breathe
+Anne,Joseph,4.0,0.0,48.0,INF,have keep have keep assure be be breathe
+Anne,Joseph,4.0,0.0,48.0,INF,have keep have keep assure be be breathe
+Anne,Joseph,4.0,0.0,48.0,INF,have keep have keep assure be be breathe
+Anne,Claire,0.0,0.0,50.0,INF,know be
+Claire,Anne,7.236842105263158,0.0,50.6578947368421,INF,have take leave make understand be say have hear
+Claire,Anne,7.236842105263158,0.0,50.6578947368421,INF,have take leave make understand be say have hear
+Anne,Claire,7.236842105263158,0.0,50.6578947368421,INF,have take leave make understand be say have hear
+Anne,Claire,7.236842105263158,0.0,50.6578947368421,INF,have take leave make understand be say have hear
+Claire,Anne,3.3653846153846154,0.0,58.17307692307693,INF,know be begin know have start scrape look
+Claire,Anne,3.3653846153846154,0.0,58.17307692307693,INF,know be begin know have start scrape look
+Moss,Anne,2.0,0.0,62.0,INF,have bury have hold shake
+Moss,Joseph,2.0,0.0,62.0,INF,have bury have hold shake
+Moss,Anne,2.0,0.0,62.0,INF,have bury have hold shake
+Moss,Joseph,2.0,0.0,62.0,INF,have bury have hold shake
+Anne,Joseph,2.0,0.0,62.0,INF,have bury have hold shake
+Anne,Joseph,2.0,0.0,62.0,INF,have bury have hold shake
+Joseph,Anne,2.0,0.0,62.0,INF,have bury have hold shake
+Anne,Joseph,2.0,0.0,62.0,INF,have bury have hold shake
+Ray,Fran,0.0,0.0,25.0,INF,
+Claire,Rise Hill,3.125,0.0,60.763888888888886,INF,have climb look follow
+Claire,Jen,0.3048780487804878,0.0,48.47560975609756,INF,think seem sing close
+Jen,Claire,0.3048780487804878,0.0,48.47560975609756,INF,think seem sing close
+Jen,Claire,0.3048780487804878,0.0,48.47560975609756,INF,think seem sing close
+Jen,Claire,0.3048780487804878,0.0,48.47560975609756,INF,think seem sing close
+Jen,Claire,0.3048780487804878,0.0,48.47560975609756,INF,think seem sing close
+Ray,Fran,0.0,0.0,28.57142857142857,INF,die
+Ray,Fran,0.0,0.0,25.0,INF,be
+Ray,Fran,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,do look
+Ray,Fran,5.357142857142857,0.8928571428571428,50.89285714285714,6.0,have be have
+Ray,Fran,0.0,0.0,33.33333333333333,INF,keep
+Sam,Ben,1.1904761904761905,1.1904761904761905,45.23809523809524,1.0,make
+Sam,Sid,1.1904761904761905,1.1904761904761905,45.23809523809524,1.0,make
+Ben,Sid,1.1904761904761905,1.1904761904761905,45.23809523809524,1.0,make
+Claire,Mrs. Hall,1.3888888888888888,0.0,43.05555555555556,INF,see
+Claire,Conroys,0.0,0.0,42.857142857142854,INF,realise be pass whisper
+Claire,Conroys,0.0,0.0,42.857142857142854,INF,realise be pass whisper
+Claire,Grainne,1.4705882352941175,14.705882352941178,36.76470588235294,0.1,feel be
+Claire,Grainne,1.4705882352941175,14.705882352941178,36.76470588235294,0.1,feel be
+Claire,Grainne,3.7037037037037033,2.7777777777777777,56.481481481481474,1.3333333333333333,think remember chuck have hesitate
+Claire,Grainne,3.7037037037037033,2.7777777777777777,56.481481481481474,1.3333333333333333,think remember chuck have hesitate
+Grainne,Claire,3.7037037037037033,2.7777777777777777,56.481481481481474,1.3333333333333333,think remember chuck have hesitate
+Grainne,Claire,3.7037037037037033,2.7777777777777777,56.481481481481474,1.3333333333333333,think remember chuck have hesitate
+Claire,Alan,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Claire,Alan,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Alan,Claire,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Alan,Claire,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Claire,Alan,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Claire,Alan,0.4807692307692308,0.9615384615384616,40.86538461538461,0.5,see leave lug
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Alan,Claire,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.0,1.8382352941176472,45.220588235294116,0.0,be be be walk see be determine see
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Alan,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Alan,Claire,0.1736111111111111,0.6944444444444444,44.96527777777778,0.25,see catch open speak have stop stand watch stick look draw describe delineate mark
+Claire,Grainne,1.0416666666666665,0.0,40.625,INF,have get drive
+Grainne,Claire,1.0416666666666665,0.0,40.625,INF,have get drive
+Claire,Dad,0.8152173913043478,2.1739130434782608,57.88043478260869,0.375,take grimace remember whack speed
+Claire,Moss,0.8152173913043478,2.1739130434782608,57.88043478260869,0.375,take grimace remember whack speed
+Dad,Moss,0.8152173913043478,2.1739130434782608,57.88043478260869,0.375,take grimace remember whack speed
+Gareth,Claire,0.0,0.0,20.0,INF,
+Gareth,Claire,0.0,0.0,42.857142857142854,INF,
+Claire,Grainne,0.0,0.0,33.33333333333333,INF,tell be
+Claire,Grainne,3.8461538461538463,4.807692307692308,29.807692307692307,0.8,tell hurt be
+Grainne,Claire,3.8461538461538463,4.807692307692308,29.807692307692307,0.8,tell hurt be
+Grainne,Claire,3.289473684210526,7.894736842105263,41.44736842105263,0.4166666666666667,hurt solve ache
+Claire,Paul,0.0,0.0,62.5,INF,be
+Claire,Grainne,0.0,3.6764705882352944,61.029411764705884,0.0,be mean be
+Claire,Grainne,0.43859649122807015,2.850877192982456,37.06140350877193,0.15384615384615385,bump be be apologise call talk agree go promise
+Grainne,Claire,0.43859649122807015,2.850877192982456,37.06140350877193,0.15384615384615385,bump be be apologise call talk agree go promise
+Grainne,Claire,0.43859649122807015,2.850877192982456,37.06140350877193,0.15384615384615385,bump be be apologise call talk agree go promise
+Claire,Grainne,1.1363636363636365,3.977272727272727,49.43181818181818,0.2857142857142857,slip lose manage be
+Claire,Grainne,1.1363636363636365,3.977272727272727,49.43181818181818,0.2857142857142857,slip lose manage be
+Grainne,Claire,6.081081081081082,3.7162162162162162,46.95945945945946,1.6363636363636365,take stop tell get stop expect hear stop think
+Grainne,Claire,6.081081081081082,3.7162162162162162,46.95945945945946,1.6363636363636365,take stop tell get stop expect hear stop think
+Grainne,Claire,6.081081081081082,3.7162162162162162,46.95945945945946,1.6363636363636365,take stop tell get stop expect hear stop think
+Claire,Grainne,4.166666666666666,2.7777777777777777,37.5,1.5,do expect do
+Vincent,Claire,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be work
+Alan,Grainne,1.7857142857142856,3.571428571428571,37.5,0.5,be
+Claire,Paul,3.125,0.0,46.875,INF,stand
+Claire,Paul,0.0,0.0,36.36363636363637,INF,work be
+Claire,Paul,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,have realise be think
+Claire,Paul,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,have realise be think
+Claire,Grainne,0.0,0.0,42.857142857142854,INF,hear say
+Jesus,Claire,4.807692307692308,4.807692307692308,28.846153846153843,1.0,be get be
+Paul,Grainne,0.0,4.166666666666666,45.83333333333333,0.0,be frown nod agree
+Paul,Claire,2.380952380952381,1.7857142857142856,48.214285714285715,1.3333333333333333,cut bleed have shag dig
+Paul,Claire,2.380952380952381,1.7857142857142856,48.214285714285715,1.3333333333333333,cut bleed have shag dig
+Paul,Grainne,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Alan,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Grainne,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Alan,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Grainne,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Alan,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Grainne,Paul,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Grainne,Alan,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Paul,Alan,4.642857142857143,2.857142857142857,41.07142857142857,1.625,be say be do have scowl believe
+Alan,Paul,0.0,10.576923076923077,50.96153846153846,0.0,rub
+Gareth,Claire,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,lift fill
+Claire,Gareth,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,lift fill
+Gareth,Paul,1.7857142857142856,2.976190476190476,42.857142857142854,0.6,splutter jump run
+Grainne,Alan,7.291666666666667,1.0416666666666665,41.66666666666667,7.0,be leave sit
+Grainne,Paul,5.729166666666666,1.5625,46.875,3.6666666666666665,stare flick have be
+Grainne,Alan,5.729166666666666,1.5625,46.875,3.6666666666666665,stare flick have be
+Grainne,Paul,5.729166666666666,1.5625,46.875,3.6666666666666665,stare flick have be
+Paul,Alan,5.729166666666666,1.5625,46.875,3.6666666666666665,stare flick have be
+Alan,Paul,5.729166666666666,1.5625,46.875,3.6666666666666665,stare flick have be
+Gareth,Claire,2.6785714285714284,0.0,54.46428571428571,INF,glance smile
+Alan,Claire,0.0,0.0,53.333333333333336,INF,think make go say
+Paul,Grainne,0.0,0.0,16.666666666666664,INF,
+Grainne,Paul,6.666666666666667,5.0,28.333333333333332,1.3333333333333333,be know
+Claire,Gareth,1.1363636363636365,5.681818181818182,47.72727272727273,0.2,watch fill watch catch turn
+Claire,Gareth,1.1363636363636365,5.681818181818182,47.72727272727273,0.2,watch fill watch catch turn
+Gareth,Claire,1.1363636363636365,5.681818181818182,47.72727272727273,0.2,watch fill watch catch turn
+Claire,Gareth,1.1363636363636365,5.681818181818182,47.72727272727273,0.2,watch fill watch catch turn
+Paul,Claire,0.0,0.8928571428571428,34.82142857142857,0.0,say finish
+Paul,Gareth,2.430555555555556,4.513888888888888,37.5,0.5384615384615384,be say be hurt be marry be pause drop pick
+Paul,Gareth,2.430555555555556,4.513888888888888,37.5,0.5384615384615384,be say be hurt be marry be pause drop pick
+Claire,Gareth,1.5625,1.5625,46.875,1.0,straighten look
+Claire,Gareth,0.8333333333333334,0.0,59.166666666666664,INF,watch stand begin gather
+Claire,Gareth,3.4090909090909087,9.090909090909092,42.04545454545455,0.375,feel
+Gareth,Claire,1.3888888888888888,2.7777777777777777,73.61111111111111,0.5,think be
+Claire,Gareth,0.0,0.0,50.0,INF,scrape stand follow
+Claire,Gareth,0.0,0.0,50.0,INF,scrape stand follow
+Gareth,Claire,0.0,0.0,52.94117647058824,INF,push follow let fall shut
+Gareth,Claire,0.0,0.0,52.94117647058824,INF,push follow let fall shut
+Claire,Gareth,0.0,0.0,36.36363636363637,INF,fall watch
+Gareth,Claire,0.0,0.0,52.38095238095239,INF,pull hold struggle
+Gareth,Claire,0.0,0.0,52.38095238095239,INF,pull hold struggle
+Gareth,Claire,0.0,1.7857142857142856,69.64285714285714,0.0,shut
+Gareth,Claire,2.2058823529411766,0.0,56.61764705882353,INF,say step let peer
+Claire,Gareth,0.0,0.0,30.0,INF,turn
+Claire,Gareth,0.0,2.5,49.5,0.0,glance be
+Claire,Gareth,0.0,8.333333333333332,25.0,0.0,follow
+Claire,Gareth,0.7352941176470588,3.6764705882352944,48.529411764705884,0.2,grin let
+Gareth,Claire,0.7352941176470588,3.6764705882352944,48.529411764705884,0.2,grin let
+Gareth,Claire,0.7352941176470588,3.6764705882352944,48.529411764705884,0.2,grin let
+Gareth,Claire,4.545454545454546,0.0,59.09090909090909,INF,look
+Gareth,Dermot,2.717391304347826,5.434782608695652,44.02173913043478,0.5,lay sleep rest
+Gareth,Dermot,2.717391304347826,5.434782608695652,44.02173913043478,0.5,lay sleep rest
+Dermot,Gareth,2.717391304347826,5.434782608695652,44.02173913043478,0.5,lay sleep rest
+Dermot,Gareth,2.717391304347826,5.434782608695652,44.02173913043478,0.5,lay sleep rest
+Dermie,Gareth,0.5208333333333333,0.0,57.8125,INF,get bring say
+Dermie,Gareth,0.0,3.90625,46.09375,0.0,promise take
+Claire,Gareth,0.0,0.0,50.0,INF,turn smile
+Alan,Gareth,0.0,0.0,0.0,INF,
+Alan,Margaret,0.0,0.0,0.0,INF,
+Gareth,Margaret,0.0,0.0,0.0,INF,
+Claire,Gareth,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,glance face
+Gareth,Claire,2.8846153846153846,0.0,66.34615384615384,INF,be stare compress
+Claire,Gareth,2.8846153846153846,0.0,66.34615384615384,INF,be stare compress
+Gareth,Claire,6.25,0.0,56.25,INF,take hold
+Claire,Gareth,4.0,4.5,43.5,0.8888888888888888,be say tug smile let go
+Claire,Gareth,4.0,4.5,43.5,0.8888888888888888,be say tug smile let go
+Jesus,Claire,0.0,0.0,40.0,INF,say
+Jesus,Gareth,0.0,0.0,40.0,INF,say
+Claire,Gareth,0.0,0.0,40.0,INF,say
+Jesus,Claire,0.0,0.0,28.57142857142857,INF,make go do
+Claire,Gareth,0.0,0.0,33.33333333333333,INF,turn raise
+Gareth,Claire,0.0,0.0,33.33333333333333,INF,turn raise
+Tommy,Claire,7.142857142857142,0.0,50.0,INF,place
+Claire,Gareth,0.0,0.0,50.0,INF,glance
+Claire,Tommy,1.1363636363636365,0.0,53.40909090909091,INF,place
+Paul,Claire,3.125,0.0,46.875,INF,have see
+Claire,Paul,1.1904761904761905,0.0,41.66666666666667,INF,watch walk press hoist
+Paul,Claire,1.1904761904761905,0.0,41.66666666666667,INF,watch walk press hoist
+Paul,Claire,1.1904761904761905,0.0,41.66666666666667,INF,watch walk press hoist
+Paul,Claire,1.1904761904761905,0.0,41.66666666666667,INF,watch walk press hoist
+Paul,Claire,0.0,0.0,50.0,INF,see
+Claire,Paul,0.0,0.0,44.44444444444444,INF,see see
+Paul,Claire,0.0,0.0,44.44444444444444,INF,see see
+Claire,Paul,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,see register hesitate decide carry
+Paul,Claire,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,see register hesitate decide carry
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Paul,Claire,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Paul,Claire,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Claire,Paul,4.3604651162790695,0.5813953488372093,57.84883720930233,7.5,watch come scan look be expect see know be be
+Paul,Claire,1.1363636363636365,0.0,62.5,INF,make have see be concern be
+Paul,Claire,1.1363636363636365,0.0,62.5,INF,make have see be concern be
+Claire,Paul,1.1363636363636365,0.0,62.5,INF,make have see be concern be
+Paul,Claire,1.1363636363636365,0.0,62.5,INF,make have see be concern be
+Paul,Claire,0.0,0.0,69.23076923076923,INF,tuck glance
+Paul,Claire,0.0,0.0,69.23076923076923,INF,tuck glance
+Claire,Paul,2.5,0.0,44.166666666666664,INF,watch watch look
+Claire,Paul,0.78125,0.0,36.71875,INF,say place
+Claire,Dermot,1.7857142857142856,0.0,41.07142857142857,INF,listen wonder fancy
+Claire,Dermot,1.7857142857142856,0.0,41.07142857142857,INF,listen wonder fancy
+Claire,Paul,1.7857142857142856,0.0,41.07142857142857,INF,listen wonder fancy
+Dermot,Paul,1.7857142857142856,0.0,41.07142857142857,INF,listen wonder fancy
+Dermot,Paul,1.7857142857142856,0.0,41.07142857142857,INF,listen wonder fancy
+Dermot,Paul,6.25,0.0,43.75,INF,do do know do suspect
+Dermot,Gareth,6.25,0.0,43.75,INF,do do know do suspect
+Paul,Gareth,6.25,0.0,43.75,INF,do do know do suspect
+Claire,Gareth,0.0,0.0,50.0,INF,glance grimace
+Grainne,Claire,2.5,0.0,47.5,INF,latch come shut
+Grainne,Claire,2.5,0.0,47.5,INF,latch come shut
+Claire,Grainne,0.0,2.6785714285714284,33.035714285714285,0.0,abandon leave deal
+Claire,Grainne,1.3888888888888888,0.0,54.166666666666664,INF,see stand
+Grainne,Claire,0.8928571428571428,4.464285714285714,30.357142857142854,0.2,be hear
+Grainne,Claire,0.8928571428571428,4.464285714285714,30.357142857142854,0.2,be hear
+Grainne,Claire,0.8333333333333334,1.6666666666666667,50.83333333333333,0.5,exhale lean fall
+Grainne,Claire,1.0416666666666665,2.083333333333333,46.875,0.5,lift do look
+Grainne,Claire,1.0416666666666665,2.083333333333333,46.875,0.5,lift do look
+Grainne,Claire,0.0,0.0,42.857142857142854,INF,look blink
+Claire,Alan,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,cut grow lose do be
+Claire,Alan,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,cut grow lose do be
+Claire,Alan,0.5208333333333333,9.375,44.27083333333333,0.05555555555555555,laugh jump
+Claire,Alan,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Claire,Alan,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Claire,Alan,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Alan,Claire,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Alan,Claire,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Claire,Alan,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Claire,Alan,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Alan,Claire,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Alan,Claire,0.5208333333333333,5.729166666666666,39.58333333333333,0.09090909090909091,be smile be hate hurt
+Claire,Alan,1.1574074074074074,1.6203703703703702,47.22222222222222,0.7142857142857143,flounder come tack have see be move hold
+Claire,Alan,1.1574074074074074,1.6203703703703702,47.22222222222222,0.7142857142857143,flounder come tack have see be move hold
+Claire,Alan,1.1574074074074074,1.6203703703703702,47.22222222222222,0.7142857142857143,flounder come tack have see be move hold
+Claire,Alan,4.054054054054054,1.3513513513513513,48.64864864864865,3.0,be go insist ask slip be be
+Claire,Alan,4.054054054054054,1.3513513513513513,48.64864864864865,3.0,be go insist ask slip be be
+Claire,Alan,3.125,0.0,34.375,INF,get
+Claire,Alan,0.0,0.0,40.0,INF,smile
+Alan,Claire,1.5625,0.78125,53.90625,2.0,look realise be feel
+Claire,Alan,1.5625,0.78125,53.90625,2.0,look realise be feel
+Claire,Alan,1.5625,0.78125,53.90625,2.0,look realise be feel
+Alan,Claire,18.269230769230766,2.8846153846153846,32.69230769230769,6.333333333333333,have be make
+Claire,Alan,18.269230769230766,2.8846153846153846,32.69230769230769,6.333333333333333,have be make
+Claire,Paul,3.3333333333333335,5.0,45.0,0.6666666666666666,have sleep be be
+Claire,Paul,1.25,1.25,47.5,1.0,be say laugh find lower
+Claire,Paul,1.25,1.25,47.5,1.0,be say laugh find lower
+Claire,Paul,0.0,0.0,33.33333333333333,INF,step
+Alan,Claire,4.375,0.0,45.625,INF,have notice be think be laugh
+Alan,Claire,4.375,0.0,45.625,INF,have notice be think be laugh
+Claire,Alan,4.375,0.0,45.625,INF,have notice be think be laugh
+Claire,Alan,0.0,0.0,61.53846153846154,INF,feel look
+Claire,Alan,0.0,0.0,61.53846153846154,INF,feel look
+Claire,Alan,0.0,0.0,61.53846153846154,INF,feel look
+Claire,Paul,3.431372549019608,1.4705882352941175,53.92156862745098,2.3333333333333335,have sit roll have twist have turn have want lean say be
+Claire,Paul,3.431372549019608,1.4705882352941175,53.92156862745098,2.3333333333333335,have sit roll have twist have turn have want lean say be
+Claire,Paul,3.431372549019608,1.4705882352941175,53.92156862745098,2.3333333333333335,have sit roll have twist have turn have want lean say be
+Claire,Paul,3.431372549019608,1.4705882352941175,53.92156862745098,2.3333333333333335,have sit roll have twist have turn have want lean say be
+Alan,Claire,0.0,0.0,41.17647058823529,INF,sink slip
+Alan,Claire,0.0,0.0,41.17647058823529,INF,sink slip
+Claire,Alan,0.0,0.0,41.17647058823529,INF,sink slip
+Claire,Alan,0.0,0.0,38.46153846153847,INF,remember
+Claire,Alan,0.0,0.0,38.46153846153847,INF,remember
+Alan,Claire,5.357142857142857,3.571428571428571,48.214285714285715,1.5,see
+Alan,Claire,2.272727272727273,0.0,61.36363636363637,INF,be have follow
+Alan,Claire,2.272727272727273,0.0,61.36363636363637,INF,be have follow
+Claire,Alan,2.272727272727273,0.0,61.36363636363637,INF,be have follow
+Alan,Claire,2.272727272727273,0.0,61.36363636363637,INF,be have follow
+Alan,Claire,0.0,0.0,50.0,INF,stand
+Claire,Alan,0.0,0.0,33.33333333333333,INF,turn go
+Alan,Claire,0.0,0.0,53.84615384615385,INF,tangle
+Alan,Claire,0.0,0.0,53.84615384615385,INF,tangle
+Alan,Claire,0.6944444444444444,0.0,54.861111111111114,INF,come pass sit
+Claire,Alan,0.0,2.272727272727273,52.27272727272727,0.0,turn look
+Claire,Alan,0.0,2.272727272727273,52.27272727272727,0.0,turn look
+Claire,Alan,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,stare watch falter begin twitch quiver
+Claire,Alan,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,stare watch falter begin twitch quiver
+Claire,Alan,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,stare watch falter begin twitch quiver
+Claire,Alan,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,hesitate look
+Alan,Claire,8.088235294117647,5.147058823529411,39.705882352941174,1.5714285714285714,be realise begin tremble be
+Claire,Alan,8.088235294117647,5.147058823529411,39.705882352941174,1.5714285714285714,be realise begin tremble be
+Claire,Alan,2.1739130434782608,0.0,63.04347826086957,INF,watch flutter watch become
+Claire,Alan,2.1739130434782608,0.0,63.04347826086957,INF,watch flutter watch become
+Claire,Alan,2.1739130434782608,0.0,63.04347826086957,INF,watch flutter watch become
+Alan,Claire,3.571428571428571,8.035714285714286,45.535714285714285,0.4444444444444444,have make be leave
+Alan,Claire,3.571428571428571,8.035714285714286,45.535714285714285,0.4444444444444444,have make be leave
+Claire,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Gareth,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Oxford,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Alan,Gareth,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Alan,Oxford,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Alan,Claire,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Gareth,Oxford,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Gareth,Claire,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Gareth,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Gareth,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Oxford,Claire,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Oxford,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Oxford,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Alan,0.0,0.2717391304347826,38.858695652173914,0.0,remember think make go stumble cling
+Claire,Alan,0.0,6.25,33.75,0.0,be know
+Claire,Alan,6.25,4.326923076923077,31.73076923076923,1.4444444444444444,say try find do move
+Claire,Alan,6.25,4.326923076923077,31.73076923076923,1.4444444444444444,say try find do move
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Trinity,Alan,3.373015873015873,3.373015873015873,44.047619047619044,1.0,have suggest say have be say have have tell have tell be have say be
+Alan,Trinity,0.0,1.3888888888888888,43.05555555555556,0.0,squint
+Alan,Trinity,1.3888888888888888,1.3888888888888888,63.888888888888886,1.0,blush look
+Trinity,Alan,0.0,10.0,50.0,0.0,look realise
+Trinity,Alan,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Trinity,Alan,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Trinity,Alan,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Alan,Trinity,3.5000000000000004,0.0,46.5,INF,be have leave have return shuffle get reread occur have offer help
+Trinity,Claire,0.0,0.0,44.44444444444444,INF,hear
+Claire,Gareth,1.9444444444444444,1.6666666666666667,51.94444444444445,1.1666666666666667,slump have ask go be
+Gareth,Claire,5.208333333333334,0.0,69.79166666666666,INF,have look nod
+Gareth,Claire,0.0,0.0,60.0,INF,grin
+Gareth,Dermot,1.6666666666666667,2.083333333333333,49.583333333333336,0.8,have drive look shake steer
+Dermot,Gareth,1.6666666666666667,2.083333333333333,49.583333333333336,0.8,have drive look shake steer
+Oxford,Claire,4.761904761904762,1.7857142857142856,60.11904761904761,2.6666666666666665,have be sit have be carry
+Gareth,Claire,7.352941176470589,0.0,27.941176470588236,INF,have tell help make

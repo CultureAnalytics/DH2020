@@ -1,0 +1,20 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Carl,NASA,0.4166666666666667,1.25,58.333333333333336,0.3333333333333333,fill start ask assemble decide contain
+NASA,Carl,0.4166666666666667,1.25,58.333333333333336,0.3333333333333333,fill start ask assemble decide contain
+Carl,Linda,0.0,0.0,30.76923076923077,INF,collaborate
+Carl,Linda,0.0,0.0,30.76923076923077,INF,collaborate
+Ann Druyan,Timothy Farriss,0.0,3.125,46.875,0.0,include
+Timothy Farriss,Ann Druyan,0.0,0.0,48.0,INF,land be plant
+Timothy Farriss,Ann Druyan,0.0,0.0,48.0,INF,land be plant
+Ann Druyan,Timothy Farriss,1.0,0.5,42.5,2.0,be engage marry be work
+Ann Druyan,Carl,1.0,0.5,42.5,2.0,be engage marry be work
+Ann Druyan,Carl,1.0,0.5,42.5,2.0,be engage marry be work
+Ann Druyan,Linda,1.0,0.5,42.5,2.0,be engage marry be work
+Timothy Farriss,Carl,1.0,0.5,42.5,2.0,be engage marry be work
+Timothy Farriss,Carl,1.0,0.5,42.5,2.0,be engage marry be work
+Timothy Farriss,Linda,1.0,0.5,42.5,2.0,be engage marry be work
+Carl,Linda,1.0,0.5,42.5,2.0,be engage marry be work
+Carl,Linda,1.0,0.5,42.5,2.0,be engage marry be work
+Carl,Ann Druyan,4.166666666666666,0.0,40.27777777777778,INF,decide get marry
+Linda,Timothy Farriss,2.272727272727273,0.0,52.27272727272727,INF,take reach
+Carl,Linda,0.0,0.0,31.25,INF,accord be

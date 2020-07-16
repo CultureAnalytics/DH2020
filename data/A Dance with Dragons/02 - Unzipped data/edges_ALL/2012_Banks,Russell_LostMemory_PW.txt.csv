@@ -1,0 +1,863 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Kydd,Calusa State University,2.0161290322580645,2.4193548387096775,50.403225806451616,0.8333333333333334,pass plow keep
+Kydd,Calusa State University,2.0161290322580645,2.4193548387096775,50.403225806451616,0.8333333333333334,pass plow keep
+Bay,Calusa State University,0.8928571428571428,0.4464285714285714,55.80357142857143,2.0,link be
+Calusa State University,Bay,0.0,1.5,54.50000000000001,0.0,invent dredge fill open
+Calusa State University,Kydd,0.0,1.5,54.50000000000001,0.0,invent dredge fill open
+Bay,Kydd,0.0,1.5,54.50000000000001,0.0,invent dredge fill open
+Bay,Calusa State University,0.0,1.5,54.50000000000001,0.0,invent dredge fill open
+Kydd,Calusa State University,0.0,1.5,54.50000000000001,0.0,invent dredge fill open
+Bay,Calusa State University,0.3289473684210526,1.8092105263157896,55.75657894736842,0.18181818181818182,listen rumble cross try hear turn look cluster gleam be build
+Kyle,Iggy,2.302631578947368,0.3289473684210526,63.1578947368421,7.0,build
+Kyle,Iggy,2.302631578947368,0.3289473684210526,63.1578947368421,7.0,build
+Tony,Iggy,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,live need pay
+Tony,Iggy,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,live need pay
+Tony,Iggy,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,live need pay
+Tony,Iggy,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,live need pay
+Iggy,Tony,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,live need pay
+Tony,Iggy,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Tony,Iggy,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Tony,Iggy,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Iggy,Tony,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Iggy,Tony,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Iggy,Tony,3.804347826086957,0.0,50.54347826086957,INF,tell prefer have do have answer say fuck walk feel
+Larry Somerset,Iggy,2.2222222222222223,1.3888888888888888,63.05555555555556,1.6,set smile
+Mr. Somerset,Iggy,0.0,0.0,53.84615384615385,INF,give
+Larry Somerset,Paco,0.5952380952380952,0.0,47.023809523809526,INF,be
+Jesus,Larry Somerset,2.5,0.625,63.541666666666664,4.0,come pick make park include look get break look get run fall
+Jesus,Larry Somerset,2.5,0.625,63.541666666666664,4.0,come pick make park include look get break look get run fall
+Jesus,Larry Somerset,2.5,0.625,63.541666666666664,4.0,come pick make park include look get break look get run fall
+Jesus,Larry Somerset,2.5,0.625,63.541666666666664,4.0,come pick make park include look get break look get run fall
+Larry Somerset,Iggy,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Larry Somerset,Iggy,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Larry Somerset,Iggy,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Iggy,Larry Somerset,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Iggy,Larry Somerset,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Larry Somerset,Iggy,3.5000000000000004,7.5,53.0,0.4666666666666667,be take be shoot
+Iggy,SPCA,0.5208333333333333,1.5625,47.91666666666667,0.3333333333333333,do turn end
+SPCA,Iggy,0.5208333333333333,1.5625,47.91666666666667,0.3333333333333333,do turn end
+Otis,Iggy,2.9166666666666665,11.25,42.5,0.25925925925925924,be feel abandon find
+Otis,Larry Somerset,2.9166666666666665,11.25,42.5,0.25925925925925924,be feel abandon find
+Iggy,Larry Somerset,2.9166666666666665,11.25,42.5,0.25925925925925924,be feel abandon find
+Polka,God,5.528846153846153,6.730769230769231,53.125,0.8214285714285714,be be be have be manufacture satisfy
+Larry Somerset,Otis,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,do surprise
+Larry Somerset,Otis,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,do surprise
+Otis,Larry Somerset,2.717391304347826,1.9927536231884055,60.507246376811594,1.3636363636363635,be bind be discharge have argue do violate be release happen come
+Otis,Larry Somerset,2.717391304347826,1.9927536231884055,60.507246376811594,1.3636363636363635,be bind be discharge have argue do violate be release happen come
+Otis,Larry Somerset,2.717391304347826,1.9927536231884055,60.507246376811594,1.3636363636363635,be bind be discharge have argue do violate be release happen come
+Otis,Larry Somerset,2.717391304347826,1.9927536231884055,60.507246376811594,1.3636363636363635,be bind be discharge have argue do violate be release happen come
+Otis,Larry Somerset,2.717391304347826,1.9927536231884055,60.507246376811594,1.3636363636363635,be bind be discharge have argue do violate be release happen come
+Iggy,Larry Somerset,0.7653061224489796,1.2755102040816326,61.224489795918366,0.6,be bury drag sleep unzip block sleep zip
+Larry Somerset,Iggy,0.7653061224489796,1.2755102040816326,61.224489795918366,0.6,be bury drag sleep unzip block sleep zip
+Iggy,Bay,3.2407407407407405,2.314814814814815,57.407407407407405,1.4,weigh sleep be toss drop take push sink
+Iggy,Bay,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,be be want be
+Iggy,Bay,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,be be want be
+Iggy,Bay,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,be be want be
+Iggy,Bay,2.0161290322580645,3.225806451612903,46.37096774193548,0.625,be be want be
+Larry Somerset,Iggy,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,be sleep
+Larry Somerset,Iggy,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,be sleep
+Iggy,Larry Somerset,0.2403846153846154,0.0,63.22115384615385,INF,drink eat poke fold shave
+Iggy,Larry Somerset,0.2403846153846154,0.0,63.22115384615385,INF,drink eat poke fold shave
+Calusa State University,Boston Red Sox,1.8292682926829267,2.7439024390243905,63.71951219512195,0.6666666666666666,wear fade be lug be
+Bay,Calusa State University,3.75,1.25,45.0,3.0,want
+Calusa State University,Bay,0.8064516129032258,2.4193548387096775,48.38709677419355,0.3333333333333333,swamp be live
+Adam,God,1.6304347826086956,2.1739130434782608,67.93478260869566,0.75,come dictate be suppose work
+Iggy,Bay,2.5,3.125,59.375,0.8,do want think wrap sleep
+Iggy,P.C.,1.4423076923076923,9.134615384615383,50.96153846153846,0.15789473684210525,do want fall be come tell
+Iggy,P.C.,1.4423076923076923,9.134615384615383,50.96153846153846,0.15789473684210525,do want fall be come tell
+P.C.,Iggy,1.4423076923076923,9.134615384615383,50.96153846153846,0.15789473684210525,do want fall be come tell
+God,Adam,0.8333333333333334,0.0,79.16666666666666,INF,call say do do
+God,Adam,0.8333333333333334,0.0,79.16666666666666,INF,call say do do
+God,Adam,1.8229166666666667,5.208333333333334,53.385416666666664,0.35,begin be work be be be watch protect
+God,Adam,1.8229166666666667,5.208333333333334,53.385416666666664,0.35,begin be work be be be watch protect
+God,Adam,3.4375000000000004,2.1875,56.875,1.5714285714285714,do know create blow come take make
+God,Adam,3.4375000000000004,2.1875,56.875,1.5714285714285714,do know create blow come take make
+God,Bay,2.5,5.0,51.388888888888886,0.5,accord lay beguile eat be wrap sleep sink lie forget despise mourn expose abandon suffer
+God,Adam,2.5,5.0,51.388888888888886,0.5,accord lay beguile eat be wrap sleep sink lie forget despise mourn expose abandon suffer
+Bay,Adam,2.5,5.0,51.388888888888886,0.5,accord lay beguile eat be wrap sleep sink lie forget despise mourn expose abandon suffer
+Adam,Cain,5.232558139534884,1.744186046511628,65.11627906976744,3.0,be become name have burn be dream
+Adam,Abel,5.232558139534884,1.744186046511628,65.11627906976744,3.0,be become name have burn be dream
+Cain,Abel,5.232558139534884,1.744186046511628,65.11627906976744,3.0,be become name have burn be dream
+Cain,Abel,3.048780487804878,0.3048780487804878,57.62195121951219,10.0,come be live be
+Benbow,P.C.,2.34375,0.78125,57.291666666666664,3.0,find do lie be talk let pitch ask be try cadge
+P.C.,Benbow,2.34375,0.78125,57.291666666666664,3.0,find do lie be talk let pitch ask be try cadge
+P.C.,Benbow,2.34375,0.78125,57.291666666666664,3.0,find do lie be talk let pitch ask be try cadge
+P.C.,Benbow,2.34375,0.78125,57.291666666666664,3.0,find do lie be talk let pitch ask be try cadge
+P.C.,Benbow,2.34375,0.78125,57.291666666666664,3.0,find do lie be talk let pitch ask be try cadge
+Benbow,Clinton,0.9146341463414633,0.0,62.5,INF,dig make be bear
+Clinton,Benbow,0.9146341463414633,0.0,62.5,INF,dig make be bear
+Benbow,U. S. Steel,0.0,1.1904761904761905,55.952380952380956,0.0,be
+Benbow,U. S. Steel,0.0,1.1904761904761905,55.952380952380956,0.0,be
+Benbow,U. S. Steel,0.0,1.1904761904761905,55.952380952380956,0.0,be
+Benbow,U. S. Steel,0.78125,3.125,49.21875,0.25,be educate suspect be
+Jason,Cynthia,3.125,0.625,56.25,5.0,bore be name
+Kenyon College,Yale,1.25,0.9375,65.3125,1.3333333333333333,go attend refuse be see dance love
+Yale,Kenyon College,1.25,0.9375,65.3125,1.3333333333333333,go attend refuse be see dance love
+Yale,Kenyon College,1.25,0.9375,65.3125,1.3333333333333333,go attend refuse be see dance love
+Yale,Kenyon College,1.25,0.9375,65.3125,1.3333333333333333,go attend refuse be see dance love
+Calusa State University,Artie Shaw,0.0,0.0,54.54545454545454,INF,be be play cross get
+Artie Shaw,Benbow,0.0,2.941176470588235,55.88235294117647,0.0,spot
+Benbow,Calusa State University,2.450980392156863,3.431372549019608,49.01960784313725,0.7142857142857143,deny know have be decry urge
+Benbow,Calusa State University,0.9090909090909091,2.727272727272727,61.81818181818181,0.3333333333333333,be restore chrome back top droop attach
+Benbow,Bay,1.215277777777778,2.951388888888889,61.111111111111114,0.4117647058823529,see azure surround sink have be leave go
+Bay,Calusa State University,0.6578947368421052,0.0,51.973684210526315,INF,look see
+Benbow,Bob,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,decide be be
+Bob,Miller,0.5,0.0,55.50000000000001,INF,haul slide
+Bob,Benbow,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,say think be
+Yvonne,Bob,1.875,0.9375,47.1875,2.0,say visit
+Yvonne,Benbow,1.875,0.9375,47.1875,2.0,say visit
+Bob,Benbow,1.875,0.9375,47.1875,2.0,say visit
+Yvonne,Miller,1.6304347826086956,0.0,50.54347826086957,INF,reach pull set
+Bob,Yvonne,0.0,0.0,66.66666666666666,INF,do
+Benbow,Yvonne,4.166666666666666,0.0,35.833333333333336,INF,say extend
+Benbow,Yvonne,0.0,0.0,42.857142857142854,INF,pull pass
+Bob,Benbow,0.0,0.0,75.0,INF,laugh
+Bay,Kydd,0.3125,3.125,56.56250000000001,0.1,cackle spot pass gather
+Benbow,Bay,0.5,0.0,51.5,INF,have pitch drop crumble meet
+Paco,Calusa State University,0.8333333333333334,0.0,65.83333333333333,INF,
+Benbow,Bob,2.8846153846153846,6.730769230769231,51.92307692307693,0.42857142857142855,need be
+Mensa,Prometheus Society,4.521276595744681,1.8617021276595744,55.319148936170215,2.4285714285714284,have move require take design winnow compare
+Prometheus Society,Mensa,4.521276595744681,1.8617021276595744,55.319148936170215,2.4285714285714284,have move require take design winnow compare
+Google,Calusa State University,4.166666666666666,0.4166666666666667,62.083333333333336,10.0,have do be click find
+Kydd,Calusa State University,1.5625,0.0,52.604166666666664,INF,use be prowl be
+Kydd,Calusa State University,1.5625,0.0,52.604166666666664,INF,use be prowl be
+Bay,Kydd,1.3888888888888888,0.0,63.05555555555556,INF,be defend be call
+Bay,Kydd,1.3888888888888888,0.0,63.05555555555556,INF,be defend be call
+Kydd,Bay,4.166666666666666,0.4166666666666667,45.416666666666664,10.0,be be bury
+Kydd,Calusa State University,0.8522727272727272,3.4090909090909087,45.73863636363637,0.25,fit exist be live
+Kydd,Calusa State University,0.8522727272727272,3.4090909090909087,45.73863636363637,0.25,fit exist be live
+Bay,Calusa State University,0.0,3.888888888888889,51.66666666666667,0.0,riffle flip stink
+Bob,Yvonne,0.5681818181818182,0.0,58.52272727272727,INF,be belong sit
+Bob,Benbow,0.0,0.0,50.0,INF,ask
+Rani,Biswas,1.7857142857142856,0.0,55.35714285714286,INF,be name
+Biswas,Gloria,5.555555555555555,0.6944444444444444,49.30555555555556,8.0,be name meet have call
+Gloria,Biswas,5.555555555555555,0.6944444444444444,49.30555555555556,8.0,be name meet have call
+Gloria,Biswas,7.954545454545454,0.0,28.40909090909091,INF,be tell
+Gloria,Biswas,7.954545454545454,0.0,28.40909090909091,INF,be tell
+Biswas,Gloria,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Biswas,Gloria,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Biswas,Gloria,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Gloria,Biswas,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Gloria,Biswas,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Gloria,Biswas,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Gloria,Biswas,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Biswas,Gloria,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Gloria,Biswas,4.054054054054054,6.756756756756757,35.13513513513514,0.6,be know be tinge say
+Biswas,Gloria,2.82258064516129,2.82258064516129,49.193548387096776,1.0,be exasperate have do say attempt soften lapse call
+Gloria,Biswas,2.82258064516129,2.82258064516129,49.193548387096776,1.0,be exasperate have do say attempt soften lapse call
+Gloria,Biswas,2.82258064516129,2.82258064516129,49.193548387096776,1.0,be exasperate have do say attempt soften lapse call
+Gloria,Calusa State University,1.8092105263157896,2.7960526315789473,61.18421052631579,0.6470588235294118,be employ be have end serve be mismanage sit
+Calusa State University,Gloria,1.8092105263157896,2.7960526315789473,61.18421052631579,0.6470588235294118,be employ be have end serve be mismanage sit
+Calusa State University,Gloria,1.8092105263157896,2.7960526315789473,61.18421052631579,0.6470588235294118,be employ be have end serve be mismanage sit
+Calusa State University,Gloria,1.8092105263157896,2.7960526315789473,61.18421052631579,0.6470588235294118,be employ be have end serve be mismanage sit
+Kenyon College,Yale,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Mensa,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Prometheus Society,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Yale,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Mensa,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Prometheus Society,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Mensa,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Prometheus Society,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Yale,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Prometheus Society,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Mensa,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Prometheus Society,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Prometheus Society,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Calusa State University,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Calusa State University,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Kenyon College,Calusa State University,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Calusa State University,Kenyon College,1.8421052631578945,1.4473684210526316,50.39473684210526,1.2727272727272727,include be have edit
+Gloria,Kenyon College,11.5,5.0,43.5,2.3,be know know
+Gloria,Kenyon College,11.5,5.0,43.5,2.3,be know know
+Gloria,Kenyon College,11.5,5.0,43.5,2.3,be know know
+Kenyon College,Gloria,11.5,5.0,43.5,2.3,be know know
+Kenyon College,Gloria,11.5,5.0,43.5,2.3,be know know
+Gloria,Kenyon College,11.5,5.0,43.5,2.3,be know know
+Kenyon College,Gloria,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Gloria,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,Kenyon College,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,Kenyon College,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Gloria,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,U. S. Steel,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Kenyon College,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Rani,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+U. S. Steel,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Rani,Biswas,1.4747191011235954,2.7387640449438204,60.39325842696629,0.5384615384615384,call be convey have be marry be work be kill be do have be travel do settle be marry know have father offer imply
+Benbow,Dahlia Freed,2.2058823529411766,1.8382352941176472,57.720588235294116,1.2,look go work pick leave speak
+Benbow,Dahlia Freed,2.2058823529411766,1.8382352941176472,57.720588235294116,1.2,look go work pick leave speak
+Kydd,Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Kydd,Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Kydd,Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Kydd,Mr. Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Benbow,Mr. Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Benbow,Mr. Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Benbow,Mr. Benbow,1.744186046511628,0.0,58.720930232558146,INF,explain be remain be be interview be encamp have arrange be employ
+Benbow,Bay,0.0,0.4166666666666667,62.916666666666664,0.0,be pitch isolate gather own
+Benbow,Bay,0.0,0.4166666666666667,62.916666666666664,0.0,be pitch isolate gather own
+Benbow,Bay,0.0,0.4166666666666667,62.916666666666664,0.0,be pitch isolate gather own
+Benbow,Bay,0.0,0.4166666666666667,62.916666666666664,0.0,be pitch isolate gather own
+Dahlia Freed,Benbow,0.78125,0.78125,42.1875,1.0,talk cut
+Annie,Raggedy Ann,2.083333333333333,2.9166666666666665,55.00000000000001,0.7142857142857143,like think be be name like
+Calusa State University,Iggy,0.4629629629629629,0.9259259259259258,54.166666666666664,0.5,be live
+Bay,George,0.8620689655172413,1.9396551724137931,62.71551724137932,0.4444444444444444,originate have be blow swamp drive stir name
+Benbow,Annie,0.0,2.4390243902439024,39.02439024390244,0.0,be sleep be hide be film do want screw
+Benbow,Annie,0.0,2.4390243902439024,39.02439024390244,0.0,be sleep be hide be film do want screw
+Benbow,Einstein,0.8064516129032258,0.8064516129032258,50.0,1.0,own include have be stash
+Bay,Calusa State University,0.3787878787878788,0.7575757575757576,59.46969696969697,0.5,be scatter hide bury
+Calusa State University,Bay,0.0,3.125,61.875,0.0,have cross have pass head
+Annie,Einstein,0.0,0.0,33.33333333333333,INF,
+Bay,Calusa State University,0.9259259259259258,2.6234567901234565,60.64814814814815,0.35294117647058826,cross be be gather take do occur
+Bay,Benbow,0.9259259259259258,2.6234567901234565,60.64814814814815,0.35294117647058826,cross be be gather take do occur
+Calusa State University,Benbow,0.9259259259259258,2.6234567901234565,60.64814814814815,0.35294117647058826,cross be be gather take do occur
+Annie,Einstein,1.6666666666666667,4.166666666666666,40.833333333333336,0.4,be be
+Annie,Einstein,0.9615384615384616,1.9230769230769231,66.34615384615384,0.5,get take
+Plato,Paco,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Plato,P.C.,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Plato,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Plato,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Paco,P.C.,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Paco,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+Paco,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+P.C.,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+P.C.,Lawrence Somerset,2.586206896551724,2.586206896551724,50.0,1.0,be be think wonder be call be have
+O. J. Simpson,Calusa State University,0.8333333333333334,1.0416666666666665,54.79166666666667,0.8,have know have think be fuck have kill be play
+O. J. Simpson,Calusa State University,0.8333333333333334,1.0416666666666665,54.79166666666667,0.8,have know have think be fuck have kill be play
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+O. J. Simpson,Dario,3.6764705882352944,0.9803921568627451,54.166666666666664,3.75,be be happen look fool buy get comp
+Paco,Plato,2.4193548387096775,2.82258064516129,46.37096774193548,0.8571428571428571,be surprise do blow be agree meet
+Paco,P.C.,2.4193548387096775,2.82258064516129,46.37096774193548,0.8571428571428571,be surprise do blow be agree meet
+Plato,P.C.,2.4193548387096775,2.82258064516129,46.37096774193548,0.8571428571428571,be surprise do blow be agree meet
+Kydd,Bay,0.7102272727272727,0.14204545454545456,58.23863636363637,5.0,anchor row originate swamp be bury use measure draw write mark
+Kydd,Calusa State University,0.7102272727272727,0.14204545454545456,58.23863636363637,5.0,anchor row originate swamp be bury use measure draw write mark
+Kydd,Bay,0.7102272727272727,0.14204545454545456,58.23863636363637,5.0,anchor row originate swamp be bury use measure draw write mark
+Kydd,Calusa State University,0.7102272727272727,0.14204545454545456,58.23863636363637,5.0,anchor row originate swamp be bury use measure draw write mark
+Bay,Calusa State University,0.7102272727272727,0.14204545454545456,58.23863636363637,5.0,anchor row originate swamp be bury use measure draw write mark
+Shyster,Larry Somerset,1.1363636363636365,0.0,53.40909090909091,INF,call say
+Annie,Einstein,0.0,0.0,55.00000000000001,INF,duck grab
+Einstein,Shyster,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Einstein,Shyster,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Einstein,Shyster,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Einstein,Shyster,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Shyster,Einstein,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Shyster,Einstein,0.8333333333333334,0.6666666666666667,63.83333333333333,1.25,figure be get leave lay last think be go be touch call be want
+Annie,Einstein,0.0,0.0,55.55555555555556,INF,cut break hand
+Shyster,Paco,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Shyster,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Shyster,P.C.,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Shyster,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Shyster,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Paco,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Paco,P.C.,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Paco,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Paco,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Plato,P.C.,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+P.C.,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+P.C.,Plato,3.5999999999999996,2.1999999999999997,46.2,1.6363636363636365,admire apply feel single ask do operate serve be serve
+Plato,Paco,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Plato,Shyster,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Plato,Paco,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Shyster,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Shyster,Paco,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Shyster,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Shyster,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Plato,4.166666666666666,1.0416666666666665,55.208333333333336,4.0,argue go refer invoke find be call address
+Paco,Plato,6.5,3.0,58.5,2.1666666666666665,decline serve say be take do need want
+Plato,Paco,6.5,3.0,58.5,2.1666666666666665,decline serve say be take do need want
+Paco,Bay,1.4423076923076923,0.4807692307692308,59.61538461538461,3.0,give possess have manage drag dry have charge
+P.C.,Bay,2.8089887640449436,2.8089887640449436,53.93258426966292,1.0,be displease take please have function take provide steal empty say be tolerate
+P.C.,Bay,2.8089887640449436,2.8089887640449436,53.93258426966292,1.0,be displease take please have function take provide steal empty say be tolerate
+Calusa State University,Paco,3.1818181818181817,2.0454545454545454,65.68181818181819,1.5555555555555556,get drift be get sleep be tell be
+Einstein,Annie,0.0,0.0,33.33333333333333,INF,
+Bay,Calusa State University,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,give look gaze stack face
+Kydd,Calusa State University,3.2407407407407405,2.7777777777777777,49.53703703703704,1.1666666666666667,be imagine see sail be call
+Einstein,Benbow,3.6363636363636362,5.0,49.54545454545455,0.7272727272727273,be function be break tie heal be cut be fly
+Einstein,Benbow,3.6363636363636362,5.0,49.54545454545455,0.7272727272727273,be function be break tie heal be cut be fly
+Annie,Einstein,0.3787878787878788,3.4090909090909087,50.75757575757576,0.1111111111111111,be
+Jesus,Calusa Times-Union,3.7162162162162162,2.871621621621622,59.62837837837838,1.2941176470588236,look be make be try be understand have be protect prowl
+Jesus,Calusa Times-Union,3.7162162162162162,2.871621621621622,59.62837837837838,1.2941176470588236,look be make be try be understand have be protect prowl
+Jesus,Calusa Times-Union,3.7162162162162162,2.871621621621622,59.62837837837838,1.2941176470588236,look be make be try be understand have be protect prowl
+Jesus,Calusa Times-Union,3.7162162162162162,2.871621621621622,59.62837837837838,1.2941176470588236,look be make be try be understand have be protect prowl
+Jesus,Calusa State University,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Jesus,Calusa State University,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Jesus,Calusa State University,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Calusa State University,Jesus,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Calusa State University,Jesus,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Calusa State University,Jesus,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Calusa State University,Jesus,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Calusa State University,Jesus,3.0797101449275366,2.717391304347826,53.62318840579711,1.1333333333333333,leave go come resume crack use tease be ask think be go
+Einstein,Annie,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Einstein,Benbow,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Annie,Einstein,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Annie,Benbow,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Annie,Einstein,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Einstein,Benbow,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Benbow,Einstein,2.0161290322580645,0.0,46.37096774193548,INF,bring carry
+Annie,Einstein,2.631578947368421,0.0,50.0,INF,help get
+Calusa State University,U.S. Army,1.644736842105263,0.6578947368421052,57.34649122807017,2.5,ride get stop sit distribute make give want respect be get watch
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Iggy,Calusa State University,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Calusa State University,Iggy,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Calusa State University,Iggy,1.4957264957264957,1.282051282051282,69.87179487179486,1.1666666666666667,be discourage know be defeat start follow click declare be watch have jerk zip click try check think be look raise
+Beemer,Calusa Community College,4.076086956521739,1.0869565217391304,66.57608695652173,3.75,say be live get be get adjust plan take
+Beemer,Calusa Community College,4.076086956521739,1.0869565217391304,66.57608695652173,3.75,say be live get be get adjust plan take
+Beemer,Calusa Community College,4.076086956521739,1.0869565217391304,66.57608695652173,3.75,say be live get be get adjust plan take
+Beemer,Calusa Community College,4.076086956521739,1.0869565217391304,66.57608695652173,3.75,say be live get be get adjust plan take
+Jesus,Beemer,5.0,2.1875,60.3125,2.2857142857142856,be have lie be take
+Jesus,Beemer,5.0,2.1875,60.3125,2.2857142857142856,be have lie be take
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Beemer,Brandi,5.308219178082192,4.10958904109589,54.965753424657535,1.2916666666666667,be be let have let go have be travel know be do be
+Brandi,Iggy,4.807692307692308,0.9615384615384616,48.07692307692308,5.0,wonder tell be name
+Brandi,Iggy,4.807692307692308,0.9615384615384616,48.07692307692308,5.0,wonder tell be name
+Brandi,Iggy,3.9634146341463414,3.048780487804878,58.84146341463414,1.3,be surprise learn be want describe have see wonder want
+Iggy,Brandi,3.9634146341463414,3.048780487804878,58.84146341463414,1.3,be surprise learn be want describe have see wonder want
+Iggy,Brandi,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Iggy,Brandi,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Brandi,Iggy,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Brandi,Iggy,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Iggy,Brandi,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Brandi,Iggy,3.431372549019608,4.901960784313726,50.49019607843137,0.7,do need remind be be keep draw be get
+Bob,U.S. Army,0.0,0.0,50.0,INF,
+Iggy,Einstein,2.1875,1.7187500000000002,59.84374999999999,1.2727272727272727,seem care do think be affect be be be be end exist
+Iggy,Annie,2.1875,1.7187500000000002,59.84374999999999,1.2727272727272727,seem care do think be affect be be be be end exist
+Einstein,Annie,2.1875,1.7187500000000002,59.84374999999999,1.2727272727272727,seem care do think be affect be be be be end exist
+Einstein,Annie,0.0,0.0,50.0,INF,be head ask tell come be
+Yale,FBI,2.393617021276596,0.7978723404255319,47.87234042553192,3.0,leave go back sell be step do
+Calusa State University,Caribbean Basin Institute,2.4271844660194173,1.0922330097087378,64.44174757281553,2.2222222222222223,hit learn report duck learn research escape come find call have vet be replace appear be do be do
+Calusa State University,CIA,2.4271844660194173,1.0922330097087378,64.44174757281553,2.2222222222222223,hit learn report duck learn research escape come find call have vet be replace appear be do be do
+Caribbean Basin Institute,CIA,2.4271844660194173,1.0922330097087378,64.44174757281553,2.2222222222222223,hit learn report duck learn research escape come find call have vet be replace appear be do be do
+Caribbean Basin Institute,Calusa State University,0.9803921568627451,2.696078431372549,64.95098039215686,0.36363636363636365,come quit work accept create have
+FBI,CIA,1.2773722627737227,0.9124087591240875,67.15328467153284,1.4,have be report have lead become appear be marry live portray
+FBI,Calusa State University,1.2773722627737227,0.9124087591240875,67.15328467153284,1.4,have be report have lead become appear be marry live portray
+CIA,Calusa State University,1.2773722627737227,0.9124087591240875,67.15328467153284,1.4,have be report have lead become appear be marry live portray
+Dave Dillinger,Brandi,2.5,0.0,37.5,INF,say
+Dave Dillinger,Brandi,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Dave Dillinger,Brandi,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,Dave Dillinger,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,Dave Dillinger,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,Dave Dillinger,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,Dave Dillinger,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Dave Dillinger,Brandi,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Dave Dillinger,Brandi,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Dave Dillinger,Brandi,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,Dave Dillinger,0.8152173913043478,0.5434782608695652,57.33695652173913,1.5,be think be be think be fuck be be
+Brandi,God,2.1875,0.9375,54.37499999999999,2.3333333333333335,think be say be call come learn be come
+God,Brandi,2.1875,0.9375,54.37499999999999,2.3333333333333335,think be say be call come learn be come
+God,Brandi,2.1875,0.9375,54.37499999999999,2.3333333333333335,think be say be call come learn be come
+Brandi,Mr. Dillinger,2.403846153846154,2.8846153846153846,56.25,0.8333333333333334,look say listen be come
+Brandi,Mr. Dillinger,0.0,0.0,33.33333333333333,INF,be
+Annie,Einstein,0.0,0.0,46.42857142857143,INF,have
+Annie,Einstein,0.0,0.0,46.42857142857143,INF,have
+Einstein,Annie,0.0,0.0,46.42857142857143,INF,have
+Annie,Einstein,0.0,0.0,46.42857142857143,INF,have
+Einstein,Annie,8.653846153846153,2.8846153846153846,50.0,3.0,be have
+Einstein,Benbow,2.2058823529411766,0.0,44.85294117647059,INF,be wonder have liberate
+Einstein,Benbow,2.2058823529411766,0.0,44.85294117647059,INF,be wonder have liberate
+Annie,Einstein,2.34375,0.0,44.53125,INF,wipe say believe take have take
+Annie,Einstein,0.0,4.807692307692308,56.730769230769226,0.0,listen
+Kenyon College,Yale,0.6756756756756757,2.027027027027027,45.94594594594595,0.3333333333333333,leave go graduate be
+Calusa State University,Gloria,3.799019607843137,1.4705882352941175,54.53431372549019,2.5833333333333335,know learn mention know know be marry be employ be
+Yale,Calusa State University,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,know
+Gloria,Calusa State University,1.8181818181818181,1.3636363636363635,47.72727272727273,1.3333333333333333,reveal have speak have visit have come ask speak have be
+Gloria,Calusa State University,1.8181818181818181,1.3636363636363635,47.72727272727273,1.3333333333333333,reveal have speak have visit have come ask speak have be
+George,Calusa State University,1.358695652173913,0.5434782608695652,58.96739130434783,2.5,plan arrive be call spend depart
+George,Calusa State University,1.358695652173913,0.5434782608695652,58.96739130434783,2.5,plan arrive be call spend depart
+Calusa State University,Calusa Police Department,1.0964912280701753,1.5350877192982455,64.03508771929825,0.7142857142857143,have leave drive believe need protect be come call show claim be
+Jason,Cynthia,4.166666666666666,1.6666666666666667,44.166666666666664,2.5,love love
+Jason,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,U. S. Steel,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,U. S. Steel,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,U. S. Steel,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,U. S. Steel,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+U. S. Steel,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+U. S. Steel,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+U. S. Steel,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+U. S. Steel,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Clinton,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Jason,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,Cynthia,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Clinton,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Cynthia,Jason,4.0,1.9166666666666665,50.083333333333336,2.0869565217391304,have try enter emulate seem admire be be admire employ hire work
+Calusa State University,Bay,0.0,0.4716981132075472,56.132075471698116,0.0,lead swirl have hit suck lift
+Einstein,Annie,0.9615384615384616,0.0,45.19230769230769,INF,be get
+God,Moses,1.7857142857142856,0.0,62.5,INF,be be lay get
+Otis,Paco,0.0,0.25510204081632654,58.92857142857143,0.0,have abandon flood move include have stop take appear be disappear
+Otis,Paco,0.0,0.25510204081632654,58.92857142857143,0.0,have abandon flood move include have stop take appear be disappear
+Otis,Harley,0.0,0.25510204081632654,58.92857142857143,0.0,have abandon flood move include have stop take appear be disappear
+Paco,Harley,0.0,0.25510204081632654,58.92857142857143,0.0,have abandon flood move include have stop take appear be disappear
+Paco,Harley,0.0,0.25510204081632654,58.92857142857143,0.0,have abandon flood move include have stop take appear be disappear
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Paco,Harley,0.0,0.0,50.0,INF,grab tell stay get
+Shyster,Calusa State University,3.205128205128205,0.641025641025641,55.12820512820513,5.0,lock demonstrate be be violate
+Otis,Paco,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Otis,P.C.,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Otis,Plato,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Otis,Shyster,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Otis,Paco,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Paco,P.C.,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Paco,Plato,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Paco,Shyster,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+P.C.,Plato,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+P.C.,Shyster,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+P.C.,Paco,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Plato,Shyster,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Plato,Paco,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Shyster,Paco,2.283653846153846,0.7211538461538461,56.61057692307693,3.1666666666666665,have try follow have pitch build pay build be construct organize have set think be get stay pay live
+Paco,Annie,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Paco,Annie,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Annie,Paco,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Annie,Paco,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Paco,Annie,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Annie,Paco,1.5625,1.875,56.56250000000001,0.8333333333333334,put pick tuck wrap rescue
+Paco,Einstein,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,follow say obey hold lead
+Paco,Annie,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,follow say obey hold lead
+Einstein,Annie,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,follow say obey hold lead
+Annie,Paco,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Annie,Harley,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Annie,Paco,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Annie,Paco,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Paco,Harley,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Harley,Paco,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Harley,Paco,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,make wait stuff
+Paco,Harley,0.0,0.0,58.333333333333336,INF,start
+Paco,Harley,0.0,0.0,58.333333333333336,INF,start
+Paco,Harley,1.7361111111111112,3.8194444444444446,58.333333333333336,0.45454545454545453,cut desert have disappear
+Harley,Paco,1.7361111111111112,3.8194444444444446,58.333333333333336,0.45454545454545453,cut desert have disappear
+Annie,P.C.,1.7857142857142856,2.976190476190476,54.761904761904766,0.6,tie push make hope hop
+Otis,Bay,0.0,0.0,52.94117647058824,INF,float
+Moses,God,1.524390243902439,0.9146341463414633,65.85365853658537,1.6666666666666667,be go show scare make live tell do
+Bay,Kydd,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,be recede be be empty
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Kydd,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Einstein,Annie,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,1.2295081967213115,1.0245901639344261,56.76229508196722,1.2,head start trudge lift see soak shiver tie be tuck
+Annie,Einstein,0.0,5.208333333333334,44.79166666666667,0.0,have take
+Annie,Einstein,0.5952380952380952,0.0,47.023809523809526,INF,open lift set
+Einstein,Annie,0.0,1.1904761904761905,51.19047619047619,0.0,lug lead follow
+Einstein,Annie,0.0,1.1904761904761905,51.19047619047619,0.0,lug lead follow
+Einstein,Annie,1.7857142857142856,0.0,55.35714285714286,INF,say do say
+FBI,CIA,0.8928571428571428,2.6785714285714284,53.57142857142857,0.3333333333333333,be talk
+FBI,CIA,0.43103448275862066,0.0,65.08620689655173,INF,be be know be monitor
+FBI,Congress,0.43103448275862066,0.0,65.08620689655173,INF,be be know be monitor
+CIA,Congress,0.43103448275862066,0.0,65.08620689655173,INF,be be know be monitor
+Annie,Einstein,2.314814814814815,2.314814814814815,50.92592592592593,1.0,remind need remind suggest use
+Annie,Einstein,0.78125,0.0,55.46875,INF,sleep
+Annie,Einstein,0.8333333333333334,0.0,52.5,INF,be look be
+Annie,Einstein,0.7352941176470588,0.0,61.029411764705884,INF,do mind happen see be change
+Annie,Einstein,0.7352941176470588,0.0,61.029411764705884,INF,do mind happen see be change
+Annie,Einstein,0.7352941176470588,0.0,61.029411764705884,INF,do mind happen see be change
+Shyster,Paco,0.9868421052631579,0.0,54.276315789473685,INF,be scatter be look
+Shyster,P.C.,0.9868421052631579,0.0,54.276315789473685,INF,be scatter be look
+Paco,P.C.,0.9868421052631579,0.0,54.276315789473685,INF,be scatter be look
+Annie,Einstein,0.0,0.0,40.0,INF,be
+Calusa State University,Seminoles,0.9510869565217392,0.6793478260869565,67.93478260869566,1.4,say hear be live swamp escape fight get live guide
+Bay,Iggy,0.78125,1.5625,44.53125,0.5,be go upcome get
+Annie,Einstein,0.0,0.0,53.84615384615385,INF,stare
+Annie,Benbow,0.5681818181818182,7.954545454545454,41.47727272727273,0.07142857142857142,offer protect kidnap
+Annie,Benbow,0.5681818181818182,7.954545454545454,41.47727272727273,0.07142857142857142,offer protect kidnap
+Annie,Einstein,0.0,0.9615384615384616,49.03846153846153,0.0,want take drive
+Annie,Einstein,0.0,0.0,52.63157894736842,INF,
+Annie,Einstein,0.0,0.0,53.333333333333336,INF,lead hold trail
+Calusa State University,Bay,0.45731707317073167,1.524390243902439,54.11585365853659,0.3,come be bring drive top launch want walk bring
+Paco,Shyster,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Paco,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Paco,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Paco,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Paco,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Shyster,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Shyster,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Shyster,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Shyster,O. J. Simpson,4.166666666666666,9.469696969696969,57.57575757575758,0.44,do dislike dislike know do want know be be
+Dolores,Dinty Moore,1.4317180616740088,0.5506607929515419,71.1453744493392,2.6,carry stash name net loave rent be pay ask charge notice use say add be have need be rescue
+Dolores,Cat Turnbull,1.4317180616740088,0.5506607929515419,71.1453744493392,2.6,carry stash name net loave rent be pay ask charge notice use say add be have need be rescue
+Dolores,Cat Turnbull,1.4317180616740088,0.5506607929515419,71.1453744493392,2.6,carry stash name net loave rent be pay ask charge notice use say add be have need be rescue
+Dinty Moore,Cat Turnbull,1.4317180616740088,0.5506607929515419,71.1453744493392,2.6,carry stash name net loave rent be pay ask charge notice use say add be have need be rescue
+Dinty Moore,Cat Turnbull,1.4317180616740088,0.5506607929515419,71.1453744493392,2.6,carry stash name net loave rent be pay ask charge notice use say add be have need be rescue
+Annie,Einstein,0.5319148936170213,0.0,46.27659574468085,INF,switch set commence load
+Annie,Dolores,0.5319148936170213,0.0,46.27659574468085,INF,switch set commence load
+Einstein,Dolores,0.5319148936170213,0.0,46.27659574468085,INF,switch set commence load
+Dolores,Cat Turnbull,2.0161290322580645,0.4032258064516129,55.64516129032258,5.0,be name catch look
+Dolores,Cat Turnbull,2.2222222222222223,0.5555555555555556,50.55555555555556,4.0,like talk find be be be return pay hang
+Dolores,Cat Turnbull,2.2222222222222223,0.5555555555555556,50.55555555555556,4.0,like talk find be be be return pay hang
+Cat Turnbull,Dolores,2.2222222222222223,0.5555555555555556,50.55555555555556,4.0,like talk find be be be return pay hang
+Dolores,Cat Turnbull,5.555555555555555,3.2407407407407405,52.31481481481482,1.7142857142857142,see be avert speak be talk appear know be mumble look
+Dolores,Cat Turnbull,5.555555555555555,3.2407407407407405,52.31481481481482,1.7142857142857142,see be avert speak be talk appear know be mumble look
+Cat Turnbull,Dolores,5.555555555555555,3.2407407407407405,52.31481481481482,1.7142857142857142,see be avert speak be talk appear know be mumble look
+Cat Turnbull,Dolores,3.125,0.0,40.625,INF,grin pat nuzzle
+Cat Turnbull,Dolores,3.125,0.0,40.625,INF,grin pat nuzzle
+Cat Turnbull,Dolores,3.125,0.0,40.625,INF,grin pat nuzzle
+Turner Slough,Calusa State University,0.0,2.232142857142857,58.48214285714286,0.0,be be flow wind
+Annie,Einstein,2.1875,0.0,67.8125,INF,lie shift fall overhang release have take
+Annie,Einstein,2.1875,0.0,67.8125,INF,lie shift fall overhang release have take
+Turner Slough,Dolores,2.5602409638554215,0.9036144578313252,56.77710843373494,2.8333333333333335,be cut peer spot see think be decide make be be serve
+Cat Turnbull,Shyster,0.7352941176470588,2.5735294117647056,61.39705882352941,0.2857142857142857,pretend serve do feel be
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+Cat Turnbull,O. J. Simpson,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+Cat Turnbull,O. J. Simpson,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+O. J. Simpson,Cat Turnbull,6.547619047619048,2.976190476190476,47.61904761904761,2.2,be do try talk hang watch smile be hide be trust have end tell
+Annie,Einstein,1.3392857142857142,2.6785714285714284,49.55357142857143,0.5,alarm wake
+Annie,Einstein,1.3392857142857142,2.6785714285714284,49.55357142857143,0.5,alarm wake
+Einstein,Turner Slough,2.127659574468085,1.8617021276595744,66.22340425531915,1.1428571428571428,be awake be be be take rent anchor
+Annie,Einstein,2.2151898734177213,3.0063291139240507,60.60126582278481,0.7368421052631579,find be have fight have leave feel have pass be
+Annie,Einstein,2.2151898734177213,3.0063291139240507,60.60126582278481,0.7368421052631579,find be have fight have leave feel have pass be
+Annie,Einstein,2.2151898734177213,3.0063291139240507,60.60126582278481,0.7368421052631579,find be have fight have leave feel have pass be
+Annie,Einstein,2.2151898734177213,3.0063291139240507,60.60126582278481,0.7368421052631579,find be have fight have leave feel have pass be
+Annie,Einstein,2.2151898734177213,3.0063291139240507,60.60126582278481,0.7368421052631579,find be have fight have leave feel have pass be
+Einstein,Dolores,2.314814814814815,0.23148148148148145,60.416666666666664,10.0,steer head flow appear be link accommodate
+Einstein,Turner Slough,2.314814814814815,0.23148148148148145,60.416666666666664,10.0,steer head flow appear be link accommodate
+Dolores,Turner Slough,2.314814814814815,0.23148148148148145,60.416666666666664,10.0,steer head flow appear be link accommodate
+Annie,Einstein,5.263157894736842,4.605263157894736,48.026315789473685,1.1428571428571428,feel have
+Dinty Moore,Annie,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Dinty Moore,Annie,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Dinty Moore,Annie,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Annie,Dinty Moore,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Dinty Moore,Annie,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Dinty Moore,Annie,1.7857142857142856,0.4464285714285714,58.48214285714286,4.0,remember give do distract
+Dinty Moore,Einstein,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Einstein,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Einstein,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Einstein,Dinty Moore,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Einstein,Dinty Moore,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Einstein,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Einstein,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Dinty Moore,Annie,1.1904761904761905,1.9345238095238095,65.92261904761905,0.6153846153846154,draw step get perch stand watch be scare pitch sniff blacken squat do
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Annie,Einstein,4.464285714285714,3.459821428571429,60.82589285714286,1.2903225806451613,get realize do think watch jerk confirm be be watch take pretend be look bury have bury be be think get
+Benbow,Shyster,1.9067796610169492,3.7076271186440675,57.94491525423729,0.5142857142857142,cause remember give visit realize kick be distract listen be get be wave do check be glance raid bust kill
+Benbow,Shyster,1.9067796610169492,3.7076271186440675,57.94491525423729,0.5142857142857142,cause remember give visit realize kick be distract listen be get be wave do check be glance raid bust kill
+Benbow,Iggy,1.9067796610169492,3.7076271186440675,57.94491525423729,0.5142857142857142,cause remember give visit realize kick be distract listen be get be wave do check be glance raid bust kill
+Shyster,Iggy,1.9067796610169492,3.7076271186440675,57.94491525423729,0.5142857142857142,cause remember give visit realize kick be distract listen be get be wave do check be glance raid bust kill
+Shyster,Iggy,1.9067796610169492,3.7076271186440675,57.94491525423729,0.5142857142857142,cause remember give visit realize kick be distract listen be get be wave do check be glance raid bust kill
+Benbow,Iggy,1.7287234042553192,2.6595744680851063,55.18617021276596,0.65,be be spend fight go be be live get fire bind wreck plan
+Benbow,Calusa State University,1.7287234042553192,2.6595744680851063,55.18617021276596,0.65,be be spend fight go be be live get fire bind wreck plan
+Iggy,Calusa State University,1.7287234042553192,2.6595744680851063,55.18617021276596,0.65,be be spend fight go be be live get fire bind wreck plan
+NPR,National Public Radio,1.810344827586207,3.2758620689655173,55.603448275862064,0.5526315789473685,hate get go have be stand listen flip set design make feel sing like tell interview hear tell try sound be
+NPR,Calusa State University,4.385964912280701,2.631578947368421,52.63157894736842,1.6666666666666667,burn look take survive realize be talk describe
+NPR,Calusa State University,4.385964912280701,2.631578947368421,52.63157894736842,1.6666666666666667,burn look take survive realize be talk describe
+Turner Slough,Bay,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Dolores,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Turner Slough,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Dolores,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Turner Slough,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Bay,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Dolores,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Dolores,Turner Slough,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Dolores,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Dolores,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Dolores,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Cat Turnbull,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Turner Slough,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Cat Turnbull,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Cat Turnbull,Calusa Times-Union,1.636904761904762,0.4464285714285714,56.25,3.6666666666666665,be take get tie hurry enter be step ask
+Cat Turnbull,Calusa State University,2.7083333333333335,1.875,63.74999999999999,1.4444444444444444,shake be be do want talk avoid look say see
+Cat Turnbull,Dolores,5.0,5.714285714285714,49.28571428571429,0.875,be see be have be swamp
+Cat Turnbull,Dolores,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,be learn
+Dolores,Cat Turnbull,1.3888888888888888,0.0,43.05555555555556,INF,say go
+Cat Turnbull,Dolores,6.63265306122449,3.061224489795918,43.36734693877551,2.1666666666666665,believe be be be be believe be be
+Cat Turnbull,Dolores,6.63265306122449,3.061224489795918,43.36734693877551,2.1666666666666665,believe be be be be believe be be
+Dolores,Cat Turnbull,6.63265306122449,3.061224489795918,43.36734693877551,2.1666666666666665,believe be be be be believe be be
+Dolores,Cat Turnbull,6.63265306122449,3.061224489795918,43.36734693877551,2.1666666666666665,believe be be be be believe be be
+Shyster,Cat Turnbull,3.8135593220338984,2.9661016949152543,71.1864406779661,1.2857142857142858,be have tell be convict feel see know have lie have be feel be
+Shyster,O. J. Simpson,3.8135593220338984,2.9661016949152543,71.1864406779661,1.2857142857142858,be have tell be convict feel see know have lie have be feel be
+Cat Turnbull,O. J. Simpson,3.8135593220338984,2.9661016949152543,71.1864406779661,1.2857142857142858,be have tell be convict feel see know have lie have be feel be
+Dolores,Cat Turnbull,5.267857142857143,4.107142857142857,59.19642857142857,1.2826086956521738,listen lay be be begin feel come forgive lie be see be know be think write lie have fight write be want interview
+Dolores,Cat Turnbull,5.267857142857143,4.107142857142857,59.19642857142857,1.2826086956521738,listen lay be be begin feel come forgive lie be see be know be think write lie have fight write be want interview
+Cat Turnbull,Dolores,5.267857142857143,4.107142857142857,59.19642857142857,1.2826086956521738,listen lay be be begin feel come forgive lie be see be know be think write lie have fight write be want interview
+Cat Turnbull,Dolores,5.267857142857143,4.107142857142857,59.19642857142857,1.2826086956521738,listen lay be be begin feel come forgive lie be see be know be think write lie have fight write be want interview
+Dolores,Cat Turnbull,0.0,0.0,50.0,INF,be
+Dolores,Calusa Times-Union,0.6578947368421052,0.0,46.71052631578947,INF,suggest go check
+Abbott,Dolores,2.604166666666667,1.0416666666666665,50.520833333333336,2.5,chime use say be keep
+Dolores,Cat Turnbull,2.34375,0.0,44.53125,INF,say lead make
+Cat Turnbull,Dolores,2.34375,0.0,44.53125,INF,say lead make
+NPR,Annie,1.5625,0.5208333333333333,58.333333333333336,3.0,remember be surprise come do seem be
+NPR,Einstein,1.5625,0.5208333333333333,58.333333333333336,3.0,remember be surprise come do seem be
+NPR,Einstein,1.5625,0.5208333333333333,58.333333333333336,3.0,remember be surprise come do seem be
+Annie,Einstein,1.5625,0.5208333333333333,58.333333333333336,3.0,remember be surprise come do seem be
+Annie,Einstein,1.5625,0.5208333333333333,58.333333333333336,3.0,remember be surprise come do seem be
+Cat Turnbull,Dolores,1.4344262295081966,2.663934426229508,53.278688524590166,0.5384615384615384,arrive be hear disappear report include know search
+Cat Turnbull,Dolores,1.4344262295081966,2.663934426229508,53.278688524590166,0.5384615384615384,arrive be hear disappear report include know search
+Cat Turnbull,Dolores,3.225806451612903,4.838709677419355,37.096774193548384,0.6666666666666666,be seem want upgrade compensate
+Einstein,Annie,0.0,0.4807692307692308,53.36538461538461,0.0,try hang
+Einstein,Annie,1.4705882352941175,1.4705882352941175,38.23529411764706,1.0,watch look
+Annie,Einstein,3.3783783783783785,1.3513513513513513,54.729729729729726,2.5,be surprise be see be seem see
+Dolores,Einstein,2.5,3.3333333333333335,40.833333333333336,0.75,laugh tell shut obey
+Einstein,Dolores,1.7857142857142856,0.0,41.07142857142857,INF,seem like
+Shyster,Hoo,0.0,0.0,66.66666666666666,INF,know be meet
+Dolores,Cat Turnbull,4.623287671232877,3.9383561643835616,53.082191780821915,1.173913043478261,have feel warm feel enjoy be make feel
+Hoo,George,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+Hoo,Annie,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+Hoo,Einstein,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+George,Annie,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+George,Einstein,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+Annie,Einstein,0.35714285714285715,3.9285714285714284,50.0,0.09090909090909091,begin pick flood bring
+Hoo,Shyster,3.6585365853658534,0.6097560975609756,49.390243902439025,6.0,buy figure be gon come be be save
+Annie,Einstein,2.7083333333333335,1.6666666666666667,54.79166666666667,1.625,move have say be go ask pay go ask have give be do need be earn work be break be feed be
+Annie,Einstein,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Annie,Dolores,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Annie,Cat Turnbull,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Einstein,Dolores,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Einstein,Cat Turnbull,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Dolores,Cat Turnbull,0.6578947368421052,0.3289473684210526,54.276315789473685,2.0,be afford rent live
+Annie,Einstein,2.82258064516129,0.0,58.46774193548387,INF,be take feed steal
+Huckleberry Finn,Cat Turnbull,2.7777777777777777,0.0,61.111111111111114,INF,live run work come
+Huckleberry Finn,Dolores,2.7777777777777777,0.0,61.111111111111114,INF,live run work come
+Huckleberry Finn,Cat Turnbull,2.7777777777777777,0.0,61.111111111111114,INF,live run work come
+Huckleberry Finn,Dolores,2.7777777777777777,0.0,61.111111111111114,INF,live run work come
+Cat Turnbull,Dolores,2.7777777777777777,0.0,61.111111111111114,INF,live run work come
+Einstein,Annie,4.807692307692308,0.9615384615384616,55.769230769230774,5.0,be perch amuse sleep curl
+Dolores,Cat Turnbull,5.495689655172414,2.0474137931034484,51.939655172413794,2.6842105263157894,go seem see know be convict do know be expose be catch do do do do give
+Dolores,Cat Turnbull,5.769230769230769,0.0,40.38461538461539,INF,hug do charge
+Annie,Einstein,5.416666666666667,4.166666666666666,53.75,1.3,be be make reptile have get do be do make have eat
+Annie,Einstein,5.416666666666667,4.166666666666666,53.75,1.3,be be make reptile have get do be do make have eat
+Einstein,Annie,5.416666666666667,4.166666666666666,53.75,1.3,be be make reptile have get do be do make have eat
+Annie,Einstein,5.416666666666667,4.166666666666666,53.75,1.3,be be make reptile have get do be do make have eat
+Shyster,Hoo,3.0737704918032787,3.483606557377049,50.81967213114754,0.8823529411764706,be drown give be be abuse have let be draw
+Cat Turnbull,Dolores,0.0,0.0,50.0,INF,arrive walk
+Annie,Einstein,0.0,1.3157894736842104,61.8421052631579,0.0,lead lug step
+Annie,Einstein,0.0,1.3157894736842104,61.8421052631579,0.0,lead lug step
+Annie,Einstein,0.0,1.3157894736842104,61.8421052631579,0.0,lead lug step
+Annie,Einstein,0.0,1.3157894736842104,61.8421052631579,0.0,lead lug step
+Dolores,Cat Turnbull,2.976190476190476,1.1904761904761905,67.26190476190477,2.5,be sweep be break
+Dolores,Einstein,2.564102564102564,1.6025641025641024,44.55128205128205,1.6,smile put come ask be get plan
+Dolores,Einstein,2.564102564102564,1.6025641025641024,44.55128205128205,1.6,smile put come ask be get plan
+Einstein,Dolores,2.564102564102564,1.6025641025641024,44.55128205128205,1.6,smile put come ask be get plan
+Dolores,Einstein,2.564102564102564,1.6025641025641024,44.55128205128205,1.6,smile put come ask be get plan
+Dolores,Cat Turnbull,2.34375,2.65625,51.24999999999999,0.8823529411764706,think resemble be be be attract arrive resemble run come trade manufacture
+Dolores,Cat Turnbull,2.34375,2.65625,51.24999999999999,0.8823529411764706,think resemble be be be attract arrive resemble run come trade manufacture
+Dolores,Cat Turnbull,2.34375,2.65625,51.24999999999999,0.8823529411764706,think resemble be be be attract arrive resemble run come trade manufacture
+Annie,Einstein,7.5,2.5,40.0,3.0,be explain
+Annie,Einstein,1.953125,5.46875,51.953125,0.35714285714285715,be walk come go include relate
+Cat Turnbull,Annie,4.807692307692308,2.564102564102564,56.730769230769226,1.875,use be talk amuse be
+Cat Turnbull,Annie,4.807692307692308,2.564102564102564,56.730769230769226,1.875,use be talk amuse be
+Cat Turnbull,Einstein,4.807692307692308,2.564102564102564,56.730769230769226,1.875,use be talk amuse be
+Annie,Einstein,4.807692307692308,2.564102564102564,56.730769230769226,1.875,use be talk amuse be
+Annie,Einstein,4.807692307692308,2.564102564102564,56.730769230769226,1.875,use be talk amuse be
+Annie,Einstein,0.6944444444444444,0.0,60.416666666666664,INF,stare see stroll
+Dolores,Annie,3.0,0.0,49.0,INF,nod reach take lift place
+Dolores,Einstein,3.0,0.0,49.0,INF,nod reach take lift place
+Annie,Einstein,3.0,0.0,49.0,INF,nod reach take lift place
+Bay,Calusa State University,1.0,1.0,50.0,1.0,be build
+P.C.,Shyster,1.7628205128205128,2.403846153846154,56.08974358974359,0.7333333333333333,come be wear be welcome stand hold be stain loosen stand
+P.C.,Shyster,1.7628205128205128,2.403846153846154,56.08974358974359,0.7333333333333333,come be wear be welcome stand hold be stain loosen stand
+Hoo,Shyster,3.125,3.125,60.416666666666664,1.0,raise
+Shyster,Hoo,3.125,3.125,60.416666666666664,1.0,raise
+Calusa State University,Hoo,3.125,1.875,70.0,1.6666666666666667,do buy pose be try entrap happen be know
+Bay,Calusa State University,1.25,0.625,63.125,2.0,be appeal be
+Hoo,Shyster,2.1551724137931036,1.293103448275862,44.827586206896555,1.6666666666666667,be have be tell look
+Iggy,Annie,2.8846153846153846,1.4423076923076923,37.980769230769226,2.0,mean be believe want have get have
+Iggy,Einstein,2.8846153846153846,1.4423076923076923,37.980769230769226,2.0,mean be believe want have get have
+Annie,Einstein,2.8846153846153846,1.4423076923076923,37.980769230769226,2.0,mean be believe want have get have
+Adam,Shyster,3.787878787878788,1.5151515151515151,52.27272727272727,2.5,be start make proclaim do eat forbid say be do
+Dolores,Cat Turnbull,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Dolores,Annie,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Dolores,Einstein,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Cat Turnbull,Annie,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Cat Turnbull,Einstein,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Annie,Einstein,0.0,0.3787878787878788,54.166666666666664,0.0,see be hold
+Einstein,Annie,2.941176470588235,6.61764705882353,55.14705882352941,0.4444444444444444,be
+Einstein,Paco,0.0,0.0,55.55555555555556,INF,start pump
+Paco,Gloria,0.7352941176470588,0.3676470588235294,51.83823529411765,2.0,visit encourage continue believe die figure be take
+Paco,Gloria,0.7352941176470588,0.3676470588235294,51.83823529411765,2.0,visit encourage continue believe die figure be take

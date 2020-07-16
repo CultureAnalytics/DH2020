@@ -1,0 +1,740 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Andy,Stone Man,2.75974025974026,1.6233766233766231,59.253246753246756,1.7,arrive begin be be be hear say be happen
+Charli,Suze,3.159340659340659,0.4120879120879121,59.065934065934066,7.666666666666667,be go land be start get write be list start believe leave make start shake
+Dictaphone,Kevin,1.293103448275862,1.293103448275862,42.241379310344826,1.0,pocket text tell get
+Dictaphone,Kevin,1.293103448275862,1.293103448275862,42.241379310344826,1.0,pocket text tell get
+Dictaphone,Charli,1.293103448275862,1.293103448275862,42.241379310344826,1.0,pocket text tell get
+Kevin,Charli,1.293103448275862,1.293103448275862,42.241379310344826,1.0,pocket text tell get
+Kevin,Charli,1.293103448275862,1.293103448275862,42.241379310344826,1.0,pocket text tell get
+Coventry,Rich Bell,4.086538461538462,0.0,61.29807692307693,INF,be have give see be get turn be
+Green Vest,Stone Man,2.380952380952381,4.761904761904762,64.28571428571429,0.5,yell go think be go ruin turn go slip
+Stone Man,Green Vest,5.555555555555555,2.083333333333333,53.47222222222222,2.6666666666666665,react think want prevent run leap intend weigh go fall
+Stone Man,Green Vest,4.166666666666666,0.5952380952380952,61.904761904761905,7.0,have see touch have see
+Green Vest,Stone Man,4.2682926829268295,2.7439024390243905,56.40243902439024,1.5555555555555556,have break have catch have be bump
+Stone Man,Coventry,1.3888888888888888,0.5555555555555556,58.05555555555556,2.5,seem be seem be head confirm lead
+JCB,Stone Man,2.5,1.25,48.75,2.0,have work be be flatten have be
+Stone Man,JCB,2.5,1.25,48.75,2.0,have work be be flatten have be
+Andy,Paul,2.6515151515151514,1.1363636363636365,59.84848484848485,2.3333333333333335,head remember
+Shaun,Phil,0.0,0.0,27.27272727272727,INF,be
+Shaun,Phil,3.260869565217391,3.260869565217391,58.69565217391305,1.0,have be be happen live
+Shaun,Phil,3.260869565217391,3.260869565217391,58.69565217391305,1.0,have be be happen live
+Shaun,Laura,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Shaun,Laura,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Shaun,Laura,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Shaun,Laura,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Laura,Shaun,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Laura,Shaun,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Laura,Shaun,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Shaun,Laura,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,hear remember be overcome hear say ask have happen feel kneel try hold hear tell grab
+Shaun,Laura,2.2058823529411766,0.7352941176470588,55.88235294117647,3.0,lay stare be breathe
+Shaun,Laura,0.0,0.0,50.0,INF,go say nod
+Shaun,Laura,2.380952380952381,0.0,54.761904761904766,INF,help sit do
+Shaun,Laura,2.8846153846153846,3.205128205128205,55.44871794871795,0.9,occur have be have
+Laura,Shaun,3.515625,2.734375,50.0,1.2857142857142858,look be hold breathe relish be
+Laura,Shaun,3.515625,2.734375,50.0,1.2857142857142858,look be hold breathe relish be
+Laura,Shaun,3.515625,2.734375,50.0,1.2857142857142858,look be hold breathe relish be
+Laura,Shaun,3.515625,2.734375,50.0,1.2857142857142858,look be hold breathe relish be
+Shaun,Laura,1.875,0.625,47.5,3.0,do say shrug shake look
+Shaun,Laura,1.875,0.625,47.5,3.0,do say shrug shake look
+Shaun,Laura,1.875,0.0,48.125,INF,continue stare wait continue
+Shaun,Laura,1.875,0.0,48.125,INF,continue stare wait continue
+Laura,Shaun,0.0,0.6578947368421052,51.973684210526315,0.0,ask cock creep
+Shaun,Laura,0.0,0.6578947368421052,51.973684210526315,0.0,ask cock creep
+Shaun,Laura,0.0,0.6578947368421052,51.973684210526315,0.0,ask cock creep
+Laura,Shaun,0.9615384615384616,0.0,52.88461538461539,INF,look continue
+Shaun,Laura,6.5625,1.5625,49.375,4.2,stop say shrug come find cry tell
+Shaun,Laura,6.5625,1.5625,49.375,4.2,stop say shrug come find cry tell
+Laura,Shaun,2.083333333333333,2.083333333333333,55.092592592592595,1.0,do want say think be get be be render
+Shaun,Laura,0.8333333333333334,0.0,59.166666666666664,INF,ask nod look concentrate
+Shaun,Laura,0.8333333333333334,0.0,59.166666666666664,INF,ask nod look concentrate
+Shaun,Laura,0.0,0.0,28.57142857142857,INF,look
+Laura,Shaun,0.9375,0.3125,53.75,3.0,get be have have add
+Laura,Shaun,0.9375,0.3125,53.75,3.0,get be have have add
+Laura,Shaun,0.9375,0.3125,53.75,3.0,get be have have add
+Laura,Shaun,0.9375,0.3125,53.75,3.0,get be have have add
+Shaun,Laura,2.34375,3.6458333333333335,50.260416666666664,0.6428571428571429,think agree be have synchronise get snap glare address
+Laura,Shaun,2.34375,3.6458333333333335,50.260416666666664,0.6428571428571429,think agree be have synchronise get snap glare address
+Laura,Shaun,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,say begin admonish cut
+Laura,Shaun,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,say begin admonish cut
+Shaun,Laura,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,say begin admonish cut
+Laura,Shaun,2.083333333333333,3.4722222222222223,33.33333333333333,0.6,say begin admonish cut
+Shaun,Laura,3.6016949152542375,1.2711864406779663,54.44915254237288,2.8333333333333335,feel have happen feel dream materialise seem stop think try focus deal
+Laura,Shaun,0.0,0.0,40.0,INF,hold look wait
+Shaun,Laura,1.3392857142857142,4.910714285714286,61.60714285714286,0.2727272727272727,be begin see get
+Laura,Shaun,4.761904761904762,0.5952380952380952,39.88095238095239,8.0,say have make have know continue do
+Shaun,Coventry,4.605263157894736,3.289473684210526,50.0,1.4,have be have be
+Coventry,Shaun,4.605263157894736,3.289473684210526,50.0,1.4,have be have be
+Shaun,Laura,1.7857142857142856,0.0,55.35714285714286,INF,ask grin
+Laura,Shaun,1.1363636363636365,1.7045454545454544,47.159090909090914,0.6666666666666666,say laugh go get
+Shaun,Laura,0.0,0.0,65.0,INF,spill be pour burst join
+Shaun,Laura,0.0,0.0,65.0,INF,spill be pour burst join
+Shaun,Laura,0.0,0.0,65.0,INF,spill be pour burst join
+Andy,Laura,4.375,0.625,35.0,7.0,do sulk laugh lean rub
+Laura,Shaun,1.3888888888888888,0.0,54.166666666666664,INF,finish take hold toast toss
+Laura,Shaun,1.3888888888888888,0.0,54.166666666666664,INF,finish take hold toast toss
+Laura,Shaun,1.3888888888888888,0.0,54.166666666666664,INF,finish take hold toast toss
+Laura,Shaun,1.3888888888888888,0.0,54.166666666666664,INF,finish take hold toast toss
+Stone Man,Laura,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,sit eat half-listen go have brush take
+Stone Man,Laura,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,sit eat half-listen go have brush take
+Shaun,Laura,0.0,4.807692307692308,49.03846153846153,0.0,
+Shaun,Laura,0.0,4.807692307692308,49.03846153846153,0.0,
+Shaun,Laura,2.976190476190476,3.571428571428571,50.595238095238095,0.8333333333333334,be be get be
+Stone Man,Asperger,3.935185185185185,1.8518518518518516,59.02777777777778,2.125,come have be stand think have be be
+Shaun,Stone Man,2.083333333333333,2.7083333333333335,51.87500000000001,0.7692307692307693,have downgrade seem range be get have be reduce look
+Jesus,Shaun,1.5,3.5000000000000004,47.0,0.42857142857142855,scare start whirl cut
+Jesus,Shaun,1.5,3.5000000000000004,47.0,0.42857142857142855,scare start whirl cut
+Jesus,Shaun,1.5,3.5000000000000004,47.0,0.42857142857142855,scare start whirl cut
+Shaun,Stone Man,2.7777777777777777,0.0,52.77777777777778,INF,have say be
+Dan,Hyundai,0.0,0.0,57.49999999999999,INF,sort ride follow
+Dan,Hyundai,0.0,0.0,57.49999999999999,INF,sort ride follow
+Dan,Hyundai,0.0,0.0,40.0,INF,ask climb
+Dan,Hyundai,0.0,0.0,40.0,INF,ask climb
+Hyundai,Dan,4.044117647058823,0.3676470588235294,51.470588235294116,11.0,clip look see repeat have have be smile
+Hyundai,Dan,4.044117647058823,0.3676470588235294,51.470588235294116,11.0,clip look see repeat have have be smile
+Stone Man,Paul,2.5423728813559325,0.6355932203389831,59.53389830508474,4.0,know be know be think be find be go be
+Paul,Stone Man,3.214285714285714,2.142857142857143,51.78571428571429,1.5,tell be omit vary have
+Paul,Shaun,3.214285714285714,2.142857142857143,51.78571428571429,1.5,tell be omit vary have
+Stone Man,Shaun,3.214285714285714,2.142857142857143,51.78571428571429,1.5,tell be omit vary have
+Paul,Holly,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Paul,Holly,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Holly,Paul,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Holly,Paul,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Paul,Holly,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Paul,Holly,4.49438202247191,1.8258426966292134,53.230337078651694,2.4615384615384617,be introduce be go help watch spin cover need reward utilise say accept
+Paul,Holly,5.803571428571429,0.0,54.91071428571429,INF,have say bend watch
+Paul,Holly,5.803571428571429,0.0,54.91071428571429,INF,have say bend watch
+Paul,Holly,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Paul,Holly,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Holly,Paul,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Holly,Paul,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Holly,Paul,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Holly,Paul,3.125,0.0,51.041666666666664,INF,flick slap pinch
+Paul,Holly,0.0,0.5434782608695652,47.28260869565217,0.0,do try sabotage say threaten sew
+Holly,Paul,0.0,0.5434782608695652,47.28260869565217,0.0,do try sabotage say threaten sew
+Holly,Paul,2.7777777777777777,0.0,47.22222222222222,INF,do wait hiss gesture
+Paul,Holly,2.7777777777777777,0.0,47.22222222222222,INF,do wait hiss gesture
+Paul,Holly,1.7857142857142856,3.571428571428571,56.547619047619044,0.5,blow blow smile shake leave
+Paul,Holly,1.7857142857142856,3.571428571428571,56.547619047619044,0.5,blow blow smile shake leave
+Paul,Holly,1.7857142857142856,3.571428571428571,56.547619047619044,0.5,blow blow smile shake leave
+Paul,Andy,1.7857142857142856,0.0,50.595238095238095,INF,be say look
+Stone Man,Paul,0.7352941176470588,2.2058823529411766,58.82352941176471,0.3333333333333333,explain be hear use look hear
+Paul,Blondie,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,know mean concentrate be conjure
+Blondie,Paul,4.583333333333333,0.8333333333333334,51.24999999999999,5.5,know mean concentrate be conjure
+Blondie,Paul,4.0,0.5,51.5,8.0,feel be know be come
+Blondie,Patrick,0.0,0.0,58.333333333333336,INF,tell be
+Paul,Blondie,0.7352941176470588,0.0,58.08823529411765,INF,think be hide
+Paul,Blondie,1.0416666666666665,2.604166666666667,54.6875,0.4,fall have point
+Paul,Blondie,1.0416666666666665,2.604166666666667,54.6875,0.4,fall have point
+Blondie,Paul,2.6785714285714284,6.25,55.35714285714286,0.42857142857142855,be
+Paul,Patrick,2.403846153846154,4.326923076923077,58.65384615384615,0.5555555555555556,do seem have restrain be stop shriek babble
+Paul,Patrick,2.403846153846154,4.326923076923077,58.65384615384615,0.5555555555555556,do seem have restrain be stop shriek babble
+Paul,Patrick,2.083333333333333,0.0,56.25,INF,pause look scream pull wrap
+Patrick,Paul,2.083333333333333,0.0,56.25,INF,pause look scream pull wrap
+Patrick,Paul,2.083333333333333,0.0,56.25,INF,pause look scream pull wrap
+Paul,Patrick,1.7857142857142856,7.142857142857142,57.738095238095234,0.25,slip squirm push
+Paul,Patrick,1.7857142857142856,7.142857142857142,57.738095238095234,0.25,slip squirm push
+Paul,Patrick,1.7857142857142856,7.142857142857142,57.738095238095234,0.25,slip squirm push
+Paul,Patrick,1.7857142857142856,7.142857142857142,57.738095238095234,0.25,slip squirm push
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Patrick,Paul,0.35714285714285715,0.0,56.785714285714285,INF,start lessen lower drop lay
+Paul,Patrick,0.390625,0.390625,49.21875,1.0,realise need be make sit
+Paul,Patrick,0.6578947368421052,0.0,62.5,INF,be sit look look
+Dictaphone,Patrick,0.0,1.7857142857142856,62.5,0.0,fly smash
+Paul,Patrick,2.7777777777777777,0.0,52.77777777777778,INF,stand freeze shock
+Paul,Patrick,2.7777777777777777,0.0,52.77777777777778,INF,stand freeze shock
+Patrick,Paul,0.4464285714285714,2.232142857142857,61.60714285714286,0.2,shake follow close see block
+Paul,Patrick,0.4464285714285714,2.232142857142857,61.60714285714286,0.2,shake follow close see block
+Paul,Patrick,2.7777777777777777,5.555555555555555,41.66666666666667,0.5,say look
+Patrick,Stone Man,2.976190476190476,1.488095238095238,62.202380952380956,2.0,be be see
+Patrick,Coventry,2.976190476190476,1.488095238095238,62.202380952380956,2.0,be be see
+Patrick,Stone Man,2.976190476190476,1.488095238095238,62.202380952380956,2.0,be be see
+Patrick,Coventry,2.976190476190476,1.488095238095238,62.202380952380956,2.0,be be see
+Stone Man,Coventry,2.976190476190476,1.488095238095238,62.202380952380956,2.0,be be see
+Paul,Patrick,3.8461538461538463,0.0,73.07692307692307,INF,nod look sigh
+Paul,Patrick,5.0,0.0,60.0,INF,stop put help pull upright
+Paul,Patrick,5.0,0.0,60.0,INF,stop put help pull upright
+Paul,Patrick,5.0,0.0,60.0,INF,stop put help pull upright
+Paul,Patrick,5.0,0.0,60.0,INF,stop put help pull upright
+Paul,Patrick,1.4705882352941175,1.1029411764705883,65.07352941176471,1.3333333333333333,seem be examine have set be live
+Paul,Stone Man,2.75,0.25,49.0,11.0,say return gaze know take take prolong draw
+Paul,Stone Man,2.430555555555556,1.3888888888888888,48.95833333333333,1.75,know have end be get
+Paul,Stone Man,2.430555555555556,1.3888888888888888,48.95833333333333,1.75,know have end be get
+Paul,Stone Man,2.430555555555556,1.3888888888888888,48.95833333333333,1.75,know have end be get
+Paul,Stone Man,4.838709677419355,2.4193548387096775,54.03225806451613,2.0,want keep be scare be delay
+Jesus,Paul,2.5,2.9166666666666665,47.91666666666667,0.8571428571428571,know be say turn
+Stone Man,Paul,2.083333333333333,0.4166666666666667,50.83333333333333,5.0,amplify have create feel make
+Patrick,Paul,0.390625,0.0,52.734375,INF,deposit fetch hold
+Paul,Stone Man,1.644736842105263,0.0,58.88157894736842,INF,have manage get arrive have check
+Coventry,Stone Man,3.9634146341463414,1.2195121951219512,60.670731707317074,3.25,be be be touch know
+Paul,Patrick,2.5,0.4166666666666667,67.08333333333333,6.0,emerge fill look sling carry
+Paul,Patrick,2.5,0.4166666666666667,67.08333333333333,6.0,emerge fill look sling carry
+Paul,Patrick,2.5,0.8333333333333334,56.666666666666664,3.0,carry be stand
+Paul,Patrick,4.3478260869565215,4.891304347826087,51.63043478260869,0.8888888888888888,have be be be
+Paul,Patrick,4.3478260869565215,4.891304347826087,51.63043478260869,0.8888888888888888,have be be be
+Paul,Patrick,3.5000000000000004,3.0,69.5,1.1666666666666667,stand be carry be
+Paul,Patrick,3.5000000000000004,3.0,69.5,1.1666666666666667,stand be carry be
+Paul,Patrick,6.547619047619048,1.1904761904761905,49.404761904761905,5.5,grunt greet lower
+Patrick,Morse,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,do speak get continue stare listen
+Patrick,Morse,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,do speak get continue stare listen
+Patrick,Morse,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,do speak get continue stare listen
+Patrick,Morse,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,do speak get continue stare listen
+Patrick,Morse,2.1551724137931036,1.293103448275862,62.06896551724138,1.6666666666666667,do speak get continue stare listen
+Patrick,Stone Man,2.586206896551724,0.43103448275862066,72.84482758620689,6.0,spend sit be draw gain have be
+Straub,Craddock,1.1363636363636365,0.0,26.136363636363637,INF,be
+Craddock,Straub,2.403846153846154,0.9615384615384616,42.78846153846153,2.5,be put thank look
+Straub,Patrick,2.631578947368421,0.0,50.0,INF,look nod
+Straub,Paul,2.631578947368421,0.0,50.0,INF,look nod
+Patrick,Paul,2.631578947368421,0.0,50.0,INF,look nod
+Straub,Patrick,1.6025641025641024,2.8846153846153846,51.92307692307693,0.5555555555555556,be say shrug realise process seem have acclimatise be
+Patrick,Paul,1.4705882352941175,0.3676470588235294,59.92647058823529,4.0,be be lay sit take
+Patrick,Straub,1.4705882352941175,0.3676470588235294,59.92647058823529,4.0,be be lay sit take
+Paul,Straub,1.4705882352941175,0.3676470588235294,59.92647058823529,4.0,be be lay sit take
+Coventry,C.I. Four,4.464285714285714,0.0,52.67857142857143,INF,see make refer
+Paul,Straub,0.0,0.0,50.0,INF,pull show
+Paul,Straub,0.0,0.0,50.0,INF,pull show
+Patrick,Stone Man,0.0,0.5434782608695652,51.63043478260869,0.0,end make fail take
+Patrick,Stone Man,0.0,0.5434782608695652,51.63043478260869,0.0,end make fail take
+Mr Winter,Mr Pointer,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Winter,Paul,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Winter,Andy,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Winter,Paul,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Pointer,Paul,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Pointer,Andy,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Pointer,Paul,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Paul,Andy,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Andy,Paul,2.364864864864865,2.364864864864865,41.21621621621622,1.0,be give
+Mr Winter,Mr Pointer,2.455357142857143,4.241071428571429,57.58928571428571,0.5789473684210527,need be mean cause go bring
+Straub,Blondie,2.5,0.0,44.166666666666664,INF,call be
+Straub,Stone Man,0.0,3.289473684210526,38.81578947368421,0.0,say call
+Straub,Stone Man,0.0,3.289473684210526,38.81578947368421,0.0,say call
+Mr Pointer,Coventry,3.4090909090909087,2.6515151515151514,54.54545454545454,1.2857142857142858,be talk have be be
+Shaun,Laura,7.291666666666667,3.8194444444444446,47.22222222222222,1.9090909090909092,think mention think pass say
+Straub,Caementum,3.8461538461538463,1.6826923076923077,46.394230769230774,2.2857142857142856,continue have be leak have say be connect
+Laura,C.I. Four,2.295918367346939,0.25510204081632654,50.51020408163265,9.0,be find meet pause catch watch have put
+Laura,C.I. Four,2.295918367346939,0.25510204081632654,50.51020408163265,9.0,be find meet pause catch watch have put
+Paul,Straub,2.564102564102564,2.2435897435897436,46.47435897435898,1.1428571428571428,be be tell sit face be stand have move see be point
+Paul,Straub,0.0,1.6129032258064515,27.419354838709676,0.0,be be say ignore address be be be
+Paul,Patrick,1.0416666666666665,0.3472222222222222,56.94444444444444,3.0,walk wait leave be
+Paul,Patrick,1.0416666666666665,0.3472222222222222,56.94444444444444,3.0,walk wait leave be
+Jesus,Paul,0.0,0.0,54.54545454545454,INF,say
+Paul,Patrick,0.0,0.0,60.0,INF,look shake
+Patrick,Paul,0.0,0.0,60.0,INF,look shake
+Patrick,Stone Man,3.8461538461538463,0.0,61.53846153846154,INF,use put keep send
+Paul,Straub,0.8064516129032258,0.8064516129032258,56.451612903225815,1.0,miss know explain come salute do
+Straub,Paul,0.8064516129032258,0.8064516129032258,56.451612903225815,1.0,miss know explain come salute do
+C.I. Four,Stone Man,0.0,0.0,47.61904761904761,INF,be go introduce see happen
+Blondie,C.I. Four,0.0,0.0,57.14285714285714,INF,be
+Mr Winter,Paul,0.390625,0.390625,55.46875,1.0,see say tilt be consider
+Mr Winter,Paul,0.390625,0.390625,55.46875,1.0,see say tilt be consider
+Mr Winter,Mr Pointer,0.390625,0.390625,55.46875,1.0,see say tilt be consider
+Paul,Mr Pointer,0.390625,0.390625,55.46875,1.0,see say tilt be consider
+Paul,Mr Pointer,0.390625,0.390625,55.46875,1.0,see say tilt be consider
+C.I. Four,Caementum,2.0,2.0,40.0,1.0,be be go put
+Patrick,Blondie,3.289473684210526,0.6578947368421052,64.47368421052632,5.0,be be
+Blondie,Patrick,3.289473684210526,0.6578947368421052,64.47368421052632,5.0,be be
+Paul,Straub,1.9230769230769231,0.0,51.92307692307693,INF,look see stare
+Mr Winter,Straub,2.6515151515151514,3.0303030303030303,51.89393939393939,0.875,be do have say look
+Mr Winter,Straub,0.0,3.125,46.875,0.0,be say shake
+Paul,Straub,1.0,4.75,50.24999999999999,0.21052631578947367,be be embarrass talk give be give receive leave
+Paul,Straub,1.0,4.75,50.24999999999999,0.21052631578947367,be be embarrass talk give be give receive leave
+Straub,Paul,1.0,4.75,50.24999999999999,0.21052631578947367,be be embarrass talk give be give receive leave
+Paul,Straub,1.0,4.75,50.24999999999999,0.21052631578947367,be be embarrass talk give be give receive leave
+Straub,Paul,1.5625,2.604166666666667,62.5,0.6,be refer look turn nod
+Blondie,Patrick,2.302631578947368,1.9736842105263157,61.51315789473685,1.1666666666666667,lay strike be treat be be treat be
+Blondie,Patrick,2.302631578947368,1.9736842105263157,61.51315789473685,1.1666666666666667,lay strike be treat be be treat be
+Patrick,Paul,2.941176470588235,0.7352941176470588,57.107843137254896,4.0,buy work save earn be be use stay
+Patrick,Paul,2.941176470588235,0.7352941176470588,57.107843137254896,4.0,buy work save earn be be use stay
+Paul,Straub,3.515625,0.78125,58.203125,4.5,have agree be do believe know be
+Patrick,Stone Man,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,guess want get arrive end
+Patrick,Stone Man,2.217741935483871,0.20161290322580644,60.483870967741936,11.0,do know do feel see half-picture see be mark
+Patrick,Stone Man,2.217741935483871,0.20161290322580644,60.483870967741936,11.0,do know do feel see half-picture see be mark
+Taylor,Paul,1.5,0.5,46.0,3.0,open lead have reach
+Taylor,Paul,1.5,0.5,46.0,3.0,open lead have reach
+Taylor,Paul,3.0172413793103448,0.0,41.810344827586206,INF,say gesture want walk
+Taylor,Paul,3.0172413793103448,0.0,41.810344827586206,INF,say gesture want walk
+Taylor,Paul,3.0172413793103448,0.0,41.810344827586206,INF,say gesture want walk
+Taylor,Paul,3.0172413793103448,0.0,41.810344827586206,INF,say gesture want walk
+Mr Winter,Straub,3.571428571428571,2.083333333333333,47.91666666666667,1.7142857142857142,please do be answer have give provide be have manage do have offer be make be offer suggest reserve
+Paul,Straub,0.0,0.0,57.14285714285714,INF,do respond turn address
+Paul,Straub,0.0,0.0,57.14285714285714,INF,do respond turn address
+Mr Winter,Paul,0.0,0.0,45.0,INF,say do respond say
+Stone Man,Paul,2.9069767441860463,2.0348837209302326,46.22093023255814,1.4285714285714286,have become show be view
+Stone Man,Straub,2.9069767441860463,2.0348837209302326,46.22093023255814,1.4285714285714286,have become show be view
+Stone Man,Paul,2.9069767441860463,2.0348837209302326,46.22093023255814,1.4285714285714286,have become show be view
+Paul,Straub,2.9069767441860463,2.0348837209302326,46.22093023255814,1.4285714285714286,have become show be view
+Straub,Paul,2.9069767441860463,2.0348837209302326,46.22093023255814,1.4285714285714286,have become show be view
+Taylor,Patrick,4.166666666666666,2.5,56.666666666666664,1.6666666666666667,arrive come pass have be give
+Straub,Stone Man,2.1739130434782608,1.0869565217391304,57.608695652173914,2.0,accord be
+Patrick,Paul,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,have be have remind have say
+Patrick,Straub,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,have be have remind have say
+Paul,Straub,2.7777777777777777,5.092592592592593,47.68518518518518,0.5454545454545454,have be have remind have say
+Patrick,Morse,3.4722222222222223,3.4722222222222223,70.83333333333334,1.0,look twitch look have stop
+Patrick,Morse,3.4722222222222223,3.4722222222222223,70.83333333333334,1.0,look twitch look have stop
+Stone Man,Patrick,1.893939393939394,3.4090909090909087,52.27272727272727,0.5555555555555556,want be watch wander be heal
+Straub,Patrick,3.8793103448275863,0.43103448275862066,54.310344827586206,9.0,look see oversee give
+Straub,Patrick,3.8793103448275863,0.43103448275862066,54.310344827586206,9.0,look see oversee give
+Paul,Stone Man,1.7857142857142856,0.5952380952380952,64.28571428571429,3.0,be hear gasp realise be have see
+Paul,Stone Man,1.7857142857142856,0.5952380952380952,64.28571428571429,3.0,be hear gasp realise be have see
+Paul,Stone Man,1.7857142857142856,0.5952380952380952,64.28571428571429,3.0,be hear gasp realise be have see
+Straub,Paul,5.681818181818182,0.5681818181818182,57.38636363636363,10.0,realise have move be stand
+Straub,Paul,1.0204081632653061,1.0204081632653061,51.02040816326531,1.0,be watch listen call console ask
+Straub,Paul,1.0204081632653061,1.0204081632653061,51.02040816326531,1.0,be watch listen call console ask
+Paul,Straub,1.171875,0.390625,54.6875,3.0,be say look think let get
+Paul,Straub,3.3333333333333335,0.0,63.33333333333333,INF,flap shut
+Paul,Straub,3.3333333333333335,0.0,63.33333333333333,INF,flap shut
+Paul,Straub,3.3333333333333335,0.0,63.33333333333333,INF,flap shut
+Straub,Paul,0.9615384615384616,0.0,56.730769230769226,INF,call speak tell stand
+Patrick,Stone Man,0.9615384615384616,0.0,55.44871794871795,INF,do get see be stand respond look
+Paul,Stone Man,0.8928571428571428,0.0,63.39285714285714,INF,urge look approach
+Paul,Straub,2.631578947368421,1.644736842105263,61.51315789473685,1.6,seem make make go mean be start run
+Straub,Stone Man,1.6129032258064515,0.0,56.451612903225815,INF,look look draw
+Stone Man,Patrick,2.083333333333333,0.0,64.58333333333334,INF,pause begin walk
+Straub,Stone Man,2.6515151515151514,2.272727272727273,52.65151515151515,1.1666666666666667,know whisper feel vibrate advance
+Straub,Patrick,2.6515151515151514,2.272727272727273,52.65151515151515,1.1666666666666667,know whisper feel vibrate advance
+Stone Man,Patrick,2.6515151515151514,2.272727272727273,52.65151515151515,1.1666666666666667,know whisper feel vibrate advance
+Straub,Paul,2.083333333333333,1.0416666666666665,46.875,2.0,be go say grab remain glue
+Straub,Paul,2.083333333333333,1.0416666666666665,46.875,2.0,be go say grab remain glue
+Paul,Stone Man,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Paul,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Paul,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Paul,Stone Man,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Paul,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Paul,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Stone Man,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Stone Man,Patrick,1.5625,2.34375,61.71875,0.6666666666666666,be have be be know be be go stop loom bear crush
+Stone Man,Patrick,0.4166666666666667,2.083333333333333,60.83333333333333,0.2,come crunch do see argue
+Straub,Patrick,0.0,0.0,63.63636363636363,INF,let go begin back hold
+Straub,Patrick,0.0,0.0,63.63636363636363,INF,let go begin back hold
+Straub,Patrick,0.0,0.0,63.63636363636363,INF,let go begin back hold
+Patrick,Stone Man,3.8461538461538463,0.4807692307692308,64.90384615384616,8.0,hesitate let go aim back
+Patrick,Stone Man,3.8461538461538463,0.4807692307692308,64.90384615384616,8.0,hesitate let go aim back
+Stone Man,Patrick,0.0,1.1363636363636365,67.04545454545455,0.0,pass cause loosen
+Stone Man,Paul,0.0,1.1363636363636365,67.04545454545455,0.0,pass cause loosen
+Stone Man,Paul,0.0,1.1363636363636365,67.04545454545455,0.0,pass cause loosen
+Patrick,Paul,0.0,1.1363636363636365,67.04545454545455,0.0,pass cause loosen
+Patrick,Paul,0.0,1.1363636363636365,67.04545454545455,0.0,pass cause loosen
+Stone Man,Patrick,0.0,0.0,51.85185185185185,INF,do respond begin turn bring
+Paul,Patrick,3.4722222222222223,0.0,52.083333333333336,INF,clamp reassume
+Paul,Patrick,3.4722222222222223,0.0,52.083333333333336,INF,clamp reassume
+Stone Man,Patrick,0.0,0.0,66.66666666666666,INF,walk stop
+Stone Man,Patrick,4.375,0.0,50.625,INF,be impose
+Straub,Patrick,0.7575757575757576,1.5151515151515151,49.24242424242424,0.5,see yell drown touch
+Straub,Stone Man,0.7575757575757576,1.5151515151515151,49.24242424242424,0.5,see yell drown touch
+Straub,Patrick,0.7575757575757576,1.5151515151515151,49.24242424242424,0.5,see yell drown touch
+Patrick,Stone Man,0.7575757575757576,1.5151515151515151,49.24242424242424,0.5,see yell drown touch
+Stone Man,Patrick,0.7575757575757576,1.5151515151515151,49.24242424242424,0.5,see yell drown touch
+Patrick,Stone Man,1.650943396226415,0.9433962264150944,61.556603773584904,1.75,expect be force realise be be continue cover be move
+Stone Man,Patrick,2.8846153846153846,0.9615384615384616,50.0,3.0,realise extend be burrow
+Patrick,Stone Man,3.4722222222222223,0.0,52.083333333333336,INF,hear cry
+Patrick,Stone Man,2.403846153846154,0.0,59.13461538461539,INF,be freeze impale teach scream
+Patrick,Stone Man,2.403846153846154,0.0,59.13461538461539,INF,be freeze impale teach scream
+Stone Man,Patrick,1.2096774193548387,2.4193548387096775,57.66129032258065,0.5,emerge meet begin withdraw
+Stone Man,Patrick,0.0,0.0,66.66666666666666,INF,be lock
+Straub,Paul,2.666666666666667,3.0,50.33333333333333,0.8888888888888888,spin dangle say be result rush be go have stand know do be escort
+Straub,Andy,2.666666666666667,3.0,50.33333333333333,0.8888888888888888,spin dangle say be result rush be go have stand know do be escort
+Straub,Paul,2.666666666666667,3.0,50.33333333333333,0.8888888888888888,spin dangle say be result rush be go have stand know do be escort
+Paul,Andy,2.666666666666667,3.0,50.33333333333333,0.8888888888888888,spin dangle say be result rush be go have stand know do be escort
+Andy,Paul,2.666666666666667,3.0,50.33333333333333,0.8888888888888888,spin dangle say be result rush be go have stand know do be escort
+Straub,Patrick,2.604166666666667,2.083333333333333,47.39583333333333,1.25,have disappear vanish take have see give be move
+Straub,Stone Man,2.604166666666667,2.083333333333333,47.39583333333333,1.25,have disappear vanish take have see give be move
+Patrick,Stone Man,2.604166666666667,2.083333333333333,47.39583333333333,1.25,have disappear vanish take have see give be move
+Andy,Paul,0.0,0.0,40.0,INF,do have do say
+Andy,Paul,0.0,0.0,40.0,INF,do have do say
+Andy,Paul,0.0,0.0,57.14285714285714,INF,be choose
+Stone Man,Patrick,3.125,0.78125,46.09375,4.0,need broadcast be continue need detect
+Paul,Stone Man,4.605263157894736,5.263157894736842,58.55263157894737,0.875,need think come
+Patrick,Paul,2.8846153846153846,6.730769230769231,36.53846153846153,0.42857142857142855,need say
+Boldfield,Caementum,0.5681818181818182,0.8522727272727272,48.57954545454545,0.6666666666666666,be deal say nod look pass
+Boldfield,Straub,0.5681818181818182,0.8522727272727272,48.57954545454545,0.6666666666666666,be deal say nod look pass
+Caementum,Straub,0.5681818181818182,0.8522727272727272,48.57954545454545,0.6666666666666666,be deal say nod look pass
+Straub,Caementum,2.107317073170732,1.8560975609756096,52.13414634146341,1.135348226018397,be be continue develop have go
+Straub,Mr Marshall,2.107317073170732,1.8560975609756096,52.13414634146341,1.135348226018397,be be continue develop have go
+Caementum,Mr Marshall,2.107317073170732,1.8560975609756096,52.13414634146341,1.135348226018397,be be continue develop have go
+Mr Marshall,Caementum,4.910714285714286,0.8928571428571428,51.33928571428571,5.5,offer go know do result
+Caementum,Mr Marshall,4.910714285714286,0.8928571428571428,51.33928571428571,5.5,offer go know do result
+Mr Marshall,Straub,7.211538461538461,3.3653846153846154,50.96153846153846,2.142857142857143,be mention continue have be achieve
+Mr Marshall,Caementum,4.605263157894736,3.289473684210526,42.10526315789473,1.4,be do need know be tell die
+Caementum,Mr Marshall,3.260869565217391,0.0,44.565217391304344,INF,be think want communicate
+Paul,Straub,0.78125,0.0,42.96875,INF,nod gesture dr respond
+Paul,Boldfield,0.78125,0.0,42.96875,INF,nod gesture dr respond
+Straub,Boldfield,0.78125,0.0,42.96875,INF,nod gesture dr respond
+Boldfield,Straub,0.6578947368421052,0.0,57.23684210526315,INF,adjust shift face put
+Boldfield,Straub,0.6578947368421052,0.0,57.23684210526315,INF,adjust shift face put
+Caementum,Mr Marshall,2.7027027027027026,1.0135135135135136,44.932432432432435,2.6666666666666665,remove say sound
+Caementum,Mr Marshall,2.7027027027027026,1.0135135135135136,44.932432432432435,2.6666666666666665,remove say sound
+Caementum,Straub,2.7027027027027026,1.0135135135135136,44.932432432432435,2.6666666666666665,remove say sound
+Mr Marshall,Straub,2.7027027027027026,1.0135135135135136,44.932432432432435,2.6666666666666665,remove say sound
+Mr Marshall,Straub,2.7027027027027026,1.0135135135135136,44.932432432432435,2.6666666666666665,remove say sound
+Boldfield,Straub,4.807692307692308,0.9615384615384616,51.92307692307693,5.0,want get get include
+Mr Winter,Straub,2.5,0.75,46.75,3.3333333333333335,do worry say be do be do want be do have be
+Mr Pointer,Straub,2.1341463414634148,0.3048780487804878,51.21951219512195,7.0,sell pay think know be say shrug
+Straub,Paul,1.1627906976744187,0.5813953488372093,56.395348837209305,2.0,be ask answer keep be prepare do worry say be look
+Paul,Straub,1.0416666666666665,0.0,73.95833333333334,INF,nod look
+Paul,Straub,0.0,0.0,42.857142857142854,INF,say turn
+Mr Winter,Straub,2.564102564102564,3.5256410256410255,52.88461538461539,0.7272727272727273,tell let be be say be hear say
+Boldfield,Straub,5.357142857142857,0.35714285714285715,51.42857142857142,15.0,force focus hear do know be conduct
+Straub,Boldfield,4.166666666666666,0.0,40.27777777777778,INF,say look
+Boldfield,Straub,0.0,0.0,35.714285714285715,INF,look gesture carry
+Boldfield,Paul,0.0,0.0,35.714285714285715,INF,look gesture carry
+Straub,Paul,0.0,0.0,35.714285714285715,INF,look gesture carry
+Boldfield,Paul,4.605263157894736,0.6578947368421052,42.10526315789473,7.0,be say remove wipe
+Boldfield,Paul,8.695652173913043,5.434782608695652,42.391304347826086,1.6,say rub exhaust enjoy question maintain
+Boldfield,Paul,8.695652173913043,5.434782608695652,42.391304347826086,1.6,say rub exhaust enjoy question maintain
+Caementum,Mr Pointer,3.9473684210526314,2.631578947368421,46.05263157894737,1.5,include suggest
+Boldfield,Straub,0.78125,5.46875,50.0,0.14285714285714285,look seem share
+Boldfield,Straub,0.0,0.0,43.75,INF,say put
+Boldfield,Paul,0.0,0.0,61.53846153846154,INF,stiffen shift speak
+Boldfield,Paul,0.0,0.0,61.53846153846154,INF,stiffen shift speak
+Boldfield,Paul,4.166666666666666,3.4722222222222223,47.91666666666667,1.2,smile have be be do prepare do have vanish
+Boldfield,Stone Man,4.166666666666666,3.4722222222222223,47.91666666666667,1.2,smile have be be do prepare do have vanish
+Paul,Stone Man,4.166666666666666,3.4722222222222223,47.91666666666667,1.2,smile have be be do prepare do have vanish
+Paul,Straub,4.605263157894736,0.0,37.5,INF,say nod hold
+David,Bryan,2.631578947368421,0.0,65.78947368421053,INF,be fly
+David,Bryan,0.8928571428571428,0.0,70.53571428571429,INF,speak be
+Bryan,NBC,1.6666666666666667,0.0,78.33333333333333,INF,have tell be pay
+Coventry,Stone Man,5.128205128205128,0.9615384615384616,52.88461538461539,5.333333333333333,be grant be be
+Coventry,Stone Man,5.128205128205128,0.9615384615384616,52.88461538461539,5.333333333333333,be grant be be
+David,Bryan,0.0,0.0,69.23076923076923,INF,stay do
+Patrick,Stone Man,1.7857142857142856,0.8928571428571428,61.60714285714286,2.0,do ask be
+Stone Man,Patrick,2.8846153846153846,1.9230769230769231,59.294871794871796,1.5,see view be expect be bring drool gibber
+Stone Man,Patrick,2.8846153846153846,1.9230769230769231,59.294871794871796,1.5,see view be expect be bring drool gibber
+Straub,David,2.5,0.0,57.49999999999999,INF,repeat have say
+Straub,David,1.953125,0.78125,59.765625,2.5,be have say be
+David,Stone Man,2.5,3.0,58.5,0.8333333333333334,shout sound talk think be talk
+David,Stone Man,2.5,3.0,58.5,0.8333333333333334,shout sound talk think be talk
+David,Straub,3.125,0.0,46.875,INF,have
+Straub,David,3.125,0.0,46.875,INF,have
+Straub,David,3.6764705882352944,2.2058823529411766,47.05882352941176,1.6666666666666667,arrive be meet wait
+Straub,David,5.0,0.0,50.0,INF,shake lead wait do offer
+Straub,David,5.0,0.0,50.0,INF,shake lead wait do offer
+Mr Pointer,Mr Winter,2.5,1.25,66.25,2.0,be wait
+David,Straub,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,be get do
+Straub,David,1.0714285714285714,0.7142857142857143,52.5,1.5,feel have hang approach
+Straub,Paul,1.0714285714285714,0.7142857142857143,52.5,1.5,feel have hang approach
+David,Paul,1.0714285714285714,0.7142857142857143,52.5,1.5,feel have hang approach
+Andy,David,0.4807692307692308,1.9230769230769231,49.519230769230774,0.25,be say use put have do be
+Andy,David,0.4807692307692308,1.9230769230769231,49.519230769230774,0.25,be say use put have do be
+Andy,David,0.4807692307692308,1.9230769230769231,49.519230769230774,0.25,be say use put have do be
+David,Straub,0.0,0.0,40.0,INF,turn
+Straub,David,0.0,1.3888888888888888,37.5,0.0,do work say answer
+Paul,Straub,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,grunt head have point
+David,Straub,0.0,11.25,48.75,0.0,see scowl ignore
+David,Straub,0.0,11.25,48.75,0.0,see scowl ignore
+Mr Pointer,Straub,0.0,5.357142857142857,37.5,0.0,be sigh
+Patrick,Paul,5.288461538461538,1.9230769230769231,65.86538461538461,2.75,have have happen have take have
+Straub,David,3.6931818181818183,3.6931818181818183,47.159090909090914,1.0,think know be get say lead be jabber hammer
+Stone Man,Coventry,7.758620689655173,6.0344827586206895,58.620689655172406,1.2857142857142858,have be have die start spread
+Stone Man,Patrick,5.729166666666666,1.0416666666666665,59.895833333333336,5.5,believe have cause report
+Stone Man,Patrick,1.6826923076923077,1.9230769230769231,52.16346153846154,0.875,believe send be threaten know do feel be allow breed create
+Patrick,Stone Man,4.166666666666666,2.083333333333333,60.416666666666664,2.0,believe be track execute
+Jesus,Paul,0.0,0.0,42.857142857142854,INF,say
+Stone Man,Coventry,0.33783783783783783,0.0,75.33783783783784,INF,let look try picture put
+Stone Man,Paul,1.201923076923077,1.201923076923077,59.13461538461539,1.0,see stand be raise travel cover
+David,Straub,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,be aim be nod
+Paul,David,4.861111111111112,5.555555555555555,45.13888888888889,0.875,fold become
+Paul,David,4.861111111111112,5.555555555555555,45.13888888888889,0.875,fold become
+Paul,David,4.861111111111112,5.555555555555555,45.13888888888889,0.875,fold become
+David,Paul,4.487179487179487,3.8461538461538463,60.89743589743589,1.1666666666666667,make have have take have
+David,Paul,4.487179487179487,3.8461538461538463,60.89743589743589,1.1666666666666667,make have have take have
+Paul,David,4.487179487179487,3.8461538461538463,60.89743589743589,1.1666666666666667,make have have take have
+Paul,David,4.0,1.5,50.5,2.6666666666666665,do make say rise match
+Paul,David,4.0,1.5,50.5,2.6666666666666665,do make say rise match
+David,Straub,2.7777777777777777,0.8333333333333334,47.5,3.3333333333333335,be liaise scramble prep know
+Paul,Straub,4.044117647058823,2.2058823529411766,52.57352941176471,1.8333333333333333,have begin bleed have wave have be wipe
+Paul,Straub,4.044117647058823,2.2058823529411766,52.57352941176471,1.8333333333333333,have begin bleed have wave have be wipe
+Straub,Paul,4.044117647058823,2.2058823529411766,52.57352941176471,1.8333333333333333,have begin bleed have wave have be wipe
+David,Patrick,1.7857142857142856,1.488095238095238,53.86904761904761,1.2,be near address shake race be have be
+Straub,Paul,5.128205128205128,1.9230769230769231,51.92307692307693,2.6666666666666665,call be instruct wait take think
+Straub,David,0.0,0.0,37.5,INF,ask pull
+Straub,David,2.4390243902439024,3.048780487804878,53.04878048780488,0.8,be go hold wait be
+David,APC,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,feel be do say step head be emerge begin converge
+Straub,David,0.0,0.6578947368421052,41.44736842105263,0.0,hold say seat talk
+David,Paul,0.78125,0.0,55.46875,INF,turn be
+Paul,David,0.78125,0.0,55.46875,INF,turn be
+Paul,Straub,0.0,0.0,42.10526315789473,INF,have go say mean
+Mr Winter,Straub,0.0,0.0,41.17647058823529,INF,do try say
+Straub,Paul,2.3255813953488373,0.5813953488372093,55.23255813953488,4.0,shout advance do be tell grab yank allow resist
+Straub,Paul,2.3255813953488373,0.5813953488372093,55.23255813953488,4.0,shout advance do be tell grab yank allow resist
+Straub,Paul,2.3255813953488373,0.5813953488372093,55.23255813953488,4.0,shout advance do be tell grab yank allow resist
+Straub,Paul,2.3255813953488373,0.5813953488372093,55.23255813953488,4.0,shout advance do be tell grab yank allow resist
+Straub,Paul,2.3255813953488373,0.5813953488372093,55.23255813953488,4.0,shout advance do be tell grab yank allow resist
+Straub,Paul,2.364864864864865,0.33783783783783783,51.35135135135135,7.0,have lose have know take cause interfere count
+Paul,Straub,0.0,4.166666666666666,29.166666666666668,0.0,growl
+Paul,Straub,0.0,4.166666666666666,29.166666666666668,0.0,growl
+Paul,Straub,6.875000000000001,1.875,56.25,3.6666666666666665,look plead tremble ball
+Paul,Straub,6.875000000000001,1.875,56.25,3.6666666666666665,look plead tremble ball
+Paul,Straub,6.875000000000001,1.875,56.25,3.6666666666666665,look plead tremble ball
+Straub,Paul,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,look grow
+Paul,Straub,5.048076923076923,1.4423076923076923,58.894230769230774,3.5,be gape stare turn have turn watch
+Paul,Straub,5.048076923076923,1.4423076923076923,58.894230769230774,3.5,be gape stare turn have turn watch
+APC,David,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,turn face have be talk
+David,APC,0.0,2.083333333333333,64.58333333333334,0.0,be be see
+Boldfield,Caementum,0.7352941176470588,1.1764705882352942,55.73529411764706,0.625,get get correlate spike have detect have be be say be take snap point
+Boldfield,Paul,0.7352941176470588,1.1764705882352942,55.73529411764706,0.625,get get correlate spike have detect have be be say be take snap point
+Caementum,Paul,0.7352941176470588,1.1764705882352942,55.73529411764706,0.625,get get correlate spike have detect have be be say be take snap point
+Paul,Straub,1.9444444444444444,0.5555555555555556,55.27777777777778,3.5,be find cover have request stand form
+David,Straub,0.0,10.227272727272728,53.40909090909091,0.0,try catch finish
+Straub,APC,1.6025641025641024,2.564102564102564,65.06410256410257,0.625,glance see hold assume be infrare lie
+Paul,Patrick,1.6025641025641024,1.9230769230769231,55.44871794871795,0.8333333333333334,knock fall drop leave
+Paul,Patrick,0.8522727272727272,3.125,59.65909090909091,0.2727272727272727,have use prop be be turn be face
+Andy,Paul,3.90625,3.125,49.21875,1.25,be say use be bore
+Andy,Paul,3.90625,3.125,49.21875,1.25,be say use be bore
+Paul,Straub,6.547619047619048,0.0,55.35714285714286,INF,stare wonder do save
+Roger,Straub,3.571428571428571,0.0,25.0,INF,say proceed
+Straub,Paul,0.0,4.605263157894736,48.026315789473685,0.0,ignore look lose work
+Paul,Henry,5.208333333333334,0.0,61.458333333333336,INF,be stare raise
+Paul,Henry,5.208333333333334,0.0,61.458333333333336,INF,be stare raise
+Henry,Paul,3.125,4.464285714285714,45.982142857142854,0.7,have go stand dart
+Henry,Paul,0.9375,2.5,59.06249999999999,0.375,combine make be take shake struggle support
+Paul,Henry,0.9375,2.5,59.06249999999999,0.375,combine make be take shake struggle support
+Paul,Henry,0.9375,2.5,59.06249999999999,0.375,combine make be take shake struggle support
+Paul,Henry,0.9375,2.5,59.06249999999999,0.375,combine make be take shake struggle support
+Henry,Paul,0.0,4.545454545454546,54.54545454545454,0.0,rise stiffen descend get
+Henry,Patrick,3.1746031746031744,2.380952380952381,56.34920634920635,1.3333333333333333,have be manage stop break terrify avoid become have take have be take be imagine
+Henry,Patrick,3.1746031746031744,2.380952380952381,56.34920634920635,1.3333333333333333,have be manage stop break terrify avoid become have take have be take be imagine
+Henry,Patrick,3.1746031746031744,2.380952380952381,56.34920634920635,1.3333333333333333,have be manage stop break terrify avoid become have take have be take be imagine
+Paul,Patrick,0.0,0.0,56.666666666666664,INF,be walk stop
+Paul,Henry,0.0,0.0,56.666666666666664,INF,be walk stop
+Paul,Henry,0.0,0.0,56.666666666666664,INF,be walk stop
+Patrick,Henry,0.0,0.0,56.666666666666664,INF,be walk stop
+Patrick,Henry,0.0,0.0,56.666666666666664,INF,be walk stop
+Mr Williams,Paul,0.0,0.0,55.55555555555556,INF,be say shake
+Mr Williams,Paul,0.0,0.0,55.55555555555556,INF,be say shake
+Roger,Straub,2.5,0.0,30.833333333333336,INF,say
+Roger,Henry,2.5,0.0,30.833333333333336,INF,say
+Straub,Henry,2.5,0.0,30.833333333333336,INF,say
+Roger,Paul,3.90625,0.0,46.09375,INF,like take say
+Roger,Paul,3.90625,0.0,46.09375,INF,like take say
+Paul,Henry,2.857142857142857,0.0,54.285714285714285,INF,look turn be stand see wait
+Paul,Straub,2.857142857142857,0.0,54.285714285714285,INF,look turn be stand see wait
+Henry,Straub,2.857142857142857,0.0,54.285714285714285,INF,look turn be stand see wait
+Henry,Straub,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,turn tremble see be look fall
+Henry,Straub,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,turn tremble see be look fall
+Henry,Straub,4.545454545454546,5.681818181818182,44.31818181818182,0.8,break gaze return
+Henry,Stone Man,2.5,0.0,44.166666666666664,INF,wonder give take
+APC,Straub,3.9473684210526314,0.6578947368421052,48.026315789473685,6.0,be run be usher
+Mr Williams,Patrick,3.5000000000000004,1.5,51.0,2.3333333333333335,do end get be
+Mr Williams,Patrick,3.5000000000000004,1.5,51.0,2.3333333333333335,do end get be
+Mr Williams,Patrick,3.5000000000000004,1.5,51.0,2.3333333333333335,do end get be
+Straub,APC,0.0,0.0,50.0,INF,shake meet gaze hold
+APC,Straub,0.0,0.0,50.0,INF,shake meet gaze hold
+Henry,Stone Man,0.0,2.604166666666667,47.39583333333333,0.0,drive load take
+Henry,Stone Man,0.0,2.604166666666667,47.39583333333333,0.0,drive load take
+Henry,Stone Man,0.0,2.604166666666667,47.39583333333333,0.0,drive load take
+Henry,Stone Man,2.232142857142857,1.3392857142857142,53.57142857142857,1.6666666666666667,gather pick bring
+Henry,Stone Man,2.232142857142857,1.3392857142857142,53.57142857142857,1.6666666666666667,gather pick bring
+Patrick,Henry,1.6304347826086956,1.0869565217391304,45.108695652173914,1.5,think hope stay
+Henry,Stone Man,0.0,0.0,70.0,INF,remove go
+Straub,Henry,3.205128205128205,1.282051282051282,57.05128205128205,2.5,come be join have be have leave join have clear estimate
+Straub,David,0.0,0.0,55.55555555555556,INF,be tell do do
+Paul,Henry,1.6304347826086956,5.978260869565218,57.608695652173914,0.2727272727272727,go relieve make
+Henry,Paul,1.6304347826086956,5.978260869565218,57.608695652173914,0.2727272727272727,go relieve make
+Henry,Paul,1.6304347826086956,5.978260869565218,57.608695652173914,0.2727272727272727,go relieve make
+Paul,Straub,0.0,1.171875,55.078125,0.0,be take squawk come
+Stone Man,Henry,3.723404255319149,0.7978723404255319,63.56382978723404,4.666666666666667,give be have take occur be be take have be
+Patrick,Henry,3.90625,0.0,64.84375,INF,be have be be
+Paul,Straub,0.0,4.464285714285714,45.535714285714285,0.0,say direct
+Paul,Straub,0.0,4.464285714285714,45.535714285714285,0.0,say direct
+Straub,Paul,2.232142857142857,3.571428571428571,62.05357142857143,0.625,hurry look bark stand get
+Straub,Paul,2.232142857142857,3.571428571428571,62.05357142857143,0.625,hurry look bark stand get
+Andy,Caementum,2.380952380952381,0.5952380952380952,44.642857142857146,4.0,say hold
+Carter,Straub,2.941176470588235,0.3676470588235294,52.57352941176471,8.0,touch have be wait say look have happen
+Patrick,Henry,3.6363636363636362,5.227272727272727,49.31818181818181,0.6956521739130435,think have think think fuck get fuck think be be
+Paul,Straub,1.5151515151515151,2.272727272727273,56.81818181818182,0.6666666666666666,nod look be talk have reappear seem be try
+Paul,David,1.5151515151515151,2.272727272727273,56.81818181818182,0.6666666666666666,nod look be talk have reappear seem be try
+Straub,David,1.5151515151515151,2.272727272727273,56.81818181818182,0.6666666666666666,nod look be talk have reappear seem be try
+Andy,Paul,2.4390243902439024,3.6585365853658534,52.4390243902439,0.6666666666666666,get do pass
+Patrick,Paul,5.88235294117647,7.352941176470589,57.35294117647059,0.8,be affect have be haunt
+Henry,Theresa Pettifer,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Henry,Patrick,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Henry,Stone Man,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Theresa Pettifer,Patrick,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Theresa Pettifer,Stone Man,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Patrick,Stone Man,1.984126984126984,2.579365079365079,47.817460317460316,0.7692307692307693,be have be have evacuate wait come make clear
+Coventry,Stone Man,1.0,1.7500000000000002,69.25,0.5714285714285714,spend work spend be leave be die be
+Paul,Andy,2.631578947368421,2.4122807017543857,51.09649122807017,1.0909090909090908,fuck leave want be be be be say interrupt try sound be
+Paul,Andy,2.631578947368421,2.4122807017543857,51.09649122807017,1.0909090909090908,fuck leave want be be be be say interrupt try sound be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Paul,Patrick,4.076086956521739,1.0869565217391304,57.88043478260869,3.75,begin wonder be do need find think lock be
+Jesus,Paul,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,say muffle think be talk
+Jesus,Paul,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,say muffle think be talk
+Jesus,Paul,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,say muffle think be talk
+Jesus,Paul,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,say muffle think be talk
+Jesus,Paul,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,say muffle think be talk
+Andy,Paul,0.0,0.0,33.33333333333333,INF,be say
+Mr Pointer,Andy,0.0,2.840909090909091,42.61363636363637,0.0,be hear say take
+Straub,David,4.583333333333333,0.625,49.791666666666664,7.333333333333333,think get think have be go spin have decide let be have record
+David,Straub,4.583333333333333,0.625,49.791666666666664,7.333333333333333,think get think have be go spin have decide let be have record
+Stone Man,Straub,0.78125,3.515625,51.953125,0.2222222222222222,be wait be try pick
+Straub,Boldfield,7.451923076923077,4.326923076923077,45.91346153846153,1.7222222222222223,need make know be make have work be fuck run know
+Andy,Straub,0.6147540983606558,1.639344262295082,40.36885245901639,0.375,be be be stall text have text tell pick
+Andy,Straub,0.6147540983606558,1.639344262295082,40.36885245901639,0.375,be be be stall text have text tell pick
+Andy,Straub,0.6147540983606558,1.639344262295082,40.36885245901639,0.375,be be be stall text have text tell pick
+Patrick,Stone Man,1.7857142857142856,0.0,69.64285714285714,INF,take have come do have
+Stone Man,Coventry,2.864583333333333,1.5625,68.48958333333334,1.8333333333333333,have be work touch have figure have
+Paul,Straub,4.824561403508771,1.0964912280701753,55.48245614035088,4.4,be be receive provide be think be be leave
+Paul,Straub,4.824561403508771,1.0964912280701753,55.48245614035088,4.4,be be receive provide be think be be leave
+Paul,Straub,4.824561403508771,1.0964912280701753,55.48245614035088,4.4,be be receive provide be think be be leave
+Paul,Straub,4.824561403508771,1.0964912280701753,55.48245614035088,4.4,be be receive provide be think be be leave
+Paul,Straub,4.824561403508771,1.0964912280701753,55.48245614035088,4.4,be be receive provide be think be be leave
+Paul,Andy,2.631578947368421,3.9473684210526314,56.57894736842105,0.6666666666666666,have be switch finish
+Paul,Andy,2.631578947368421,3.9473684210526314,56.57894736842105,0.6666666666666666,have be switch finish
+Paul,Straub,0.5952380952380952,0.0,51.78571428571429,INF,feel finger
+Paul,Straub,1.875,0.0,38.125,INF,tell call take
+Paul,Straub,1.875,0.0,38.125,INF,tell call take
+Paul,Straub,7.720588235294118,4.044117647058823,52.94117647058824,1.9090909090909092,be feel sit be shift think have call
+Paul,Straub,7.720588235294118,4.044117647058823,52.94117647058824,1.9090909090909092,be feel sit be shift think have call
+Paul,Straub,7.720588235294118,4.044117647058823,52.94117647058824,1.9090909090909092,be feel sit be shift think have call
+Paul,Straub,1.4830508474576272,0.847457627118644,58.686440677966104,1.75,justify have do be be lose feel start walk have
+Straub,Stone Man,2.631578947368421,1.644736842105263,50.98684210526315,1.6,feel let know come have set remain
+Straub,Stone Man,2.631578947368421,1.644736842105263,50.98684210526315,1.6,feel let know come have set remain
+Straub,Stone Man,2.631578947368421,1.644736842105263,50.98684210526315,1.6,feel let know come have set remain
+Straub,Stone Man,2.631578947368421,1.644736842105263,50.98684210526315,1.6,feel let know come have set remain
+Stone Man,Straub,2.631578947368421,1.644736842105263,50.98684210526315,1.6,feel let know come have set remain
+Straub,Paul,4.009433962264151,1.179245283018868,58.9622641509434,3.4,be drop remain sit pass begin find be give be
+Straub,Paul,4.009433962264151,1.179245283018868,58.9622641509434,3.4,be drop remain sit pass begin find be give be
+Straub,Paul,4.009433962264151,1.179245283018868,58.9622641509434,3.4,be drop remain sit pass begin find be give be
+Straub,Paul,4.009433962264151,1.179245283018868,58.9622641509434,3.4,be drop remain sit pass begin find be give be
+Paul,Straub,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,wonder have be wander breathe tell come call
+Paul,Straub,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,wonder have be wander breathe tell come call
+Paul,Straub,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,wonder have be wander breathe tell come call
+Paul,Straub,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,wonder have be wander breathe tell come call
+Paul,Straub,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,wonder have be wander breathe tell come call
+Paul,Straub,3.9285714285714284,0.35714285714285715,61.42857142857143,11.0,be have have have lay cover
+Paul,Straub,3.9285714285714284,0.35714285714285715,61.42857142857143,11.0,be have have have lay cover
+Paul,Straub,0.0,0.0,61.53846153846154,INF,take switch
+Straub,David,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Straub,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Straub,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Straub,David,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Straub,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Straub,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+David,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+David,Paul,1.9067796610169492,2.330508474576271,53.38983050847458,0.8181818181818182,push be be go be deal keep fail become
+Paul,Straub,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Paul,Straub,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Paul,Straub,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Paul,Straub,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Straub,Paul,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Paul,Straub,2.7777777777777777,3.1746031746031744,54.36507936507936,0.875,flood tell be switch have be gather wait have be try get
+Straub,Paul,3.8194444444444446,3.125,45.83333333333333,1.2222222222222223,be offer tell doubt be
+Straub,Paul,3.8194444444444446,3.125,45.83333333333333,1.2222222222222223,be offer tell doubt be
+Paul,Straub,3.8194444444444446,3.125,45.83333333333333,1.2222222222222223,be offer tell doubt be
+Paul,Straub,1.0,2.5,48.5,0.4,picture bark shut be
+Paul,Straub,1.0,2.5,48.5,0.4,picture bark shut be
+Straub,Paul,6.756756756756757,0.0,52.702702702702695,INF,pause speak do be be take make be
+Straub,Paul,6.756756756756757,0.0,52.702702702702695,INF,pause speak do be be take make be
+Straub,Paul,6.756756756756757,0.0,52.702702702702695,INF,pause speak do be be take make be
+Straub,Paul,2.6515151515151514,6.0606060606060606,42.803030303030305,0.4375,be blame reply think mean
+Straub,Paul,2.6515151515151514,6.0606060606060606,42.803030303030305,0.4375,be blame reply think mean
+Straub,Paul,2.6515151515151514,6.0606060606060606,42.803030303030305,0.4375,be blame reply think mean
+Paul,Straub,0.5208333333333333,3.6458333333333335,62.5,0.14285714285714285,listen think hear whisper
+Paul,Straub,0.5208333333333333,3.6458333333333335,62.5,0.14285714285714285,listen think hear whisper
+Straub,Paul,0.0,0.0,31.57894736842105,INF,listen prep
+Straub,Paul,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,have attempt cover have give fail
+Straub,Paul,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,have attempt cover have give fail
+Straub,Paul,1.25,2.5,49.583333333333336,0.5,hold say go come
+Straub,Paul,0.78125,1.5625,35.15625,0.5,lift come be
+Andy,Paul,0.0,0.0,46.15384615384615,INF,have suffer jump
+Paul,Andy,1.9230769230769231,1.9230769230769231,62.82051282051282,1.0,know be come be be be know have get do do
+Andy,Paul,1.9230769230769231,1.9230769230769231,62.82051282051282,1.0,know be come be be be know have get do do
+Paul,Straub,0.0,0.0,60.0,INF,sound be test
+Straub,Paul,6.4655172413793105,3.0172413793103448,52.58620689655172,2.142857142857143,say think do sound
+Straub,Paul,6.4655172413793105,3.0172413793103448,52.58620689655172,2.142857142857143,say think do sound
+Straub,Paul,6.4655172413793105,3.0172413793103448,52.58620689655172,2.142857142857143,say think do sound
+Paul,Straub,3.75,12.5,43.75,0.3,do
+Straub,Paul,0.0,3.75,46.25,0.0,be show
+Straub,Paul,0.78125,0.0,67.96875,INF,seem be thrive be
+Paul,Andy,0.5,3.0,52.5,0.16666666666666666,drop come think
+Paul,Andy,0.5,3.0,52.5,0.16666666666666666,drop come think
+Paul,Andy,0.5,3.0,52.5,0.16666666666666666,drop come think
+Straub,Paul,1.5,3.0,39.5,0.5,wash be reply
+Paul,Straub,4.296875,3.515625,60.9375,1.2222222222222223,hear say wash force concentrate scream bless
+Paul,Straub,4.296875,3.515625,60.9375,1.2222222222222223,hear say wash force concentrate scream bless
+Paul,Straub,4.296875,3.515625,60.9375,1.2222222222222223,hear say wash force concentrate scream bless
+Paul,Straub,4.296875,3.515625,60.9375,1.2222222222222223,hear say wash force concentrate scream bless
+Paul,Straub,5.803571428571429,3.125,55.35714285714286,1.8571428571428572,gibber weep have find
+Paul,Straub,5.803571428571429,3.125,55.35714285714286,1.8571428571428572,gibber weep have find
+Straub,Patrick,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,think have have know be look
+Straub,Henry,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,think have have know be look
+Patrick,Henry,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,think have have know be look
+Patrick,Paul,4.761904761904762,5.357142857142857,61.30952380952381,0.8888888888888888,have be run have feel think
+Patrick,Paul,4.761904761904762,5.357142857142857,61.30952380952381,0.8888888888888888,have be run have feel think
+Straub,Paul,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,go go have sign be escort find wander surround concentrate
+Straub,Paul,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,go go have sign be escort find wander surround concentrate
+Straub,Paul,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,go go have sign be escort find wander surround concentrate
+Patrick,Paul,5.147058823529411,0.7352941176470588,49.01960784313725,7.0,guess have be secure bar do know be get go mean
+Patrick,Paul,5.147058823529411,0.7352941176470588,49.01960784313725,7.0,guess have be secure bar do know be get go mean
+Paul,Straub,2.2058823529411766,1.1029411764705883,49.63235294117647,2.0,have speak be put have see arrive
+Paul,Straub,2.2058823529411766,1.1029411764705883,49.63235294117647,2.0,have speak be put have see arrive
+Paul,Straub,2.2058823529411766,1.1029411764705883,49.63235294117647,2.0,have speak be put have see arrive
+Paul,David,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,Stone Man,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,David,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,Stone Man,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,David,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,Stone Man,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,David,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,Stone Man,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+David,Stone Man,1.7857142857142856,2.0408163265306123,63.52040816326531,0.875,sit listen be relay do recognise be clean nod
+Paul,Stone Man,4.166666666666666,1.25,57.91666666666667,3.3333333333333335,be calculate want
+Stone Man,Paul,3.571428571428571,1.3392857142857142,59.375,2.6666666666666665,be frame contain
+Stone Man,Paul,2.083333333333333,1.0416666666666665,59.375,2.0,have reach notice flank have break be cluster slide
+Paul,Stone Man,0.0,1.5,62.5,0.0,look look make be take
+Paul,Stone Man,0.0,1.5,62.5,0.0,look look make be take
+Paul,Straub,1.3888888888888888,2.7777777777777777,45.83333333333333,0.5,come be be
+Stone Man,Paul,1.1363636363636365,1.3636363636363635,55.68181818181818,0.8333333333333334,have close become tell be
+Stone Man,Paul,1.1363636363636365,1.3636363636363635,55.68181818181818,0.8333333333333334,have close become tell be
+Paul,Stone Man,1.1363636363636365,1.3636363636363635,55.68181818181818,0.8333333333333334,have close become tell be
+Paul,Stone Man,1.1363636363636365,1.3636363636363635,55.68181818181818,0.8333333333333334,have close become tell be
+Stone Man,Paul,2.083333333333333,0.0,61.25000000000001,INF,be realise have bury pad
+Stone Man,Paul,2.083333333333333,0.0,61.25000000000001,INF,be realise have bury pad
+Stone Man,Paul,2.083333333333333,0.0,61.25000000000001,INF,be realise have bury pad
+Paul,Stone Man,0.0,0.0,66.66666666666666,INF,swing watch be move
+Paul,Stone Man,0.0,0.0,66.66666666666666,INF,swing watch be move
+Paul,Stone Man,3.463855421686747,4.819277108433735,55.57228915662651,0.71875,die wonder be project have be come have break lock be
+Paul,Andy,3.463855421686747,4.819277108433735,55.57228915662651,0.71875,die wonder be project have be come have break lock be
+Paul,Stone Man,3.463855421686747,4.819277108433735,55.57228915662651,0.71875,die wonder be project have be come have break lock be
+Paul,Andy,3.463855421686747,4.819277108433735,55.57228915662651,0.71875,die wonder be project have be come have break lock be
+Stone Man,Andy,3.463855421686747,4.819277108433735,55.57228915662651,0.71875,die wonder be project have be come have break lock be
+Paul,Patrick,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Patrick,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Stone Man,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Stone Man,Paul,2.761627906976744,0.29069767441860467,57.412790697674424,9.5,have extend reach have take pluck gouge hold snap be draw begin open be turn expose
+Paul,Stone Man,0.9090909090909091,0.22727272727272727,66.13636363636364,4.0,rumble feel spin catch propel run turn
+Paul,Stone Man,0.9090909090909091,0.22727272727272727,66.13636363636364,4.0,rumble feel spin catch propel run turn
+Paul,Straub,0.0,4.375,35.625,0.0,be program say
+Straub,Paul,0.0,4.375,35.625,0.0,be program say
+Paul,Stone Man,0.8522727272727272,0.2840909090909091,57.95454545454546,3.0,know be stop stop decide pull shoot
+Paul,Stone Man,1.3020833333333335,2.864583333333333,52.083333333333336,0.45454545454545453,look approach know be have remind be be
+Paul,Stone Man,1.3020833333333335,2.864583333333333,52.083333333333336,0.45454545454545453,look approach know be have remind be be
+Paul,Stone Man,1.3020833333333335,2.864583333333333,52.083333333333336,0.45454545454545453,look approach know be have remind be be
+Stone Man,Paul,2.9661016949152543,2.330508474576271,59.11016949152542,1.2727272727272727,be think go reach come grip handle swing begin back
+Caementum,Stone Man,0.0,0.8620689655172413,57.758620689655174,0.0,use check mean be follow
+Paul,Dictaphone,1.7857142857142856,0.0,55.35714285714286,INF,pause push
+Paul,Straub,3.1914893617021276,0.5319148936170213,64.36170212765957,6.0,remember have tell spark say be have last have return
+Paul,Straub,3.1914893617021276,0.5319148936170213,64.36170212765957,6.0,remember have tell spark say be have last have return
+Stone Man,Paul,0.0,0.8333333333333334,59.166666666666664,0.0,be walk

@@ -1,0 +1,1308 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mrs. Salmon,Susie,0.8333333333333334,0.0,52.5,INF,be
+Lindsey,Mrs. Stead,0.4807692307692308,1.201923076923077,54.08653846153846,0.4,humiliate tell be take want hear say have
+Lindsey,Susie,0.4807692307692308,1.201923076923077,54.08653846153846,0.4,humiliate tell be take want hear say have
+Mrs. Stead,Lindsey,0.4807692307692308,1.201923076923077,54.08653846153846,0.4,humiliate tell be take want hear say have
+Mrs. Stead,Susie,0.4807692307692308,1.201923076923077,54.08653846153846,0.4,humiliate tell be take want hear say have
+Lindsey,Susie,0.4807692307692308,1.201923076923077,54.08653846153846,0.4,humiliate tell be take want hear say have
+Gilberts,Mr. Harvey,1.1029411764705883,0.0,72.42647058823529,INF,find bring tell attach have close
+Lindsey,Buckley,3.787878787878788,3.0303030303030303,53.78787878787878,1.25,have tell be have be be be understand
+Coke,Mr. Harvey,4.166666666666666,0.0,54.166666666666664,INF,be have say
+Mr. Harvey,Susie,1.6666666666666667,1.6666666666666667,50.0,1.0,say be
+Mr. Harvey,Susie,2.6785714285714284,3.571428571428571,29.464285714285715,0.75,say be
+Mr. Harvey,Clarissa,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,say give have dub
+Coke,Mr. Harvey,0.5,0.0,51.5,INF,swallow be say get go
+Mr. Harvey,Ray,0.0,0.0,66.66666666666666,INF,be be
+Ray,Mr. Harvey,0.0,0.0,66.66666666666666,INF,be be
+Clarissa,Mr. Harvey,2.857142857142857,3.214285714285714,48.214285714285715,0.8888888888888888,call be help cheat pretend have
+Clarissa,Mr. Harvey,2.857142857142857,3.214285714285714,48.214285714285715,0.8888888888888888,call be help cheat pretend have
+Clarissa,Mr. Harvey,2.857142857142857,3.214285714285714,48.214285714285715,0.8888888888888888,call be help cheat pretend have
+Mr. Harvey,Susie Salmon,0.7142857142857143,1.4285714285714286,46.42857142857143,0.5,come see have answer belong
+Mr. Harvey,Susie Salmon,0.7142857142857143,1.4285714285714286,46.42857142857143,0.5,come see have answer belong
+Susie,Franny,0.0,2.272727272727273,34.090909090909086,0.0,want say
+Holly,Buckley,2.616279069767442,0.29069767441860467,64.53488372093024,9.0,sit read associate bring hop love love yell hop
+Holly,Buckley,2.616279069767442,0.29069767441860467,64.53488372093024,9.0,sit read associate bring hop love love yell hop
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Herman Jade,Buckley,3.1914893617021276,2.925531914893617,61.96808510638297,1.0909090909090908,know know be own hop be be adopt come
+Franny,Holly,2.272727272727273,0.3787878787878788,51.89393939393939,6.0,be be take figure have be want
+Franny,Holly,5.0,4.166666666666666,44.166666666666664,1.2,serve be reward
+Franny,Holly,0.0,0.0,58.333333333333336,INF,walk
+Len,Mr. Salmon,1.9736842105263157,0.0,66.44736842105263,INF,say have find
+Len,Abigail,0.0,0.0,25.0,INF,tell
+Buckley,Nate,1.25,3.125,50.625,0.4,be spend
+Buckley,Nate,1.25,3.125,50.625,0.4,be spend
+Nate,Buckley,1.25,3.125,50.625,0.4,be spend
+Buckley,Clarissa,1.7857142857142856,0.8928571428571428,61.60714285714286,2.0,have tell be
+Mrs. Stead,Len,0.0,0.0,37.5,INF,say do
+Mrs. Dewitt,Mrs. Stead,0.0,0.0,44.44444444444444,INF,say
+Ray,Susie Salmon,10.227272727272728,0.0,62.5,INF,have write
+Ray,Mr. Botte,3.571428571428571,0.0,63.095238095238095,INF,have put have ask collect
+Susie,Len,0.6578947368421052,0.0,36.18421052631579,INF,have find believe be say
+Ray,Susie,0.0,0.0,37.5,INF,gag
+Mr. Salmon,Len,1.201923076923077,3.6057692307692304,43.269230769230774,0.3333333333333333,say have find be imply have discuss work have be kill
+Nate,Buckley,0.0,0.0,45.45454545454545,INF,knock return
+Mrs. Dewitt,Mr. Dewitt,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mrs. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mrs. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mrs. Dewitt,Mr. Dewitt,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mrs. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mrs. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mr. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Mr. Dewitt,Lindsey,1.8382352941176472,0.0,56.98529411764706,INF,be be marry coach have encourage try
+Lindsey,Principal Caden,0.0,0.0,42.10526315789473,INF,say receive
+Mr. Caden,Lindsey,0.0,0.0,56.52173913043478,INF,walk usher be refer
+Mr. Caden,Lindsey,0.0,0.0,56.52173913043478,INF,walk usher be refer
+Mr. Caden,Vicki Kurtz,3.571428571428571,0.0,60.71428571428571,INF,have have fall
+Vicki Kurtz,Mr. Caden,3.571428571428571,0.0,60.71428571428571,INF,have have fall
+Mr. Caden,Vicki Kurtz,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Mr. Caden,Vicki Kurtz,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Mr. Caden,Vicki Kurtz,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Vicki Kurtz,Mr. Caden,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Vicki Kurtz,Mr. Caden,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Mr. Caden,Vicki Kurtz,3.90625,3.3854166666666665,46.875,1.1538461538461537,have lead have go sit have say be have
+Susie,Lindsey,6.730769230769231,0.0,31.73076923076923,INF,make want say
+Lindsey,Susie,1.25,0.625,33.125,2.0,be say be miss say
+Lindsey,Mr. Caden,1.25,0.625,33.125,2.0,be say be miss say
+Susie,Mr. Caden,1.25,0.625,33.125,2.0,be say be miss say
+Susie,Mr. Caden,3.75,2.5,43.75,1.5,be try
+Mr. Dewitt,Mr. Caden,0.8928571428571428,0.0,56.25,INF,be consider say
+Lindsey,Principal Caden,0.8333333333333334,0.0,52.5,INF,get take
+Holly,Mrs. Utemeyer,0.0,0.0,51.61290322580645,INF,reverberate pass finish
+Ruth,Mr. Botte,0.8928571428571428,2.6785714285714284,60.71428571428571,0.3333333333333333,see rust
+Clarissa,Brian,1.3888888888888888,0.0,43.05555555555556,INF,be
+Clarissa,Brian,4.166666666666666,2.083333333333333,27.083333333333332,2.0,be giggle
+Brian,Clarissa,7.142857142857142,0.0,50.0,INF,be
+Brian,Clarissa,0.0,0.4629629629629629,77.31481481481481,0.0,inch increase thwart twist move
+Brian,Clarissa,0.0,0.4629629629629629,77.31481481481481,0.0,inch increase thwart twist move
+Clarissa,Brian,0.0,0.4629629629629629,77.31481481481481,0.0,inch increase thwart twist move
+Clarissa,Brian,0.0,0.4629629629629629,77.31481481481481,0.0,inch increase thwart twist move
+Ruth,Clarissa,5.5,1.5,53.0,3.6666666666666665,have pass head avert know have be
+Ruth,Clarissa,5.5,1.5,53.0,3.6666666666666665,have pass head avert know have be
+Clarissa,Brian,3.8461538461538463,0.0,57.692307692307686,INF,giggle nuzzle
+Clarissa,Brian,0.0,10.9375,14.0625,0.0,deny
+Clarissa,Brian,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Clarissa,Brian,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Clarissa,Brian,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Clarissa,Brian,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Brian,Clarissa,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Brian,Clarissa,1.953125,0.78125,44.140625,2.5,go be stick have hide
+Ruth,Mrs. Connors,1.171875,0.390625,57.8125,3.0,think be make say sit
+Ruth,Mrs. Connors,1.171875,0.390625,57.8125,3.0,think be make say sit
+Clarissa,Brian,0.0,3.8461538461538463,34.61538461538461,0.0,see spin
+Ruth,Franny,0.0,0.0,64.28571428571429,INF,watch meet
+Lindsey,Buckley,4.166666666666666,0.0,29.166666666666668,INF,do share
+Susie,Lindsey,0.5208333333333333,2.604166666666667,38.54166666666667,0.2,say like
+Mr. Harvey,Mrs. Tarking,0.0,0.7352941176470588,58.08823529411765,0.0,pass stand talk
+Mr. Harvey,Lindsey,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Lindsey,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Lindsey,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Lindsey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Lindsey,Buckley,1.3157894736842104,2.302631578947368,46.381578947368425,0.5714285714285714,scour share be
+Mr. Harvey,Flanagans,2.142857142857143,0.0,55.00000000000001,INF,be get leave approach live be
+Mr. Harvey,Flanagans,2.142857142857143,0.0,55.00000000000001,INF,be get leave approach live be
+Mr. Harvey,Flanagans,2.142857142857143,0.0,55.00000000000001,INF,be get leave approach live be
+Mr. Harvey,Flanagans,2.142857142857143,0.0,55.00000000000001,INF,be get leave approach live be
+Mr. Salmon,Mr. Harvey,0.0,5.147058823529411,36.029411764705884,0.0,say be
+Holly,Franny,9.375,0.0,53.125,INF,hug hug
+Lindsey,Holly,1.4285714285714286,1.7857142857142856,51.07142857142857,0.8,be have deal call walk see do see
+Lindsey,Susie,0.0,0.0,44.44444444444444,INF,listen
+Lindsey,Susie,0.0,0.0,80.0,INF,stand
+Susie,Lindsey,0.5681818181818182,0.5681818181818182,62.5,1.0,unlock draw prepare hope say do run
+Lindsey,Mr. Harvey,2.8846153846153846,3.8461538461538463,50.96153846153846,0.75,think fall be lose
+Lindsey,Mr. Harvey,2.8846153846153846,3.8461538461538463,50.96153846153846,0.75,think fall be lose
+Lindsey,Mr. Harvey,2.8846153846153846,3.8461538461538463,50.96153846153846,0.75,think fall be lose
+Lindsey,Mr. Harvey,2.8846153846153846,3.8461538461538463,50.96153846153846,0.75,think fall be lose
+Len,Abigail,1.25,0.0,38.75,INF,call
+Len,George Harvey,3.571428571428571,1.1904761904761905,57.14285714285714,3.0,have go have find
+Len,George Harvey,3.571428571428571,1.1904761904761905,57.14285714285714,3.0,have go have find
+Len,George Harvey,0.0,0.0,53.84615384615385,INF,seem
+Mr. Harvey,Salmons,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,say do know
+Mr. Harvey,Salmons,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,say do know
+Mr. Salmon,Len,3.0,2.0,55.00000000000001,1.5,understand have say
+Mr. Salmon,Len,3.0,2.0,55.00000000000001,1.5,understand have say
+Mr. Harvey,Len,7.5,0.0,62.5,INF,squint have pause
+Leah,Mr. Harvey,0.0,0.0,46.666666666666664,INF,be do say
+Ellis,Len,0.43103448275862066,3.0172413793103448,55.172413793103445,0.14285714285714285,sound grant say be work
+Len,Ellis,0.43103448275862066,3.0172413793103448,55.172413793103445,0.14285714285714285,sound grant say be work
+Ellis,Len,3.8793103448275863,1.7241379310344827,53.01724137931034,2.25,be tweak say call have
+Ellis,Len,3.8793103448275863,1.7241379310344827,53.01724137931034,2.25,be tweak say call have
+Len,Ellis,3.8793103448275863,1.7241379310344827,53.01724137931034,2.25,be tweak say call have
+Len,Ellis,3.8793103448275863,1.7241379310344827,53.01724137931034,2.25,be tweak say call have
+Ellis,Leah,0.0,0.0,33.33333333333333,INF,build
+Leah,Ellis,0.0,0.0,33.33333333333333,INF,build
+Mrs. Stead,Ellis,0.0,0.0,52.63157894736842,INF,remember tell be say
+Mrs. Stead,Abigail,0.0,0.0,52.63157894736842,INF,remember tell be say
+Mrs. Stead,Sophie,0.0,0.0,52.63157894736842,INF,remember tell be say
+Ellis,Abigail,0.0,0.0,52.63157894736842,INF,remember tell be say
+Ellis,Sophie,0.0,0.0,52.63157894736842,INF,remember tell be say
+Abigail,Sophie,0.0,0.0,52.63157894736842,INF,remember tell be say
+Len,Sophie,4.6875,0.0,45.3125,INF,have get
+Len,Mr. Harvey,1.7857142857142856,4.464285714285714,65.17857142857143,0.4,do remember have come
+Strick,Lindsey,3.7037037037037033,1.3888888888888888,50.46296296296296,2.6666666666666665,be say collect win
+Susie,Lindsey,1.7857142857142856,6.25,27.67857142857143,0.2857142857142857,hope venture
+Samuel,Lindsey,1.0,2.5,32.5,0.4,be say offer
+Samuel,Lindsey,1.0,2.5,32.5,0.4,be say offer
+Buckley,Lindsey,0.8333333333333334,0.0,59.166666666666664,INF,ask trail point think be
+Samuel,Lindsey,0.0,0.0,57.14285714285714,INF,know be be
+Buckley,Lindsey,2.1739130434782608,0.0,36.95652173913043,INF,be be call do worry be
+Buckley,Susie,0.9259259259259258,0.0,43.51851851851852,INF,follow ask have
+Buckley,Susie,0.9259259259259258,0.0,43.51851851851852,INF,follow ask have
+Samuel,Lindsey,0.0,0.0,60.0,INF,look
+Susie,Buckley,0.0,0.0,46.666666666666664,INF,be play say
+Susie,Buckley,4.545454545454546,6.25,48.29545454545455,0.7272727272727273,be say make fit
+Lindsey,Samuel,0.0,0.0,62.5,INF,see move
+Ray,Clarissa,1.4705882352941175,0.0,75.0,INF,have move say be bear
+Clarissa,Ray,1.4705882352941175,0.0,75.0,INF,have move say be bear
+Mr. Morton,Ray,0.0,0.0,58.333333333333336,INF,have say
+Mr. Peterford,Miss Ryan,0.0,0.0,57.14285714285714,INF,open walk recognize
+Ray,Ruth,0.625,0.0,64.375,INF,open shut hear cry
+Susie Salmon,Ruth,4.807692307692308,0.0,33.65384615384615,INF,say confirm
+Brian,Ruth,3.9473684210526314,1.3157894736842104,63.1578947368421,3.0,use have make be cross
+Ray,Ruth,4.807692307692308,1.9230769230769231,77.88461538461539,2.5,have see walk
+Ray,Ruth,0.0,2.82258064516129,52.016129032258064,0.0,leave wait make sit brace
+Ray,Ruth,2.25,2.75,49.0,0.8181818181818182,see separate be rub prepare want say
+Ruth,Ray,2.25,2.75,49.0,0.8181818181818182,see separate be rub prepare want say
+Ruth,Ray,2.25,2.75,49.0,0.8181818181818182,see separate be rub prepare want say
+Ruth,Ray,2.25,2.75,49.0,0.8181818181818182,see separate be rub prepare want say
+Ruth,Ray,0.0,0.0,69.23076923076923,INF,see stand be
+Ray,Ruth,0.0,0.0,69.23076923076923,INF,see stand be
+Ruth,Ray,0.0,0.0,46.666666666666664,INF,look come
+Ruth,Ray,0.0,0.0,46.666666666666664,INF,look come
+Ray,Ruth,0.0,0.0,46.666666666666664,INF,look come
+Ruth,Ray,0.0,0.0,46.666666666666664,INF,look come
+Ruth,Ray,2.9605263157894735,1.3157894736842104,48.35526315789473,2.25,have hear be believe have say do walk
+Ray,Ruth,2.9605263157894735,1.3157894736842104,48.35526315789473,2.25,have hear be believe have say do walk
+Ray,Ruth,2.9605263157894735,1.3157894736842104,48.35526315789473,2.25,have hear be believe have say do walk
+Ray,Ruth,2.9605263157894735,1.3157894736842104,48.35526315789473,2.25,have hear be believe have say do walk
+Susie,Ray,0.0,0.0,44.44444444444444,INF,be talk say
+Ray,Ruth,0.0,1.5625,48.4375,0.0,hold
+Susie Salmon,Ray,3.125,0.0,34.375,INF,clarify
+Ray,Ruth,4.807692307692308,1.4423076923076923,55.28846153846154,3.3333333333333335,teach bring have
+Ray,Ruth,4.807692307692308,1.4423076923076923,55.28846153846154,3.3333333333333335,teach bring have
+Ruth,Ray,4.807692307692308,1.4423076923076923,55.28846153846154,3.3333333333333335,teach bring have
+Ray,Ruth,4.807692307692308,1.4423076923076923,55.28846153846154,3.3333333333333335,teach bring have
+Vicki Kurtz,Ruth,1.7361111111111112,0.3472222222222222,59.02777777777778,5.0,be have see sleep pine regulate
+Ray,Ruana,0.0,0.0,50.0,INF,knock be strike
+Ray,Ruana,0.0,0.0,50.0,INF,knock be strike
+Ray,Ruana,0.0,0.0,50.0,INF,knock be strike
+Mrs. Salmon,Ruana,4.5,3.0,52.5,1.5,have go close open want travel
+Ray,Ruana,2.393617021276596,2.127659574468085,57.180851063829785,1.125,have come have stumble reach have be agree sit
+Len,Mr. Salmon,0.5434782608695652,2.717391304347826,48.91304347826087,0.2,say do
+Buckley,Nate,2.7439024390243905,1.524390243902439,46.95121951219512,1.8,have draw begin have pluck bring
+Jack,Ray,3.3653846153846154,0.0,54.32692307692307,INF,go say tuck fall
+Jack,Len,2.6785714285714284,6.25,26.785714285714285,0.42857142857142855,be have question say
+Buckley,Nate,0.0,0.0,50.0,INF,make
+Buckley,Nate,1.9230769230769231,0.0,28.846153846153843,INF,yell leap forget
+Len,Susie,4.807692307692308,3.8461538461538463,37.5,1.25,be say
+Buckley,Nate,1.25,0.0,43.75,INF,greet call
+Ray,Len,0.0,0.0,42.857142857142854,INF,hear go see say
+Len,Daddy,1.25,2.5,36.25,0.5,need talk
+Buckley,Nate,0.0,0.0,53.84615384615385,INF,ask climb
+Lindsey,Nate,2.380952380952381,0.5952380952380952,44.642857142857146,4.0,love sit
+Lindsey,Buckley,2.380952380952381,0.5952380952380952,44.642857142857146,4.0,love sit
+Nate,Buckley,2.380952380952381,0.5952380952380952,44.642857142857146,4.0,love sit
+Susie,Nate,0.0,0.0,22.22222222222222,INF,say
+Buckley,Nate,2.1739130434782608,0.0,45.65217391304348,INF,see do want be want
+Buckley,Nate,2.1739130434782608,0.0,45.65217391304348,INF,see do want be want
+Buckley,Nate,1.0869565217391304,1.0869565217391304,45.65217391304348,1.0,be keep hide recognize
+Nate,Buckley,2.142857142857143,0.7142857142857143,60.0,3.0,have be shove have find string
+Nate,Buckley,2.142857142857143,0.7142857142857143,60.0,3.0,have be shove have find string
+Buckley,Clarissa,1.8518518518518516,0.9259259259259258,52.77777777777778,2.0,watch be sit read
+Nate,Lindsey,4.044117647058823,2.5735294117647056,52.20588235294118,1.5714285714285714,hear make dare squint try make be color
+Nate,Lindsey,4.044117647058823,2.5735294117647056,52.20588235294118,1.5714285714285714,hear make dare squint try make be color
+Lindsey,Holly,2.82258064516129,0.0,48.79032258064516,INF,call forget run jump
+Buckley,Nate,0.4629629629629629,0.9259259259259258,43.05555555555556,0.5,be choke buck carry trail sit
+Buckley,Nate,0.4629629629629629,0.9259259259259258,43.05555555555556,0.5,be choke buck carry trail sit
+Buckley,Nate,0.4629629629629629,0.9259259259259258,43.05555555555556,0.5,be choke buck carry trail sit
+Mr. Harvey,George Harvey,6.521739130434782,2.717391304347826,60.32608695652174,2.4,lecture make make be construct last
+George Harvey,Mr. Harvey,0.0,2.976190476190476,68.45238095238095,0.0,be look dream come
+Buckley,Grandma Lynn,2.5,1.25,59.583333333333336,2.0,have be close have yell be
+Buckley,Grandma Lynn,2.5,1.25,59.583333333333336,2.0,have be close have yell be
+Jack,Grandma Lynn,1.7045454545454544,2.272727272727273,50.56818181818182,0.75,realize have blame
+Susie,Grandma Lynn,3.571428571428571,0.0,46.42857142857143,INF,be say
+Clarissa,Lindsey,0.0,0.0,22.22222222222222,INF,use say
+Clarissa,Brian,0.0,0.0,45.45454545454545,INF,be hang
+Lindsey,Grandma Lynn,0.0,1.9230769230769231,55.769230769230774,0.0,try imagine see near
+Lindsey,Samuel,0.0,1.9230769230769231,55.769230769230774,0.0,try imagine see near
+Lindsey,Samuel,0.0,1.9230769230769231,55.769230769230774,0.0,try imagine see near
+Grandma Lynn,Samuel,0.0,1.9230769230769231,55.769230769230774,0.0,try imagine see near
+Grandma Lynn,Samuel,0.0,1.9230769230769231,55.769230769230774,0.0,try imagine see near
+Lindsey,Grandma Lynn,2.5863636363636364,2.527272727272728,40.340909090909086,1.0233812949640286,make look say
+Mrs. Utemeyer,Lindsey,0.0,0.0,47.05882352941176,INF,move be
+Mrs. Utemeyer,Lindsey,0.0,0.0,47.05882352941176,INF,move be
+Mrs. Utemeyer,Lindsey,1.6666666666666667,0.0,38.333333333333336,INF,call reach touch
+Mrs. Utemeyer,Natalie,1.6666666666666667,0.0,38.333333333333336,INF,call reach touch
+Lindsey,Natalie,1.6666666666666667,0.0,38.333333333333336,INF,call reach touch
+Lindsey,Mrs. Utemeyer,1.6666666666666667,0.0,38.333333333333336,INF,call reach touch
+Natalie,Mrs. Utemeyer,1.6666666666666667,0.0,38.333333333333336,INF,call reach touch
+Mrs. Utemeyer,Lindsey,0.6944444444444444,0.0,38.19444444444444,INF,die encourage bring
+Mrs. Utemeyer,Lindsey,0.6944444444444444,0.0,38.19444444444444,INF,die encourage bring
+Mother,Mr. Utemeyer,1.3157894736842104,1.3157894736842104,39.473684210526315,1.0,say bring call
+Mother,Natalie,1.3157894736842104,1.3157894736842104,39.473684210526315,1.0,say bring call
+Mr. Utemeyer,Natalie,1.3157894736842104,1.3157894736842104,39.473684210526315,1.0,say bring call
+Lindsey,Mrs. Utemeyer,2.631578947368421,3.618421052631579,41.118421052631575,0.7272727272727273,admit expect speak have decide do be go grab run
+Lindsey,Mrs. Utemeyer,2.631578947368421,3.618421052631579,41.118421052631575,0.7272727272727273,admit expect speak have decide do be go grab run
+Mrs. Utemeyer,Holly,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Mrs. Utemeyer,Holly,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Mrs. Utemeyer,Holly,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Mrs. Utemeyer,Holly,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Mrs. Utemeyer,Natalie,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Holly,Natalie,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Holly,Natalie,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Holly,Natalie,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Holly,Natalie,4.3604651162790695,0.872093023255814,59.883720930232556,5.0,be see be shock find walk introduce
+Lindsey,Holly,4.411764705882353,2.2058823529411766,40.44117647058824,2.0,stay
+Lindsey,Holly,4.411764705882353,2.2058823529411766,40.44117647058824,2.0,stay
+Buckley,Lindsey,0.49019607843137253,3.1862745098039214,51.225490196078425,0.15384615384615385,open be be disturb confess enter take do plan return
+Lindsey,Samuel,3.125,0.0,46.875,INF,want look
+Grandma Lynn,Lindsey,1.3888888888888888,3.4722222222222223,45.13888888888889,0.4,turn see have see
+Lindsey,Grandma Lynn,1.3888888888888888,3.4722222222222223,45.13888888888889,0.4,turn see have see
+Natalie,Lindsey,2.8846153846153846,0.0,35.57692307692308,INF,have forget look say
+Grandma Lynn,Lindsey,0.0,0.0,46.15384615384615,INF,open turn
+Grandma Lynn,Lindsey,0.0,0.0,46.15384615384615,INF,open turn
+Lindsey,Grandma Lynn,0.0,0.0,28.57142857142857,INF,get
+Grandma Lynn,Lindsey,0.8928571428571428,2.6785714285714284,35.714285714285715,0.3333333333333333,consider separate pluck pose talk
+Grandma Lynn,Lindsey,0.8928571428571428,2.6785714285714284,35.714285714285715,0.3333333333333333,consider separate pluck pose talk
+Grandma Lynn,Lindsey,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Grandma Lynn,Lindsey,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Lindsey,Grandma Lynn,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Lindsey,Grandma Lynn,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Grandma Lynn,Lindsey,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Lindsey,Grandma Lynn,2.450980392156863,2.2058823529411766,46.32352941176471,1.1111111111111112,help get run fix
+Grandma Lynn,Lindsey,1.9230769230769231,3.3653846153846154,60.09615384615385,0.5714285714285714,finish press whisk
+Grandma Lynn,Lindsey,1.9230769230769231,3.3653846153846154,60.09615384615385,0.5714285714285714,finish press whisk
+Lindsey,Grandma Lynn,1.1111111111111112,0.0,58.88888888888889,INF,be come comment look realize do have
+Lindsey,Grandma Lynn,1.1111111111111112,0.0,58.88888888888889,INF,be come comment look realize do have
+Lindsey,Grandma Lynn,1.1111111111111112,0.0,58.88888888888889,INF,be come comment look realize do have
+Buckley,Grandma Lynn,0.0,0.0,55.55555555555556,INF,ride near look ask be do
+Buckley,Grandma Lynn,0.0,0.0,55.55555555555556,INF,ride near look ask be do
+Samuel,Hal,2.1551724137931036,2.1551724137931036,57.758620689655174,1.0,be dress stand wear have wear
+Hal,Samuel,2.1551724137931036,2.1551724137931036,57.758620689655174,1.0,be dress stand wear have wear
+Lindsey,Samuel,0.0,2.840909090909091,51.70454545454546,0.0,lead drop walk
+Mrs. Dewitt,Ruth,1.6666666666666667,0.0,58.333333333333336,INF,have
+Mrs. Dewitt,Ruth,1.6666666666666667,0.0,58.333333333333336,INF,have
+Principal Caden,Ruth,3.6290322580645165,0.0,44.75806451612903,INF,seem agree be say help allow accept
+Samuel,Lindsey,6.25,0.0,56.25,INF,be hold
+Ruth,Hal,3.125,0.0,63.541666666666664,INF,see
+Ruthie,Ruth,1.7857142857142856,0.8928571428571428,25.892857142857146,2.0,ask be
+Clarissa,Brian,0.0,0.0,50.0,INF,be be wear
+Clarissa,Brian,0.0,0.0,50.0,INF,be be wear
+Clarissa,Principal Caden,0.0,0.0,42.30769230769231,INF,make see fall let
+Clarissa,Mr. Botte,0.0,0.0,42.30769230769231,INF,make see fall let
+Clarissa,Principal Caden,0.0,0.0,42.30769230769231,INF,make see fall let
+Clarissa,Mr. Botte,0.0,0.0,42.30769230769231,INF,make see fall let
+Principal Caden,Mr. Botte,0.0,0.0,42.30769230769231,INF,make see fall let
+Principal Caden,Clarissa,0.0,0.0,42.30769230769231,INF,make see fall let
+Principal Caden,Clarissa,0.0,0.0,42.30769230769231,INF,make see fall let
+Mr. Botte,Clarissa,0.0,0.0,42.30769230769231,INF,make see fall let
+Mr. Botte,Clarissa,0.0,0.0,42.30769230769231,INF,make see fall let
+Grandma Lynn,Clarissa,3.90625,0.78125,57.8125,5.0,stand wink
+Lindsey,Clarissa,8.035714285714286,0.0,41.964285714285715,INF,be notice look say
+Clarissa,Brian,1.3888888888888888,0.0,43.05555555555556,INF,fade look
+Clarissa,Brian,0.0,0.0,30.76923076923077,INF,find join
+Clarissa,Brian,0.0,0.0,30.76923076923077,INF,find join
+Brian,Clarissa,0.0,0.0,30.76923076923077,INF,find join
+Clarissa,Brian,0.0,0.0,30.76923076923077,INF,find join
+Ray,Ruth,1.953125,1.171875,71.875,1.6666666666666667,be be have be spend study
+Ray,Ruth,1.953125,1.171875,71.875,1.6666666666666667,be be have be spend study
+Ruth,Ray,1.953125,1.171875,71.875,1.6666666666666667,be be have be spend study
+Samuel,Lindsey,3.125,0.0,46.875,INF,keep squeeze do seem notice
+Lindsey,Samuel,3.125,0.0,46.875,INF,keep squeeze do seem notice
+Buckley,Nate,1.1904761904761905,0.0,60.71428571428571,INF,sit borrow have attend
+Grandma Lynn,Lindsey,0.0,0.8928571428571428,34.82142857142857,0.0,stand lean whisper be
+Grandma Lynn,Lindsey,0.0,0.8928571428571428,34.82142857142857,0.0,stand lean whisper be
+Lindsey,Grandma Lynn,1.3888888888888888,0.0,43.05555555555556,INF,think recognize
+Grandma Lynn,Lindsey,1.3888888888888888,0.0,43.05555555555556,INF,think recognize
+Grandma Lynn,George Harvey,0.0,2.314814814814815,60.64814814814815,0.0,attend slip gravestone walk be notice
+Samuel,Hal,6.8181818181818175,2.272727272727273,27.27272727272727,3.0,be
+Samuel,Hal,6.8181818181818175,2.272727272727273,27.27272727272727,3.0,be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Susie,Ruth,1.6666666666666667,0.625,34.375,2.6666666666666665,be be carry fold refold be
+Lindsey,Ruth,1.3888888888888888,0.0,59.72222222222222,INF,have avoid put choose draw
+Lindsey,Ruth,1.3888888888888888,0.0,59.72222222222222,INF,have avoid put choose draw
+Ruth,Samuel,0.0,7.5,52.5,0.0,have wear wear
+Samuel,Ruth,0.0,0.0,63.63636363636363,INF,sit walk
+Ruth,Samuel,0.0,0.0,73.33333333333333,INF,bring
+Samuel,Ruth,0.0,0.0,73.33333333333333,INF,bring
+Lindsey,Ruth,1.1363636363636365,5.681818181818182,65.9090909090909,0.2,be
+Lindsey,Ruth,1.0416666666666665,0.0,61.458333333333336,INF,stumble be help
+Ruth,Lindsey,0.78125,0.0,42.96875,INF,see walk see
+Ruth,Samuel,0.78125,0.0,42.96875,INF,see walk see
+Ruth,Lindsey,0.78125,0.0,42.96875,INF,see walk see
+Lindsey,Samuel,0.78125,0.0,42.96875,INF,see walk see
+Lindsey,Ruth,0.78125,0.0,42.96875,INF,see walk see
+Samuel,Ruth,0.78125,0.0,42.96875,INF,see walk see
+Samuel,Lindsey,0.78125,0.0,42.96875,INF,see walk see
+Ruth,Lindsey,0.78125,0.0,42.96875,INF,see walk see
+Lindsey,Ruth,0.0,2.5,64.16666666666667,0.0,walk intercede
+Lindsey,Ruth,4.435483870967742,1.2096774193548387,49.193548387096776,3.6666666666666665,please do say feel feel be claim
+Lindsey,Samuel,0.0,0.0,25.0,INF,
+Lindsey,Mrs. Salmon,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,say have flash find go
+Lindsey,Samuel,0.0,0.0,50.0,INF,ask
+Artie,Samuel,2.7777777777777777,2.7777777777777777,50.0,1.0,contribute make say laugh
+Artie,Susie,1.9230769230769231,0.0,51.92307692307693,INF,have say
+Artie,Lindsey,1.9230769230769231,0.0,51.92307692307693,INF,have say
+Susie,Lindsey,1.9230769230769231,0.0,51.92307692307693,INF,have say
+Artie,Susie,6.25,4.6875,39.0625,1.3333333333333333,do talk
+Artie,Samuel,6.730769230769231,1.9230769230769231,37.5,3.5,be ask say
+Ruth,Lindsey,0.0,0.0,44.44444444444444,INF,creep
+Lindsey,Ruth,4.166666666666666,0.0,45.83333333333333,INF,blink
+Ruth,Lindsey,0.0,0.0,57.14285714285714,INF,crawl
+Ruth,Lindsey,3.8461538461538463,0.9615384615384616,45.19230769230769,4.0,tell turn make
+Ruth,Lindsey,3.8461538461538463,0.9615384615384616,45.19230769230769,4.0,tell turn make
+Ruth,Lindsey,3.8461538461538463,0.9615384615384616,45.19230769230769,4.0,tell turn make
+Lindsey,Ruth,3.8461538461538463,0.9615384615384616,45.19230769230769,4.0,tell turn make
+Ruth,Susie,0.0,0.0,52.38095238095239,INF,be say walk
+Susie,Lindsey,4.166666666666666,2.083333333333333,35.41666666666667,2.0,do dream say
+Ruth,Lindsey,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,be be face be say feel
+Ruth,Lindsey,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,be be face be say feel
+Ruth,Lindsey,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,be be face be say feel
+Lindsey,Ruth,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,be be face be say feel
+Artie,Lindsey,0.0,0.0,64.0,INF,keep see be post
+Artie,Lindsey,0.0,0.0,64.0,INF,keep see be post
+Lindsey,Jack,3.4722222222222223,2.083333333333333,66.66666666666666,1.6666666666666667,be listen be relay
+Lindsey,Artie,0.0,0.0,14.285714285714285,INF,say
+Lindsey,Clarissa,1.5625,4.6875,37.5,0.3333333333333333,have decide take
+Lindsey,Artie,0.0,0.0,28.57142857142857,INF,blurt
+Lindsey,Samuel,2.083333333333333,0.0,64.58333333333334,INF,look
+Samuel,Artie,1.25,3.75,45.0,0.3333333333333333,watch depart
+Artie,Ruth,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,have see
+Artie,Ruth,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,have see
+Lindsey,Samuel,0.9259259259259258,2.314814814814815,56.018518518518526,0.4,be float lay hold
+Samuel,Lindsey,0.9259259259259258,2.314814814814815,56.018518518518526,0.4,be float lay hold
+Samuel,Lindsey,1.25,2.5,46.25,0.5,be bring protect
+Samuel,Lindsey,1.25,2.5,46.25,0.5,be bring protect
+Lindsey,Buckley,4.166666666666666,0.0,53.40909090909091,INF,be have have clap drop bang see wake
+Buckley,Mr. Harvey,0.0,3.125,65.625,0.0,walk give pass
+Ruana,Lindsey,3.7037037037037033,1.8518518518518516,38.88888888888889,2.0,be find kill
+Ruana,Abigail,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Ruana,Abigail,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Ruana,Len,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Abigail,Ruana,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Abigail,Len,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Abigail,Ruana,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Abigail,Len,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Ruana,Len,4.166666666666666,4.166666666666666,46.21212121212121,1.0,have tell make frighten tell suspect be
+Len,Ruana,5.078125,0.0,48.046875,INF,have see have come find wait feel lean
+Ruana,Len,5.078125,0.0,48.046875,INF,have see have come find wait feel lean
+Ruana,Len,5.078125,0.0,48.046875,INF,have see have come find wait feel lean
+Ruana,Len,5.078125,0.0,48.046875,INF,have see have come find wait feel lean
+Buckley,Lindsey,4.166666666666666,1.3888888888888888,38.88888888888889,3.0,have have
+Lindsey,Buckley,4.166666666666666,1.3888888888888888,38.88888888888889,3.0,have have
+Claire,Mr. Harvey,3.8461538461538463,0.0,42.30769230769231,INF,have see have bear want give equal
+Claire,Mr. Harvey,3.8461538461538463,0.0,42.30769230769231,INF,have see have bear want give equal
+Claire,Mr. Harvey,3.8461538461538463,0.0,42.30769230769231,INF,have see have bear want give equal
+Claire,Mr. Harvey,0.3676470588235294,2.2058823529411766,50.36764705882353,0.16666666666666666,stand confuse see know hand say
+Claire,Mr. Harvey,0.3676470588235294,2.2058823529411766,50.36764705882353,0.16666666666666666,stand confuse see know hand say
+Mr. Harvey,Ellis,0.0,4.166666666666666,65.53030303030303,0.0,drift sleep be pass be
+Mr. Harvey,Ellis,0.0,4.166666666666666,65.53030303030303,0.0,drift sleep be pass be
+Ellis,Lindsey,1.4423076923076923,3.8461538461538463,56.25,0.375,have pinch keep go swim hate
+Lindsey,Ellis,1.4423076923076923,3.8461538461538463,56.25,0.375,have pinch keep go swim hate
+Ellis,Lindsey,3.571428571428571,3.125,64.73214285714286,1.1428571428571428,have take run
+Jack,Mr. Harvey,2.1551724137931036,0.43103448275862066,62.93103448275862,5.0,have detail have stop start howl
+Jack,Mr. Harvey,2.1551724137931036,0.43103448275862066,62.93103448275862,5.0,have detail have stop start howl
+Lindsey,Buckley,0.0,0.5208333333333333,45.3125,0.0,say make build
+Lindsey,Buckley,0.0,0.5208333333333333,45.3125,0.0,say make build
+Lindsey,Buckley,0.0,0.5208333333333333,45.3125,0.0,say make build
+Jack,Len,6.25,1.25,32.5,5.0,say
+Buckley,Len,3.977272727272727,0.0,46.02272727272727,INF,take stand
+Buckley,Len,3.977272727272727,0.0,46.02272727272727,INF,take stand
+Lindsey,Buckley,0.0,0.0,38.46153846153847,INF,take
+Samuel,Lindsey,2.083333333333333,4.6875,51.5625,0.4444444444444444,have suck hurt be stain
+Jack,Len,3.75,3.75,37.5,1.0,say be
+George Harvey,Susie,3.75,5.0,41.25,0.75,be stretch connect
+Len,Ruana,1.0869565217391304,0.2717391304347826,44.29347826086957,4.0,talk hear be say have stand feel radiate
+Len,Mr. Harvey,1.0869565217391304,0.2717391304347826,44.29347826086957,4.0,talk hear be say have stand feel radiate
+Len,Mr. Harvey,1.0869565217391304,0.2717391304347826,44.29347826086957,4.0,talk hear be say have stand feel radiate
+Ruana,Mr. Harvey,1.0869565217391304,0.2717391304347826,44.29347826086957,4.0,talk hear be say have stand feel radiate
+Ruana,Mr. Harvey,1.0869565217391304,0.2717391304347826,44.29347826086957,4.0,talk hear be say have stand feel radiate
+Lindsey,Len,0.7142857142857143,0.7142857142857143,47.14285714285714,1.0,be hover do have bring own
+Lindsey,Len,0.0,0.0,30.0,INF,say
+Len,Jack,0.4807692307692308,1.4423076923076923,36.53846153846153,0.3333333333333333,say pull see have offer
+Lindsey,Buckley,0.5681818181818182,1.1363636363636365,39.20454545454545,0.5,be punt say take hold
+Buckley,Lindsey,0.5681818181818182,1.1363636363636365,39.20454545454545,0.5,be punt say take hold
+Lindsey,Len,0.7352941176470588,0.0,28.676470588235293,INF,say put
+Samuel,Artie,1.3888888888888888,1.1111111111111112,55.27777777777778,1.25,want continue have win enter rule
+Abigail,Len,6.8181818181818175,3.4090909090909087,35.22727272727273,2.0,think be
+Abigail,Mr. Harvey,6.8181818181818175,3.4090909090909087,35.22727272727273,2.0,think be
+Len,Mr. Harvey,6.8181818181818175,3.4090909090909087,35.22727272727273,2.0,think be
+George Harvey,Abigail,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+George Harvey,Abigail,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+George Harvey,Abigail,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+George Harvey,Abigail,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+Abigail,George Harvey,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+Abigail,George Harvey,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+George Harvey,Abigail,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+Abigail,George Harvey,1.9396551724137931,3.8793103448275863,51.077586206896555,0.5,make flood skate meet pierce shut go
+Brian,Clarissa,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,hear say be cry
+Brian,Clarissa,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,hear say be cry
+Brian,Mr. Harvey,0.6578947368421052,0.0,57.23684210526315,INF,hop be
+Brian,Clarissa,1.9736842105263157,4.605263157894736,40.78947368421053,0.42857142857142855,drag hit
+Clarissa,Brian,1.9736842105263157,4.605263157894736,40.78947368421053,0.42857142857142855,drag hit
+Clarissa,Brian,0.0,0.0,33.33333333333333,INF,run swing
+Mr. Salmon,Len,1.5957446808510638,2.393617021276596,49.202127659574465,0.6666666666666666,fit know have visit tell have enter
+Mr. Salmon,Len,1.5957446808510638,2.393617021276596,49.202127659574465,0.6666666666666666,fit know have visit tell have enter
+Mr. Salmon,Len,1.5957446808510638,2.393617021276596,49.202127659574465,0.6666666666666666,fit know have visit tell have enter
+Buckley,Lindsey,0.7352941176470588,0.0,40.44117647058824,INF,be leave be drive
+Nate,Buckley,0.0,0.5208333333333333,49.47916666666667,0.0,arrive take pull
+Nate,Hal,0.0,0.5208333333333333,49.47916666666667,0.0,arrive take pull
+Nate,Hal,0.0,0.5208333333333333,49.47916666666667,0.0,arrive take pull
+Buckley,Hal,0.0,0.5208333333333333,49.47916666666667,0.0,arrive take pull
+Buckley,Hal,0.0,0.5208333333333333,49.47916666666667,0.0,arrive take pull
+Lindsey,Hal,0.4464285714285714,0.4464285714285714,49.107142857142854,1.0,say wait need
+Lindsey,Buckley,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,listen whisper have sing be bear
+Abigail,Len,0.0,0.0,45.45454545454545,INF,say grow
+Abigail,Len,0.0,0.0,45.45454545454545,INF,say grow
+Len,George Harvey,4.807692307692308,0.9615384615384616,63.46153846153846,5.0,say think be
+Len,George Harvey,4.807692307692308,0.9615384615384616,63.46153846153846,5.0,say think be
+George Harvey,Clarissa,1.3888888888888888,0.0,54.166666666666664,INF,think be
+Clarissa,George Harvey,1.3888888888888888,0.0,54.166666666666664,INF,think be
+George Harvey,Mr. Harvey,4.166666666666666,1.3888888888888888,50.0,3.0,be be involve
+Clarissa,Susie,0.9615384615384616,0.0,45.19230769230769,INF,be
+Hal,Lindsey,0.4629629629629629,0.4629629629629629,58.333333333333336,1.0,be slump prop have bring
+Hal,Lindsey,0.4629629629629629,0.4629629629629629,58.333333333333336,1.0,be slump prop have bring
+Hal,Lindsey,0.4629629629629629,0.4629629629629629,58.333333333333336,1.0,be slump prop have bring
+Persephone,Grandma Lynn,3.90625,1.0416666666666665,57.552083333333336,3.75,have get have fight go hold be be leave
+Persephone,Grandma Lynn,3.90625,1.0416666666666665,57.552083333333336,3.75,have get have fight go hold be be leave
+Mrs. Tarking,Persephone,0.0,3.8461538461538463,42.30769230769231,0.0,imagine say
+James,Eliot,0.0,0.5681818181818182,53.97727272727273,0.0,see shift stack change
+Abigail,Len,0.4166666666666667,0.0,49.583333333333336,INF,say
+Abigail,Len,0.4166666666666667,0.0,49.583333333333336,INF,say
+Hal,Len,0.0,1.5625,56.770833333333336,0.0,muss pass do
+Hal,Samuel,0.0,0.0,38.46153846153847,INF,say
+Hal,Samuel,0.0,0.0,38.46153846153847,INF,say
+Buckley,Hal,0.0,0.0,36.36363636363637,INF,say
+Holly,Lindsey,1.201923076923077,4.326923076923077,38.70192307692308,0.2777777777777778,return be murder be
+Lindsey,Samuel,0.4032258064516129,1.6129032258064515,56.048387096774185,0.25,hear weave
+Brian,Clarissa,2.604166666666667,0.0,51.5625,INF,have grow include have enter
+Brian,Clarissa,2.4456521739130435,2.1739130434782608,45.380434782608695,1.125,cling exploit have happen use retell have happen
+Ray,Ruth,0.625,0.0,64.375,INF,walk look
+Clarissa,Brian,4.861111111111112,5.555555555555555,22.916666666666664,0.875,have unlock sleep
+Clarissa,Brian,4.861111111111112,5.555555555555555,22.916666666666664,0.875,have unlock sleep
+Clarissa,Buckley,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Clarissa,Buckley,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Buckley,Clarissa,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Buckley,Clarissa,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Clarissa,Buckley,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Buckley,Clarissa,6.730769230769231,2.8846153846153846,48.07692307692308,2.3333333333333335,hold have lead explain be
+Buckley,Clarissa,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,profit sneak be hold
+Clarissa,Buckley,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,profit sneak be hold
+Clarissa,Buckley,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,profit sneak be hold
+Clarissa,Buckley,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,profit sneak be hold
+Samuel,Lindsey,2.272727272727273,0.0,52.27272727272727,INF,walk go
+Samuel,Hal,2.272727272727273,0.0,52.27272727272727,INF,walk go
+Lindsey,Samuel,2.272727272727273,0.0,52.27272727272727,INF,walk go
+Lindsey,Hal,2.272727272727273,0.0,52.27272727272727,INF,walk go
+Samuel,Hal,2.272727272727273,0.0,52.27272727272727,INF,walk go
+Samuel,Hal,1.4285714285714286,0.35714285714285715,43.92857142857143,4.0,count recognize reach fine-tune pull
+Samuel,Hal,1.4285714285714286,0.35714285714285715,43.92857142857143,4.0,count recognize reach fine-tune pull
+Samuel,Hal,1.4285714285714286,0.35714285714285715,43.92857142857143,4.0,count recognize reach fine-tune pull
+Samuel,Hal,1.4285714285714286,0.35714285714285715,43.92857142857143,4.0,count recognize reach fine-tune pull
+Samuel,Hal,1.4285714285714286,0.35714285714285715,43.92857142857143,4.0,count recognize reach fine-tune pull
+Buckley,Daddy,3.532608695652174,0.5434782608695652,39.40217391304348,6.5,take bring be make tell say be
+Daddy,Buckley,3.532608695652174,0.5434782608695652,39.40217391304348,6.5,take bring be make tell say be
+Buckley,Len,1.7241379310344827,0.0,39.6551724137931,INF,focus allow drift think
+Grandma Lynn,Lindsey,5.208333333333334,0.0,57.291666666666664,INF,be have keep beautify have set
+Lindsey,Grandma Lynn,5.208333333333334,0.0,57.291666666666664,INF,be have keep beautify have set
+Grandma Lynn,Buckley,1.25,0.625,53.125,2.0,be
+Lindsey,Abigail,1.9230769230769231,0.4807692307692308,51.442307692307686,4.0,bring show change give shave
+Abigail,Lindsey,0.0,2.631578947368421,39.473684210526315,0.0,stay want say let
+Lindsey,Grandma Lynn,5.434782608695652,0.5434782608695652,46.19565217391305,10.0,have be try decide look say
+Len,Sophie,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Sophie,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Sophie,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Sophie,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Sophie,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Sophie,Len,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Sophie,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Sophie,Len,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Leah,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Leah,Len,1.8867924528301887,1.650943396226415,47.40566037735849,1.1428571428571428,meet build claim build think be take be make
+Len,Lindsey,1.1363636363636365,0.0,35.22727272727273,INF,do like offer
+Len,Susie,1.25,2.5,26.25,0.5,guess link
+Grandma Lynn,Lindsey,4.741379310344827,6.896551724137931,40.08620689655172,0.6875,have give help do solve see
+Grandma Lynn,Lindsey,4.741379310344827,6.896551724137931,40.08620689655172,0.6875,have give help do solve see
+Grandma Lynn,Mr. Harvey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Grandma Lynn,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Grandma Lynn,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Mr. Harvey,Grandma Lynn,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Mr. Harvey,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Mr. Harvey,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Grandma Lynn,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Grandma Lynn,Lindsey,1.8181818181818181,2.272727272727273,50.45454545454545,0.8,realize talk be be make see
+Lindsey,Grandma Lynn,1.25,0.8333333333333334,51.24999999999999,1.5,say be have think know be lie
+Lindsey,Grandma Lynn,1.25,0.8333333333333334,51.24999999999999,1.5,say be have think know be lie
+Lindsey,Grandma Lynn,1.25,0.8333333333333334,51.24999999999999,1.5,say be have think know be lie
+Grandma Lynn,Lindsey,1.25,0.8333333333333334,51.24999999999999,1.5,say be have think know be lie
+Grandma Lynn,Lindsey,2.083333333333333,2.083333333333333,54.166666666666664,1.0,know need do
+Grandma Lynn,Lindsey,2.083333333333333,2.083333333333333,54.166666666666664,1.0,know need do
+Grandma Lynn,Lindsey,2.5,2.5,35.0,1.0,agree turn know have be tell
+Lindsey,Grandma Lynn,2.5,2.5,35.0,1.0,agree turn know have be tell
+Grandma Lynn,Lindsey,3.0555555555555554,2.5,45.55555555555556,1.2222222222222223,have calculate let spend wash stare bring
+Lindsey,Grandma Lynn,3.0555555555555554,2.5,45.55555555555556,1.2222222222222223,have calculate let spend wash stare bring
+Lindsey,Grandma Lynn,3.0555555555555554,2.5,45.55555555555556,1.2222222222222223,have calculate let spend wash stare bring
+Lindsey,Grandma Lynn,3.0555555555555554,2.5,45.55555555555556,1.2222222222222223,have calculate let spend wash stare bring
+Lindsey,Samuel,2.5,5.0,52.5,0.5,take have be give go call
+Abigail,Grandma Lynn,0.0,0.0,26.666666666666668,INF,be be walk say
+Mrs. Salmon,Ruana,0.0,0.0,37.5,INF,say exhale
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Ruana,Ray,2.302631578947368,5.263157894736842,47.69736842105263,0.4375,smell accuse let know have
+Mr. Dewitt,Samuel,2.8846153846153846,0.641025641025641,55.44871794871795,4.5,have agree train encourage take qualify play
+Lindsey,Mr. Harvey,0.0,0.625,54.37499999999999,0.0,do shoot be set
+Lindsey,Samuel,0.0,0.625,54.37499999999999,0.0,do shoot be set
+Mr. Harvey,Samuel,0.0,0.625,54.37499999999999,0.0,do shoot be set
+Salmons,Mr. Harvey,3.6764705882352944,0.7352941176470588,72.05882352941177,5.0,have be remain crowd
+Ellis,Len,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,bring have be be help
+Ellis,Len,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,bring have be be help
+Lindsey,Mr. Harvey,0.8928571428571428,0.8928571428571428,51.78571428571429,1.0,see leave begin hang run
+Lindsey,Mr. Harvey,0.8928571428571428,0.8928571428571428,51.78571428571429,1.0,see leave begin hang run
+Mr. Harvey,Mr. Dewitt,4.513888888888888,1.7361111111111112,46.52777777777778,2.6,claim have get hush be satisfy be
+Mr. Harvey,Mr. Dewitt,4.513888888888888,1.7361111111111112,46.52777777777778,2.6,claim have get hush be satisfy be
+Mr. Harvey,Mr. Dewitt,4.513888888888888,1.7361111111111112,46.52777777777778,2.6,claim have get hush be satisfy be
+Mr. Harvey,Leah,0.6944444444444444,4.166666666666666,61.80555555555556,0.16666666666666666,knock have build discard do begin pack
+Mr. Harvey,Leah,0.6944444444444444,4.166666666666666,61.80555555555556,0.16666666666666666,knock have build discard do begin pack
+Samuel,Hal,4.807692307692308,0.0,49.03846153846153,INF,feel love
+Samuel,Grandma Lynn,0.0,0.0,46.666666666666664,INF,be sit reach
+Samuel,Lindsey,0.0,0.0,46.666666666666664,INF,be sit reach
+Grandma Lynn,Lindsey,0.0,0.0,46.666666666666664,INF,be sit reach
+Lindsey,Mr. Harvey,2.5,0.0,52.5,INF,see do
+Buckley,Samuel,2.941176470588235,3.9215686274509802,44.11764705882353,0.75,walk shiver have hold
+Lindsey,Mr. Harvey,4.044117647058823,1.4705882352941175,65.07352941176471,2.75,draw have take have come be volunteer have search
+Lindsey,Mr. Harvey,4.044117647058823,1.4705882352941175,65.07352941176471,2.75,draw have take have come be volunteer have search
+Mr. Harvey,Mrs. Salmon,6.25,0.0,60.416666666666664,INF,seem
+Mr. Harvey,Mrs. Salmon,6.25,0.0,60.416666666666664,INF,seem
+Mr. Harvey,Len,1.0135135135135136,0.6756756756756757,60.47297297297297,1.5,be hit tell be
+Len,Ellis,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,interview mention suspect turn be
+Mr. Harvey,Mrs. Salmon,3.260869565217391,2.717391304347826,50.54347826086957,1.2,discuss say take stress have display seem be infect
+Mr. Harvey,Mrs. Salmon,3.260869565217391,2.717391304347826,50.54347826086957,1.2,discuss say take stress have display seem be infect
+Mr. Harvey,Mrs. Salmon,3.260869565217391,2.717391304347826,50.54347826086957,1.2,discuss say take stress have display seem be infect
+Buckley,Nate,0.0,0.0,54.54545454545454,INF,pick stop
+Buckley,Wanamaker,0.4464285714285714,1.3392857142857142,55.35714285714286,0.3333333333333333,leave watch say be shop
+Abigail,Len,3.0172413793103448,3.0172413793103448,42.241379310344826,1.0,drown want say know be allow
+Abigail,Len,3.0172413793103448,3.0172413793103448,42.241379310344826,1.0,drown want say know be allow
+Abigail,Len,3.0172413793103448,3.0172413793103448,42.241379310344826,1.0,drown want say know be allow
+Len,Mr. Harvey,1.1986301369863013,1.7123287671232876,58.73287671232876,0.7,take bring add begin pack meet play lay dress down
+Len,Mr. Harvey,1.1986301369863013,1.7123287671232876,58.73287671232876,0.7,take bring add begin pack meet play lay dress down
+Len,Samuel,1.1986301369863013,1.7123287671232876,58.73287671232876,0.7,take bring add begin pack meet play lay dress down
+Mr. Harvey,Samuel,1.1986301369863013,1.7123287671232876,58.73287671232876,0.7,take bring add begin pack meet play lay dress down
+Mr. Harvey,Samuel,1.1986301369863013,1.7123287671232876,58.73287671232876,0.7,take bring add begin pack meet play lay dress down
+Gilberts,Ray,0.0,3.4722222222222223,63.19444444444444,0.0,bark answer move
+Ruana,Ray,1.7241379310344827,0.0,53.44827586206896,INF,be be be hop wrap be hang barrel walk
+Ruana,Ruth,3.90625,0.0,46.09375,INF,watch take
+Ruana,Ruth,3.90625,0.0,46.09375,INF,watch take
+Ruana,Ruth,3.90625,0.0,46.09375,INF,watch take
+Ruth,Ruana,1.1363636363636365,0.0,26.136363636363637,INF,start think
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ruth,Ray,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ray,Ruth,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ray,Ruth,2.314814814814815,1.3888888888888888,37.03703703703704,1.6666666666666667,see know find ask come
+Ray,Ruth,2.7777777777777777,4.62962962962963,55.55555555555556,0.6,have kiss have kiss unite have agree see
+Ray,Ruth,0.0,0.0,72.72727272727273,INF,be dance walk
+Ray,Ruth,0.0,0.0,72.72727272727273,INF,be dance walk
+Ray,Ruth,4.464285714285714,3.125,56.69642857142857,1.4285714285714286,have be stain imagine know have be sleep
+Ray,Ruth,0.6944444444444444,0.6944444444444444,76.38888888888889,1.0,stop dance see hold
+Ray,Ruth,0.6944444444444444,0.6944444444444444,76.38888888888889,1.0,stop dance see hold
+Ray,Ruth,1.5151515151515151,3.787878787878788,40.15151515151515,0.4,go collect know do wave say
+Ray,Ruth,1.5151515151515151,3.787878787878788,40.15151515151515,0.4,go collect know do wave say
+Ray,Ruth,1.5151515151515151,3.787878787878788,40.15151515151515,0.4,go collect know do wave say
+Ruth,Ray,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,cease ring see
+Ruth,Ray,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,cease ring see
+Ray,Ruth,1.9230769230769231,1.9230769230769231,57.692307692307686,1.0,stand be be ball hang draw have do
+Ray,Ruth,1.9230769230769231,1.9230769230769231,57.692307692307686,1.0,stand be be ball hang draw have do
+Ray,Ruth,1.5625,1.5625,40.625,1.0,be say put
+Ruth,Ray,0.7352941176470588,0.0,52.20588235294118,INF,sit wait change
+Ruth,Ray,0.7352941176470588,0.0,52.20588235294118,INF,sit wait change
+Ruth,Ray,0.7352941176470588,0.0,52.20588235294118,INF,sit wait change
+Ruth,Ray,0.7352941176470588,0.0,52.20588235294118,INF,sit wait change
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ray,Ruth,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ray,Ruth,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ruth,Ray,1.5,0.5,46.0,3.0,watch be seem pop be suppose invite
+Ray,Ruth,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,be tell
+Ray,Ruth,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,be tell
+Ray,Ruth,1.25,7.5,51.24999999999999,0.16666666666666666,like curse hate
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ruth,Ray,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ruth,Ray,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ruth,Ray,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.7692307692307693,3.8461538461538463,50.76923076923077,0.2,like be try pretend do matter be point scavenge have be starve
+Ray,Ruth,0.4032258064516129,0.0,47.983870967741936,INF,mash kiss look
+Ray,Ruth,0.4032258064516129,0.0,47.983870967741936,INF,mash kiss look
+Ruth,Ray,0.4032258064516129,0.0,47.983870967741936,INF,mash kiss look
+Ruth,Ray,0.4032258064516129,0.0,47.983870967741936,INF,mash kiss look
+Ray,Ruth,3.9473684210526314,0.6578947368421052,48.026315789473685,6.0,arrive be be hold
+Ray,Ruth,3.9473684210526314,0.6578947368421052,48.026315789473685,6.0,arrive be be hold
+Ruth,Ray,3.9473684210526314,0.6578947368421052,48.026315789473685,6.0,arrive be be hold
+Ray,Ruth,3.9473684210526314,0.6578947368421052,48.026315789473685,6.0,arrive be be hold
+Ruth,Ray,4.545454545454546,0.5681818181818182,53.97727272727273,8.0,do know be hold be observe like
+Ruth,Ray,4.545454545454546,0.5681818181818182,53.97727272727273,8.0,do know be hold be observe like
+Ray,Ruth,4.545454545454546,0.5681818181818182,53.97727272727273,8.0,do know be hold be observe like
+Ray,Ruth,4.545454545454546,0.5681818181818182,53.97727272727273,8.0,do know be hold be observe like
+Hal,Samuel,1.6304347826086956,0.5434782608695652,50.0,3.0,be stand jam turn
+Hal,Ruth,1.6304347826086956,0.5434782608695652,50.0,3.0,be stand jam turn
+Samuel,Ruth,1.6304347826086956,0.5434782608695652,50.0,3.0,be stand jam turn
+Ruth,Samuel,0.0,0.0,75.0,INF,ask
+Grace Tarking,Mrs. Stead,0.0,0.0,63.1578947368421,INF,be walk see leave
+Grace Tarking,Mrs. Stead,0.0,0.0,63.1578947368421,INF,be walk see leave
+Grace Tarking,Gilberts,0.0,0.0,68.96551724137932,INF,make live
+Grace Tarking,Mr. Gilbert,3.977272727272727,2.556818181818182,50.28409090909091,1.5555555555555556,offer be cut be have say want come
+Grace Tarking,Mr. Gilbert,3.977272727272727,2.556818181818182,50.28409090909091,1.5555555555555556,offer be cut be have say want come
+Mr. Gilbert,Grace Tarking,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,need tell see be
+Grace Tarking,Mr. Gilbert,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,need tell see be
+Grace Tarking,Mr. Gilbert,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,need tell see be
+Mr. Gilbert,Ray,4.296875,1.171875,60.15625,3.6666666666666665,wonder run be have be judge know call
+Mr. Gilbert,Ray,4.296875,1.171875,60.15625,3.6666666666666665,wonder run be have be judge know call
+Lindsey,Grace Tarking,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Lindsey,Mrs. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Lindsey,Grace Tarking,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Lindsey,Mr. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Grace Tarking,Mrs. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Grace Tarking,Mr. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Mrs. Gilbert,Grace Tarking,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Mrs. Gilbert,Mr. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Grace Tarking,Mr. Gilbert,0.33783783783783783,0.0,53.71621621621622,INF,be look see tark cut
+Molière,Grace Tarking,2.380952380952381,0.0,59.523809523809526,INF,be read have study have look
+Grace Tarking,Sartre,2.272727272727273,1.7045454545454544,50.56818181818182,1.3333333333333333,be have mark
+Grace Tarking,Sartre,2.272727272727273,1.7045454545454544,50.56818181818182,1.3333333333333333,be have mark
+Grace Tarking,Lindsey,1.9230769230769231,4.326923076923077,43.75,0.4444444444444444,be say be be get
+Susie,Lindsey,1.9230769230769231,0.0,28.846153846153843,INF,be have say
+Wanamaker,Sartre,2.6515151515151514,2.462121212121212,53.97727272727273,1.0769230769230769,want be be stack hide handle break dream live go laugh be hate
+Wanamaker,Jack,2.6515151515151514,2.462121212121212,53.97727272727273,1.0769230769230769,want be be stack hide handle break dream live go laugh be hate
+Wanamaker,Jack,2.6515151515151514,2.462121212121212,53.97727272727273,1.0769230769230769,want be be stack hide handle break dream live go laugh be hate
+Sartre,Jack,2.6515151515151514,2.462121212121212,53.97727272727273,1.0769230769230769,want be be stack hide handle break dream live go laugh be hate
+Sartre,Jack,2.6515151515151514,2.462121212121212,53.97727272727273,1.0769230769230769,want be be stack hide handle break dream live go laugh be hate
+Lindsey,Ruana,0.6578947368421052,0.0,51.973684210526315,INF,let be hold
+Susie,Lindsey,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be say
+Lindsey,Buckley,0.0,0.0,47.368421052631575,INF,agree meet bring change
+Buckley,Lindsey,0.0,0.0,47.368421052631575,INF,agree meet bring change
+Buckley,Lindsey,0.0,0.0,47.368421052631575,INF,agree meet bring change
+Susie,Buckley,3.4722222222222223,0.0,29.86111111111111,INF,see know say look
+Susie,Lindsey,3.4722222222222223,0.0,29.86111111111111,INF,see know say look
+Susie,Lindsey,3.4722222222222223,0.0,29.86111111111111,INF,see know say look
+Buckley,Lindsey,3.4722222222222223,0.0,29.86111111111111,INF,see know say look
+Buckley,Lindsey,3.4722222222222223,0.0,29.86111111111111,INF,see know say look
+Ruth,Ray,0.0,1.5625,60.9375,0.0,see tug
+Ruth,Ray,0.0,1.5625,60.9375,0.0,see tug
+Daddy,Ruth,5.555555555555555,2.7777777777777777,25.0,2.0,go help whisper
+Buckley,Mr. O’Dwyer,0.0,0.0,66.66666666666666,INF,look
+Buckley,Susie,0.0,0.0,42.857142857142854,INF,say use stand listen
+Lindsey,Buckley,2.232142857142857,0.0,58.48214285714286,INF,open find
+Nate,Buckley,0.8333333333333334,0.8333333333333334,45.0,1.0,depend watch
+Lindsey,Samuel,0.0,0.0,62.5,INF,walk hang
+Lindsey,Hal,0.0,0.0,62.5,INF,walk hang
+Samuel,Hal,0.0,0.0,62.5,INF,walk hang
+Lindsey,Hal,0.0,0.0,50.0,INF,ask give
+Samuel,Hal,0.0,0.5952380952380952,66.07142857142857,0.0,bid give
+Samuel,Lindsey,0.0,0.5952380952380952,66.07142857142857,0.0,bid give
+Hal,Lindsey,0.0,0.5952380952380952,66.07142857142857,0.0,bid give
+Lindsey,Hal,1.8518518518518516,0.0,46.2962962962963,INF,wait think see recognize
+Hal,Grandma Lynn,0.5434782608695652,0.0,47.28260869565217,INF,say stare
+Hal,Grandma Lynn,0.5434782608695652,0.0,47.28260869565217,INF,say stare
+Hal,Len,0.5434782608695652,0.0,47.28260869565217,INF,say stare
+Grandma Lynn,Len,0.5434782608695652,0.0,47.28260869565217,INF,say stare
+Grandma Lynn,Len,0.5434782608695652,0.0,47.28260869565217,INF,say stare
+Hal,Grandma Lynn,0.0,0.0,36.84210526315789,INF,look say think be
+Hal,Grandma Lynn,0.0,0.0,36.84210526315789,INF,look say think be
+Hal,Len,0.0,0.0,50.0,INF,stand retrieve enter sit
+Hal,Lindsey,0.0,0.0,50.0,INF,stand retrieve enter sit
+Len,Lindsey,0.0,0.0,50.0,INF,stand retrieve enter sit
+Lindsey,Grandma Lynn,6.666666666666667,0.0,60.0,INF,tap realize be do
+Lindsey,Hal,6.666666666666667,0.0,60.0,INF,tap realize be do
+Grandma Lynn,Lindsey,6.666666666666667,0.0,60.0,INF,tap realize be do
+Grandma Lynn,Hal,6.666666666666667,0.0,60.0,INF,tap realize be do
+Lindsey,Hal,6.666666666666667,0.0,60.0,INF,tap realize be do
+Lindsey,Len,1.3888888888888888,6.944444444444445,47.22222222222222,0.2,stare
+Hal,Len,0.0,0.0,22.22222222222222,INF,say
+Lindsey,Grandma Lynn,3.75,3.75,52.5,1.0,grab grow
+Len,Hal,0.5208333333333333,0.0,57.8125,INF,be see arch
+Len,Grandma Lynn,0.5208333333333333,0.0,57.8125,INF,be see arch
+Hal,Grandma Lynn,0.5208333333333333,0.0,57.8125,INF,be see arch
+Hal,Lindsey,4.166666666666666,0.0,37.5,INF,put guide
+Hal,Lindsey,4.166666666666666,0.0,37.5,INF,put guide
+Samuel,Hal,2.0,0.0,34.0,INF,edge
+Samuel,Lindsey,2.0,0.0,34.0,INF,edge
+Samuel,Hal,2.0,0.0,34.0,INF,edge
+Hal,Lindsey,2.0,0.0,34.0,INF,edge
+Lindsey,Hal,2.0,0.0,34.0,INF,edge
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Buckley,Hal,5.514705882352941,0.0,59.19117647058824,INF,look scan remember have lean
+Hal,Samuel,1.7045454545454544,1.7045454545454544,60.22727272727273,1.0,wish hang play have
+Hal,Lindsey,1.7045454545454544,1.7045454545454544,60.22727272727273,1.0,wish hang play have
+Samuel,Lindsey,1.7045454545454544,1.7045454545454544,60.22727272727273,1.0,wish hang play have
+Grandma Lynn,Lindsey,4.0,1.0,55.00000000000001,4.0,watch think like say roll grimace
+Lindsey,Grandma Lynn,4.0,1.0,55.00000000000001,4.0,watch think like say roll grimace
+Len,Mr. Harvey,3.2407407407407405,1.8518518518518516,57.870370370370374,1.75,have find be
+Len,Lindsey,5.921052631578947,2.631578947368421,54.60526315789473,2.25,have spend pore have steal
+Mr. Harvey,Jack,5.147058823529411,4.411764705882353,61.029411764705884,1.1666666666666667,be have be
+Jack,George Harvey,1.25,4.166666666666666,61.25000000000001,0.3,look be have evaporate hit
+Jack,George Harvey,1.25,4.166666666666666,61.25000000000001,0.3,look be have evaporate hit
+Buckley,Nate,0.0,0.3676470588235294,67.27941176470588,0.0,know be have sit draw sleep
+Len,Lindsey,4.296875,1.953125,46.875,2.2,look have steal force acknowledge have allow get
+Len,Lindsey,4.296875,1.953125,46.875,2.2,look have steal force acknowledge have allow get
+Len,Lindsey,4.296875,1.953125,46.875,2.2,look have steal force acknowledge have allow get
+Lindsey,George Harvey,0.0,2.34375,53.90625,0.0,know do be be blame
+Lindsey,George Harvey,0.0,2.34375,53.90625,0.0,know do be be blame
+Ruth,Gilberts,2.217741935483871,2.620967741935484,66.12903225806451,0.8461538461538461,be be fill go know invoke warn prove
+Ray,Gray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Ray,Gray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Ray,Gray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Gray,Ray,1.6791044776119404,0.5597014925373134,51.49253731343284,3.0,sit read depend be read use palpate press follow run
+Ruth,Ray,2.75,1.25,46.0,2.2,be push make
+Ruth,Ray,2.75,1.25,46.0,2.2,be push make
+Ruana,Ruth,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruana,Gray,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruana,Ruth,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruana,Gray,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruth,Gray,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruth,Gray,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Gray,Ruth,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Ruth,Gray,2.6785714285714284,2.380952380952381,33.035714285714285,1.125,cast bring be hope keep
+Gray,Ruth,0.8333333333333334,1.6666666666666667,37.5,0.5,know tuck
+Ruth,Gray,0.8333333333333334,1.6666666666666667,37.5,0.5,know tuck
+Ruth,Ray,3.4090909090909087,1.1363636363636365,50.0,3.0,have be be go
+Grandma Lynn,Buckley,0.0,0.78125,61.71875,0.0,give
+Grandma Lynn,Buckley,5.0,2.5,42.5,2.0,tell come
+Grandma Lynn,Buckley,0.9615384615384616,0.0,45.19230769230769,INF,begin teach
+Buckley,Lindsey,0.0,0.0,33.33333333333333,INF,ask
+Ray,Ruth,1.875,1.875,61.25000000000001,1.0,mark imagine be stand remain feel have
+Hal,Nate,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be have allow
+Hal,Buckley,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be have allow
+Hal,Buckley,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be have allow
+Nate,Buckley,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be have allow
+Nate,Buckley,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,be have allow
+Buckley,Hal,2.989130434782609,2.1739130434782608,53.53260869565217,1.375,die rain be stay go be beg make
+Buckley,Hal,2.989130434782609,2.1739130434782608,53.53260869565217,1.375,die rain be stay go be beg make
+Grandma Lynn,Hal,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Grandma Lynn,Hal,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Hal,Grandma Lynn,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Hal,Grandma Lynn,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Grandma Lynn,Hal,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Hal,Grandma Lynn,0.5208333333333333,2.083333333333333,39.0625,0.25,encourage do say know be come visit dress
+Grandma Lynn,Hal,0.0,0.0,30.0,INF,say
+George Harvey,Len,1.875,0.625,47.5,3.0,say neighbor turn
+George Harvey,Len,1.875,0.625,47.5,3.0,say neighbor turn
+Samuel,Hal,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Samuel,Lindsey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Samuel,Hal,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Samuel,Hal,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Samuel,George Harvey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Hal,Lindsey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Hal,George Harvey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Lindsey,Hal,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Lindsey,Hal,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Lindsey,George Harvey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Hal,George Harvey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Hal,George Harvey,3.6764705882352944,3.308823529411765,51.83823529411765,1.1111111111111112,tell draw have steal have work track
+Hal,Len,5.113636363636364,7.386363636363637,55.68181818181818,0.6923076923076923,have vow report be be
+Hal,Len,5.113636363636364,7.386363636363637,55.68181818181818,0.6923076923076923,have vow report be be
+Ralph Cichetti,Hal,4.166666666666666,2.864583333333333,63.802083333333336,1.4545454545454546,name admit have spend say think have be kill rent begin ask
+Ralph Cichetti,Hal,4.166666666666666,2.864583333333333,63.802083333333336,1.4545454545454546,name admit have spend say think have be kill rent begin ask
+Hal,Sophie,2.083333333333333,2.604166666666667,41.14583333333333,0.8,adjust move fall
+Sophie,Hal,0.0,0.0,50.0,INF,be mention stand
+Hal,Len,0.0,0.0,42.857142857142854,INF,place
+Nate,Ruth,1.0964912280701753,0.6578947368421052,63.1578947368421,1.6666666666666667,sit pretend be sit have swallow play wait pass
+Holly,Mrs. Utemeyer,0.0,0.0,66.66666666666666,INF,play join see race
+Holly,Mrs. Utemeyer,0.0,0.0,66.66666666666666,INF,play join see race
+Buckley,Lindsey,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,have stand build have be permit kiss
+Buckley,Samuel,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,have stand build have be permit kiss
+Lindsey,Samuel,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,have stand build have be permit kiss
+Lindsey,Grandma Lynn,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Lindsey,Grandma Lynn,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Grandma Lynn,Lindsey,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Grandma Lynn,Lindsey,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Grandma Lynn,Lindsey,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Lindsey,Grandma Lynn,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Grandma Lynn,Lindsey,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Grandma Lynn,Lindsey,0.5208333333333333,1.3020833333333335,52.34375,0.4,have make place tire watch try pick
+Samuel,Lindsey,0.3125,0.625,51.5625,0.5,collect ride cling wrap press be
+Samuel,Lindsey,0.3125,0.625,51.5625,0.5,collect ride cling wrap press be
+Samuel,Lindsey,0.3125,0.625,51.5625,0.5,collect ride cling wrap press be
+Samuel,Lindsey,0.3125,0.625,51.5625,0.5,collect ride cling wrap press be
+Samuel,Grandma Lynn,0.75,1.5,45.75,0.5,ride have promise touch tuck reach
+Samuel,Grandma Lynn,0.75,1.5,45.75,0.5,ride have promise touch tuck reach
+Lindsey,Samuel,3.0172413793103448,0.8620689655172413,51.293103448275865,3.5,like rest take
+Samuel,Lindsey,0.0,4.513888888888888,51.041666666666664,0.0,lead grow hurt shout be go pull
+Lindsey,Samuel,0.0,4.513888888888888,51.041666666666664,0.0,lead grow hurt shout be go pull
+Samuel,Hal,4.72972972972973,3.3783783783783785,54.054054054054056,1.4,use help wait have teach get step get
+Samuel,Hal,4.72972972972973,3.3783783783783785,54.054054054054056,1.4,use help wait have teach get step get
+Hal,Samuel,4.72972972972973,3.3783783783783785,54.054054054054056,1.4,use help wait have teach get step get
+Hal,Samuel,4.72972972972973,3.3783783783783785,54.054054054054056,1.4,use help wait have teach get step get
+Samuel,Lindsey,0.0,0.0,44.44444444444444,INF,wheel follow
+Lindsey,Samuel,1.1904761904761905,0.2976190476190476,58.03571428571429,4.0,have go get be have give
+Samuel,Lindsey,1.5625,0.0,54.6875,INF,watch use wipe
+Samuel,Lindsey,1.5625,0.0,54.6875,INF,watch use wipe
+Samuel,Lindsey,0.8928571428571428,0.0,52.67857142857143,INF,want stand stare rush
+Samuel,Lindsey,0.8928571428571428,0.0,52.67857142857143,INF,want stand stare rush
+Hal,Samuel,7.236842105263158,0.0,55.92105263157895,INF,care have become obsess
+Samuel,Lindsey,2.6785714285714284,1.7857142857142856,59.82142857142857,1.5,run have do
+Samuel,Lindsey,2.6785714285714284,1.7857142857142856,59.82142857142857,1.5,run have do
+Lindsey,Samuel,4.6875,3.125,42.1875,1.5,ask make
+Samuel,Lindsey,1.6129032258064515,0.4032258064516129,36.693548387096776,4.0,turn be build be call
+Lindsey,Samuel,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,wonder notice begin unzip stop rumble cease
+Hal,Grandma Lynn,0.0,0.0,50.0,INF,be wait say
+Lindsey,Samuel,1.7857142857142856,11.30952380952381,48.80952380952381,0.15789473684210525,have fight lift run
+Hal,Grandma Lynn,0.0,0.0,57.14285714285714,INF,ring be be wear cut
+Samuel,Lindsey,1.4423076923076923,0.0,67.78846153846155,INF,drape cover collect
+Lindsey,Samuel,1.4423076923076923,0.0,67.78846153846155,INF,drape cover collect
+Lindsey,Samuel,1.4423076923076923,0.0,67.78846153846155,INF,drape cover collect
+Lindsey,Buckley,4.375,0.0,40.625,INF,have cover come
+Lindsey,Hal,4.375,0.0,40.625,INF,have cover come
+Lindsey,Grandma Lynn,4.375,0.0,40.625,INF,have cover come
+Buckley,Hal,4.375,0.0,40.625,INF,have cover come
+Buckley,Grandma Lynn,4.375,0.0,40.625,INF,have cover come
+Hal,Grandma Lynn,4.375,0.0,40.625,INF,have cover come
+Buckley,Grandma Lynn,0.0,0.0,40.0,INF,say go get
+Grandma Lynn,Buckley,1.3157894736842104,1.0964912280701753,48.46491228070175,1.2,sit shiver drink have serve hear have make
+Grandma Lynn,Samuel,1.3157894736842104,1.0964912280701753,48.46491228070175,1.2,sit shiver drink have serve hear have make
+Buckley,Samuel,1.3157894736842104,1.0964912280701753,48.46491228070175,1.2,sit shiver drink have serve hear have make
+Samuel,Lindsey,3.6111111111111107,2.2222222222222223,56.388888888888886,1.625,have say be point have come live have
+Samuel,Buckley,3.6111111111111107,2.2222222222222223,56.388888888888886,1.625,have say be point have come live have
+Lindsey,Buckley,3.6111111111111107,2.2222222222222223,56.388888888888886,1.625,have say be point have come live have
+Hal,Buckley,0.0,0.0,30.76923076923077,INF,make say
+Hal,Grandma Lynn,0.0,0.0,30.76923076923077,INF,make say
+Buckley,Grandma Lynn,0.0,0.0,30.76923076923077,INF,make say
+Grandma Lynn,Samuel,4.807692307692308,0.0,41.34615384615385,INF,love say
+Buckley,Grandma Lynn,3.9473684210526314,2.631578947368421,51.31578947368421,1.5,have leave feel
+Buckley,Hal,3.9473684210526314,2.631578947368421,51.31578947368421,1.5,have leave feel
+Grandma Lynn,Hal,3.9473684210526314,2.631578947368421,51.31578947368421,1.5,have leave feel
+Lindsey,Samuel,2.34375,0.0,35.15625,INF,listen
+Samuel,Lindsey,0.0,5.208333333333334,28.125,0.0,be mean say
+Mr. Salmon,Samuel,0.625,8.125,51.24999999999999,0.07692307692307693,say be try
+Mr. Salmon,Samuel,0.625,8.125,51.24999999999999,0.07692307692307693,say be try
+Mr. Salmon,Jack,0.625,8.125,51.24999999999999,0.07692307692307693,say be try
+Samuel,Jack,0.625,8.125,51.24999999999999,0.07692307692307693,say be try
+Samuel,Jack,0.625,8.125,51.24999999999999,0.07692307692307693,say be try
+Lindsey,Samuel,0.78125,0.78125,54.6875,1.0,be be look
+Buckley,Hal,0.0,0.4464285714285714,42.410714285714285,0.0,come follow hang
+Buckley,Hal,0.0,0.4464285714285714,42.410714285714285,0.0,come follow hang
+Buckley,Hal,0.0,0.4464285714285714,42.410714285714285,0.0,come follow hang
+Buckley,Grandma Lynn,0.0,0.0,52.0,INF,be join listen see
+Mother,Keesha,0.4807692307692308,0.0,26.442307692307693,INF,be
+Ruth,Samuel,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Ruth,Ray,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Samuel,Ruth,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Samuel,Ray,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Samuel,Ruth,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Samuel,Ruth,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Ruth,Ray,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Ray,Ruth,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Ray,Ruth,4.6875,3.125,44.6875,1.5,know have propose trickle have keep find
+Ruth,Lindsey,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,say manage do think harm talk
+Ruth,Lindsey,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,say manage do think harm talk
+Ruth,Lindsey,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,say manage do think harm talk
+Lindsey,Ruth,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,say manage do think harm talk
+Ruth,Ray,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ruth,Ray,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ruth,Ray,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ruth,Ray,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ruth,Ray,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,0.8620689655172413,1.293103448275862,49.56896551724138,0.6666666666666666,see visit have know be take go see
+Ray,Ruth,5.743243243243244,2.027027027027027,48.986486486486484,2.8333333333333335,be study be describe do have observe
+Ray,Ruth,5.743243243243244,2.027027027027027,48.986486486486484,2.8333333333333335,be study be describe do have observe
+Ruth,Ray,5.743243243243244,2.027027027027027,48.986486486486484,2.8333333333333335,be study be describe do have observe
+Ruth,Ray,5.743243243243244,2.027027027027027,48.986486486486484,2.8333333333333335,be study be describe do have observe
+Ruth,Ray,5.743243243243244,2.027027027027027,48.986486486486484,2.8333333333333335,be study be describe do have observe
+Ray,Ruth,4.166666666666666,2.314814814814815,60.18518518518518,1.8,describe make know feel look
+Ray,Ruth,4.166666666666666,2.314814814814815,60.18518518518518,1.8,describe make know feel look
+Ray,Ruth,3.9473684210526314,2.631578947368421,46.05263157894737,1.5,evoke be
+Ruth,Ray,3.9473684210526314,2.631578947368421,46.05263157894737,1.5,evoke be
+Lindsey,Samuel,0.8333333333333334,0.0,52.5,INF,join
+Lindsey,Grandma Lynn,1.7857142857142856,0.0,41.07142857142857,INF,practice call
+Grandma Lynn,Lindsey,1.7857142857142856,0.0,41.07142857142857,INF,practice call
+Grandma Lynn,Buckley,0.6944444444444444,0.0,54.861111111111114,INF,be be repeat stand see have take
+Lindsey,Grandma Lynn,4.464285714285714,3.571428571428571,34.82142857142857,1.25,have pick save
+Buckley,Lindsey,4.0,5.5,54.50000000000001,0.7272727272727273,have be allow have drive follow shriek lay
+Lindsey,Grandma Lynn,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Lindsey,Samuel,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Lindsey,Hal,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Grandma Lynn,Samuel,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Grandma Lynn,Hal,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Samuel,Hal,1.5625,1.5625,46.875,1.0,love keep step monitor lose
+Daddy,Susie,4.464285714285714,1.7857142857142856,43.75,2.5,please do let die whisper
+Ruana,Ray,1.1904761904761905,0.5952380952380952,60.11904761904761,2.0,say see pull
+Buckley,Jack,4.0,3.5000000000000004,60.5,1.1428571428571428,have rush be see be
+Samuel,Lindsey,0.0,0.0,44.44444444444444,INF,have ask marry
+Lindsey,Samuel,0.0,0.0,44.44444444444444,INF,have ask marry
+Jack,Susie,2.5,3.75,23.75,0.6666666666666666,ask
+Samuel,Buckley,5.0,3.75,56.25,1.3333333333333333,call have drift
+Samuel,Lindsey,1.6129032258064515,4.435483870967742,45.564516129032256,0.36363636363636365,turn hear be try make
+Mr. Salmon,Samuel,3.618421052631579,1.644736842105263,52.63157894736842,2.2,feel see say bear lean turn
+Mr. Salmon,Samuel,3.618421052631579,1.644736842105263,52.63157894736842,2.2,feel see say bear lean turn
+Mr. Salmon,Samuel,3.618421052631579,1.644736842105263,52.63157894736842,2.2,feel see say bear lean turn
+Lindsey,Buckley,2.302631578947368,0.0,52.960526315789465,INF,come have go join wait pop place
+Lindsey,Samuel,2.302631578947368,0.0,52.960526315789465,INF,come have go join wait pop place
+Buckley,Samuel,2.302631578947368,0.0,52.960526315789465,INF,come have go join wait pop place
+Len,Sophie,2.232142857142857,2.232142857142857,54.46428571428571,1.0,have have write have join
+Len,Sophie,2.232142857142857,2.232142857142857,54.46428571428571,1.0,have have write have join
+Len,George Harvey,2.232142857142857,2.232142857142857,54.46428571428571,1.0,have have write have join
+Sophie,George Harvey,2.232142857142857,2.232142857142857,54.46428571428571,1.0,have have write have join
+Sophie,George Harvey,2.232142857142857,2.232142857142857,54.46428571428571,1.0,have have write have join
+Len,Hal,2.393617021276596,1.3297872340425532,62.23404255319149,1.8,help think watch have accrue line have offer cover dump
+Lindsey,Samuel,1.5625,0.0,48.4375,INF,have take
+Lindsey,Grandma Lynn,1.5625,0.0,48.4375,INF,have take
+Lindsey,Buckley,1.5625,0.0,48.4375,INF,have take
+Samuel,Grandma Lynn,1.5625,0.0,48.4375,INF,have take
+Samuel,Buckley,1.5625,0.0,48.4375,INF,have take
+Grandma Lynn,Buckley,1.5625,0.0,48.4375,INF,have take
+Mr. Harvey,Lindsey,2.8846153846153846,3.8461538461538463,54.807692307692314,0.75,do have be remove be be analyze
+Lindsey,Samuel,2.5,1.4285714285714286,50.357142857142854,1.75,be follow feel damp think soak smile have run relieve
+Ruth,Ray,2.127659574468085,1.3297872340425532,62.5,1.6,have leave have leave see have leave
+Ruth,Mr. Harvey,2.127659574468085,1.3297872340425532,62.5,1.6,have leave have leave see have leave
+Ruth,Mr. Harvey,2.127659574468085,1.3297872340425532,62.5,1.6,have leave have leave see have leave
+Ray,Mr. Harvey,2.127659574468085,1.3297872340425532,62.5,1.6,have leave have leave see have leave
+Ray,Mr. Harvey,2.127659574468085,1.3297872340425532,62.5,1.6,have leave have leave see have leave
+Buckley,Lindsey,0.0,0.0,30.0,INF,be see
+Lindsey,Susie,3.5377358490566038,1.8867924528301887,47.40566037735849,1.875,see look imagine have go hit have leave
+Lindsey,Susie,3.5377358490566038,1.8867924528301887,47.40566037735849,1.875,see look imagine have go hit have leave
+Lindsey,Buckley,3.5377358490566038,1.8867924528301887,47.40566037735849,1.875,see look imagine have go hit have leave
+Susie,Buckley,3.5377358490566038,1.8867924528301887,47.40566037735849,1.875,see look imagine have go hit have leave
+Susie,Buckley,3.5377358490566038,1.8867924528301887,47.40566037735849,1.875,see look imagine have go hit have leave
+Ruth,Ray,1.293103448275862,0.0,64.22413793103449,INF,have get be
+Ruth,Ray,1.293103448275862,0.0,64.22413793103449,INF,have get be
+Susie,Grandma Lynn,2.717391304347826,0.5434782608695652,35.869565217391305,5.0,see say make
+Grandma Lynn,Susie,0.0,1.5625,48.4375,0.0,whisper be
+Mr. Connors,Ruth,3.4722222222222223,0.6944444444444444,62.5,5.0,follow cut save
+Ruth,Ray,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ruth,Ray,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ruth,Ray,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ray,Ruth,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ray,Ruth,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ray,Ruth,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ray,Ruth,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ruth,Ray,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ray,Ruth,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,say be say wave get
+Ruth,Ray,2.232142857142857,1.7857142857142856,56.69642857142857,1.25,see say reverse make
+Ray,Ruth,2.232142857142857,1.7857142857142856,56.69642857142857,1.25,see say reverse make
+Ray,Ruth,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ray,Ruth,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ray,Ruth,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ruth,Ray,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ray,Ruth,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ray,Ruth,2.6515151515151514,1.893939393939394,59.09090909090909,1.4,see have pass be remind have make keep
+Ruth,Ray,3.289473684210526,0.0,49.34210526315789,INF,do do do make acknowledge
+Ruth,Ellis,3.289473684210526,0.0,49.34210526315789,INF,do do do make acknowledge
+Ray,Ellis,3.289473684210526,0.0,49.34210526315789,INF,do do do make acknowledge
+Ray,Ruth,0.45454545454545453,1.5909090909090908,52.5,0.2857142857142857,get say stare connect cross track move take
+Ruth,Ray,0.45454545454545453,1.5909090909090908,52.5,0.2857142857142857,get say stare connect cross track move take
+Ellis,Mr. Harvey,2.5,5.625,61.875,0.4444444444444444,have recover be accuse kill have kill
+Rod Pike,Ray,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Rod Pike,Ruth,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Rod Pike,Len,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Rod Pike,Ellis,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ray,Ruth,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ray,Len,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ray,Ellis,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ruth,Len,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ruth,Ellis,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Len,Ellis,3.787878787878788,1.5151515151515151,64.39393939393939,2.5,be pass see come
+Ellis,Mr. Salmon,4.761904761904762,0.0,52.38095238095239,INF,have call have tell be
+Ellis,Mr. Salmon,4.761904761904762,0.0,52.38095238095239,INF,have call have tell be
+Ellis,Mr. Salmon,4.761904761904762,0.0,52.38095238095239,INF,have call have tell be
+Ellis,Mr. Salmon,4.761904761904762,0.0,52.38095238095239,INF,have call have tell be
+Len,Mr. Harvey,2.556818181818182,0.5681818181818182,62.78409090909091,4.5,work dwindle hope be have be find
+Len,Mr. Harvey,2.556818181818182,0.5681818181818182,62.78409090909091,4.5,work dwindle hope be have be find
+Len,Jack,1.25,0.625,33.125,2.0,get say have catch
+Susie,Len,0.0,0.9615384615384616,29.807692307692307,0.0,find say
+Susie,Len,3.8461538461538463,4.807692307692308,37.5,0.8,be say
+Susie,Len,0.0,2.34375,35.15625,0.0,be say rush fill
+Ruth,Ray,0.0,0.0,73.33333333333333,INF,head see
+Ruth,Mr. Harvey,0.0,0.0,73.33333333333333,INF,head see
+Ray,Mr. Harvey,0.0,0.0,73.33333333333333,INF,head see
+Mr. Harvey,Flanagans,2.314814814814815,0.4629629629629629,56.481481481481474,5.0,have deliver be set
+Ruth,Ray,0.0,0.0,46.15384615384615,INF,be say
+Ray,Ruth,5.681818181818182,0.0,67.04545454545455,INF,trail lead
+Ray,Ruth,5.681818181818182,0.0,67.04545454545455,INF,trail lead
+Ruthie,Ray,0.0,0.0,28.57142857142857,INF,say be
+Ray,Ruth,0.0,0.0,71.42857142857143,INF,come
+Ray,Mr. Connors,2.364864864864865,2.027027027027027,63.17567567567568,1.1666666666666667,walk be demolish have be strip stay
+Ray,Ruth,2.364864864864865,2.027027027027027,63.17567567567568,1.1666666666666667,walk be demolish have be strip stay
+Mr. Connors,Ruth,2.364864864864865,2.027027027027027,63.17567567567568,1.1666666666666667,walk be demolish have be strip stay
+Ruth,Mr. Harvey,3.260869565217391,0.0,66.30434782608695,INF,see stand look have dump
+Ruth,Mr. Harvey,3.260869565217391,0.0,66.30434782608695,INF,see stand look have dump
+Susie,Ruth,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,say feel say
+Susie,Ruth,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,say feel say
+Hal,Samuel,1.3888888888888888,3.4722222222222223,56.25,0.4,have take bring
+Hal,Buckley,1.3888888888888888,3.4722222222222223,56.25,0.4,have take bring
+Samuel,Buckley,1.3888888888888888,3.4722222222222223,56.25,0.4,have take bring
+Buckley,Hal,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be watch
+Buckley,Samuel,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be watch
+Buckley,Samuel,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be watch
+Hal,Samuel,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be watch
+Hal,Samuel,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be watch
+Hal,Samuel,3.571428571428571,0.0,53.57142857142857,INF,have want give have intervene
+Hal,Grandma Lynn,3.571428571428571,0.0,53.57142857142857,INF,have want give have intervene
+Samuel,Grandma Lynn,3.571428571428571,0.0,53.57142857142857,INF,have want give have intervene
+Hal,Samuel,2.083333333333333,0.0,64.58333333333334,INF,have chip buy
+Mr. Harvey,Nate,0.0,0.0,60.0,INF,drive
+Ruana,Gilberts,0.0,0.5434782608695652,55.97826086956522,0.0,round pass live
+Mr. Harvey,Lindsey,0.641025641025641,1.6025641025641024,51.60256410256411,0.4,cover focus read jump be
+Lindsey,Mr. Harvey,0.641025641025641,1.6025641025641024,51.60256410256411,0.4,cover focus read jump be
+Lindsey,Mr. Harvey,0.641025641025641,1.6025641025641024,51.60256410256411,0.4,cover focus read jump be
+Lindsey,Mr. Harvey,0.641025641025641,1.6025641025641024,51.60256410256411,0.4,cover focus read jump be
+Ruth,Ray,2.7777777777777777,6.944444444444445,68.05555555555556,0.4,do tell have happen
+Ray,Ruth,0.0,0.0,36.36363636363637,INF,be say
+Ray,Ruth,0.0,0.0,60.86956521739131,INF,duck climb stand
+Ray,Lindsey,3.125,5.803571428571429,51.78571428571429,0.5384615384615384,hear lodge realize have be have whine
+Ray,Lindsey,3.125,5.803571428571429,51.78571428571429,0.5384615384615384,hear lodge realize have be have whine
+Ray,Lindsey,3.125,5.803571428571429,51.78571428571429,0.5384615384615384,hear lodge realize have be have whine
+Ray,Lindsey,3.125,5.803571428571429,51.78571428571429,0.5384615384615384,hear lodge realize have be have whine
+Mr. Harvey,Rod Pike,3.4090909090909087,0.0,55.68181818181818,INF,crest see match
+Rod Pike,Mr. Harvey,3.4090909090909087,0.0,55.68181818181818,INF,crest see match
+Mr. Harvey,Ruth,3.125,0.78125,71.09375,4.0,have be bury pass
+Ray,Ruth,4.166666666666666,0.0,51.388888888888886,INF,reach grab
+Ruth,Ray,0.0,0.0,44.44444444444444,INF,yell
+Ruth,Ray,0.0,0.0,44.44444444444444,INF,yell
+Ruth,Ray,0.0,0.0,42.857142857142854,INF,say
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,3.4375000000000004,2.8125,53.75,1.2222222222222223,close go be look have kiss
+Ruth,Ray,6.25,0.0,62.5,INF,pass
+Ray,Ruana,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,scatter be be gather
+Ray,Ruana,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,scatter be be gather
+Ruth,Ray,0.0,0.0,42.857142857142854,INF,say
+Ray,Ruth,4.032258064516129,2.82258064516129,64.11290322580645,1.4285714285714286,be drag stretch hold make be walk
+Ray,Ruth,4.032258064516129,2.82258064516129,64.11290322580645,1.4285714285714286,be drag stretch hold make be walk
+Ruth,Ray,0.9615384615384616,2.1634615384615383,54.567307692307686,0.4444444444444444,throb hide kiss meet be be mepush
+Ray,Ruth,0.9615384615384616,2.1634615384615383,54.567307692307686,0.4444444444444444,throb hide kiss meet be be mepush
+Ray,Ruth,0.9615384615384616,2.1634615384615383,54.567307692307686,0.4444444444444444,throb hide kiss meet be be mepush
+Ray,Ruth,2.083333333333333,2.34375,66.40625,0.8888888888888888,lean warm meet be lecture hold call
+Ray,Ruth,2.083333333333333,2.34375,66.40625,0.8888888888888888,lean warm meet be lecture hold call
+Susie,Ray,4.411764705882353,3.6764705882352944,27.205882352941174,1.2,say know be like
+Ray,Hal,2.34375,2.34375,60.9375,1.0,focus keep be pinpoint surround
+Ray,Hal,2.34375,2.34375,60.9375,1.0,focus keep be pinpoint surround
+Ray,Hal,2.34375,2.34375,60.9375,1.0,focus keep be pinpoint surround
+Ruth,Ray,4.6875,3.90625,35.15625,1.2,be say
+Ruth,Ray,4.6875,3.90625,35.15625,1.2,be say
+Ray,Ruth,5.288461538461538,0.0,52.40384615384615,INF,kiss want see want see want know see
+Ray,Holly,5.288461538461538,0.0,52.40384615384615,INF,kiss want see want see want know see
+Ruth,Holly,5.288461538461538,0.0,52.40384615384615,INF,kiss want see want see want know see
+Ray,Mr. Harvey,4.464285714285714,0.8928571428571428,58.92857142857143,5.0,hold have force
+Susie,Mrs. Salmon,1.875,1.875,41.25,1.0,be whisper
+Ray,Ruth,0.0,0.0,50.0,INF,see run
+Ray,Ruth,0.0,0.0,50.0,INF,see run
+Ray,Ruth,3.4090909090909087,0.0,42.04545454545455,INF,touch rouse
+Ray,Ruth,3.4090909090909087,0.0,42.04545454545455,INF,touch rouse
+Lindsey,Buckley,0.5681818181818182,2.272727272727273,51.70454545454546,0.25,remember ride
+Ray,Ruth,1.3392857142857142,0.0,55.80357142857143,INF,bake have sneak lay
+Ray,Ruth,1.3392857142857142,0.0,55.80357142857143,INF,bake have sneak lay
+Ray,Ruth,1.3392857142857142,0.0,55.80357142857143,INF,bake have sneak lay
+Hal,Ray,3.515625,0.390625,61.71875,9.0,leave be cover have be drive
+Hal,Ruth,3.515625,0.390625,61.71875,9.0,leave be cover have be drive
+Hal,Ray,3.515625,0.390625,61.71875,9.0,leave be cover have be drive
+Ray,Ruth,3.515625,0.390625,61.71875,9.0,leave be cover have be drive
+Ruth,Ray,3.515625,0.390625,61.71875,9.0,leave be cover have be drive
+Ruana,Ruth,1.171875,0.0,58.203125,INF,find curl clothe be have
+Ruana,Ray,1.171875,0.0,58.203125,INF,find curl clothe be have
+Ruth,Ray,1.171875,0.0,58.203125,INF,find curl clothe be have
+Ray,Ruth,6.0606060606060606,3.0303030303030303,54.54545454545454,2.0,sit look have make feel infuse
+Ruth,Ray,6.0606060606060606,3.0303030303030303,54.54545454545454,2.0,sit look have make feel infuse
+Ruth,Ray,6.0606060606060606,3.0303030303030303,54.54545454545454,2.0,sit look have make feel infuse
+Ruth,Ray,2.941176470588235,7.352941176470589,48.529411764705884,0.4,wake slide walk
+Ray,Ruth,0.625,3.125,76.25,0.2,grow keep look hear stir
+Ray,Ruth,0.625,3.125,76.25,0.2,grow keep look hear stir
+Buckley,Lindsey,0.6944444444444444,0.0,49.30555555555556,INF,watch begin trail follow drip
+Samuel,Hal,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,remember have find lie
+Ruana,Ruth,3.6764705882352944,0.7352941176470588,50.49019607843137,5.0,grow pare begin say have avoid have be free
+Ruth,Ray,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Ruana,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Ray,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruana,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Ray,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Ray,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ray,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruth,Salmons,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Salmons,Ruth,0.78125,1.3020833333333335,52.083333333333336,0.6,hand announce be want accompany intend run
+Ruana,Ruth,2.5,0.0,37.5,INF,stare
+Ruth,Ray,2.0,2.5,59.5,0.8,look say have go drop
+Ray,Ruth,2.0,2.5,59.5,0.8,look say have go drop
+Samuel,Lindsey,3.3333333333333335,0.0,43.333333333333336,INF,have let meet
+Samuel,Buckley,3.3333333333333335,0.0,43.333333333333336,INF,have let meet
+Samuel,Lindsey,3.3333333333333335,0.0,43.333333333333336,INF,have let meet
+Lindsey,Buckley,3.3333333333333335,0.0,43.333333333333336,INF,have let meet
+Buckley,Lindsey,3.3333333333333335,0.0,43.333333333333336,INF,have let meet
+Hal,Grandma Lynn,2.380952380952381,0.0,50.0,INF,think be introduce say
+Grandma Lynn,Abigail,0.8620689655172413,1.7241379310344827,52.58620689655172,0.5,be take wake put
+Abigail,Grandma Lynn,0.8620689655172413,1.7241379310344827,52.58620689655172,0.5,be take wake put
+Abigail,Grandma Lynn,0.8620689655172413,1.7241379310344827,52.58620689655172,0.5,be take wake put
+Abigail,Grandma Lynn,0.8620689655172413,1.7241379310344827,52.58620689655172,0.5,be take wake put
+Lindsey,Buckley,0.0,2.7777777777777777,61.66666666666667,0.0,be do hold stand bristle
+Hal,Buckley,0.0,0.0,64.28571428571429,INF,be hold hold
+Buckley,Lindsey,0.0,0.0,50.0,INF,do look sit
+Lindsey,Buckley,0.0,0.0,50.0,INF,do look sit
+Samuel,Grandma Lynn,1.6025641025641024,1.9230769230769231,50.32051282051282,0.8333333333333334,laugh realign be be have want come
+Samuel,Lindsey,0.0,0.0,66.66666666666666,INF,glance
+Grandma Lynn,Samuel,5.357142857142857,0.8928571428571428,50.89285714285714,6.0,be go assist pour say
+Hal,Buckley,5.147058823529411,0.0,47.794117647058826,INF,let do back
+Hal,Samuel,5.147058823529411,0.0,47.794117647058826,INF,let do back
+Buckley,Samuel,5.147058823529411,0.0,47.794117647058826,INF,let do back
+Mrs. Salmon,Mr. Salmon,5.902777777777778,1.3888888888888888,48.26388888888889,4.25,want say be be be be honor be marry
+Samuel,Lindsey,2.75,2.0,61.25000000000001,1.375,watch think trail see take kiss become bear
+Hal,Buckley,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Buckley,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Samuel,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Buckley,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Buckley,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Samuel,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Hal,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Samuel,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Samuel,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Buckley,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Samuel,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Samuel,Grandma Lynn,1.1904761904761905,0.0,48.01587301587302,INF,teach do drum put begin trail have use serve
+Ray,Hal,0.0,0.0,40.0,INF,do mean interrupt say
+Lindsey,Samuel,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Lindsey,Buckley,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Lindsey,Mrs. Salmon,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Samuel,Buckley,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Samuel,Lindsey,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Samuel,Mrs. Salmon,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Buckley,Lindsey,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Buckley,Mrs. Salmon,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Lindsey,Mrs. Salmon,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,recognize be crowd
+Ray,Susie,7.8125,1.5625,40.625,5.0,wonder be watch
+Lindsey,Samuel,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,break come
+Samuel,Lindsey,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,break come
+Ray,Lindsey,0.6578947368421052,0.0,41.44736842105263,INF,watch see walk
+Ray,Samuel,0.6578947368421052,0.0,41.44736842105263,INF,watch see walk
+Lindsey,Samuel,0.6578947368421052,0.0,41.44736842105263,INF,watch see walk
+Lindsey,Samuel,0.5952380952380952,0.0,56.547619047619044,INF,find bring sit
+Ruana,Grandma Lynn,1.5625,1.5625,53.125,1.0,sit sit
+Ruana,Hal,1.5625,1.5625,53.125,1.0,sit sit
+Grandma Lynn,Hal,1.5625,1.5625,53.125,1.0,sit sit
+Ruana,Ray,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ruana,Samuel,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ruana,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ruana,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ray,Samuel,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ray,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Ray,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Samuel,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Samuel,Lindsey,2.5,1.4285714285714286,58.92857142857143,1.75,be start talk have find
+Lindsey,Abigail,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Abigail,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Abigail,Lindsey,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Abigail,Lindsey,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Abigail,Lindsey,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Abigail,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Abigail,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Abigail,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Abigail,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Lindsey,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Abigail,Ray,3.4722222222222223,1.3888888888888888,58.10185185185185,2.5,tell describe have realize want propose live find ask do have
+Ruth,Ray,0.0,0.0,45.45454545454545,INF,own say
+Lindsey,Samuel,0.6578947368421052,0.6578947368421052,67.10526315789474,1.0,get marry sit drink
+Ruth,Samuel,0.8928571428571428,0.0,66.96428571428571,INF,have promise sell pay
+Ruth,Samuel,0.8928571428571428,0.0,66.96428571428571,INF,have promise sell pay
+Ruth,Samuel,0.8928571428571428,0.0,66.96428571428571,INF,have promise sell pay
+Mr. Connors,Samuel,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Mr. Connors,Buckley,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Mr. Connors,Samuel,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Mr. Connors,Lindsey,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Samuel,Buckley,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Samuel,Lindsey,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Buckley,Samuel,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Buckley,Lindsey,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Samuel,Lindsey,2.5,0.2777777777777778,48.333333333333336,9.0,have clear set be be
+Lindsey,Samuel,0.9433962264150944,1.650943396226415,57.78301886792453,0.5714285714285714,begin be have go take bury bury track
+Ray,Dr. Singh,1.25,0.0,48.75,INF,become like say
+Ray,Ruana,1.25,0.0,48.75,INF,become like say
+Dr. Singh,Ruana,1.25,0.0,48.75,INF,become like say
+Ruana,Ruth,3.1746031746031744,4.166666666666666,51.388888888888886,0.7619047619047619,surround be rule maintain usher appear die be have call have make
+Ruana,Ruth,3.1746031746031744,4.166666666666666,51.388888888888886,0.7619047619047619,surround be rule maintain usher appear die be have call have make
+Ruana,Ruth,3.1746031746031744,4.166666666666666,51.388888888888886,0.7619047619047619,surround be rule maintain usher appear die be have call have make
+Ruth,Ruana,3.1746031746031744,4.166666666666666,51.388888888888886,0.7619047619047619,surround be rule maintain usher appear die be have call have make
+Ruana,Ruth,2.7777777777777777,0.0,63.888888888888886,INF,doubt call
+Ruana,Ruth,2.7777777777777777,0.0,63.888888888888886,INF,doubt call
+Samuel,Lindsey,1.1363636363636365,0.0,56.439393939393945,INF,walk be bear
+Samuel,Abigail,1.1363636363636365,0.0,56.439393939393945,INF,walk be bear
+Lindsey,Samuel,1.1363636363636365,0.0,56.439393939393945,INF,walk be bear
+Lindsey,Abigail,1.1363636363636365,0.0,56.439393939393945,INF,walk be bear
+Samuel,Abigail,1.1363636363636365,0.0,56.439393939393945,INF,walk be bear
+Samuel,Susie,0.0,0.0,70.0,INF,place

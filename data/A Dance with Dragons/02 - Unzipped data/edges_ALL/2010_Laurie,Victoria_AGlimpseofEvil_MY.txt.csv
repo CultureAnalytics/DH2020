@@ -1,0 +1,681 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Brice,FBI,4.296875,1.171875,60.15625,3.6666666666666665,be lay assume be agree hire
+Candice,Brice,0.0,0.0,30.0,INF,kill do
+Candice,Brice,0.0,0.0,30.0,INF,kill do
+Candice,Brice,6.0344827586206895,0.43103448275862066,55.603448275862064,14.0,be have follow
+Candice,Brice,6.0344827586206895,0.43103448275862066,55.603448275862064,14.0,be have follow
+Candice,Brice,3.125,1.5625,54.6875,2.0,know get be be talk move
+Candice,Brice,3.125,1.5625,54.6875,2.0,know get be be talk move
+Candice,Brice,7.142857142857142,4.285714285714286,51.42857142857142,1.6666666666666667,be talk be be talk be lean relax
+Candice,Brice,3.75,0.0,52.916666666666664,INF,seem pick be have giggle take pull
+Brice,Candice,3.75,0.0,52.916666666666664,INF,seem pick be have giggle take pull
+Candice,Brice,0.0,0.0,50.0,INF,take join
+Brice,Candice,5.0,0.0,35.0,INF,sit hold
+Brice,Candice,5.0,0.0,35.0,INF,sit hold
+Candice,Brice,2.127659574468085,1.0638297872340425,54.25531914893617,2.0,let gasp stare have change say see
+Candice,Abby,2.127659574468085,1.0638297872340425,54.25531914893617,2.0,let gasp stare have change say see
+Brice,Abby,2.127659574468085,1.0638297872340425,54.25531914893617,2.0,let gasp stare have change say see
+Candice,Brice,8.035714285714286,1.7857142857142856,40.17857142857143,4.5,pull stare
+Brice,Candice,6.696428571428571,3.571428571428571,36.160714285714285,1.875,listen know tell be be
+Brice,Candice,6.696428571428571,3.571428571428571,36.160714285714285,1.875,listen know tell be be
+Brice,Candice,6.696428571428571,3.571428571428571,36.160714285714285,1.875,listen know tell be be
+Brice,Candice,3.571428571428571,4.285714285714286,46.42857142857143,0.8333333333333334,wait raise say be go want hope be
+Brice,Candice,3.571428571428571,4.285714285714286,46.42857142857143,0.8333333333333334,wait raise say be go want hope be
+Brice,Candice,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be go ask marry
+Candice,Brice,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be go ask marry
+Brice,Katie,0.0,0.0,44.827586206896555,INF,leave take lead
+Brice,Katie,5.5,0.0,46.5,INF,signal begin hand
+Brice,Katie,5.5,0.0,46.5,INF,signal begin hand
+Abby,Katie,0.8928571428571428,0.0,34.82142857142857,INF,go say
+Keisha,Antoine,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Keisha,FBI,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Keisha,Antoine,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Keisha,Antoine,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Keisha,FBI,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Keisha,Antoine,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Antoine,FBI,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+FBI,Antoine,4.086538461538462,1.9230769230769231,59.375,2.125,be be report miss tell have follow have go come
+Donald,Jackson,2.1551724137931036,1.7241379310344827,51.293103448275865,1.25,focus keep come
+Jackson,Donald,2.1551724137931036,1.7241379310344827,51.293103448275865,1.25,focus keep come
+Donald,Estelle,0.0,1.1363636363636365,26.136363636363637,0.0,be
+Donald,Jackson,3.205128205128205,2.564102564102564,53.205128205128204,1.25,learn have suffer have be give
+Donald,Jackson,3.205128205128205,2.564102564102564,53.205128205128204,1.25,learn have suffer have be give
+Jackson,Donald,3.205128205128205,2.564102564102564,53.205128205128204,1.25,learn have suffer have be give
+Donald,Jackson,3.205128205128205,2.564102564102564,53.205128205128204,1.25,learn have suffer have be give
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Jackson,Donald,3.8793103448275863,2.3706896551724137,57.543103448275865,1.6363636363636365,pull be shock have run have be pay
+Estelle,Jackson,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Estelle,Jackson,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Estelle,Jackson,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Jackson,Estelle,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Jackson,Estelle,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Estelle,Jackson,4.6568627450980395,1.4705882352941175,50.73529411764706,3.1666666666666665,check be confirm have be wire have have have pay use
+Jackson,Donald,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,have admit take know
+Jackson,Donald,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,have admit take know
+Jackson,Donald,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,have admit take know
+Jackson,Donald,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,have admit take know
+Jackson,Donald,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,have admit take know
+Jackson,Donald,1.2195121951219512,3.353658536585366,46.646341463414636,0.36363636363636365,call confess be be threaten kill do show
+Jackson,Donald,1.2195121951219512,3.353658536585366,46.646341463414636,0.36363636363636365,call confess be be threaten kill do show
+Jackson,Donald,1.2195121951219512,3.353658536585366,46.646341463414636,0.36363636363636365,call confess be be threaten kill do show
+Jackson,Donald,1.2195121951219512,3.353658536585366,46.646341463414636,0.36363636363636365,call confess be be threaten kill do show
+Donald,Jackson,1.8867924528301887,3.7735849056603774,45.28301886792453,0.5,tell withdraw start liquidate replace be
+Donald,Jackson,1.8867924528301887,3.7735849056603774,45.28301886792453,0.5,tell withdraw start liquidate replace be
+Donald,Jackson,1.8867924528301887,3.7735849056603774,45.28301886792453,0.5,tell withdraw start liquidate replace be
+Donald,Jackson,1.5625,3.125,61.979166666666664,0.5,be sideswipe have take panic
+Donald,Jackson,1.5625,3.125,61.979166666666664,0.5,be sideswipe have take panic
+Donald,Jackson,1.5625,3.125,61.979166666666664,0.5,be sideswipe have take panic
+Brice,Mr. Rivers,0.0,0.0,60.0,INF,enter shout
+Mr. Rivers,Ms. Cooper,1.282051282051282,3.205128205128205,49.358974358974365,0.4,hate be seem demand rein try
+Brice,Abby,0.8333333333333334,1.6666666666666667,34.166666666666664,0.5,say be hire be
+Candice,Brice,1.0416666666666665,4.166666666666666,48.95833333333333,0.25,smile pin protect float
+Katrina,Corpus Christi,2.6785714285714284,1.1904761904761905,62.797619047619044,2.25,have hit have take have come
+Rodriguez,Starbucks,1.9736842105263157,3.289473684210526,52.63157894736842,0.6,ask stop
+Candice,Brice,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,be correct do want lie
+Jason,Keisha,0.0,6.25,50.89285714285714,0.0,be be
+Brice,Jason,0.33783783783783783,0.33783783783783783,58.78378378378378,1.0,motion give wait open grimace look land
+Brice,Jason,0.33783783783783783,0.33783783783783783,58.78378378378378,1.0,motion give wait open grimace look land
+Brice,Jason,0.33783783783783783,0.33783783783783783,58.78378378378378,1.0,motion give wait open grimace look land
+Brice,Keisha,0.0,0.0,50.0,INF,ask switch
+Brice,Ms. Cooper,1.5957446808510638,0.26595744680851063,59.840425531914896,6.0,hand file say be tell be conduct lecture enhance come
+Ms. Cooper,Brice,3.6764705882352944,2.5735294117647056,52.57352941176471,1.4285714285714286,be go make lecture pause lock add
+Ms. Cooper,Brice,3.6764705882352944,2.5735294117647056,52.57352941176471,1.4285714285714286,be go make lecture pause lock add
+Mr. Rivers,Ms. Cooper,5.092592592592593,7.87037037037037,46.2962962962963,0.6470588235294118,make consider replace
+Brice,Candice,3.8461538461538463,0.0,50.0,INF,forget tell be have
+Brice,Candice,3.9634146341463414,2.4390243902439024,52.13414634146341,1.625,be reflect mention be get see have honkin
+Brice,Candice,3.9634146341463414,2.4390243902439024,52.13414634146341,1.625,be reflect mention be get see have honkin
+Brice,Candice,3.9634146341463414,2.4390243902439024,52.13414634146341,1.625,be reflect mention be get see have honkin
+Brice,Candice,4.0,4.5,47.5,0.8888888888888888,think be have admit begin tear
+Brice,Candice,4.0,4.5,47.5,0.8888888888888888,think be have admit begin tear
+Candice,Brice,6.4655172413793105,2.1551724137931036,46.55172413793103,3.0,be know be be
+Candice,Brice,1.8382352941176472,1.4705882352941175,52.57352941176471,1.25,keep probe have slip tell be work put
+Candice,Brice,1.8382352941176472,1.4705882352941175,52.57352941176471,1.25,keep probe have slip tell be work put
+Brice,Candice,1.8382352941176472,1.4705882352941175,52.57352941176471,1.25,keep probe have slip tell be work put
+Abby,Candice,0.0,2.5,27.500000000000004,0.0,say
+Ms. Cooper,Brice,4.807692307692308,0.0,49.03846153846153,INF,please come say
+Brice,Rodriguez,0.0,0.0,54.83870967741935,INF,open hold see open stick
+Brice,Rodriguez,0.0,0.0,54.83870967741935,INF,open hold see open stick
+Rodriguez,Brice,0.0,0.0,61.53846153846154,INF,say see
+Rodriguez,Brice,2.083333333333333,0.0,56.25,INF,turn have come be have tell
+Rodriguez,Brice,2.083333333333333,0.0,56.25,INF,turn have come be have tell
+Brice,Rodriguez,6.0,2.25,57.75,2.6666666666666665,have have tell be have be stink raise use determine reopen have decide send help locate have hit
+Brice,Rodriguez,6.0,2.25,57.75,2.6666666666666665,have have tell be have be stink raise use determine reopen have decide send help locate have hit
+Abby,Katie,0.0,0.0,33.33333333333333,INF,say pass
+Abby,Katie,0.0,0.0,33.33333333333333,INF,say pass
+Rodriguez,Katie,0.0,0.0,25.0,INF,say
+Gaston,CCS,0.0,0.0,56.00000000000001,INF,have keep hear be go be locate agree join contact make apply
+CCS,Gaston,0.0,0.0,56.00000000000001,INF,have keep hear be go be locate agree join contact make apply
+Gaston,Katie,1.6666666666666667,0.8333333333333334,37.5,2.0,be tell
+Gaston,Katie,4.545454545454546,0.0,40.909090909090914,INF,be agree
+Rodriguez,Brice,2.6515151515151514,1.5151515151515151,59.46969696969697,1.75,know say be imagine be go get leave
+Rodriguez,Brice,2.6515151515151514,1.5151515151515151,59.46969696969697,1.75,know say be imagine be go get leave
+Candice,Brice,5.0,1.25,43.75,4.0,need say
+Brice,Candice,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,be see have go be bug
+Brice,Candice,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,be see have go be bug
+Brice,Candice,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,be see have go be bug
+Candice,Brice,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,be see have go be bug
+Candice,Brice,8.59375,3.90625,43.75,2.2,give break have be leave
+Brice,Candice,8.59375,3.90625,43.75,2.2,give break have be leave
+Brice,Starbucks,2.6785714285714284,0.0,47.32142857142857,INF,hand order drink
+Starbucks,Brice,2.6785714285714284,0.0,47.32142857142857,INF,hand order drink
+Candice,Brice,0.0,2.7777777777777777,47.22222222222222,0.0,be regret stick
+Ms. Cooper,Rodriguez,7.5,1.25,41.25,6.0,be
+Abby,Rodriguez,4.464285714285714,0.0,31.25,INF,keep assure
+Abby,Rodriguez,4.464285714285714,0.0,31.25,INF,keep assure
+Los Zetas,La Familia,3.5000000000000004,0.0,44.5,INF,assign have document become
+FBI,La Familia,1.4423076923076923,2.8846153846153846,61.057692307692314,0.5,remember describe have take
+La Familia,Los Zetas,3.4574468085106385,3.1914893617021276,52.92553191489362,1.0833333333333333,be be gather be split be evidence rank
+Felix,Jason,0.0,5.208333333333334,53.125,0.0,begin be murder
+Felix,Jason,0.0,3.2407407407407405,56.018518518518526,0.0,be find abandon be recover
+Felix,Jason,0.0,6.25,53.75,0.0,be be
+Jason,Felix,1.171875,3.125,64.453125,0.375,be take keep bounce be need reexamine
+Jason,Mexican Mafia,1.171875,3.125,64.453125,0.375,be take keep bounce be need reexamine
+Felix,Mexican Mafia,1.171875,3.125,64.453125,0.375,be take keep bounce be need reexamine
+Felix,Jason,3.125,1.0416666666666665,54.166666666666664,3.0,be convince be connect
+Rodriguez,FBI,2.1739130434782608,0.5434782608695652,62.5,4.0,call wait show
+Wendy,Tyler,3.90625,2.34375,50.0,1.6666666666666667,name be
+Wendy,Tyler,1.9230769230769231,0.0,44.230769230769226,INF,want break
+Tyler,Russell,1.1363636363636365,0.0,62.5,INF,phone call run
+Tyler,Russell,1.1363636363636365,0.0,62.5,INF,phone call run
+Russell,Corpus Christi,6.25,0.5681818181818182,56.81818181818182,11.0,say do buy be visit
+Russell,Corpus Christi,6.25,0.5681818181818182,56.81818181818182,11.0,say do buy be visit
+Wendy,Tyler,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,have check have check go find
+Wendy,Tyler,0.8333333333333334,0.0,52.5,INF,open stare
+Tyler,Wendy,4.761904761904762,6.845238095238096,43.154761904761905,0.6956521739130435,think have argue have kill hide take claim make look be
+Tyler,Wendy,4.761904761904762,6.845238095238096,43.154761904761905,0.6956521739130435,think have argue have kill hide take claim make look be
+Rodriguez,Wendy,4.326923076923077,0.9615384615384616,44.71153846153847,4.5,break do call take be repair
+Rodriguez,Tyler,4.326923076923077,0.9615384615384616,44.71153846153847,4.5,break do call take be repair
+Wendy,Tyler,4.326923076923077,0.9615384615384616,44.71153846153847,4.5,break do call take be repair
+Rodriguez,Russell,3.289473684210526,0.0,44.07894736842105,INF,hear say be call
+Russell,Rodriguez,3.289473684210526,0.0,44.07894736842105,INF,hear say be call
+Wendy,Tyler,2.7777777777777777,0.9259259259259258,66.66666666666666,3.0,know have talk have
+Russell,Rodriguez,6.875000000000001,1.25,51.87500000000001,5.5,meet help suggest
+Wendy,Tyler,3.125,1.5625,45.3125,2.0,be
+Wendy,Tyler,0.0,0.0,16.666666666666664,INF,
+Russell,Rodriguez,0.0,0.0,50.0,INF,be tell
+Russell,Darrell,0.0,0.0,30.0,INF,be
+Darrell,Rodriguez,4.605263157894736,0.0,53.289473684210535,INF,chew tell do buy
+Darrell,Rodriguez,4.605263157894736,0.0,53.289473684210535,INF,chew tell do buy
+Rodriguez,Darrell,0.0,2.6785714285714284,50.89285714285714,0.0,lean whisper be work find rattle call
+Darrell,Rodriguez,0.0,0.0,36.36363636363637,INF,be unlock motion
+Rodriguez,FBI,3.75,1.25,45.0,3.0,nod register do need see realize be
+Rodriguez,FBI,3.75,1.25,45.0,3.0,nod register do need see realize be
+Rodriguez,Darrell,0.49019607843137253,2.696078431372549,59.55882352941176,0.18181818181818182,wipe follow change be think be keep imagine pop take
+Wendy,Tyler,0.0,0.0,50.0,INF,be tell jump
+Wendy,Brice,0.0,0.0,50.0,INF,be tell jump
+Tyler,Brice,0.0,0.0,50.0,INF,be tell jump
+Brice,Darrell,1.7857142857142856,0.8928571428571428,50.89285714285714,2.0,learn be run do drive
+Darrell,Russell,0.3676470588235294,0.7352941176470588,57.720588235294116,0.5,get stay work die take
+Darrell,Russell,0.3676470588235294,0.7352941176470588,57.720588235294116,0.5,get stay work die take
+Darrell,Russell,0.3676470588235294,0.7352941176470588,57.720588235294116,0.5,get stay work die take
+Russell,Darrell,0.3676470588235294,0.7352941176470588,57.720588235294116,0.5,get stay work die take
+Darrell,Wendy,5.729166666666666,1.0416666666666665,47.39583333333333,5.5,be find want need
+Darrell,Wendy,5.729166666666666,1.0416666666666665,47.39583333333333,5.5,be find want need
+Darrell,Wendy,5.729166666666666,1.0416666666666665,47.39583333333333,5.5,be find want need
+Brice,Rodriguez,1.25,0.0,55.41666666666667,INF,free sit wait hear
+Candice,Brice,0.0,0.0,55.55555555555556,INF,act do exist
+Candice,Brice,1.3157894736842104,2.9605263157894735,56.25,0.4444444444444444,hear take coax notice make sit be
+Candice,Brice,1.3157894736842104,2.9605263157894735,56.25,0.4444444444444444,hear take coax notice make sit be
+Candice,Brice,1.3157894736842104,2.9605263157894735,56.25,0.4444444444444444,hear take coax notice make sit be
+Candice,Brice,1.5,1.0,53.5,1.5,drive say realize do want get stick take
+Candice,Brice,1.5,1.0,53.5,1.5,drive say realize do want get stick take
+Rodriguez,Brice,2.2058823529411766,1.1029411764705883,55.51470588235294,2.0,begin be follow investigate have be assign be
+Rodriguez,Abby,1.3888888888888888,6.944444444444445,25.0,0.2,put
+Brice,Coke,0.0,0.0,59.09090909090909,INF,make wait
+Abby,Brice,7.211538461538461,5.769230769230769,37.019230769230774,1.25,be explain be
+Abby,Brice,7.211538461538461,5.769230769230769,37.019230769230774,1.25,be explain be
+Candice,Brice,2.314814814814815,4.166666666666666,60.18518518518518,0.5555555555555556,be occur have make
+Candice,Milo,0.8928571428571428,2.232142857142857,46.875,0.4,motion take fuss
+Milo,Candice,0.8928571428571428,2.232142857142857,46.875,0.4,motion take fuss
+Candice,Milo,1.5625,3.6458333333333335,57.291666666666664,0.42857142857142855,take do say tell be come
+Candice,Milo,1.5625,3.6458333333333335,57.291666666666664,0.42857142857142855,take do say tell be come
+Milo,Candice,7.142857142857142,5.357142857142857,30.357142857142854,1.3333333333333333,shift
+Abby,Candice,3.2407407407407405,0.4629629629629629,44.44444444444444,7.0,tune tell invite
+Candice,Milo,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,have be
+Abby,Milo,1.6666666666666667,5.833333333333333,39.166666666666664,0.2857142857142857,do get excite warn
+Milo,Candice,0.0,1.5625,60.9375,0.0,exchange
+Milo,Candice,0.0,0.0,50.0,INF,ask
+Milo,Brice,2.5,0.625,64.375,4.0,explain happen spend be be tell be pay be clear
+Milo,Rodriguez,2.5,0.625,64.375,4.0,explain happen spend be be tell be pay be clear
+Brice,Rodriguez,2.5,0.625,64.375,4.0,explain happen spend be be tell be pay be clear
+Candice,Brice,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,do seem remember have talk
+Brice,Candice,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,do seem remember have talk
+Milo,Candice,2.717391304347826,1.6304347826086956,60.86956521739131,1.6666666666666667,figure wait have
+Candice,Milo,1.25,0.0,48.75,INF,believe be take
+Milo,Candice,2.380952380952381,0.5952380952380952,58.92857142857143,4.0,look suggest be
+Milo,Candice,2.380952380952381,0.5952380952380952,58.92857142857143,4.0,look suggest be
+Milo,Candice,2.380952380952381,0.5952380952380952,58.92857142857143,4.0,look suggest be
+Candice,Milo,4.545454545454546,0.5681818181818182,63.06818181818182,8.0,have convince send let know be
+Candice,Milo,4.545454545454546,0.5681818181818182,63.06818181818182,8.0,have convince send let know be
+Candice,Brice,1.6666666666666667,0.0,51.66666666666667,INF,leave twirl consider say
+Candice,Brice,1.6666666666666667,0.0,51.66666666666667,INF,leave twirl consider say
+Tuttle,Fatina,2.127659574468085,1.3297872340425532,53.98936170212766,1.6,run make get water grab
+Tuttle,Keisha,2.127659574468085,1.3297872340425532,53.98936170212766,1.6,run make get water grab
+Fatina,Keisha,2.127659574468085,1.3297872340425532,53.98936170212766,1.6,run make get water grab
+Candice,Brice,0.0,0.0,40.0,INF,pull ask go
+Brice,Candice,2.083333333333333,1.0416666666666665,46.875,2.0,be explain
+Candice,Keisha,7.236842105263158,1.3157894736842104,44.07894736842105,5.5,do know be refer do
+Candice,Fatina,7.236842105263158,1.3157894736842104,44.07894736842105,5.5,do know be refer do
+Keisha,Fatina,7.236842105263158,1.3157894736842104,44.07894736842105,5.5,do know be refer do
+FBI,Candice,0.0,0.0,45.45454545454545,INF,be tell
+Abby,Candice,1.4423076923076923,3.3653846153846154,37.5,0.42857142857142855,solve whisper overhear report
+Abby,Candice,1.4423076923076923,3.3653846153846154,37.5,0.42857142857142855,solve whisper overhear report
+Milo,Abby,0.0,0.0,33.33333333333333,INF,be work
+Candice,Milo,0.78125,4.6875,57.03125,0.16666666666666666,be have answer
+Milo,Candice,0.0,2.380952380952381,45.23809523809524,0.0,frown depart move drive
+Keisha,Fatina,5.147058823529411,0.7352941176470588,35.294117647058826,7.0,be head begin
+Candice,Porsche,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,follow
+Brice,Candice,2.734375,0.78125,49.609375,3.5,hear have move hope mean have patch be engage
+Mrs. Carter,Fatina,0.0,0.0,53.84615384615385,INF,be be
+Candice,Abigail Cooper,1.1363636363636365,1.7045454545454544,28.97727272727273,0.6666666666666666,be be
+Candice,FBI,1.1363636363636365,1.7045454545454544,28.97727272727273,0.6666666666666666,be be
+Abigail Cooper,FBI,1.1363636363636365,1.7045454545454544,28.97727272727273,0.6666666666666666,be be
+Mrs. Dixon,Candice,0.0,0.0,44.44444444444444,INF,be do continue
+Mrs. Dixon,Candice,2.631578947368421,3.289473684210526,46.71052631578947,0.8,flinch move
+Mrs. Dixon,Candice,2.631578947368421,3.289473684210526,46.71052631578947,0.8,flinch move
+Fatina,Keisha,4.032258064516129,2.82258064516129,47.983870967741936,1.4285714285714286,be tell be have kill
+Fatina,Keisha,4.032258064516129,2.82258064516129,47.983870967741936,1.4285714285714286,be tell be have kill
+Fatina,Keisha,4.032258064516129,2.82258064516129,47.983870967741936,1.4285714285714286,be tell be have kill
+Candice,Fatina,1.7857142857142856,0.8928571428571428,43.75,2.0,jump ask tell come be
+Candice,Mrs. Dixon,1.7857142857142856,0.8928571428571428,43.75,2.0,jump ask tell come be
+Fatina,Mrs. Dixon,1.7857142857142856,0.8928571428571428,43.75,2.0,jump ask tell come be
+Fatina,Mrs. Dixon,2.083333333333333,1.0416666666666665,30.208333333333332,2.0,be say
+Fatina,Fontana,1.1363636363636365,0.0,39.77272727272727,INF,be bear find take
+Fontana,Fatina,1.6666666666666667,0.4166666666666667,51.24999999999999,4.0,fight win promise kick come live help raise
+Fontana,Fatina,3.6111111111111107,0.0,58.611111111111114,INF,want close be do find say hear say be gon come take
+Fontana,Fatina,3.6111111111111107,0.0,58.611111111111114,INF,want close be do find say hear say be gon come take
+Fontana,Fatina,0.0,0.9615384615384616,41.34615384615385,0.0,do go miss call stop
+Fontana,Fatina,0.0,0.9615384615384616,41.34615384615385,0.0,do go miss call stop
+Fatina,Fontana,0.78125,0.0,61.71875,INF,be get hook
+Fontana,Fatina,0.0,0.625,49.375,0.0,marry threaten turn do
+Fatina,Fontana,0.0,0.625,49.375,0.0,marry threaten turn do
+Fatina,Fontana,0.0,0.625,49.375,0.0,marry threaten turn do
+Fontana,Fatina,0.0,0.0,42.857142857142854,INF,be start
+Fontana,Fatina,0.0,0.0,42.857142857142854,INF,be start
+Candice,Mrs. Dixon,0.4807692307692308,1.9230769230769231,39.90384615384615,0.25,ask ask
+Mrs. Dixon,Candice,2.1551724137931036,0.43103448275862066,62.93103448275862,5.0,regard get move be display
+Candice,Mrs. Dixon,2.1551724137931036,0.43103448275862066,62.93103448275862,5.0,regard get move be display
+Mrs. Dixon,Candice,0.0,0.0,46.15384615384615,INF,select bring
+Fontana,Candice,6.25,3.125,57.291666666666664,2.0,look be have
+Fontana,Candice,6.25,3.125,57.291666666666664,2.0,look be have
+Candice,Fatina,3.0,3.0,46.0,1.0,be hug have be
+Fatina,Candice,3.0,3.0,46.0,1.0,be hug have be
+Candice,Mrs. Dixon,1.6666666666666667,1.6666666666666667,63.33333333333333,1.0,take pretend study sneak ask be
+Fatina,Keisha,4.166666666666666,2.083333333333333,27.083333333333332,2.0,
+Candice,Porsche,2.403846153846154,0.4807692307692308,39.42307692307692,5.0,say be drive
+Fatina,Keisha,4.761904761904762,2.380952380952381,52.38095238095239,2.0,make be miss take search find
+Candice,Porsche,1.953125,1.5625,62.109375,1.25,be do see move spot
+Candice,Porsche,0.0,0.0,53.333333333333336,INF,click make chirp
+Candice,Porsche,0.0,0.0,53.333333333333336,INF,click make chirp
+Fatina,Keisha,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,remember have be
+Fatina,Keisha,0.0,6.25,47.59615384615385,0.0,think do miss fit
+Antoine,Candice,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Antoine,Candice,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Antoine,Candice,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Antoine,Candice,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Candice,Antoine,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Antoine,Candice,1.9230769230769231,0.0,51.92307692307693,INF,make predict be leave head
+Candice,Antoine,2.9166666666666665,0.4166666666666667,60.0,7.0,retrieve zip pick note be run
+Mr. Rivers,Cassidy,2.604166666666667,0.5208333333333333,59.375,5.0,be want remove
+Mr. Rivers,Cassidy,2.604166666666667,0.5208333333333333,59.375,5.0,be want remove
+Cassidy,Miss Cooper,5.113636363636364,0.0,49.43181818181818,INF,turn say please bring
+Cassidy,Mr. Rivers,5.113636363636364,0.0,49.43181818181818,INF,turn say please bring
+Miss Cooper,Mr. Rivers,5.113636363636364,0.0,49.43181818181818,INF,turn say please bring
+Candice,Brice,0.390625,0.0,52.734375,INF,get be be light
+Candice,Brice,3.0,3.5000000000000004,45.5,0.8571428571428571,be waste be be celebrate
+Candice,Brice,3.0,3.5000000000000004,45.5,0.8571428571428571,be waste be be celebrate
+Candice,Brice,3.0,3.5000000000000004,45.5,0.8571428571428571,be waste be be celebrate
+Candice,Brice,0.0,0.0,38.46153846153847,INF,think be
+Dave,Abigail Cooper,0.5952380952380952,1.7857142857142856,45.23809523809524,0.3333333333333333,kiss say be
+Dave,Candice,2.083333333333333,0.0,43.75,INF,drop shoot agree make
+Candice,Porsche,4.0,3.5000000000000004,44.5,1.1428571428571428,let do want scream
+Candice,Porsche,4.0,3.5000000000000004,44.5,1.1428571428571428,let do want scream
+Candice,Abigail Cooper,5.357142857142857,0.0,51.78571428571429,INF,eye
+Candice,Porsche,3.3333333333333335,1.6666666666666667,45.0,2.0,do blame be go plunk work
+Patrice,Candice,0.0,0.0,30.0,INF,be assure
+Antoine,Candice,5.603448275862069,2.1551724137931036,50.86206896551724,2.6,be flash know have
+Candice,Antoine,5.603448275862069,2.1551724137931036,50.86206896551724,2.6,be flash know have
+Candice,Abigail Cooper,1.0416666666666665,1.0416666666666665,31.25,1.0,be be
+Candice,FBI,1.0416666666666665,1.0416666666666665,31.25,1.0,be be
+Abigail Cooper,FBI,1.0416666666666665,1.0416666666666665,31.25,1.0,be be
+Candice,Keisha,2.272727272727273,3.4090909090909087,48.86363636363637,0.6666666666666666,flip say tell disappear
+Candice,Keisha,2.798507462686567,1.4925373134328357,61.38059701492538,1.875,scribble have do figure be talk flip say know be see
+Candice,Keisha,2.798507462686567,1.4925373134328357,61.38059701492538,1.875,scribble have do figure be talk flip say know be see
+Candice,Antoine,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Candice,Keisha,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Candice,Antoine,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Candice,Keisha,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Antoine,Candice,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Antoine,Keisha,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Candice,Keisha,2.403846153846154,0.9615384615384616,50.480769230769226,2.5,open ask beat say check
+Candice,Antoine,0.0,0.0,58.333333333333336,INF,toy look
+Candice,Antoine,0.0,0.0,58.333333333333336,INF,toy look
+Candice,Antoine,0.0,0.0,58.333333333333336,INF,toy look
+Antoine,Candice,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod turn wait
+Antoine,Candice,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod turn wait
+Antoine,Candice,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod turn wait
+Antoine,Candice,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod turn wait
+Fatina,Antoine,4.545454545454546,3.4090909090909087,28.40909090909091,1.3333333333333333,be talk say
+Patrice,Fatina,0.0,3.571428571428571,39.285714285714285,0.0,disappear
+Antoine,Ms. Fusco,0.43103448275862066,0.43103448275862066,50.86206896551724,1.0,take study say appreciate keep
+Antoine,Ms. Fusco,0.43103448275862066,0.43103448275862066,50.86206896551724,1.0,take study say appreciate keep
+Candice,Antoine,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,assure be clip
+Antoine,Candice,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,assure be clip
+Antoine,Candice,5.357142857142857,4.166666666666666,61.904761904761905,1.2857142857142858,have stare speak move
+Patrice,Antoine,5.0,0.0,45.0,INF,give
+Candice,Patrice,2.272727272727273,0.0,34.090909090909086,INF,call be
+Candice,Loraine,2.272727272727273,0.0,34.090909090909086,INF,call be
+Patrice,Loraine,2.272727272727273,0.0,34.090909090909086,INF,call be
+Candice,Loraine,6.018518518518518,2.7777777777777777,43.05555555555556,2.1666666666666665,drive read have give be be lose
+Candice,Loraine,6.018518518518518,2.7777777777777777,43.05555555555556,2.1666666666666665,drive read have give be be lose
+Candice,Brice,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Candice,Porsche,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Brice,Candice,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Brice,Candice,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Brice,Porsche,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Brice,Candice,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Candice,Porsche,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Candice,Porsche,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Porsche,Candice,3.125,1.7045454545454544,48.57954545454545,1.8333333333333333,have agree reach do cover tell have happen be invent manage get bang see feature perch rage
+Brice,Candice,0.0,6.944444444444445,70.83333333333334,0.0,notice be address
+Candice,Abby,2.717391304347826,7.065217391304348,46.73913043478261,0.38461538461538464,glance say be
+Candice,Brice,1.25,0.0,38.75,INF,investigate tell
+Brice,Candice,0.0,0.0,53.333333333333336,INF,stop snap
+Brice,Candice,0.0,0.0,53.333333333333336,INF,stop snap
+Brice,Candice,0.0,0.0,53.333333333333336,INF,stop snap
+Mr. Rivers,Antoine,4.545454545454546,0.0,59.09090909090909,INF,say
+Ms. Cooper,Ms. Fusco,3.3333333333333335,5.833333333333333,40.833333333333336,0.5714285714285714,come ask be be
+Candice,Brice,1.25,3.125,45.625,0.4,flush give
+Brice,Candice,1.25,3.125,45.625,0.4,flush give
+Antoine,Candice,0.0,0.0,66.66666666666666,INF,study see
+Antoine,Candice,0.0,0.0,66.66666666666666,INF,study see
+Candice,Antoine,0.0,0.0,66.66666666666666,INF,study see
+Antoine,Candice,0.0,0.0,66.66666666666666,INF,study see
+Antoine,Brice,0.0,0.0,55.55555555555556,INF,leave turn
+Antoine,Candice,0.0,0.0,55.55555555555556,INF,leave turn
+Brice,Candice,0.0,0.0,55.55555555555556,INF,leave turn
+Candice,Brice,1.1363636363636365,0.0,26.136363636363637,INF,be say
+Brice,Candice,0.0,5.769230769230769,48.07692307692308,0.0,fold glare
+Brice,Candice,0.0,5.769230769230769,48.07692307692308,0.0,fold glare
+Brice,Candice,0.0,5.769230769230769,48.07692307692308,0.0,fold glare
+Brice,Candice,0.0,6.944444444444445,52.31481481481482,0.0,say hold continue glare
+Brice,Candice,0.0,6.944444444444445,52.31481481481482,0.0,say hold continue glare
+Brice,Candice,0.0,6.944444444444445,52.31481481481482,0.0,say hold continue glare
+Candice,Brice,0.0,3.804347826086957,44.02173913043478,0.0,point point insist start
+Brice,Candice,0.0,3.804347826086957,44.02173913043478,0.0,point point insist start
+Brice,Candice,1.3888888888888888,0.0,51.388888888888886,INF,start cry work calm tell leave bring scan
+Candice,Brice,0.9615384615384616,0.0,52.88461538461539,INF,get shuffle follow
+Candice,Brice,5.681818181818182,1.7045454545454544,47.159090909090914,3.3333333333333335,wheel be relieve find look
+Brice,Candice,0.0,0.0,45.16129032258064,INF,go get show help have
+Brice,Candice,1.875,1.875,46.25,1.0,move stand be contain
+Brice,Candice,1.875,1.875,46.25,1.0,move stand be contain
+Brice,Candice,2.717391304347826,0.5434782608695652,44.565217391304344,5.0,have be pause ask
+Candice,Brice,2.717391304347826,0.5434782608695652,44.565217391304344,5.0,have be pause ask
+Candice,Abby,5.0,1.25,38.75,4.0,take shift say
+Candice,Abby,5.0,1.25,38.75,4.0,take shift say
+Brice,Candice,0.0,0.0,53.333333333333336,INF,let stay say
+Brice,Candice,0.9615384615384616,0.0,37.5,INF,like say
+Candice,Brice,0.6578947368421052,0.6578947368421052,67.10526315789474,1.0,take insist do break call
+Candice,Brice,5.208333333333334,4.6875,27.604166666666668,1.1111111111111112,wander talk come look
+Brice,Candice,5.208333333333334,4.6875,27.604166666666668,1.1111111111111112,wander talk come look
+Brice,Candice,5.208333333333334,4.6875,27.604166666666668,1.1111111111111112,wander talk come look
+Candice,Patrice,2.0,6.0,44.0,0.3333333333333333,call apologize show say have
+Avril,Brown,3.977272727272727,2.272727272727273,48.29545454545455,1.75,get track have be involve
+Brice,Avril,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Brice,Felix,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Brice,Jason,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Brice,Candice,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Avril,Felix,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Avril,Jason,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Avril,Candice,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Felix,Jason,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Felix,Candice,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Jason,Candice,2.616279069767442,2.3255813953488373,50.872093023255815,1.125,head talk show
+Candice,Porsche,2.556818181818182,4.261363636363636,61.36363636363637,0.6,drive impress admit be go see have be replace
+Candice,Abigail Cooper,1.6666666666666667,0.8333333333333334,24.166666666666668,2.0,be be
+Loraine,Candice,3.125,0.0,59.375,INF,pump let go wave
+Loraine,Candice,3.125,0.0,59.375,INF,pump let go wave
+Patrice,Loraine,0.0,2.403846153846154,47.59615384615385,0.0,drown say be speak
+Patrice,Loraine,0.0,2.403846153846154,47.59615384615385,0.0,drown say be speak
+Patrice,Loraine,0.0,2.403846153846154,47.59615384615385,0.0,drown say be speak
+Patrice,Loraine,0.0,2.403846153846154,47.59615384615385,0.0,drown say be speak
+Loraine,Candice,2.5,7.083333333333333,50.416666666666664,0.35294117647058826,know have steal see be pick
+Loraine,Candice,2.5,7.083333333333333,50.416666666666664,0.35294117647058826,know have steal see be pick
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Loraine,Candice,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Candice,Loraine,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Candice,Loraine,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Candice,Loraine,5.0,0.8333333333333334,47.5,6.0,show stare be wait say have know
+Candice,Patrice,1.171875,0.0,48.828125,INF,glance ask lead do notice
+Candice,Patrice,1.171875,0.0,48.828125,INF,glance ask lead do notice
+Candice,Loraine,9.722222222222223,0.0,34.72222222222222,INF,stand offer
+Candice,Loraine,0.0,0.0,64.28571428571429,INF,turn look address
+Candice,Loraine,0.0,0.0,64.28571428571429,INF,turn look address
+Loraine,Candice,1.5625,0.5208333333333333,47.91666666666667,3.0,leave get set
+Loraine,Candice,1.5625,0.5208333333333333,47.91666666666667,3.0,leave get set
+Candice,Antoine,1.7045454545454544,1.7045454545454544,42.04545454545455,1.0,have want speak learn
+Candice,Loraine,1.7045454545454544,1.7045454545454544,42.04545454545455,1.0,have want speak learn
+Antoine,Loraine,1.7045454545454544,1.7045454545454544,42.04545454545455,1.0,have want speak learn
+Antoine,Keisha,0.5681818181818182,2.272727272727273,56.25,0.25,be go ask do investigate go miss
+Antoine,Keisha,0.5681818181818182,2.272727272727273,56.25,0.25,be go ask do investigate go miss
+Antoine,Keisha,0.5681818181818182,2.272727272727273,56.25,0.25,be go ask do investigate go miss
+Antoine,Loraine,2.631578947368421,0.6578947368421052,44.07894736842105,4.0,know be have talk
+Candice,Antoine,4.166666666666666,1.6666666666666667,50.83333333333333,2.5,see be keep think risk save
+Candice,Antoine,4.166666666666666,1.6666666666666667,50.83333333333333,2.5,see be keep think risk save
+Candice,Antoine,4.166666666666666,1.6666666666666667,50.83333333333333,2.5,see be keep think risk save
+Abby,Candice,0.7352941176470588,0.7352941176470588,22.058823529411764,1.0,promise work
+Candice,Tuttle,2.82258064516129,2.0161290322580645,62.903225806451616,1.4,drop be surprise find toss
+Fatina,Mrs. Dixon,0.5,1.5,54.0,0.3333333333333333,make greet
+Candice,Mrs. Dixon,1.7857142857142856,0.35714285714285715,49.28571428571429,5.0,wait look ask be wonder be figure be say
+Mrs. Dixon,Candice,1.7857142857142856,0.35714285714285715,49.28571428571429,5.0,wait look ask be wonder be figure be say
+Mrs. Dixon,Candice,1.7857142857142856,0.35714285714285715,49.28571428571429,5.0,wait look ask be wonder be figure be say
+Mrs. Dixon,Candice,1.7857142857142856,0.35714285714285715,49.28571428571429,5.0,wait look ask be wonder be figure be say
+Candice,Mrs. Dixon,1.1363636363636365,0.0,53.40909090909091,INF,explain be be look direct
+Candice,Mrs. Dixon,1.1363636363636365,0.0,53.40909090909091,INF,explain be be look direct
+Candice,Mrs. Dixon,1.1363636363636365,0.0,53.40909090909091,INF,explain be be look direct
+Candice,Mrs. Dixon,1.1363636363636365,0.0,53.40909090909091,INF,explain be be look direct
+Candice,Mrs. Dixon,4.464285714285714,0.0,31.25,INF,ask hear come
+Candice,Mrs. Dixon,4.464285714285714,0.0,31.25,INF,ask hear come
+Fatina,Francine,3.6764705882352944,1.4705882352941175,36.029411764705884,2.5,know go miss come pray
+Candice,Fatina,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Candice,Mrs. Dixon,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Candice,Mrs. Dixon,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Candice,Fatina,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Fatina,Mrs. Dixon,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Fatina,Mrs. Dixon,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Mrs. Dixon,Fatina,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Mrs. Dixon,Fatina,3.225806451612903,0.8064516129032258,63.70967741935484,4.0,explain have go miss have have paint post
+Candice,Antoine,1.9230769230769231,1.9230769230769231,50.0,1.0,leave buoy have drive
+Antoine,Loraine,4.375,6.25,49.375,0.7,feel have ask talk
+Antoine,Keisha,3.289473684210526,1.9736842105263157,42.10526315789473,1.6666666666666667,place say do find
+Antoine,Keisha,3.289473684210526,1.9736842105263157,42.10526315789473,1.6666666666666667,place say do find
+Antoine,Keisha,3.289473684210526,1.9736842105263157,42.10526315789473,1.6666666666666667,place say do find
+Candice,Antoine,2.7777777777777777,2.7777777777777777,27.77777777777778,1.0,tell
+Candice,Genevieve,3.977272727272727,2.272727272727273,52.84090909090909,1.75,be do have get
+Antoine,Candice,1.7857142857142856,2.6785714285714284,52.67857142857143,0.6666666666666666,tell be win
+Loraine,Patrice,3.571428571428571,1.7857142857142856,30.357142857142854,2.0,know mention
+Patrice,Loraine,3.571428571428571,1.7857142857142856,30.357142857142854,2.0,know mention
+Candice,Antoine,2.5,0.0,37.5,INF,ask
+Antoine,Candice,5.0,2.5,52.5,2.0,study push go pick
+Candice,Antoine,5.0,2.5,52.5,2.0,study push go pick
+Candice,Antoine,5.0,2.5,52.5,2.0,study push go pick
+Antoine,Candice,5.357142857142857,5.357142857142857,53.57142857142857,1.0,know read be throw
+Antoine,Candice,5.357142857142857,5.357142857142857,53.57142857142857,1.0,know read be throw
+Candice,Antoine,4.166666666666666,0.6944444444444444,50.69444444444444,6.0,be press consider be
+Genevieve,Candice,0.6329113924050633,1.2658227848101267,48.734177215189874,0.5,be do hear wait place try track seem go do see be overlook
+Genevieve,Fontana,0.6329113924050633,1.2658227848101267,48.734177215189874,0.5,be do hear wait place try track seem go do see be overlook
+Genevieve,Candice,0.6329113924050633,1.2658227848101267,48.734177215189874,0.5,be do hear wait place try track seem go do see be overlook
+Candice,Fontana,0.6329113924050633,1.2658227848101267,48.734177215189874,0.5,be do hear wait place try track seem go do see be overlook
+Fontana,Candice,0.6329113924050633,1.2658227848101267,48.734177215189874,0.5,be do hear wait place try track seem go do see be overlook
+Jackson,Candice,3.125,0.0,34.375,INF,say
+Keisha,Abby,0.0,0.0,40.0,INF,look
+Patrice,Keisha,2.840909090909091,5.681818181818182,41.47727272727273,0.5,know be murder be murder
+Rodriguez,Brice,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Rodriguez,Candice,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Rodriguez,FBI,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Brice,Candice,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Brice,FBI,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Candice,FBI,3.75,3.75,59.166666666666664,1.0,have determine be have discover be investigate
+Brice,Rodriguez,4.166666666666666,0.0,62.5,INF,enter be surprise see look feel
+Rodriguez,Russell,2.1739130434782608,1.9021739130434785,52.44565217391305,1.1428571428571428,admit follow leave have be have tow drop
+Rodriguez,Russell,2.1739130434782608,1.9021739130434785,52.44565217391305,1.1428571428571428,admit follow leave have be have tow drop
+Rodriguez,Russell,2.1739130434782608,1.9021739130434785,52.44565217391305,1.1428571428571428,admit follow leave have be have tow drop
+Abby,Brice,10.0,3.75,26.25,2.6666666666666665,say
+Rodriguez,Brice,4.411764705882353,0.0,30.88235294117647,INF,say turn
+Brice,Candice,1.0,1.0,57.99999999999999,1.0,have be
+Candice,Brice,5.208333333333334,1.0416666666666665,35.41666666666667,5.0,accord have be
+Candice,Brice,1.9230769230769231,5.769230769230769,53.84615384615385,0.3333333333333333,do think be complain
+Brice,Candice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Brice,Candice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Brice,Candice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Brice,Candice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Candice,Brice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Candice,Brice,2.083333333333333,1.8229166666666667,52.34375,1.1428571428571428,swear do come do believe shout guess come be be investigate blow
+Brice,Candice,0.0,0.0,46.15384615384615,INF,think talk let investigate
+Brice,Candice,0.0,0.0,46.15384615384615,INF,think talk let investigate
+Brice,Candice,0.0,1.3888888888888888,37.5,0.0,think want go
+Brice,Candice,0.0,1.3888888888888888,37.5,0.0,think want go
+Brice,Candice,2.840909090909091,2.272727272727273,40.340909090909086,1.25,want convince have do
+Candice,Brice,2.840909090909091,2.272727272727273,40.340909090909086,1.25,want convince have do
+Brice,Candice,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,give work make seem be finish let know discover hit come investigate
+Brice,Genevieve,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,give work make seem be finish let know discover hit come investigate
+Candice,Brice,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,give work make seem be finish let know discover hit come investigate
+Candice,Genevieve,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,give work make seem be finish let know discover hit come investigate
+Brice,Genevieve,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,give work make seem be finish let know discover hit come investigate
+Ms. Fusco,Brice,4.166666666666666,0.0,37.5,INF,have prefer ask tackle admit
+Ms. Fusco,Candice,2.2222222222222223,1.1111111111111112,50.0,2.0,know do have learn attempt stop be try stand do get be get flatten
+Abby,Brice,6.25,1.5625,42.1875,4.0,have do say
+Brice,Rodriguez,1.3888888888888888,5.555555555555555,54.166666666666664,0.25,make whisper
+Brice,Katie,3.804347826086957,0.5434782608695652,52.17391304347826,7.0,be have come see have say
+Abby,Brice,0.8928571428571428,0.0,34.82142857142857,INF,say reach
+Ms. Fusco,FBI,5.263157894736842,2.631578947368421,50.0,2.0,acknowledge be license find understand be
+FBI,Ms. Fusco,5.263157894736842,2.631578947368421,50.0,2.0,acknowledge be license find understand be
+Brice,Candice,0.7352941176470588,0.0,46.32352941176471,INF,ask mind drop
+Brice,Candice,0.7352941176470588,0.0,46.32352941176471,INF,ask mind drop
+Abby,Candice,1.0416666666666665,1.0416666666666665,31.25,1.0,be say
+Brice,FBI,5.9375,0.625,48.4375,9.5,note know do have be have be file
+Candice,FBI,0.0,3.6458333333333335,42.1875,0.0,deny act
+Brice,Candice,4.716981132075472,6.132075471698113,47.64150943396226,0.7692307692307693,have go have hand work make be affect happen be deny
+Brice,Candice,4.716981132075472,6.132075471698113,47.64150943396226,0.7692307692307693,have go have hand work make be affect happen be deny
+Candice,FBI,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,have like
+FBI,Candice,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,have like
+Candice,Brice,1.7241379310344827,5.603448275862069,58.189655172413794,0.3076923076923077,be mean be fudge be see
+Brice,Candice,2.631578947368421,2.631578947368421,47.368421052631575,1.0,do send determine finish read
+Brice,Candice,2.631578947368421,2.631578947368421,47.368421052631575,1.0,do send determine finish read
+Candice,Brice,0.4166666666666667,0.8333333333333334,58.75,0.5,know be do feel sign get
+Todd,Ruben,5.769230769230769,0.9615384615384616,39.42307692307692,6.0,assign be
+Todd,Cox,5.769230769230769,0.9615384615384616,39.42307692307692,6.0,assign be
+Ruben,Cox,5.769230769230769,0.9615384615384616,39.42307692307692,6.0,assign be
+Felix,Jason,3.4090909090909087,3.4090909090909087,52.27272727272727,1.0,rule die be decapitate
+Felix,Brown,3.4090909090909087,3.4090909090909087,52.27272727272727,1.0,rule die be decapitate
+Jason,Brown,3.4090909090909087,3.4090909090909087,52.27272727272727,1.0,rule die be decapitate
+Cox,Mexican Mafia,6.081081081081082,0.0,58.78378378378378,INF,say think rule do kill want make look
+Cox,Mexican Mafia,6.081081081081082,0.0,58.78378378378378,INF,say think rule do kill want make look
+Jason,Felix,0.5434782608695652,0.0,51.63043478260869,INF,point say be be be
+Jason,Avril,0.5434782608695652,0.0,51.63043478260869,INF,point say be be be
+Felix,Avril,0.5434782608695652,0.0,51.63043478260869,INF,point say be be be
+Jason,Felix,6.696428571428571,0.0,57.58928571428571,INF,have do attend float
+Avril,Jason,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,move get attend
+Jason,Felix,3.6637931034482754,1.5086206896551724,50.0,2.4285714285714284,see review focus see have head be make
+Jason,Avril,3.6637931034482754,1.5086206896551724,50.0,2.4285714285714284,see review focus see have head be make
+Felix,Avril,3.6637931034482754,1.5086206896551724,50.0,2.4285714285714284,see review focus see have head be make
+Candice,Brice,0.0,0.0,44.44444444444444,INF,sign say
+Genevieve,Candice,0.0,0.0,40.0,INF,hear say change
+Candice,Brice,0.8522727272727272,2.840909090909091,48.57954545454545,0.3,motion come step shrug happen catch sit look surprise
+Candice,Brice,0.8522727272727272,2.840909090909091,48.57954545454545,0.3,motion come step shrug happen catch sit look surprise
+Candice,Brice,0.8522727272727272,2.840909090909091,48.57954545454545,0.3,motion come step shrug happen catch sit look surprise
+Candice,Brice,0.8522727272727272,2.840909090909091,48.57954545454545,0.3,motion come step shrug happen catch sit look surprise
+Brice,Candice,0.8522727272727272,2.840909090909091,48.57954545454545,0.3,motion come step shrug happen catch sit look surprise
+Brice,Candice,1.3392857142857142,0.0,37.94642857142857,INF,have get say take motion
+Brice,Candice,1.3392857142857142,0.0,37.94642857142857,INF,have get say take motion
+Candice,Brice,2.840909090909091,5.681818181818182,52.84090909090909,0.5,be take be laugh sneak
+Brice,Candice,1.1363636363636365,0.0,35.22727272727273,INF,get offer
+Brice,Candice,1.1363636363636365,0.0,35.22727272727273,INF,get offer
+Brice,Candice,1.1363636363636365,0.0,35.22727272727273,INF,get offer
+Todd,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Todd,Rueben,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Todd,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Todd,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Todd,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Cox,Rueben,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Rueben,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Rueben,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Rueben,Cox,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,get check murder be surprise say think have
+Facebook,Cox,1.9230769230769231,0.0,59.61538461538461,INF,have say
+Avril,Felix,1.7857142857142856,2.6785714285714284,24.107142857142858,0.6666666666666666,be
+Felix,Jason,2.5,0.4166666666666667,50.416666666666664,6.0,sound have be review be
+Felix,Avril,2.5,0.4166666666666667,50.416666666666664,6.0,sound have be review be
+Jason,Avril,2.5,0.4166666666666667,50.416666666666664,6.0,sound have be review be
+Cox,Rueben,0.0,0.0,46.15384615384615,INF,keep work
+Cox,Todd,0.0,0.0,46.15384615384615,INF,keep work
+Rueben,Todd,0.0,0.0,46.15384615384615,INF,keep work
+Brice,Candice,0.0,6.0344827586206895,56.03448275862068,0.0,take come wear
+Candice,Brice,0.0,6.0344827586206895,56.03448275862068,0.0,take come wear
+Avril,Felix,0.0,0.5434782608695652,42.934782608695656,0.0,walk ask
+Avril,Jason,0.0,0.5434782608695652,42.934782608695656,0.0,walk ask
+Felix,Jason,0.0,0.5434782608695652,42.934782608695656,0.0,walk ask
+Brice,Candice,5.263157894736842,3.289473684210526,59.86842105263158,1.6,go make sit
+Abby,Candice,1.5625,0.0,23.4375,INF,say
+Brice,Candice,1.0416666666666665,0.0,32.29166666666667,INF,have talk say
+Miss Cooper,CCS,1.3888888888888888,0.4629629629629629,50.0,3.0,allow inform have be let go
+Mrs. Dixon,Genevieve,4.807692307692308,1.4423076923076923,51.442307692307686,3.3333333333333335,hear be have overuse call
+Mrs. Dixon,Genevieve,0.0,0.0,43.75,INF,be head meet
+Mrs. Dixon,Genevieve,5.0,2.5,52.5,2.0,recognize think help narrow
+Candice,Brice,0.0,0.0,33.33333333333333,INF,be engage
+Jason,Felix,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,feel
+Jason,Avril,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,feel
+Felix,Avril,3.4090909090909087,0.5681818181818182,36.93181818181818,6.0,feel
+Antoine,Candice,0.0,0.0,37.5,INF,be go stop tell
+Candice,Genevieve,0.0,3.125,21.875,0.0,tell present
+Candice,Antoine,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Candice,Antoine,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Antoine,Candice,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Antoine,Candice,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Antoine,Candice,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Candice,Antoine,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Candice,Antoine,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Candice,Antoine,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,take tell help notice wear want send
+Genevieve,Mrs. Dixon,3.4090909090909087,3.4090909090909087,56.81818181818182,1.0,greet notice arrive hug be shed take
+Felix,Avril,1.7857142857142856,0.8928571428571428,40.17857142857143,2.0,be register
+Felix,Jason,1.7857142857142856,0.8928571428571428,40.17857142857143,2.0,be register
+Avril,Jason,1.7857142857142856,0.8928571428571428,40.17857142857143,2.0,be register
+Genevieve,Mrs. Dixon,2.083333333333333,0.6944444444444444,58.333333333333336,3.0,be huddle look
+Keisha,Patrice,1.3157894736842104,0.0,30.263157894736842,INF,plug
+Keisha,Fatina,1.3157894736842104,0.0,30.263157894736842,INF,plug
+Patrice,Fatina,1.3157894736842104,0.0,30.263157894736842,INF,plug
+Mrs. Dixon,Candice,0.0,0.0,60.0,INF,put hear
+Candice,Mundy,0.78125,0.0,55.46875,INF,manage follow
+Candice,Antoine,2.4193548387096775,0.8064516129032258,54.83870967741935,3.0,have see cause reach pass
+Candice,Antoine,0.0,0.0,50.0,INF,pause swear
+Candice,Antoine,0.6578947368421052,0.0,57.23684210526315,INF,be shout drop
+Candice,Antoine,0.6578947368421052,0.0,57.23684210526315,INF,be shout drop
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Antoine,Candice,0.0,2.6515151515151514,64.01515151515152,0.0,see lie be stick
+Candice,Antoine,0.6944444444444444,4.166666666666666,56.25,0.16666666666666666,ignore take put
+Antoine,Candice,0.6944444444444444,4.166666666666666,56.25,0.16666666666666666,ignore take put
+Antoine,Mundy,4.166666666666666,3.125,51.041666666666664,1.3333333333333333,flicker
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Antoine,Candice,2.5943396226415096,2.358490566037736,55.42452830188679,1.1,crouch think be go make turn make shove
+Candice,Antoine,5.769230769230769,0.0,40.38461538461539,INF,fall take step
+Candice,Antoine,1.5,3.0,51.5,0.5,know hesitate shoot think be do mince
+Candice,Antoine,1.5,3.0,51.5,0.5,know hesitate shoot think be do mince
+Antoine,Candice,1.5,3.0,51.5,0.5,know hesitate shoot think be do mince
+Candice,Antoine,1.5,3.0,51.5,0.5,know hesitate shoot think be do mince
+Antoine,Mundy,1.4285714285714286,0.0,55.714285714285715,INF,grip pray stop bring toss
+Antoine,Candice,1.4285714285714286,0.0,55.714285714285715,INF,grip pray stop bring toss
+Mundy,Candice,1.4285714285714286,0.0,55.714285714285715,INF,grip pray stop bring toss
+Mundy,CCS,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Mundy,Keisha,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Mundy,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Mundy,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+CCS,Keisha,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+CCS,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+CCS,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Keisha,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Keisha,Fatina,0.641025641025641,2.2435897435897436,45.83333333333333,0.2857142857142857,cooperate escape lead bury abandon
+Candice,Mrs. Dixon,1.5151515151515151,0.0,46.96969696969697,INF,be bring match bring
+Candice,Fontana,1.5151515151515151,0.0,46.96969696969697,INF,be bring match bring
+Mrs. Dixon,Fontana,1.5151515151515151,0.0,46.96969696969697,INF,be bring match bring
+Fontana,Candice,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,have die suspect
+Fatina,Brice,1.1363636363636365,0.0,57.95454545454546,INF,be call
+FBI,Gaston,0.78125,1.953125,56.640625,0.4,walk be discover promote sit wait
+Abigail Cooper,Gaston,0.0,0.0,38.46153846153847,INF,thank join say
+CCS,Gaston,1.9736842105263157,1.9736842105263157,48.68421052631579,1.0,be come say
+Abigail Cooper,Gaston,0.0,0.7352941176470588,46.32352941176471,0.0,let ask say
+Abigail Cooper,Gaston,4.5,3.0,52.5,1.5,be say suggest have
+Gaston,CIA,1.9230769230769231,1.9230769230769231,42.30769230769231,1.0,say feel blink
+Abigail Cooper,Gaston,0.0,4.6875,32.8125,0.0,say
+Brice,Ms. Cooper,4.807692307692308,0.4807692307692308,63.942307692307686,10.0,need be brief meet
+Brice,Mr. Rivers,4.807692307692308,0.4807692307692308,63.942307692307686,10.0,need be brief meet
+Ms. Cooper,Mr. Rivers,4.807692307692308,0.4807692307692308,63.942307692307686,10.0,need be brief meet
+Gaston,Abby,0.0,0.0,53.84615384615385,INF,think have talk
+Brice,Candice,2.5,1.0714285714285714,47.85714285714286,2.3333333333333335,be have plan give arrive beat propose
+FBI,CIA,1.3888888888888888,0.3472222222222222,53.81944444444444,4.0,have tell need be
+Mr. Rivers,Brice,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Mr. Rivers,Gaston,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Mr. Rivers,CIA,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Brice,Gaston,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Brice,CIA,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Gaston,CIA,1.6304347826086956,0.2717391304347826,52.44565217391305,6.0,be
+Mr. Rivers,Ms. Cooper,6.25,0.0,43.75,INF,
+CIA,Opie,3.618421052631579,4.934210526315789,59.86842105263158,0.7333333333333333,arrive hand dress have
+Mr. Rivers,Ms. Cooper,7.5,0.0,52.5,INF,please come join
+Tanner,CIA,1.6129032258064515,0.0,46.774193548387096,INF,be be smile nod do
+Tanner,Steckworth,5.0,0.0,41.66666666666667,INF,do allow explain
+Steckworth,Tanner,3.1746031746031744,1.5873015873015872,50.79365079365079,2.0,say notice know exchange motion click be wear vary

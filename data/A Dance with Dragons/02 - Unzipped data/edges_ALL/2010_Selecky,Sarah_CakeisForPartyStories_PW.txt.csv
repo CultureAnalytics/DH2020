@@ -1,0 +1,663 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Shona,Flip,1.0135135135135136,0.33783783783783783,55.4054054054054,3.0,share have be marry have find
+Shona,Janine,1.0135135135135136,0.33783783783783783,55.4054054054054,3.0,share have be marry have find
+Flip,Janine,1.0135135135135136,0.33783783783783783,55.4054054054054,3.0,share have be marry have find
+Flip,Sanderson,2.6785714285714284,0.8928571428571428,67.85714285714286,3.0,smell be burn
+Janine,Sanderson,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Janine,Sanderson,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Sanderson,Janine,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Sanderson,Janine,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Sanderson,Janine,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Janine,Sanderson,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Janine,Sanderson,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Janine,Sanderson,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,be enrol draw withdraw tell be sleep
+Janine,Flip,0.0,4.166666666666666,55.833333333333336,0.0,be come flip see
+Janine,Sanderson,0.0,4.166666666666666,55.833333333333336,0.0,be come flip see
+Flip,Sanderson,0.0,4.166666666666666,55.833333333333336,0.0,be come flip see
+Flip,Sanderson,0.0,0.0,60.0,INF,look
+Janine,Sanderson,0.8333333333333334,6.666666666666667,39.166666666666664,0.125,be withdraw do feel trail
+Janine,Sanderson,0.8333333333333334,6.666666666666667,39.166666666666664,0.125,be withdraw do feel trail
+Sanderson,Janine,2.2058823529411766,0.0,56.61764705882353,INF,say say get decide have
+Sanderson,Janine,2.2058823529411766,0.0,56.61764705882353,INF,say say get decide have
+Janine,Winnie,3.125,0.0,46.875,INF,do get tell
+Winnie,Janine,3.125,0.0,46.875,INF,do get tell
+Janine,Shona,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,be be make
+Flip,Sanderson,0.0,0.0,53.84615384615385,INF,have start argue
+Sanderson,Flip,0.78125,0.78125,48.4375,1.0,think need stop be make
+Flip,Sanderson,0.78125,0.78125,48.4375,1.0,think need stop be make
+Shona,Flip,2.083333333333333,5.555555555555555,47.91666666666667,0.375,tell cringe read
+Shona,Flip,2.083333333333333,5.555555555555555,47.91666666666667,0.375,tell cringe read
+Shona,Sanderson,2.083333333333333,5.555555555555555,47.91666666666667,0.375,tell cringe read
+Flip,Sanderson,2.083333333333333,5.555555555555555,47.91666666666667,0.375,tell cringe read
+Flip,Sanderson,2.083333333333333,5.555555555555555,47.91666666666667,0.375,tell cringe read
+Sanderson,Flip,3.9473684210526314,4.605263157894736,54.60526315789473,0.8571428571428571,be threaten appear
+Shona,Sanderson,0.8928571428571428,0.0,49.107142857142854,INF,make say turn
+Sanderson,Shona,5.555555555555555,2.7777777777777777,58.333333333333336,2.0,flash
+Brianna,Sanderson,4.166666666666666,2.7777777777777777,37.5,1.5,be tell
+Sanderson,Brianna,0.0,0.0,50.0,INF,be help
+Sanderson,Brianna,0.0,0.0,50.0,INF,be help
+Sanderson,Brianna,0.0,0.0,60.0,INF,take
+Sanderson,Flip,0.0,0.0,60.0,INF,take
+Brianna,Flip,0.0,0.0,60.0,INF,take
+Flip,Shona,0.0,0.0,60.0,INF,look
+Shona,Sanderson,0.0,0.0,60.0,INF,look
+Flip,Sanderson,0.0,0.0,50.0,INF,ask
+Flip,Shona,0.0,0.0,60.0,INF,stare
+Janine,Sanderson,4.166666666666666,0.0,29.166666666666668,INF,say
+Janine,Shona,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,be say
+Shona,Sanderson,3.125,1.5625,45.3125,2.0,be
+Shona,Sanderson,0.0,1.0416666666666665,48.95833333333333,0.0,put lean
+Shona,Sanderson,0.0,1.0416666666666665,48.95833333333333,0.0,put lean
+Sanderson,Shona,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,brace hold
+Sanderson,Shona,1.3888888888888888,0.0,43.05555555555556,INF,look say flip
+Sanderson,Flip,1.3888888888888888,0.0,43.05555555555556,INF,look say flip
+Shona,Flip,1.3888888888888888,0.0,43.05555555555556,INF,look say flip
+Sanderson,Shona,1.3157894736842104,0.0,51.31578947368421,INF,go reach be
+Flip,Sanderson,0.0,0.0,60.0,INF,flip waggle
+Virgin Mary,Janine,0.0,1.7857142857142856,41.07142857142857,0.0,say
+Flip,Shona,2.5,4.166666666666666,66.66666666666666,0.6,be sit
+Sanderson,Shona,1.1363636363636365,0.0,35.22727272727273,INF,do say be
+Janine,Sanderson,0.0,2.0,46.0,0.0,turn see
+Janine,Sandy,1.25,3.75,35.0,0.3333333333333333,say be
+Janine,Sanderson,3.125,0.0,46.875,INF,flicker illustrate
+Janine,Sanderson,3.125,0.0,46.875,INF,flicker illustrate
+Sanderson,Janine,3.125,0.0,46.875,INF,flicker illustrate
+Flip,Sanderson,0.0,0.0,50.0,INF,be say
+Shona,Janine,0.9615384615384616,0.0,37.5,INF,say be
+Janine,Winnie,0.0,0.0,46.666666666666664,INF,be try dig
+Janine,Winnie,0.0,0.0,46.666666666666664,INF,be try dig
+Flip,Shona,0.5681818181818182,0.0,63.06818181818182,INF,wrap
+Flip,Shona,1.5625,0.78125,60.15625,2.0,be sleep push face
+Shona,Flip,3.0,3.0,66.0,1.0,be splay press drape
+Shona,Flip,3.0,3.0,66.0,1.0,be splay press drape
+Janine,Sanderson,0.0,0.0,0.0,INF,
+Anne,Flip,1.7857142857142856,0.0,55.35714285714286,INF,say
+Janine,Sanderson,3.125,3.125,31.25,1.0,be
+Lise,Krystal,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,babysit be
+Atlas,Lise,1.0416666666666665,0.0,48.95833333333333,INF,like be remind
+Krystal,Atlas,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,jab handle let
+Krystal,Atlas,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,jab handle let
+Atlas,Krystal,0.0,3.2407407407407405,63.42592592592593,0.0,nod squat suck manipulate
+Atlas,Krystal,0.0,3.2407407407407405,63.42592592592593,0.0,nod squat suck manipulate
+Atlas,Krystal,0.0,3.2407407407407405,63.42592592592593,0.0,nod squat suck manipulate
+Krystal,Lise,0.0,0.0,25.0,INF,ask
+Atlas,Lise,5.769230769230769,3.8461538461538463,59.61538461538461,1.5,be stand look
+Krystal,Atlas,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,crouch call
+Atlas,Krystal,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,crouch call
+Krystal,Lise,5.208333333333334,1.0416666666666665,27.083333333333332,5.0,tell be
+Krystal,Lise,1.8382352941176472,0.7352941176470588,59.19117647058824,2.5,be emerge smell
+Greg,Lise,0.5434782608695652,0.5434782608695652,42.391304347826086,1.0,be teach say nod
+Atlas,Krystal,0.0,0.0,72.72727272727273,INF,have take
+Lise,Atlas,0.0,0.0,66.66666666666666,INF,see
+Lise,Krystal,1.1904761904761905,0.0,55.952380952380956,INF,fold dampen try wipe
+Atlas,Krystal,0.0,0.0,66.66666666666666,INF,turn duck
+Krystal,Lise,1.0416666666666665,4.166666666666666,28.125,0.25,ignore say thank
+Lise,Atlas,1.6666666666666667,0.8333333333333334,70.83333333333334,2.0,glance be huff
+Lise,Coke,0.0,0.78125,61.71875,0.0,go pull
+Krystal,Greg,2.5,3.75,51.24999999999999,0.6666666666666666,be go say be be be shut warn
+Krystal,Lise,2.5,3.75,51.24999999999999,0.6666666666666666,be go say be be be shut warn
+Greg,Lise,2.5,3.75,51.24999999999999,0.6666666666666666,be go say be be be shut warn
+Greg,Lise,0.0,0.8928571428571428,49.107142857142854,0.0,be pretend be tell
+Greg,Lise,0.0,0.8928571428571428,49.107142857142854,0.0,be pretend be tell
+Lise,Coke,5.092592592592593,1.8518518518518516,48.61111111111111,2.75,take say be go forget call
+Lise,Coke,5.092592592592593,1.8518518518518516,48.61111111111111,2.75,take say be go forget call
+Sylvia,Krystal,4.6875,2.34375,36.71875,2.0,be be
+Atlas,Krystal,0.0,0.0,37.5,INF,take
+Krystal,Atlas,7.608695652173914,3.260869565217391,41.30434782608695,2.3333333333333335,protect hide try make keep
+Krystal,Atlas,7.608695652173914,3.260869565217391,41.30434782608695,2.3333333333333335,protect hide try make keep
+Atlas,Krystal,7.608695652173914,3.260869565217391,41.30434782608695,2.3333333333333335,protect hide try make keep
+Krystal,Atlas,0.3472222222222222,1.0416666666666665,43.05555555555556,0.3333333333333333,open bring brush be
+Krystal,Atlas,0.3472222222222222,1.0416666666666665,43.05555555555556,0.3333333333333333,open bring brush be
+Atlas,Krystal,0.3472222222222222,1.0416666666666665,43.05555555555556,0.3333333333333333,open bring brush be
+Atlas,Krystal,0.3472222222222222,1.0416666666666665,43.05555555555556,0.3333333333333333,open bring brush be
+Krystal,Lise,6.25,1.7857142857142856,34.82142857142857,3.5,think squeeze
+Krystal,Lise,6.25,1.7857142857142856,34.82142857142857,3.5,think squeeze
+Lise,Atlas,1.282051282051282,0.641025641025641,64.74358974358975,2.0,come end be make be sit twist
+Atlas,Lise,2.5,0.0,48.92857142857142,INF,open take
+Lise,Atlas,0.0,0.0,50.0,INF,ask
+Krystal,Lise,4.166666666666666,0.0,37.5,INF,have call tell
+Krystal,Lise,0.8928571428571428,0.0,41.964285714285715,INF,call say
+Krystal,Lise,3.75,0.0,42.916666666666664,INF,be have forget come
+Lise,Krystal,7.5,1.25,41.25,6.0,be
+bush,Lise,2.604166666666667,0.78125,57.03125,3.3333333333333335,seem be turn be grow find stop
+Atlas,Greg,1.9230769230769231,0.0,36.53846153846153,INF,get say
+Atlas,Lise,1.9230769230769231,0.0,36.53846153846153,INF,get say
+Greg,Lise,1.9230769230769231,0.0,36.53846153846153,INF,get say
+Atlas,Lise,0.78125,1.5625,41.40625,0.5,say
+Atlas,Lise,0.0,0.0,50.0,INF,be stick
+Atlas,Lise,6.25,0.0,35.41666666666667,INF,please do throw say
+Carolyn,Bruno,0.0,0.0,58.333333333333336,INF,get do
+Carolyn,Bruno,0.0,2.7777777777777777,47.22222222222222,0.0,sit see be do
+Carolyn,Bruno,0.0,2.7777777777777777,47.22222222222222,0.0,sit see be do
+Bruno,Carolyn,0.0,2.7777777777777777,47.22222222222222,0.0,sit see be do
+Carolyn,Bruno,0.0,2.7777777777777777,47.22222222222222,0.0,sit see be do
+Carolyn,Bruno,0.0,0.0,40.0,INF,look
+Carolyn,Bruno,0.0,0.0,42.857142857142854,INF,tell
+Bruno,Carolyn,3.125,2.604166666666667,65.10416666666666,1.2,see make think look piss flatten
+Bruno,Carolyn,3.125,2.604166666666667,65.10416666666666,1.2,see make think look piss flatten
+Carolyn,Bruno,3.125,2.604166666666667,65.10416666666666,1.2,see make think look piss flatten
+Bruno,Carolyn,0.6097560975609756,0.0,57.92682926829268,INF,have be hang clip arrive have make
+Carolyn,Bruno,0.0,0.0,50.0,INF,look
+Carolyn,Bruno,5.357142857142857,0.0,44.642857142857146,INF,do know do say
+Carolyn,Bruno,0.0,0.0,50.0,INF,
+Carolyn,Bruno,3.125,0.0,29.017857142857146,INF,know fondle
+Carolyn,Bruno,2.1341463414634148,0.6097560975609756,60.670731707317074,3.5,see be catch have lodge get bend pull straighten
+Carolyn,Bruno,2.1341463414634148,0.6097560975609756,60.670731707317074,3.5,see be catch have lodge get bend pull straighten
+Bruno,Carolyn,2.1341463414634148,0.6097560975609756,60.670731707317074,3.5,see be catch have lodge get bend pull straighten
+Bruno,Carolyn,2.1341463414634148,0.6097560975609756,60.670731707317074,3.5,see be catch have lodge get bend pull straighten
+Carolyn,Larissa,0.0,0.0,57.14285714285714,INF,look see dress
+Bruno,Carolyn,3.75,1.25,25.0,3.0,say be
+Bruno,Larissa,3.75,1.25,25.0,3.0,say be
+Carolyn,Larissa,3.75,1.25,25.0,3.0,say be
+Larissa,Carolyn,2.5,0.0,37.5,INF,smile
+Bruno,Carolyn,0.0,0.0,62.5,INF,be order
+Carolyn,Bruno,0.0,7.5,52.5,0.0,ask
+Carolyn,Bruno,3.8461538461538463,0.0,50.0,INF,resist take
+Bruno,Carolyn,3.8461538461538463,0.0,50.0,INF,resist take
+Carolyn,Bruno,0.0,0.0,40.0,INF,do work tell
+Bruno,Carolyn,0.0,0.0,53.333333333333336,INF,slip look chew
+Bruno,Carolyn,0.0,0.0,53.333333333333336,INF,slip look chew
+Carolyn,Bruno,2.083333333333333,6.25,41.66666666666667,0.3333333333333333,remember be
+Bruno,Carolyn,0.0,0.0,50.0,INF,ask go sleep
+Bruno,Carolyn,0.0,0.0,60.0,INF,look
+Carolyn,Larissa,2.083333333333333,3.6458333333333335,52.604166666666664,0.5714285714285714,see be
+Carolyn,Larissa,2.644230769230769,3.6057692307692304,43.75,0.7333333333333333,have sign submit have make understand be sign complain go
+Pike,Larissa,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Pike,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Pike,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Pike,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Larissa,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Larissa,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Larissa,Carolyn,2.840909090909091,0.5681818181818182,42.04545454545455,5.0,be sit sit
+Pike,Larissa,2.6515151515151514,0.3787878787878788,54.54545454545454,7.0,dump go say
+Larissa,Carolyn,4.166666666666666,4.166666666666666,25.0,1.0,confess
+Larissa,Pike,4.166666666666666,4.166666666666666,25.0,1.0,confess
+Carolyn,Pike,4.166666666666666,4.166666666666666,25.0,1.0,confess
+Larissa,Pike,2.403846153846154,0.0,59.13461538461539,INF,say have come wear
+Pike,Larissa,2.403846153846154,0.0,59.13461538461539,INF,say have come wear
+Carolyn,Pike,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,think hold eat
+Larissa,Mark S.,4.6875,0.78125,44.53125,6.0,know say catch watch
+Mark S.,Carolyn,0.78125,0.78125,60.9375,1.0,show dress
+Carolyn,Mark S.,0.78125,0.78125,60.9375,1.0,show dress
+Carolyn,Mark S.,0.0,0.0,54.54545454545454,INF,reach take offer
+Mark S.,Carolyn,0.0,0.0,54.54545454545454,INF,reach take offer
+Mark S.,Carolyn,0.0,1.1363636363636365,44.31818181818182,0.0,remind
+Mark S.,Carolyn,2.6515151515151514,6.8181818181818175,48.10606060606061,0.3888888888888889,smooth see be go do
+Carolyn,Mark S.,0.0,0.0,50.0,INF,see
+Carolyn,Mark S.,0.0,0.0,50.0,INF,see
+Mark S.,Carolyn,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,strip drape
+Mark S.,Carolyn,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,strip drape
+Carolyn,Mark S.,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,strip drape
+Carolyn,Mark S.,0.5952380952380952,1.7857142857142856,50.0,0.3333333333333333,strip drape
+Mark S.,Carolyn,0.78125,0.78125,67.1875,1.0,look
+Mark S.,Carolyn,4.464285714285714,0.0,52.67857142857143,INF,place envision
+Mark S.,Carolyn,4.464285714285714,0.0,52.67857142857143,INF,place envision
+Mark S.,Carolyn,4.464285714285714,0.0,52.67857142857143,INF,place envision
+Mark S.,Carolyn,4.464285714285714,0.0,52.67857142857143,INF,place envision
+Carolyn,Mark S.,0.0,0.0,54.54545454545454,INF,widen absorb
+Carolyn,Mark S.,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,feel
+Mark S.,Carolyn,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,feel
+Mark S.,Carolyn,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,feel
+Mark S.,Carolyn,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,feel
+Mark S.,Carolyn,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,feel
+Mark S.,Carolyn,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Mark S.,Carolyn,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Mark S.,Carolyn,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Carolyn,Mark S.,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Carolyn,Mark S.,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Mark S.,Carolyn,2.6515151515151514,0.3787878787878788,60.60606060606061,7.0,leave be serve try say be compress
+Dr. Brown,Larissa,1.1363636363636365,1.7045454545454544,47.159090909090914,0.6666666666666666,have carry be hear
+Dr. Brown,Larissa,1.1363636363636365,1.7045454545454544,47.159090909090914,0.6666666666666666,have carry be hear
+Dr. Brown,Carolyn,2.083333333333333,4.166666666666666,56.25,0.5,tell be
+Carolyn,Bruno,3.571428571428571,1.7857142857142856,37.5,2.0,be meet
+Carolyn,Pike,2.2058823529411766,0.0,68.38235294117648,INF,find be live run
+Mark S.,Bruno,7.03125,3.90625,45.3125,1.8,be set eye
+Bruno,Carolyn,7.954545454545454,1.1363636363636365,45.45454545454545,7.0,make look liquefy wonder have make cry
+Carolyn,Bruno,7.954545454545454,1.1363636363636365,45.45454545454545,7.0,make look liquefy wonder have make cry
+Carolyn,Larissa,0.0,0.0,54.54545454545454,INF,see
+Carolyn,Bruno,0.0,0.0,40.0,INF,hold
+Carolyn,Bruno,1.7857142857142856,0.0,41.07142857142857,INF,reach
+Bruno,Carolyn,1.7857142857142856,0.0,41.07142857142857,INF,reach
+Carolyn,Bruno,0.0,4.166666666666666,45.83333333333333,0.0,tell
+Nina,Brooks,0.0,0.0,50.0,INF,
+Nina,Brooks,0.0,0.0,60.0,INF,think be start eat meet
+Nina,Brooks,0.0,0.0,60.0,INF,think be start eat meet
+Brooks,Nina,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,be be get say
+Brooks,Nina,0.0,0.0,50.0,INF,ask
+Stephen,Evelyn,3.125,0.0,46.875,INF,have arrive
+Arby,Nina,0.0,0.0,50.0,INF,stop say
+Nina,Brooks,1.7857142857142856,0.0,69.64285714285714,INF,have buy
+Evelyn,Stephen,1.9230769230769231,5.769230769230769,61.53846153846154,0.3333333333333333,be
+Evelyn,Nina,8.928571428571429,0.0,33.92857142857143,INF,know say
+Brooks,Nina,0.0,0.0,66.66666666666666,INF,have say
+Evelyn,Stephen,2.5,0.0,47.5,INF,remember have meet
+Evelyn,Stephen,3.6458333333333335,0.0,54.6875,INF,think work come have set
+Evelyn,Brooks,3.6458333333333335,0.0,54.6875,INF,think work come have set
+Stephen,Brooks,3.6458333333333335,0.0,54.6875,INF,think work come have set
+Stephen,Nina,0.0,2.7777777777777777,63.888888888888886,0.0,whisper
+Nina,Stephen,18.75,2.083333333333333,12.5,9.0,be
+Brooks,Nina,0.0,0.0,71.42857142857143,INF,propose
+Nina,Brooks,0.78125,0.78125,54.6875,1.0,be settle ask do think get marry
+Brooks,Nina,2.8846153846153846,15.384615384615385,43.269230769230774,0.1875,brush ruin
+Nina,Brooks,0.0,7.352941176470589,51.470588235294116,0.0,be lock weep
+Brooks,Nina,0.0,7.352941176470589,51.470588235294116,0.0,be lock weep
+Brooks,Nina,0.0,4.464285714285714,52.67857142857143,0.0,propose
+Nina,Brooks,0.0,0.0,54.54545454545454,INF,open see
+Lilian,Brooks,2.840909090909091,0.0,51.70454545454546,INF,say do think be
+Lilian,Brooks,2.840909090909091,0.0,51.70454545454546,INF,say do think be
+Brooks,Nina,0.0,0.0,52.94117647058824,INF,find work say
+Evelyn,Stephen,0.0,0.8928571428571428,56.25,0.0,sleep make
+Brooks,Go-Manchura,1.875,0.625,57.49999999999999,3.0,be lean read
+Go-Manchura,Nina,3.4722222222222223,0.0,52.083333333333336,INF,have love try say
+Nina,Brooks,2.430555555555556,1.0416666666666665,52.083333333333336,2.3333333333333335,have go go ask
+Brooks,Nina,2.430555555555556,1.0416666666666665,52.083333333333336,2.3333333333333335,have go go ask
+Evelyn,Nina,2.5,6.25,41.25,0.4,come call
+Nina,Brooks,2.631578947368421,0.0,55.26315789473685,INF,be stand pull
+Brooks,Nina,2.631578947368421,0.0,55.26315789473685,INF,be stand pull
+Brooks,Nina,2.631578947368421,0.0,55.26315789473685,INF,be stand pull
+Nina,Brooks,0.0,0.0,65.21739130434783,INF,brush push see be do
+Nina,Brooks,0.0,0.0,65.21739130434783,INF,brush push see be do
+Nina,Brooks,0.0,0.0,65.21739130434783,INF,brush push see be do
+Nina,Brooks,0.0,0.0,65.21739130434783,INF,brush push see be do
+Nina,Brooks,3.3333333333333335,5.833333333333333,50.83333333333333,0.5714285714285714,mean be be say
+Brooks,Nina,1.5625,0.0,65.10416666666666,INF,have pack
+Nina,Brooks,2.2058823529411766,0.0,56.61764705882353,INF,have hear come
+Brooks,Nina,2.2058823529411766,0.0,56.61764705882353,INF,have hear come
+Volvo,Nina,0.0,0.0,55.172413793103445,INF,pack open tuck
+Volvo,Nina,0.0,0.0,55.172413793103445,INF,pack open tuck
+Brooks,Nina,1.4285714285714286,4.285714285714286,57.14285714285714,0.3333333333333333,open give step-dance make get
+Brooks,Nina,1.4285714285714286,4.285714285714286,57.14285714285714,0.3333333333333333,open give step-dance make get
+Nina,Brooks,1.4285714285714286,4.285714285714286,57.14285714285714,0.3333333333333333,open give step-dance make get
+Nina,Brooks,1.4285714285714286,4.285714285714286,57.14285714285714,0.3333333333333333,open give step-dance make get
+Lilian,Brooks,0.0,0.0,42.857142857142854,INF,say
+Volvo,Brooks,0.0,0.0,68.75,INF,stand make
+Janey,Brooks,0.4166666666666667,0.0,59.583333333333336,INF,stand stand mirror twist see look
+Janey,Brooks,2.083333333333333,0.0,47.91666666666667,INF,look
+Janey,Brooks,2.380952380952381,0.0,54.761904761904766,INF,reach lift rest
+Janey,Milt,3.3333333333333335,0.8333333333333334,55.833333333333336,4.0,be go have
+Janey,Milt,2.7777777777777777,0.0,63.888888888888886,INF,book talk
+Milt,Janey,2.403846153846154,0.4807692307692308,66.34615384615384,5.0,be try save use have find
+David,Bonnie,3.804347826086957,3.804347826086957,40.21739130434783,1.0,invite come say know be
+David,Bonnie,3.804347826086957,3.804347826086957,40.21739130434783,1.0,invite come say know be
+Janey,Milt,0.0,0.0,37.5,INF,mean
+Bonnie,Janey,0.0,0.0,53.333333333333336,INF,come keep call
+Janey,Becky,0.0,0.0,45.45454545454545,INF,curl
+Janey,Becky,0.9615384615384616,0.0,60.57692307692307,INF,come be say
+Janey,Becky,0.9615384615384616,0.0,60.57692307692307,INF,come be say
+Janey,David,1.3888888888888888,0.0,65.27777777777779,INF,say see
+Janey,David,1.1904761904761905,0.0,60.71428571428571,INF,sit set stare
+Janey,David,3.125,0.0,46.875,INF,tell have stop say
+Milt,David,10.714285714285714,1.7857142857142856,44.642857142857146,6.0,be agree
+Milt,Becky,0.0,1.1363636363636365,53.40909090909091,0.0,give appraise
+Becky,Janey,0.0,0.0,50.0,INF,hear ask
+Becky,Milt,0.0,0.78125,42.96875,0.0,come
+Janey,Becky,7.954545454545454,2.272727272727273,53.40909090909091,3.5,tell be
+Janey,Milt,0.8928571428571428,0.0,63.39285714285714,INF,hold be
+Bonnie,Janey,14.285714285714285,1.7857142857142856,12.5,8.0,be
+Janey,Bonnie,6.25,0.0,43.75,INF,cover
+Janey,Becky,2.586206896551724,5.603448275862069,57.327586206896555,0.46153846153846156,nip make pull feign
+Janey,Becky,2.586206896551724,5.603448275862069,57.327586206896555,0.46153846153846156,nip make pull feign
+Becky,Janey,2.586206896551724,5.603448275862069,57.327586206896555,0.46153846153846156,nip make pull feign
+Janey,Becky,2.586206896551724,5.603448275862069,57.327586206896555,0.46153846153846156,nip make pull feign
+Olivieri,Becky,0.0,0.0,60.0,INF,find tell
+David,Janey,4.545454545454546,0.0,40.909090909090914,INF,be obsess say
+David,Janey,4.545454545454546,0.0,40.909090909090914,INF,be obsess say
+Becky,Janey,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,ask do think want
+Janey,Becky,5.0,1.25,53.75,4.0,have tell
+Becky,Janey,2.1739130434782608,1.0869565217391304,57.608695652173914,2.0,say tell have spend
+Becky,Janey,2.1739130434782608,1.0869565217391304,57.608695652173914,2.0,say tell have spend
+Becky,Janey,4.411764705882353,0.7352941176470588,41.911764705882355,6.0,tell do know be go
+Milt,Becky,7.954545454545454,3.4090909090909087,52.27272727272727,2.3333333333333335,tell say
+David,Becky,3.3333333333333335,2.9166666666666665,60.416666666666664,1.1428571428571428,take do teach do feel try imagine
+Milt,Rastin,0.0,0.0,50.0,INF,go
+Rastin,Milt,2.5,0.0,37.5,INF,say
+Janey,Becky,10.0,5.0,25.0,2.0,open
+Janey,Becky,0.0,5.357142857142857,51.78571428571429,0.0,be be hospitalize
+Janey,Becky,0.6578947368421052,0.0,51.973684210526315,INF,die go spend
+Janey,Becky,0.6578947368421052,0.0,51.973684210526315,INF,die go spend
+Janey,Milt,0.0,0.0,50.0,INF,be make
+Janey,Milt,10.416666666666668,0.0,39.58333333333333,INF,love
+Janey,Becky,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,be look
+Timotei,David,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,be rub wind
+Timotei,David,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,be rub wind
+Bonnie,David,9.722222222222223,0.0,34.72222222222222,INF,be be come
+Bonnie,David,0.0,1.7857142857142856,51.78571428571429,0.0,push rub want wear
+Bonnie,David,0.0,1.7857142857142856,51.78571428571429,0.0,push rub want wear
+David,Bonnie,0.0,1.7857142857142856,51.78571428571429,0.0,push rub want wear
+Janey,Milt,5.0,0.0,48.333333333333336,INF,be be say
+Janey,David,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be say hold
+Janey,David,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be say hold
+Janey,David,1.5625,0.0,48.4375,INF,stand
+David,Janey,4.761904761904762,5.952380952380952,60.71428571428571,0.8,watch use make feel make get
+Milt,David,4.807692307692308,1.9230769230769231,62.5,2.5,get put
+Milt,David,4.807692307692308,1.9230769230769231,62.5,2.5,get put
+David,Janey,6.944444444444445,6.944444444444445,41.66666666666667,1.0,use love
+David,Janey,0.0,0.0,55.55555555555556,INF,interrupt have
+Janey,Rastin,0.0,0.0,22.22222222222222,INF,be say sleep
+David,Becky,0.0,0.4807692307692308,53.36538461538461,0.0,put set be squish
+David,Janey,0.0,0.4807692307692308,53.36538461538461,0.0,put set be squish
+David,Becky,0.0,0.4807692307692308,53.36538461538461,0.0,put set be squish
+David,Janey,0.0,0.4807692307692308,53.36538461538461,0.0,put set be squish
+Becky,Janey,0.0,0.4807692307692308,53.36538461538461,0.0,put set be squish
+Janey,Milt,1.5625,0.0,35.9375,INF,say
+Milt,Janey,1.5625,0.0,35.9375,INF,say
+Janey,David,0.4807692307692308,0.0,41.82692307692308,INF,say use coax be work
+Janey,David,0.4807692307692308,0.0,41.82692307692308,INF,say use coax be work
+Janey,Becky,0.4807692307692308,0.0,41.82692307692308,INF,say use coax be work
+David,Becky,0.4807692307692308,0.0,41.82692307692308,INF,say use coax be work
+David,Becky,0.4807692307692308,0.0,41.82692307692308,INF,say use coax be work
+Becky,Milt,1.0416666666666665,0.0,65.625,INF,make cast say
+Becky,Milt,2.380952380952381,1.1904761904761905,44.047619047619044,2.0,be tell raise
+Becky,Margaret,3.6458333333333335,3.6458333333333335,42.70833333333333,1.0,use be know be be go be
+Margaret,Becky,3.6458333333333335,3.6458333333333335,42.70833333333333,1.0,use be know be be go be
+Janey,Milt,14.0625,1.5625,46.875,9.0,be have find
+David,Milt,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+David,Milt,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+David,Milt,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+Milt,David,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+Milt,David,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+Milt,David,4.166666666666666,2.380952380952381,45.83333333333333,1.75,ask give please please
+Janey,Becky,2.083333333333333,0.0,47.91666666666667,INF,do say
+Janey,Becky,5.978260869565218,1.6304347826086956,44.565217391304344,3.6666666666666665,say be hit know be
+Janey,Becky,5.978260869565218,1.6304347826086956,44.565217391304344,3.6666666666666665,say be hit know be
+Becky,Janey,5.978260869565218,1.6304347826086956,44.565217391304344,3.6666666666666665,say be hit know be
+Janey,Becky,5.978260869565218,1.6304347826086956,44.565217391304344,3.6666666666666665,say be hit know be
+Becky,Milt,3.75,5.625,40.625,0.6666666666666666,be say be hide
+Becky,Milt,3.75,5.625,40.625,0.6666666666666666,be say be hide
+Milt,Janey,0.0,0.0,53.84615384615385,INF,do notice cry do
+Milt,David,0.0,0.0,53.84615384615385,INF,do notice cry do
+Janey,David,0.0,0.0,53.84615384615385,INF,do notice cry do
+Christine,Bruce,1.5909090909090908,2.272727272727273,54.31818181818182,0.7,die be stall let name put
+Christine,Bruce,1.5909090909090908,2.272727272727273,54.31818181818182,0.7,die be stall let name put
+Bruce,Christine,1.5909090909090908,2.272727272727273,54.31818181818182,0.7,die be stall let name put
+Bruce,Christine,1.5909090909090908,2.272727272727273,54.31818181818182,0.7,die be stall let name put
+Christine,Sonia,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,have allow spend
+Christine,Sonia,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,have allow spend
+Christine,Sonia,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,have allow spend
+Sonia,Christine,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,have allow spend
+Kevin,Christine,2.5,0.0,47.5,INF,have slip
+Kevin,Christine,1.1363636363636365,1.1363636363636365,52.27272727272727,1.0,be
+Christine,Kevin,0.0,0.0,50.0,INF,pull
+Christine,Kevin,0.0,0.0,50.0,INF,pull
+Kevin,Christine,0.0,0.0,43.75,INF,think belong say hand
+Christine,Kevin,4.807692307692308,0.0,49.03846153846153,INF,make write
+Christine,Sonia,0.0,0.0,50.0,INF,let come see tell
+Sonia,Christine,0.0,1.2096774193548387,56.85483870967742,0.0,pick say be live
+Sonia,Christine,0.0,1.2096774193548387,56.85483870967742,0.0,pick say be live
+Sonia,Christine,0.0,0.0,46.666666666666664,INF,grab drop
+Sonia,Christine,4.166666666666666,0.0,51.388888888888886,INF,ask be go
+Rod,Sonia,0.0,0.0,58.333333333333336,INF,go do lose say
+Rod,Sonia,0.0,0.0,52.94117647058824,INF,say twist gloss shut
+Rod,Sonia,0.0,0.0,52.94117647058824,INF,say twist gloss shut
+Sonia,Christine,2.8846153846153846,0.0,50.96153846153846,INF,be be
+Christine,Sonia,1.9230769230769231,2.403846153846154,49.519230769230774,0.8,borrow ball ask
+Sonia,Christine,1.9230769230769231,2.403846153846154,49.519230769230774,0.8,borrow ball ask
+Sonia,Christine,1.9230769230769231,2.403846153846154,49.519230769230774,0.8,borrow ball ask
+Christine,Sonia,1.1363636363636365,0.3787878787878788,59.09090909090909,3.0,be sit shag eat plan
+Christine,Sonia,1.1363636363636365,0.3787878787878788,59.09090909090909,3.0,be sit shag eat plan
+Christine,Virgin Mary,0.0,7.5,42.5,0.0,let borrow
+Christine,Virgin Mary,0.0,7.5,42.5,0.0,let borrow
+Sonia,Christine,9.375,0.0,40.625,INF,hug
+Sonia,Christine,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,look roll
+Sonia,Christine,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,look roll
+Sonia,Christine,0.0,0.0,50.0,INF,go line fill tell be go let go sleep drink
+Sonia,Christine,0.0,0.0,50.0,INF,go line fill tell be go let go sleep drink
+Sonia,Christine,0.0,0.0,50.0,INF,go line fill tell be go let go sleep drink
+Sonia,Christine,0.0,0.6578947368421052,62.5,0.0,give
+Sonia,Christine,0.6578947368421052,0.0,46.71052631578947,INF,pull write
+Sonia,Christine,0.6578947368421052,0.0,46.71052631578947,INF,pull write
+Sonia,Christine,0.6578947368421052,0.0,46.71052631578947,INF,pull write
+Sonia,Christine,0.6578947368421052,0.0,46.71052631578947,INF,pull write
+Sonia,Christine,2.34375,2.34375,57.8125,1.0,hug feel
+Sonia,Christine,2.34375,2.34375,57.8125,1.0,hug feel
+Christine,Sonia,0.0,0.0,57.14285714285714,INF,hand fold
+Christine,Sonia,0.0,0.0,31.818181818181817,INF,listen
+Sonia,Christine,0.0,0.0,31.818181818181817,INF,listen
+Christine,Sonia,0.0,0.0,50.0,INF,remember feel pop
+Sonia,Christine,0.0,0.0,50.0,INF,remember feel pop
+Sonia,Christine,0.0,0.0,50.0,INF,remember feel pop
+Sonia,Christine,0.0,0.0,28.57142857142857,INF,be say
+Sonia,Bruce,11.363636363636363,0.0,25.0,INF,know say
+Bruce,Sonia,0.0,0.0,60.0,INF,look
+Sonia,Bruce,4.166666666666666,0.0,51.388888888888886,INF,think be
+Bruce,Sonia,4.166666666666666,0.0,51.388888888888886,INF,think be
+Bruce,Sonia,4.166666666666666,0.0,51.388888888888886,INF,think be
+Sonia,Bruce,0.0,5.0,45.0,0.0,do respond look
+Sonia,Bruce,0.0,0.0,25.0,INF,ask
+Christine,Bruce,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,hold write
+Bruce,Christine,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,hold write
+Bruce,Christine,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,hold write
+Christine,Bruce,0.0,0.0,53.84615384615385,INF,push curl make
+Christine,Bruce,0.0,0.0,44.44444444444444,INF,call tell
+Bruce,Christine,0.0,0.0,50.0,INF,ask
+Christine,Bruce,0.6944444444444444,0.0,54.861111111111114,INF,watch leave look press say
+Christine,Bruce,0.6944444444444444,0.0,54.861111111111114,INF,watch leave look press say
+Bruce,Christine,0.6944444444444444,0.0,54.861111111111114,INF,watch leave look press say
+Christine,Bruce,0.6944444444444444,0.0,54.861111111111114,INF,watch leave look press say
+Christine,Bruce,6.61764705882353,1.4705882352941175,41.911764705882355,4.5,feel find realize forget wonder have steal
+Christine,Bruce,6.61764705882353,1.4705882352941175,41.911764705882355,4.5,feel find realize forget wonder have steal
+Christine,Bruce,6.61764705882353,1.4705882352941175,41.911764705882355,4.5,feel find realize forget wonder have steal
+Christine,Bruce,6.61764705882353,1.4705882352941175,41.911764705882355,4.5,feel find realize forget wonder have steal
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Christine,Sonia,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Sonia,Christine,2.2448979591836733,1.3775510204081634,51.07142857142857,1.6296296296296295,say have be pick drive be leave flash feel head call dial listen call come get put step turn see fold read call tell happen lie listen talk wait drive move live want happen say see do recognize look
+Beverly,Virgin Mary,3.0555555555555554,1.9444444444444444,59.44444444444444,1.5714285714285714,have travel hear speak name be write
+Trevor,Margaret,0.0,0.0,40.909090909090914,INF,stand recline
+Trevor,Paul Farenbacher,0.0,0.0,40.909090909090914,INF,stand recline
+Margaret,Paul Farenbacher,0.0,0.0,40.909090909090914,INF,stand recline
+Bruce,Margaret,8.928571428571429,1.7857142857142856,46.42857142857143,5.0,be
+Bruce,Margaret,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,know look use
+Margaret,Bruce,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,know look use
+Margaret,Bruce,2.272727272727273,1.1363636363636365,46.590909090909086,2.0,have sell be move be
+Margaret,Bruce,0.0,0.0,63.63636363636363,INF,be choose dress be bury be celebrate
+Margaret,Bruce,0.0,0.0,63.63636363636363,INF,be choose dress be bury be celebrate
+Margaret,Bruce,0.0,0.0,63.63636363636363,INF,be choose dress be bury be celebrate
+Margaret,Bruce,0.0,0.0,63.63636363636363,INF,be choose dress be bury be celebrate
+Paul Farenbacher,Margaret,0.0,0.0,37.5,INF,use babysit
+Margaret,Trevor,5.0,0.0,41.66666666666667,INF,mean be say
+Bruce,Margaret,5.0,2.5,52.5,2.0,nestle
+Margaret,Bruce,5.0,2.5,52.5,2.0,nestle
+Margaret,Bruce,1.5625,0.0,48.4375,INF,come say
+Trevor,Margaret,0.5434782608695652,0.0,47.28260869565217,INF,turn walk set
+Paul Farenbacher,Margaret,0.0,0.0,53.57142857142857,INF,find be start come visit be
+Meredith,Margaret,10.576923076923077,0.0,43.269230769230774,INF,love say
+Meredith,Bruce,2.272727272727273,0.0,61.36363636363637,INF,help say
+Margaret,Bruce,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,do blame want move
+Margaret,Meredith,2.083333333333333,0.0,53.47222222222222,INF,say forget be
+Shane DeSouza,Tammy,0.0,0.0,57.692307692307686,INF,come say do call
+Tammy,Shane DeSouza,0.0,0.0,57.692307692307686,INF,come say do call
+Margaret,Trevor,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Margaret,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Margaret,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Margaret,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Margaret,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Margaret,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Trevor,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Trevor,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Trevor,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Trevor,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Trevor,Paul Farenbacher,1.09375,1.25,53.90625,0.875,call watch get let pour lay let peer press crawl
+Paul Farenbacher,Margaret,3.125,1.5625,45.3125,2.0,be
+Paul Farenbacher,Margaret,1.5625,0.0,35.9375,INF,be say
+Margaret,Paul Farenbacher,1.5625,3.125,51.5625,0.5,continue be assume know have
+Franny,Richard,0.8928571428571428,0.4464285714285714,59.375,2.0,be grow announce meet
+Franny,Pima,0.8928571428571428,0.4464285714285714,59.375,2.0,be grow announce meet
+Richard,Franny,0.8928571428571428,0.4464285714285714,59.375,2.0,be grow announce meet
+Richard,Pima,0.8928571428571428,0.4464285714285714,59.375,2.0,be grow announce meet
+Franny,Pima,0.8928571428571428,0.4464285714285714,59.375,2.0,be grow announce meet
+Franny,Pima,0.0,1.0416666666666665,57.291666666666664,0.0,have decaffeinate have stir
+Franny,Pima,4.3478260869565215,1.6304347826086956,54.891304347826086,2.6666666666666665,seem make dart
+Franny,Pima,6.666666666666667,0.0,40.0,INF,invite know want meet
+Franny,Pima,6.666666666666667,0.0,40.0,INF,invite know want meet
+Richard,Franny,5.46875,5.46875,45.3125,1.0,talk do play
+Richard,Pima,0.0,0.0,45.45454545454545,INF,have talk tell
+Franny,Pima,4.605263157894736,2.631578947368421,45.39473684210527,1.75,say tell be talk
+Franny,Richard,4.605263157894736,2.631578947368421,45.39473684210527,1.75,say tell be talk
+Pima,Richard,4.605263157894736,2.631578947368421,45.39473684210527,1.75,say tell be talk
+Franny,Pima,0.0,0.0,71.42857142857143,INF,glance be examine find sort
+Franny,Pima,1.7857142857142856,5.357142857142857,50.0,0.3333333333333333,hate see
+Franny,Pima,4.166666666666666,4.861111111111112,68.75,0.8571428571428571,know be cheat say hold
+Pima,Richard,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,have shut tell feel
+Pima,Franny,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,have shut tell feel
+Richard,Franny,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,have shut tell feel
+Richard,Franny,1.7857142857142856,3.571428571428571,44.642857142857146,0.5,be be sleep be live
+Richard,Franny,1.7857142857142856,3.571428571428571,44.642857142857146,0.5,be be sleep be live
+Richard,Pima,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,be happen
+Richard,Pima,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,be happen
+Richard,Pima,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Richard,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Richard,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Pima,Richard,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Pima,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Pima,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Richard,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Richard,Franny,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,live be want get marry
+Franny,Pima,5.0,15.0,40.0,0.3333333333333333,be
+Pima,Franny,1.9230769230769231,0.0,59.61538461538461,INF,turn mean hold be
+Pima,Franny,4.166666666666666,2.604166666666667,47.39583333333333,1.6,be suppose know stop want try respond
+Franny,Pima,0.4464285714285714,0.0,42.410714285714285,INF,watch say pay
+Franny,Richard,6.25,1.9886363636363635,37.215909090909086,3.142857142857143,have turn have look have tell be be expect
+Franny,Richard,6.25,1.9886363636363635,37.215909090909086,3.142857142857143,have turn have look have tell be be expect
+Pima,Richard,8.333333333333332,0.0,25.0,INF,be
+Franny,Richard,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,meet be
+Franny,Pima,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,meet be
+Richard,Pima,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,meet be
+Steve,Franny,1.7045454545454544,2.272727272727273,55.11363636363637,0.75,be duck
+Steve,Franny,1.7045454545454544,2.272727272727273,55.11363636363637,0.75,be duck
+Franny,Steve,3.787878787878788,0.0,53.78787878787878,INF,have start come have promise be write
+Steve,Richard,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Steve,Pima,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Steve,Franny,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Steve,Richard,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Steve,Pima,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Steve,Franny,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Richard,Pima,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Richard,Franny,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Pima,Franny,2.380952380952381,2.083333333333333,47.91666666666667,1.1428571428571428,introduce meet
+Richard,Steve,1.1363636363636365,0.0,44.31818181818182,INF,use say
+Richard,Pima,1.1363636363636365,0.0,44.31818181818182,INF,use say
+Steve,Pima,1.1363636363636365,0.0,44.31818181818182,INF,use say
+Richard,Franny,0.0,0.0,50.0,INF,ask nod
+Richard,Franny,0.0,0.0,25.0,INF,ask
+Pima,Richard,4.017857142857143,0.0,49.55357142857143,INF,be captivate be announce
+Pima,Franny,0.0,0.0,57.89473684210527,INF,pour hand top
+Richard,Franny,0.0,0.0,55.55555555555556,INF,look laugh
+Pima,Franny,1.9736842105263157,0.0,55.92105263157895,INF,walk stand be lean
+Pima,Richard,1.9736842105263157,0.0,55.92105263157895,INF,walk stand be lean
+Franny,Richard,1.9736842105263157,0.0,55.92105263157895,INF,walk stand be lean
+Franny,Richard,0.43103448275862066,2.586206896551724,59.05172413793104,0.16666666666666666,leave say feel have
+Franny,Pima,0.43103448275862066,2.586206896551724,59.05172413793104,0.16666666666666666,leave say feel have
+Richard,Pima,0.43103448275862066,2.586206896551724,59.05172413793104,0.16666666666666666,leave say feel have
+Franny,Richard,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be curl fold
+Franny,Pima,4.6875,0.5208333333333333,53.125,9.0,focus hold say love be
+Franny,Pima,2.272727272727273,0.0,52.27272727272727,INF,tell invite
+Franny,Pima,3.289473684210526,0.0,54.60526315789473,INF,think be say be extend
+Richard,Franny,0.0,0.0,33.33333333333333,INF,say have tell
+Richard,Franny,0.0,1.3888888888888888,43.05555555555556,0.0,pin relax
+Franny,Pima,3.8461538461538463,1.9230769230769231,63.46153846153846,2.0,think have lick
+Franny,Pima,2.127659574468085,0.7978723404255319,52.3936170212766,2.6666666666666665,have say be be feel start shake make be make
+Pima,Franny,2.127659574468085,0.7978723404255319,52.3936170212766,2.6666666666666665,have say be be feel start shake make be make
+Pima,Franny,2.127659574468085,0.7978723404255319,52.3936170212766,2.6666666666666665,have say be be feel start shake make be make
+Pima,Richard,5.357142857142857,1.7857142857142856,59.523809523809526,3.0,be turn be lick
+Franny,Pima,0.0,0.0,60.0,INF,look
+Franny,Pima,8.653846153846153,4.807692307692308,32.69230769230769,1.8,know
+Richard,Pima,0.0,0.0,42.857142857142854,INF,tell begin
+Franny,Pima,0.0,0.0,57.14285714285714,INF,watch
+Pima,Franny,7.6866666666666665,2.313333333333333,56.666666666666664,3.3227665706051877,think be move
+Franny,Pima,8.333333333333332,0.0,41.66666666666667,INF,take
+Pima,Franny,0.9259259259259258,0.4629629629629629,54.166666666666664,2.0,look see move think be go spit
+Franny,Pima,0.9259259259259258,0.4629629629629629,54.166666666666664,2.0,look see move think be go spit
+Franny,Richard,4.464285714285714,0.0,45.535714285714285,INF,go find peel
+Franny,Pima,11.11111111111111,0.0,66.66666666666666,INF,say be
+Stu,Olivia,0.6578947368421052,3.9473684210526314,53.289473684210535,0.16666666666666666,be come
+Olivia,Robin,0.0,0.0,55.55555555555556,INF,feed say
+Robin,Olivia,8.333333333333332,2.083333333333333,56.25,4.0,make roll throw
+Robin,Olivia,8.333333333333332,2.083333333333333,56.25,4.0,make roll throw
+Robin,Keane,0.78125,0.0,67.96875,INF,say get
+Stu,Olivia,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,have invite mean
+Olivia,Robin,1.1363636363636365,0.0,53.40909090909091,INF,get tell happen
+Robin,Buddha,0.9146341463414633,0.6097560975609756,66.76829268292683,1.5,clean say get be fill
+Stu,Olivia,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,be live
+Olivia,Stu,7.211538461538461,0.4807692307692308,50.0,15.0,watch rip amuse look be watch
+Stu,Olivia,0.0,2.380952380952381,59.523809523809526,0.0,do take say
+Stu,Morgan,0.0,2.380952380952381,59.523809523809526,0.0,do take say
+Olivia,Stu,0.0,2.380952380952381,59.523809523809526,0.0,do take say
+Olivia,Morgan,0.0,2.380952380952381,59.523809523809526,0.0,do take say
+Stu,Morgan,0.0,2.380952380952381,59.523809523809526,0.0,do take say
+Morgan,Olivia,4.166666666666666,0.0,57.738095238095234,INF,look shake say think read
+Morgan,Olivia,4.166666666666666,0.0,57.738095238095234,INF,look shake say think read
+Morgan,Olivia,4.166666666666666,0.0,57.738095238095234,INF,look shake say think read
+Morgan,Olivia,4.166666666666666,0.0,57.738095238095234,INF,look shake say think read
+Morgan,Olivia,1.5625,0.0,54.6875,INF,place reach
+Robin,Olivia,0.625,3.75,60.62499999999999,0.16666666666666666,sit smile be pinch
+Robin,Olivia,0.625,3.75,60.62499999999999,0.16666666666666666,sit smile be pinch
+Robin,CBC,2.941176470588235,2.5735294117647056,50.36764705882353,1.1428571428571428,have be be be have hear have make
+Robin,Olivia,2.941176470588235,2.5735294117647056,50.36764705882353,1.1428571428571428,have be be be have hear have make
+CBC,Olivia,2.941176470588235,2.5735294117647056,50.36764705882353,1.1428571428571428,have be be be have hear have make
+Olivia,Morgan,0.0,0.0,42.857142857142854,INF,take
+Robin,Olivia,1.7857142857142856,5.357142857142857,57.14285714285714,0.3333333333333333,have do say
+Stu,Olivia,0.0,0.0,33.33333333333333,INF,be
+Olivia,Morgan,0.0,0.0,42.30769230769231,INF,come hand take
+Olivia,Stu,0.0,0.0,42.30769230769231,INF,come hand take
+Morgan,Olivia,0.0,0.0,42.30769230769231,INF,come hand take
+Morgan,Stu,0.0,0.0,42.30769230769231,INF,come hand take
+Olivia,Stu,0.0,0.0,42.30769230769231,INF,come hand take
+Olivia,Stu,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,make mash
+Stu,Olivia,0.4807692307692308,2.403846153846154,43.269230769230774,0.2,make mash
+Robin,Olivia,0.0,0.0,60.0,INF,find reach be save sink
+Robin,Olivia,0.0,0.0,60.0,INF,find reach be save sink
+Olivia,Robin,3.75,0.0,66.25,INF,have die have hold have allow
+Olivia,Julie,5.0,0.0,15.0,INF,name
+Stu,Olivia,1.3888888888888888,0.0,54.166666666666664,INF,leave want go check
+Stu,Robin,1.3888888888888888,0.0,54.166666666666664,INF,leave want go check
+Stu,Olivia,1.3888888888888888,0.0,54.166666666666664,INF,leave want go check
+Olivia,Robin,1.3888888888888888,0.0,54.166666666666664,INF,leave want go check
+Robin,Olivia,1.3888888888888888,0.0,54.166666666666664,INF,leave want go check
+Robin,Olivia,3.4090909090909087,1.1363636363636365,50.0,3.0,fall have be hit
+Robin,Olivia,0.0,4.464285714285714,52.67857142857143,0.0,meet be talk
+Keane,Robin,0.0,1.1363636363636365,71.5909090909091,0.0,say come
+Robin,Keane,1.6891891891891893,0.0,52.36486486486487,INF,think have pass sit put say
+Maggie,Robin,2.083333333333333,0.0,56.25,INF,leave call
+Robin,Maggie,6.25,3.125,40.625,2.0,stop worry
+Robin,Maggie,0.0,3.6764705882352944,49.26470588235294,0.0,tell have go
+Maggie,Robin,0.0,8.928571428571429,48.214285714285715,0.0,go hiss
+Maggie,Buddha,2.0,0.0,62.0,INF,have seal have leak pour

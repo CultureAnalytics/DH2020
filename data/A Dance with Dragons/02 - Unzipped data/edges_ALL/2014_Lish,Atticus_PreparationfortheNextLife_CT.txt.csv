@@ -1,0 +1,686 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Sophia,Zou Lei,0.4166666666666667,0.0,39.58333333333333,INF,be let ask be be
+Zou Lei,Sophia,0.4166666666666667,0.0,39.58333333333333,INF,be let ask be be
+Zou Lei,Sophia,0.4166666666666667,0.0,39.58333333333333,INF,be let ask be be
+Zou Lei,Sophia,0.4166666666666667,0.0,39.58333333333333,INF,be let ask be be
+Zou Lei,Maria,4.761904761904762,2.380952380952381,54.761904761904766,2.0,show say buy
+KTV,Zou Lei,1.6304347826086956,1.6304347826086956,58.69565217391305,1.0,have go work sing drink gather bowl drip weave string travel turn
+Skinner,McDonald 's,1.3888888888888888,0.0,65.27777777777779,INF,watch go
+Skinner,Red Bull,0.4629629629629629,3.7037037037037033,62.5,0.125,go pull get
+Red Bull,Skinner,2.5,2.5,55.00000000000001,1.0,have empty throw drum have freeze
+Red Bull,Skinner,2.5,2.5,55.00000000000001,1.0,have empty throw drum have freeze
+Red Bull,Skinner,2.5,2.5,55.00000000000001,1.0,have empty throw drum have freeze
+Skinner,Abu Ghraib,1.3157894736842104,0.0,40.78947368421053,INF,watch eat
+Dominguez,Lawson,1.1363636363636365,4.545454545454546,48.86363636363637,0.25,shove say lift
+Dominguez,Lawson,1.1363636363636365,4.545454545454546,48.86363636363637,0.25,shove say lift
+Lawson,Skinner,4.464285714285714,1.7857142857142856,65.17857142857143,2.5,jerk feel hit
+Lawson,Skinner,4.464285714285714,1.7857142857142856,65.17857142857143,2.5,jerk feel hit
+Skinner,Sconyers,5.681818181818182,1.1363636363636365,38.63636363636363,5.0,give heave
+Skinner,Sconyers,5.681818181818182,1.1363636363636365,38.63636363636363,5.0,give heave
+Sconyers,Skinner,5.681818181818182,1.1363636363636365,38.63636363636363,5.0,give heave
+Graziano,Battleaxe,0.625,0.0,54.37499999999999,INF,speak say say
+Skinner,Graziano,0.0,0.0,62.5,INF,hear say
+Skinner,Graziano,0.0,0.0,62.5,INF,hear say
+Skinner,Sconyers,3.8461538461538463,0.0,42.30769230769231,INF,be try lift try help
+Skinner,Sconyers,3.8461538461538463,0.0,42.30769230769231,INF,be try lift try help
+Skinner,Jake,1.6304347826086956,0.0,37.5,INF,help come run swing
+Skinner,Jake,1.6304347826086956,0.0,37.5,INF,help come run swing
+Skinner,Jake,11.11111111111111,1.3888888888888888,43.05555555555556,8.0,have be evacuate save
+Skinner,Jake,3.787878787878788,0.0,50.75757575757576,INF,let believe be be plan buy go stop-loss
+Skinner,Jake,3.787878787878788,0.0,50.75757575757576,INF,let believe be be plan buy go stop-loss
+Skinner,Jake,3.787878787878788,0.0,50.75757575757576,INF,let believe be be plan buy go stop-loss
+Jake,Skinner,3.787878787878788,0.0,50.75757575757576,INF,let believe be be plan buy go stop-loss
+Jake,Skinner,5.769230769230769,3.8461538461538463,51.92307692307693,1.5,email skin be
+Skinner,Red Bull,1.1363636363636365,3.4090909090909087,68.18181818181817,0.3333333333333333,go get
+Skinner,Red Bull,1.3888888888888888,1.8518518518518516,52.31481481481482,0.75,force come drink move
+Skinner,Red Bull,1.3888888888888888,1.8518518518518516,52.31481481481482,0.75,force come drink move
+Skinner,Red Bull,1.3888888888888888,1.8518518518518516,52.31481481481482,0.75,force come drink move
+Zou Lei,Skinner,0.4032258064516129,2.0161290322580645,58.87096774193549,0.2,do move go rejoin say be take
+Zou Lei,Skinner,0.4032258064516129,2.0161290322580645,58.87096774193549,0.2,do move go rejoin say be take
+Skinner,Zou Lei,2.604166666666667,1.5625,62.5,1.6666666666666667,wait tend come
+Skinner,Zou Lei,0.0,0.0,47.82608695652174,INF,yell try hold be begin wrestle
+Skinner,Zou Lei,0.0,0.0,47.82608695652174,INF,yell try hold be begin wrestle
+Zou Lei,Skinner,0.8333333333333334,0.0,59.166666666666664,INF,come take pull
+Skinner,Zou Lei,0.8333333333333334,0.0,59.166666666666664,INF,come take pull
+Skinner,Zou Lei,0.8928571428571428,0.0,63.39285714285714,INF,hand take
+Skinner,Zou Lei,0.8928571428571428,0.0,63.39285714285714,INF,hand take
+Zou Lei,Skinner,0.9615384615384616,0.0,52.88461538461539,INF,take walk
+Skinner,Zou Lei,0.9615384615384616,0.0,52.88461538461539,INF,take walk
+Skinner,Zou Lei,0.0,0.0,60.0,INF,ask
+Lincoln,Skinner,0.29069767441860467,1.1627906976744187,47.383720930232556,0.25,pull wave get dangle
+Lincoln,Zou Lei,0.29069767441860467,1.1627906976744187,47.383720930232556,0.25,pull wave get dangle
+Skinner,Zou Lei,0.29069767441860467,1.1627906976744187,47.383720930232556,0.25,pull wave get dangle
+Skinner,Zou Lei,0.0,0.0,60.0,INF,ask
+Skinner,Zou Lei,0.8928571428571428,0.0,49.107142857142854,INF,jump watch run
+Skinner,Zou Lei,0.8928571428571428,0.0,49.107142857142854,INF,jump watch run
+Skinner,KFC,0.8928571428571428,0.0,49.107142857142854,INF,jump watch run
+Zou Lei,KFC,0.8928571428571428,0.0,49.107142857142854,INF,jump watch run
+Zou Lei,KFC,0.8928571428571428,0.0,49.107142857142854,INF,jump watch run
+Zou Lei,Skinner,1.3888888888888888,0.0,59.72222222222222,INF,be work have meet
+Zou Lei,Roosevelt,1.3888888888888888,0.0,59.72222222222222,INF,be work have meet
+Skinner,Roosevelt,1.3888888888888888,0.0,59.72222222222222,INF,be work have meet
+Jimmy,Skinner,1.6025641025641024,2.2435897435897436,67.94871794871796,0.7142857142857143,roll look wear engrave
+Zou Lei,Kissena,0.0,0.0,48.0,INF,see ban
+Zou Lei,Roosevelt,0.0,0.0,63.1578947368421,INF,go cut
+Angela,Kay,4.779411764705882,1.8382352941176472,58.08823529411765,2.6,be have be speak mean masturbate
+Sassoon,Polo,0.625,0.0,44.375,INF,get go sit
+Sassoon,Angela,0.0,1.25,58.75,0.0,be
+Polo,Sassoon,2.232142857142857,0.0,37.05357142857143,INF,demonstrate chew glisten gaze
+Polo,Sassoon,2.232142857142857,0.0,37.05357142857143,INF,demonstrate chew glisten gaze
+Polo,Zou Lei,5.46875,0.78125,62.5,7.0,review say be
+Polo,Sassoon,2.083333333333333,0.0,47.91666666666667,INF,be speak
+Cardozo,Kay,1.9230769230769231,0.0,44.230769230769226,INF,speak
+Cardozo,Angela,1.9230769230769231,0.0,44.230769230769226,INF,speak
+Kay,Angela,1.9230769230769231,0.0,44.230769230769226,INF,speak
+Lem,Polo,13.636363636363635,1.1363636363636365,39.77272727272727,12.0,make
+Sassoon,Zou Lei,0.0,5.0,41.66666666666667,0.0,start throw yell demand come
+Sassoon,Skinner,0.0,5.0,41.66666666666667,0.0,start throw yell demand come
+Zou Lei,Skinner,0.0,5.0,41.66666666666667,0.0,start throw yell demand come
+Skinner,Mrs. Murphy,5.357142857142857,0.8928571428571428,58.03571428571429,6.0,hold have give
+Skinner,Mrs. Murphy,5.357142857142857,0.8928571428571428,58.03571428571429,6.0,hold have give
+Mrs. Murphy,Skinner,5.357142857142857,0.8928571428571428,58.03571428571429,6.0,hold have give
+Abu Ghraib,CNN,7.291666666666667,1.0416666666666665,41.66666666666667,7.0,have come
+Jimmy,Patrick,1.0135135135135136,0.0,61.14864864864865,INF,grow wear stand shut wait say let have
+Jimmy,Patrick,1.0135135135135136,0.0,61.14864864864865,INF,grow wear stand shut wait say let have
+Jimmy,Patrick,1.0135135135135136,0.0,61.14864864864865,INF,grow wear stand shut wait say let have
+Patrick,Elvis,1.0869565217391304,0.0,72.82608695652173,INF,crawl look fall
+Patrick,Elvis,1.0869565217391304,0.0,72.82608695652173,INF,crawl look fall
+Jimmy,Patrick,9.090909090909092,5.681818181818182,57.95454545454546,1.6,be
+Cardozo,Jimmy,0.0,2.976190476190476,58.92857142857143,0.0,tell be register
+Cardozo,Jimmy,0.0,2.976190476190476,58.92857142857143,0.0,tell be register
+Jimmy,Turner,4.166666666666666,1.0416666666666665,65.625,4.0,be imply have be have batter remember
+Turner,Jimmy,4.166666666666666,1.0416666666666665,65.625,4.0,be imply have be have batter remember
+Maria,Erin,0.0,1.6666666666666667,58.333333333333336,0.0,touch say
+Erin,Patrick,0.0,2.8846153846153846,50.96153846153846,0.0,avoid be
+Erin,Patrick,0.0,2.8846153846153846,50.96153846153846,0.0,avoid be
+Patrick,Erin,0.0,2.8846153846153846,50.96153846153846,0.0,avoid be
+Erin,Patrick,0.0,2.8846153846153846,50.96153846153846,0.0,avoid be
+Erin,Patrick,1.282051282051282,0.9615384615384616,43.91025641025641,1.3333333333333333,play speak scream scream cry scream be
+Erin,Jerry,1.282051282051282,0.9615384615384616,43.91025641025641,1.3333333333333333,play speak scream scream cry scream be
+Erin,Patrick,1.282051282051282,0.9615384615384616,43.91025641025641,1.3333333333333333,play speak scream scream cry scream be
+Erin,Jerry,1.282051282051282,0.9615384615384616,43.91025641025641,1.3333333333333333,play speak scream scream cry scream be
+Patrick,Jerry,1.282051282051282,0.9615384615384616,43.91025641025641,1.3333333333333333,play speak scream scream cry scream be
+Erin,Maria,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,run see be be marry be move
+Maria,Erin,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,run see be be marry be move
+Maria,Erin,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,run see be be marry be move
+Maria,Erin,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,run see be be marry be move
+Erin,Christ,0.0,6.944444444444445,48.61111111111111,0.0,put
+Erin,Christ,0.0,6.944444444444445,48.61111111111111,0.0,put
+Erin,Jimmy,1.25,0.625,43.125,2.0,come say be do
+Erin,Jimmy,2.314814814814815,2.314814814814815,65.74074074074075,1.0,see be cover be have draw
+Erin,Jimmy,2.314814814814815,2.314814814814815,65.74074074074075,1.0,see be cover be have draw
+Erin,Jimmy,2.314814814814815,2.314814814814815,65.74074074074075,1.0,see be cover be have draw
+Erin,Jimmy,0.0,1.25,48.75,0.0,say talk
+Erin,Jimmy,4.861111111111112,6.25,55.55555555555556,0.7777777777777778,be trust say
+Erin,Jimmy,4.861111111111112,6.25,55.55555555555556,0.7777777777777778,be trust say
+Erin,Jimmy,4.861111111111112,6.25,55.55555555555556,0.7777777777777778,be trust say
+Feeney,Patrick,2.272727272727273,0.0,43.18181818181818,INF,have shoot
+Feeney,Patrick,2.272727272727273,0.0,43.18181818181818,INF,have shoot
+Jimmy,Mrs. Murphy,4.545454545454546,0.0,59.09090909090909,INF,be raise steal say
+Jim,Jimmy,1.6891891891891893,3.7162162162162162,51.35135135135135,0.45454545454545453,do seem understand be mean be mean
+Mrs. Murphy,Jimmy,1.25,4.375,69.375,0.2857142857142857,tell see
+Mrs. Murphy,Jimmy,1.25,4.375,69.375,0.2857142857142857,tell see
+Jimmy,Mrs. Murphy,1.25,4.375,69.375,0.2857142857142857,tell see
+Mrs. Murphy,Jimmy,1.25,4.375,69.375,0.2857142857142857,tell see
+Frankie,Franklin,0.0,0.0,30.76923076923077,INF,
+Muslim,Zou Lei,6.25,0.0,68.75,INF,meet have tell
+Muslim,Kissena,6.25,0.0,68.75,INF,meet have tell
+Zou Lei,Kissena,6.25,0.0,68.75,INF,meet have tell
+Muslim,Trini,1.2195121951219512,3.6585365853658534,43.90243902439025,0.3333333333333333,go be be think be
+Polo,Sassoon,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,be clear allow go scan catch be
+Sassoon,Caldor,0.0,0.0,41.17647058823529,INF,see hurry take
+Sassoon,Caldor,0.0,0.0,41.17647058823529,INF,see hurry take
+Caldor,Sassoon,0.0,0.0,41.17647058823529,INF,see hurry take
+Caldor,Sassoon,0.0,0.0,41.17647058823529,INF,see hurry take
+Skinner,Kissena,0.0,4.464285714285714,66.96428571428571,0.0,go order fry
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Johnny,Skinner,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Skinner,Johnny,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Skinner,Johnny,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Skinner,Johnny,1.25,3.4375000000000004,57.8125,0.36363636363636365,stagger have clean use be go take tell have be
+Skinner,Johnny,0.0,0.0,57.14285714285714,INF,say point
+Johnny,Skinner,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,be lean talk
+Johnny,Skinner,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,be lean talk
+Skinner,Port Authority,3.0,0.5,60.5,6.0,have be drink have take drink
+Skinner,Roosevelt,0.0,0.0,80.0,INF,look
+Skinner,Fratelli,0.0,0.0,60.0,INF,go pay find drink eat
+Skinner,Fratelli,0.0,0.0,60.0,INF,go pay find drink eat
+Mrs. Murphy,Skinner,0.0,0.0,64.28571428571429,INF,come come tell come
+Skinner,Mrs. Murphy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Skinner,Mrs. Murphy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Skinner,Mrs. Murphy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Mrs. Murphy,Skinner,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Skinner,Mrs. Murphy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Skinner,Mrs. Murphy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,give set
+Patrick,NFL,0.0,0.0,56.25,INF,be be
+Mrs. Murphy,Vicky,0.0,0.0,40.0,INF,be
+Vicky,Skinner,6.25,3.125,40.625,2.0,cut
+Vicky,Skinner,6.25,3.125,40.625,2.0,cut
+Vicky,Erin,2.0,2.5,55.50000000000001,0.8,indicate be stand lean
+Erin,Vicky,2.0,2.5,55.50000000000001,0.8,indicate be stand lean
+Patrick,Erin,2.5,3.75,63.74999999999999,0.6666666666666666,glance try get see have
+Patrick,Erin,2.5,3.75,63.74999999999999,0.6666666666666666,glance try get see have
+Patrick,Erin,2.5,3.75,63.74999999999999,0.6666666666666666,glance try get see have
+John,Vicky,6.25,0.0,43.75,INF,indicate say know play
+John,Mrs. Murphy,0.0,0.0,28.57142857142857,INF,be say
+Mrs. Murphy,Vicky,0.0,0.78125,42.96875,0.0,hand take talk
+Erin,John,3.571428571428571,5.357142857142857,62.5,0.6666666666666666,ask be have
+Skinner,Mrs. Murphy,3.4722222222222223,0.0,52.083333333333336,INF,stare look see say
+Skinner,Mrs. Murphy,3.4722222222222223,0.0,52.083333333333336,INF,stare look see say
+Skinner,John,0.0,0.0,50.0,INF,be go fuck say laugh
+Lem,Roosevelt,4.6875,1.5625,62.5,3.0,go buy
+Brad,Jake,1.7857142857142856,0.0,41.07142857142857,INF,hear scream
+Sconyers,Skinner,4.545454545454546,5.681818181818182,44.31818181818182,0.8,be die be reach
+Sconyers,Skinner,4.545454545454546,5.681818181818182,44.31818181818182,0.8,be die be reach
+Skinner,Mr. Murphy,1.744186046511628,2.0348837209302326,61.337209302325576,0.8571428571428571,track freeze hide wait listen be have be get drive
+Skinner,Mr. Murphy,1.744186046511628,2.0348837209302326,61.337209302325576,0.8571428571428571,track freeze hide wait listen be have be get drive
+Mr. Murphy,Berretta,0.0,3.8461538461538463,65.38461538461539,0.0,put wear
+Berretta,Mr. Murphy,0.0,3.8461538461538463,65.38461538461539,0.0,put wear
+Skinner,Dunkin Donuts,0.8333333333333334,0.0,59.166666666666664,INF,make get
+Skinner,Zou Lei,0.0,0.0,68.96551724137932,INF,step come step come
+Skinner,Zou Lei,0.0,0.0,68.96551724137932,INF,step come step come
+Skinner,Zou Lei,0.0,0.0,68.96551724137932,INF,step come step come
+Skinner,Zou Lei,0.0,0.0,68.96551724137932,INF,step come step come
+Zou Lei,Skinner,0.0,0.0,68.96551724137932,INF,step come step come
+Zou Lei,Skinner,0.0,0.0,68.96551724137932,INF,step come step come
+Zou Lei,Skinner,0.0,0.0,68.96551724137932,INF,step come step come
+Zou Lei,Skinner,0.0,0.0,68.96551724137932,INF,step come step come
+Skinner,Zou Lei,2.941176470588235,0.0,55.88235294117647,INF,lay move
+Sunnie,Zou Lei,2.083333333333333,1.5625,46.35416666666667,1.3333333333333333,have take
+Sunnie,Angela,1.5625,1.5625,59.375,1.0,stare
+Angela,Zou Lei,2.8846153846153846,0.0,50.96153846153846,INF,have hold
+Zou Lei,Angela,1.6666666666666667,0.0,31.666666666666664,INF,manage tell manage
+Zou Lei,Angela,2.272727272727273,0.7575757575757576,60.60606060606061,3.0,call start talk come sigh
+Zou Lei,Angela,2.272727272727273,0.7575757575757576,60.60606060606061,3.0,call start talk come sigh
+Angela,Zou Lei,2.272727272727273,0.7575757575757576,60.60606060606061,3.0,call start talk come sigh
+Zou Lei,Angela,2.272727272727273,0.7575757575757576,60.60606060606061,3.0,call start talk come sigh
+Angela,Zou Lei,0.0,0.0,33.33333333333333,INF,agree meet
+Angela,McDonald 's,0.0,0.0,33.33333333333333,INF,agree meet
+Zou Lei,McDonald 's,0.0,0.0,33.33333333333333,INF,agree meet
+Angela,McDonald 's,2.0161290322580645,2.82258064516129,56.451612903225815,0.7142857142857143,shutter be cover see think resemble tattoo
+McDonald 's,Angela,2.0161290322580645,2.82258064516129,56.451612903225815,0.7142857142857143,shutter be cover see think resemble tattoo
+Skinner,Angela,7.352941176470589,2.941176470588235,48.529411764705884,2.5,behave thank come hide
+Angela,Skinner,7.352941176470589,2.941176470588235,48.529411764705884,2.5,behave thank come hide
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Angela,Skinner,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Angela,Skinner,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,4.741379310344827,1.7241379310344827,55.603448275862064,2.75,buy start tell become tell stop eat
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Angela,Skinner,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,0.8333333333333334,0.5555555555555556,60.83333333333333,1.5,sit hold talk listen lean ride show
+Skinner,Angela,4.861111111111112,2.083333333333333,54.166666666666664,2.3333333333333335,scan come rest
+Skinner,Port Authority,0.0,0.0,58.333333333333336,INF,take
+Jimmy,Erin,3.048780487804878,4.573170731707317,50.91463414634146,0.6666666666666666,enter smell smell be contract
+Jimmy,Erin,3.048780487804878,4.573170731707317,50.91463414634146,0.6666666666666666,enter smell smell be contract
+Jimmy,Erin,0.5434782608695652,1.0869565217391304,72.28260869565217,0.5,come walk carry
+Jimmy,Mrs. Murphy,4.166666666666666,0.0,56.94444444444444,INF,put go hug
+Jimmy,Mrs. Murphy,4.166666666666666,0.0,56.94444444444444,INF,put go hug
+Jimmy,Fratelli,0.5952380952380952,0.2976190476190476,51.488095238095234,2.0,take do talk debate have be have order
+Jimmy,Fratelli,0.5952380952380952,0.2976190476190476,51.488095238095234,2.0,take do talk debate have be have order
+Jimmy,Fratelli,0.5952380952380952,0.2976190476190476,51.488095238095234,2.0,take do talk debate have be have order
+Jimmy,Fratelli,0.5952380952380952,0.2976190476190476,51.488095238095234,2.0,take do talk debate have be have order
+Patrick,Jimmy,2.1739130434782608,3.804347826086957,59.2391304347826,0.5714285714285714,be hear be
+Jimmy,Mrs. Murphy,0.6578947368421052,0.0,62.5,INF,be go say be get get
+Mrs. Murphy,Jimmy,0.6578947368421052,0.0,62.5,INF,be go say be get get
+Jimmy,Patrick,0.8333333333333334,1.6666666666666667,64.16666666666667,0.5,be get work
+Jimmy,Patrick,0.8333333333333334,1.6666666666666667,64.16666666666667,0.5,be get work
+Jim,Patrick,2.7777777777777777,0.0,52.77777777777778,INF,use hide call
+Jim,Patrick,2.7777777777777777,0.0,52.77777777777778,INF,use hide call
+Patrick,Feeney,2.34375,0.0,53.90625,INF,go work
+Zou Lei,Skinner,3.125,0.0,46.875,INF,be work say
+Mr. Murphy,Jimmy,4.166666666666666,3.125,67.70833333333334,1.3333333333333333,be be be free
+Patrick,Dunkin Donuts,2.083333333333333,0.6944444444444444,50.0,3.0,go wait
+Patrick,Frankie,0.78125,0.0,55.46875,INF,come be play be fine-tune
+Patrick,Jimmy,0.78125,0.0,55.46875,INF,come be play be fine-tune
+Frankie,Jimmy,0.78125,0.0,55.46875,INF,come be play be fine-tune
+Jimmy,Patrick,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Patrick,Jimmy,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Patrick,Jimmy,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Patrick,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Patrick,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Patrick,Jimmy,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Jimmy,Erin,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Erin,Jimmy,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Erin,Jimmy,1.0638297872340425,1.8617021276595744,60.90425531914894,0.5714285714285714,do tell watch say be hang come say be
+Skinner,Jimmy,5.921052631578947,0.0,67.76315789473685,INF,meet have become
+Jimmy,Skinner,5.921052631578947,0.0,67.76315789473685,INF,meet have become
+Skinner,Zou Lei,0.0,0.0,60.86956521739131,INF,go watch come catch
+Zou Lei,Skinner,0.0,0.0,60.86956521739131,INF,go watch come catch
+Skinner,Erin,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Erin,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Erin,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Mrs. Murphy,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Mrs. Murphy,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Mrs. Murphy,Skinner,0.9057971014492754,0.7246376811594203,57.789855072463766,1.25,have go hear talk hear go become be grow realize be be be live be
+Skinner,Zhuojin,1.3392857142857142,1.3392857142857142,43.75,1.0,cover get pay
+Zhuojin,Skinner,1.3392857142857142,1.3392857142857142,43.75,1.0,cover get pay
+Skinner,Sassoon,0.0,0.0,56.25,INF,make ask be record
+Sassoon,Skinner,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Sassoon,Zhuojin,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Sassoon,Zou Lei,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Skinner,Zhuojin,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Skinner,Zou Lei,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Zhuojin,Zou Lei,4.62962962962963,0.0,47.22222222222222,INF,dismiss arrive lead wonder be get pay
+Skinner,Zhuojin,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Skinner,Zou Lei,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Zhuojin,Skinner,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Zhuojin,Zou Lei,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Zhuojin,Skinner,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Skinner,Zou Lei,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Zou Lei,Skinner,0.0,1.5625,52.604166666666664,0.0,urge go refuse suggest be attempt con
+Skinner,Zhuojin,0.0,3.8461538461538463,42.30769230769231,0.0,ask mind let
+Zhuojin,Skinner,0.0,3.8461538461538463,42.30769230769231,0.0,ask mind let
+Zhuojin,Skinner,0.0,3.8461538461538463,42.30769230769231,0.0,ask mind let
+Zou Lei,Skinner,0.0,0.0,62.16216216216216,INF,stand hear come
+Zou Lei,Zhuojin,0.0,0.0,62.16216216216216,INF,stand hear come
+Skinner,Zhuojin,0.0,0.0,62.16216216216216,INF,stand hear come
+Skinner,Zou Lei,4.3478260869565215,2.717391304347826,49.45652173913043,1.6,claim have make have know sell
+Skinner,Zou Lei,4.3478260869565215,2.717391304347826,49.45652173913043,1.6,claim have make have know sell
+Skinner,Zou Lei,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,go call
+Skinner,Zou Lei,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,go call
+Skinner,Zou Lei,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,go call
+Skinner,Franklin,0.0,0.0,69.56521739130434,INF,walk pass
+Skinner,Zou Lei,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,have be watch turn look
+Skinner,Zou Lei,3.125,3.125,50.0,1.0,pass ask do want
+Skinner,Zou Lei,3.125,3.125,50.0,1.0,pass ask do want
+Skinner,Zou Lei,3.125,3.125,50.0,1.0,pass ask do want
+Zou Lei,Mr. Jia,0.0,3.125,55.208333333333336,0.0,go go talk be
+Mr. Jia,Zou Lei,0.0,0.0,55.55555555555556,INF,tell
+Zou Lei,Mr. Jia,0.0,0.0,55.55555555555556,INF,tell
+Mr. Jia,Skinner,0.0,0.0,55.55555555555556,INF,gesture come
+Mr. Jia,Skinner,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,tell be
+Mr. Jia,Skinner,0.0,0.0,64.28571428571429,INF,take feel
+Mr. Jia,Skinner,0.0,0.0,64.28571428571429,INF,take feel
+Mr. Jia,Skinner,0.0,0.0,63.63636363636363,INF,squint
+Mr. Jia,Skinner,0.0,0.0,63.63636363636363,INF,squint
+Skinner,Zou Lei,1.7857142857142856,0.0,62.5,INF,call tell look
+Skinner,Zou Lei,1.7857142857142856,0.0,62.5,INF,call tell look
+Mr. Jia,Zou Lei,0.0,3.571428571428571,39.285714285714285,0.0,demand
+Mr. Jia,Skinner,0.0,0.0,80.0,INF,shout
+Skinner,Zou Lei,4.375,0.0,55.625,INF,stare agree be
+Skinner,Mr. Jia,4.375,0.0,55.625,INF,stare agree be
+Zou Lei,Mr. Jia,4.375,0.0,55.625,INF,stare agree be
+Skinner,Zou Lei,2.1739130434782608,2.1739130434782608,56.52173913043478,1.0,show make read
+Skinner,Zou Lei,2.5,5.833333333333333,38.333333333333336,0.42857142857142855,hesitate ask understand be
+Skinner,Zou Lei,2.5,5.833333333333333,38.333333333333336,0.42857142857142855,hesitate ask understand be
+Zou Lei,Skinner,2.5,5.833333333333333,38.333333333333336,0.42857142857142855,hesitate ask understand be
+Zou Lei,Skinner,2.5,5.833333333333333,38.333333333333336,0.42857142857142855,hesitate ask understand be
+Skinner,Mr. Jia,0.4032258064516129,2.82258064516129,51.61290322580645,0.14285714285714285,be go ask open come go greet
+Skinner,Mr. Jia,0.4032258064516129,2.82258064516129,51.61290322580645,0.14285714285714285,be go ask open come go greet
+Zou Lei,Skinner,2.34375,0.78125,53.125,3.0,tell get be pay
+Gladys,Rick,0.8928571428571428,0.8928571428571428,62.5,1.0,look stone say
+Gladys,Rosy,0.7352941176470588,0.0,58.08823529411765,INF,go have start
+Ray,Jimmy,4.166666666666666,2.083333333333333,60.416666666666664,2.0,go meet
+Jimmy,Jim,0.0,0.0,50.0,INF,see say
+Jimmy,Ray,0.0,0.78125,49.21875,0.0,go smoke be go whisper do see
+Jimmy,Ray,0.0,0.78125,49.21875,0.0,go smoke be go whisper do see
+Gladys,Rosy,0.0,0.0,42.857142857142854,INF,dance
+Jimmy,John,0.0,0.0,65.0,INF,go smoke
+Jimmy,Stan,1.7500000000000002,1.5,58.75,1.1666666666666667,look be talk have come
+Jimmy,Stan,1.7500000000000002,1.5,58.75,1.1666666666666667,look be talk have come
+Jimmy,Stan,1.7500000000000002,1.5,58.75,1.1666666666666667,look be talk have come
+Emmett,Ray,2.142857142857143,0.0,49.28571428571429,INF,come feel pour drape see have turn
+Emmett,Ray,2.142857142857143,0.0,49.28571428571429,INF,come feel pour drape see have turn
+Stan,Jimmy,1.7857142857142856,1.3392857142857142,57.58928571428571,1.3333333333333333,be tell give
+Jimmy,Pat,4.166666666666666,0.0,62.5,INF,have
+Gladys,Jimmy,2.717391304347826,2.717391304347826,46.73913043478261,1.0,hug wear
+Jimmy,Gladys,2.717391304347826,2.717391304347826,46.73913043478261,1.0,hug wear
+Jimmy,Gladys,2.717391304347826,2.717391304347826,46.73913043478261,1.0,hug wear
+Jimmy,Gladys,0.78125,2.34375,53.125,0.3333333333333333,blow nod glance
+Jimmy,Gladys,0.78125,2.34375,53.125,0.3333333333333333,blow nod glance
+Skinner,Jimmy,1.25,0.625,63.125,2.0,hear get open see look
+Skinner,Jimmy,1.25,0.625,63.125,2.0,hear get open see look
+Skinner,Jimmy,1.25,0.625,63.125,2.0,hear get open see look
+Skinner,Jimmy,1.25,0.625,63.125,2.0,hear get open see look
+Skinner,Rambo,0.0,2.941176470588235,44.11764705882353,0.0,greet ignore tell mop
+Rambo,Skinner,0.0,2.941176470588235,44.11764705882353,0.0,greet ignore tell mop
+Rambo,Skinner,0.0,2.941176470588235,44.11764705882353,0.0,greet ignore tell mop
+Skinner,Sassoon,0.0,0.0,66.66666666666666,INF,feel watch dip dress
+Sassoon,Skinner,0.0,0.0,66.66666666666666,INF,feel watch dip dress
+Skinner,Angela,0.625,0.625,58.75,1.0,overhear tell come work
+Angela,Skinner,0.625,0.625,58.75,1.0,overhear tell come work
+Skinner,Angela,0.0,0.0,41.66666666666667,INF,hire say
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Zou Lei,Angela,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Zou Lei,Angela,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Zou Lei,Angela,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Angela,Zou Lei,2.5510204081632653,2.295918367346939,48.214285714285715,1.1111111111111112,understand be tell be say sound be switch lean ask speak
+Sunnie,Sassoon,0.0,0.0,52.63157894736842,INF,bustle tell go
+Sunnie,Zou Lei,0.0,0.0,52.63157894736842,INF,bustle tell go
+Sassoon,Zou Lei,0.0,0.0,52.63157894736842,INF,bustle tell go
+Skinner,Jimmy,1.6666666666666667,0.0,51.66666666666667,INF,want go serve
+Jimmy,Ray,0.4032258064516129,2.0161290322580645,39.516129032258064,0.2,leave act put tell look be
+Jimmy,Ray,0.5208333333333333,2.604166666666667,59.375,0.2,come gesture pour
+Ray,Jimmy,0.5208333333333333,2.604166666666667,59.375,0.2,come gesture pour
+Jimmy,Gladys,4.545454545454546,0.0,31.818181818181817,INF,say
+Jimmy,Ray,0.0,0.0,60.0,INF,
+Gladys,Jimmy,0.0,0.0,55.55555555555556,INF,put
+Gladys,Jimmy,0.0,0.0,55.55555555555556,INF,put
+Gladys,Jimmy,0.0,3.3333333333333335,56.666666666666664,0.0,release sit
+Jimmy,Vicky,7.5,3.125,54.37499999999999,2.4,hint be have occur be
+Jimmy,Vicky,7.5,3.125,54.37499999999999,2.4,hint be have occur be
+Vicky,Jimmy,7.5,3.125,54.37499999999999,2.4,hint be have occur be
+Vicky,Jimmy,2.5,1.25,56.25,2.0,try hide have find be be expect
+Vicky,Jimmy,2.5,1.25,56.25,2.0,try hide have find be be expect
+Vicky,Jimmy,8.928571428571429,0.0,48.214285714285715,INF,do know know
+Jimmy,Vicky,5.769230769230769,1.9230769230769231,53.84615384615385,3.0,do care have do
+Vicky,Jimmy,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,be get lie bother
+Vicky,Jimmy,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,be get lie bother
+Vicky,Jimmy,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,be get lie bother
+Vicky,Jimmy,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,be get lie bother
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Rick,0.4807692307692308,2.403846153846154,62.5,0.2,say be get get fulfil
+Jimmy,Patrick,2.364864864864865,0.33783783783783783,51.35135135135135,7.0,take carry pour make check
+Patrick,Skinner,1.3513513513513513,3.3783783783783785,57.432432432432435,0.4,let say be take leave speak lay move
+Patrick,Skinner,1.3513513513513513,3.3783783783783785,57.432432432432435,0.4,let say be take leave speak lay move
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Mrs. Murphy,Skinner,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Mrs. Murphy,Skinner,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Mrs. Murphy,Skinner,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,2.1739130434782608,0.0,54.347826086956516,INF,go be sit review go
+Skinner,Mrs. Murphy,0.0,8.928571428571429,62.5,0.0,take
+Jimmy,Jim,0.0,0.0,45.45454545454545,INF,see end
+LIRR,Skinner,0.78125,0.78125,48.4375,1.0,roar say
+Angela,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Angela,Polo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Angela,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Angela,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Angela,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Cardozo,Polo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Polo,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Polo,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Polo,Cardozo,3.869047619047619,0.8928571428571428,54.761904761904766,4.333333333333333,hire go marvel understand know be
+Sassoon,Angela,5.88235294117647,0.0,47.05882352941176,INF,put be
+Sassoon,Angela,5.88235294117647,0.0,47.05882352941176,INF,put be
+Sassoon,Angela,5.88235294117647,0.0,47.05882352941176,INF,put be
+Monroe,Zou Lei,0.0,0.0,50.0,INF,appear use
+Zou Lei,Angela,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,have give
+Angela,Sassoon,1.0416666666666665,1.0416666666666665,39.58333333333333,1.0,ask be go affect
+Sassoon,Angela,1.0416666666666665,1.0416666666666665,39.58333333333333,1.0,ask be go affect
+Angela,Polo,2.631578947368421,0.0,44.73684210526316,INF,be be speak
+Angela,Polo,2.631578947368421,0.0,44.73684210526316,INF,be be speak
+Polo,Angela,2.631578947368421,0.0,44.73684210526316,INF,be be speak
+Polo,Angela,2.631578947368421,0.0,44.73684210526316,INF,be be speak
+Sassoon,Angela,1.7857142857142856,15.178571428571427,40.17857142857143,0.11764705882352941,be lose intercede
+Zou Lei,Angela,8.333333333333332,5.357142857142857,33.92857142857143,1.5555555555555556,tell worry be steal
+Zou Lei,Angela,8.333333333333332,5.357142857142857,33.92857142857143,1.5555555555555556,tell worry be steal
+Angela,Nike,0.9259259259259258,2.314814814814815,67.12962962962963,0.4,take fold pick run feel
+Angela,Nike,0.9259259259259258,2.314814814814815,67.12962962962963,0.4,take fold pick run feel
+Nike,Angela,0.9259259259259258,2.314814814814815,67.12962962962963,0.4,take fold pick run feel
+Angela,Nike,5.833333333333333,0.8333333333333334,40.0,7.0,look check
+Nike,Angela,5.833333333333333,0.8333333333333334,40.0,7.0,look check
+Jimmy,Vicky,4.5,2.5,45.0,1.8,think have receive have take move
+Jimmy,Vicky,4.5,2.5,45.0,1.8,think have receive have take move
+Vicky,Jimmy,4.5,2.5,45.0,1.8,think have receive have take move
+Frankie,Jimmy,1.5625,0.0,48.4375,INF,notice laugh
+Frankie,Charlie,5.0,0.0,15.0,INF,call
+Frankie,Charlie,5.0,0.0,15.0,INF,call
+Charlie,Jimmy,3.125,1.25,65.625,2.5,get say let tell
+Charlie,Buddhist,0.0,2.6785714285714284,61.60714285714286,0.0,block
+Charlie,Jimmy,0.0,0.0,52.38095238095239,INF,pull flex show
+Charlie,Jimmy,0.0,0.0,52.38095238095239,INF,pull flex show
+Charlie,Jimmy,0.0,0.0,52.38095238095239,INF,pull flex show
+Charlie,Jimmy,0.0,0.0,52.38095238095239,INF,pull flex show
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Charlie,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,put look touch feel defile
+Frankie,Jimmy,4.6875,0.0,57.8125,INF,wink smirk
+Georgi,Charlie,4.3478260869565215,2.717391304347826,58.152173913043484,1.6,be drink start talk
+Charlie,Jimmy,0.0,0.0,60.0,INF,appeal
+Charlie,Georgi,0.0,0.0,50.0,INF,hit
+Frankie,Charlie,0.5952380952380952,0.5952380952380952,51.19047619047619,1.0,snatch drink throw bounce
+Charlie,Jimmy,1.1363636363636365,0.0,62.5,INF,get push
+Jimmy,Charlie,1.1363636363636365,0.0,62.5,INF,get push
+Charlie,Jimmy,5.208333333333334,2.083333333333333,51.041666666666664,2.5,stare wait
+Jimmy,Frankie,0.0,0.78125,67.96875,0.0,make
+Jimmy,Frankie,0.0,0.78125,67.96875,0.0,make
+Jimmy,Frankie,1.3157894736842104,0.0,46.05263157894737,INF,have leave shout be
+Jimmy,Frankie,1.3157894736842104,0.0,46.05263157894737,INF,have leave shout be
+Jimmy,Frankie,1.3157894736842104,0.0,46.05263157894737,INF,have leave shout be
+Jimmy,Frankie,1.3157894736842104,0.0,46.05263157894737,INF,have leave shout be
+Jim,Frank,0.0,0.0,76.47058823529412,INF,cast say be go roll
+Jim,Frank,0.0,0.0,76.47058823529412,INF,cast say be go roll
+Jimmy,Charlie,10.714285714285714,3.571428571428571,42.857142857142854,3.0,pretend find
+Charlie,Frankie,0.641025641025641,7.051282051282051,51.28205128205128,0.09090909090909091,sprint stop push be guard threaten whisper do
+Charlie,Frankie,0.641025641025641,7.051282051282051,51.28205128205128,0.09090909090909091,sprint stop push be guard threaten whisper do
+Charlie,Frank,0.0,2.083333333333333,61.25000000000001,0.0,go kick go swing turn flip call fuck
+Charlie,Frank,0.0,2.083333333333333,61.25000000000001,0.0,go kick go swing turn flip call fuck
+Charlie,Jimmy,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jimmy,Charlie,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jimmy,Charlie,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jimmy,Charlie,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jimmy,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jimmy,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Charlie,Jesus,2.9017857142857144,2.0089285714285716,57.58928571428571,1.4444444444444444,go be lean close lift prop hold pose
+Jesus,Charlie,0.0,0.0,30.0,INF,be say
+Jimmy,Frankie,0.0,5.833333333333333,54.166666666666664,0.0,go be shove
+Frankie,Jimmy,0.0,3.6764705882352944,49.26470588235294,0.0,square dare go
+Frankie,Jimmy,0.0,3.6764705882352944,49.26470588235294,0.0,square dare go
+Jimmy,Frankie,0.0,3.6764705882352944,49.26470588235294,0.0,square dare go
+Frankie,Jimmy,2.083333333333333,4.166666666666666,43.75,0.5,debate say be have be
+Frankie,Jimmy,2.083333333333333,4.166666666666666,43.75,0.5,debate say be have be
+Jimmy,Charlie,2.6785714285714284,0.0,54.46428571428571,INF,suggest be come
+Jimmy,Charlie,2.6785714285714284,0.0,54.46428571428571,INF,suggest be come
+Jimmy,Charlie,2.6785714285714284,0.0,54.46428571428571,INF,suggest be come
+Jimmy,Charlie,2.6785714285714284,0.0,54.46428571428571,INF,suggest be come
+Jimmy,Charlie,0.0,3.9473684210526314,48.68421052631579,0.0,appeal hold
+Skinner,Jimmy,0.0,0.0,70.58823529411765,INF,see stop
+Skinner,Murphys,0.7352941176470588,0.0,52.20588235294118,INF,get listen
+Skinner,Murphys,0.7352941176470588,0.0,52.20588235294118,INF,get listen
+Skinner,Jimmy,2.7777777777777777,0.0,52.77777777777778,INF,think knock explain work
+Skinner,Jimmy,2.7777777777777777,0.0,52.77777777777778,INF,think knock explain work
+Skinner,Jimmy,0.0,4.411764705882353,60.29411764705882,0.0,recognize
+Skinner,Jimmy,0.0,4.411764705882353,60.29411764705882,0.0,recognize
+Guado,Jimmy,0.0,0.0,57.14285714285714,INF,nudge
+Skinner,Jimmy,0.0,0.0,66.66666666666666,INF,see come know be go move
+Skinner,Jimmy,0.0,0.0,66.66666666666666,INF,see come know be go move
+Skinner,Jimmy,0.0,0.0,66.66666666666666,INF,see come know be go move
+Jimmy,Berretta,0.0,0.0,75.0,INF,be carry
+Berretta,Jimmy,0.0,0.0,75.0,INF,be carry
+Jimmy,Zou Lei,1.9230769230769231,0.0,59.61538461538461,INF,have cross
+Zou Lei,Jimmy,1.9230769230769231,0.0,59.61538461538461,INF,have cross
+Skinner,Zou Lei,0.0,0.0,52.38095238095239,INF,rejoin be wait
+Zou Lei,Skinner,0.0,0.0,52.38095238095239,INF,rejoin be wait
+Skinner,Zou Lei,0.0,0.0,66.66666666666666,INF,move grab close open enter
+Zou Lei,Skinner,0.0,0.0,50.0,INF,do speak
+Zou Lei,Skinner,0.5208333333333333,0.0,49.47916666666667,INF,be go ask get marry
+Skinner,Zou Lei,0.5208333333333333,0.0,49.47916666666667,INF,be go ask get marry
+Zou Lei,Skinner,0.0,2.083333333333333,47.91666666666667,0.0,say leave
+Li,Vickie,0.0,2.083333333333333,14.583333333333334,0.0,
+Li,Lincoln,1.8518518518518516,2.314814814814815,66.20370370370371,0.8,get ride have come look
+Lincoln,Li,1.8518518518518516,2.314814814814815,66.20370370370371,0.8,get ride have come look
+Jimmy,Lincoln,0.9615384615384616,0.0,45.19230769230769,INF,get go
+Jimmy,Lincoln,0.9615384615384616,0.0,45.19230769230769,INF,get go
+Rahmat,Muslim,0.0,0.0,46.666666666666664,INF,say take hold
+Rahmat,Muslim,0.0,0.0,46.666666666666664,INF,say take hold
+Muslim,Tesha,0.0,0.0,50.0,INF,come speak
+Zou Lei,Sarah,2.430555555555556,0.3472222222222222,58.333333333333336,7.0,have take lead come
+Zou Lei,Sarah,2.430555555555556,0.3472222222222222,58.333333333333336,7.0,have take lead come
+Zou Lei,Sarah,2.430555555555556,0.3472222222222222,58.333333333333336,7.0,have take lead come
+Sarah,Zou Lei,2.403846153846154,0.0,51.442307692307686,INF,pull see
+Allahu,Zou Lei,0.0,0.0,28.57142857142857,INF,say
+Skinner,Zou Lei,3.571428571428571,0.0,67.85714285714286,INF,have think recognize have think be have go drink
+Skinner,Zou Lei,3.571428571428571,0.0,67.85714285714286,INF,have think recognize have think be have go drink
+Skinner,Zou Lei,3.571428571428571,0.0,67.85714285714286,INF,have think recognize have think be have go drink
+Zou Lei,Skinner,0.78125,2.734375,55.859375,0.2857142857142857,camouflage come take see be happen
+Jimmy,Skinner,0.6578947368421052,0.0,51.973684210526315,INF,be see come wait get
+Jimmy,Skinner,0.6578947368421052,0.0,51.973684210526315,INF,be see come wait get
+Jimmy,Skinner,0.6578947368421052,0.0,51.973684210526315,INF,be see come wait get
+Jimmy,Skinner,0.6578947368421052,0.0,51.973684210526315,INF,be see come wait get
+Skinner,Guado,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,get murmur be shit
+Guado,Skinner,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,get murmur be shit
+Jimmy,Skinner,4.166666666666666,0.0,70.83333333333334,INF,watch keep walk
+Jimmy,Skinner,4.166666666666666,0.0,70.83333333333334,INF,watch keep walk
+Skinner,Jimmy,1.3157894736842104,3.289473684210526,58.55263157894737,0.4,have hear be get do
+Jimmy,Skinner,1.3157894736842104,3.289473684210526,58.55263157894737,0.4,have hear be get do
+Skinner,Jimmy,2.5,5.833333333333333,51.66666666666667,0.42857142857142855,base sound think be
+Jimmy,Skinner,2.5,5.833333333333333,51.66666666666667,0.42857142857142855,base sound think be
+Jimmy,Skinner,0.0,1.7857142857142856,69.64285714285714,0.0,find
+Sassoon,Zou Lei,1.875,0.0,63.125,INF,be be consign
+Zhuojin,Zou Lei,2.7777777777777777,0.6944444444444444,40.97222222222222,4.0,come say
+Zou Lei,Sassoon,0.0,1.25,48.75,0.0,go talk
+Zou Lei,Angela,6.25,0.0,43.75,INF,put hold
+Angela,Zou Lei,4.545454545454546,0.0,59.09090909090909,INF,notice be be
+Angela,Zou Lei,4.545454545454546,0.0,59.09090909090909,INF,notice be be
+Sconyers,Skinner,0.0,6.25,68.75,0.0,pick bite
+Sconyers,Skinner,0.0,6.25,68.75,0.0,pick bite
+Sconyers,Skinner,2.7777777777777777,2.430555555555556,55.90277777777778,1.1428571428571428,have decorate have spread flow cover
+Sconyers,Skinner,2.7777777777777777,2.430555555555556,55.90277777777778,1.1428571428571428,have decorate have spread flow cover
+Skinner,Roosevelt,0.3676470588235294,0.7352941176470588,66.54411764705883,0.5,sail kick lean make reverberate echo
+Skinner,Roosevelt,0.3676470588235294,0.7352941176470588,66.54411764705883,0.5,sail kick lean make reverberate echo
+Zou Lei,Skinner,0.6097560975609756,3.353658536585366,52.13414634146341,0.18181818181818182,be come move
+Zou Lei,Skinner,0.6097560975609756,3.353658536585366,52.13414634146341,0.18181818181818182,be come move
+Zou Lei,Skinner,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,flee follow
+Skinner,Zou Lei,0.0,0.0,61.53846153846154,INF,look see be
+Zou Lei,Skinner,0.0,0.0,61.53846153846154,INF,look see be
+Skinner,Red Bull,0.0,2.8846153846153846,66.34615384615384,0.0,see say take
+Skinner,Red Bull,0.0,2.8846153846153846,66.34615384615384,0.0,see say take
+Red Bull,Skinner,0.0,2.8846153846153846,66.34615384615384,0.0,see say take
+Skinner,Jesus,0.9615384615384616,0.0,60.57692307692307,INF,go fade let
+Jesus,Zou Lei,2.6785714285714284,0.0,54.46428571428571,INF,jog call
+Zooey,Zou Lei,0.0,0.0,50.0,INF,say
+Jimmy,Jake,2.5735294117647056,0.0,53.30882352941176,INF,want call say be sit be go go do
+Erin,Skinner,0.6944444444444444,9.027777777777777,56.94444444444444,0.07692307692307693,do acknowledge
+Erin,Skinner,2.5,4.166666666666666,53.333333333333336,0.6,speak have know be go say
+Erin,Skinner,2.5,4.166666666666666,53.333333333333336,0.6,speak have know be go say
+Jimmy,Mrs. Murphy,4.6875,6.25,64.0625,0.75,be say
+Mrs. Murphy,Jimmy,3.8461538461538463,1.9230769230769231,40.38461538461539,2.0,be tell get
+Jimmy,Mrs. Murphy,3.8461538461538463,1.9230769230769231,40.38461538461539,2.0,be tell get
+Jimmy,Erin,0.0,4.166666666666666,45.83333333333333,0.0,want talk let talk say
+Jimmy,Erin,0.0,4.166666666666666,45.83333333333333,0.0,want talk let talk say
+Jimmy,Erin,0.0,4.166666666666666,45.83333333333333,0.0,want talk let talk say
+Jimmy,Erin,0.0,4.166666666666666,45.83333333333333,0.0,want talk let talk say
+Jimmy,Skinner,0.0,6.730769230769231,54.807692307692314,0.0,snarl hit bend
+Jimmy,Skinner,0.0,6.730769230769231,54.807692307692314,0.0,snarl hit bend
+Skinner,Jimmy,0.0,0.0,63.1578947368421,INF,fall clutch claw push
+Erin,Skinner,2.5,0.0,47.5,INF,have come watch
+Skinner,Erin,1.25,0.0,38.75,INF,get say
+Erin,Skinner,12.5,8.333333333333332,29.166666666666668,1.5,have be taunt
+Erin,Skinner,0.78125,1.5625,41.40625,0.5,see say get tell
+Mrs. Murphy,Erin,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,lift step follow
+Skinner,Dunkin Donuts,0.5681818181818182,2.840909090909091,60.22727272727273,0.2,hold go carry be throw
+Skinner,Dunkin Donuts,0.5681818181818182,2.840909090909091,60.22727272727273,0.2,hold go carry be throw
+Dunkin Donuts,Skinner,1.5625,3.6458333333333335,53.125,0.42857142857142855,go hold walk push
+Dunkin Donuts,Skinner,1.5625,3.6458333333333335,53.125,0.42857142857142855,go hold walk push
+Jimmy,Mrs. Murphy,0.0,0.0,75.0,INF,
+Skinner,Roosevelt,1.953125,0.0,69.921875,INF,think look be block have turn
+Skinner,Roosevelt,1.953125,0.0,69.921875,INF,think look be block have turn
+Jimmy,Skinner,3.308823529411765,1.8382352941176472,59.55882352941176,1.8,have react be have rip be run
+Jimmy,Skinner,3.308823529411765,1.8382352941176472,59.55882352941176,1.8,have react be have rip be run
+Skinner,Kissena,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,recognize be burn try avoid step
+Kissena,Skinner,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,recognize be burn try avoid step
+Kissena,Skinner,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,recognize be burn try avoid step
+Zou Lei,Skinner,0.0,2.272727272727273,61.36363636363637,0.0,overhear give
+Buddhist,Skinner,0.0,0.0,62.5,INF,be smile
+Zou Lei,Skinner,0.0,0.0,56.52173913043478,INF,thank pop hold put blacken
+Zou Lei,Skinner,0.0,0.0,56.52173913043478,INF,thank pop hold put blacken
+Skinner,Franklin,0.2403846153846154,1.9230769230769231,55.52884615384615,0.125,be get cross look turn run do care tell
+Skinner,Franklin,0.2403846153846154,1.9230769230769231,55.52884615384615,0.125,be get cross look turn run do care tell
+Skinner,Franklin,0.2403846153846154,1.9230769230769231,55.52884615384615,0.125,be get cross look turn run do care tell
+Skinner,Franklin,0.2403846153846154,1.9230769230769231,55.52884615384615,0.125,be get cross look turn run do care tell
+Franklin,Zou Lei,0.7352941176470588,0.0,46.32352941176471,INF,think be be wait
+Franklin,Zou Lei,0.7352941176470588,0.0,46.32352941176471,INF,think be be wait
+Zou Lei,Franklin,0.7352941176470588,0.0,46.32352941176471,INF,think be be wait
+Zou Lei,Franklin,0.7352941176470588,0.0,46.32352941176471,INF,think be be wait
+Franklin,Murphys,1.1363636363636365,0.0,62.5,INF,focus
+Skinner,Jimmy,0.0,0.0,69.23076923076923,INF,take raise
+Jimmy,Skinner,0.0,0.0,72.72727272727273,INF,throw shut hit
+Skinner,Jimmy,0.0,0.0,40.909090909090914,INF,carry contain
+Skinner,Jimmy,0.0,0.0,40.909090909090914,INF,carry contain
+Skinner,Jimmy,0.0,0.0,56.25,INF,point pull
+Skinner,Jimmy,0.8333333333333334,0.0,52.5,INF,lean put
+Skinner,Jimmy,0.0,0.8333333333333334,59.166666666666664,0.0,pull jump
+Skinner,Zou Lei,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Skinner,Erin,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Skinner,Zou Lei,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Skinner,Erin,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Zou Lei,Erin,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Zou Lei,Skinner,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Zou Lei,Skinner,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Erin,Skinner,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Erin,Skinner,1.0135135135135136,0.0,58.445945945945944,INF,cross want call see answer stand hear
+Skinner,Erin,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Skinner,Erin,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Skinner,Erin,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Erin,Skinner,0.3205128205128205,0.0,50.96153846153846,INF,think descend look know be end make leave
+Jimmy,Berretta,0.7653061224489796,2.295918367346939,47.95918367346938,0.3333333333333333,culminate press ask be kill jump pour
+Berretta,Jimmy,0.7653061224489796,2.295918367346939,47.95918367346938,0.3333333333333333,culminate press ask be kill jump pour
+Berretta,Jimmy,0.7653061224489796,2.295918367346939,47.95918367346938,0.3333333333333333,culminate press ask be kill jump pour
+Berretta,Jimmy,0.7653061224489796,2.295918367346939,47.95918367346938,0.3333333333333333,culminate press ask be kill jump pour
+Zou Lei,Skinner,6.25,3.125,53.125,2.0,try ask

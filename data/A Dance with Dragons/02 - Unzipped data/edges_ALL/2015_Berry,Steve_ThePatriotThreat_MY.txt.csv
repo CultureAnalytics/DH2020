@@ -1,0 +1,1985 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mellon,Treasury,1.7857142857142856,0.0,76.78571428571429,INF,have serve
+Mellon,Harding,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Mellon,Coolidge,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Mellon,Hoover,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Harding,Coolidge,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Harding,Hoover,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Coolidge,Hoover,1.9736842105263157,0.0,66.44736842105263,INF,start work be ease
+Hoover,James,1.7045454545454544,0.0,57.38636363636363,INF,complete retire
+Hoover,James,1.7045454545454544,0.0,57.38636363636363,INF,complete retire
+Roosevelt,Justice Department,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,order proceed be hold involve
+Roosevelt,Board of Tax Appeals,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,order proceed be hold involve
+Justice Department,Board of Tax Appeals,1.6666666666666667,0.8333333333333334,60.83333333333333,2.0,order proceed be hold involve
+Roosevelt,White House,4.761904761904762,0.5952380952380952,56.547619047619044,8.0,occupy conduct
+Roosevelt,Cummings,0.0,0.6944444444444444,54.861111111111114,0.0,abandon sit
+Roosevelt,Cummings,0.0,0.6944444444444444,54.861111111111114,0.0,abandon sit
+Mellon,Finley,0.0,0.0,64.28571428571429,INF,accompany be
+Mellon,Cummings,3.125,0.0,59.375,INF,read
+Cummings,Mellon,3.125,0.0,59.375,INF,read
+Mellon,Harding,5.487804878048781,1.2195121951219512,51.829268292682926,4.5,understand have finish have die
+Mellon,Coolidge,5.487804878048781,1.2195121951219512,51.829268292682926,4.5,understand have finish have die
+Mellon,Harding,5.487804878048781,1.2195121951219512,51.829268292682926,4.5,understand have finish have die
+Harding,Coolidge,5.487804878048781,1.2195121951219512,51.829268292682926,4.5,understand have finish have die
+Coolidge,Harding,5.487804878048781,1.2195121951219512,51.829268292682926,4.5,understand have finish have die
+Coolidge,Harding,1.875,3.125,65.0,0.6,earn select
+Coolidge,Treasury,1.875,3.125,65.0,0.6,earn select
+Harding,Treasury,1.875,3.125,65.0,0.6,earn select
+Hoover,Mellon,3.977272727272727,2.840909090909091,52.27272727272727,1.4,repeat reappoint be
+Hoover,Mellon,3.977272727272727,2.840909090909091,52.27272727272727,1.4,repeat reappoint be
+Cummings,Finley,0.0,0.0,37.5,INF,leave
+Hoover,Congress,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,be go linger entrench be be deal
+Hoover,Supreme Court,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,be go linger entrench be be deal
+Congress,Supreme Court,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,be go linger entrench be be deal
+Congress,Hoover,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,be go linger entrench be be deal
+Supreme Court,Hoover,1.7857142857142856,0.35714285714285715,60.71428571428571,5.0,be go linger entrench be be deal
+Treasury,Hoover,0.0,2.631578947368421,55.26315789473685,0.0,advise liquidate
+Hoover,Mellon,5.0,0.0,75.0,INF,be surprise
+Hoover,Mellon,0.0,0.0,75.0,INF,know be look
+Hoover,Mellon,0.0,0.0,75.0,INF,know be look
+James,Senate,0.0,0.0,66.66666666666666,INF,die
+Couzens,Treasury,1.7045454545454544,0.0,80.11363636363636,INF,launch provide own
+Couzens,Mellon,1.7045454545454544,0.0,80.11363636363636,INF,launch provide own
+Treasury,Mellon,1.7045454545454544,0.0,80.11363636363636,INF,launch provide own
+Mellon,Coolidge,2.840909090909091,5.113636363636364,42.04545454545455,0.5555555555555556,be weather reappoint
+Mellon,Coolidge,2.840909090909091,5.113636363636364,42.04545454545455,0.5555555555555556,be weather reappoint
+Coolidge,Mellon,2.840909090909091,5.113636363636364,42.04545454545455,0.5555555555555556,be weather reappoint
+Mellon,Couzens,0.0,0.0,56.52173913043478,INF,be turn reveal
+Board of Tax Appeals,Couzens,1.7045454545454544,0.0,52.84090909090909,INF,reverse conclude be entitle
+Couzens,Mellon,0.9615384615384616,4.807692307692308,40.38461538461539,0.2,be tell
+Cummings,Board of Tax Appeals,2.314814814814815,0.0,53.24074074074075,INF,have advise rule
+Cummings,Mellon,2.314814814814815,0.0,53.24074074074075,INF,have advise rule
+Cummings,Board of Tax Appeals,2.314814814814815,0.0,53.24074074074075,INF,have advise rule
+Cummings,Mellon,2.314814814814815,0.0,53.24074074074075,INF,have advise rule
+Board of Tax Appeals,Mellon,2.314814814814815,0.0,53.24074074074075,INF,have advise rule
+Mellon,Treasury,5.434782608695652,3.804347826086957,55.97826086956522,1.4285714285714286,order make be delay
+Mellon,Treasury,5.434782608695652,3.804347826086957,55.97826086956522,1.4285714285714286,order make be delay
+Kim,Hana,1.25,6.25,32.5,0.2,watch
+Hana,Kim,1.25,6.25,32.5,0.2,watch
+Kim,Hana,1.3157894736842104,5.263157894736842,51.31578947368421,0.25,imagine be have see ask
+Kim,Hana,5.88235294117647,1.4705882352941175,45.588235294117645,4.0,know bear count
+Hana,Kim,2.5,0.0,37.5,INF,stare
+Kim,Hana,2.840909090909091,5.681818181818182,41.47727272727273,0.5,smile return ask be
+Hana,Kim,2.840909090909091,5.681818181818182,41.47727272727273,0.5,smile return ask be
+Mr. Larks,Kim,3.571428571428571,0.0,48.80952380952381,INF,say be
+Kim,Howell,5.357142857142857,2.6785714285714284,49.107142857142854,2.0,have read
+Paul Larks,Tumi,1.5625,2.34375,58.59375,0.6666666666666666,have carry
+Howell,Paul Larks,2.2058823529411766,3.6764705882352944,52.94117647058824,0.6,try coax
+Jelena,Howell,8.928571428571429,0.0,19.642857142857142,INF,do know
+Jelena,Howell,0.0,0.0,38.46153846153847,INF,meet leave
+Paul Larks,Hana,2.5,0.0,47.5,INF,try rise restrain
+Haym Salomon,Mellon,0.0,0.0,29.411764705882355,INF,do
+Haym Salomon,Howell,0.0,0.0,29.411764705882355,INF,do
+Mellon,Howell,0.0,0.0,29.411764705882355,INF,do
+Kim,Paul Larks,6.61764705882353,2.2058823529411766,44.11764705882353,3.0,increase allow surrender
+Kim,Paul Larks,4.861111111111112,1.3888888888888888,60.416666666666664,3.5,end stare think mention
+Stephanie,Magellan Billet,0.0,0.0,50.0,INF,lead
+Stephanie,Justice Department,8.0,1.5,58.5,5.333333333333333,have be employ handle
+Stephanie,Terra,0.0,0.0,37.5,INF,catch navigate
+Terra,Stephanie,0.0,0.0,37.5,INF,catch navigate
+Terra,Magellan Billet,1.3888888888888888,0.0,59.72222222222222,INF,be employ
+Napoleon,Justice Department,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Napoleon,Stephanie,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Napoleon,Magellan Billet,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Justice Department,Stephanie,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Justice Department,Magellan Billet,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Stephanie,Magellan Billet,2.6515151515151514,0.7575757575757576,63.25757575757576,3.5,be suppose be retire work
+Magellan Billet,Stephanie,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,find accept
+Magellan Billet,Stephanie,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,find accept
+Magellan Billet,Cassiopeia Vitt,0.0,6.25,53.75,0.0,hear
+Magellan Billet,Stephanie,1.7857142857142856,0.0,62.5,INF,think cool work
+Magellan Billet,Stephanie,1.9230769230769231,4.807692307692308,54.807692307692314,0.4,have call do answer
+Magellan Billet,Stephanie,1.9230769230769231,4.807692307692308,54.807692307692314,0.4,have call do answer
+Magellan Billet,Stephanie,4.6875,3.515625,60.546875,1.3333333333333333,do ask roam have seem
+Magellan Billet,Treasury,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Magellan Billet,Paul Larks,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Magellan Billet,Paul Larks,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Magellan Billet,Howell,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Treasury,Paul Larks,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Treasury,Paul Larks,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Treasury,Howell,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Paul Larks,Howell,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Paul Larks,Howell,2.941176470588235,2.2058823529411766,68.38235294117648,1.3333333333333333,have do be keep lead name
+Justice Department,Howell,12.5,4.166666666666666,33.33333333333333,3.0,want
+Paul Larks,Justice Department,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Paul Larks,Justice Department,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Paul Larks,Henrik Thorvaldsen,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Paul Larks,Justice Department,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Justice Department,Henrik Thorvaldsen,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Justice Department,Henrik Thorvaldsen,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Henrik Thorvaldsen,Justice Department,1.3888888888888888,0.2777777777777778,49.44444444444444,5.0,be push walk remind have keep have make think be suppose happen happen
+Stephanie,Justice Department,2.5,0.8333333333333334,36.666666666666664,3.0,dispatch send arrive
+Kim,Paul Larks,0.0,0.0,33.33333333333333,INF,remove
+Kim,Paul Larks,5.263157894736842,9.210526315789473,53.94736842105263,0.5714285714285714,have reveal be realize be
+Paul Larks,Kim,5.263157894736842,9.210526315789473,53.94736842105263,0.5714285714285714,have reveal be realize be
+Paul Larks,Jelena,2.380952380952381,0.0,59.523809523809526,INF,have pass name be
+Paul Larks,Howell,2.380952380952381,0.0,59.523809523809526,INF,have pass name be
+Jelena,Howell,2.380952380952381,0.0,59.523809523809526,INF,have pass name be
+Treasury,Paul Larks,0.0,5.555555555555555,44.44444444444444,0.0,withdraw ask be
+Paul Larks,Howell,1.25,3.125,50.625,0.4,think lead
+Paul Larks,Malone,0.0,6.944444444444445,59.72222222222222,0.0,call
+Kim,Paul Larks,0.0,0.6578947368421052,67.76315789473685,0.0,be fill
+Howell,Paul Larks,1.7857142857142856,0.8928571428571428,75.89285714285714,2.0,have be reread visit
+Congress,FDR,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,disagree lower
+Kennedy,Reagan,2.083333333333333,1.0416666666666665,71.875,2.0,be change
+Kennedy,Reagan,0.0,0.0,56.25,INF,lower plunge
+Bush,Clinton,0.43103448275862066,0.8620689655172413,46.98275862068966,0.5,raise climb cut
+Clinton,Bush,0.43103448275862066,0.8620689655172413,46.98275862068966,0.5,raise climb cut
+Bush,Howell,0.4032258064516129,0.0,57.66129032258065,INF,prowl discover be describe
+Kim,Howell,2.380952380952381,4.166666666666666,55.35714285714286,0.5714285714285714,seem appear
+Hana,Paul Larks,0.0,0.0,40.0,INF,step retreat return
+Hana,Paul Larks,0.0,0.0,40.0,INF,step retreat return
+Hana,Paul Larks,3.8461538461538463,0.4807692307692308,64.90384615384616,8.0,have spend keep complicate seem be do
+Hana,Harold Earl,1.4423076923076923,0.0,52.40384615384615,INF,manage snap have inform be
+Hana,Malone,1.4423076923076923,0.0,52.40384615384615,INF,manage snap have inform be
+Hana,Malone,1.4423076923076923,0.0,52.40384615384615,INF,manage snap have inform be
+Harold Earl,Malone,1.4423076923076923,0.0,52.40384615384615,INF,manage snap have inform be
+Harold Earl,Malone,1.4423076923076923,0.0,52.40384615384615,INF,manage snap have inform be
+Magellan Billet,Justice Department,5.0,1.5,65.5,3.3333333333333335,have work call
+Malone,Paul Larks,3.3653846153846154,0.0,69.71153846153845,INF,have follow have leave wander
+Mr. Malone,Malone,0.0,0.0,63.63636363636363,INF,seem have return say
+Malone,Paul Larks,0.5681818181818182,0.5681818181818182,62.5,1.0,know leave make
+Malone,Paul Larks,0.5681818181818182,0.5681818181818182,62.5,1.0,know leave make
+Mr. Malone,Paul Larks,0.0,0.0,52.94117647058824,INF,check head say
+Mr. Malone,Malone,0.0,0.0,52.94117647058824,INF,check head say
+Paul Larks,Mr. Malone,0.0,0.0,52.94117647058824,INF,check head say
+Paul Larks,Malone,0.0,0.0,52.94117647058824,INF,check head say
+Mr. Malone,Malone,0.0,0.0,52.94117647058824,INF,check head say
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Danny,Harriett,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Harriett,Danny,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,have announce be have ask resign serve
+Stephanie,Harriett,1.9230769230769231,6.730769230769231,49.03846153846153,0.2857142857142857,have hit come
+Malone,Harriett,4.166666666666666,2.7777777777777777,37.5,1.5,settle
+Malone,Harriett,4.166666666666666,2.7777777777777777,37.5,1.5,settle
+Stephanie,Harriett,8.854166666666668,1.0416666666666665,40.10416666666667,8.5,have come know offer contradict
+Harriett,Stephanie,8.854166666666668,1.0416666666666665,40.10416666666667,8.5,have come know offer contradict
+Harriett,Stephanie,8.854166666666668,1.0416666666666665,40.10416666666667,8.5,have come know offer contradict
+Terra,Treasury,2.083333333333333,0.0,57.91666666666667,INF,be say stage have report make blackmail
+Harriett,Magellan Billet,3.8793103448275863,0.43103448275862066,47.41379310344828,9.0,have be pass allow find be go
+Stephanie,Terra,7.000000000000001,4.0,53.0,1.75,have be arrange flush know be be watch
+Terra,Treasury,6.944444444444445,2.083333333333333,57.638888888888886,3.3333333333333335,know have confess seem make
+Howell,NSA,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,be flag have be detect
+FBI,Paul Larks,1.0869565217391304,0.0,51.08695652173913,INF,have learn be travel meet
+FBI,Howell,1.0869565217391304,0.0,51.08695652173913,INF,have learn be travel meet
+Paul Larks,Howell,1.0869565217391304,0.0,51.08695652173913,INF,have learn be travel meet
+Stephanie,Malone,1.9230769230769231,0.0,59.61538461538461,INF,have hire shadow see develop
+Stephanie,Paul Larks,1.9230769230769231,0.0,59.61538461538461,INF,have hire shadow see develop
+Malone,Paul Larks,1.9230769230769231,0.0,59.61538461538461,INF,have hire shadow see develop
+Mr. Malone,Harriett,0.0,0.8333333333333334,59.166666666666664,0.0,be tell be say
+Harriett,Treasury,0.0,0.7575757575757576,56.81818181818182,0.0,be lay ring answer
+Harriett,Levy,3.225806451612903,0.4032258064516129,41.53225806451613,8.0,have happen be report say set see be take
+Paul Larks,Treasury,7.638888888888889,1.3888888888888888,57.638888888888886,5.5,like say believe copy
+Levy,Howell,3.571428571428571,1.7857142857142856,37.5,2.0,be
+Harriett,Malone,3.125,0.0,71.875,INF,have direct send observe
+Harriett,Malone,3.125,0.0,71.875,INF,have direct send observe
+Harriett,Malone,3.125,2.5,59.375,1.25,have be provide pass
+Harriett,Kim,2.380952380952381,1.1904761904761905,39.285714285714285,2.0,say tell be
+Kim,Treasury,4.166666666666666,4.861111111111112,52.083333333333336,0.8571428571428571,tell want
+Kim,Malone,4.166666666666666,4.861111111111112,52.083333333333336,0.8571428571428571,tell want
+Treasury,Malone,4.166666666666666,4.861111111111112,52.083333333333336,0.8571428571428571,tell want
+Treasury,Malone,3.6764705882352944,0.0,61.029411764705884,INF,do know be
+Malone,Magellan Billet,0.0,0.0,53.84615384615385,INF,tag zero
+Harriett,Luke,0.625,4.375,60.0,0.14285714285714285,take order provide run
+Harriett,Malone,0.625,4.375,60.0,0.14285714285714285,take order provide run
+Luke,Malone,0.625,4.375,60.0,0.14285714285714285,take order provide run
+Hana,Paul Larks,0.8333333333333334,0.0,65.83333333333333,INF,stare
+Kim,Harriett,3.8461538461538463,0.9615384615384616,41.34615384615385,4.0,have be bear
+Stalin,Roosevelt,1.8518518518518516,0.4629629629629629,64.35185185185185,4.0,respect make divide create industrialize
+Kim,Stalin,0.625,0.0,54.37499999999999,INF,become retake
+Kim,Stalin,0.625,0.0,54.37499999999999,INF,become retake
+Malone,Paul Larks,1.4705882352941175,1.4705882352941175,61.76470588235294,1.0,have stick have make locate
+Harold Earl,Malone,3.8461538461538463,0.0,50.0,INF,be
+Harold Earl,Malone,3.8461538461538463,0.0,50.0,INF,be
+Malone,Luke,1.5625,0.0,56.770833333333336,INF,be work
+Malone,Stephanie,1.5625,0.0,56.770833333333336,INF,be work
+Malone,Magellan Billet,1.5625,0.0,56.770833333333336,INF,be work
+Luke,Stephanie,1.5625,0.0,56.770833333333336,INF,be work
+Luke,Magellan Billet,1.5625,0.0,56.770833333333336,INF,be work
+Stephanie,Magellan Billet,1.5625,0.0,56.770833333333336,INF,be work
+Magellan Billet,Danny,0.4807692307692308,2.8846153846153846,46.63461538461539,0.16666666666666666,be seem mean
+Magellan Billet,Luke,0.4807692307692308,2.8846153846153846,46.63461538461539,0.16666666666666666,be seem mean
+Danny,Luke,0.4807692307692308,2.8846153846153846,46.63461538461539,0.16666666666666666,be seem mean
+Luke,Paul Larks,3.977272727272727,1.1363636363636365,53.97727272727273,3.5,have experience have be
+Luke,Paul Larks,3.977272727272727,1.1363636363636365,53.97727272727273,3.5,have experience have be
+Luke,Paul Larks,0.0,3.6764705882352944,55.14705882352941,0.0,be
+Luke,Paul Larks,4.6875,0.0,70.3125,INF,keep doubt have notice
+Howell,Stephanie,2.0,1.0,53.0,2.0,memorize have provide have catch
+Howell,Paul Larks,3.308823529411765,2.5735294117647056,64.70588235294117,1.2857142857142858,think be strike have leave wait connect
+Howell,Paul Larks,3.308823529411765,2.5735294117647056,64.70588235294117,1.2857142857142858,think be strike have leave wait connect
+Malone,Paul Larks,4.166666666666666,0.0,70.83333333333334,INF,decide make
+Malone,Stephanie,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Malone,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Malone,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Malone,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Stephanie,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Stephanie,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Stephanie,Luke,2.380952380952381,0.0,50.0,INF,call report have happen have assure handle
+Luke,Cassiopeia Vitt,0.0,17.5,42.5,0.0,deny miss
+Luke,Cassiopeia Vitt,0.0,17.5,42.5,0.0,deny miss
+Luke,Stephanie,4.375,0.0,65.625,INF,grow have be go
+Luke,Stephanie,4.375,0.0,65.625,INF,grow have be go
+Paul Larks,Tumi,5.357142857142857,2.380952380952381,54.166666666666664,2.25,wonder step make
+Kim,Howell,3.6458333333333335,2.604166666666667,43.75,1.4,hope open
+Kim,Paul Larks,3.6458333333333335,2.604166666666667,43.75,1.4,hope open
+Howell,Paul Larks,3.6458333333333335,2.604166666666667,43.75,1.4,hope open
+Hana,Malone,0.0,0.0,42.857142857142854,INF,deal
+Malone,Kim,10.714285714285714,0.0,46.42857142857143,INF,be have
+Hana,Malone,5.092592592592593,0.0,46.75925925925926,INF,instruct lure hide wait draw
+Hana,Paul Larks,5.092592592592593,0.0,46.75925925925926,INF,instruct lure hide wait draw
+Hana,Malone,5.092592592592593,0.0,46.75925925925926,INF,instruct lure hide wait draw
+Malone,Paul Larks,5.092592592592593,0.0,46.75925925925926,INF,instruct lure hide wait draw
+Paul Larks,Malone,5.092592592592593,0.0,46.75925925925926,INF,instruct lure hide wait draw
+Malone,Paul Larks,2.7777777777777777,1.3888888888888888,79.16666666666666,2.0,have be work be
+Malone,Paul Larks,2.7777777777777777,1.3888888888888888,79.16666666666666,2.0,have be work be
+Mr. Malone,Malone,0.8928571428571428,0.0,70.53571428571429,INF,be say
+Howell,State,1.8181818181818181,4.545454545454546,51.81818181818182,0.4,provide do explain be state require ratify falsify
+Howell,State,1.8181818181818181,4.545454545454546,51.81818181818182,0.4,provide do explain be state require ratify falsify
+Howell,Knox,1.8181818181818181,4.545454545454546,51.81818181818182,0.4,provide do explain be state require ratify falsify
+State,Knox,1.8181818181818181,4.545454545454546,51.81818181818182,0.4,provide do explain be state require ratify falsify
+State,Knox,1.8181818181818181,4.545454545454546,51.81818181818182,0.4,provide do explain be state require ratify falsify
+Howell,Congress,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,Congress,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,State,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,State,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,State,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Congress,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Knox,State,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+State,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+State,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+State,Knox,1.7361111111111112,1.215277777777778,54.6875,1.4285714285714286,set follow transmit provide have lay collect derive certify be ratify have tender ratify know have adopt submit know be instruct ratify conform conform occur
+Howell,State,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+Howell,Knox,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+State,Knox,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+Hana,Howell,1.6304347826086956,5.434782608695652,53.80434782608695,0.3,have go find deal study
+Hana,Howell,1.6304347826086956,5.434782608695652,53.80434782608695,0.3,have go find deal study
+Paul Larks,Howell,5.263157894736842,1.3157894736842104,56.57894736842105,4.0,have be have promise happen
+DC,Stephanie,0.0,0.0,60.0,INF,be
+Stephanie,Harriett,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,have fly have bring
+Stephanie,Department of Justice,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,have fly have bring
+Harriett,Department of Justice,4.3478260869565215,1.0869565217391304,51.08695652173913,4.0,have fly have bring
+Treasury,Malone,6.696428571428571,1.3392857142857142,59.82142857142857,5.0,have be flush deal report
+Treasury,Paul Larks,6.696428571428571,1.3392857142857142,59.82142857142857,5.0,have be flush deal report
+Malone,Paul Larks,6.696428571428571,1.3392857142857142,59.82142857142857,5.0,have be flush deal report
+Kim,Treasury,1.9230769230769231,0.0,51.92307692307693,INF,have appear
+NSA,FBI,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+NSA,Stephanie,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+NSA,Magellan Billet,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+FBI,Stephanie,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+FBI,Magellan Billet,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+Stephanie,Magellan Billet,0.9259259259259258,0.0,54.629629629629626,INF,come have appear
+Treasury,Harriett,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,seem have be say step
+Levy,Danny,5.434782608695652,1.0869565217391304,54.347826086956516,5.0,have have be bear have become
+Danny,Luke,1.5625,0.78125,66.40625,2.0,teach be become choose serve
+Danny,Luke,1.5625,0.78125,66.40625,2.0,teach be become choose serve
+Stephanie,Danny,4.166666666666666,1.3888888888888888,57.407407407407405,3.0,have be involve include
+Stephanie,Treasury,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,be be know expect remain be change
+Paul Larks,Kim,1.3888888888888888,1.3888888888888888,36.11111111111111,1.0,have be watch
+Stephanie,Harriett,0.0,0.0,40.0,INF,glance
+Paul Larks,Malone,3.125,1.5625,51.5625,2.0,watch spot
+Harriett,Levy,5.46875,4.6875,58.59375,1.1666666666666667,know have be
+Stephanie,Levy,4.605263157894736,4.605263157894736,53.94736842105263,1.0,have serve have
+Kim,Stephanie,2.5,2.5,25.0,1.0,say
+Kim,Howell,1.4705882352941175,0.0,45.588235294117645,INF,stumble have think
+Howell,Kim,1.4705882352941175,0.0,45.588235294117645,INF,stumble have think
+Kim,Howell,2.5,0.0,37.5,INF,have go
+Howell,Kim,2.6785714285714284,1.7857142857142856,59.82142857142857,1.5,have major
+Knox,Harding,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Knox,Mellon,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Knox,Treasury,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Harding,Mellon,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Harding,Treasury,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Mellon,Treasury,2.083333333333333,0.0,64.58333333333334,INF,elect appoint
+Roosevelt,Mellon,5.46875,6.25,38.28125,0.875,hate
+Roosevelt,Mellon,5.46875,6.25,38.28125,0.875,hate
+Roosevelt,Mellon,5.46875,6.25,38.28125,0.875,hate
+Roosevelt,Mellon,5.46875,6.25,38.28125,0.875,hate
+Roosevelt,Mellon,1.0,2.0,69.0,0.5,be repulse bring be exonerate
+Roosevelt,Mellon,1.0,2.0,69.0,0.5,be repulse bring be exonerate
+Roosevelt,Mellon,1.0,2.0,69.0,0.5,be repulse bring be exonerate
+Roosevelt,Mellon,1.0,2.0,69.0,0.5,be repulse bring be exonerate
+Howell,Kim,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,have entice
+Howell,Mellon,2.314814814814815,5.092592592592593,55.55555555555556,0.45454545454545453,take ask learn be find
+DC,Harriett,0.35714285714285715,2.5,51.42857142857142,0.14285714285714285,sit leave spread
+DC,Harriett,0.35714285714285715,2.5,51.42857142857142,0.14285714285714285,sit leave spread
+DC,Treasury,0.35714285714285715,2.5,51.42857142857142,0.14285714285714285,sit leave spread
+Harriett,Treasury,0.35714285714285715,2.5,51.42857142857142,0.14285714285714285,sit leave spread
+Harriett,Treasury,0.35714285714285715,2.5,51.42857142857142,0.14285714285714285,sit leave spread
+Kim,Treasury,5.625,4.375,45.0,1.2857142857142858,mention want
+Kim,Malone,5.625,4.375,45.0,1.2857142857142858,mention want
+Treasury,Malone,5.625,4.375,45.0,1.2857142857142858,mention want
+Luke,Malone,4.166666666666666,0.0,62.5,INF,have report want
+Malone,Luke,4.166666666666666,0.0,62.5,INF,have report want
+Mellon,Treasury,4.464285714285714,0.0,56.25,INF,be manage remain
+Hoover,FBI,2.380952380952381,0.0,59.523809523809526,INF,be manage retain
+Hoover,Mellon,3.4482758620689653,0.8620689655172413,54.310344827586206,4.0,ensue be call materialize
+Hoover,Mellon,3.4482758620689653,0.8620689655172413,54.310344827586206,4.0,ensue be call materialize
+Knox,State,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,be
+Knox,Senate,0.0,0.0,50.0,INF,be elect
+Knox,Harding,0.390625,2.34375,66.015625,0.16666666666666666,be be defeat work elect
+Knox,Mellon,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Harding,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Mellon,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Treasury,1.5,0.5,62.0,3.0,be be urge appoint
+Mellon,Knox,1.5,0.5,62.0,3.0,be be urge appoint
+Mellon,Harding,1.5,0.5,62.0,3.0,be be urge appoint
+Mellon,Treasury,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Harding,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Mellon,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Treasury,1.5,0.5,62.0,3.0,be be urge appoint
+Harding,Mellon,1.5,0.5,62.0,3.0,be be urge appoint
+Harding,Treasury,1.5,0.5,62.0,3.0,be be urge appoint
+Mellon,Treasury,1.5,0.5,62.0,3.0,be be urge appoint
+Knox,Harding,3.75,0.0,62.916666666666664,INF,describe regard provide
+Knox,Harding,3.75,0.0,62.916666666666664,INF,describe regard provide
+Knox,Harding,3.75,0.0,62.916666666666664,INF,describe regard provide
+Knox,Harding,3.75,0.0,62.916666666666664,INF,describe regard provide
+Knox,Mellon,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,say pass be provide
+Knox,Mellon,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,say pass be provide
+Knox,Mellon,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,say pass be provide
+Knox,Mellon,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,say pass be provide
+Knox,Mellon,3.260869565217391,5.978260869565218,55.97826086956522,0.5454545454545454,be give be
+Knox,Roosevelt,0.0,0.0,56.666666666666664,INF,serve
+Knox,State,0.0,0.0,56.666666666666664,INF,serve
+Knox,Taft,0.0,0.0,56.666666666666664,INF,serve
+Roosevelt,State,0.0,0.0,56.666666666666664,INF,serve
+Roosevelt,Taft,0.0,0.0,56.666666666666664,INF,serve
+State,Taft,0.0,0.0,56.666666666666664,INF,serve
+Harding,Knox,3.75,2.5,53.75,1.5,shun resent
+Harding,Knox,3.75,2.5,53.75,1.5,shun resent
+Harding,Knox,3.75,2.5,53.75,1.5,shun resent
+Knox,Senate,0.0,3.125,56.875,0.0,continue serve represent die
+Knox,Mellon,1.4705882352941175,0.0,63.23529411764706,INF,be keep
+Roosevelt,Mellon,12.5,9.659090909090908,50.56818181818182,1.2941176470588236,hate be have accept have
+Mellon,Roosevelt,2.5,0.0,64.16666666666667,INF,meet
+Mellon,White House,2.5,0.0,64.16666666666667,INF,meet
+Roosevelt,White House,2.5,0.0,64.16666666666667,INF,meet
+Roosevelt,Finley,1.25,0.0,38.75,INF,accompany
+Finley,Roosevelt,1.25,0.0,38.75,INF,accompany
+Finley,Mellon,7.03125,1.5625,41.40625,4.5,know speak
+Finley,Mellon,3.0,3.0,54.0,1.0,write leave have see
+Finley,Mellon,3.0,3.0,54.0,1.0,write leave have see
+Finley,Mellon,0.0,0.0,54.54545454545454,INF,try learn remain
+Finley,Harriett,0.0,1.25,38.75,0.0,become say
+Harriett,Finley,7.142857142857142,0.0,21.428571428571427,INF,know
+Finley,Mellon,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,be
+Finley,Mellon,1.4423076923076923,0.0,48.55769230769231,INF,spell
+Finley,Treasury,1.4423076923076923,0.0,48.55769230769231,INF,spell
+Mellon,Treasury,1.4423076923076923,0.0,48.55769230769231,INF,spell
+Finley,Mellon,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Finley,Mellon,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Finley,Treasury,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Finley,Mellon,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Mellon,Treasury,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Mellon,Treasury,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Treasury,Mellon,1.7241379310344827,0.43103448275862066,59.91379310344828,4.0,have become pen help write assist
+Finley,Mellon,7.291666666666667,0.0,59.375,INF,remain do have request
+Treasury,FDR,2.5,3.5000000000000004,62.0,0.7142857142857143,have corral do be
+FDR,Mellon,1.25,1.875,61.875,0.6666666666666666,pay say be be find
+Roosevelt,Mellon,6.25,0.6944444444444444,51.388888888888886,9.0,have survive know become want know have play
+Mellon,Roosevelt,0.5681818181818182,4.545454545454546,58.52272727272727,0.125,die focus end grow
+Roosevelt,Mellon,1.9230769230769231,2.8846153846153846,64.42307692307693,0.6666666666666666,be concern
+Roosevelt,Finley,0.0,6.944444444444445,59.72222222222222,0.0,
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,4.807692307692308,0.4807692307692308,52.40384615384615,10.0,publish recount
+Finley,Mellon,0.0,0.0,66.66666666666666,INF,accompany
+Finley,Mellon,0.0,0.0,66.66666666666666,INF,accompany
+Stephanie,Luke,5.357142857142857,1.7857142857142856,42.857142857142854,3.0,have mention be
+Treasury,Paul Larks,0.0,3.125,46.875,0.0,do want
+Isabella,Malone,2.5,0.625,71.875,4.0,watch leave snap shut
+Isabella,Malone,2.5,0.625,71.875,4.0,watch leave snap shut
+Isabella,Paul Larks,2.5,0.625,71.875,4.0,watch leave snap shut
+Malone,Paul Larks,2.5,0.625,71.875,4.0,watch leave snap shut
+Malone,Paul Larks,2.5,0.625,71.875,4.0,watch leave snap shut
+Isabella,Paul Larks,3.3333333333333335,0.0,30.0,INF,check notice
+Paul Larks,Isabella,3.3333333333333335,0.0,30.0,INF,check notice
+Isabella,Paul Larks,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,find have be drug
+Isabella,Malone,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,find have be drug
+Paul Larks,Malone,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,find have be drug
+Isabella,Malone,8.928571428571429,0.0,19.642857142857142,INF,tell
+Kim,Malone,6.25,0.6944444444444444,48.61111111111111,9.0,have be keep
+Kim,Paul Larks,6.25,0.6944444444444444,48.61111111111111,9.0,have be keep
+Malone,Paul Larks,6.25,0.6944444444444444,48.61111111111111,9.0,have be keep
+Kim,Malone,16.666666666666664,4.166666666666666,45.83333333333333,4.0,know
+Malone,Treasury,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Malone,Paul Larks,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Malone,Kim,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Treasury,Paul Larks,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Treasury,Kim,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Treasury,Malone,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Paul Larks,Kim,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Paul Larks,Malone,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Kim,Malone,3.214285714285714,1.0714285714285714,50.0,3.0,report have tell keep watch
+Paul Larks,Kim,6.25,1.5625,42.1875,4.0,have worry breathe
+Paul Larks,Kim,4.166666666666666,2.083333333333333,43.75,2.0,be connect
+Kim,Paul Larks,3.5000000000000004,0.5,52.0,7.0,have pay be set
+Kim,Howell,3.5000000000000004,0.5,52.0,7.0,have pay be set
+Paul Larks,Howell,3.5000000000000004,0.5,52.0,7.0,have pay be set
+Stephanie,Levy,1.0869565217391304,1.0869565217391304,45.65217391304348,1.0,glance open enter
+NSA,Kim,4.545454545454546,2.272727272727273,56.81818181818182,2.0,monitor be
+Kim,Howell,0.0,0.0,25.0,INF,be
+Kim,Paul Larks,0.0,0.0,25.0,INF,be
+Howell,Paul Larks,0.0,0.0,25.0,INF,be
+Kim,Howell,5.555555555555555,1.3888888888888888,26.38888888888889,4.0,start
+Howell,Kim,5.357142857142857,0.0,37.5,INF,connect
+Howell,Paul Larks,5.357142857142857,0.0,37.5,INF,connect
+Kim,Paul Larks,5.357142857142857,0.0,37.5,INF,connect
+Kim,Mellon,5.46875,2.734375,57.421875,2.0,get miss know be try prove concern
+Howell,Paul Larks,4.642857142857143,1.4285714285714286,42.5,3.25,let say search have interfere try minimize do copy communicate
+Howell,Kim,4.642857142857143,1.4285714285714286,42.5,3.25,let say search have interfere try minimize do copy communicate
+Paul Larks,Howell,4.642857142857143,1.4285714285714286,42.5,3.25,let say search have interfere try minimize do copy communicate
+Paul Larks,Kim,4.642857142857143,1.4285714285714286,42.5,3.25,let say search have interfere try minimize do copy communicate
+Howell,Kim,4.642857142857143,1.4285714285714286,42.5,3.25,let say search have interfere try minimize do copy communicate
+Kim,Paul Larks,3.3653846153846154,2.403846153846154,44.230769230769226,1.4,suffice say have be obtain
+Kim,Howell,3.3653846153846154,2.403846153846154,44.230769230769226,1.4,suffice say have be obtain
+Paul Larks,Howell,3.3653846153846154,2.403846153846154,44.230769230769226,1.4,suffice say have be obtain
+Paul Larks,Howell,0.0,0.0,41.66666666666667,INF,be say
+Paul Larks,Harriett,0.0,0.0,41.66666666666667,INF,be say
+Howell,Harriett,0.0,0.0,41.66666666666667,INF,be say
+Kim,Paul Larks,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,have be communicate
+Paul Larks,Kim,4.861111111111112,2.083333333333333,48.61111111111111,2.3333333333333335,be be be speak
+Tumi,Paul Larks,1.6666666666666667,2.5,49.166666666666664,0.6666666666666666,have take
+Magellan Billet,Isabella,1.4423076923076923,1.4423076923076923,58.65384615384615,1.0,provide catch watch
+Magellan Billet,Isabella,1.4423076923076923,1.4423076923076923,58.65384615384615,1.0,provide catch watch
+Magellan Billet,Treasury,4.166666666666666,4.166666666666666,45.0,1.0,see notice follow
+Magellan Billet,Isabella,4.166666666666666,4.166666666666666,45.0,1.0,see notice follow
+Magellan Billet,Isabella,4.166666666666666,4.166666666666666,45.0,1.0,see notice follow
+Treasury,Isabella,4.166666666666666,4.166666666666666,45.0,1.0,see notice follow
+Treasury,Isabella,4.166666666666666,4.166666666666666,45.0,1.0,see notice follow
+Kim,Paul Larks,5.0,1.25,43.75,4.0,have be connect
+Kim,Howell,5.0,1.25,43.75,4.0,have be connect
+Paul Larks,Howell,5.0,1.25,43.75,4.0,have be connect
+Howell,Paul Larks,2.5,1.25,56.25,2.0,call have be answer
+Hana,Howell,5.555555555555555,1.3888888888888888,43.05555555555556,4.0,become watch wait
+Paul Larks,Malone,6.25,0.0,53.75,INF,wonder have happen
+Malone,Paul Larks,0.0,0.0,68.75,INF,know be
+Malone,Paul Larks,0.0,0.0,68.75,INF,know be
+Paul Larks,Hana,3.8461538461538463,1.9230769230769231,63.46153846153846,2.0,see notice see
+Isabella,Paul Larks,3.75,2.5,57.08333333333333,1.5,seek be have tote hang
+DC,Stephanie,2.5,4.166666666666666,60.0,0.6,be have appear
+DC,Danny,2.5,4.166666666666666,60.0,0.6,be have appear
+Stephanie,Danny,2.5,4.166666666666666,60.0,0.6,be have appear
+Stephanie,Danny,1.7857142857142856,0.0,55.35714285714286,INF,wonder do end
+Stephanie,Danny,1.7857142857142856,0.0,55.35714285714286,INF,wonder do end
+Stephanie,Danny,1.7857142857142856,0.0,55.35714285714286,INF,wonder do end
+Danny,Stephanie,2.083333333333333,0.0,64.58333333333334,INF,throw
+Stephanie,Treasury,5.681818181818182,0.0,44.31818181818182,INF,see be please see decide press
+Treasury,Stephanie,5.681818181818182,0.0,44.31818181818182,INF,see be please see decide press
+Treasury,Malone,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,realize risk
+Luke,Malone,4.6875,0.78125,38.28125,6.0,need know be go say
+Luke,Stephanie,4.6875,0.78125,38.28125,6.0,need know be go say
+Malone,Stephanie,4.6875,0.78125,38.28125,6.0,need know be go say
+Luke,Treasury,0.0,5.0,65.0,0.0,face point
+Mr. President,Harriett,0.0,0.0,37.5,INF,say
+Luke,Danny,4.326923076923077,3.3653846153846154,57.692307692307686,1.2857142857142858,linger end be
+Levy,Harriett,0.0,0.0,25.0,INF,be keep repeat say
+Finley,Stephanie,0.0,2.272727272727273,43.18181818181818,0.0,mutter
+Paul Larks,Kim,0.9615384615384616,0.0,37.5,INF,talk
+Paul Larks,Howell,0.9615384615384616,0.0,37.5,INF,talk
+Kim,Howell,0.9615384615384616,0.0,37.5,INF,talk
+Treasury,Paul Larks,3.125,2.34375,63.28125,1.3333333333333333,read classify be hold copy
+NSA,Kim,0.0,0.0,53.84615384615385,INF,provide
+NSA,Howell,0.0,0.0,53.84615384615385,INF,provide
+Kim,Howell,0.0,0.0,53.84615384615385,INF,provide
+Stephanie,Harriett,0.0,0.0,16.666666666666664,INF,do
+Haym Salomon,Robert Morris,0.0,0.0,50.0,INF,come fledge
+Haym Salomon,Robert Morris,0.78125,0.78125,67.1875,1.0,be enlist
+Haym Salomon,Robert Morris,2.941176470588235,0.0,55.88235294117647,INF,appear
+White House,Haym Salomon,2.8846153846153846,0.0,58.65384615384615,INF,move have compensate
+Haym Salomon,Danny,0.0,0.0,40.625,INF,multiply loan become say
+Howell,Mellon,0.0,0.43103448275862066,61.63793103448276,0.0,think find be give be lose
+Howell,Mellon,0.0,0.43103448275862066,61.63793103448276,0.0,think find be give be lose
+Danny,Stephanie,10.416666666666668,4.166666666666666,35.41666666666667,2.5,stare
+Danny,Stephanie,0.0,0.0,60.0,INF,point
+Kim,Malone,1.8518518518518516,0.9259259259259258,56.481481481481474,2.0,carry stay follow
+Hana,Malone,3.040540540540541,0.0,51.01351351351351,INF,be be walk accommodate
+Hana,Tumi,3.040540540540541,0.0,51.01351351351351,INF,be be walk accommodate
+Malone,Tumi,3.040540540540541,0.0,51.01351351351351,INF,be be walk accommodate
+Malone,Paul Larks,7.291666666666667,6.25,53.125,1.1666666666666667,delay have work
+Kim,Malone,3.3333333333333335,2.5,60.83333333333333,1.3333333333333333,watch loiter follow
+Hana,Malone,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,remain stretch run
+Malone,Hana,0.0,3.125,61.875,0.0,know follow choose gain
+Malone,Isabella,0.8333333333333334,0.8333333333333334,45.0,1.0,be focus
+Treasury,Malone,0.9259259259259258,0.4629629629629629,57.870370370370374,2.0,have happen be take
+Kim,Hana,0.0,0.0,58.333333333333336,INF,stop glance see pursue
+Kim,Hana,2.734375,0.78125,46.484375,3.5,retreat make be head
+Kim,Hana,2.734375,0.78125,46.484375,3.5,retreat make be head
+Kim,Hana,0.9615384615384616,0.0,68.26923076923077,INF,find be stand
+Kim,Hana,7.916666666666666,2.083333333333333,56.666666666666664,3.8,wonder trouble think choose be know be think
+Kim,Hana,7.916666666666666,2.083333333333333,56.666666666666664,3.8,wonder trouble think choose be know be think
+Hana,Kim,2.5,7.5,30.0,0.3333333333333333,do hate
+Kim,Hana,2.380952380952381,5.357142857142857,54.166666666666664,0.4444444444444444,raise be assume indicate
+Kim,Hana,2.380952380952381,5.357142857142857,54.166666666666664,0.4444444444444444,raise be assume indicate
+Hana,Kim,4.464285714285714,7.142857142857142,52.67857142857143,0.625,do be please fail
+Secret Service,Harriett,5.88235294117647,2.941176470588235,38.23529411764706,2.0,get ask
+Harriett,Danny,2.631578947368421,0.0,55.26315789473685,INF,have stand leave have ask stay
+Danny,Harriett,2.631578947368421,0.0,55.26315789473685,INF,have stand leave have ask stay
+Senate,White House,1.293103448275862,0.8620689655172413,56.46551724137932,1.5,start move
+Nixon,White House,7.5,1.6666666666666667,50.83333333333333,4.5,know say
+FDR,Secret Service,3.260869565217391,2.717391304347826,54.891304347826086,1.2,have
+FDR,Secret Service,3.260869565217391,2.717391304347826,54.891304347826086,1.2,have
+Tipton,FDR,2.380952380952381,0.0,64.28571428571429,INF,be stay
+Tipton,Mr. President,0.0,0.0,33.33333333333333,INF,
+FDR,Mellon,1.7857142857142856,0.0,50.595238095238095,INF,be leave
+Missy,Mellon,6.25,6.25,62.5,1.0,forget remind give
+FDR,Mr. Mellon,0.0,4.545454545454546,50.0,0.0,see do
+FDR,Mellon,0.0,0.0,56.25,INF,tell refer
+FDR,Missy,1.1363636363636365,10.227272727272728,52.27272727272727,0.1111111111111111,say ignore
+Missy,Mellon,0.0,0.0,52.94117647058824,INF,come leave retrieve
+Mellon,Lord Byron,0.0,1.1363636363636365,62.5,0.0,quote say
+Mellon,Roosevelt,0.0,1.1363636363636365,62.5,0.0,quote say
+Lord Byron,Roosevelt,0.0,1.1363636363636365,62.5,0.0,quote say
+Haym Salomon,Levy,0.0,7.291666666666667,51.041666666666664,0.0,become ask retire
+Haym Salomon,Levy,0.0,7.291666666666667,51.041666666666664,0.0,become ask retire
+Levy,Kim,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,know be talk be go
+Howell,Paul Larks,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,enter go have
+Howell,Mellon,3.225806451612903,0.0,58.06451612903226,INF,piece write know leave
+Howell,FDR,3.225806451612903,0.0,58.06451612903226,INF,piece write know leave
+Mellon,FDR,3.225806451612903,0.0,58.06451612903226,INF,piece write know leave
+Stephanie,Danny,0.0,0.0,50.0,INF,hear
+Stephanie,Danny,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+Stephanie,Danny,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+Stephanie,Danny,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+Danny,Stephanie,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+Danny,Stephanie,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+Stephanie,Danny,3.260869565217391,3.804347826086957,32.065217391304344,0.8571428571428571,gaze catch learn read say
+FDR,Tipton,5.113636363636364,2.840909090909091,46.590909090909086,1.8,hear be talk be
+Tipton,FDR,5.113636363636364,2.840909090909091,46.590909090909086,1.8,hear be talk be
+FDR,Edward Savage,1.6666666666666667,0.8333333333333334,37.5,2.0,be be be go
+Malone,Luke,1.25,0.0,63.74999999999999,INF,stand power follow have take
+Malone,Howell,1.25,0.0,63.74999999999999,INF,stand power follow have take
+Luke,Howell,1.25,0.0,63.74999999999999,INF,stand power follow have take
+Howell,Luke,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Howell,Paul Larks,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Howell,Isabella,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Luke,Howell,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Luke,Paul Larks,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Luke,Isabella,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Luke,Howell,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Howell,Paul Larks,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Howell,Isabella,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Paul Larks,Isabella,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Paul Larks,Howell,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Isabella,Howell,4.032258064516129,0.0,50.806451612903224,INF,call report have find
+Howell,Isabella,0.0,0.0,53.333333333333336,INF,be shove say
+Howell,Luke,0.0,0.0,53.333333333333336,INF,be shove say
+Isabella,Luke,0.0,0.0,53.333333333333336,INF,be shove say
+Tumi,Hana,0.0,0.0,46.666666666666664,INF,enter hurry
+Kim,Malone,1.5625,0.0,64.0625,INF,have balance leap race
+Kim,Hana,0.0,2.6785714285714284,54.46428571428571,0.0,enter spot
+Hana,Kim,0.0,0.0,53.84615384615385,INF,finish walk hand
+Hana,Kim,0.0,0.0,53.84615384615385,INF,finish walk hand
+Treasury,Isabella,5.88235294117647,1.4705882352941175,39.705882352941174,4.0,see be do
+Treasury,Isabella,5.88235294117647,1.4705882352941175,39.705882352941174,4.0,see be do
+Luke,Howell,5.263157894736842,0.0,57.89473684210527,INF,spot stand buy
+Luke,Howell,5.263157894736842,0.0,57.89473684210527,INF,spot stand buy
+Howell,Malone,2.272727272727273,0.0,43.18181818181818,INF,approach buy edge listen hear
+Howell,Malone,2.272727272727273,0.0,43.18181818181818,INF,approach buy edge listen hear
+Kim,Hana,4.310344827586207,0.8620689655172413,63.793103448275865,5.0,estimate take place have think reserve
+Howell,Paul Larks,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Howell,Paul Larks,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Howell,Paul Larks,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Howell,Paul Larks,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Howell,Paul Larks,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Paul Larks,Howell,0.390625,4.6875,54.296875,0.08333333333333333,exist recognize connect show use
+Malone,Hana,1.7857142857142856,0.8928571428571428,68.75,2.0,linger seek
+Malone,Hana,0.0,0.0,60.0,INF,see agree
+DC,Danny,2.6785714285714284,0.0,47.32142857142857,INF,drive occupy
+Danny,Stephanie,4.807692307692308,2.8846153846153846,38.46153846153847,1.6666666666666667,want drive refuse
+Secret Service,Luke,5.113636363636364,2.272727272727273,42.61363636363637,2.25,love tell say
+Secret Service,Clinton,5.113636363636364,2.272727272727273,42.61363636363637,2.25,love tell say
+Luke,Clinton,5.113636363636364,2.272727272727273,42.61363636363637,2.25,love tell say
+Secret Service,Tipton,3.75,3.75,62.5,1.0,have
+Luke,Edwin,5.357142857142857,0.0,51.78571428571429,INF,have do
+Hoover,Roosevelt,0.0,0.0,50.0,INF,serve
+Mr. President,Tipton,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be say
+Tipton,Bruenn,2.403846153846154,0.4807692307692308,47.11538461538461,5.0,watch finish ask do feel
+Bruenn,Tipton,2.403846153846154,0.4807692307692308,47.11538461538461,5.0,watch finish ask do feel
+Bruenn,Tipton,2.403846153846154,0.4807692307692308,47.11538461538461,5.0,watch finish ask do feel
+White House,Bruenn,3.90625,0.0,39.84375,INF,make say
+Tipton,Roosevelt,3.125,3.125,60.416666666666664,1.0,know be fool
+Bruenn,Roosevelt,0.6578947368421052,0.0,57.23684210526315,INF,leave reach slip clench
+Bruenn,Roosevelt,0.6578947368421052,0.0,57.23684210526315,INF,leave reach slip clench
+Tipton,Roosevelt,3.6764705882352944,0.3676470588235294,63.60294117647059,10.0,watch slide rest close help secure
+Roosevelt,Lucy,2.34375,0.0,72.65625,INF,have drive seem be
+Tipton,Lucy,3.125,3.6458333333333335,47.39583333333333,0.8571428571428571,be include bring live
+Lucy,Tipton,3.125,3.6458333333333335,47.39583333333333,0.8571428571428571,be include bring live
+Lucy,Tipton,3.125,3.6458333333333335,47.39583333333333,0.8571428571428571,be include bring live
+Tipton,Mellon,5.555555555555555,6.018518518518518,51.388888888888886,0.9230769230769231,have do intrigue be remain
+Tipton,Mellon,5.555555555555555,6.018518518518518,51.388888888888886,0.9230769230769231,have do intrigue be remain
+Mellon,Tipton,5.555555555555555,6.018518518518518,51.388888888888886,0.9230769230769231,have do intrigue be remain
+Mason,Mellon,0.6578947368421052,3.9473684210526314,53.289473684210535,0.16666666666666666,do approve
+Mellon,Mason,0.0,0.0,58.333333333333336,INF,tell begin
+Tipton,Mason,0.6944444444444444,9.722222222222223,50.69444444444444,0.07142857142857142,be think be
+Missy,Roosevelt,1.5625,0.78125,60.15625,2.0,work take
+Roosevelt,Tipton,0.0,0.9259259259259258,65.74074074074075,0.0,be say
+Morgenthau,FDR,0.0,0.0,64.28571428571429,INF,come bury
+Morgenthau,Treasury,1.6666666666666667,0.0,71.66666666666667,INF,have work serve
+Morgenthau,Roosevelt,1.6666666666666667,0.0,71.66666666666667,INF,have work serve
+Treasury,Roosevelt,1.6666666666666667,0.0,71.66666666666667,INF,have work serve
+Tipton,Danny,0.5952380952380952,1.1904761904761905,60.11904761904761,0.5,open stack hand fade
+Stephanie,Mason,0.5434782608695652,0.0,60.32608695652174,INF,see display form connect form
+Tipton,Mellon,0.0,0.5434782608695652,38.58695652173913,0.0,accord say draw give
+Tipton,FDR,0.0,0.5434782608695652,38.58695652173913,0.0,accord say draw give
+Mellon,FDR,0.0,0.5434782608695652,38.58695652173913,0.0,accord say draw give
+Roosevelt,Morgenthau,0.0,3.125,51.87500000000001,0.0,die take crumple deal
+Edwin,White House,0.0,0.0,64.70588235294117,INF,enter be
+Mr. President,Tipton,0.0,0.0,42.857142857142854,INF,be go say
+Isabella,Treasury,4.807692307692308,0.0,64.42307692307693,INF,be
+Treasury,Isabella,2.717391304347826,1.0869565217391304,61.41304347826087,2.5,be wait make be
+Isabella,Paul Larks,1.25,0.0,33.75,INF,read intercept
+Isabella,Howell,1.25,0.0,33.75,INF,read intercept
+Isabella,Kim,1.25,0.0,33.75,INF,read intercept
+Paul Larks,Howell,1.25,0.0,33.75,INF,read intercept
+Paul Larks,Kim,1.25,0.0,33.75,INF,read intercept
+Howell,Kim,1.25,0.0,33.75,INF,read intercept
+Kim,NSA,1.1904761904761905,1.7857142857142856,63.69047619047619,0.6666666666666666,have use communicate make confirm
+NSA,Kim,1.1904761904761905,1.7857142857142856,63.69047619047619,0.6666666666666666,have use communicate make confirm
+Malone,Kim,0.625,0.0,49.375,INF,stumble try take implicate
+Malone,Kim,0.625,0.0,49.375,INF,stumble try take implicate
+Malone,Kim,0.625,0.0,49.375,INF,stumble try take implicate
+Malone,Paul Larks,0.625,0.0,49.375,INF,stumble try take implicate
+Kim,Paul Larks,0.625,0.0,49.375,INF,stumble try take implicate
+Kim,Paul Larks,0.625,0.0,49.375,INF,stumble try take implicate
+Kim,Paul Larks,0.625,0.0,49.375,INF,stumble try take implicate
+Paul Larks,Kim,2.34375,7.03125,53.125,0.3333333333333333,be be choose deal
+Treasury,Isabella,0.0,0.0,55.55555555555556,INF,be have
+Paul Larks,Kim,5.952380952380952,0.5952380952380952,60.11904761904761,10.0,be have enter
+Isabella,FBI,2.976190476190476,0.0,49.404761904761905,INF,have work trust
+Isabella,Hoover,2.976190476190476,0.0,49.404761904761905,INF,have work trust
+FBI,Isabella,2.976190476190476,0.0,49.404761904761905,INF,have work trust
+FBI,Hoover,2.976190476190476,0.0,49.404761904761905,INF,have work trust
+Isabella,Hoover,2.976190476190476,0.0,49.404761904761905,INF,have work trust
+Isabella,Treasury,4.464285714285714,4.464285714285714,41.07142857142857,1.0,stand
+Treasury,Isabella,4.464285714285714,4.464285714285714,41.07142857142857,1.0,stand
+Hoover,Isabella,2.941176470588235,0.0,50.0,INF,retire be shake
+Isabella,DC,0.0,0.0,69.23076923076923,INF,hang
+Stephanie,Malone,1.5625,0.0,54.6875,INF,have play
+Stephanie,Danny,1.5625,0.0,54.6875,INF,have play
+Malone,Danny,1.5625,0.0,54.6875,INF,have play
+Stephanie,Danny,2.976190476190476,0.5952380952380952,53.57142857142857,5.0,recall be have sit
+Kim,Treasury,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Kim,Paul Larks,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Kim,Howell,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Treasury,Paul Larks,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Treasury,Howell,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Paul Larks,Howell,3.040540540540541,0.33783783783783783,50.67567567567568,9.0,know have be name
+Stephanie,Danny,17.5,1.25,41.25,14.0,wonder know
+Kim,Howell,1.5625,0.78125,35.15625,2.0,be fugitive mention
+Stephanie,Luke,1.7045454545454544,0.5681818181818182,61.36363636363637,3.0,have learn
+Paul Larks,Kim,0.0,0.0,66.66666666666666,INF,seem be find
+Danny,Lyndon Johnson,2.604166666666667,1.5625,62.5,1.6666666666666667,be disarm
+Danny,Clinton,2.604166666666667,1.5625,62.5,1.6666666666666667,be disarm
+Lyndon Johnson,Danny,2.604166666666667,1.5625,62.5,1.6666666666666667,be disarm
+Lyndon Johnson,Clinton,2.604166666666667,1.5625,62.5,1.6666666666666667,be disarm
+Danny,Clinton,2.604166666666667,1.5625,62.5,1.6666666666666667,be disarm
+Malone,Luke,5.769230769230769,0.9615384615384616,31.73076923076923,6.0,need know be
+Malone,Howell,3.6764705882352944,0.0,43.38235294117647,INF,stay board keep
+Howell,Malone,3.6764705882352944,0.0,43.38235294117647,INF,stay board keep
+Howell,Malone,3.6764705882352944,0.0,43.38235294117647,INF,stay board keep
+Howell,Justice Department,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Howell,Treasury,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Howell,Justice Department,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Howell,Treasury,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Justice Department,Treasury,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Justice Department,Howell,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Treasury,Howell,5.0,1.5,49.5,3.3333333333333335,doubt realize be
+Tumi,Howell,0.0,1.5,50.5,0.0,enter walk sit
+Howell,Malone,0.0,1.5625,42.1875,0.0,have whisper
+Howell,Stephanie,0.0,1.5625,42.1875,0.0,have whisper
+Malone,Stephanie,0.0,1.5625,42.1875,0.0,have whisper
+Malone,Stephanie,0.0,1.7857142857142856,69.64285714285714,0.0,give
+Malone,Stephanie,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Malone,Kim,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Malone,Kim,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Malone,Howell,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Malone,Paul Larks,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Stephanie,Kim,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Stephanie,Kim,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Stephanie,Howell,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Stephanie,Paul Larks,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Kim,Howell,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Kim,Paul Larks,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Kim,Howell,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Kim,Paul Larks,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Howell,Paul Larks,5.147058823529411,2.941176470588235,50.73529411764706,1.75,listen explain have be lead
+Stephanie,Howell,10.416666666666668,2.083333333333333,45.83333333333333,5.0,tell
+Kim,Luke,0.0,2.272727272727273,34.090909090909086,0.0,be say
+Luke,Kim,3.515625,2.34375,47.265625,1.5,provide connect use gather keep
+Luke,Howell,3.515625,2.34375,47.265625,1.5,provide connect use gather keep
+Luke,Kim,3.515625,2.34375,47.265625,1.5,provide connect use gather keep
+Luke,Howell,3.515625,2.34375,47.265625,1.5,provide connect use gather keep
+Kim,Howell,3.515625,2.34375,47.265625,1.5,provide connect use gather keep
+Howell,Kim,3.125,0.0,46.875,INF,read be
+Luke,Howell,1.7857142857142856,2.142857142857143,56.07142857142857,0.8333333333333334,inform be schedule arrive
+Luke,Kim,1.7857142857142856,2.142857142857143,56.07142857142857,0.8333333333333334,inform be schedule arrive
+Howell,Kim,1.7857142857142856,2.142857142857143,56.07142857142857,0.8333333333333334,inform be schedule arrive
+Malone,Luke,0.0,0.0,41.66666666666667,INF,tell
+Haym Salomon,Luke,0.0,0.0,33.33333333333333,INF,say
+Haym Salomon,Congress,2.8846153846153846,4.807692307692308,53.84615384615385,0.6,make
+Congress,Haym Salomon,2.8846153846153846,4.807692307692308,53.84615384615385,0.6,make
+Haym Salomon,George Washington,0.0,0.0,58.333333333333336,INF,become
+Paul Larks,Treasury,1.5,1.0,53.5,1.5,be investigate deal
+Paul Larks,Haym Salomon,1.5,1.0,53.5,1.5,be investigate deal
+Treasury,Haym Salomon,1.5,1.0,53.5,1.5,be investigate deal
+Paul Larks,Mellon,3.4482758620689653,3.0172413793103448,65.94827586206897,1.1428571428571428,find be purge be look authorize
+Paul Larks,Congress,3.4482758620689653,3.0172413793103448,65.94827586206897,1.1428571428571428,find be purge be look authorize
+Mellon,Congress,3.4482758620689653,3.0172413793103448,65.94827586206897,1.1428571428571428,find be purge be look authorize
+FDR,Mellon,1.1363636363636365,0.0,62.5,INF,order confirm have take
+FDR,Haym Salomon,1.1363636363636365,0.0,62.5,INF,order confirm have take
+Mellon,Haym Salomon,1.1363636363636365,0.0,62.5,INF,order confirm have take
+Isabella,Luke,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,wonder have work
+Isabella,Magellan Billet,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,wonder have work
+Luke,Magellan Billet,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,wonder have work
+Luke,Stephanie,0.0,0.0,60.0,INF,smile
+Stephanie,Luke,0.78125,1.5625,47.65625,0.5,be come notice
+Stephanie,Luke,1.25,0.0,68.75,INF,watch study
+Finley,Luke,4.861111111111112,4.861111111111112,40.27777777777778,1.0,be say
+Stephanie,Luke,0.0,0.0,55.55555555555556,INF,decide toss
+Treasury,Congress,0.8064516129032258,0.0,54.03225806451613,INF,act forbid use appropriate
+Stephanie,Luke,0.0,0.0,62.5,INF,point hold
+Stephanie,Luke,0.0,0.0,50.0,INF,lead
+Malone,Howell,2.0,3.0,47.0,0.6666666666666666,assume have lead be
+Malone,Howell,2.0,3.0,47.0,0.6666666666666666,assume have lead be
+Howell,Malone,2.0,3.0,47.0,0.6666666666666666,assume have lead be
+Howell,Malone,2.0,3.0,47.0,0.6666666666666666,assume have lead be
+Howell,Jelena,6.25,0.625,63.125,10.0,study have say be name be be connect
+Jelena,Howell,0.0,0.5952380952380952,51.78571428571429,0.0,stand kiss walk leave
+Howell,Hana,5.357142857142857,2.6785714285714284,41.964285714285715,2.0,be separate catch
+Hana,Howell,5.357142857142857,2.6785714285714284,41.964285714285715,2.0,be separate catch
+Howell,Hana,1.25,0.0,48.75,INF,see know do
+Malone,Kim,1.9736842105263157,1.3157894736842104,38.81578947368421,1.5,study be
+Malone,Howell,1.9736842105263157,1.3157894736842104,38.81578947368421,1.5,study be
+Kim,Howell,1.9736842105263157,1.3157894736842104,38.81578947368421,1.5,study be
+Howell,Kim,1.171875,1.171875,50.78125,1.0,have assume know have set
+Howell,Kim,1.171875,1.171875,50.78125,1.0,have assume know have set
+Howell,Kim,1.171875,1.171875,50.78125,1.0,have assume know have set
+Howell,Paul Larks,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Howell,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Paul Larks,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Howell,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Paul Larks,1.171875,1.171875,50.78125,1.0,have assume know have set
+Howell,Kim,1.171875,1.171875,50.78125,1.0,have assume know have set
+Howell,Paul Larks,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Paul Larks,1.171875,1.171875,50.78125,1.0,have assume know have set
+Kim,Howell,0.0,2.6785714285714284,47.32142857142857,0.0,walk sit
+Kim,Howell,2.34375,0.0,53.90625,INF,take see seem register
+Jelena,Howell,2.34375,0.0,60.15625,INF,send be inform
+Howell,Malone,7.352941176470589,1.4705882352941175,61.76470588235294,5.0,have forget be watch
+Stephanie,Levy,0.0,0.0,27.27272727272727,INF,mean say
+Stephanie,Levy,0.0,0.0,27.27272727272727,INF,mean say
+Stephanie,Malone,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Stephanie,Luke,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Stephanie,Treasury,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Stephanie,Isabella,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Malone,Luke,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Malone,Treasury,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Malone,Isabella,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Luke,Treasury,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Luke,Isabella,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Treasury,Isabella,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,end have call have make name
+Treasury,Jelena,0.0,0.0,46.15384615384615,INF,have recall say
+Dawn,Tipton,0.0,0.0,33.33333333333333,INF,make use
+Dawn,Tipton,0.0,0.0,33.33333333333333,INF,make use
+Danny,Dawn,4.807692307692308,0.9615384615384616,55.769230769230774,5.0,have assure have say be
+FDR,Danny,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,be say
+Dawn,Roosevelt,7.142857142857142,7.142857142857142,57.14285714285714,1.0,know
+FDR,Danny,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,have read say
+Kennedy,Clinton,7.5,5.0,37.5,1.5,talk
+Mellon,FDR,4.166666666666666,0.8333333333333334,35.0,5.0,know give meet
+George Washington,Robert Morris,0.0,0.0,50.0,INF,
+George Washington,Haym Salomon,0.0,0.0,50.0,INF,
+Robert Morris,Haym Salomon,0.0,0.0,50.0,INF,
+Mellon,FDR,0.0,0.0,33.33333333333333,INF,be use
+FDR,Morgenthau,2.314814814814815,0.4629629629629629,52.77777777777778,5.0,know exist die be give
+FDR,Treasury,2.314814814814815,0.4629629629629629,52.77777777777778,5.0,know exist die be give
+Morgenthau,Treasury,2.314814814814815,0.4629629629629629,52.77777777777778,5.0,know exist die be give
+Mellon,FDR,3.125,1.953125,54.296875,1.6,hold ask hide be give find
+Mellon,FDR,0.0,17.1875,57.8125,0.0,hate
+Mellon,FDR,15.625,0.0,59.375,INF,want find
+Mellon,Roosevelt,1.4705882352941175,5.147058823529411,58.08823529411765,0.2857142857142857,be say have destroy
+FDR,Mellon,0.0,9.166666666666666,50.83333333333333,0.0,do have skip
+Mellon,FDR,3.571428571428571,1.1904761904761905,38.095238095238095,3.0,overestimate say do take
+Mellon,FDR,3.571428571428571,1.1904761904761905,38.095238095238095,3.0,overestimate say do take
+Tipton,FDR,1.0869565217391304,0.0,68.47826086956522,INF,seem die have decide pay
+Malone,Kim,0.8928571428571428,2.6785714285714284,53.57142857142857,0.3333333333333333,watch leave
+Malone,Tumi,0.8928571428571428,2.6785714285714284,53.57142857142857,0.3333333333333333,watch leave
+Kim,Tumi,0.8928571428571428,2.6785714285714284,53.57142857142857,0.3333333333333333,watch leave
+Kim,Howell,0.0,0.9615384615384616,49.03846153846153,0.0,be go decide stick see be learn
+Kim,Howell,0.0,0.9615384615384616,49.03846153846153,0.0,be go decide stick see be learn
+Kim,Jelena,0.0,0.0,30.0,INF,have
+Kim,Jelena,3.3333333333333335,0.0,56.666666666666664,INF,say kill do
+Kim,Jelena,3.3333333333333335,0.0,56.666666666666664,INF,say kill do
+Paul Larks,Jelena,0.0,0.0,52.94117647058824,INF,buy change
+Howell,Paul Larks,0.0,0.0,66.66666666666666,INF,doubt buy
+Kim,Howell,2.083333333333333,1.0416666666666665,46.875,2.0,zero say tell be
+Kim,Hana,2.8846153846153846,0.0,27.884615384615387,INF,enter have book
+Kim,State,6.25,0.9868421052631579,53.289473684210535,6.333333333333333,like move compare have try gain be
+Kim,State,6.25,0.9868421052631579,53.289473684210535,6.333333333333333,like move compare have try gain be
+Hana,Malone,0.0,1.0416666666666665,53.125,0.0,point lay labor use
+Hana,Paul Larks,0.0,1.0416666666666665,53.125,0.0,point lay labor use
+Malone,Paul Larks,0.0,1.0416666666666665,53.125,0.0,point lay labor use
+Jelena,Hana,0.0,5.0,35.0,0.0,be say
+Malone,Hana,0.8928571428571428,0.0,56.25,INF,see notice smile
+Hana,Malone,0.8928571428571428,0.0,56.25,INF,see notice smile
+Malone,Howell,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,listen explain come hold be apportion
+Malone,Supreme Court,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,listen explain come hold be apportion
+Howell,Supreme Court,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,listen explain come hold be apportion
+White House,Senate,1.953125,2.34375,61.328125,0.8333333333333334,introduce kill
+Senate,White House,2.5,0.8333333333333334,36.666666666666664,3.0,back
+State,Knox,2.403846153846154,0.4807692307692308,58.65384615384615,5.0,ratify declare
+State,Knox,2.403846153846154,0.4807692307692308,58.65384615384615,5.0,ratify declare
+State,Knox,2.403846153846154,0.4807692307692308,58.65384615384615,5.0,ratify declare
+Howell,Malone,0.0,0.0,52.94117647058824,INF,be approve tell be
+Howell,Kim,0.0,2.083333333333333,56.25,0.0,study see
+Jelena,Howell,6.8181818181818175,6.8181818181818175,22.727272727272727,1.0,be say
+Department of Justice,Howell,2.857142857142857,1.7857142857142856,41.07142857142857,1.6,know
+Treasury,Paul Larks,4.761904761904762,2.976190476190476,77.97619047619048,1.6,have be hide find
+Malone,Howell,2.2058823529411766,2.2058823529411766,36.76470588235294,1.0,listen try assess
+Mellon,FDR,4.545454545454546,2.272727272727273,65.9090909090909,2.0,hear
+Paul Larks,Haym Salomon,1.9230769230769231,0.9615384615384616,70.1923076923077,2.0,be task find be owe
+Mellon,Treasury,2.6785714285714284,0.4464285714285714,61.16071428571429,6.0,be do find have take
+Mellon,Treasury,1.3157894736842104,0.0,61.8421052631579,INF,go order forget see
+Treasury,Mellon,1.3157894736842104,0.0,61.8421052631579,INF,go order forget see
+Treasury,Mellon,1.3157894736842104,0.0,61.8421052631579,INF,go order forget see
+Kim,IRS,1.1363636363636365,0.0,71.5909090909091,INF,think be be
+Malone,Kim,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Malone,Howell,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Malone,Paul Larks,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Malone,Howell,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Kim,Howell,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Kim,Paul Larks,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Kim,Howell,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Howell,Paul Larks,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Paul Larks,Howell,0.0,0.0,43.47826086956522,INF,figure be play work learn
+Paul Larks,Kim,1.3157894736842104,1.3157894736842104,50.0,1.0,mention be talk say
+Paul Larks,Howell,1.3157894736842104,1.3157894736842104,50.0,1.0,mention be talk say
+Kim,Howell,1.3157894736842104,1.3157894736842104,50.0,1.0,mention be talk say
+Mellon,FDR,0.0,0.78125,61.71875,0.0,be give
+Department of Justice,State,2.450980392156863,1.1029411764705883,48.40686274509804,2.2222222222222223,refer propose be be find be be request prepare be make revise
+Department of Justice,State,2.450980392156863,1.1029411764705883,48.40686274509804,2.2222222222222223,refer propose be be find be be request prepare be make revise
+Supreme Court,Congress,2.7777777777777777,1.9444444444444444,50.83333333333333,1.4285714285714286,have consider have rule be require do be
+Howell,State,1.524390243902439,0.3048780487804878,54.268292682926834,5.0,know be declare check hold be send
+Howell,State,1.524390243902439,0.3048780487804878,54.268292682926834,5.0,know be declare check hold be send
+Howell,State,1.524390243902439,0.3048780487804878,54.268292682926834,5.0,know be declare check hold be send
+Howell,State,1.524390243902439,0.3048780487804878,54.268292682926834,5.0,know be declare check hold be send
+Treasury,Morgenthau,2.083333333333333,0.0,47.91666666666667,INF,do find date
+Treasury,Mellon,2.586206896551724,1.7241379310344827,64.65517241379311,1.5,participate be hire be have be uncover
+Treasury,Mellon,2.586206896551724,1.7241379310344827,64.65517241379311,1.5,participate be hire be have be uncover
+Mellon,Treasury,2.586206896551724,1.7241379310344827,64.65517241379311,1.5,participate be hire be have be uncover
+Treasury,Mellon,2.586206896551724,1.7241379310344827,64.65517241379311,1.5,participate be hire be have be uncover
+Paul Larks,Treasury,0.0,0.0,50.0,INF,
+Isabella,Luke,1.0869565217391304,0.0,55.434782608695656,INF,climb go
+Isabella,Luke,1.0869565217391304,0.0,55.434782608695656,INF,climb go
+Luke,Magellan Billet,3.125,0.4464285714285714,53.57142857142857,7.0,work go have be
+Malone,Howell,2.5,0.0,27.500000000000004,INF,wait explain
+Paul Larks,Treasury,2.631578947368421,1.9736842105263157,74.3421052631579,1.3333333333333333,tell find crumple
+Mellon,Roosevelt,7.142857142857142,0.0,50.0,INF,know meet
+Finley,Mellon,0.0,0.0,47.61904761904761,INF,come publish
+Mellon,Roosevelt,0.0,0.4464285714285714,53.125,0.0,be finalize give crumple toss
+Howell,Kim,2.8846153846153846,1.9230769230769231,41.34615384615385,1.5,call allow walk
+Kim,Howell,4.166666666666666,1.8518518518518516,56.94444444444444,2.25,listen tell make
+Kim,Howell,4.166666666666666,1.8518518518518516,56.94444444444444,2.25,listen tell make
+Kim,State,4.166666666666666,1.8518518518518516,56.94444444444444,2.25,listen tell make
+Howell,State,4.166666666666666,1.8518518518518516,56.94444444444444,2.25,listen tell make
+Howell,State,4.166666666666666,1.8518518518518516,56.94444444444444,2.25,listen tell make
+State,Knox,1.0,0.5,54.50000000000001,2.0,note approve
+Howell,White House,6.25,0.625,55.625,10.0,explain violate provide be read pass submit
+Howell,Senate,6.25,0.625,55.625,10.0,explain violate provide be read pass submit
+White House,Senate,6.25,0.625,55.625,10.0,explain violate provide be read pass submit
+Kim,Paul Larks,2.7777777777777777,0.0,47.22222222222222,INF,read have provide
+Kim,Treasury,2.7777777777777777,0.0,47.22222222222222,INF,read have provide
+Paul Larks,Treasury,2.7777777777777777,0.0,47.22222222222222,INF,read have provide
+State,Knox,5.514705882352941,0.3676470588235294,55.88235294117647,15.0,be state be associate
+White House,Senate,0.5681818181818182,3.977272727272727,59.09090909090909,0.14285714285714285,be
+Knox,Hana,0.0,0.0,66.66666666666666,INF,glance
+Knox,Paul Larks,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Knox,Paul Larks,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Knox,Paul Larks,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Paul Larks,Knox,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Knox,Paul Larks,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Knox,Paul Larks,6.25,1.7857142857142856,63.39285714285714,3.5,be perceive have tell
+Howell,Roosevelt,2.840909090909091,1.1363636363636365,64.20454545454545,2.5,think have be give
+Howell,Mellon,2.840909090909091,1.1363636363636365,64.20454545454545,2.5,think have be give
+Roosevelt,Mellon,2.840909090909091,1.1363636363636365,64.20454545454545,2.5,think have be give
+Paul Larks,Howell,2.5,0.0,47.5,INF,be have say describe
+Jelena,Hana,2.631578947368421,0.0,55.26315789473685,INF,name lay daze have administer
+Malone,Kim,0.8928571428571428,3.571428571428571,59.82142857142857,0.25,imagine be ensconce
+Paul Larks,Howell,0.8928571428571428,1.7857142857142856,47.32142857142857,0.5,get be say
+Kim,Hana,0.5681818181818182,0.0,44.88636363636363,INF,lead help walk
+Hana,Kim,0.5681818181818182,0.0,44.88636363636363,INF,lead help walk
+Kim,Hana,12.5,5.0,42.5,2.5,admire
+Kim,Hana,1.0416666666666665,0.0,65.625,INF,watch press fire
+Malone,Howell,0.7352941176470588,1.4705882352941175,33.088235294117645,0.5,spring motion come
+Malone,Howell,0.7352941176470588,1.4705882352941175,33.088235294117645,0.5,spring motion come
+Jelena,Howell,0.0,3.571428571428571,10.714285714285714,0.0,mutter
+Isabella,Luke,0.0,0.0,53.333333333333336,INF,exit pay
+Luke,Treasury,1.875,4.375,43.75,0.42857142857142855,resent know use
+Kim,Malone,1.1363636363636365,0.0,35.22727272727273,INF,get say
+Kim,Malone,0.78125,7.03125,48.4375,0.1111111111111111,be catch say
+Stephanie,Ed Tipton,0.0,3.8461538461538463,42.30769230769231,0.0,drive
+Danny,Stephanie,1.1904761904761905,0.0,46.42857142857143,INF,have borrow tuck compensate
+Danny,Tipton,1.1904761904761905,0.0,46.42857142857143,INF,have borrow tuck compensate
+Stephanie,Tipton,1.1904761904761905,0.0,46.42857142857143,INF,have borrow tuck compensate
+Stephanie,Tipton,3.8461538461538463,2.403846153846154,47.59615384615385,1.6,be block see know ask cut
+Stephanie,Tipton,3.8461538461538463,2.403846153846154,47.59615384615385,1.6,be block see know ask cut
+Mason,Dawn,4.464285714285714,0.8928571428571428,51.78571428571429,5.0,do know be say
+Edwin,Finley,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Edwin,Mellon,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Edwin,Finley,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Edwin,Mellon,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Finley,Mellon,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Finley,Mellon,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Mellon,Finley,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Finley,Mellon,2.7777777777777777,0.4629629629629629,56.018518518518526,6.0,tell write be
+Mellon,Roosevelt,4.464285714285714,1.7857142857142856,36.607142857142854,2.5,see fight say
+Mellon,Danny,4.464285714285714,1.7857142857142856,36.607142857142854,2.5,see fight say
+Roosevelt,Danny,4.464285714285714,1.7857142857142856,36.607142857142854,2.5,see fight say
+Mellon,Danny,0.0,0.0,55.55555555555556,INF,be say
+Edwin,Paul Larks,0.0,3.6764705882352944,66.91176470588235,0.0,find have steal
+Morgenthau,Tipton,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Mellon,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Roosevelt,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Paul Larks,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Tipton,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Mellon,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Roosevelt,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Paul Larks,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Morgenthau,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Tipton,Mellon,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Tipton,Roosevelt,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Tipton,Paul Larks,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Tipton,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Mellon,Roosevelt,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Mellon,Paul Larks,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Mellon,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Roosevelt,Paul Larks,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Roosevelt,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Paul Larks,Treasury,0.7575757575757576,0.7575757575757576,53.03030303030303,1.0,bet classify get give swipe
+Luke,Malone,0.0,0.0,55.00000000000001,INF,check leave
+Luke,White House,0.0,0.0,55.00000000000001,INF,check leave
+Malone,White House,0.0,0.0,55.00000000000001,INF,check leave
+Isabella,Luke,0.0,0.0,64.70588235294117,INF,run gleam
+Isabella,Luke,2.2058823529411766,0.0,44.85294117647059,INF,wonder mean tell be
+Isabella,Luke,2.2058823529411766,0.0,44.85294117647059,INF,wonder mean tell be
+Isabella,Malone,2.2058823529411766,0.0,44.85294117647059,INF,wonder mean tell be
+Luke,Malone,2.2058823529411766,0.0,44.85294117647059,INF,wonder mean tell be
+Luke,Malone,2.2058823529411766,0.0,44.85294117647059,INF,wonder mean tell be
+Isabella,Luke,1.1904761904761905,0.0,53.57142857142857,INF,come flag stop retrieve fling yank shove
+Isabella,Luke,1.1904761904761905,0.0,53.57142857142857,INF,come flag stop retrieve fling yank shove
+Isabella,Kim,0.5,0.75,52.75,0.6666666666666666,be follow rim head assume run have head
+Isabella,Malone,0.5,0.75,52.75,0.6666666666666666,be follow rim head assume run have head
+Kim,Malone,0.5,0.75,52.75,0.6666666666666666,be follow rim head assume run have head
+Kim,Isabella,0.0,0.8928571428571428,56.25,0.0,keep tell
+Kim,Hana,0.0,0.0,12.5,INF,stand
+Malone,Kim,1.8518518518518516,1.8518518518518516,55.55555555555556,1.0,be slow be close
+Kim,Malone,1.8518518518518516,1.8518518518518516,55.55555555555556,1.0,be slow be close
+Malone,Luke,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,hope be make
+Malone,Kim,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,hope be make
+Luke,Kim,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,hope be make
+Kim,Hana,0.0,0.0,38.46153846153847,INF,step make
+Malone,Howell,0.0,0.0,36.36363636363637,INF,yell see
+Jelena,Malone,0.0,0.0,28.57142857142857,INF,be
+Howell,Kim,4.761904761904762,1.1904761904761905,41.66666666666667,4.0,realize have make choose be know
+Howell,Kim,4.761904761904762,1.1904761904761905,41.66666666666667,4.0,realize have make choose be know
+Howell,Kim,4.761904761904762,1.1904761904761905,41.66666666666667,4.0,realize have make choose be know
+Malone,Luke,0.0,0.0,40.0,INF,get say
+DC,Stephanie,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+DC,Danny,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+DC,White House,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+DC,Stephanie,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+Stephanie,Danny,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+Stephanie,White House,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+Danny,White House,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+Danny,Stephanie,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+White House,Stephanie,1.3392857142857142,0.0,52.23214285714286,INF,drop head stay
+Stephanie,Justice Department,4.0,1.5,66.5,2.6666666666666665,have be deliver have meet arrive
+Stephanie,Justice Department,0.8928571428571428,0.0,59.82142857142857,INF,have haul tip lay
+Stephanie,Justice Department,0.8928571428571428,0.0,59.82142857142857,INF,have haul tip lay
+Luke,Treasury,1.5151515151515151,0.0,62.121212121212125,INF,hear be head be remain include
+Luke,Malone,1.5151515151515151,0.0,62.121212121212125,INF,hear be head be remain include
+Treasury,Malone,1.5151515151515151,0.0,62.121212121212125,INF,hear be head be remain include
+Danny,Howell,3.6458333333333335,0.5208333333333333,58.333333333333336,7.0,have encourage read want come
+Howell,Danny,3.6458333333333335,0.5208333333333333,58.333333333333336,7.0,have encourage read want come
+Congress,State,2.1739130434782608,0.0,67.3913043478261,INF,enact govern approve
+State,Congress,0.9259259259259258,2.314814814814815,67.12962962962963,0.4,assert act intend ratify reject propose
+Supreme Court,State,2.314814814814815,2.5462962962962963,45.13888888888889,0.9090909090909091,hold certify have be ratify be empower look determine be
+Howell,Danny,3.4090909090909087,4.545454545454546,51.13636363636363,0.75,be echo have express
+Howell,State,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+Howell,Knox,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+State,Knox,2.127659574468085,1.5957446808510638,57.97872340425532,1.3333333333333333,have be present prove have cite be ratify
+Knox,Danny,0.0,0.0,20.0,INF,agree
+Kim,Hana,2.34375,0.78125,53.125,3.0,seem affect have be
+Kim,Hana,5.0,0.8333333333333334,27.500000000000004,6.0,need know be say
+Malone,Jelena,2.2058823529411766,0.0,50.73529411764706,INF,surface search
+Malone,Jelena,6.25,1.25,52.5,5.0,go try find roll
+Malone,Jelena,6.25,1.25,52.5,5.0,go try find roll
+Malone,Jelena,11.11111111111111,6.944444444444445,48.61111111111111,1.6,wonder have be drug
+Jelena,Kim,0.0,0.0,44.44444444444444,INF,yell
+Kim,Howell,5.46875,0.78125,50.0,7.0,hope have keep follow
+Kim,Howell,5.46875,0.78125,50.0,7.0,hope have keep follow
+Howell,Jelena,5.769230769230769,4.807692307692308,43.269230769230774,1.2,be sweep
+Malone,Howell,0.0,0.0,66.66666666666666,INF,keep grab stabilize
+Luke,Isabella,6.25,4.464285714285714,60.71428571428571,1.4,have keep shut have
+Luke,Isabella,6.25,4.464285714285714,60.71428571428571,1.4,have keep shut have
+Isabella,Luke,0.0,1.1363636363636365,35.22727272727273,0.0,sort whisper be
+Luke,Isabella,0.0,0.0,66.66666666666666,INF,throw
+Isabella,Malone,6.730769230769231,1.9230769230769231,45.19230769230769,3.5,hope have be stop
+Isabella,Kim,6.730769230769231,1.9230769230769231,45.19230769230769,3.5,hope have be stop
+Malone,Kim,6.730769230769231,1.9230769230769231,45.19230769230769,3.5,hope have be stop
+Malone,Luke,1.4285714285714286,3.571428571428571,60.71428571428571,0.4,realize be be be catch
+Malone,Luke,1.4285714285714286,3.571428571428571,60.71428571428571,0.4,realize be be be catch
+Malone,Luke,1.4285714285714286,3.571428571428571,60.71428571428571,0.4,realize be be be catch
+Luke,Isabella,8.333333333333332,0.0,33.33333333333333,INF,do have
+Isabella,Malone,3.4722222222222223,0.0,46.52777777777778,INF,hear say see have understand
+Isabella,Malone,6.25,4.166666666666666,39.58333333333333,1.5,like
+Luke,Isabella,3.4722222222222223,3.4722222222222223,48.61111111111111,1.0,have find mean be go
+Luke,Kim,3.4722222222222223,3.4722222222222223,48.61111111111111,1.0,have find mean be go
+Isabella,Kim,3.4722222222222223,3.4722222222222223,48.61111111111111,1.0,have find mean be go
+Kim,Howell,3.125,0.0,53.125,INF,be sit
+Hana,Howell,8.333333333333332,7.291666666666667,42.70833333333333,1.1428571428571428,do know be
+Hana,Sun Hi,4.166666666666666,0.0,62.5,INF,help
+Hana,Sun Hi,0.0,2.976190476190476,49.404761904761905,0.0,provide remove clean
+Hana,Sun Hi,2.717391304347826,3.804347826086957,45.65217391304348,0.7142857142857143,be draw be
+Hana,Sun Hi,2.717391304347826,3.804347826086957,45.65217391304348,0.7142857142857143,be draw be
+Hana,Sun Hi,0.0,8.333333333333332,58.333333333333336,0.0,make think
+Sun Hi,Hana,2.941176470588235,1.4705882352941175,60.29411764705882,2.0,die have know lay
+Sun Hi,Hana,0.0,0.0,66.66666666666666,INF,steal be starve
+Sun Hi,Hana,0.0,4.807692307692308,41.34615384615385,0.0,be tell
+Hana,Sun Hi,2.34375,3.90625,31.25,0.6,forget
+Sun Hi,Hana,2.34375,3.90625,31.25,0.6,forget
+Hana,Sun Hi,4.166666666666666,5.952380952380952,47.023809523809526,0.7,mean understand think
+Hana,Sun Hi,4.166666666666666,5.952380952380952,47.023809523809526,0.7,mean understand think
+Stephanie,Mellon,7.5,1.6666666666666667,57.49999999999999,4.5,recall read
+Stephanie,Knox,7.5,1.6666666666666667,57.49999999999999,4.5,recall read
+Mellon,Knox,7.5,1.6666666666666667,57.49999999999999,4.5,recall read
+Knox,Harding,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Knox,Mellon,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Knox,Mellon,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Knox,Treasury,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Harding,Mellon,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Harding,Mellon,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Harding,Treasury,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Mellon,Treasury,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Mellon,Treasury,3.260869565217391,1.0869565217391304,60.86956521739131,3.0,be appoint
+Stephanie,Treasury,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,find have be flag have intrigue
+Stephanie,Harriett,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,find have be flag have intrigue
+Treasury,Stephanie,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,find have be flag have intrigue
+Treasury,Harriett,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,find have be flag have intrigue
+Stephanie,Harriett,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,find have be flag have intrigue
+Knox,Mellon,0.7352941176470588,1.4705882352941175,62.5,0.5,say pass
+Knox,Taft,1.9230769230769231,0.9615384615384616,62.5,2.0,be have be propose approve
+Knox,Taft,1.9230769230769231,0.9615384615384616,62.5,2.0,be have be propose approve
+Knox,Congress,1.9230769230769231,0.9615384615384616,62.5,2.0,be have be propose approve
+Taft,Congress,1.9230769230769231,0.9615384615384616,62.5,2.0,be have be propose approve
+Taft,Congress,1.9230769230769231,0.9615384615384616,62.5,2.0,be have be propose approve
+Taft,Roosevelt,1.25,0.625,53.125,2.0,support
+Taft,Woodrow Wilson,1.25,0.625,53.125,2.0,support
+Roosevelt,Woodrow Wilson,1.25,0.625,53.125,2.0,support
+Knox,State,1.644736842105263,2.9605263157894735,55.92105263157895,0.5555555555555556,act want hear be be
+Knox,State,1.644736842105263,2.9605263157894735,55.92105263157895,0.5555555555555556,act want hear be be
+Harding,Knox,0.0,0.0,41.66666666666667,INF,come
+Harding,Knox,0.9615384615384616,0.0,72.11538461538461,INF,be inaugurate sit have become
+Treasury,Knox,3.260869565217391,2.717391304347826,59.2391304347826,1.2,think know be
+Treasury,Mellon,3.260869565217391,2.717391304347826,59.2391304347826,1.2,think know be
+Knox,Mellon,3.260869565217391,2.717391304347826,59.2391304347826,1.2,think know be
+Knox,Mellon,7.5,0.0,82.5,INF,think
+Mellon,Howell,0.0,5.681818181818182,39.77272727272727,0.0,know do
+Mellon,Danny,4.166666666666666,0.0,29.166666666666668,INF,agree
+Mellon,Howell,3.3333333333333335,0.0,36.666666666666664,INF,page read
+Isabella,Luke,0.0,0.0,63.63636363636363,INF,sit
+Isabella,Luke,0.0,0.0,45.45454545454545,INF,stand walk shake
+Isabella,Luke,0.0,10.416666666666668,39.58333333333333,0.0,do answer
+Luke,Isabella,7.8125,3.125,51.5625,2.5,stare
+Isabella,Malone,7.954545454545454,0.0,46.590909090909086,INF,do have find
+Isabella,Malone,1.25,0.0,48.75,INF,sit be leave
+Justice Department,Treasury,2.5,1.25,46.25,2.0,look be dispatch
+Isabella,Malone,12.5,2.272727272727273,30.681818181818183,5.5,want know
+Isabella,Malone,0.0,7.8125,67.1875,0.0,know be
+Luke,Isabella,5.46875,0.78125,31.25,7.0,be like
+Isabella,Luke,9.090909090909092,0.0,36.36363636363637,INF,rid
+Isabella,Malone,0.0,0.625,44.375,0.0,know be get talk
+Isabella,Malone,0.0,0.625,44.375,0.0,know be get talk
+Malone,Isabella,0.0,0.625,44.375,0.0,know be get talk
+Isabella,Malone,0.0,0.625,44.375,0.0,know be get talk
+Isabella,Luke,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,see grab
+DC,Stephanie,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+DC,Treasury,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+DC,Paul Larks,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+Stephanie,Treasury,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+Stephanie,Paul Larks,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+Treasury,Paul Larks,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,examine have bring have copy
+Stephanie,Paul Larks,0.0,0.0,66.66666666666666,INF,know be lie
+Malone,Stephanie,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Malone,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Malone,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Malone,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Stephanie,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Stephanie,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Stephanie,Paul Larks,1.4285714285714286,1.7857142857142856,62.5,0.8,have brief learn include have steal
+Paul Larks,Stephanie,4.166666666666666,1.3888888888888888,38.88888888888889,3.0,seem sense
+Stephanie,Malone,0.8928571428571428,0.0,56.25,INF,speak have leave come
+Stephanie,Treasury,0.0,0.0,60.0,INF,remember come
+Morgenthau,FDR,10.416666666666668,0.6944444444444444,55.55555555555556,15.0,know be write
+Stephanie,White House,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,tell have happen have intervene
+Stephanie,White House,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,tell have happen have intervene
+Edwin,State,4.017857142857143,0.0,49.55357142857143,INF,have handle send secure
+Ms. Schaefer,Stephanie,2.083333333333333,4.166666666666666,35.41666666666667,0.5,have be indispose tell
+White House,Ms. Schaefer,1.7857142857142856,0.0,48.214285714285715,INF,have order go
+Stephanie,Treasury,0.0,0.0,56.52173913043478,INF,see be date
+Stephanie,Morgenthau,0.0,0.0,56.52173913043478,INF,see be date
+Stephanie,Roosevelt,0.0,0.0,56.52173913043478,INF,see be date
+Treasury,Morgenthau,0.0,0.0,56.52173913043478,INF,see be date
+Treasury,Roosevelt,0.0,0.0,56.52173913043478,INF,see be date
+Morgenthau,Roosevelt,0.0,0.0,56.52173913043478,INF,see be date
+Mellon,Haym Salomon,1.7857142857142856,0.0,62.5,INF,learn be have
+Congress,Treasury,0.4166666666666667,0.0,66.25,INF,be consider make exist
+Haym Salomon,Mellon,4.605263157894736,1.9736842105263157,51.31578947368421,2.3333333333333335,be miss be leave find
+FDR,Mellon,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+FDR,Mellon,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+FDR,Secret Service,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+FDR,Tipton,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Mellon,Secret Service,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Mellon,Tipton,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Mellon,Secret Service,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Mellon,Tipton,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Secret Service,Tipton,7.236842105263158,5.263157894736842,50.6578947368421,1.375,have discuss
+Ed Tipton,Danny,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+Ed Tipton,FDR,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+Ed Tipton,Mason,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+Danny,FDR,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+Danny,Mason,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+FDR,Mason,4.166666666666666,3.3333333333333335,52.5,1.25,have tell have focus
+Morgenthau,Mellon,0.0,7.5,42.5,0.0,hate say
+Morgenthau,Levy,0.0,7.5,42.5,0.0,hate say
+Mellon,Levy,0.0,7.5,42.5,0.0,hate say
+Mellon,Roosevelt,4.545454545454546,1.1363636363636365,57.95454545454546,4.0,support
+Roosevelt,Mellon,4.545454545454546,1.1363636363636365,57.95454545454546,4.0,support
+Roosevelt,Morgenthau,5.0,1.25,63.74999999999999,4.0,have worry be
+Roosevelt,Morgenthau,5.0,1.25,63.74999999999999,4.0,have worry be
+Mellon,State,1.25,3.75,60.0,0.3333333333333333,discover have ratify certify do
+Mellon,Knox,1.25,3.75,60.0,0.3333333333333333,discover have ratify certify do
+State,Knox,1.25,3.75,60.0,0.3333333333333333,discover have ratify certify do
+Morgenthau,Haym Salomon,3.8793103448275863,0.8620689655172413,60.775862068965516,4.5,be focus realize be be suggest go look
+Haym Salomon,Morgenthau,3.8793103448275863,0.8620689655172413,60.775862068965516,4.5,be focus realize be be suggest go look
+Mellon,FDR,0.0,0.0,55.55555555555556,INF,be
+Kim,Levy,0.0,5.357142857142857,37.5,0.0,want use say
+Kim,Mellon,6.25,2.604166666666667,53.645833333333336,2.4,be get be find be leave
+Kim,Roosevelt,6.25,2.604166666666667,53.645833333333336,2.4,be get be find be leave
+Kim,Mellon,6.25,2.604166666666667,53.645833333333336,2.4,be get be find be leave
+Kim,Roosevelt,6.25,2.604166666666667,53.645833333333336,2.4,be get be find be leave
+Mellon,Roosevelt,6.25,2.604166666666667,53.645833333333336,2.4,be get be find be leave
+Mellon,Kim,3.75,11.25,45.0,0.3333333333333333,have
+Treasury,Levy,4.6875,1.5625,35.41666666666667,3.0,be be go need end
+Malone,Kim,4.5,0.5,51.0,9.0,have limit be get
+Kim,Stephanie,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Kim,Luke,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Kim,Isabella,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Stephanie,Luke,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Stephanie,Isabella,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Luke,Isabella,4.545454545454546,2.840909090909091,42.61363636363637,1.6,speak report happen include need
+Luke,Isabella,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,have take
+Luke,Howell,0.0,8.928571428571429,19.642857142857142,0.0,be
+Luke,Kim,0.0,8.928571428571429,19.642857142857142,0.0,be
+Howell,Kim,0.0,8.928571428571429,19.642857142857142,0.0,be
+Kim,Stephanie,1.5625,0.0,48.4375,INF,report have land
+Kim,Howell,1.5625,0.0,48.4375,INF,report have land
+Stephanie,Kim,1.5625,0.0,48.4375,INF,report have land
+Stephanie,Howell,1.5625,0.0,48.4375,INF,report have land
+Kim,Howell,1.5625,0.0,48.4375,INF,report have land
+Howell,Jelena,0.0,4.807692307692308,49.03846153846153,0.0,be sit shake
+Luke,Isabella,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,have return
+Levy,Isabella,0.0,4.166666666666666,49.166666666666664,0.0,be say point
+Levy,Luke,0.0,4.166666666666666,49.166666666666664,0.0,be say point
+Isabella,Luke,0.0,4.166666666666666,49.166666666666664,0.0,be say point
+Luke,Jelena,7.5,0.0,42.5,INF,explain have happen say find
+Kim,Jelena,6.25,0.0,43.75,INF,toss slow
+Jelena,Howell,0.0,0.0,33.33333333333333,INF,do have die say
+Jelena,Isabella,0.0,0.0,30.0,INF,involve say
+Isabella,Howell,0.0,0.0,57.14285714285714,INF,point
+Howell,Luke,0.0,4.545454545454546,59.09090909090909,0.0,sit begin face
+Howell,Luke,0.0,4.545454545454546,59.09090909090909,0.0,sit begin face
+Kim,Howell,3.571428571428571,3.571428571428571,35.714285714285715,1.0,be need
+Howell,Luke,8.064516129032258,2.4193548387096775,37.903225806451616,3.3333333333333335,know do be find say
+Howell,Luke,8.064516129032258,2.4193548387096775,37.903225806451616,3.3333333333333335,know do be find say
+Howell,Isabella,1.7857142857142856,4.464285714285714,43.75,0.4,be assume be work say
+Malone,Isabella,0.0,12.5,62.5,0.0,face
+Hana,Paul Larks,0.0,0.0,53.84615384615385,INF,be trail do
+Malone,Isabella,0.0,2.083333333333333,39.58333333333333,0.0,hear notice
+Malone,Isabella,0.0,2.083333333333333,39.58333333333333,0.0,hear notice
+Stephanie,Malone,1.1904761904761905,0.0,46.42857142857143,INF,have tell have learn be solve
+Stephanie,Malone,1.1904761904761905,0.0,46.42857142857143,INF,have tell have learn be solve
+Malone,Stephanie,1.1904761904761905,0.0,46.42857142857143,INF,have tell have learn be solve
+Stephanie,Malone,1.1904761904761905,0.0,46.42857142857143,INF,have tell have learn be solve
+Mellon,Roosevelt,0.0,0.0,60.0,INF,say be wait
+Mellon,Roosevelt,0.0,0.0,60.0,INF,say be wait
+Stephanie,Mellon,3.125,0.0,21.875,INF,be have tell
+Mellon,Isabella,3.4090909090909087,0.0,51.13636363636363,INF,be hear have say
+Isabella,Beale,0.0,0.6578947368421052,51.973684210526315,0.0,sit type work find
+Luke,Isabella,5.0,0.0,41.66666666666667,INF,look earn keep say
+Mellon,Howell,4.861111111111112,0.6944444444444444,50.0,7.0,have do be find use say
+Malone,Kim,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,be work tell contact use
+Kim,Isabella,0.0,0.0,53.84615384615385,INF,have point
+Treasury,Malone,0.0,4.166666666666666,49.166666666666664,0.0,be assume have say
+Kim,Isabella,0.0,0.0,35.714285714285715,INF,allow keep say
+Kim,Luke,4.166666666666666,1.6666666666666667,47.5,2.5,believe do say
+Hana,Sun Hi,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,think be murder approach
+Hana,Sun Hi,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,think be murder approach
+Hana,Sun Hi,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,think be murder approach
+Sun Hi,State,4.807692307692308,1.9230769230769231,57.37179487179487,2.5,be remove attend have be tell be be
+State,Sun Hi,4.807692307692308,1.9230769230769231,57.37179487179487,2.5,be remove attend have be tell be be
+Kims,Sun Hi,1.3157894736842104,2.631578947368421,43.42105263157895,0.5,kill beat
+Kims,Sun Hi,1.3157894736842104,2.631578947368421,43.42105263157895,0.5,kill beat
+Sun Hi,Kim,0.0,5.0,35.0,0.0,be
+Sun Hi,Kim,2.272727272727273,2.840909090909091,35.79545454545455,0.8,take study learn refer
+Sun Hi,Kim,2.272727272727273,2.840909090909091,35.79545454545455,0.8,take study learn refer
+Sun Hi,Kim,2.272727272727273,2.840909090909091,35.79545454545455,0.8,take study learn refer
+Sun Hi,Kim,2.272727272727273,2.840909090909091,35.79545454545455,0.8,take study learn refer
+Kim,Hana,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,abandon have make find
+Malone,Howell,7.954545454545454,2.840909090909091,52.84090909090909,2.8,be have flee contact be help
+Malone,Kim,0.0,0.0,43.75,INF,be bet react
+Kim,Howell,4.166666666666666,2.083333333333333,47.91666666666667,2.0,draft send take perceive be
+Kim,Howell,4.166666666666666,2.083333333333333,47.91666666666667,2.0,draft send take perceive be
+Howell,Kim,4.166666666666666,2.083333333333333,47.91666666666667,2.0,draft send take perceive be
+Howell,Kim,4.166666666666666,2.083333333333333,47.91666666666667,2.0,draft send take perceive be
+Stephanie,Kim,3.125,0.0,51.041666666666664,INF,have tell be listen
+Stephanie,NSA,3.125,0.0,51.041666666666664,INF,have tell be listen
+Stephanie,Kim,3.125,0.0,51.041666666666664,INF,have tell be listen
+Kim,NSA,3.125,0.0,51.041666666666664,INF,have tell be listen
+NSA,Kim,3.125,0.0,51.041666666666664,INF,have tell be listen
+NSA,Mellon,1.3392857142857142,1.7857142857142856,46.875,0.75,
+NSA,Roosevelt,1.3392857142857142,1.7857142857142856,46.875,0.75,
+Mellon,Roosevelt,1.3392857142857142,1.7857142857142856,46.875,0.75,
+Howell,Malone,5.434782608695652,1.6304347826086956,58.152173913043484,3.3333333333333335,run have
+Malone,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Malone,Howell,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Malone,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Malone,Jelena,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Malone,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Kim,Howell,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Kim,Jelena,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Howell,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Howell,Jelena,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Howell,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Kim,Jelena,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Jelena,Kim,3.7037037037037033,1.3888888888888888,43.05555555555556,2.6666666666666665,care have do care
+Isabella,Malone,2.5,0.0,44.166666666666664,INF,have admit be do seem
+Isabella,Malone,5.416666666666667,4.166666666666666,47.083333333333336,1.3,work cheat make be help ease
+Malone,Isabella,5.416666666666667,4.166666666666666,47.083333333333336,1.3,work cheat make be help ease
+Malone,Isabella,5.416666666666667,4.166666666666666,47.083333333333336,1.3,work cheat make be help ease
+Malone,Isabella,5.416666666666667,4.166666666666666,47.083333333333336,1.3,work cheat make be help ease
+Malone,Howell,0.0,0.0,60.0,INF,nod
+DC,Stephanie,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+DC,Malone,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+DC,Treasury,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+Stephanie,Malone,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+Stephanie,Treasury,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+Malone,Treasury,1.3392857142857142,0.0,70.08928571428571,INF,make leave
+Stephanie,Levy,1.1363636363636365,1.1363636363636365,47.72727272727273,1.0,have agree keep know
+Howell,Mellon,5.147058823529411,0.0,59.55882352941176,INF,have note die begin
+Howell,Mellon,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,accord have direct
+Finley,Mellon,2.840909090909091,0.0,56.25,INF,remain do request
+Malone,Luke,0.0,1.1904761904761905,65.47619047619048,0.0,maneuver decide troll
+Malone,Mellon,0.0,1.1904761904761905,65.47619047619048,0.0,maneuver decide troll
+Malone,Mellon,0.0,1.1904761904761905,65.47619047619048,0.0,maneuver decide troll
+Luke,Mellon,0.0,1.1904761904761905,65.47619047619048,0.0,maneuver decide troll
+Luke,Mellon,0.0,1.1904761904761905,65.47619047619048,0.0,maneuver decide troll
+Mellon,Carol,0.0,1.7045454545454544,57.38636363636363,0.0,be direct find
+Mellon,Carol,0.0,1.7045454545454544,57.38636363636363,0.0,be direct find
+Carol,Mellon,1.3888888888888888,0.0,54.166666666666664,INF,listen explain choose approve
+Carol,Mellon,1.3888888888888888,0.0,54.166666666666664,INF,listen explain choose approve
+Mr. Mellon,Carol,8.552631578947368,0.0,49.34210526315789,INF,have say
+Mr. Mellon,Thomas,0.0,1.5625,50.9375,0.0,say see change
+Carol,Danny,0.0,0.0,45.45454545454545,INF,recall read
+Danny,Carol,0.0,0.0,45.45454545454545,INF,recall read
+Mr. Mellon,Mason,8.928571428571429,1.7857142857142856,75.0,5.0,admire
+Mr. Mellon,Mason,0.0,0.0,61.111111111111114,INF,be
+Secret Service,Treasury,3.3333333333333335,1.6666666666666667,55.00000000000001,2.0,assign investigate
+Mr. Mellon,Carol,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,be say
+Carol,Mellon,2.083333333333333,1.0416666666666665,59.375,2.0,sit abut listen tell
+Carol,Mellon,2.083333333333333,1.0416666666666665,59.375,2.0,sit abut listen tell
+Mr. Mellon,Thomas,1.5625,1.5625,42.70833333333333,1.0,require memorize
+Thomas,Mr. Mellon,1.5625,1.5625,42.70833333333333,1.0,require memorize
+Burns,Mellon,2.272727272727273,1.1363636363636365,69.31818181818183,2.0,write name
+Carol,FDR,3.571428571428571,0.0,46.42857142857143,INF,have hear flash
+FDR,Carol,3.571428571428571,0.0,46.42857142857143,INF,have hear flash
+Roosevelt,Tipton,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Roosevelt,Mellon,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Roosevelt,Lord Byron,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Tipton,Mellon,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Tipton,Lord Byron,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Mellon,Lord Byron,3.125,2.083333333333333,61.458333333333336,1.5,tell have quote
+Burns,Mr. Mellon,3.8461538461538463,0.9615384615384616,49.03846153846153,4.0,define say
+Burns,Carol,3.8461538461538463,0.9615384615384616,49.03846153846153,4.0,define say
+Mr. Mellon,Carol,3.8461538461538463,0.9615384615384616,49.03846153846153,4.0,define say
+Roosevelt,Carol,0.0,2.083333333333333,39.58333333333333,0.0,do say go
+Roosevelt,Mr. Mellon,3.4722222222222223,2.083333333333333,72.22222222222221,1.6666666666666667,see bolster
+Roosevelt,Mr. Mellon,3.4722222222222223,2.083333333333333,72.22222222222221,1.6666666666666667,see bolster
+Roosevelt,Mellon,0.0,0.0,63.63636363636363,INF,lose go
+Mellon,Roosevelt,6.875000000000001,1.25,56.875,5.5,think quiz have discuss know
+Roosevelt,Tipton,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,do be speak
+Mellon,FDR,1.875,0.0,63.125,INF,mean meet know be
+FDR,Mellon,1.875,0.0,63.125,INF,mean meet know be
+FDR,Mellon,1.875,0.0,63.125,INF,mean meet know be
+Isabella,Malone,0.0,0.0,54.54545454545454,INF,be
+Malone,Isabella,0.0,0.0,52.63157894736842,INF,seem deal
+Malone,Isabella,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Malone,Isabella,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Malone,Isabella,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Malone,Treasury,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Malone,CIA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Malone,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,Treasury,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,CIA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,Treasury,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,CIA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,Treasury,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,CIA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Treasury,CIA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Treasury,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+CIA,NSA,1.4534883720930232,2.0348837209302326,47.674418604651166,0.7142857142857143,be be work oppose
+Isabella,Magellan Billet,4.435483870967742,4.435483870967742,42.74193548387097,1.0,be have hear know
+Magellan Billet,Isabella,4.435483870967742,4.435483870967742,42.74193548387097,1.0,be have hear know
+Malone,Isabella,0.625,0.0,44.375,INF,enter walk ask sit
+Isabella,Malone,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod appreciate ask
+Malone,Isabella,0.4629629629629629,2.314814814814815,52.77777777777778,0.2,know feel say tell be associate
+Malone,Isabella,3.75,1.25,45.0,3.0,have appreciate
+Isabella,Malone,3.75,1.25,45.0,3.0,have appreciate
+Kim,Paul Larks,2.0,1.5,56.49999999999999,1.3333333333333333,tell fail mention wake
+Kim,Paul Larks,0.0,1.5625,42.1875,0.0,board shadow
+Isabella,Harold Earl,3.0,5.0,48.0,0.6,watch leave
+Isabella,Malone,3.0,5.0,48.0,0.6,watch leave
+Isabella,Malone,3.0,5.0,48.0,0.6,watch leave
+Isabella,Harold Earl,3.0,5.0,48.0,0.6,watch leave
+Isabella,Malone,3.0,5.0,48.0,0.6,watch leave
+Isabella,Malone,3.0,5.0,48.0,0.6,watch leave
+Harold Earl,Malone,3.0,5.0,48.0,0.6,watch leave
+Harold Earl,Malone,3.0,5.0,48.0,0.6,watch leave
+DC,Treasury,0.0,3.125,40.625,0.0,stand face
+Stephanie,Carol,0.8333333333333334,1.6666666666666667,50.83333333333333,0.5,look say excuse
+Stephanie,Kim,2.604166666666667,1.0416666666666665,46.35416666666667,2.5,recall live make
+NSA,Kim,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be monitor
+Stephanie,Malone,0.0,0.0,50.0,INF,be stymie solve
+Malone,Luke,0.0,0.0,57.14285714285714,INF,be
+Malone,Howell,0.0,0.0,57.14285714285714,INF,be
+Luke,Howell,0.0,0.0,57.14285714285714,INF,be
+Malone,Howell,0.0,12.5,37.5,0.0,face
+Howell,Isabella,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Howell,Luke,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Howell,Isabella,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Howell,Luke,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Isabella,Howell,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Isabella,Luke,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Isabella,Howell,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Howell,Luke,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Luke,Howell,1.3157894736842104,0.0,46.05263157894737,INF,leave visit explain
+Kim,Malone,0.0,0.0,42.10526315789473,INF,be go have string keep dangle say
+Kim,Malone,0.0,0.0,42.10526315789473,INF,be go have string keep dangle say
+Kim,Solaris,5.357142857142857,0.8928571428571428,43.75,6.0,need rock sleep stop
+Howell,Luke,0.0,3.571428571428571,39.285714285714285,0.0,say be
+Howell,Isabella,0.0,3.571428571428571,39.285714285714285,0.0,say be
+Howell,Luke,0.0,3.571428571428571,39.285714285714285,0.0,say be
+Howell,Isabella,0.0,3.571428571428571,39.285714285714285,0.0,say be
+Luke,Isabella,0.0,3.571428571428571,39.285714285714285,0.0,say be
+Howell,Kim,0.43103448275862066,0.8620689655172413,57.327586206896555,0.5,play be corner go
+Kim,Howell,0.0,0.0,40.0,INF,say
+Kim,Jelena,5.833333333333333,5.0,42.5,1.1666666666666667,let think know be go
+Howell,Isabella,0.0,0.0,66.66666666666666,INF,turn see
+Luke,Malone,5.0,3.75,41.25,1.3333333333333333,be have be worry make
+Howell,Kim,0.0,0.0,33.33333333333333,INF,let handle
+Malone,Luke,3.4090909090909087,5.681818181818182,54.54545454545454,0.6,take hand
+Luke,Isabella,0.0,0.0,33.33333333333333,INF,say
+Howell,Stephanie,7.5,1.6666666666666667,50.83333333333333,4.5,be have answer
+Howell,Stephanie,2.5,2.5,35.0,1.0,guess like happen
+Sun Hi,Kim,1.4705882352941175,0.7352941176470588,62.5,2.0,identify have be treat
+Kim,Howell,3.90625,1.5625,44.53125,2.5,need understand be accomplish
+Kim,Hana,7.6923076923076925,1.4423076923076923,63.942307692307686,5.333333333333333,be trust make be concern have be locate
+Hana,Kim,7.6923076923076925,1.4423076923076923,63.942307692307686,5.333333333333333,be trust make be concern have be locate
+Hana,Kim,7.6923076923076925,1.4423076923076923,63.942307692307686,5.333333333333333,be trust make be concern have be locate
+Kim,Hana,3.75,1.25,55.00000000000001,3.0,enter march notice have describe
+Kim,Hana,3.75,1.25,55.00000000000001,3.0,enter march notice have describe
+Kim,Hana,3.3653846153846154,0.0,58.17307692307693,INF,stop make walk turn have instruct
+Hana,Paul Larks,0.6944444444444444,0.3472222222222222,57.291666666666664,2.0,wait lure make take use
+Hana,Malone,0.6944444444444444,0.3472222222222222,57.291666666666664,2.0,wait lure make take use
+Hana,Paul Larks,0.6944444444444444,0.3472222222222222,57.291666666666664,2.0,wait lure make take use
+Hana,Malone,0.6944444444444444,0.3472222222222222,57.291666666666664,2.0,wait lure make take use
+Paul Larks,Malone,0.6944444444444444,0.3472222222222222,57.291666666666664,2.0,wait lure make take use
+Malone,Luke,2.027027027027027,1.6891891891891893,53.04054054054054,1.2,have make leave vault
+Malone,Isabella,2.027027027027027,1.6891891891891893,53.04054054054054,1.2,have make leave vault
+Luke,Isabella,2.027027027027027,1.6891891891891893,53.04054054054054,1.2,have make leave vault
+Stephanie,Luke,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Stephanie,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Stephanie,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Stephanie,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Stephanie,Mellon,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Stephanie,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Luke,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Luke,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Luke,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Luke,Mellon,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Luke,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Mason,Mellon,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Mason,Mellon,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Mason,Mellon,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+Mellon,Mason,3.5256410256410255,1.6025641025641024,53.84615384615385,2.2,have tell advise show
+James,Mason,0.0,0.78125,64.84375,0.0,draft propose draw adopt write
+Stephanie,Mellon,2.2058823529411766,0.0,50.73529411764706,INF,have tell use speak
+Stephanie,Roosevelt,2.2058823529411766,0.0,50.73529411764706,INF,have tell use speak
+Mellon,Roosevelt,2.2058823529411766,0.0,50.73529411764706,INF,have tell use speak
+Isabella,Beale,3.6458333333333335,1.5625,48.95833333333333,2.3333333333333335,be hold be
+Solaris,Malone,0.0,3.125,46.875,0.0,prove be try
+Luke,Isabella,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Luke,Howell,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Luke,Howell,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Luke,Beale,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Isabella,Howell,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Isabella,Howell,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Isabella,Beale,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Howell,Beale,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Howell,Beale,4.3478260869565215,1.0869565217391304,46.73913043478261,4.0,have leave read
+Thomas,Beale,1.3157894736842104,0.0,67.10526315789474,INF,speak be bury name
+Isabella,Beale,1.1363636363636365,1.7045454545454544,51.70454545454546,0.6666666666666666,have note show be
+Beale,Stephanie,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Beale,Mellon,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Beale,FDR,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Stephanie,Mellon,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Stephanie,FDR,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Mellon,FDR,2.403846153846154,6.25,56.730769230769226,0.38461538461538464,agree have want solve have make
+Beale,Mellon,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,have read have be know
+Stephanie,Mellon,0.0,0.0,55.55555555555556,INF,learn be bury
+Stephanie,Trinity Episcopal Church,0.0,0.0,55.55555555555556,INF,learn be bury
+Mellon,Trinity Episcopal Church,0.0,0.0,55.55555555555556,INF,learn be bury
+Mellon,FDR,4.166666666666666,0.0,62.5,INF,have tell
+Mellon,Beale,1.5151515151515151,1.1363636363636365,48.86363636363637,1.3333333333333333,be assume correspond be refer
+Kim,Luke,1.25,1.25,57.49999999999999,1.0,hope handle
+Kim,Isabella,1.25,1.25,57.49999999999999,1.0,hope handle
+Luke,Isabella,1.25,1.25,57.49999999999999,1.0,hope handle
+Kim,Howell,1.25,0.0,38.75,INF,sit say
+Isabella,Howell,2.272727272727273,0.0,43.18181818181818,INF,have follow
+Isabella,Howell,1.7361111111111112,0.3472222222222222,53.47222222222222,5.0,watch offer find seek disappear
+Isabella,Howell,1.7361111111111112,0.3472222222222222,53.47222222222222,5.0,watch offer find seek disappear
+Paul Larks,Isabella,1.0,0.0,55.00000000000001,INF,have keep have change
+Howell,Kim,3.75,1.875,49.375,2.0,be be
+Jelena,Howell,0.0,3.804347826086957,44.02173913043478,0.0,be tell see say
+Isabella,Hana,7.236842105263158,1.9736842105263157,53.94736842105263,3.6666666666666665,have be ease keep
+Hana,Luke,0.0,0.0,60.0,INF,rise head be wait
+Hana,Luke,3.125,1.0416666666666665,62.5,3.0,find engross
+Howell,Kim,4.166666666666666,2.083333333333333,10.416666666666668,2.0,be
+Kim,Luke,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,be say
+Solaris,Hana,0.0,0.0,46.15384615384615,INF,be say
+Luke,Hana,0.0,0.0,66.66666666666666,INF,smile point
+Hana,Luke,5.357142857142857,4.017857142857143,47.767857142857146,1.3333333333333333,chastise be tell be comfort know know handle
+Hana,Luke,5.357142857142857,4.017857142857143,47.767857142857146,1.3333333333333333,chastise be tell be comfort know know handle
+Luke,Hana,5.357142857142857,4.017857142857143,47.767857142857146,1.3333333333333333,chastise be tell be comfort know know handle
+Hana,Luke,5.357142857142857,4.017857142857143,47.767857142857146,1.3333333333333333,chastise be tell be comfort know know handle
+Kim,Howell,5.0,0.0,35.0,INF,want
+Luke,Isabella,2.976190476190476,5.952380952380952,67.26190476190477,0.5,catch have manage get involve
+Luke,Mellon,4.3478260869565215,0.5434782608695652,51.63043478260869,8.0,have be match
+Edward Savage,Martha,2.083333333333333,1.25,56.666666666666664,1.6666666666666667,do have ascertain be determine give
+Stephanie,Malone,0.0,0.5681818181818182,53.97727272727273,0.0,be stall wait have send
+Stephanie,State,0.0,0.5681818181818182,53.97727272727273,0.0,be stall wait have send
+Stephanie,Malone,0.0,0.5681818181818182,53.97727272727273,0.0,be stall wait have send
+Stephanie,State,0.0,0.5681818181818182,53.97727272727273,0.0,be stall wait have send
+Malone,State,0.0,0.5681818181818182,53.97727272727273,0.0,be stall wait have send
+Stephanie,Solaris,1.3888888888888888,0.0,59.72222222222222,INF,hear be call
+White House,Stephanie,3.8461538461538463,0.0,50.0,INF,have call dodge
+Stephanie,Smithsonian,3.289473684210526,0.0,49.34210526315789,INF,be walk
+Mellon,Roosevelt,0.0,0.0,54.54545454545454,INF,tell leave
+Stephanie,Mellon,3.6764705882352944,0.0,43.38235294117647,INF,say be go find leave destroy
+Hana,Howell,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,assume be
+Hana,Howell,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,assume be
+Isabella,Luke,0.0,0.0,68.0,INF,sit head survey be come go
+Luke,Isabella,8.21111111111111,7.066666666666667,40.27777777777778,1.1619496855345912,seem
+Isabella,Luke,0.0,0.0,41.66666666666667,INF,tell cut
+Isabella,Malone,0.0,0.0,41.66666666666667,INF,tell cut
+Luke,Malone,0.0,0.0,41.66666666666667,INF,tell cut
+Isabella,Luke,0.0,0.0,60.0,INF,glance see return
+Luke,Isabella,0.0,0.0,40.0,INF,sit
+Malone,Solaris,0.4629629629629629,0.0,58.79629629629629,INF,watch approach pass
+Kim,Solaris,5.625,0.625,43.75,9.0,check realize be get
+Kim,Solaris,5.625,0.625,43.75,9.0,check realize be get
+Howell,Solaris,0.0,1.5625,48.4375,0.0,assume end decide make
+Howell,Solaris,0.0,1.5625,48.4375,0.0,assume end decide make
+Howell,Solaris,0.0,1.5625,48.4375,0.0,assume end decide make
+Napoleon,Howell,1.9230769230769231,1.9230769230769231,73.07692307692307,1.0,have do be play
+Hana,Kim,0.5681818181818182,8.522727272727272,50.0,0.06666666666666667,do regard do mean act
+Kim,Hana,0.5681818181818182,8.522727272727272,50.0,0.06666666666666667,do regard do mean act
+Kim,Howell,1.0,2.5,36.5,0.4,face say be prove
+Hana,Howell,0.0,0.0,45.45454545454545,INF,find see
+Hana,Howell,0.0,0.0,45.45454545454545,INF,find see
+Malone,Solaris,0.78125,1.5625,53.90625,0.5,walk pass huddle
+Malone,Stephanie,3.125,0.390625,55.859375,8.0,have read have inform have make mean be
+Malone,Kim,3.125,0.390625,55.859375,8.0,have read have inform have make mean be
+Stephanie,Malone,3.125,0.390625,55.859375,8.0,have read have inform have make mean be
+Stephanie,Kim,3.125,0.390625,55.859375,8.0,have read have inform have make mean be
+Malone,Kim,3.125,0.390625,55.859375,8.0,have read have inform have make mean be
+DC,Stephanie,0.0,5.208333333333334,53.125,0.0,be happen
+Luke,Isabella,3.125,1.5625,57.8125,2.0,be cover
+DC,Levy,3.289473684210526,0.0,38.81578947368421,INF,wait find emerge
+Stephanie,Levy,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Malone,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Levy,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Mellon,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Malone,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Stephanie,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Mellon,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Malone,Levy,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Malone,Stephanie,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Malone,Mellon,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Malone,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Stephanie,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Mellon,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Levy,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Mellon,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Stephanie,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Mellon,Roosevelt,5.555555555555555,0.5555555555555556,49.44444444444444,10.0,call inform crumple have be break know have leave find
+Treasury,Stephanie,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Treasury,Stephanie,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Treasury,Stephanie,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Treasury,Smithsonian,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Stephanie,Smithsonian,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Stephanie,Smithsonian,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Stephanie,Smithsonian,1.5625,1.171875,44.140625,1.3333333333333333,seem want be make tell meet
+Levy,Stamm,0.0,0.0,22.727272727272727,INF,say meet
+Stamm,Finley,4.310344827586207,0.43103448275862066,53.879310344827594,10.0,point tell have be build
+Mellon,Smithsonian,5.555555555555555,2.314814814814815,47.68518518518518,2.4,donate have be display
+Levy,Stamm,3.90625,0.0,27.34375,INF,do know tell say
+Mellon,FDR,6.25,1.25,52.5,5.0,hide find
+Levy,Stamm,2.631578947368421,5.263157894736842,55.26315789473685,0.5,leave go return
+Treasury,Levy,1.7045454545454544,1.7045454545454544,46.590909090909086,1.0,do realize be try crack
+Treasury,Levy,1.7045454545454544,1.7045454545454544,46.590909090909086,1.0,do realize be try crack
+Kim,Hana,1.25,0.625,48.125,2.0,leave proceed say be wait
+Kim,Paul Larks,0.0,2.8846153846153846,50.96153846153846,0.0,act hesitate end
+Kim,Jelena,0.0,2.8846153846153846,50.96153846153846,0.0,act hesitate end
+Paul Larks,Jelena,0.0,2.8846153846153846,50.96153846153846,0.0,act hesitate end
+Isabella,Kim,2.5,6.25,36.25,0.4,see spot confront
+Luke,Isabella,0.0,0.0,45.45454545454545,INF,be face
+Isabella,Luke,0.0,0.0,45.45454545454545,INF,be face
+Isabella,Luke,0.0,0.0,20.0,INF,tell
+Isabella,Kim,0.0,0.0,53.57142857142857,INF,claim face see
+Kim,Isabella,0.0,0.0,53.57142857142857,INF,claim face see
+Isabella,Luke,0.0,4.464285714285714,45.535714285714285,0.0,hear mutter
+Howell,Kim,10.9375,1.5625,37.5,7.0,have be send occupy
+Hana,Howell,2.083333333333333,0.0,31.25,INF,study call
+Howell,Hana,0.7352941176470588,9.558823529411764,60.29411764705882,0.07692307692307693,watch gaze do betray
+Hana,Howell,0.0,0.0,50.0,INF,observe
+Hana,Howell,9.375,3.125,12.5,3.0,envy
+Sun Hi,Hana,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,have experience
+Jelena,Howell,0.0,0.0,42.857142857142854,INF,do throw do
+Howell,Hana,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Howell,Hana,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Howell,Hana,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Howell,Hana,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Hana,Howell,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Hana,Howell,3.571428571428571,7.142857142857142,51.19047619047619,0.5,signal do believe do care think
+Howell,Hana,1.0416666666666665,0.0,48.95833333333333,INF,be say
+Kim,Howell,3.3653846153846154,3.3653846153846154,47.11538461538461,1.0,face
+Kim,Isabella,1.171875,2.734375,61.71875,0.42857142857142855,sit be hear pop see
+DC,Stephanie,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,sit move gaze lock
+Ms. Williams,Treasury,3.2407407407407405,0.0,48.61111111111111,INF,speak monitor
+Mellon,Roosevelt,3.90625,6.25,52.34375,0.625,go torment
+Stephanie,Levy,0.0,0.0,50.0,INF,sit
+Stephanie,Levy,0.0,8.333333333333332,41.66666666666667,0.0,face smile
+Malone,DC,2.2058823529411766,0.0,56.61764705882353,INF,wonder be happen depend
+Malone,Stephanie,2.2058823529411766,0.0,56.61764705882353,INF,wonder be happen depend
+DC,Stephanie,2.2058823529411766,0.0,56.61764705882353,INF,wonder be happen depend
+Howell,Hana,0.0,8.333333333333332,31.666666666666664,0.0,be get say
+Solaris,Luke,0.0,0.0,27.27272727272727,INF,be come say
+Isabella,Luke,0.0,0.0,50.0,INF,see agree
+Isabella,Kim,0.0,0.0,57.14285714285714,INF,see exit
+Kim,Luke,3.8461538461538463,0.0,42.30769230769231,INF,make leave include say
+Sun Hi,Kims,5.0,1.25,53.75,4.0,have be bear
+Sun Hi,Hana,0.0,0.0,57.14285714285714,INF,be
+DC,Levy,0.0,0.0,56.25,INF,enter
+DC,Stephanie,0.0,0.0,56.25,INF,enter
+Levy,Stephanie,0.0,0.0,56.25,INF,enter
+Ed Tipton,Stephanie,2.2058823529411766,5.88235294117647,50.73529411764706,0.375,depart have go
+Danny,Stephanie,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have explain have be include
+Danny,DC,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have explain have be include
+Stephanie,DC,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have explain have be include
+Danny,Stephanie,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Danny,Stephanie,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Danny,White House,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Stephanie,Danny,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Stephanie,White House,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Stephanie,Danny,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Stephanie,White House,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Danny,White House,7.638888888888889,1.3888888888888888,46.52777777777778,5.5,have tell drop
+Stephanie,Malone,3.125,0.0,59.375,INF,have fashion
+Stephanie,Malone,7.065217391304348,0.5434782608695652,53.2608695652174,13.0,have make have be
+Stephanie,Levy,2.314814814814815,2.314814814814815,47.22222222222222,1.0,use make work
+Stephanie,Malone,2.314814814814815,2.314814814814815,47.22222222222222,1.0,use make work
+Levy,Malone,2.314814814814815,2.314814814814815,47.22222222222222,1.0,use make work
+NSA,Kim,2.314814814814815,0.4629629629629629,45.370370370370374,5.0,have zero be monitor
+NSA,Kim,2.314814814814815,0.4629629629629629,45.370370370370374,5.0,have zero be monitor
+Kim,Malone,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,fail have be flush
+Stephanie,Carol,1.5909090909090908,0.45454545454545453,57.95454545454546,3.5,grab eat retreat learn have dispatch shoot be accompany
+Stephanie,Kim,1.5909090909090908,0.45454545454545453,57.95454545454546,3.5,grab eat retreat learn have dispatch shoot be accompany
+Carol,Kim,1.5909090909090908,0.45454545454545453,57.95454545454546,3.5,grab eat retreat learn have dispatch shoot be accompany
+Levy,Smithsonian,2.0161290322580645,1.2096774193548387,48.38709677419355,1.6666666666666667,pass secure lead know exist
+Treasury,Stamm,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,call ready
+Treasury,Stamm,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,call ready
+Malone,Carol,4.310344827586207,2.586206896551724,58.620689655172406,1.6666666666666667,have be deliver
+Edward Savage,Martha,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Edward Savage,Levy,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Edward Savage,Carol,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Martha,Levy,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Martha,Carol,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Levy,Carol,3.2407407407407405,2.314814814814815,50.0,1.4,finish have solve
+Danny,White House,1.7361111111111112,0.3472222222222222,64.58333333333334,5.0,have say exit remember be get
+Danny,White House,1.7361111111111112,0.3472222222222222,64.58333333333334,5.0,have say exit remember be get
+Danny,Carol,1.7361111111111112,0.3472222222222222,64.58333333333334,5.0,have say exit remember be get
+White House,Carol,1.7361111111111112,0.3472222222222222,64.58333333333334,5.0,have say exit remember be get
+White House,Carol,1.7361111111111112,0.3472222222222222,64.58333333333334,5.0,have say exit remember be get
+Ms. Nelle,Carol,6.0,0.5,41.5,12.0,be order say recognize
+Kim,Howell,0.8928571428571428,0.0,45.535714285714285,INF,have kill be include
+Kim,Howell,0.8928571428571428,0.0,45.535714285714285,INF,have kill be include
+Malone,Carol,2.272727272727273,0.0,52.27272727272727,INF,be have tell
+Luke,Isabella,3.125,1.5625,57.8125,2.0,be face
+Luke,Isabella,0.0,0.0,36.0,INF,stand draw
+Luke,Isabella,0.0,0.0,36.0,INF,stand draw
+Isabella,Kim,1.4423076923076923,1.9230769230769231,62.019230769230774,0.75,venture see move hold contain
+Kim,Luke,1.1363636363636365,1.1363636363636365,34.090909090909086,1.0,need stop say
+Hana,Howell,1.6666666666666667,0.0,31.666666666666664,INF,have flee wait
+Kim,Hana,0.0,0.0,57.89473684210527,INF,catch obliterate
+Kim,Howell,0.0,2.083333333333333,22.916666666666664,0.0,tote
+Kim,Howell,0.0,2.083333333333333,22.916666666666664,0.0,tote
+Isabella,Luke,4.411764705882353,2.941176470588235,45.588235294117645,1.5,know have do do
+Isabella,Kim,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+Isabella,Hana,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+Isabella,Howell,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+Kim,Hana,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+Kim,Howell,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+Hana,Howell,0.0,3.4090909090909087,23.863636363636363,0.0,spot
+DC,Levy,1.293103448275862,0.43103448275862066,46.55172413793103,3.0,follow visit
+DC,Carol,1.293103448275862,0.43103448275862066,46.55172413793103,3.0,follow visit
+DC,Carol,1.293103448275862,0.43103448275862066,46.55172413793103,3.0,follow visit
+Levy,Carol,1.293103448275862,0.43103448275862066,46.55172413793103,3.0,follow visit
+Levy,Carol,1.293103448275862,0.43103448275862066,46.55172413793103,3.0,follow visit
+Martha,Mason,0.0,0.0,58.333333333333336,INF,be die come live
+Martha,Mason,0.0,0.0,58.333333333333336,INF,be die come live
+Martha,Mason,0.0,0.0,58.333333333333336,INF,be die come live
+Martha,Edward Savage,0.0,0.0,18.181818181818183,INF,stand
+Edward Savage,Martha,0.0,0.0,18.181818181818183,INF,stand
+Martha,Mason,2.083333333333333,3.4722222222222223,50.0,0.6,adopt be
+Stephanie,Carol,7.5,2.5,60.0,3.0,listen explain
+Carol,Edward Savage,0.0,0.0,35.0,INF,send say
+Carol,Edward Savage,0.0,0.0,35.0,INF,send say
+Carol,Martha,0.0,0.0,35.0,INF,send say
+Edward Savage,Martha,0.0,0.0,35.0,INF,send say
+Edward Savage,Martha,0.0,0.0,35.0,INF,send say
+Mellon,Roosevelt,0.0,0.0,64.70588235294117,INF,be meet
+Mellon,Roosevelt,0.0,0.0,42.857142857142854,INF,be tell
+Mellon,FDR,1.9230769230769231,0.0,67.3076923076923,INF,have leave direct
+Levy,Carol,8.59375,6.25,53.90625,1.375,look surprise be
+Carol,Mellon,6.61764705882353,0.0,46.32352941176471,INF,step try make have do
+Edward Savage,Martha,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Edward Savage,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Edward Savage,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Martha,Edward Savage,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Martha,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Martha,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Edward Savage,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Edward Savage,Carol,2.976190476190476,1.1904761904761905,43.452380952380956,2.5,focus ask
+Carol,Edward Savage,0.0,0.0,37.5,INF,aim encompass
+Carol,Martha,0.0,0.0,37.5,INF,aim encompass
+Edward Savage,Carol,0.0,0.0,37.5,INF,aim encompass
+Edward Savage,Martha,0.0,0.0,37.5,INF,aim encompass
+Carol,Martha,0.0,0.0,37.5,INF,aim encompass
+Ms. Williams,Danny,0.625,3.75,40.625,0.16666666666666666,need leave say
+Malone,Kim,1.7241379310344827,0.0,53.44827586206896,INF,watch join realize be arm
+Malone,Kim,1.7241379310344827,0.0,53.44827586206896,INF,watch join realize be arm
+Kim,Howell,0.0,0.6944444444444444,38.19444444444444,0.0,react jam
+Kim,Howell,0.0,0.6944444444444444,38.19444444444444,0.0,react jam
+Kim,Howell,1.0416666666666665,5.208333333333334,60.416666666666664,0.2,do include return
+Isabella,Kim,0.0,0.625,49.375,0.0,spot dim flee
+Isabella,Howell,0.0,0.625,49.375,0.0,spot dim flee
+Kim,Howell,0.0,0.625,49.375,0.0,spot dim flee
+Isabella,Luke,3.75,3.75,42.5,1.0,be expose
+Isabella,Malone,3.125,0.0,46.875,INF,see have draw
+Hana,Luke,0.9615384615384616,0.0,52.88461538461539,INF,be stare
+Hana,Luke,0.9615384615384616,0.0,52.88461538461539,INF,be stare
+Malone,Isabella,2.857142857142857,2.142857142857143,55.00000000000001,1.3333333333333333,have see exit worry be shoot pop
+Malone,Luke,2.857142857142857,2.142857142857143,55.00000000000001,1.3333333333333333,have see exit worry be shoot pop
+Isabella,Luke,2.857142857142857,2.142857142857143,55.00000000000001,1.3333333333333333,have see exit worry be shoot pop
+Kim,Malone,0.0,4.807692307692308,41.34615384615385,0.0,turn
+Kim,Malone,0.0,4.807692307692308,41.34615384615385,0.0,turn
+Isabella,Luke,1.7857142857142856,0.0,69.64285714285714,INF,have lunge
+Kim,Howell,1.5625,1.0416666666666665,43.22916666666667,1.5,force lead use
+Howell,Kim,1.5625,1.0416666666666665,43.22916666666667,1.5,force lead use
+Luke,Isabella,0.0,0.9615384615384616,75.96153846153845,0.0,be start
+Luke,Howell,4.166666666666666,13.541666666666666,48.95833333333333,0.3076923076923077,hope realize be
+Luke,Howell,0.0,0.0,42.857142857142854,INF,yell
+Hana,Kim,3.5000000000000004,3.0,45.5,1.1666666666666667,have occupy be
+Kim,Howell,0.0,0.0,50.0,INF,wrap
+Howell,Jelena,7.142857142857142,2.6785714285714284,50.89285714285714,2.6666666666666665,have be tell mention know be have get
+Howell,Jelena,7.142857142857142,2.6785714285714284,50.89285714285714,2.6666666666666665,have be tell mention know be have get
+Jelena,Howell,7.142857142857142,2.6785714285714284,50.89285714285714,2.6666666666666665,have be tell mention know be have get
+Malone,Howell,0.0,3.4090909090909087,51.13636363636363,0.0,wince be shoot
+Malone,Kim,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,see be flee
+Malone,Hana,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,see be flee
+Kim,Hana,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,see be flee
+Isabella,Luke,1.4705882352941175,3.6764705882352944,41.911764705882355,0.4,crouch
+Isabella,Luke,0.0,1.9736842105263157,61.18421052631579,0.0,rise involve see be risk
+Malone,Luke,3.125,0.0,46.875,INF,call
+Kim,Malone,0.0,1.0416666666666665,48.95833333333333,0.0,use say
+Kim,Malone,0.0,1.0416666666666665,48.95833333333333,0.0,use say
+Malone,Kim,2.586206896551724,0.8620689655172413,58.620689655172406,3.0,spot round head
+Malone,Kim,2.586206896551724,0.8620689655172413,58.620689655172406,3.0,spot round head
+Isabella,Howell,0.0,6.25,43.75,0.0,see be
+Luke,Howell,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,cradle labor spew
+Howell,Luke,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,cradle labor spew
+Howell,Luke,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,cradle labor spew
+Luke,Howell,0.0,0.0,54.54545454545454,INF,tell
+Luke,Isabella,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,gaze ask be shake
+Luke,Isabella,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,gaze ask be shake
+Luke,Isabella,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,gaze ask be shake
+Malone,Isabella,2.083333333333333,2.083333333333333,37.5,1.0,have go say
+Isabella,Luke,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Howell,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Luke,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Howell,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Luke,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Howell,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Luke,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Howell,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Luke,Howell,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be conceal have rush
+Isabella,Malone,2.0,1.0,65.0,2.0,catch rush
+Isabella,Malone,0.0,0.0,60.0,INF,head
+Isabella,Malone,5.208333333333334,2.083333333333333,59.375,2.5,lead fire
+Isabella,Malone,0.0,0.0,40.0,INF,shoot
+Malone,Isabella,2.717391304347826,1.6304347826086956,56.52173913043478,1.6666666666666667,rush see poise
+Malone,Isabella,2.717391304347826,1.6304347826086956,56.52173913043478,1.6666666666666667,rush see poise
+Isabella,Malone,0.0,0.0,45.45454545454545,INF,see draw
+Malone,Isabella,0.8620689655172413,1.7241379310344827,59.48275862068966,0.5,be slip stand expose
+Malone,Isabella,0.8620689655172413,1.7241379310344827,59.48275862068966,0.5,be slip stand expose
+Isabella,Malone,2.083333333333333,0.0,47.91666666666667,INF,remain aim
+Isabella,Malone,2.083333333333333,0.0,47.91666666666667,INF,remain aim
+Malone,Isabella,2.083333333333333,0.0,47.91666666666667,INF,remain aim
+Isabella,Malone,0.0,0.0,50.0,INF,see
+Isabella,Malone,2.8846153846153846,0.9615384615384616,34.61538461538461,3.0,go say hear
+Isabella,Malone,0.0,0.0,41.66666666666667,INF,cover take
+Malone,Kim,5.555555555555555,0.0,38.88888888888889,INF,allow get
+Levy,Stephanie,5.0,0.0,55.00000000000001,INF,have be watch
+Malone,Danny,0.0,0.0,38.46153846153847,INF,agree say
+Stephanie,Danny,2.1551724137931036,0.0,53.01724137931034,INF,know see be do lay scatter
+Danny,Stephanie,2.1551724137931036,0.0,53.01724137931034,INF,know see be do lay scatter
+Smithsonian,Stephanie,3.9473684210526314,9.210526315789473,39.473684210526315,0.42857142857142855,be have fashion
+Lord Byron,Danny,0.0,1.5625,35.9375,0.0,say
+Danny,Stephanie,0.0,0.0,25.0,INF,ask
+Levy,Stephanie,0.0,0.0,66.66666666666666,INF,grab aim
+Levy,Danny,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,see be keep say
+Levy,Carol,0.0,0.0,50.0,INF,reenter
+Carol,Danny,1.4705882352941175,3.6764705882352944,47.794117647058826,0.4,raise know
+Carol,Danny,1.4705882352941175,3.6764705882352944,47.794117647058826,0.4,raise know
+Roosevelt,Carol,0.0,0.0,57.14285714285714,INF,do end ask
+Danny,Mellon,0.0,0.0,45.0,INF,mean say be
+Danny,Malone,4.464285714285714,5.803571428571429,50.44642857142857,0.7692307692307693,have be use be have be
+Danny,Malone,4.464285714285714,5.803571428571429,50.44642857142857,0.7692307692307693,have be use be have be
+Malone,Howell,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,need accelerate be go
+Malone,Howell,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,need accelerate be go
+Hana,Howell,1.25,1.25,37.5,1.0,carry need
+Howell,Malone,2.5,0.0,47.5,INF,say have solve
+Malone,Kim,0.0,0.0,41.17647058823529,INF,stay see
+Kim,Malone,0.0,0.0,41.17647058823529,INF,stay see
+Isabella,Kim,5.357142857142857,0.8928571428571428,58.03571428571429,6.0,have distract finish
+Kim,Howell,5.681818181818182,1.1363636363636365,56.81818181818182,5.0,hope make doubt
+Howell,Henrik Thorvaldsen,6.25,1.5625,48.4375,4.0,think have happen
+Howell,Henrik Thorvaldsen,6.25,1.5625,48.4375,4.0,think have happen
+Howell,Cassiopeia Vitt,5.952380952380952,0.0,51.19047619047619,INF,be have cost
+Isabella,Malone,0.0,0.0,50.0,INF,do cover
+Isabella,Malone,0.0,0.0,50.0,INF,do cover
+Isabella,Malone,0.0,1.7857142857142856,33.92857142857143,0.0,be whisper
+Malone,Kim,4.166666666666666,0.0,42.5,INF,have watch enter
+Malone,Kim,4.166666666666666,0.0,42.5,INF,have watch enter
+Howell,Luke,0.0,0.0,33.33333333333333,INF,say
+Isabella,Malone,1.7857142857142856,0.0,41.07142857142857,INF,tell happen have head
+Malone,Kim,0.0,0.0,42.10526315789473,INF,listen stand
+Malone,Hana,0.0,0.0,42.10526315789473,INF,listen stand
+Malone,Kim,0.0,0.0,42.10526315789473,INF,listen stand
+Malone,Hana,0.0,0.0,42.10526315789473,INF,listen stand
+Kim,Hana,0.0,0.0,42.10526315789473,INF,listen stand
+Kim,Hana,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,risk watch lower
+Kim,Hana,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,risk watch lower
+Kim,Hana,0.0,6.25,63.74999999999999,0.0,see
+Hana,Kim,7.352941176470589,2.941176470588235,42.64705882352941,2.5,have be grow
+Kim,Hana,5.357142857142857,1.7857142857142856,50.0,3.0,be have lie
+Kim,Hana,0.0,0.0,41.66666666666667,INF,give say
+Hana,Kim,0.0,0.0,50.0,INF,toss clip thud
+Hana,Kim,2.941176470588235,3.6764705882352944,63.970588235294116,0.8,be trouble mean say
+Hana,Kim,2.941176470588235,3.6764705882352944,63.970588235294116,0.8,be trouble mean say
+Kim,Hana,7.142857142857142,3.571428571428571,39.285714285714285,2.0,need think help escape
+Hana,Kim,7.142857142857142,3.571428571428571,39.285714285714285,2.0,need think help escape
+Hana,Kim,0.0,5.555555555555555,38.88888888888889,0.0,be imagine
+Kim,Hana,8.333333333333332,5.833333333333333,52.5,1.4285714285714286,be seem want
+Howell,Hana,0.8928571428571428,0.0,34.82142857142857,INF,allow die say
+Malone,Stephanie,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,have talk lay set have be stress
+Malone,Kim,5.625,2.5,41.875,2.25,intervene want know
+Isabella,Luke,0.6578947368421052,2.631578947368421,49.34210526315789,0.25,follow
+Malone,Kim,3.804347826086957,4.891304347826087,47.82608695652174,0.7777777777777778,have expect shoot have do
+Malone,Kim,3.804347826086957,4.891304347826087,47.82608695652174,0.7777777777777778,have expect shoot have do
+Kim,Howell,5.0,4.375,45.625,1.1428571428571428,have happen have know tell
+Kim,Howell,5.0,4.375,45.625,1.1428571428571428,have happen have know tell
+Hana,Sun Hi,3.75,3.75,52.5,1.0,have die
+Malone,Kim,3.125,0.625,51.24999999999999,5.0,rise aim fire
+Malone,Kim,3.125,0.625,51.24999999999999,5.0,rise aim fire
+Hana,Sun Hi,0.0,0.0,50.0,INF,drop ooze
+Kim,Sun Hi,0.0,6.25,60.416666666666664,0.0,assume be
+Kim,Stephanie,2.7777777777777777,6.944444444444445,45.83333333333333,0.4,know want eliminate
+Kim,Paul Larks,0.625,1.25,43.125,0.5,agree be
+Kim,Jelena,0.625,1.25,43.125,0.5,agree be
+Kim,Hana,0.625,1.25,43.125,0.5,agree be
+Paul Larks,Jelena,0.625,1.25,43.125,0.5,agree be
+Paul Larks,Hana,0.625,1.25,43.125,0.5,agree be
+Jelena,Hana,0.625,1.25,43.125,0.5,agree be
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,5.625,2.5,51.87500000000001,2.25,keep wonder call walk
+Malone,Kim,0.0,2.840909090909091,60.79545454545454,0.0,raise fire do miss
+Isabella,Luke,0.0,0.0,33.33333333333333,INF,turn
+Malone,Isabella,3.125,0.0,34.375,INF,call
+Isabella,Kim,0.0,0.9615384615384616,37.5,0.0,see stack lie retrieve
+Stephanie,Levy,0.0,0.0,55.00000000000001,INF,sit fly
+Stephanie,Levy,0.0,0.0,55.00000000000001,INF,sit fly
+Stephanie,Mellon,4.545454545454546,1.1363636363636365,67.04545454545455,4.0,know have be bury
+Stephanie,Levy,2.272727272727273,5.681818181818182,60.22727272727273,0.4,know be have enlighten
+Levy,Stephanie,2.272727272727273,5.681818181818182,60.22727272727273,0.4,know be have enlighten
+Stephanie,Malone,4.166666666666666,0.0,54.166666666666664,INF,hear say fly begin understand be say
+Stephanie,Levy,4.166666666666666,0.0,54.166666666666664,INF,hear say fly begin understand be say
+Malone,Stephanie,4.166666666666666,0.0,54.166666666666664,INF,hear say fly begin understand be say
+Malone,Levy,4.166666666666666,0.0,54.166666666666664,INF,hear say fly begin understand be say
+Stephanie,Levy,4.166666666666666,0.0,54.166666666666664,INF,hear say fly begin understand be say
+Mellon,James,0.4629629629629629,0.9259259259259258,57.870370370370374,0.5,be lay rest be move
+James,Mellon,0.4629629629629629,0.9259259259259258,57.870370370370374,0.5,be lay rest be move
+Mellon,Levy,5.208333333333334,1.0416666666666665,43.75,5.0,have be say
+State,Congress,0.0,0.390625,52.734375,0.0,have receive take propose
+State,Senate,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,have learn examine reveal reject
+Senate,State,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,have learn examine reveal reject
+State,Congress,0.8522727272727272,4.829545454545454,64.77272727272727,0.17647058823529413,let say be authorize alter propose consist approve disapprove propose
+Congress,State,0.8522727272727272,4.829545454545454,64.77272727272727,0.17647058823529413,let say be authorize alter propose consist approve disapprove propose
+Howell,Knox,5.0,1.6666666666666667,53.333333333333336,3.0,recall have write have do
+Mellon,Finley,1.3888888888888888,0.0,43.05555555555556,INF,say
+Mellon,Finley,1.3888888888888888,0.0,43.05555555555556,INF,say
+Mellon,Roosevelt,5.208333333333334,9.375,52.083333333333336,0.5555555555555556,torment know be
+Finley,Treasury,1.6304347826086956,0.0,72.28260869565217,INF,realize use know maintain
+Finley,Treasury,1.6304347826086956,0.0,72.28260869565217,INF,realize use know maintain
+Eleventh Circuit,Howell,3.571428571428571,0.0,46.42857142857143,INF,remember have want
+Levy,Haym Salomon,0.0,4.166666666666666,62.5,0.0,tote
+Isabella,Malone,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be impress
+Isabella,Malone,6.61764705882353,7.352941176470589,50.73529411764706,0.9,have be fascinate
+Luke,Isabella,1.3888888888888888,0.0,54.166666666666664,INF,have provide
+Luke,Malone,1.3888888888888888,0.0,54.166666666666664,INF,have provide
+Luke,Malone,1.3888888888888888,0.0,54.166666666666664,INF,have provide
+Isabella,Malone,1.3888888888888888,0.0,54.166666666666664,INF,have provide
+Isabella,Malone,1.3888888888888888,0.0,54.166666666666664,INF,have provide
+Luke,Malone,0.0,0.0,70.58823529411765,INF,lay toss
+Luke,Malone,0.0,0.0,70.58823529411765,INF,lay toss
+Luke,Malone,0.0,0.0,70.58823529411765,INF,lay toss
+Luke,Malone,0.0,0.0,70.58823529411765,INF,lay toss
+Luke,Malone,1.9230769230769231,0.0,67.3076923076923,INF,have tell live
+Kim,Hana,4.761904761904762,1.1904761904761905,46.42857142857143,4.0,have be take
+Levy,Hana,4.761904761904762,1.1904761904761905,51.19047619047619,4.0,have call tell copy
+Malone,Hana,0.0,0.0,63.63636363636363,INF,lock leave
+Malone,Hana,0.0,0.0,63.63636363636363,INF,lock leave
+Luke,Hana,5.603448275862069,5.172413793103448,54.741379310344826,1.0833333333333333,have sense explain get have agree
+Luke,Malone,5.603448275862069,5.172413793103448,54.741379310344826,1.0833333333333333,have sense explain get have agree
+Hana,Malone,5.603448275862069,5.172413793103448,54.741379310344826,1.0833333333333333,have sense explain get have agree
+Malone,Hana,0.0,1.5625,54.6875,0.0,be tell
+Malone,Kim,0.0,10.0,30.0,0.0,kill
+Hana,Howell,1.6304347826086956,2.1739130434782608,44.02173913043478,0.75,include know have access erase
+Hana,Magellan Billet,1.6304347826086956,2.1739130434782608,44.02173913043478,0.75,include know have access erase
+Howell,Magellan Billet,1.6304347826086956,2.1739130434782608,44.02173913043478,0.75,include know have access erase
+Malone,Hana,3.125,1.5625,32.8125,2.0,ask point
+Malone,Luke,3.125,1.5625,32.8125,2.0,ask point
+Hana,Luke,3.125,1.5625,32.8125,2.0,ask point
+Luke,Hana,5.0,0.0,45.0,INF,hold shake
+Luke,Hana,5.0,0.0,45.0,INF,hold shake
+Levy,Malone,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Levy,Hana,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Levy,Malone,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Levy,DC,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Malone,Hana,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Malone,DC,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Hana,Malone,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Hana,DC,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Malone,DC,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,have be ask happen
+Stephanie,Edwin,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+Stephanie,White House,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+Stephanie,Danny,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+Edwin,White House,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+Edwin,Danny,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+White House,Danny,0.5434782608695652,0.0,51.63043478260869,INF,sit be locate
+Stephanie,Levy,2.272727272727273,0.0,52.27272727272727,INF,have return
+Stephanie,Edwin,3.4482758620689653,0.43103448275862066,54.741379310344826,8.0,alleviate have send confirm be make
+Edwin,Stephanie,3.4482758620689653,0.43103448275862066,54.741379310344826,8.0,alleviate have send confirm be make
+Stephanie,Danny,1.4705882352941175,1.4705882352941175,44.11764705882353,1.0,sit
+Stephanie,Solaris,0.0,0.0,41.17647058823529,INF,report culminate
+Stephanie,Kim,0.0,0.0,41.17647058823529,INF,report culminate
+Stephanie,Kim,0.0,0.0,41.17647058823529,INF,report culminate
+Solaris,Kim,0.0,0.0,41.17647058823529,INF,report culminate
+Solaris,Kim,0.0,0.0,41.17647058823529,INF,report culminate
+Levy,Mellon,2.1551724137931036,0.43103448275862066,49.137931034482754,5.0,describe divert allow have leave
+Levy,Mellon,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,burn leave end
+Edwin,Levy,3.6764705882352944,0.0,37.5,INF,know
+Edwin,Danny,3.6764705882352944,0.0,37.5,INF,know
+Levy,Danny,3.6764705882352944,0.0,37.5,INF,know
+Malone,Luke,7.142857142857142,2.380952380952381,42.857142857142854,3.0,know be swear
+Malone,Isabella,7.142857142857142,2.380952380952381,42.857142857142854,3.0,know be swear
+Luke,Isabella,7.142857142857142,2.380952380952381,42.857142857142854,3.0,know be swear
+Luke,Isabella,3.289473684210526,0.0,44.07894736842105,INF,be know have meet say
+Luke,Isabella,3.289473684210526,0.0,44.07894736842105,INF,be know have meet say
+Malone,Ms. Schaefer,0.0,0.0,36.84210526315789,INF,tell handle
+Malone,Treasury,0.0,0.0,36.84210526315789,INF,tell handle
+Malone,Luke,0.0,0.0,36.84210526315789,INF,tell handle
+Ms. Schaefer,Treasury,0.0,0.0,36.84210526315789,INF,tell handle
+Ms. Schaefer,Luke,0.0,0.0,36.84210526315789,INF,tell handle
+Treasury,Luke,0.0,0.0,36.84210526315789,INF,tell handle
+Luke,Isabella,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,report have tell forbid use redesign
+Luke,Treasury,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,report have tell forbid use redesign
+Isabella,Luke,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,report have tell forbid use redesign
+Isabella,Treasury,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,report have tell forbid use redesign
+Luke,Treasury,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,report have tell forbid use redesign
+Ms. Schaefer,Luke,0.0,0.0,33.33333333333333,INF,be say
+Luke,Isabella,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,give
+DC,Isabella,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+DC,Levy,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+DC,Treasury,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+Isabella,Levy,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+Isabella,Treasury,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+Levy,Treasury,1.3888888888888888,0.0,65.27777777777779,INF,return have make
+Isabella,Mellon,8.928571428571429,0.0,48.214285714285715,INF,do know be
+Isabella,Mellon,2.083333333333333,0.0,47.91666666666667,INF,toss
+Malone,Luke,0.0,0.0,46.15384615384615,INF,sit
+Malone,Isabella,0.0,0.0,46.15384615384615,INF,sit
+Luke,Isabella,0.0,0.0,46.15384615384615,INF,sit
+Luke,Kim,9.375,6.25,59.375,1.5,have kill
+Luke,Isabella,8.333333333333332,4.166666666666666,48.61111111111111,2.0,notice have become mean
+Isabella,Luke,0.0,1.25,48.75,0.0,stand kiss

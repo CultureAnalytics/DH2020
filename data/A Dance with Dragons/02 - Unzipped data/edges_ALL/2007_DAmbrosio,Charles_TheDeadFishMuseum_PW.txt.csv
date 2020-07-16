@@ -1,0 +1,561 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Eulalia,Jesus,0.0,0.0,52.94117647058824,INF,keep call make
+Donny,Tony,2.5,1.25,26.25,2.0,be
+Mr. Cheetam,Donny,0.0,0.0,50.0,INF,know talk
+Mr. Cheetam,Donny,0.0,0.0,41.66666666666667,INF,say see
+Mr. Cheetam,Donny,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,ask be think remember hike
+Mr. Cheetam,Donny,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,ask be think remember hike
+Donny,Mr. Cheetam,0.3205128205128205,2.564102564102564,50.96153846153846,0.125,share smoke be cup moan steal
+Donny,Mr. Cheetam,0.3205128205128205,2.564102564102564,50.96153846153846,0.125,share smoke be cup moan steal
+Donny,Mr. Cheetam,0.3205128205128205,2.564102564102564,50.96153846153846,0.125,share smoke be cup moan steal
+Mr. Cheetam,Donny,0.0,0.0,42.857142857142854,INF,shout grab
+Donny,Mr. Cheetam,3.260869565217391,2.1739130434782608,59.78260869565217,1.5,fish quit get catch
+Mr. Cheetam,Donny,3.260869565217391,2.1739130434782608,59.78260869565217,1.5,fish quit get catch
+Mr. Cheetam,Donny,6.25,2.083333333333333,41.66666666666667,3.0,say do worry
+Mr. Cheetam,Donny,3.125,0.0,55.208333333333336,INF,do scare be scare
+Donny,Mr. Cheetam,1.9736842105263157,8.552631578947368,42.10526315789473,0.23076923076923078,have complain get
+Donny,Mr. Cheetam,1.9736842105263157,8.552631578947368,42.10526315789473,0.23076923076923078,have complain get
+Donny,Mr. Cheetam,1.9736842105263157,8.552631578947368,42.10526315789473,0.23076923076923078,have complain get
+Donny,Mr. Cheetam,1.9736842105263157,8.552631578947368,42.10526315789473,0.23076923076923078,have complain get
+Donny,Mr. Cheetam,5.555555555555555,0.0,38.88888888888889,INF,say
+Jesus,Donny,0.0,0.0,37.5,INF,say rub
+Donny,Mr. Cheetam,1.0416666666666665,0.0,32.29166666666667,INF,be say
+Donny,Mr. Cheetam,0.0,2.34375,53.90625,0.0,ask build laugh say be do work
+Mr. Cheetam,Bob,3.289473684210526,0.0,70.39473684210526,INF,have record be write
+Mr. Cheetam,Bob,3.289473684210526,0.0,70.39473684210526,INF,have record be write
+Mr. Cheetam,Donny,0.625,0.0,44.375,INF,hook say like go
+Mr. Cheetam,Donny,0.625,0.0,44.375,INF,hook say like go
+Donald,Mr. Cheetam,0.0,1.1363636363636365,44.31818181818182,0.0,say do be
+Donny,Mr. Cheetam,3.75,1.875,64.375,2.0,cross keep cry beg
+Mr. Cheetam,Donny,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,snort hear say
+Mr. Cheetam,Donny,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,snort hear say
+Donny,Mr. Cheetam,0.0,0.0,63.1578947368421,INF,be lie come run
+Donald,Mr. Cheetam,2.34375,3.125,57.03125,0.75,be say
+Donny,Mr. Cheetam,2.34375,0.390625,39.453125,6.0,shake fold yell hear yell join keep hear be
+Donny,Mr. Cheetam,2.34375,0.390625,39.453125,6.0,shake fold yell hear yell join keep hear be
+Drummond,Pete,2.3255813953488373,2.0348837209302326,49.127906976744185,1.1428571428571428,die have start bring guess have discover like live
+Drummond,Pete,2.3255813953488373,2.0348837209302326,49.127906976744185,1.1428571428571428,die have start bring guess have discover like live
+Pete,Drummond,2.3255813953488373,2.0348837209302326,49.127906976744185,1.1428571428571428,die have start bring guess have discover like live
+Pete,Drummond,2.3255813953488373,2.0348837209302326,49.127906976744185,1.1428571428571428,die have start bring guess have discover like live
+Pete,Drummond,0.0,7.142857142857142,42.857142857142854,0.0,say sit
+Drummond,Olivetti,0.9868421052631579,3.289473684210526,66.77631578947368,0.3,wear lean dip dab ink
+Drummond,Olivetti,0.0,2.604166666666667,51.5625,0.0,offer sell be refuse
+Drummond,Olivetti,1.7857142857142856,0.0,41.07142857142857,INF,tear
+Jesus,Pete,0.0,0.0,40.0,INF,be say
+Drummond,Olivetti,3.4090909090909087,0.0,48.10606060606061,INF,roll sit stare
+Olivetti,Drummond,3.4090909090909087,0.0,48.10606060606061,INF,roll sit stare
+Olivetti,Drummond,3.4090909090909087,0.0,48.10606060606061,INF,roll sit stare
+Drummond,Theresa,5.0,1.5,45.5,3.3333333333333335,wonder drop go keep
+Drummond,Theresa,5.0,1.5,45.5,3.3333333333333335,wonder drop go keep
+Drummond,Theresa,4.807692307692308,3.3653846153846154,64.90384615384616,1.4285714285714286,have be expect walk be
+Drummond,Theresa,4.807692307692308,3.3653846153846154,64.90384615384616,1.4285714285714286,have be expect walk be
+Theresa,Pete,2.734375,3.90625,43.359375,0.7,have be wear fade bunch
+Pete,Theresa,2.734375,3.90625,43.359375,0.7,have be wear fade bunch
+Pete,Theresa,2.734375,3.90625,43.359375,0.7,have be wear fade bunch
+Drummond,Theresa,0.0,2.631578947368421,50.0,0.0,offer bring
+Drummond,Theresa,0.0,2.631578947368421,50.0,0.0,offer bring
+Drummond,Pete,1.1627906976744187,1.4534883720930232,46.22093023255814,0.8,tell take be talk read be tear
+Drummond,Pete,1.1627906976744187,1.4534883720930232,46.22093023255814,0.8,tell take be talk read be tear
+Drummond,Pete,1.1627906976744187,1.4534883720930232,46.22093023255814,0.8,tell take be talk read be tear
+Drummond,Pete,1.1627906976744187,1.4534883720930232,46.22093023255814,0.8,tell take be talk read be tear
+Pete,Drummond,3.977272727272727,0.0,41.47727272727273,INF,say want see
+Drummond,Pete,4.934210526315789,2.631578947368421,42.43421052631579,1.875,be ask play want
+Drummond,Pete,4.934210526315789,2.631578947368421,42.43421052631579,1.875,be ask play want
+Drummond,Pete,4.934210526315789,2.631578947368421,42.43421052631579,1.875,be ask play want
+Drummond,Pete,4.934210526315789,2.631578947368421,42.43421052631579,1.875,be ask play want
+Drummond,Pete,8.333333333333332,1.3888888888888888,45.83333333333333,6.0,have be stand have realize be
+Pete,Drummond,1.8617021276595744,1.5957446808510638,51.86170212765957,1.1666666666666667,have apologize have forget notice linger walk
+Pete,Drummond,1.8617021276595744,1.5957446808510638,51.86170212765957,1.1666666666666667,have apologize have forget notice linger walk
+Pete,Drummond,1.8617021276595744,1.5957446808510638,51.86170212765957,1.1666666666666667,have apologize have forget notice linger walk
+Pete,Drummond,1.8617021276595744,1.5957446808510638,51.86170212765957,1.1666666666666667,have apologize have forget notice linger walk
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Pete,0.0,3.9473684210526314,48.68421052631579,0.0,hook hurry shrug
+Drummond,Theresa,1.9230769230769231,1.6025641025641024,55.44871794871795,1.2,use bathe remember have sew steam
+Drummond,Theresa,1.9230769230769231,1.6025641025641024,55.44871794871795,1.2,use bathe remember have sew steam
+Drummond,Theresa,1.9230769230769231,1.6025641025641024,55.44871794871795,1.2,use bathe remember have sew steam
+Drummond,Pete,0.0,0.0,26.666666666666668,INF,do say hand
+Drummond,Olivetti,0.0,0.0,37.5,INF,be do
+Drummond,Olivetti,1.3157894736842104,1.3157894736842104,44.73684210526316,1.0,find need glue
+Drummond,Olivetti,1.3157894736842104,1.3157894736842104,44.73684210526316,1.0,find need glue
+Drummond,Olivetti,3.6458333333333335,2.083333333333333,48.4375,1.75,be say want
+Drummond,Olivetti,3.6458333333333335,2.083333333333333,48.4375,1.75,be say want
+Theresa,Pete,0.0,2.5,57.49999999999999,0.0,call
+Caroline,Lucy,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Caroline,Sandy,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Caroline,Steve,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Lucy,Sandy,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Lucy,Steve,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Lucy,Caroline,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Sandy,Steve,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Sandy,Caroline,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Steve,Caroline,2.364864864864865,2.027027027027027,55.067567567567565,1.1666666666666667,have be keep have be found
+Caroline,Lucy,0.8333333333333334,0.0,42.5,INF,be say sit cross
+Caroline,Lucy,0.8333333333333334,0.0,42.5,INF,be say sit cross
+Caroline,Lucy,0.8333333333333334,0.0,42.5,INF,be say sit cross
+Caroline,Lindy,0.0,0.0,50.0,INF,say
+Lindy,Beth Ann,2.1551724137931036,0.0,53.01724137931034,INF,meet have come
+Sandy,Steve,3.3333333333333335,1.6666666666666667,28.333333333333332,2.0,be
+Sandy,Caroline,1.875,2.5,60.62499999999999,0.75,hold look model
+Sandy,Caroline,1.875,2.5,60.62499999999999,0.75,hold look model
+Daddy,Caroline,0.0,0.0,33.33333333333333,INF,say
+Steve,Sandy,0.0,3.260869565217391,44.565217391304344,0.0,snore whisper hear turn
+Sandy,Steve,0.0,3.260869565217391,44.565217391304344,0.0,snore whisper hear turn
+Daly,Caroline,0.8928571428571428,0.0,41.964285714285715,INF,be take say
+Jesus,Steve,0.0,0.0,38.46153846153847,INF,say crowd
+Daly,Mr. Jansen,0.6944444444444444,0.0,38.19444444444444,INF,say do set
+Steve,Daly,5.88235294117647,0.0,41.17647058823529,INF,say get crack
+Daly,Mr. Jansen,3.90625,0.0,46.09375,INF,think let have say
+Mr. Jansen,Steve,2.272727272727273,0.0,56.81818181818182,INF,laugh remove work rub
+Mr. Jansen,Steve,2.272727272727273,0.0,56.81818181818182,INF,laugh remove work rub
+Steve,Mr. Jansen,2.232142857142857,0.0,47.767857142857146,INF,do explain be try imitate draw
+Mr. Jansen,Steve,2.232142857142857,0.0,47.767857142857146,INF,do explain be try imitate draw
+Mr. Jansen,Steve,1.171875,2.34375,55.859375,0.5,kill be continue let try hold get
+Mr. Jansen,Steve,1.171875,2.34375,55.859375,0.5,kill be continue let try hold get
+Daly,Mr. Jansen,2.083333333333333,2.083333333333333,45.83333333333333,1.0,be say
+Beth Ann,Lindy,0.0,0.0,50.0,INF,be say
+Steve,Mr. Jansen,6.25,1.7857142857142856,49.107142857142854,3.5,avert stare try keep
+Lindy,Mr. Jansen,2.941176470588235,2.941176470588235,64.70588235294117,1.0,look pool
+Steve,Lindy,0.0,9.375,78.125,0.0,aim stare
+Steve,Mr. Jansen,5.208333333333334,2.083333333333333,42.70833333333333,2.5,take say
+Lindy,Mr. Jansen,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,know continue have hear
+Lindy,Steve,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,know continue have hear
+Lindy,Mr. Jansen,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,know continue have hear
+Lindy,Steve,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,know continue have hear
+Mr. Jansen,Steve,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,know continue have hear
+Beth Ann,Steve,0.0,0.75,45.25,0.0,do give swallow do look swipe
+Beth Ann,Steve,0.0,0.75,45.25,0.0,do give swallow do look swipe
+Beth Ann,Steve,0.0,0.75,45.25,0.0,do give swallow do look swipe
+Lucy,Mr. Jansen,9.375,2.083333333333333,46.875,4.5,know offer
+Sandy,Steve,4.891304347826087,1.6304347826086956,45.65217391304348,3.0,know do say
+Steve,Sandy,4.6875,6.25,45.3125,0.75,say be do know
+Lindy,Mr. Jansen,2.4193548387096775,2.82258064516129,59.2741935483871,0.8571428571428571,be labor rub seem
+Lindy,Mr. Jansen,2.4193548387096775,2.82258064516129,59.2741935483871,0.8571428571428571,be labor rub seem
+Lindy,Steve,3.6458333333333335,0.0,50.520833333333336,INF,offer manage work die
+Lindy,Steve,3.6458333333333335,0.0,50.520833333333336,INF,offer manage work die
+Mr. Jansen,Daly,2.604166666666667,0.5208333333333333,46.875,5.0,look say say be
+Mr. Jansen,Daly,2.604166666666667,0.5208333333333333,46.875,5.0,look say say be
+Sandy,Lindy,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,work sit read
+Caroline,Lucy,1.524390243902439,1.8292682926829267,52.743902439024396,0.8333333333333334,discuss act offer have glean restate be
+Daly,Lucy,0.0,0.0,38.46153846153847,INF,say
+Steve,Lindy,0.0,0.0,60.0,INF,say
+Steve,Mr. Jansen,0.0,0.0,60.0,INF,say
+Lindy,Mr. Jansen,0.0,0.0,60.0,INF,say
+Mr. Jansen,Steve,0.0,3.90625,33.59375,0.0,light say be
+Steve,Sandy,3.2407407407407405,6.018518518518518,44.44444444444444,0.5384615384615384,have be jar surprise live rankle exist
+Steve,Sandy,3.2407407407407405,6.018518518518518,44.44444444444444,0.5384615384615384,have be jar surprise live rankle exist
+Steve,Sandy,3.2407407407407405,6.018518518518518,44.44444444444444,0.5384615384615384,have be jar surprise live rankle exist
+Steve,Sandy,3.2407407407407405,6.018518518518518,44.44444444444444,0.5384615384615384,have be jar surprise live rankle exist
+Steve,Sandy,3.2407407407407405,6.018518518518518,44.44444444444444,0.5384615384615384,have be jar surprise live rankle exist
+Lance,Kirsten,5.147058823529411,0.0,41.911764705882355,INF,bow kirsten enter
+Kirsten,Lance,5.147058823529411,0.0,41.911764705882355,INF,bow kirsten enter
+Kirsten,Lance,0.0,0.0,30.76923076923077,INF,say
+Randy,Lance,0.0,0.0,29.411764705882355,INF,say be do
+Bill,Randy,0.0,0.0,42.857142857142854,INF,say use work
+Kirsten,Lance,0.4629629629629629,1.8518518518518516,64.35185185185185,0.25,soften blow hang
+Lance,Kirsten,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,cut feel harden
+Kirsten,Lance,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,cut feel harden
+Lance,Kirsten,2.631578947368421,0.6578947368421052,59.86842105263158,4.0,smile
+Kirsten,Lance,5.5,3.5000000000000004,47.0,1.5714285714285714,have die have make understand be tell
+Kirsten,Lance,5.5,3.5000000000000004,47.0,1.5714285714285714,have die have make understand be tell
+Lance,Kirsten,3.2327586206896552,1.7241379310344827,58.83620689655172,1.875,pass drive deliver tear click sweep sleep
+Lance,Kirsten,1.25,2.1875,54.0625,0.5714285714285714,be be suppose work leave weaken vanish be send
+Kirsten,Lance,1.25,2.1875,54.0625,0.5714285714285714,be be suppose work leave weaken vanish be send
+Lance,Kirsten,3.0303030303030303,3.4090909090909087,51.13636363636363,0.8888888888888888,be do deliver turn say let become
+Lance,Kirsten,3.0303030303030303,3.4090909090909087,51.13636363636363,0.8888888888888888,be do deliver turn say let become
+Lance,Kirsten,3.0303030303030303,3.4090909090909087,51.13636363636363,0.8888888888888888,be do deliver turn say let become
+Kirsten,Lance,4.017857142857143,4.017857142857143,49.107142857142854,1.0,back cede enter
+Lance,Kirsten,0.0,0.0,44.44444444444444,INF,reach squeeze
+Kirsten,Lance,0.0,0.0,47.82608695652174,INF,lean begin brush comb
+Kirsten,Lance,0.0,0.0,47.82608695652174,INF,lean begin brush comb
+Kirsten,Effie,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Kirsten,Effie,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Effie,Kirsten,0.0,2.586206896551724,42.241379310344826,0.0,introduce be grit bite
+Lance,Kirsten,3.4420289855072466,2.355072463768116,47.82608695652174,1.4615384615384615,believe deserve run see probe tease give know be
+Lance,Kirsten,3.4420289855072466,2.355072463768116,47.82608695652174,1.4615384615384615,believe deserve run see probe tease give know be
+Kirsten,Kristen,2.083333333333333,4.166666666666666,47.083333333333336,0.5,be begin end have elaborate
+Kristen,Kirsten,5.053191489361701,1.3297872340425532,59.57446808510638,3.8,have advise be have be seem focus make seem
+Kristen,Lance,5.053191489361701,1.3297872340425532,59.57446808510638,3.8,have advise be have be seem focus make seem
+Kirsten,Lance,5.053191489361701,1.3297872340425532,59.57446808510638,3.8,have advise be have be seem focus make seem
+Lance,Kristen,3.571428571428571,5.803571428571429,47.767857142857146,0.6153846153846154,be be deplete think expect strike
+Lance,Kristen,3.571428571428571,5.803571428571429,47.767857142857146,0.6153846153846154,be be deplete think expect strike
+Kirsten,Kristen,1.3888888888888888,0.0,54.166666666666664,INF,knock wipe shuffle
+Kirsten,Kristen,1.3888888888888888,0.0,54.166666666666664,INF,knock wipe shuffle
+Kristen,Lance,0.0,0.0,53.84615384615385,INF,do
+Kristen,Lance,0.5,1.0,56.49999999999999,0.5,solicit find repair slouch crawl
+Kristen,Lance,0.5,1.0,56.49999999999999,0.5,solicit find repair slouch crawl
+Kristen,Lance,0.5,1.0,56.49999999999999,0.5,solicit find repair slouch crawl
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Lance,Kirsten,2.380952380952381,0.0,59.523809523809526,INF,have have occur be conduct
+Kirsten,Lance,1.5,0.0,70.5,INF,sit fade lean watch toss stick
+Effie,Kirsten,0.0,0.0,36.666666666666664,INF,drop push
+Effie,Kirsten,0.0,0.0,36.666666666666664,INF,drop push
+Effie,Gen,1.25,0.0,48.75,INF,tell say
+Kirsten,Gen,0.0,0.9615384615384616,52.88461538461539,0.0,rinse offer
+Kirsten,Gen,0.0,0.9615384615384616,52.88461538461539,0.0,rinse offer
+Effie,Kristen,0.0,5.208333333333334,28.125,0.0,be say
+Lance,Kirsten,2.083333333333333,6.25,33.33333333333333,0.3333333333333333,say be
+Effie,Lance,0.0,0.0,36.36363636363637,INF,square
+Kirsten,Effie,6.640625,1.5625,51.171875,4.25,be speak feel feel rest hold
+Kirsten,Effie,6.640625,1.5625,51.171875,4.25,be speak feel feel rest hold
+Kirsten,Effie,6.640625,1.5625,51.171875,4.25,be speak feel feel rest hold
+Effie,Kirsten,0.0,0.0,47.61904761904761,INF,pick press gather
+Effie,Kirsten,0.0,0.0,47.61904761904761,INF,pick press gather
+Kirsten,Johnny,0.0,0.0,16.666666666666664,INF,say
+Gen,Effie,3.571428571428571,1.7857142857142856,66.07142857142857,2.0,whisper be have speak
+Gen,Effie,5.729166666666666,2.083333333333333,38.02083333333333,2.75,say wave shoo
+Kirsten,Lance,1.25,0.0,58.75,INF,gather have carry
+Lance,Kirsten,3.3653846153846154,1.4423076923076923,60.57692307692307,2.3333333333333335,be go look consider tear read
+Kirsten,Lance,1.9230769230769231,2.8846153846153846,56.730769230769226,0.6666666666666666,look seem pull run
+Greenfield,Ramage,0.7352941176470588,0.0,58.08823529411765,INF,put ask bum
+Greenfield,Ramage,0.7352941176470588,0.0,58.08823529411765,INF,put ask bum
+Greenfield,Ramage,2.8846153846153846,0.0,50.96153846153846,INF,hold draw
+Ramage,Greenfield,0.0,0.0,50.0,INF,script establish
+Ramage,Greenfield,0.0,0.0,50.0,INF,script establish
+Rigo,Ramage,1.1904761904761905,1.7857142857142856,58.92857142857143,0.6666666666666666,pause hold dribble
+Rigo,Ramage,1.1904761904761905,1.7857142857142856,58.92857142857143,0.6666666666666666,pause hold dribble
+Rigo,Ramage,1.1904761904761905,1.7857142857142856,58.92857142857143,0.6666666666666666,pause hold dribble
+Ramage,Rigo,0.0,0.0,40.0,INF,turn shout take
+Ramage,Rigoberto,0.0,0.0,40.0,INF,turn shout take
+Rigo,Rigoberto,0.0,0.0,40.0,INF,turn shout take
+Rigoberto,Ramage,0.0,6.25,33.75,0.0,be say
+Rigo,Ramage,2.34375,3.125,69.53125,0.75,grab have stash stack
+Rigo,Ramage,0.0,2.6785714285714284,47.32142857142857,0.0,scrape do answer
+Ramage,Rigo,1.4285714285714286,1.7857142857142856,62.5,0.8,use make say make unwrap wax
+Rigo,Ramage,1.4285714285714286,1.7857142857142856,62.5,0.8,use make say make unwrap wax
+Rigo,Ramage,1.4285714285714286,1.7857142857142856,62.5,0.8,use make say make unwrap wax
+Ramage,Rigo,0.625,0.625,48.75,1.0,lob lower address
+Rigo,Ramage,1.7045454545454544,1.7045454545454544,51.13636363636363,1.0,be gaze have fly
+Greenfield,Rigo,1.0416666666666665,0.0,32.29166666666667,INF,point say
+Ramage,Rigo,2.0,0.0,52.0,INF,dry have help arrange rent finish sit build
+Rigo,Ramage,2.0,0.0,52.0,INF,dry have help arrange rent finish sit build
+Rigo,Ramage,1.6129032258064515,0.4032258064516129,59.2741935483871,4.0,open loft shine stream
+Rigo,Ramage,0.0,0.0,50.0,INF,sip be freckle
+Rigo,Ramage,0.0,0.0,50.0,INF,sip be freckle
+Ramage,Rigo,2.083333333333333,0.8333333333333334,57.08333333333333,2.5,see work have be knock
+Rigo,Ramage,2.083333333333333,0.8333333333333334,57.08333333333333,2.5,see work have be knock
+Rigo,Ramage,4.861111111111112,1.3888888888888888,54.861111111111114,3.5,be
+Ramage,Rigo,0.6944444444444444,0.0,49.30555555555556,INF,salute drink
+Rigo,Ramage,0.6944444444444444,0.0,49.30555555555556,INF,salute drink
+Rigo,Ramage,0.0,0.0,44.44444444444444,INF,finish order
+Ramage,Rigo,1.893939393939394,1.1363636363636365,48.484848484848484,1.6666666666666667,ask change know be sleep save pocket
+Ramage,Rigo,1.893939393939394,1.1363636363636365,48.484848484848484,1.6666666666666667,ask change know be sleep save pocket
+Rigo,Ramage,0.78125,0.0,49.21875,INF,hold stare create
+Rigo,Ramage,0.0,6.944444444444445,48.61111111111111,0.0,grab finish
+Rigo,Ramage,0.6944444444444444,0.0,71.52777777777779,INF,drink spin
+Rigo,Ramage,0.0,0.0,36.36363636363637,INF,say raise
+Rigo,Ramage,0.0,0.0,40.0,INF,shake
+Rigo,Ramage,2.364864864864865,0.0,59.797297297297305,INF,fashion slam squint sweep glimmer
+Rigo,Ramage,2.364864864864865,0.0,59.797297297297305,INF,fashion slam squint sweep glimmer
+Rigo,Ramage,2.364864864864865,0.0,59.797297297297305,INF,fashion slam squint sweep glimmer
+Rigo,Ramage,2.364864864864865,0.0,59.797297297297305,INF,fashion slam squint sweep glimmer
+Payne,Ramage,0.0,0.0,28.57142857142857,INF,call say
+Payne,Ramage,0.0,0.0,28.57142857142857,INF,call say
+Ramage,Payne,0.0,0.0,28.57142857142857,INF,call say
+Ramage,Desiree,0.78125,1.5625,47.65625,0.5,stare venture
+Ramage,Desiree,2.34375,0.0,47.65625,INF,lead test turn
+Desiree,Ramage,2.34375,0.0,47.65625,INF,lead test turn
+Ramage,Desiree,0.0,0.0,36.36363636363637,INF,jump beckon
+Desiree,Ramage,0.0,0.0,50.0,INF,walk leave lay listen crash
+Ramage,Desiree,3.75,5.0,51.24999999999999,0.75,have humiliate disgust be fill watch hope return
+Ramage,Desiree,3.75,5.0,51.24999999999999,0.75,have humiliate disgust be fill watch hope return
+Ramage,Desiree,3.75,5.0,51.24999999999999,0.75,have humiliate disgust be fill watch hope return
+Ramage,Desiree,3.75,5.0,51.24999999999999,0.75,have humiliate disgust be fill watch hope return
+Ramage,Desiree,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,have feel stand watch stop
+Desiree,Ramage,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,have feel stand watch stop
+Desiree,Ramage,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,have feel stand watch stop
+Greenfield,Ramage,2.976190476190476,1.7857142857142856,59.523809523809526,1.6666666666666667,clear go find sit turn crank bore block
+Ramage,Desiree,0.0,0.0,40.0,INF,press see
+Ramage,Desiree,0.0,0.0,40.0,INF,press see
+Greenfield,Desiree,1.1363636363636365,0.0,35.22727272727273,INF,look bore be tell
+Ramage,Desiree,0.5952380952380952,3.571428571428571,62.5,0.16666666666666666,wind slip find stand
+Ramage,Desiree,0.5952380952380952,3.571428571428571,62.5,0.16666666666666666,wind slip find stand
+Greenfield,Desiree,1.25,0.0,28.749999999999996,INF,get say
+Desiree,Ramage,1.953125,0.78125,56.640625,2.5,pour sip tip sit raise
+Desiree,Ramage,1.953125,0.78125,56.640625,2.5,pour sip tip sit raise
+Ramage,Desiree,1.953125,0.78125,56.640625,2.5,pour sip tip sit raise
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,0.0,1.9736842105263157,55.92105263157895,0.0,feel run seam trace rise fall
+Ramage,Desiree,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Ramage,Desiree,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Ramage,Desiree,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Desiree,Ramage,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Desiree,Ramage,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Desiree,Ramage,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Desiree,Ramage,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Ramage,Desiree,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Ramage,Desiree,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,kiss touch fake slip
+Desiree,Ramage,1.25,2.083333333333333,50.0,0.6,have apply cover come
+Desiree,Ramage,0.0,0.0,33.33333333333333,INF,reach
+Rigo,Ramage,3.125,3.90625,55.46875,0.8,hold
+Ramage,Desiree,0.0,1.3888888888888888,48.61111111111111,0.0,open offer decline
+Ramage,Rigo,3.289473684210526,8.552631578947368,46.05263157894737,0.38461538461538464,turn drink swallow
+Ramage,Rigo,0.8522727272727272,1.1363636363636365,43.465909090909086,0.75,turn face be poison
+Desiree,Ramage,0.0,1.1363636363636365,53.40909090909091,0.0,reach give
+Greenfield,Ramage,0.5208333333333333,1.5625,52.083333333333336,0.3333333333333333,tell stay dismantle
+Ramage,Rigo,1.1904761904761905,0.0,46.42857142857143,INF,send wait
+Rigo,Ramage,1.1904761904761905,0.0,46.42857142857143,INF,send wait
+Rigo,Ramage,0.0,0.0,64.28571428571429,INF,flip hit
+Ramage,Rigo,3.125,0.0,46.875,INF,close shove
+Rigo,Ramage,3.125,0.0,46.875,INF,close shove
+Ramage,Rigo,0.0,0.0,37.5,INF,work
+Rigo,Ramage,0.0,0.0,37.5,INF,work
+Ramage,Rigo,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,haul offer
+Ramage,Rigo,2.272727272727273,0.0,52.27272727272727,INF,squeeze give
+Rosebud,Hearst,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,know be
+Ramage,Greenfield,0.0,0.0,40.0,INF,say talk
+Ramage,Greenfield,1.5625,1.0416666666666665,55.729166666666664,1.5,be clear leave insist stay call
+Ramage,Greenfield,1.5625,1.0416666666666665,55.729166666666664,1.5,be clear leave insist stay call
+Rigo,Ramage,0.8064516129032258,0.4032258064516129,60.08064516129033,2.0,be plant peer be subdue press
+Ramage,Desiree,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,watch bind
+Ramage,Desiree,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,watch bind
+Desiree,Ramage,2.631578947368421,0.0,50.0,INF,howl move stand
+Ramage,Rigo,0.0,0.5,51.5,0.0,leave climb make curl
+Rigo,Ramage,0.0,0.5,51.5,0.0,leave climb make curl
+Ramage,Rigo,1.0416666666666665,0.5208333333333333,48.4375,2.0,rise go enter
+Greenfield,Ramage,3.4090909090909087,1.1363636363636365,31.818181818181817,3.0,say fuck
+Ramage,Rigo,0.0,2.8846153846153846,50.96153846153846,0.0,feint
+Ramage,Rigo,1.0416666666666665,0.0,61.458333333333336,INF,slam shove pound
+Rigo,Ramage,1.0416666666666665,0.0,61.458333333333336,INF,slam shove pound
+Rigo,Ramage,1.744186046511628,0.0,61.04651162790697,INF,be notice gather seem freeze fall smile
+Rigo,Ramage,0.0,0.0,52.94117647058824,INF,rise rush knock
+Ramage,Rigo,1.9230769230769231,0.0,44.230769230769226,INF,tell stay
+Rigo,Ramage,1.9230769230769231,0.0,44.230769230769226,INF,tell stay
+Harvard,Ramage,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Harvard,Ramage,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Harvard,Ramage,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Harvard,Rigo,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Ramage,Rigo,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Ramage,Rigo,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Ramage,Rigo,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,say wipe
+Greenfield,Ramage,1.4705882352941175,3.6764705882352944,36.029411764705884,0.4,pay walk look
+Greenfield,Rigo,1.4705882352941175,3.6764705882352944,36.029411764705884,0.4,pay walk look
+Greenfield,Ramage,1.4705882352941175,3.6764705882352944,36.029411764705884,0.4,pay walk look
+Greenfield,Rigo,1.4705882352941175,3.6764705882352944,36.029411764705884,0.4,pay walk look
+Ramage,Rigo,1.4705882352941175,3.6764705882352944,36.029411764705884,0.4,pay walk look
+Ramage,Desiree,0.0,0.0,60.0,INF,look
+Desiree,Ramage,0.0,0.0,25.0,INF,ask
+Ramage,Desiree,0.0,0.0,56.25,INF,follow wait
+Desiree,Ramage,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,settle wait expect roll say do
+Ramage,Desiree,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,settle wait expect roll say do
+Ramage,Desiree,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,settle wait expect roll say do
+Ramage,Rigo,3.125,4.166666666666666,67.70833333333334,0.75,be convince have steal
+Ramage,Desiree,9.375,0.0,53.125,INF,wonder be
+Jimmy,Meagan,3.6016949152542375,1.4830508474576272,49.152542372881356,2.4285714285714284,be arrive be suppose have decide call have make
+Meagan,Jimmy,2.7777777777777777,2.1825396825396823,58.53174603174603,1.2727272727272727,shop be purchase empty mop hide set dissolve
+Meagan,Jimmy,2.7777777777777777,2.1825396825396823,58.53174603174603,1.2727272727272727,shop be purchase empty mop hide set dissolve
+Meagan,Mr. Boyd,0.6944444444444444,0.0,54.861111111111114,INF,come run hold
+Daddy,Meagan,0.0,0.0,53.84615384615385,INF,have say
+Jimmy,Naga,0.0,1.6129032258064515,56.451612903225815,0.0,say huddle presume be hold
+Meagan,Jimmy,5.0,3.75,41.25,1.3333333333333333,scream hug step
+Meagan,Jimmy,2.5,0.0,44.166666666666664,INF,let look say collapse
+Jimmy,Naga,0.8333333333333334,0.8333333333333334,45.0,1.0,be say take
+Jimmy,Naga,0.8333333333333334,0.8333333333333334,45.0,1.0,be say take
+Anthony,Mr. Boyd,4.761904761904762,0.0,47.61904761904761,INF,call call sound
+Meagan,Jimmy,3.4090909090909087,1.1363636363636365,55.45454545454545,3.0,do talk like say wonder have
+Meagan,Jimmy,3.4090909090909087,1.1363636363636365,55.45454545454545,3.0,do talk like say wonder have
+Jimmy,Mr. Boyd,3.125,0.0,34.375,INF,call
+Joe,Jimmy,0.0,0.0,28.57142857142857,INF,say
+Joey,Jimmy,2.5,1.25,26.25,2.0,be say
+Jimmy,Naga,1.3157894736842104,5.0438596491228065,60.30701754385965,0.2608695652173913,pull huddle gather be adore wail stammer send warm
+Jimmy,Naga,1.3157894736842104,5.0438596491228065,60.30701754385965,0.2608695652173913,pull huddle gather be adore wail stammer send warm
+Jimmy,Naga,1.3157894736842104,5.0438596491228065,60.30701754385965,0.2608695652173913,pull huddle gather be adore wail stammer send warm
+Mr. Boyd,Meagan,1.5625,1.215277777777778,43.05555555555556,1.2857142857142858,find listen hear be say be rise babble thrum
+Mr. Boyd,Jimmy,1.5625,1.215277777777778,43.05555555555556,1.2857142857142858,find listen hear be say be rise babble thrum
+Meagan,Jimmy,1.5625,1.215277777777778,43.05555555555556,1.2857142857142858,find listen hear be say be rise babble thrum
+Mr. Boyd,Jimmy,3.571428571428571,3.571428571428571,53.57142857142857,1.0,worry find lift seem fit be sit
+Jimmy,Naga,0.625,0.625,48.75,1.0,say use be sound
+Jimmy,Meagan,0.625,0.625,48.75,1.0,say use be sound
+Naga,Meagan,0.625,0.625,48.75,1.0,say use be sound
+Mr. Boyd,Meagan,1.3888888888888888,2.7777777777777777,48.61111111111111,0.5,quarrel make seem include seem find dispute
+Jimmy,Naga,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Jimmy,Mr. Boyd,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Jimmy,Meagan,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Naga,Mr. Boyd,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Naga,Meagan,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Mr. Boyd,Meagan,3.125,0.390625,49.609375,8.0,get settle show decide relinquish have
+Meagan,Jimmy,2.5,1.7500000000000002,53.75,1.4285714285714286,think have catch have try hide have find have challenge take be do seem matter
+Meagan,Jimmy,2.5,1.7500000000000002,53.75,1.4285714285714286,think have catch have try hide have find have challenge take be do seem matter
+Meagan,Jimmy,0.0,0.8928571428571428,49.107142857142854,0.0,hide say
+Meagan,Jimmy,7.142857142857142,5.357142857142857,37.5,1.3333333333333333,be be correct
+Meagan,Jimmy,7.142857142857142,5.357142857142857,37.5,1.3333333333333333,be be correct
+Meagan,Mr. Boyd,1.3513513513513513,1.3513513513513513,51.35135135135135,1.0,talk have be answer speak feel be respond
+Joe,Meagan,2.8301886792452833,1.4150943396226416,52.358490566037744,2.0,know have play meet suspect come begin deteriorate
+Joe,Meagan,2.8301886792452833,1.4150943396226416,52.358490566037744,2.0,know have play meet suspect come begin deteriorate
+Meagan,Joe,2.8301886792452833,1.4150943396226416,52.358490566037744,2.0,know have play meet suspect come begin deteriorate
+Mr. Boyd,Meagan,2.2058823529411766,0.3676470588235294,56.25,6.0,share return say have say be come
+Mr. Boyd,Meagan,2.2058823529411766,0.3676470588235294,56.25,6.0,share return say have say be come
+Jimmy,Naga,0.5434782608695652,0.0,64.67391304347827,INF,sag pace try put
+Jimmy,Naga,3.125,3.125,58.75,1.0,have find be
+Meagan,Jimmy,5.833333333333333,4.166666666666666,36.666666666666664,1.4,mean be be say
+Meagan,Mr. Boyd,3.125,1.7857142857142856,55.80357142857143,1.75,be make stand
+Meagan,Jimmy,3.125,1.7857142857142856,55.80357142857143,1.75,be make stand
+Meagan,Jimmy,3.125,1.7857142857142856,55.80357142857143,1.75,be make stand
+Mr. Boyd,Jimmy,3.125,1.7857142857142856,55.80357142857143,1.75,be make stand
+Mr. Boyd,Jimmy,3.125,1.7857142857142856,55.80357142857143,1.75,be make stand
+Meagan,Mr. Boyd,1.9230769230769231,0.0,44.230769230769226,INF,have stop watch
+Meagan,Mr. Boyd,1.9230769230769231,0.0,44.230769230769226,INF,have stop watch
+Tony,Meagan,0.0,0.0,33.33333333333333,INF,quit say
+Tony,Joe,0.8928571428571428,8.035714285714286,48.214285714285715,0.1111111111111111,say catch say
+Naga,Meagan,0.0,0.0,42.857142857142854,INF,hear call
+Meagan,Jimmy,0.0,0.0,52.94117647058824,INF,rap stop cast wave
+Meagan,Jimmy,0.0,0.0,52.94117647058824,INF,rap stop cast wave
+Daddy,Meagan,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,get meet say
+Mr. Boyd,Meagan,0.0,0.0,33.33333333333333,INF,turn say see
+Jimmy,Naga,10.416666666666668,0.0,56.25,INF,go find
+Naga,Meagan,0.0,0.625,59.375,0.0,come ask hold fix
+Milt,Benham,3.75,5.625,45.625,0.6666666666666666,distinguish puzzle
+Benham,Milt,4.166666666666666,3.0303030303030303,38.25757575757576,1.375,presume be
+Benham,Milt,4.166666666666666,3.0303030303030303,38.25757575757576,1.375,presume be
+Jimmy,Mr. Boyd,2.2540983606557377,3.0737704918032787,55.32786885245902,0.7333333333333333,have come say go be leave be upstage put clomp take
+Jimmy,Mr. Boyd,2.2540983606557377,3.0737704918032787,55.32786885245902,0.7333333333333333,have come say go be leave be upstage put clomp take
+Jimmy,Mr. Boyd,2.2540983606557377,3.0737704918032787,55.32786885245902,0.7333333333333333,have come say go be leave be upstage put clomp take
+Jimmy,Mr. Boyd,2.2540983606557377,3.0737704918032787,55.32786885245902,0.7333333333333333,have come say go be leave be upstage put clomp take
+Meagan,Mr. George,0.0,3.4722222222222223,52.083333333333336,0.0,go tell be go hurry switch burn run
+Meagan,Mr. George,0.0,3.4722222222222223,52.083333333333336,0.0,go tell be go hurry switch burn run
+Mr. George,Meagan,0.0,0.0,31.25,INF,hold say offer
+Mr. Boyd,Jimmy,2.302631578947368,0.0,55.5921052631579,INF,mark follow retrace add hit
+Mr. George,Mr. Boyd,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Mr. George,Meagan,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Mr. George,Jimmy,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Mr. Boyd,Meagan,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Mr. Boyd,Jimmy,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Meagan,Jimmy,0.0,0.0,46.34146341463415,INF,offload pass hand hand pass slip slide stack
+Naga,Joey,0.0,0.0,46.15384615384615,INF,be gon run go get
+Meagan,Mr. George,0.7352941176470588,0.0,63.970588235294116,INF,be finish invite join
+Meagan,Mr. Boyd,2.2222222222222223,0.0,55.55555555555556,INF,surround have sit come
+Meagan,Jimmy,2.2222222222222223,0.0,55.55555555555556,INF,surround have sit come
+Mr. Boyd,Jimmy,2.2222222222222223,0.0,55.55555555555556,INF,surround have sit come
+Naga,Jimmy,0.0,3.289473684210526,54.60526315789473,0.0,hear call
+Meagan,Mr. Boyd,1.5,0.0,42.5,INF,hear call
+Meagan,Daddy,1.5,0.0,42.5,INF,hear call
+Mr. Boyd,Meagan,1.5,0.0,42.5,INF,hear call
+Mr. Boyd,Daddy,1.5,0.0,42.5,INF,hear call
+Meagan,Daddy,1.5,0.0,42.5,INF,hear call
+Meagan,Mr. Boyd,2.5735294117647056,0.0,53.30882352941176,INF,hear weave mollify staunch bully fall
+Meagan,Jimmy,2.5735294117647056,0.0,53.30882352941176,INF,hear weave mollify staunch bully fall
+Meagan,Jimmy,2.5735294117647056,0.0,53.30882352941176,INF,hear weave mollify staunch bully fall
+Mr. Boyd,Jimmy,2.5735294117647056,0.0,53.30882352941176,INF,hear weave mollify staunch bully fall
+Mr. Boyd,Jimmy,2.5735294117647056,0.0,53.30882352941176,INF,hear weave mollify staunch bully fall
+Meagan,Jimmy,2.976190476190476,1.1904761904761905,52.976190476190474,2.5,join put sing
+Meagan,Jimmy,2.976190476190476,1.1904761904761905,52.976190476190474,2.5,join put sing
+Meagan,Jimmy,2.976190476190476,1.1904761904761905,52.976190476190474,2.5,join put sing
+Meagan,Jimmy,2.976190476190476,1.1904761904761905,52.976190476190474,2.5,join put sing
+Naga,Meagan,0.0,0.8333333333333334,59.166666666666664,0.0,give move
+Kype,Cadillac,1.7857142857142856,0.0,50.595238095238095,INF,palm steer squeal
+Kype,Cadillac,0.0,0.0,53.333333333333336,INF,let die navigate
+Nell,Nella Ides,0.0,0.0,22.22222222222222,INF,name
+Mungo Martin,Kype,0.7352941176470588,0.0,40.44117647058824,INF,know say look
+Mungo Martin,Nell,0.0,2.272727272727273,34.090909090909086,0.0,be say
+Kype,Mungo Martin,1.3888888888888888,0.0,65.27777777777779,INF,be get
+Kype,Nell,0.0,0.0,38.095238095238095,INF,see listen make
+Nell,Kype,0.0,0.0,57.14285714285714,INF,slap
+Porter,Kype,5.64516129032258,4.838709677419355,50.806451612903224,1.1666666666666667,look dislike approach
+Kype,Porter,5.64516129032258,4.838709677419355,50.806451612903224,1.1666666666666667,look dislike approach
+Kype,Porter,5.64516129032258,4.838709677419355,50.806451612903224,1.1666666666666667,look dislike approach
+Kype,Porter,5.64516129032258,4.838709677419355,50.806451612903224,1.1666666666666667,look dislike approach
+Kype,Porter,5.64516129032258,4.838709677419355,50.806451612903224,1.1666666666666667,look dislike approach
+Kype,Porter,2.5,0.0,37.5,INF,unfold
+Porter,Nell,0.0,0.0,60.0,INF,look
+Porter,Kype,0.0,0.0,42.857142857142854,INF,run watch stand
+Porter,Nell,0.0,0.0,42.857142857142854,INF,run watch stand
+Kype,Nell,0.0,0.0,42.857142857142854,INF,run watch stand
+Kype,Porter,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,assemble slide bait
+Kype,Porter,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,assemble slide bait
+Kype,Porter,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,assemble slide bait
+Kype,Porter,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,hold be assign
+Kype,Porter,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,hold be assign
+Kype,Porter,4.296875,4.6875,47.265625,0.9166666666666666,have fish like go feel
+Kype,Porter,4.296875,4.6875,47.265625,0.9166666666666666,have fish like go feel
+Porter,Kype,1.25,1.25,57.49999999999999,1.0,grab raise hesitate look say want
+Porter,Kype,1.25,1.25,57.49999999999999,1.0,grab raise hesitate look say want
+Porter,Kype,1.25,1.25,57.49999999999999,1.0,grab raise hesitate look say want
+Kype,Nell,0.0,0.0,43.47826086956522,INF,return be gut have whet
+Kype,Nell,0.0,0.0,43.47826086956522,INF,return be gut have whet
+Kype,Nell,0.0,0.0,44.44444444444444,INF,pull
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Nell,Kype,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Nell,Kype,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Nell,Kype,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Nell,Kype,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Kype,Nell,1.5909090909090908,0.45454545454545453,56.13636363636364,3.5,remember have go dial cut yammer blast bore
+Nell,Kype,3.977272727272727,4.545454545454546,55.11363636363637,0.875,be
+Kype,Nell,0.0,2.2058823529411766,50.73529411764706,0.0,go refuse give return
+Kype,Nell,1.1363636363636365,3.4090909090909087,31.818181818181817,0.3333333333333333,want be want
+Kype,Nell,1.1363636363636365,3.4090909090909087,31.818181818181817,0.3333333333333333,want be want
+Kype,Nell,0.0,1.25,48.75,0.0,be shiver
+Kype,Nell,3.4090909090909087,5.681818181818182,45.45454545454545,0.6,stare
+Nell,Kype,3.125,0.0,53.125,INF,muddle dip paste paint
+Nell,Kype,3.125,0.0,53.125,INF,muddle dip paste paint
+Nell,Kype,3.125,0.0,53.125,INF,muddle dip paste paint
+Nell,Kype,1.6129032258064515,5.241935483870968,35.08064516129033,0.3076923076923077,get go say unbutton stink
+Kype,Nell,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,lay hope draw
+Kype,Nell,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,lay hope draw
+Nell,Kype,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Nell,Kype,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,2.989130434782609,0.5434782608695652,50.815217391304344,5.5,calm close hear see slip lead
+Kype,Nell,1.6129032258064515,4.032258064516129,52.41935483870967,0.4,open be break mark leave
+Nell,Kype,2.232142857142857,0.0,54.91071428571429,INF,have do be leave pick
+Nell,Kype,2.232142857142857,0.0,54.91071428571429,INF,have do be leave pick
+Nell,Kype,3.125,0.0,42.70833333333333,INF,be agree put
+Nell,Cadillac,3.125,0.0,42.70833333333333,INF,be agree put
+Nell,Kype,3.125,0.0,42.70833333333333,INF,be agree put
+Nell,Cadillac,3.125,0.0,42.70833333333333,INF,be agree put
+Kype,Cadillac,3.125,0.0,42.70833333333333,INF,be agree put
+John Wayne,Nell,0.0,0.9615384615384616,37.5,0.0,give say
+Nell,Kype,0.0,2.1875,55.3125,0.0,hide move seem have
+Nell,Kype,0.0,2.1875,55.3125,0.0,hide move seem have
+Nell,Kype,0.0,2.1875,55.3125,0.0,hide move seem have
+Nell,Kype,1.1363636363636365,0.7575757575757576,58.71212121212122,1.5,sing ho ho make
+Nell,Kype,1.1363636363636365,0.7575757575757576,58.71212121212122,1.5,sing ho ho make
+Nell,Kype,1.1363636363636365,0.7575757575757576,58.71212121212122,1.5,sing ho ho make
+Nell,Kype,2.0,2.5,35.5,0.8,shuffle sing point show
+Kype,Nell,2.0,2.5,35.5,0.8,shuffle sing point show
+Kype,Nell,2.0,2.5,35.5,0.8,shuffle sing point show
+Kype,Nell,2.0,2.5,35.5,0.8,shuffle sing point show
+Nell,Kype,0.0,3.4090909090909087,51.13636363636363,0.0,drum beat be seem work
+Kype,Nell,4.0,3.0,45.0,1.3333333333333333,pound make confuse derange start weave
+Kype,Nell,4.0,3.0,45.0,1.3333333333333333,pound make confuse derange start weave
+Kype,Nell,4.0,3.0,45.0,1.3333333333333333,pound make confuse derange start weave
+Kype,Nell,2.232142857142857,4.017857142857143,61.60714285714286,0.5555555555555556,seem toss keep believe swing
+Kype,Nell,4.326923076923077,2.8846153846153846,62.019230769230774,1.5,have win have be present
+Kype,Nell,4.326923076923077,2.8846153846153846,62.019230769230774,1.5,have win have be present
+Kype,Buddha,0.0,0.5681818181818182,53.97727272727273,0.0,claw streamb scrape jab jut
+Kype,Buddha,0.0,0.5681818181818182,53.97727272727273,0.0,claw streamb scrape jab jut
+Buddha,Kype,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,give be run be grab
+Buddha,Kype,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,give be run be grab
+Kype,Buddha,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,give be run be grab
+Kype,Buddha,1.2096774193548387,1.2096774193548387,58.87096774193549,1.0,give be run be grab
+The New Yorker,Drummond,1.6025641025641024,0.9615384615384616,33.33333333333333,1.6666666666666667,follow appear divide

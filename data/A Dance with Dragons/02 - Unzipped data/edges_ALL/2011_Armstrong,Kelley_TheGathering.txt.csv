@@ -1,0 +1,802 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Armstrong,Kelley,0.0,0.0,56.25,INF,
+Armstrong,Kelley,0.0,0.0,56.25,INF,
+Armstrong,Kelley,0.0,0.0,33.33333333333333,INF,
+Serena,Daniel,2.941176470588235,0.7352941176470588,55.14705882352941,4.0,be be suppose invite think draw see ask
+Daniel,Serena,1.1363636363636365,3.4090909090909087,50.0,0.3333333333333333,like do fix win
+Daniel,Serena,1.1363636363636365,3.4090909090909087,50.0,0.3333333333333333,like do fix win
+Daniel,Serena,12.5,0.0,45.83333333333333,INF,tell let go make find please find
+Daniel,Serena,12.5,0.0,45.83333333333333,INF,tell let go make find please find
+Nicole,Dad,3.3653846153846154,0.4807692307692308,53.84615384615385,7.0,hear say love get be
+Nicole,Dad,3.3653846153846154,0.4807692307692308,53.84615384615385,7.0,hear say love get be
+Nicole,Dad,3.3653846153846154,0.4807692307692308,53.84615384615385,7.0,hear say love get be
+Dad,Nicole,3.3653846153846154,0.4807692307692308,53.84615384615385,7.0,hear say love get be
+Kenjii,Mom,13.461538461538462,0.0,32.69230769230769,INF,know be run call
+Maya,Mom,7.5,0.0,45.83333333333333,INF,be get call
+Kenjii,Serena,14.583333333333334,8.333333333333332,27.083333333333332,1.75,have save
+Dad,Daniel,1.7500000000000002,1.5,66.75,1.1666666666666667,use drive pick do dare drive hold be shake
+Dad,Daniel,1.7500000000000002,1.5,66.75,1.1666666666666667,use drive pick do dare drive hold be shake
+Dad,Daniel,1.7500000000000002,1.5,66.75,1.1666666666666667,use drive pick do dare drive hold be shake
+Dad,Daniel,1.7500000000000002,1.5,66.75,1.1666666666666667,use drive pick do dare drive hold be shake
+Dr. Davidoff,Daniel,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Dr. Davidoff,Daniel,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Dr. Davidoff,Daniel,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Dr. Davidoff,Daniel,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Daniel,Dr. Davidoff,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Daniel,Dr. Davidoff,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Daniel,Dr. Davidoff,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Daniel,Dr. Davidoff,2.6785714285714284,0.0,49.702380952380956,INF,fly decide do like bring have do
+Mom,Marv,9.722222222222223,0.6944444444444444,61.80555555555556,14.0,have come find play fetch
+Maya,Mom,9.615384615384617,0.0,28.846153846153843,INF,say do worry
+Carling,Marv,5.208333333333334,0.0,53.125,INF,laugh say be have be teach be
+Rick,Maya,5.769230769230769,6.730769230769231,49.03846153846153,0.8571428571428571,make get
+Rafael,Rafe,0.0,0.0,0.0,INF,
+Rafael,Rafe,0.0,0.0,0.0,INF,
+Hayley,Rafe,5.769230769230769,3.3653846153846154,48.55769230769231,1.7142857142857142,be call get widen notice
+Hayley,Rafe,0.0,0.0,33.33333333333333,INF,have
+Nicole,Serena,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,be swim have be
+Nicole,Serena,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,be swim have be
+Nicole,Daniel,0.0,3.4722222222222223,52.083333333333336,0.0,escape spot
+Daniel,Carling,2.5,0.0,53.5,INF,let go get try
+Daniel,Carling,2.5,0.0,53.5,INF,let go get try
+Daniel,Carling,2.5,0.0,53.5,INF,let go get try
+Daniel,Carling,1.25,0.625,53.125,2.0,give make have
+Daniel,Corey,1.25,0.625,53.125,2.0,give make have
+Carling,Corey,1.25,0.625,53.125,2.0,give make have
+Carling,Corey,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Corey,Carling,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Corey,Daniel,1.5,3.5000000000000004,51.0,0.42857142857142855,be
+Daniel,Carling,1.3888888888888888,2.7777777777777777,62.5,0.5,imagine be suggest do have pin
+Carling,Daniel,1.3888888888888888,2.7777777777777777,62.5,0.5,imagine be suggest do have pin
+Carling,Daniel,1.3888888888888888,2.7777777777777777,62.5,0.5,imagine be suggest do have pin
+Carling,Daniel,1.3888888888888888,2.7777777777777777,62.5,0.5,imagine be suggest do have pin
+Daniel,Corey,1.6304347826086956,0.5434782608695652,58.69565217391305,3.0,have pick be
+Nicole,Corey,0.0,0.0,41.66666666666667,INF,say look
+Daniel,Rafe,0.7352941176470588,0.0,58.08823529411765,INF,veer gaze do see
+Daniel,Rafe,0.7352941176470588,0.0,58.08823529411765,INF,veer gaze do see
+Rafe,Daniel,0.7352941176470588,0.0,58.08823529411765,INF,veer gaze do see
+Daniel,Rafe,0.7352941176470588,0.0,58.08823529411765,INF,veer gaze do see
+Daniel,Rafe,1.4705882352941175,0.0,57.35294117647059,INF,cut have stop
+Daniel,Rafe,1.4705882352941175,0.0,57.35294117647059,INF,cut have stop
+Rafe,Sam,1.3157894736842104,3.289473684210526,42.76315789473684,0.4,stop walk shoulder
+Sam,Nicole,0.0,2.7777777777777777,52.77777777777778,0.0,be see
+Nicole,Corey,1.7857142857142856,2.5,41.42857142857143,0.7142857142857143,have have see be tease be try cover
+Nicole,Corey,1.7857142857142856,2.5,41.42857142857143,0.7142857142857143,have have see be tease be try cover
+Corey,Nicole,1.7857142857142856,2.5,41.42857142857143,0.7142857142857143,have have see be tease be try cover
+Corey,Nicole,1.7857142857142856,2.5,41.42857142857143,0.7142857142857143,have have see be tease be try cover
+Sam,Serena,0.78125,5.46875,62.5,0.14285714285714285,wield give
+Serena,Daniel,6.25,0.0,60.416666666666664,INF,like be
+Serena,Daniel,1.3888888888888888,0.0,70.83333333333334,INF,do seem
+Daniel,Serena,3.125,0.0,59.375,INF,be have
+Serena,Daniel,3.125,0.0,59.375,INF,be have
+Serena,Daniel,3.125,0.0,59.375,INF,be have
+Serena,Rafe,1.25,0.0,48.75,INF,like be
+Rafe,Serena,1.3392857142857142,0.8928571428571428,54.91071428571429,1.5,make have say do steer
+Rafe,Serena,1.3392857142857142,0.8928571428571428,54.91071428571429,1.5,make have say do steer
+Serena,Rafe,1.3392857142857142,0.8928571428571428,54.91071428571429,1.5,make have say do steer
+Serena,Rafe,1.3392857142857142,0.8928571428571428,54.91071428571429,1.5,make have say do steer
+Daniel,Rafe,0.0,0.0,70.0,INF,say veer continue
+Corey,Nicole,0.0,0.0,69.23076923076923,INF,say walk
+Corey,Nicole,0.0,0.0,69.23076923076923,INF,say walk
+Rafe,Hayley,2.272727272727273,0.5681818181818182,51.70454545454546,4.0,have be waylay swim
+Serena,Nicole,2.1739130434782608,0.0,41.30434782608695,INF,be use joke be join
+Serena,Nicole,2.1739130434782608,0.0,41.30434782608695,INF,be use joke be join
+Hayley,Rafe,1.1363636363636365,7.954545454545454,36.36363636363637,0.14285714285714285,be
+Hayley,Rafe,1.0416666666666665,0.0,53.125,INF,be have take move
+Hayley,Rafe,1.0416666666666665,0.0,53.125,INF,be have take move
+Hayley,Rafe,0.0,0.0,33.33333333333333,INF,plant
+Rafe,Hayley,4.545454545454546,1.1363636363636365,57.95454545454546,4.0,ease have expect shift be
+Hayley,Rafe,4.545454545454546,1.1363636363636365,57.95454545454546,4.0,ease have expect shift be
+Daniel,Maya,2.380952380952381,1.7857142857142856,62.5,1.3333333333333333,be be watch say
+Nicole,Corey,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Nicole,Corey,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Corey,Nicole,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Corey,Nicole,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Nicole,Corey,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Corey,Nicole,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,do catch blush realize be tease
+Daniel,Nicole,0.0,0.0,40.0,INF,turn
+Maya,Corey,2.5,0.8333333333333334,56.666666666666664,3.0,do look say
+Daniel,Nicole,1.4705882352941175,0.0,39.705882352941174,INF,mouth call head trail
+Daniel,Nicole,1.4705882352941175,0.0,39.705882352941174,INF,mouth call head trail
+Mom,Dad,6.730769230769231,0.0,70.1923076923077,INF,look pull
+Maya,Mom,9.722222222222223,0.0,34.72222222222222,INF,say
+Mom,Rick,5.978260869565218,2.717391304347826,34.78260869565217,2.2,give say get eat let
+Mom,Rick,5.978260869565218,2.717391304347826,34.78260869565217,2.2,give say get eat let
+Mom,Dad,7.291666666666667,0.0,51.041666666666664,INF,grab steer
+Mom,Dad,7.291666666666667,0.0,51.041666666666664,INF,grab steer
+Dad,Mom,0.0,0.0,42.857142857142854,INF,defer
+Emily Carr,Mom,6.61764705882353,1.4705882352941175,44.85294117647059,4.5,be graduate say
+Jean,Deena,0.0,1.1363636363636365,44.31818181818182,0.0,murmur
+Jean,Deena,0.0,1.1363636363636365,44.31818181818182,0.0,murmur
+Jean,Deena,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be say
+Deena,Mom,5.357142857142857,2.380952380952381,44.642857142857146,2.25,emphasize nod take mean be see
+Deena,Mom,9.895833333333332,1.5625,55.208333333333336,6.333333333333333,hear try distract talk have study
+Deena,Mom,9.895833333333332,1.5625,55.208333333333336,6.333333333333333,hear try distract talk have study
+Deena,Emily Carr,9.895833333333332,1.5625,55.208333333333336,6.333333333333333,hear try distract talk have study
+Mom,Emily Carr,9.895833333333332,1.5625,55.208333333333336,6.333333333333333,hear try distract talk have study
+Mom,Emily Carr,9.895833333333332,1.5625,55.208333333333336,6.333333333333333,hear try distract talk have study
+Deena,Mom,7.8125,2.083333333333333,44.27083333333333,3.75,pay fume mumble
+Dad,Mom,13.88888888888889,0.0,52.77777777777778,INF,do get have
+Daniel,Kenjii,0.0,0.4464285714285714,70.98214285714286,0.0,be sit stretch play
+Kenjii,Daniel,0.0,0.4464285714285714,70.98214285714286,0.0,be sit stretch play
+Kenjii,Daniel,0.0,0.4464285714285714,70.98214285714286,0.0,be sit stretch play
+Kenjii,Daniel,0.0,0.4464285714285714,70.98214285714286,0.0,be sit stretch play
+Daniel,Mom,9.722222222222223,0.0,34.72222222222222,INF,say
+Fitz,Daniel,0.0,0.0,45.45454545454545,INF,roll rub
+Fitz,Daniel,0.0,0.0,45.45454545454545,INF,roll rub
+Fitz,Daniel,0.0,0.0,45.45454545454545,INF,roll rub
+Fitz,Daniel,0.0,0.0,45.45454545454545,INF,roll rub
+Fitz,Daniel,4.545454545454546,0.0,50.0,INF,be
+Fitz,Daniel,4.545454545454546,0.0,50.0,INF,be
+Daniel,Bianchi,1.953125,1.5625,49.609375,1.25,be do ride say
+Daniel,Fitz,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,play sit stretch close
+Mr. Bianchi,Daniel,0.0,4.464285714285714,52.67857142857143,0.0,drink ignore be
+Mr. Bianchi,Daniel,0.0,4.464285714285714,52.67857142857143,0.0,drink ignore be
+Serena,Daniel,0.3472222222222222,2.430555555555556,58.333333333333336,0.14285714285714285,die be start call say kill get
+Serena,Daniel,0.3472222222222222,2.430555555555556,58.333333333333336,0.14285714285714285,die be start call say kill get
+Daniel,Serena,0.3472222222222222,2.430555555555556,58.333333333333336,0.14285714285714285,die be start call say kill get
+Serena,Daniel,0.3472222222222222,2.430555555555556,58.333333333333336,0.14285714285714285,die be start call say kill get
+Daniel,Fitz,4.545454545454546,2.840909090909091,60.79545454545454,1.6,be toy drag chase
+Serena,Daniel,5.128205128205128,4.166666666666666,49.67948717948718,1.2307692307692308,die be grieve be know be
+Fitz,Kenjii,2.976190476190476,7.738095238095238,36.904761904761905,0.38461538461538464,grumble stalk be
+Fitz,Serena,2.976190476190476,7.738095238095238,36.904761904761905,0.38461538461538464,grumble stalk be
+Kenjii,Serena,2.976190476190476,7.738095238095238,36.904761904761905,0.38461538461538464,grumble stalk be
+Tillson,Serena,0.0,0.5434782608695652,47.28260869565217,0.0,take have give
+Daniel,Kenjii,0.0,0.0,57.14285714285714,INF,toss
+Daniel,Marv,0.0,5.208333333333334,53.125,0.0,jump spin meet
+Rick,Mom,4.861111111111112,2.7777777777777777,42.36111111111111,1.75,say pass
+Dad,Marv,0.6944444444444444,2.7777777777777777,63.19444444444444,0.25,fire veer disappear shoot
+Marv,Dad,0.6944444444444444,2.7777777777777777,63.19444444444444,0.25,fire veer disappear shoot
+Daniel,Mom,5.681818181818182,1.893939393939394,59.09090909090909,3.0,argue do need drive call make be
+Daniel,Mom,5.681818181818182,1.893939393939394,59.09090909090909,3.0,argue do need drive call make be
+Dr. Inglis,Mom,10.0,0.0,50.0,INF,meet surprise
+Dr. Inglis,Dr. Lam,1.4204545454545454,0.5681818181818182,48.01136363636363,2.5,be do work say have be get decide come
+Dr. Inglis,Dr. Lam,1.4204545454545454,0.5681818181818182,48.01136363636363,2.5,be do work say have be get decide come
+Dr. Lam,Daniel,1.9230769230769231,0.0,67.3076923076923,INF,look chat
+Dr. Lam,Dr. Inglis,1.9230769230769231,0.0,67.3076923076923,INF,look chat
+Daniel,Dr. Inglis,1.9230769230769231,0.0,67.3076923076923,INF,look chat
+Dr. Lam,Daniel,0.0,4.807692307692308,56.730769230769226,0.0,clean give
+Daniel,Dr. Lam,0.0,4.807692307692308,56.730769230769226,0.0,clean give
+Dr. Inglis,Carling,3.5000000000000004,4.0,52.5,0.875,listen make be traumatize call report
+Dr. Inglis,Carling,3.5000000000000004,4.0,52.5,0.875,listen make be traumatize call report
+Dr. Inglis,Carling,3.5000000000000004,4.0,52.5,0.875,listen make be traumatize call report
+Dr. Inglis,Carling,3.5000000000000004,4.0,52.5,0.875,listen make be traumatize call report
+Dad,Dr. Hajek,0.0,0.0,50.0,INF,take tranquilize
+Dr. Inglis,Dr. Hajek,2.083333333333333,0.0,31.25,INF,have hold do
+Dad,Daniel,8.75,5.625,45.625,1.5555555555555556,do be know
+Serena,Daniel,3.75,3.125,58.12500000000001,1.2,go
+Corey,Sam,0.5434782608695652,0.5434782608695652,55.434782608695656,1.0,pull see talk look
+Daniel,Corey,0.0,0.0,30.0,INF,say
+Mina Lee,Corey,2.5,1.25,36.25,2.0,be say
+Corey,Daniel,0.0,0.0,40.0,INF,turn
+Corey,Mina Lee,0.3048780487804878,1.524390243902439,54.268292682926834,0.2,be be be be stick look
+Daniel,Mina Lee,0.0,0.0,57.14285714285714,INF,hand
+Tillson,Dr. Inglis,0.0,0.0,38.46153846153847,INF,pass
+Dr. Inglis,Carling,0.7352941176470588,0.7352941176470588,63.23529411764706,1.0,be
+Rafe,Corey,0.0,0.0,30.0,INF,watch say
+Tillson,Rafe,1.7857142857142856,4.464285714285714,50.89285714285714,0.4,think be explain
+Tillson,Daniel,1.7857142857142856,4.464285714285714,50.89285714285714,0.4,think be explain
+Rafe,Daniel,1.7857142857142856,4.464285714285714,50.89285714285714,0.4,think be explain
+Maya,Daniel,0.0,0.0,60.0,INF,pay say
+Sam,Rafe,3.90625,0.0,52.34375,INF,walk drain
+Rafe,Mrs. Morris,1.1363636363636365,3.4090909090909087,68.18181818181817,0.3333333333333333,give send
+Maya,Rafe,0.0,1.1904761904761905,60.71428571428571,0.0,be talk say be
+Maya,Rafe,0.0,1.1904761904761905,60.71428571428571,0.0,be talk say be
+Rafe,Sam,3.0,2.0,55.00000000000001,1.5,do mean defend be lob get
+Rafe,Mrs. Morris,3.0,2.0,55.00000000000001,1.5,do mean defend be lob get
+Sam,Mrs. Morris,3.0,2.0,55.00000000000001,1.5,do mean defend be lob get
+Mrs. Morris,Rafe,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,need talk flick
+Mrs. Morris,Rafe,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,need talk flick
+Sam,Rafe,0.0,2.7777777777777777,58.333333333333336,0.0,leave shoot give
+Rafe,Sam,0.0,2.7777777777777777,58.333333333333336,0.0,leave shoot give
+Mrs. Morris,Rafe,3.571428571428571,0.0,25.0,INF,have do
+Mrs. Morris,Rafe,1.3888888888888888,6.25,47.91666666666667,0.2222222222222222,spook do look spook
+Mrs. Morris,Rafe,1.3888888888888888,6.25,47.91666666666667,0.2222222222222222,spook do look spook
+Rafe,Mrs. Morris,1.3888888888888888,6.25,47.91666666666667,0.2222222222222222,spook do look spook
+Mrs. Morris,Rafe,1.3888888888888888,6.25,47.91666666666667,0.2222222222222222,spook do look spook
+Sam,Mrs. Morris,0.0,0.5208333333333333,61.979166666666664,0.0,clean settle stomp shower
+Mrs. Morris,Daniel,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Mrs. Morris,Sam,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Mrs. Morris,Daniel,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Mrs. Morris,Sam,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Daniel,Sam,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Daniel,Mrs. Morris,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Sam,Mrs. Morris,0.5681818181818182,2.840909090909091,42.04545454545455,0.2,be do try hold
+Sam,Mrs. Morris,4.605263157894736,1.9736842105263157,40.78947368421053,2.3333333333333335,reach hesitate say
+Sam,Mrs. Morris,4.605263157894736,1.9736842105263157,40.78947368421053,2.3333333333333335,reach hesitate say
+Sam,Rafe,4.605263157894736,1.9736842105263157,40.78947368421053,2.3333333333333335,reach hesitate say
+Mrs. Morris,Rafe,4.605263157894736,1.9736842105263157,40.78947368421053,2.3333333333333335,reach hesitate say
+Mrs. Morris,Rafe,4.605263157894736,1.9736842105263157,40.78947368421053,2.3333333333333335,reach hesitate say
+Mina Lee,Rafe,6.428571428571428,0.7142857142857143,55.714285714285715,9.0,get slant realize have be
+Rafe,Annie,1.875,0.0,48.125,INF,get launch have
+Rafe,Annie,1.875,0.0,48.125,INF,get launch have
+Annie,Rafe,1.875,0.0,48.125,INF,get launch have
+Rafe,Annie,1.875,0.0,48.125,INF,get launch have
+Rafe,Annie,0.78125,2.34375,46.875,0.3333333333333333,hug grab ruffle
+Annie,Rafe,0.78125,2.34375,46.875,0.3333333333333333,hug grab ruffle
+Annie,Rafe,0.78125,2.34375,46.875,0.3333333333333333,hug grab ruffle
+Rafe,Annie,6.25,0.8928571428571428,42.857142857142854,7.0,take
+Rafe,Annie,0.0,6.944444444444445,59.72222222222222,0.0,lead argue
+Rafe,Annie,0.0,4.166666666666666,62.5,0.0,be embarrass
+Rafe,Annie,5.769230769230769,0.4807692307692308,55.28846153846154,12.0,make force stay lock
+Rafe,Annie,5.769230769230769,0.4807692307692308,55.28846153846154,12.0,make force stay lock
+Rafe,Maya,1.7857142857142856,0.0,55.35714285714286,INF,call be
+Rafe,Daniel,0.0,4.5,59.5,0.0,keep give do blame be invite be
+Rafe,Daniel,0.0,4.5,59.5,0.0,keep give do blame be invite be
+Rafe,Daniel,0.0,4.5,59.5,0.0,keep give do blame be invite be
+Daniel,Sam,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,see see show
+Daniel,Sam,3.4722222222222223,1.7361111111111112,47.56944444444444,2.0,see see show
+Annie,Rafe,0.0,0.0,50.0,INF,depend say
+Mom,Dad,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Mom,Dr. Fodor,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Mom,Dad,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Mom,Daniel,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Dad,Dr. Fodor,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Dad,Daniel,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Dr. Fodor,Dad,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Dr. Fodor,Daniel,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Dad,Daniel,2.8125,0.625,49.0625,4.5,do want tell hike back say be see bring
+Mom,Fitz,6.730769230769231,0.0,47.11538461538461,INF,do
+Walter,Dad,0.0,0.0,63.63636363636363,INF,be
+Serena,Walter,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Serena,Walter,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Serena,Daniel,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Walter,Serena,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Walter,Serena,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Walter,Daniel,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Serena,Walter,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Serena,Daniel,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Walter,Serena,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Walter,Daniel,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Serena,Daniel,1.171875,3.515625,45.3125,0.3333333333333333,want mope want think forget say be date
+Daniel,Maya,6.770833333333333,2.604166666666667,53.125,2.6,be prank know give get
+Nicole,Daniel,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,catch walk say ask
+Nicole,Daniel,5.681818181818182,4.545454545454546,53.40909090909091,1.25,think be
+Daniel,Nicole,4.166666666666666,2.5,60.0,1.6666666666666667,be say have consider ask
+Daniel,Nicole,5.357142857142857,1.7857142857142856,50.0,3.0,tell call say
+Daniel,Nicole,5.357142857142857,1.7857142857142856,50.0,3.0,tell call say
+Rafe,Daniel,0.0,0.0,64.28571428571429,INF,have tell
+Daniel,Nicole,0.0,1.1363636363636365,35.22727272727273,0.0,continue
+Rafe,Hayley,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,be go find know
+Hayley,Rafe,5.833333333333333,0.0,27.500000000000004,INF,be say invite
+Hayley,Nicole,0.0,5.208333333333334,53.125,0.0,take
+Hayley,Nicole,0.0,4.807692307692308,41.34615384615385,0.0,decide convert
+Nicole,Serena,1.1029411764705883,0.7352941176470588,48.161764705882355,1.5,do seem like go guess decide have do do seem be
+Nicole,Hayley,1.1029411764705883,0.7352941176470588,48.161764705882355,1.5,do seem like go guess decide have do do seem be
+Serena,Nicole,1.1029411764705883,0.7352941176470588,48.161764705882355,1.5,do seem like go guess decide have do do seem be
+Serena,Hayley,1.1029411764705883,0.7352941176470588,48.161764705882355,1.5,do seem like go guess decide have do do seem be
+Nicole,Hayley,1.1029411764705883,0.7352941176470588,48.161764705882355,1.5,do seem like go guess decide have do do seem be
+Daniel,Serena,0.0,4.166666666666666,45.83333333333333,0.0,push replace be
+Serena,Daniel,0.0,4.166666666666666,45.83333333333333,0.0,push replace be
+Daniel,Dad,1.9736842105263157,1.9736842105263157,53.94736842105263,1.0,be pull
+Corey,Brendan,2.1739130434782608,5.434782608695652,40.21739130434783,0.4,give think shock complain
+Hayley,Brooke,1.5625,0.0,48.4375,INF,have come
+Hayley,Brooke,1.5625,0.0,48.4375,INF,have come
+Hayley,Brooke,1.5625,0.0,48.4375,INF,have come
+Hayley,Brooke,1.5625,0.0,48.4375,INF,have come
+Daniel,Nicole,0.0,0.0,52.38095238095239,INF,grin grab say come try
+Nicole,Daniel,0.0,0.0,75.0,INF,pull glance
+Hayley,Daniel,0.0,5.681818181818182,39.77272727272727,0.0,knock say
+Hayley,Corey,2.840909090909091,1.1363636363636365,41.47727272727273,2.5,do be hide say give
+Hayley,Corey,2.840909090909091,1.1363636363636365,41.47727272727273,2.5,do be hide say give
+Daniel,Hayley,0.0,4.464285714285714,45.535714285714285,0.0,start cut beat
+Daniel,Corey,0.0,4.464285714285714,45.535714285714285,0.0,start cut beat
+Daniel,Corey,0.0,4.464285714285714,45.535714285714285,0.0,start cut beat
+Hayley,Corey,0.0,4.464285714285714,45.535714285714285,0.0,start cut beat
+Hayley,Corey,0.0,4.464285714285714,45.535714285714285,0.0,start cut beat
+Sam,Hayley,0.0,0.0,66.66666666666666,INF,step cut
+Sam,Brooke,0.0,0.0,66.66666666666666,INF,step cut
+Sam,Daniel,0.0,0.0,66.66666666666666,INF,step cut
+Hayley,Brooke,0.0,0.0,66.66666666666666,INF,step cut
+Hayley,Daniel,0.0,0.0,66.66666666666666,INF,step cut
+Brooke,Daniel,0.0,0.0,66.66666666666666,INF,step cut
+Nicole,Brooke,0.0,0.0,43.75,INF,take referee
+Brendan,Corey,4.5,5.0,50.5,0.9,complain be go give
+Corey,Brendan,4.5,5.0,50.5,0.9,complain be go give
+Brooke,Nicole,4.166666666666666,2.083333333333333,43.75,2.0,be cheer
+Maya,Daniel,0.0,0.0,64.28571428571429,INF,do climb say
+Rafe,Daniel,4.326923076923077,1.9230769230769231,62.980769230769226,2.25,do look answer keep watch hold
+Rafe,Daniel,4.326923076923077,1.9230769230769231,62.980769230769226,2.25,do look answer keep watch hold
+Brendan,Rafe,0.0,0.0,28.57142857142857,INF,help
+Rafe,Daniel,2.3972602739726026,1.4554794520547945,59.160958904109584,1.6470588235294117,be find move seem glide find climb go vanish get pull hit jolt look see sweat drip gaze lock say make look adjust prepare let belay
+Rafe,Daniel,2.3972602739726026,1.4554794520547945,59.160958904109584,1.6470588235294117,be find move seem glide find climb go vanish get pull hit jolt look see sweat drip gaze lock say make look adjust prepare let belay
+Rafe,Daniel,2.3972602739726026,1.4554794520547945,59.160958904109584,1.6470588235294117,be find move seem glide find climb go vanish get pull hit jolt look see sweat drip gaze lock say make look adjust prepare let belay
+Rafe,Daniel,1.5625,4.166666666666666,52.604166666666664,0.375,set brace call be
+Rafe,Daniel,1.5625,4.166666666666666,52.604166666666664,0.375,set brace call be
+Daniel,Rafe,3.125,0.0,59.375,INF,nod watch
+Sam,Rafe,4.464285714285714,2.6785714285714284,57.14285714285714,1.6666666666666667,stroll have be stand gaze fix spot
+Corey,Maya,2.1551724137931036,0.0,59.91379310344828,INF,be walk cut split happen be take
+Brendan,Brooke,0.0,2.083333333333333,47.91666666666667,0.0,give
+Maya,Corey,0.0,2.5,24.166666666666668,0.0,be say elbow
+Maya,Corey,0.0,2.5,24.166666666666668,0.0,be say elbow
+Daniel,Brendan,0.0,0.7352941176470588,46.32352941176471,0.0,wave start keep talk
+Brendan,Daniel,0.0,0.0,60.0,INF,glance
+Brendan,Daniel,0.6578947368421052,0.0,65.13157894736842,INF,mean glance turn be avert know have pass
+Brendan,Daniel,0.6578947368421052,0.0,65.13157894736842,INF,mean glance turn be avert know have pass
+Daniel,Brendan,1.5625,5.729166666666666,59.375,0.2727272727272727,warn get be enjoy
+Serena,Rafe,2.5,1.25,46.25,2.0,talk ask be
+Serena,Sam,2.5,1.25,46.25,2.0,talk ask be
+Rafe,Sam,2.5,1.25,46.25,2.0,talk ask be
+Sam,Serena,0.8064516129032258,1.6129032258064515,45.96774193548387,0.5,look see watch try hide say tell
+Sam,Brendan,0.0,0.0,57.14285714285714,INF,punch
+Serena,Brendan,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,be start say have leave say sound
+Rafe,Hayley,5.357142857142857,0.0,69.64285714285714,INF,think be get do show
+Hayley,Rafe,5.357142857142857,0.0,69.64285714285714,INF,think be get do show
+Corey,Brendan,2.083333333333333,0.0,39.58333333333333,INF,have help build
+Daniel,Nicole,0.0,0.0,23.076923076923077,INF,
+Daniel,Brendan,0.0,0.0,23.076923076923077,INF,
+Daniel,Corey,0.0,0.0,23.076923076923077,INF,
+Nicole,Brendan,0.0,0.0,23.076923076923077,INF,
+Nicole,Corey,0.0,0.0,23.076923076923077,INF,
+Brendan,Corey,0.0,0.0,23.076923076923077,INF,
+Daniel,Nicole,2.717391304347826,0.0,62.5,INF,be take sit
+Corey,Hayley,0.0,8.333333333333332,25.0,0.0,disappear
+Daniel,Nicole,2.5,2.083333333333333,58.75,1.2,leave inspect try
+Sam,Brendan,0.0,0.0,12.5,INF,
+Rafe,Daniel,1.7045454545454544,2.840909090909091,63.63636363636363,0.6,lean be hear
+Rafe,Nicole,1.7045454545454544,2.840909090909091,63.63636363636363,0.6,lean be hear
+Daniel,Nicole,1.7045454545454544,2.840909090909091,63.63636363636363,0.6,lean be hear
+Rafe,Daniel,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be say notice watch
+Rafe,Daniel,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be say notice watch
+Nicole,Daniel,2.5,0.0,47.5,INF,follow stand pluck say hear
+Hayley,Corey,1.9230769230769231,2.403846153846154,53.36538461538461,0.8,seem push find make dress
+Hayley,Corey,0.6944444444444444,3.4722222222222223,51.388888888888886,0.2,shut jump yank
+Corey,Hayley,0.6944444444444444,3.4722222222222223,51.388888888888886,0.2,shut jump yank
+Hayley,Rafe,5.555555555555555,0.0,50.0,INF,see stand
+Hayley,Rafe,0.0,0.0,22.22222222222222,INF,say
+Daniel,Nicole,0.0,0.0,36.36363636363637,INF,think be go
+Serena,Daniel,0.0,0.0,45.83333333333333,INF,use die suggest change
+Rafe,Daniel,0.5,0.0,71.5,INF,be stand hold look shove
+Rafe,Daniel,0.5,0.0,71.5,INF,be stand hold look shove
+Rafe,Daniel,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,yell say come realize do want be find
+Daniel,Carling,4.310344827586207,2.586206896551724,62.06896551724138,1.6666666666666667,joke take be think want be
+Carling,Daniel,4.310344827586207,2.586206896551724,62.06896551724138,1.6666666666666667,joke take be think want be
+Carling,Daniel,4.310344827586207,2.586206896551724,62.06896551724138,1.6666666666666667,joke take be think want be
+Carling,Daniel,4.310344827586207,2.586206896551724,62.06896551724138,1.6666666666666667,joke take be think want be
+Rafe,Coke,0.8333333333333334,1.25,57.91666666666667,0.6666666666666666,spark feel be
+Annie,Mom,4.545454545454546,1.5151515151515151,57.57575757575758,3.0,drag say catch do tell be be need
+Annie,Mom,4.545454545454546,1.5151515151515151,57.57575757575758,3.0,drag say catch do tell be be need
+Mom,Annie,4.545454545454546,1.5151515151515151,57.57575757575758,3.0,drag say catch do tell be be need
+Mom,Annie,8.333333333333332,0.0,50.0,INF,be get
+Rafe,Maya,0.0,0.0,56.25,INF,stumble lunge grab call
+Rafe,Sam,1.0416666666666665,0.0,51.736111111111114,INF,step hold go hear run
+Nicole,Daniel,0.5,0.5,51.0,1.0,help pull bear
+Nicole,Rafe,0.5,0.5,51.0,1.0,help pull bear
+Nicole,Rafe,0.5,0.5,51.0,1.0,help pull bear
+Daniel,Rafe,0.5,0.5,51.0,1.0,help pull bear
+Daniel,Rafe,0.5,0.5,51.0,1.0,help pull bear
+Sam,Rafe,0.0,0.0,55.55555555555556,INF,step block
+Sam,Rafe,0.0,0.0,55.55555555555556,INF,step block
+Daniel,Rafe,0.8928571428571428,0.0,63.39285714285714,INF,do seem hear keep bear
+Rafe,Corey,0.0,2.5,62.5,0.0,stagger stop be take pull
+Rafe,Daniel,4.6875,0.0,57.8125,INF,jump
+Marv,Daniel,2.272727272727273,2.840909090909091,58.52272727272727,0.8,plant face curl
+Rafe,Daniel,1.524390243902439,2.7439024390243905,44.51219512195122,0.5555555555555556,back get do move remember think be protect be be think
+Rafe,Daniel,1.524390243902439,2.7439024390243905,44.51219512195122,0.5555555555555556,back get do move remember think be protect be be think
+Carling,Daniel,4.326923076923077,4.807692307692308,52.40384615384615,0.9,be believe call be want do
+Nicole,Serena,3.273809523809524,2.976190476190476,46.13095238095239,1.1,have corner have find scare be have be rape
+Nicole,Serena,3.273809523809524,2.976190476190476,46.13095238095239,1.1,have corner have find scare be have be rape
+Serena,Carling,1.6304347826086956,0.0,41.84782608695652,INF,talk escort sit tell
+Serena,Carling,1.6304347826086956,0.0,41.84782608695652,INF,talk escort sit tell
+Carling,Serena,1.6304347826086956,0.0,41.84782608695652,INF,talk escort sit tell
+Carling,Serena,1.6304347826086956,0.0,41.84782608695652,INF,talk escort sit tell
+Carling,Serena,1.6304347826086956,0.0,41.84782608695652,INF,talk escort sit tell
+Rafe,Annie,9.375,2.083333333333333,30.208333333333332,4.5,accuse find
+Brendan,Mina Lee,8.333333333333332,2.7777777777777777,55.55555555555556,3.0,say have ask
+Brendan,Serena,8.333333333333332,2.7777777777777777,55.55555555555556,3.0,say have ask
+Mina Lee,Serena,8.333333333333332,2.7777777777777777,55.55555555555556,3.0,say have ask
+Serena,Rafe,2.083333333333333,0.5208333333333333,49.47916666666667,4.0,be insist badger do tell say do know do come accuse
+Serena,Rafe,2.083333333333333,0.5208333333333333,49.47916666666667,4.0,be insist badger do tell say do know do come accuse
+Mom,Daniel,8.75,0.0,41.25,INF,call
+Brendan,Mina Lee,5.357142857142857,2.6785714285714284,56.25,2.0,remember say want talk
+Mom,Mina Lee,5.078125,0.0,48.046875,INF,say have wonder hear invite
+Mom,Mina Lee,5.078125,0.0,48.046875,INF,say have wonder hear invite
+Mom,Brendan,5.078125,0.0,48.046875,INF,say have wonder hear invite
+Mina Lee,Brendan,5.078125,0.0,48.046875,INF,say have wonder hear invite
+Mina Lee,Brendan,5.078125,0.0,48.046875,INF,say have wonder hear invite
+Kenjii,Rafe,1.3157894736842104,1.3157894736842104,65.78947368421053,1.0,try position be nudge
+Fitz,Rafe,3.90625,1.953125,56.640625,2.0,look see stare slit be have put
+Fitz,Rafe,3.90625,1.953125,56.640625,2.0,look see stare slit be have put
+Fitz,Rafe,0.0,0.0,33.33333333333333,INF,see swing
+Fitz,Rafe,0.78125,0.0,55.46875,INF,lean drop
+Rafe,Fitz,0.0,0.0,54.54545454545454,INF,motion
+Daniel,Annie,0.0,3.571428571428571,64.28571428571429,0.0,risk get beat become get arrest lose
+Rafe,Maya,0.5,0.0,55.50000000000001,INF,jump get follow catch say
+Mom,Kenjii,9.375,0.0,48.95833333333333,INF,call step look
+Kenjii,Fitz,0.0,0.0,50.0,INF,squint try see stay
+Nicole,Hayley,5.0,0.0,45.0,INF,have work get admit see
+Nicole,Hayley,5.0,0.0,45.0,INF,have work get admit see
+Hayley,Nicole,1.1904761904761905,0.0,46.42857142857143,INF,work say have sneak
+Nicole,Hayley,1.1904761904761905,0.0,46.42857142857143,INF,work say have sneak
+Nicole,Hayley,1.1904761904761905,0.0,46.42857142857143,INF,work say have sneak
+Hayley,Rafe,0.0,1.0416666666666665,40.625,0.0,take
+Rafe,Hayley,0.5434782608695652,0.0,47.28260869565217,INF,leave think slip
+Rafe,Hayley,0.5434782608695652,0.0,47.28260869565217,INF,leave think slip
+Rafe,Brendan,0.5434782608695652,0.0,47.28260869565217,INF,leave think slip
+Hayley,Brendan,0.5434782608695652,0.0,47.28260869565217,INF,leave think slip
+Hayley,Brendan,0.5434782608695652,0.0,47.28260869565217,INF,leave think slip
+Hayley,Rafe,6.61764705882353,2.941176470588235,37.5,2.25,tell change
+Hayley,Rafe,6.61764705882353,2.941176470588235,37.5,2.25,tell change
+Hayley,Rafe,6.61764705882353,2.941176470588235,37.5,2.25,tell change
+Hayley,Carling,5.555555555555555,4.166666666666666,45.83333333333333,1.3333333333333333,be be tell
+Rafe,Daniel,1.3888888888888888,0.0,31.944444444444443,INF,like say
+Daniel,Serena,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Maya,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Serena,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Maya,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Serena,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Maya,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Serena,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Maya,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Serena,Maya,3.75,0.8333333333333334,38.75,4.5,be have drag remind
+Daniel,Kenjii,1.7857142857142856,4.166666666666666,51.19047619047619,0.42857142857142855,process sit ignore approach
+Daniel,Fitz,1.7857142857142856,4.166666666666666,51.19047619047619,0.42857142857142855,process sit ignore approach
+Kenjii,Fitz,1.7857142857142856,4.166666666666666,51.19047619047619,0.42857142857142855,process sit ignore approach
+Daniel,Braun,0.0,0.625,69.375,0.0,do run hike be
+Braun,Daniel,0.0,0.625,69.375,0.0,do run hike be
+Daniel,Braun,4.464285714285714,0.0,45.535714285714285,INF,find go see
+Daniel,Braun,4.464285714285714,0.0,45.535714285714285,INF,find go see
+Braun,Daniel,5.729166666666666,0.0,56.770833333333336,INF,have explain go see admit do
+Daniel,Brendan,1.3157894736842104,0.0,40.78947368421053,INF,go borrow
+Brendan,Daniel,1.3157894736842104,0.0,40.78947368421053,INF,go borrow
+Daniel,Deena,0.0,0.0,60.86956521739131,INF,knock peek see let
+Serena,Daniel,2.380952380952381,0.0,54.761904761904766,INF,miss wish have catch look
+Serena,Daniel,2.380952380952381,0.0,54.761904761904766,INF,miss wish have catch look
+Kenjii,Daniel,4.044117647058823,1.4705882352941175,44.48529411764706,2.75,bring learn swim have panic think be drown say
+Serena,Daniel,2.6785714285714284,6.696428571428571,47.767857142857146,0.4,miss wish be be be swallow
+Daniel,Nicole,2.083333333333333,3.4722222222222223,44.44444444444444,0.6,say be go happen
+Daniel,Maya,2.083333333333333,3.4722222222222223,44.44444444444444,0.6,say be go happen
+Nicole,Maya,2.083333333333333,3.4722222222222223,44.44444444444444,0.6,say be go happen
+Nicole,Daniel,0.0,0.0,30.0,INF,be be be shift roll
+Nicole,Daniel,0.0,0.0,30.0,INF,be be be shift roll
+Nicole,Daniel,0.0,0.0,30.0,INF,be be be shift roll
+Nicole,Daniel,0.0,0.0,30.0,INF,be be be shift roll
+Mina Lee,Daniel,3.90625,2.34375,50.0,1.6666666666666667,know want talk say
+Mina Lee,Serena,10.9375,3.125,23.4375,3.5,want find know
+Daniel,Mina Lee,3.3653846153846154,0.0,46.63461538461539,INF,laugh continue try find tell want see
+Mina Lee,Daniel,3.3653846153846154,0.0,46.63461538461539,INF,laugh continue try find tell want see
+Daniel,Mina Lee,0.0,0.0,60.0,INF,be turn figure direct
+Mina Lee,Daniel,0.0,0.0,60.0,INF,be turn figure direct
+Daniel,Mina Lee,2.5,0.0,67.5,INF,flip have leave
+Mina Lee,Daniel,2.5,0.0,67.5,INF,flip have leave
+Daniel,Serena,0.0,0.0,57.692307692307686,INF,save be be make
+Serena,Daniel,0.0,0.0,57.692307692307686,INF,save be be make
+Corey,Serena,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,say ask remind happen die
+Corey,Serena,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,say ask remind happen die
+Serena,Daniel,3.4090909090909087,7.954545454545454,34.090909090909086,0.42857142857142855,be feel say
+Brendan,Serena,3.4090909090909087,3.4090909090909087,38.63636363636363,1.0,be cover do want worry
+Brendan,Serena,3.4090909090909087,3.4090909090909087,38.63636363636363,1.0,be cover do want worry
+Daniel,Serena,0.0,2.7777777777777777,47.22222222222222,0.0,continue cause be ruin
+Daniel,Mina Lee,2.1875,1.875,55.93749999999999,1.1666666666666667,mention do like snoop have agree want cross
+Daniel,Mina Lee,2.1875,1.875,55.93749999999999,1.1666666666666667,mention do like snoop have agree want cross
+Daniel,Braun,0.0,0.4166666666666667,62.916666666666664,0.0,wake ask pick swing
+Daniel,Mina Lee,0.0,0.4166666666666667,62.916666666666664,0.0,wake ask pick swing
+Daniel,Braun,0.0,0.4166666666666667,62.916666666666664,0.0,wake ask pick swing
+Daniel,Mina Lee,0.0,0.4166666666666667,62.916666666666664,0.0,wake ask pick swing
+Braun,Mina Lee,0.0,0.4166666666666667,62.916666666666664,0.0,wake ask pick swing
+Daniel,Dad,1.293103448275862,3.0172413793103448,61.206896551724135,0.42857142857142855,get be do want ask feed
+Daniel,Mina Lee,4.838709677419355,4.435483870967742,68.14516129032258,1.0909090909090908,say be send realize be get
+Daniel,Mina Lee,4.838709677419355,4.435483870967742,68.14516129032258,1.0909090909090908,say be send realize be get
+Daniel,Mina Lee,4.838709677419355,4.435483870967742,68.14516129032258,1.0909090909090908,say be send realize be get
+Daniel,Rafe,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,walk see be mean
+Daniel,Rafe,4.166666666666666,0.5952380952380952,61.904761904761905,7.0,have get be concern have do
+Corey,Brendan,3.125,3.6458333333333335,51.5625,0.8571428571428571,shoot suggest be catch
+Corey,Rafe,3.125,3.6458333333333335,51.5625,0.8571428571428571,shoot suggest be catch
+Corey,Rafe,3.125,3.6458333333333335,51.5625,0.8571428571428571,shoot suggest be catch
+Brendan,Rafe,3.125,3.6458333333333335,51.5625,0.8571428571428571,shoot suggest be catch
+Brendan,Rafe,3.125,3.6458333333333335,51.5625,0.8571428571428571,shoot suggest be catch
+Corey,Rafe,0.0,0.0,53.333333333333336,INF,walk see
+Sam,Hayley,1.25,0.0,58.75,INF,turn see bear
+Hayley,Sam,2.272727272727273,5.681818181818182,46.590909090909086,0.4,expect tell go
+Rafe,Annie,0.0,0.0,45.45454545454545,INF,excuse go plan repeat visit
+Rafe,Hayley,0.0,1.1363636363636365,44.31818181818182,0.0,lean talk rest
+Rafe,Hayley,0.0,1.1363636363636365,44.31818181818182,0.0,lean talk rest
+Rafe,Hayley,0.625,0.3125,44.0625,2.0,ring go be stay
+Mina Lee,Daniel,1.5,0.5,50.0,3.0,be look hope
+Mina Lee,Rafe,1.5,0.5,50.0,3.0,be look hope
+Daniel,Rafe,1.5,0.5,50.0,3.0,be look hope
+Daniel,Mina Lee,0.0,0.0,68.75,INF,promise call pay
+Walter,Dad,3.571428571428571,0.0,53.57142857142857,INF,have come help
+Walter,Dad,3.571428571428571,0.0,53.57142857142857,INF,have come help
+Walter,Dad,2.34375,0.0,66.40625,INF,be end do see figure be cut
+Annie,Hayley,5.88235294117647,2.941176470588235,32.35294117647059,2.0,want talk visit be
+Rafe,Fitz,0.0,1.0416666666666665,65.625,0.0,pick crouch
+Mom,Dad,3.75,0.0,52.916666666666664,INF,be chop be sit face
+Mom,Rafe,3.75,0.0,52.916666666666664,INF,be chop be sit face
+Dad,Rafe,3.75,0.0,52.916666666666664,INF,be chop be sit face
+Rick,Mom,6.730769230769231,0.0,39.42307692307692,INF,be say
+Dad,Mom,6.770833333333333,1.5625,58.333333333333336,4.333333333333333,look want say press look
+Fitz,Kenjii,0.0,0.0,50.0,INF,sit divide
+Fitz,Hayley,4.513888888888888,0.6944444444444444,55.90277777777778,6.5,be look blaze wipe say be think mention swim
+Fitz,Hayley,4.513888888888888,0.6944444444444444,55.90277777777778,6.5,be look blaze wipe say be think mention swim
+Marv,Rafe,0.0,1.7857142857142856,55.35714285714286,0.0,pace gaze lock growl
+Rafe,Marv,5.147058823529411,0.0,65.44117647058823,INF,turn see be smile stare
+Rafe,Kenjii,8.928571428571429,2.380952380952381,26.785714285714285,3.75,bundle wait
+Rafe,Mom,8.928571428571429,2.380952380952381,26.785714285714285,3.75,bundle wait
+Kenjii,Mom,8.928571428571429,2.380952380952381,26.785714285714285,3.75,bundle wait
+Carling,Dr. Inglis,0.0,0.0,50.0,INF,arrive
+Dr. Inglis,Mina Lee,6.25,0.0,53.75,INF,do know die
+Daniel,Rafe,0.0,3.6764705882352944,55.14705882352941,0.0,look brace nod
+Daniel,Rafe,0.0,3.6764705882352944,55.14705882352941,0.0,look brace nod
+Daniel,Rafe,0.0,3.6764705882352944,55.14705882352941,0.0,look brace nod
+Corey,Rafe,2.083333333333333,0.0,56.25,INF,call say stride
+Corey,Rafe,2.083333333333333,0.0,56.25,INF,call say stride
+Nicole,Rafe,0.0,2.717391304347826,53.80434782608695,0.0,offer catch do finish know mean
+Nicole,Rafe,0.0,2.717391304347826,53.80434782608695,0.0,offer catch do finish know mean
+Nicole,Rafe,0.0,2.717391304347826,53.80434782608695,0.0,offer catch do finish know mean
+Nicole,Rafe,0.0,2.717391304347826,53.80434782608695,0.0,offer catch do finish know mean
+Nicole,Rafe,1.6666666666666667,1.6666666666666667,50.0,1.0,have offer come tell
+Nicole,Rafe,1.6666666666666667,1.6666666666666667,50.0,1.0,have offer come tell
+Rafe,Nicole,1.6666666666666667,1.6666666666666667,50.0,1.0,have offer come tell
+Rafe,Nicole,1.6666666666666667,1.6666666666666667,50.0,1.0,have offer come tell
+Rafe,Nicole,3.571428571428571,3.571428571428571,57.14285714285714,1.0,be ask let come
+Rafe,Nicole,3.571428571428571,3.571428571428571,57.14285714285714,1.0,be ask let come
+Corey,Daniel,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Corey,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Corey,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Corey,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Daniel,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Daniel,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Daniel,Rafe,0.0,0.0,41.17647058823529,INF,say gaze shift lower
+Daniel,Rafe,2.7777777777777777,0.0,63.888888888888886,INF,look have go
+Serena,Mina Lee,1.6666666666666667,2.083333333333333,36.25,0.8,have do do want suspect be want talk
+Rafe,Carling,0.0,0.0,58.333333333333336,INF,nod come
+Rafe,Dad,2.717391304347826,0.0,71.19565217391305,INF,explain think jump have
+Rafe,Daniel,2.717391304347826,0.0,71.19565217391305,INF,explain think jump have
+Dad,Rafe,2.717391304347826,0.0,71.19565217391305,INF,explain think jump have
+Dad,Daniel,2.717391304347826,0.0,71.19565217391305,INF,explain think jump have
+Rafe,Daniel,2.717391304347826,0.0,71.19565217391305,INF,explain think jump have
+Mina Lee,Daniel,4.017857142857143,2.232142857142857,47.32142857142857,1.8,do want jump be overlook be nudge
+Mom,Daniel,9.722222222222223,0.0,45.83333333333333,INF,bustle
+Rafe,Hayley,3.125,9.375,12.5,0.3333333333333333,kiss
+Rafe,Mina Lee,1.744186046511628,2.9069767441860463,46.51162790697674,0.6,be run find see streak smell do smell
+Rafe,Mina Lee,1.744186046511628,2.9069767441860463,46.51162790697674,0.6,be run find see streak smell do smell
+Daniel,Mina Lee,4.3478260869565215,2.717391304347826,40.76086956521739,1.6,need talk be
+Daniel,Serena,4.3478260869565215,2.717391304347826,40.76086956521739,1.6,need talk be
+Mina Lee,Serena,4.3478260869565215,2.717391304347826,40.76086956521739,1.6,need talk be
+Mom,Dad,3.515625,0.390625,52.34375,9.0,have go leave watch sit sip
+Dad,Mom,7.954545454545454,0.0,64.77272727272727,INF,sigh walk
+Dad,Daniel,0.0,5.208333333333334,44.79166666666667,0.0,try marry
+Dad,Mom,9.821428571428571,6.25,41.07142857142857,1.5714285714285714,say tell
+Serena,Mina Lee,1.3157894736842104,2.631578947368421,43.42105263157895,0.5,cause find kill
+Serena,Mina Lee,1.3157894736842104,2.631578947368421,43.42105263157895,0.5,cause find kill
+Mina Lee,Daniel,3.4722222222222223,5.555555555555555,63.19444444444444,0.625,take be be decide have be protect decide take drive say be
+Braun,Serena,8.552631578947368,1.3157894736842104,37.5,6.5,be find know
+Annie,Rafe,0.0,0.5952380952380952,51.78571428571429,0.0,be say walk skirt
+Rafe,Maya,0.625,2.5,36.875,0.25,get whisper think be disappoint
+Rafe,Maya,0.0,0.0,41.66666666666667,INF,sit
+Annie,Rafe,0.78125,0.0,49.21875,INF,peer beam
+Annie,Rafe,0.78125,0.0,49.21875,INF,peer beam
+Rafe,Annie,2.840909090909091,5.113636363636364,46.590909090909086,0.5555555555555556,test say lean unwrap
+Rafe,Annie,3.4090909090909087,0.0,60.22727272727273,INF,shoot glance
+Rafe,Annie,0.0,0.0,60.0,INF,wave
+Rafe,Annie,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,need talk say step
+Daniel,Braun,1.6666666666666667,0.0,71.66666666666667,INF,have check be clear
+Annie,Daniel,5.555555555555555,0.0,44.44444444444444,INF,wait come go find
+Daniel,Rafe,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,end tell catch have
+Daniel,Rafe,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,end tell catch have
+Rafe,Annie,5.813953488372093,4.651162790697675,52.32558139534884,1.25,think wonder be relate have be hear abandon declare
+Rafe,Ed Skylark,5.813953488372093,4.651162790697675,52.32558139534884,1.25,think wonder be relate have be hear abandon declare
+Annie,Ed Skylark,5.813953488372093,4.651162790697675,52.32558139534884,1.25,think wonder be relate have be hear abandon declare
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Rafe,Annie,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,1.7045454545454544,4.545454545454546,59.65909090909091,0.375,crouch check be be disappear watch let touch whimper brush
+Annie,Rafe,5.357142857142857,4.464285714285714,40.17857142857143,1.2,be pause
+Maya,Annie,0.0,0.0,40.0,INF,turn
+Maya,Annie,0.0,0.0,33.33333333333333,INF,hold snap
+Annie,Rafe,1.8518518518518516,1.3888888888888888,43.05555555555556,1.3333333333333333,need get take glance bring finish look say be guess do want take
+Annie,Carling,1.8518518518518516,1.3888888888888888,43.05555555555556,1.3333333333333333,need get take glance bring finish look say be guess do want take
+Rafe,Carling,1.8518518518518516,1.3888888888888888,43.05555555555556,1.3333333333333333,need get take glance bring finish look say be guess do want take
+Annie,Rafe,5.133928571428571,2.0089285714285716,50.0,2.5555555555555554,set work start do know expect scream guess start twitch quiver tell get be
+Annie,Rafe,5.133928571428571,2.0089285714285716,50.0,2.5555555555555554,set work start do know expect scream guess start twitch quiver tell get be
+Annie,Rafe,5.133928571428571,2.0089285714285716,50.0,2.5555555555555554,set work start do know expect scream guess start twitch quiver tell get be
+Rafe,Annie,5.133928571428571,2.0089285714285716,50.0,2.5555555555555554,set work start do know expect scream guess start twitch quiver tell get be
+Annie,Rafe,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Annie,Rafe,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Annie,Rafe,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Annie,Rafe,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Rafe,Annie,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Rafe,Annie,2.083333333333333,0.5208333333333333,55.729166666666664,4.0,hug tell be drape
+Rafe,Annie,2.2058823529411766,0.0,44.85294117647059,INF,help be pile
+Rafe,Annie,3.0,0.0,49.0,INF,get leave
+Annie,Rafe,0.0,0.0,25.0,INF,yell
+Sam,Annie,2.5,6.25,51.24999999999999,0.4,want tell back
+Sam,Annie,4.464285714285714,1.7857142857142856,65.17857142857143,2.5,be take get
+Daniel,Corey,2.142857142857143,0.7142857142857143,60.0,3.0,be ask want come see have make
+Daniel,Corey,2.142857142857143,0.7142857142857143,60.0,3.0,be ask want come see have make
+Daniel,Corey,2.142857142857143,0.7142857142857143,60.0,3.0,be ask want come see have make
+Daniel,Rafe,3.125,3.125,43.75,1.0,mean do want tell
+Daniel,Rafe,3.125,3.125,43.75,1.0,mean do want tell
+Rafe,Daniel,3.125,3.125,43.75,1.0,mean do want tell
+Daniel,Rafe,3.125,3.125,43.75,1.0,mean do want tell
+Maya,Daniel,0.0,0.0,42.857142857142854,INF,say
+Daniel,Dad,0.0,0.0,50.0,INF,wrap be leave
+Daniel,Rafe,1.3888888888888888,0.0,54.166666666666664,INF,walk know be tell have say
+Tillson,Nicole,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,walk be walk dawdle
+Tillson,Sam,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,walk be walk dawdle
+Nicole,Sam,1.0869565217391304,0.5434782608695652,59.2391304347826,2.0,walk be walk dawdle
+Tillson,Phil,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Tillson,Daniel,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Tillson,Phil,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Tillson,Daniel,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Phil,Tillson,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Phil,Daniel,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Tillson,Daniel,3.3653846153846154,4.326923076923077,38.46153846153847,0.7777777777777778,roll murmur leave smile prod
+Daniel,Rafe,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,say be eat
+Sam,Nicole,0.0,0.0,71.42857142857143,INF,say walk
+Nicole,Sam,0.5,0.0,63.5,INF,leave trail cast be try figure be
+Sam,Nicole,0.5,0.0,63.5,INF,leave trail cast be try figure be
+Sam,Nicole,0.5,0.0,63.5,INF,leave trail cast be try figure be
+Corey,Brendan,1.3392857142857142,0.4464285714285714,58.92857142857143,3.0,do break set
+Rafael,Dr. Hajek,0.0,0.0,33.33333333333333,INF,have say
+Rafael,Dr. Hajek,0.0,0.0,33.33333333333333,INF,have say
+Tillson,Dr. Inglis,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,say be have ask update
+Tillson,Carling,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,say be have ask update
+Dr. Inglis,Carling,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,say be have ask update
+Carling,Braun,7.01219512195122,1.524390243902439,57.3170731707317,4.6,be open pile have be look help find
+Carling,Mina Lee,7.01219512195122,1.524390243902439,57.3170731707317,4.6,be open pile have be look help find
+Braun,Mina Lee,7.01219512195122,1.524390243902439,57.3170731707317,4.6,be open pile have be look help find
+Ms. Lee,Daniel,0.0,0.0,50.0,INF,leave say
+Ms. Lee,Daniel,0.0,0.0,33.33333333333333,INF,be go say
+Daniel,Ms. Lee,0.5952380952380952,0.0,56.547619047619044,INF,exchange say believe do
+Daniel,Ms. Lee,0.5952380952380952,0.0,56.547619047619044,INF,exchange say believe do
+Sam,Ms. Lee,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,mean be
+Daniel,Mina Lee,4.861111111111112,2.7777777777777777,70.13888888888889,1.75,realize be think have
+Daniel,Ms. Lee,4.166666666666666,0.0,51.388888888888886,INF,tell say be shock hit
+Ms. Lee,Rafe,5.729166666666666,0.0,56.770833333333336,INF,know take stop realize be say continue
+Ms. Lee,Rafe,3.289473684210526,0.0,23.026315789473685,INF,be find
+Sam,Rafe,3.289473684210526,5.263157894736842,44.07894736842105,0.625,do realize be damage lash provoke
+Mina Lee,Daniel,4.5,0.0,55.50000000000001,INF,have put underline
+Daniel,Tillson,1.1904761904761905,2.976190476190476,57.738095238095234,0.4,be have send be involve
+Serena,Rafe,0.8064516129032258,4.032258064516129,37.096774193548384,0.2,be be be focus keep
+Serena,Annie,0.8064516129032258,4.032258064516129,37.096774193548384,0.2,be be be focus keep
+Rafe,Annie,0.8064516129032258,4.032258064516129,37.096774193548384,0.2,be be be focus keep
+Rafe,Serena,0.8064516129032258,4.032258064516129,37.096774193548384,0.2,be be be focus keep
+Annie,Serena,0.8064516129032258,4.032258064516129,37.096774193548384,0.2,be be be focus keep
+Rafe,Annie,12.5,0.0,20.833333333333336,INF,
+Kenjii,Annie,3.3653846153846154,2.403846153846154,63.46153846153846,1.4,brush look see seem nudge
+Kenjii,Fitz,1.4423076923076923,6.25,50.0,0.23076923076923078,glance stir sense
+Daniel,Rafe,0.0,0.0,41.66666666666667,INF,be say
+Nicole,Daniel,2.2058823529411766,0.0,33.088235294117645,INF,flip go
+Sam,Nicole,0.0,0.0,53.84615384615385,INF,find be go light
+Sam,Daniel,0.0,0.0,53.84615384615385,INF,find be go light
+Sam,Nicole,0.0,0.0,53.84615384615385,INF,find be go light
+Nicole,Daniel,0.0,0.0,53.84615384615385,INF,find be go light
+Daniel,Nicole,0.0,0.0,53.84615384615385,INF,find be go light
+Hayley,Sam,3.289473684210526,0.0,44.07894736842105,INF,say be show watch
+Hayley,Nicole,3.289473684210526,0.0,44.07894736842105,INF,say be show watch
+Hayley,Nicole,3.289473684210526,0.0,44.07894736842105,INF,say be show watch
+Sam,Nicole,3.289473684210526,0.0,44.07894736842105,INF,say be show watch
+Sam,Nicole,3.289473684210526,0.0,44.07894736842105,INF,say be show watch
+Daniel,Sam,8.552631578947368,1.9736842105263157,36.84210526315789,4.333333333333333,know be be
+Daniel,Nicole,8.552631578947368,1.9736842105263157,36.84210526315789,4.333333333333333,know be be
+Sam,Nicole,8.552631578947368,1.9736842105263157,36.84210526315789,4.333333333333333,know be be
+Serena,Sam,8.75,2.5,48.75,3.5,flash say
+Hayley,Rafe,0.0,0.0,33.33333333333333,INF,say
+Corey,Nicole,3.125,6.25,28.125,0.5,do ignore
+Corey,Nicole,3.0,2.0,51.0,1.5,make be have be
+Nicole,Corey,3.0,2.0,51.0,1.5,make be have be
+Daniel,Nicole,2.083333333333333,3.4722222222222223,38.88888888888889,0.6,stand be date
+Daniel,Nicole,2.083333333333333,3.4722222222222223,38.88888888888889,0.6,stand be date
+Rafe,Maya,5.729166666666666,0.0,40.10416666666667,INF,know be meet be
+Maya,Rafe,5.729166666666666,0.0,40.10416666666667,INF,know be meet be
+Kenjii,Mom,5.147058823529411,0.0,65.44117647058823,INF,lay pet put
+Mom,Rafe,11.76470588235294,2.941176470588235,50.0,4.0,be clean think say
+Dad,Elizabeth Delaney,2.272727272727273,0.0,61.36363636363637,INF,do have name
+Daniel,Dad,1.3888888888888888,0.0,65.27777777777779,INF,get be sit look monitor
+Daniel,Dad,1.3888888888888888,0.0,65.27777777777779,INF,get be sit look monitor
+Daniel,Dad,1.3888888888888888,0.0,65.27777777777779,INF,get be sit look monitor
+Daniel,Corey,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Daniel,Brendan,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Daniel,Rafe,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Corey,Brendan,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Corey,Rafe,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Brendan,Rafe,0.0,2.840909090909091,42.61363636363637,0.0,arrive leave go
+Hayley,Rafe,1.7857142857142856,0.0,58.92857142857143,INF,glance nod move round start take get
+Hayley,Rafe,2.6785714285714284,0.0,47.32142857142857,INF,be guard think have say
+Rafe,Mom,4.166666666666666,0.0,41.66666666666667,INF,remember say say resist say walk
+Sam,Mom,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,open say wheel walk smack
+Sam,Daniel,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,open say wheel walk smack
+Mom,Daniel,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,open say wheel walk smack
+Sam,Daniel,0.0,4.166666666666666,62.5,0.0,stammer tell be listen
+Sam,Mom,0.0,4.166666666666666,62.5,0.0,stammer tell be listen
+Daniel,Mom,0.0,4.166666666666666,62.5,0.0,stammer tell be listen
+Serena,Sam,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,start remember say die
+Sam,Serena,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,start remember say die
+Serena,Daniel,0.0,0.0,60.0,INF,see come
+Nicole,Daniel,1.1904761904761905,1.7857142857142856,44.642857142857146,0.6666666666666666,be be take
+Nicole,Dr. Hajek,1.1904761904761905,1.7857142857142856,44.642857142857146,0.6666666666666666,be be take
+Daniel,Dr. Hajek,1.1904761904761905,1.7857142857142856,44.642857142857146,0.6666666666666666,be be take
+Daniel,Nicole,9.027777777777777,2.083333333333333,38.88888888888889,4.333333333333333,tell be be flirt
+Rafe,Sam,2.272727272727273,0.0,70.45454545454545,INF,be have
+Rafe,Daniel,2.272727272727273,0.0,70.45454545454545,INF,be have
+Sam,Daniel,2.272727272727273,0.0,70.45454545454545,INF,be have
+Sam,Serena,10.9375,6.25,32.8125,1.75,have be
+Daniel,Sam,0.8928571428571428,0.0,63.39285714285714,INF,brush be come
+Daniel,Serena,0.8928571428571428,0.0,63.39285714285714,INF,brush be come
+Sam,Serena,0.8928571428571428,0.0,63.39285714285714,INF,brush be come
+Daniel,Nicole,1.0416666666666665,4.166666666666666,36.45833333333333,0.25,lean whisper do
+Nicole,Daniel,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,need stay murmur be
+Nicole,Sam,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,need stay murmur be
+Daniel,Sam,0.6578947368421052,0.6578947368421052,46.05263157894737,1.0,need stay murmur be
+Nicole,Daniel,0.8333333333333334,0.0,39.166666666666664,INF,mouth have get wave
+Daniel,Rafe,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,do like be break
+Daniel,Rafe,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,do like be break
+Corey,Brendan,0.0,3.6764705882352944,43.38235294117647,0.0,take say meet
+Daniel,Nicole,0.0,2.631578947368421,44.73684210526316,0.0,lead wave catch
+Daniel,Nicole,0.0,2.631578947368421,44.73684210526316,0.0,lead wave catch
+Daniel,Rafe,5.0,5.0,60.0,1.0,get be go make ask
+Rafe,Annie,13.750000000000002,0.0,36.25,INF,be check
+Annie,Rafe,0.0,0.0,36.36363636363637,INF,stop look
+Annie,Daniel,0.0,0.0,36.36363636363637,INF,stop look
+Rafe,Daniel,0.0,0.0,36.36363636363637,INF,stop look
+Daniel,Rafe,3.75,5.0,61.25000000000001,0.75,eye explain
+Rafe,Daniel,0.0,0.0,66.66666666666666,INF,lower pull
+Rafe,Daniel,0.0,0.0,70.0,INF,come be go
+Rafe,Daniel,1.25,0.625,48.125,2.0,narrow jump wave
+Rafe,Daniel,1.25,0.625,48.125,2.0,narrow jump wave
+Daniel,Rafe,2.403846153846154,0.9615384615384616,58.17307692307693,2.5,say be be climb climb crouch
+Daniel,Rafe,2.403846153846154,0.9615384615384616,58.17307692307693,2.5,say be be climb climb crouch
+Annie,Rafe,2.631578947368421,0.8771929824561403,52.63157894736842,3.0,forget happen be climb surround pulse
+Rafe,Annie,4.375,5.0,45.625,0.875,laugh look swallow turn look
+Rafe,Annie,4.375,5.0,45.625,0.875,laugh look swallow turn look
+Rafe,Daniel,1.0416666666666665,0.0,57.291666666666664,INF,start scramble shout
+Rafe,Annie,1.3888888888888888,0.0,65.27777777777779,INF,yank be come call do
+Rafe,Daniel,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,do push
+Daniel,Rafe,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,do push
+Daniel,Rafe,0.0,0.0,45.45454545454545,INF,meet
+Rafe,Daniel,0.0,0.0,45.45454545454545,INF,meet
+Rafe,Daniel,0.0,15.0,45.0,0.0,scowl
+Rafe,Daniel,0.0,0.0,45.45454545454545,INF,start follow catch
+Rafe,Daniel,0.0,0.0,45.45454545454545,INF,start follow catch
+Daniel,Rafe,0.0,0.0,42.857142857142854,INF,crackle tell be
+Daniel,Rafe,4.166666666666666,4.861111111111112,52.083333333333336,0.8571428571428571,warn wave realize be
+Daniel,Rafe,0.0,0.0,63.63636363636363,INF,catch run
+Daniel,Rafe,0.0,0.0,42.857142857142854,INF,flip lower
+Rafe,Daniel,0.0,0.0,42.857142857142854,INF,flip lower
+Rafe,Daniel,0.0,0.0,42.857142857142854,INF,flip lower
+Rafe,Daniel,0.0,0.0,42.857142857142854,INF,flip lower
+Rafe,Daniel,0.0,0.0,44.44444444444444,INF,be say
+Daniel,Rafe,0.0,0.0,57.14285714285714,INF,pull run search
+Rafe,Daniel,0.0,0.0,57.14285714285714,INF,pull run search
+Maya,Nicole,0.0,0.0,38.46153846153847,INF,get say
+Maya,Nicole,0.0,0.0,38.46153846153847,INF,get say
+Daniel,Rafe,4.166666666666666,0.0,37.5,INF,help get
+Daniel,Nicole,0.0,3.3333333333333335,50.0,0.0,miss say tug
+Rafe,Tillson,5.263157894736842,0.0,47.368421052631575,INF,sit hold watch breathe check
+Rafe,Tillson,5.263157894736842,0.0,47.368421052631575,INF,sit hold watch breathe check
+Rafe,Tillson,5.263157894736842,0.0,47.368421052631575,INF,sit hold watch breathe check
+Tillson,Rafe,5.263157894736842,0.0,47.368421052631575,INF,sit hold watch breathe check
+Daniel,Dr. Inglis,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Daniel,Tillson,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Daniel,Dr. Inglis,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Daniel,Tillson,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Dr. Inglis,Tillson,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Dr. Inglis,Tillson,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Tillson,Dr. Inglis,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Dr. Inglis,Tillson,3.571428571428571,1.1904761904761905,42.857142857142854,3.0,call tell do ask
+Rafe,Daniel,1.7045454545454544,0.5681818181818182,43.18181818181818,3.0,hurry wait motion put
+Rafe,Daniel,1.7045454545454544,0.5681818181818182,43.18181818181818,3.0,hurry wait motion put
+Dr. Inglis,Tillson,0.0,0.0,66.66666666666666,INF,make check wave
+Tillson,Nicole,0.0,0.0,50.0,INF,bustle
+Hayley,Corey,0.0,0.0,40.0,INF,see
+Fitz,Kenjii,0.0,0.0,45.45454545454545,INF,begin pat
+Dad,Rafe,0.0,0.0,53.84615384615385,INF,have wave
+Daniel,Rafe,2.0,2.0,56.00000000000001,1.0,assure be be seem be get
+Daniel,Kenjii,3.3333333333333335,0.0,63.33333333333333,INF,back leap lay
+Kenjii,Rafe,2.717391304347826,0.0,53.80434782608695,INF,stretch
+Sam,Nicole,4.166666666666666,1.3888888888888888,50.0,3.0,be adjust
+Corey,Hayley,3.4090909090909087,1.1363636363636365,40.909090909090914,3.0,be

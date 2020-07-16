@@ -1,0 +1,634 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Linus Lancaster,Ginny Lancaster,0.0,2.717391304347826,53.80434782608695,0.0,be make do call
+Cleome,Zinnia,1.215277777777778,0.0,52.951388888888886,INF,say be walk look sit make have stretch be look say do believe
+Cleome,Zinnia,1.9736842105263157,1.5977443609022555,57.330827067669176,1.2352941176470589,tell go look be drip pick play weigh go look lie like hold skip hold fall say have be
+Cleome,Alcofibras,1.9736842105263157,1.5977443609022555,57.330827067669176,1.2352941176470589,tell go look be drip pick play weigh go look lie like hold skip hold fall say have be
+Zinnia,Alcofibras,1.9736842105263157,1.5977443609022555,57.330827067669176,1.2352941176470589,tell go look be drip pick play weigh go look lie like hold skip hold fall say have be
+Cleome,Zinnia,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Cleome,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Cleome,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Cleome,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Zinnia,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Zinnia,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Zinnia,Linus Lancaster,0.0,0.0,57.14285714285714,INF,help get settle help commence have
+Zinnia,Cleome,2.2540983606557377,5.737704918032787,52.66393442622951,0.39285714285714285,hate be fall get be have be set knock be be go whack
+Zinnia,Cleome,2.2540983606557377,5.737704918032787,52.66393442622951,0.39285714285714285,hate be fall get be have be set knock be be go whack
+Zinnia,Cleome,2.2540983606557377,5.737704918032787,52.66393442622951,0.39285714285714285,hate be fall get be have be set knock be be go whack
+Zinnia,Cleome,2.2540983606557377,5.737704918032787,52.66393442622951,0.39285714285714285,hate be fall get be have be set knock be be go whack
+Linus Lancaster,Zinnia,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Linus Lancaster,Cleome,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Zinnia,Linus Lancaster,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Zinnia,Linus Lancaster,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Zinnia,Cleome,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Linus Lancaster,Cleome,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Linus Lancaster,Cleome,1.9230769230769231,0.0,53.84615384615385,INF,help be look do tell see drop dangle
+Cleome,Zinnia,0.8333333333333334,0.0,65.83333333333333,INF,be tickle
+Cleome,Zinnia,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,tell make tell
+Ginny Lancaster,Linus Lancaster,0.0,2.083333333333333,47.91666666666667,0.0,say
+Mrs. Lancaster,Linus Lancaster,0.0,0.0,50.0,INF,have say
+Ulysses,Horace,2.6785714285714284,0.0,65.17857142857143,INF,have set build
+Linus Lancaster,Cleome,1.5625,0.0,62.72321428571429,INF,eat wink have retire take dandle have do have have fall
+Cleome,Linus Lancaster,1.5625,0.0,62.72321428571429,INF,eat wink have retire take dandle have do have have fall
+Cleome,Linus Lancaster,1.5625,0.0,62.72321428571429,INF,eat wink have retire take dandle have do have have fall
+Linus Lancaster,Ulysses,1.0,1.7500000000000002,51.24999999999999,0.5714285714285714,take tell bring have yank say see
+Linus Lancaster,Ulysses,1.0,1.7500000000000002,51.24999999999999,0.5714285714285714,take tell bring have yank say see
+Linus Lancaster,Ulysses,1.0,1.7500000000000002,51.24999999999999,0.5714285714285714,take tell bring have yank say see
+Linus Lancaster,Ulysses,1.0,1.7500000000000002,51.24999999999999,0.5714285714285714,take tell bring have yank say see
+Horace,Ulysses,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Horace,Alcofibras,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Horace,Zinnia,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Horace,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Horace,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Ulysses,Alcofibras,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Ulysses,Zinnia,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Ulysses,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Ulysses,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Alcofibras,Zinnia,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Alcofibras,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Alcofibras,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Zinnia,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Zinnia,Linus Lancaster,1.0638297872340425,1.0638297872340425,51.06382978723404,1.0,see tend walk say have
+Linus Lancaster,Lucious Wilson,2.6785714285714284,0.8928571428571428,65.47619047619048,3.0,be say bend see be run be be stand
+Linus Lancaster,Lucious Wilson,2.6785714285714284,0.8928571428571428,65.47619047619048,3.0,be say bend see be run be be stand
+Linus Lancaster,Lucious Wilson,2.6785714285714284,0.8928571428571428,65.47619047619048,3.0,be say bend see be run be be stand
+Linus Lancaster,Lucious Wilson,2.6785714285714284,0.8928571428571428,65.47619047619048,3.0,be say bend see be run be be stand
+Linus Lancaster,Lucious Wilson,0.5952380952380952,0.0,56.547619047619044,INF,raise nod be lead
+Linus Lancaster,Lucious Wilson,2.840909090909091,0.0,56.25,INF,run find be
+Linus Lancaster,Lucious Wilson,2.840909090909091,0.0,56.25,INF,run find be
+Linus Lancaster,Lucious Wilson,2.840909090909091,0.0,56.25,INF,run find be
+Lucious Wilson,Linus Lancaster,0.9615384615384616,0.3205128205128205,62.82051282051282,3.0,have grow be run hang see be
+Horace,Linus Lancaster,1.7857142857142856,0.7142857142857143,57.49999999999999,2.5,take say sit say be
+Cleome,Zinnia,1.3888888888888888,0.0,65.27777777777779,INF,dish set fill keep fill
+Cleome,Zinnia,0.5434782608695652,0.0,51.63043478260869,INF,watch take commence consume
+Linus Lancaster,Ulysses,1.7857142857142856,2.232142857142857,60.26785714285714,0.8,come have fetch break
+Horace,Ulysses,2.083333333333333,1.7857142857142856,50.89285714285714,1.1666666666666667,lead set tote fuss lay
+Horace,Linus Lancaster,2.083333333333333,1.7857142857142856,50.89285714285714,1.1666666666666667,lead set tote fuss lay
+Ulysses,Linus Lancaster,2.083333333333333,1.7857142857142856,50.89285714285714,1.1666666666666667,lead set tote fuss lay
+Horace,Ulysses,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Horace,Cleome,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Horace,Zinnia,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Horace,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Horace,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Horace,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Ulysses,Cleome,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Ulysses,Zinnia,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Ulysses,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Ulysses,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Ulysses,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Cleome,Zinnia,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Cleome,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Cleome,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Cleome,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Zinnia,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Zinnia,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Zinnia,Linus Lancaster,1.5,1.0,57.49999999999999,1.5,strum thump be like clap sing be get sing
+Linus Lancaster,Cleome,1.6666666666666667,0.0,58.333333333333336,INF,get
+Linus Lancaster,Cleome,1.6666666666666667,0.0,58.333333333333336,INF,get
+Horace,Zinnia,4.166666666666666,5.555555555555555,56.94444444444444,0.75,have be get be chuck
+Linus Lancaster,Cleome,0.6578947368421052,0.6578947368421052,67.10526315789474,1.0,do look
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Linus Lancaster,Zinnia,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Linus Lancaster,Zinnia,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Linus Lancaster,Zinnia,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Zinnia,Linus Lancaster,0.0,0.9090909090909091,55.45454545454545,0.0,say do want wear spit say put come walk take put
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Zinnia,1.9444444444444444,0.5555555555555556,50.83333333333333,3.5,cry be hit ride say build be fill throw build toss take drop cry like
+Cleome,Linus Lancaster,0.43103448275862066,1.293103448275862,67.24137931034483,0.3333333333333333,come stand ask tell let
+Cleome,Zinnia,0.43103448275862066,1.293103448275862,67.24137931034483,0.3333333333333333,come stand ask tell let
+Linus Lancaster,Zinnia,0.43103448275862066,1.293103448275862,67.24137931034483,0.3333333333333333,come stand ask tell let
+Horace,Zinnia,2.7777777777777777,7.638888888888889,50.69444444444444,0.36363636363636365,come say have be make
+Horace,Zinnia,2.7777777777777777,7.638888888888889,50.69444444444444,0.36363636363636365,come say have be make
+Zinnia,Horace,2.7777777777777777,7.638888888888889,50.69444444444444,0.36363636363636365,come say have be make
+Horace,Zinnia,2.7777777777777777,7.638888888888889,50.69444444444444,0.36363636363636365,come say have be make
+Linus Lancaster,Zinnia,1.8518518518518516,0.4629629629629629,56.94444444444444,4.0,be like sing sing be
+Miss Ginny,Cleome,4.166666666666666,0.0,35.833333333333336,INF,be ask please say
+Miss Ginny,Horace,6.25,0.0,33.75,INF,say
+Alcofibras,Linus Lancaster,0.9259259259259258,1.8518518518518516,60.18518518518518,0.5,be take get
+Cleome,Zinnia,1.25,0.625,58.12500000000001,2.0,be be commence pay
+Cleome,Linus Lancaster,1.25,0.625,58.12500000000001,2.0,be be commence pay
+Zinnia,Linus Lancaster,1.25,0.625,58.12500000000001,2.0,be be commence pay
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Cleome,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Cleome,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Cleome,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Cleome,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Linus Lancaster,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Zinnia,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Linus Lancaster,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Zinnia,Cleome,1.3333333333333335,0.16666666666666669,66.5,8.0,have be try push tell go sleep go see share be do visit sing lie roll
+Cleome,Zinnia,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Cleome,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Cleome,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Cleome,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Zinnia,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Zinnia,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Zinnia,Linus Lancaster,3.595890410958904,1.7123287671232876,57.705479452054796,2.1,think sit be go be lie have kick walk pay
+Linus Lancaster,Zinnia,3.7698412698412698,3.373015873015873,59.523809523809526,1.1176470588235294,pay lay hurt remember think have grow fray fret be
+Linus Lancaster,Zinnia,3.7698412698412698,3.373015873015873,59.523809523809526,1.1176470588235294,pay lay hurt remember think have grow fray fret be
+Zinnia,Cleome,2.403846153846154,1.9230769230769231,57.21153846153846,1.25,thank think fall ask mind share
+Zinnia,Cleome,2.403846153846154,1.9230769230769231,57.21153846153846,1.25,thank think fall ask mind share
+Cleome,Zinnia,0.0,0.29069767441860467,55.52325581395349,0.0,clap give take weave stand take turn
+Cleome,Zinnia,8.088235294117647,2.2058823529411766,54.41176470588235,3.6666666666666665,be have teach think
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Linus Lancaster,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Cleome,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Zinnia,Linus Lancaster,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Zinnia,Linus Lancaster,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Linus Lancaster,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Linus Lancaster,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Linus Lancaster,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Linus Lancaster,Zinnia,3.0927835051546393,2.5773195876288657,54.123711340206185,1.2,put do say let drop look say have tell have spill take stink stand do want sit have put
+Linus Lancaster,Horace,4.25,0.25,51.5,17.0,have have build have flourish have eat be drip pore have be
+Linus Lancaster,Ulysses,4.25,0.25,51.5,17.0,have have build have flourish have eat be drip pore have be
+Horace,Ulysses,4.25,0.25,51.5,17.0,have have build have flourish have eat be drip pore have be
+Linus Lancaster,Cleome,3.125,0.625,56.25,5.0,be have sit
+Linus Lancaster,Zinnia,3.125,0.625,56.25,5.0,be have sit
+Linus Lancaster,Cleome,3.125,0.625,56.25,5.0,be have sit
+Linus Lancaster,Zinnia,3.125,0.625,56.25,5.0,be have sit
+Cleome,Zinnia,3.125,0.625,56.25,5.0,be have sit
+Cleome,Zinnia,1.0,3.5000000000000004,51.5,0.2857142857142857,have speak have commence say be throw lay
+Cleome,Linus Lancaster,1.0,3.5000000000000004,51.5,0.2857142857142857,have speak have commence say be throw lay
+Zinnia,Linus Lancaster,1.0,3.5000000000000004,51.5,0.2857142857142857,have speak have commence say be throw lay
+Zinnia,Cleome,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,have be pour have stream have wipe
+Zinnia,Cleome,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,have be pour have stream have wipe
+Cleome,Zinnia,2.976190476190476,1.1904761904761905,57.738095238095234,2.5,have follow run
+Cleome,Zinnia,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,slap feel have pour be
+Cleome,Zinnia,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,slap feel have pour be
+Linus Lancaster,Cleome,2.027027027027027,2.027027027027027,66.21621621621621,1.0,have push crack go stand watch watch have go
+Linus Lancaster,Zinnia,2.027027027027027,2.027027027027027,66.21621621621621,1.0,have push crack go stand watch watch have go
+Linus Lancaster,Cleome,2.027027027027027,2.027027027027027,66.21621621621621,1.0,have push crack go stand watch watch have go
+Linus Lancaster,Zinnia,2.027027027027027,2.027027027027027,66.21621621621621,1.0,have push crack go stand watch watch have go
+Cleome,Zinnia,2.027027027027027,2.027027027027027,66.21621621621621,1.0,have push crack go stand watch watch have go
+Linus Lancaster,Alcofibras,2.2058823529411766,2.3529411764705883,49.55882352941177,0.9375,go giggle be be expect find tell be have find have know listen sit shiver tell
+Linus Lancaster,Alcofibras,2.2058823529411766,2.3529411764705883,49.55882352941177,0.9375,go giggle be be expect find tell be have find have know listen sit shiver tell
+Alcofibras,Linus Lancaster,2.2058823529411766,2.3529411764705883,49.55882352941177,0.9375,go giggle be be expect find tell be have find have know listen sit shiver tell
+Alcofibras,Linus Lancaster,2.2058823529411766,2.3529411764705883,49.55882352941177,0.9375,go giggle be be expect find tell be have find have know listen sit shiver tell
+Alcofibras,Linus Lancaster,2.8846153846153846,0.0,71.47435897435898,INF,have churn have have have come
+Alcofibras,Linus Lancaster,2.8846153846153846,0.0,71.47435897435898,INF,have churn have have have come
+Horace,Ulysses,1.9230769230769231,0.0,67.3076923076923,INF,have come tell
+Alcofibras,Linus Lancaster,1.875,0.0,55.625,INF,say come find tell put
+Linus Lancaster,Alcofibras,1.9230769230769231,5.288461538461538,50.480769230769226,0.36363636363636365,do like tell be get take
+Alcofibras,Linus Lancaster,1.9230769230769231,5.288461538461538,50.480769230769226,0.36363636363636365,do like tell be get take
+Alcofibras,Linus Lancaster,1.9230769230769231,5.288461538461538,50.480769230769226,0.36363636363636365,do like tell be get take
+Alcofibras,Linus Lancaster,1.9230769230769231,5.288461538461538,50.480769230769226,0.36363636363636365,do like tell be get take
+Linus Lancaster,Horace,4.326923076923077,4.326923076923077,54.807692307692314,1.0,be be name have bring sell set have herd
+Linus Lancaster,Ulysses,4.326923076923077,4.326923076923077,54.807692307692314,1.0,be be name have bring sell set have herd
+Horace,Ulysses,4.326923076923077,4.326923076923077,54.807692307692314,1.0,be be name have bring sell set have herd
+Horace,Linus Lancaster,4.326923076923077,4.326923076923077,54.807692307692314,1.0,be be name have bring sell set have herd
+Ulysses,Linus Lancaster,4.326923076923077,4.326923076923077,54.807692307692314,1.0,be be name have bring sell set have herd
+Linus Lancaster,Ulysses,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Linus Lancaster,Horace,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Ulysses,Linus Lancaster,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Ulysses,Linus Lancaster,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Ulysses,Horace,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Ulysses,Linus Lancaster,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Linus Lancaster,Horace,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Linus Lancaster,Horace,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Horace,Linus Lancaster,3.289473684210526,2.631578947368421,49.34210526315789,1.25,plan bring have turn walk take
+Alcofibras,Linus Lancaster,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Alcofibras,Linus Lancaster,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Alcofibras,Cleome,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Alcofibras,Zinnia,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Alcofibras,Draper Man,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Cleome,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Zinnia,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Draper Man,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Cleome,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Zinnia,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Draper Man,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Cleome,Zinnia,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Cleome,Draper Man,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Zinnia,Draper Man,1.488095238095238,0.5952380952380952,50.297619047619044,2.5,have come pass say be come call
+Linus Lancaster,Draper Man,0.6756756756756757,1.6891891891891893,40.87837837837838,0.4,have cry say slow be be
+Linus Lancaster,Draper Man,0.6756756756756757,1.6891891891891893,40.87837837837838,0.4,have cry say slow be be
+Draper Man,Alcofibras,2.864583333333333,1.8229166666666667,51.5625,1.5714285714285714,be come measure have step cut wrap carry
+Alcofibras,Bennett Marsden,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Alcofibras,Bennett Marsden,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Alcofibras,Bennett Marsden,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Alcofibras,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Alcofibras,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Alcofibras,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Bennett Marsden,Linus Lancaster,2.5,0.0,57.49999999999999,INF,have take go say be be have like sing
+Zinnia,Cleome,2.127659574468085,0.0,59.57446808510638,INF,have have strike see have have slap hide fetch
+Bennett Marsden,Linus Lancaster,0.641025641025641,0.0,53.205128205128204,INF,go sit look say have do grow transform
+Alcofibras,Bennett Marsden,1.25,3.3333333333333335,52.083333333333336,0.375,be be say have
+Alcofibras,Bennett Marsden,1.25,3.3333333333333335,52.083333333333336,0.375,be be say have
+Alcofibras,Bennett Marsden,1.25,3.3333333333333335,52.083333333333336,0.375,be be say have
+Alcofibras,Bennett Marsden,6.25,4.375,49.375,1.4285714285714286,do let drop go stand
+Alcofibras,Bennett Marsden,6.25,4.375,49.375,1.4285714285714286,do let drop go stand
+Bennett Marsden,Alcofibras,3.125,0.0,46.875,INF,say have finish
+Bennett Marsden,Alcofibras,0.7142857142857143,0.0,47.85714285714286,INF,do do say roar call come send
+Alcofibras,Bennett Marsden,0.7142857142857143,0.0,47.85714285714286,INF,do do say roar call come send
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Alcofibras,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Bennett Marsden,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Alcofibras,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Linus Lancaster,3.125,0.8680555555555556,50.173611111111114,3.6,have finish say have lose ask have hear tell be do respond look ask
+Bennett Marsden,Zinnia,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Bennett Marsden,Zinnia,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Bennett Marsden,Zinnia,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Bennett Marsden,Zinnia,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Bennett Marsden,Zinnia,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Zinnia,Bennett Marsden,1.9736842105263157,1.644736842105263,64.80263157894737,1.2,have start push point be stir
+Zinnia,Bennett Marsden,0.0,6.944444444444445,59.72222222222222,0.0,do turn say
+Bennett Marsden,Linus Lancaster,3.9634146341463414,1.2195121951219512,63.109756097560975,3.25,reckon be look depart straighten smooth ask have know have precede
+Bennett Marsden,Linus Lancaster,3.9634146341463414,1.2195121951219512,63.109756097560975,3.25,reckon be look depart straighten smooth ask have know have precede
+Bennett Marsden,Linus Lancaster,3.9634146341463414,1.2195121951219512,63.109756097560975,3.25,reckon be look depart straighten smooth ask have know have precede
+Linus Lancaster,Zinnia,3.0,2.0,71.0,1.5,give ask give squint
+Linus Lancaster,Zinnia,2.717391304347826,0.5434782608695652,57.608695652173914,5.0,call show be do
+Bennett Marsden,Linus Lancaster,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Linus Lancaster,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Zinnia,Linus Lancaster,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Zinnia,Linus Lancaster,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Linus Lancaster,Zinnia,3.353658536585366,0.3048780487804878,52.4390243902439,11.0,have ask explain have tend do answer look hit be hold go stay bleed tell get
+Bennett Marsden,Linus Lancaster,2.4456521739130435,1.9021739130434785,45.65217391304348,1.2857142857142858,say wait extend regard
+Bennett Marsden,Linus Lancaster,2.4456521739130435,1.9021739130434785,45.65217391304348,1.2857142857142858,say wait extend regard
+Bennett Marsden,Linus Lancaster,2.4456521739130435,1.9021739130434785,45.65217391304348,1.2857142857142858,say wait extend regard
+Bennett Marsden,Linus Lancaster,2.4456521739130435,1.9021739130434785,45.65217391304348,1.2857142857142858,say wait extend regard
+Linus Lancaster,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Draper Man,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Draper Man,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Alcofibras,Linus Lancaster,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Alcofibras,Draper Man,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Draper Man,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Draper Man,Alcofibras,5.909090909090909,1.5909090909090908,52.5,3.7142857142857144,leave tell have come go feel call invent answer
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Linus Lancaster,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Bennett Marsden,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Bennett Marsden,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Bennett Marsden,Alcofibras,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Alcofibras,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Alcofibras,Bennett Marsden,1.293103448275862,0.0,55.603448275862064,INF,come hear have come call have spend tie whip be
+Horace,Ulysses,1.5625,0.78125,60.15625,2.0,stand be
+Horace,Zinnia,1.5625,0.78125,60.15625,2.0,stand be
+Horace,Cleome,1.5625,0.78125,60.15625,2.0,stand be
+Ulysses,Zinnia,1.5625,0.78125,60.15625,2.0,stand be
+Ulysses,Cleome,1.5625,0.78125,60.15625,2.0,stand be
+Zinnia,Cleome,1.5625,0.78125,60.15625,2.0,stand be
+Linus Lancaster,Alcofibras,2.083333333333333,2.604166666666667,45.3125,0.8,have explain have let be
+Linus Lancaster,Bennett Marsden,2.083333333333333,2.604166666666667,45.3125,0.8,have explain have let be
+Linus Lancaster,Bennett Marsden,2.083333333333333,2.604166666666667,45.3125,0.8,have explain have let be
+Alcofibras,Bennett Marsden,2.083333333333333,2.604166666666667,45.3125,0.8,have explain have let be
+Alcofibras,Bennett Marsden,2.083333333333333,2.604166666666667,45.3125,0.8,have explain have let be
+Bennett Marsden,Linus Lancaster,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,be have be grant be
+Bennett Marsden,Linus Lancaster,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,be have be grant be
+Bennett Marsden,Linus Lancaster,3.6290322580645165,5.64516129032258,52.016129032258064,0.6428571428571429,be have be grant be
+Bennett Marsden,Alcofibras,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,be excuse have know cheat have
+Bennett Marsden,Alcofibras,3.2407407407407405,0.23148148148148145,52.083333333333336,14.0,have know let be have be judge have let sleep smoke be have answer
+Alcofibras,Linus Lancaster,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Linus Lancaster,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Linus Lancaster,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Linus Lancaster,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Linus Lancaster,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Linus Lancaster,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Ulysses,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Horace,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Alcofibras,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Ulysses,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Alcofibras,Horace,2.1739130434782608,0.18115942028985507,52.71739130434783,12.0,be have carry have be hear know get take scrape bury cover dig
+Draper Man,Alcofibras,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Draper Man,Linus Lancaster,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Draper Man,Linus Lancaster,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Draper Man,Bennett Marsden,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Draper Man,Cleome,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Draper Man,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Alcofibras,Linus Lancaster,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Alcofibras,Linus Lancaster,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Alcofibras,Bennett Marsden,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Alcofibras,Cleome,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Alcofibras,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Bennett Marsden,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Cleome,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Bennett Marsden,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Cleome,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Linus Lancaster,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Bennett Marsden,Cleome,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Bennett Marsden,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Cleome,Zinnia,3.6637931034482754,1.293103448275862,64.00862068965517,2.8333333333333335,know be come take have beat ask have be have recommence visit knock interrupt have be have grind
+Cleome,Zinnia,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Cleome,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Zinnia,Linus Lancaster,0.7042253521126761,0.0,58.45070422535211,INF,turn go shove come drop see see drop be go be visit come
+Mother,Cleome,3.618421052631579,0.3289473684210526,61.8421052631579,11.0,have say have hit have be permit consider
+Mother,Zinnia,1.0416666666666665,0.0,48.95833333333333,INF,be say
+Zinnia,Linus Lancaster,2.7777777777777777,1.3888888888888888,62.5,2.0,have have put
+Linus Lancaster,Zinnia,2.7777777777777777,1.3888888888888888,62.5,2.0,have have put
+Alcofibras,Linus Lancaster,7.5,0.625,51.87500000000001,12.0,have put have be fit
+Alcofibras,Bennett Marsden,7.5,0.625,51.87500000000001,12.0,have put have be fit
+Linus Lancaster,Bennett Marsden,7.5,0.625,51.87500000000001,12.0,have put have be fit
+Zinnia,Cleome,0.6578947368421052,2.1929824561403506,62.06140350877193,0.3,lean be bubble think see come take put
+Zinnia,Cleome,0.6578947368421052,2.1929824561403506,62.06140350877193,0.3,lean be bubble think see come take put
+Zinnia,Cleome,0.6578947368421052,2.1929824561403506,62.06140350877193,0.3,lean be bubble think see come take put
+Cleome,Zinnia,0.6578947368421052,2.1929824561403506,62.06140350877193,0.3,lean be bubble think see come take put
+Cleome,Zinnia,0.6578947368421052,2.1929824561403506,62.06140350877193,0.3,lean be bubble think see come take put
+Mother,Zinnia,0.0,0.0,46.666666666666664,INF,go eat say
+Horace,Ulysses,2.3333333333333335,2.5,56.49999999999999,0.9333333333333333,be have put have be have frolic like come lay tumble
+Mother,Cleome,0.7352941176470588,5.147058823529411,47.05882352941176,0.14285714285714285,say lift
+Mother,Zinnia,0.7352941176470588,5.147058823529411,47.05882352941176,0.14285714285714285,say lift
+Cleome,Zinnia,0.7352941176470588,5.147058823529411,47.05882352941176,0.14285714285714285,say lift
+Zinnia,Linus Lancaster,2.840909090909091,1.1363636363636365,46.02272727272727,2.5,lift see visit have put
+Linus Lancaster,Zinnia,2.840909090909091,1.1363636363636365,46.02272727272727,2.5,lift see visit have put
+Mother,Zinnia,0.0,1.3157894736842104,51.31578947368421,0.0,keep cook say
+Zinnia,Cleome,0.0,0.0,72.72727272727273,INF,make get wait
+Zinnia,Cleome,0.0,0.0,72.72727272727273,INF,make get wait
+Linus Lancaster,Cleome,0.78125,0.0,65.88541666666666,INF,keep be talk wait listen look be
+Linus Lancaster,Zinnia,0.78125,0.0,65.88541666666666,INF,keep be talk wait listen look be
+Cleome,Zinnia,0.78125,0.0,65.88541666666666,INF,keep be talk wait listen look be
+Cleome,Linus Lancaster,0.78125,0.0,65.88541666666666,INF,keep be talk wait listen look be
+Zinnia,Linus Lancaster,0.78125,0.0,65.88541666666666,INF,keep be talk wait listen look be
+Cleome,Zinnia,1.1029411764705883,0.7352941176470588,56.98529411764706,1.5,take have let have see bring
+Cleome,Zinnia,1.6304347826086956,2.1739130434782608,54.166666666666664,0.75,say seem have do have bite crunch come be wait
+Cleome,Zinnia,1.6666666666666667,2.5,60.27777777777777,0.6666666666666666,think have run be have conjure have chase smash
+Cleome,Zinnia,1.6666666666666667,2.5,60.27777777777777,0.6666666666666666,think have run be have conjure have chase smash
+Zinnia,Alcofibras,1.3157894736842104,0.0,56.57894736842105,INF,be have have dig say haul
+Mother,Zinnia,0.0,3.4722222222222223,46.52777777777778,0.0,keep fall say
+Zinnia,Cleome,2.083333333333333,5.208333333333334,51.041666666666664,0.4,get pass
+Cleome,Zinnia,2.083333333333333,5.208333333333334,51.041666666666664,0.4,get pass
+Linus Lancaster,Zinnia,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Cleome,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Zinnia,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Zinnia,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Cleome,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Zinnia,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Zinnia,Cleome,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Cleome,Zinnia,2.850877192982456,2.1929824561403506,61.622807017543856,1.3,eat look have carry sit be be sip have get
+Linus Lancaster,Cleome,2.616279069767442,1.4534883720930232,61.04651162790697,1.8,be be lie be grow be fix strike come
+Linus Lancaster,Zinnia,2.616279069767442,1.4534883720930232,61.04651162790697,1.8,be be lie be grow be fix strike come
+Cleome,Zinnia,2.616279069767442,1.4534883720930232,61.04651162790697,1.8,be be lie be grow be fix strike come
+Linus Lancaster,Alcofibras,2.616279069767442,1.4534883720930232,56.395348837209305,1.8,have be push do walk sit
+Alcofibras,Linus Lancaster,1.4830508474576272,0.423728813559322,54.02542372881356,3.5,tell sit shiver wipe look have dig fill be leave lay bury
+Zinnia,Linus Lancaster,2.1739130434782608,0.8152173913043478,55.70652173913043,2.6666666666666665,have show have walk have dream be talk say mean
+Linus Lancaster,Zinnia,2.1739130434782608,0.8152173913043478,55.70652173913043,2.6666666666666665,have show have walk have dream be talk say mean
+Draper Man,Zinnia,0.0,0.0,41.66666666666667,INF,say
+Draper Man,Ginny Lancaster,0.5681818181818182,0.0,53.97727272727273,INF,get stand be
+Cleome,Zinnia,0.0,0.0,50.0,INF,take do
+Ulysses,Horace,0.0,0.0,41.66666666666667,INF,take
+Ulysses,Horace,0.0,0.0,41.66666666666667,INF,take
+Alcofibras,Horace,0.0,0.0,11.11111111111111,INF,
+Mrs. Lancaster,Bennett Marsden,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,have be say look
+Zinnia,Linus Lancaster,2.631578947368421,0.0,55.26315789473685,INF,stir have know have tell be have
+Zinnia,Linus Lancaster,2.631578947368421,0.0,55.26315789473685,INF,stir have know have tell be have
+Zinnia,Linus Lancaster,2.631578947368421,0.0,55.26315789473685,INF,stir have know have tell be have
+Linus Lancaster,Zinnia,2.631578947368421,0.0,55.26315789473685,INF,stir have know have tell be have
+Bennett Marsden,Cleome,2.380952380952381,0.5952380952380952,56.547619047619044,4.0,expect say hold have cease belabor pass be lean look
+Bennett Marsden,Zinnia,2.380952380952381,0.5952380952380952,56.547619047619044,4.0,expect say hold have cease belabor pass be lean look
+Bennett Marsden,Cleome,2.380952380952381,0.5952380952380952,56.547619047619044,4.0,expect say hold have cease belabor pass be lean look
+Bennett Marsden,Zinnia,2.380952380952381,0.5952380952380952,56.547619047619044,4.0,expect say hold have cease belabor pass be lean look
+Cleome,Zinnia,2.380952380952381,0.5952380952380952,56.547619047619044,4.0,expect say hold have cease belabor pass be lean look
+Cleome,Zinnia,0.9259259259259258,0.0,50.92592592592593,INF,see sit have receive
+Bennett Marsden,Zinnia,3.0,0.25,44.75,12.0,finish call say have prepare hold have
+Bennett Marsden,Alcofibras,3.0,0.25,44.75,12.0,finish call say have prepare hold have
+Bennett Marsden,Zinnia,3.0,0.25,44.75,12.0,finish call say have prepare hold have
+Bennett Marsden,Alcofibras,3.0,0.25,44.75,12.0,finish call say have prepare hold have
+Zinnia,Alcofibras,3.0,0.25,44.75,12.0,finish call say have prepare hold have
+Bennett Marsden,Cleome,3.125,0.0,63.541666666666664,INF,walk
+Bennett Marsden,Zinnia,3.125,0.0,63.541666666666664,INF,walk
+Cleome,Zinnia,3.125,0.0,63.541666666666664,INF,walk
+Bennett Marsden,Zinnia,0.5,0.0,63.5,INF,do reflect be wait
+Bennett Marsden,Linus Lancaster,1.1217948717948718,1.6025641025641024,56.25,0.7,mow bite tumble mount clap drink tell owe sink aim have
+Linus Lancaster,Bennett Marsden,1.1217948717948718,1.6025641025641024,56.25,0.7,mow bite tumble mount clap drink tell owe sink aim have
+Linus Lancaster,Bennett Marsden,1.1217948717948718,1.6025641025641024,56.25,0.7,mow bite tumble mount clap drink tell owe sink aim have
+Linus Lancaster,Bennett Marsden,1.1217948717948718,1.6025641025641024,56.25,0.7,mow bite tumble mount clap drink tell owe sink aim have
+Zinnia,Cleome,1.7857142857142856,0.0,60.11904761904761,INF,watch rise ask
+Zinnia,Bennett Marsden,1.7857142857142856,0.0,60.11904761904761,INF,watch rise ask
+Cleome,Bennett Marsden,1.7857142857142856,0.0,60.11904761904761,INF,watch rise ask
+Cleome,Zinnia,0.0,0.8333333333333334,59.166666666666664,0.0,sleep
+Bennett Marsden,Linus Lancaster,1.875,0.0,63.125,INF,lie have snore crack
+Linus Lancaster,Zinnia,0.4807692307692308,0.0,61.057692307692314,INF,stand borrow put
+Zinnia,Linus Lancaster,0.4807692307692308,0.0,61.057692307692314,INF,stand borrow put
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Linus Lancaster,Bennett Marsden,0.0,0.0,55.55555555555556,INF,clear say tell make follow go build borrow borrow
+Lear,Bennett Marsden,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,be play shorten be be
+Lear,Bennett Marsden,3.4090909090909087,0.5681818181818182,55.11363636363637,6.0,be play shorten be be
+Mother,Alcofibras,3.3653846153846154,3.125,56.97115384615385,1.0769230769230769,have cross have set tell go turn see be sit cover raise
+Bennett Marsden,Zinnia,2.604166666666667,0.26041666666666663,59.635416666666664,10.0,have have think have be cook be sit stand get tell sit
+Cleome,Linus Lancaster,3.6290322580645165,0.4032258064516129,57.25806451612904,9.0,tell walk fetch find hide
+Cleome,Linus Lancaster,0.0,2.840909090909091,56.25,0.0,say walk be be hand
+Cleome,Zinnia,3.75,0.0,66.25,INF,show
+Cleome,Zinnia,3.4090909090909087,5.681818181818182,72.72727272727273,0.6,look
+Linus Lancaster,Zinnia,0.0,0.0,48.0,INF,be sit stand put say
+Linus Lancaster,Zinnia,0.0,0.0,48.0,INF,be sit stand put say
+Mother,Zinnia,0.0,0.0,30.0,INF,say
+Bennett Marsden,Draper Man,3.0303030303030303,1.5151515151515151,59.09090909090909,2.0,know have be cook have go crumple put
+Cleome,Zinnia,4.166666666666666,0.0,70.83333333333334,INF,put look
+Zinnia,Cleome,0.0,0.0,62.5,INF,be precede be follow
+Cleome,Zinnia,0.0,0.0,62.5,INF,be precede be follow
+Cleome,Zinnia,0.0,0.0,62.5,INF,be precede be follow
+Cleome,Zinnia,0.9615384615384616,0.0,75.96153846153845,INF,know be argue
+Cleome,Zinnia,1.4705882352941175,0.7352941176470588,68.38235294117648,2.0,be
+Cleome,Zinnia,1.4705882352941175,0.7352941176470588,68.38235294117648,2.0,be
+Zinnia,Mother,1.0416666666666665,0.0,48.95833333333333,INF,say
+Cleome,Zinnia,2.5,0.0,57.49999999999999,INF,have move
+Zinnia,Cleome,3.90625,0.0,64.84375,INF,look have go look
+Cleome,Zinnia,3.90625,0.0,64.84375,INF,look have go look
+Zinnia,Cleome,2.5735294117647056,2.941176470588235,56.25,0.875,have depart have leave have see
+Alcofibras,Lucious Wilson,2.604166666666667,3.6458333333333335,47.91666666666667,0.7142857142857143,tell run hug watch
+Zinnia,Cleome,5.88235294117647,2.941176470588235,50.0,2.0,tell take take
+Cleome,Zinnia,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Cleome,Zinnia,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Cleome,Zinnia,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Zinnia,Cleome,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Zinnia,Cleome,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Cleome,Zinnia,1.0204081632653061,1.7857142857142856,56.37755102040817,0.5714285714285714,have have tell have stop take see tell beg give
+Ginestra Lancaster,Lucious Wilson,0.5952380952380952,0.0,49.404761904761905,INF,be get be have send see give
+Ginestra Lancaster,Lucious Wilson,0.5952380952380952,0.0,49.404761904761905,INF,be get be have send see give
+Horace,Ulysses,2.1551724137931036,0.0,49.56896551724138,INF,keep go hear have tell leave
+Horace,Ulysses,0.5681818181818182,0.0,63.06818181818182,INF,get find live do dock
+Horace,Ulysses,4.761904761904762,2.976190476190476,58.92857142857143,1.6,be scare have fret
+Horace,Ulysses,0.7575757575757576,0.0,59.84848484848485,INF,say be come be sweep be strike hear
+Alcofibras,Bennett Marsden,4.952830188679245,3.30188679245283,57.78301886792453,1.5,have have tell lose see have know wrap make think
+Alcofibras,Bennett Marsden,4.952830188679245,3.30188679245283,57.78301886792453,1.5,have have tell lose see have know wrap make think
+Alcofibras,Bennett Marsden,2.4456521739130435,2.989130434782609,64.13043478260869,0.8181818181818182,tell have have be let wander come have try swallow be float catch
+Cleome,Ginestra Lancaster,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,sit wait calm cough say be tell
+Ginestra Lancaster,Alcofibras,1.3888888888888888,6.944444444444445,47.22222222222222,0.2,say remember have tell
+Ginestra Lancaster,Alcofibras,1.3888888888888888,6.944444444444445,47.22222222222222,0.2,say remember have tell
+Alcofibras,Ginestra Lancaster,1.3888888888888888,6.944444444444445,47.22222222222222,0.2,say remember have tell
+Miss Ginny,Ginestra Lancaster,4.166666666666666,1.0416666666666665,53.125,4.0,have be call
+Lucious Wilson,Ginny Lancaster,1.5625,2.734375,61.328125,0.5714285714285714,have give sit
+Ginny Lancaster,Lucious Wilson,1.5625,2.734375,61.328125,0.5714285714285714,have give sit
+Josiah,Eunice Fairbanks,0.0,0.0,16.0,INF,
+Lucious Wilson,Joseph,3.571428571428571,1.7857142857142856,37.5,2.0,be
+Lucious Wilson,Joseph,6.25,1.25,42.5,5.0,be be call
+Joseph,Ginny Lancaster,4.545454545454546,0.0,50.0,INF,call call be call

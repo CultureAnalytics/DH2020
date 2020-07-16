@@ -1,0 +1,899 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Annie,Louis,2.380952380952381,2.976190476190476,51.78571428571429,0.8,think be go notice let go run
+Graham,Atria,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,be headquarter
+Yelena,Graham,3.804347826086957,0.2717391304347826,52.44565217391305,14.0,be use assist include keep seem be
+Graham,Yelena,3.804347826086957,0.2717391304347826,52.44565217391305,14.0,be use assist include keep seem be
+Rusty,Deandra,4.605263157894736,1.9736842105263157,46.05263157894737,2.3333333333333335,be encounter be hire give be
+Rusty,Deandra,4.605263157894736,1.9736842105263157,46.05263157894737,2.3333333333333335,be encounter be hire give be
+Josh,Hallie,3.7037037037037033,4.62962962962963,54.629629629629626,0.8,base be color find resist
+Harvey,Hallie,2.976190476190476,0.0,58.92857142857143,INF,think be override end drive
+Harvey,Hallie,2.976190476190476,0.0,58.92857142857143,INF,think be override end drive
+Hallie,Jane,0.0,1.0,55.00000000000001,0.0,meet be be head
+Hallie,Jane,4.326923076923077,2.8846153846153846,50.480769230769226,1.5,gush listen be sit
+Hallie,Jane,4.326923076923077,2.8846153846153846,50.480769230769226,1.5,gush listen be sit
+Hallie,Jane,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,have leave start head
+Hallie,Jane,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,have leave start head
+Tribune,White Sox,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+Tribune,Cubs,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+Tribune,Gallagher,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+White Sox,Cubs,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+White Sox,Gallagher,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+Cubs,Gallagher,4.166666666666666,2.5,53.333333333333336,1.6666666666666667,be be hint be trail cast
+Gallagher,Tribune,0.8333333333333334,0.4166666666666667,52.083333333333336,2.0,name be say
+Gallagher,Brooks,0.8333333333333334,0.4166666666666667,52.083333333333336,2.0,name be say
+Tribune,Brooks,0.8333333333333334,0.4166666666666667,52.083333333333336,2.0,name be say
+Tribune,Gallagher,0.8333333333333334,0.4166666666666667,52.083333333333336,2.0,name be say
+Brooks,Gallagher,0.8333333333333334,0.4166666666666667,52.083333333333336,2.0,name be say
+Lucitrol,Atria,2.5,1.25,46.25,2.0,be
+Jane,Gallagher,2.857142857142857,1.7857142857142856,29.642857142857142,1.6,let question know tell
+Jane,Gallagher,2.857142857142857,1.7857142857142856,29.642857142857142,1.6,let question know tell
+Jane,Gallagher,2.857142857142857,1.7857142857142856,29.642857142857142,1.6,let question know tell
+Jane,Gallagher,2.857142857142857,1.7857142857142856,29.642857142857142,1.6,let question know tell
+Mike,Richard,4.0625,0.3125,63.125,13.0,have look call go ask know be go
+Mike,Richard,4.0625,0.3125,63.125,13.0,have look call go ask know be go
+Mike,Richard,4.0625,0.3125,63.125,13.0,have look call go ask know be go
+Mike,Richard,4.0625,0.3125,63.125,13.0,have look call go ask know be go
+Yelena,Josh,1.6025641025641024,5.128205128205128,52.243589743589745,0.3125,have complain share have advocate point get fire
+Josh,Yelena,1.6025641025641024,5.128205128205128,52.243589743589745,0.3125,have complain share have advocate point get fire
+Josh,Yelena,1.6025641025641024,5.128205128205128,52.243589743589745,0.3125,have complain share have advocate point get fire
+Josh,Yelena,1.6025641025641024,5.128205128205128,52.243589743589745,0.3125,have complain share have advocate point get fire
+Hallie,Jane,0.0,0.0,52.63157894736842,INF,try do bite have be decide be hold
+Hallie,Jane,0.0,0.0,52.63157894736842,INF,try do bite have be decide be hold
+Jane,Atria,2.850877192982456,2.631578947368421,68.2017543859649,1.0833333333333333,seem have be do have win involve bring have suffer start
+Jane,Lucitrol,2.850877192982456,2.631578947368421,68.2017543859649,1.0833333333333333,seem have be do have win involve bring have suffer start
+Atria,Lucitrol,2.850877192982456,2.631578947368421,68.2017543859649,1.0833333333333333,seem have be do have win involve bring have suffer start
+Lucitrol,Jane,3.2407407407407405,6.944444444444445,49.074074074074076,0.4666666666666667,be
+Jane,Gallagher,0.0,0.0,45.45454545454545,INF,be die
+Jane,Gallagher,0.0,0.0,45.45454545454545,INF,be die
+Jane,Gallagher,3.125,0.0,34.375,INF,be get
+Gallagher,Jane,0.9615384615384616,1.4423076923076923,55.28846153846154,0.6666666666666666,be contact testify be call quit die
+Jane,Gallagher,0.9615384615384616,1.4423076923076923,55.28846153846154,0.6666666666666666,be contact testify be call quit die
+Jane,Gallagher,3.7037037037037033,1.3888888888888888,28.240740740740737,2.6666666666666665,say be be fight be slip
+Gallagher,Jane,2.403846153846154,4.326923076923077,47.11538461538461,0.5555555555555556,help feel be connect miss be remember
+Hallie,Jane,3.9473684210526314,6.578947368421052,36.84210526315789,0.6,be tell think be
+Levin,Danny,0.9375,2.1875,56.875,0.42857142857142855,do write say give do have think be
+Rusty,Levin,0.0,4.807692307692308,56.730769230769226,0.0,ask be hover
+Rusty,Levin,3.205128205128205,1.282051282051282,57.05128205128205,2.5,use take have do
+Rusty,Levin,3.205128205128205,1.282051282051282,57.05128205128205,2.5,use take have do
+Rusty,Levin,3.205128205128205,1.282051282051282,57.05128205128205,2.5,use take have do
+Rusty,Levin,3.205128205128205,1.282051282051282,57.05128205128205,2.5,use take have do
+Rusty,Levin,3.75,1.25,50.0,3.0,ask judge loosen move be
+Danny,Rusty,8.552631578947368,1.9736842105263157,47.368421052631575,4.333333333333333,do worry say clap
+Levin,Danny,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,start ask have screen come
+Levin,Danny,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,start ask have screen come
+Danny,Levin,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,start ask have screen come
+Danny,Levin,0.8928571428571428,2.6785714285714284,46.42857142857143,0.3333333333333333,be say
+Levin,Rusty,3.6057692307692304,2.644230769230769,45.67307692307692,1.3636363636363635,have take recover question have fail add have let go tell worry get straighten
+Levin,Rusty,3.6057692307692304,2.644230769230769,45.67307692307692,1.3636363636363635,have take recover question have fail add have let go tell worry get straighten
+Josh,Melissa,2.941176470588235,1.8382352941176472,65.80882352941177,1.6,need do think find set
+Hallie,Jesus,0.0,0.0,54.54545454545454,INF,be
+Jesus,Mark Halliday,0.5434782608695652,3.804347826086957,65.21739130434783,0.14285714285714285,keep
+Jackie,Hallie,0.0,0.0,40.909090909090914,INF,be tell be go
+Hallie,Louis,8.928571428571429,7.142857142857142,55.35714285714286,1.25,know
+Hallie,Louis,6.666666666666667,1.6666666666666667,51.66666666666667,4.0,think keep
+Bjorn,Hallie,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Bjorn,Hallie,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Bjorn,Hallie,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Bjorn,Hallie,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Hallie,Bjorn,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Hallie,Bjorn,2.857142857142857,0.35714285714285715,56.785714285714285,8.0,do meet offer know mean
+Boris,Jane,0.0,0.0,55.55555555555556,INF,find go
+Boris,Yelena,0.0,1.5625,67.1875,0.0,be run
+Yelena,Boris,3.935185185185185,0.9259259259259258,59.95370370370371,4.25,linger be cheat manage do mind mean have need
+Yelena,Boris,3.935185185185185,0.9259259259259258,59.95370370370371,4.25,linger be cheat manage do mind mean have need
+Boris,Yelena,3.935185185185185,0.9259259259259258,59.95370370370371,4.25,linger be cheat manage do mind mean have need
+Jane,Hallie,0.3676470588235294,1.8382352941176472,53.67647058823529,0.2,be go try get be get say
+Hallie,Cudahay,3.1914893617021276,4.787234042553192,51.59574468085106,0.6666666666666666,accord do be have
+Hallie,Cudahay,3.1914893617021276,4.787234042553192,51.59574468085106,0.6666666666666666,accord do be have
+Hallie,Jane,5.128205128205128,1.6025641025641024,54.807692307692314,3.2,try pick have arouse accuse be
+Hallie,Jane,5.128205128205128,1.6025641025641024,54.807692307692314,3.2,try pick have arouse accuse be
+Klutsky,Sun-Times,4.807692307692308,0.0,56.730769230769226,INF,be cover
+Brooks,Tribune,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Brooks,Gallagher,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Brooks,Gallagher,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Brooks,Jane,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Tribune,Gallagher,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Tribune,Gallagher,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Tribune,Jane,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Gallagher,Jane,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Gallagher,Jane,3.353658536585366,3.9634146341463414,56.09756097560976,0.8461538461538461,turn be have be drink die have do
+Klutsky,Brooks,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Klutsky,Hallie,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Klutsky,Hallie,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Klutsky,Bjorn,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Brooks,Hallie,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Brooks,Hallie,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Brooks,Bjorn,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Hallie,Bjorn,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Hallie,Bjorn,4.435483870967742,2.0161290322580645,51.61290322580645,2.2,be ask show bring introduce
+Bjorn,Melissa,1.6666666666666667,0.0,38.333333333333336,INF,drawl sound
+Frost,Urquhart,0.0,2.604166666666667,55.729166666666664,0.0,lead call live
+Frost,Gallagher,0.0,2.604166666666667,55.729166666666664,0.0,lead call live
+Urquhart,Gallagher,0.0,2.604166666666667,55.729166666666664,0.0,lead call live
+Urquhart,Gallagher,1.0869565217391304,0.0,61.95652173913043,INF,affirm be have die have crash attempt land
+Urquhart,Gallagher,1.0869565217391304,0.0,61.95652173913043,INF,affirm be have die have crash attempt land
+Urquhart,Gallagher,2.232142857142857,0.8928571428571428,57.58928571428571,2.5,be be have be take
+Urquhart,Gallagher,2.232142857142857,0.8928571428571428,57.58928571428571,2.5,be be have be take
+Gallagher,Urquhart,0.0,0.0,52.63157894736842,INF,pass pay foot own scatter
+Gallagher,Urquhart,0.0,0.0,52.63157894736842,INF,pass pay foot own scatter
+Cudahay,Urquhart,2.192857142857143,4.057142857142858,58.03571428571429,0.5404929577464788,be say sound paste
+Cudahay,Urquhart,2.192857142857143,4.057142857142858,58.03571428571429,0.5404929577464788,be say sound paste
+Cudahay,Frost,0.0,5.0,55.00000000000001,0.0,demand
+Cudahay,Frost,4.605263157894736,3.289473684210526,50.0,1.4,have glare be mean
+Frost,Gallagher,3.25,2.75,52.0,1.1818181818181819,read swear recount have administer decease have be refer complain
+Frost,Climpson,3.25,2.75,52.0,1.1818181818181819,read swear recount have administer decease have be refer complain
+Frost,Gallagher,3.25,2.75,52.0,1.1818181818181819,read swear recount have administer decease have be refer complain
+Gallagher,Climpson,3.25,2.75,52.0,1.1818181818181819,read swear recount have administer decease have be refer complain
+Climpson,Gallagher,3.25,2.75,52.0,1.1818181818181819,read swear recount have administer decease have be refer complain
+Climpson,Gallagher,1.5625,3.125,42.1875,0.5,have keep say have share
+Frost,Lubbock,0.9615384615384616,0.0,68.26923076923077,INF,be
+Frost,Hallie,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Frost,Hallie,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Hallie,Frost,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Hallie,Frost,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Hallie,Frost,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Hallie,Frost,1.25,2.9166666666666665,57.49999999999999,0.42857142857142855,be proceed fill lead try elicit be have surmise earn let
+Lubbock,Gallagher,2.6785714285714284,2.232142857142857,55.80357142857143,1.2,end have die bring
+Lubbock,Gallagher,2.6785714285714284,2.232142857142857,55.80357142857143,1.2,end have die bring
+Lubbock,Lucitrol,2.6785714285714284,2.232142857142857,55.80357142857143,1.2,end have die bring
+Gallagher,Lucitrol,2.6785714285714284,2.232142857142857,55.80357142857143,1.2,end have die bring
+Gallagher,Lucitrol,2.6785714285714284,2.232142857142857,55.80357142857143,1.2,end have die bring
+Lubbock,Mr. Gallagher,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,understand be perform
+Lubbock,Mr. Gallagher,1.7857142857142856,2.976190476190476,61.904761904761905,0.6,understand be perform
+Hallie,Lubbock,4.5,4.5,43.0,1.0,have inflict do challenge be
+Hallie,Lucitrol,4.5,4.5,43.0,1.0,have inflict do challenge be
+Hallie,Gallagher,4.5,4.5,43.0,1.0,have inflict do challenge be
+Lubbock,Lucitrol,4.5,4.5,43.0,1.0,have inflict do challenge be
+Lubbock,Gallagher,4.5,4.5,43.0,1.0,have inflict do challenge be
+Lucitrol,Gallagher,4.5,4.5,43.0,1.0,have inflict do challenge be
+Hallie,Jane,0.5434782608695652,1.0869565217391304,59.2391304347826,0.5,write pass add pass
+Frost,Georgetti,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Frost,Jane,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Frost,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Frost,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Georgetti,Jane,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Georgetti,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Georgetti,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Jane,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Jane,Gallagher,1.4285714285714286,0.7142857142857143,55.00000000000001,2.0,be attest overhear argue die
+Jane,Gallagher,1.0416666666666665,2.604166666666667,52.604166666666664,0.4,have watch stand dump stroll request
+Gallagher,Jane,1.0416666666666665,2.604166666666667,52.604166666666664,0.4,have watch stand dump stroll request
+Jane,Hallie,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Hallie,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Jane,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Jane,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Hallie,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Gallagher,Jane,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Jane,Gallagher,3.9603960396039604,2.846534653465347,47.648514851485146,1.391304347826087,have interview do explain ask do know elicit have be have leave be bus have be drink have join
+Frost,Mrs. Van Wagner,1.5625,0.5208333333333333,56.25,3.0,proceed read retire have take walk observe enter
+Frost,Gallagher,1.5625,0.5208333333333333,56.25,3.0,proceed read retire have take walk observe enter
+Mrs. Van Wagner,Gallagher,1.5625,0.5208333333333333,56.25,3.0,proceed read retire have take walk observe enter
+Mrs. Van Wagner,Gallagher,2.0348837209302326,2.616279069767442,62.7906976744186,0.7777777777777778,be constipate steal have require complete give observe
+Gallagher,Mrs. Van Wagner,2.2222222222222223,0.2777777777777778,57.49999999999999,8.0,volunteer have be ask participate have pick be show
+Gallagher,Jane,2.2222222222222223,0.2777777777777778,57.49999999999999,8.0,volunteer have be ask participate have pick be show
+Gallagher,Jane,2.2222222222222223,0.2777777777777778,57.49999999999999,8.0,volunteer have be ask participate have pick be show
+Mrs. Van Wagner,Jane,2.2222222222222223,0.2777777777777778,57.49999999999999,8.0,volunteer have be ask participate have pick be show
+Mrs. Van Wagner,Jane,2.2222222222222223,0.2777777777777778,57.49999999999999,8.0,volunteer have be ask participate have pick be show
+Frost,Mrs. Van Wagner,0.0,2.5735294117647056,53.30882352941176,0.0,accord be appear babysit
+Frost,Mrs. Van Wagner,0.0,2.5735294117647056,53.30882352941176,0.0,accord be appear babysit
+Yanowski,Jane,0.0,0.0,38.63636363636363,INF,hear take
+Yanowski,Lucitrol,0.0,0.0,38.63636363636363,INF,hear take
+Yanowski,Gallagher,0.0,0.0,38.63636363636363,INF,hear take
+Jane,Lucitrol,0.0,0.0,38.63636363636363,INF,hear take
+Jane,Gallagher,0.0,0.0,38.63636363636363,INF,hear take
+Lucitrol,Gallagher,0.0,0.0,38.63636363636363,INF,hear take
+Yanowski,Hallie,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,violate hope get be glean
+Yanowski,Hallie,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,violate hope get be glean
+Yanowski,Gallagher,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,violate hope get be glean
+Hallie,Gallagher,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,violate hope get be glean
+Hallie,Gallagher,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,violate hope get be glean
+Hallie,Cudahay,2.1739130434782608,0.0,45.65217391304348,INF,ask be stricken instruct
+Hallie,Yanowski,3.6764705882352944,0.0,37.5,INF,ask explain
+Hallie,Yanowski,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be predicate give
+Yanowski,Hallie,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be predicate give
+Yanowski,Atria,2.7777777777777777,0.3472222222222222,49.65277777777778,8.0,be accord account
+Yanowski,Lucitrol,2.7777777777777777,0.3472222222222222,49.65277777777778,8.0,be accord account
+Atria,Lucitrol,2.7777777777777777,0.3472222222222222,49.65277777777778,8.0,be accord account
+Hallie,Gallagher,5.978260869565218,3.260869565217391,42.934782608695656,1.8333333333333333,do need point have be feed
+Yanowski,Gallagher,5.555555555555555,8.333333333333332,41.66666666666667,0.6666666666666666,be force admit
+Hallie,Yanowski,5.769230769230769,3.8461538461538463,44.230769230769226,1.5,announce have be excuse
+Hallie,Yanowski,5.769230769230769,3.8461538461538463,44.230769230769226,1.5,announce have be excuse
+Frost,Sparks,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Frost,Gallagher,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Frost,Hallie,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Sparks,Gallagher,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Sparks,Hallie,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Gallagher,Hallie,3.5000000000000004,3.0,49.5,1.1666666666666667,be save have be spark tell walk wear
+Hallie,Sparks,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Hallie,Sparks,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Hallie,Charlie,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Hallie,Bulls,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Sparks,Charlie,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Sparks,Bulls,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Sparks,Charlie,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Sparks,Bulls,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Charlie,Bulls,2.3333333333333335,0.6666666666666667,53.0,3.5,do need know work spark have strut toss
+Hallie,Sparks,2.34375,0.0,72.65625,INF,figure be go warm spark circulate
+Sparks,Gallagher,8.928571428571429,0.8928571428571428,47.32142857142857,10.0,have be
+Gallagher,Sparks,0.9375,2.1875,56.875,0.42857142857142855,begin have come spark drop
+Gallagher,Sparks,0.9375,2.1875,56.875,0.42857142857142855,begin have come spark drop
+Sparks,Gallagher,0.9375,2.1875,56.875,0.42857142857142855,begin have come spark drop
+Sparks,Gallagher,0.9375,2.1875,56.875,0.42857142857142855,begin have come spark drop
+Gallagher,Sparks,0.5813953488372093,1.1627906976744187,75.0,0.5,wine dine spark woo
+Gallagher,Sparks,0.5813953488372093,1.1627906976744187,75.0,0.5,wine dine spark woo
+Gallagher,Marco,0.5813953488372093,1.1627906976744187,75.0,0.5,wine dine spark woo
+Sparks,Marco,0.5813953488372093,1.1627906976744187,75.0,0.5,wine dine spark woo
+Sparks,Marco,0.5813953488372093,1.1627906976744187,75.0,0.5,wine dine spark woo
+Sparks,Gallagher,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Sparks,Jane,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Sparks,Gallagher,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Sparks,Jane,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Gallagher,Jane,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Gallagher,Jane,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Jane,Gallagher,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Gallagher,Jane,3.4090909090909087,3.787878787878788,53.40909090909091,0.9,spark be miff do break explain have be
+Gallagher,Sparks,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Sparks,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Sparks,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Gallagher,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Gallagher,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Gallagher,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Gallagher,Jane,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,have proceed give spark buy point spark feel demand be give march
+Sparks,Gallagher,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,accord spark be occur be take
+Gallagher,Sparks,1.1363636363636365,0.5681818181818182,39.20454545454545,2.0,accord spark be occur be take
+Gallagher,Hallie,0.0,0.0,46.15384615384615,INF,be confide
+Cudahay,Sparks,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,cough spark remember be
+Cudahay,Sparks,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,cough spark remember be
+Gallagher,Sparks,2.857142857142857,0.35714285714285715,53.92857142857142,8.0,be say reach pat say think be get deserve
+Sparks,Jane,1.5625,0.0,60.9375,INF,guess be point
+Cudahay,Frost,0.0,0.0,50.0,INF,sustain defeat cede
+Cudahay,Hallie,0.0,0.0,50.0,INF,sustain defeat cede
+Frost,Hallie,0.0,0.0,50.0,INF,sustain defeat cede
+Sparks,Mr. Gallagher,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,spark testify be
+Sparks,Hallie,2.083333333333333,3.125,36.45833333333333,0.6666666666666666,spark sniffle resume
+Sparks,Hallie,5.5,0.0,54.50000000000001,INF,spark have shake have remind speak get
+Sparks,Hallie,5.5,0.0,54.50000000000001,INF,spark have shake have remind speak get
+Sparks,Hallie,5.5,0.0,54.50000000000001,INF,spark have shake have remind speak get
+Jane,Hallie,3.8135593220338984,2.11864406779661,55.08474576271186,1.8,put be do have back secure be cast be be
+Jane,Hallie,3.8135593220338984,2.11864406779661,55.08474576271186,1.8,put be do have back secure be cast be be
+Hallie,Mrs. Van Wagner,1.4705882352941175,3.6764705882352944,65.44117647058823,0.4,have decide
+Hallie,Marco,1.8617021276595744,0.0,47.07446808510639,INF,touch let know be say call brace be come rise take shake
+Cudahay,Hallie,1.3888888888888888,3.125,48.26388888888889,0.4444444444444444,take be offer see say have finish run
+Cudahay,Hallie,3.75,0.0,46.25,INF,tell
+Mrs. Van Wagner,Jane,2.1875,0.9375,49.375,2.3333333333333335,be be say be lie identify see enter decease
+Mrs. Van Wagner,Jane,2.1875,0.9375,49.375,2.3333333333333335,be be say be lie identify see enter decease
+Jane,Mrs. Van Wagner,2.1875,0.9375,49.375,2.3333333333333335,be be say be lie identify see enter decease
+Mrs. Van Wagner,Ms. Barrett,4.398148148148148,0.4629629629629629,54.39814814814815,9.5,be say be be conduct be mistake believe see
+Mrs. Van Wagner,Ms. Barrett,4.398148148148148,0.4629629629629629,54.39814814814815,9.5,be say be be conduct be mistake believe see
+Ms. Barrett,Mrs. Van Wagner,4.398148148148148,0.4629629629629629,54.39814814814815,9.5,be say be be conduct be mistake believe see
+Ms. Barrett,Mrs. Van Wagner,4.398148148148148,0.4629629629629629,54.39814814814815,9.5,be say be be conduct be mistake believe see
+Jane,Gallagher,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Jane,Lucitrol,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Gallagher,Jane,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Gallagher,Lucitrol,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Gallagher,Jane,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Jane,Lucitrol,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Lucitrol,Jane,1.5151515151515151,3.0303030303030303,40.909090909090914,0.5,have have attempt hide show
+Gallagher,Jane,5.637254901960785,2.941176470588235,56.127450980392155,1.9166666666666667,be be obtain be have be poison follow hinge
+Gallagher,Lucitrol,5.637254901960785,2.941176470588235,56.127450980392155,1.9166666666666667,be be obtain be have be poison follow hinge
+Jane,Lucitrol,5.637254901960785,2.941176470588235,56.127450980392155,1.9166666666666667,be be obtain be have be poison follow hinge
+Jane,Gallagher,7.6923076923076925,7.211538461538461,42.78846153846153,1.0666666666666667,know have be do deny
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Jane,Gallagher,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Jane,Gallagher,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Jane,Gallagher,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Gallagher,Jane,2.7439024390243905,3.9634146341463414,42.073170731707314,0.6923076923076923,have tell attest have be argue have assault stomp lick
+Jane,Gallagher,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Jane,Gallagher,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Jane,Sparks,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Jane,Gallagher,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Gallagher,Sparks,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Gallagher,Sparks,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Sparks,Gallagher,1.694915254237288,1.4830508474576272,40.88983050847458,1.1428571428571428,get support have follow break do have refer
+Gallagher,Jane,3.30188679245283,1.650943396226415,59.198113207547166,2.0,be dump have find carry confirm be
+Jane,Gallagher,3.77906976744186,2.616279069767442,54.06976744186046,1.4444444444444444,be come have share have slip be share be distract pay
+Jane,Gallagher,3.77906976744186,2.616279069767442,54.06976744186046,1.4444444444444444,be come have share have slip be share be distract pay
+Frost,Lucitrol,3.90625,2.734375,65.234375,1.4285714285714286,remind have work
+Frost,Jane,3.90625,2.734375,65.234375,1.4285714285714286,remind have work
+Frost,Jane,3.90625,2.734375,65.234375,1.4285714285714286,remind have work
+Lucitrol,Jane,3.90625,2.734375,65.234375,1.4285714285714286,remind have work
+Lucitrol,Jane,3.90625,2.734375,65.234375,1.4285714285714286,remind have work
+Frost,Jane,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,have come use consume be
+Frost,Gallagher,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,have come use consume be
+Jane,Gallagher,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,have come use consume be
+Hallie,Jane,8.870967741935484,4.032258064516129,48.38709677419355,2.2,want think have start wonder be
+Jane,Lucitrol,1.3059701492537312,3.9179104477611943,52.98507462686567,0.3333333333333333,grant seem be believe regard depend have decide have come arm kill
+Jane,Lucitrol,1.3059701492537312,3.9179104477611943,52.98507462686567,0.3333333333333333,grant seem be believe regard depend have decide have come arm kill
+Jane,Lucitrol,1.3059701492537312,3.9179104477611943,52.98507462686567,0.3333333333333333,grant seem be believe regard depend have decide have come arm kill
+Gallagher,Frost,1.875,2.1875,53.43750000000001,0.8571428571428571,view murder have call
+Gallagher,Jane,1.875,2.1875,53.43750000000001,0.8571428571428571,view murder have call
+Gallagher,Jane,1.875,2.1875,53.43750000000001,0.8571428571428571,view murder have call
+Frost,Jane,1.875,2.1875,53.43750000000001,0.8571428571428571,view murder have call
+Frost,Jane,1.875,2.1875,53.43750000000001,0.8571428571428571,view murder have call
+Jane,Lucitrol,4.0625,4.0625,46.875,1.0,have be take have be guarantee be mop crash
+Jane,Gallagher,4.0625,4.0625,46.875,1.0,have be take have be guarantee be mop crash
+Lucitrol,Gallagher,4.0625,4.0625,46.875,1.0,have be take have be guarantee be mop crash
+Lucitrol,Gallagher,2.6595744680851063,2.925531914893617,53.98936170212766,0.9090909090909091,be be fit be include have feed have get dig
+Gallagher,Jane,1.6304347826086956,1.6304347826086956,48.91304347826087,1.0,be need be dispose
+Ms. Barrett,Lucitrol,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,have
+Ms. Barrett,Atria,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,have
+Lucitrol,Ms. Barrett,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,have
+Lucitrol,Atria,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,have
+Ms. Barrett,Atria,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,have
+Mr. Gallagher,Yanowski,2.393617021276596,5.319148936170213,51.86170212765957,0.45,do bother test collect see have be take admit prove supply ingest decease
+Mr. Gallagher,Lucitrol,2.393617021276596,5.319148936170213,51.86170212765957,0.45,do bother test collect see have be take admit prove supply ingest decease
+Mr. Gallagher,Yanowski,2.393617021276596,5.319148936170213,51.86170212765957,0.45,do bother test collect see have be take admit prove supply ingest decease
+Mr. Gallagher,Lucitrol,2.393617021276596,5.319148936170213,51.86170212765957,0.45,do bother test collect see have be take admit prove supply ingest decease
+Yanowski,Lucitrol,2.393617021276596,5.319148936170213,51.86170212765957,0.45,do bother test collect see have be take admit prove supply ingest decease
+Lubbock,Mr. Gallagher,1.7857142857142856,2.579365079365079,55.952380952380956,0.6923076923076923,be say allege take say allege have take occur precede theorize be give
+Lubbock,Mr. Gallagher,1.7857142857142856,2.579365079365079,55.952380952380956,0.6923076923076923,be say allege take say allege have take occur precede theorize be give
+Lubbock,Mr. Gallagher,1.7857142857142856,2.579365079365079,55.952380952380956,0.6923076923076923,be say allege take say allege have take occur precede theorize be give
+Ms. Barrett,Mr. Gallagher,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Barrett,Ms. Sparks,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Barrett,Ms. Sparks,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Barrett,Mr. Gallagher,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Mr. Gallagher,Ms. Sparks,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Mr. Gallagher,Ms. Sparks,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Sparks,Mr. Gallagher,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Sparks,Mr. Gallagher,4.1015625,4.8828125,51.953125,0.84,surmise be erase decease be produce know care spark have be
+Ms. Barrett,Mr. Gallagher,1.9927536231884055,1.9927536231884055,61.23188405797102,1.0,be lead have be represent neglect seek be murder
+Ms. Barrett,Mr. Gallagher,1.9927536231884055,1.9927536231884055,61.23188405797102,1.0,be lead have be represent neglect seek be murder
+Frost,Cudahay,0.6578947368421052,3.9473684210526314,58.55263157894737,0.16666666666666666,get make cut
+Frost,Cudahay,0.6578947368421052,3.9473684210526314,58.55263157894737,0.16666666666666666,get make cut
+Bjorn,Hallie,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Bjorn,Jane,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Bjorn,Frost,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Bjorn,Hallie,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Bjorn,Jane,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Bjorn,Frost,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Hallie,Jane,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Hallie,Frost,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Jane,Frost,2.564102564102564,1.4423076923076923,56.25,1.7777777777777777,come clap say kid put turn hug say have clean be tell come be require commit
+Jane,Hallie,1.5625,7.8125,15.625,0.2,
+Charlie,White Sox,2.1341463414634148,2.4390243902439024,58.84146341463414,0.875,be take take tend share follow
+Annie,Louis,3.2407407407407405,2.7777777777777777,56.94444444444444,1.1666666666666667,be give want build
+Annie,Louis,5.0,5.0,50.0,1.0,have take see restore seem take chat
+Annie,Louis,5.0,5.0,50.0,1.0,have take see restore seem take chat
+Mike,Louis,1.488095238095238,0.2976190476190476,60.11904761904761,5.0,like get eat burp come say end
+Mike,Louis,1.488095238095238,0.2976190476190476,60.11904761904761,5.0,like get eat burp come say end
+Mike,Louis,1.488095238095238,0.2976190476190476,60.11904761904761,5.0,like get eat burp come say end
+Mike,Louis,1.488095238095238,0.2976190476190476,60.11904761904761,5.0,like get eat burp come say end
+Mike,Richard,4.166666666666666,1.0416666666666665,58.68055555555556,4.0,have ask have see call have give come
+Richard,Mike,4.166666666666666,1.0416666666666665,58.68055555555556,4.0,have ask have see call have give come
+Richard,Mike,4.166666666666666,1.0416666666666665,58.68055555555556,4.0,have ask have see call have give come
+Hallie,Jane,3.8793103448275863,0.8620689655172413,53.879310344827594,4.5,call update be
+Bjorn,Hallie,0.78125,0.0,49.21875,INF,be do say pick
+Urquhart,Gallagher,0.0,0.0,44.44444444444444,INF,come be live
+Bjorn,Urquhart,2.34375,3.125,50.78125,0.75,do be
+Bjorn,Urquhart,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,figure be have file
+Hallie,Yelena,1.1363636363636365,2.840909090909091,50.56818181818182,0.4,show bribe make offer
+Yelena,Hallie,1.1363636363636365,2.840909090909091,50.56818181818182,0.4,show bribe make offer
+Tim,Boris,5.0,0.75,56.25,6.666666666666667,make audition have succeed talk wrap drop see
+Boris,Tim,5.0,0.75,56.25,6.666666666666667,make audition have succeed talk wrap drop see
+Tim,Hallie,0.8064516129032258,0.4032258064516129,53.62903225806451,2.0,report have take process
+Tim,Hallie,0.8064516129032258,0.4032258064516129,53.62903225806451,2.0,report have take process
+Hallie,Josh,1.9607843137254901,0.9803921568627451,61.76470588235294,2.0,be wait talk call ask stop pick do make
+Hallie,Josh,1.9607843137254901,0.9803921568627451,61.76470588235294,2.0,be wait talk call ask stop pick do make
+Josh,Hallie,3.2407407407407405,2.314814814814815,57.407407407407405,1.4,leave be throb check be force stop look make photocopy
+Ms. Barrett,Josh,3.125,5.729166666666666,53.645833333333336,0.5454545454545454,be do involve let say
+Hallie,Jane,3.4090909090909087,1.1363636363636365,37.878787878787875,3.0,start be lie say take wonder survive
+Klutsky,Dick,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Klutsky,Sally,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Klutsky,Harry,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Dick,Sally,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Dick,Harry,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Sally,Harry,8.522727272727272,3.977272727272727,55.68181818181818,2.142857142857143,be testify know murder tell
+Klutsky,Harry,3.0303030303030303,3.787878787878788,53.78787878787878,0.8,hear say be be allow be repeat
+Klutsky,Harry,3.0303030303030303,3.787878787878788,53.78787878787878,0.8,hear say be be allow be repeat
+Klutsky,Harry,3.0303030303030303,3.787878787878788,53.78787878787878,0.8,hear say be be allow be repeat
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Sally,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Dick,Sally,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Dick,Klutsky,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Sally,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Sally,Klutsky,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Sally,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Sally,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Sally,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Dick,Klutsky,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Klutsky,Dick,2.616279069767442,2.3255813953488373,60.17441860465116,1.125,testify know murder tell be allow repeat confess do commit
+Hallie,Gallagher,4.6875,6.25,39.0625,0.75,be lie be
+Boris,Dixon,0.7352941176470588,1.8382352941176472,59.19117647058824,0.4,have drop provide stand
+Hallie,Bjorn,4.166666666666666,1.6666666666666667,40.833333333333336,2.5,know want continue
+Bjorn,Bulls,2.734375,0.78125,58.984375,3.5,be give have be
+Jane,Gallagher,5.769230769230769,5.769230769230769,34.61538461538461,1.0,be hide
+Bjorn,Jane,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,tell
+Jane,Gallagher,3.125,8.035714285714286,38.839285714285715,0.3888888888888889,be go tell know deny be
+Jane,Gallagher,3.125,8.035714285714286,38.839285714285715,0.3888888888888889,be go tell know deny be
+Jane,Gallagher,3.125,8.035714285714286,38.839285714285715,0.3888888888888889,be go tell know deny be
+Jane,Gallagher,1.0416666666666665,7.291666666666667,41.66666666666667,0.14285714285714285,be poison
+Hallie,Jane,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,concede be be link happen
+Hallie,Urquhart,4.545454545454546,5.681818181818182,35.22727272727273,0.8,assume tell
+Urquhart,Gallagher,5.0,1.875,63.125,2.6666666666666665,have be prove slip
+Urquhart,Gallagher,5.0,1.875,63.125,2.6666666666666665,have be prove slip
+Hallie,Urquhart,8.522727272727272,1.7045454545454544,44.31818181818182,5.0,understand tell do make
+Urquhart,Gallagher,0.78125,0.78125,60.9375,1.0,stand gain be
+Gallagher,Georgetti,0.0,0.0,60.0,INF,be leave show
+Gallagher,Georgetti,0.0,0.0,60.0,INF,be leave show
+Georgetti,Gallagher,0.0,0.0,60.0,INF,be leave show
+Georgetti,Gallagher,0.0,0.0,60.0,INF,be leave show
+Jesus,Richard,0.0,0.0,50.0,INF,say
+Josh,Yelena,1.7857142857142856,1.7857142857142856,48.80952380952381,1.0,say cover volunteer screen
+Josh,Yelena,1.7857142857142856,1.7857142857142856,48.80952380952381,1.0,say cover volunteer screen
+Klutsky,Gallagher,4.6875,0.625,59.68750000000001,7.5,have be meet sit find learn
+Gallagher,Lincoln,1.8617021276595744,2.393617021276596,51.06382978723404,0.7777777777777778,become offer uncover fabricate syndicate
+Gallagher,Lincoln,1.8617021276595744,2.393617021276596,51.06382978723404,0.7777777777777778,become offer uncover fabricate syndicate
+Jane,Gallagher,2.5,0.5,45.0,5.0,be have have
+Cubs,Sianis,1.4423076923076923,6.730769230769231,41.82692307692308,0.21428571428571427,have refuse cause swear gon win
+Sianis,Cubs,1.4423076923076923,6.730769230769231,41.82692307692308,0.21428571428571427,have refuse cause swear gon win
+Sianis,Cubs,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,have prove be lose have win
+Sam,Gallagher,3.618421052631579,1.644736842105263,55.26315789473685,2.2,have be be die get be have
+EEOC,Gallagher,3.804347826086957,2.717391304347826,63.04347826086957,1.4,get hit paw
+Sam,Gallagher,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,present demand be put do allow
+Sam,Gallagher,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,present demand be put do allow
+Sam,Gallagher,2.0161290322580645,0.0,59.2741935483871,INF,hear offer get laugh
+Sam,Gallagher,2.0161290322580645,0.0,59.2741935483871,INF,hear offer get laugh
+Sam,Gallagher,2.0161290322580645,0.0,59.2741935483871,INF,hear offer get laugh
+Sam,Gallagher,2.0161290322580645,0.0,59.2741935483871,INF,hear offer get laugh
+Klutsky,Kinzie,0.0,1.875,53.125,0.0,come fetch go do mute ring
+Klutsky,Welsh,0.0,1.875,53.125,0.0,come fetch go do mute ring
+Kinzie,Welsh,0.0,1.875,53.125,0.0,come fetch go do mute ring
+Welsh,Klutsky,0.9615384615384616,0.0,52.88461538461539,INF,get introduce
+Welsh,Klutsky,0.9615384615384616,0.0,52.88461538461539,INF,get introduce
+Welsh,Klutsky,0.0,0.0,33.33333333333333,INF,see be mean say
+Welsh,Klutsky,0.5681818181818182,0.0,53.97727272727273,INF,return squeak take
+Welsh,Klutsky,0.5681818181818182,0.0,53.97727272727273,INF,return squeak take
+Klutsky,Welsh,4.166666666666666,0.0,45.83333333333333,INF,laugh
+Klutsky,Gallagher,3.4722222222222223,1.3888888888888888,61.80555555555556,2.5,have tell do extend
+Rusty,Kinzie,0.2717391304347826,0.0,67.11956521739131,INF,be sight find use plot head meet
+Rusty,LaSalle,0.2717391304347826,0.0,67.11956521739131,INF,be sight find use plot head meet
+Kinzie,LaSalle,0.2717391304347826,0.0,67.11956521739131,INF,be sight find use plot head meet
+Hallie,Jane,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Hallie,Jane,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Hallie,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Hallie,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Jane,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Jane,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Jane,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Jane,Rusty,2.34375,0.5208333333333333,40.88541666666667,4.5,be concern be keep say give include
+Jane,Hallie,2.403846153846154,1.9230769230769231,37.980769230769226,1.25,be say be withhold have have do
+Hallie,Jane,2.403846153846154,1.9230769230769231,37.980769230769226,1.25,be say be withhold have have do
+Jane,Gallagher,2.0,1.5,56.49999999999999,1.3333333333333333,quarrel be fight end
+Jane,Gallagher,2.0,1.5,56.49999999999999,1.3333333333333333,quarrel be fight end
+Jane,Gallagher,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,think have overhear argue
+Jane,Gallagher,3.75,8.125,38.125,0.46153846153846156,fit have fear spark
+Jane,Sparks,3.75,8.125,38.125,0.46153846153846156,fit have fear spark
+Gallagher,Sparks,3.75,8.125,38.125,0.46153846153846156,fit have fear spark
+Jane,Gallagher,3.90625,0.0,46.09375,INF,explain have go look
+Jane,Hallie,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,agree have be bide wait see develop tell
+Jane,Hallie,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,agree have be bide wait see develop tell
+Jane,Hallie,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,agree have be bide wait see develop tell
+Jane,Gallagher,5.113636363636364,1.7045454545454544,43.18181818181818,3.0,decide reveal quarrel hand
+Rusty,Jane,5.5,2.5,52.0,2.2,have give leave
+Gallagher,Welsh,2.1739130434782608,0.5434782608695652,64.67391304347827,4.0,be be relate be work follow have await dig exist
+Gallagher,Welsh,2.1739130434782608,0.5434782608695652,64.67391304347827,4.0,be be relate be work follow have await dig exist
+Jane,Gallagher,5.113636363636364,4.545454545454546,49.43181818181818,1.125,discover have be argue be
+Jane,Bjorn,4.25,2.5,53.25,1.7,look represent go knock expect disclose have impart trust
+Marco,Hallie,4.166666666666666,2.604166666666667,51.5625,1.6,figure have explain have happen be attack
+Marco,Jane,1.2254901960784315,0.49019607843137253,55.14705882352941,2.5,go be start proceed tell be throw become
+Marco,Jane,1.2254901960784315,0.49019607843137253,55.14705882352941,2.5,go be start proceed tell be throw become
+Jane,Marco,0.8928571428571428,5.357142857142857,36.607142857142854,0.16666666666666666,be be say say
+Jimmy,Jane,0.8333333333333334,0.0,52.5,INF,start turn tell be keep
+Jimmy,Jane,0.8333333333333334,0.0,52.5,INF,start turn tell be keep
+Jimmy,Jane,0.8333333333333334,0.0,52.5,INF,start turn tell be keep
+Jane,Gallagher,1.25,0.0,18.75,INF,
+Gallagher,Polanski,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,go look name
+Polanski,Gallagher,5.357142857142857,0.5952380952380952,51.19047619047619,9.0,be use be try shut
+Gallagher,Urquhart,1.6666666666666667,3.75,47.91666666666667,0.4444444444444444,be pin use lead
+Gallagher,Urquhart,1.6666666666666667,3.75,47.91666666666667,0.4444444444444444,be pin use lead
+Urquhart,Jane,0.0,2.8846153846153846,27.884615384615387,0.0,be say frame
+Urquhart,Lucitrol,6.25,3.4090909090909087,40.340909090909086,1.8333333333333333,depend know
+Lucitrol,Urquhart,6.25,3.4090909090909087,40.340909090909086,1.8333333333333333,depend know
+Jane,Atria,2.5,0.35714285714285715,60.0,7.0,be watch have see advertise
+Urquhart,Jane,2.314814814814815,0.0,45.83333333333333,INF,be do know be
+Urquhart,Gallagher,2.314814814814815,0.0,45.83333333333333,INF,be do know be
+Jane,Gallagher,2.314814814814815,0.0,45.83333333333333,INF,be do know be
+Sparks,Gallagher,0.0,0.0,38.46153846153847,INF,be spark spark
+Sparks,Gallagher,0.0,0.0,38.46153846153847,INF,be spark spark
+Urquhart,Jane,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Urquhart,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Urquhart,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Urquhart,Jane,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Urquhart,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Urquhart,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Jane,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Jane,Gallagher,2.857142857142857,3.9285714285714284,47.5,0.7272727272727273,do begin explain begin quarrel die
+Gallagher,Jane,3.0,2.0,43.0,1.5,be have do have wipe
+Jane,Gallagher,3.0,2.0,43.0,1.5,be have do have wipe
+Bjorn,Urquhart,2.380952380952381,0.0,40.476190476190474,INF,be have have be end
+Jane,Urquhart,2.5,4.285714285714286,53.214285714285715,0.5833333333333334,have finger be lie wait attract stalk set
+Urquhart,Bjorn,4.3478260869565215,2.1739130434782608,54.347826086956516,2.0,be be involve
+Bjorn,Urquhart,3.225806451612903,0.0,58.06451612903226,INF,tell spend hunch brood be
+Bjorn,Urquhart,3.225806451612903,0.0,58.06451612903226,INF,tell spend hunch brood be
+Bjorn,Urquhart,3.225806451612903,0.0,58.06451612903226,INF,tell spend hunch brood be
+Urquhart,Bjorn,0.0,5.0,35.0,0.0,demand
+Urquhart,Bjorn,4.166666666666666,0.0,29.166666666666668,INF,say mean
+Ms. Sparks,Gallagher,0.0,0.0,44.44444444444444,INF,testify make do eat
+Ms. Sparks,Gallagher,0.0,0.0,44.44444444444444,INF,testify make do eat
+Ms. Sparks,Gallagher,2.7439024390243905,3.048780487804878,57.62195121951219,0.9,be poison be go believe act go die
+Ms. Sparks,Gallagher,2.7439024390243905,3.048780487804878,57.62195121951219,0.9,be poison be go believe act go die
+Gallagher,Ms. Sparks,2.7439024390243905,3.048780487804878,57.62195121951219,0.9,be poison be go believe act go die
+Ms. Sparks,Gallagher,2.7439024390243905,3.048780487804878,57.62195121951219,0.9,be poison be go believe act go die
+Urquhart,Sparks,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,turn face be have believe spark
+Gallagher,Jane,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Gallagher,Jane,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Gallagher,Jane,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Jane,Gallagher,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Jane,Gallagher,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Gallagher,Jane,4.605263157894736,4.605263157894736,43.42105263157895,1.0,understand want have twirl
+Jane,Sparks,1.7241379310344827,1.7241379310344827,55.172413793103445,1.0,think kill get have go
+Sparks,Gallagher,0.0,0.0,44.44444444444444,INF,be
+Urquhart,Gallagher,0.9615384615384616,0.0,56.730769230769226,INF,accord have arrive seal
+Urquhart,Gallagher,0.9615384615384616,0.0,56.730769230769226,INF,accord have arrive seal
+Urquhart,Polanski,3.804347826086957,3.532608695652174,49.184782608695656,1.0769230769230769,contact have determine show have be be misinterpret suggest have
+Urquhart,Polanski,3.804347826086957,3.532608695652174,49.184782608695656,1.0769230769230769,contact have determine show have be be misinterpret suggest have
+Polanski,Urquhart,3.804347826086957,3.532608695652174,49.184782608695656,1.0769230769230769,contact have determine show have be be misinterpret suggest have
+Polanski,Urquhart,3.804347826086957,3.532608695652174,49.184782608695656,1.0769230769230769,contact have determine show have be be misinterpret suggest have
+Polanski,Urquhart,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Polanski,Sparks,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Polanski,Gallagher,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Polanski,Urquhart,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Polanski,Sparks,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Polanski,Gallagher,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Urquhart,Sparks,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Urquhart,Gallagher,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Urquhart,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Urquhart,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Sparks,Gallagher,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Sparks,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Sparks,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Gallagher,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Gallagher,Polanski,2.403846153846154,0.2403846153846154,53.125,10.0,have put think come keep have spark be pass
+Jane,Sparks,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Jane,Sparks,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Jane,Gallagher,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Jane,Urquhart,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Sparks,Gallagher,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Sparks,Urquhart,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Sparks,Gallagher,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Sparks,Urquhart,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Gallagher,Urquhart,4.444444444444445,3.6111111111111107,45.27777777777778,1.2307692307692308,pin do look spark have beg tell
+Urquhart,Sparks,5.357142857142857,1.1904761904761905,45.83333333333333,4.5,do think be tell spark be die
+Urquhart,Gallagher,5.357142857142857,1.1904761904761905,45.83333333333333,4.5,do think be tell spark be die
+Sparks,Urquhart,5.357142857142857,1.1904761904761905,45.83333333333333,4.5,do think be tell spark be die
+Sparks,Gallagher,5.357142857142857,1.1904761904761905,45.83333333333333,4.5,do think be tell spark be die
+Urquhart,Gallagher,5.357142857142857,1.1904761904761905,45.83333333333333,4.5,do think be tell spark be die
+Sparks,Gallagher,4.861111111111112,0.6944444444444444,44.44444444444444,7.0,bet be testify
+Gallagher,Sparks,4.861111111111112,0.6944444444444444,44.44444444444444,7.0,bet be testify
+Gallagher,Sparks,4.807692307692308,3.8461538461538463,37.5,1.25,think know
+Sparks,Gallagher,4.807692307692308,3.8461538461538463,37.5,1.25,think know
+Gallagher,Sparks,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,think be get deserve sound know be
+Gallagher,Sparks,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,think be get deserve sound know be
+Sparks,Gallagher,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,think be get deserve sound know be
+Sparks,Gallagher,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,think be get deserve sound know be
+Gallagher,Sparks,5.769230769230769,0.0,40.38461538461539,INF,wonder be plan
+Jane,Gallagher,2.734375,0.0,50.390625,INF,have push get exhume be look have hide
+Gallagher,Jane,2.734375,0.0,50.390625,INF,have push get exhume be look have hide
+Bjorn,Gallagher,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Bjorn,Georgetti,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Bjorn,Georgetti,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Bjorn,Gallagher,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Bjorn,Jane,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Gallagher,Georgetti,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Gallagher,Georgetti,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Gallagher,Jane,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Georgetti,Gallagher,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Georgetti,Jane,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Georgetti,Gallagher,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Georgetti,Jane,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Gallagher,Jane,0.5859375,1.3671875,51.171875,0.42857142857142855,drop attack renew leave see coax concern have know
+Hallie,Mike,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,arrive fret
+Gallagher,Sun-Times,3.90625,0.390625,48.828125,10.0,guess have be pay congratulate have think consider do
+Gallagher,Klutsky,3.90625,0.390625,48.828125,10.0,guess have be pay congratulate have think consider do
+Sun-Times,Klutsky,3.90625,0.390625,48.828125,10.0,guess have be pay congratulate have think consider do
+Gallagher,Sam,1.8229166666666667,0.78125,51.5625,2.3333333333333335,be serve sound
+Gallagher,Mark Halliday,1.8229166666666667,0.78125,51.5625,2.3333333333333335,be serve sound
+Gallagher,Sam,1.8229166666666667,0.78125,51.5625,2.3333333333333335,be serve sound
+Gallagher,Mark Halliday,1.8229166666666667,0.78125,51.5625,2.3333333333333335,be serve sound
+Sam,Mark Halliday,1.8229166666666667,0.78125,51.5625,2.3333333333333335,be serve sound
+Gallagher,Sun-Times,0.0,1.1363636363636365,35.22727272727273,0.0,be
+Bjorn,Yelena,1.6025641025641024,0.3205128205128205,57.05128205128205,5.0,be be shrink look say follow have show
+Yelena,Bjorn,1.6025641025641024,0.3205128205128205,57.05128205128205,5.0,be be shrink look say follow have show
+Bjorn,Louis,0.0,0.0,63.1578947368421,INF,ask walk pick frame keep
+Jane,Gallagher,2.925531914893617,1.0638297872340425,53.45744680851063,2.75,hang have hit have witness have overhear repeat
+Jane,Georgetti,2.925531914893617,1.0638297872340425,53.45744680851063,2.75,hang have hit have witness have overhear repeat
+Gallagher,Georgetti,2.925531914893617,1.0638297872340425,53.45744680851063,2.75,hang have hit have witness have overhear repeat
+Gallagher,Jane,2.925531914893617,1.0638297872340425,53.45744680851063,2.75,hang have hit have witness have overhear repeat
+Georgetti,Jane,2.925531914893617,1.0638297872340425,53.45744680851063,2.75,hang have hit have witness have overhear repeat
+Rusty,Jane,4.838709677419355,1.2096774193548387,45.564516129032256,4.0,remember have speculate quarrel have be argue have latch
+Rusty,Gallagher,4.838709677419355,1.2096774193548387,45.564516129032256,4.0,remember have speculate quarrel have be argue have latch
+Rusty,Gallagher,4.838709677419355,1.2096774193548387,45.564516129032256,4.0,remember have speculate quarrel have be argue have latch
+Jane,Gallagher,4.838709677419355,1.2096774193548387,45.564516129032256,4.0,remember have speculate quarrel have be argue have latch
+Jane,Gallagher,4.838709677419355,1.2096774193548387,45.564516129032256,4.0,remember have speculate quarrel have be argue have latch
+Mr. Murphy,Gallagher,2.430555555555556,1.0416666666666665,60.416666666666664,2.3333333333333335,wrest confirm have be talk be involve
+Mr. Murphy,Atria,2.430555555555556,1.0416666666666665,60.416666666666664,2.3333333333333335,wrest confirm have be talk be involve
+Mr. Murphy,Atria,2.430555555555556,1.0416666666666665,60.416666666666664,2.3333333333333335,wrest confirm have be talk be involve
+Gallagher,Atria,2.430555555555556,1.0416666666666665,60.416666666666664,2.3333333333333335,wrest confirm have be talk be involve
+Gallagher,Atria,2.430555555555556,1.0416666666666665,60.416666666666664,2.3333333333333335,wrest confirm have be talk be involve
+Alison,Graham,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Alison,Josh,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Alison,Graham,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Alison,Graham,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Alison,Josh,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Alison,Graham,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Graham,Josh,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Josh,Graham,2.1551724137931036,1.7241379310344827,65.08620689655173,1.25,be pass be give
+Dr. Angelotti,Graham,0.0,0.0,64.28571428571429,INF,sing be get seat
+Lincoln,Jonathan,2.380952380952381,0.0,45.23809523809524,INF,give say
+Lincoln,Jonathan,2.380952380952381,0.0,45.23809523809524,INF,give say
+Jonathan,Helen Keller,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,say speak do tell
+Josh,Jonathan,3.804347826086957,5.434782608695652,47.28260869565217,0.7,be piss beat say have sulk
+Atria,Graham,0.9868421052631579,0.3289473684210526,59.210526315789465,3.0,resume turn hope have mention be schedule begin
+Alison,Atria,0.8333333333333334,0.0,65.83333333333333,INF,be allow meet reduce
+Alison,Josh,0.0,3.75,46.25,0.0,say
+Alison,Graham,0.0,3.75,46.25,0.0,say
+Josh,Graham,0.0,3.75,46.25,0.0,say
+Alison,Josh,2.083333333333333,9.375,55.208333333333336,0.2222222222222222,feel stare
+Graham,Josh,0.7075471698113208,1.4150943396226416,48.82075471698113,0.5,need tell want leave sign have clear be
+Graham,Alison,0.7075471698113208,1.4150943396226416,48.82075471698113,0.5,need tell want leave sign have clear be
+Josh,Alison,0.7075471698113208,1.4150943396226416,48.82075471698113,0.5,need tell want leave sign have clear be
+Josh,Rusty,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Josh,Jane,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Josh,Gallagher,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Josh,Atria,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Rusty,Jane,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Rusty,Gallagher,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Rusty,Atria,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Jane,Gallagher,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Jane,Atria,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Gallagher,Atria,1.2755102040816326,1.2755102040816326,50.51020408163265,1.0,fill include have hang
+Alison,Graham,5.0,4.166666666666666,37.5,1.2,put
+Boris,Louis,0.0,1.25,48.75,0.0,make pick miss skype depart
+Louis,Boris,0.0,1.25,48.75,0.0,make pick miss skype depart
+Nick,Atria,2.564102564102564,1.282051282051282,62.82051282051282,2.0,leave ring block explain be stick have misplace
+Atria,Mark Halliday,1.5,0.75,57.75,2.0,reveal whereupon hire watch have be summon fetch
+Mark Halliday,Atria,1.5,0.75,57.75,2.0,reveal whereupon hire watch have be summon fetch
+Graham,Lucitrol,2.302631578947368,1.9736842105263157,45.723684210526315,1.1666666666666667,be devote figure
+Bjorn,Gallagher,0.0,6.61764705882353,28.676470588235293,0.0,confront
+Bjorn,Jane,0.0,0.0,58.333333333333336,INF,let decide lift
+Bjorn,Jane,0.0,0.0,58.333333333333336,INF,let decide lift
+Bjorn,Jane,0.0,0.0,58.333333333333336,INF,let decide lift
+Richard,Mike,3.532608695652174,0.8152173913043478,54.347826086956516,4.333333333333333,spend get clean make make get see have make
+Annie,Louis,1.9230769230769231,3.8461538461538463,55.769230769230774,0.5,be call tell be
+Roger,Annie,0.78125,2.34375,34.375,0.3333333333333333,despise exceed
+Annie,Roger,4.166666666666666,2.083333333333333,43.75,2.0,have conceal enable
+Roger,Annie,0.4166666666666667,6.666666666666667,46.25,0.0625,be imagine enter gloat
+Roger,Annie,0.4166666666666667,6.666666666666667,46.25,0.0625,be imagine enter gloat
+Hallie,Lucitrol,4.054054054054054,1.3513513513513513,51.35135135135135,3.0,give cross-examine show expect be be use treat
+Jane,Bjorn,4.044117647058823,2.2058823529411766,58.45588235294118,1.8333333333333333,have instruct be roll be greet
+Jane,Bjorn,4.044117647058823,2.2058823529411766,58.45588235294118,1.8333333333333333,have instruct be roll be greet
+Jane,Bjorn,4.044117647058823,2.2058823529411766,58.45588235294118,1.8333333333333333,have instruct be roll be greet
+Jane,Bjorn,4.044117647058823,2.2058823529411766,58.45588235294118,1.8333333333333333,have instruct be roll be greet
+Gallagher,Sun-Times,0.7142857142857143,2.142857142857143,51.42857142857142,0.3333333333333333,know be stay be have
+Sun-Times,Gallagher,0.7142857142857143,2.142857142857143,51.42857142857142,0.3333333333333333,know be stay be have
+Sun-Times,Gallagher,0.7142857142857143,2.142857142857143,51.42857142857142,0.3333333333333333,know be stay be have
+Mrs. Van Wagner,Gallagher,1.3513513513513513,2.027027027027027,53.37837837837838,0.6666666666666666,be be see be let choose slip
+Atria,Gallagher,5.208333333333334,4.166666666666666,48.95833333333333,1.25,be connect find murder keep break
+Atria,Gallagher,5.208333333333334,4.166666666666666,48.95833333333333,1.25,be connect find murder keep break
+Gallagher,Atria,0.0,4.761904761904762,52.38095238095239,0.0,know suspect be kill keep
+Atria,Gallagher,1.953125,2.34375,45.703125,0.8333333333333334,have ask spill give be get kill
+Atria,Lucitrol,1.5625,0.78125,28.90625,2.0,be market
+Jane,Gallagher,0.0,0.8333333333333334,45.83333333333333,0.0,insist make tell
+Jane,Gallagher,0.0,0.8333333333333334,45.83333333333333,0.0,insist make tell
+Jane,Gallagher,0.0,0.8333333333333334,45.83333333333333,0.0,insist make tell
+Gallagher,Sun-Times,1.6025641025641024,0.3205128205128205,51.92307692307693,5.0,come let have read be know be splash
+Atria,Lucitrol,1.0714285714285714,1.4285714285714286,63.21428571428571,0.75,be defend come suggest be do say market
+Gallagher,Georgetti,1.25,0.625,23.125,2.0,be show be
+Gallagher,Georgetti,1.25,0.625,23.125,2.0,be show be
+Gallagher,Atria,4.5,5.0,42.5,0.9,believe be find be get kill be
+Gallagher,Atria,4.5,5.0,42.5,0.9,believe be find be get kill be
+Atria,Gallagher,4.464285714285714,4.017857142857143,48.660714285714285,1.1111111111111112,have be speculate be kill be
+Art Institute,Hallie,3.8461538461538463,0.0,65.38461538461539,INF,be have clamber remember
+Tim,Bjorn,3.169014084507042,1.584507042253521,62.852112676056336,2.0,be call have be keep get run have be substitute perform suspect dope make
+Tim,Josh,3.169014084507042,1.584507042253521,62.852112676056336,2.0,be call have be keep get run have be substitute perform suspect dope make
+Bjorn,Josh,3.169014084507042,1.584507042253521,62.852112676056336,2.0,be call have be keep get run have be substitute perform suspect dope make
+Bjorn,Marco,4.941860465116279,0.872093023255814,52.32558139534884,5.666666666666667,come confirm add put be help
+Bjorn,Rusty,4.941860465116279,0.872093023255814,52.32558139534884,5.666666666666667,come confirm add put be help
+Marco,Rusty,4.941860465116279,0.872093023255814,52.32558139534884,5.666666666666667,come confirm add put be help
+Gerry,Lola,3.571428571428571,0.8928571428571428,52.67857142857143,4.0,guide put
+Hallie,Gerry,3.289473684210526,0.0,33.55263157894737,INF,be gon be know say
+Lola,Hallie,0.0,0.78125,55.46875,0.0,tell sic try get
+Josh,Bjorn,3.3783783783783785,1.3513513513513513,43.91891891891892,2.5,be gather have treat
+Gallagher,Jesus,1.0869565217391304,1.0869565217391304,58.69565217391305,1.0,be need be hover hang
+Tim,Melissa,2.82258064516129,2.4193548387096775,52.82258064516129,1.1666666666666667,let tell be take have get kick
+Tim,Gallagher,0.0,2.34375,35.15625,0.0,do get be
+Jane,Hallie,0.35714285714285715,1.7857142857142856,57.85714285714286,0.2,be base tell obtain have go
+Tim,Hallie,0.0,0.0,46.15384615384615,INF,be be try frame
+Hallie,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Hallie,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Jane,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Mrs. Van Wagner,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Gallagher,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Mrs. Van Wagner,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Atria,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Atria,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Atria,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Atria,Jane,1.2658227848101267,2.2151898734177213,45.88607594936709,0.5714285714285714,go be withhold see be chagrin cast be try shield
+Gallagher,Atria,7.142857142857142,8.482142857142858,55.80357142857143,0.8421052631578947,be be go be kill
+Atria,Gallagher,7.142857142857142,8.482142857142858,55.80357142857143,0.8421052631578947,be be go be kill
+Gallagher,Jane,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Gallagher,Jane,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Jane,Gallagher,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Jane,Gallagher,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Jane,Gallagher,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Gallagher,Jane,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Gallagher,Jane,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Gallagher,Jane,2.941176470588235,0.7352941176470588,46.32352941176471,4.0,have help pass know resist tip
+Jane,Graham,5.0675675675675675,4.054054054054054,55.74324324324324,1.25,react make make find be plan publish supply
+Jane,Gallagher,5.0675675675675675,4.054054054054054,55.74324324324324,1.25,react make make find be plan publish supply
+Jane,Graham,5.0675675675675675,4.054054054054054,55.74324324324324,1.25,react make make find be plan publish supply
+Jane,Gallagher,5.0675675675675675,4.054054054054054,55.74324324324324,1.25,react make make find be plan publish supply
+Graham,Gallagher,5.0675675675675675,4.054054054054054,55.74324324324324,1.25,react make make find be plan publish supply
+Gallagher,Lucitrol,3.6764705882352944,0.7352941176470588,30.88235294117647,5.0,meet be feed
+Gallagher,Lucitrol,3.6764705882352944,0.7352941176470588,30.88235294117647,5.0,meet be feed
+Gallagher,Lucitrol,3.6764705882352944,0.7352941176470588,30.88235294117647,5.0,meet be feed
+Gallagher,Lucitrol,3.6764705882352944,0.7352941176470588,30.88235294117647,5.0,meet be feed
+Gallagher,Georgetti,1.7241379310344827,4.741379310344827,45.258620689655174,0.36363636363636365,be see have leave
+Gallagher,Georgetti,1.7241379310344827,4.741379310344827,45.258620689655174,0.36363636363636365,be see have leave
+Graham,Bjorn,3.125,0.8928571428571428,56.69642857142857,3.5,arm have go have be spot get
+Graham,Gallagher,3.125,0.8928571428571428,56.69642857142857,3.5,arm have go have be spot get
+Bjorn,Gallagher,3.125,0.8928571428571428,56.69642857142857,3.5,arm have go have be spot get
+Graham,Lucitrol,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Graham,Gallagher,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Graham,Jane,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Graham,Atria,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Lucitrol,Gallagher,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Lucitrol,Jane,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Lucitrol,Atria,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Gallagher,Jane,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Gallagher,Atria,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Jane,Atria,2.5,0.8333333333333334,50.0,3.0,go use suspect be
+Gallagher,Jane,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Gallagher,Jane,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Gallagher,Jane,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Gallagher,Jane,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Jane,Gallagher,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Jane,Gallagher,1.7857142857142856,0.8928571428571428,63.988095238095234,2.0,surmise have be know wangle be
+Graham,Gallagher,0.0,0.8333333333333334,55.833333333333336,0.0,be count do happen tip be exhume
+Gallagher,Jane,3.977272727272727,2.840909090909091,56.81818181818182,1.4,doubt plan have make look
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Tesma,Hallie,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Hallie,Tesma,1.6129032258064515,2.4193548387096775,47.58064516129033,0.6666666666666666,tell feel forget be testify
+Marco,Jimmy,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Marco,Jimmy,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Marco,Tesma,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Marco,Jane,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Jimmy,Tesma,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Jimmy,Jane,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Jimmy,Tesma,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Jimmy,Jane,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Tesma,Jane,1.5625,0.26041666666666663,54.427083333333336,6.0,report supply have drop forget take be act
+Bjorn,Tesma,0.0,0.0,41.66666666666667,INF,do tell testify
+Bjorn,Tesma,0.0,0.0,41.66666666666667,INF,do tell testify
+Levin,Tesma,4.545454545454546,2.272727272727273,56.81818181818182,2.0,seem learn provide trigger have say be interview
+Levin,Rusty,4.545454545454546,2.272727272727273,56.81818181818182,2.0,seem learn provide trigger have say be interview
+Levin,Rusty,4.545454545454546,2.272727272727273,56.81818181818182,2.0,seem learn provide trigger have say be interview
+Tesma,Rusty,4.545454545454546,2.272727272727273,56.81818181818182,2.0,seem learn provide trigger have say be interview
+Tesma,Rusty,4.545454545454546,2.272727272727273,56.81818181818182,2.0,seem learn provide trigger have say be interview
+Levin,Danny,0.0,0.9615384615384616,37.5,0.0,prescribe be
+Levin,Atria,0.0,0.9615384615384616,37.5,0.0,prescribe be
+Danny,Atria,0.0,0.9615384615384616,37.5,0.0,prescribe be
+Danny,Levin,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,stop pay keep give
+Danny,Levin,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,stop pay keep give
+Danny,Levin,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,stop pay keep give
+Graham,Levin,5.5,3.5000000000000004,43.0,1.5714285714285714,know be leave be appear be
+Graham,Levin,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,be experiment wait see happen hope pan get sue
+Graham,Levin,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,be experiment wait see happen hope pan get sue
+Levin,Graham,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,be experiment wait see happen hope pan get sue
+Levin,Graham,2.857142857142857,1.0714285714285714,50.357142857142854,2.6666666666666665,be experiment wait see happen hope pan get sue
+Marco,Graham,2.4193548387096775,0.4032258064516129,55.24193548387096,6.0,be know get arrest be be
+Dr. Angelotti,Bjorn,3.0,0.5,44.5,6.0,poke stay
+Jesus,Gerry,2.717391304347826,0.0,53.80434782608695,INF,be down come announce phone
+Jesus,Gerry,2.717391304347826,0.0,53.80434782608695,INF,be down come announce phone
+Jane,Gallagher,0.0,3.9473684210526314,32.89473684210527,0.0,be say take pass
+Gallagher,Lucitrol,0.0,0.0,16.666666666666664,INF,
+Gallagher,Jane,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Gallagher,Jane,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Gallagher,Jane,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Gallagher,Jane,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Jane,Gallagher,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Jane,Gallagher,1.650943396226415,2.1226415094339623,62.264150943396224,0.7777777777777778,brag put see be know have come fly
+Jane,Hallie,4.081632653061225,2.806122448979592,52.295918367346935,1.4545454545454546,repeat be follow have be worry burst
+Jane,Hallie,4.081632653061225,2.806122448979592,52.295918367346935,1.4545454545454546,repeat be follow have be worry burst
+Yelena,Jane,2.644230769230769,0.7211538461538461,54.32692307692307,3.6666666666666665,leave revert have neglect pass become resolve come knock permit
+Yelena,Jane,2.644230769230769,0.7211538461538461,54.32692307692307,3.6666666666666665,leave revert have neglect pass become resolve come knock permit
+Yelena,Jane,2.644230769230769,0.7211538461538461,54.32692307692307,3.6666666666666665,leave revert have neglect pass become resolve come knock permit
+Yelena,Jane,2.644230769230769,0.7211538461538461,54.32692307692307,3.6666666666666665,leave revert have neglect pass become resolve come knock permit
+Jane,Gregory,2.272727272727273,0.3787878787878788,57.95454545454546,6.0,have find phone make discover be disconnect
+Bjorn,Hallie,0.0,0.0,20.0,INF,say
+Graham,Tesma,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,be be mean attack
+Jane,Tesma,2.083333333333333,2.083333333333333,40.27777777777778,1.0,have lead try kill
+Jane,Tesma,2.083333333333333,2.083333333333333,40.27777777777778,1.0,have lead try kill
+Graham,Hallie,3.4722222222222223,1.3888888888888888,52.54629629629629,2.5,follow have work go be have be camp have
+Graham,Yelena,3.125,0.0,53.125,INF,think have admit be
+Boris,Dr. Goldman,0.0,0.0,52.17391304347826,INF,be drive say be pick
+Dr. Goldman,Boris,0.0,0.0,52.17391304347826,INF,be drive say be pick
+Hallie,Tesma,14.583333333333334,5.208333333333334,38.54166666666667,2.8,be be
+Urquhart,Gallagher,2.083333333333333,1.5625,33.85416666666667,1.3333333333333333,have make try
+Urquhart,Gallagher,2.083333333333333,1.5625,33.85416666666667,1.3333333333333333,have make try
+Hallie,Marco,0.0,1.9230769230769231,40.38461538461539,0.0,be have agree say tell
+Hallie,Marco,0.0,1.9230769230769231,40.38461538461539,0.0,be have agree say tell
+Graham,Jane,0.0,3.3333333333333335,36.666666666666664,0.0,include tell be
+Graham,Gallagher,0.0,3.3333333333333335,36.666666666666664,0.0,include tell be
+Jane,Gallagher,0.0,3.3333333333333335,36.666666666666664,0.0,include tell be
+Jane,Gallagher,4.054054054054054,1.6891891891891893,53.71621621621622,2.4,be drop be give help come
+Jane,Polanski,4.054054054054054,1.6891891891891893,53.71621621621622,2.4,be drop be give help come
+Jane,Polanski,4.054054054054054,1.6891891891891893,53.71621621621622,2.4,be drop be give help come
+Gallagher,Polanski,4.054054054054054,1.6891891891891893,53.71621621621622,2.4,be drop be give help come
+Gallagher,Polanski,4.054054054054054,1.6891891891891893,53.71621621621622,2.4,be drop be give help come
+Mike,Richard,0.0,3.289473684210526,44.07894736842105,0.0,tell say nudge

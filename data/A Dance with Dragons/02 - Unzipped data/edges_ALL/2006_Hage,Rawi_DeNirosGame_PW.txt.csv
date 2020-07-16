@@ -1,0 +1,362 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Chafiq Al-Azrak,Nabila,1.7045454545454544,0.5681818181818182,43.18181818181818,3.0,think be
+George,Chafiq Al-Azrak,1.7857142857142856,0.8928571428571428,33.035714285714285,2.0,arrive say be
+George,Chafiq Al-Azrak,0.0,0.0,57.14285714285714,INF,pay be park
+George,Chafiq Al-Azrak,0.0,0.0,57.14285714285714,INF,pay be park
+Chafiq Al-Azrak,George,0.0,2.314814814814815,38.425925925925924,0.0,come apologize offer share say play
+Nabila,George,1.0416666666666665,0.0,65.625,INF,pass look
+Nabila,Roma,0.9615384615384616,0.0,45.19230769230769,INF,be think
+Tony,Virgin Mary,0.0,0.0,43.75,INF,be
+Tony,Virgin Mary,0.0,0.0,50.0,INF,pick repeat
+Tony,Virgin Mary,0.0,0.0,50.0,INF,pick repeat
+George,Chahine,0.7352941176470588,0.0,63.970588235294116,INF,be meet
+George,Abou-Nahra,0.0,0.0,40.0,INF,work
+Saad,Miriam,1.9736842105263157,0.6578947368421052,44.73684210526316,3.0,be
+Miriam,Saad,1.9736842105263157,0.6578947368421052,44.73684210526316,3.0,be
+Miriam,Saad,1.9736842105263157,0.6578947368421052,44.73684210526316,3.0,be
+George,Saad,0.0,0.0,44.44444444444444,INF,laugh flirt
+George,Nabila,0.0,0.625,54.37499999999999,0.0,leave lie run knock
+Nabila,Virgin Mary,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Nabila,Virgin Mary,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Nabila,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Nabila,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Virgin Mary,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Virgin Mary,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Virgin Mary,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Virgin Mary,George,2.734375,2.734375,41.40625,1.0,run touch fill caress kiss
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Nabila,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+George,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+George,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+George,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+George,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+George,Virgin Mary,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Virgin Mary,George,0.0,3.3333333333333335,40.0,0.0,clean take give cover
+Khalil,George,2.631578947368421,5.921052631578947,54.60526315789473,0.4444444444444444,see
+George,De Niro,0.0,0.0,55.55555555555556,INF,nickname say
+George,De Niro,0.0,0.0,57.14285714285714,INF,know
+George,Abou-Nahra,3.75,1.25,45.0,3.0,be work
+George,Abou-Nahra,3.75,1.25,45.0,3.0,be work
+De Niro,George,6.578947368421052,1.9736842105263157,44.07894736842105,3.3333333333333335,tell know be talk
+De Niro,Abou-Nahra,2.5,0.625,46.875,4.0,come be free
+Salma,Rana,0.0,0.0,50.0,INF,kiss move
+Salma,Rana,0.0,0.8928571428571428,49.107142857142854,0.0,blush hold smile
+Bassam,George,0.0,4.807692307692308,49.03846153846153,0.0,ask join say
+Johnny Walker,George,4.166666666666666,1.0416666666666665,61.458333333333336,4.0,be say
+Danny,Nahla,1.3157894736842104,0.0,46.05263157894737,INF,call be ride
+Nahla,Danny,1.3157894736842104,0.0,46.05263157894737,INF,call be ride
+Danny,Rana,1.4705882352941175,0.0,57.35294117647059,INF,smile dart fly
+Rana,George,3.8461538461538463,0.0,57.692307692307686,INF,hold pull
+George,Nabila,1.3888888888888888,0.0,48.61111111111111,INF,have meet be court
+George,Abou-Nahra,1.3888888888888888,0.0,48.61111111111111,INF,have meet be court
+George,Nabila,1.3888888888888888,0.0,48.61111111111111,INF,have meet be court
+George,Abou-Nahra,1.3888888888888888,0.0,48.61111111111111,INF,have meet be court
+Nabila,Abou-Nahra,1.3888888888888888,0.0,48.61111111111111,INF,have meet be court
+Nabila,Abou-Nahra,0.8333333333333334,0.0,52.5,INF,ask give do
+Nabila,Abou-Nahra,0.0,2.083333333333333,56.25,0.0,leave be
+Nabila,George,0.0,2.083333333333333,56.25,0.0,leave be
+Abou-Nahra,George,0.0,2.083333333333333,56.25,0.0,leave be
+George,Khalil,0.5681818181818182,3.977272727272727,50.0,0.14285714285714285,send ask want go
+George,Khalil,0.5681818181818182,3.977272727272727,50.0,0.14285714285714285,send ask want go
+Abou-Nahra,Bassam,1.8382352941176472,0.0,48.161764705882355,INF,try push say smash be lie
+Abou-Nahra,Bassam,1.8382352941176472,0.0,48.161764705882355,INF,try push say smash be lie
+George,Khalil,1.1363636363636365,0.0,53.40909090909091,INF,
+George,Khalil,0.0,0.0,57.14285714285714,INF,kiss introduce
+Abou-Haddid,George,1.4705882352941175,0.0,63.23529411764706,INF,say know call work
+George,Khalil,4.166666666666666,0.0,51.388888888888886,INF,sit
+Joseph,Kamil,0.9259259259259258,0.4629629629629629,46.75925925925926,2.0,arrive recognize have go
+Joseph,Virgin Mary,1.25,0.625,68.125,2.0,have be hold
+Joseph,Kamil,1.25,0.625,68.125,2.0,have be hold
+Virgin Mary,Kamil,1.25,0.625,68.125,2.0,have be hold
+Joseph,Hassan,0.0,0.0,45.45454545454545,INF,shout
+Joseph,Kamil,0.0,0.0,50.0,INF,ask
+Joseph,Hassan,1.25,3.125,60.62499999999999,0.4,point shoot
+Joseph,Hassan,1.25,3.125,60.62499999999999,0.4,point shoot
+George,Khalil,5.681818181818182,1.1363636363636365,56.81818181818182,5.0,have be laugh
+Khalil,George,0.0,0.0,53.84615384615385,INF,put walk
+Khalil,George,0.0,0.0,53.84615384615385,INF,put walk
+Joseph,Kamil,0.8928571428571428,0.0,56.25,INF,be see rush take shoot
+Joseph,Kamil,0.8928571428571428,0.0,56.25,INF,be see rush take shoot
+George,Khalil,0.0,0.0,50.0,INF,come see
+George,Khalil,1.5625,0.0,54.6875,INF,ask want
+George,Khalil,1.5625,0.0,54.6875,INF,ask want
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.75,3.125,48.125,1.2,trick say have know
+Khalil,Abou-Nahra,3.4090909090909087,1.1363636363636365,50.0,3.0,offer talk
+George,Nabila,4.861111111111112,1.3888888888888888,43.75,3.5,ask
+George,Nabila,4.861111111111112,1.3888888888888888,43.75,3.5,ask
+Nabila,George,4.861111111111112,1.3888888888888888,43.75,3.5,ask
+Nabila,George,4.861111111111112,1.3888888888888888,43.75,3.5,ask
+Mr. Samir,Nabila,4.0625,3.125,50.31250000000001,1.3,school record have teach lift walk
+Mr. Samir,Nabila,4.0625,3.125,50.31250000000001,1.3,school record have teach lift walk
+Mr. Samir,Nabila,4.0625,3.125,50.31250000000001,1.3,school record have teach lift walk
+Nabila,Abou-Nahra,2.7777777777777777,0.0,41.66666666666667,INF,pick call
+Khalil,George,1.0416666666666665,0.0,57.291666666666664,INF,show say
+Khalil,Abou-Haddid,0.0,0.0,77.77777777777779,INF,make wait phone
+Khalil,Abou-Haddid,0.0,0.0,77.77777777777779,INF,make wait phone
+Joseph,George,1.0416666666666665,0.0,57.291666666666664,INF,shake go look
+Joseph,Khalil,1.0416666666666665,0.0,57.291666666666664,INF,shake go look
+George,Khalil,1.0416666666666665,0.0,57.291666666666664,INF,shake go look
+Hassan,Joseph,0.0,0.0,40.0,INF,shout
+Hassan,Joseph,0.0,0.5434782608695652,55.97826086956522,0.0,aim curse give
+Joseph,Hassan,0.0,0.5434782608695652,55.97826086956522,0.0,aim curse give
+Joseph,Hassan,1.6666666666666667,0.0,45.0,INF,stand call promise turn
+Hassan,Joseph,1.6666666666666667,0.0,45.0,INF,stand call promise turn
+Khalil,George,0.0,0.0,57.89473684210527,INF,be fling drip
+George,Khalil,0.0,0.0,57.89473684210527,INF,be fling drip
+Abou-Haddid,George,2.5,1.25,41.25,2.0,run lift lay
+Abou-Haddid,Khalil,2.5,1.25,41.25,2.0,run lift lay
+George,Khalil,2.5,1.25,41.25,2.0,run lift lay
+George,Khalil,0.0,0.0,50.0,INF,climb
+Abou-Haddid,Khalil,1.5625,5.46875,42.96875,0.2857142857142857,arrive lift rush
+George,Khalil,1.8518518518518516,0.9259259259259258,60.18518518518518,2.0,say be sit be
+Abou-Nahra,Khalil,2.5,0.0,50.83333333333333,INF,see get
+Issam,Rana,0.0,2.272727272727273,43.18181818181818,0.0,scratch look
+Salah,Virgin Mary,1.3888888888888888,3.4722222222222223,72.91666666666666,0.4,answer be see hover
+Rana,George,1.9230769230769231,0.9615384615384616,58.65384615384615,2.0,be
+George,Rana,1.9230769230769231,0.9615384615384616,58.65384615384615,2.0,be
+Rana,Virgin Mary,2.631578947368421,1.3157894736842104,69.73684210526315,2.0,be dip
+Virgin Mary,Roma,3.571428571428571,2.6785714285714284,58.03571428571429,1.3333333333333333,cover listen dream
+Rana,Abou-Nahra,1.1904761904761905,2.976190476190476,52.976190476190474,0.4,lay take say call
+Rana,Abou-Nahra,1.1904761904761905,2.976190476190476,52.976190476190474,0.4,lay take say call
+Rana,Abou-Nahra,1.1904761904761905,2.976190476190476,52.976190476190474,0.4,lay take say call
+George,Bassam,2.7777777777777777,2.7777777777777777,61.111111111111114,1.0,be surround
+Abou-Nahra,Khalil,5.0,2.5,32.5,2.0,do think
+Rana,Faten,0.0,0.0,62.5,INF,hold kiss
+Faten,Bassam,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,be look watch push say
+Faten,Bassam,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,be look watch push say
+Faten,Bassam,3.4722222222222223,0.6944444444444444,45.83333333333333,5.0,be look watch push say
+Faten,Rana,7.000000000000001,0.5,60.5,14.0,be breathe force freeze grip push
+Dolly,Elias,0.4166666666666667,0.4166666666666667,52.5,1.0,be knit be wear gaze
+Abou-Nahra,George,2.7027027027027026,1.3513513513513513,55.4054054054054,2.0,be have storm kill pull be have gain
+Abou-Nahra,George,2.7027027027027026,1.3513513513513513,55.4054054054054,2.0,be have storm kill pull be have gain
+Abou-Nahra,George,2.7027027027027026,1.3513513513513513,55.4054054054054,2.0,be have storm kill pull be have gain
+Nabila,George,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,break enter
+George,Nabila,0.0,0.0,50.0,INF,strike hiss
+Nabila,George,0.0,0.0,50.0,INF,strike hiss
+George,Najib,0.0,0.0,50.0,INF,tell say
+George,Abou-Nahra,0.0,0.0,57.14285714285714,INF,see
+Abou-Nahra,George,1.9736842105263157,0.0,45.39473684210527,INF,have tell be look
+Abou-Nahra,George,1.9736842105263157,0.0,45.39473684210527,INF,have tell be look
+Abou-Nahra,Kamil,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Abou-Nahra,Joseph,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Abou-Nahra,Abou-Haddid,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Abou-Nahra,Khalil,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Kamil,Joseph,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Kamil,Abou-Haddid,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Kamil,Khalil,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Joseph,Abou-Haddid,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Joseph,Khalil,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+Abou-Haddid,Khalil,0.33783783783783783,0.0,56.41891891891891,INF,be surround recognize wave ask work
+George,Abou-Nahra,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,tell have be
+Abou-Nahra,George,1.9230769230769231,0.0,51.92307692307693,INF,say have know
+Abou-Nahra,Naeem,1.9230769230769231,0.0,51.92307692307693,INF,say have know
+George,Naeem,1.9230769230769231,0.0,51.92307692307693,INF,say have know
+Bassam,Beebo,3.787878787878788,3.4090909090909087,41.28787878787879,1.1111111111111112,know drive put
+Bassam,Beebo,3.787878787878788,3.4090909090909087,41.28787878787879,1.1111111111111112,know drive put
+Bassam,Beebo,3.787878787878788,3.4090909090909087,41.28787878787879,1.1111111111111112,know drive put
+Bassam,Beebo,3.787878787878788,3.4090909090909087,41.28787878787879,1.1111111111111112,know drive put
+Beebo,Bassam,3.787878787878788,3.4090909090909087,41.28787878787879,1.1111111111111112,know drive put
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+Bassam,Beebo,2.8846153846153846,1.6826923076923077,39.66346153846153,1.7142857142857142,bite let go be scream push
+George,Abou-Haddid,0.0,0.0,33.33333333333333,INF,laugh
+George,Abou-Haddid,0.0,0.0,45.45454545454545,INF,listen say
+George,Bassam,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+George,Abou-Haddid,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+George,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+George,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Bassam,Abou-Haddid,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Bassam,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Bassam,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Abou-Haddid,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Abou-Haddid,Nicole,1.5625,2.734375,51.953125,0.5714285714285714,look say lose tell give
+Nicole,George,2.5,0.0,57.49999999999999,INF,come kiss
+Nicole,George,4.166666666666666,0.0,35.833333333333336,INF,turn kiss call
+Nicole,George,4.166666666666666,0.0,35.833333333333336,INF,turn kiss call
+George,Nicole,5.0,0.0,35.0,INF,call
+Bien,Monsieur Laurent,0.0,0.0,28.57142857142857,INF,say be
+Bien,George,0.0,0.0,14.285714285714285,INF,
+Nicole,Monsieur Laurent,0.0,0.0,28.57142857142857,INF,hand
+George,Nicole,2.631578947368421,1.3157894736842104,17.105263157894736,2.0,clap sing
+George,Nicole,2.631578947368421,1.3157894736842104,17.105263157894736,2.0,clap sing
+George,Nicole,0.5,0.5,51.0,1.0,come run get hold clean
+George,Nicole,0.5,0.5,51.0,1.0,come run get hold clean
+George,Nicole,0.5,0.5,51.0,1.0,come run get hold clean
+George,Nicole,1.0869565217391304,0.0,46.73913043478261,INF,walk thank say like call
+George,Najib,1.5,0.5,62.0,3.0,walk say listen seem be grow
+Rana,Bassam,1.0775862068965518,0.646551724137931,58.620689655172406,1.6666666666666667,hang tell tell say reach come ask let stop prowl
+Rana,Bassam,1.0775862068965518,0.646551724137931,58.620689655172406,1.6666666666666667,hang tell tell say reach come ask let stop prowl
+Rana,George,0.0,4.6875,57.8125,0.0,burn say see
+George,Bassam,3.6111111111111107,1.6666666666666667,65.83333333333333,2.1666666666666665,drive be play drive be be be break be break
+George,Bassam,3.6111111111111107,1.6666666666666667,65.83333333333333,2.1666666666666665,drive be play drive be be be break be break
+George,Bassam,3.6111111111111107,1.6666666666666667,65.83333333333333,2.1666666666666665,drive be play drive be be be break be break
+George,Bassam,3.6111111111111107,1.6666666666666667,65.83333333333333,2.1666666666666665,drive be play drive be be be break be break
+Nicole,Monsieur Laurent,5.208333333333334,3.125,41.66666666666667,1.6666666666666667,be talk
+Chai,Joseph,0.0,0.0,40.0,INF,shout
+George,Abou-Haddid,0.0,0.0,54.54545454545454,INF,show
+Abou-Haddid,George,0.0,0.0,54.54545454545454,INF,show
+George,Bassam,0.0,2.083333333333333,31.25,0.0,
+Joseph,Johnny Walker,1.3157894736842104,0.0,61.8421052631579,INF,have fill
+Ali,Joseph,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,encounter stand
+Elnasek,Bassam,2.0,0.5,53.5,4.0,be position be hit
+Zaghlloul,Elnasek,0.0,0.0,41.66666666666667,INF,cover rush pull
+Elias,Zaghlloul,2.2058823529411766,0.0,68.38235294117648,INF,go die
+Elias,Zaghlloul,2.2058823529411766,0.0,68.38235294117648,INF,go die
+Abou-Tariq,Al-Rayess,2.6785714285714284,3.125,51.33928571428571,0.8571428571428571,be have fight pride know
+Chahine,Abou-Tariq,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+Chahine,Abou-Tariq,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+Chahine,Abou-Tariq,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+Abou-Tariq,Chahine,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+Abou-Tariq,Chahine,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+Abou-Tariq,Chahine,2.2222222222222223,0.0,51.11111111111111,INF,crank have aim grab push start tell release
+De Niro,Joseph,0.0,4.464285714285714,59.82142857142857,0.0,come see say
+De Niro,Abou-Nahra,7.03125,1.5625,47.65625,4.5,be
+Naeem,Bassam,0.5434782608695652,3.260869565217391,48.369565217391305,0.16666666666666666,be learn
+George,Monsieur Laurent,1.875,2.5,65.625,0.75,come visit act tell
+Monsieur Laurent,George,4.807692307692308,4.807692307692308,51.92307692307693,1.0,say be
+George,Bassam,4.545454545454546,2.272727272727273,47.72727272727273,2.0,be plead
+George,Monsieur Laurent,4.545454545454546,2.272727272727273,47.72727272727273,2.0,be plead
+Bassam,Monsieur Laurent,4.545454545454546,2.272727272727273,47.72727272727273,2.0,be plead
+George,Monsieur Laurent,1.25,0.0,48.75,INF,do check
+Nicole,Monsieur Laurent,2.272727272727273,0.5681818181818182,33.52272727272727,4.0,say caress
+Nicole,Monsieur Laurent,2.272727272727273,0.5681818181818182,33.52272727272727,4.0,say caress
+Nicole,Monsieur Laurent,5.555555555555555,0.0,38.88888888888889,INF,hold kiss
+Nicole,Monsieur Laurent,5.555555555555555,0.0,38.88888888888889,INF,hold kiss
+Najib,George,1.3157894736842104,3.289473684210526,58.55263157894737,0.4,have kill have stab
+Abou-Nahra,Monsieur Laurent,1.2096774193548387,1.6129032258064515,52.016129032258064,0.75,lean tell be kill
+Nahla,Julia,3.977272727272727,1.1363636363636365,53.97727272727273,3.5,forget say be look
+Nabila,Julia,3.571428571428571,0.0,46.42857142857143,INF,open enter
+Joseph,Bassam,3.125,3.125,54.861111111111114,1.0,climb call say ask know do kill
+Rambo,Muslim,0.0,0.0,66.66666666666666,INF,confiscate run
+George,Jallil Al-Tahouneh,3.125,1.5625,32.8125,2.0,be say
+Joseph,Najib,0.5952380952380952,0.0,51.78571428571429,INF,trace wait come
+Joseph,Najib,2.631578947368421,1.3157894736842104,48.68421052631579,2.0,pass pretend cough hit
+Najib,Joseph,2.631578947368421,1.3157894736842104,48.68421052631579,2.0,pass pretend cough hit
+Najib,Joseph,2.631578947368421,1.3157894736842104,48.68421052631579,2.0,pass pretend cough hit
+Najib,Joseph,3.6764705882352944,0.0,55.14705882352941,INF,make stuff
+Najib,Joseph,3.6764705882352944,0.0,55.14705882352941,INF,make stuff
+Najib,Joseph,3.6764705882352944,0.0,55.14705882352941,INF,make stuff
+De Niro,Bassam,3.3653846153846154,0.0,46.63461538461539,INF,remember play
+Bassam,De Niro,3.3653846153846154,0.0,46.63461538461539,INF,remember play
+Bassam,De Niro,3.3653846153846154,0.0,46.63461538461539,INF,remember play
+De Niro,George,0.0,0.0,66.66666666666666,INF,be say
+Bassam,George,0.0,8.333333333333332,36.11111111111111,0.0,kill reply
+Rana,De Niro,1.6025641025641024,1.6025641025641024,55.769230769230774,1.0,take say point emit veil shine
+Rana,De Niro,1.6025641025641024,1.6025641025641024,55.769230769230774,1.0,take say point emit veil shine
+Rana,De Niro,1.6025641025641024,1.6025641025641024,55.769230769230774,1.0,take say point emit veil shine
+Rana,De Niro,1.6025641025641024,1.6025641025641024,55.769230769230774,1.0,take say point emit veil shine
+Moustafa,Mamadou,1.0416666666666665,0.0,48.95833333333333,INF,leave run bring laugh
+George,Claude,3.75,0.0,46.25,INF,ask get
+Claude,Nabila,1.9230769230769231,6.730769230769231,52.88461538461539,0.2857142857142857,be give
+Nabila,Genevieve,0.0,0.0,50.0,INF,promise come meet
+Nabila,George,0.0,0.0,50.0,INF,promise come meet
+Genevieve,George,0.0,0.0,50.0,INF,promise come meet
+Nabila,George,4.166666666666666,2.083333333333333,43.75,2.0,be
+Bassam,Genevieve,2.8846153846153846,1.9230769230769231,56.730769230769226,1.5,be tease
+Nabila,George,0.0,0.0,46.666666666666664,INF,promise come
+Nabila,Monsieur Mani,2.6785714285714284,0.0,61.60714285714286,INF,want send say
+Nabila,George,2.6785714285714284,0.0,61.60714285714286,INF,want send say
+Monsieur Mani,George,2.6785714285714284,0.0,61.60714285714286,INF,want send say
+Nabila,George,1.5625,1.5625,59.375,1.0,be want come say
+Genevieve,Maurice,4.0,1.0,35.0,4.0,say ask do help
+Genevieve,George,4.0,1.0,35.0,4.0,say ask do help
+Genevieve,Maurice,4.0,1.0,35.0,4.0,say ask do help
+Genevieve,George,4.0,1.0,35.0,4.0,say ask do help
+Maurice,George,4.0,1.0,35.0,4.0,say ask do help
+Genevieve,Rhea,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Genevieve,Maurice,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Rhea,Genevieve,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Rhea,Maurice,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Rhea,Genevieve,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Genevieve,Maurice,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Maurice,Genevieve,0.3787878787878788,0.0,51.13636363636363,INF,turn ask follow be leave spend
+Rhea,George,2.0,3.5000000000000004,50.5,0.5714285714285714,tell have work decide join need
+Rhea,George,2.0,3.5000000000000004,50.5,0.5714285714285714,tell have work decide join need
+Rhea,George,2.0,3.5000000000000004,50.5,0.5714285714285714,tell have work decide join need
+George,Rhea,3.0,1.7500000000000002,65.25,1.7142857142857142,skip see be change plant paint make dance fall
+Machrouky,Rhea,0.0,0.0,42.857142857142854,INF,repeat
+Nabila,Rhea,3.5000000000000004,1.25,51.24999999999999,2.8,be think wonder have get have cover close desert be fill be rest
+Rhea,George,1.9736842105263157,0.6578947368421052,50.0,3.0,spare be think
+Rhea,Mr. Mani,2.272727272727273,0.0,65.9090909090909,INF,see think be
+Mr. Mani,George,1.6666666666666667,4.166666666666666,60.83333333333333,0.4,do look
+Mr. Mani,George,1.6666666666666667,4.166666666666666,60.83333333333333,0.4,do look
+George,Jamal,3.75,0.0,46.25,INF,have look
+George,Jamal,3.75,0.0,46.25,INF,have look
+George,Jamal,1.0416666666666665,0.0,57.291666666666664,INF,have
+George,Jamal,1.0416666666666665,0.0,57.291666666666664,INF,have
+Genevieve,Rhea,0.33783783783783783,1.6891891891891893,57.432432432432435,0.2,look crawl
+Genevieve,Rhea,0.33783783783783783,1.6891891891891893,57.432432432432435,0.2,look crawl
+Rhea,George,7.608695652173914,1.0869565217391304,56.52173913043478,7.0,tell have go want know
+George,Rhea,7.608695652173914,1.0869565217391304,56.52173913043478,7.0,tell have go want know
+Rhea,George,2.5,1.25,66.25,2.0,tell have go have go be train
+Rhea,George,2.5,1.25,66.25,2.0,tell have go have go be train
+Rhea,George,1.6666666666666667,0.0,51.66666666666667,INF,ask know have meet
+Rhea,George,1.6666666666666667,0.0,51.66666666666667,INF,ask know have meet
+Rhea,George,1.6666666666666667,0.0,51.66666666666667,INF,ask know have meet
+George,Rhea,1.7857142857142856,5.357142857142857,60.71428571428571,0.3333333333333333,do call do show
+Rhea,Roland,0.0,0.5434782608695652,55.97826086956522,0.0,give reprove say do have
+Rhea,Roland,0.0,0.5434782608695652,55.97826086956522,0.0,give reprove say do have
+Rhea,Roland,0.6578947368421052,0.6578947368421052,40.78947368421053,1.0,squeeze say listen
+Rhea,Bassam,0.6578947368421052,0.6578947368421052,40.78947368421053,1.0,squeeze say listen
+Roland,Bassam,0.6578947368421052,0.6578947368421052,40.78947368421053,1.0,squeeze say listen
+Roland,Rhea,0.0,0.0,50.0,INF,listen say
+Roland,Rhea,0.0,0.0,57.14285714285714,INF,come stand grab
+Roland,Rhea,0.0,0.0,57.14285714285714,INF,come stand grab
+Roger,Miriam,1.0,0.25,42.75,4.0,know have pull have stain
+Roger,George,1.0,0.25,42.75,4.0,know have pull have stain
+Roger,Issam,1.0,0.25,42.75,4.0,know have pull have stain
+Miriam,Roger,1.0,0.25,42.75,4.0,know have pull have stain
+Miriam,George,1.0,0.25,42.75,4.0,know have pull have stain
+Miriam,Issam,1.0,0.25,42.75,4.0,know have pull have stain
+Roger,George,1.0,0.25,42.75,4.0,know have pull have stain
+Roger,Issam,1.0,0.25,42.75,4.0,know have pull have stain
+George,Issam,1.0,0.25,42.75,4.0,know have pull have stain
+George,Issam,1.6304347826086956,0.0,41.84782608695652,INF,have carry lay
+Issam,George,1.6304347826086956,0.0,41.84782608695652,INF,have carry lay
+Issam,George,1.6304347826086956,0.0,41.84782608695652,INF,have carry lay
+George,Roger,0.0,0.0,53.84615384615385,INF,tell be shoot fight
+George,Roger,0.0,0.0,53.84615384615385,INF,tell be shoot fight
+Roland,George,0.8620689655172413,0.8620689655172413,56.896551724137936,1.0,follow say pour be discuss bring
+Roland,George,0.8620689655172413,0.8620689655172413,56.896551724137936,1.0,follow say pour be discuss bring
+Claude,Rhea,0.0,0.0,44.44444444444444,INF,belong
+Roland,Rhea,0.0,0.8928571428571428,41.964285714285715,0.0,talk say
+Rhea,Moshe,0.0,5.681818181818182,30.681818181818183,0.0,run beg
+Rhea,Bien,2.380952380952381,0.0,40.476190476190474,INF,open say come
+Roland,Rhea,8.333333333333332,0.0,58.333333333333336,INF,help
+Rhea,George,3.515625,4.296875,57.8125,0.8181818181818182,throw say know want protect do be
+Roland,Rambo,1.282051282051282,0.3205128205128205,49.67948717948718,4.0,dream pour turn sizzle see tell send
+George,Rambo,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,think expect come ask take
+Roland,Rhea,0.625,0.625,58.75,1.0,nod walk buzz
+Señor,Linda,5.147058823529411,5.147058823529411,36.76470588235294,1.0,want tell regret say
+Señor,Linda,5.092592592592593,0.9259259259259258,34.72222222222222,5.5,thank tell remember flip
+Señor,Linda,5.092592592592593,0.9259259259259258,34.72222222222222,5.5,thank tell remember flip
+Señor,Linda,5.092592592592593,0.9259259259259258,34.72222222222222,5.5,thank tell remember flip
+Moshe,Rhea,0.0,0.0,55.55555555555556,INF,do ask beat
+George,Al-Rayess,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,get
+Abou-Nahra,George,7.5,0.0,12.5,INF,trust
+George,Al-Rayess,5.46875,4.6875,46.09375,1.1666666666666667,want ask
+George,Rhea,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,have know happen say
+George,Rhea,3.4722222222222223,0.0,68.75,INF,see be leave tell
+George,Rhea,1.0416666666666665,6.25,51.041666666666664,0.16666666666666666,kill tell
+Rhea,Khalil,6.048387096774194,5.64516129032258,36.693548387096776,1.0714285714285714,say tell kill join
+Rhea,George,6.048387096774194,5.64516129032258,36.693548387096776,1.0714285714285714,say tell kill join
+Khalil,George,6.048387096774194,5.64516129032258,36.693548387096776,1.0714285714285714,say tell kill join
+Rhea,Monsieur Laurent,4.166666666666666,5.833333333333333,30.0,0.7142857142857143,tell torture
+Rhea,Nicole,4.166666666666666,5.833333333333333,30.0,0.7142857142857143,tell torture
+Monsieur Laurent,Nicole,4.166666666666666,5.833333333333333,30.0,0.7142857142857143,tell torture
+Rhea,George,3.289473684210526,0.6578947368421052,53.94736842105263,5.0,say be tell be
+Rhea,George,2.5,1.4285714285714286,44.642857142857146,1.75,describe have tell pile rot
+Rhea,De Niro,2.941176470588235,0.7352941176470588,55.14705882352941,4.0,hold continue bury

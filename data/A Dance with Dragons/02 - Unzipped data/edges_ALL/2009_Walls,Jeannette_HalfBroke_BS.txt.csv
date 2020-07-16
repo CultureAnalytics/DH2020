@@ -1,0 +1,980 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Buster,Helen,0.33783783783783783,0.33783783783783783,45.27027027027027,1.0,finish be head bring
+Buster,Helen,0.5,0.0,55.50000000000001,INF,look kneel press
+Helen,Buster,4.861111111111112,2.083333333333333,59.72222222222222,2.3333333333333335,figure grab
+Helen,Buster,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,stumble grab lift carry run
+Buster,Helen,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,stumble grab lift carry run
+Buster,Helen,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,stumble grab lift carry run
+Buster,Helen,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,stumble grab lift carry run
+Buster,Helen,0.0,1.0,51.0,0.0,reach push pull
+Buster,Helen,0.0,1.0,51.0,0.0,reach push pull
+Helen,Buster,0.0,1.0,51.0,0.0,reach push pull
+Buster,Helen,2.4193548387096775,3.225806451612903,55.64516129032258,0.75,be take tell trade sit have cling
+Buster,Helen,2.4193548387096775,3.225806451612903,55.64516129032258,0.75,be take tell trade sit have cling
+Mom,Dad,3.6458333333333335,0.0,58.854166666666664,INF,see walk see run
+Helen,Buster,0.5,2.5,53.0,0.2,keep drift sleep fall
+Helen,Buster,0.9259259259259258,1.1574074074074074,49.76851851851852,0.8,run go come snap falter be keep
+Helen,Buster,9.375,0.0,60.62499999999999,INF,get start pray stand look
+Helen,Mom,9.375,0.0,60.62499999999999,INF,get start pray stand look
+Buster,Mom,9.375,0.0,60.62499999999999,INF,get start pray stand look
+Buster,Helen,3.75,0.9375,60.3125,4.0,start explain get figure switch get keep quiz
+Dad,Robert Casey,1.3888888888888888,6.25,59.02777777777778,0.2222222222222222,be murder be
+Robert Casey,Dad,1.3888888888888888,6.25,59.02777777777778,0.2222222222222222,be murder be
+Mom,Dad,5.303030303030303,8.712121212121213,52.65151515151515,0.6086956521739131,be catch insist get rig quarantine
+Mom,Lupe,5.357142857142857,2.295918367346939,49.48979591836735,2.3333333333333335,cook wash have have get be force leave be bear have bring marry
+Catholic,Mom,9.166666666666666,1.6666666666666667,49.166666666666664,5.5,be
+Buster,Lupe,3.125,3.125,43.75,1.0,call like
+Lupe,Mom,8.333333333333332,0.0,52.77777777777778,INF,help do care draw
+Lupe,Mom,8.333333333333332,0.0,52.77777777777778,INF,help do care draw
+Mom,Adam Casey,4.545454545454546,3.4090909090909087,46.590909090909086,1.3333333333333333,think marry take
+Mom,Adam Casey,4.545454545454546,3.4090909090909087,46.590909090909086,1.3333333333333333,think marry take
+Robert Casey,Dad,1.5625,2.734375,48.828125,0.5714285714285714,start argue split foster last
+Robert Casey,Dad,1.5625,2.734375,48.828125,0.5714285714285714,start argue split foster last
+Dad,Lupe,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,tinker start talk run get have see be come hide
+Dad,Lupe,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,tinker start talk run get have see be come hide
+Dad,Lupe,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,tinker start talk run get have see be come hide
+Dad,Lupe,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,tinker start talk run get have see be come hide
+Dad,Lupe,4.6875,2.083333333333333,55.729166666666664,2.25,work holler miss be save tinker
+Buster,Helen,0.0,1.0,59.0,0.0,send be do
+Mom,Helen,5.0,0.0,55.00000000000001,INF,take pray stay
+Mom,Buster,5.0,0.0,55.00000000000001,INF,take pray stay
+Mom,Lupe,5.0,0.0,55.00000000000001,INF,take pray stay
+Helen,Buster,5.0,0.0,55.00000000000001,INF,take pray stay
+Helen,Lupe,5.0,0.0,55.00000000000001,INF,take pray stay
+Buster,Lupe,5.0,0.0,55.00000000000001,INF,take pray stay
+Lupe,Mom,3.1914893617021276,0.0,50.0,INF,do start cave grab pull collapse bury
+Dad,Mr. McClurg,1.7857142857142856,1.488095238095238,58.63095238095239,1.2,get have get drive scavenge
+Toyah,Dad,1.3513513513513513,2.7027027027027026,47.2972972972973,0.5,be go follow imitate make want thrash
+Mom,Buster,5.357142857142857,1.7857142857142856,50.0,3.0,be do
+Mom,Helen,5.357142857142857,1.7857142857142856,50.0,3.0,be do
+Buster,Helen,5.357142857142857,1.7857142857142856,50.0,3.0,be do
+Dad,Toyah,2.586206896551724,0.646551724137931,55.38793103448276,4.0,act do exist run shoot have tinker be see
+Toyah,Dad,3.804347826086957,0.0,57.065217391304344,INF,have think be do
+Toyah,Dad,3.804347826086957,0.0,57.065217391304344,INF,have think be do
+Buster,Helen,0.8928571428571428,0.8928571428571428,50.595238095238095,1.0,be work do be do tutor
+Mom,Dad,3.6363636363636362,1.5909090909090908,60.22727272727273,2.2857142857142856,make feel keep say be get need go finish be acquire grace earn
+Mom,Toyah,3.6363636363636362,1.5909090909090908,60.22727272727273,2.2857142857142856,make feel keep say be get need go finish be acquire grace earn
+Dad,Toyah,3.6363636363636362,1.5909090909090908,60.22727272727273,2.2857142857142856,make feel keep say be get need go finish be acquire grace earn
+Buster,Helen,2.7777777777777777,0.3472222222222222,60.763888888888886,8.0,be teach brush pull put increase
+Buster,Helen,2.7777777777777777,0.3472222222222222,60.763888888888886,8.0,be teach brush pull put increase
+Toyah,Mom,3.8793103448275863,3.4482758620689653,58.189655172413794,1.125,live go see work be
+Mom,Helen,5.681818181818182,0.0,44.31818181818182,INF,be have inherit
+Mom,Helen,5.681818181818182,0.0,44.31818181818182,INF,be have inherit
+Mom,Helen,5.681818181818182,0.0,44.31818181818182,INF,be have inherit
+Helen,Buster,4.166666666666666,0.9259259259259258,46.75925925925926,4.5,be dote consider
+Helen,Buster,4.166666666666666,0.9259259259259258,46.75925925925926,4.5,be dote consider
+Buster,Helen,4.166666666666666,0.9259259259259258,46.75925925925926,4.5,be dote consider
+Buster,Dad,1.6891891891891893,2.7027027027027026,60.47297297297297,0.625,be have compensate be
+Buster,Dad,1.6891891891891893,2.7027027027027026,60.47297297297297,0.625,be have compensate be
+Mom,Buster,13.461538461538462,4.807692307692308,43.269230769230774,2.8,like say
+Mom,Lily Casey,7.142857142857142,1.7857142857142856,43.452380952380956,4.0,laugh smile say
+Dad,Buster,3.3653846153846154,1.4423076923076923,56.730769230769226,2.3333333333333335,make have step get do disappear be keep fall
+Mom,Dad,5.053191489361701,1.8617021276595744,61.170212765957444,2.7142857142857144,hear be install have include think be
+Mom,Dad,5.902777777777778,5.208333333333334,50.0,1.1333333333333333,know expect get throw terrify wave help
+Dad,Roosevelt,3.75,0.625,50.625,6.0,have be be name
+Dad,Mom,3.125,2.556818181818182,57.95454545454546,1.2222222222222223,carry see get start gasp tell get have break
+Mom,Dad,3.125,2.556818181818182,57.95454545454546,1.2222222222222223,carry see get start gasp tell get have break
+Dad,Mom,4.910714285714286,0.0,41.517857142857146,INF,tell have get go close
+Dad,Lupe,1.3888888888888888,0.4629629629629629,61.111111111111114,3.0,set have cut make paste
+Dad,Roosevelt,1.4705882352941175,0.0,57.35294117647059,INF,enrol call
+Dad,Adam Casey,1.4705882352941175,0.0,57.35294117647059,INF,enrol call
+Roosevelt,Adam Casey,1.4705882352941175,0.0,57.35294117647059,INF,enrol call
+Roosevelt,Dad,0.5434782608695652,1.6304347826086956,71.73913043478261,0.3333333333333333,be reform sell bind
+Toyah,Mr. Clutterbuck,1.1363636363636365,1.8181818181818181,60.68181818181818,0.625,set drive sell wear tote wrap
+Toyah,Mr. Clutterbuck,1.1363636363636365,1.8181818181818181,60.68181818181818,0.625,set drive sell wear tote wrap
+Toyah,Mr. Clutterbuck,1.1363636363636365,1.8181818181818181,60.68181818181818,0.625,set drive sell wear tote wrap
+Dad,Mr. Clutterbuck,2.1739130434782608,0.0,54.347826086956516,INF,say be go
+Dad,Buster,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Dad,Helen,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Dad,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Dad,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Buster,Helen,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Buster,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Buster,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Helen,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Helen,Dingler,1.1029411764705883,0.0,51.83823529411765,INF,do forbid play ride
+Dad,Toyah,2.989130434782609,2.4456521739130435,55.434782608695656,1.2222222222222223,double go take sew say have be rupture need get
+Dad,Santa Fe Railroad,2.989130434782609,2.4456521739130435,55.434782608695656,1.2222222222222223,double go take sew say have be rupture need get
+Toyah,Santa Fe Railroad,2.989130434782609,2.4456521739130435,55.434782608695656,1.2222222222222223,double go take sew say have be rupture need get
+Santa Fe Railroad,Dad,1.4534883720930232,0.0,56.68604651162791,INF,catch get be remember be wake sit
+Dad,Mom,6.388888888888888,2.7777777777777777,55.27777777777778,2.3,set unharness run warn start open have be tell equalize make explode
+Dad,Lupe,1.3157894736842104,1.3157894736842104,55.26315789473685,1.0,have include scramble
+Dad,Mom,5.833333333333333,0.0,40.833333333333336,INF,take
+Dad,Helen,5.833333333333333,0.0,40.833333333333336,INF,take
+Mom,Helen,5.833333333333333,0.0,40.833333333333336,INF,take
+Lily Casey,Dad,2.272727272727273,0.8522727272727272,46.875,2.6666666666666665,travel reach insist be rename
+Lily Casey,Dad,2.272727272727273,0.8522727272727272,46.875,2.6666666666666665,travel reach insist be rename
+Helen,Buster,3.0,1.0,52.0,3.0,be join reach
+Dad,Tinnie,3.3653846153846154,0.9615384615384616,61.057692307692314,3.5,be say be
+Dad,Billy,2.2058823529411766,1.8382352941176472,63.60294117647059,1.2,start have stop be ask swap mount
+Billy,Dad,2.2058823529411766,1.8382352941176472,63.60294117647059,1.2,start have stop be ask swap mount
+Billy,Dad,2.2058823529411766,1.8382352941176472,63.60294117647059,1.2,start have stop be ask swap mount
+Mom,Buster,7.258064516129033,0.0,50.806451612903224,INF,say be become want become enrol
+Mom,Buster,7.258064516129033,0.0,50.806451612903224,INF,say be become want become enrol
+Mom,Buster,7.258064516129033,0.0,50.806451612903224,INF,say be become want become enrol
+Mom,Buster,7.258064516129033,0.0,50.806451612903224,INF,say be become want become enrol
+Helen,Buster,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,tend be say be use order
+Helen,Lupe,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,tend be say be use order
+Buster,Lupe,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,tend be say be use order
+Santa Fe Railroad,Dad,3.125,0.0,61.875,INF,be point arrive get line
+Mother Albertina,Mother Superior,6.8181818181818175,0.0,47.72727272727273,INF,show
+Mother Albertina,Jesus,1.5625,0.0,55.93749999999999,INF,explain have die go
+Mother Albertina,Jesus,1.5625,0.0,55.93749999999999,INF,explain have die go
+Dad,Mother Albertina,6.61764705882353,0.0,58.08823529411765,INF,start explain be say understand
+Mother Albertina,Dad,6.61764705882353,0.0,58.08823529411765,INF,start explain be say understand
+Mom,Dad,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Mom,Helen,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Mom,Buster,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Dad,Helen,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Dad,Buster,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Helen,Buster,4.6875,3.125,60.9375,1.5,talk be marry inherit have admit meet like mention feel marry
+Dad,Billy,1.893939393939394,0.7575757575757576,56.439393939393945,2.5,walk think be blow be go spend do work sit fan
+Dad,Mom,1.893939393939394,0.7575757575757576,56.439393939393945,2.5,walk think be blow be go spend do work sit fan
+Dad,Billy,1.893939393939394,0.7575757575757576,56.439393939393945,2.5,walk think be blow be go spend do work sit fan
+Dad,Mom,1.893939393939394,0.7575757575757576,56.439393939393945,2.5,walk think be blow be go spend do work sit fan
+Billy,Mom,1.893939393939394,0.7575757575757576,56.439393939393945,2.5,walk think be blow be go spend do work sit fan
+Tinnie,Dad,0.0,0.0,52.0,INF,pull be sit
+Dad,Zachary,3.3783783783783785,0.6756756756756757,60.810810810810814,5.0,help have bring name be live
+Mom,Dad,3.431372549019608,0.49019607843137253,50.98039215686274,7.0,consider be use arrive give eat set plant pickle
+Clemenses,Dorothy,0.5,0.0,55.50000000000001,INF,like know roll get do
+Clemenses,Dorothy,0.5,0.0,55.50000000000001,INF,like know roll get do
+Dorothy,Clemenses,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Clemenses,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Clemenses,Dorothy,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Clemenses,Dorothy,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Clemenses,Dorothy,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Clemenses,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dorothy,Tinnie,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,know till have fence spend hang make wash dye take
+Dad,Dorothy,1.2711864406779663,0.847457627118644,65.67796610169492,1.5,let roam return knock report have be collect share have find shoot
+Dad,Pucket,1.2711864406779663,0.847457627118644,65.67796610169492,1.5,let roam return knock report have be collect share have find shoot
+Dorothy,Dad,1.2711864406779663,0.847457627118644,65.67796610169492,1.5,let roam return knock report have be collect share have find shoot
+Dorothy,Pucket,1.2711864406779663,0.847457627118644,65.67796610169492,1.5,let roam return knock report have be collect share have find shoot
+Dad,Pucket,1.2711864406779663,0.847457627118644,65.67796610169492,1.5,let roam return knock report have be collect share have find shoot
+Dad,Pucket,1.0869565217391304,7.065217391304348,57.065217391304344,0.15384615384615385,charge hitch drive confront
+Dorothy,Dad,1.7045454545454544,0.0,61.93181818181818,INF,keep sit corral shuck drive
+Dad,Pucket,2.857142857142857,2.142857142857143,63.57142857142857,1.3333333333333333,tell have admit kill claim be chase be be go bring
+Dad,Pucket,3.289473684210526,1.3157894736842104,69.07894736842105,2.5,be carry be go bring
+Dorothy,Dad,2.604166666666667,1.5625,56.25,1.6666666666666667,be snake panic start leap be push wrestle
+Lupe,Dad,4.336734693877551,4.336734693877551,58.673469387755105,1.0,think have step tinker have be calm have kill be shoot
+Lupe,Dad,4.336734693877551,4.336734693877551,58.673469387755105,1.0,think have step tinker have be calm have kill be shoot
+Lupe,Dad,4.336734693877551,4.336734693877551,58.673469387755105,1.0,think have step tinker have be calm have kill be shoot
+Dad,Pucket,1.293103448275862,1.7241379310344827,65.94827586206897,0.75,settle keep stew go file
+Dad,Pucket,1.171875,1.171875,60.15625,1.0,harbor refuse leave go meet be turn corral
+Pucket,Dad,0.0,0.0,55.55555555555556,INF,leave come look
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Dorothy,Zachary,1.0245901639344261,3.8934426229508197,49.18032786885246,0.2631578947368421,be be hold tie catch knock flip
+Zachary,Dad,3.0172413793103448,0.646551724137931,63.577586206896555,4.666666666666667,tie wrap hold kneel work spray fart kick twist
+Zachary,Dad,3.0172413793103448,0.646551724137931,63.577586206896555,4.666666666666667,tie wrap hold kneel work spray fart kick twist
+Zachary,Dad,3.0172413793103448,0.646551724137931,63.577586206896555,4.666666666666667,tie wrap hold kneel work spray fart kick twist
+Zachary,Dad,3.0172413793103448,0.646551724137931,63.577586206896555,4.666666666666667,tie wrap hold kneel work spray fart kick twist
+Pucket,Dad,0.0,0.0,46.15384615384615,INF,do say
+Mom,Dad,3.8194444444444446,0.3472222222222222,51.388888888888886,11.0,tell want go hire say hear
+Mom,Dad,4.166666666666666,1.4705882352941175,62.99019607843137,2.8333333333333335,talk go afford be learn figure need be get be
+Mom,Dad,4.166666666666666,1.4705882352941175,62.99019607843137,2.8333333333333335,talk go afford be learn figure need be get be
+Mom,Buster,4.166666666666666,1.4705882352941175,62.99019607843137,2.8333333333333335,talk go afford be learn figure need be get be
+Dad,Buster,4.166666666666666,1.4705882352941175,62.99019607843137,2.8333333333333335,talk go afford be learn figure need be get be
+Dad,Buster,4.166666666666666,1.4705882352941175,62.99019607843137,2.8333333333333335,talk go afford be learn figure need be get be
+Buster,Dorothy,4.545454545454546,7.954545454545454,60.22727272727273,0.5714285714285714,get become be
+Buster,Dorothy,4.545454545454546,7.954545454545454,60.22727272727273,0.5714285714285714,get become be
+Dorothy,Buster,4.5,0.5,71.0,9.0,be be have
+Dorothy,Buster,4.5,0.5,71.0,9.0,be be have
+Mom,Buster,12.5,0.0,60.83333333333333,INF,be horrify find think be
+Buster,Dorothy,1.171875,1.171875,53.90625,1.0,be be go run need determine hardwork
+Buster,Dorothy,1.171875,1.171875,53.90625,1.0,be be go run need determine hardwork
+Buster,Dorothy,1.171875,1.171875,53.90625,1.0,be be go run need determine hardwork
+Dorothy,Buster,1.171875,1.171875,53.90625,1.0,be be go run need determine hardwork
+Santa Fe Railroad,Mother Albertina,2.65625,2.1875,63.90625,1.2142857142857142,have start be be pass be give be warn be get be
+Mom,Dad,10.227272727272728,0.0,53.40909090909091,INF,do like
+Buster,Dorothy,2.1551724137931036,2.586206896551724,36.637931034482754,0.8333333333333334,be be go marry have need
+Buster,Dorothy,2.1551724137931036,2.586206896551724,36.637931034482754,0.8333333333333334,be be go marry have need
+Dad,Mom,7.352941176470589,0.7352941176470588,50.73529411764706,10.0,be watch open
+Dad,Helen,7.352941176470589,0.7352941176470588,50.73529411764706,10.0,be watch open
+Mom,Helen,7.352941176470589,0.7352941176470588,50.73529411764706,10.0,be watch open
+Buster,Helen,5.357142857142857,3.571428571428571,55.35714285714286,1.5,be hug turn
+Buster,Dad,5.357142857142857,3.571428571428571,55.35714285714286,1.5,be hug turn
+Helen,Dad,5.357142857142857,3.571428571428571,55.35714285714286,1.5,be hug turn
+Dad,Tinnie,3.040540540540541,2.027027027027027,48.986486486486484,1.5,give be seem
+Mom,Dad,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Mom,Buster,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Mom,Helen,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Dad,Buster,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Dad,Helen,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Buster,Helen,4.276315789473684,1.3157894736842104,49.67105263157895,3.25,be sit pass
+Lily Casey,Tinnie,0.390625,0.390625,71.09375,1.0,promise be pack widen
+Mr. MacIntosh,Red,0.8064516129032258,2.0161290322580645,61.693548387096776,0.4,find be send call
+Mom,Buster,7.083333333333333,0.4166666666666667,55.833333333333336,17.0,have have fill grow have become
+Mom,Helen,7.083333333333333,0.4166666666666667,55.833333333333336,17.0,have have fill grow have become
+Buster,Helen,7.083333333333333,0.4166666666666667,55.833333333333336,17.0,have have fill grow have become
+Buster,Dorothy,3.75,0.0,56.25,INF,have get marry
+Dorothy,Lupe,2.734375,0.390625,43.75,7.0,oversee boss hand
+Dorothy,Buster,2.734375,0.390625,43.75,7.0,oversee boss hand
+Dorothy,Mom,2.734375,0.390625,43.75,7.0,oversee boss hand
+Dorothy,Dad,2.734375,0.390625,43.75,7.0,oversee boss hand
+Dorothy,Helen,2.734375,0.390625,43.75,7.0,oversee boss hand
+Lupe,Buster,2.734375,0.390625,43.75,7.0,oversee boss hand
+Lupe,Mom,2.734375,0.390625,43.75,7.0,oversee boss hand
+Lupe,Dad,2.734375,0.390625,43.75,7.0,oversee boss hand
+Lupe,Helen,2.734375,0.390625,43.75,7.0,oversee boss hand
+Buster,Mom,2.734375,0.390625,43.75,7.0,oversee boss hand
+Buster,Dad,2.734375,0.390625,43.75,7.0,oversee boss hand
+Buster,Helen,2.734375,0.390625,43.75,7.0,oversee boss hand
+Mom,Dad,2.734375,0.390625,43.75,7.0,oversee boss hand
+Mom,Helen,2.734375,0.390625,43.75,7.0,oversee boss hand
+Dad,Helen,2.734375,0.390625,43.75,7.0,oversee boss hand
+Mom,Dorothy,5.357142857142857,3.571428571428571,55.35714285714286,1.5,complain have get tell be have do use do
+Mom,Helen,19.642857142857142,1.7857142857142856,50.0,11.0,be
+Mom,Helen,7.5,10.0,53.92857142857142,0.75,worry be suffer get make want lie
+Mom,Helen,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Mom,Helen,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Mom,Santa Fe Railroad,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Mom,Dorothy,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Helen,Santa Fe Railroad,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Helen,Dorothy,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Helen,Santa Fe Railroad,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Helen,Dorothy,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Santa Fe Railroad,Dorothy,2.941176470588235,1.2254901960784315,52.69607843137255,2.4,be send hope attract argue need be reinvest raise
+Dorothy,Buster,3.0172413793103448,0.8620689655172413,61.63793103448276,3.5,stay mean find marry become talk have
+Ted,Minnie,5.0,0.0,50.0,INF,have have put
+Ted,Lily Casey,3.125,1.5625,32.8125,2.0,be
+Ted,Margaret,0.0,4.545454545454546,22.727272727272727,0.0,be
+Margaret,Ted,4.0,3.0,53.0,1.3333333333333333,hear argue say be
+Margaret,Ted,2.941176470588235,0.0,50.0,INF,say be love
+Margaret,Ted,2.941176470588235,0.0,50.0,INF,say be love
+Margaret,Ted,2.941176470588235,0.0,50.0,INF,say be love
+Lily Casey,Ted,0.0,0.0,47.368421052631575,INF,say lie be have
+Helen,Red,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Helen,Santa Fe Railroad,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Helen,Buster,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Helen,Dorothy,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Red,Santa Fe Railroad,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Red,Buster,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Red,Dorothy,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Santa Fe Railroad,Buster,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Santa Fe Railroad,Dorothy,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Buster,Dorothy,1.4705882352941175,2.2058823529411766,59.55882352941176,0.6666666666666666,see get be surprise have change have be raise
+Dad,Billy,9.090909090909092,1.7045454545454544,61.93181818181818,5.333333333333333,have abdicate be correspond
+Helen,Mom,5.1845070422535215,4.850704225352112,40.66901408450704,1.068815331010453,be see be have encourage go insist be be discover find
+Helen,Mom,5.1845070422535215,4.850704225352112,40.66901408450704,1.068815331010453,be see be have encourage go insist be be discover find
+Grady Gammage,Red,1.875,2.5,60.62499999999999,0.75,say be contact be look
+Grady Gammage,Red,1.875,2.5,60.62499999999999,0.75,say be contact be look
+Tinnie,Red,0.0,1.293103448275862,50.43103448275862,0.0,go get make
+Jim,Big Jim,3.125,1.5625,45.3125,2.0,call
+Jim,Ford,1.3157894736842104,0.0,72.36842105263158,INF,have
+Jim,Lot Smith,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,be have be go
+Jim,Brigham Young,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,be have be go
+Lot Smith,Brigham Young,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,be have be go
+Brigham Young,Lot Smith,0.0,2.083333333333333,61.25000000000001,0.0,put come arrest hold
+Brigham Young,Lot Smith,0.0,2.083333333333333,61.25000000000001,0.0,put come arrest hold
+Jim,Red,0.5813953488372093,2.9069767441860463,52.32558139534884,0.2,die join serve be protect
+Jim,Red,0.5813953488372093,2.9069767441860463,52.32558139534884,0.2,die join serve be protect
+Jim,Helen,2.941176470588235,0.24509803921568626,55.63725490196079,12.0,be prepare marry have broach be enjoy have take get
+Helen,Mr. Wonderful,1.4534883720930232,2.3255813953488373,56.68604651162791,0.625,be meet treat be go open marry
+Mr. Wonderful,Helen,1.4534883720930232,2.3255813953488373,56.68604651162791,0.625,be meet treat be go open marry
+Mr. Wonderful,Helen,1.4534883720930232,2.3255813953488373,56.68604651162791,0.625,be meet treat be go open marry
+Mr. Wonderful,Helen,1.4534883720930232,2.3255813953488373,56.68604651162791,0.625,be meet treat be go open marry
+Helen,Mr. Wonderful,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Helen,Mr. Wonderful,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Mr. Wonderful,Helen,1.694915254237288,2.5423728813559325,48.30508474576271,0.6666666666666666,stop mention come suspect be get involve use be tire dump
+Helen,Mr. Wonderful,3.2407407407407405,1.3888888888888888,54.629629629629626,2.3333333333333335,confess be have want get
+Helen,Mr. Wonderful,3.2407407407407405,1.3888888888888888,54.629629629629626,2.3333333333333335,confess be have want get
+Mr. Wonderful,Helen,3.2407407407407405,1.3888888888888888,54.629629629629626,2.3333333333333335,confess be have want get
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Mr. Wonderful,Helen,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Mr. Wonderful,Helen,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Mr. Wonderful,Helen,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Mr. Wonderful,Helen,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Mr. Wonderful,Helen,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mr. Wonderful,1.0416666666666665,1.7361111111111112,36.11111111111111,0.6,tell be scare hear die claim be cut
+Helen,Mom,6.666666666666667,6.666666666666667,46.666666666666664,1.0,be go
+Helen,Dad,6.666666666666667,6.666666666666667,46.666666666666664,1.0,be go
+Mom,Dad,6.666666666666667,6.666666666666667,46.666666666666664,1.0,be go
+Helen,Red,0.0,1.5,42.5,0.0,come write live figure do
+Red,Helen,0.0,1.5,42.5,0.0,come write live figure do
+Helen,Jim,0.0,0.0,52.0,INF,arrive let borrow drive meet
+Jim,Helen,0.0,0.0,52.0,INF,arrive let borrow drive meet
+Helen,Mr. Wonderful,2.403846153846154,0.4807692307692308,58.65384615384615,5.0,step carry have give have bite
+Mr. Wonderful,Helen,2.403846153846154,0.4807692307692308,58.65384615384615,5.0,step carry have give have bite
+Mom,Dad,6.696428571428571,1.7857142857142856,41.517857142857146,3.75,write explain soften be forgive welcome
+Mom,Helen,6.696428571428571,1.7857142857142856,41.517857142857146,3.75,write explain soften be forgive welcome
+Mom,Helen,6.696428571428571,1.7857142857142856,41.517857142857146,3.75,write explain soften be forgive welcome
+Dad,Helen,6.696428571428571,1.7857142857142856,41.517857142857146,3.75,write explain soften be forgive welcome
+Dad,Helen,6.696428571428571,1.7857142857142856,41.517857142857146,3.75,write explain soften be forgive welcome
+Helen,Mr. Wonderful,2.8125,2.8125,49.375,1.0,keep return wonder get put worry ruin
+Helen,Mr. Wonderful,2.8125,2.8125,49.375,1.0,keep return wonder get put worry ruin
+Mr. Wonderful,Helen,2.8125,2.8125,49.375,1.0,keep return wonder get put worry ruin
+Jim,Helen,2.083333333333333,0.0,64.58333333333334,INF,have schedule bring
+Helen,Red,0.0,1.9736842105263157,50.6578947368421,0.0,see smile come
+Helen,Red,0.0,1.9736842105263157,50.6578947368421,0.0,see smile come
+Helen,Catholic,0.0,3.125,71.875,0.0,start attend
+Helen,Red,0.0,3.125,71.875,0.0,start attend
+Catholic,Red,0.0,3.125,71.875,0.0,start attend
+Cavanaugh,Helen,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Cavanaugh,Helen,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Cavanaugh,Helen,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Helen,Cavanaugh,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Helen,Cavanaugh,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Cavanaugh,Helen,1.7857142857142856,0.0,50.595238095238095,INF,feel look make touch
+Cavanaugh,Helen,0.0,0.0,57.14285714285714,INF,glance
+Cavanaugh,Helen,8.035714285714286,2.6785714285714284,46.42857142857143,3.0,tell make
+Helen,Cavanaugh,1.7857142857142856,5.357142857142857,45.23809523809524,0.3333333333333333,do offer warn be
+Helen,Cavanaugh,1.7857142857142856,5.357142857142857,45.23809523809524,0.3333333333333333,do offer warn be
+Cavanaugh,Helen,1.7857142857142856,5.357142857142857,45.23809523809524,0.3333333333333333,do offer warn be
+Cavanaugh,Helen,1.7857142857142856,5.357142857142857,45.23809523809524,0.3333333333333333,do offer warn be
+Helen,Cavanaugh,2.82258064516129,0.4032258064516129,45.16129032258064,7.0,have commit say be
+Cavanaugh,Helen,2.82258064516129,0.4032258064516129,45.16129032258064,7.0,have commit say be
+Helen,Cavanaugh,0.0,0.0,50.0,INF,come see
+Cavanaugh,Helen,0.0,0.0,50.0,INF,come see
+Helen,Red,1.644736842105263,2.302631578947368,51.31578947368421,0.7142857142857143,have go have let be begin regard
+Helen,Red,1.644736842105263,2.302631578947368,51.31578947368421,0.7142857142857143,have go have let be begin regard
+Helen,Red,1.644736842105263,2.302631578947368,51.31578947368421,0.7142857142857143,have go have let be begin regard
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Helen,Mr. MacIntosh,1.2096774193548387,0.8064516129032258,62.5,1.5,wipe make make tip
+Mr. MacIntosh,Helen,0.35714285714285715,2.857142857142857,65.35714285714286,0.125,do want look lie lead connect
+Mr. MacIntosh,Helen,8.4375,0.9375,53.125,9.0,begin be set
+Helen,Mr. MacIntosh,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Helen,Mr. MacIntosh,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Helen,Mr. MacIntosh,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Helen,Mr. MacIntosh,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Helen,Mr. MacIntosh,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mr. MacIntosh,Helen,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mr. MacIntosh,Helen,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mr. MacIntosh,Helen,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mr. MacIntosh,Helen,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mr. MacIntosh,Helen,1.7628205128205128,1.7628205128205128,59.294871794871796,1.0,start argue have turn stay say be be get be be have say be want keep have go
+Mom,Dad,7.954545454545454,0.0,37.5,INF,write tell
+Mom,Helen,7.954545454545454,0.0,37.5,INF,write tell
+Dad,Helen,7.954545454545454,0.0,37.5,INF,write tell
+Helen,Buster,2.1551724137931036,0.0,58.189655172413794,INF,start race save be bear raise have go start
+Helen,Dorothy,2.1551724137931036,0.0,58.189655172413794,INF,start race save be bear raise have go start
+Buster,Dorothy,2.1551724137931036,0.0,58.189655172413794,INF,start race save be bear raise have go start
+Buster,Helen,2.1551724137931036,0.0,58.189655172413794,INF,start race save be bear raise have go start
+Dorothy,Helen,2.1551724137931036,0.0,58.189655172413794,INF,start race save be bear raise have go start
+Helen,Mom,6.944444444444445,7.638888888888889,46.52777777777778,0.9090909090909091,be convince forgive bring
+Mom,Helen,6.944444444444445,7.638888888888889,46.52777777777778,0.9090909090909091,be convince forgive bring
+Mom,Dad,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Mom,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Mom,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Mom,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Dad,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Dad,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Dad,Lupe,4.910714285714286,0.4464285714285714,44.642857142857146,11.0,disown believe have kick get
+Lupe,Helen,1.3888888888888888,4.166666666666666,55.55555555555556,0.3333333333333333,want say have go
+Lupe,Helen,1.3888888888888888,4.166666666666666,55.55555555555556,0.3333333333333333,want say have go
+Helen,Dad,2.5943396226415096,0.4716981132075472,55.42452830188679,5.5,tell be send pay have tell close open be find
+Helen,Mother Albertina,2.5943396226415096,0.4716981132075472,55.42452830188679,5.5,tell be send pay have tell close open be find
+Dad,Mother Albertina,2.5943396226415096,0.4716981132075472,55.42452830188679,5.5,tell be send pay have tell close open be find
+Cavanaugh,Helen,0.0,0.0,61.53846153846154,INF,let bury
+Cavanaugh,Catholic,0.0,0.0,61.53846153846154,INF,let bury
+Helen,Catholic,0.0,0.0,61.53846153846154,INF,let bury
+Big Jim,Rosemary,1.4705882352941175,2.941176470588235,51.470588235294116,0.5,hold kill think be end be do be pass leave
+Lily Casey,Jim,2.232142857142857,2.232142857142857,52.67857142857143,1.0,want marry see take get
+Jim,Sears,3.6317073170731704,3.380487804878049,63.71951219512195,1.0743145743145741,tell have give get choose know be get
+Jim,Roebuck,3.6317073170731704,3.380487804878049,63.71951219512195,1.0743145743145741,tell have give get choose know be get
+Sears,Roebuck,3.6317073170731704,3.380487804878049,63.71951219512195,1.0743145743145741,tell have give get choose know be get
+Jim,Red,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Jim,Ash Fork,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Red,Jim,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Red,Jim,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Red,Ash Fork,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Jim,Ash Fork,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Jim,Ash Fork,5.303030303030303,1.893939393939394,59.46969696969697,2.8,understand want leave agree move
+Ash Fork,Williams,0.0,1.4705882352941175,75.0,0.0,be
+Ash Fork,Jim,0.0,0.0,58.06451612903226,INF,take build make lay spread
+Jehovah,Jesus,0.9090909090909091,2.727272727272727,52.72727272727272,0.3333333333333333,let start cuss try work wag argue be need see get
+Catholic,Rosemary,4.3478260869565215,0.5434782608695652,69.02173913043478,8.0,be be be
+Rosemary,Helen,3.4722222222222223,1.0416666666666665,62.15277777777778,3.3333333333333335,be have match seem look
+Rosemary,Helen,3.4722222222222223,1.0416666666666665,62.15277777777778,3.3333333333333335,be have match seem look
+Rosemary,Helen,3.4722222222222223,1.0416666666666665,62.15277777777778,3.3333333333333335,be have match seem look
+Rosemary,Helen,3.4722222222222223,1.0416666666666665,62.15277777777778,3.3333333333333335,be have match seem look
+Helen,Rosemary,6.0344827586206895,3.8793103448275863,59.05172413793104,1.5555555555555556,be concern have be resolve tell be
+Jim,Little Jim,4.166666666666666,1.6666666666666667,34.166666666666664,2.5,name call
+Jim,Little Jim,4.166666666666666,1.6666666666666667,34.166666666666664,2.5,name call
+Jim,Little Jim,4.166666666666666,1.6666666666666667,34.166666666666664,2.5,name call
+Mr. Lee,Ash Fork,0.0,0.0,66.66666666666666,INF,knock
+Mr. Lee,Jim,0.0,0.4629629629629629,69.9074074074074,0.0,run make drive repair
+Mr. Lee,Jim,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have hit have be be see live pick
+Mr. Lee,Jim,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have hit have be be see live pick
+Jim,Mr. Lee,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have hit have be be see live pick
+Mr. Lee,Jim,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have hit have be be see live pick
+Mr. Lee,Jim,7.5,0.0,52.5,INF,trust
+Jim,Mr. Lee,0.4166666666666667,0.0,56.25,INF,do agree promise provide split
+Jim,Mr. Lee,0.4166666666666667,0.0,56.25,INF,do agree promise provide split
+Rosemary,Little Jim,0.0,1.0416666666666665,51.736111111111114,0.0,be be start talk drive
+Little Jim,Rosemary,1.0416666666666665,0.6944444444444444,62.15277777777778,1.5,be be fascinate smell be run shove
+Little Jim,Rosemary,1.0416666666666665,0.6944444444444444,62.15277777777778,1.5,be be fascinate smell be run shove
+Jim,Rosemary,0.0,0.0,64.28571428571429,INF,scoop carry
+Jim,Rosemary,0.0,0.0,64.28571428571429,INF,scoop carry
+Jim,Rosemary,2.083333333333333,0.0,56.25,INF,kneel set
+Mei-Mei,Mr. Lee,0.0,1.1904761904761905,55.952380952380956,0.0,decide name tell be
+Mei-Mei,Little Jim,2.272727272727273,1.7045454545454544,55.11363636363637,1.3333333333333333,be bleat wake stand start wail
+Jim,Blackie,5.357142857142857,0.0,47.023809523809526,INF,have save have take drop shoot
+Blackie,Jim,6.25,0.0,43.75,INF,get know like
+Blackie,Jim,6.25,0.0,43.75,INF,get know like
+Blackie,Jim,6.25,0.0,43.75,INF,get know like
+Jim,Blackie,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Jim,Blackie,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Jim,Blackie,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Blackie,Jim,3.30188679245283,3.5377358490566038,55.42452830188679,0.9333333333333333,brag like be have hear be be go lasso
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Jim,Blackie,1.1627906976744187,0.0,61.627906976744185,INF,sit use tell have sell want run
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,2.430555555555556,0.6944444444444444,41.31944444444444,3.5,have ask recommend manage say be put
+Blackie,Jim,0.0,0.0,58.333333333333336,INF,drop tell be
+Blackie,Jim,0.0,0.0,58.333333333333336,INF,drop tell be
+Blackie,Jim,0.0,0.0,58.333333333333336,INF,drop tell be
+Red,Mei-Mei,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Red,Jim,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Red,Seligman,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Mei-Mei,Jim,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Mei-Mei,Seligman,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Jim,Seligman,1.2867647058823528,1.4705882352941175,47.24264705882353,0.875,bring load put bring set
+Seligman,Ash Fork,1.7628205128205128,0.641025641025641,57.85256410256411,2.75,be have need serve be stack
+Seligman,Levi,1.7628205128205128,0.641025641025641,57.85256410256411,2.75,be have need serve be stack
+Ash Fork,Levi,1.7628205128205128,0.641025641025641,57.85256410256411,2.75,be have need serve be stack
+Sears,Roebuck,0.0,1.0869565217391304,64.13043478260869,0.0,be stack pick leaf
+Jim,Little Jim,0.0,0.8333333333333334,52.5,0.0,mount be climb
+Jim,Rosemary,0.0,0.8333333333333334,52.5,0.0,mount be climb
+Jim,Rosemary,0.0,0.8333333333333334,52.5,0.0,mount be climb
+Little Jim,Rosemary,0.0,0.8333333333333334,52.5,0.0,mount be climb
+Little Jim,Rosemary,0.0,0.8333333333333334,52.5,0.0,mount be climb
+Jim,Seligman,1.3888888888888888,1.3888888888888888,63.888888888888886,1.0,pipe say know be be charge take
+Rosemary,Big Jim,0.5514705882352942,1.1029411764705883,54.22794117647059,0.5,do trust be allow go be play be get sleep sleep
+Rosemary,Little Jim,0.5514705882352942,1.1029411764705883,54.22794117647059,0.5,do trust be allow go be play be get sleep sleep
+Rosemary,Big Jim,0.5514705882352942,1.1029411764705883,54.22794117647059,0.5,do trust be allow go be play be get sleep sleep
+Rosemary,Little Jim,0.5514705882352942,1.1029411764705883,54.22794117647059,0.5,do trust be allow go be play be get sleep sleep
+Big Jim,Little Jim,0.5514705882352942,1.1029411764705883,54.22794117647059,0.5,do trust be allow go be play be get sleep sleep
+Rosemary,Mei-Mei,0.641025641025641,1.282051282051282,51.92307692307693,0.5,climb splash pee swing jump yell stand
+Jim,Rosemary,3.8793103448275863,0.0,51.293103448275865,INF,tell be take spit love
+Jim,Rosemary,3.8793103448275863,0.0,51.293103448275865,INF,tell be take spit love
+Jim,Rosemary,3.8793103448275863,0.0,51.293103448275865,INF,tell be take spit love
+Jim,Rosemary,3.8793103448275863,0.0,51.293103448275865,INF,tell be take spit love
+Rosemary,Bossie,0.0,1.6666666666666667,51.66666666666667,0.0,be blame happen bossie
+Bossie,Rosemary,7.608695652173914,1.0869565217391304,47.82608695652174,7.0,be give
+Bossie,Rosemary,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,leave stall break devour
+Bossie,Rosemary,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,leave stall break devour
+Rosemary,Bossie,0.390625,0.78125,55.078125,0.5,put try pour swallow dribble
+Bossie,Rosemary,0.390625,0.78125,55.078125,0.5,put try pour swallow dribble
+Rosemary,Jim,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Rosemary,Jim,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Rosemary,Jim,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Jim,Rosemary,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Rosemary,Jim,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Rosemary,Jim,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,hold stick disappear
+Jim,Rosemary,2.4193548387096775,3.6290322580645165,61.693548387096776,0.6666666666666666,pour do throw be go make
+Jim,Rosemary,2.4193548387096775,3.6290322580645165,61.693548387096776,0.6666666666666666,pour do throw be go make
+Jim,Rosemary,2.4193548387096775,3.6290322580645165,61.693548387096776,0.6666666666666666,pour do throw be go make
+Jim,Rosemary,0.78125,1.5625,47.65625,0.5,puncture let
+Rosemary,Jim,0.78125,1.5625,47.65625,0.5,puncture let
+Rosemary,Bossie,4.3478260869565215,9.239130434782608,51.63043478260869,0.47058823529411764,be be have let
+Rosemary,Bossie,4.3478260869565215,9.239130434782608,51.63043478260869,0.47058823529411764,be be have let
+Jim,Bossie,5.078125,4.296875,43.75,1.1818181818181819,have be horrify watch minister find sob
+Jim,Rosemary,1.1904761904761905,0.2976190476190476,53.273809523809526,4.0,bring be go sleep return
+Rosemary,Jim,1.1904761904761905,0.2976190476190476,53.273809523809526,4.0,bring be go sleep return
+Rosemary,Jim,6.071428571428571,2.857142857142857,48.214285714285715,2.125,be spend talk say nod smile
+Jim,Seligman,3.571428571428571,0.7142857142857143,44.285714285714285,5.0,reach be joke scare take have
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Jim,Rosemary,2.2058823529411766,1.8382352941176472,40.07352941176471,1.2,have raise return fix be
+Rosemary,Bossie,1.3888888888888888,0.0,48.61111111111111,INF,try make see be be figure have learn
+Bossie,Rosemary,1.3888888888888888,0.0,48.61111111111111,INF,try make see be be figure have learn
+Bossie,Rosemary,1.3888888888888888,0.0,48.61111111111111,INF,try make see be be figure have learn
+Jim,Rosemary,4.017857142857143,0.4464285714285714,59.82142857142857,9.0,tell lighten be be gather take
+Jim,Rosemary,1.6666666666666667,1.6666666666666667,53.333333333333336,1.0,be pay lower catch burst
+Rosemary,Jim,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be scream grab wrap smother
+Rosemary,Jim,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be scream grab wrap smother
+Jim,Rosemary,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be scream grab wrap smother
+Jim,Rosemary,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,be scream grab wrap smother
+Rosemary,Jim,0.4807692307692308,4.807692307692308,44.71153846153847,0.1,carry talk cut
+Jim,Rosemary,0.4807692307692308,4.807692307692308,44.71153846153847,0.1,carry talk cut
+Rosemary,Little Jim,11.607142857142858,3.571428571428571,34.82142857142857,3.25,love
+Jim,Big Jim,2.5735294117647056,1.4705882352941175,43.01470588235294,1.75,listen hope go check
+Jim,Santa Fe Railroad,1.4705882352941175,0.3676470588235294,62.86764705882353,4.0,hitch haul be ship
+Jim,Big Jim,7.5,3.75,58.75,2.0,start worry
+Jim,Big Jim,1.25,1.875,56.875,0.6666666666666666,have be go furrow draw approach drain reach
+Jim,Rosemary,0.0,0.0,50.0,INF,scoop
+Rosemary,Jim,0.0,0.0,50.0,INF,scoop
+Little Jim,Chevy,0.0,1.1029411764705883,51.83823529411765,0.0,follow be grab have keep slosh
+Little Jim,Chevy,0.0,1.1029411764705883,51.83823529411765,0.0,follow be grab have keep slosh
+Chevy,Little Jim,0.8333333333333334,1.6666666666666667,55.27777777777778,0.5,reach rig plow get put slide
+Chevy,Little Jim,0.8333333333333334,1.6666666666666667,55.27777777777778,0.5,reach rig plow get put slide
+Rosemary,Jim,1.1904761904761905,0.0,60.71428571428571,INF,have stand stick take
+Rosemary,Jim,1.1904761904761905,0.0,60.71428571428571,INF,have stand stick take
+Mom,Buster,6.730769230769231,0.0,39.42307692307692,INF,hear say
+Mom,Rosemary,6.730769230769231,0.0,39.42307692307692,INF,hear say
+Buster,Rosemary,6.730769230769231,0.0,39.42307692307692,INF,hear say
+Chevy,Jim,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Chevy,Rosemary,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Chevy,Little Jim,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Jim,Rosemary,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Jim,Little Jim,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Rosemary,Little Jim,1.201923076923077,5.288461538461538,51.20192307692307,0.22727272727272727,need creep walk be gear go keep stall lurch jerk plow send tumble
+Jim,Rosemary,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Jim,Rosemary,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Jim,Rosemary,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Jim,Rosemary,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Rosemary,Jim,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Rosemary,Jim,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Rosemary,Jim,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Rosemary,Jim,1.8867924528301887,1.650943396226415,49.29245283018868,1.1428571428571428,know do have be cuss plaster scramble be knock do read relay
+Jim,Hackberry,6.730769230769231,0.0,54.807692307692314,INF,convince buy neighbor call
+Jim,Hackberry,2.564102564102564,0.3205128205128205,53.52564102564102,8.0,be move keep bring
+Jim,Big Jim,2.564102564102564,0.3205128205128205,53.52564102564102,8.0,be move keep bring
+Hackberry,Big Jim,2.564102564102564,0.3205128205128205,53.52564102564102,8.0,be move keep bring
+Hackberry,Jim,0.3289473684210526,0.3289473684210526,46.71052631578947,1.0,buy do be drive return
+Hackberry,Chevy,0.3289473684210526,0.3289473684210526,46.71052631578947,1.0,buy do be drive return
+Jim,Chevy,0.3289473684210526,0.3289473684210526,46.71052631578947,1.0,buy do be drive return
+Rosemary,Little Jim,3.3333333333333335,2.5,54.166666666666664,1.3333333333333333,be fascinate
+Rosemary,Hackberry,3.3333333333333335,2.5,54.166666666666664,1.3333333333333333,be fascinate
+Little Jim,Hackberry,3.3333333333333335,2.5,54.166666666666664,1.3333333333333333,be fascinate
+Rosemary,Little Jim,0.0,5.113636363636364,49.43181818181818,0.0,take drag
+Chevy,Rosemary,0.78125,1.171875,57.421875,0.6666666666666666,be head park spot drum use hold
+Lily Casey,Jim,4.6875,2.34375,42.96875,2.0,be get say
+Dad,Rosemary,0.0,4.807692307692308,33.65384615384615,0.0,be say
+Grady Gammage,Red,3.0,1.5,59.5,2.0,write have help get ask know
+Red,Grady Gammage,3.0,1.5,59.5,2.0,write have help get ask know
+Rosemary,Little Jim,1.3297872340425532,0.5319148936170213,53.45744680851063,2.5,make be take pack be run head
+Jim,Chevy,4.545454545454546,1.1363636363636365,57.95454545454546,4.0,follow help get settle
+Jim,Hohokams,1.1029411764705883,3.308823529411765,54.41176470588235,0.3333333333333333,be visit ruin have build
+Little Jim,Rosemary,0.9259259259259258,1.8518518518518516,56.481481481481474,0.5,be share
+Lot Smith,Brigham Young,2.727272727272727,0.45454545454545453,58.63636363636363,6.0,arrive be guard find be fight found have warm
+Rosemary,Little Jim,2.7777777777777777,2.7777777777777777,52.77777777777778,1.0,dote be be fuss comb dress practice
+Amelia Earhart,Roosevelt,2.1226415094339623,2.358490566037736,48.34905660377358,0.9,spend pepper
+Red,Rosemary,7.6923076923076925,5.769230769230769,32.69230769230769,1.3333333333333333,be ride say
+Rosemary,Eli,0.0,0.0,57.14285714285714,INF,look
+Ash Fork,Helen,2.734375,2.34375,63.671875,1.1666666666666667,point have be have call sell
+Ash Fork,Eli,2.734375,2.34375,63.671875,1.1666666666666667,point have be have call sell
+Helen,Eli,2.734375,2.34375,63.671875,1.1666666666666667,point have be have call sell
+Rosemary,Little Jim,1.293103448275862,0.8620689655172413,56.46551724137932,1.5,be be take become
+Rosemary,Little Jim,1.9021739130434785,0.5434782608695652,54.07608695652174,3.5,have make collect leave make pick
+Rosemary,Little Jim,2.4122807017543857,1.0964912280701753,54.385964912280706,2.2,hold set take go have treat head
+Little Jim,Rosemary,2.4122807017543857,1.0964912280701753,54.385964912280706,2.2,hold set take go have treat head
+Johnson,Seligman,0.8064516129032258,0.0,60.483870967741936,INF,leave stop see have
+Rosemary,Little Jim,2.34375,1.5625,58.59375,1.5,hold pass
+Rosemary,Little Jim,0.5952380952380952,1.1904761904761905,60.11904761904761,0.5,dance shout hurry set
+Johnson,Rosemary,1.875,0.625,62.5,3.0,be be
+Johnson,Rosemary,1.1363636363636365,2.840909090909091,64.20454545454545,0.4,have kiss learn
+Johnson,Rosemary,1.1363636363636365,2.840909090909091,46.02272727272727,0.4,call lie say prove
+Johnson,Rosemary,1.1363636363636365,2.840909090909091,46.02272727272727,0.4,call lie say prove
+Johnson,Rosita,2.696078431372549,2.2058823529411766,65.68627450980392,1.2222222222222223,be hold be simmer reach stick name
+Johnson,Helen,3.125,5.208333333333334,58.333333333333336,0.6,be become seduce need realize be mistreat
+Helen,Johnson,3.125,5.208333333333334,58.333333333333336,0.6,be become seduce need realize be mistreat
+Rosita,Johnson,3.618421052631579,3.618421052631579,71.71052631578947,1.0,be have be do be need be rein wind
+Rosita,Johnson,3.618421052631579,3.618421052631579,71.71052631578947,1.0,be have be do be need be rein wind
+Mom,Rosemary,7.954545454545454,0.0,28.40909090909091,INF,do cry say
+Jim,Johnson,0.6756756756756757,1.0135135135135136,49.66216216216216,0.6666666666666666,get open step wave pop
+Rosemary,Little Jim,1.1111111111111112,6.111111111111111,46.111111111111114,0.18181818181818182,tell do want make do expect
+Rosemary,Little Jim,1.1111111111111112,6.111111111111111,46.111111111111114,0.18181818181818182,tell do want make do expect
+Little Jim,Rosemary,1.1111111111111112,6.111111111111111,46.111111111111114,0.18181818181818182,tell do want make do expect
+Rosemary,Little Jim,1.1111111111111112,6.111111111111111,46.111111111111114,0.18181818181818182,tell do want make do expect
+Rosemary,Little Jim,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,have be tell
+Rosemary,Little Jim,1.7241379310344827,5.603448275862069,65.08620689655173,0.3076923076923077,be isolate be walk get
+Jim,Rosemary,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,have send
+Jim,Little Jim,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,have send
+Jim,Rosemary,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,have send
+Jim,Little Jim,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,have send
+Rosemary,Little Jim,2.604166666666667,3.125,44.27083333333333,0.8333333333333334,have send
+Little Jim,Rosemary,2.4456521739130435,2.717391304347826,62.22826086956522,0.9,be want unhorse be have try hang buck veer hope knock
+Little Jim,Rosemary,2.4456521739130435,2.717391304347826,62.22826086956522,0.9,be want unhorse be have try hang buck veer hope knock
+Rosemary,Little Jim,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,saddle set
+Rosemary,Little Jim,1.1363636363636365,1.7045454545454544,56.25,0.6666666666666666,be play step be suck
+Rosemary,Little Jim,1.1363636363636365,1.7045454545454544,56.25,0.6666666666666666,be play step be suck
+Big Jim,Little Jim,0.8928571428571428,2.232142857142857,57.58928571428571,0.4,keep plunge feel find stick
+Big Jim,Little Jim,0.8928571428571428,2.232142857142857,57.58928571428571,0.4,keep plunge feel find stick
+Little Jim,Rosemary,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Rosemary,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Rosemary,Little Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Rosemary,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Rosemary,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Rosemary,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Little Jim,Jim,0.0,3.4375000000000004,46.5625,0.0,pull kneel keep squeeze upgush start gasp
+Rosemary,Jim,1.9230769230769231,0.4807692307692308,53.36538461538461,4.0,turn be drive bring be ride check
+Rosemary,Jim,1.9230769230769231,0.4807692307692308,53.36538461538461,4.0,turn be drive bring be ride check
+Mom,Rosemary,4.761904761904762,1.1904761904761905,51.19047619047619,4.0,believe catch say
+Eli,Johnson,2.34375,0.26041666666666663,57.8125,9.0,be be go earn get join have fire do like
+Little Jim,Rosemary,1.4204545454545454,0.5681818181818182,68.4659090909091,2.5,pack drive drop be be
+Little Jim,Catholic,1.4204545454545454,0.5681818181818182,68.4659090909091,2.5,pack drive drop be be
+Rosemary,Catholic,1.4204545454545454,0.5681818181818182,68.4659090909091,2.5,pack drive drop be be
+Rosemary,Little Jim,2.34375,5.46875,35.9375,0.42857142857142855,do share
+Rosemary,Mother Superior,5.288461538461538,0.0,60.09615384615385,INF,love leap take come crash
+Rosemary,Jim,2.1634615384615383,3.6057692307692304,40.38461538461539,0.6,call donate dismiss refuse eat throw
+Rosemary,John Wayne,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,write be do start tease say think be
+Rosemary,John Wayne,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,write be do start tease say think be
+Rosemary,John Wayne,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,write be do start tease say think be
+Rosemary,John Wayne,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,write be do start tease say think be
+John Wayne,Rosemary,2.5,1.5,56.00000000000001,1.6666666666666667,make look reply dunk
+Rosemary,Mother Superior,2.7439024390243905,0.3048780487804878,55.487804878048784,9.0,receive say think be do return
+Rosemary,Mother Superior,2.7439024390243905,0.3048780487804878,55.487804878048784,9.0,receive say think be do return
+Mother Superior,Rosemary,2.7439024390243905,0.3048780487804878,55.487804878048784,9.0,receive say think be do return
+Mother Superior,Rosemary,2.7439024390243905,0.3048780487804878,55.487804878048784,9.0,receive say think be do return
+Mother Superior,Rosemary,9.722222222222223,0.0,40.27777777777778,INF,write assure plead
+Mother Superior,Rosemary,6.8181818181818175,2.6515151515151514,54.166666666666664,2.5714285714285716,agree get be be
+Mother Superior,Rosemary,6.8181818181818175,2.6515151515151514,54.166666666666664,2.5714285714285716,agree get be be
+Rosemary,Mother Superior,6.8181818181818175,2.6515151515151514,54.166666666666664,2.5714285714285716,agree get be be
+Rosemary,Mother Superior,6.8181818181818175,2.6515151515151514,54.166666666666664,2.5714285714285716,agree get be be
+Rosemary,Little Jim,1.5625,2.083333333333333,50.520833333333336,0.75,earn take
+Rosemary,Little Jim,1.5625,3.125,60.3125,0.5,have be get enrol
+Mom,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Mom,Dorothy,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Mom,Dad,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Mom,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Mom,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Buster,Dorothy,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Buster,Dad,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dorothy,Dad,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dorothy,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dorothy,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dad,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dad,Buster,7.094594594594595,2.7027027027027026,60.47297297297297,2.625,have die have put need be study help
+Dad,Stetson,1.7857142857142856,1.4285714285714286,56.785714285714285,1.25,be lay rest wear have have kill attach
+Stetson,Dad,1.7857142857142856,1.4285714285714286,56.785714285714285,1.25,be lay rest wear have have kill attach
+Dad,Helen,1.7857142857142856,0.0,62.5,INF,do have
+Dad,Buster,0.0,0.5319148936170213,63.297872340425535,0.0,leave draw go be discover owe
+Rosemary,Seligman,3.289473684210526,1.9736842105263157,57.89473684210527,1.6666666666666667,set consider
+Jim,Dad,2.232142857142857,0.0,62.05357142857143,INF,be see have make hold have homestead
+Jim,Hackberry,4.296875,2.734375,52.34375,1.5714285714285714,argue raise pay make buy
+Rosemary,Little Jim,0.8333333333333334,0.8333333333333334,55.00000000000001,1.0,mean pitch work have create
+Rosemary,Little Jim,3.515625,1.5625,57.421875,2.25,have be go be walk ride
+Rosemary,Jim,3.515625,1.5625,57.421875,2.25,have be go be walk ride
+Little Jim,Jim,3.515625,1.5625,57.421875,2.25,have be go be walk ride
+Big Jim,Rosemary,1.7857142857142856,2.380952380952381,67.26190476190477,0.75,have chase hide draw
+Big Jim,Little Jim,1.7857142857142856,2.380952380952381,67.26190476190477,0.75,have chase hide draw
+Rosemary,Little Jim,1.7857142857142856,2.380952380952381,67.26190476190477,0.75,have chase hide draw
+Jim,Rosemary,0.5681818181818182,0.0,67.61363636363636,INF,notice sidle send
+Jim,Fidel,0.0,0.7352941176470588,40.44117647058824,0.0,shake send
+Jim,Fidel,0.0,0.7352941176470588,40.44117647058824,0.0,shake send
+Jim,Rosemary,0.0,12.5,58.92857142857143,0.0,give
+Jim,Rosemary,6.578947368421052,3.289473684210526,58.55263157894737,2.0,look do buy get
+Jim,Rosemary,6.578947368421052,3.289473684210526,58.55263157894737,2.0,look do buy get
+Fidel,Rosemary,0.0,1.5625,54.6875,0.0,glance see give
+Fidel,Rosemary,0.0,1.5625,54.6875,0.0,glance see give
+Rosemary,Fidel,0.0,1.5625,54.6875,0.0,glance see give
+Fidel,Rosemary,0.0,1.5625,54.6875,0.0,glance see give
+Rosemary,Fidel,0.9146341463414633,0.0,50.30487804878049,INF,have turn put get marry be smite
+Rosemary,Fidel,0.9146341463414633,0.0,50.30487804878049,INF,have turn put get marry be smite
+Rosemary,Fidel,0.9146341463414633,0.0,50.30487804878049,INF,have turn put get marry be smite
+Rosemary,Fidel,0.0,1.0416666666666665,48.95833333333333,0.0,leave
+Fidel,Rosemary,0.0,1.0416666666666665,48.95833333333333,0.0,leave
+Fidel,Rosemary,1.0416666666666665,4.166666666666666,36.45833333333333,0.25,catch
+Rosemary,Fidel,1.0416666666666665,4.166666666666666,36.45833333333333,0.25,catch
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Fidel,Rosemary,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Fidel,1.6129032258064515,1.2096774193548387,55.24193548387096,1.3333333333333333,do make leave
+Rosemary,Jim,2.976190476190476,0.5952380952380952,39.285714285714285,5.0,ask give have give find
+Rosemary,Jim,2.976190476190476,0.5952380952380952,39.285714285714285,5.0,ask give have give find
+Jim,Rosemary,2.976190476190476,0.5952380952380952,39.285714285714285,5.0,ask give have give find
+Rosemary,Jim,1.25,0.4166666666666667,45.0,3.0,get be unsaddle clean walk
+Jim,Rosemary,0.0,0.0,57.692307692307686,INF,be try be brave tie start hum
+Jim,Rosemary,0.0,0.0,57.692307692307686,INF,be try be brave tie start hum
+Jim,Rosemary,5.092592592592593,1.3888888888888888,41.66666666666667,3.6666666666666665,pass guide steer need make
+Jim,Rosemary,5.092592592592593,1.3888888888888888,41.66666666666667,3.6666666666666665,pass guide steer need make
+Jim,Rosemary,5.092592592592593,1.3888888888888888,41.66666666666667,3.6666666666666665,pass guide steer need make
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Jim,Rosemary,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Jim,Rosemary,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Rosemary,Jim,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Jim,Rosemary,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,draw start cry keep direct keep caution nick
+Fidel,Rosemary,2.364864864864865,0.33783783783783783,54.054054054054056,7.0,have live be stay ask set
+Rosemary,Fidel,2.364864864864865,0.33783783783783783,54.054054054054056,7.0,have live be stay ask set
+Rosemary,Fidel,2.364864864864865,0.33783783783783783,54.054054054054056,7.0,have live be stay ask set
+Williams,Rosemary,0.0,0.0,48.38709677419355,INF,drive bring pick
+Fidel,Rosemary,9.722222222222223,0.0,56.94444444444444,INF,hold
+Fidel,Rosemary,9.722222222222223,0.0,56.94444444444444,INF,hold
+Fidel,Rosemary,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,pull say be gallop
+Rosemary,Fidel,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,pull say be gallop
+Rosemary,Fidel,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,be wait let graze continue
+Rosemary,Fidel,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,be wait let graze continue
+Miss Finch,Rosemary,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,be want rest have leave offer show take
+Miss Finch,Fidel,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,be want rest have leave offer show take
+Miss Finch,Fidel,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,be want rest have leave offer show take
+Rosemary,Fidel,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,be want rest have leave offer show take
+Rosemary,Fidel,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,be want rest have leave offer show take
+Miss Finch,Fidel,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,give discuss use
+Fidel,Rosemary,0.6944444444444444,0.0,60.416666666666664,INF,interpret sit
+Mom,Rosemary,6.666666666666667,0.8333333333333334,32.5,8.0,be keep say
+Rosemary,Fidel,2.717391304347826,3.260869565217391,54.891304347826086,0.8333333333333334,have be shake holler get hear find swim
+Fidel,Rosemary,2.0161290322580645,3.225806451612903,56.048387096774185,0.625,keep go be go report commit stay
+Jim,Fidel,3.125,2.5,49.375,1.25,tell agree hire be
+Mother Superior,Rosemary,3.4482758620689653,0.43103448275862066,65.08620689655173,8.0,write tell have mature be try board
+Rosemary,Mother Superior,5.555555555555555,0.0,55.55555555555556,INF,want do write be
+Jim,Hackberry,5.706521739130435,1.9021739130434785,46.73913043478261,3.0,have be squirrel be have give do have buy
+Jim,Hackberry,5.706521739130435,1.9021739130434785,46.73913043478261,3.0,have be squirrel be have give do have buy
+Jim,Buster,2.7777777777777777,0.0,61.111111111111114,INF,meet call be have rub
+John Wayne,Duke,5.0,1.0,57.99999999999999,5.0,take mention work call
+Mom,Rosemary,7.954545454545454,0.0,19.318181818181817,INF,say
+Red,Jim,3.214285714285714,5.0,57.49999999999999,0.6428571428571429,do keep ride be wear fall meet be
+Little Jim,Jim,0.0,1.3888888888888888,59.72222222222222,0.0,be sit twist
+Rosemary,Horse Mesa,1.6304347826086956,0.0,63.58695652173913,INF,decide we start splurge
+Mom,Rosemary,6.25,0.8928571428571428,35.714285714285715,7.0,have become say
+Rosemary,Van Buren Street,1.7857142857142856,1.4285714285714286,62.5,1.25,be walk pass be gather gawk
+Rosemary,Catholic,0.0,0.0,59.57446808510638,INF,have enrol keep remind be show
+Rosemary,Charlie,2.2058823529411766,0.0,56.61764705882353,INF,point have get
+Ernestine,Rosemary,3.763440860215054,1.881720430107527,53.494623655913976,2.0,teach be be have be make love have be discover be be choose see
+Ernestine,Rosemary,4.741379310344827,4.741379310344827,45.689655172413794,1.0,become be be feel
+Ernestine,Rosemary,4.741379310344827,4.741379310344827,45.689655172413794,1.0,become be be feel
+Ernestine,Rosemary,4.741379310344827,4.741379310344827,45.689655172413794,1.0,become be be feel
+Jim,Glenda,1.488095238095238,1.488095238095238,56.547619047619044,1.0,have be use spend shoot do take name
+Jim,Glenda,1.488095238095238,1.488095238095238,56.547619047619044,1.0,have be use spend shoot do take name
+Jim,Glenda,1.488095238095238,1.488095238095238,56.547619047619044,1.0,have be use spend shoot do take name
+Glenda,Jim,1.5625,0.0,42.1875,INF,call be ask light
+Glenda,Jim,1.5625,0.0,42.1875,INF,call be ask light
+Jim,Glenda,1.5625,0.0,42.1875,INF,call be ask light
+Jim,Glenda,1.5625,0.0,42.1875,INF,call be ask light
+Jim,Big Jim,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,land see have break
+Jim,Big Jim,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,land see have break
+Jim,Big Jim,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be
+Jim,Glenda,1.25,1.25,44.166666666666664,1.0,do expect walk be stand talk
+Glenda,Jim,1.25,1.25,44.166666666666664,1.0,do expect walk be stand talk
+Glenda,Jim,1.25,1.25,44.166666666666664,1.0,do expect walk be stand talk
+Glenda,Jim,0.0,5.681818181818182,39.77272727272727,0.0,knock say
+Mom,Dad,5.769230769230769,1.9230769230769231,38.46153846153847,3.0,do want spy say explain
+Mom,Rosemary,5.769230769230769,1.9230769230769231,38.46153846153847,3.0,do want spy say explain
+Dad,Rosemary,5.769230769230769,1.9230769230769231,38.46153846153847,3.0,do want spy say explain
+Rosemary,Jim,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,be spend follow
+Rosemary,Jim,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,be spend follow
+Rosemary,Jim,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,be spend follow
+Rosemary,Jim,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,be spend follow
+Rosemary,Jim,0.6578947368421052,2.9605263157894735,64.80263157894737,0.2222222222222222,tell hide follow come make keep happen turn
+Rosemary,Jim,0.6578947368421052,2.9605263157894735,64.80263157894737,0.2222222222222222,tell hide follow come make keep happen turn
+Rosemary,Jim,0.6578947368421052,2.9605263157894735,64.80263157894737,0.2222222222222222,tell hide follow come make keep happen turn
+Rosemary,Kaiser,3.8461538461538463,0.0,65.38461538461539,INF,come get
+Rosemary,Jim,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Rosemary,Jim,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Rosemary,Jim,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Jim,Rosemary,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Rosemary,Jim,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Rosemary,Jim,0.0,0.0,54.09836065573771,INF,follow say go come walk sit take
+Rosemary,Jim,1.4204545454545454,0.0,53.125,INF,get sit drum steer come
+Rosemary,Jim,1.4204545454545454,0.0,53.125,INF,get sit drum steer come
+Jim,Rosemary,1.4204545454545454,0.0,53.125,INF,get sit drum steer come
+Jim,Rosemary,8.125,0.0,41.875,INF,be hold look have leave
+Jim,Rosemary,8.125,0.0,41.875,INF,be hold look have leave
+Jim,Rosemary,8.125,0.0,41.875,INF,be hold look have leave
+Jim,Rosemary,8.125,0.0,41.875,INF,be hold look have leave
+Rex,Rosemary,2.455357142857143,0.0,61.83035714285714,INF,be build work hold form generate
+Rex,Horse Mesa,2.455357142857143,0.0,61.83035714285714,INF,be build work hold form generate
+Rosemary,Horse Mesa,2.455357142857143,0.0,61.83035714285714,INF,be build work hold form generate
+Kaiser,Ford,1.8229166666666667,1.5625,59.114583333333336,1.1666666666666667,trade pack head end
+Jim,Ford,0.5434782608695652,3.260869565217391,54.891304347826086,0.16666666666666666,be make hug be fall plunge
+Jim,Ford,0.5434782608695652,3.260869565217391,54.891304347826086,0.16666666666666666,be make hug be fall plunge
+Jim,Lily Casey,0.0,0.0,50.0,INF,say rename
+Horse Mesa,Jim,1.5625,0.0,69.27083333333334,INF,have vote drive
+Rosemary,Little Jim,0.625,4.375,45.0,0.14285714285714285,finish go
+Little Jim,Big Jim,2.7777777777777777,2.7777777777777777,61.111111111111114,1.0,be
+Big Jim,Diane,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,meet be
+Big Jim,Diane,2.8846153846153846,0.4807692307692308,62.019230769230774,6.0,meet be
+Rosemary,Rex,3.6458333333333335,1.8229166666666667,61.197916666666664,2.0,meet have flirt have start become have duck run arrive
+Rosemary,Rex,3.6458333333333335,1.8229166666666667,61.197916666666664,2.0,meet have flirt have start become have duck run arrive
+Rex,Rosemary,3.6458333333333335,1.8229166666666667,61.197916666666664,2.0,meet have flirt have start become have duck run arrive
+Rosemary,Rex,3.6458333333333335,1.8229166666666667,61.197916666666664,2.0,meet have flirt have start become have duck run arrive
+Horse Mesa,Rosemary,0.0,0.0,50.0,INF,talk say
+Mom,Horse Mesa,5.625,0.625,63.74999999999999,9.0,be have date be take
+Rex,Horse Mesa,0.0,0.0,63.1578947368421,INF,follow show look
+Rex,Rosemary,0.0,0.0,63.1578947368421,INF,follow show look
+Horse Mesa,Rosemary,0.0,0.0,63.1578947368421,INF,follow show look
+Rex,Jim,8.0,2.5,53.5,3.2,have sweep shake give
+Rex,Jim,8.0,2.5,53.5,3.2,have sweep shake give
+Rosemary,Rex,0.0,0.0,60.0,INF,see get tell
+Rosemary,Rex,0.0,0.0,60.0,INF,see get tell
+Rosemary,Jim,0.5,0.25,53.25,2.0,have bring hold praise
+Rosemary,Rex,0.5,0.25,53.25,2.0,have bring hold praise
+Rosemary,Jim,0.5,0.25,53.25,2.0,have bring hold praise
+Rosemary,Rex,0.5,0.25,53.25,2.0,have bring hold praise
+Jim,Rex,0.5,0.25,53.25,2.0,have bring hold praise
+Rosemary,Ernestine,2.82258064516129,2.4193548387096775,62.5,1.1666666666666667,be concern lap do
+Rosemary,Ernestine,2.82258064516129,2.4193548387096775,62.5,1.1666666666666667,be concern lap do
+Rex,Rosemary,0.8064516129032258,2.0161290322580645,55.24193548387096,0.4,take replace do have
+Rex,Rosemary,5.555555555555555,0.0,44.44444444444444,INF,be say gesture
+Rex,Rosemary,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,be date
+Rosemary,Rex,2.2058823529411766,3.6764705882352944,52.94117647058824,0.6,tell be be
+Jim,Rex,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,think be
+Rosemary,Rex,4.947916666666666,4.427083333333334,55.208333333333336,1.1176470588235294,do discourage get be make want do do try point make
+Rex,Rosemary,2.604166666666667,1.0416666666666665,50.520833333333336,2.5,like tell be be happen
+Rosemary,Rex,2.604166666666667,1.0416666666666665,50.520833333333336,2.5,like tell be be happen
+Rex,Rosemary,1.8382352941176472,1.8382352941176472,63.970588235294116,1.0,sneak hang invite come
+Rex,Rosemary,1.8382352941176472,1.8382352941176472,63.970588235294116,1.0,sneak hang invite come
+Rosemary,Rex,1.8382352941176472,1.8382352941176472,63.970588235294116,1.0,sneak hang invite come
+Rosemary,Rex,1.8382352941176472,1.8382352941176472,63.970588235294116,1.0,sneak hang invite come
+Rosemary,Rex,2.0161290322580645,5.241935483870968,41.12903225806452,0.38461538461538464,be startle tickle lead feign say
+Rex,Rosemary,2.0161290322580645,5.241935483870968,41.12903225806452,0.38461538461538464,be startle tickle lead feign say
+Rex,Rosemary,6.25,3.308823529411765,55.14705882352941,1.8888888888888888,happen be explain be be be make
+Rosemary,Rex,6.25,3.308823529411765,55.14705882352941,1.8888888888888888,happen be explain be be be make
+Nazis,Rex,3.054666666666667,3.195333333333333,45.75,0.9559774671395785,go meet toss show stick describe have send be confess be live love pile find serenade rekindle
+Nazis,Rex,3.054666666666667,3.195333333333333,45.75,0.9559774671395785,go meet toss show stick describe have send be confess be live love pile find serenade rekindle
+Nazis,Red,3.054666666666667,3.195333333333333,45.75,0.9559774671395785,go meet toss show stick describe have send be confess be live love pile find serenade rekindle
+Rex,Red,3.054666666666667,3.195333333333333,45.75,0.9559774671395785,go meet toss show stick describe have send be confess be live love pile find serenade rekindle
+Rex,Red,3.054666666666667,3.195333333333333,45.75,0.9559774671395785,go meet toss show stick describe have send be confess be live love pile find serenade rekindle
+Rosemary,Rex,0.0,0.0,62.5,INF,fall be show
+Rosemary,Horse Mesa,0.0,0.0,62.5,INF,fall be show
+Rex,Horse Mesa,0.0,0.0,62.5,INF,fall be show
+Rosemary,Jim,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,be finish
+Rosemary,Jim,0.0,0.0,65.38461538461539,INF,start trot limber sit give
+Rosemary,Rex,0.0,0.0,65.38461538461539,INF,start trot limber sit give
+Jim,Rex,0.0,0.0,65.38461538461539,INF,start trot limber sit give
+Jim,Rosemary,0.0,0.0,41.17647058823529,INF,scoot corral get
+Jim,Rosemary,0.0,0.0,41.17647058823529,INF,scoot corral get
+Rosemary,Rex,0.0,0.0,25.0,INF,ask
+Rex,Jim,4.435483870967742,0.0,53.62903225806451,INF,get set include be take
+Jim,Rosemary,1.25,0.0,53.75,INF,have touch take
+Lily Casey,Rex,1.8518518518518516,1.8518518518518516,48.148148148148145,1.0,say do have get
+Jim,Rex,0.0,0.0,62.5,INF,look raise
+Mom,Rosemary,8.75,0.0,41.25,INF,say
+Rex,Agnes,1.8382352941176472,5.514705882352941,45.588235294117645,0.3333333333333333,hear turn drive
+Rex,Agnes,1.8382352941176472,5.514705882352941,45.588235294117645,0.3333333333333333,hear turn drive
+Minnie,Helen,3.2327586206896552,2.8017241379310347,64.65517241379311,1.1538461538461537,have give talk get stave be get kill get catch take get
+Minnie,Helen,3.2327586206896552,2.8017241379310347,64.65517241379311,1.1538461538461537,have give talk get stave be get kill get catch take get
+Minnie,Helen,3.2327586206896552,2.8017241379310347,64.65517241379311,1.1538461538461537,have give talk get stave be get kill get catch take get
+Minnie,Helen,3.2327586206896552,2.8017241379310347,64.65517241379311,1.1538461538461537,have give talk get stave be get kill get catch take get
+Rosemary,Fidel,3.5256410256410255,0.9615384615384616,44.230769230769226,3.6666666666666665,be have listen have say visit give swim
+Rosemary,Fidel,3.5256410256410255,0.9615384615384616,44.230769230769226,3.6666666666666665,be have listen have say visit give swim
+Lily Casey,Rex,0.0,4.464285714285714,45.535714285714285,0.0,say
+Rex,Ford,0.6944444444444444,0.0,65.97222222222221,INF,lean be borrow
+Ford,Rex,0.6944444444444444,0.0,65.97222222222221,INF,lean be borrow
+Rosemary,Rex,1.4705882352941175,0.0,69.11764705882352,INF,want come tell be
+Rex,Rosemary,1.4705882352941175,0.0,69.11764705882352,INF,want come tell be
+Amelia Earhart,Rex,4.807692307692308,3.8461538461538463,37.5,1.25,say
+Rex,Agnes,3.2975,4.2025,55.00000000000001,0.784651992861392,drive like have hurtle climb be head
+Rex,Rosemary,3.6764705882352944,3.308823529411765,57.720588235294116,1.1111111111111112,tell sell store have save bawl have come investigate
+Rex,Gus,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,bring introduce
+Rex,Gus,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,bring introduce
+Rex,Gus,0.6578947368421052,0.6578947368421052,61.8421052631579,1.0,bring introduce
+Amelia Earhart,Lily Casey,0.625,2.5,46.875,0.25,think have get be
+Amelia Earhart,Lily Casey,0.625,2.5,46.875,0.25,think have get be
+Gus,Rex,0.6944444444444444,2.430555555555556,55.208333333333336,0.2857142857142857,be be go leave take fly
+Rex,Gus,0.6944444444444444,2.430555555555556,55.208333333333336,0.2857142857142857,be be go leave take fly
+Rex,Gus,0.0,0.0,60.0,INF,stop point scramble
+Horse Mesa,Rex,3.289473684210526,0.6578947368421052,53.94736842105263,5.0,fly drop buzz
+Rosemary,Jim,0.78125,0.78125,60.9375,1.0,come run wave dip
+Rosemary,Rex,0.78125,0.78125,60.9375,1.0,come run wave dip
+Jim,Rex,0.78125,0.78125,60.9375,1.0,come run wave dip
+Rex,Rosemary,0.4807692307692308,1.4423076923076923,75.0,0.3333333333333333,do want waste raise
+Rex,Rosemary,0.4807692307692308,1.4423076923076923,75.0,0.3333333333333333,do want waste raise
+Jim,Rosemary,2.34375,0.78125,43.75,3.0,be figure be make turn argue
+Jim,Rosemary,2.34375,0.78125,43.75,3.0,be figure be make turn argue
+Jim,Rosemary,2.34375,0.78125,43.75,3.0,be figure be make turn argue
+Jim,Rosemary,2.34375,0.78125,43.75,3.0,be figure be make turn argue
+Rex,Rosemary,0.0,0.0,51.61290322580645,INF,tell pay get marry do
+Rex,Catholic,0.0,0.0,51.61290322580645,INF,tell pay get marry do
+Rosemary,Catholic,0.0,0.0,51.61290322580645,INF,tell pay get marry do
+Grady Gammage,Red,1.4705882352941175,0.9191176470588236,59.375,1.6,invite know get write be bring have marry
+Red,Grady Gammage,1.4705882352941175,0.9191176470588236,59.375,1.6,invite know get write be bring have marry
+Red,Grady Gammage,1.4705882352941175,0.9191176470588236,59.375,1.6,invite know get write be bring have marry
+Red,Grady Gammage,1.4705882352941175,0.9191176470588236,59.375,1.6,invite know get write be bring have marry
+Rosemary,Rex,0.43103448275862066,2.586206896551724,69.39655172413794,0.16666666666666666,be look
+Rosemary,Rex,0.43103448275862066,2.586206896551724,69.39655172413794,0.16666666666666666,be look
+Rosemary,Rex,0.43103448275862066,2.586206896551724,69.39655172413794,0.16666666666666666,be look
+Rosemary,Rex,0.43103448275862066,2.586206896551724,69.39655172413794,0.16666666666666666,be look
+Rex,Amelia Earhart,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Rex,Jim,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Rex,Rosemary,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Amelia Earhart,Jim,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Amelia Earhart,Rosemary,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Jim,Rosemary,0.8928571428571428,3.571428571428571,41.964285714285715,0.25,give call
+Jim,Rosemary,0.0,0.0,52.94117647058824,INF,start twirl dip spin
+Jim,Rosemary,0.0,0.0,52.94117647058824,INF,start twirl dip spin
+Rex,Ford,0.9615384615384616,0.4807692307692308,52.40384615384615,2.0,come borrow be wait
+Rex,Rosemary,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,reach grab lean plant
+Rex,Rosemary,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,reach grab lean plant
+Rex,Rosemary,3.125,1.3392857142857142,52.67857142857143,2.3333333333333335,reach grab lean plant
+Rosemary,Rex,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Rosemary,Rex,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Rex,Rosemary,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Rex,Rosemary,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Rosemary,Rex,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Rex,Rosemary,2.840909090909091,0.0,60.79545454545454,INF,climb pat own get
+Jeannette,Jim,0.0,1.3888888888888888,65.27777777777779,0.0,live
+Jeannette,Horse Mesa,0.0,1.3888888888888888,65.27777777777779,0.0,live
+Jim,Horse Mesa,0.0,1.3888888888888888,65.27777777777779,0.0,live
+Little Jim,Diane,1.0869565217391304,1.6304347826086956,53.80434782608695,0.6666666666666666,settle have
+Rex,Rosemary,1.3297872340425532,1.5957446808510638,60.90425531914894,0.8333333333333334,drift take work sip draft
+Rosemary,Rex,1.3297872340425532,1.5957446808510638,60.90425531914894,0.8333333333333334,drift take work sip draft
+Rosemary,Rex,1.3297872340425532,1.5957446808510638,60.90425531914894,0.8333333333333334,drift take work sip draft
+Rosemary,Rex,1.3297872340425532,1.5957446808510638,60.90425531914894,0.8333333333333334,drift take work sip draft
+Rosemary,Rex,2.464788732394366,2.640845070422535,59.683098591549296,0.9333333333333333,be paint start drop visit do stay start holler come be expect nurse have pop
+Rosemary,Rex,2.464788732394366,2.640845070422535,59.683098591549296,0.9333333333333333,be paint start drop visit do stay start holler come be expect nurse have pop
+Rex,Rosemary,2.464788732394366,2.640845070422535,59.683098591549296,0.9333333333333333,be paint start drop visit do stay start holler come be expect nurse have pop
+Rex,Rosemary,1.6203703703703702,0.4629629629629629,62.731481481481474,3.5,be live be bear do have pay have drive
+Rex,Rosemary,1.6203703703703702,0.4629629629629629,62.731481481481474,3.5,be live be bear do have pay have drive
+Rosemary,Rex,1.6203703703703702,0.4629629629629629,62.731481481481474,3.5,be live be bear do have pay have drive
+Rosemary,Rex,1.6203703703703702,0.4629629629629629,62.731481481481474,3.5,be live be bear do have pay have drive
+Rosemary,Jeannette,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,name spell do
+Jeannette,Rosemary,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,name spell do
+Jeannette,Rosemary,3.3333333333333335,2.7777777777777777,51.66666666666667,1.2,be rave be come see lie tell feed
+Jeannette,Rosemary,3.3333333333333335,2.7777777777777777,51.66666666666667,1.2,be rave be come see lie tell feed
+Jeannette,Rosemary,3.3333333333333335,2.7777777777777777,51.66666666666667,1.2,be rave be come see lie tell feed
+Jeannette,Rosemary,3.3333333333333335,2.7777777777777777,51.66666666666667,1.2,be rave be come see lie tell feed
+Rex,Rosemary,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,be shape be
+Rex,Rosemary,1.1363636363636365,3.4090909090909087,63.63636363636363,0.3333333333333333,be cut come

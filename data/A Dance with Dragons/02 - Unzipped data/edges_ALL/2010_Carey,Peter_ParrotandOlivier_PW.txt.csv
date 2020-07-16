@@ -1,0 +1,735 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Abbé de La Londe,Bébé,1.2195121951219512,2.4390243902439024,52.4390243902439,0.5,be shoot bruise
+Jacques,Gustave,0.0,0.0,25.0,INF,
+Jacques,Odile,0.0,0.0,25.0,INF,
+Gustave,Odile,0.0,0.0,25.0,INF,
+Papa,Napoleon,3.4090909090909087,0.7575757575757576,59.46969696969697,4.5,be conduct save
+Papa,Napoleon,3.4090909090909087,0.7575757575757576,59.46969696969697,4.5,be conduct save
+Olivier,Barfleur,1.5486725663716814,2.765486725663717,58.51769911504425,0.56,observe stretch have attempt burn have link have see rise become burn lift plague rise be bear see
+God,Rousseau,3.353658536585366,3.6585365853658534,41.76829268292683,0.9166666666666666,become intend be please
+Comtesse de Garmont,Olivier,5.633802816901409,2.8169014084507045,46.478873239436616,2.0,be know sing cry reveal forgive be display have hide
+Comtesse de Garmont,Olivier,5.633802816901409,2.8169014084507045,46.478873239436616,2.0,be know sing cry reveal forgive be display have hide
+Comtesse de Garmont,God,5.633802816901409,2.8169014084507045,46.478873239436616,2.0,be know sing cry reveal forgive be display have hide
+Olivier,God,5.633802816901409,2.8169014084507045,46.478873239436616,2.0,be know sing cry reveal forgive be display have hide
+Olivier,God,5.633802816901409,2.8169014084507045,46.478873239436616,2.0,be know sing cry reveal forgive be display have hide
+Gustave,Jacques,4.545454545454546,0.0,31.818181818181817,INF,be
+Gustave,Jacques,0.625,3.75,50.625,0.16666666666666666,bark lay
+Gustave,Jacques,0.0,0.8064516129032258,44.354838709677416,0.0,produce lay accord
+Bébé,Olivier,2.6515151515151514,3.0303030303030303,48.86363636363637,0.875,be frighten look
+Bébé,Bonaparte,1.6826923076923077,1.6826923076923077,50.480769230769226,1.0,be say bring lead have make
+Thomas,Blacqueville,0.6944444444444444,0.0,65.97222222222221,INF,make stay
+Marie-Jean de Villiers,Marquis de Tilbot,2.734375,0.78125,43.359375,3.5,be know hear call
+Marie-Jean de Villiers,Monsieur,2.734375,0.78125,43.359375,3.5,be know hear call
+Marquis de Tilbot,Monsieur,2.734375,0.78125,43.359375,3.5,be know hear call
+Saint-Dominique,Blacqueville,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,have visit loom live be
+Saint-Dominique,Louis XVIII,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,have visit loom live be
+Blacqueville,Louis XVIII,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,have visit loom live be
+Maman,Thomas,3.125,1.5625,20.3125,2.0,be
+Mme de Staël,faubourg Saint-Antoine,1.4802631578947367,1.644736842105263,54.76973684210527,0.9,enter be cut divide do know do believe be rush wait follow have call shine spread give assume be
+Louis XVIII,Bonaparte,0.0,0.0,61.111111111111114,INF,say be
+Bonaparte,Louis XVIII,0.0,0.0,61.111111111111114,INF,say be
+Odile,Thomas,1.1904761904761905,0.0,55.952380952380956,INF,cry be dispatch be order prevent write
+Odile,Blacqueville,5.263157894736842,1.9736842105263157,45.39473684210527,2.6666666666666665,think be
+Odile,Barfleur,1.4705882352941175,1.4705882352941175,44.11764705882353,1.0,say be be send
+Odile,Barfleur,1.4705882352941175,1.4705882352941175,44.11764705882353,1.0,say be be send
+Olivier,Odile,4.166666666666666,2.083333333333333,38.19444444444444,2.0,say have fall
+Olivier,Odile,4.166666666666666,2.083333333333333,38.19444444444444,2.0,say have fall
+Olivier,Abbé de La Londe,0.8333333333333334,4.166666666666666,41.66666666666667,0.2,come
+Blacqueville,Bonaparte,2.8846153846153846,4.807692307692308,46.15384615384615,0.6,be put
+Blacqueville,Bonaparte,2.8846153846153846,4.807692307692308,46.15384615384615,0.6,be put
+Gustave,Bébé,2.2435897435897436,3.8461538461538463,47.756410256410255,0.5833333333333334,be greet have imagine be be
+Olivier,Abbé de La Londe,2.2058823529411766,1.2867647058823528,59.74264705882353,1.7142857142857142,see admire doubt be turn smile picture spin decorate paint shine end portray
+Olivier,Abbé de La Londe,2.2058823529411766,1.2867647058823528,59.74264705882353,1.7142857142857142,see admire doubt be turn smile picture spin decorate paint shine end portray
+Olivier,Abbé de La Londe,2.2058823529411766,1.2867647058823528,59.74264705882353,1.7142857142857142,see admire doubt be turn smile picture spin decorate paint shine end portray
+Olivier,Barfleur,1.1363636363636365,0.0,62.5,INF,lay
+Olivier,Barfleur,1.1363636363636365,0.0,62.5,INF,lay
+Barfleur,Louis XVI,3.6290322580645165,3.4274193548387095,49.395161290322584,1.0588235294117647,write mean have forget give have die be expect be make sit
+Parrot Larrit,God,5.5,5.0,41.5,1.1,be say be be do
+Monsieur,Parrot Larrit,1.2295081967213115,0.4098360655737705,52.459016393442624,3.0,tell be give be christen be color be burn tumble yell be
+Parrot Larrit,Olivier,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have be name be be be
+Parrot Larrit,Olivier,1.5957446808510638,1.8617021276595744,64.62765957446808,0.8571428571428571,have be name be be be
+Parrot Larrit,Jack,2.34375,3.125,63.28125,0.75,have tramp be call carry
+Parrot Larrit,Jack,2.34375,3.125,63.28125,0.75,have tramp be call carry
+Jack,Parrot Larrit,8.333333333333332,0.0,41.66666666666667,INF,love
+Dartmouth,Louis XVI,1.0,0.5,70.5,2.0,be compel have draw
+Dit,Dart,2.393617021276596,0.0,52.92553191489362,INF,call find isolate situate become find mean
+Piggott,Tom Paine,4.878048780487805,3.6585365853658534,45.1219512195122,1.3333333333333333,shut share be
+Piggott,Tom Paine,4.878048780487805,3.6585365853658534,45.1219512195122,1.3333333333333333,shut share be
+Watkins,Piggott,2.5,1.5625,50.9375,1.6,be suppose say be bring deal
+Piggott,Nicholas Owen,3.278688524590164,1.2295081967213115,59.42622950819673,2.6666666666666665,be understand have be design have devise have inherit purchase do know
+Nicholas Owen,Piggott,3.278688524590164,1.2295081967213115,59.42622950819673,2.6666666666666665,be understand have be design have devise have inherit purchase do know
+Watkins,Jack,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Watkins,Jack,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Watkins,Jack,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Watkins,Jack,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Jack,Watkins,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Jack,Watkins,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Jack,Watkins,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Jack,Watkins,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Jack,Watkins,2.101769911504425,2.2123893805309733,57.63274336283186,0.95,have pull work be say see beat crack be be keep be dab wear
+Watkins,God,2.2058823529411766,3.9215686274509802,58.57843137254902,0.5625,have block be play have wish see
+Watkins,God,2.2058823529411766,3.9215686274509802,58.57843137254902,0.5625,have block be play have wish see
+Watkins,Parrot Larrit,3.4090909090909087,0.7575757575757576,68.56060606060606,4.5,be call offer sit jam
+Watkins,Parrot Larrit,3.4090909090909087,0.7575757575757576,68.56060606060606,4.5,be call offer sit jam
+Watkins,Parrot Larrit,3.4090909090909087,0.7575757575757576,68.56060606060606,4.5,be call offer sit jam
+Monsieur,Mrs. Piggott,2.4096385542168677,1.8072289156626504,54.81927710843374,1.3333333333333333,be tell call do seem talk sugare have engage let know be be cross betray
+Monsieur,Mrs. Piggott,2.4096385542168677,1.8072289156626504,54.81927710843374,1.3333333333333333,be tell call do seem talk sugare have engage let know be be cross betray
+Lord Devon,Piggott,3.308823529411765,3.6764705882352944,57.720588235294116,0.9,be be be ask be tell
+Piggott,Dit,0.0,1.9736842105263157,50.6578947368421,0.0,order perform include mean run call cootchum
+Lord Devon,Benjamin,5.681818181818182,4.166666666666666,53.78787878787878,1.3636363636363635,be tell be please put
+Lord Devon,Poole,5.681818181818182,4.166666666666666,53.78787878787878,1.3636363636363635,be tell be please put
+Benjamin,Poole,5.681818181818182,4.166666666666666,53.78787878787878,1.3636363636363635,be tell be please put
+Lord Devon,Mrs. Piggott,4.6875,0.0,51.5625,INF,clamp march
+Mrs. Piggott,Parrot Larrit,3.90625,2.34375,56.25,1.6666666666666667,have be astonish see
+Monsieur,Mrs. Piggott,1.25,0.0,18.75,INF,say
+Lord Devon,Mrs. Piggott,2.8301886792452833,0.7075471698113208,45.5188679245283,4.0,do know use flick do know require register
+Lord Devon,Piggott,2.8301886792452833,0.7075471698113208,45.5188679245283,4.0,do know use flick do know require register
+Lord Devon,Mrs. Piggott,2.8301886792452833,0.7075471698113208,45.5188679245283,4.0,do know use flick do know require register
+Lord Devon,Piggott,2.8301886792452833,0.7075471698113208,45.5188679245283,4.0,do know use flick do know require register
+Mrs. Piggott,Piggott,2.8301886792452833,0.7075471698113208,45.5188679245283,4.0,do know use flick do know require register
+Lord Devon,Parrot Larrit,0.4807692307692308,3.3653846153846154,65.38461538461539,0.14285714285714285,be wait charge attach
+Lord Devon,Parrot Larrit,0.4807692307692308,3.3653846153846154,65.38461538461539,0.14285714285714285,be wait charge attach
+Benjamin,Poole,3.125,10.9375,48.4375,0.2857142857142857,be
+Lord Devon,Poole,0.0,0.0,42.857142857142854,INF,turn
+Lord Devon,Benjamin,0.0,0.0,42.857142857142854,INF,turn
+Poole,Benjamin,0.0,0.0,42.857142857142854,INF,turn
+Poole,Lord Devon,0.0,0.0,40.0,INF,say be
+Lord Devon,Poole,0.0,0.0,57.14285714285714,INF,retrieve toss
+Lord Devon,Poole,0.0,0.0,57.14285714285714,INF,retrieve toss
+Nicholas Owen,Piggott,0.0,0.0,50.0,INF,say
+Lord Devon,Piggott,0.78125,3.90625,57.8125,0.2,ask look tap
+Lord Devon,Piggott,0.78125,3.90625,57.8125,0.2,ask look tap
+Piggott,Mrs. Piggott,3.125,0.0,59.375,INF,nod
+Lord Devon,Mrs. Piggott,5.0,2.5,44.5,2.0,wring beseech please save do know
+Lord Devon,Mrs. Piggott,5.0,2.5,44.5,2.0,wring beseech please save do know
+Lord Devon,Mrs. Piggott,5.0,2.5,44.5,2.0,wring beseech please save do know
+Lord Devon,Mrs. Piggott,5.0,2.5,44.5,2.0,wring beseech please save do know
+Mrs. Piggott,Piggott,0.0,0.0,46.15384615384615,INF,leave run
+Piggott,Mrs. Piggott,0.0,0.0,46.15384615384615,INF,leave run
+Lord Devon,Piggott,3.009259259259259,2.314814814814815,57.638888888888886,1.3,give watch be knock char walk be stab be kill
+Lord Devon,Piggott,3.009259259259259,2.314814814814815,57.638888888888886,1.3,give watch be knock char walk be stab be kill
+VIII,Parrot Larrit,1.9230769230769231,0.0,71.15384615384616,INF,drop save escape
+VIII,Lord Devon,1.9230769230769231,0.0,71.15384615384616,INF,drop save escape
+Parrot Larrit,Lord Devon,1.9230769230769231,0.0,71.15384615384616,INF,drop save escape
+Parrot Larrit,Benjamin,0.0,5.46875,50.78125,0.0,slide surrender
+Parrot Larrit,Benjamin,0.0,5.46875,50.78125,0.0,slide surrender
+Lord Devon,Mrs. Piggott,1.3888888888888888,0.0,54.166666666666664,INF,have trip stumble
+Lord Devon,Mrs. Piggott,1.3888888888888888,0.0,54.166666666666664,INF,have trip stumble
+Mrs. Piggott,Lord Devon,1.3888888888888888,0.0,54.166666666666664,INF,have trip stumble
+Benjamin,Watkins,0.43103448275862066,3.0172413793103448,55.172413793103445,0.14285714285714285,be drag fear
+Piggott,Virgin Mary,2.1103896103896105,3.896103896103896,57.62987012987013,0.5416666666666666,be have explode have scatter darken face be transfix have see
+Piggott,Lord Devon,2.1103896103896105,3.896103896103896,57.62987012987013,0.5416666666666666,be have explode have scatter darken face be transfix have see
+Virgin Mary,Lord Devon,2.1103896103896105,3.896103896103896,57.62987012987013,0.5416666666666666,be have explode have scatter darken face be transfix have see
+Poole,Lord Devon,3.977272727272727,0.5681818181818182,68.18181818181817,7.0,watch dream stare carry
+God,Poole,6.25,0.0,31.25,INF,cry
+Lord Devon,Mrs. Piggott,0.8928571428571428,5.357142857142857,65.17857142857143,0.16666666666666666,decide be
+Mrs. Piggott,Lord Devon,0.8928571428571428,5.357142857142857,65.17857142857143,0.16666666666666666,decide be
+Lord Devon,Mrs. Piggott,1.7857142857142856,8.928571428571429,46.42857142857143,0.2,set moan
+Lord Devon,Piggott,3.977272727272727,2.272727272727273,48.29545454545455,1.75,cry burn fall
+Piggott,Lord Devon,0.0,2.7777777777777777,52.77777777777778,0.0,understand rush produce throw
+Piggott,Lord Devon,0.0,2.7777777777777777,52.77777777777778,0.0,understand rush produce throw
+Piggott,Lord Devon,0.0,2.7777777777777777,52.77777777777778,0.0,understand rush produce throw
+Benjamin,Lord Devon,0.0,5.921052631578947,62.5,0.0,be take confront
+Lord Devon,Benjamin,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Poole,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Benjamin,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Poole,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Benjamin,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Poole,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Benjamin,Poole,3.571428571428571,4.642857142857143,51.78571428571429,0.7692307692307693,take order pass be fetter
+Lord Devon,Poole,2.7777777777777777,0.0,30.555555555555557,INF,come call
+Chooka,Lord Devon,0.0,0.0,40.0,INF,toss
+Poole,Lord Devon,0.0,3.90625,52.34375,0.0,point follow gaze
+Poole,Lord Devon,0.0,3.90625,52.34375,0.0,point follow gaze
+Olivier,Barfleur,0.0,0.0,45.83333333333333,INF,be cry rush
+Napoleon,Louis XVIII,0.0,3.125,71.875,0.0,be finish pack return plan
+Thomas,Catholic,1.9230769230769231,0.0,59.61538461538461,INF,decide have finish
+Diderot,Rousseau,0.0,0.0,33.33333333333333,INF,
+Protestant,Guizot,5.434782608695652,4.891304347826087,41.84782608695652,1.1111111111111112,be be draw lecture name
+Monsieur,Hôtel Juste,4.642857142857143,1.7857142857142856,56.42857142857143,2.6,have expect be have be be have
+Monsieur,Louis XVI,4.642857142857143,1.7857142857142856,56.42857142857143,2.6,have expect be have be be have
+Monsieur,Louis XVI,4.642857142857143,1.7857142857142856,56.42857142857143,2.6,have expect be have be be have
+Hôtel Juste,Louis XVI,4.642857142857143,1.7857142857142856,56.42857142857143,2.6,have expect be have be be have
+Hôtel Juste,Louis XVI,4.642857142857143,1.7857142857142856,56.42857142857143,2.6,have expect be have be be have
+Monsieur,Louis XVI,2.272727272727273,0.7575757575757576,57.57575757575758,3.0,welcome rest be be
+Monsieur,M. Perroquet,1.5625,0.0,23.4375,INF,say have meet
+Mr. Parrot,Monsieur,3.9473684210526314,2.9605263157894735,53.61842105263158,1.3333333333333333,say nod have sketch be find
+Mr. Parrot,Linnaeus,3.9473684210526314,2.9605263157894735,53.61842105263158,1.3333333333333333,say nod have sketch be find
+Monsieur,Linnaeus,3.9473684210526314,2.9605263157894735,53.61842105263158,1.3333333333333333,say nod have sketch be find
+Monsieur,Guizot,2.2058823529411766,0.7352941176470588,32.35294117647059,3.0,say have be lecture
+Parrot Larrit,Monsieur,7.5,6.666666666666667,39.166666666666664,1.125,be worry observe
+Monsieur,Bonaparte,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,lift examine
+Olivier,Bonaparte,0.0,3.4090909090909087,42.04545454545455,0.0,be say
+God,Bonaparte,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,push know be
+God,Bonaparte,4.545454545454546,3.4090909090909087,37.5,1.3333333333333333,push know be
+Blacqueville,Les Lilas,3.165573770491804,2.3672131147540982,50.204918032786885,1.337257617728532,see pass be emanate come whisper
+Blacqueville,Les Lilas,1.1904761904761905,7.142857142857142,58.333333333333336,0.16666666666666666,be be be
+Olivier,Barfleur,0.0,2.380952380952381,45.23809523809524,0.0,cause ensue be
+Hôtel Juste,Monsieur,4.326923076923077,6.730769230769231,35.09615384615385,0.6428571428571429,be have compose
+Hôtel Juste,Parrot Larrit,4.326923076923077,6.730769230769231,35.09615384615385,0.6428571428571429,be have compose
+Monsieur,Parrot Larrit,4.326923076923077,6.730769230769231,35.09615384615385,0.6428571428571429,be have compose
+Parrot Larrit,Marquis de Tilbot,0.0,3.6458333333333335,54.6875,0.0,be be pay blow pour
+Comtesse de Garmont,Monsieur,5.75,3.25,53.0,1.7692307692307692,become require write be deliver mean rely
+Monsieur,God,7.236842105263158,0.6578947368421052,60.526315789473685,11.0,remind have be create be
+Monsieur,Chevalier,2.7960526315789473,3.618421052631579,51.48026315789473,0.7727272727272727,think sire be frig amuse call do take
+Monsieur,Chevalier,2.7960526315789473,3.618421052631579,51.48026315789473,0.7727272727272727,think sire be frig amuse call do take
+Monsieur,Chevalier,2.7960526315789473,3.618421052631579,51.48026315789473,0.7727272727272727,think sire be frig amuse call do take
+Monsieur,Chevalier,2.7960526315789473,3.618421052631579,51.48026315789473,0.7727272727272727,think sire be frig amuse call do take
+Olivier,Blacqueville,1.5,0.5,52.0,3.0,follow be storm get line
+Olivier,Blacqueville,1.5,0.5,52.0,3.0,follow be storm get line
+Olivier,Blacqueville,1.5,0.5,52.0,3.0,follow be storm get line
+Elisabeth Vigée-Lebrun,Mathilde,2.403846153846154,3.8461538461538463,43.75,0.625,complain use reign say dethrone
+Elisabeth Vigée-Lebrun,Mathilde,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Elisabeth Vigée-Lebrun,Mathilde,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Elisabeth Vigée-Lebrun,Comtesse de Polignac,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Elisabeth Vigée-Lebrun,Mathilde,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Mathilde,Comtesse de Polignac,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Mathilde,Comtesse de Polignac,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Comtesse de Polignac,Mathilde,3.8306451612903225,1.411290322580645,49.596774193548384,2.7142857142857144,dethrone be have be call paint turn be please sign
+Monsieur,Mathilde,2.6785714285714284,3.869047619047619,50.595238095238095,0.6923076923076923,sleep have build choose matter
+Monsieur,faubourg Saint-Antoine,2.6785714285714284,3.869047619047619,50.595238095238095,0.6923076923076923,sleep have build choose matter
+Mathilde,faubourg Saint-Antoine,2.6785714285714284,3.869047619047619,50.595238095238095,0.6923076923076923,sleep have build choose matter
+Charles X,Monsieur,1.0,2.25,50.74999999999999,0.4444444444444444,be order receive
+Mathilde,Monsieur,4.72972972972973,3.040540540540541,48.986486486486484,1.5555555555555556,have lie do know be forbid tell have be make
+Monsieur,Mathilde,4.72972972972973,3.040540540540541,48.986486486486484,1.5555555555555556,have lie do know be forbid tell have be make
+Monsieur,Olivier,0.0,2.083333333333333,36.80555555555556,0.0,want say take
+Mathilde,Comtesse de Polignac,0.0,2.1739130434782608,36.95652173913043,0.0,imagine shell
+Mathilde,Comtesse de Polignac,0.0,2.1739130434782608,36.95652173913043,0.0,imagine shell
+Mathilde,Comtesse de Polignac,0.0,2.1739130434782608,36.95652173913043,0.0,imagine shell
+Mathilde,Comtesse de Polignac,0.0,2.1739130434782608,36.95652173913043,0.0,imagine shell
+Mathilde,Comtesse de Polignac,0.0,2.1739130434782608,36.95652173913043,0.0,imagine shell
+Chevalier,Marie-Jean de Villiers,8.333333333333332,1.7857142857142856,42.26190476190476,4.666666666666667,know say have be work
+Comtesse de Polignac,Marie-Jean de Villiers,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,do say
+Monsieur,Chevalier,4.166666666666666,4.166666666666666,58.333333333333336,1.0,
+Monsieur,Olivier,3.3653846153846154,1.4423076923076923,45.19230769230769,2.3333333333333335,take say hold blacken descend bathe
+Monsieur,Olivier,3.3653846153846154,1.4423076923076923,45.19230769230769,2.3333333333333335,take say hold blacken descend bathe
+Mathilde,faubourg Saint-Antoine,0.0,0.0,57.14285714285714,INF,live
+Monsieur,Maman,2.5,0.7142857142857143,48.214285714285715,3.5,have give sing know be quaver
+faubourg Saint-Antoine,Mathilde,2.232142857142857,3.125,55.35714285714286,0.7142857142857143,sicken tell soften lend
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+God,Marquis de Tilbot,2.6717557251908395,1.1450381679389312,56.48854961832062,2.3333333333333335,have knock make hold see take grin be slash hold shine bite hear eat crunch see spit wait be know
+Eckerd,Mlle Desclée,1.7857142857142856,2.5510204081632653,56.88775510204081,0.7,include turn name dub be travel
+Mr. Peek,Blacqueville,2.631578947368421,4.2105263157894735,54.21052631578947,0.625,carry wait be be suppose benefit think die be sink
+Blacqueville,M. de Tilbot,4.0625,0.9375,57.49999999999999,4.333333333333333,have permit speak seem destroy have be guide
+Mr. Larrit,Marquis de Tilbot,8.59375,8.59375,51.5625,1.0,be think be be
+Mr. Larrit,Marquis de Tilbot,8.59375,8.59375,51.5625,1.0,be think be be
+Marquis de Tilbot,Blacqueville,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,have take smuggle
+Marquis de Tilbot,Blacqueville,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,have take smuggle
+Olivier,Havre,2.083333333333333,4.166666666666666,49.30555555555556,0.5,be
+Monsieur,Mathilde,3.3333333333333335,1.6666666666666667,55.00000000000001,2.0,have promise oblige keep book say
+Monsieur,Mathilde,3.3333333333333335,1.6666666666666667,55.00000000000001,2.0,have promise oblige keep book say
+Monsieur,Mathilde,3.3333333333333335,1.6666666666666667,55.00000000000001,2.0,have promise oblige keep book say
+Monsieur,Saint-Dominique,2.1739130434782608,0.5434782608695652,58.152173913043484,4.0,be rattle
+Eckerd,Barfleur,2.1739130434782608,2.1739130434782608,54.347826086956516,1.0,plead have stow weep remonstrate die leave have be consign be blow raise assure decline abate have weather make
+Eckerd,Barfleur,2.1739130434782608,2.1739130434782608,54.347826086956516,1.0,plead have stow weep remonstrate die leave have be consign be blow raise assure decline abate have weather make
+Eckerd,Barfleur,2.1739130434782608,2.1739130434782608,54.347826086956516,1.0,plead have stow weep remonstrate die leave have be consign be blow raise assure decline abate have weather make
+Eckerd,Barfleur,2.1739130434782608,2.1739130434782608,54.347826086956516,1.0,plead have stow weep remonstrate die leave have be consign be blow raise assure decline abate have weather make
+Havre,Parrot Larrit,2.8625954198473282,3.9122137404580157,59.637404580152676,0.7317073170731707,be be seat feel precede run still contain amplify run shiver have be douse snuff drown have tumble feel see erupt be hurl be note be
+Mr. Peek,Blacqueville,0.625,3.125,56.25,0.2,fill think wait tell
+Mr. Peek,Mr. Hill,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Peek,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Peek,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Peek,Mr. Hill,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Peek,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Peek,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Hill,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mr. Hill,Eckerd,1.3392857142857142,1.0416666666666665,47.61904761904761,1.2857142857142858,be be pour think get mix be shake
+Mathilde,Eckerd,4.779411764705882,0.3676470588235294,53.67647058823529,13.0,have judge set be except brave
+Mathilde,Eckerd,4.779411764705882,0.3676470588235294,53.67647058823529,13.0,have judge set be except brave
+Mathilde,Havre,4.310344827586207,3.8793103448275863,43.53448275862069,1.1111111111111112,be have accommodate
+Mathilde,Monsieur,4.310344827586207,3.8793103448275863,43.53448275862069,1.1111111111111112,be have accommodate
+Havre,Monsieur,4.310344827586207,3.8793103448275863,43.53448275862069,1.1111111111111112,be have accommodate
+Havre,Mathilde,4.310344827586207,3.8793103448275863,43.53448275862069,1.1111111111111112,be have accommodate
+Monsieur,Mathilde,4.310344827586207,3.8793103448275863,43.53448275862069,1.1111111111111112,be have accommodate
+Mathilde,Elisabeth Vigée-Lebrun,3.6585365853658534,0.6097560975609756,54.268292682926834,6.0,be portray be have make look
+Mathilde,Marie,3.6585365853658534,0.6097560975609756,54.268292682926834,6.0,be portray be have make look
+Elisabeth Vigée-Lebrun,Marie,3.6585365853658534,0.6097560975609756,54.268292682926834,6.0,be portray be have make look
+Mathilde,Mr. Peek,2.7777777777777777,0.6944444444444444,57.638888888888886,4.0,be present witness
+Monsieur,Mathilde,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,have be be
+Mathilde,Mr. Peek,1.1904761904761905,0.0,60.71428571428571,INF,hurry fly see spy
+Mathilde,Mr. Peek,1.1904761904761905,0.0,60.71428571428571,INF,hurry fly see spy
+Les Lilas,Havre,2.1551724137931036,3.4482758620689653,49.56896551724138,0.625,have follow appear have see
+Mathilde,Parrot Larrit,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Olivier,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Parrot Larrit,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Olivier,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Parrot Larrit,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Olivier,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Parrot Larrit,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Olivier,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Parrot Larrit,Olivier,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Parrot Larrit,Mathilde,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Olivier,Mathilde,3.5416666666666665,2.7083333333333335,50.416666666666664,1.3076923076923077,name be have see see assist
+Mathilde,Mr. Peek,5.303030303030303,2.6515151515151514,55.68181818181818,2.0,set do be think label
+Proudhon,Elisabeth Vigée-Lebrun,4.861111111111112,4.166666666666666,46.52777777777778,1.1666666666666667,mention do know be
+Mr. Peek,Blacqueville,3.6931818181818183,1.7045454545454544,62.78409090909091,2.1666666666666665,be note have have agree be
+Blacqueville,Proudhon,2.8846153846153846,2.403846153846154,56.25,1.2,tell be paint describe forget
+Blacqueville,Adam,3.308823529411765,2.2058823529411766,51.83823529411765,1.5,feel be make lower countenance be be offend have touch take lower
+Adam,Blacqueville,3.308823529411765,2.2058823529411766,51.83823529411765,1.5,feel be make lower countenance be be offend have touch take lower
+Adam,Blacqueville,3.308823529411765,2.2058823529411766,51.83823529411765,1.5,feel be make lower countenance be be offend have touch take lower
+Adam,Blacqueville,3.308823529411765,2.2058823529411766,51.83823529411765,1.5,feel be make lower countenance be be offend have touch take lower
+Adam,Blacqueville,3.308823529411765,2.2058823529411766,51.83823529411765,1.5,feel be make lower countenance be be offend have touch take lower
+Monsieur,Marquis de Tilbot,3.4482758620689653,4.310344827586207,57.758620689655174,0.8,play understand owe have sell
+Mathilde,Tildy,0.0,2.5,37.5,0.0,be
+Mathilde,Mr. Peek,3.8461538461538463,2.8846153846153846,47.11538461538461,1.3333333333333333,paint pay
+Mr. Peek,Mathilde,3.8461538461538463,2.8846153846153846,47.11538461538461,1.3333333333333333,paint pay
+Mathilde,Mr. Peek,2.6785714285714284,0.0,61.60714285714286,INF,be do have follow
+Mr. Peek,Mathilde,2.6785714285714284,0.0,61.60714285714286,INF,be do have follow
+Monsieur,Bank of New York,2.7439024390243905,1.8292682926829267,51.52439024390244,1.5,hold gaze do tell be have write know be
+Mathilde,Bank of New York,2.976190476190476,3.571428571428571,55.35714285714286,0.8333333333333334,breathe find produce
+Eckerd,Miss Desclée,0.0,2.403846153846154,59.13461538461539,0.0,be discover be
+Eckerd,Miss Desclée,4.076086956521739,0.8152173913043478,62.5,5.0,tell translate listen eye hold be be unnerve
+Eckerd,Miss Desclée,0.6578947368421052,0.0,57.23684210526315,INF,push find cry
+Saint-Dominique,Papa,1.179245283018868,1.4150943396226416,67.21698113207547,0.8333333333333334,imagine be see slit be give bring
+Mother,Rousseau,4.75,2.5,46.75,1.9,tell write know share wish read be
+Mathilde,Monsieur,3.125,0.625,46.25,5.0,meet be dispatch tend
+Mathilde,Monsieur,3.125,0.625,46.25,5.0,meet be dispatch tend
+Mathilde,Marquis de Tilbot,1.1627906976744187,2.3255813953488373,59.30232558139535,0.5,be remain be have serve
+Mathilde,Dart,1.25,0.8333333333333334,61.25000000000001,1.5,sit see pin be
+Mathilde,Dart,1.25,0.8333333333333334,61.25000000000001,1.5,sit see pin be
+Mathilde,Dart,1.25,0.8333333333333334,61.25000000000001,1.5,sit see pin be
+Mathilde,Olivier,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Mathilde,Havre,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Olivier,Havre,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Olivier,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Olivier,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Olivier,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Olivier,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Havre,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Havre,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Havre,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Havre,Mathilde,0.9259259259259258,1.6203703703703702,56.71296296296296,0.5714285714285714,paint be be have collect land work have produce
+Mathilde,Eckerd,2.34375,1.5625,39.84375,1.5,select
+Mathilde,Eckerd,2.34375,1.5625,39.84375,1.5,select
+Eckerd,Mathilde,2.34375,1.5625,39.84375,1.5,select
+Mathilde,Eckerd,8.173076923076923,3.3653846153846154,46.15384615384615,2.4285714285714284,understand think know
+Havre,Mathilde,3.8461538461538463,6.25,39.90384615384615,0.6153846153846154,enter have withdraw
+Mr. Peek,Mathilde,0.8152173913043478,1.6304347826086956,64.94565217391305,0.5,see gaze be be regret know be hide skirt
+Mr. Peek,Mathilde,0.8152173913043478,1.6304347826086956,64.94565217391305,0.5,see gaze be be regret know be hide skirt
+Mr. Peek,Mathilde,0.8152173913043478,1.6304347826086956,64.94565217391305,0.5,see gaze be be regret know be hide skirt
+Mathilde,Maman,0.0,1.6304347826086956,48.369565217391305,0.0,be see be be dispute block
+Mathilde,Eckerd,0.0,1.6304347826086956,48.369565217391305,0.0,be see be be dispute block
+Maman,Eckerd,0.0,1.6304347826086956,48.369565217391305,0.0,be see be be dispute block
+Mathilde,Eckerd,0.0,0.0,50.0,INF,push
+Mathilde,Eckerd,0.0,0.0,50.0,INF,push
+Eckerd,Miss Desclée,4.934210526315789,5.263157894736842,47.69736842105263,0.9375,accept turn hide have become cast
+Eckerd,Mathilde,4.934210526315789,5.263157894736842,47.69736842105263,0.9375,accept turn hide have become cast
+Miss Desclée,Mathilde,4.934210526315789,5.263157894736842,47.69736842105263,0.9375,accept turn hide have become cast
+Olivier,Blacqueville,4.166666666666666,6.666666666666667,42.5,0.625,have share
+Mr. Larrit,Mr. Peek,6.25,0.0,31.25,INF,say
+Mr. Peek,Mr. Larrit,0.0,1.875,48.125,0.0,say be
+Olivier,Mathilde,2.5,0.0,53.5,INF,say use lay
+Mr. Peek,Havre,1.5625,1.5625,51.87500000000001,1.0,arrest say crash run push shout
+Havre,Mr. Peek,1.5625,1.5625,51.87500000000001,1.0,arrest say crash run push shout
+Mr. Larrit,Mr. Peek,6.61764705882353,0.0,52.20588235294118,INF,be establish
+Parrot Larrit,Mathilde,0.8333333333333334,0.0,55.833333333333336,INF,her raise brand rush
+Mathilde,Mr. Larrit,2.403846153846154,0.4807692307692308,62.5,5.0,be abe be visit announce have meet
+God,Mathilde,7.954545454545454,0.0,46.590909090909086,INF,help be
+Mathilde,faubourg Saint-Antoine,4.391891891891892,1.3513513513513513,45.608108108108105,3.25,have rage think have share
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,Mathilde,0.4464285714285714,2.455357142857143,52.45535714285714,0.18181818181818182,be mon thank save hold examine show
+Monsieur,M. de Garmont,7.142857142857142,3.571428571428571,46.42857142857143,2.0,serve be know
+Olivier,Mr. Peek,4.761904761904762,1.5873015873015872,61.904761904761905,3.0,live provide lunch accept have predict lay
+M. de Garmont,Havre,2.5,0.20833333333333334,50.625,12.0,understand read have arrive send examine make
+Mrs. Dougdale,Mr. O’Hara,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,understand be
+Mrs. Dougdale,Public Prisons,3.618421052631579,4.934210526315789,49.34210526315789,0.7333333333333333,imagine be produce title
+Mr. Peek,Mr. O’Hara,1.8229166666666667,4.166666666666666,56.510416666666664,0.4375,have see have retreat isolate depress appear
+Mr. O’Hara,Yankee,6.985294117647059,0.7352941176470588,54.04411764705882,9.5,have write set demonstrate be entrance
+Monsieur,Piranesi,2.864583333333333,4.427083333333334,59.375,0.6470588235294118,recognize have be bring be deny use construct be know
+Monsieur,Plymouth,1.9230769230769231,0.0,44.230769230769226,INF,be survey float have set
+Monsieur,Piggott,5.416666666666667,2.5,48.75,2.1666666666666665,be worry need vomit be present
+Mrs. Bingham,Dr. Bingham,0.0,1.25,48.75,0.0,speak
+Dr. Bingham,Mrs. Bingham,0.0,1.25,48.75,0.0,speak
+John Larrit,Dr. Bingham,0.0,0.0,37.5,INF,cry
+John Larrit,Dr. Bingham,2.7777777777777777,0.8333333333333334,51.94444444444445,3.3333333333333335,say catch present except be engage have
+John Larrit,Parrot Larrit,2.7777777777777777,0.8333333333333334,51.94444444444445,3.3333333333333335,say catch present except be engage have
+John Larrit,Dr. Bingham,2.7777777777777777,0.8333333333333334,51.94444444444445,3.3333333333333335,say catch present except be engage have
+Dr. Bingham,Parrot Larrit,2.7777777777777777,0.8333333333333334,51.94444444444445,3.3333333333333335,say catch present except be engage have
+Parrot Larrit,Dr. Bingham,2.7777777777777777,0.8333333333333334,51.94444444444445,3.3333333333333335,say catch present except be engage have
+Potter,Marquis de Tilbot,1.8518518518518516,1.8518518518518516,59.25925925925925,1.0,bounce stretch lay
+Potter,Marquis de Tilbot,1.8518518518518516,1.8518518518518516,59.25925925925925,1.0,bounce stretch lay
+Potter,Marquis de Tilbot,1.8518518518518516,1.8518518518518516,59.25925925925925,1.0,bounce stretch lay
+Marquis de Tilbot,Potter,1.8518518518518516,1.8518518518518516,59.25925925925925,1.0,bounce stretch lay
+Marquis de Tilbot,Potter,1.8518518518518516,1.8518518518518516,59.25925925925925,1.0,bounce stretch lay
+Dr. Bingham,John Larrit,3.8461538461538463,5.769230769230769,36.53846153846153,0.6666666666666666,need
+Potter,Plymouth,1.6025641025641024,0.0,62.5,INF,be have have leave mirror lay
+Watkins,Potter,2.272727272727273,3.4090909090909087,54.31818181818182,0.6666666666666666,have suffer be frighten crawl sit be
+Marie-Jean de Villiers,Marquis de Tilbot,3.1862745098039214,3.431372549019608,56.127450980392155,0.9285714285714286,understand take be know be be be
+Monsieur,Dr. Bingham,0.8928571428571428,2.232142857142857,61.16071428571429,0.4,stand watch set
+Mr. O’Hara,Mr. Peek,2.798507462686567,0.7462686567164178,50.18656716417911,3.75,lead be have be be know
+Olivier,Barfleur,3.595890410958904,3.2534246575342465,53.42465753424658,1.105263157894737,have spend have prepare figure have stand have be arrest
+Olivier,Olivier-Jean-Baptiste de Clarel de Garmont,3.595890410958904,3.2534246575342465,53.42465753424658,1.105263157894737,have spend have prepare figure have stand have be arrest
+Barfleur,Olivier-Jean-Baptiste de Clarel de Garmont,3.595890410958904,3.2534246575342465,53.42465753424658,1.105263157894737,have spend have prepare figure have stand have be arrest
+Mr. Astor,Mr. O’Hara,4.910714285714286,2.6785714285714284,63.83928571428571,1.8333333333333333,have be borrow have polish recommend
+Mr. Astor,Mr. O’Hara,4.910714285714286,2.6785714285714284,63.83928571428571,1.8333333333333333,have be borrow have polish recommend
+Mr. O’Hara,Mr. Astor,4.910714285714286,2.6785714285714284,63.83928571428571,1.8333333333333333,have be borrow have polish recommend
+Mr. O’Hara,Mr. Peek,3.0660377358490565,1.8867924528301887,61.08490566037735,1.625,have be make say be engage display
+Mr. Peek,Monsieur,4.861111111111112,0.0,50.69444444444444,INF,be consider blaze walk stand
+Monsieur,Mr. Peek,4.861111111111112,0.0,50.69444444444444,INF,be consider blaze walk stand
+Monsieur,Mr. Peek,4.861111111111112,0.0,50.69444444444444,INF,be consider blaze walk stand
+Monsieur,Mr. Peek,4.861111111111112,0.0,50.69444444444444,INF,be consider blaze walk stand
+Marianne,Delacroix,2.142857142857143,0.35714285714285715,40.35714285714286,6.0,see come
+Delacroix,Marianne,2.142857142857143,0.35714285714285715,40.35714285714286,6.0,see come
+Delacroix,Marianne,2.142857142857143,0.35714285714285715,40.35714285714286,6.0,see come
+Mr. Peek,Mathilde,3.308823529411765,1.8382352941176472,47.794117647058826,1.8,say eschew hold
+Bank of New York,Marquis de Tilbot,2.083333333333333,0.0,60.416666666666664,INF,produce explain have earn indicate
+Bank of New York,Marquis de Tilbot,2.083333333333333,0.0,60.416666666666664,INF,produce explain have earn indicate
+Parrot Larrit,Olivier,1.5625,3.125,57.8125,0.5,sign
+Monsieur,Mr. Peek,2.8846153846153846,2.403846153846154,60.09615384615385,1.2,be place regale do know
+Godefroy,Mr. Godefroy,0.0,0.6944444444444444,57.638888888888886,0.0,give notice tell be sit
+Mr. Peek,Monsieur,4.487179487179487,3.5256410256410255,50.96153846153846,1.2727272727272727,be be permit notice have stray note
+Godefroy,Molière,1.7241379310344827,6.4655172413793105,53.879310344827594,0.26666666666666666,be do have read be read
+Godefroy,Molière,1.7241379310344827,6.4655172413793105,53.879310344827594,0.26666666666666666,be do have read be read
+Godefroy,Molière,1.7241379310344827,6.4655172413793105,53.879310344827594,0.26666666666666666,be do have read be read
+Molière,Godefroy,1.7241379310344827,6.4655172413793105,53.879310344827594,0.26666666666666666,be do have read be read
+Molière,Godefroy,1.7241379310344827,6.4655172413793105,53.879310344827594,0.26666666666666666,be do have read be read
+Godefroy,Molière,1.3333333333333335,3.0,59.66666666666667,0.4444444444444444,inform be plan pay be hope have interview command continue carry
+Mr. Vaux,Mrs. Dougdale,1.1111111111111112,4.722222222222222,45.27777777777778,0.23529411764705882,hope discommode ensure come
+Mr. Vaux,Public Prisons,1.1111111111111112,4.722222222222222,45.27777777777778,0.23529411764705882,hope discommode ensure come
+Mrs. Dougdale,Public Prisons,1.1111111111111112,4.722222222222222,45.27777777777778,0.23529411764705882,hope discommode ensure come
+Heudreville,Catholic,3.6363636363636362,5.0,53.18181818181819,0.7272727272727273,be be confide have forget have return make be be
+Mr. Peek,Godefroy,2.34375,0.0,53.90625,INF,produce do begin understand
+Mr. Vaux,Mr. Peek,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Vaux,Mr. Peek,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Vaux,Mr. O’Hara,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Vaux,Mr. Elam Lynds,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Peek,Mr. O’Hara,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Peek,Mr. Elam Lynds,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Peek,Mr. O’Hara,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. Peek,Mr. Elam Lynds,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. O’Hara,Mr. Elam Lynds,4.25531914893617,0.5319148936170213,54.78723404255319,8.0,write seem be
+Mr. O’Hara,Mr. Peek,1.875,0.625,62.5,3.0,be be claim be
+Godefroy,Mr. Peek,2.75,2.25,49.0,1.2222222222222223,be play leave spurn defile twist smudge
+Public Prisons,Mr. Vaux,0.78125,1.5625,45.57291666666667,0.5,await take be deracinate
+Napoleon,Mr. Vaux,1.1075949367088607,1.740506329113924,57.91139240506329,0.6363636363636364,be be convey endure be include show present
+Napoleon,Mr. Walsh,1.1075949367088607,1.740506329113924,57.91139240506329,0.6363636363636364,be be convey endure be include show present
+Mr. Vaux,Mr. Walsh,1.1075949367088607,1.740506329113924,57.91139240506329,0.6363636363636364,be be convey endure be include show present
+Duponceau,Godefroy,1.25,2.083333333333333,53.333333333333336,0.6,drive be leave grapple get
+Duponceau,Godefroy,1.25,2.083333333333333,53.333333333333336,0.6,drive be leave grapple get
+Mr. Vaux,Duponceau,1.8678160919540232,1.4367816091954022,56.46551724137932,1.3,be vacate go be call be stow be produce indicate be open serve have leave
+Mr. Vaux,Duponceau,1.8678160919540232,1.4367816091954022,56.46551724137932,1.3,be vacate go be call be stow be produce indicate be open serve have leave
+Mr. Vaux,Duponceau,1.8678160919540232,1.4367816091954022,56.46551724137932,1.3,be vacate go be call be stow be produce indicate be open serve have leave
+Mr. Vaux,Duponceau,1.8678160919540232,1.4367816091954022,56.46551724137932,1.3,be vacate go be call be stow be produce indicate be open serve have leave
+Duponceau,Quakers,1.7857142857142856,2.6785714285714284,61.60714285714286,0.6666666666666666,be join be please interrogate be confess trot put speak happen visit
+Quakers,Duponceau,1.7857142857142856,2.6785714285714284,61.60714285714286,0.6666666666666666,be join be please interrogate be confess trot put speak happen visit
+Duponceau,Molière,5.147058823529411,2.941176470588235,56.61764705882353,1.75,ask buy
+Monsieur,Molière,3.260869565217391,4.3478260869565215,40.21739130434783,0.75,say offend wish speak
+Parrot Larrit,Monsieur,0.0,0.0,60.0,INF,quote
+Parrot Larrit,Duponceau,3.8461538461538463,3.8461538461538463,46.15384615384615,1.0,talk
+M. Duponceau,Quakers,1.1029411764705883,4.411764705882353,50.36764705882353,0.25,say touch be tipple
+M. Duponceau,Duponceau,3.3854166666666665,5.208333333333334,55.989583333333336,0.65,have learn have begin have learn station be give make abandon
+M. Duponceau,Duponceau,3.3854166666666665,5.208333333333334,55.989583333333336,0.65,have learn have begin have learn station be give make abandon
+Molière,Mr. Larrit,2.5,2.0,39.5,1.25,say stand ask be permit examine
+Molière,Mr. Larrit,2.5,2.0,39.5,1.25,say stand ask be permit examine
+Mr. Larrit,Tartuffe,5.809090909090909,3.565909090909091,47.44318181818182,1.6290630975143405,speak assume be give wonder sound
+Tartuffe,Mr. Larrit,5.809090909090909,3.565909090909091,47.44318181818182,1.6290630975143405,speak assume be give wonder sound
+Mr. Larrit,Monsieur,5.208333333333334,2.083333333333333,59.375,2.5,be report be write
+Duponceau,Tartuffe,1.171875,0.390625,45.3125,3.0,doubt translate say be recognize
+Duponceau,Godefroy,1.3392857142857142,3.571428571428571,52.23214285714286,0.375,tell have offend look see
+Duponceau,Godefroy,1.3392857142857142,3.571428571428571,52.23214285714286,0.375,tell have offend look see
+John Larrit,M. Duponceau,7.094594594594595,2.364864864864865,55.4054054054054,3.0,be estimate look have think
+Josephine,Mr. Larrit,2.5,0.625,51.87500000000001,4.0,be be be tell
+Mr. Larrit,Duponceau,0.0,0.78125,49.21875,0.0,retreat stand mortify
+Mr. Larrit,Duponceau,0.0,0.78125,49.21875,0.0,retreat stand mortify
+Parrot Larrit,Eastern State Penitentiary,1.650943396226415,1.179245283018868,66.98113207547169,1.4,be have be think follow pass clip radiate
+Parrot Larrit,Catherine,1.650943396226415,1.179245283018868,66.98113207547169,1.4,be have be think follow pass clip radiate
+Eastern State Penitentiary,Catherine,1.650943396226415,1.179245283018868,66.98113207547169,1.4,be have be think follow pass clip radiate
+Eastern State Penitentiary,Quakers,1.0416666666666665,3.8194444444444446,64.58333333333334,0.2727272727272727,be tear pour be do
+Duponceau,Jackson,7.386363636363637,1.1363636363636365,64.20454545454545,6.5,be cry be leave
+Duponceau,James,2.8846153846153846,2.564102564102564,63.78205128205128,1.125,be seem be be look be
+James,Duponceau,2.8846153846153846,2.564102564102564,63.78205128205128,1.125,be seem be be look be
+James,Duponceau,2.8846153846153846,2.564102564102564,63.78205128205128,1.125,be seem be be look be
+James,Duponceau,2.8846153846153846,2.564102564102564,63.78205128205128,1.125,be seem be be look be
+James,Duponceau,2.8846153846153846,2.564102564102564,63.78205128205128,1.125,be seem be be look be
+Godefroy,John Larrit,3.977272727272727,3.4090909090909087,38.06818181818182,1.1666666666666667,have hear say
+James,Parrot Larrit,6.25,0.0,61.93181818181818,INF,shake do begin realize be look
+Duponceau,Benjamin,4.044117647058823,5.147058823529411,49.63235294117647,0.7857142857142857,have teach invent be rock
+Mr. Godefroy,Mr. Elam Lynds,1.644736842105263,3.9473684210526314,47.03947368421053,0.4166666666666667,wish say draw lash
+Mr. Godefroy,Mr. Elam Lynds,1.644736842105263,3.9473684210526314,47.03947368421053,0.4166666666666667,wish say draw lash
+Mr. Godefroy,Mr. Elam Lynds,1.644736842105263,3.9473684210526314,47.03947368421053,0.4166666666666667,wish say draw lash
+Mr. Godefroy,Mr. Elam Lynds,1.644736842105263,3.9473684210526314,47.03947368421053,0.4166666666666667,wish say draw lash
+Mr. Elam Lynds,Quakers,0.0,4.411764705882353,54.41176470588235,0.0,be oppose threaten be
+Yankee,Tartuffe,2.272727272727273,2.272727272727273,68.18181818181817,1.0,say have
+Yankee,Tartuffe,2.272727272727273,2.272727272727273,68.18181818181817,1.0,say have
+Godefroy,Mr. Peek,1.9230769230769231,5.288461538461538,62.019230769230774,0.36363636363636365,court say grin be be imagine
+Duponceau,Marquis de Tilbot,0.0,0.0,47.368421052631575,INF,say come fetch
+Mathilde,Duponceau,0.0,0.0,50.0,INF,say
+Mr. Godefroy,Yale College,6.25,2.314814814814815,67.36111111111111,2.7,have attend graduate have practice have conceive make occupy
+Yale College,Mr. Godefroy,6.25,2.314814814814815,67.36111111111111,2.7,have attend graduate have practice have conceive make occupy
+Amelia,Mathilde,1.3157894736842104,4.605263157894736,59.86842105263158,0.2857142857142857,do believe hear mention negotiate create
+Amelia,Mr. Larrit,1.3157894736842104,4.605263157894736,59.86842105263158,0.2857142857142857,do believe hear mention negotiate create
+Mathilde,Mr. Larrit,1.3157894736842104,4.605263157894736,59.86842105263158,0.2857142857142857,do believe hear mention negotiate create
+Mr. Godefroy,Amelia,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Mr. Godefroy,Catherine,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Mr. Godefroy,Amelia,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Mr. Godefroy,Catherine,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Mr. Godefroy,Amelia,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Mr. Godefroy,Catherine,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Amelia,Catherine,2.631578947368421,2.631578947368421,52.63157894736842,1.0,be
+Catherine,Amelia,3.040540540540541,5.0675675675675675,54.054054054054056,0.6,be be give have make have
+Godefroy,Olivier,0.0,0.0,62.5,INF,pour
+Olivier,Tartuffe,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Godefroy,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Tartuffe,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Godefroy,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Tartuffe,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Godefroy,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Tartuffe,Olivier,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Tartuffe,Godefroy,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Olivier,Godefroy,1.7361111111111112,2.083333333333333,48.95833333333333,0.8333333333333334,come let adore die destroy sleep
+Mr. Larrit,Godefroy,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,say reveal
+Mr. Larrit,Godefroy,0.5434782608695652,2.1739130434782608,45.108695652173914,0.25,say reveal
+Godefroy,Mr. Godefroy,0.0,1.9230769230769231,36.53846153846153,0.0,excuse say return
+Godefroy,Olivier,4.713114754098361,3.0737704918032787,52.86885245901639,1.5333333333333334,return take spend record be conduct be base be hold affect be stop tyrannize
+Catherine,Adam,0.8333333333333334,5.0,60.83333333333333,0.16666666666666666,ask do tell make
+Catherine,Adam,0.8333333333333334,5.0,60.83333333333333,0.16666666666666666,ask do tell make
+Godefroy,Mr. Godefroy,1.5,1.0,57.49999999999999,1.5,descend come hold be
+Godefroy,Mr. Godefroy,1.5,1.0,57.49999999999999,1.5,descend come hold be
+Mr. Larrit,Godefroy,0.5434782608695652,0.0,42.934782608695656,INF,see begin think
+Olivier,Mr. Godefroy,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,be enter be put
+Olivier,Godefroy,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,be enter be put
+Mr. Godefroy,Godefroy,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,be enter be put
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Godefroy,Mathilde,3.4926470588235294,5.514705882352941,54.22794117647059,0.6333333333333333,sigh sit clasp set catch be set imagine have think die lose
+Mathilde,Godefroy,1.875,3.75,49.375,0.5,go think rock feel
+Mathilde,Godefroy,1.875,3.75,49.375,0.5,go think rock feel
+Dit,Chooka,1.0638297872340425,1.0638297872340425,44.680851063829785,1.0,be have envisage be build have discuss
+Dit,Piggott,1.0638297872340425,1.0638297872340425,44.680851063829785,1.0,be have envisage be build have discuss
+Chooka,Piggott,1.0638297872340425,1.0638297872340425,44.680851063829785,1.0,be have envisage be build have discuss
+Olivier,Parrot Larrit,0.5681818181818182,3.977272727272727,54.54545454545454,0.14285714285714285,have
+Olivier,Protestant,7.236842105263158,7.236842105263158,43.42105263157895,1.0,ask be enjoy be
+Jesus,Godefroy,2.083333333333333,2.8846153846153846,52.72435897435898,0.7222222222222222,have wait be miss draw blow be sit be take say
+Jesus,Godefroy,2.083333333333333,2.8846153846153846,52.72435897435898,0.7222222222222222,have wait be miss draw blow be sit be take say
+Jesus,Godefroy,2.083333333333333,2.8846153846153846,52.72435897435898,0.7222222222222222,have wait be miss draw blow be sit be take say
+Mrs. Godefroy,Godefroy,6.8181818181818175,4.545454545454546,43.18181818181818,1.5,be observe look
+Godefroy,Mrs. Godefroy,6.8181818181818175,4.545454545454546,43.18181818181818,1.5,be observe look
+Godefroy,Mrs. Godefroy,2.083333333333333,0.0,47.91666666666667,INF,think
+Catholic,Protestant,0.0,0.0,60.0,INF,smile apply
+Poole,Mr. Farrar,7.638888888888889,2.7777777777777777,56.25,2.75,understand be name be oppose
+Poole,Mr. Farrar,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be
+Mrs. Godefroy,Mr. Larrit,2.083333333333333,2.083333333333333,45.83333333333333,1.0,do get be chuckle swoop
+Mr. Larrit,Godefroy,4.545454545454546,0.0,31.818181818181817,INF,cry
+Mathilde,Olivier,1.3888888888888888,4.166666666666666,66.66666666666666,0.3333333333333333,be be
+God,Mathilde,2.864583333333333,4.6875,63.28125,0.6111111111111112,know be give stink be call suppose be drench arrive see
+Mr. Peek,Mathilde,4.166666666666666,5.0,50.83333333333333,0.8333333333333334,have sell do believe do
+Mr. Peek,Mathilde,1.744186046511628,1.1627906976744187,52.90697674418605,1.5,have play lend load break be invent
+Mr. Peek,Mathilde,1.744186046511628,1.1627906976744187,52.90697674418605,1.5,have play lend load break be invent
+Mr. Peek,Mathilde,1.744186046511628,1.1627906976744187,52.90697674418605,1.5,have play lend load break be invent
+Monsieur,Eckerd,2.5,0.0,37.5,INF,say
+Eckerd,faubourg Saint-Antoine,1.358695652173913,2.1739130434782608,59.5108695652174,0.625,have put steal be fall
+Eckerd,faubourg Saint-Antoine,1.358695652173913,2.1739130434782608,59.5108695652174,0.625,have put steal be fall
+Tildy,Eckerd,3.6764705882352944,0.0,49.26470588235294,INF,move take rush help
+Tildy,Mathilde,3.6764705882352944,0.0,49.26470588235294,INF,move take rush help
+Eckerd,Mathilde,3.6764705882352944,0.0,49.26470588235294,INF,move take rush help
+Mathilde,Eckerd,0.0,0.0,33.33333333333333,INF,look
+John Larrit,Eckerd,0.0,0.0,37.5,INF,tell say
+Mathilde,Eckerd,4.6875,3.125,46.35416666666667,1.5,wish hold love do need tell
+Mathilde,Eckerd,4.6875,3.125,46.35416666666667,1.5,wish hold love do need tell
+Mathilde,Eckerd,4.6875,3.125,46.35416666666667,1.5,wish hold love do need tell
+Eckerd,Mr. Peek,4.017857142857143,0.0,53.125,INF,engage hand hand pay
+Marie,Watkins,1.7857142857142856,0.5952380952380952,50.0,3.0,call say bring
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Watkins,Marie,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Watkins,Marie,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Watkins,Marie,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Marie,Watkins,5.555555555555555,1.5873015873015872,57.936507936507944,3.5,stand hang think be know be have know be marry have be burn
+Mrs. Piggott,Watkins,5.603448275862069,0.0,46.12068965517241,INF,let know say shake understand be
+Watkins,Mrs. Piggott,5.603448275862069,0.0,46.12068965517241,INF,let know say shake understand be
+Watkins,Marie,3.125,5.078125,57.421875,0.6153846153846154,have arrive know be bestow be
+Marie,Watkins,3.1976744186046515,6.104651162790697,39.53488372093023,0.5238095238095238,come profit make see appreciate
+Marie,Watkins,5.555555555555555,1.3888888888888888,48.61111111111111,4.0,have be
+Mrs. Piggott,Rembrandt,1.8617021276595744,1.8617021276595744,55.85106382978723,1.0,be stand attend arrange eke do see understand have glory elevate be be
+Mrs. Piggott,Parrot Larrit,1.8617021276595744,1.8617021276595744,55.85106382978723,1.0,be stand attend arrange eke do see understand have glory elevate be be
+Mrs. Piggott,Parrot Larrit,1.8617021276595744,1.8617021276595744,55.85106382978723,1.0,be stand attend arrange eke do see understand have glory elevate be be
+Rembrandt,Parrot Larrit,1.8617021276595744,1.8617021276595744,55.85106382978723,1.0,be stand attend arrange eke do see understand have glory elevate be be
+Rembrandt,Parrot Larrit,1.8617021276595744,1.8617021276595744,55.85106382978723,1.0,be stand attend arrange eke do see understand have glory elevate be be
+Maman,Mathilde,2.754237288135593,1.694915254237288,56.567796610169495,1.625,be occupy argue riddle raddle poke punish see take order show be reserve
+Maman,Mathilde,2.754237288135593,1.694915254237288,56.567796610169495,1.625,be occupy argue riddle raddle poke punish see take order show be reserve
+Mathilde,Watkins,5.357142857142857,7.142857142857142,51.78571428571429,0.75,wish know do visit
+Olivier,Godefroy,1.4705882352941175,0.3676470588235294,54.04411764705882,4.0,be be stand
+Mrs. Piggott,Eckerd,2.941176470588235,0.0,61.76470588235294,INF,ask do wish have
+Mrs. Piggott,Monsieur,3.048780487804878,3.353658536585366,52.13414634146341,0.9090909090909091,have see die know do want live march toss
+Mrs. Piggott,Monsieur,3.048780487804878,3.353658536585366,52.13414634146341,0.9090909090909091,have see die know do want live march toss
+Monsieur,Mrs. Piggott,3.048780487804878,3.353658536585366,52.13414634146341,0.9090909090909091,have see die know do want live march toss
+Monsieur,Mrs. Piggott,3.048780487804878,3.353658536585366,52.13414634146341,0.9090909090909091,have see die know do want live march toss
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Piggott,Mrs. Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Piggott,Mrs. Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,3.6363636363636362,1.8181818181818181,47.27272727272727,2.0,save save have lay move kill go make
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Piggott,Mrs. Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Piggott,Mrs. Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Piggott,Mrs. Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mrs. Piggott,Piggott,2.8735632183908044,3.3045977011494254,52.44252873563219,0.8695652173913043,appear be order fear be die return have relate come live
+Mathilde,Olivier,0.6696428571428571,1.7857142857142856,56.47321428571429,0.375,head tread be be admit miss
+Dirk,Peter,3.343023255813953,2.0348837209302326,50.43604651162791,1.6428571428571428,have settle have have be set be fortify drive shoot be be slaughter have bash
+Amelia,Mr. Parrot,6.25,5.3125,48.4375,1.1764705882352942,be have imagine replace be
+Amelia,Mr. Parrot,6.25,5.3125,48.4375,1.1764705882352942,be have imagine replace be
+Amelia,Mathilde,5.253623188405797,4.528985507246377,55.434782608695656,1.16,possess grace be be think take understand have underestimate require
+Amelia,Mathilde,5.253623188405797,4.528985507246377,55.434782608695656,1.16,possess grace be be think take understand have underestimate require
+Amelia,Mathilde,5.253623188405797,4.528985507246377,55.434782608695656,1.16,possess grace be be think take understand have underestimate require
+Amelia,Mathilde,5.253623188405797,4.528985507246377,55.434782608695656,1.16,possess grace be be think take understand have underestimate require
+Amelia,senate,0.0,0.8333333333333334,49.166666666666664,0.0,permit dictate elect do respect
+Godefroy,Parrot Larrit,3.804347826086957,0.2717391304347826,56.79347826086957,14.0,release be take trust rewrite be speak
+Godefroy,Parrot Larrit,3.804347826086957,0.2717391304347826,56.79347826086957,14.0,release be take trust rewrite be speak
+Parrot Larrit,Peter,0.0,0.0,53.333333333333336,INF,lend stanch
+Mr. Godefroy,Godefroy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,lie be remind turn
+Mr. Godefroy,Godefroy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,lie be remind turn
+Mr. Godefroy,Godefroy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,lie be remind turn
+Godefroy,Amelia,2.6515151515151514,7.954545454545454,62.121212121212125,0.3333333333333333,do suggest have suffer be
+Olivier,Eckerd,1.0869565217391304,1.0869565217391304,58.69565217391305,1.0,say change expect shatter
+Olivier,Eckerd,1.0869565217391304,1.0869565217391304,58.69565217391305,1.0,say change expect shatter
+Olivier,Eckerd,1.0869565217391304,1.0869565217391304,58.69565217391305,1.0,say change expect shatter
+Eckerd,Mathilde,2.5,0.0,60.83333333333333,INF,be find find
+Mathilde,Watkins,0.78125,3.125,33.59375,0.25,whisper represent
+Mathilde,Marquis de Tilbot,5.729166666666666,6.25,50.520833333333336,0.9166666666666666,do know have perform
+Mathilde,Parrot Larrit,6.25,0.0,27.083333333333332,INF,say
+Eckerd,Miss Desclée,0.0,2.7777777777777777,41.66666666666667,0.0,look
+Eckerd,Mr. Peek,5.0,3.214285714285714,57.49999999999999,1.5555555555555556,appear discuss hand hand confirm be insure
+Eckerd,Bank of New York,1.744186046511628,3.1976744186046515,55.52325581395349,0.5454545454545454,disclose lose do disclose have place
+Eckerd,Bank of New York,1.744186046511628,3.1976744186046515,55.52325581395349,0.5454545454545454,disclose lose do disclose have place
+Mathilde,Mr. Peek,1.6304347826086956,3.260869565217391,47.28260869565217,0.5,mathilde say be say insure
+Mathilde,Watkins,3.6764705882352944,4.411764705882353,44.85294117647059,0.8333333333333334,understand be say be be
+Mathilde,Watkins,3.6764705882352944,4.411764705882353,44.85294117647059,0.8333333333333334,understand be say be be
+M. Perroquet,Comtesse de Garmont,3.1609195402298855,2.1551724137931036,52.1551724137931,1.4666666666666666,read write be have become advise do know be set make beg use have have return
+Marquis de Tilbot,Mr. Larrit,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Marquis de Tilbot,Mr. Larrit,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Marquis de Tilbot,Mr. Larrit,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Marquis de Tilbot,Mr. Larrit,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Marquis de Tilbot,Mr. Larrit,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Marquis de Tilbot,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Larrit,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Larrit,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Larrit,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Larrit,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Larrit,Adam,3.209459459459459,3.7162162162162162,61.99324324324324,0.8636363636363636,be be nod see loom remember be have leave
+Mr. Godefroy,Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Mr. Godefroy,Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Mr. Godefroy,Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Godefroy,Mr. Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Godefroy,Mr. Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Godefroy,Mr. Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Godefroy,Mr. Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Mr. Godefroy,Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Godefroy,Mr. Godefroy,10.714285714285714,3.125,43.30357142857143,3.4285714285714284,have speak consult have have be oblige
+Mr. Godefroy,Mrs. Dover,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mr. Godefroy,Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mr. Godefroy,Mrs. Dover,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mrs. Dover,Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mrs. Dover,Mr. Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mrs. Dover,Mr. Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Godefroy,Mr. Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Godefroy,Mr. Godefroy,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Godefroy,Mrs. Dover,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mr. Godefroy,Mrs. Dover,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Mr. Godefroy,Mrs. Dover,2.083333333333333,4.487179487179487,61.37820512820513,0.4642857142857143,be report have be see have establish be be be agree be
+Amelia,Jackson,4.722222222222222,6.388888888888888,46.666666666666664,0.7391304347826086,chance have think leave surprise
+John Larrit,Amelia,1.0869565217391304,2.1739130434782608,57.608695652173914,0.5,have go say look do think
+Amelia,John Larrit,5.434782608695652,4.3478260869565215,55.434782608695656,1.25,say have give have be be give
+Amelia,Mme de Staël,4.878048780487805,1.8292682926829267,46.95121951219512,2.6666666666666665,have engage think be burden
+Amelia,Mme de Staël,4.878048780487805,1.8292682926829267,46.95121951219512,2.6666666666666665,have engage think be burden
+Mr. Godefroy,Mrs. Dover,3.125,2.34375,57.03125,1.3333333333333333,be have
+John Larrit,Havre,4.6568627450980395,8.333333333333332,57.59803921568627,0.5588235294117647,have see blaze have fear kill observe
+John Larrit,Havre,4.6568627450980395,8.333333333333332,57.59803921568627,0.5588235294117647,have see blaze have fear kill observe
+Amelia,Jackson,3.0303030303030303,5.303030303030303,55.3030303030303,0.5714285714285714,wax be take
+Amelia,Jackson,3.0303030303030303,5.303030303030303,55.3030303030303,0.5714285714285714,wax be take
+Mr. Parrot,Thomas,1.1111111111111112,3.3333333333333335,62.22222222222222,0.3333333333333333,engrave show see be remind have bring
+Mr. Parrot,Mr. Godefroy,1.1111111111111112,3.3333333333333335,62.22222222222222,0.3333333333333333,engrave show see be remind have bring
+Thomas,Mr. Godefroy,1.1111111111111112,3.3333333333333335,62.22222222222222,0.3333333333333333,engrave show see be remind have bring
+Amelia,Rembrandt,0.0,7.8125,67.1875,0.0,be
+Elisabeth Vigée-Lebrun,Marie,1.7543859649122806,2.1929824561403506,53.94736842105263,0.8,frame recall stand hide apply glisten make
+Mr. Larrit,Marie,4.375,0.625,35.0,7.0,say make see
+Mr. Godefroy,Bébé,1.5384615384615385,4.423076923076923,57.11538461538461,0.34782608695652173,smell be remind have brush make
+Bébé,Amelia,1.4534883720930232,3.1976744186046515,44.18604651162791,0.45454545454545453,speak persuade describe
+Bébé,Amelia,1.4534883720930232,3.1976744186046515,44.18604651162791,0.45454545454545453,speak persuade describe
+Bébé,Saint-Dominique,1.4534883720930232,3.1976744186046515,44.18604651162791,0.45454545454545453,speak persuade describe
+Amelia,Saint-Dominique,1.4534883720930232,3.1976744186046515,44.18604651162791,0.45454545454545453,speak persuade describe
+Amelia,Saint-Dominique,1.4534883720930232,3.1976744186046515,44.18604651162791,0.45454545454545453,speak persuade describe
+Amelia,Bébé,3.5511363636363638,3.977272727272727,47.01704545454545,0.8928571428571429,be agree smother think walk botanize show have have classify be be base
+Amelia,Linnaeus,3.5511363636363638,3.977272727272727,47.01704545454545,0.8928571428571429,be agree smother think walk botanize show have have classify be be base
+Amelia,Bébé,3.5511363636363638,3.977272727272727,47.01704545454545,0.8928571428571429,be agree smother think walk botanize show have have classify be be base
+Amelia,Linnaeus,3.5511363636363638,3.977272727272727,47.01704545454545,0.8928571428571429,be agree smother think walk botanize show have have classify be be base
+Bébé,Linnaeus,3.5511363636363638,3.977272727272727,47.01704545454545,0.8928571428571429,be agree smother think walk botanize show have have classify be be base
+Godefroy,Mr. Godefroy,2.272727272727273,2.840909090909091,51.70454545454546,0.8,be think culture be
+Godefroy,Mr. Godefroy,2.272727272727273,2.840909090909091,51.70454545454546,0.8,be think culture be
+Godefroy,Mr. Godefroy,2.272727272727273,2.840909090909091,51.70454545454546,0.8,be think culture be
+Mr. Godefroy,First Bank of,2.5337837837837838,0.6756756756756757,52.195945945945944,3.75,press recall make mete
+Mr. Godefroy,First Bank of,2.5337837837837838,0.6756756756756757,52.195945945945944,3.75,press recall make mete
+First Bank of,Mr. Godefroy,2.5337837837837838,0.6756756756756757,52.195945945945944,3.75,press recall make mete
+Amelia,Comtesse de Garmont,4.910714285714286,3.571428571428571,48.660714285714285,1.375,have frighten amuse imagine pass
+Mr. Godefroy,Protestant,3.2327586206896552,2.586206896551724,52.80172413793104,1.25,have be take have guess have know
+First Bank of,Andrew Jackson,0.43103448275862066,0.0,65.08620689655173,INF,dine call be set destroy
+Watkins,Eckerd,1.4705882352941175,0.3676470588235294,59.92647058823529,4.0,have aid write have see be print
+Watkins,Eckerd,1.4705882352941175,0.3676470588235294,59.92647058823529,4.0,have aid write have see be print
+senate,Clinton,0.8333333333333334,0.5555555555555556,45.27777777777778,1.5,
+senate,Clinton,0.8333333333333334,0.5555555555555556,45.27777777777778,1.5,
+senate,Clinton,0.8333333333333334,0.5555555555555556,45.27777777777778,1.5,
+senate,Clinton,0.8333333333333334,0.5555555555555556,45.27777777777778,1.5,
+Kaaterskill,Godefroy,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Kaaterskill,Thomas,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Kaaterskill,Godefroy,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Kaaterskill,Godefroy,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Godefroy,Thomas,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Thomas,Godefroy,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Thomas,Godefroy,4.75,2.5,52.75,1.9,go give praise have bore contaminate
+Barfleur,Marquis de Tilbot,3.125,3.125,48.29545454545455,1.0,believe lead have lose vanish
+Barfleur,Marquis de Tilbot,3.125,3.125,48.29545454545455,1.0,believe lead have lose vanish
+Jackson,First Bank of,2.3706896551724137,2.8017241379310347,58.620689655172406,0.8461538461538461,have be be be be remove distribute
+Jackson,First Bank of,0.7142857142857143,0.0,50.71428571428571,INF,want do claim be use act
+Jackson,First Bank of,0.7142857142857143,0.0,50.71428571428571,INF,want do claim be use act
+Godefroy,Jackson,1.7857142857142856,3.214285714285714,57.85714285714286,0.5555555555555556,attempt tell be do be cut boil chew
+Godefroy,Jackson,1.7857142857142856,3.214285714285714,57.85714285714286,0.5555555555555556,attempt tell be do be cut boil chew
+Catholic,Mathilde,2.7777777777777777,2.083333333333333,61.80555555555556,1.3333333333333333,be argue
+Catholic,Mrs. Godefroy,6.875000000000001,0.0,48.125,INF,say be know
+Catholic,Godefroy,10.0,0.0,36.666666666666664,INF,prefer be say
+Godefroy,Blacqueville,1.7857142857142856,0.8928571428571428,50.89285714285714,2.0,say nuzzle call
+Godefroy,Barfleur,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be understand mean be marry
+Bébé,Godefroy,0.0,0.0,36.84210526315789,INF,pray say run
+Bébé,Godefroy,0.0,0.0,36.84210526315789,INF,pray say run
+Godefroy,Saint-Dominique,2.840909090909091,2.840909090909091,53.40909090909091,1.0,die present
+Godefroy,Saint-Dominique,2.840909090909091,2.840909090909091,53.40909090909091,1.0,die present
+Parrot Larrit,Watkins,4.807692307692308,3.3653846153846154,51.442307692307686,1.4285714285714286,be turn suit be spy fit cadge
+Maman,Mathilde,2.5423728813559325,2.9661016949152543,57.20338983050848,0.8571428571428571,have drum scald pluck fly commandeer carry fill bring
+Mrs. Watkins,Mathilde,3.869047619047619,1.488095238095238,47.023809523809526,2.6,take hope find be search replace have arrive
+Mrs. Watkins,Mathilde,3.869047619047619,1.488095238095238,47.023809523809526,2.6,take hope find be search replace have arrive
+Eckerd,Watkins,2.272727272727273,2.840909090909091,47.159090909090914,0.8,have be chop own be appoint make fly speak
+Eckerd,Watkins,2.272727272727273,2.840909090909091,47.159090909090914,0.8,have be chop own be appoint make fly speak
+Watkins,Lord Devon,5.603448275862069,0.8620689655172413,59.05172413793104,6.5,have be brand have believe be mark
+Watkins,Lord Devon,5.603448275862069,0.8620689655172413,59.05172413793104,6.5,have be brand have believe be mark
+Watkins,Lord Devon,5.603448275862069,0.8620689655172413,59.05172413793104,6.5,have be brand have believe be mark
+Watkins,Lord Devon,5.603448275862069,0.8620689655172413,59.05172413793104,6.5,have be brand have believe be mark
+Olivier-Jean-Baptiste de Clarel de Garmont,Abbé de La Londe,1.9444444444444444,3.0555555555555554,46.111111111111114,0.6363636363636364,dedicate offer

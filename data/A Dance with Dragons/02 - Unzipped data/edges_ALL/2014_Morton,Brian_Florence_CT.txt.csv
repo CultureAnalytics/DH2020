@@ -1,0 +1,1239 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Ruby,Cassie,0.8928571428571428,0.0,49.107142857142854,INF,have run stay pay be find be go
+Janine,Emily,1.5625,0.78125,28.90625,2.0,be
+Janine,Emily,1.5625,0.78125,28.90625,2.0,be
+Emily,Janine,1.5625,0.78125,28.90625,2.0,be
+Emily,Janine,1.5625,0.78125,28.90625,2.0,be
+Saul,Janine,0.0,0.0,62.5,INF,put
+Saul,Janine,0.0,0.0,62.5,INF,put
+Janine,Emily,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,be accompany shadow
+Janine,Emily,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,be accompany shadow
+Janine,Emily,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,be accompany shadow
+Janine,Emily,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,be accompany shadow
+Janine,Emily,0.8064516129032258,2.82258064516129,35.08064516129033,0.2857142857142857,be accompany shadow
+Janine,Emily,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,be want change
+Janine,Emily,1.9736842105263157,2.631578947368421,63.81578947368421,0.75,see be
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Daniel,Janine,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Daniel,Janine,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Daniel,Janine,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Daniel,Janine,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Daniel,Janine,1.3392857142857142,0.0,48.660714285714285,INF,have hear have meet tell be believe
+Janine,Daniel,1.9736842105263157,0.6578947368421052,65.78947368421053,3.0,be find be
+Janine,Daniel,1.9736842105263157,0.6578947368421052,65.78947368421053,3.0,be find be
+Daniel,Janine,1.9736842105263157,0.6578947368421052,65.78947368421053,3.0,be find be
+Janine,Daniel,1.9736842105263157,0.6578947368421052,65.78947368421053,3.0,be find be
+Janine,Florence Gordon,3.260869565217391,2.1739130434782608,33.69565217391305,1.5,try tamp limit say
+Janine,Florence Gordon,3.260869565217391,2.1739130434782608,33.69565217391305,1.5,try tamp limit say
+Janine,Florence Gordon,3.260869565217391,2.1739130434782608,33.69565217391305,1.5,try tamp limit say
+Daniel,Janine,0.6578947368421052,0.0,36.18421052631579,INF,have hear seem say
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Janine,Daniel,5.6640625,2.1484375,51.5625,2.6363636363636362,be be determine play cool find seem let know have understand do understand be
+Emily,Ed Koch,1.5,3.0,51.5,0.5,smile look know be look avoid be call
+Emily,Ed Koch,1.5,3.0,51.5,0.5,smile look know be look avoid be call
+Emily,Ed Koch,4.166666666666666,11.11111111111111,62.5,0.375,have be
+Vanessa,Emily,5.0,0.625,34.375,8.0,be have meet have
+Vanessa,Alexandra,5.0,0.625,34.375,8.0,be have meet have
+Vanessa,Emily,5.0,0.625,34.375,8.0,be have meet have
+Emily,Alexandra,5.0,0.625,34.375,8.0,be have meet have
+Alexandra,Emily,5.0,0.625,34.375,8.0,be have meet have
+Alexandra,Emily,6.578947368421052,5.921052631578947,45.39473684210527,1.1111111111111112,make be talk
+Alexandra,Emily,6.578947368421052,5.921052631578947,45.39473684210527,1.1111111111111112,make be talk
+Emily,Alexandra,0.0,0.0,42.857142857142854,INF,tap
+Vanessa,Emily,2.840909090909091,1.7045454545454544,50.0,1.6666666666666667,start talk grow
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Emily,Facebook,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Facebook,Emily,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Facebook,Emily,2.7298850574712645,0.5747126436781609,43.82183908045977,4.75,go know be come be go turn ask be have be be ask use be make scream
+Vanessa,Emily,2.34375,3.90625,56.25,0.6,be look have hear
+Vanessa,Raymond Williams,5.303030303030303,3.4090909090909087,33.71212121212121,1.5555555555555556,be say say counter be lose
+Vanessa,Emily,5.303030303030303,3.4090909090909087,33.71212121212121,1.5555555555555556,be say say counter be lose
+Vanessa,Raymond Williams,5.303030303030303,3.4090909090909087,33.71212121212121,1.5555555555555556,be say say counter be lose
+Vanessa,Emily,5.303030303030303,3.4090909090909087,33.71212121212121,1.5555555555555556,be say say counter be lose
+Raymond Williams,Emily,5.303030303030303,3.4090909090909087,33.71212121212121,1.5555555555555556,be say say counter be lose
+Emily,Alexandra,0.3676470588235294,1.8382352941176472,56.61764705882353,0.2,be pluck turn dry pass
+Emily,Alexandra,0.3676470588235294,1.8382352941176472,56.61764705882353,0.2,be pluck turn dry pass
+Emily,Alexandra,0.3676470588235294,1.8382352941176472,56.61764705882353,0.2,be pluck turn dry pass
+Emily,Alexandra,5.147058823529411,3.6764705882352944,44.11764705882353,1.4,keep be
+Alexandra,Emily,5.147058823529411,3.6764705882352944,44.11764705882353,1.4,keep be
+Emily,Emma,0.0,0.0,27.27272727272727,INF,say
+Emma,Janine,0.0,0.0,36.36363636363637,INF,be say
+Emily,Emma,2.857142857142857,2.857142857142857,48.57142857142857,1.0,be see hold think have call say
+Emily,Emma,2.857142857142857,2.857142857142857,48.57142857142857,1.0,be see hold think have call say
+Emily,Emma,2.857142857142857,2.857142857142857,48.57142857142857,1.0,be see hold think have call say
+Emily,Emma,2.857142857142857,2.857142857142857,48.57142857142857,1.0,be see hold think have call say
+Emily,Emma,2.857142857142857,2.857142857142857,48.57142857142857,1.0,be see hold think have call say
+Emily,Daniel,0.0,0.0,47.61904761904761,INF,do have do have do have
+Daniel,Emily,0.0,0.0,47.61904761904761,INF,do have do have do have
+Daniel,Emily,0.0,0.0,47.61904761904761,INF,do have do have do have
+Daniel,Emily,0.0,0.0,47.61904761904761,INF,do have do have do have
+Daniel,Emily,0.0,0.0,47.61904761904761,INF,do have do have do have
+Emily,Janine,5.555555555555555,4.166666666666666,34.72222222222222,1.3333333333333333,start tell
+Emily,Mark,2.5,2.5,35.0,1.0,
+Emma,Emily,6.25,1.7857142857142856,49.107142857142854,3.5,love say
+Daniel,Emily,0.6578947368421052,0.0,51.973684210526315,INF,be weird be do say
+Daniel,Emily,0.6578947368421052,0.0,51.973684210526315,INF,be weird be do say
+Emily,Daniel,0.0,0.0,50.0,INF,go
+Emily,Daniel,0.0,0.0,50.0,INF,go
+Daniel,Emily,0.0,4.464285714285714,45.535714285714285,0.0,say watch feel
+Janine,Daniel,5.0,1.25,53.75,4.0,have be marry
+Janine,Daniel,1.0416666666666665,0.3472222222222222,51.388888888888886,3.0,be spend come remind be
+Daniel,Janine,1.0416666666666665,0.3472222222222222,51.388888888888886,3.0,be spend come remind be
+Daniel,Janine,0.6578947368421052,0.0,67.76315789473685,INF,be think stalk
+Janine,Daniel,0.6578947368421052,0.0,67.76315789473685,INF,be think stalk
+Janine,Emily,5.357142857142857,0.5952380952380952,51.19047619047619,9.0,have spend be
+Emily,Daniel,0.0,0.0,68.75,INF,be be go
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Emily,Daniel,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Emily,Daniel,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Emily,Daniel,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Emily,Daniel,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Emily,Daniel,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,2.459016393442623,1.2295081967213115,53.68852459016394,2.0,be look eat watch begin be possess be eat be be be
+Daniel,Emily,4.583333333333333,0.8333333333333334,44.583333333333336,5.5,look put keep keep do know
+Daniel,Emily,4.583333333333333,0.8333333333333334,44.583333333333336,5.5,look put keep keep do know
+Emily,Janine,2.314814814814815,0.0,56.94444444444444,INF,go accept spend
+Janine,Emily,2.314814814814815,0.0,56.94444444444444,INF,go accept spend
+Emily,Daniel,1.3888888888888888,0.0,54.166666666666664,INF,know mean
+Emily,Daniel,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Emily,Lev,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Emily,Daniel,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Emily,Lev,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Daniel,Emily,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Daniel,Lev,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Daniel,Emily,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Daniel,Emily,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Emily,Lev,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Lev,Emily,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Lev,Emily,4.375,2.1875,43.4375,2.0,have hope see disappear think have wear admit have
+Daniel,Emily,0.0,0.0,57.89473684210527,INF,go return say seem
+Emily,Daniel,0.0,0.0,50.0,INF,walk see
+Emily,Daniel,0.0,0.0,50.0,INF,walk see
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Daniel,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,watch be lift wave smile pass
+Janine,Emily,4.563492063492063,1.7857142857142856,47.61904761904761,2.5555555555555554,have talk get exchange get have be see write say be
+Janine,Emily,4.563492063492063,1.7857142857142856,47.61904761904761,2.5555555555555554,have talk get exchange get have be see write say be
+Janine,Emily,4.563492063492063,1.7857142857142856,47.61904761904761,2.5555555555555554,have talk get exchange get have be see write say be
+Janine,Emily,4.563492063492063,1.7857142857142856,47.61904761904761,2.5555555555555554,have talk get exchange get have be see write say be
+Janine,Daniel,0.0,0.0,57.14285714285714,INF,be marry use try engage
+Daniel,Janine,0.0,0.0,57.14285714285714,INF,be marry use try engage
+Janine,Daniel,2.556818181818182,0.5681818181818182,55.96590909090909,4.5,have be have give go try use
+Janine,Daniel,2.556818181818182,0.5681818181818182,55.96590909090909,4.5,have be have give go try use
+Janine,Daniel,2.7777777777777777,4.861111111111112,53.47222222222222,0.5714285714285714,tell be seem
+Janine,Daniel,3.9285714285714284,0.7142857142857143,49.642857142857146,5.5,be comprehend have become
+Janine,Daniel,3.9285714285714284,0.7142857142857143,49.642857142857146,5.5,be comprehend have become
+Emily,Janine,9.090909090909092,1.1363636363636365,44.31818181818182,8.0,speak find touch
+Janine,Emily,7.211538461538461,3.3653846153846154,43.269230769230774,2.142857142857143,have be infect remain
+Janine,Emily,7.211538461538461,3.3653846153846154,43.269230769230774,2.142857142857143,have be infect remain
+Emily,Janine,4.5,1.0,30.5,4.5,be say have read
+Emily,Janine,4.5,1.0,30.5,4.5,be say have read
+Janine,Norman Mailer,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,write
+Daniel,Emily,0.0,0.0,40.0,INF,say
+Janine,Daniel,2.083333333333333,0.8333333333333334,53.75,2.5,sit write keep think
+Janine,Daniel,2.083333333333333,0.8333333333333334,53.75,2.5,sit write keep think
+Janine,Daniel,2.083333333333333,0.8333333333333334,53.75,2.5,sit write keep think
+Janine,Daniel,2.083333333333333,0.8333333333333334,53.75,2.5,sit write keep think
+Janine,Daniel,4.545454545454546,0.0,50.0,INF,do feel
+Daniel,Janine,3.5256410256410255,5.769230769230769,47.11538461538461,0.6111111111111112,sit see get show moat have make
+Janine,Daniel,3.5256410256410255,5.769230769230769,47.11538461538461,0.6111111111111112,sit see get show moat have make
+Janine,Daniel,3.5256410256410255,5.769230769230769,47.11538461538461,0.6111111111111112,sit see get show moat have make
+Janine,Daniel,3.5256410256410255,5.769230769230769,47.11538461538461,0.6111111111111112,sit see get show moat have make
+Elizabeth Cady Stanton,Edward,2.142857142857143,0.7142857142857143,54.285714285714285,3.0,be have do
+Jesus,Edward,0.0,0.0,40.0,INF,
+Kevin Cleaver,Gawker,5.078125,3.515625,41.40625,1.4444444444444444,be believe give have say
+Edward,Kevin Cleaver,1.8292682926829267,1.524390243902439,52.743902439024396,1.2,have seem have think be send seem imagine arrive
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Obama,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Obama,Edward,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Obama,Edward,5.048076923076923,2.644230769230769,55.769230769230774,1.9090909090909092,ask seem have say want say talk be talk
+Edward,Susan,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,hope move
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Susan,Edward,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Susan,Edward,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Susan,Edward,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Edward,Susan,3.2327586206896552,4.956896551724138,62.5,0.6521739130434783,have hear be hear have tell smile nod tell repaint find redo
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Edward,Susan,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Susan,Edward,3.75,1.25,47.0,3.0,leave think have be have have be play sit try look be listen be have tell
+Edward,Susan,3.3333333333333335,0.4166666666666667,52.916666666666664,8.0,have understand have offer be come be
+Edward,Susan,3.3333333333333335,0.4166666666666667,52.916666666666664,8.0,have understand have offer be come be
+Edward,Susan,3.9473684210526314,2.631578947368421,61.8421052631579,1.5,have get have be assail
+Susan,Edward,0.0,1.1363636363636365,62.5,0.0,have tell have traipse
+Edward,Susan,0.0,1.1363636363636365,62.5,0.0,have tell have traipse
+Susan,Edward,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,know be tilt be upset
+Susan,Edward,3.571428571428571,5.357142857142857,48.214285714285715,0.6666666666666666,know be tilt be upset
+Edward,Susan,2.631578947368421,0.0,44.73684210526316,INF,be turn go embrace want
+Edward,Susan,2.631578947368421,0.0,44.73684210526316,INF,be turn go embrace want
+Susan,Edward,2.631578947368421,0.0,44.73684210526316,INF,be turn go embrace want
+Edward,Susan,2.631578947368421,0.0,44.73684210526316,INF,be turn go embrace want
+Janine,Daniel,7.638888888888889,2.7777777777777777,56.25,2.75,be pick go be
+Janine,Emily,5.625,1.25,43.125,4.5,be do know be
+Emily,Daniel,0.0,0.7352941176470588,52.20588235294118,0.0,be be
+Lev,Janine,0.0,0.0,55.55555555555556,INF,be
+Janine,Daniel,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Daniel,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Daniel,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Daniel,Dennis Rodman,2.5297619047619047,0.8928571428571428,51.33928571428571,2.8333333333333335,ask want come be have look say believe be read give reply believe do
+Janine,Lev,2.976190476190476,0.5952380952380952,53.57142857142857,5.0,lean watch watch transport
+Emily,Lev,6.521739130434782,0.0,50.0,INF,have see get have take refer
+Lev,Emily,6.521739130434782,0.0,50.0,INF,have see get have take refer
+Rachel Maddow,Daniel,1.7857142857142856,4.761904761904762,41.07142857142857,0.375,have say feel reacclimate
+Daniel,Rachel Maddow,7.352941176470589,0.0,51.470588235294116,INF,have help think
+Daniel,Rachel Maddow,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Daniel,Rachel Maddow,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Daniel,Rachel Maddow,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Daniel,Rachel Maddow,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Rachel Maddow,Daniel,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Rachel Maddow,Daniel,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Daniel,Rachel Maddow,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Rachel Maddow,Daniel,3.6111111111111107,1.1111111111111112,50.83333333333333,3.25,be be have know have know feel be be describe
+Rachel Maddow,Daniel,1.1363636363636365,0.0,26.136363636363637,INF,feel
+Daniel,Rachel Maddow,3.8461538461538463,1.4423076923076923,60.09615384615385,2.6666666666666665,occupy feel have occupy
+Daniel,Rachel Maddow,3.8461538461538463,1.4423076923076923,60.09615384615385,2.6666666666666665,occupy feel have occupy
+Trotsky,Daniel,3.431372549019608,4.901960784313726,48.529411764705884,0.7,have kiss tell have respond amuse imagine
+Trotsky,Daniel,3.431372549019608,4.901960784313726,48.529411764705884,0.7,have kiss tell have respond amuse imagine
+Trotsky,Daniel,3.431372549019608,4.901960784313726,48.529411764705884,0.7,have kiss tell have respond amuse imagine
+Trotsky,Daniel,3.431372549019608,4.901960784313726,48.529411764705884,0.7,have kiss tell have respond amuse imagine
+Daniel,Janine,2.5,0.8333333333333334,56.666666666666664,3.0,become be shop
+Janine,Daniel,2.5,0.8333333333333334,56.666666666666664,3.0,become be shop
+Daniel,Janine,0.625,0.0,44.375,INF,run drop
+Daniel,Janine,1.3888888888888888,4.166666666666666,46.2962962962963,0.3333333333333333,be talk take hand drop
+Daniel,Janine,1.3888888888888888,4.166666666666666,46.2962962962963,0.3333333333333333,be talk take hand drop
+Daniel,Janine,4.310344827586207,0.43103448275862066,50.43103448275862,10.0,realize be ask be go
+Daniel,Janine,4.310344827586207,0.43103448275862066,50.43103448275862,10.0,realize be ask be go
+Janine,Daniel,4.411764705882353,5.147058823529411,61.029411764705884,0.8571428571428571,find read
+Janine,Daniel,0.0,0.0,42.857142857142854,INF,lean kiss
+Daniel,Janine,6.770833333333333,1.5625,41.66666666666667,4.333333333333333,talk be tune
+Daniel,Janine,7.142857142857142,2.380952380952381,38.095238095238095,3.0,do think have be kiss have
+Christopher Hitchens,Mother Teresa,6.25,5.208333333333334,55.208333333333336,1.2,be say
+Christopher Hitchens,Mother Teresa,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,agree say
+Emily,Edward,6.097560975609756,2.4390243902439024,57.3170731707317,2.5,be have lose be have keep publish make
+Emily,Edward,6.097560975609756,2.4390243902439024,57.3170731707317,2.5,be have lose be have keep publish make
+Emily,Edward,6.097560975609756,2.4390243902439024,57.3170731707317,2.5,be have lose be have keep publish make
+Edward,Emily,6.097560975609756,2.4390243902439024,57.3170731707317,2.5,be have lose be have keep publish make
+Edward,Emily,0.0,0.0,58.333333333333336,INF,go know be go
+Edward,Emily,0.0,0.0,58.333333333333336,INF,go know be go
+Emily,Kevin Cleaver,2.272727272727273,6.8181818181818175,36.36363636363637,0.3333333333333333,have try avoid
+Kevin Cleaver,Emily,0.0,0.0,56.25,INF,be meet learn be be drop
+Kevin Cleaver,Emily,0.78125,0.0,55.46875,INF,think tell be do
+Kevin Cleaver,Emily,0.78125,0.0,55.46875,INF,think tell be do
+Emily,Kevin Cleaver,0.2976190476190476,3.273809523809524,58.333333333333336,0.09090909090909091,do want send be be meet mail decide be
+Emily,Kevin Cleaver,0.2976190476190476,3.273809523809524,58.333333333333336,0.09090909090909091,do want send be be meet mail decide be
+Kevin Cleaver,Emily,0.2976190476190476,3.273809523809524,58.333333333333336,0.09090909090909091,do want send be be meet mail decide be
+Kevin Cleaver,Emily,0.2976190476190476,3.273809523809524,58.333333333333336,0.09090909090909091,do want send be be meet mail decide be
+Kevin Cleaver,Emily,2.734375,0.78125,58.984375,3.5,meet like go relax
+Florence Gordon,Kevin Cleaver,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,be say
+Florence Gordon,Emily,0.0,0.0,25.0,INF,say
+Kevin Cleaver,Emily,0.0,0.0,57.14285714285714,INF,be do have describe
+Emily,Kevin Cleaver,0.0,0.0,57.14285714285714,INF,be do have describe
+Emily,Kevin Cleaver,0.0,0.0,50.0,INF,describe be wear
+Kevin Cleaver,Emily,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,be wear have give
+Emily,Kevin Cleaver,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,be wear have give
+Emily,Kevin Cleaver,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,be wear have give
+Emily,Kevin Cleaver,1.7241379310344827,0.43103448275862066,53.01724137931034,4.0,be wear have give
+Edward,Emily,2.272727272727273,0.0,52.27272727272727,INF,take reach
+Jesus,Martha Nussbaum,0.0,0.0,28.57142857142857,INF,say
+Martha Nussbaum,Edward,2.7777777777777777,0.0,52.77777777777778,INF,think
+Martha Nussbaum,Edward,2.7777777777777777,0.0,52.77777777777778,INF,think
+Edward,Martha Nussbaum,12.5,4.545454545454546,46.590909090909086,2.75,have be
+Edward,Martha Nussbaum,2.5,2.5,61.66666666666667,1.0,be be be give
+Martha Nussbaum,Edward,2.272727272727273,0.0,47.72727272727273,INF,call have feel come
+Martha Nussbaum,Edward,2.272727272727273,0.0,47.72727272727273,INF,call have feel come
+Martha Nussbaum,Kevin Cleaver,3.289473684210526,0.0,38.81578947368421,INF,say do know do
+Kevin Cleaver,Martha Nussbaum,3.289473684210526,0.0,38.81578947368421,INF,say do know do
+Martha Nussbaum,Simone,0.0,0.0,40.0,INF,be
+Simone,Martha Nussbaum,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,remember tell think be go have
+Simone,Martha Nussbaum,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,remember tell think be go have
+Simone,Martha Nussbaum,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,remember tell think be go have
+Grandma,Emily,5.0,0.5,46.5,10.0,make say look change
+Grandma,Emily,5.208333333333334,0.0,36.45833333333333,INF,do know say
+Martha Nussbaum,Daniel,6.666666666666667,2.5,30.833333333333336,2.6666666666666665,be try offend say
+Janine,Daniel,0.0,0.0,46.15384615384615,INF,go
+Janine,NYU,5.113636363636364,0.0,53.97727272727273,INF,be spend start
+Janine,NYU,5.113636363636364,0.0,53.97727272727273,INF,be spend start
+Janine,NYU,5.113636363636364,0.0,53.97727272727273,INF,be spend start
+Janine,Daniel,0.0,0.0,50.0,INF,be meet
+Janine,Daniel,0.0,0.0,40.0,INF,say
+Janine,Daniel,2.5,0.0,47.5,INF,know
+Daniel,Janine,1.9736842105263157,1.9736842105263157,53.94736842105263,1.0,have grow be denounce have come understand be bore
+Daniel,Janine,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Daniel,Janine,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Daniel,Janine,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Janine,Daniel,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Janine,Daniel,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Janine,Daniel,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Janine,Daniel,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Daniel,Janine,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Daniel,Janine,2.083333333333333,0.0,43.75,INF,have tell say decide want go
+Janine,Daniel,5.0,1.25,33.75,4.0,have be
+Janine,Daniel,7.8125,0.0,42.1875,INF,have watch grow
+Janine,Daniel,3.7037037037037033,3.7037037037037033,44.44444444444444,1.0,have be
+Janine,Daniel,3.7037037037037033,3.7037037037037033,44.44444444444444,1.0,have be
+Janine,Daniel,3.7037037037037033,3.7037037037037033,44.44444444444444,1.0,have be
+Janine,Daniel,5.833333333333333,0.0,34.166666666666664,INF,tell have please
+Daniel,Janine,5.833333333333333,0.0,34.166666666666664,INF,tell have please
+Daniel,Janine,6.25,2.1875,54.0625,2.857142857142857,be seem assume be have be show want improve
+Janine,Daniel,6.25,2.1875,54.0625,2.857142857142857,be seem assume be have be show want improve
+Janine,Daniel,6.25,2.1875,54.0625,2.857142857142857,be seem assume be have be show want improve
+Janine,Daniel,9.868421052631579,1.3157894736842104,51.973684210526315,7.5,have feel have
+Janine,Daniel,9.868421052631579,1.3157894736842104,51.973684210526315,7.5,have feel have
+Janine,Daniel,5.0,3.0,28.000000000000004,1.6666666666666667,believe be strive be understand
+Janine,Daniel,5.0,3.0,28.000000000000004,1.6666666666666667,believe be strive be understand
+Janine,Daniel,7.857142857142857,2.142857142857143,44.285714285714285,3.6666666666666665,have have be have be share have be have find
+Daniel,Janine,7.857142857142857,2.142857142857143,44.285714285714285,3.6666666666666665,have have be have be share have be have find
+Janine,Daniel,0.8333333333333334,0.0,59.166666666666664,INF,think be be
+Janine,Lev,0.8333333333333334,0.0,59.166666666666664,INF,think be be
+Daniel,Lev,0.8333333333333334,0.0,59.166666666666664,INF,think be be
+Martha Nussbaum,Emily,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,have sum
+Kevin Cleaver,Emily,3.571428571428571,0.0,46.42857142857143,INF,have explain be be
+Vanessa,Dolly,2.5,1.25,46.25,2.0,seem name
+Elizabeth Cady Stanton,Dolly,5.092592592592593,2.314814814814815,59.25925925925925,2.2,be ask
+Dolly,Elizabeth Cady Stanton,5.0,3.75,47.91666666666667,1.3333333333333333,seem dislike seem see be
+Elizabeth Cady Stanton,Dolly,5.0,3.75,47.91666666666667,1.3333333333333333,seem dislike seem see be
+Elizabeth Cady Stanton,Dolly,5.0,3.75,47.91666666666667,1.3333333333333333,seem dislike seem see be
+Daniel,Janine,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be walk
+Broccoli Boy,Daniel,2.2058823529411766,4.411764705882353,52.20588235294118,0.5,be get be get say
+Broccoli Boy,Emily,3.977272727272727,1.7045454545454544,48.86363636363637,2.3333333333333335,be have be
+Broccoli Boy,Emily,4.411764705882353,2.941176470588235,51.470588235294116,1.5,give come have call
+Broccoli Boy,Emily,4.411764705882353,2.941176470588235,51.470588235294116,1.5,give come have call
+Broccoli Boy,Emily,4.411764705882353,2.941176470588235,51.470588235294116,1.5,give come have call
+Broccoli Boy,Emily,4.411764705882353,2.941176470588235,51.470588235294116,1.5,give come have call
+Janine,Broccoli Boy,4.807692307692308,3.3653846153846154,45.67307692307692,1.4285714285714286,be go be meet be know call
+Broccoli Boy,Janine,4.807692307692308,3.3653846153846154,45.67307692307692,1.4285714285714286,be go be meet be know call
+Caroline,Janine,4.166666666666666,0.0,40.27777777777778,INF,kiss kiss
+Caroline,Janine,4.166666666666666,0.0,40.27777777777778,INF,kiss kiss
+Caroline,Daniel,4.166666666666666,0.0,40.27777777777778,INF,kiss kiss
+Janine,Daniel,4.166666666666666,0.0,40.27777777777778,INF,kiss kiss
+Janine,Daniel,4.166666666666666,0.0,40.27777777777778,INF,kiss kiss
+Jesus,Janine,0.0,0.0,28.57142857142857,INF,say
+Emily,Daniel,3.125,1.5625,20.3125,2.0,be
+Daniel,Caroline,1.7045454545454544,4.545454545454546,61.93181818181818,0.375,take be kill
+Daniel,Caroline,1.7045454545454544,4.545454545454546,61.93181818181818,0.375,take be kill
+Daniel,Caroline,1.5625,0.0,54.6875,INF,be make
+Daniel,Caroline,1.5625,0.0,54.6875,INF,be make
+Caroline,Daniel,1.5625,0.0,54.6875,INF,be make
+Caroline,Daniel,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Caroline,Daniel,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Caroline,Daniel,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Caroline,Daniel,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Caroline,Daniel,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Daniel,Caroline,3.7921348314606744,1.8258426966292134,52.80898876404494,2.076923076923077,have do see place breathe make do get lose check encourage go look do go dream
+Caroline,Janine,1.0416666666666665,2.083333333333333,13.541666666666666,0.5,be say
+Caroline,Daniel,0.0,0.0,66.66666666666666,INF,take
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,0.0,0.0,42.857142857142854,INF,take tell see
+Daniel,Caroline,0.0,0.0,42.857142857142854,INF,take tell see
+Caroline,Daniel,2.2058823529411766,0.0,44.85294117647059,INF,cook feel assure be take
+Daniel,Caroline,2.2058823529411766,0.0,44.85294117647059,INF,cook feel assure be take
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,1.7857142857142856,0.4464285714285714,47.767857142857146,4.0,ask be live be live be do
+Daniel,Caroline,8.0,1.0,55.00000000000001,8.0,tell be be ask be give reassure
+Caroline,Daniel,8.0,1.0,55.00000000000001,8.0,tell be be ask be give reassure
+Caroline,Daniel,8.0,1.0,55.00000000000001,8.0,tell be be ask be give reassure
+Caroline,Daniel,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,tell
+Daniel,Caroline,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,tell
+Daniel,Caroline,1.875,0.0,53.125,INF,look see be joke do appear be
+Daniel,Caroline,1.875,0.0,53.125,INF,look see be joke do appear be
+Daniel,Caroline,1.875,0.0,53.125,INF,look see be joke do appear be
+Daniel,Janine,0.5813953488372093,1.1627906976744187,49.41860465116279,0.5,take be see have turn say be
+Daniel,Emily,0.5813953488372093,1.1627906976744187,49.41860465116279,0.5,take be see have turn say be
+Daniel,Janine,0.5813953488372093,1.1627906976744187,49.41860465116279,0.5,take be see have turn say be
+Janine,Emily,0.5813953488372093,1.1627906976744187,49.41860465116279,0.5,take be see have turn say be
+Emily,Janine,0.5813953488372093,1.1627906976744187,49.41860465116279,0.5,take be see have turn say be
+Janine,Daniel,3.125,3.90625,55.46875,0.8,like have feel
+Daniel,Janine,3.125,3.90625,55.46875,0.8,like have feel
+Janine,Lev,4.017857142857143,1.7857142857142856,51.33928571428571,2.25,be become trouble be relieve note do smell
+Janine,Lev,4.017857142857143,1.7857142857142856,51.33928571428571,2.25,be become trouble be relieve note do smell
+Lev,Janine,4.017857142857143,1.7857142857142856,51.33928571428571,2.25,be become trouble be relieve note do smell
+Lev,Janine,4.017857142857143,1.7857142857142856,51.33928571428571,2.25,be become trouble be relieve note do smell
+Saul,Janine,0.0,0.0,64.28571428571429,INF,do comment be use
+Janine,Saul,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Janine,Saul,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Janine,Saul,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Saul,Janine,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Saul,Janine,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Saul,Janine,1.7857142857142856,0.5952380952380952,50.0,3.0,sit look shake be
+Saul,Janine,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Saul,Janine,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Saul,Janine,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Janine,Saul,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Janine,Saul,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Saul,Janine,3.4375000000000004,1.25,55.3125,2.75,have be bug get schedule have get
+Saul,NYU,8.928571428571429,1.1904761904761905,32.73809523809524,7.5,be add
+Saul,NYU,8.928571428571429,1.1904761904761905,32.73809523809524,7.5,be add
+Saul,Tanya,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Saul,NYU,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Saul,Tanya,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Saul,Tanya,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Saul,NYU,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Saul,Tanya,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Tanya,NYU,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+NYU,Tanya,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,get steer
+Tanya,Saul,7.894736842105263,9.210526315789473,46.05263157894737,0.8571428571428571,get have be have be tell
+Saul,Tanya,1.1363636363636365,0.5681818181818182,57.38636363636363,2.0,be do feel unleash
+Saul,Tanya,1.1363636363636365,0.5681818181818182,57.38636363636363,2.0,be do feel unleash
+Tanya,Saul,5.357142857142857,8.928571428571429,42.857142857142854,0.6,feel
+Tanya,Saul,0.0,3.4722222222222223,35.41666666666667,0.0,divorce marry
+Tanya,Saul,0.0,3.4722222222222223,35.41666666666667,0.0,divorce marry
+Saul,Tanya,0.0,3.4722222222222223,35.41666666666667,0.0,divorce marry
+Tanya,Saul,0.0,3.4722222222222223,35.41666666666667,0.0,divorce marry
+Tanya,Saul,0.78125,5.46875,43.75,0.14285714285714285,think marry
+Tanya,Saul,0.78125,5.46875,43.75,0.14285714285714285,think marry
+Saul,Tanya,0.9615384615384616,0.0,52.88461538461539,INF,seem detain
+Saul,Tanya,6.25,0.5208333333333333,51.5625,12.0,have know continue have be marry
+Tanya,Saul,6.25,0.5208333333333333,51.5625,12.0,have know continue have be marry
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Tanya,Saul,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,4.464285714285714,2.9017857142857144,58.70535714285714,1.5384615384615385,count tell do give do do embarrass do find
+Saul,Tanya,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Saul,Tanya,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Saul,Tanya,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Tanya,Saul,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Tanya,Saul,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Tanya,Saul,3.0555555555555554,6.666666666666667,48.05555555555556,0.4583333333333333,run lead know consider believe have use
+Tanya,Saul,3.3333333333333335,0.0,56.666666666666664,INF,have divorce be
+Tanya,Daniel,3.3333333333333335,0.0,56.666666666666664,INF,have divorce be
+Saul,Daniel,3.3333333333333335,0.0,56.666666666666664,INF,have divorce be
+Florence Gordon,Saul,0.0,0.0,37.5,INF,say
+Daniel,Emily,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,have join be see
+Emily,Daniel,5.319148936170213,1.5957446808510638,46.27659574468085,3.3333333333333335,have do enjoy be make say say
+Emily,Daniel,5.319148936170213,1.5957446808510638,46.27659574468085,3.3333333333333335,have do enjoy be make say say
+Emily,Florence Gordon,5.319148936170213,1.5957446808510638,46.27659574468085,3.3333333333333335,have do enjoy be make say say
+Daniel,Florence Gordon,5.319148936170213,1.5957446808510638,46.27659574468085,3.3333333333333335,have do enjoy be make say say
+Daniel,Florence Gordon,5.319148936170213,1.5957446808510638,46.27659574468085,3.3333333333333335,have do enjoy be make say say
+Emily,Janine,0.6944444444444444,3.4722222222222223,56.94444444444444,0.2,thank be have volunteer
+Janine,Emily,3.9473684210526314,3.289473684210526,61.18421052631579,1.2,be end be
+Emily,Janine,3.9473684210526314,3.289473684210526,61.18421052631579,1.2,be end be
+Emily,NYU,0.390625,0.0,52.734375,INF,spend
+NYU,Martha Nussbaum,3.048780487804878,1.2195121951219512,54.268292682926834,2.5,follow be host be go feature be go talk
+Daniel,Emily,0.0,1.25,58.75,0.0,knock
+Emily,Daniel,0.0,1.25,58.75,0.0,knock
+Emily,Daniel,1.875,5.0,58.12500000000001,0.375,have know ask give
+Emily,Daniel,1.875,5.0,58.12500000000001,0.375,have know ask give
+Daniel,Emily,1.875,5.0,58.12500000000001,0.375,have know ask give
+William Dean Howells,Henry James,1.3888888888888888,0.0,65.27777777777779,INF,be
+Henry James,Mark,1.1904761904761905,1.1904761904761905,64.28571428571429,1.0,be be
+Henry James,Mark,1.1904761904761905,1.1904761904761905,64.28571428571429,1.0,be be
+Mark,Henry James,1.1904761904761905,1.1904761904761905,64.28571428571429,1.0,be be
+Emily,NYU,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,ask put do help
+Emily,NYU,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,ask put do help
+Emily,NYU,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,ask put do help
+Justin,Emily,8.333333333333332,5.208333333333334,53.125,1.6,have be have know
+Emily,Justin,3.125,0.0,55.208333333333336,INF,have meet
+Justin,Emily,3.125,0.0,55.208333333333336,INF,have meet
+Emily,Justin,0.0,0.0,50.0,INF,notice
+Justin,Emily,5.092592592592593,0.4629629629629629,50.0,11.0,have go go have seem be grow
+Justin,Emily,1.2195121951219512,0.3048780487804878,57.012195121951216,4.0,begin show facebook gchatt send make march fall
+Justin,Emily,1.2195121951219512,0.3048780487804878,57.012195121951216,4.0,begin show facebook gchatt send make march fall
+Emily,Justin,1.2195121951219512,0.3048780487804878,57.012195121951216,4.0,begin show facebook gchatt send make march fall
+Emily,Justin,1.2195121951219512,0.3048780487804878,57.012195121951216,4.0,begin show facebook gchatt send make march fall
+Emily,Justin,7.894736842105263,1.3157894736842104,32.89473684210527,6.0,do know want find
+Emily,Justin,7.894736842105263,1.3157894736842104,32.89473684210527,6.0,do know want find
+Justin,Emily,7.894736842105263,1.3157894736842104,32.89473684210527,6.0,do know want find
+Emily,Vanessa,5.0,2.1875,57.8125,2.2857142857142856,leave have arrange have gush have last
+Emily,Vanessa,5.0,2.1875,57.8125,2.2857142857142856,leave have arrange have gush have last
+Vanessa,Emily,5.0,2.1875,57.8125,2.2857142857142856,leave have arrange have gush have last
+Vanessa,Emily,5.0,2.1875,57.8125,2.2857142857142856,leave have arrange have gush have last
+Emily,Vanessa,3.75,1.875,39.375,2.0,walk begin talk
+Emily,Vanessa,3.75,1.875,39.375,2.0,walk begin talk
+Miranda,Mark,2.941176470588235,0.7352941176470588,55.14705882352941,4.0,do sound mention
+Emily,Justin,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,be skype wait be
+Justin,Emily,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,be skype wait be
+Justin,Emily,1.3157894736842104,0.6578947368421052,50.6578947368421,2.0,be skype wait be
+Justin,Emily,1.25,1.25,52.5,1.0,be want hide be have know
+Justin,Emily,1.25,1.25,52.5,1.0,be want hide be have know
+Emily,Justin,0.0,1.4705882352941175,57.35294117647059,0.0,be tell be
+Emily,Justin,0.0,1.4705882352941175,57.35294117647059,0.0,be tell be
+Justin,Emily,0.0,1.4705882352941175,57.35294117647059,0.0,be tell be
+Emily,Justin,10.0,5.0,45.0,2.0,seem have complicate
+Emily,Justin,0.78125,0.0,42.96875,INF,use bring like
+Emily,Justin,0.78125,0.0,42.96875,INF,use bring like
+Emily,James Dean,8.064516129032258,0.8064516129032258,36.29032258064516,10.0,have be be have please
+James Dean,Emily,8.064516129032258,0.8064516129032258,36.29032258064516,10.0,have be be have please
+James Dean,Emily,8.064516129032258,0.8064516129032258,36.29032258064516,10.0,have be be have please
+Justin,Emily,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Justin,Emily,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Justin,Emily,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Justin,Mark,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Emily,Mark,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Emily,Mark,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Emily,Mark,0.0,0.641025641025641,50.641025641025635,0.0,use leave leave lie say
+Justin,Emily,2.6785714285714284,3.571428571428571,58.03571428571429,0.75,be be take
+Emily,Justin,2.6785714285714284,3.571428571428571,58.03571428571429,0.75,be be take
+Justin,Emily,1.9444444444444444,0.8333333333333334,63.888888888888886,2.3333333333333335,get be turn have make explain be try eat
+Justin,Emily,1.9444444444444444,0.8333333333333334,63.888888888888886,2.3333333333333335,get be turn have make explain be try eat
+Justin,Emily,1.9444444444444444,0.8333333333333334,63.888888888888886,2.3333333333333335,get be turn have make explain be try eat
+Emily,Justin,1.9444444444444444,0.8333333333333334,63.888888888888886,2.3333333333333335,get be turn have make explain be try eat
+Justin,Emily,2.083333333333333,0.0,53.47222222222222,INF,get say
+Emily,Justin,0.0,5.357142857142857,51.78571428571429,0.0,reply be
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,0.8928571428571428,3.125,51.33928571428571,0.2857142857142857,leave slap have see smush get jump walk disappear
+Emily,Justin,9.722222222222223,6.944444444444445,38.88888888888889,1.4,have have
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+Emily,James Dean,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+James Dean,Emily,5.303030303030303,0.3787878787878788,48.86363636363637,14.0,have hold want be love
+Justin,Emily,5.743243243243244,4.054054054054054,49.66216216216216,1.4166666666666667,spend do have have seem be enjoy be get know
+Emily,Justin,3.4722222222222223,0.0,52.083333333333336,INF,come want have do
+Emily,Justin,9.451219512195122,4.2682926829268295,39.9390243902439,2.2142857142857144,care care have be rid be be
+Justin,Emily,9.451219512195122,4.2682926829268295,39.9390243902439,2.2142857142857144,care care have be rid be be
+Justin,Emily,9.451219512195122,4.2682926829268295,39.9390243902439,2.2142857142857144,care care have be rid be be
+Justin,Emily,9.451219512195122,4.2682926829268295,39.9390243902439,2.2142857142857144,care care have be rid be be
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Emily,Justin,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Emily,Justin,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Justin,Emily,3.8461538461538463,1.282051282051282,48.717948717948715,3.0,have get feel hear try push mark
+Emily,Justin,4.545454545454546,4.545454545454546,27.27272727272727,1.0,be want
+Emily,Justin,4.545454545454546,4.545454545454546,27.27272727272727,1.0,be want
+Emily,Justin,6.521739130434782,5.434782608695652,44.565217391304344,1.2,be know be
+Emily,Justin,6.521739130434782,5.434782608695652,44.565217391304344,1.2,be know be
+Emily,Justin,6.521739130434782,5.434782608695652,44.565217391304344,1.2,be know be
+Justin,Emily,6.521739130434782,5.434782608695652,44.565217391304344,1.2,be know be
+Janine,Lev,4.166666666666666,1.3888888888888888,44.44444444444444,3.0,have decide go be
+Lev,Janine,4.166666666666666,1.3888888888888888,44.44444444444444,3.0,have decide go be
+Caroline,Daniel,3.5000000000000004,1.0,51.5,3.5,be have turn fetch poise
+Daniel,Caroline,3.5000000000000004,1.0,51.5,3.5,be have turn fetch poise
+Daniel,Caroline,18.75,0.0,47.91666666666667,INF,find
+Janine,Daniel,0.0,0.0,42.857142857142854,INF,leave end
+Janine,Daniel,0.0,0.0,42.857142857142854,INF,leave end
+Daniel,Janine,0.0,0.0,42.857142857142854,INF,leave end
+Daniel,Janine,0.0,0.0,42.857142857142854,INF,leave end
+Janine,Daniel,6.578947368421052,7.894736842105263,59.210526315789465,0.8333333333333334,have love be look
+Janine,Daniel,6.578947368421052,7.894736842105263,59.210526315789465,0.8333333333333334,have love be look
+Daniel,Janine,0.0,0.0,50.0,INF,be be seem see
+Daniel,Janine,0.0,0.0,50.0,INF,be be seem see
+Janine,Daniel,0.0,0.0,50.0,INF,be be seem see
+Janine,Daniel,0.0,0.0,50.0,INF,be be seem see
+Janine,Daniel,0.0,8.653846153846153,45.19230769230769,0.0,imagine
+Janine,Daniel,0.0,8.653846153846153,45.19230769230769,0.0,imagine
+Daniel,Caroline,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,be be gaze be
+Caroline,Daniel,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,be be gaze be
+Janine,Lev,2.840909090909091,2.272727272727273,44.88636363636363,1.25,open come do require
+Daniel,Janine,1.1904761904761905,0.0,46.42857142857143,INF,continue gaze do notice
+Daniel,Janine,1.1904761904761905,0.0,46.42857142857143,INF,continue gaze do notice
+Daniel,Janine,1.1904761904761905,0.0,46.42857142857143,INF,continue gaze do notice
+Janine,Daniel,4.861111111111112,2.7777777777777777,42.36111111111111,1.75,do make be plan leave
+Lev,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Lev,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Lev,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Daniel,Janine,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,4.166666666666666,4.166666666666666,64.39393939393939,1.0,have tell become think give become
+Janine,Daniel,0.0,0.0,62.5,INF,be sell
+Janine,Emily,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,have think be turn be go
+Janine,Daniel,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,have think be turn be go
+Janine,Emily,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,have think be turn be go
+Emily,Daniel,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,have think be turn be go
+Daniel,Emily,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,have think be turn be go
+Janine,Daniel,4.166666666666666,4.166666666666666,45.83333333333333,1.0,picture find like
+Janine,Daniel,4.166666666666666,4.166666666666666,45.83333333333333,1.0,picture find like
+Daniel,Janine,4.166666666666666,4.166666666666666,45.83333333333333,1.0,picture find like
+Janine,Daniel,4.166666666666666,4.166666666666666,45.83333333333333,1.0,picture find like
+Daniel,Janine,6.547619047619048,5.357142857142857,35.714285714285715,1.2222222222222223,make start quiz remember pack
+Daniel,Janine,6.547619047619048,5.357142857142857,35.714285714285715,1.2222222222222223,make start quiz remember pack
+Daniel,Janine,0.0,0.0,50.0,INF,be do take
+Daniel,Janine,0.0,0.0,50.0,INF,be do take
+Daniel,Janine,1.7045454545454544,0.0,55.11363636363637,INF,go read keep pop
+Daniel,Janine,1.7045454545454544,0.0,55.11363636363637,INF,go read keep pop
+Janine,Lev,0.0,0.0,62.5,INF,look
+Janine,Daniel,0.0,0.0,46.15384615384615,INF,be have flirt
+Janine,Daniel,1.6304347826086956,1.6304347826086956,44.565217391304344,1.0,occur have be hope give have give
+Janine,Daniel,1.6304347826086956,1.6304347826086956,44.565217391304344,1.0,occur have be hope give have give
+Daniel,Janine,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Daniel,Janine,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Daniel,Janine,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Janine,Daniel,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Janine,Daniel,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Daniel,Janine,0.8620689655172413,0.0,61.206896551724135,INF,be have know look be remember
+Janine,Lev,6.25,0.0,43.75,INF,reach take
+Daniel,Emily,0.0,0.0,58.82352941176471,INF,say accompany be go
+Daniel,Emily,0.0,0.0,58.82352941176471,INF,say accompany be go
+Emily,Daniel,0.0,0.0,58.82352941176471,INF,say accompany be go
+Daniel,Emily,0.0,0.0,57.89473684210527,INF,be go miss be go
+Daniel,Emily,0.0,0.0,57.89473684210527,INF,be go miss be go
+Emily,Daniel,1.5625,3.125,51.5625,0.5,feel be be meet
+Emily,Daniel,1.875,2.5,40.625,0.75,have make be annoy
+Emily,Daniel,1.875,2.5,40.625,0.75,have make be annoy
+Daniel,Emily,1.875,2.5,40.625,0.75,have make be annoy
+Emily,Daniel,1.875,2.5,40.625,0.75,have make be annoy
+Emily,Miranda,3.977272727272727,0.0,41.47727272727273,INF,have tell be go see be
+Emily,Miranda,3.977272727272727,0.0,41.47727272727273,INF,have tell be go see be
+Emily,Miranda,3.977272727272727,0.0,41.47727272727273,INF,have tell be go see be
+Emily,Miranda,3.977272727272727,0.0,41.47727272727273,INF,have tell be go see be
+Emily,Miranda,6.25,4.166666666666666,39.58333333333333,1.5,make see be
+Miranda,Emily,6.25,4.166666666666666,39.58333333333333,1.5,make see be
+Emily,Justin,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Emily,Justin,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Emily,Justin,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Emily,Justin,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Justin,Emily,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Emily,Justin,2.4193548387096775,0.4032258064516129,42.33870967741936,6.0,have tell be be stay have take have
+Emily,Justin,2.1739130434782608,3.804347826086957,41.84782608695652,0.5714285714285714,be want be do want be
+Emily,Justin,2.1739130434782608,3.804347826086957,41.84782608695652,0.5714285714285714,be want be do want be
+Justin,Emily,2.1739130434782608,3.804347826086957,41.84782608695652,0.5714285714285714,be want be do want be
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Justin,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Justin,Emily,4.807692307692308,1.282051282051282,47.756410256410255,3.75,do know want see let have keep ask visit wear
+Emily,Janine,2.083333333333333,0.8928571428571428,35.11904761904761,2.3333333333333335,seem be be be do need leave have want have
+Emily,Janine,2.083333333333333,0.8928571428571428,35.11904761904761,2.3333333333333335,seem be be be do need leave have want have
+Emily,Janine,2.083333333333333,0.8928571428571428,35.11904761904761,2.3333333333333335,seem be be be do need leave have want have
+Emily,Janine,2.083333333333333,0.8928571428571428,35.11904761904761,2.3333333333333335,seem be be be do need leave have want have
+Daniel,Janine,4.807692307692308,0.9615384615384616,48.07692307692308,5.0,have meet be
+Mark,Daniel,1.5625,3.125,52.81249999999999,0.5,be keep hit suggest hit say do want hit
+Daniel,Mark,1.5625,3.125,52.81249999999999,0.5,be keep hit suggest hit say do want hit
+Daniel,Mark,1.5625,3.125,52.81249999999999,0.5,be keep hit suggest hit say do want hit
+Daniel,Mark,1.5625,3.125,52.81249999999999,0.5,be keep hit suggest hit say do want hit
+Janine,Mark,3.125,0.0,40.625,INF,ask think remember
+Janine,Mark,3.125,0.0,40.625,INF,ask think remember
+Mark,Janine,1.7857142857142856,4.464285714285714,50.89285714285714,0.4,imagine try tell be separate
+Mark,Janine,1.7857142857142856,4.464285714285714,50.89285714285714,0.4,imagine try tell be separate
+Lev,Daniel,3.392857142857143,1.7857142857142856,50.535714285714285,1.9,be be have be seem be knock want make
+Lev,Daniel,3.392857142857143,1.7857142857142856,50.535714285714285,1.9,be be have be seem be knock want make
+Lev,Daniel,3.392857142857143,1.7857142857142856,50.535714285714285,1.9,be be have be seem be knock want make
+Lev,Daniel,3.392857142857143,1.7857142857142856,50.535714285714285,1.9,be be have be seem be knock want make
+Lev,Daniel,3.392857142857143,1.7857142857142856,50.535714285714285,1.9,be be have be seem be knock want make
+Daniel,Janine,2.7777777777777777,1.8518518518518516,50.92592592592593,1.5,want be be tempt kill kill
+Janine,Daniel,5.978260869565218,1.358695652173913,44.83695652173913,4.4,be call say have make have come want know have be
+Janine,Daniel,5.978260869565218,1.358695652173913,44.83695652173913,4.4,be call say have make have come want know have be
+Janine,Daniel,5.978260869565218,1.358695652173913,44.83695652173913,4.4,be call say have make have come want know have be
+Daniel,Janine,5.978260869565218,1.358695652173913,44.83695652173913,4.4,be call say have make have come want know have be
+Mark,Saul,3.225806451612903,0.0,51.61290322580645,INF,call meet do be ask
+Mark,Saul,3.225806451612903,0.0,51.61290322580645,INF,call meet do be ask
+Mark,Saul,3.225806451612903,0.0,51.61290322580645,INF,call meet do be ask
+Mark,Saul,3.225806451612903,0.0,51.61290322580645,INF,call meet do be ask
+Janine,Emily,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Mark,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Emily,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Mark,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Emily,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Mark,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Emily,Mark,3.289473684210526,2.302631578947368,41.776315789473685,1.4285714285714286,want ask tell love talk be
+Janine,Daniel,1.6666666666666667,0.0,38.333333333333336,INF,remember have shave
+Janine,Daniel,1.6666666666666667,0.0,38.333333333333336,INF,remember have shave
+Janine,Daniel,1.6666666666666667,0.0,38.333333333333336,INF,remember have shave
+Emily,Daniel,7.236842105263158,3.289473684210526,42.10526315789473,2.2,be think stop think
+Daniel,Emily,7.236842105263158,3.289473684210526,42.10526315789473,2.2,be think stop think
+Daniel,Emily,7.236842105263158,3.289473684210526,42.10526315789473,2.2,be think stop think
+Emily,Daniel,3.3333333333333335,0.0,50.0,INF,have wed gross
+Daniel,Emily,0.8928571428571428,0.0,66.96428571428571,INF,do go go hike
+Emily,Daniel,0.0,1.7857142857142856,62.5,0.0,be make want
+Daniel,Emily,2.1739130434782608,0.0,67.3913043478261,INF,dredge be have write call
+Daniel,Emily,0.0,0.0,40.0,INF,bring call
+Daniel,Janine,8.333333333333332,4.166666666666666,37.5,2.0,have be hassle
+Daniel,Janine,8.333333333333332,4.166666666666666,37.5,2.0,have be hassle
+Peggy,Yetta,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,have be know
+Peggy,Yetta,4.2682926829268295,1.8292682926829267,45.1219512195122,2.3333333333333335,be be be bear have be sense
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Vanessa,1.5625,2.5,48.4375,0.625,be say undertake take need
+Yetta,Simon,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Yetta,Oscar,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Yetta,Simon,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Yetta,Oscar,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Simon,Yetta,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Simon,Oscar,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Simon,Yetta,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Simon,Yetta,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Yetta,Oscar,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Oscar,Yetta,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Oscar,Yetta,1.715686274509804,0.49019607843137253,58.57843137254902,3.5,have start speak name seem be have know
+Peggy,Yetta,0.0,2.5,27.500000000000004,0.0,do want ban
+Daniel,Janine,1.0714285714285714,7.142857142857142,48.92857142857142,0.15,be snub be irk be suppose be work be snub
+Daniel,Janine,1.0714285714285714,7.142857142857142,48.92857142857142,0.15,be snub be irk be suppose be work be snub
+Daniel,Janine,1.0714285714285714,7.142857142857142,48.92857142857142,0.15,be snub be irk be suppose be work be snub
+Daniel,Janine,1.0714285714285714,7.142857142857142,48.92857142857142,0.15,be snub be irk be suppose be work be snub
+Daniel,Janine,1.0714285714285714,7.142857142857142,48.92857142857142,0.15,be snub be irk be suppose be work be snub
+Daniel,Emily,0.78125,0.0,58.59375,INF,think have get be read
+Daniel,Emily,0.78125,0.0,58.59375,INF,think have get be read
+Daniel,Emily,0.78125,0.0,58.59375,INF,think have get be read
+Daniel,Emily,4.166666666666666,0.0,55.833333333333336,INF,say pass be
+Daniel,Emily,4.166666666666666,0.0,55.833333333333336,INF,say pass be
+Emily,Justin,6.5,1.0,36.5,6.5,leave take say be know
+Emily,Justin,6.5,1.0,36.5,6.5,leave take say be know
+Justin,Emily,6.5,1.0,36.5,6.5,leave take say be know
+Emily,Justin,6.5,1.0,36.5,6.5,leave take say be know
+Justin,Emily,3.571428571428571,0.0,34.523809523809526,INF,ask say have know do
+Justin,Emily,3.571428571428571,0.0,34.523809523809526,INF,ask say have know do
+Emily,Justin,3.571428571428571,0.0,34.523809523809526,INF,ask say have know do
+Justin,Emily,3.571428571428571,0.0,34.523809523809526,INF,ask say have know do
+Emily,Justin,2.857142857142857,0.0,51.42857142857142,INF,try make do go escape feel
+Emily,Justin,2.857142857142857,0.0,51.42857142857142,INF,try make do go escape feel
+Justin,Emily,2.857142857142857,0.0,51.42857142857142,INF,try make do go escape feel
+Emily,Janine,7.421875,1.171875,53.90625,6.333333333333333,have come nuzzle have be shock have come sympathize explain
+Emily,Janine,7.421875,1.171875,53.90625,6.333333333333333,have come nuzzle have be shock have come sympathize explain
+Emily,Janine,7.421875,1.171875,53.90625,6.333333333333333,have come nuzzle have be shock have come sympathize explain
+Janine,Emily,6.944444444444445,0.0,48.61111111111111,INF,do have tell
+Janine,Emily,3.125,0.0,46.875,INF,have tell
+Janine,Emily,5.0,1.6666666666666667,40.0,3.0,have tell be avert
+Janine,Emily,5.0,1.6666666666666667,40.0,3.0,have tell be avert
+Janine,Emily,5.0,1.6666666666666667,40.0,3.0,have tell be avert
+Shakespeare,Emily,0.0,0.6944444444444444,54.861111111111114,0.0,make put
+Emily,Shakespeare,0.0,0.0,55.55555555555556,INF,do be
+Shakespeare,Emily,8.5,2.5,41.0,3.4,think be know look
+Shakespeare,Emily,8.5,2.5,41.0,3.4,think be know look
+Emily,Shakespeare,8.5,2.5,41.0,3.4,think be know look
+Emily,Shakespeare,8.5,2.5,41.0,3.4,think be know look
+Emily,Shakespeare,4.464285714285714,5.357142857142857,33.035714285714285,0.8333333333333334,be do know
+Shakespeare,Emily,4.464285714285714,5.357142857142857,33.035714285714285,0.8333333333333334,be do know
+Daniel,Janine,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,have plan be come get expect
+Daniel,Janine,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,have plan be come get expect
+Janine,Daniel,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,be say
+Daniel,Janine,4.166666666666666,4.166666666666666,41.66666666666667,1.0,expect
+Calvin Coolidge,Daniel,6.666666666666667,0.0,66.66666666666666,INF,like make say
+Janine,Daniel,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be be tip
+Daniel,Janine,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,go take walk
+Daniel,Janine,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,go take walk
+Daniel,Janine,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,go take walk
+Daniel,Janine,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,go take walk
+Daniel,Janine,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,be hope learn think be miss be miss
+Daniel,Janine,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,be hope learn think be miss be miss
+Daniel,Janine,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,act have ask be go
+Janine,Daniel,0.4464285714285714,2.232142857142857,58.03571428571429,0.2,act have ask be go
+Daniel,Janine,0.0,0.0,41.66666666666667,INF,know ask
+Janine,Daniel,0.0,0.0,41.66666666666667,INF,know ask
+Janine,Daniel,7.8125,7.8125,59.375,1.0,tell know
+Daniel,Janine,1.25,0.0,38.75,INF,tell say
+Janine,Daniel,1.25,0.0,38.75,INF,tell say
+Daniel,Janine,1.25,0.0,48.75,INF,be think attack
+Daniel,Emily,0.0,0.0,50.0,INF,start make
+Emily,Daniel,0.0,4.545454545454546,40.909090909090914,0.0,sound
+Daniel,Emily,5.88235294117647,2.2058823529411766,50.73529411764706,2.6666666666666665,decide do know be have
+Daniel,Emily,5.88235294117647,2.2058823529411766,50.73529411764706,2.6666666666666665,decide do know be have
+Daniel,Emily,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have like say reassure have reassure say
+Emily,Daniel,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have like say reassure have reassure say
+Daniel,Emily,0.0,0.0,47.368421052631575,INF,finish make hold take
+Daniel,Emily,0.0,0.0,47.368421052631575,INF,finish make hold take
+Daniel,Emily,2.840909090909091,3.4090909090909087,61.93181818181818,0.8333333333333334,be try figure be code say have be
+Janine,Emily,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,get look say be
+Janine,Emily,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,get look say be
+Janine,Van Morrison,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,get look say be
+Emily,Van Morrison,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,get look say be
+Emily,Van Morrison,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,get look say be
+Janine,Van Morrison,4.861111111111112,2.7777777777777777,53.47222222222222,1.75,love be feel go
+Van Morrison,Janine,4.861111111111112,2.7777777777777777,53.47222222222222,1.75,love be feel go
+Van Morrison,Janine,4.861111111111112,2.7777777777777777,53.47222222222222,1.75,love be feel go
+Janine,Daniel,0.0,0.0,40.0,INF,say
+Daniel,Janine,6.25,6.25,37.5,1.0,be
+Daniel,Janine,3.125,8.333333333333332,63.541666666666664,0.375,be
+Daniel,Janine,6.0,2.0,36.0,3.0,be think do know have do
+Daniel,Janine,6.0,2.0,36.0,3.0,be think do know have do
+Janine,Daniel,6.0,2.0,36.0,3.0,be think do know have do
+Daniel,Janine,6.0,2.0,36.0,3.0,be think do know have do
+Janine,Daniel,6.25,0.0,18.75,INF,ask
+Emily,Noah,0.0,0.0,42.857142857142854,INF,walk
+Emily,Noah,1.0,2.0,45.0,0.5,draw hope be say
+Emily,Noah,1.0,2.0,45.0,0.5,draw hope be say
+Emily,Noah,1.0,2.0,45.0,0.5,draw hope be say
+NYU,Martha Nussbaum,5.059523809523809,0.2976190476190476,44.642857142857146,17.0,have attend be go include want make
+Justin,Emily,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Justin,Emily,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Justin,Emily,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Emily,Justin,3.3333333333333335,2.9166666666666665,47.083333333333336,1.1428571428571428,have be pressure visit try put start sound be disintegrate
+Justin,Emily,0.0,1.9736842105263157,55.92105263157895,0.0,be send make
+Emily,Justin,0.0,1.9736842105263157,55.92105263157895,0.0,be send make
+Justin,Emily,2.5,2.5,45.0,1.0,be accompany miss
+Justin,Emily,2.5,2.5,45.0,1.0,be accompany miss
+Emily,Justin,2.7777777777777777,5.555555555555555,30.555555555555557,0.5,make live
+Emily,Justin,2.7777777777777777,5.555555555555555,30.555555555555557,0.5,make live
+Justin,Emily,2.7777777777777777,5.555555555555555,30.555555555555557,0.5,make live
+Justin,Emily,2.7777777777777777,5.555555555555555,30.555555555555557,0.5,make live
+Emily,Justin,4.741379310344827,1.293103448275862,49.137931034482754,3.6666666666666665,scare carry be be advance sleep
+Emily,Justin,9.895833333333332,1.0416666666666665,51.5625,9.5,do know make do know manage make look
+Emily,Justin,9.895833333333332,1.0416666666666665,51.5625,9.5,do know make do know manage make look
+Emily,Justin,6.5,0.0,57.49999999999999,INF,talk say be do feel
+Emily,Justin,6.5,0.0,57.49999999999999,INF,talk say be do feel
+Elba,Emily,1.6891891891891893,0.6756756756756757,57.0945945945946,2.5,name come lumber give see back be
+Elba,Emily,1.6891891891891893,0.6756756756756757,57.0945945945946,2.5,name come lumber give see back be
+Emily,Elba,1.6891891891891893,0.6756756756756757,57.0945945945946,2.5,name come lumber give see back be
+Elba,Emily,1.6891891891891893,0.6756756756756757,57.0945945945946,2.5,name come lumber give see back be
+Elba,Emily,9.375,3.75,46.875,2.5,hug wonder watch find be back
+Emily,Elba,9.375,3.75,46.875,2.5,hug wonder watch find be back
+Emily,Justin,7.8125,3.125,39.0625,2.5,be think
+Emily,Justin,11.538461538461538,11.538461538461538,23.076923076923077,1.0,be worry be worry
+Justin,Emily,11.538461538461538,11.538461538461538,23.076923076923077,1.0,be worry be worry
+Willa Ruth Stone,Emily,0.0,0.0,27.27272727272727,INF,be say
+Emily,Willa Ruth Stone,3.9473684210526314,0.0,64.47368421052632,INF,have read
+Willa Ruth Stone,Elba,7.291666666666667,3.125,22.916666666666664,2.3333333333333335,say be excite say
+Willa Ruth Stone,Elba,7.291666666666667,3.125,22.916666666666664,2.3333333333333335,say be excite say
+Emily,Edward,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,recognize have do quote have copy have be write be be press
+Emily,Edward,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,recognize have do quote have copy have be write be be press
+Edward,Emily,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,recognize have do quote have copy have be write be be press
+Emily,Willa Ruth Stone,4.891304347826087,0.0,55.97826086956522,INF,look guess have come hear
+Florence Gordon,Willa Ruth Stone,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,be be celebrate respect say
+Oscar,Emily,5.859375,1.5625,50.390625,3.75,happen spell look be caricature have sketch
+Oscar,Emily,5.859375,1.5625,50.390625,3.75,happen spell look be caricature have sketch
+Oscar,Willa Ruth Stone,5.859375,1.5625,50.390625,3.75,happen spell look be caricature have sketch
+Emily,Willa Ruth Stone,5.859375,1.5625,50.390625,3.75,happen spell look be caricature have sketch
+Emily,Willa Ruth Stone,5.859375,1.5625,50.390625,3.75,happen spell look be caricature have sketch
+Vanessa,Alexandra,3.8461538461538463,0.9615384615384616,49.03846153846153,4.0,be include
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Emily,Willa Ruth Stone,2.564102564102564,3.205128205128205,45.51282051282051,0.8,be listen give have be horrify be excite feel destroy
+Willa Ruth Stone,Emily,6.071428571428571,3.571428571428571,47.5,1.7,be have be offer reply know have expect grab
+Willa Ruth Stone,Emily,6.071428571428571,3.571428571428571,47.5,1.7,be have be offer reply know have expect grab
+Emily,Willa Ruth Stone,6.071428571428571,3.571428571428571,47.5,1.7,be have be offer reply know have expect grab
+Emily,Willa Ruth Stone,6.071428571428571,3.571428571428571,47.5,1.7,be have be offer reply know have expect grab
+Emily,Justin,8.333333333333332,2.7777777777777777,33.33333333333333,3.0,think go worry
+Emily,Justin,8.333333333333332,2.7777777777777777,33.33333333333333,3.0,think go worry
+Oscar,Emily,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Oscar,Emily,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Emily,Oscar,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Emily,Oscar,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Emily,Oscar,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Emily,Oscar,1.4423076923076923,0.0,48.55769230769231,INF,ask visit say stay have keep
+Janine,Daniel,10.9375,0.0,51.5625,INF,have know
+Janine,Daniel,2.0454545454545454,2.0454545454545454,50.45454545454545,1.0,have have have be defend have feel
+Daniel,Janine,2.0454545454545454,2.0454545454545454,50.45454545454545,1.0,have have have be defend have feel
+Lev,Daniel,4.6875,3.125,58.854166666666664,1.5,feel excite have feel
+Daniel,Lev,6.875000000000001,4.375,58.75,1.5714285714285714,be use settle search
+Lev,Daniel,6.875000000000001,4.375,58.75,1.5714285714285714,be use settle search
+Lev,Daniel,6.875000000000001,4.375,58.75,1.5714285714285714,be use settle search
+Daniel,Lev,3.125,0.0,63.541666666666664,INF,live
+Janine,Emily,1.1904761904761905,0.0,32.142857142857146,INF,explain be be
+Janine,Emily,1.1904761904761905,0.0,32.142857142857146,INF,explain be be
+Janine,Daniel,6.25,7.5,36.25,0.8333333333333334,wish talk
+Janine,Daniel,6.25,7.5,36.25,0.8333333333333334,wish talk
+Daniel,Janine,0.5952380952380952,0.0,56.547619047619044,INF,do stay think refuse see settle
+Tanya,Denise,4.166666666666666,2.5462962962962963,45.13888888888889,1.6363636363636365,do understand do be publish be know screw do screw
+Tanya,Denise,4.166666666666666,2.5462962962962963,45.13888888888889,1.6363636363636365,do understand do be publish be know screw do screw
+Jesus,Saul,1.6666666666666667,0.5555555555555556,33.33333333333333,3.0,do have do do have do have do
+Denise,Tanya,0.0,0.0,21.428571428571427,INF,have be hear
+Emily,Justin,2.083333333333333,0.0,64.58333333333334,INF,be call
+Emily,Justin,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,wish tell
+Emily,Justin,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,wish tell
+Emily,Justin,1.6304347826086956,0.5434782608695652,41.30434782608695,3.0,let put feel be feel
+Emily,Justin,1.6304347826086956,0.5434782608695652,41.30434782608695,3.0,let put feel be feel
+Emily,Justin,1.6304347826086956,0.5434782608695652,41.30434782608695,3.0,let put feel be feel
+Emily,Justin,1.6304347826086956,0.5434782608695652,41.30434782608695,3.0,let put feel be feel
+Emily,Justin,1.25,0.625,38.125,2.0,allow feel need go stay
+Emily,Justin,1.25,0.625,38.125,2.0,allow feel need go stay
+Emily,Justin,5.555555555555555,0.0,27.77777777777778,INF,cost help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Emily,Justin,5.737704918032787,0.819672131147541,49.18032786885246,7.0,keep see be need do know give be see help
+Justin,Emily,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,get send
+Emily,House,0.0,0.0,33.33333333333333,INF,be
+Emily,Justin,0.0,0.0,33.33333333333333,INF,be
+House,Justin,0.0,0.0,33.33333333333333,INF,be
+Emily,Justin,0.0,0.0,16.666666666666664,INF,save
+Emily,Justin,5.769230769230769,0.0,40.38461538461539,INF,do know be save
+Emily,Justin,0.0,0.0,36.36363636363637,INF,know be save
+Emily,Justin,0.0,0.0,36.36363636363637,INF,know be save
+Emily,Saul,3.0,2.5,50.5,1.2,be weigh expose
+Emily,Saul,3.0,2.5,50.5,1.2,be weigh expose
+Saul,Emily,3.0,2.5,50.5,1.2,be weigh expose
+Saul,Emily,3.0,2.5,50.5,1.2,be weigh expose
+Emily,Saul,3.0,2.5,50.5,1.2,be weigh expose
+Saul,Emily,3.0,2.5,50.5,1.2,be weigh expose
+Emily,Justin,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Emily,Justin,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Justin,Emily,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Justin,Emily,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Justin,Emily,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Justin,Emily,5.989583333333334,2.34375,35.41666666666667,2.5555555555555554,sense have be draw have learn do need do see have be
+Emily,Willa Ruth Stone,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Emily,Willa Ruth Stone,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Emily,Willa Ruth Stone,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Emily,Willa Ruth Stone,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Emily,Willa Ruth Stone,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Willa Ruth Stone,Emily,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Willa Ruth Stone,Emily,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Willa Ruth Stone,Emily,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Willa Ruth Stone,Emily,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Willa Ruth Stone,Emily,0.7211538461538461,1.9230769230769231,45.43269230769231,0.375,have sit attack have tip exhaust have look come
+Daniel,Emily,1.4705882352941175,0.0,63.23529411764706,INF,have rent take look
+Janine,Daniel,7.608695652173914,2.717391304347826,54.891304347826086,2.8,have have ask have be have expect be ask
+Janine,Daniel,7.608695652173914,2.717391304347826,54.891304347826086,2.8,have have ask have be have expect be ask
+Janine,Angela Duckworth,5.625,1.25,58.12500000000001,4.5,be get see come
+Janine,Daniel,0.0,0.0,40.0,INF,say
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Daniel,Janine,2.604166666666667,3.125,56.770833333333336,0.8333333333333334,have want grab change
+Janine,Daniel,2.272727272727273,4.220779220779221,49.35064935064935,0.5384615384615384,invent be do carry be show be see be come
+Emily,Daniel,1.3888888888888888,0.0,43.05555555555556,INF,go
+Daniel,Emily,1.4705882352941175,0.0,51.470588235294116,INF,like drive like ride
+Emily,Daniel,1.4705882352941175,0.0,51.470588235294116,INF,like drive like ride
+Emily,Daniel,2.1739130434782608,7.608695652173914,46.73913043478261,0.2857142857142857,feel have have
+Daniel,Emily,2.1739130434782608,7.608695652173914,46.73913043478261,0.2857142857142857,feel have have
+George Washington Bridge,Daniel,0.0,1.25,63.74999999999999,0.0,pass breast start pick
+Emily,Angela Duckworth,4.891304347826087,5.434782608695652,41.84782608695652,0.9,be catch
+Angela Duckworth,Emily,4.891304347826087,5.434782608695652,41.84782608695652,0.9,be catch
+Emily,Daniel,0.0,0.0,60.0,INF,let drive be take
+Emily,Daniel,0.0,0.0,58.333333333333336,INF,be trot keep
+Lev,Emily,3.4722222222222223,0.6944444444444444,51.388888888888886,5.0,be talk do know
+Daniel,Lev,0.0,0.0,66.66666666666666,INF,walk
+Daniel,Lev,6.25,0.0,63.74999999999999,INF,do know be
+Emily,Lev,4.861111111111112,7.638888888888889,54.166666666666664,0.6363636363636364,see throw make get hurt
+Emily,Daniel,4.861111111111112,7.638888888888889,54.166666666666664,0.6363636363636364,see throw make get hurt
+Emily,Lev,4.861111111111112,7.638888888888889,54.166666666666664,0.6363636363636364,see throw make get hurt
+Emily,Daniel,4.861111111111112,7.638888888888889,54.166666666666664,0.6363636363636364,see throw make get hurt
+Lev,Daniel,4.861111111111112,7.638888888888889,54.166666666666664,0.6363636363636364,see throw make get hurt
+Daniel,Lev,2.272727272727273,0.0,61.36363636363637,INF,have join
+Daniel,Lev,4.761904761904762,0.0,52.38095238095239,INF,be pump be regard look
+Daniel,Lev,4.761904761904762,0.0,52.38095238095239,INF,be pump be regard look
+Daniel,Lev,4.761904761904762,0.0,52.38095238095239,INF,be pump be regard look
+Daniel,Lev,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be bore have be describe
+Daniel,Janine,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be bore have be describe
+Lev,Janine,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,be bore have be describe
+Janine,Daniel,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Janine,Greta,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Janine,Daniel,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Janine,Greta,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Daniel,Greta,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Daniel,Janine,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Greta,Janine,2.564102564102564,0.3205128205128205,56.08974358974359,8.0,smile shake move appear name learn have meet
+Janine,Greta,3.8461538461538463,0.0,50.0,INF,try make watch
+Janine,Daniel,3.8461538461538463,0.0,50.0,INF,try make watch
+Janine,Lev,3.8461538461538463,0.0,50.0,INF,try make watch
+Greta,Daniel,3.8461538461538463,0.0,50.0,INF,try make watch
+Greta,Lev,3.8461538461538463,0.0,50.0,INF,try make watch
+Daniel,Lev,3.8461538461538463,0.0,50.0,INF,try make watch
+Daniel,Lev,2.272727272727273,0.5681818181818182,56.25,4.0,like keep seem be crowd force
+Daniel,Lev,2.272727272727273,0.5681818181818182,56.25,4.0,like keep seem be crowd force
+Daniel,Lev,2.272727272727273,0.5681818181818182,56.25,4.0,like keep seem be crowd force
+Lev,Daniel,3.8461538461538463,0.0,73.07692307692307,INF,be be dominate
+Lev,Daniel,3.8461538461538463,0.0,73.07692307692307,INF,be be dominate
+Daniel,Janine,0.8928571428571428,2.6785714285714284,64.28571428571429,0.3333333333333333,be like tell be
+Daniel,Janine,0.8928571428571428,2.6785714285714284,64.28571428571429,0.3333333333333333,be like tell be
+Janine,Daniel,0.8928571428571428,2.6785714285714284,64.28571428571429,0.3333333333333333,be like tell be
+Janine,Daniel,1.0869565217391304,0.5434782608695652,67.93478260869566,2.0,be remind have be
+Janine,Daniel,1.0869565217391304,0.5434782608695652,67.93478260869566,2.0,be remind have be
+Daniel,Janine,1.0869565217391304,0.5434782608695652,67.93478260869566,2.0,be remind have be
+Daniel,Janine,1.0869565217391304,0.5434782608695652,67.93478260869566,2.0,be remind have be
+Lev,Janine,3.75,2.5,63.74999999999999,1.5,be move be be
+Daniel,Lev,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Daniel,Lev,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Daniel,Lev,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Daniel,Lev,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Lev,Daniel,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Lev,Daniel,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Lev,Daniel,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Daniel,Lev,1.4204545454545454,0.5681818181818182,57.10227272727273,2.5,speak move step be move have step
+Daniel,Janine,1.7857142857142856,0.0,62.5,INF,have take
+Michael Jordan,Dennis Rodman,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Michael Jordan,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Michael Jordan,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Michael Jordan,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Dennis Rodman,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Dennis Rodman,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Dennis Rodman,Daniel,2.5,2.8846153846153846,57.692307692307686,0.8666666666666667,go dunk snatch point be do obstruct know want go close make have take
+Daniel,Janine,9.375,1.875,53.75,5.0,show make move
+Janine,Greta,0.0,1.5625,48.4375,0.0,be talk
+Janine,Lev,5.681818181818182,0.0,35.22727272727273,INF,feel rescue do know be rescue
+Janine,Lev,5.681818181818182,0.0,35.22727272727273,INF,feel rescue do know be rescue
+Lev,Janine,5.681818181818182,0.0,35.22727272727273,INF,feel rescue do know be rescue
+Lev,Janine,5.681818181818182,0.0,35.22727272727273,INF,feel rescue do know be rescue
+Daniel,Lev,3.205128205128205,0.9615384615384616,62.5,3.3333333333333335,smile seem be meet be hold be show be
+Daniel,Lev,3.205128205128205,0.9615384615384616,62.5,3.3333333333333335,smile seem be meet be hold be show be
+Daniel,Lev,3.205128205128205,0.9615384615384616,62.5,3.3333333333333335,smile seem be meet be hold be show be
+Lev,Daniel,2.232142857142857,2.232142857142857,63.39285714285714,1.0,be hold have think be try ward
+Lev,Daniel,2.232142857142857,2.232142857142857,63.39285714285714,1.0,be hold have think be try ward
+Greta,Janine,3.2407407407407405,1.3888888888888888,47.22222222222222,2.3333333333333335,have finish say be have say assume have hear
+Greta,Janine,3.2407407407407405,1.3888888888888888,47.22222222222222,2.3333333333333335,have finish say be have say assume have hear
+Greta,Janine,3.2407407407407405,1.3888888888888888,47.22222222222222,2.3333333333333335,have finish say be have say assume have hear
+Greta,Janine,3.2407407407407405,1.3888888888888888,47.22222222222222,2.3333333333333335,have finish say be have say assume have hear
+Greta,Janine,0.0,0.35714285714285715,56.785714285714285,0.0,be talk move order appear be engage observe
+Greta,Janine,0.0,0.35714285714285715,56.785714285714285,0.0,be talk move order appear be engage observe
+Daniel,Lev,0.0,0.0,72.72727272727273,INF,be hold
+Lev,Janine,0.0,3.75,56.25,0.0,seem be
+Janine,Lev,2.232142857142857,1.3392857142857142,50.0,1.6666666666666667,see put clap be
+Janine,Lev,2.232142857142857,1.3392857142857142,50.0,1.6666666666666667,see put clap be
+Daniel,Janine,0.6578947368421052,0.0,46.71052631578947,INF,look spot come smile shake
+Daniel,Janine,0.6578947368421052,0.0,46.71052631578947,INF,look spot come smile shake
+Janine,Daniel,0.6578947368421052,0.0,46.71052631578947,INF,look spot come smile shake
+Janine,Daniel,0.6578947368421052,0.0,46.71052631578947,INF,look spot come smile shake
+Janine,Daniel,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,follow be grasp
+Janine,Daniel,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,follow be grasp
+Daniel,Janine,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,follow be grasp
+Janine,Daniel,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,follow be grasp
+Daniel,Janine,3.125,3.125,50.0,1.0,have be light relax see know
+Daniel,Janine,3.125,3.125,50.0,1.0,have be light relax see know
+Janine,Daniel,0.0,0.0,46.15384615384615,INF,hear snore
+Janine,Daniel,1.9736842105263157,3.289473684210526,57.89473684210527,0.6,keep urge get test keep put
+Janine,Daniel,1.9736842105263157,3.289473684210526,57.89473684210527,0.6,keep urge get test keep put
+Janine,Daniel,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Janine,Lev,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Janine,Daniel,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Janine,Lev,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Daniel,Lev,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Daniel,Janine,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Daniel,Janine,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Lev,Janine,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Lev,Janine,4.846938775510204,1.7857142857142856,38.265306122448976,2.7142857142857144,have be think get find spend
+Janine,Emily,7.954545454545454,0.0,55.68181818181818,INF,be wonder have acquire
+Janine,Daniel,0.3787878787878788,1.1363636363636365,53.03030303030303,0.3333333333333333,be come say chat
+Daniel,Emily,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Daniel,Emily,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Daniel,Emily,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Daniel,Emily,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Daniel,Emily,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,2.5,1.7857142857142856,55.714285714285715,1.4,be snore prod snore let go
+Emily,Daniel,4.545454545454546,7.386363636363637,51.70454545454546,0.6153846153846154,be be be be
+Emily,Daniel,6.25,3.571428571428571,47.32142857142857,1.75,be know do know
+Emily,Daniel,8.75,3.75,27.500000000000004,2.3333333333333335,wish peer
+Emily,Daniel,8.75,3.75,27.500000000000004,2.3333333333333335,wish peer
+Emily,Daniel,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Emily,Daniel,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Emily,Daniel,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Daniel,Emily,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Daniel,Emily,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Daniel,Emily,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Daniel,Emily,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Emily,Daniel,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Daniel,Emily,4.487179487179487,3.205128205128205,46.15384615384615,1.4,be know be have tell have have do
+Emily,Daniel,3.90625,0.0,39.84375,INF,have train respect
+Emily,Daniel,4.891304347826087,1.6304347826086956,58.69565217391305,3.0,have be go
+Emily,Daniel,4.891304347826087,1.6304347826086956,58.69565217391305,3.0,have be go
+Emily,Daniel,0.0,2.8846153846153846,50.96153846153846,0.0,go pick
+Emily,Daniel,0.0,2.8846153846153846,50.96153846153846,0.0,go pick
+Emily,Daniel,0.0,0.0,56.52173913043478,INF,scroll make call receive seem reveal
+Emily,Daniel,0.0,0.0,56.52173913043478,INF,scroll make call receive seem reveal
+Emily,Daniel,8.333333333333332,0.8333333333333334,50.83333333333333,10.0,check save be
+Emily,Daniel,0.0,0.0,57.14285714285714,INF,pick
+Emily,Mark,2.314814814814815,4.166666666666666,37.96296296296296,0.5555555555555556,be pay be pay
+Emily,Reed,2.314814814814815,4.166666666666666,37.96296296296296,0.5555555555555556,be pay be pay
+Mark,Reed,2.314814814814815,4.166666666666666,37.96296296296296,0.5555555555555556,be pay be pay
+Mark,Emily,2.314814814814815,4.166666666666666,37.96296296296296,0.5555555555555556,be pay be pay
+Reed,Emily,2.314814814814815,4.166666666666666,37.96296296296296,0.5555555555555556,be pay be pay
+Emily,Mark,2.7777777777777777,1.3888888888888888,62.5,2.0,be
+Mark,Daniel,4.464285714285714,5.357142857142857,61.60714285714286,0.8333333333333334,have hurt have cover
+Mark,Lev,1.3888888888888888,0.0,54.166666666666664,INF,be spend be spend
+Mark,Lev,1.3888888888888888,0.0,54.166666666666664,INF,be spend be spend
+Mark,Lev,1.25,0.0,48.75,INF,pick see call
+Mark,Lev,1.25,0.0,48.75,INF,pick see call
+Lev,Emily,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Emily,8.125,0.625,41.25,13.0,have call have call have call
+Emily,Lev,8.125,0.625,41.25,13.0,have call have call have call
+Emily,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Emily,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Mark,8.125,0.625,41.25,13.0,have call have call have call
+Lev,Emily,8.125,0.625,41.25,13.0,have call have call have call
+Mark,Emily,8.125,0.625,41.25,13.0,have call have call have call
+Mark,Emily,8.125,0.625,41.25,13.0,have call have call have call
+Mark,Emily,7.142857142857142,3.571428571428571,46.42857142857143,2.0,have tell
+Daniel,Emily,2.976190476190476,4.365079365079365,49.801587301587304,0.6818181818181818,enter be ask give ask speak live live give involve know speak have leave
+Daniel,Emily,2.976190476190476,4.365079365079365,49.801587301587304,0.6818181818181818,enter be ask give ask speak live live give involve know speak have leave
+Emily,Daniel,2.976190476190476,4.365079365079365,49.801587301587304,0.6818181818181818,enter be ask give ask speak live live give involve know speak have leave
+Emily,Daniel,0.25510204081632654,1.2755102040816326,57.6530612244898,0.2,be grow be skype be read put
+Emily,Daniel,0.25510204081632654,1.2755102040816326,57.6530612244898,0.2,be grow be skype be read put
+Daniel,Emily,0.25510204081632654,1.2755102040816326,57.6530612244898,0.2,be grow be skype be read put
+Daniel,Emily,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have visit drive
+Daniel,Bard,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have visit drive
+Emily,Bard,1.9736842105263157,2.631578947368421,58.55263157894737,0.75,have visit drive
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Janine,Emily,0.0,0.0,27.77777777777778,INF,be sit see hear
+Emily,Mark,5.921052631578947,2.631578947368421,49.34210526315789,2.25,be talk
+Emily,Daniel,0.0,0.0,40.0,INF,see
+Janine,Daniel,0.0,0.0,28.57142857142857,INF,follow
+Daniel,Janine,1.875,3.125,45.0,0.6,look say have
+Daniel,Janine,1.875,3.125,45.0,0.6,look say have
+Daniel,Janine,1.875,3.125,45.0,0.6,look say have
+Daniel,Janine,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Daniel,Janine,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Daniel,Janine,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Janine,Daniel,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Daniel,Janine,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Daniel,Janine,2.314814814814815,4.62962962962963,48.61111111111111,0.5,call tell be go find contain
+Emily,Bard,8.333333333333332,2.7777777777777777,33.33333333333333,3.0,be think transfer
+Daniel,Emily,1.4423076923076923,0.0,48.55769230769231,INF,suppose be say wonder be take
+Daniel,Emily,1.4423076923076923,0.0,48.55769230769231,INF,suppose be say wonder be take
+Emily,Daniel,1.4423076923076923,0.0,48.55769230769231,INF,suppose be say wonder be take
+Daniel,Emily,1.4423076923076923,0.0,48.55769230769231,INF,suppose be say wonder be take
+Emily,Noah,0.9375,0.9375,60.62499999999999,1.0,try figure have spend have go intercept
+Emily,Noah,0.9375,0.9375,60.62499999999999,1.0,try figure have spend have go intercept
+Emily,Noah,0.9375,0.9375,60.62499999999999,1.0,try figure have spend have go intercept
+Emily,Noah,0.9375,0.9375,60.62499999999999,1.0,try figure have spend have go intercept
+Jesus,Daniel,0.0,0.0,53.84615384615385,INF,say open
+Jesus,Daniel,0.0,0.0,53.84615384615385,INF,say open
+Daniel,Janine,0.0,0.0,69.23076923076923,INF,keep change keep scroll
+Janine,Emily,4.464285714285714,0.8928571428571428,51.78571428571429,5.0,feel be
+Emily,Daniel,3.7162162162162162,2.364864864864865,42.567567567567565,1.5714285714285714,do know have hear be call let get say
+Daniel,Emily,3.125,0.0,46.875,INF,bore
+Emily,Daniel,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,be mean say laugh
+Emily,Janine,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,be mean say laugh
+Daniel,Janine,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,be mean say laugh
+Daniel,Janine,0.0,0.0,60.86956521739131,INF,say

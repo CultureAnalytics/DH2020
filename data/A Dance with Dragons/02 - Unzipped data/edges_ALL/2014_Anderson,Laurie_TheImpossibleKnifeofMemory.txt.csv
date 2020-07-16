@@ -1,0 +1,413 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Laurie Halse Anderson,Penguin Group,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Laurie Halse Anderson,Penguin Group,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Laurie Halse Anderson,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Laurie Halse Anderson,Penguin Group,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Laurie Halse Anderson,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Laurie Halse Anderson,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Laurie Halse Anderson,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Viking,Penguin Group,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Viking,Laurie Halse Anderson,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Laurie Halse Anderson,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Penguin Group,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Laurie Halse Anderson,Viking,1.25,0.22727272727272727,57.61363636363637,5.5,publish publish translate publish
+Topher,Zoe,0.0,0.0,50.0,INF,respond be lie
+Gracie,Topher,0.8333333333333334,0.0,55.833333333333336,INF,do hand return carry load
+Gracie,Topher,0.8333333333333334,0.0,55.833333333333336,INF,do hand return carry load
+Finn,Gracie,0.0,0.7352941176470588,52.20588235294118,0.0,promise write say
+Hays,Gracie,0.0,0.0,50.0,INF,come say
+Trish,Dad,0.5102040816326531,0.5102040816326531,66.3265306122449,1.0,leave drift navigate stop seem
+Ms. Burkey,Gracie,2.34375,0.5208333333333333,61.71875,4.5,flash leave fire hurry be teach
+Brandon,Ms. Rogak,0.0,0.0,30.0,INF,say
+Ms. Rogak,Odysseus,4.772727272727273,4.772727272727273,46.81818181818182,1.0,have read try bewitch be haggard sere brood lift have suffer
+Trish,Benedetti,0.0,0.0,50.0,INF,do call
+Daddy,Ms. Rogak,0.0,2.083333333333333,52.083333333333336,0.0,fill drip pitch
+Ms. Rogak,Dad,8.333333333333332,2.083333333333333,56.25,4.0,have be email
+Ms. Rogak,Dad,1.5625,3.90625,63.28125,0.4,have twist be be get
+Ms. Rogak,Dad,1.5625,3.90625,63.28125,0.4,have twist be be get
+Ms. Rogak,Dad,0.0,2.840909090909091,38.06818181818182,0.0,be manipulate lie break rust
+Ms. Rogak,Dad,0.0,2.840909090909091,38.06818181818182,0.0,be manipulate lie break rust
+Ms. Rogak,Dad,0.0,2.840909090909091,38.06818181818182,0.0,be manipulate lie break rust
+Finn,Topher,5.0,0.0,61.66666666666667,INF,be say be
+Finn,Topher,5.0,0.0,61.66666666666667,INF,be say be
+Topher,Finn,5.0,0.0,61.66666666666667,INF,be say be
+Spock,Dad,0.0,0.0,60.0,INF,woof roll see
+Maynard,Kimura,2.941176470588235,0.0,38.23529411764706,INF,hear get
+Maynard,Kimura,0.0,0.0,0.0,INF,
+Ramos,Ms. Rogak,0.0,0.0,41.66666666666667,INF,say
+Hayley,Ms. Rogak,0.0,0.0,9.090909090909092,INF,say
+Gracie,Topher,1.5625,0.78125,47.65625,2.0,drive have be
+Topher,Gracie,1.5625,0.78125,47.65625,2.0,drive have be
+Mr. Cleveland,Finn,0.0,0.0,66.66666666666666,INF,be put
+Brandon,Ms. Rogak,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,be show last
+Mr. Diaz,Hayley,3.90625,2.34375,53.125,1.6666666666666667,turn spend read say thank
+Mr. Diaz,Hayley,3.90625,2.34375,53.125,1.6666666666666667,turn spend read say thank
+Mr. Diaz,Hayley,3.90625,2.34375,53.125,1.6666666666666667,turn spend read say thank
+Mr. Diaz,Hayley,3.90625,2.34375,53.125,1.6666666666666667,turn spend read say thank
+Benedetti,Trish,0.0,0.0,14.285714285714285,INF,mention
+Gracie,Finn,0.0,0.5434782608695652,64.67391304347827,0.0,start ask know be go delete
+Roy,Dad,3.125,0.0,51.87500000000001,INF,send rent explain
+Hayley Rose,Dad,0.0,0.0,37.5,INF,say
+Andy,Roy,1.9230769230769231,0.9615384615384616,20.192307692307693,2.0,remember be
+Dad,Roy,0.0,10.714285714285714,46.42857142857143,0.0,snort ignore
+Dad,Roy,0.0,10.714285714285714,46.42857142857143,0.0,snort ignore
+Dad,Roy,0.0,1.5625,48.4375,0.0,crack wait swallow
+Roy,Dad,2.7777777777777777,3.125,60.763888888888886,0.8888888888888888,give do laugh realize be be go
+Gramma,Michael,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,die rent be
+Michael,Dad,0.0,0.0,68.0,INF,look creep be begin think be
+Michael,Dad,0.0,0.0,68.0,INF,look creep be begin think be
+Roy,Dad,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have want do
+Roy,Michael,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have want do
+Roy,Dad,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have want do
+Roy,Michael,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have want do
+Dad,Michael,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have want do
+Topher,Gracie,3.77906976744186,1.4534883720930232,50.58139534883721,2.6,ride hope have call ask spend mention have
+Louie,Finn,0.0,0.0,33.33333333333333,INF,march launch save hear
+Louie,Finn,0.0,0.0,33.33333333333333,INF,march launch save hear
+Dad,Roy,0.0,0.6578947368421052,46.71052631578947,0.0,be sit
+Gracie,Finn,1.0416666666666665,0.0,61.458333333333336,INF,want ask be suppose do do mean
+Gracie,Topher,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Gracie,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Gracie,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Gracie,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Gracie,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Topher,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Topher,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Topher,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Topher,Finn,3.6057692307692304,1.6826923076923077,54.32692307692307,2.142857142857143,tell tell like exaggerate think have sleep think have start talk
+Dad,Finn,0.43103448275862066,0.0,44.396551724137936,INF,get stay distract give track
+Hayley,Roy,3.125,0.0,46.875,INF,help say pour
+Finn,Dad,5.859375,1.171875,58.59375,5.0,want think hang get spend be
+Finn,Roy,5.859375,1.171875,58.59375,5.0,want think hang get spend be
+Dad,Roy,5.859375,1.171875,58.59375,5.0,want think hang get spend be
+Andy,Roy,2.083333333333333,6.25,25.0,0.3333333333333333,be say
+Roy,Dad,1.6304347826086956,2.717391304347826,56.52173913043478,0.6,reach shut turn nod
+Dad,Roy,1.3392857142857142,0.0,59.375,INF,be sit watch load come
+Gramma,Daddy,0.0,1.5151515151515151,53.03030303030303,0.0,take dig disappear
+Michael,Dad,1.25,0.0,68.75,INF,be have
+Roy,Rebecca,1.0416666666666665,0.0,57.291666666666664,INF,mean remember look
+Roy,Dad,5.555555555555555,1.3888888888888888,54.166666666666664,4.0,hand get spit
+Roy,Dad,5.555555555555555,1.3888888888888888,54.166666666666664,4.0,hand get spit
+Roy,Dad,5.555555555555555,1.3888888888888888,54.166666666666664,4.0,hand get spit
+Dad,Hayley,0.0,0.0,22.22222222222222,INF,
+Roy,Dad,3.3653846153846154,0.9615384615384616,45.67307692307692,3.5,be laugh roar do like
+Finn,Topher,6.25,1.3888888888888888,64.58333333333334,4.5,be text have break
+Finn,Gracie,6.25,1.3888888888888888,64.58333333333334,4.5,be text have break
+Topher,Gracie,6.25,1.3888888888888888,64.58333333333334,4.5,be text have break
+Finn,Topher,0.78125,1.5625,41.40625,0.5,do matter tell say
+Gracie,Topher,0.7352941176470588,2.2058823529411766,44.11764705882353,0.3333333333333333,hate call say
+Topher,Finn,0.0,0.0,40.0,INF,shake
+Dad,Finn,0.0,0.0,50.0,INF,dig hand
+Finn,Topher,1.4705882352941175,1.8382352941176472,61.39705882352941,0.8,deconstruct be mock tease pay run
+Topher,Finn,1.893939393939394,0.3787878787878788,64.39393939393939,5.0,look hope see know do find
+Dad,Trish,0.8333333333333334,0.0,65.83333333333333,INF,carry be
+Garrett,Dad,0.6944444444444444,3.4722222222222223,62.5,0.2,get puke hide
+Garrett,Dad,0.6944444444444444,3.4722222222222223,62.5,0.2,get puke hide
+Garrett,Dad,0.6944444444444444,3.4722222222222223,62.5,0.2,get puke hide
+Finn,Topher,2.0,0.0,66.0,INF,open stop be pull close
+Mr. Vanderpoole,Doris,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,sit be
+Doris,Mr. Vanderpoole,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,stare
+Doris,Gracie,1.4423076923076923,2.8846153846153846,55.28846153846154,0.5,go have spread sort go miss
+Doris,Annabelle,0.0,0.0,28.57142857142857,INF,say
+Gramma,Doris,1.9230769230769231,0.0,59.61538461538461,INF,have live have wind
+Doris,Annabelle,4.861111111111112,0.6944444444444444,61.111111111111114,7.0,think be go walk
+Doris,Annabelle,2.083333333333333,11.11111111111111,31.25,0.1875,imagine be realize see
+Doris,Annabelle,2.083333333333333,11.11111111111111,31.25,0.1875,imagine be realize see
+Becky,Dad,5.113636363636364,0.0,53.97727272727273,INF,get seem do say
+Dad,Finn,1.694915254237288,1.694915254237288,59.32203389830508,1.0,get be go let pick see be sit have fix leak
+Dad,Finn,1.694915254237288,1.694915254237288,59.32203389830508,1.0,get be go let pick see be sit have fix leak
+Dad,Finn,1.694915254237288,1.694915254237288,59.32203389830508,1.0,get be go let pick see be sit have fix leak
+Finn,Gracie,2.1634615384615383,0.0,57.45192307692307,INF,slide eat try convince be get
+Finn,Topher,2.1634615384615383,0.0,57.45192307692307,INF,slide eat try convince be get
+Gracie,Topher,2.1634615384615383,0.0,57.45192307692307,INF,slide eat try convince be get
+Gracie,Mrs. Rappaport,6.547619047619048,0.0,50.595238095238095,INF,grab make turn slap
+Gracie,Mrs. Rappaport,6.547619047619048,0.0,50.595238095238095,INF,grab make turn slap
+Gracie,Mrs. Rappaport,6.547619047619048,0.0,50.595238095238095,INF,grab make turn slap
+Mrs. Rappaport,Gracie,6.547619047619048,0.0,50.595238095238095,INF,grab make turn slap
+Finn,Gracie,5.813953488372093,6.686046511627906,40.98837209302326,0.8695652173913043,talk want talk talk be be
+Finn,Gracie,5.813953488372093,6.686046511627906,40.98837209302326,0.8695652173913043,talk want talk talk be be
+Mr. Diaz,Finn,5.859375,0.390625,46.875,15.0,walk be say be please do breed
+CIA,Finn,1.4705882352941175,0.7352941176470588,44.85294117647059,2.0,give say
+Daddy,Finn,3.4090909090909087,1.1363636363636365,31.818181818181817,3.0,be
+Ramos,Dad,0.0,2.8846153846153846,43.269230769230774,0.0,do say slur
+Finn,Dad,0.8928571428571428,0.0,56.25,INF,be tell
+Dad,Finn,0.0,0.0,80.0,INF,point
+Garrett,Dad,8.653846153846153,0.9615384615384616,36.53846153846153,9.0,be be stick
+Dad,Gracie,0.0,0.0,63.63636363636363,INF,stand tell be go sleep
+Topher,Zoe,5.392156862745098,8.088235294117647,45.34313725490196,0.6666666666666666,be break have be text ask
+Zoe,Dad,0.6578947368421052,1.9736842105263157,55.26315789473685,0.3333333333333333,decide wait tell happen meet
+Zoe,Finn,0.6578947368421052,1.9736842105263157,55.26315789473685,0.3333333333333333,decide wait tell happen meet
+Dad,Finn,0.6578947368421052,1.9736842105263157,55.26315789473685,0.3333333333333333,decide wait tell happen meet
+Topher,Gracie,2.4390243902439024,1.8292682926829267,56.70731707317073,1.3333333333333333,say like wash call walk yell sound give
+Topher,Gracie,2.4390243902439024,1.8292682926829267,56.70731707317073,1.3333333333333333,say like wash call walk yell sound give
+Topher,Gracie,2.4390243902439024,1.8292682926829267,56.70731707317073,1.3333333333333333,say like wash call walk yell sound give
+Topher,Gracie,2.4390243902439024,1.8292682926829267,56.70731707317073,1.3333333333333333,say like wash call walk yell sound give
+Topher,Gracie,2.4390243902439024,1.8292682926829267,56.70731707317073,1.3333333333333333,say like wash call walk yell sound give
+Gracie,Gramma,2.599009900990099,0.8663366336633664,52.97029702970298,3.0,move have take help remember live go have play say play get holler push get burn go
+Gracie,Topher,3.125,1.0416666666666665,54.166666666666664,3.0,be argue finish
+Gracie,Garrett,1.0,1.5,53.5,0.6666666666666666,wander hang
+Gracie,Garrett,0.5555555555555556,0.2777777777777778,54.72222222222223,2.0,be squint
+Gracie,Mrs. Rappaport,0.5555555555555556,0.2777777777777778,54.72222222222223,2.0,be squint
+Garrett,Mrs. Rappaport,0.5555555555555556,0.2777777777777778,54.72222222222223,2.0,be squint
+Ms. Rogak,Trish,2.7777777777777777,0.0,58.333333333333336,INF,get
+Gracie,Topher,0.0,0.0,58.536585365853654,INF,stop fight pile put carry
+Topher,Gracie,0.0,0.0,58.536585365853654,INF,stop fight pile put carry
+Mrs. Rappaport,Gracie,0.390625,0.0,55.859375,INF,go sit see slump stare
+Roy,Dad,4.166666666666666,0.5208333333333333,61.979166666666664,8.0,say talk do think help
+Roy,Dad,4.166666666666666,0.5208333333333333,61.979166666666664,8.0,say talk do think help
+Roy,Spock,1.3513513513513513,0.6756756756756757,57.432432432432435,2.0,make sit demilitarize separate keep
+Roy,Dad,1.3513513513513513,0.6756756756756757,57.432432432432435,2.0,make sit demilitarize separate keep
+Spock,Dad,1.3513513513513513,0.6756756756756757,57.432432432432435,2.0,make sit demilitarize separate keep
+Benedetti,Dad,2.8125,4.375,55.3125,0.6428571428571429,stop complain play shove babble shift look
+Brandon,Ms. Rogak,0.0,0.0,52.94117647058824,INF,peg turn
+Brandon,Ms. Rogak,0.0,0.0,52.94117647058824,INF,peg turn
+Dad,Finn,5.952380952380952,4.166666666666666,56.547619047619044,1.4285714285714286,have infect weaken smile be
+Benedetti,Trish,4.3478260869565215,2.1739130434782608,45.65217391304348,2.0,have talk have do want discuss
+Trish,Benedetti,4.3478260869565215,2.1739130434782608,45.65217391304348,2.0,have talk have do want discuss
+Dad,Michael,2.083333333333333,0.0,52.083333333333336,INF,happen have notice
+Finn,Sasha,2.644230769230769,1.6826923076923077,53.36538461538461,1.5714285714285714,have play win lose get have become ask be go cover
+Sasha,Ramos,6.666666666666667,3.3333333333333335,50.0,2.0,have infect
+Mr. Cleveland,Benedetti,1.9230769230769231,0.0,51.92307692307693,INF,have continue
+Trish,Benedetti,4.166666666666666,3.125,26.041666666666668,1.3333333333333333,do talk say
+Dad,Gramma,1.6304347826086956,0.5434782608695652,63.04347826086957,3.0,move have spend try deal
+Mrs. Rappaport,Finn,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Mrs. Rappaport,Topher,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Mrs. Rappaport,Gracie,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Finn,Topher,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Finn,Gracie,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Topher,Gracie,0.5208333333333333,0.26041666666666663,51.302083333333336,2.0,take toast get be costume
+Topher,Finn,1.4705882352941175,4.411764705882353,29.411764705882355,0.3333333333333333,say look
+Gracie,Finn,6.25,3.571428571428571,47.32142857142857,1.75,have rob
+Garrett,Finn,3.4722222222222223,0.0,40.97222222222222,INF,grab pull
+Topher,Finn,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,follow
+Topher,Gracie,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,follow
+Finn,Gracie,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,follow
+Topher,Garrett,0.5,2.0,61.5,0.25,spend lag talk hear be say
+Gracie,Garrett,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Gracie,Garrett,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Gracie,Garrett,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Gracie,Garrett,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Garrett,Gracie,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Garrett,Gracie,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Garrett,Gracie,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Garrett,Gracie,0.0,3.3653846153846154,62.019230769230774,0.0,give catch pull try put
+Topher,Finn,0.0,0.0,47.05882352941176,INF,keep hear
+Topher,Finn,0.0,0.0,47.05882352941176,INF,keep hear
+Gracie,Finn,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Gracie,Topher,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Gracie,Garrett,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Finn,Topher,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Finn,Garrett,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Topher,Garrett,3.273809523809524,0.5952380952380952,43.75,5.5,have give hang watch be head
+Gracie,Topher,0.8620689655172413,0.43103448275862066,50.43103448275862,2.0,catch tell be detour meet
+Hayley,Trish,2.941176470588235,0.0,32.35294117647059,INF,say have give
+Finn,Mr. Kincain,2.6785714285714284,0.0,40.17857142857143,INF,
+Finn,Mr. Kincain,2.6785714285714284,0.0,40.17857142857143,INF,
+Trish,Finn,3.571428571428571,0.0,46.42857142857143,INF,step walk outstretch
+Finn,Trish,3.571428571428571,0.0,46.42857142857143,INF,step walk outstretch
+Finn,Trish,10.0,0.0,50.0,INF,shake
+Gracie,Dad,0.0,0.0,41.17647058823529,INF,tell be say
+Gracie,Dad,0.0,0.0,41.17647058823529,INF,tell be say
+Andy,Trish,0.0,2.6785714285714284,40.17857142857143,0.0,be say
+Hayley,Trish,6.944444444444445,0.0,15.277777777777779,INF,please say
+Dad,Trish,1.0416666666666665,3.6458333333333335,49.47916666666667,0.2857142857142857,lose be suppose grab be say yell start end shove scream be be
+Dad,Trish,1.0416666666666665,3.6458333333333335,49.47916666666667,0.2857142857142857,lose be suppose grab be say yell start end shove scream be be
+Dad,Trish,1.0416666666666665,3.6458333333333335,49.47916666666667,0.2857142857142857,lose be suppose grab be say yell start end shove scream be be
+Dad,Trish,1.0416666666666665,3.6458333333333335,49.47916666666667,0.2857142857142857,lose be suppose grab be say yell start end shove scream be be
+Finn,Dad,0.0,0.0,51.724137931034484,INF,come grab be
+Finn,Dad,0.0,0.0,51.724137931034484,INF,come grab be
+Finn,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Finn,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Finn,Dad,0.0,0.0,51.724137931034484,INF,come grab be
+Dad,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Dad,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Dad,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Dad,Trish,0.0,0.0,51.724137931034484,INF,come grab be
+Trish,Dad,0.0,0.0,51.724137931034484,INF,come grab be
+Trish,Dad,0.0,0.0,51.724137931034484,INF,come grab be
+Trish,Dad,0.0,0.0,66.66666666666666,INF,be
+Trish,Finn,0.0,0.0,66.66666666666666,INF,be
+Dad,Finn,0.0,0.0,66.66666666666666,INF,be
+Dad,Finn,1.25,0.0,58.75,INF,squeeze
+Andy,Trish,6.944444444444445,0.0,15.277777777777779,INF,say
+Spock,Dad,0.0,0.0,56.25,INF,hop lay
+Spock,Dad,0.0,1.1363636363636365,53.40909090909091,0.0,be scratch
+Topher,Finn,1.0416666666666665,1.0416666666666665,56.25,1.0,trail
+Gracie,Finn,0.0,0.0,60.0,INF,point
+Topher,Gracie,0.0,0.0,42.857142857142854,INF,put
+Gracie,Finn,2.272727272727273,0.0,47.72727272727273,INF,sway be
+Topher,Gracie,0.0,0.0,45.45454545454545,INF,let go head
+Gracie,Finn,2.5,0.0,47.5,INF,hurry call
+Gracie,Finn,3.316326530612245,2.295918367346939,53.57142857142857,1.4444444444444444,finish have take set
+Gracie,Finn,3.316326530612245,2.295918367346939,53.57142857142857,1.4444444444444444,finish have take set
+Gracie,Topher,1.8518518518518516,4.166666666666666,56.94444444444444,0.4444444444444444,curl lose stay
+Gracie,Topher,1.8518518518518516,4.166666666666666,56.94444444444444,0.4444444444444444,curl lose stay
+Topher,Gracie,1.8518518518518516,4.166666666666666,56.94444444444444,0.4444444444444444,curl lose stay
+Topher,Finn,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fall
+Finn,Gracie,0.625,0.9375,50.9375,0.6666666666666666,come be snore alternate
+Finn,Topher,0.625,0.9375,50.9375,0.6666666666666666,come be snore alternate
+Gracie,Topher,0.625,0.9375,50.9375,0.6666666666666666,come be snore alternate
+Finn,Gracie,0.0,0.0,80.0,INF,point
+Rebecca,Finn,4.545454545454546,2.272727272727273,38.63636363636363,2.0,tell say
+Trish,Daddy,3.125,0.0,53.125,INF,be say love
+Trish,Daddy,3.125,0.0,53.125,INF,be say love
+Daddy,Trish,3.125,0.0,53.125,INF,be say love
+Daddy,Trish,3.125,0.0,53.125,INF,be say love
+Topher,Gracie,2.34375,8.59375,39.0625,0.2727272727272727,go stagger wake
+Finn,Trish,0.4807692307692308,2.8846153846153846,58.17307692307693,0.16666666666666666,drop watch key
+Trish,Spock,0.0,0.0,50.0,INF,look wipe
+Trish,Spock,7.000000000000001,0.0,41.0,INF,run make fall know end
+Spock,Trish,7.000000000000001,0.0,41.0,INF,run make fall know end
+Dad,Trish,0.5434782608695652,0.0,51.63043478260869,INF,exchange look mean happen be go like
+Trish,Dad,5.46875,1.5625,61.71875,3.5,waste say
+Hayley,Trish,6.944444444444445,0.0,15.277777777777779,INF,please say
+Hayley,Andy,0.0,0.0,33.33333333333333,INF,give
+Hayley,Gramma,0.0,0.0,40.0,INF,be stay
+Trish,Rebecca,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Trish,Gramma,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Rebecca,Gramma,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Rebecca,Trish,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Rebecca,Trish,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Gramma,Trish,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Gramma,Trish,1.7857142857142856,1.2755102040816326,43.87755102040816,1.4,get help crowd tap suggest get leave
+Garrett,Gracie,0.625,2.5,56.875,0.25,lean whisper have
+Trish,Gracie,0.0,2.631578947368421,50.0,0.0,fix say lean
+Trish,Gracie,0.0,2.631578947368421,50.0,0.0,fix say lean
+Topher,Finn,0.0,0.0,40.74074074074074,INF,say raise
+Garrett,Gracie,0.5434782608695652,0.5434782608695652,55.434782608695656,1.0,run shove
+Garrett,Gracie,0.5434782608695652,0.5434782608695652,55.434782608695656,1.0,run shove
+Trish,Dad,3.125,7.8125,64.0625,0.4,have be make
+Chelsea,Dad,6.730769230769231,0.0,39.42307692307692,INF,
+Gracie,Garrett,0.0,4.861111111111112,50.69444444444444,0.0,be demand be allow introduce
+Gracie,Garrett,0.0,4.861111111111112,50.69444444444444,0.0,be demand be allow introduce
+Finn,Topher,0.0,0.0,60.0,INF,look
+Skype,Chelsea,5.0675675675675675,0.6756756756756757,42.9054054054054,7.5,do sit be tell skype want sell say
+Finn,Gracie,0.0,0.0,60.0,INF,point
+Ms. Rogak,Athena,1.9736842105263157,0.9868421052631579,54.93421052631579,2.0,shut come be read tell show enjoy
+Ms. Rogak,Odysseus,1.9736842105263157,0.9868421052631579,54.93421052631579,2.0,shut come be read tell show enjoy
+Ms. Rogak,Odysseus,1.9736842105263157,0.9868421052631579,54.93421052631579,2.0,shut come be read tell show enjoy
+Athena,Odysseus,1.9736842105263157,0.9868421052631579,54.93421052631579,2.0,shut come be read tell show enjoy
+Athena,Odysseus,1.9736842105263157,0.9868421052631579,54.93421052631579,2.0,shut come be read tell show enjoy
+Finn,Gracie,0.0,0.0,62.5,INF,text
+Brandon,Jonas,0.0,0.0,50.0,INF,walk nudge
+Brandon,Jonas,0.0,0.0,50.0,INF,walk nudge
+Jonas,Ms. Rogak,0.5,0.5,47.0,1.0,roll lean tuck
+Ms. Rogak,Jonas,0.5,0.5,47.0,1.0,roll lean tuck
+Ms. Rogak,Jonas,0.5,0.5,47.0,1.0,roll lean tuck
+Ms. Rogak,Jonas,0.5,0.5,47.0,1.0,roll lean tuck
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Jonas,Brandon,0.0,0.0,50.0,INF,wrap laugh
+Brandon,Jonas,0.0,0.0,42.857142857142854,INF,pull
+Brandon,Jonas,0.0,0.0,47.82608695652174,INF,grab haul see
+Brandon,Jonas,0.0,0.0,47.82608695652174,INF,grab haul see
+Brandon,Jonas,0.0,0.0,47.82608695652174,INF,grab haul see
+Brandon,Jonas,0.0,0.0,47.82608695652174,INF,grab haul see
+Benedetti,Dad,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,let check talk turn go find
+Benedetti,Finn,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,let check talk turn go find
+Dad,Finn,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,let check talk turn go find
+Trish,Gramma,3.90625,0.0,64.84375,INF,tell be sleep
+Trish,Brandon,3.9215686274509802,4.6568627450980395,52.20588235294118,0.8421052631578947,throw pretend care do hurt be be go play do have
+Trish,Brandon,3.9215686274509802,4.6568627450980395,52.20588235294118,0.8421052631578947,throw pretend care do hurt be be go play do have
+Trish,Gracie,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,ask say invite
+Gracie,Trish,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,ask say invite
+Trish,Dad,4.0,1.5,42.5,2.6666666666666665,ask have sign want talk
+Trish,Dad,4.0,1.5,42.5,2.6666666666666665,ask have sign want talk
+Roy,Trish,0.0,0.0,36.36363636363637,INF,tell come say
+Andy,Trish,0.0,0.0,60.0,INF,start email move say
+Andy,Trish,3.75,0.0,36.25,INF,be scare continue
+Topher,Gracie,0.0,0.0,55.55555555555556,INF,pull
+Trish,Dad,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,turn watch fear increase be go come say have change
+Trish,Dad,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,turn watch fear increase be go come say have change
+Dad,Benedetti,0.0,0.0,64.70588235294117,INF,take
+Benedetti,Dad,5.625,5.625,68.75,1.0,chat have mention do
+Benedetti,Dad,5.625,5.625,68.75,1.0,chat have mention do
+Benedetti,Dad,7.142857142857142,0.0,50.0,INF,shake
+Mr. Cleveland,Dad,2.734375,0.78125,65.234375,3.5,show go find have miss chill leave
+Trish,Dad,0.0,0.0,50.0,INF,storm stand point
+Dad,Trish,0.0,0.0,65.38461538461539,INF,dress angle get change
+Hayley,Trish,0.0,1.1363636363636365,17.045454545454543,0.0,say
+Hayley,Dad,0.0,0.0,40.0,INF,do listen say
+Hayley,Dad,0.0,0.0,40.0,INF,do listen say
+Trish,Gramma,0.8928571428571428,0.0,49.107142857142854,INF,shake storm
+Trish,Gramma,0.8928571428571428,0.0,49.107142857142854,INF,shake storm
+Dad,Trish,2.7777777777777777,8.333333333333332,44.44444444444444,0.3333333333333333,need recover
+Tom,Dad,6.25,0.9615384615384616,54.32692307692307,6.5,be call ask help find work
+Tom,Dad,6.25,0.9615384615384616,54.32692307692307,6.5,be call ask help find work
+Tom,Dad,6.048387096774194,2.4193548387096775,56.048387096774185,2.5,do return begin wonder tell paint be
+Tom,Dad,6.048387096774194,2.4193548387096775,56.048387096774185,2.5,do return begin wonder tell paint be
+Finn,Dad,1.0416666666666665,4.513888888888888,63.888888888888886,0.23076923076923078,say let wake call have drain
+Michael,Dad,1.4705882352941175,0.0,57.35294117647059,INF,drive find
+Dad,Michael,1.4705882352941175,0.0,57.35294117647059,INF,drive find
+Finn,Chelsea,4.375,0.0,35.625,INF,be drive have
+Finn,Chelsea,4.375,0.0,35.625,INF,be drive have
+Chelsea,Finn,4.375,0.0,35.625,INF,be drive have
+Finn,Dad,1.7857142857142856,0.0,62.5,INF,help bring have change
+Gracie,Finn,0.0,0.0,70.0,INF,be be touch
+Chelsea,Finn,0.0,1.4705882352941175,45.588235294117645,0.0,be prove be say
+Dad,Michael,0.8064516129032258,3.6290322580645165,56.85483870967742,0.2222222222222222,grab grab pull get
+Dad,Michael,0.8064516129032258,3.6290322580645165,56.85483870967742,0.2222222222222222,grab grab pull get
+Andy,Michael,0.0,0.0,28.57142857142857,INF,say
+Hayley,Dad,0.0,0.0,40.0,INF,come say
+Trish,Dad,0.9259259259259258,0.0,58.333333333333336,INF,arrive have open spray stick
+Dad,Trish,0.0,3.571428571428571,58.333333333333336,0.0,step be yell close walk
+Trish,Dad,5.88235294117647,0.0,70.58823529411765,INF,explain have happen check
+Trish,Dad,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,take explain be be take see
+Trish,Dad,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,take explain be be take see
+Trish,Dad,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,take explain be be take see
+Daddy,Trish,0.0,0.0,54.54545454545454,INF,ask follow
+Daddy,Trish,0.0,0.0,54.54545454545454,INF,ask follow
+Spock,Dad,0.8620689655172413,0.0,68.10344827586206,INF,get tire follow lay collapse find be
+Spock,Dad,0.8620689655172413,0.0,68.10344827586206,INF,get tire follow lay collapse find be
+Spock,Roy,0.8620689655172413,0.0,68.10344827586206,INF,get tire follow lay collapse find be
+Dad,Roy,0.8620689655172413,0.0,68.10344827586206,INF,get tire follow lay collapse find be
+Dad,Roy,0.8620689655172413,0.0,68.10344827586206,INF,get tire follow lay collapse find be
+Chelsea,Finn,0.0,0.0,46.15384615384615,INF,do show say
+Gracie,Topher,0.78125,3.90625,45.3125,0.2,be go be
+Trish,Dad,0.0,0.0,60.0,INF,bring
+Trish,Dad,0.0,1.2195121951219512,54.87804878048781,0.0,tell pull hear find
+Trish,Dad,0.0,1.2195121951219512,54.87804878048781,0.0,tell pull hear find
+Andy,Trish,0.0,1.9230769230769231,44.230769230769226,0.0,want move tell
+Finn,Trish,5.5,3.0,51.5,1.8333333333333333,explain remind give
+Spock,Trish,0.0,0.0,50.0,INF,follow
+Spock,Trish,0.0,1.0416666666666665,53.125,0.0,whine close nose watch
+Spock,Trish,0.0,1.0416666666666665,53.125,0.0,whine close nose watch
+Spock,Trish,0.0,1.0416666666666665,53.125,0.0,whine close nose watch
+Spock,Trish,0.0,1.0416666666666665,53.125,0.0,whine close nose watch
+Spock,Dad,1.3888888888888888,0.0,65.27777777777779,INF,wake do
+Trish,Dad,0.8064516129032258,0.8064516129032258,59.67741935483871,1.0,get switch switch go leave wake
+Daddy,Jack,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,be
+Trish,Spock,0.49019607843137253,0.24509803921568626,60.049019607843135,2.0,have tell go stop tell be spend split
+Trish,Spock,0.49019607843137253,0.24509803921568626,60.049019607843135,2.0,have tell go stop tell be spend split
+Trish,Spock,0.49019607843137253,0.24509803921568626,60.049019607843135,2.0,have tell go stop tell be spend split
+Gramma,Trish,0.0,3.935185185185185,47.91666666666667,0.0,be have do think leave be
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Finn,Trish,0.4807692307692308,1.6025641025641024,55.608974358974365,0.3,hold catch be say strand hide open have talk try talk clack bounce
+Andy,Hayley,5.625,3.125,41.25,1.8,believe tell look
+Dad,Trish,3.289473684210526,3.289473684210526,46.05263157894737,1.0,have write
+Dad,Trish,3.289473684210526,3.289473684210526,46.05263157894737,1.0,have write
+Finn,Dad,7.386363636363637,2.272727272727273,63.06818181818182,3.25,flash have hug leave
+Finn,Daddy,2.7243589743589745,1.6025641025641024,53.36538461538461,1.7,overchlorinate leech rip glare crowd find hear slip close open yell watch get
+Finn,Hayley,2.7243589743589745,1.6025641025641024,53.36538461538461,1.7,overchlorinate leech rip glare crowd find hear slip close open yell watch get
+Daddy,Hayley,2.7243589743589745,1.6025641025641024,53.36538461538461,1.7,overchlorinate leech rip glare crowd find hear slip close open yell watch get
+Finn,Spock,2.083333333333333,0.0,56.25,INF,have rub
+Finn,Spock,2.083333333333333,0.0,56.25,INF,have rub
+Gramma,Daddy,0.6578947368421052,0.9868421052631579,56.25,0.6666666666666666,see use hang have miss
+Gramma,Trish,6.884057971014493,2.898550724637681,51.08695652173913,2.375,talk be own follow be hurt think have be braid teach ride read
+Gramma,Dad,6.884057971014493,2.898550724637681,51.08695652173913,2.375,talk be own follow be hurt think have be braid teach ride read
+Trish,Dad,6.884057971014493,2.898550724637681,51.08695652173913,2.375,talk be own follow be hurt think have be braid teach ride read

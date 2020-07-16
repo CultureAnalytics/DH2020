@@ -1,0 +1,838 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Clare,Cleopatra,2.5,1.25,36.25,2.0,be say
+Lynn Peterson,Nico,2.5,0.0,27.500000000000004,INF,name
+Nico,Peterson,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,tell say
+Cleopatra,Peterson,2.941176470588235,0.0,61.76470588235294,INF,be mimic be begin get
+Peterson,Cleopatra,1.5625,0.0,60.9375,INF,do sound
+Peterson,Cleopatra,3.260869565217391,2.717391304347826,41.84782608695652,1.2,have be
+Peterson,Lynn Peterson,3.260869565217391,2.717391304347826,41.84782608695652,1.2,have be
+Cleopatra,Lynn Peterson,3.260869565217391,2.717391304347826,41.84782608695652,1.2,have be
+Cleopatra,Peterson,0.0,3.125,59.375,0.0,do want find
+Clare,Peterson,2.631578947368421,1.3157894736842104,48.68421052631579,2.0,say tell see
+Peterson,Clare,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be say
+Peterson,Clare,5.208333333333334,1.0416666666666665,47.91666666666667,5.0,do give be smile
+Peterson,Clare,5.208333333333334,1.0416666666666665,47.91666666666667,5.0,do give be smile
+Clare,Peterson,0.0,0.0,48.0,INF,let ask say do think have become
+Peterson,Clare,0.0,3.4722222222222223,63.19444444444444,0.0,have say
+Clare,Mrs. Langrishe,0.0,0.0,14.285714285714285,INF,say
+Dorothea Langrishe,Nico,2.6785714285714284,1.1904761904761905,50.89285714285714,2.25,have get involve be turn be
+Dorothea Langrishe,Nico,2.6785714285714284,1.1904761904761905,50.89285714285714,2.25,have get involve be turn be
+Nico,Dorothea Langrishe,2.6785714285714284,1.1904761904761905,50.89285714285714,2.25,have get involve be turn be
+Dorothea Langrishe,Nico,2.6785714285714284,1.1904761904761905,50.89285714285714,2.25,have get involve be turn be
+Travis,Lynn Peterson,0.0,0.0,50.0,INF,ask know
+Travis,Lynn Peterson,0.0,0.0,50.0,INF,ask know
+Barney,Lynn Peterson,0.5208333333333333,0.0,61.979166666666664,INF,do think be think be
+Lynn Peterson,Clare,3.9285714285714284,3.214285714285714,58.57142857142858,1.2222222222222223,be have be link have say be be do welcome
+Lynn Peterson,Peterson,3.9285714285714284,3.214285714285714,58.57142857142858,1.2222222222222223,be have be link have say be be do welcome
+Clare,Peterson,3.9285714285714284,3.214285714285714,58.57142857142858,1.2222222222222223,be have be link have say be be do welcome
+Travis,Barney,6.25,0.625,48.125,10.0,hear be
+Clare,Travis,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,think say find go
+Travis,Clare,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,think say find go
+Travis,Lynn Peterson,4.891304347826087,2.717391304347826,35.869565217391305,1.8,realize say be ask
+Travis,Lynn Peterson,1.0416666666666665,0.0,57.291666666666664,INF,have pass ask give happen hear
+Travis,Lynn Peterson,1.0416666666666665,0.0,57.291666666666664,INF,have pass ask give happen hear
+Travis,Lynn Peterson,1.0416666666666665,0.0,57.291666666666664,INF,have pass ask give happen hear
+Lynn Peterson,Clare,2.840909090909091,0.0,51.70454545454546,INF,be weigh involve
+Clare,Lynn Peterson,3.75,1.25,45.0,3.0,be come be involve
+Clare,Lynn Peterson,3.75,1.25,45.0,3.0,be come be involve
+Clare,Peterson,3.125,2.644230769230769,46.15384615384615,1.1818181818181819,be involve be throw be go say stop implore find fly
+Peterson,Clare,3.125,2.644230769230769,46.15384615384615,1.1818181818181819,be involve be throw be go say stop implore find fly
+Clare,Mrs. Langrishe,0.0,0.0,59.09090909090909,INF,decide do
+Joe,Nico,0.0,4.166666666666666,37.5,0.0,give
+Marlowe,Clare,0.0,0.0,37.5,INF,say
+Clare,Everett,4.411764705882353,1.1029411764705883,50.36764705882353,4.0,offer seem glance have
+Clare,Everett,4.411764705882353,1.1029411764705883,50.36764705882353,4.0,offer seem glance have
+Marlowe,Clare,2.5,1.25,36.25,2.0,be say
+Marlowe,Clare,1.25,0.625,38.125,2.0,go be
+Marlowe,Richard,1.25,0.625,38.125,2.0,go be
+Clare,Richard,1.25,0.625,38.125,2.0,go be
+Marlowe,Clare,6.25,0.0,43.75,INF,find say
+Marlowe,Clare,0.3125,0.3125,49.375,1.0,be go do ask address look crawl peer poke
+Clare,Marlowe,0.3125,0.3125,49.375,1.0,be go do ask address look crawl peer poke
+Clare,Lynn Peterson,2.644230769230769,2.1634615384615383,60.57692307692307,1.2222222222222223,have pull toss have see have go change leave stand look
+Lynn Peterson,Clare,2.644230769230769,2.1634615384615383,60.57692307692307,1.2222222222222223,have pull toss have see have go change leave stand look
+Dick,Lynn Peterson,11.25,2.5,26.25,4.5,do know
+Clare,Langrishe Lodge,0.43859649122807015,1.5350877192982455,57.675438596491226,0.2857142857142857,veer follow take lead guess call take get trawl
+Loring,Nico,5.147058823529411,1.4705882352941175,40.44117647058824,3.5,tell disappear resurrect
+Clare,Everett,1.1363636363636365,0.0,17.045454545454543,INF,say call rett smile
+Everett,Clare,1.1363636363636365,0.0,17.045454545454543,INF,say call rett smile
+Everett,Clare,0.0,1.3888888888888888,48.61111111111111,0.0,use bring play be say
+Everett,Clare,0.0,1.3888888888888888,48.61111111111111,0.0,use bring play be say
+Everett,Mrs. Langrishe,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,tell be
+Everett,Mrs. Langrishe,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,tell be
+Everett,Mrs. Langrishe,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,tell be
+Nico,Clare,5.46875,0.0,32.03125,INF,like trace say
+Nico,Clare,1.0416666666666665,5.208333333333334,43.75,0.2,represent suppose say
+Nico,Clare,3.3333333333333335,1.25,38.75,2.6666666666666665,like find be say be do pretend be
+Clare,Nico,3.3333333333333335,1.25,38.75,2.6666666666666665,like find be say be do pretend be
+Clare,Nico,3.3333333333333335,1.25,38.75,2.6666666666666665,like find be say be do pretend be
+Clare,Nico,4.3478260869565215,3.260869565217391,35.869565217391305,1.3333333333333333,say be think know be do
+Lanigan,John,0.0,0.0,50.0,INF,be paint frame
+Jesus Christ,Joe,0.7352941176470588,2.2058823529411766,38.23529411764706,0.3333333333333333,say hate
+Cahuilla Club,Joe,1.7857142857142856,5.357142857142857,28.57142857142857,0.3333333333333333,be
+Lynn Peterson,Peterson,0.9615384615384616,3.8461538461538463,49.03846153846153,0.25,think set disappear
+Jesus Christ,Marlowe,2.1551724137931036,3.4482758620689653,39.224137931034484,0.625,say talk be
+Jesus Christ,Joe,2.1551724137931036,3.4482758620689653,39.224137931034484,0.625,say talk be
+Marlowe,Joe,2.1551724137931036,3.4482758620689653,39.224137931034484,0.625,say talk be
+Lynn Peterson,Peterson,1.5625,0.0,60.9375,INF,have worry arrange be run vamoose
+Clare,Joe,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Clare,Lynn Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Clare,Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Joe,Clare,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Joe,Lynn Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Joe,Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Clare,Lynn Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Clare,Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Lynn Peterson,Peterson,3.125,1.5625,61.979166666666664,2.0,have betray tell spot be suppose be
+Lynn Peterson,Joe,2.0,1.0,56.99999999999999,2.0,have wait have follow bring
+Lynn Peterson,Peterson,1.6666666666666667,0.0,45.0,INF,have say
+Lynn Peterson,Joe,1.6666666666666667,0.0,45.0,INF,have say
+Peterson,Joe,1.6666666666666667,0.0,45.0,INF,have say
+Lynn Peterson,Peterson,2.717391304347826,1.0869565217391304,52.71739130434783,2.5,be get run
+Joe,Lynn Peterson,6.730769230769231,3.8461538461538463,50.96153846153846,1.75,call tell have speak be have see
+Joe,Lynn Peterson,6.730769230769231,3.8461538461538463,50.96153846153846,1.75,call tell have speak be have see
+Joe,Nico,1.4423076923076923,0.0,60.09615384615385,INF,want be close put have take
+Joe,Nico,1.4423076923076923,0.0,60.09615384615385,INF,want be close put have take
+Marlowe,Nico,0.0,0.0,53.333333333333336,INF,keep say hang
+Joe,Clare,2.4456521739130435,0.5434782608695652,47.01086956521739,4.5,have do say do have phone tell have be have be have see
+Joe,Clare,2.4456521739130435,0.5434782608695652,47.01086956521739,4.5,have do say do have phone tell have be have be have see
+Joe,Nico,2.4456521739130435,0.5434782608695652,47.01086956521739,4.5,have do say do have phone tell have be have be have see
+Clare,Nico,2.4456521739130435,0.5434782608695652,47.01086956521739,4.5,have do say do have phone tell have be have be have see
+Clare,Nico,2.4456521739130435,0.5434782608695652,47.01086956521739,4.5,have do say do have phone tell have be have be have see
+Clare,Lynn Peterson,5.092592592592593,0.4629629629629629,53.70370370370371,11.0,be have be wear have
+Clare,Lynn Peterson,5.092592592592593,0.4629629629629629,53.70370370370371,11.0,be have be wear have
+Clare,Peterson,5.092592592592593,0.4629629629629629,53.70370370370371,11.0,be have be wear have
+Lynn Peterson,Peterson,5.092592592592593,0.4629629629629629,53.70370370370371,11.0,be have be wear have
+Lynn Peterson,Peterson,5.092592592592593,0.4629629629629629,53.70370370370371,11.0,be have be wear have
+Clare,Langrishe Lodge,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Hanson,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Langrishe Lodge,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Hanson,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Langrishe Lodge,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Hanson,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Langrishe Lodge,Hanson,1.8382352941176472,1.4705882352941175,46.69117647058824,1.25,know have tell part have identify
+Clare,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Hanson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Hanson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Lynn Peterson,Hanson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Lynn Peterson,Clare,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Hanson,Clare,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Hanson,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Clare,Lynn Peterson,3.1746031746031744,2.380952380952381,46.82539682539682,1.3333333333333333,have be have see be escort be come tell find
+Lynn Peterson,Peterson,1.7857142857142856,4.464285714285714,65.17857142857143,0.4,be be have spot be suppose have die
+Hanson,Clare,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Hanson,Langrishe Lodge,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Hanson,Clare,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Hanson,Langrishe Lodge,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Hanson,Clare,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Hanson,Langrishe Lodge,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Clare,Langrishe Lodge,1.5957446808510638,0.7978723404255319,55.053191489361694,2.0,continue walk say register have hear look do be stroll
+Jacob,Hanson,6.8181818181818175,0.0,38.63636363636363,INF,call
+Hanson,Jacob,2.34375,3.90625,43.75,0.6,have pass say do talk
+Wilber Canning,Wilberforce Canning,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilber Canning,William Wilberforce,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilberforce Canning,Wilber Canning,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilberforce Canning,Wilber Canning,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilberforce Canning,William Wilberforce,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilber Canning,William Wilberforce,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Wilber Canning,William Wilberforce,1.7857142857142856,0.8928571428571428,43.75,2.0,be call
+Jacob,Marvin,0.0,0.0,20.0,INF,have meet
+Marlowe,Hanson,1.1363636363636365,0.0,44.31818181818182,INF,sit say
+Bartlett,Hanson,2.380952380952381,0.0,50.0,INF,say be
+Hanson,Bartlett,3.483606557377049,1.0245901639344261,64.34426229508196,3.4,let get begin open come carry be do know
+Peterson,Hanson,0.0,0.0,54.54545454545454,INF,know repeat
+Hanson,Cahuilla Club,2.142857142857143,1.7857142857142856,56.07142857142857,1.2,be do while entertain
+Clare,Mrs. Langrishe,3.571428571428571,4.761904761904762,44.047619047619044,0.75,be hire be say
+Richard,Mrs. Langrishe,1.25,9.375,39.375,0.13333333333333333,be say criticize
+Richard,Mrs. Langrishe,1.25,9.375,39.375,0.13333333333333333,be say criticize
+Clare,Lynn Peterson,3.6764705882352944,0.0,61.029411764705884,INF,remember mention have work
+Mandy,Jean Harlow,1.6666666666666667,0.0,38.333333333333336,INF,
+Mandy,Jean Harlow,1.6666666666666667,0.0,38.333333333333336,INF,
+Hal,Mandy,6.25,0.0,23.75,INF,listen know
+Miss Rogers,Lynn Peterson,5.0,6.25,28.749999999999996,0.8,want talk
+Hal,Mandy,4.464285714285714,2.6785714285714284,42.857142857142854,1.6666666666666667,say guess talk
+Joey,Hal,0.0,0.0,36.36363636363637,INF,give say
+Joey,Hal,6.640625,1.953125,63.28125,3.4,flash have do bet have sacrifice
+Joey,Hal,6.640625,1.953125,63.28125,3.4,flash have do bet have sacrifice
+Joey,Hal,6.640625,1.953125,63.28125,3.4,flash have do bet have sacrifice
+Mandy,Hal,3.75,0.0,41.25,INF,say lay
+Hal,Mandy,3.75,0.0,41.25,INF,say lay
+Marlowe,Mandy,0.0,1.25,53.75,0.0,say offer shake
+Marlowe,Mandy,0.0,1.25,53.75,0.0,say offer shake
+Phil,Hal,0.0,0.0,41.66666666666667,INF,take say
+Coke,Mandy,0.0,0.0,63.63636363636363,INF,be stick
+Mandy,Coke,2.380952380952381,0.5952380952380952,58.92857142857143,4.0,give pick suck
+Mandy,Coke,2.380952380952381,0.5952380952380952,58.92857142857143,4.0,give pick suck
+Peterson,Mandy,4.464285714285714,3.571428571428571,56.25,1.25,guess die say
+Nico,Mandy,1.7857142857142856,0.8928571428571428,40.17857142857143,2.0,be say
+Mandy,Coke,0.0,0.0,42.857142857142854,INF,take
+Mandy,Coke,0.0,0.0,54.54545454545454,INF,fiddle
+Hal,Mandy,6.25,1.25,42.5,5.0,wonder have tell
+Hal,Nico,6.25,1.25,42.5,5.0,wonder have tell
+Mandy,Nico,6.25,1.25,42.5,5.0,wonder have tell
+Mandy,Nico,2.2058823529411766,0.0,74.26470588235294,INF,think be act have jilt die
+Mandy,Nico,2.2058823529411766,0.0,74.26470588235294,INF,think be act have jilt die
+Lynn Peterson,Mandy,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,see have be have give think have get
+Lynn Peterson,Peterson,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,see have be have give think have get
+Lynn Peterson,Mandy,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,see have be have give think have get
+Mandy,Peterson,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,see have be have give think have get
+Peterson,Mandy,4.411764705882353,2.2058823529411766,52.20588235294118,2.0,see have be have give think have get
+Nico,Mandy,3.125,0.625,51.24999999999999,5.0,have say do have be
+Mandy,Nico,3.125,0.625,51.24999999999999,5.0,have say do have be
+Miss Rogers,Mandy,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,have be say give
+Clare,Lynn Peterson,1.201923076923077,0.0,52.644230769230774,INF,have walk have become float get try look
+Mandy,Lynn Peterson,3.260869565217391,3.804347826086957,49.45652173913043,0.8571428571428571,straight know be have see
+Hanson,Lynn Peterson,1.3888888888888888,0.0,48.61111111111111,INF,recall mention have identify
+Hanson,Peterson,1.3888888888888888,0.0,48.61111111111111,INF,recall mention have identify
+Lynn Peterson,Peterson,1.3888888888888888,0.0,48.61111111111111,INF,recall mention have identify
+Lynn Peterson,Peterson,3.125,0.0,40.625,INF,be have want meet
+Lynn Peterson,Peterson,0.0,0.0,40.909090909090914,INF,say clink
+Peterson,Clare,3.6290322580645165,0.8064516129032258,56.85483870967742,4.5,wonder tell have tell see hurry
+Peterson,Nico,3.6290322580645165,0.8064516129032258,56.85483870967742,4.5,wonder tell have tell see hurry
+Clare,Nico,3.6290322580645165,0.8064516129032258,56.85483870967742,4.5,wonder tell have tell see hurry
+Gómez,López,4.6875,0.0,32.8125,INF,call
+Gómez,López,1.5625,0.78125,41.40625,2.0,be be be
+Gómez,López,0.4807692307692308,0.9615384615384616,60.09615384615385,0.5,be build be
+Gómez,López,6.944444444444445,0.0,37.5,INF,come
+Lynn Peterson,Peterson,0.0,3.8461538461538463,42.30769230769231,0.0,hear catch
+Gómez,Lynn Peterson,0.0,0.0,61.53846153846154,INF,do look
+López,Lynn Peterson,1.1363636363636365,0.0,53.40909090909091,INF,stand eye
+Gómez,Peterson,0.8333333333333334,2.5,56.666666666666664,0.3333333333333333,give be speak
+Miss Cavendish,Lynn Peterson,1.4423076923076923,4.326923076923077,40.38461538461539,0.3333333333333333,be be think be feel stare
+Gómez,López,0.0,8.333333333333332,38.333333333333336,0.0,say do catch scowl
+López,Lynn Peterson,0.0,5.113636363636364,49.43181818181818,0.0,be close
+Lynn Peterson,Peterson,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,give put
+Peterson,López,7.236842105263158,1.3157894736842104,49.34210526315789,5.5,have expect be have look
+López,Peterson,7.236842105263158,1.3157894736842104,49.34210526315789,5.5,have expect be have look
+Lynn Peterson,Peterson,4.761904761904762,4.166666666666666,43.452380952380956,1.1428571428571428,be stave
+Peterson,Lynn Peterson,4.761904761904762,4.166666666666666,43.452380952380956,1.1428571428571428,be stave
+Joe,Lynn Peterson,2.616279069767442,3.1976744186046515,47.674418604651166,0.8181818181818182,talk intend talk work get
+Joe,Peterson,2.616279069767442,3.1976744186046515,47.674418604651166,0.8181818181818182,talk intend talk work get
+Joe,Lynn Peterson,2.616279069767442,3.1976744186046515,47.674418604651166,0.8181818181818182,talk intend talk work get
+Lynn Peterson,Peterson,2.616279069767442,3.1976744186046515,47.674418604651166,0.8181818181818182,talk intend talk work get
+Peterson,Lynn Peterson,2.616279069767442,3.1976744186046515,47.674418604651166,0.8181818181818182,talk intend talk work get
+Lynn Peterson,Joe,3.4090909090909087,3.4090909090909087,38.63636363636363,1.0,say
+Jesus Christ,Phil,0.78125,0.0,42.96875,INF,think clear
+Joe,Lynn Peterson,2.403846153846154,1.4423076923076923,34.61538461538461,1.6666666666666667,be be get do
+Bernie,Joe,2.272727272727273,5.681818181818182,37.5,0.4,be
+Bernie,Joe,3.125,4.6875,29.6875,0.6666666666666666,be
+Bernie,Joe,0.0,0.8928571428571428,56.25,0.0,tell spin give
+Lynn Peterson,Joe,0.0,0.8333333333333334,45.83333333333333,0.0,put say
+Marlowe,Bernie,0.0,1.0416666666666665,40.625,0.0,say run
+Lynn Peterson,Bernie,0.0,0.0,27.27272727272727,INF,say
+Cahuilla Club,Bernie,2.6515151515151514,1.893939393939394,50.0,1.4,be be call be
+Terry,Bernie,2.5,4.166666666666666,62.22222222222222,0.6,be have flee get murder be shoot be lead believe
+Terry,Bernie,2.5,4.166666666666666,62.22222222222222,0.6,be have flee get murder be shoot be lead believe
+Clare,Mrs. Langrishe,1.4705882352941175,0.0,57.35294117647059,INF,ask be call tell be
+Clare,Mrs. Langrishe,1.4705882352941175,0.0,57.35294117647059,INF,ask be call tell be
+Clare,Nico,1.8382352941176472,0.0,39.338235294117645,INF,have get give be keep search be go call
+Nico,Clare,1.8382352941176472,0.0,39.338235294117645,INF,have get give be keep search be go call
+Clare,Richard,2.976190476190476,0.0,39.88095238095239,INF,say be know come
+Philip Marlowe,Clare,4.545454545454546,0.0,40.909090909090914,INF,say
+Lynn Peterson,Peterson,3.2407407407407405,0.4629629629629629,51.85185185185185,7.0,have stop do
+Peterson,Loring,3.5256410256410255,0.9615384615384616,46.794871794871796,3.6666666666666665,be have happen be question make
+Loring,Peterson,3.5256410256410255,0.9615384615384616,46.794871794871796,3.6666666666666665,be have happen be question make
+Peterson,Lynn Peterson,2.083333333333333,0.0,50.69444444444444,INF,tell have go have come be search have arrive
+Peterson,Lynn Peterson,2.083333333333333,0.0,50.69444444444444,INF,tell have go have come be search have arrive
+Clare,Nico,5.0,0.7142857142857143,51.42857142857142,7.0,be mean do have think be be wait
+Terry,Victor,3.4090909090909087,0.0,60.22727272727273,INF,tell drink
+Lynn Peterson,Peterson,0.6097560975609756,0.0,55.487804878048784,INF,see turn tell look
+Lynn Peterson,Peterson,0.6097560975609756,0.0,55.487804878048784,INF,see turn tell look
+Doc,Philip Marlowe,0.0,0.0,60.0,INF,meet
+Marlowe,Bernie,4.807692307692308,2.8846153846153846,46.15384615384615,1.6666666666666667,tell say
+Peterson,Jesus Christ,0.7352941176470588,0.0,43.38235294117647,INF,walk be shake be shake
+Peterson,Bernie,0.7352941176470588,0.0,43.38235294117647,INF,walk be shake be shake
+Peterson,Jesus Christ,0.7352941176470588,0.0,43.38235294117647,INF,walk be shake be shake
+Peterson,Bernie,0.7352941176470588,0.0,43.38235294117647,INF,walk be shake be shake
+Jesus Christ,Bernie,0.7352941176470588,0.0,43.38235294117647,INF,walk be shake be shake
+Lynn Peterson,Peterson,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,be go snoop look be
+Bernie,Gómez,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,López,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,Gómez,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,López,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,Gómez,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,López,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Gómez,López,5.303030303030303,1.1363636363636365,54.166666666666664,4.666666666666667,say contact have be
+Bernie,Lynn Peterson,3.977272727272727,2.840909090909091,47.72727272727273,1.4,do know make try track
+Peterson,Clare,5.0,5.833333333333333,35.833333333333336,0.8571428571428571,have be
+Lynn Peterson,Peterson,3.260869565217391,1.0869565217391304,39.130434782608695,3.0,want ask stay do try keep
+Lynn Peterson,Peterson,3.260869565217391,1.0869565217391304,39.130434782608695,3.0,want ask stay do try keep
+Hendricks,Randy Starr,2.403846153846154,4.807692307692308,58.17307692307693,0.5,be
+Randy Starr,Hendricks,2.7777777777777777,6.944444444444445,45.83333333333333,0.4,be
+Hendricks,Lynn Peterson,2.380952380952381,0.5952380952380952,68.45238095238095,4.0,be try figure know have be spot be suppose be
+Hendricks,Peterson,2.380952380952381,0.5952380952380952,68.45238095238095,4.0,be try figure know have be spot be suppose be
+Lynn Peterson,Peterson,2.380952380952381,0.5952380952380952,68.45238095238095,4.0,be try figure know have be spot be suppose be
+Hendricks,Clare,0.0,0.0,50.0,INF,do seem be acquaint
+Joe,Bernie,0.0,0.0,45.83333333333333,INF,live
+Joe,Travis,0.0,0.0,45.83333333333333,INF,live
+Bernie,Travis,0.0,0.0,45.83333333333333,INF,live
+Hendricks,Cahuenga,1.25,0.625,53.125,2.0,look be pass
+Gómez,Nico,2.2435897435897436,0.9615384615384616,66.02564102564102,2.3333333333333335,have be hear have whack send
+Marlowe,Hendricks,2.717391304347826,0.5434782608695652,48.91304347826087,5.0,be wait answer say sound
+Cedric,Cahuenga,2.941176470588235,4.411764705882353,57.35294117647059,0.6666666666666666,have steer be travel
+Lynn Peterson,Peterson,2.083333333333333,0.0,60.416666666666664,INF,say have say die lose do die take
+Lynn Peterson,Peterson,2.083333333333333,0.0,60.416666666666664,INF,say have say die lose do die take
+Lynn Peterson,Peterson,2.083333333333333,0.0,60.416666666666664,INF,say have say die lose do die take
+Lynn Peterson,Peterson,1.6304347826086956,2.717391304347826,47.82608695652174,0.6,get be hear be
+Lynn Peterson,Peterson,1.6304347826086956,2.717391304347826,47.82608695652174,0.6,get be hear be
+Hendricks,Markson,1.7857142857142856,1.3392857142857142,61.16071428571429,1.3333333333333333,have turn remind know recall
+Hendricks,Markson,1.7857142857142856,1.3392857142857142,61.16071428571429,1.3333333333333333,have turn remind know recall
+Markson,Hendricks,5.208333333333334,0.0,61.458333333333336,INF,color be be tell have want
+Markson,Hendricks,5.208333333333334,0.0,61.458333333333336,INF,color be be tell have want
+Markson,Hendricks,5.208333333333334,0.0,61.458333333333336,INF,color be be tell have want
+Markson,Hendricks,5.208333333333334,0.0,61.458333333333336,INF,color be be tell have want
+Cedric,Jimmy,1.4705882352941175,2.2058823529411766,61.029411764705884,0.6666666666666666,be think tell turn go pick be invite
+Cedric,Jimmy,1.4705882352941175,2.2058823529411766,61.029411764705884,0.6666666666666666,be think tell turn go pick be invite
+Jimmy,Marlowe,1.7361111111111112,5.555555555555555,53.81944444444444,0.3125,impress assure be come be
+Jimmy,Marlowe,1.7361111111111112,5.555555555555555,53.81944444444444,0.3125,impress assure be come be
+Marlowe,Hendricks,0.0,4.464285714285714,52.67857142857143,0.0,let fall say
+Hendricks,Cahuilla Club,0.0,2.083333333333333,52.083333333333336,0.0,occur fit
+Cahuilla Club,Hendricks,0.0,2.083333333333333,52.083333333333336,0.0,occur fit
+Cahuilla Club,Hendricks,0.0,2.083333333333333,52.083333333333336,0.0,occur fit
+Lynn Peterson,Peterson,8.035714285714286,1.7857142857142856,36.607142857142854,4.5,tell know tell know come
+Lynn Peterson,Peterson,1.0869565217391304,0.0,59.78260869565217,INF,be do die be have say be
+Nico,Cahuilla Club,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,be forget hold
+Nico,Clare,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,be forget hold
+Nico,Cahuilla Club,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,be forget hold
+Nico,Clare,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,be forget hold
+Cahuilla Club,Clare,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,be forget hold
+Nico,Hendricks,2.5,0.0,57.49999999999999,INF,have organize say
+Barney,Lynn Peterson,0.625,0.0,54.37499999999999,INF,use drop
+Cahuilla Club,Cedric,0.0,0.0,41.37931034482759,INF,be be give search
+Cahuilla Club,Hanson,0.0,0.0,41.37931034482759,INF,be be give search
+Cahuilla Club,Hanson,0.0,0.0,41.37931034482759,INF,be be give search
+Cedric,Hanson,0.0,0.0,41.37931034482759,INF,be be give search
+Cedric,Hanson,0.0,0.0,41.37931034482759,INF,be be give search
+Lynn Peterson,Cahuilla Club,0.0,5.0,35.0,0.0,be kill
+Hendricks,Ma Langrishe,4.761904761904762,2.976190476190476,49.404761904761905,1.6,get give
+Ma Langrishe,Hendricks,4.761904761904762,2.976190476190476,49.404761904761905,1.6,get give
+Marlowe,Hendricks,0.8928571428571428,0.0,41.964285714285715,INF,look say like
+Lynn Peterson,Peterson,5.357142857142857,3.571428571428571,38.69047619047619,1.5,have be hire find be be
+Lynn Peterson,Peterson,5.357142857142857,3.571428571428571,38.69047619047619,1.5,have be hire find be be
+Cedric,Hendricks,0.0,0.4629629629629629,36.574074074074076,0.0,glance give drift stop
+Cedric,Hendricks,0.0,0.4629629629629629,36.574074074074076,0.0,glance give drift stop
+Loring,Clare,0.3787878787878788,0.7575757575757576,56.439393939393945,0.5,be be be marry keep ask
+Loring,Clare,0.3787878787878788,0.7575757575757576,56.439393939393945,0.5,be be be marry keep ask
+Loring,Clare,7.575757575757576,0.7575757575757576,52.27272727272727,10.0,go guess do love think lead do know
+Loring,Clare,7.575757575757576,0.7575757575757576,52.27272727272727,10.0,go guess do love think lead do know
+Clare,Terry,2.1739130434782608,1.6304347826086956,57.065217391304344,1.3333333333333333,have be marry end smash
+Terry,Clare,2.1739130434782608,1.6304347826086956,57.065217391304344,1.3333333333333333,have be marry end smash
+Terry,Clare,2.1739130434782608,1.6304347826086956,57.065217391304344,1.3333333333333333,have be marry end smash
+Langrishe Lodge,Clare,1.1904761904761905,0.0,55.952380952380956,INF,turn cut have ask
+Everett,Clare,0.0,0.0,33.33333333333333,INF,be say
+Marlowe,Philip Marlowe,0.0,0.0,44.44444444444444,INF,be
+Clare,Loring,3.125,0.4464285714285714,50.0,7.0,have be stand watch read
+Clare,Loring,3.125,0.4464285714285714,50.0,7.0,have be stand watch read
+Richard,Clare,0.0,0.0,27.27272727272727,INF,be say
+Nico,Clare,2.34375,0.0,35.15625,INF,use get say
+Nico,Clare,2.34375,0.0,35.15625,INF,use get say
+Nico,Everett,0.0,0.0,30.76923076923077,INF,be meet introduce
+Clare,Philip Marlowe,3.571428571428571,0.0,53.57142857142857,INF,wonder hear say call
+Clare,Philip Marlowe,3.571428571428571,0.0,53.57142857142857,INF,wonder hear say call
+Clare,Peterson,2.380952380952381,2.976190476190476,32.73809523809524,0.8,be say have have do
+Peterson,Clare,4.166666666666666,1.6666666666666667,27.500000000000004,2.5,be search be
+Clare,Peterson,4.166666666666666,1.6666666666666667,27.500000000000004,2.5,be search be
+Clare,Lynn Peterson,3.4482758620689653,2.586206896551724,52.58620689655172,1.3333333333333333,come be be talk be use talk
+Clare,Peterson,3.4482758620689653,2.586206896551724,52.58620689655172,1.3333333333333333,come be be talk be use talk
+Lynn Peterson,Clare,3.4482758620689653,2.586206896551724,52.58620689655172,1.3333333333333333,come be be talk be use talk
+Lynn Peterson,Peterson,3.4482758620689653,2.586206896551724,52.58620689655172,1.3333333333333333,come be be talk be use talk
+Clare,Peterson,3.4482758620689653,2.586206896551724,52.58620689655172,1.3333333333333333,come be be talk be use talk
+Clare,Nico,0.7142857142857143,4.285714285714286,55.00000000000001,0.16666666666666666,be be be
+Everett,Clare,1.7045454545454544,0.5681818181818182,56.81818181818182,3.0,be be stay
+Everett,Loring,1.7045454545454544,0.5681818181818182,56.81818181818182,3.0,be be stay
+Clare,Loring,1.7045454545454544,0.5681818181818182,56.81818181818182,3.0,be be stay
+Loring,Everett,4.464285714285714,1.3392857142857142,51.33928571428571,3.3333333333333335,feel lift examine put press
+Loring,Everett,4.464285714285714,1.3392857142857142,51.33928571428571,3.3333333333333335,feel lift examine put press
+Loring,Everett,4.464285714285714,1.3392857142857142,51.33928571428571,3.3333333333333335,feel lift examine put press
+Everett,Clare,0.0,1.7857142857142856,55.35714285714286,0.0,give
+Everett,Clare,0.0,0.0,50.0,INF,plunge glance
+Everett,Clare,0.0,0.0,50.0,INF,plunge glance
+Everett,Clare,0.0,0.0,50.0,INF,turn clare
+Hanson,Lamarr,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Hanson,Lamarr,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Hanson,Lamarr,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Hanson,Lamarr,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Lamarr,Hanson,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Hanson,Lamarr,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,nod lay speak run
+Mr. Hanson,Lamarr,1.9230769230769231,3.8461538461538463,32.69230769230769,0.5,say stammer
+Lamarr,Hanson,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,have say fantasize
+Lamarr,Mr. Hanson,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,have say fantasize
+Hanson,Mr. Hanson,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,have say fantasize
+Marlowe,Hanson,0.0,0.0,50.0,INF,take say
+Marlowe,Hanson,0.0,1.6666666666666667,51.66666666666667,0.0,be say
+Mr. Canning,Hanson,3.125,3.125,60.416666666666664,1.0,take say
+Lynn Peterson,Peterson,4.166666666666666,2.083333333333333,27.083333333333332,2.0,be
+Hanson,Marlowe,2.6785714285714284,0.8928571428571428,50.0,3.0,tell be say lean gaze
+Hanson,Mr. Canning,2.6785714285714284,0.8928571428571428,50.0,3.0,tell be say lean gaze
+Marlowe,Mr. Canning,2.6785714285714284,0.8928571428571428,50.0,3.0,tell be say lean gaze
+Gómez,López,1.5625,0.5208333333333333,52.083333333333336,3.0,be face seat be tie braid
+Lynn Peterson,Peterson,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Lynn Peterson,Bernie,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Lynn Peterson,Peterson,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Lynn Peterson,Peterson,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Peterson,Bernie,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Bernie,Peterson,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Bernie,Peterson,1.25,1.25,52.5,1.0,recall lay pine tell have be do die
+Bartlett,Hanson,0.9615384615384616,0.0,60.57692307692307,INF,be have serve come
+Mr. Canning,Bartlett,0.0,0.0,40.0,INF,say
+Bartlett,Hanson,6.25,0.0,43.75,INF,turn
+Hanson,Gómez,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Hanson,Lynn Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Hanson,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Hanson,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Gómez,Lynn Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Gómez,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Gómez,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Lynn Peterson,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Lynn Peterson,Peterson,1.1160714285714286,1.5625,54.46428571428571,0.7142857142857143,go grasp begin drag have come glimpse wrap
+Hanson,López,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,take follow
+Hanson,Bartlett,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,take follow
+López,Bartlett,0.5681818181818182,2.840909090909091,51.13636363636363,0.2,take follow
+Mr. Canning,Barney,0.78125,0.0,61.71875,INF,reach bring forget pick
+Lynn Peterson,Mr. Canning,0.0,0.0,28.57142857142857,INF,know do say
+Peterson,Mr. Canning,0.0,0.0,44.44444444444444,INF,meet nod
+Peterson,Mr. Canning,0.0,0.0,40.0,INF,be say
+Lynn Peterson,Nico,2.403846153846154,0.4807692307692308,43.269230769230774,5.0,listen say take be be
+Marlowe,Wilber Canning,4.166666666666666,0.5952380952380952,38.095238095238095,7.0,be say know be work
+Hanson,Hendricks,0.0,0.0,33.33333333333333,INF,tell mention
+Hendricks,Nico,3.125,3.125,31.25,1.0,be look
+Hendricks,Nico,4.6875,1.5625,31.25,3.0,think be
+Bartlett,Hanson,1.5,2.5,52.0,0.6,open come
+Hanson,gore,1.0869565217391304,5.434782608695652,58.69565217391305,0.2,be use gore shed
+Mr. Canning,Bartlett,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be fix say
+Mr. Canning,Bartlett,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be fix say
+Hanson,Bartlett,5.208333333333334,0.0,44.79166666666667,INF,give
+Bartlett,Hanson,0.0,3.90625,46.09375,0.0,hold come take
+Mr. Canning,Bartlett,2.1739130434782608,2.717391304347826,51.63043478260869,0.8,come stand lean brace
+Mr. Canning,Bartlett,2.1739130434782608,2.717391304347826,51.63043478260869,0.8,come stand lean brace
+Mr. Canning,Bartlett,2.1739130434782608,2.717391304347826,51.63043478260869,0.8,come stand lean brace
+Bartlett,Hanson,0.0,0.0,62.5,INF,pull
+Hanson,Bartlett,0.8333333333333334,1.3888888888888888,53.333333333333336,0.6,have be pull take do do
+Hanson,Bartlett,0.8333333333333334,1.3888888888888888,53.333333333333336,0.6,have be pull take do do
+Hanson,Bartlett,0.8333333333333334,1.3888888888888888,53.333333333333336,0.6,have be pull take do do
+Hanson,Bartlett,0.8333333333333334,1.3888888888888888,53.333333333333336,0.6,have be pull take do do
+Hanson,Bartlett,0.8333333333333334,1.3888888888888888,53.333333333333336,0.6,have be pull take do do
+Mr. Canning,Hanson,0.5434782608695652,1.6304347826086956,63.04347826086957,0.3333333333333333,know have recover throw
+Mr. Canning,Hanson,4.166666666666666,0.0,58.333333333333336,INF,be favor employ
+Mr. Canning,Bartlett,0.5434782608695652,0.0,64.67391304347827,INF,step stumble reach
+Mr. Canning,Bartlett,0.5434782608695652,0.0,64.67391304347827,INF,step stumble reach
+Mr. Canning,Hanson,0.0,0.0,60.0,INF,hiss
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Bartlett,3.90625,0.0,61.71875,INF,suppose be picture have do get
+Hanson,Mr. Canning,2.5,0.0,67.5,INF,nod turn follow
+Mr. Canning,Hanson,0.5434782608695652,0.0,55.97826086956522,INF,get turn look
+Mr. Canning,Hanson,1.6666666666666667,0.0,51.66666666666667,INF,wade have reach breaststroke swim stop bob move tread
+Mr. Canning,Hanson,1.6666666666666667,0.0,51.66666666666667,INF,wade have reach breaststroke swim stop bob move tread
+Mr. Canning,Hanson,1.6666666666666667,0.0,51.66666666666667,INF,wade have reach breaststroke swim stop bob move tread
+Marlowe,John,0.0,3.125,30.208333333333332,0.0,say
+Hanson,Bartlett,1.2658227848101267,1.1075949367088607,59.65189873417721,1.1428571428571428,have open hurry turn look push think be draw have bring have serve
+Hanson,Bartlett,1.2658227848101267,1.1075949367088607,59.65189873417721,1.1428571428571428,have open hurry turn look push think be draw have bring have serve
+Bernie,Cahuilla Club,0.0,3.125,51.041666666666664,0.0,raid find pass
+Bernie,Bartlett,0.0,3.125,51.041666666666664,0.0,raid find pass
+Bernie,Cahuilla Club,0.0,3.125,51.041666666666664,0.0,raid find pass
+Bernie,Bartlett,0.0,3.125,51.041666666666664,0.0,raid find pass
+Cahuilla Club,Bartlett,0.0,3.125,51.041666666666664,0.0,raid find pass
+Bernie,Hanson,4.545454545454546,1.893939393939394,45.07575757575758,2.4,say have try take have be have make skip
+Bernie,Hanson,4.545454545454546,1.893939393939394,45.07575757575758,2.4,say have try take have be have make skip
+Bernie,Hanson,4.545454545454546,1.893939393939394,45.07575757575758,2.4,say have try take have be have make skip
+Bernie,Hanson,4.545454545454546,1.893939393939394,45.07575757575758,2.4,say have try take have be have make skip
+Bernie,Hanson,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,be surprise hear have get
+Bernie,Mr. Canning,3.260869565217391,1.0869565217391304,65.21739130434783,3.0,have lead have fly
+Bernie,Mr. Canning,0.33783783783783783,0.0,59.12162162162162,INF,set work comb depart go show
+Bernie,Mr. Canning,4.605263157894736,1.3157894736842104,62.5,3.5,think recognize have give have be
+Bernie,Mr. Canning,4.605263157894736,1.3157894736842104,62.5,3.5,think recognize have give have be
+Victor,Bernie,2.083333333333333,0.0,56.25,INF,suggest drive
+Terry,Victor,1.2096774193548387,0.4032258064516129,62.903225806451616,3.0,be introduce go lift
+Bernie,Terry,5.357142857142857,6.25,59.82142857142857,0.8571428571428571,have know do
+Hanson,Bernie,1.8382352941176472,0.0,51.10294117647059,INF,ask be tell take have get work
+Hanson,Bernie,1.8382352941176472,0.0,51.10294117647059,INF,ask be tell take have get work
+Hanson,Bernie,1.8382352941176472,0.0,51.10294117647059,INF,ask be tell take have get work
+Bernie,Bartlett,4.2682926829268295,2.1341463414634148,47.256097560975604,2.0,ask have come tell have finish
+Bernie,Mr. Canning,4.2682926829268295,2.1341463414634148,47.256097560975604,2.0,ask have come tell have finish
+Bartlett,Mr. Canning,4.2682926829268295,2.1341463414634148,47.256097560975604,2.0,ask have come tell have finish
+Hanson,Cahuilla Club,0.6756756756756757,1.6891891891891893,51.689189189189186,0.4,offer take show have dump
+Hanson,Bartlett,0.6756756756756757,1.6891891891891893,51.689189189189186,0.4,offer take show have dump
+Cahuilla Club,Hanson,0.6756756756756757,1.6891891891891893,51.689189189189186,0.4,offer take show have dump
+Cahuilla Club,Bartlett,0.6756756756756757,1.6891891891891893,51.689189189189186,0.4,offer take show have dump
+Hanson,Bartlett,0.6756756756756757,1.6891891891891893,51.689189189189186,0.4,offer take show have dump
+Mr. Canning,Bernie,4.375,2.5,43.125,1.75,guess want say
+Marlowe,Bernie,0.0,0.0,47.05882352941176,INF,say let hear
+Phil,Philip Marlowe,0.0,1.3888888888888888,31.944444444444443,0.0,want call do
+Marlowe,Bernie,0.9615384615384616,2.8846153846153846,57.692307692307686,0.3333333333333333,let lay say start tick
+Marlowe,Bernie,0.9615384615384616,2.8846153846153846,57.692307692307686,0.3333333333333333,let lay say start tick
+Lynn Peterson,Peterson,2.34375,3.90625,50.0,0.6,get be
+Lynn Peterson,Nico,2.7777777777777777,1.3888888888888888,6.944444444444445,2.0,be
+Bernie,Jake,0.0,0.0,40.0,INF,be
+Victor,Loring,1.1904761904761905,0.0,46.42857142857143,INF,be meet remember
+Victor,Jake,1.1904761904761905,0.0,46.42857142857143,INF,be meet remember
+Victor,Loring,1.1904761904761905,0.0,46.42857142857143,INF,be meet remember
+Loring,Jake,1.1904761904761905,0.0,46.42857142857143,INF,be meet remember
+Jake,Loring,1.1904761904761905,0.0,46.42857142857143,INF,be meet remember
+Sylvia,Terry,0.0,6.547619047619048,41.07142857142857,0.0,be be murder take
+Sylvia,Terry,0.0,6.547619047619048,41.07142857142857,0.0,be be murder take
+Terry,Bernie,4.391891891891892,5.405405405405405,63.17567567567568,0.8125,want disappear be fake call know be include
+Terry,Bernie,4.391891891891892,5.405405405405405,63.17567567567568,0.8125,want disappear be fake call know be include
+Terry,Bernie,4.391891891891892,5.405405405405405,63.17567567567568,0.8125,want disappear be fake call know be include
+Bernie,Lynn Peterson,0.8333333333333334,1.9444444444444444,55.00000000000001,0.42857142857142855,listen say get go start count let repeat tell be
+Mr. Canning,Lynn Peterson,0.9615384615384616,4.807692307692308,32.69230769230769,0.2,have do
+Mr. Canning,Lynn Peterson,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be tell be
+Peterson,Lynn Peterson,0.0,6.25,25.0,0.0,come kill kill
+Peterson,Nico,0.0,0.0,45.45454545454545,INF,do snatch
+Bernie,Lynn Peterson,3.6458333333333335,0.26041666666666663,54.427083333333336,14.0,get tell say make have flush get tell be hire find
+Bernie,Lynn Peterson,3.6458333333333335,0.26041666666666663,54.427083333333336,14.0,get tell say make have flush get tell be hire find
+Bernie,Lynn Peterson,3.6458333333333335,0.26041666666666663,54.427083333333336,14.0,get tell say make have flush get tell be hire find
+Mr. Canning,Hanson,2.2058823529411766,5.88235294117647,44.85294117647059,0.375,be do trust
+Hanson,Mr. Canning,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Hanson,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Hanson,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Hanson,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Mr. Canning,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Mr. Canning,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Mr. Canning,Nico,6.25,2.5,44.583333333333336,2.5,say want find know be be find
+Mr. Canning,Nico,0.0,3.9473684210526314,38.15789473684211,0.0,know kill take
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Donnelly,Bernie,2.1875,1.875,58.4375,1.1666666666666667,be put be throw lean
+Hanson,Lamarr,0.8064516129032258,5.241935483870968,45.564516129032256,0.15384615384615385,tell have hire
+Nico,Lynn Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Nico,Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Nico,Lynn Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Nico,Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Lynn Peterson,Nico,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Lynn Peterson,Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Nico,Peterson,1.7857142857142856,0.35714285714285715,52.142857142857146,5.0,be be fake have be be show identify
+Peterson,Nico,0.5434782608695652,0.0,55.97826086956522,INF,be lie cover be be
+Nico,Hanson,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be suppose have die be give
+Marlowe,Bernie,5.288461538461538,1.4423076923076923,39.42307692307692,3.6666666666666665,start say downcast watch
+Marlowe,Bernie,5.288461538461538,1.4423076923076923,39.42307692307692,3.6666666666666665,start say downcast watch
+Marlowe,Bernie,5.288461538461538,1.4423076923076923,39.42307692307692,3.6666666666666665,start say downcast watch
+Lynn Peterson,Peterson,4.166666666666666,2.083333333333333,52.083333333333336,2.0,do care
+Hanson,Mr. Canning,0.0,0.0,53.333333333333336,INF,live
+Bernie,Wilber Canning,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,guess do know say be be
+Bernie,Harlan Potter,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,guess do know say be be
+Bernie,Wilber Canning,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,guess do know say be be
+Bernie,Harlan Potter,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,guess do know say be be
+Wilber Canning,Harlan Potter,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,guess do know say be be
+Harlan Potter,Loring,0.0,0.0,39.285714285714285,INF,happen be make
+Harlan Potter,Terry,0.0,0.0,39.285714285714285,INF,happen be make
+Harlan Potter,Terry,0.0,0.0,39.285714285714285,INF,happen be make
+Loring,Terry,0.0,0.0,39.285714285714285,INF,happen be make
+Loring,Harlan Potter,0.0,0.0,39.285714285714285,INF,happen be make
+Loring,Terry,0.0,0.0,39.285714285714285,INF,happen be make
+Terry,Harlan Potter,0.0,0.0,39.285714285714285,INF,happen be make
+Harlan Potter,Terry,0.0,0.0,39.285714285714285,INF,happen be make
+Terry,Nico,1.953125,0.390625,66.40625,5.0,think be think be be keep haunt be
+Terry,Nico,1.953125,0.390625,66.40625,5.0,think be think be be keep haunt be
+Terry,Nico,1.953125,0.390625,66.40625,5.0,think be think be be keep haunt be
+Terry,Nico,1.953125,0.390625,66.40625,5.0,think be think be be keep haunt be
+Loring,Harlan Potter,1.5625,0.0,48.4375,INF,marry think be
+Harlan Potter,Mr. Canning,6.875000000000001,3.75,54.37499999999999,1.8333333333333333,make do get
+Harlan Potter,Mr. Canning,6.875000000000001,3.75,54.37499999999999,1.8333333333333333,make do get
+Bernie,Donnelly,2.4390243902439024,3.353658536585366,55.1829268292683,0.7272727272727273,be go have see go stink put
+Bernie,Donnelly,2.4390243902439024,3.353658536585366,55.1829268292683,0.7272727272727273,be go have see go stink put
+Bernie,Donnelly,2.4390243902439024,3.353658536585366,55.1829268292683,0.7272727272727273,be go have see go stink put
+Bernie,Donnelly,2.4390243902439024,3.353658536585366,55.1829268292683,0.7272727272727273,be go have see go stink put
+Bernie,Harlan Potter,3.8793103448275863,3.8793103448275863,57.758620689655174,1.0,shut have put
+Bernie,Wilber Canning,3.8793103448275863,3.8793103448275863,57.758620689655174,1.0,shut have put
+Harlan Potter,Wilber Canning,3.8793103448275863,3.8793103448275863,57.758620689655174,1.0,shut have put
+Phil,Bernie,0.0,0.0,38.46153846153847,INF,be see say
+Jake,Loring,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,see get ask be do mean
+Barney,Travis,1.1627906976744187,0.872093023255814,58.43023255813954,1.3333333333333333,hop drive drink have keep go refuse serve
+Bernie,Hanson,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,be call tell have be find hang
+Bernie,Hanson,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,be call tell have be find hang
+Jesus Christ,Bernie,0.0,0.0,42.857142857142854,INF,do shout say hold
+Donnelly,Cahuilla Club,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Donnelly,Mr. Canning,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Donnelly,Cahuilla Club,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Donnelly,Mr. Canning,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Donnelly,Cahuilla Club,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Donnelly,Mr. Canning,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Cahuilla Club,Mr. Canning,1.3636363636363635,2.0454545454545454,56.59090909090909,0.6666666666666666,be be drag be compare be hear have happen shoot do vanish
+Nico,Mandy,1.293103448275862,5.603448275862069,51.724137931034484,0.23076923076923078,get see be fall
+Mandy,Nico,1.293103448275862,5.603448275862069,51.724137931034484,0.23076923076923078,get see be fall
+Mandy,Nico,1.293103448275862,5.603448275862069,51.724137931034484,0.23076923076923078,get see be fall
+Nico,Hendricks,1.5625,2.1875,56.25,0.7142857142857143,suspect have be ship be do
+Hanson,Nico,5.288461538461538,3.3653846153846154,56.730769230769226,1.5714285714285714,be have be have supply
+Nico,Hanson,5.288461538461538,3.3653846153846154,56.730769230769226,1.5714285714285714,be have be have supply
+Wilber Canning,Hanson,4.044117647058823,1.1029411764705883,44.85294117647059,3.6666666666666665,be do know have cook have believe be stick
+Wilber Canning,Nico,4.044117647058823,1.1029411764705883,44.85294117647059,3.6666666666666665,be do know have cook have believe be stick
+Wilber Canning,Nico,4.044117647058823,1.1029411764705883,44.85294117647059,3.6666666666666665,be do know have cook have believe be stick
+Hanson,Nico,4.044117647058823,1.1029411764705883,44.85294117647059,3.6666666666666665,be do know have cook have believe be stick
+Hanson,Nico,4.044117647058823,1.1029411764705883,44.85294117647059,3.6666666666666665,be do know have cook have believe be stick
+Gómez,López,4.934210526315789,2.9605263157894735,42.10526315789473,1.6666666666666667,presume be be have make have come find reclaim
+Gómez,Nico,4.934210526315789,2.9605263157894735,42.10526315789473,1.6666666666666667,presume be be have make have come find reclaim
+Gómez,Nico,4.934210526315789,2.9605263157894735,42.10526315789473,1.6666666666666667,presume be be have make have come find reclaim
+López,Nico,4.934210526315789,2.9605263157894735,42.10526315789473,1.6666666666666667,presume be be have make have come find reclaim
+López,Nico,4.934210526315789,2.9605263157894735,42.10526315789473,1.6666666666666667,presume be be have make have come find reclaim
+Clare,Peterson,0.0,6.451612903225806,41.935483870967744,0.0,see have be
+Peterson,Clare,0.0,6.451612903225806,41.935483870967744,0.0,see have be
+Ma Langrishe,Mrs. Langrishe,1.4705882352941175,3.6764705882352944,65.44117647058823,0.4,remember ask be join
+Loring,Hanson,4.166666666666666,4.166666666666666,38.333333333333336,1.0,have tell know
+Clare,Nico,4.166666666666666,0.9615384615384616,48.717948717948715,4.333333333333333,cross do know do look have follow
+Clare,Nico,4.166666666666666,0.9615384615384616,48.717948717948715,4.333333333333333,cross do know do look have follow
+Nico,Lynn Peterson,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Nico,Hanson,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Nico,Wilber Canning,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Lynn Peterson,Hanson,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Lynn Peterson,Wilber Canning,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Hanson,Wilber Canning,1.8421052631578945,2.236842105263158,50.6578947368421,0.8235294117647058,be say say be be say be ask explain go tie be kidnap murder get kill kill flee end feel rush have be rush
+Bernie,Harlan Potter,2.25,0.25,53.5,9.0,seem jade call ask be go have allow stay have dub
+Bernie,Cahuilla Club,2.25,0.25,53.5,9.0,seem jade call ask be go have allow stay have dub
+Bernie,Harlan Potter,2.25,0.25,53.5,9.0,seem jade call ask be go have allow stay have dub
+Bernie,Cahuilla Club,2.25,0.25,53.5,9.0,seem jade call ask be go have allow stay have dub
+Harlan Potter,Cahuilla Club,2.25,0.25,53.5,9.0,seem jade call ask be go have allow stay have dub
+Bernie,Victor,3.0172413793103448,3.4482758620689653,65.94827586206897,0.875,be guess have keep fall
+Bernie,Victor,3.0172413793103448,3.4482758620689653,65.94827586206897,0.875,be guess have keep fall
+Bernie,Victor,3.0172413793103448,3.4482758620689653,65.94827586206897,0.875,be guess have keep fall
+Mr. Canning,Victor,1.25,2.5,46.25,0.5,say
+Bartlett,Marlowe,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,be talk fix
+Bartlett,Marlowe,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,be talk fix
+Bartlett,Marlowe,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,be talk fix
+Lynn Peterson,Mr. Canning,3.214285714285714,3.9285714285714284,35.714285714285715,0.8181818181818182,figure be have run make tangle
+Lynn Peterson,Peterson,0.0,0.0,45.45454545454545,INF,shove
+Lynn Peterson,Peterson,1.3888888888888888,0.4629629629629629,68.51851851851852,3.0,have wear paint
+Mandy,Peterson,6.25,0.0,58.03571428571429,INF,be be
+Peterson,Lynn Peterson,0.5681818181818182,1.1363636363636365,48.29545454545455,0.5,feel hit say do want
+Lynn Peterson,Peterson,0.7352941176470588,2.2058823529411766,32.35294117647059,0.3333333333333333,say lower be
+Marlowe,Peterson,0.0,0.0,47.368421052631575,INF,listen say be
+Marlowe,Peterson,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,look grab have be rest squeeze creak
+Mendy,Hendricks,0.0,0.0,54.54545454545454,INF,have go
+Mendy,Hendricks,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,send handle
+Clare,Lynn Peterson,3.985507246376811,0.9057971014492754,48.731884057971016,4.4,be be have speak sit have look see hear whine know have touch
+Clare,Lynn Peterson,3.985507246376811,0.9057971014492754,48.731884057971016,4.4,be be have speak sit have look see hear whine know have touch
+Clare,Lynn Peterson,3.985507246376811,0.9057971014492754,48.731884057971016,4.4,be be have speak sit have look see hear whine know have touch
+Clare,Lynn Peterson,3.985507246376811,0.9057971014492754,48.731884057971016,4.4,be be have speak sit have look see hear whine know have touch
+Lynn Peterson,Clare,3.985507246376811,0.9057971014492754,48.731884057971016,4.4,be be have speak sit have look see hear whine know have touch
+Lynn Peterson,Peterson,0.0,0.0,55.55555555555556,INF,swallow hear do
+Peterson,Hendricks,3.125,2.083333333333333,44.79166666666667,1.5,hang let sell get hear dare
+Peterson,Hendricks,3.125,2.083333333333333,44.79166666666667,1.5,hang let sell get hear dare
+Peterson,Hendricks,3.125,2.083333333333333,44.79166666666667,1.5,hang let sell get hear dare
+Peterson,Hendricks,3.125,2.083333333333333,44.79166666666667,1.5,hang let sell get hear dare
+Lynn Peterson,Peterson,1.953125,4.296875,46.875,0.45454545454545453,be bulge dream be
+Lynn Peterson,Peterson,1.953125,4.296875,46.875,0.45454545454545453,be bulge dream be
+Lynn Peterson,Peterson,1.953125,4.296875,46.875,0.45454545454545453,be bulge dream be
+Lynn Peterson,Peterson,1.953125,4.296875,46.875,0.45454545454545453,be bulge dream be
+Marlowe,Peterson,5.208333333333334,5.208333333333334,39.58333333333333,1.0,go keep demand answer
+Hanson,Peterson,0.0,0.0,50.0,INF,know say
+Hanson,Peterson,0.0,0.0,50.0,INF,know say
+Hanson,Peterson,5.0,1.6666666666666667,46.666666666666664,3.0,do ask say
+Marlowe,Peterson,1.0416666666666665,0.0,48.95833333333333,INF,get move say
+Peterson,Mendy,1.3888888888888888,1.0416666666666665,55.90277777777778,1.3333333333333333,hope have pull take replace
+Cahuenga,Rufus,2.1551724137931036,0.8620689655172413,52.1551724137931,2.5,be name
+Marlowe,Bernie,2.976190476190476,0.0,49.404761904761905,INF,be hear say come
+Bernie,Lynn Peterson,0.0,0.0,50.0,INF,tell see
+Marlowe,Bernie,1.4423076923076923,0.4807692307692308,59.61538461538461,3.0,say start explain
+Lynn Peterson,Mendy,2.8846153846153846,0.0,45.83333333333333,INF,be deliver get keep sell
+Lynn Peterson,Hendricks,2.8846153846153846,0.0,45.83333333333333,INF,be deliver get keep sell
+Lynn Peterson,Hendricks,2.8846153846153846,0.0,45.83333333333333,INF,be deliver get keep sell
+Mendy,Hendricks,2.8846153846153846,0.0,45.83333333333333,INF,be deliver get keep sell
+Mendy,Hendricks,2.8846153846153846,0.0,45.83333333333333,INF,be deliver get keep sell
+Lynn Peterson,Peterson,1.6129032258064515,0.0,46.774193548387096,INF,get queer start pile lose hire try hire
+Lynn Peterson,Peterson,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,ask do promise give make
+Peterson,Bernie,0.0,4.807692307692308,41.34615384615385,0.0,be say
+Bernie,Marlowe,0.8333333333333334,0.0,52.5,INF,ask watch
+Marlowe,Bernie,0.0,0.0,33.33333333333333,INF,be say
+Peterson,Lynn Peterson,3.6764705882352944,1.8382352941176472,41.544117647058826,2.0,buy know be give
+Clare,Lynn Peterson,3.488372093023256,1.4534883720930232,48.54651162790697,2.4,throw make wonder revise be come talk
+Clare,Lynn Peterson,3.488372093023256,1.4534883720930232,48.54651162790697,2.4,throw make wonder revise be come talk
+Clare,Peterson,3.4722222222222223,0.0,29.86111111111111,INF,say tell happen meet
+Peterson,Hendricks,3.8461538461538463,0.0,57.692307692307686,INF,want deliver call
+Hendricks,Lynn Peterson,0.0,0.0,42.857142857142854,INF,be be suppose bring
+Clare,Cleopatra,5.769230769230769,0.4807692307692308,55.28846153846154,12.0,be look give be
+Clare,Terry,2.5,0.0,57.49999999999999,INF,have turn look
+Terry,Clare,1.25,2.5,51.24999999999999,0.5,say be call
+Phil,Terry,3.125,4.166666666666666,34.375,0.75,look say
+Mendy,Terry,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Mendy,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Mendy,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Mendy,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Terry,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Terry,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Terry,Randy Starr,3.4090909090909087,3.4090909090909087,50.75757575757576,1.0,be have help disappear find
+Mother,Clare,3.8793103448275863,1.293103448275862,43.103448275862064,3.0,say please go
+Mother,Clare,3.8793103448275863,1.293103448275862,43.103448275862064,3.0,say please go
+Mrs. Langrishe,Terry,1.5625,6.25,54.6875,0.25,be look frown
+Terry,Mrs. Langrishe,4.166666666666666,0.6944444444444444,56.25,6.0,do hesitate move smile extend
+Terry,Mrs. Langrishe,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,be say
+Mrs. Langrishe,Terry,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,be say
+Mrs. Langrishe,Terry,5.555555555555555,0.0,27.77777777777778,INF,take
+Terry,Ma Langrishe,4.605263157894736,0.0,53.289473684210535,INF,flicker look
+Mrs. Langrishe,Clare,0.0,0.0,30.76923076923077,INF,turn tighten
+Mrs. Langrishe,Clare,0.0,0.0,30.76923076923077,INF,turn tighten
+Mother,Clare,4.464285714285714,0.0,45.535714285714285,INF,please go say
+Clare,Terry,0.0,0.0,50.0,INF,turn
+Terry,Clare,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,hear stir give
+Terry,Clare,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,hear stir give
+Clare,Terry,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,hear stir give
+Clare,Terry,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,hear stir give
+Mrs. Langrishe,Terry,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,think say cut think be think go
+Mrs. Langrishe,Clare,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,think say cut think be think go
+Terry,Clare,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,think say cut think be think go
+Mother,Clare,5.208333333333334,0.0,36.45833333333333,INF,come please say
+Marlowe,Terry,1.3888888888888888,0.0,65.27777777777779,INF,be
+Clare,Terry,2.604166666666667,2.604166666666667,57.291666666666664,1.0,smile throw scowl allow be lead
+Clare,Terry,0.0,0.0,57.14285714285714,INF,walk glance
+Clare,Terry,0.0,0.0,57.14285714285714,INF,walk glance
+Terry,Clare,2.314814814814815,0.6944444444444444,61.80555555555556,3.3333333333333335,go be sit lean crush slip stroll stand look lay sprawl
+Terry,Clare,2.314814814814815,0.6944444444444444,61.80555555555556,3.3333333333333335,go be sit lean crush slip stroll stand look lay sprawl
+Terry,Clare,2.314814814814815,0.6944444444444444,61.80555555555556,3.3333333333333335,go be sit lean crush slip stroll stand look lay sprawl
+Terry,Clare,2.314814814814815,0.6944444444444444,61.80555555555556,3.3333333333333335,go be sit lean crush slip stroll stand look lay sprawl
+Clare,Terry,2.314814814814815,0.6944444444444444,61.80555555555556,3.3333333333333335,go be sit lean crush slip stroll stand look lay sprawl
+Dick,Terry,0.0,0.0,50.0,INF,say
+Clare,Dick,0.0,0.0,38.46153846153847,INF,be drink
+Dick,Clare,1.3888888888888888,0.0,54.166666666666664,INF,come
+Nico,Mendy,0.8333333333333334,4.166666666666666,35.0,0.2,know
+Joe,Terry,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,get rough call spend let go
+Harlan Potter,Sylvia,0.0,0.0,36.36363636363637,INF,be leave
+Clare,Mendy,0.0,0.0,43.75,INF,be send be
+Mendy,Randy Starr,5.0,0.7142857142857143,42.857142857142854,7.0,think be say have save
+Mendy,Randy Starr,5.0,0.7142857142857143,42.857142857142854,7.0,think be say have save
+Mendy,Randy Starr,5.0,0.7142857142857143,42.857142857142854,7.0,think be say have save
+Terry,Clare,8.125,0.625,41.25,13.0,go have be help
+Clare,Mendy,4.044117647058823,3.6764705882352944,45.220588235294116,1.1,want give pay flash have
+Clare,Terry,4.044117647058823,3.6764705882352944,45.220588235294116,1.1,want give pay flash have
+Mendy,Terry,4.044117647058823,3.6764705882352944,45.220588235294116,1.1,want give pay flash have
+Mendy,Nico,4.166666666666666,0.8333333333333334,55.00000000000001,5.0,swear do know be send
+Mendy,Clare,5.3125,0.625,46.5625,8.5,think wait have have talk have find have have have wait
+Mendy,Nico,5.3125,0.625,46.5625,8.5,think wait have have talk have find have have have wait
+Clare,Nico,5.3125,0.625,46.5625,8.5,think wait have have talk have find have have have wait
+Clare,Mendy,5.3125,0.625,46.5625,8.5,think wait have have talk have find have have have wait
+Nico,Mendy,5.3125,0.625,46.5625,8.5,think wait have have talk have find have have have wait
+Mendy,Nico,0.0,0.0,62.5,INF,send begin
+Mendy,Nico,2.127659574468085,2.6595744680851063,39.8936170212766,0.8,be say have know disappear have spot
+Mendy,Clare,2.127659574468085,2.6595744680851063,39.8936170212766,0.8,be say have know disappear have spot
+Mendy,Nico,2.127659574468085,2.6595744680851063,39.8936170212766,0.8,be say have know disappear have spot
+Nico,Clare,2.127659574468085,2.6595744680851063,39.8936170212766,0.8,be say have know disappear have spot
+Clare,Nico,2.127659574468085,2.6595744680851063,39.8936170212766,0.8,be say have know disappear have spot
+Terry,Clare,5.263157894736842,0.3289473684210526,47.03947368421053,16.0,know swivel do clasp help wish have see
+Terry,Clare,5.263157894736842,0.3289473684210526,47.03947368421053,16.0,know swivel do clasp help wish have see
+Terry,Clare,5.263157894736842,0.3289473684210526,47.03947368421053,16.0,know swivel do clasp help wish have see
+Terry,Clare,5.263157894736842,0.3289473684210526,47.03947368421053,16.0,know swivel do clasp help wish have see
+Clare,Mendy,0.0,0.0,30.76923076923077,INF,do tell see do
+Clare,Mendy,0.0,0.0,30.76923076923077,INF,do tell see do
+Clare,Mendy,0.0,0.0,30.76923076923077,INF,do tell see do
+Clare,Mendy,0.0,0.0,30.76923076923077,INF,do tell see do
+Mendy,Clare,0.0,0.0,30.76923076923077,INF,do tell see do
+Mendy,Clare,0.0,0.0,30.76923076923077,INF,do tell see do
+Clare,Mendy,1.0416666666666665,2.083333333333333,30.208333333333332,0.5,be guess tell tell
+Mendy,Lynn Peterson,3.125,1.4583333333333333,48.75,2.142857142857143,say have be need make look bring be play be
+Mendy,Lynn Peterson,3.125,1.4583333333333333,48.75,2.142857142857143,say have be need make look bring be play be
+Mendy,Lynn Peterson,3.125,1.4583333333333333,48.75,2.142857142857143,say have be need make look bring be play be
+Lynn Peterson,Mendy,3.125,1.4583333333333333,48.75,2.142857142857143,say have be need make look bring be play be
+Lynn Peterson,Mendy,3.125,1.4583333333333333,48.75,2.142857142857143,say have be need make look bring be play be
+Terry,Richard,4.166666666666666,0.9259259259259258,57.870370370370374,4.5,start say sit look lick
+Terry,Richard,4.166666666666666,0.9259259259259258,57.870370370370374,4.5,start say sit look lick
+Dick,Terry,0.0,0.0,50.0,INF,be say
+Clare,Terry,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,mutter flop have be throw
+Clare,Terry,3.3333333333333335,1.25,55.41666666666667,2.6666666666666665,mutter flop have be throw
+Terry,Clare,0.9259259259259258,0.0,50.92592592592593,INF,be stand hang
+Terry,Everett,0.9259259259259258,0.0,50.92592592592593,INF,be stand hang
+Terry,Everett,0.9259259259259258,0.0,50.92592592592593,INF,be stand hang
+Clare,Everett,0.9259259259259258,0.0,50.92592592592593,INF,be stand hang
+Clare,Everett,0.9259259259259258,0.0,50.92592592592593,INF,be stand hang
+Everett,Wilber Canning,4.044117647058823,2.2058823529411766,64.33823529411765,1.8333333333333333,have be have say be have
+Everett,Wilber Canning,4.044117647058823,2.2058823529411766,64.33823529411765,1.8333333333333333,have be have say be have
+Everett,Wilber Canning,4.044117647058823,2.2058823529411766,64.33823529411765,1.8333333333333333,have be have say be have
+Everett,Wilber Canning,4.044117647058823,2.2058823529411766,64.33823529411765,1.8333333333333333,have be have say be have
+Wilber Canning,Terry,0.0,0.0,57.14285714285714,INF,turn
+Wilber Canning,Terry,0.0,0.0,57.14285714285714,INF,turn
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Terry,Everett,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Terry,Everett,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,0.2777777777777778,0.5555555555555556,59.166666666666664,0.5,be be draw take hold point pull
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Terry,2.0161290322580645,0.8064516129032258,71.37096774193549,2.5,have go stand tremble stare lay bleed
+Everett,Clare,0.0,0.0,50.0,INF,open come
+Clare,Terry,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,lift cradle
+Terry,Clare,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,lift cradle
+Clare,Terry,13.541666666666666,2.083333333333333,42.70833333333333,6.5,have love see
+Everett,Clare,0.6944444444444444,0.0,54.861111111111114,INF,do look do reply do say
+Terry,Clare,2.364864864864865,1.3513513513513513,55.74324324324324,1.75,advance step put pat reel hum be go
+Terry,Clare,2.364864864864865,1.3513513513513513,55.74324324324324,1.75,advance step put pat reel hum be go
+Joe,Langrishe Lodge,0.390625,0.390625,67.96875,1.0,be get arrive yowl
+Joe,Langrishe Lodge,0.390625,0.390625,67.96875,1.0,be get arrive yowl
+Joe,Langrishe Lodge,0.390625,0.390625,67.96875,1.0,be get arrive yowl
+Langrishe Lodge,Joe,0.390625,0.390625,67.96875,1.0,be get arrive yowl
+Everett,Terry,3.571428571428571,11.607142857142858,63.39285714285714,0.3076923076923077,think have die
+Terry,Marlowe,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Terry,Jesus Christ,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Terry,Marlowe,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Terry,Marlowe,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Terry,Jesus Christ,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Terry,Marlowe,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Marlowe,Jesus Christ,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Jesus Christ,Marlowe,1.9067796610169492,2.330508474576271,56.779661016949156,0.8181818181818182,be disappoint have happen want strew see be have write
+Joe,Terry,1.7857142857142856,0.0,69.64285714285714,INF,hunker squint look cower
+Joe,Everett,1.7857142857142856,0.0,69.64285714285714,INF,hunker squint look cower
+Terry,Everett,1.7857142857142856,0.0,69.64285714285714,INF,hunker squint look cower
+Jesus Christ,Phil,1.1363636363636365,2.840909090909091,41.47727272727273,0.4,say be
+Jesus Christ,Everett,1.1363636363636365,2.840909090909091,41.47727272727273,0.4,say be
+Phil,Everett,1.1363636363636365,2.840909090909091,41.47727272727273,0.4,say be
+Joe,Clare,0.8928571428571428,2.6785714285714284,39.285714285714285,0.3333333333333333,get turn
+Joe,Clare,0.8928571428571428,2.6785714285714284,39.285714285714285,0.3333333333333333,get turn
+Clare,gore,1.8617021276595744,1.3297872340425532,52.12765957446809,1.4,hang soak glisten gore be write
+Clare,gore,1.8617021276595744,1.3297872340425532,52.12765957446809,1.4,hang soak glisten gore be write
+Clare,gore,1.8617021276595744,1.3297872340425532,52.12765957446809,1.4,hang soak glisten gore be write
+Clare,gore,1.8617021276595744,1.3297872340425532,52.12765957446809,1.4,hang soak glisten gore be write
+Clare,gore,1.8617021276595744,1.3297872340425532,52.12765957446809,1.4,hang soak glisten gore be write
+Joe,Clare,1.3157894736842104,0.0,46.05263157894737,INF,begin call be step correct
+Joe,Mrs. Langrishe,1.3157894736842104,0.0,46.05263157894737,INF,begin call be step correct
+Clare,Mrs. Langrishe,1.3157894736842104,0.0,46.05263157894737,INF,begin call be step correct
+Clare,Joe,1.3157894736842104,0.0,46.05263157894737,INF,begin call be step correct
+Mrs. Langrishe,Joe,1.3157894736842104,0.0,46.05263157894737,INF,begin call be step correct
+Clare,Joe,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be say
+Joe,Clare,2.0348837209302326,0.5813953488372093,57.84883720930233,3.5,hand give say be worry
+Joe,Clare,2.0348837209302326,0.5813953488372093,57.84883720930233,3.5,hand give say be worry
+Joe,Clare,2.0348837209302326,0.5813953488372093,57.84883720930233,3.5,hand give say be worry
+Jesus Christ,Phil,0.0,2.717391304347826,36.41304347826087,0.0,say think go
+Jesus Christ,Joe,0.0,2.717391304347826,36.41304347826087,0.0,say think go
+Phil,Joe,0.0,2.717391304347826,36.41304347826087,0.0,say think go
+Phil,Joe,1.3888888888888888,2.7777777777777777,40.27777777777778,0.5,dunno say rub
+Phil,Joe,1.3888888888888888,2.7777777777777777,40.27777777777778,0.5,dunno say rub
+Phil,Joe,1.3888888888888888,2.7777777777777777,40.27777777777778,0.5,dunno say rub
+Joe,Everett,7.258064516129033,0.4032258064516129,47.17741935483871,18.0,do say keep satisfy come
+Terry,Everett,3.289473684210526,1.9736842105263157,73.68421052631578,1.6666666666666667,know have die put
+Terry,Everett,3.289473684210526,1.9736842105263157,73.68421052631578,1.6666666666666667,know have die put
+Everett,Terry,3.571428571428571,0.5952380952380952,52.976190476190474,6.0,have say have be
+Terry,Mendy,2.696078431372549,4.166666666666666,50.0,0.6470588235294118,hang come care be
+Terry,Mendy,2.696078431372549,4.166666666666666,50.0,0.6470588235294118,hang come care be
+Mendy,Terry,2.696078431372549,4.166666666666666,50.0,0.6470588235294118,hang come care be
+Mendy,Terry,2.696078431372549,4.166666666666666,50.0,0.6470588235294118,hang come care be
+Terry,Everett,0.78125,4.6875,69.53125,0.16666666666666666,know have hook
+Everett,Mendy,0.9615384615384616,6.730769230769231,46.15384615384615,0.14285714285714285,have tie
+Clare,Terry,1.201923076923077,0.7211538461538461,53.84615384615385,1.6666666666666667,be go believe fall think lower put stop say have be
+Clare,Terry,1.201923076923077,0.7211538461538461,53.84615384615385,1.6666666666666667,be go believe fall think lower put stop say have be
+Clare,Terry,1.201923076923077,0.7211538461538461,53.84615384615385,1.6666666666666667,be go believe fall think lower put stop say have be
+Terry,Clare,1.201923076923077,0.7211538461538461,53.84615384615385,1.6666666666666667,be go believe fall think lower put stop say have be
+Terry,Clare,1.201923076923077,0.7211538461538461,53.84615384615385,1.6666666666666667,be go believe fall think lower put stop say have be
+Clare,Nico,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Clare,Terry,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Clare,Nico,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Clare,Terry,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Nico,Clare,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Nico,Terry,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Nico,Clare,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Clare,Terry,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Terry,Clare,0.7352941176470588,0.24509803921568626,51.9607843137255,3.0,be want sleep get involve be go believe be do put
+Clare,Terry,0.0,0.0,56.25,INF,be play arrive

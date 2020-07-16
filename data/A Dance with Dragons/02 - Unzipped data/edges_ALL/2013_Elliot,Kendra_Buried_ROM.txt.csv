@@ -1,0 +1,1850 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Lacey,Michael,0.0,0.0,58.333333333333336,INF,be meet lie
+Lacey,Michael,0.0,0.0,60.0,INF,pick get tell
+Michael,Ruxton,3.125,0.0,34.375,INF,badge read
+Ruxton,Michael,8.75,6.25,55.00000000000001,1.4,look
+Lacey,Ruxton,5.357142857142857,0.0,51.78571428571429,INF,flash
+Ruxton,Michael,0.78125,0.0,67.96875,INF,blink look appear
+Ruxton,Michael,0.78125,0.0,67.96875,INF,blink look appear
+Ruxton,Michael,0.0,0.8928571428571428,49.107142857142854,0.0,thrust
+Ruxton,Michael,0.0,0.8928571428571428,49.107142857142854,0.0,thrust
+Lacey,Ruxton,0.0,0.0,50.0,INF,wink push
+Lacey,Michael,0.0,0.0,50.0,INF,wink push
+Ruxton,Michael,0.0,0.0,50.0,INF,wink push
+Lacey,Michael,0.0,0.0,50.0,INF,ask
+Michael,Queenie,5.263157894736842,3.289473684210526,44.07894736842105,1.6,shake avoid bury
+Michael,Queenie,5.263157894736842,3.289473684210526,44.07894736842105,1.6,shake avoid bury
+Michael,Queenie,5.263157894736842,3.289473684210526,44.07894736842105,1.6,shake avoid bury
+Michael,Dr. Peres,3.571428571428571,0.35714285714285715,56.07142857142857,10.0,have hit be supervise
+Sherrine,Michael,2.5,0.0,67.5,INF,have nod drive leave
+Michael,Sherrine,8.59375,1.5625,46.09375,5.5,wonder have go
+Michael,Queenie,4.166666666666666,0.0,49.166666666666664,INF,pat wait find
+Lacey,Queenie,0.0,5.208333333333334,36.45833333333333,0.0,take
+Queenie,Lacey,0.0,5.208333333333334,36.45833333333333,0.0,take
+Sherrine,Lacey,0.8928571428571428,1.7857142857142856,25.892857142857146,0.5,mutter
+Lacey,Dr. Peres,1.3888888888888888,2.7777777777777777,51.388888888888886,0.5,jump
+Victoria Peres,Michael,1.0416666666666665,0.0,73.95833333333334,INF,glare do say
+Lacey,Michael,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,have intervene distract give
+Michael,Sherrine,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,taste
+Michael,Sherrine,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,taste
+Michael,Sherrine,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,taste
+Michael,Sherrine,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,taste
+Michael,Dr. Peres,5.0,3.125,41.875,1.6,state be
+Lacey,Michael,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,follow
+Michael,Sherrine,0.0,0.0,16.666666666666664,INF,stretch
+Michael,Mason,2.717391304347826,0.0,53.80434782608695,INF,spin turn find
+Michael,Mason,2.7777777777777777,0.0,47.22222222222222,INF,glance look
+Michael,Ray,2.7777777777777777,0.0,47.22222222222222,INF,glance look
+Mason,Michael,2.7777777777777777,0.0,47.22222222222222,INF,glance look
+Mason,Ray,2.7777777777777777,0.0,47.22222222222222,INF,glance look
+Michael,Ray,2.7777777777777777,0.0,47.22222222222222,INF,glance look
+Ray,Michael,9.166666666666666,3.3333333333333335,54.166666666666664,2.75,flash twinkle
+Ray,Michael,9.166666666666666,3.3333333333333335,54.166666666666664,2.75,flash twinkle
+Ray,Michael,9.166666666666666,3.3333333333333335,54.166666666666664,2.75,flash twinkle
+Mason,Michael,8.333333333333332,12.5,45.83333333333333,0.6666666666666666,glitter
+Michael,Ray,9.375,0.0,40.625,INF,wonder match
+Ray,Michael,9.375,0.0,40.625,INF,wonder match
+Ray,Michael,9.375,0.0,40.625,INF,wonder match
+Michael,Lacey,2.631578947368421,2.631578947368421,68.42105263157895,1.0,cross have be stalk
+Mason,Michael,1.5625,0.0,73.4375,INF,know be
+Mason,Michael,5.729166666666666,2.083333333333333,58.854166666666664,2.75,believe be miss have be find
+Mason,Michael,5.729166666666666,2.083333333333333,58.854166666666664,2.75,believe be miss have be find
+Mason,Michael,5.729166666666666,2.083333333333333,58.854166666666664,2.75,believe be miss have be find
+Mason,Michael,5.729166666666666,2.083333333333333,58.854166666666664,2.75,believe be miss have be find
+Chris,Cascade Mountain Range,0.0,2.840909090909091,56.25,0.0,walk
+Ray,Michael,0.0,0.0,50.0,INF,beep step answer
+Michael,Mason,0.0,1.5625,54.6875,0.0,hold gaze see soften
+Michael,Mason,0.0,0.0,60.0,INF,look
+Michael,Cecilia,5.5,2.0,40.5,2.75,have look have come die
+Cecilia,Maxwell Brody,4.779411764705882,1.1029411764705883,58.82352941176471,4.333333333333333,have refuse give be elect have fly
+Cecilia,Maxwell Brody,4.779411764705882,1.1029411764705883,58.82352941176471,4.333333333333333,have refuse give be elect have fly
+Cecilia,Maxwell Brody,4.779411764705882,1.1029411764705883,58.82352941176471,4.333333333333333,have refuse give be elect have fly
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Cecilia,Michael,4.054054054054054,0.33783783783783783,60.47297297297297,12.0,spend have feel step stand
+Mason,Ray,2.5,0.0,37.5,INF,have run
+Michael,Daniel,1.9230769230769231,5.769230769230769,69.23076923076923,0.3333333333333333,be drop
+Daniel,Michael,1.25,3.125,55.625,0.4,have be vanish
+Daniel,Michael,1.25,3.125,55.625,0.4,have be vanish
+Michael,Phillip,2.142857142857143,2.142857142857143,52.85714285714286,1.0,have walk have rage hold
+Michael,Phillip,2.142857142857143,2.142857142857143,52.85714285714286,1.0,have walk have rage hold
+Michael,Phillip,2.142857142857143,2.142857142857143,52.85714285714286,1.0,have walk have rage hold
+Phillip,Michael,2.142857142857143,2.142857142857143,52.85714285714286,1.0,have walk have rage hold
+Phil,Daniel,5.113636363636364,4.545454545454546,53.97727272727273,1.125,have become be speak keep
+Phil,Daniel,5.113636363636364,4.545454545454546,53.97727272727273,1.125,have become be speak keep
+Phillip,Daniel,1.5,2.0,52.5,0.75,place draft use push
+Phillip,Daniel,1.5,2.0,52.5,0.75,place draft use push
+Mason,Michael,2.8846153846153846,2.8846153846153846,55.769230769230774,1.0,do
+Mason,Dr. Brody,3.75,0.0,56.25,INF,nod
+Mason,Oregon State Police,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be like talk
+Mason,Michael,3.125,1.0416666666666665,58.333333333333336,3.0,start return think set
+Mason,Michael,3.125,1.0416666666666665,58.333333333333336,3.0,start return think set
+Mason,Michael,3.125,1.0416666666666665,58.333333333333336,3.0,start return think set
+Mason,Michael,6.25,3.125,45.625,2.0,shake
+Michael,Mason,6.25,3.125,45.625,2.0,shake
+Mason,Dr. Brody,0.0,6.25,56.25,0.0,hear catch
+Michael,Mason,5.0,9.166666666666666,59.166666666666664,0.5454545454545454,nod see
+Mason,Dr. Brody,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,lift ask go
+Mason,Michael,2.5,0.0,57.49999999999999,INF,have let do
+Mason,Ray,0.9615384615384616,2.8846153846153846,73.07692307692307,0.3333333333333333,make wish be take
+Mason,Michael,3.571428571428571,0.0,67.85714285714286,INF,eye
+Mason,Ray,0.0,0.0,50.0,INF,ask download e-mail
+Mason,Ray,0.0,0.0,50.0,INF,ask download e-mail
+Mason,Michael,3.2407407407407405,2.7777777777777777,60.64814814814815,1.1666666666666667,be know be be jump pause
+Dr. Brody,Mason,6.521739130434782,1.6304347826086956,52.71739130434783,4.0,have streak know be start
+Mason,Michael,0.0,0.6944444444444444,65.97222222222221,0.0,perk accuse see
+Mason,Michael,0.0,0.6944444444444444,65.97222222222221,0.0,perk accuse see
+Mason,Michael,3.125,0.625,56.25,5.0,follow blaze
+Mason,Michael,2.34375,0.78125,65.625,3.0,stop stare
+Mason,Ray,4.017857142857143,0.8928571428571428,66.51785714285714,4.5,care be work have comment cost
+Mason,Michael,4.017857142857143,0.8928571428571428,66.51785714285714,4.5,care be work have comment cost
+Ray,Michael,4.017857142857143,0.8928571428571428,66.51785714285714,4.5,care be work have comment cost
+Ray,Mason,4.017857142857143,0.8928571428571428,66.51785714285714,4.5,care be work have comment cost
+Michael,Mason,4.017857142857143,0.8928571428571428,66.51785714285714,4.5,care be work have comment cost
+Oregon State Police,Michael,1.25,0.0,68.75,INF,have use
+Mason,Michael,1.25,0.0,58.75,INF,move leave
+Michael,Mason,0.0,0.0,40.0,INF,hold gaze
+Mason,Michael,9.375,0.0,40.625,INF,believe do
+Jamie,Michael,0.5434782608695652,0.0,51.63043478260869,INF,hang drop
+Jamie,Michael,0.5434782608695652,0.0,51.63043478260869,INF,hang drop
+Jamie,Michael,0.5434782608695652,0.0,51.63043478260869,INF,hang drop
+Michael,Coke,0.0,3.125,56.875,0.0,open take frown
+Coke,Michael,0.0,3.125,56.875,0.0,open take frown
+Jamie,Heather,0.0,0.0,55.00000000000001,INF,drive sunbathe
+Jamie,Heather,8.333333333333332,2.7777777777777777,55.55555555555556,3.0,feel
+Jamie,Heather,0.0,1.7857142857142856,69.64285714285714,0.0,do think be
+Jamie,Heather,0.0,1.7857142857142856,55.35714285714286,0.0,twitch
+Jamie,Heather,0.0,1.0416666666666665,48.95833333333333,0.0,pull
+Jamie,Heather,0.0,0.0,50.0,INF,hear
+Jamie,Heather,0.0,0.0,63.63636363636363,INF,echo hit
+Michael,Heather,1.1904761904761905,4.166666666666666,47.023809523809526,0.2857142857142857,have lose see
+Heather,Michael,1.1904761904761905,4.166666666666666,47.023809523809526,0.2857142857142857,have lose see
+Jamie,Heather,4.6875,1.5625,43.75,3.0,force pump
+Heather,Michael,7.8125,7.8125,34.375,1.0,meet
+Jamie,Heather,6.8181818181818175,3.4090909090909087,44.31818181818182,2.0,have be
+Heather,Jamie,0.0,0.0,58.333333333333336,INF,know
+Heather,Chris,3.6458333333333335,0.0,54.6875,INF,have pull isolate have return
+Heather,Chris,3.6458333333333335,0.0,54.6875,INF,have pull isolate have return
+Heather,Chris,3.6458333333333335,0.0,54.6875,INF,have pull isolate have return
+Chris,Heather,3.6458333333333335,0.0,54.6875,INF,have pull isolate have return
+Michael,Heather,3.75,1.25,25.0,3.0,wonder talk
+Heather,Michael,3.75,1.25,25.0,3.0,wonder talk
+Michael,Coke,0.625,0.625,58.75,1.0,shake reach run
+Michael,Coke,0.625,0.625,58.75,1.0,shake reach run
+Jamie,Michael,0.0,0.0,42.857142857142854,INF,brush gaze return
+Michael,Jamie,0.0,0.0,54.054054054054056,INF,pull hit call
+Michael,Jamie,0.0,0.0,54.054054054054056,INF,pull hit call
+Michael,Jamie,0.0,0.0,54.054054054054056,INF,pull hit call
+Jamie,Chris,15.277777777777779,2.7777777777777777,37.5,5.5,find
+Ghostman,Chris,1.4705882352941175,2.2058823529411766,55.14705882352941,0.6666666666666666,flit
+Ghostman,Chris,1.4705882352941175,2.2058823529411766,55.14705882352941,0.6666666666666666,flit
+Ghostman,Chris,0.0,0.9615384615384616,37.5,0.0,stand be go fail
+Ghostman,Chris,5.681818181818182,3.4090909090909087,45.45454545454545,1.6666666666666667,have haunt
+Mason,Ray,2.8846153846153846,0.0,50.96153846153846,INF,be have spend do
+David Doubler,Lacey,2.272727272727273,0.0,61.36363636363637,INF,have argue
+Mason,Ray,0.0,0.0,62.5,INF,fight look gaze
+Jake,Mason,2.717391304347826,0.5434782608695652,57.608695652173914,5.0,have be make get
+Jake,Mason,2.717391304347826,0.5434782608695652,57.608695652173914,5.0,have be make get
+Ray,Mason,1.1363636363636365,0.0,62.5,INF,ring exhale
+Mason,Ray,0.0,0.0,60.0,INF,see
+Mason,Jill,5.921052631578947,2.631578947368421,49.34210526315789,2.25,say have be talk
+Jill,Mason,5.921052631578947,2.631578947368421,49.34210526315789,2.25,say have be talk
+Jill,Mason,3.125,0.0,46.875,INF,try set talk
+Jill,Mason,3.125,0.0,46.875,INF,try set talk
+Jill,Mason,3.125,0.0,46.875,INF,try set talk
+Mason,Ray,0.8928571428571428,11.607142857142858,58.92857142857143,0.07692307692307693,tingle watch scribble
+Mason,Ray,0.8928571428571428,11.607142857142858,58.92857142857143,0.07692307692307693,tingle watch scribble
+Mason,Ray,0.8928571428571428,11.607142857142858,58.92857142857143,0.07692307692307693,tingle watch scribble
+Mason,Ray,0.8928571428571428,11.607142857142858,58.92857142857143,0.07692307692307693,tingle watch scribble
+Mason,Ray,5.46875,5.46875,39.0625,1.0,move whisper
+Mason,Ray,5.46875,5.46875,39.0625,1.0,move whisper
+Ray,Mason,5.46875,5.46875,39.0625,1.0,move whisper
+Ray,Mason,5.46875,5.46875,39.0625,1.0,move whisper
+Jamie,Jill,1.1363636363636365,1.1363636363636365,47.72727272727273,1.0,study tap sandale
+Jamie,Jill,1.1363636363636365,1.1363636363636365,47.72727272727273,1.0,study tap sandale
+Jamie,Jill,1.1363636363636365,1.1363636363636365,47.72727272727273,1.0,study tap sandale
+Jill,Michael,5.681818181818182,0.0,48.86363636363637,INF,glare lean
+Michael,Jill,5.681818181818182,0.0,48.86363636363637,INF,glare lean
+Michael,Jamie,0.8928571428571428,0.0,63.39285714285714,INF,widen draw
+Jill,Jamie,0.78125,0.0,49.21875,INF,blink catch stare jerk gaze
+Jill,Jamie,0.78125,0.0,49.21875,INF,blink catch stare jerk gaze
+Jill,Jamie,0.78125,0.0,49.21875,INF,blink catch stare jerk gaze
+Jamie,Jill,3.8461538461538463,0.0,42.30769230769231,INF,have highlight pay
+Jamie,Jill,1.5625,2.34375,46.09375,0.6666666666666666,think have buy
+Jamie,Jill,4.166666666666666,0.0,62.5,INF,stroll stop study organize
+Michael,Jill,0.0,0.0,63.63636363636363,INF,be use loom
+Michael,Jill,0.0,0.0,63.63636363636363,INF,be use loom
+Michael,Jill,0.0,0.0,60.0,INF,press lean
+Michael,Jill,0.0,0.0,60.0,INF,press lean
+Michael,Jill,0.0,0.0,60.0,INF,press lean
+Jamie,Jill,0.0,0.0,62.5,INF,be mess
+Jamie,Jill,9.090909090909092,6.8181818181818175,47.72727272727273,1.3333333333333333,be study
+Michael,Jill,4.166666666666666,2.083333333333333,35.41666666666667,2.0,soften look
+Chris,Jill,1.5625,0.0,48.4375,INF,ring
+Jill,Chris,7.352941176470589,0.0,45.588235294117645,INF,have awaken hear
+Michael,Jill,0.78125,1.5625,72.65625,0.5,tense remind spot
+Michael,Jill,0.0,0.0,66.66666666666666,INF,jump
+Chris,Jill,0.0,0.0,45.45454545454545,INF,trail
+Chris,Jill,0.0,1.7857142857142856,41.07142857142857,0.0,have see leave whisper
+Chris,Jill,0.0,1.7857142857142856,41.07142857142857,0.0,have see leave whisper
+Jamie,Jill,0.0,0.0,40.0,INF,shake
+Jamie,Jill,2.5,5.0,32.5,0.5,lift
+Jamie,Jill,2.083333333333333,0.0,47.91666666666667,INF,lick
+Jamie,Jill,0.0,0.0,47.05882352941176,INF,tell close
+Jill,Jamie,0.0,0.0,42.857142857142854,INF,be tell
+Michael,Jill,2.5,0.0,57.49999999999999,INF,stare
+Jill,Michael,16.071428571428573,0.0,41.07142857142857,INF,have
+Michael,Jill,1.25,3.75,50.0,0.3333333333333333,have be work pry be run
+Michael,Jill,1.25,3.75,50.0,0.3333333333333333,have be work pry be run
+Jill,Michael,11.25,0.0,38.75,INF,want know be
+Jill,Chris,11.25,0.0,38.75,INF,want know be
+Michael,Chris,11.25,0.0,38.75,INF,want know be
+Jill,Chris,0.4807692307692308,2.403846153846154,58.65384615384615,0.2,do want think be plan blow
+Jill,Chris,0.4807692307692308,2.403846153846154,58.65384615384615,0.2,do want think be plan blow
+Chris,Jill,0.0,0.0,57.14285714285714,INF,tell
+Jamie,Jill,7.5,0.0,42.5,INF,do know do
+Jamie,Jill,2.083333333333333,2.083333333333333,45.83333333333333,1.0,stare flush straighten
+Jamie,Jill,2.083333333333333,2.083333333333333,45.83333333333333,1.0,stare flush straighten
+Jill,Chris,0.0,2.083333333333333,47.91666666666667,0.0,feel be miss
+Chris,Jill,5.0,0.0,55.00000000000001,INF,claim be
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Michael,Jamie,0.625,0.0,64.375,INF,glance watch twist
+Jill,Jamie,0.0,0.0,50.0,INF,turn look
+Jill,Jamie,0.0,0.0,50.0,INF,turn look
+Jill,Michael,0.9615384615384616,0.0,64.42307692307693,INF,focus lose notice be step
+Jill,Michael,0.9615384615384616,0.0,64.42307692307693,INF,focus lose notice be step
+Jill,Michael,0.0,0.0,54.54545454545454,INF,whirl cross stop
+Michael,Jill,0.0,0.0,53.84615384615385,INF,know be watch turn
+Michael,Jill,0.0,0.0,53.84615384615385,INF,know be watch turn
+Jill,Michael,0.0,0.0,53.84615384615385,INF,know be watch turn
+Michael,Jill,0.0,0.0,53.84615384615385,INF,know be watch turn
+Jamie,Jill,8.928571428571429,8.928571428571429,39.285714285714285,1.0,find
+Jamie,Jill,0.0,0.0,40.0,INF,shake
+Jamie,Jill,0.0,0.9615384615384616,60.57692307692307,0.0,give let infuse gaze
+Jill,Jamie,0.0,0.9615384615384616,60.57692307692307,0.0,give let infuse gaze
+Jamie,Jill,4.545454545454546,6.8181818181818175,43.18181818181818,0.6666666666666666,be tease try make
+Jamie,Jill,4.545454545454546,6.8181818181818175,43.18181818181818,0.6666666666666666,be tease try make
+Michael,Jill,0.0,6.25,56.25,0.0,turn vanish
+Jamie,Jill,0.8928571428571428,9.821428571428571,60.71428571428571,0.09090909090909091,sit make groan
+Jedi,Jill,7.8125,0.78125,41.40625,10.0,use make
+Michael,Jedi,0.0,0.0,38.46153846153847,INF,steam do
+Michael,Mason,0.0,0.29069767441860467,55.52325581395349,0.0,gather be house
+Michael,Vicky,1.0869565217391304,1.6304347826086956,62.5,0.6666666666666666,have stand gaze lock
+Vicky,Michael,4.166666666666666,0.0,45.83333333333333,INF,glance shake
+Michael,Vicky,4.166666666666666,0.0,45.83333333333333,INF,glance shake
+Michael,Ray,0.625,0.0,59.375,INF,turn see stand gaze
+Ray,Michael,0.625,0.0,59.375,INF,turn see stand gaze
+Ray,Michael,0.625,0.0,59.375,INF,turn see stand gaze
+Ray,Michael,5.357142857142857,1.3392857142857142,64.73214285714286,4.0,believe be be be
+Michael,Lacey,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,pull give
+Lacey,Michael,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,pull give
+Lacey,Michael,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,pull give
+Michael,Lacey,5.147058823529411,5.147058823529411,54.41176470588235,1.0,wait come watch
+Michael,Lacey,5.147058823529411,5.147058823529411,54.41176470588235,1.0,wait come watch
+Michael,Ray,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,zone ask
+Michael,Ray,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,zone ask
+Ray,Michael,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,zone ask
+Michael,Lacey,1.1363636363636365,0.0,53.40909090909091,INF,be accept belong
+Lacey,Michael,1.9230769230769231,0.0,51.92307692307693,INF,gaze slide tone tan
+Lacey,Michael,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,watch step talk
+Lacey,Michael,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,watch step talk
+Lacey,Michael,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,watch step talk
+Lacey,Michael,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,watch step talk
+Ray,Michael,0.0,3.804347826086957,57.065217391304344,0.0,be know discuss
+Lacey,Ray,0.8333333333333334,0.0,52.5,INF,go watch emerge
+Lacey,Mason,0.8333333333333334,0.0,52.5,INF,go watch emerge
+Ray,Mason,0.8333333333333334,0.0,52.5,INF,go watch emerge
+Michael,Lacey,2.631578947368421,0.0,50.0,INF,feel slip wait come
+Lacey,Michael,2.631578947368421,0.0,50.0,INF,feel slip wait come
+Mason,Michael,0.0,0.0,41.66666666666667,INF,gaze go exchange
+Lacey,Michael,12.5,0.0,44.642857142857146,INF,grip
+Michael,Lacey,0.0,0.0,55.55555555555556,INF,exhale hear do
+Daniel,Lacey,5.46875,4.6875,64.84375,1.1666666666666667,hear give gasp realize be hurt
+Daniel,Lacey,5.46875,4.6875,64.84375,1.1666666666666667,hear give gasp realize be hurt
+Daniel,Lacey,5.46875,4.6875,64.84375,1.1666666666666667,hear give gasp realize be hurt
+Mason,Michael,0.0,3.75,46.25,0.0,gaze go
+Daniel,Mason,1.9230769230769231,3.8461538461538463,48.07692307692308,0.5,be say
+Michael,Lacey,4.545454545454546,0.0,40.909090909090914,INF,hold
+Lacey,Michael,0.0,0.0,57.14285714285714,INF,nod
+Michael,Lacey,6.25,5.0,48.75,1.25,feel give
+Michael,Ray,3.75,0.0,36.25,INF,meet gaze
+Michael,Mason,3.75,0.0,36.25,INF,meet gaze
+Ray,Mason,3.75,0.0,36.25,INF,meet gaze
+Ray,Mason,1.25,0.0,48.75,INF,look do blink
+Michael,Mason,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,have know be keep
+Michael,Mason,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,have know be keep
+Juan,Chris,6.25,0.0,33.75,INF,keep feel
+Juan,Chris,6.25,0.0,33.75,INF,keep feel
+Chris,Jamie,4.761904761904762,0.0,66.66666666666666,INF,figure have have make
+Chris,Jamie,4.761904761904762,0.0,66.66666666666666,INF,figure have have make
+Jamie,Chris,4.761904761904762,0.0,66.66666666666666,INF,figure have have make
+Jamie,Chris,4.761904761904762,0.0,66.66666666666666,INF,figure have have make
+Kendall,Chris,4.166666666666666,8.333333333333332,43.05555555555556,0.5,
+Chris,Kendall,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Chris,Ghostman,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Kendall,Chris,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Kendall,Ghostman,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Kendall,Chris,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Chris,Ghostman,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Ghostman,Chris,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,see leave clasp climb stink
+Ray,Jake,4.861111111111112,0.0,45.13888888888889,INF,have improve
+Ray,Mason,4.861111111111112,0.0,45.13888888888889,INF,have improve
+Jake,Mason,4.861111111111112,0.0,45.13888888888889,INF,have improve
+Ray,Mason,2.8846153846153846,2.8846153846153846,63.46153846153846,1.0,tighten know be get
+Ray,Mason,2.8846153846153846,2.8846153846153846,63.46153846153846,1.0,tighten know be get
+Ray,Mason,0.0,5.0,55.00000000000001,0.0,nod hear grind
+Ray,Mason,0.0,5.0,55.00000000000001,0.0,nod hear grind
+Mason,Dr. Brody,5.952380952380952,1.7857142857142856,58.92857142857143,3.3333333333333335,wonder have have warrant
+Ray,Mason,0.0,0.0,63.63636363636363,INF,be follow
+Michael,Chris,6.61764705882353,1.4705882352941175,38.970588235294116,4.5,make tell
+Chris,Michael,4.6875,7.03125,50.78125,0.6666666666666666,look be protect say
+Jamie,Michael,0.5681818181818182,0.0,58.52272727272727,INF,look see be hold
+Jamie,Chris,3.125,3.125,38.75,1.0,clench overwhelm see
+Jamie,Chris,3.125,3.125,38.75,1.0,clench overwhelm see
+Jamie,Michael,5.681818181818182,0.0,39.77272727272727,INF,meet gaze
+Michael,Chris,12.5,0.0,27.500000000000004,INF,find
+Michael,Chris,2.5,3.3333333333333335,54.166666666666664,0.75,appear be know avoid
+Gerald,Chris,7.954545454545454,2.272727272727273,44.31818181818182,3.5,wonder
+Daniel,Gerald,0.0,0.0,33.33333333333333,INF,argue
+Jamie,Gerald,0.0,2.232142857142857,54.91071428571429,0.0,balance pull touch stretch
+Jamie,Gerald,0.0,2.232142857142857,54.91071428571429,0.0,balance pull touch stretch
+Jamie,Gerald,0.0,2.232142857142857,54.91071428571429,0.0,balance pull touch stretch
+Jamie,Lisa,0.9615384615384616,0.0,52.88461538461539,INF,nod head
+Jamie,Lisa,2.7777777777777777,0.0,41.66666666666667,INF,ram
+Jamie,Lisa,2.7777777777777777,0.0,41.66666666666667,INF,ram
+Jamie,Lisa,2.7777777777777777,0.0,41.66666666666667,INF,ram
+Jamie,Lisa,2.7777777777777777,0.0,41.66666666666667,INF,ram
+Jamie,Lisa,0.0,4.6875,32.8125,0.0,fall wince
+Jamie,Lisa,0.0,0.0,57.14285714285714,INF,grab wrench
+Jamie,Lisa,0.0,0.0,57.14285714285714,INF,grab wrench
+Jamie,Lisa,0.0,0.0,57.14285714285714,INF,grab wrench
+Chris,Lisa,0.0,0.0,53.333333333333336,INF,move shove
+Chris,Lisa,0.0,0.0,53.333333333333336,INF,move shove
+Jamie,Lisa,6.25,6.25,37.5,1.0,shake
+Jamie,Chris,0.0,7.8125,42.1875,0.0,be hurt
+Michael,Jamie,0.0,0.0,50.0,INF,clamp shut
+Michael,Lisa,0.0,0.0,50.0,INF,clamp shut
+Jamie,Lisa,0.0,0.0,50.0,INF,clamp shut
+Chris,Michael,1.6666666666666667,1.6666666666666667,30.0,1.0,scream be
+Chris,Michael,1.6666666666666667,1.6666666666666667,30.0,1.0,scream be
+Jamie,Lisa,0.0,0.0,43.75,INF,shake try pull
+Jamie,Lisa,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,yank blur
+Jamie,Lisa,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,yank blur
+Lisa,Jamie,1.25,0.0,48.75,INF,roll lash kick
+Lisa,Jamie,1.25,0.0,48.75,INF,roll lash kick
+Lisa,Jamie,4.464285714285714,1.7857142857142856,58.03571428571429,2.5,run power stumble
+Jamie,Lisa,3.8461538461538463,0.0,34.61538461538461,INF,slip scramble
+Jamie,Lisa,0.0,0.0,52.94117647058824,INF,dive grab backhand
+Jamie,Lisa,0.0,1.7857142857142856,55.35714285714286,0.0,be keep kick kick
+Jamie,Lisa,0.0,1.7857142857142856,55.35714285714286,0.0,be keep kick kick
+Jamie,Lisa,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Jamie,Lisa,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Jamie,Lisa,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Lisa,Jamie,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Lisa,Jamie,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Jamie,Lisa,1.0416666666666665,0.0,48.95833333333333,INF,push scoot use hammer
+Jamie,Lisa,0.0,0.0,46.15384615384615,INF,clamber shoot
+Lisa,Jamie,0.0,0.0,46.15384615384615,INF,clamber shoot
+Lisa,Jamie,0.0,0.0,63.63636363636363,INF,catch see dash
+Lisa,Jamie,0.0,0.0,63.63636363636363,INF,catch see dash
+Lisa,Jamie,0.0,0.0,63.63636363636363,INF,catch see dash
+Lisa,Jamie,0.0,0.0,63.63636363636363,INF,catch see dash
+Jamie,Lisa,0.0,0.0,63.63636363636363,INF,catch see dash
+Jamie,Lisa,0.0,0.0,63.63636363636363,INF,catch see dash
+Jamie,Chris,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Jamie,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Jamie,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Jamie,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Chris,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Chris,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Chris,Lisa,0.0,0.4807692307692308,34.13461538461539,0.0,be breathe stop thrash
+Michael,Jamie,7.291666666666667,3.125,56.25,2.3333333333333335,have be think
+Jamie,Lisa,1.5625,4.6875,37.5,0.3333333333333333,have be disappoint refuse go
+Lisa,Jamie,1.5625,4.6875,37.5,0.3333333333333333,have be disappoint refuse go
+Jamie,Lisa,5.357142857142857,0.0,37.5,INF,want help deal find
+Jamie,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Jamie,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Jamie,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Lisa,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Lisa,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Lisa,Chris,5.357142857142857,0.0,37.5,INF,want help deal find
+Chris,Lisa,2.7777777777777777,0.0,52.77777777777778,INF,want smooth
+Lisa,Chris,2.7777777777777777,0.0,52.77777777777778,INF,want smooth
+Chris,Lisa,11.25,5.0,33.75,2.25,ache get know
+Jesus Christ,Daniel,5.0,2.5,72.5,2.0,be
+Daniel,Jesus Christ,1.0,3.0,56.00000000000001,0.3333333333333333,have dial be file
+Jesus Christ,Daniel,1.0,3.0,56.00000000000001,0.3333333333333333,have dial be file
+Jesus Christ,Daniel,1.0,3.0,56.00000000000001,0.3333333333333333,have dial be file
+Jesus Christ,Daniel,0.0,2.083333333333333,47.91666666666667,0.0,panic fill tighten
+Jesus Christ,Daniel,0.0,2.083333333333333,47.91666666666667,0.0,panic fill tighten
+Jamie,Michael,1.5625,0.78125,66.40625,2.0,be park pull
+Jamie,Michael,0.0,0.78125,67.96875,0.0,stand talk
+Michael,Jamie,2.5,7.5,50.0,0.3333333333333333,have run leave make catch
+Michael,Jamie,2.5,7.5,50.0,0.3333333333333333,have run leave make catch
+Jamie,Michael,8.088235294117647,7.352941176470589,55.14705882352941,1.1,blow realize be bandage
+Jamie,Michael,8.088235294117647,7.352941176470589,55.14705882352941,1.1,blow realize be bandage
+Jamie,Michael,2.380952380952381,1.7857142857142856,62.5,1.3333333333333333,be fold
+Jamie,Michael,2.380952380952381,1.7857142857142856,62.5,1.3333333333333333,be fold
+Jamie,Michael,2.380952380952381,1.7857142857142856,62.5,1.3333333333333333,be fold
+Jamie,Michael,3.4722222222222223,2.7777777777777777,43.75,1.25,raise want kick pressure
+Jamie,Michael,3.4722222222222223,2.7777777777777777,43.75,1.25,raise want kick pressure
+Jamie,Michael,3.4722222222222223,2.7777777777777777,43.75,1.25,raise want kick pressure
+Michael,Byers,3.125,0.0,34.375,INF,read
+Jesus Christ,Michael,0.0,4.464285714285714,45.535714285714285,0.0,mutter bounce
+Michael,Byers,0.9615384615384616,1.9230769230769231,35.57692307692308,0.5,snort ask like
+Jamie,Michael,1.25,6.25,32.5,0.2,discover
+Jamie,Michael,1.25,6.25,32.5,0.2,discover
+Jamie,Michael,0.0,6.61764705882353,40.44117647058824,0.0,leave pace relax
+Jamie,Michael,0.0,0.0,40.0,INF,shake
+Michael,Jamie,0.0,0.0,46.15384615384615,INF,clutch face
+Jamie,Michael,0.0,0.0,46.15384615384615,INF,clutch face
+Jamie,Michael,0.0,0.0,46.15384615384615,INF,clutch face
+Chris,Michael,0.0,4.166666666666666,42.5,0.0,be be hurt
+Chris,Michael,0.0,4.166666666666666,42.5,0.0,be be hurt
+Michael,Chris,0.0,4.166666666666666,42.5,0.0,be be hurt
+Michael,Chris,0.0,4.166666666666666,42.5,0.0,be be hurt
+Daniel,Byers,0.0,0.0,40.0,INF,turn
+Byers,Jamie,5.357142857142857,0.0,37.5,INF,glance
+Byers,Michael,0.0,0.0,66.66666666666666,INF,step
+Michael,Jamie,0.0,0.0,40.0,INF,include
+Michael,Byers,0.0,0.0,50.0,INF,challenge stare
+Jamie,Michael,0.0,0.0,62.5,INF,rub
+Jamie,Michael,0.0,0.0,62.5,INF,rub
+Jesus Christ,Michael,0.0,0.0,42.857142857142854,INF,say
+Jamie,Michael,4.605263157894736,5.921052631578947,52.63157894736842,0.7777777777777778,blow close concentrate make relax
+Jamie,Michael,4.605263157894736,5.921052631578947,52.63157894736842,0.7777777777777778,blow close concentrate make relax
+Jamie,Michael,2.083333333333333,0.0,56.25,INF,gaze touch
+Jamie,Michael,2.083333333333333,0.0,56.25,INF,gaze touch
+Jamie,Byers,0.0,0.0,50.0,INF,gesture come
+Jamie,Michael,3.6764705882352944,0.0,49.26470588235294,INF,have be have speak
+Jamie,Michael,3.6764705882352944,0.0,49.26470588235294,INF,have be have speak
+Jamie,Michael,1.3888888888888888,0.0,43.05555555555556,INF,review
+Gerald,Coke,0.0,2.717391304347826,58.152173913043484,0.0,sit suck take
+Gerald,Coke,0.0,2.717391304347826,58.152173913043484,0.0,sit suck take
+Coke,Gerald,0.0,2.717391304347826,58.152173913043484,0.0,sit suck take
+Jesus Christ,Michael,0.0,10.714285714285714,32.142857142857146,0.0,fight
+Jamie,Michael,2.34375,1.5625,46.09375,1.5,have surprise return
+Jamie,Michael,2.34375,1.5625,46.09375,1.5,have surprise return
+Jamie,Michael,2.34375,1.5625,46.09375,1.5,have surprise return
+Jamie,Michael,2.34375,1.5625,46.09375,1.5,have surprise return
+Jamie,Chris,5.681818181818182,0.0,48.86363636363637,INF,do know be
+Bruce,Gerald,7.291666666666667,4.166666666666666,46.875,1.75,have be taunt
+Bruce,Gerald,7.291666666666667,4.166666666666666,46.875,1.75,have be taunt
+Gerald,Bruce,0.0,0.0,47.61904761904761,INF,drop grab swing
+Gerald,Bruce,0.0,0.0,47.61904761904761,INF,drop grab swing
+Sandra,Lee,3.515625,0.390625,46.09375,9.0,do have have touch have be
+Sandra,Lee,3.515625,0.390625,46.09375,9.0,do have have touch have be
+Lee,Sandra,3.571428571428571,1.1904761904761905,57.14285714285714,3.0,have be have finish strangle be admit
+Sandra,Lee,3.571428571428571,1.1904761904761905,57.14285714285714,3.0,have be have finish strangle be admit
+Gerald,Sandra,4.166666666666666,1.7857142857142856,55.952380952380956,2.3333333333333335,have go say be
+Chris,Gerald,1.7857142857142856,4.166666666666666,55.952380952380956,0.42857142857142855,relax
+Michael,Jamie,1.4705882352941175,5.88235294117647,51.470588235294116,0.25,be show
+Michael,Jamie,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,do sit
+Michael,Jamie,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,do sit
+Mason,Michael,1.1904761904761905,6.547619047619048,58.92857142857143,0.18181818181818182,want know hold
+Mason,Michael,1.1904761904761905,6.547619047619048,58.92857142857143,0.18181818181818182,want know hold
+Mason,Michael,1.1904761904761905,6.547619047619048,58.92857142857143,0.18181818181818182,want know hold
+Mason,Michael,1.1904761904761905,6.547619047619048,58.92857142857143,0.18181818181818182,want know hold
+Michael,Jamie,1.5625,3.125,39.0625,0.5,lean twist catch
+Michael,Jamie,1.5625,3.125,39.0625,0.5,lean twist catch
+Chris,Mason,0.0,0.0,45.45454545454545,INF,owe quip
+Chris,Mason,0.0,0.0,45.45454545454545,INF,owe quip
+Jesus Christ,Michael,0.0,0.0,25.0,INF,
+Mason,Michael,0.0,2.8846153846153846,50.96153846153846,0.0,make pull
+Mason,Michael,0.0,2.8846153846153846,50.96153846153846,0.0,make pull
+Michael,Mason,0.0,5.0,55.00000000000001,0.0,say stop catch
+Mason,Michael,0.0,0.0,40.0,INF,clear
+Michael,Jamie,0.0,0.0,50.0,INF,stride sit
+Mason,Michael,0.0,0.0,33.33333333333333,INF,be say
+Mason,Lacey,1.6304347826086956,3.260869565217391,51.63043478260869,0.5,have be be
+Mason,Ray,0.6944444444444444,0.0,49.30555555555556,INF,catch gaze nod agree
+Mason,Ray,0.6944444444444444,0.0,49.30555555555556,INF,catch gaze nod agree
+Ray,Mason,1.25,4.375,54.37499999999999,0.2857142857142857,piss know have
+Mason,Michael,0.9615384615384616,2.8846153846153846,65.38461538461539,0.3333333333333333,raise
+Jamie,Michael,4.166666666666666,0.0,54.166666666666664,INF,stare nod
+Ray,Jamie,8.653846153846153,0.0,45.19230769230769,INF,lead
+Mason,Michael,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,interrupt direct
+Michael,Mason,8.75,2.5,58.75,3.5,say look
+Michael,Mason,7.03125,1.5625,53.90625,4.5,look ask
+Mason,Michael,7.03125,1.5625,53.90625,4.5,look ask
+Mason,Jamie,0.0,0.0,43.75,INF,move
+Mason,Ray,0.0,0.0,72.72727272727273,INF,shake speak
+Mason,Ray,0.0,0.0,72.72727272727273,INF,shake speak
+Mason,Michael,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,agree know jump
+Michael,Mason,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,agree know jump
+Mason,Michael,1.25,3.75,65.0,0.3333333333333333,speak see flinch
+Mason,Michael,1.25,3.75,65.0,0.3333333333333333,speak see flinch
+Mason,Michael,0.0,0.0,20.0,INF,turn
+Jamie,Michael,0.0,0.0,50.0,INF,be drive
+Jamie,Demming,0.0,0.0,50.0,INF,be drive
+Michael,Demming,0.0,0.0,50.0,INF,be drive
+Jamie,Mason,2.5,0.0,57.49999999999999,INF,have offer take turn
+Jamie,Mason,2.5,0.0,57.49999999999999,INF,have offer take turn
+Michael,Mason,1.9736842105263157,3.9473684210526314,46.71052631578947,0.5,be range hear
+Mason,Michael,0.5952380952380952,1.1904761904761905,45.83333333333333,0.5,relax let drive take study
+Mason,Michael,0.5952380952380952,1.1904761904761905,45.83333333333333,0.5,relax let drive take study
+Jamie,Daniel,4.545454545454546,11.363636363636363,56.81818181818182,0.4,have be disappear
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Daniel,Michael,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Daniel,Michael,3.25,0.75,60.0,4.333333333333333,have divide think connect understand ricochet bounce
+Michael,Daniel,5.681818181818182,4.545454545454546,48.86363636363637,1.25,look be have mesh keep
+Chris,Michael,0.0,2.7777777777777777,56.481481481481474,0.0,figure be go be go take be
+Spencer,Michael,1.0416666666666665,2.083333333333333,38.54166666666667,0.5,be look answer
+Sara,Michael,0.625,0.0,44.375,INF,gaze take tell like see
+Sara,Jamie,0.625,0.0,44.375,INF,gaze take tell like see
+Michael,Jamie,0.625,0.0,44.375,INF,gaze take tell like see
+Michael,Sara,0.625,0.0,44.375,INF,gaze take tell like see
+Michael,Sara,0.625,0.0,44.375,INF,gaze take tell like see
+Jamie,Sara,0.625,0.0,44.375,INF,gaze take tell like see
+Jamie,Sara,0.625,0.0,44.375,INF,gaze take tell like see
+Sara,Jamie,3.8461538461538463,8.653846153846153,56.730769230769226,0.4444444444444444,be
+Sara,Jamie,2.5,3.125,59.375,0.8,focus remind
+Sara,Jamie,2.5,3.125,59.375,0.8,focus remind
+Sara,Jamie,0.5,0.5,47.0,1.0,pin know pick
+Sara,Jamie,0.5,0.5,47.0,1.0,pin know pick
+Sara,Jamie,0.5,0.5,47.0,1.0,pin know pick
+Sara,Jamie,0.5,0.5,47.0,1.0,pin know pick
+Jamie,Sara,0.5,0.5,47.0,1.0,pin know pick
+Jamie,Sara,0.5,0.5,47.0,1.0,pin know pick
+Jamie,Sara,0.5,0.5,47.0,1.0,pin know pick
+Jamie,Sara,0.5,0.5,47.0,1.0,pin know pick
+Michael,Sara,2.941176470588235,0.0,50.0,INF,thank steer
+Michael,Jamie,2.941176470588235,0.0,50.0,INF,thank steer
+Michael,Jamie,2.941176470588235,0.0,50.0,INF,thank steer
+Michael,Sara,2.941176470588235,0.0,50.0,INF,thank steer
+Sara,Jamie,2.941176470588235,0.0,50.0,INF,thank steer
+Sara,Jamie,2.941176470588235,0.0,50.0,INF,thank steer
+Jamie,Sara,2.941176470588235,0.0,50.0,INF,thank steer
+Jamie,Sara,2.941176470588235,0.0,50.0,INF,thank steer
+Jamie,Sara,1.3888888888888888,2.7777777777777777,62.5,0.5,agree feel rumble
+Michael,Sara,11.538461538461538,0.0,42.30769230769231,INF,move hold
+Michael,Sara,11.538461538461538,0.0,42.30769230769231,INF,move hold
+Michael,Sara,11.538461538461538,0.0,42.30769230769231,INF,move hold
+Michael,Sara,11.538461538461538,0.0,42.30769230769231,INF,move hold
+Sara,Michael,1.0416666666666665,0.5208333333333333,65.10416666666666,2.0,give gaze be focus lounge
+Sara,Michael,1.0416666666666665,0.5208333333333333,65.10416666666666,2.0,give gaze be focus lounge
+Jamie,Michael,4.166666666666666,0.0,45.83333333333333,INF,spot grin offer greet
+Janet,Michael,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,stick
+Janet,Simon,0.0,0.0,57.14285714285714,INF,come
+Janet,Simon,0.0,0.0,57.14285714285714,INF,come
+Jamie,Janet,2.5,5.0,32.5,0.5,lift
+Janet,Simon,3.3333333333333335,1.6666666666666667,68.33333333333333,2.0,lift speak scan
+Janet,Simon,3.3333333333333335,1.6666666666666667,68.33333333333333,2.0,lift speak scan
+Jamie,Janet,0.0,0.0,40.0,INF,swallow
+Michael,Jamie,1.5625,0.0,48.4375,INF,meet gaze
+Michael,Jamie,4.166666666666666,0.0,54.166666666666664,INF,stare exchange
+Jamie,Janet,0.9615384615384616,2.8846153846153846,65.38461538461539,0.3333333333333333,swear see flare be scent
+Janet,Jamie,0.9615384615384616,2.8846153846153846,65.38461538461539,0.3333333333333333,swear see flare be scent
+Janet,Jamie,0.9615384615384616,2.8846153846153846,65.38461538461539,0.3333333333333333,swear see flare be scent
+Chris,Juan,0.0,0.0,55.55555555555556,INF,talk
+Michael,Janet,4.807692307692308,0.0,56.730769230769226,INF,have read happen figure want hear have say
+Janet,Michael,4.807692307692308,0.0,56.730769230769226,INF,have read happen figure want hear have say
+Michael,Jamie,0.0,0.0,54.54545454545454,INF,wait continue
+Jamie,Janet,2.8846153846153846,0.0,50.96153846153846,INF,see start open close
+Jamie,Janet,2.8846153846153846,0.0,50.96153846153846,INF,see start open close
+Jamie,Janet,0.0,0.0,40.0,INF,grab
+Jamie,Michael,4.807692307692308,0.0,41.34615384615385,INF,power-walk grab
+Jamie,Janet,4.807692307692308,0.0,41.34615384615385,INF,power-walk grab
+Michael,Janet,4.807692307692308,0.0,41.34615384615385,INF,power-walk grab
+Michael,Janet,0.9615384615384616,0.0,52.88461538461539,INF,slow say pull
+Jamie,Janet,0.0,0.0,40.0,INF,shake
+Jamie,Michael,0.0,0.0,55.55555555555556,INF,stop turn look
+Jamie,Janet,0.0,0.78125,61.71875,0.0,feel start walk
+Chris,Jamie,3.289473684210526,3.9473684210526314,50.6578947368421,0.8333333333333334,do be do understand
+Janet,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,remember have see
+Janet,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,remember have see
+Janet,Jamie,1.3888888888888888,3.7037037037037033,43.05555555555556,0.375,hold look do hurt squeeze
+Janet,Jamie,1.3888888888888888,3.7037037037037033,43.05555555555556,0.375,hold look do hurt squeeze
+Janet,Jamie,3.8461538461538463,1.9230769230769231,48.07692307692308,2.0,have leave be find
+Janet,Jamie,3.8461538461538463,1.9230769230769231,48.07692307692308,2.0,have leave be find
+Janet,Jamie,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Janet,Jamie,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Janet,Jamie,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Janet,Chris,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Jamie,Chris,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Jamie,Chris,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Jamie,Chris,1.7241379310344827,0.43103448275862066,56.46551724137932,4.0,have drive see promise be come
+Chris,Jamie,5.5,1.5,65.0,3.6666666666666665,look know be go be come
+Chris,Janet,5.5,1.5,65.0,3.6666666666666665,look know be go be come
+Jamie,Janet,5.5,1.5,65.0,3.6666666666666665,look know be go be come
+Janet,Chris,4.032258064516129,2.0161290322580645,45.564516129032256,2.0,lose say be do be
+Janet,Chris,4.032258064516129,2.0161290322580645,45.564516129032256,2.0,lose say be do be
+Janet,Chris,4.032258064516129,2.0161290322580645,45.564516129032256,2.0,lose say be do be
+Janet,Chris,4.032258064516129,2.0161290322580645,45.564516129032256,2.0,lose say be do be
+Chris,Janet,0.0,2.976190476190476,54.166666666666664,0.0,be talk
+Chris,Janet,0.0,2.976190476190476,54.166666666666664,0.0,be talk
+Janet,Chris,1.171875,3.125,64.453125,0.375,cry go miss lose have come
+Chris,Jamie,2.1551724137931036,3.8793103448275863,45.689655172413794,0.5555555555555556,help tug call have vanish
+Chris,Jamie,2.1551724137931036,3.8793103448275863,45.689655172413794,0.5555555555555556,help tug call have vanish
+Chris,Jamie,2.1551724137931036,3.8793103448275863,45.689655172413794,0.5555555555555556,help tug call have vanish
+Jamie,Chris,4.6875,0.0,53.645833333333336,INF,look understand do force go be
+Michael,Jamie,1.7241379310344827,0.8620689655172413,62.93103448275862,2.0,glance step linger be turn
+Michael,Jamie,0.0,0.0,50.0,INF,let walk
+Spencer,Jamie,4.545454545454546,0.0,50.0,INF,be shake introduce
+Jamie,Michael,0.0,0.0,50.0,INF,reach shake
+Michael,Jamie,1.0869565217391304,0.0,55.434782608695656,INF,order dig plop
+Michael,Jamie,0.0,0.0,65.0,INF,notice stop lay
+Michael,Jamie,0.0,0.0,60.0,INF,glance
+Michael,Chris,3.125,1.25,50.625,2.5,be do want share do speak
+Michael,Jamie,6.25,1.0416666666666665,51.041666666666664,6.0,take squeeze
+Michael,Jamie,0.9615384615384616,0.0,60.57692307692307,INF,watch move speak
+Brian,Spencer,0.78125,1.5625,47.65625,0.5,believe tell snort
+Chris,Elena,3.4722222222222223,1.3888888888888888,56.25,2.5,be say think be crash
+Schmidt,Elena,3.571428571428571,0.0,53.57142857142857,INF,check say be
+Schmidt,Michael,0.0,0.0,53.84615384615385,INF,have mess state
+Michael,Jamie,0.0,0.0,75.0,INF,do look dig
+Michael,Jamie,0.0,0.0,75.0,INF,do look dig
+Mason,Ray,3.571428571428571,4.761904761904762,58.333333333333336,0.75,be be
+Ray,Mason,3.571428571428571,4.761904761904762,58.333333333333336,0.75,be be
+Ray,Mason,3.571428571428571,4.761904761904762,58.333333333333336,0.75,be be
+Lacey,Dr. Peres,1.293103448275862,0.43103448275862066,63.793103448275865,3.0,be point
+Dr. Peres,Lacey,2.631578947368421,3.289473684210526,62.5,0.8,bristle smile put
+Dr. Peres,Mason,0.0,0.5434782608695652,51.63043478260869,0.0,bite know be frustrate do have
+Dr. Peres,Mason,0.0,0.5434782608695652,51.63043478260869,0.0,bite know be frustrate do have
+Jesus Christ,Mason,0.0,3.571428571428571,39.285714285714285,0.0,mutter
+Mason,Dr. Peres,2.6785714285714284,1.7857142857142856,38.392857142857146,1.5,answer avoid
+Dr. Peres,Mason,4.605263157894736,2.631578947368421,55.92105263157895,1.75,be get answer
+Dr. Peres,Mason,4.605263157894736,2.631578947368421,55.92105263157895,1.75,be get answer
+Michael,Jamie,2.083333333333333,2.083333333333333,34.72222222222222,1.0,remember be want be
+Michael,Jamie,2.083333333333333,2.083333333333333,34.72222222222222,1.0,remember be want be
+Michael,Jamie,2.083333333333333,2.083333333333333,34.72222222222222,1.0,remember be want be
+Michael,Chuck,0.0,3.125,71.875,0.0,lean
+Chuck,Michael,0.0,0.0,60.0,INF,pat
+Jamie,Michael,1.9230769230769231,6.730769230769231,52.88461538461539,0.2857142857142857,exhale become
+Jamie,Michael,1.9230769230769231,6.730769230769231,52.88461538461539,0.2857142857142857,exhale become
+Chuck,Michael,0.0,0.0,66.66666666666666,INF,hand
+Chuck,Michael,1.25,4.375,54.37499999999999,0.2857142857142857,close hear trudge
+Chuck,Michael,1.25,4.375,54.37499999999999,0.2857142857142857,close hear trudge
+Chuck,Michael,1.25,4.375,54.37499999999999,0.2857142857142857,close hear trudge
+Chuck,Michael,1.25,4.375,54.37499999999999,0.2857142857142857,close hear trudge
+Chris,Daniel,6.944444444444445,0.6944444444444444,47.91666666666667,10.0,talk find happen
+Michael,Lacey,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,pat check feel call get
+Michael,Lacey,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,pat check feel call get
+Michael,Lacey,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,pat check feel call get
+Lacey,Jamie,0.0,0.0,33.33333333333333,INF,tell ask feel
+Lacey,Jamie,0.0,0.0,33.33333333333333,INF,tell ask feel
+Michael,Jamie,10.0,3.75,46.25,2.6666666666666665,be keep
+Gerald,Jamie,0.7352941176470588,0.0,66.91176470588235,INF,have pack fill park
+Gerald,Jamie,0.7352941176470588,0.0,66.91176470588235,INF,have pack fill park
+Gerald,Jamie,0.7352941176470588,0.0,66.91176470588235,INF,have pack fill park
+Gerald,Lee,1.3157894736842104,0.0,61.8421052631579,INF,read wait update
+Lee,Gerald,1.3157894736842104,0.0,61.8421052631579,INF,read wait update
+Lee,Gerald,1.3157894736842104,0.0,61.8421052631579,INF,read wait update
+Lee,Gerald,1.3157894736842104,0.0,61.8421052631579,INF,read wait update
+Gerald,Jamie,0.0,1.4705882352941175,69.11764705882352,0.0,be be go
+Michael,Jamie,1.0,1.5,49.5,0.6666666666666666,accord have pull
+Michael,Gerald,1.0,1.5,49.5,0.6666666666666666,accord have pull
+Jamie,Gerald,1.0,1.5,49.5,0.6666666666666666,accord have pull
+Gerald,Jamie,0.0,0.0,54.54545454545454,INF,park emerge carry
+Michael,Jamie,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be go
+Gerald,Jamie,0.5208333333333333,2.083333333333333,55.729166666666664,0.25,stop fill keep
+Gerald,Michael,0.5208333333333333,2.083333333333333,55.729166666666664,0.25,stop fill keep
+Jamie,Michael,0.5208333333333333,2.083333333333333,55.729166666666664,0.25,stop fill keep
+Juan,Chris,4.6875,2.34375,42.96875,2.0,be talk
+Gerald,Chris,0.0,4.166666666666666,55.833333333333336,0.0,picture end rush
+Gerald,Chris,0.0,4.166666666666666,55.833333333333336,0.0,picture end rush
+Chris,Gerald,2.5,4.5,45.0,0.5555555555555556,imagine fight
+Chris,Gerald,2.5,4.5,45.0,0.5555555555555556,imagine fight
+Gerald,Chris,2.5,4.5,45.0,0.5555555555555556,imagine fight
+Gerald,Chris,2.5,4.5,45.0,0.5555555555555556,imagine fight
+Gerald,Chris,2.5,4.5,45.0,0.5555555555555556,imagine fight
+Chris,Gerald,0.0,0.0,50.0,INF,see
+Chris,Gerald,0.0,0.0,50.0,INF,see
+Jamie,Chris,0.0,0.0,66.66666666666666,INF,remember see
+Jamie,Chris,0.0,0.0,66.66666666666666,INF,remember see
+Chris,Jamie,12.5,3.8461538461538463,52.88461538461539,3.25,stare
+Chris,Jamie,12.5,3.8461538461538463,52.88461538461539,3.25,stare
+Juan,Chris,2.5,2.5,35.0,1.0,blur
+Ghostman,Chris,1.7241379310344827,0.8620689655172413,59.48275862068966,2.0,watch eat clean be make put
+Ghostman,Chris,3.0172413793103448,0.0,45.258620689655174,INF,want hold find hurl
+Chris,Ghostman,4.6875,3.6458333333333335,50.0,1.2857142857142858,have know say
+Chris,Ghostman,4.6875,3.6458333333333335,50.0,1.2857142857142858,have know say
+Chris,Ghostman,4.6875,3.6458333333333335,50.0,1.2857142857142858,have know say
+Ghostman,Chris,4.166666666666666,0.0,29.166666666666668,INF,have find
+Chris,Ghostman,5.921052631578947,0.6578947368421052,30.263157894736842,9.0,tell make come
+Chris,Ghostman,5.921052631578947,0.6578947368421052,30.263157894736842,9.0,tell make come
+Ghostman,Chris,5.921052631578947,0.6578947368421052,30.263157894736842,9.0,tell make come
+Chris,Ghostman,2.34375,0.78125,53.125,3.0,know be have safeguard
+Ghostman,Chris,2.34375,0.78125,53.125,3.0,know be have safeguard
+Chris,Brian,4.411764705882353,1.4705882352941175,52.94117647058824,3.0,gaze think play
+Chris,Juan,4.411764705882353,1.4705882352941175,52.94117647058824,3.0,gaze think play
+Brian,Juan,4.411764705882353,1.4705882352941175,52.94117647058824,3.0,gaze think play
+Gerald,Michael,0.0,0.0,59.09090909090909,INF,keep eat
+Gerald,Jamie,0.0,0.0,59.09090909090909,INF,keep eat
+Michael,Jamie,0.0,0.0,59.09090909090909,INF,keep eat
+Gerald,Chris,0.0,0.0,65.0,INF,figure be be come
+Gerald,Chris,0.0,0.0,65.0,INF,figure be be come
+Ghostman,Chris,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,see have pack
+Ghostman,Brian,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,see have pack
+Chris,Brian,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,see have pack
+Chris,Juan,1.5625,0.0,48.4375,INF,do say
+Chris,Brian,3.0,2.5,54.50000000000001,1.2,read know run stop think be
+Chris,Brian,3.0,2.5,54.50000000000001,1.2,read know run stop think be
+Chris,Brian,4.545454545454546,1.7045454545454544,57.38636363636363,2.6666666666666665,have make know want go
+Brian,Chris,4.545454545454546,1.7045454545454544,57.38636363636363,2.6666666666666665,have make know want go
+Brian,Chris,4.545454545454546,1.7045454545454544,57.38636363636363,2.6666666666666665,have make know want go
+Chris,Brian,0.0,0.0,28.57142857142857,INF,
+Elena,Chris,2.7777777777777777,0.0,52.77777777777778,INF,have show
+Elena,Chris,2.272727272727273,1.1363636363636365,69.31818181818183,2.0,have leave
+Chris,Elena,6.25,1.5625,48.4375,4.0,fall
+Elena,Chris,6.25,1.5625,48.4375,4.0,fall
+Elena,Chris,0.0,0.0,60.0,INF,see be
+Elena,Chris,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,calm bring
+Elena,Chris,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,calm bring
+Chris,Elena,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,calm bring
+Elena,Chris,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,calm bring
+Brian,Elena,0.0,2.7777777777777777,52.77777777777778,0.0,be
+Brian,Elena,5.357142857142857,0.0,51.78571428571429,INF,have happen die
+Chris,Elena,4.0,4.0,56.00000000000001,1.0,do believe have harm know be upset
+Chris,Elena,4.0,4.0,56.00000000000001,1.0,do believe have harm know be upset
+Chris,Elena,4.0,4.0,56.00000000000001,1.0,do believe have harm know be upset
+Chris,Elena,3.6764705882352944,0.0,55.14705882352941,INF,have make hang want focus drive
+Chris,Elena,3.6764705882352944,0.0,55.14705882352941,INF,have make hang want focus drive
+Elena,Chris,3.6764705882352944,0.0,55.14705882352941,INF,have make hang want focus drive
+Chris,Elena,3.6764705882352944,0.0,55.14705882352941,INF,have make hang want focus drive
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Elena,Chris,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,1.6129032258064515,3.6290322580645165,52.82258064516129,0.4444444444444444,suspect have be see be drive follow run
+Chris,Elena,0.0,0.0,61.111111111111114,INF,know be be go
+Chris,Elena,5.0,8.0,47.0,0.625,be tamper suspect have be
+Chris,Elena,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,hope live
+Chris,Elena,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,hope live
+Elena,Chris,2.941176470588235,2.2058823529411766,41.911764705882355,1.3333333333333333,hope live
+Chris,Elena,0.0,7.8125,42.1875,0.0,hear
+Chris,Brian,0.5681818181818182,0.5681818181818182,44.31818181818182,1.0,do bother reject do
+Brian,Elena,2.7777777777777777,4.861111111111112,50.69444444444444,0.5714285714285714,want associate drive wreck need know have extend care
+Brian,Elena,2.7777777777777777,4.861111111111112,50.69444444444444,0.5714285714285714,want associate drive wreck need know have extend care
+Brian,Elena,2.7777777777777777,4.861111111111112,50.69444444444444,0.5714285714285714,want associate drive wreck need know have extend care
+Brian,Elena,2.7777777777777777,4.861111111111112,50.69444444444444,0.5714285714285714,want associate drive wreck need know have extend care
+Chris,Jamie,6.25,0.0,18.75,INF,have
+Jamie,Elena,5.833333333333333,0.8333333333333334,46.666666666666664,7.0,force keep
+Jamie,Elena,5.833333333333333,0.8333333333333334,46.666666666666664,7.0,force keep
+Jamie,Brian,0.0,0.0,55.55555555555556,INF,glance
+Brian,Jamie,0.0,0.0,55.55555555555556,INF,glance
+Brian,Jamie,4.464285714285714,1.7857142857142856,43.75,2.5,keep cut
+Brian,Jamie,4.464285714285714,1.7857142857142856,43.75,2.5,keep cut
+Elena,Jamie,2.0,4.0,38.0,0.5,know force be
+Jamie,Elena,2.0,4.0,38.0,0.5,know force be
+Chris,Brian,4.326923076923077,1.9230769230769231,51.442307692307686,2.25,shift eye make cross
+Jamie,David Doubler,4.2682926829268295,1.8292682926829267,52.4390243902439,2.3333333333333335,have be ask talk have be release be kidnap
+Jamie,David Doubler,4.2682926829268295,1.8292682926829267,52.4390243902439,2.3333333333333335,have be ask talk have be release be kidnap
+Jamie,David Doubler,4.2682926829268295,1.8292682926829267,52.4390243902439,2.3333333333333335,have be ask talk have be release be kidnap
+David Sr.,Chris,3.125,1.5625,45.3125,2.0,be go
+Jamie,Ghostman,7.291666666666667,0.0,34.375,INF,do know have do
+Jamie,Daniel,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,clench
+Ghostman,Daniel,2.7777777777777777,0.0,30.555555555555557,INF,have find
+Ghostman,Demming,2.7777777777777777,0.0,30.555555555555557,INF,have find
+Daniel,Demming,2.7777777777777777,0.0,30.555555555555557,INF,have find
+Daniel,Jamie,6.25,5.0,48.75,1.25,have give
+Jamie,Daniel,6.25,5.0,48.75,1.25,have give
+Daniel,Jamie,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,change change have call tell have be find
+Daniel,Jamie,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,change change have call tell have be find
+Daniel,Jamie,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,change change have call tell have be find
+Daniel,Jamie,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,change change have call tell have be find
+Ghostman,Daniel,2.7777777777777777,0.0,19.444444444444446,INF,get
+Ghostman,Chris,0.0,0.0,33.33333333333333,INF,have trace
+Ghostman,Jamie,0.0,0.0,33.33333333333333,INF,have trace
+Chris,Jamie,0.0,0.0,33.33333333333333,INF,have trace
+Daniel,Jamie,7.352941176470589,0.0,39.705882352941174,INF,make start want find
+Jamie,Daniel,4.310344827586207,3.0172413793103448,44.396551724137936,1.4285714285714286,make know hope be keep decide look
+Jamie,Daniel,4.310344827586207,3.0172413793103448,44.396551724137936,1.4285714285714286,make know hope be keep decide look
+Jamie,Daniel,4.310344827586207,3.0172413793103448,44.396551724137936,1.4285714285714286,make know hope be keep decide look
+Daniel,Jamie,4.310344827586207,3.0172413793103448,44.396551724137936,1.4285714285714286,make know hope be keep decide look
+Jamie,Daniel,1.9230769230769231,7.6923076923076925,44.230769230769226,0.25,leave know be
+Jamie,Daniel,5.769230769230769,0.9615384615384616,39.42307692307692,6.0,have see have be touch
+Jamie,Daniel,0.0,0.0,63.63636363636363,INF,keep try
+Jamie,Daniel,1.3888888888888888,3.4722222222222223,56.25,0.4,have say scare be
+Jamie,Daniel,1.3888888888888888,3.4722222222222223,56.25,0.4,have say scare be
+Jamie,Daniel,0.0,0.0,28.57142857142857,INF,be
+Jamie,Chris,1.0714285714285714,2.5,59.285714285714285,0.42857142857142855,ask find have ask drive
+Jamie,Chris,1.0714285714285714,2.5,59.285714285714285,0.42857142857142855,ask find have ask drive
+Jamie,Chris,1.0714285714285714,2.5,59.285714285714285,0.42857142857142855,ask find have ask drive
+Chris,Jamie,0.0,0.0,72.72727272727273,INF,say be
+Gerald,Juan,3.289473684210526,0.6578947368421052,64.47368421052632,5.0,make letter state be feel
+Juan,Chris,4.166666666666666,1.0416666666666665,36.45833333333333,4.0,be know
+Gerald,Chris,0.9615384615384616,0.0,52.88461538461539,INF,doubt share
+Gerald,Chris,6.8181818181818175,0.0,56.81818181818182,INF,be have
+Mason,Gerald,1.1363636363636365,3.4090909090909087,68.18181818181817,0.3333333333333333,have shower swear smell cling
+Mason,Gerald,1.1363636363636365,3.4090909090909087,68.18181818181817,0.3333333333333333,have shower swear smell cling
+Gerald,Dr. Peres,4.375,0.625,65.0,7.0,shift check hope have send
+Gerald,Dr. Peres,4.375,0.625,65.0,7.0,shift check hope have send
+Gerald,Dr. Peres,4.375,0.625,65.0,7.0,shift check hope have send
+Dr. Peres,Ray,4.464285714285714,0.0,59.82142857142857,INF,look find glower
+Dr. Peres,Ray,4.464285714285714,0.0,59.82142857142857,INF,look find glower
+Ray,Mason,3.571428571428571,0.8928571428571428,66.96428571428571,4.0,lose look
+Jules Thomas,Jamie,1.9230769230769231,2.403846153846154,57.21153846153846,0.8,be attack be
+Jules Thomas,Jamie,1.9230769230769231,2.403846153846154,57.21153846153846,0.8,be attack be
+Mason,Jules Thomas,0.78125,7.8125,60.15625,0.1,shift eliminate
+Jules Thomas,Mason,0.78125,7.8125,60.15625,0.1,shift eliminate
+Ray,Mason,0.0,0.0,63.63636363636363,INF,pull hand
+Mason,Jamie,0.0,0.0,50.0,INF,remember
+Mason,Ray,2.5,0.0,57.49999999999999,INF,have try locate
+Mason,Chris,2.5,0.0,57.49999999999999,INF,have try locate
+Ray,Chris,2.5,0.0,57.49999999999999,INF,have try locate
+Mason,Jamie,2.8846153846153846,0.0,50.96153846153846,INF,be wait contact
+Michael,Jamie,0.0,0.0,52.0,INF,tie lash get
+Jamie,Michael,0.0,0.0,52.0,INF,tie lash get
+Jamie,Michael,0.0,0.0,52.0,INF,tie lash get
+Jamie,Michael,0.0,0.0,52.0,INF,tie lash get
+Daniel,Mason,3.4090909090909087,0.0,60.22727272727273,INF,believe be
+Ray,Mason,0.0,0.0,60.0,INF,hold
+Ray,Mason,0.0,0.0,60.0,INF,hold
+Mason,Ray,0.0,8.928571428571429,62.5,0.0,cut
+Ray,Michael,12.5,0.0,44.642857142857146,INF,grip
+Michael,Jamie,0.0,0.0,55.55555555555556,INF,honk make
+Michael,Jamie,0.0,0.0,55.55555555555556,INF,honk make
+Jamie,Ray,1.7857142857142856,0.0,69.64285714285714,INF,squeeze
+Michael,Ray,6.25,0.0,50.89285714285714,INF,scan hold
+Ray,Michael,0.0,0.0,50.0,INF,turn distract
+Ray,Michael,0.0,0.0,50.0,INF,turn distract
+Michael,Ray,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Michael,Ray,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Michael,Ray,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Michael,Ray,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Ray,Michael,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Ray,Michael,1.1904761904761905,1.7857142857142856,54.166666666666664,0.6666666666666666,be smile gaze study make tingle touch
+Ray,Michael,5.555555555555555,0.6944444444444444,65.97222222222221,8.0,be discover say indicate be
+Ray,Michael,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,be worry be give
+Ray,Michael,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,be worry be give
+Chris,Ray,5.208333333333334,7.291666666666667,20.833333333333336,0.7142857142857143,be think state
+Chris,Michael,8.653846153846153,4.807692307692308,32.69230769230769,1.8,be think correct
+Ray,Michael,1.5625,7.8125,28.125,0.2,meet
+Michael,Ray,7.8125,2.34375,52.34375,3.3333333333333335,be look make
+Michael,Ray,7.8125,2.34375,52.34375,3.3333333333333335,be look make
+Ray,Michael,7.8125,2.34375,52.34375,3.3333333333333335,be look make
+Michael,Ray,7.8125,2.34375,52.34375,3.3333333333333335,be look make
+Chris,Mr. Tattoo,5.147058823529411,0.7352941176470588,64.70588235294117,7.0,tell be
+Michael,Chris,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be have be
+Michael,Chris,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be have be
+Michael,Chris,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be have be
+Michael,Chris,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be have be
+Michael,Jamie,1.9230769230769231,0.0,36.53846153846153,INF,get
+Brian,Chris,3.3333333333333335,0.0,30.0,INF,help identify see
+Brian,Chris,3.3333333333333335,0.0,30.0,INF,help identify see
+Michael,Jamie,0.78125,6.25,42.96875,0.125,lift hear
+Michael,Jamie,0.78125,6.25,42.96875,0.125,lift hear
+Michael,Spencer,0.0,0.8928571428571428,56.25,0.0,hear talk
+Jamie,Michael,1.1363636363636365,0.0,44.31818181818182,INF,do like
+Michael,Jamie,0.0,0.0,28.57142857142857,INF,avoid
+Spencer,Jamie,2.34375,3.125,50.78125,0.75,be have bring
+Michael,Jamie,0.0,0.0,69.23076923076923,INF,sigh wrap
+Chris,Brian,0.0,3.571428571428571,25.0,0.0,
+Spencer,Oregon State Police,0.0,1.9230769230769231,82.6923076923077,0.0,be
+Spencer,Michael,0.0,0.0,60.0,INF,catch jerk
+Spencer,Michael,0.0,0.0,60.0,INF,catch jerk
+Michael,Jamie,0.0,0.0,45.45454545454545,INF,move bring
+Michael,Jamie,0.0,0.0,45.45454545454545,INF,move bring
+Jamie,Michael,0.0,0.0,45.45454545454545,INF,move bring
+Spencer,Jamie,1.875,0.0,58.12500000000001,INF,take glance return gaze hold
+Spencer,Jamie,1.875,0.0,58.12500000000001,INF,take glance return gaze hold
+Spencer,Michael,1.875,0.0,58.12500000000001,INF,take glance return gaze hold
+Jamie,Michael,1.875,0.0,58.12500000000001,INF,take glance return gaze hold
+Jamie,Michael,1.875,0.0,58.12500000000001,INF,take glance return gaze hold
+Jamie,Michael,0.0,0.0,63.1578947368421,INF,make move
+Jamie,Michael,0.0,0.0,63.1578947368421,INF,make move
+Michael,Jamie,0.0,3.75,76.25,0.0,feel shiver
+Jamie,Michael,0.0,3.6764705882352944,43.38235294117647,0.0,push step
+Michael,Jamie,0.0,3.6764705882352944,43.38235294117647,0.0,push step
+Michael,Jamie,0.0,3.6764705882352944,43.38235294117647,0.0,push step
+Mason,Michael,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,need talk say turn
+Mason,Michael,0.4629629629629629,0.9259259259259258,50.46296296296296,0.5,need talk say turn
+Spencer,Jamie,2.976190476190476,0.0,58.92857142857143,INF,reach move see
+Spencer,Jamie,2.976190476190476,0.0,58.92857142857143,INF,reach move see
+Spencer,Jamie,2.976190476190476,0.0,58.92857142857143,INF,reach move see
+Michael,Jamie,0.0,0.0,44.44444444444444,INF,shake look
+Michael,Jamie,0.0,0.0,44.44444444444444,INF,shake look
+Michael,Jamie,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,know be think lead
+Michael,Jamie,0.6944444444444444,2.083333333333333,52.77777777777778,0.3333333333333333,know be think lead
+Michael,Jamie,4.166666666666666,0.0,62.5,INF,feel take give
+Michael,Jamie,4.166666666666666,0.0,62.5,INF,feel take give
+Michael,Chris,8.928571428571429,0.0,48.214285714285715,INF,be go find
+Chris,Daniel,0.0,0.0,27.27272727272727,INF,tell happen
+Chris,Daniel,0.0,0.0,27.27272727272727,INF,tell happen
+Chris,Brian,0.0,0.0,37.5,INF,do have
+Jamie,Michael,6.25,4.375,39.375,1.4285714285714286,close tune lean inhale
+Jamie,Michael,6.25,4.375,39.375,1.4285714285714286,close tune lean inhale
+Jamie,Michael,6.25,4.375,39.375,1.4285714285714286,close tune lean inhale
+Jamie,Michael,6.25,4.375,39.375,1.4285714285714286,close tune lean inhale
+Jamie,Michael,1.7857142857142856,0.0,50.595238095238095,INF,take feel give
+Michael,Jamie,1.7857142857142856,0.0,50.595238095238095,INF,take feel give
+Michael,Jamie,1.7857142857142856,0.0,50.595238095238095,INF,take feel give
+Michael,Jamie,1.7857142857142856,0.0,50.595238095238095,INF,take feel give
+Michael,Jamie,0.0,0.0,66.66666666666666,INF,be touch recharge
+Jamie,Mason,0.0,0.0,50.0,INF,move see be call
+Jamie,Mason,8.035714285714286,1.7857142857142856,25.892857142857146,4.5,say read
+Mason,Jamie,8.035714285714286,1.7857142857142856,25.892857142857146,4.5,say read
+Jamie,Mason,1.1363636363636365,0.0,44.31818181818182,INF,hear speak
+Mason,Jamie,0.0,0.0,60.0,INF,shake
+Jamie,Chris,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,be follow find
+Chris,Jamie,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,be follow find
+Gerald,Demming,0.625,0.625,68.75,1.0,wash
+Gerald,Demming,0.625,0.625,68.75,1.0,wash
+Gerald,Chris,2.5,0.0,47.5,INF,have show have shake
+Gerald,Chris,2.5,0.0,47.5,INF,have show have shake
+Chris,Juan,1.25,0.0,68.75,INF,hear be
+Chris,Juan,1.25,0.0,68.75,INF,hear be
+Juan,Chris,2.272727272727273,0.0,61.36363636363637,INF,have push be
+Gerald,Jamie,2.314814814814815,0.9259259259259258,48.61111111111111,2.5,stare swallow have rise
+Gerald,Michael,0.0,0.0,52.63157894736842,INF,zoom have move
+Gerald,Michael,0.0,0.0,52.63157894736842,INF,zoom have move
+Gerald,Michael,0.8333333333333334,4.166666666666666,48.333333333333336,0.2,pick flow
+Gerald,Jamie,0.8333333333333334,4.166666666666666,48.333333333333336,0.2,pick flow
+Michael,Jamie,0.8333333333333334,4.166666666666666,48.333333333333336,0.2,pick flow
+Gerald,Chris,2.5,0.0,57.49999999999999,INF,have figure
+Michael,Chris,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,be be threaten
+Chris,Michael,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,be be threaten
+Gerald,Jamie,0.0,5.0,48.333333333333336,0.0,know do protect
+Gerald,Jamie,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Gerald,Michael,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Gerald,Demming,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Jamie,Michael,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Jamie,Demming,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Michael,Demming,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,know be stay
+Chris,Jamie,0.0,0.7352941176470588,46.32352941176471,0.0,do find
+Mason,Ray,0.0,3.6764705882352944,61.029411764705884,0.0,do recognize figure have know
+Mason,Ray,0.0,3.6764705882352944,61.029411764705884,0.0,do recognize figure have know
+Mason,Ray,0.0,3.6764705882352944,61.029411764705884,0.0,do recognize figure have know
+Mason,Ray,0.0,3.6764705882352944,61.029411764705884,0.0,do recognize figure have know
+Robertson,Mason,2.7777777777777777,0.0,41.66666666666667,INF,read
+Dawn Henderson,Sandra,0.0,0.0,52.94117647058824,INF,be find
+Mason,Sandra,4.807692307692308,2.8846153846153846,53.84615384615385,1.6666666666666667,have have review
+Hinkes,Sandra,0.0,3.4090909090909087,42.04545454545455,0.0,go
+Hinkes,Mason,5.208333333333334,0.0,61.458333333333336,INF,be prod
+Mason,Lee,2.34375,0.0,60.15625,INF,be hit
+Lee,Mason,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Lee,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Lee,Mason,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Lee,Hinkes,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Lee,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Lee,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Hinkes,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Ray,Mason,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Ray,Hinkes,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Hinkes,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Mason,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Hinkes,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Hinkes,Ray,1.524390243902439,0.6097560975609756,53.963414634146346,2.5,have call point search speed hope have have arrive
+Ray,Mason,3.571428571428571,0.35714285714285715,53.214285714285715,10.0,have be roll have leave have walk
+Ray,Mason,3.571428571428571,0.35714285714285715,53.214285714285715,10.0,have be roll have leave have walk
+Ray,Mason,3.571428571428571,0.35714285714285715,53.214285714285715,10.0,have be roll have leave have walk
+Ray,Mason,3.571428571428571,0.35714285714285715,53.214285714285715,10.0,have be roll have leave have walk
+Mason,Ray,1.0416666666666665,0.0,65.625,INF,stare note
+Ray,Mason,0.0,0.0,77.77777777777779,INF,look
+Ray,Mason,0.0,0.0,77.77777777777779,INF,look
+Ray,Mason,1.9230769230769231,0.0,44.230769230769226,INF,have figure be
+Ray,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,have figure be
+Mason,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,have figure be
+Hove,Spencer,2.5,0.0,57.49999999999999,INF,share
+Michael,Hove,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,be listen speak notice stiffen start talk
+Hove,Spencer,3.90625,0.0,64.84375,INF,have call take
+Chris,Michael,0.0,0.0,40.0,INF,turn state
+Michael,Jamie,0.0,0.0,40.0,INF,pull rub
+Michael,Spencer,0.0,0.0,40.0,INF,pull rub
+Jamie,Michael,0.0,0.0,40.0,INF,pull rub
+Jamie,Spencer,0.0,0.0,40.0,INF,pull rub
+Michael,Spencer,0.0,0.0,40.0,INF,pull rub
+Michael,Spencer,2.5,2.5,45.0,1.0,know be think
+Michael,Brian,2.5,2.5,45.0,1.0,know be think
+Spencer,Brian,2.5,2.5,45.0,1.0,know be think
+Jamie,Spencer,5.833333333333333,13.333333333333334,40.833333333333336,0.4375,be protect have meet
+Spencer,Michael,0.0,0.0,42.857142857142854,INF,ask
+Michael,Spencer,1.7857142857142856,0.0,55.35714285714286,INF,look
+Michael,Hove,1.7857142857142856,0.0,55.35714285714286,INF,look
+Spencer,Hove,1.7857142857142856,0.0,55.35714285714286,INF,look
+Jamie,Spencer,3.8461538461538463,1.9230769230769231,48.07692307692308,2.0,ask turn wipe
+Jamie,Spencer,3.8461538461538463,1.9230769230769231,48.07692307692308,2.0,ask turn wipe
+Spencer,Michael,0.5952380952380952,3.571428571428571,57.738095238095234,0.16666666666666666,leave
+Michael,Spencer,9.615384615384617,5.769230769230769,53.84615384615385,1.6666666666666667,have see be
+Spencer,Hove,6.666666666666667,0.0,66.66666666666666,INF,turn make keep listen
+Jamie,Michael,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Michael,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Michael,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Jamie,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Spencer,Michael,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,grip step place feel escalate
+Michael,Spencer,0.0,0.0,62.5,INF,hold
+Michael,Jamie,0.0,0.0,60.0,INF,feel deflate
+Spencer,Michael,0.0,12.5,73.21428571428571,0.0,give
+Spencer,Hove,1.1363636363636365,0.0,71.5909090909091,INF,look be dial
+Hove,Spencer,1.1363636363636365,0.0,71.5909090909091,INF,look be dial
+Spencer,Michael,0.0,0.0,55.55555555555556,INF,pause look
+Spencer,Jamie,0.0,0.0,55.55555555555556,INF,pause look
+Michael,Jamie,0.0,0.0,55.55555555555556,INF,pause look
+Jamie,Michael,4.545454545454546,0.0,50.0,INF,yank step
+Spencer,Jamie,1.25,2.5,56.25,0.5,step startle
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,5.113636363636364,0.0,53.97727272727273,INF,have stick be take
+Spencer,Jamie,0.0,2.272727272727273,52.27272727272727,0.0,touch
+Spencer,Jamie,0.0,2.272727272727273,52.27272727272727,0.0,touch
+Jamie,Michael,0.0,0.0,40.0,INF,lean
+Jamie,Spencer,1.7857142857142856,1.3392857142857142,50.44642857142857,1.3333333333333333,be want do be crawl hold
+Jamie,Spencer,1.7857142857142856,1.3392857142857142,50.44642857142857,1.3333333333333333,be want do be crawl hold
+Jamie,Spencer,0.0,0.0,40.0,INF,shake
+Brian,Chris,1.5625,3.90625,44.53125,0.4,get think find
+Chris,Michael,1.4423076923076923,0.9615384615384616,39.90384615384615,1.5,be go see have turn
+Michael,Jamie,0.7352941176470588,0.0,52.20588235294118,INF,touch study shuffle
+Michael,Hove,0.7352941176470588,0.0,52.20588235294118,INF,touch study shuffle
+Jamie,Hove,0.7352941176470588,0.0,52.20588235294118,INF,touch study shuffle
+Michael,Brian,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,know be hope
+Michael,Chris,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,know be hope
+Brian,Chris,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,know be hope
+Chris,Jamie,0.0,0.0,45.45454545454545,INF,continue dial
+Ghostman,Chris,3.125,0.0,34.375,INF,have find
+Chris,Brian,1.0869565217391304,0.0,55.434782608695656,INF,steer plop
+Elena,Brian,2.34375,1.5625,52.34375,1.5,focus have help get
+Elena,Brian,2.34375,1.5625,52.34375,1.5,focus have help get
+Brian,Elena,2.34375,1.5625,52.34375,1.5,focus have help get
+Brian,Elena,2.34375,1.5625,52.34375,1.5,focus have help get
+Brian,Jamie,5.921052631578947,0.0,46.71052631578947,INF,consider move enlist
+Brian,Jamie,5.921052631578947,0.0,46.71052631578947,INF,consider move enlist
+Chris,Brian,0.0,0.0,40.0,INF,point
+Chris,Brian,0.390625,0.390625,52.34375,1.0,bounce stop pour grab be
+Brian,Chris,5.208333333333334,2.083333333333333,46.875,2.5,be stare confuse have have ask
+Brian,Chris,5.208333333333334,2.083333333333333,46.875,2.5,be stare confuse have have ask
+Brian,Chris,5.208333333333334,2.083333333333333,46.875,2.5,be stare confuse have have ask
+Chris,Brian,5.208333333333334,2.083333333333333,46.875,2.5,be stare confuse have have ask
+Chris,Brian,0.0,1.25,63.74999999999999,0.0,take rip set color
+Chris,Ghostman,3.75,0.625,35.625,6.0,have be watch have see decide leave
+Chris,Ghostman,3.75,0.625,35.625,6.0,have be watch have see decide leave
+Ghostman,Chris,2.083333333333333,0.0,22.916666666666664,INF,have go
+Ghostman,Juan,2.083333333333333,0.0,22.916666666666664,INF,have go
+Chris,Juan,2.083333333333333,0.0,22.916666666666664,INF,have go
+Chris,Juan,1.5625,2.34375,46.09375,0.6666666666666666,be have lead
+Juan,Brian,0.0,0.0,50.0,INF,know take play
+Brian,Juan,0.0,0.0,50.0,INF,know take play
+Ghostman,Juan,2.6785714285714284,0.0,61.60714285714286,INF,have talk mention
+Juan,Brian,3.125,2.34375,63.28125,1.3333333333333333,glance be devour
+Juan,Brian,3.125,2.34375,63.28125,1.3333333333333333,glance be devour
+Brian,Juan,3.125,2.34375,63.28125,1.3333333333333333,glance be devour
+Chris,Spencer,0.0,0.0,62.5,INF,recognize
+Chris,Elena,3.4482758620689653,0.0,44.827586206896555,INF,keep have deliver
+Chris,Elena,3.4482758620689653,0.0,44.827586206896555,INF,keep have deliver
+Eastern Oregon,Elena,4.166666666666666,2.604166666666667,59.895833333333336,1.6,have wear have
+Juan,Jamie,0.0,0.0,44.44444444444444,INF,
+Jamie,Chris,0.0,0.6944444444444444,49.30555555555556,0.0,speak feel skip
+Jamie,Chris,0.0,0.6944444444444444,49.30555555555556,0.0,speak feel skip
+Chris,Brian,0.0,4.166666666666666,29.166666666666668,0.0,be miss
+Jamie,Lacey,4.891304347826087,0.5434782608695652,64.13043478260869,9.0,have be look seem
+Demming,Sam,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,do live note
+Michael,Sam,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Michael,Sam,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Michael,Lacey,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Michael,Jack Harper,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Sam,Lacey,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Sam,Jack Harper,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Sam,Lacey,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Sam,Jack Harper,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Lacey,Jack Harper,8.333333333333332,1.1904761904761905,66.66666666666666,7.0,look realize have be discover be
+Chuck,Michael,2.5,0.0,69.5,INF,wave toss greet stride pound
+Chuck,Michael,2.5,0.0,69.5,INF,wave toss greet stride pound
+Chuck,Michael,2.5,0.0,69.5,INF,wave toss greet stride pound
+Chuck,Michael,2.5,0.0,69.5,INF,wave toss greet stride pound
+Michael,Chuck,1.6666666666666667,2.5,69.16666666666667,0.6666666666666666,shoot be straighten
+Michael,Chuck,0.0,0.0,72.72727272727273,INF,push swing reply
+Michael,Chuck,1.25,0.625,63.125,2.0,stride stand seek
+Michael,Chuck,0.0,0.0,80.0,INF,step run
+Michael,Chuck,1.9230769230769231,0.0,67.3076923076923,INF,leave stand pound
+Michael,Spencer,0.0,0.0,58.333333333333336,INF,yank dial
+Michael,Spencer,0.0,0.0,58.333333333333336,INF,yank dial
+Michael,Spencer,0.0,0.0,58.333333333333336,INF,yank dial
+Michael,Jamie,3.90625,0.0,52.34375,INF,have watch have make get
+Michael,Jamie,1.5625,0.0,42.1875,INF,have be
+Michael,Jamie,0.0,1.9736842105263157,50.6578947368421,0.0,throw search
+Michael,Chuck,0.0,0.0,57.14285714285714,INF,jog
+Michael,Jamie,2.5,3.75,53.75,0.6666666666666666,hit call
+Michael,Chuck,0.0,0.0,66.66666666666666,INF,take fly
+Michael,Chuck,0.0,0.0,64.70588235294117,INF,step knock
+Michael,Mason,0.0,0.0,55.55555555555556,INF,end dial
+Michael,Mason,0.0,0.0,55.55555555555556,INF,end dial
+Michael,Mason,0.0,0.0,70.83333333333334,INF,push be depend hit
+Michael,Mason,0.0,0.0,70.83333333333334,INF,push be depend hit
+Michael,Mason,0.0,0.0,70.83333333333334,INF,push be depend hit
+Mason,Ray,0.8928571428571428,0.0,56.25,INF,steam review
+Mason,Ray,0.8928571428571428,0.0,56.25,INF,steam review
+Mason,Ray,7.5,3.125,54.37499999999999,2.4,force face have be voice
+Mason,Ray,7.5,3.125,54.37499999999999,2.4,force face have be voice
+Mason,Hove,4.166666666666666,0.0,73.61111111111111,INF,have talk
+Mason,Eastern Oregon,4.166666666666666,0.0,73.61111111111111,INF,have talk
+Hove,Eastern Oregon,4.166666666666666,0.0,73.61111111111111,INF,have talk
+Jamie,Mason,1.3888888888888888,3.4722222222222223,42.36111111111111,0.4,be give have attack wreck murder
+Mr. Tattoo,Chris,0.0,2.272727272727273,61.36363636363637,0.0,be take
+Mason,Ray,6.25,0.0,68.75,INF,call
+Mason,Ray,3.125,0.0,59.375,INF,have hear yell
+Spencer,Mr. Tattoo,0.0,4.166666666666666,70.83333333333334,0.0,think be kill talk
+Spencer,Mr. Tattoo,0.0,4.166666666666666,70.83333333333334,0.0,think be kill talk
+Spencer,Mr. Tattoo,0.0,4.166666666666666,70.83333333333334,0.0,think be kill talk
+Spencer,Chris,2.631578947368421,2.631578947368421,42.10526315789473,1.0,be find know
+Chris,Spencer,2.631578947368421,2.631578947368421,42.10526315789473,1.0,be find know
+Mason,Michael,0.0,0.0,55.55555555555556,INF,be
+Mr. Tattoo,Jamie,2.34375,1.5625,33.59375,1.5,be get have need
+Michael,Mason,3.75,5.0,41.25,0.75,be rattle
+Spencer,Mr. Tattoo,0.0,0.0,54.54545454545454,INF,do get leave
+Mr. Tattoo,Mason,5.681818181818182,0.0,30.681818181818183,INF,find say
+Michael,Mason,0.0,5.208333333333334,44.79166666666667,0.0,be hear shut
+Jesus Christ,Michael,0.0,0.0,37.5,INF,fuck
+Jesus Christ,Michael,0.0,0.0,37.5,INF,fuck
+Michael,Ford,0.0,0.0,52.17391304347826,INF,slide study pull
+Michael,Ford,0.0,0.0,52.17391304347826,INF,slide study pull
+Michael,Ford,0.0,0.0,52.17391304347826,INF,slide study pull
+Chris,Michael,0.4807692307692308,0.9615384615384616,60.09615384615385,0.5,turn lock come feel punctuate
+Chris,Michael,0.4807692307692308,0.9615384615384616,60.09615384615385,0.5,turn lock come feel punctuate
+Chris,Michael,0.4807692307692308,0.9615384615384616,60.09615384615385,0.5,turn lock come feel punctuate
+Chris,Michael,0.4807692307692308,0.9615384615384616,60.09615384615385,0.5,turn lock come feel punctuate
+Michael,Brian,1.25,0.0,68.75,INF,see look
+Michael,Daniel,2.5,0.0,77.5,INF,look
+Michael,Daniel,0.0,0.0,50.0,INF,say
+Michael,Daniel,0.0,0.0,61.53846153846154,INF,stop gaze drink
+Michael,Daniel,0.0,0.0,61.53846153846154,INF,stop gaze drink
+Michael,Daniel,0.0,0.0,61.53846153846154,INF,stop gaze drink
+Chris,Jamie,6.61764705882353,3.6764705882352944,19.11764705882353,1.8,do make do know be
+Jamie,Chris,6.61764705882353,3.6764705882352944,19.11764705882353,1.8,do make do know be
+Michael,Spencer,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Michael,Daniel,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Spencer,Michael,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Spencer,Michael,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Spencer,Daniel,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Michael,Daniel,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Michael,Daniel,2.941176470588235,0.0,55.88235294117647,INF,punch hold stare
+Chris,Michael,1.5625,1.5625,59.375,1.0,watch talk
+Chris,Michael,1.5625,1.5625,59.375,1.0,watch talk
+Michael,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,know have reveal
+Michael,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,know have reveal
+Michael,Jamie,1.9230769230769231,0.0,44.230769230769226,INF,know have reveal
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Jamie,Michael,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Michael,Jamie,6.0344827586206895,0.0,49.137931034482754,INF,see be link know have make
+Ghostman,Jamie,0.0,0.0,33.33333333333333,INF,do have
+Chris,Jamie,5.921052631578947,0.6578947368421052,56.57894736842105,9.0,be have be stay
+Jamie,Michael,2.5,6.666666666666667,50.83333333333333,0.375,have believe be protect
+Jamie,Michael,2.5,6.666666666666667,50.83333333333333,0.375,have believe be protect
+Ghostman,Jamie,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Ghostman,Michael,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Ghostman,Michael,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Ghostman,Daniel,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Jamie,Michael,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Jamie,Michael,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Jamie,Daniel,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Michael,Daniel,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Michael,Daniel,1.7045454545454544,0.0,57.38636363636363,INF,have say kill find be
+Ghostman,Daniel,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Ghostman,Chris,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Ghostman,Chris,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Ghostman,Daniel,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Daniel,Chris,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Daniel,Chris,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Chris,Daniel,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Chris,Daniel,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,have regale do
+Daniel,Chris,0.9615384615384616,0.0,52.88461538461539,INF,manage escape take
+Daniel,Chris,0.9615384615384616,0.0,52.88461538461539,INF,manage escape take
+Chris,Daniel,1.25,3.125,50.625,0.4,have doubt be say
+Daniel,Chris,0.0,0.0,66.66666666666666,INF,be
+Daniel,Chris,5.833333333333333,4.166666666666666,56.666666666666664,1.4,have be be
+Daniel,Chris,5.833333333333333,4.166666666666666,56.666666666666664,1.4,have be be
+Chris,Daniel,5.833333333333333,4.166666666666666,56.666666666666664,1.4,have be be
+Chris,Daniel,5.833333333333333,4.166666666666666,56.666666666666664,1.4,have be be
+Ghostman,Chris,0.0,0.0,36.36363636363637,INF,be kill
+Daniel,Chris,9.558823529411764,1.4705882352941175,59.55882352941176,6.5,have plan pretend be feel be
+Daniel,Chris,9.558823529411764,1.4705882352941175,59.55882352941176,6.5,have plan pretend be feel be
+Brian,Chris,4.166666666666666,0.0,37.5,INF,be bear have want tell
+Jamie,Ghostman,3.125,4.6875,48.4375,0.6666666666666666,know be wait make
+Ghostman,Jamie,3.125,4.6875,48.4375,0.6666666666666666,know be wait make
+Ghostman,Brian,4.891304347826087,4.891304347826087,38.04347826086957,1.0,be be be
+Chris,Brian,1.5625,0.0,35.9375,INF,take squeeze hold gaze
+Brian,Chris,0.0,4.166666666666666,45.83333333333333,0.0,rip
+Chris,Brian,2.083333333333333,7.291666666666667,40.625,0.2857142857142857,have be keep
+Chris,Brian,2.083333333333333,7.291666666666667,40.625,0.2857142857142857,have be keep
+Brian,Michael,0.0,0.0,53.333333333333336,INF,try look
+Brian,Chris,0.0,0.0,53.333333333333336,INF,try look
+Michael,Chris,0.0,0.0,53.333333333333336,INF,try look
+Chris,Brian,7.03125,0.0,42.96875,INF,grip help jump
+Brian,Chris,7.03125,0.0,42.96875,INF,grip help jump
+Chris,Michael,6.25,0.0,52.083333333333336,INF,take turn face
+Michael,Brian,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Michael,Brian,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Michael,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Michael,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Brian,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Brian,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Brian,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Brian,Chris,3.4090909090909087,0.0,42.04545454545455,INF,meet say have teach
+Michael,Chris,4.464285714285714,1.7857142857142856,58.03571428571429,2.5,reach pull
+Michael,Chris,4.464285714285714,1.7857142857142856,58.03571428571429,2.5,reach pull
+Chris,Brian,0.0,0.0,63.1578947368421,INF,reach ruffle
+Chris,Brian,0.0,0.0,63.1578947368421,INF,reach ruffle
+Michael,Chuck,0.43103448275862066,0.0,58.189655172413794,INF,sit wait spin
+Michael,Spencer,0.43103448275862066,0.0,58.189655172413794,INF,sit wait spin
+Chuck,Spencer,0.43103448275862066,0.0,58.189655172413794,INF,sit wait spin
+Chuck,Michael,0.43103448275862066,0.0,58.189655172413794,INF,sit wait spin
+Spencer,Michael,0.43103448275862066,0.0,58.189655172413794,INF,sit wait spin
+Michael,Jamie,1.7857142857142856,1.7857142857142856,46.42857142857143,1.0,be jump
+Michael,Jamie,1.7857142857142856,1.7857142857142856,46.42857142857143,1.0,be jump
+Spencer,Jamie,0.0,3.90625,52.34375,0.0,be run
+Daniel,Chris,0.0,0.0,54.54545454545454,INF,sit be try balance
+Daniel,Chris,0.0,0.0,54.54545454545454,INF,sit be try balance
+Daniel,Brian,0.0,0.0,54.54545454545454,INF,sit be try balance
+Chris,Brian,0.0,0.0,54.54545454545454,INF,sit be try balance
+Chris,Brian,0.0,0.0,54.54545454545454,INF,sit be try balance
+Michael,Chris,0.0,0.0,61.53846153846154,INF,be try wrap call
+Michael,Chris,0.0,0.0,61.53846153846154,INF,be try wrap call
+Michael,Chris,0.0,0.0,61.53846153846154,INF,be try wrap call
+Brian,Chris,2.7777777777777777,0.0,41.66666666666667,INF,hear call
+Chris,Michael,4.545454545454546,3.4090909090909087,55.68181818181818,1.3333333333333333,pale ask hold notify
+Ghostman,Jamie,0.6578947368421052,0.6578947368421052,35.526315789473685,1.0,hope be be
+Chris,Michael,0.0,5.0,55.00000000000001,0.0,shrug trigger
+Michael,Daniel,8.928571428571429,0.0,62.5,INF,have see make
+Chris,Daniel,0.0,12.5,27.500000000000004,0.0,
+Jamie,Ghostman,1.6666666666666667,0.0,38.333333333333336,INF,be call
+Jamie,Ghostman,1.6666666666666667,0.0,38.333333333333336,INF,be call
+Chris,Michael,0.43103448275862066,0.43103448275862066,47.41379310344828,1.0,be get be remember remember say lean gaze lock
+Chris,Michael,0.43103448275862066,0.43103448275862066,47.41379310344828,1.0,be get be remember remember say lean gaze lock
+Jamie,Brian,3.75,3.75,27.500000000000004,1.0,have worry
+Michael,Chris,3.3333333333333335,0.0,50.0,INF,watch gaze note
+Jamie,Michael,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,tie have run boil
+Jamie,Michael,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,tie have run boil
+Juan,Chris,0.0,0.0,36.36363636363637,INF,rub
+Juan,Chris,0.0,0.0,36.36363636363637,INF,rub
+Michael,Chris,0.78125,0.0,42.96875,INF,come look
+Jamie,Ghostman,5.769230769230769,0.0,25.0,INF,have get find take
+Chris,Michael,1.5625,0.0,48.4375,INF,jerk
+Michael,Brian,1.5625,0.5208333333333333,60.416666666666664,3.0,glance give resume concentrate
+Brian,Michael,1.5625,0.5208333333333333,60.416666666666664,3.0,glance give resume concentrate
+Brian,Chris,14.285714285714285,0.0,28.57142857142857,INF,know realize
+Chris,Michael,0.0,0.0,54.54545454545454,INF,stop plant
+Chris,Brian,2.083333333333333,0.0,64.58333333333334,INF,glance have find poke
+Jamie,Chris,0.8333333333333334,1.6666666666666667,37.5,0.5,do say happen whisper
+Daniel,Chris,5.0,1.25,53.75,4.0,have be carry
+Daniel,Ghostman,4.166666666666666,3.3333333333333335,39.166666666666664,1.25,die spend
+Chris,Ghostman,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,be have figure keep latch leave
+Ghostman,Chris,6.25,3.571428571428571,47.32142857142857,1.75,have give have seem be be start
+Ghostman,Chris,6.25,3.571428571428571,47.32142857142857,1.75,have give have seem be be start
+Ghostman,Chris,6.25,3.571428571428571,47.32142857142857,1.75,have give have seem be be start
+Ghostman,Chris,6.25,3.571428571428571,47.32142857142857,1.75,have give have seem be be start
+Daniel,Chris,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,cover leave try get sleep
+Daniel,Chris,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,cover leave try get sleep
+Daniel,Chris,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,cover leave try get sleep
+Daniel,Chris,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,cover leave try get sleep
+Chris,Ghostman,1.9230769230769231,1.9230769230769231,42.30769230769231,1.0,expect leap
+Chris,Daniel,0.0,1.4705882352941175,69.11764705882352,0.0,help propel drag
+Chris,Daniel,0.0,1.4705882352941175,69.11764705882352,0.0,help propel drag
+Chris,Daniel,0.0,0.0,57.14285714285714,INF,crack alarm
+Daniel,Chris,1.7857142857142856,0.0,62.5,INF,do believe be get go
+Daniel,Chris,1.7857142857142856,0.0,62.5,INF,do believe be get go
+Chris,Daniel,2.8846153846153846,0.0,58.65384615384615,INF,stick do
+Ghostman,Chris,2.083333333333333,2.083333333333333,54.166666666666664,1.0,have fashion wear
+Ghostman,Chris,2.083333333333333,2.083333333333333,54.166666666666664,1.0,have fashion wear
+Daniel,Chris,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fling squeeze throw cough
+Daniel,Chris,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fling squeeze throw cough
+Daniel,Chris,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fling squeeze throw cough
+Daniel,Chris,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fling squeeze throw cough
+Daniel,Chris,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,fling squeeze throw cough
+Chris,Daniel,0.0,5.555555555555555,27.77777777777778,0.0,whisper
+Chris,Daniel,0.0,0.0,55.55555555555556,INF,lay
+Chris,Daniel,0.0,0.0,55.55555555555556,INF,lay
+Daniel,Chris,3.571428571428571,3.571428571428571,42.857142857142854,1.0,stick be
+Daniel,Chris,0.0,0.0,50.0,INF,get move
+Chris,Daniel,1.4705882352941175,0.0,69.11764705882352,INF,be curl stay
+Chris,Daniel,1.4705882352941175,0.0,69.11764705882352,INF,be curl stay
+Daniel,Chris,5.555555555555555,0.0,50.0,INF,run
+Daniel,Chris,5.555555555555555,0.0,50.0,INF,run
+Daniel,Chris,4.464285714285714,0.0,59.82142857142857,INF,creep keep gaze lock
+Daniel,Chris,4.464285714285714,0.0,59.82142857142857,INF,creep keep gaze lock
+Daniel,Chris,2.941176470588235,3.6764705882352944,52.20588235294118,0.8,touch shake push
+Chris,Daniel,2.941176470588235,3.6764705882352944,52.20588235294118,0.8,touch shake push
+Lacey,Michael,0.0,0.0,55.55555555555556,INF,speak
+Lacey,Michael,0.0,1.3888888888888888,65.27777777777779,0.0,hear exhale
+Michael,Brian,1.0416666666666665,0.0,65.625,INF,stare examine
+Michael,Brian,1.0416666666666665,0.0,65.625,INF,stare examine
+Michael,Brian,1.0416666666666665,0.0,65.625,INF,stare examine
+Lacey,Michael,1.25,2.5,46.25,0.5,be feel
+Lacey,Michael,0.6944444444444444,1.3888888888888888,47.91666666666667,0.5,be state know be
+Michael,Lacey,0.0,0.0,42.857142857142854,INF,end
+Michael,Lacey,0.0,0.0,42.857142857142854,INF,end
+Chris,Michael,0.0,1.4705882352941175,51.470588235294116,0.0,stand peek
+Chris,Brian,0.0,1.4705882352941175,51.470588235294116,0.0,stand peek
+Chris,Michael,0.0,1.4705882352941175,51.470588235294116,0.0,stand peek
+Michael,Brian,0.0,1.4705882352941175,51.470588235294116,0.0,stand peek
+Brian,Michael,0.0,1.4705882352941175,51.470588235294116,0.0,stand peek
+Brian,Chris,5.46875,0.0,50.78125,INF,grab suspect be find
+Brian,Chris,5.46875,0.0,50.78125,INF,grab suspect be find
+Chuck,Jamie,4.375,0.0,65.625,INF,have seat have eye
+Eastern Oregon,Gerald,0.0,7.291666666666667,67.70833333333334,0.0,be make
+Gerald,Chris,1.0,0.0,59.0,INF,have have discuss
+Gerald,Daniel,1.0,0.0,59.0,INF,have have discuss
+Chris,Daniel,1.0,0.0,59.0,INF,have have discuss
+Jamie,Chris,3.0,3.5000000000000004,53.5,0.8571428571428571,see know find figure go
+Jamie,Chris,3.0,3.5000000000000004,53.5,0.8571428571428571,see know find figure go
+Jamie,Chris,3.0,3.5000000000000004,53.5,0.8571428571428571,see know find figure go
+Chris,Michael,1.3888888888888888,0.0,57.870370370370374,INF,see stroll decide have
+Michael,Chris,1.3888888888888888,0.0,57.870370370370374,INF,see stroll decide have
+Michael,Chris,1.3888888888888888,0.0,57.870370370370374,INF,see stroll decide have
+Demming,Jamie,0.0,0.0,50.0,INF,stop tie tape
+Demming,Jamie,0.0,0.0,50.0,INF,stop tie tape
+Gerald,Jamie,0.0,0.0,28.57142857142857,INF,see grab
+Michael,Spencer,0.8928571428571428,0.0,56.25,INF,step
+Spencer,Chris,0.0,0.0,60.0,INF,nod
+Ghostman,Chris,5.681818181818182,0.0,30.681818181818183,INF,know grab say
+Jamie,Ghostman,3.571428571428571,0.0,25.0,INF,call
+Mr. Tattoo,Ghostman,3.571428571428571,1.7857142857142856,37.5,2.0,be
+Spencer,Michael,2.8846153846153846,1.9230769230769231,56.730769230769226,1.5,say think be
+Mason,Hinkes,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,accord be know
+Mason,Hinkes,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,accord be know
+Chris,Michael,0.0,0.0,60.0,INF,look
+Spencer,Chuck,1.3888888888888888,2.7777777777777777,62.5,0.5,stay question
+Hove,Spencer,3.289473684210526,0.6578947368421052,53.94736842105263,5.0,make
+Hove,Michael,3.289473684210526,0.6578947368421052,53.94736842105263,5.0,make
+Spencer,Michael,3.289473684210526,0.6578947368421052,53.94736842105263,5.0,make
+Hove,Michael,0.0,0.0,75.0,INF,ask
+Spencer,Chuck,1.25,2.5,56.25,0.5,direct nod
+Michael,Spencer,0.0,0.0,75.0,INF,tail
+Spencer,Michael,3.4090909090909087,0.0,60.22727272727273,INF,nod scan
+Chris,Michael,0.0,0.0,40.0,INF,gesture
+Michael,Hove,4.166666666666666,0.0,51.388888888888886,INF,start move
+Michael,Chris,1.7857142857142856,8.035714285714286,47.32142857142857,0.2222222222222222,whirl retch
+Mason,Ray,0.0,3.4482758620689653,68.96551724137932,0.0,take hook nod be flip stack
+Mason,Ray,0.0,3.4482758620689653,68.96551724137932,0.0,take hook nod be flip stack
+Mason,Ray,0.0,3.4482758620689653,68.96551724137932,0.0,take hook nod be flip stack
+Mason,Ray,0.0,3.4482758620689653,68.96551724137932,0.0,take hook nod be flip stack
+Mason,Ray,7.211538461538461,1.9230769230769231,63.942307692307686,3.75,do know look step
+Mason,Ray,7.211538461538461,1.9230769230769231,63.942307692307686,3.75,do know look step
+Ray,Mason,5.208333333333334,3.125,66.66666666666666,1.6666666666666667,put
+Mason,Ray,4.166666666666666,0.0,62.5,INF,enjoy push break
+Mason,Ray,4.166666666666666,0.0,62.5,INF,enjoy push break
+Mason,Ray,3.260869565217391,2.1739130434782608,64.13043478260869,1.5,cost enjoy watch squirm think
+Mason,Ray,3.260869565217391,2.1739130434782608,64.13043478260869,1.5,cost enjoy watch squirm think
+Chris,Michael,3.75,5.625,40.625,0.6666666666666666,explain feel burn
+Chris,Michael,3.75,5.625,40.625,0.6666666666666666,explain feel burn
+Hove,Spencer,1.6666666666666667,0.0,58.333333333333336,INF,do have point
+Mason,Chris,4.464285714285714,1.7857142857142856,43.75,2.5,forget call
+Mason,Chris,4.464285714285714,1.7857142857142856,43.75,2.5,forget call
+Mason,Chris,4.464285714285714,1.7857142857142856,43.75,2.5,forget call
+Michael,Brian,1.3157894736842104,0.0,56.57894736842105,INF,be sit
+Brian,Michael,1.3157894736842104,0.0,56.57894736842105,INF,be sit
+Michael,Chris,2.083333333333333,0.0,47.91666666666667,INF,share
+Daniel,Chris,0.0,0.0,71.42857142857143,INF,go
+Michael,Chris,0.0,0.0,54.54545454545454,INF,be start think
+Michael,Chris,0.0,0.0,54.54545454545454,INF,be start think
+Chris,Ghostman,0.0,1.25,38.75,0.0,say threaten
+Michael,Chris,0.0,0.0,45.45454545454545,INF,end meet gaze
+Michael,Chris,0.0,0.0,45.45454545454545,INF,end meet gaze
+Michael,Chris,0.0,0.0,60.0,INF,look
+Brian,Chris,0.4629629629629629,3.7037037037037033,55.092592592592595,0.125,ride try call race
+Brian,Michael,0.4629629629629629,3.7037037037037033,55.092592592592595,0.125,ride try call race
+Brian,Michael,0.4629629629629629,3.7037037037037033,55.092592592592595,0.125,ride try call race
+Chris,Michael,0.4629629629629629,3.7037037037037033,55.092592592592595,0.125,ride try call race
+Chris,Michael,0.4629629629629629,3.7037037037037033,55.092592592592595,0.125,ride try call race
+Michael,Phillip,0.0,0.0,61.53846153846154,INF,be leave
+Michael,Phillip,0.0,0.0,44.44444444444444,INF,be stay
+Michael,Chris,0.0,0.0,70.0,INF,glance end
+Chris,Michael,0.0,0.0,70.0,INF,glance end
+Chris,Cecilia,0.0,0.0,50.0,INF,put
+Cecilia,Chris,0.0,0.0,50.0,INF,put
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Ghostman,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Chris,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Ghostman,Michael,2.0408163265306123,2.295918367346939,52.806122448979586,0.8888888888888888,fantasize feel watch wait make signal kill
+Michael,Jamie,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,stop think force look embrace
+Michael,Jamie,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,stop think force look embrace
+Michael,Jamie,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,stop think force look embrace
+Jamie,Michael,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,stop think force look embrace
+Brian,Ghostman,0.78125,0.0,55.46875,INF,know be be sleep
+Ghostman,Brian,0.78125,0.0,55.46875,INF,know be be sleep
+Ghostman,Brian,1.9230769230769231,2.8846153846153846,41.34615384615385,0.6666666666666666,have threaten
+Brian,Daniel,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,keep have
+Brian,Chris,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,keep have
+Brian,Chris,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,keep have
+Daniel,Chris,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,keep have
+Daniel,Chris,4.891304347826087,0.5434782608695652,51.08695652173913,9.0,keep have
+Jamie,Chris,3.90625,0.0,58.59375,INF,do know take tell
+Jamie,Michael,3.90625,0.0,58.59375,INF,do know take tell
+Chris,Michael,3.90625,0.0,58.59375,INF,do know take tell
+Chris,Michael,6.25,12.5,43.75,0.5,see
+Michael,Daniel,3.571428571428571,2.380952380952381,46.42857142857143,1.5,do think say have vanish
+Michael,Chris,11.11111111111111,8.333333333333332,36.11111111111111,1.3333333333333333,touch
+Chris,Michael,5.921052631578947,1.9736842105263157,65.78947368421053,3.0,be think wish be
+Chris,Michael,5.921052631578947,1.9736842105263157,65.78947368421053,3.0,be think wish be
+Chris,Michael,5.921052631578947,1.9736842105263157,65.78947368421053,3.0,be think wish be
+Chris,Michael,5.921052631578947,1.9736842105263157,65.78947368421053,3.0,be think wish be
+Chris,Michael,0.0,0.0,40.0,INF,shake
+Kendall,Sylvia Vasquez,2.5,0.0,57.49999999999999,INF,have
+Kendall,Sylvia Vasquez,1.4705882352941175,0.0,45.588235294117645,INF,do get be
+Chris,Ghostman,0.0,0.0,50.0,INF,tackle wane
+Ghostman,Chris,0.0,0.0,50.0,INF,tackle wane
+Mr. Tattoo,Michael,5.263157894736842,0.0,57.89473684210527,INF,have open have save
+Michael,Chris,4.861111111111112,0.0,39.58333333333333,INF,attack want know be
+Michael,Chris,4.861111111111112,0.0,39.58333333333333,INF,attack want know be
+Chris,Michael,0.0,0.0,44.44444444444444,INF,do think look
+Chris,Michael,0.0,0.0,44.44444444444444,INF,do think look
+Chris,Michael,0.0,0.0,61.53846153846154,INF,do think bring
+Michael,Chris,0.0,0.0,61.53846153846154,INF,do think bring
+Chris,Mr. Tattoo,0.0,0.0,54.54545454545454,INF,have identify
+Mr. Tattoo,Chris,0.0,0.0,54.54545454545454,INF,have identify
+Jamie,Michael,0.0,5.0,41.66666666666667,0.0,listen search be
+Jamie,Michael,0.0,0.0,40.0,INF,hold
+Jamie,Michael,4.166666666666666,4.166666666666666,58.333333333333336,1.0,be leave
+Jamie,Michael,0.4032258064516129,0.0,60.88709677419355,INF,leave see be
+Mason,Ray,2.083333333333333,1.0416666666666665,63.541666666666664,2.0,be work
+Mason,Ray,4.761904761904762,1.1904761904761905,60.71428571428571,4.0,be keep
+Mason,Ray,1.25,0.0,48.75,INF,eye
+Mason,Ray,1.7857142857142856,0.8928571428571428,68.75,2.0,be head
+Mason,Lee,0.0,1.6304347826086956,67.93478260869566,0.0,
+Mason,Ray,0.0,1.6304347826086956,67.93478260869566,0.0,
+Lee,Ray,0.0,1.6304347826086956,67.93478260869566,0.0,
+Jamie,Chris,0.0,3.90625,52.34375,0.0,lead come
+Jamie,Chris,0.0,3.90625,52.34375,0.0,lead come
+Mason,Ray,0.0,0.0,80.0,INF,ask
+Jesus Christ,Ray,0.0,0.0,26.666666666666668,INF,be
+Phillip,Hinkes,0.0,0.0,27.27272727272727,INF,be
+Phillip,Hinkes,0.0,0.0,45.45454545454545,INF,know
+Phillip,Michael,0.0,0.0,47.05882352941176,INF,work work
+Phillip,Michael,0.0,0.0,47.05882352941176,INF,work work
+Michael,Phillip,0.0,0.0,47.05882352941176,INF,work work
+Phillip,Michael,0.0,0.0,47.05882352941176,INF,work work
+Phillip,Michael,6.25,0.6944444444444444,43.05555555555556,9.0,be recommend
+Phillip,Michael,6.25,0.6944444444444444,43.05555555555556,9.0,be recommend
+Michael,Phillip,6.25,0.6944444444444444,43.05555555555556,9.0,be recommend
+Phillip,Michael,6.25,0.6944444444444444,43.05555555555556,9.0,be recommend
+Phillip,Mason,4.166666666666666,2.604166666666667,51.5625,1.6,make spend help say
+Phillip,Hinkes,0.0,0.0,30.0,INF,meet
+Michael,Chris,2.272727272727273,1.7045454545454544,55.11363636363637,1.3333333333333333,be lighten drive wind
+Chris,Michael,0.0,0.0,66.66666666666666,INF,hold gaze
+Brian,Jamie,0.0,0.8064516129032258,54.03225806451613,0.0,want sit take spoil bake
+Brian,Cecilia,0.0,0.8064516129032258,54.03225806451613,0.0,want sit take spoil bake
+Brian,Jamie,0.0,0.8064516129032258,54.03225806451613,0.0,want sit take spoil bake
+Jamie,Cecilia,0.0,0.8064516129032258,54.03225806451613,0.0,want sit take spoil bake
+Cecilia,Jamie,0.0,0.8064516129032258,54.03225806451613,0.0,want sit take spoil bake
+Chris,Michael,4.166666666666666,0.0,49.166666666666664,INF,pour slap
+Chris,Michael,0.0,0.0,50.0,INF,do think
+Michael,Chris,0.0,0.0,50.0,INF,do think
+Michael,Chris,0.0,7.5,32.5,0.0,sound
+Chris,Michael,0.0,9.090909090909092,63.63636363636363,0.0,protect well
+Chris,Michael,2.5,1.25,61.25000000000001,2.0,watch jog feel
+Chris,Michael,2.5,1.25,61.25000000000001,2.0,watch jog feel
+Cecilia,Michael,3.125,4.6875,48.4375,0.6666666666666666,be say need see
+Cecilia,Chris,3.125,4.6875,48.4375,0.6666666666666666,be say need see
+Michael,Chris,3.125,4.6875,48.4375,0.6666666666666666,be say need see
+Michael,Cecilia,3.125,4.6875,48.4375,0.6666666666666666,be say need see
+Chris,Cecilia,3.125,4.6875,48.4375,0.6666666666666666,be say need see
+Ghostman,Chris,7.8125,3.6458333333333335,51.041666666666664,2.142857142857143,have prove be have be keep
+Ghostman,Chris,7.8125,3.6458333333333335,51.041666666666664,2.142857142857143,have prove be have be keep
+Chris,Brodys,2.5,1.0,52.5,2.5,decide tell be have risk
+Chris,Brodys,2.5,1.0,52.5,2.5,decide tell be have risk
+Chris,Brodys,2.5,1.0,52.5,2.5,decide tell be have risk
+Chris,Michael,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,be go give be be go
+Chris,Jamie,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,be go give be be go
+Michael,Jamie,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,be go give be be go
+Chris,Brian,0.0,0.6944444444444444,60.416666666666664,0.0,be let be relax
+Brian,Chris,0.0,0.6944444444444444,60.416666666666664,0.0,be let be relax
+Michael,Brian,0.0,0.0,50.0,INF,let go
+Chris,Brian,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,be go jump need let have
+Chris,Brian,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,be go jump need let have
+Chris,Brian,0.0,0.0,57.14285714285714,INF,turn look
+Chris,Brian,0.0,0.0,55.55555555555556,INF,glance open
+Chris,Brian,0.0,0.0,55.55555555555556,INF,glance open
+Chris,Michael,1.875,2.5,50.625,0.75,look see
+Chris,Brian,1.875,2.5,50.625,0.75,look see
+Michael,Brian,1.875,2.5,50.625,0.75,look see
+Michael,Demming,8.333333333333332,4.166666666666666,45.83333333333333,2.0,kill
+Jamie,Chris,3.75,0.0,36.25,INF,start
+Michael,Ghostman,0.0,0.0,37.5,INF,call
+Jamie,Chris,0.0,0.0,20.0,INF,cling
+Michael,Brian,0.0,0.0,33.33333333333333,INF,let
+Chris,Michael,0.0,0.0,37.5,INF,
+Jamie,Chris,4.411764705882353,2.2058823529411766,34.55882352941176,2.0,be entrust be
+Brian,Jamie,1.3888888888888888,9.722222222222223,33.33333333333333,0.14285714285714285,reflect
+Brian,Jamie,5.0,2.5,32.5,2.0,be tell
+Chris,Michael,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be
+Chris,Michael,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be
+Chris,Jamie,0.0,0.0,36.36363636363637,INF,help
+Chris,Brian,4.375,0.625,45.0,7.0,look crack
+Chris,Jamie,4.375,0.625,45.0,7.0,look crack
+Chris,Jamie,4.375,0.625,45.0,7.0,look crack
+Brian,Jamie,4.375,0.625,45.0,7.0,look crack
+Brian,Jamie,4.375,0.625,45.0,7.0,look crack
+Phil,Senate,0.4032258064516129,0.0,70.56451612903226,INF,spend live do
+Phil,Senate,0.4032258064516129,0.0,70.56451612903226,INF,spend live do
+Phil,Senate,0.4032258064516129,0.0,70.56451612903226,INF,spend live do
+Phil,Jamie,3.804347826086957,8.152173913043478,48.91304347826087,0.4666666666666667,drive be catch
+Jamie,Phil,3.804347826086957,8.152173913043478,48.91304347826087,0.4666666666666667,drive be catch
+Gerald,Michael,0.0,1.5625,73.4375,0.0,remind
+Gerald,Michael,2.34375,0.0,60.15625,INF,have make be offer
+Gerald,Michael,0.0,3.90625,46.09375,0.0,start swing gaze leave
+Gerald,Michael,0.0,3.90625,46.09375,0.0,start swing gaze leave
+Gerald,Michael,3.8461538461538463,0.0,65.38461538461539,INF,pull tackle
+Gerald,Michael,3.8461538461538463,0.0,65.38461538461539,INF,pull tackle
+Michael,Gerald,0.0,0.0,54.54545454545454,INF,shake point
+Michael,Gerald,0.0,5.769230769230769,63.46153846153846,0.0,swallow mirror
+Michael,Eastern Oregon,0.0,0.0,66.66666666666666,INF,do get
+Gerald,Michael,1.6666666666666667,2.5,55.833333333333336,0.6666666666666666,see spot
+Michael,Gerald,1.6666666666666667,2.5,55.833333333333336,0.6666666666666666,see spot
+Michael,Gerald,1.6666666666666667,2.5,55.833333333333336,0.6666666666666666,see spot
+Gerald,Michael,0.0,0.0,66.66666666666666,INF,smile
+Gerald,Michael,2.5,2.5,45.0,1.0,need get
+Gerald,Michael,5.555555555555555,9.722222222222223,29.166666666666668,0.5714285714285714,do take
+Gerald,Michael,5.555555555555555,9.722222222222223,29.166666666666668,0.5714285714285714,do take
+Michael,Jamie,3.4090909090909087,2.272727272727273,39.77272727272727,1.5,need tell be
+Gerald,Michael,4.166666666666666,5.0,44.166666666666664,0.8333333333333334,see waver touch
+Gerald,Michael,0.0,0.0,42.857142857142854,INF,keep gaze
+Gerald,Michael,0.0,0.0,42.857142857142854,INF,keep gaze
+Michael,Chris,0.0,0.0,40.0,INF,go order
+Jamie,Chris,0.0,2.7777777777777777,47.22222222222222,0.0,be go put insist
+Michael,Gerald,0.6578947368421052,4.605263157894736,57.89473684210527,0.14285714285714285,make shake burn
+Michael,Gerald,0.6578947368421052,4.605263157894736,57.89473684210527,0.14285714285714285,make shake burn
+Jamie,Phillip,0.0,0.0,40.0,INF,ring
+Brian,Gerald,0.0,0.0,50.0,INF,shoot trip sprawl
+Brian,Gerald,0.0,0.0,50.0,INF,shoot trip sprawl
+Gerald,Brian,3.571428571428571,0.0,44.047619047619044,INF,have snatch scramble hold
+Gerald,Brian,3.571428571428571,0.0,44.047619047619044,INF,have snatch scramble hold
+Gerald,Brian,3.571428571428571,0.0,44.047619047619044,INF,have snatch scramble hold
+Michael,Chris,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Michael,Chris,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Michael,Chris,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Michael,Chris,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Michael,Gerald,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Chris,Gerald,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Chris,Gerald,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Chris,Gerald,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Chris,Gerald,1.1363636363636365,0.0,57.95454545454546,INF,glance have gaze lock lock
+Michael,Phillip,8.333333333333332,1.7857142857142856,51.78571428571429,4.666666666666667,realize have shove have
+Michael,Jamie,8.333333333333332,1.7857142857142856,51.78571428571429,4.666666666666667,realize have shove have
+Phillip,Jamie,8.333333333333332,1.7857142857142856,51.78571428571429,4.666666666666667,realize have shove have
+Michael,Jamie,1.5625,0.0,35.9375,INF,stare
+Jamie,Michael,1.5625,0.0,35.9375,INF,stare
+Phillip,Jamie,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,have
+Gerald,Phil,0.0,0.0,28.57142857142857,INF,be
+Gerald,Michael,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be look
+Michael,Gerald,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be look
+Michael,Gerald,2.34375,2.34375,57.8125,1.0,narrow snap heave
+Michael,Jamie,0.0,0.0,60.0,INF,look
+Michael,Phillip,0.9615384615384616,0.0,45.19230769230769,INF,say
+Michael,Gerald,0.0,0.0,50.0,INF,swing
+Michael,Gerald,0.0,0.0,50.0,INF,swing
+Michael,Chris,3.6764705882352944,8.088235294117647,52.94117647058824,0.45454545454545453,haze hear suck
+Michael,Chris,3.6764705882352944,8.088235294117647,52.94117647058824,0.45454545454545453,haze hear suck
+Brian,Michael,0.0,0.0,55.55555555555556,INF,gaze dart
+Brian,Michael,0.0,0.0,55.55555555555556,INF,gaze dart
+Michael,Gerald,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,shoot slice threaten
+Michael,Chris,1.25,0.0,38.75,INF,shift press
+Michael,Jamie,1.25,0.0,38.75,INF,shift press
+Chris,Jamie,1.25,0.0,38.75,INF,shift press
+Chris,Gerald,0.0,0.0,37.5,INF,swing
+Michael,Jamie,0.0,0.0,50.0,INF,shoot miss hit
+Michael,Jamie,0.0,0.0,50.0,INF,shoot miss hit
+Michael,Jamie,0.0,0.0,50.0,INF,shoot miss hit
+Gerald,Brian,1.5625,0.0,35.9375,INF,shoot
+Gerald,Chris,0.625,3.125,46.25,0.2,shoot go shoot
+Gerald,Brian,0.625,3.125,46.25,0.2,shoot go shoot
+Chris,Gerald,0.625,3.125,46.25,0.2,shoot go shoot
+Chris,Brian,0.625,3.125,46.25,0.2,shoot go shoot
+Gerald,Brian,0.625,3.125,46.25,0.2,shoot go shoot
+Phillip,Jamie,0.0,0.0,28.57142857142857,INF,slice
+Phillip,Chris,8.333333333333332,4.166666666666666,37.5,2.0,meet
+Chris,Michael,3.3333333333333335,0.0,50.0,INF,take
+Michael,Jamie,3.125,0.0,31.874999999999996,INF,be be
+Michael,Brian,3.125,0.0,31.874999999999996,INF,be be
+Michael,Chris,3.125,0.0,31.874999999999996,INF,be be
+Jamie,Brian,3.125,0.0,31.874999999999996,INF,be be
+Jamie,Chris,3.125,0.0,31.874999999999996,INF,be be
+Brian,Chris,3.125,0.0,31.874999999999996,INF,be be
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Michael,Chris,0.625,0.0,59.375,INF,move see stare
+Gerald,Chris,0.0,8.333333333333332,25.0,0.0,frown study
+Brian,Michael,0.78125,5.46875,50.0,0.14285714285714285,stream
+Michael,Brian,0.78125,5.46875,50.0,0.14285714285714285,stream
+Chris,Brian,4.545454545454546,2.272727272727273,29.545454545454547,2.0,do make whisper
+Phillip,Gerald,0.0,0.0,40.0,INF,shout
+Chris,Michael,2.5,0.0,50.83333333333333,INF,meet gaze know have
+Michael,Chris,2.5,0.0,50.83333333333333,INF,meet gaze know have
+Phillip,Daniel,0.0,0.0,66.66666666666666,INF,do care be
+Phillip,Jamie,5.357142857142857,3.571428571428571,41.07142857142857,1.5,say
+Phillip,Chris,1.9230769230769231,1.9230769230769231,42.30769230769231,1.0,say tremble
+Chris,Gerald,0.0,0.0,50.0,INF,swerve
+Chris,Gerald,0.0,0.0,50.0,INF,swerve
+Chris,Gerald,0.0,2.083333333333333,31.25,0.0,be
+Ghostman,Chris,0.4807692307692308,1.9230769230769231,51.442307692307686,0.25,give move point
+Ghostman,Chris,0.4807692307692308,1.9230769230769231,51.442307692307686,0.25,give move point
+Ghostman,Brian,0.4807692307692308,1.9230769230769231,51.442307692307686,0.25,give move point
+Chris,Brian,0.4807692307692308,1.9230769230769231,51.442307692307686,0.25,give move point
+Chris,Brian,0.4807692307692308,1.9230769230769231,51.442307692307686,0.25,give move point
+Jamie,Michael,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,suck stare
+Jamie,Michael,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,suck stare
+Jamie,Chris,2.272727272727273,0.0,52.27272727272727,INF,feel run
+Chris,Brian,2.083333333333333,0.0,47.91666666666667,INF,have find
+Chris,Michael,2.083333333333333,0.0,47.91666666666667,INF,have find
+Brian,Michael,2.083333333333333,0.0,47.91666666666667,INF,have find
+Chris,Brian,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,be tell talk try distract
+Brian,Chris,2.232142857142857,2.6785714285714284,52.23214285714286,0.8333333333333334,be tell talk try distract
+Brian,Chris,0.8333333333333334,0.4166666666666667,62.083333333333336,2.0,gaze have shoot lose fall yank
+Brian,Chris,0.8333333333333334,0.4166666666666667,62.083333333333336,2.0,gaze have shoot lose fall yank
+Brian,Chris,0.8333333333333334,0.4166666666666667,62.083333333333336,2.0,gaze have shoot lose fall yank
+Chris,Michael,0.8928571428571428,0.0,63.39285714285714,INF,watch
+Chris,Michael,0.8928571428571428,0.0,63.39285714285714,INF,watch
+Jamie,Chris,0.0,0.0,54.54545454545454,INF,feel tighten
+Chris,Jamie,1.953125,1.5625,58.984375,1.25,be be spend lock bind
+Jamie,Chris,1.953125,1.5625,58.984375,1.25,be be spend lock bind
+Jamie,Chris,1.953125,1.5625,58.984375,1.25,be be spend lock bind
+Brian,Jamie,3.125,5.208333333333334,50.0,0.6,sniffle be
+Brian,Chris,3.125,5.208333333333334,50.0,0.6,sniffle be
+Jamie,Chris,3.125,5.208333333333334,50.0,0.6,sniffle be
+Chris,Ghostman,5.0,1.6666666666666667,46.666666666666664,3.0,look see
+Chris,Jamie,5.0,1.6666666666666667,46.666666666666664,3.0,look see
+Chris,Jamie,5.0,1.6666666666666667,46.666666666666664,3.0,look see
+Ghostman,Jamie,5.0,1.6666666666666667,46.666666666666664,3.0,look see
+Ghostman,Jamie,5.0,1.6666666666666667,46.666666666666664,3.0,look see
+Jamie,Brian,0.0,0.0,50.0,INF,handle see
+Chris,Brian,0.0,5.357142857142857,37.5,0.0,be go get say ignore
+Chris,Jamie,5.357142857142857,8.928571428571429,42.857142857142854,0.6,want warn hold be
+Chris,Ghostman,3.571428571428571,5.357142857142857,38.69047619047619,0.6666666666666666,meet give gaze go
+Chris,Ghostman,3.571428571428571,5.357142857142857,38.69047619047619,0.6666666666666666,meet give gaze go
+Chris,Ghostman,3.571428571428571,5.357142857142857,38.69047619047619,0.6666666666666666,meet give gaze go
+Chris,Ghostman,3.571428571428571,5.357142857142857,38.69047619047619,0.6666666666666666,meet give gaze go
+Jamie,Phil,0.0,0.0,33.33333333333333,INF,let go
+Jamie,Brian,3.571428571428571,0.0,39.285714285714285,INF,get happen
+Phil,Jamie,1.25,3.75,35.0,0.3333333333333333,clench wince
+Phil,Jamie,1.25,3.75,35.0,0.3333333333333333,clench wince
+Michael,Jamie,4.761904761904762,0.5952380952380952,51.78571428571429,8.0,focus try clear have learn
+Michael,Jamie,4.761904761904762,0.5952380952380952,51.78571428571429,8.0,focus try clear have learn
+Michael,Jamie,0.0,0.0,41.66666666666667,INF,tighten
+Michael,Jamie,0.0,0.0,41.66666666666667,INF,tighten
+Jamie,Michael,0.0,0.0,41.66666666666667,INF,tighten
+Phillip,Jamie,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,knock cry land
+Phillip,Michael,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,knock cry land
+Jamie,Michael,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,knock cry land
+Michael,Jamie,0.7352941176470588,0.0,58.08823529411765,INF,thunder stay
+Michael,Jamie,0.7352941176470588,0.0,58.08823529411765,INF,thunder stay
+Jamie,Phillip,0.0,0.0,50.0,INF,pull lunge grab
+Phillip,Maxwell Brody,0.0,6.25,43.75,0.0,thrash throw
+Michael,Jamie,3.125,0.78125,46.09375,4.0,grab try haul
+Phillip,Maxwell Brody,1.6304347826086956,0.5434782608695652,50.0,3.0,have slice force be go
+Maxwell Brody,Phillip,1.6304347826086956,0.5434782608695652,50.0,3.0,have slice force be go
+Chris,Phillip,0.0,0.0,57.89473684210527,INF,spot rush tackle
+Chris,Brian,0.0,0.0,50.0,INF,jerk point
+Brian,Chris,0.0,0.0,50.0,INF,jerk point
+Chris,Ghostman,0.0,3.571428571428571,67.85714285714286,0.0,lunge come shove go
+Chris,Brian,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,grab rip fling
+Brian,Chris,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,grab rip fling
+Brian,Chris,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,grab rip fling
+Chris,Brian,0.78125,0.0,49.21875,INF,hear scream let go
+Chris,Brian,0.78125,0.0,49.21875,INF,hear scream let go
+Brian,Phillip,0.0,0.0,41.66666666666667,INF,bind yell
+Brian,Michael,0.0,0.0,41.66666666666667,INF,bind yell
+Phillip,Michael,0.0,0.0,41.66666666666667,INF,bind yell
+Phillip,Michael,0.0,0.5434782608695652,51.63043478260869,0.0,thrust tear try see
+Phillip,Michael,0.0,0.5434782608695652,51.63043478260869,0.0,thrust tear try see
+Jamie,Michael,0.0,0.0,50.0,INF,grab
+Michael,Chris,0.0,2.5735294117647056,44.48529411764706,0.0,pound swallow press rest grind
+Michael,Ghostman,0.0,2.5735294117647056,44.48529411764706,0.0,pound swallow press rest grind
+Chris,Ghostman,0.0,2.5735294117647056,44.48529411764706,0.0,pound swallow press rest grind
+Chris,Michael,0.0,2.5735294117647056,44.48529411764706,0.0,pound swallow press rest grind
+Ghostman,Michael,0.0,2.5735294117647056,44.48529411764706,0.0,pound swallow press rest grind
+Ghostman,Chris,2.7777777777777777,2.083333333333333,45.13888888888889,1.3333333333333333,stop fight hold trap
+Chris,Jamie,1.1363636363636365,0.0,35.22727272727273,INF,have get cover say
+Ghostman,Chris,2.083333333333333,0.0,47.91666666666667,INF,be hold
+Jamie,Chris,1.1363636363636365,0.0,53.40909090909091,INF,sound be discipline
+Jamie,Chris,1.1363636363636365,0.0,53.40909090909091,INF,sound be discipline
+Michael,Chris,6.25,3.571428571428571,40.17857142857143,1.75,talk enter
+Michael,Chris,6.25,3.571428571428571,40.17857142857143,1.75,talk enter
+Jamie,Chris,1.4705882352941175,2.941176470588235,54.41176470588235,0.5,stand train
+Jamie,Chris,1.4705882352941175,2.941176470588235,54.41176470588235,0.5,stand train
+Ghostman,Chris,0.0,0.0,52.38095238095239,INF,cover slump
+Ghostman,Chris,0.0,0.0,52.38095238095239,INF,cover slump
+Ghostman,Chris,0.0,0.0,52.38095238095239,INF,cover slump
+Mason,Ray,0.0,0.0,70.0,INF,do look run pull
+Mason,Ray,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,jerk have start move catch
+Mason,Ray,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,jerk have start move catch
+Ray,Mason,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,jerk have start move catch
+Mason,Ray,0.0,0.0,80.0,INF,yell
+Brian,Mason,0.0,0.0,30.0,INF,be state
+Mason,Ray,6.25,6.25,45.83333333333333,1.0,be walk
+Mason,Brian,2.941176470588235,0.0,44.11764705882353,INF,take lead step
+Brian,Mason,2.941176470588235,0.0,44.11764705882353,INF,take lead step
+Mason,Brian,0.0,0.0,57.14285714285714,INF,push squint
+Brian,Mason,0.0,0.0,57.14285714285714,INF,push squint
+Chris,Michael,3.125,0.0,51.87500000000001,INF,move glance see be keep
+Chris,Mason,3.125,0.0,51.87500000000001,INF,move glance see be keep
+Chris,Mason,3.125,0.0,51.87500000000001,INF,move glance see be keep
+Michael,Mason,3.125,0.0,51.87500000000001,INF,move glance see be keep
+Michael,Mason,3.125,0.0,51.87500000000001,INF,move glance see be keep
+Hinkes,Gerald,3.571428571428571,0.5952380952380952,38.69047619047619,6.0,have link
+Ghostman,Chris,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,have go hound
+Ghostman,Jamie,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,have go hound
+Chris,Jamie,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,have go hound
+Brian,Jamie,2.272727272727273,0.0,43.18181818181818,INF,be swear check
+Jamie,Brian,2.272727272727273,0.0,43.18181818181818,INF,be swear check
+Brian,Ghostman,1.6666666666666667,0.0,38.333333333333336,INF,have blossom seem put
+Brian,Ghostman,1.6666666666666667,0.0,38.333333333333336,INF,have blossom seem put
+Ghostman,Brian,1.6666666666666667,0.0,38.333333333333336,INF,have blossom seem put
+Brian,Jamie,4.017857142857143,4.464285714285714,41.517857142857146,0.9,talk accept have
+Brian,Jamie,4.017857142857143,4.464285714285714,41.517857142857146,0.9,talk accept have
+Brian,Jamie,4.017857142857143,4.464285714285714,41.517857142857146,0.9,talk accept have
+Chris,Ghostman,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Chris,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Chris,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Chris,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Ghostman,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Ghostman,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Ghostman,Jamie,2.734375,7.03125,43.359375,0.3888888888888889,say catch study be search
+Michael,Chris,8.035714285714286,0.0,56.25,INF,have tell be
+Michael,Chris,8.035714285714286,0.0,56.25,INF,have tell be
+Cecilia,Michael,2.5,0.0,37.5,INF,have stare
+Cecilia,Chris,2.5,0.0,37.5,INF,have stare
+Cecilia,Michael,2.5,0.0,37.5,INF,have stare
+Cecilia,Chris,2.5,0.0,37.5,INF,have stare
+Michael,Chris,2.5,0.0,37.5,INF,have stare
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Jamie,Chris,4.464285714285714,0.0,45.535714285714285,INF,hear watch scan grip search have know
+Daniel,Chris,0.0,3.571428571428571,39.285714285714285,0.0,whisper
+Cecilia,Chris,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Cecilia,Chris,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Cecilia,Chris,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Chris,Cecilia,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Cecilia,Chris,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Cecilia,Chris,0.0,0.0,47.05882352941176,INF,rush wrap wipe
+Chris,Jamie,2.840909090909091,6.8181818181818175,35.79545454545455,0.4166666666666667,tremble feel be
+Chris,Cecilia,5.0,1.25,53.75,4.0,have be
+Cecilia,Chris,4.861111111111112,2.7777777777777777,59.02777777777778,1.75,have undergo
+Brian,Jamie,2.0,3.0,59.0,0.6666666666666666,confide want have say die
+Brian,Jamie,2.0,3.0,59.0,0.6666666666666666,confide want have say die
+Brian,Jamie,2.0,3.0,59.0,0.6666666666666666,confide want have say die
+Jamie,Cecilia,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,do step mother have need
+Jamie,Brian,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,do step mother have need
+Cecilia,Brian,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,do step mother have need
+Spencer,Juan,1.6666666666666667,1.6666666666666667,50.0,1.0,have find miss turn
+Spencer,Brian,1.6666666666666667,1.6666666666666667,50.0,1.0,have find miss turn
+Juan,Spencer,1.6666666666666667,1.6666666666666667,50.0,1.0,have find miss turn
+Juan,Brian,1.6666666666666667,1.6666666666666667,50.0,1.0,have find miss turn
+Spencer,Brian,1.6666666666666667,1.6666666666666667,50.0,1.0,have find miss turn
+Brian,Jamie,2.272727272727273,0.5681818181818182,56.25,4.0,draw have dream share
+Brian,Jamie,2.272727272727273,0.5681818181818182,56.25,4.0,draw have dream share
+Brian,Jamie,2.272727272727273,0.5681818181818182,56.25,4.0,draw have dream share
+Brian,Chris,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Brian,Chris,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Chris,Brian,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Chris,Brian,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Brian,Chris,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Brian,Chris,9.239130434782608,1.6304347826086956,36.95652173913043,5.666666666666667,give keep forgive
+Chris,Brian,4.166666666666666,1.0416666666666665,53.125,4.0,have provide
+Chris,Brian,4.166666666666666,1.0416666666666665,53.125,4.0,have provide
+Brian,Chris,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,look feel
+Chris,Brian,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,look feel
+Brian,Chris,3.90625,0.390625,48.828125,10.0,search comb try remember have be
+Chris,Brian,3.90625,0.390625,48.828125,10.0,search comb try remember have be
+Chris,Brian,0.0,0.0,45.45454545454545,INF,know
+Michael,Brian,5.681818181818182,2.272727272727273,64.77272727272727,2.5,have install
+Michael,Brian,1.0,1.5,61.5,0.6666666666666666,discuss move agree be spend
+Jamie,Brian,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,have pop pull see
+Jamie,Brian,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,have pop pull see
+Brian,Jamie,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,have pop pull see
+Brian,Jamie,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,have pop pull see
+Jamie,Brian,4.6875,1.5625,56.25,3.0,give
+Brian,Jamie,5.769230769230769,1.9230769230769231,61.53846153846154,3.0,tell have rent
+Jamie,Brian,0.0,2.083333333333333,56.25,0.0,move
+Jamie,Brian,0.0,2.083333333333333,56.25,0.0,move
+Michael,Brian,0.0,0.0,73.33333333333333,INF,ask hold
+Michael,Brian,0.0,0.0,73.33333333333333,INF,ask hold
+Michael,Brian,0.0,0.0,73.33333333333333,INF,ask hold
+Michael,Brian,10.416666666666668,0.0,56.25,INF,make
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Brian,Michael,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Brian,Michael,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Brian,Michael,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Michael,Brian,1.644736842105263,0.3289473684210526,63.81578947368421,5.0,put make try make prove go be
+Brian,Michael,0.0,0.0,28.57142857142857,INF,be
+Brian,Michael,7.8125,0.0,42.1875,INF,be
+Michael,Brian,3.125,0.0,51.041666666666664,INF,wait pass take walk have widen
+Michael,Brian,3.125,0.0,51.041666666666664,INF,wait pass take walk have widen
+Brian,Michael,3.125,0.0,51.041666666666664,INF,wait pass take walk have widen
+Michael,Brian,3.125,0.0,51.041666666666664,INF,wait pass take walk have widen
+Jamie,Brian,0.5434782608695652,0.0,51.63043478260869,INF,embrace smile move hike
+Michael,Jamie,0.0,0.0,52.63157894736842,INF,take recalibrate be
+Michael,Jamie,0.0,0.0,52.63157894736842,INF,take recalibrate be
+Brian,Chris,0.0,0.0,42.857142857142854,INF,do
+Brian,Senate,1.7857142857142856,2.380952380952381,48.214285714285715,0.75,have resign stand heal
+Senate,Brian,1.7857142857142856,2.380952380952381,48.214285714285715,0.75,have resign stand heal
+Brian,Michael,0.0,0.0,45.0,INF,be spend tramp
+Brian,Jamie,0.0,0.0,45.0,INF,be spend tramp
+Brian,Chris,0.0,0.0,45.0,INF,be spend tramp
+Brian,Michael,0.0,0.0,45.0,INF,be spend tramp
+Brian,Jamie,0.0,0.0,45.0,INF,be spend tramp
+Brian,Chris,0.0,0.0,45.0,INF,be spend tramp
+Michael,Jamie,0.0,0.0,45.0,INF,be spend tramp
+Michael,Chris,0.0,0.0,45.0,INF,be spend tramp
+Jamie,Chris,0.0,0.0,45.0,INF,be spend tramp
+Michael,Jamie,5.833333333333333,2.5,58.333333333333336,2.3333333333333335,feel squeeze
+Michael,Jamie,5.833333333333333,2.5,58.333333333333336,2.3333333333333335,feel squeeze
+Michael,Chris,3.125,1.5625,45.3125,2.0,watch
+Michael,Jamie,5.147058823529411,1.4705882352941175,40.44117647058824,3.5,hug lay inhale
+Michael,Jamie,5.147058823529411,1.4705882352941175,40.44117647058824,3.5,hug lay inhale
+Michael,Jamie,5.147058823529411,1.4705882352941175,40.44117647058824,3.5,hug lay inhale

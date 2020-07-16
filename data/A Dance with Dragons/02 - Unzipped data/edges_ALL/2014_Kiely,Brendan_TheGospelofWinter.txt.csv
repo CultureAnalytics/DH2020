@@ -1,0 +1,794 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mr. Weinstein,Mother,0.0,2.1341463414634148,63.71951219512195,0.0,have sit read be be get say fuck
+Elena,Mother,0.0,3.3333333333333335,56.666666666666664,0.0,wear wear throw
+Elena,Mother,0.0,3.3333333333333335,56.666666666666664,0.0,wear wear throw
+Cindy,Mother,1.7361111111111112,0.3472222222222222,61.80555555555556,5.0,be glide be have pass
+Cindy,Mother,1.7361111111111112,0.3472222222222222,61.80555555555556,5.0,be glide be have pass
+Cindy,Mother,1.7361111111111112,0.3472222222222222,61.80555555555556,5.0,be glide be have pass
+Gwen,Cindy,0.0,0.0,33.33333333333333,INF,say
+Cindy,Mother,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,be have stretch
+Cindy,Mother,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,be have stretch
+Mother,Cindy,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,be have stretch
+Cindy,James,0.0,1.3888888888888888,68.98148148148148,0.0,see be
+Cindy,James,0.0,1.3888888888888888,68.98148148148148,0.0,see be
+Donovan,Cindy,2.34375,1.953125,51.953125,1.2,be attend be
+Donovan,Mike,1.3513513513513513,0.33783783783783783,55.067567567567565,4.0,slide try make see wave
+Donovan,Mike,1.3513513513513513,0.33783783783783783,55.067567567567565,4.0,slide try make see wave
+CDA,Mark,2.083333333333333,0.4166666666666667,60.83333333333333,5.0,be have say be swim
+Mark,Mike,1.5625,1.5625,40.625,1.0,get talk say
+Mike,Mark,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,take
+Mark,Mike,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,try pull let go
+Mark,Mike,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,try pull let go
+Mark,Mike,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,try pull let go
+Mark,Mike,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,try pull let go
+Mark,Mike,1.0,1.0,62.0,1.0,give push sit
+Mark,Mother,0.3676470588235294,0.7352941176470588,60.66176470588235,0.5,be do be accustom do roll be save
+Mother,Mark,0.3676470588235294,0.7352941176470588,60.66176470588235,0.5,be do be accustom do roll be save
+John,Mr. Weinstein,2.272727272727273,2.272727272727273,50.0,1.0,be have read be
+Josie,Sophie,0.0,1.9230769230769231,36.53846153846153,0.0,know
+Josie,Sophie,1.9736842105263157,0.6578947368421052,44.73684210526316,3.0,stand peer be look
+Josie,Sophie,0.0,0.0,50.0,INF,walk
+Josie,Sophie,4.166666666666666,2.5,40.0,1.6666666666666667,have say
+Josie,Mark,4.166666666666666,2.5,40.0,1.6666666666666667,have say
+Sophie,Mark,4.166666666666666,2.5,40.0,1.6666666666666667,have say
+Jesus,Josie,0.8928571428571428,0.0,34.82142857142857,INF,sound be say
+Josie,Jesus,0.8928571428571428,0.0,34.82142857142857,INF,sound be say
+Josie,Sophie,0.625,5.0,44.375,0.125,pull survey scatter
+Josie,Sophie,0.0,3.125,55.208333333333336,0.0,be picture scowl hear
+Donovan,Sophie,0.872093023255814,0.29069767441860467,56.97674418604651,3.0,wave go have sleep be go
+Josie,Sophie,0.0,0.0,50.0,INF,brush step follow
+Josie,Sophie,0.0,0.0,50.0,INF,brush step follow
+Barbara,Josie,0.0,0.0,37.5,INF,clean
+Aidan,CDA,4.545454545454546,4.545454545454546,54.54545454545454,1.0,be scratch stall be be say
+Barbara,Mark,1.25,1.25,37.5,1.0,march
+Barbara,Mark,3.125,3.125,18.75,1.0,
+Josie,Mrs. Kowolski,0.0,0.0,28.57142857142857,INF,
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Sophie,Mark,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,follow hold follow
+Mark,Barbara,0.0,1.25,28.749999999999996,0.0,say
+Mrs. Kowolski,Josie,4.166666666666666,0.0,29.166666666666668,INF,say be hang
+Aidan,Mark,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,do take say
+Aidan,Mark,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,do take say
+Greg,Aidan,0.0,0.0,16.666666666666664,INF,
+Greg,Catholic,0.8928571428571428,0.0,70.53571428571429,INF,be help raise
+Greg,Aidan,0.0,0.0,33.33333333333333,INF,do beat
+Greg,Aidan,7.6923076923076925,0.9615384615384616,37.5,8.0,be grow
+Greg,Aidan,5.681818181818182,0.0,30.681818181818183,INF,let go find
+Mother,Cindy,3.4090909090909087,1.893939393939394,61.36363636363637,1.8,sit have huddle do know
+Mother,Cindy,3.4090909090909087,1.893939393939394,61.36363636363637,1.8,sit have huddle do know
+Mother,Greg,0.0,7.352941176470589,57.35294117647059,0.0,step give
+Cindy,Greg,1.9230769230769231,9.615384615384617,34.61538461538461,0.2,laugh mock
+Mother,Greg,0.5681818181818182,0.0,44.88636363636363,INF,offer lead take follow
+Mother,Greg,0.5681818181818182,0.0,44.88636363636363,INF,offer lead take follow
+Cindy,Greg,2.941176470588235,0.7352941176470588,37.5,4.0,have hear enjoy work say
+Greg,James,4.807692307692308,0.0,64.42307692307693,INF,drop think console
+Elena,Teresa,0.0,1.3392857142857142,41.517857142857146,0.0,lean
+Elena,Mateo,0.0,1.3392857142857142,41.517857142857146,0.0,lean
+Elena,Teresa,0.0,1.3392857142857142,41.517857142857146,0.0,lean
+Elena,Mateo,0.0,1.3392857142857142,41.517857142857146,0.0,lean
+Teresa,Mateo,0.0,1.3392857142857142,41.517857142857146,0.0,lean
+Elena,Candido,1.5625,1.5625,46.875,1.0,have
+Elena,Candido,1.5625,1.5625,46.875,1.0,have
+Elena,Teresa,1.5625,1.5625,46.875,1.0,have
+Candido,Teresa,1.5625,1.5625,46.875,1.0,have
+Candido,Teresa,1.5625,1.5625,46.875,1.0,have
+Donovan,Greg,5.803571428571429,2.232142857142857,52.67857142857143,2.6,think want say have do know reach
+Donovan,Greg,5.803571428571429,2.232142857142857,52.67857142857143,2.6,think want say have do know reach
+Catholic,Elena,7.211538461538461,3.3653846153846154,58.65384615384615,2.142857142857143,be be move
+Catholic,Donovan,0.8064516129032258,0.4032258064516129,60.08064516129033,2.0,be have say attend
+Dooley,Greg,2.1739130434782608,1.6304347826086956,50.54347826086957,1.3333333333333333,have be lead know go hear recite
+Greg,Dooley,2.1739130434782608,1.6304347826086956,50.54347826086957,1.3333333333333333,have be lead know go hear recite
+Dooley,Greg,2.754237288135593,0.423728813559322,51.059322033898304,6.5,be be do ask forgive create be want become
+Dooley,Greg,2.754237288135593,0.423728813559322,51.059322033898304,6.5,be be do ask forgive create be want become
+Dooley,Greg,2.754237288135593,0.423728813559322,51.059322033898304,6.5,be be do ask forgive create be want become
+Dooley,Greg,2.754237288135593,0.423728813559322,51.059322033898304,6.5,be be do ask forgive create be want become
+Greg,Dooley,0.0,0.0,41.66666666666667,INF,wait say
+Dooley,Fred,5.681818181818182,0.0,39.77272727272727,INF,be get
+Dooley,Greg,0.0,0.0,62.5,INF,place glare
+Josie,Sophie,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Josie,Mark,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Josie,CDA,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Sophie,Mark,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Sophie,CDA,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Mark,CDA,4.009433962264151,4.952830188679245,51.41509433962265,0.8095238095238095,want talk rush yell be hate be go make
+Aidan,Greg,4.807692307692308,0.0,25.961538461538463,INF,feel say
+Aidan,Greg,0.0,0.0,35.714285714285715,INF,have say
+Aidan,Greg,2.083333333333333,0.0,42.36111111111111,INF,have start trust say pull
+Aidan,Greg,0.0,0.0,47.05882352941176,INF,have take continue
+Greg,Aidan,3.0,2.0,43.0,1.5,say look remember make
+Greg,Aidan,3.125,0.0,46.875,INF,do make ask say look
+Aidan,Greg,3.125,0.0,46.875,INF,do make ask say look
+Greg,Cindy,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,stare hear shout
+Greg,Dooley,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,stare hear shout
+Cindy,Dooley,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,stare hear shout
+Greg,Cindy,0.0,0.9615384615384616,45.19230769230769,0.0,knock poke
+Greg,Cindy,0.0,0.9615384615384616,45.19230769230769,0.0,knock poke
+Cindy,Greg,0.0,0.9615384615384616,45.19230769230769,0.0,knock poke
+Cindy,Greg,0.0,0.9615384615384616,45.19230769230769,0.0,knock poke
+James,Greg,0.0,0.0,50.0,INF,push step
+Aidan,Greg,0.0,5.208333333333334,36.45833333333333,0.0,say cut
+Greg,Cindy,0.0,0.0,30.76923076923077,INF,be see
+Cindy,Greg,0.0,0.0,30.76923076923077,INF,be see
+Aidan,Greg,0.0,4.464285714285714,24.107142857142858,0.0,say apologize
+Aidan,James,0.0,4.464285714285714,24.107142857142858,0.0,say apologize
+Greg,James,0.0,4.464285714285714,24.107142857142858,0.0,say apologize
+Aidan,Greg,6.018518518518518,0.4629629629629629,41.66666666666667,13.0,be behave make feel do
+Cindy,Greg,0.0,0.0,28.57142857142857,INF,listen
+Cindy,Greg,0.0,0.0,53.84615384615385,INF,pat push
+Cindy,Greg,0.0,0.0,53.84615384615385,INF,pat push
+Greg,Cindy,0.0,0.0,46.15384615384615,INF,stand usher
+Greg,James,0.0,0.0,46.15384615384615,INF,stand usher
+Cindy,James,0.0,0.0,46.15384615384615,INF,stand usher
+Aidan,James,6.25,0.0,43.75,INF,be
+Aidan,James,6.25,0.0,43.75,INF,be
+Cindy,James,0.0,0.0,50.0,INF,have
+Greg,James,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,hear clap say be go be
+James,Greg,0.3472222222222222,0.6944444444444444,65.625,0.5,do want wait watch wave hold raise smile
+James,Greg,0.3472222222222222,0.6944444444444444,65.625,0.5,do want wait watch wave hold raise smile
+Mark,Sophie,1.5625,1.5625,21.875,1.0,
+Josie,Mr. Weinstein,0.0,0.0,56.00000000000001,INF,see be use study
+Sophie,Mark,3.8461538461538463,1.9230769230769231,55.769230769230774,2.0,be go call hang
+Josie,Sophie,0.0,1.1363636363636365,39.77272727272727,0.0,pick head
+Sophie,Josie,0.0,1.1363636363636365,39.77272727272727,0.0,pick head
+Josie,Mark,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,make wait
+Mark,CDA,1.3157894736842104,2.302631578947368,54.276315789473685,0.5714285714285714,know hang cultivate give do need
+Mark,CDA,1.3157894736842104,2.302631578947368,54.276315789473685,0.5714285714285714,know hang cultivate give do need
+CDA,Mark,1.3157894736842104,2.302631578947368,54.276315789473685,0.5714285714285714,know hang cultivate give do need
+CDA,Mark,1.3157894736842104,2.302631578947368,54.276315789473685,0.5714285714285714,know hang cultivate give do need
+Sophie,Josie,1.5625,3.125,45.3125,0.5,kiss
+Donovan,Mark,1.3888888888888888,2.7777777777777777,29.166666666666668,0.5,be
+Sophie,Josie,2.8846153846153846,0.9615384615384616,50.0,3.0,have say get wrap
+John,Lindh,0.78125,0.0,49.21875,INF,spook stare
+Sophie,Josie,0.0,0.0,36.36363636363637,INF,take follow
+Sophie,Josie,0.0,0.0,36.36363636363637,INF,take follow
+Mark,Josie,0.0,0.0,40.0,INF,fuck add
+Dustin,Josie,1.875,2.5,45.625,0.75,guess have be date say
+Sophie,Mark,2.5,2.5,35.0,1.0,laugh
+Josie,Dustin,2.403846153846154,0.0,55.28846153846154,INF,be have become have do get
+Josie,Dustin,2.403846153846154,0.0,55.28846153846154,INF,be have become have do get
+Josie,Mark,1.3888888888888888,1.3888888888888888,30.555555555555557,1.0,say point
+Sophie,Josie,8.035714285714286,2.6785714285714284,39.285714285714285,3.0,protest amuse watch bicker
+Sophie,Mark,8.035714285714286,2.6785714285714284,39.285714285714285,3.0,protest amuse watch bicker
+Josie,Mark,8.035714285714286,2.6785714285714284,39.285714285714285,3.0,protest amuse watch bicker
+Mark,Josie,5.769230769230769,0.9615384615384616,16.346153846153847,6.0,be say
+Josie,Sophie,1.25,2.5,46.25,0.5,do
+Josie,Sophie,0.0,0.0,35.294117647058826,INF,drink become punctuate
+Dustin,Josie,0.0,0.0,50.0,INF,be suppose see skip say
+Josie,Mark,1.0416666666666665,1.0416666666666665,39.58333333333333,1.0,skip say
+Josie,Mark,1.5625,1.5625,34.375,1.0,give
+Sophie,Josie,0.0,0.0,45.45454545454545,INF,kiss lean
+Mark,Josie,0.0,0.0,41.66666666666667,INF,come tell
+Josie,Mark,5.208333333333334,1.5625,43.22916666666667,3.3333333333333335,think hum spring
+Josie,Mark,5.208333333333334,1.5625,43.22916666666667,3.3333333333333335,think hum spring
+Josie,Sophie,5.208333333333334,1.5625,43.22916666666667,3.3333333333333335,think hum spring
+Mark,Sophie,5.208333333333334,1.5625,43.22916666666667,3.3333333333333335,think hum spring
+Mark,Sophie,5.208333333333334,1.5625,43.22916666666667,3.3333333333333335,think hum spring
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Greg,Aidan,1.1130136986301369,0.8561643835616438,57.619863013698634,1.3,continue believe be give give have take tear have be sneeze laugh make tell feel cry hold do say do cry take believe say take be cry give take
+Josie,Mark,5.147058823529411,2.941176470588235,44.85294117647059,1.75,want talk do
+Josie,Sophie,5.147058823529411,2.941176470588235,44.85294117647059,1.75,want talk do
+Mark,Sophie,5.147058823529411,2.941176470588235,44.85294117647059,1.75,want talk do
+Greg,Dooley,2.1739130434782608,0.0,54.347826086956516,INF,be
+Greg,Dooley,2.1739130434782608,0.0,54.347826086956516,INF,be
+James,Cindy,0.0,0.0,50.0,INF,be
+Greg,James,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be say
+Greg,James,1.5625,1.5625,59.375,1.0,know be pour
+James,Greg,1.5625,0.390625,58.984375,4.0,stand know smell know know blast move stay make wonder be go run
+Greg,James,3.1914893617021276,2.393617021276596,49.734042553191486,1.3333333333333333,have talk say roll be grip have feel have walk
+James,Greg,3.1914893617021276,2.393617021276596,49.734042553191486,1.3333333333333333,have talk say roll be grip have feel have walk
+James,Greg,3.1914893617021276,2.393617021276596,49.734042553191486,1.3333333333333333,have talk say roll be grip have feel have walk
+Greg,James,1.3888888888888888,4.166666666666666,50.0,0.3333333333333333,be
+Greg,James,2.0161290322580645,0.8064516129032258,61.693548387096776,2.5,make repeat say mean have calm
+James,Greg,2.0161290322580645,0.8064516129032258,61.693548387096776,2.5,make repeat say mean have calm
+Greg,James,2.734375,1.953125,54.6875,1.4,switch urge beckon hear
+James,Greg,2.734375,1.953125,54.6875,1.4,switch urge beckon hear
+Greg,James,3.571428571428571,6.25,40.17857142857143,0.5714285714285714,be call
+Greg,Aidan,0.0,0.0,0.0,INF,
+Aidan,Greg,0.0,0.0,40.0,INF,come say
+Greg,Aidan,0.0,3.125,38.54166666666667,0.0,be say
+Greg,Aidan,0.0,0.0,33.33333333333333,INF,be say
+Aidan,Greg,0.0,0.0,0.0,INF,
+Greg,Aidan,0.0,0.0,0.0,INF,
+Aidan,Greg,0.0,0.0,25.0,INF,say
+Dooley,Greg,0.0,0.0,75.0,INF,ask come
+Dooley,Greg,1.7857142857142856,0.0,55.35714285714286,INF,stare
+McDonald 's,Mobil,1.201923076923077,0.9615384615384616,57.45192307692307,1.25,keep look think be go come hop look see be
+Donovan,National Guard,1.6666666666666667,0.8333333333333334,66.38888888888889,2.0,be picture sit peer lord see
+Donovan,National Guard,1.6666666666666667,0.8333333333333334,66.38888888888889,2.0,be picture sit peer lord see
+Teresa,Elena,1.1363636363636365,0.0,53.40909090909091,INF,squeeze embrace
+Teresa,Elena,1.1363636363636365,0.0,53.40909090909091,INF,squeeze embrace
+Tere,Elena,0.0,0.0,25.0,INF,say hand
+Tere,Elena,0.0,0.0,25.0,INF,say hand
+Elena,Teresa,1.9886363636363635,3.6931818181818183,57.95454545454546,0.5384615384615384,be feel snow march have picture carry steam burst
+Elena,Teresa,1.9886363636363635,3.6931818181818183,57.95454545454546,0.5384615384615384,be feel snow march have picture carry steam burst
+Aidan,Elena,2.5,7.5,20.0,0.3333333333333333,be say
+Elena,Teresa,4.6875,2.1875,50.625,2.142857142857143,have tell watch speak want talk do know
+Teresa,Elena,4.6875,2.1875,50.625,2.142857142857143,have tell watch speak want talk do know
+Teresa,Elena,4.6875,2.1875,50.625,2.142857142857143,have tell watch speak want talk do know
+Teresa,Elena,4.6875,2.1875,50.625,2.142857142857143,have tell watch speak want talk do know
+Teresa,Elena,4.6875,2.1875,50.625,2.142857142857143,have tell watch speak want talk do know
+Elena,Tere,0.0,0.0,38.46153846153847,INF,snap go
+Elena,Candido,2.272727272727273,0.0,43.18181818181818,INF,hold let run
+Elena,Mateo,2.272727272727273,0.0,43.18181818181818,INF,hold let run
+Candido,Mateo,2.272727272727273,0.0,43.18181818181818,INF,hold let run
+Candido,Elena,0.0,0.0,37.5,INF,have say glance
+Elena,Candido,0.0,0.0,46.15384615384615,INF,walk kiss
+Elena,Candido,0.0,0.0,46.15384615384615,INF,walk kiss
+Mateo,Elena,0.0,0.0,25.0,INF,ask
+Elena,Mateo,0.0,0.0,37.5,INF,shush push
+Elena,Mateo,0.0,0.0,37.5,INF,shush push
+Candido,Elena,3.3333333333333335,1.6666666666666667,35.0,2.0,close listen
+Elena,Mother,1.3888888888888888,0.0,54.166666666666664,INF,be be
+Elena,Donovan,1.3888888888888888,0.0,54.166666666666664,INF,be be
+Mother,Donovan,1.3888888888888888,0.0,54.166666666666664,INF,be be
+Teresa,Mateo,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Teresa,Elena,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Mateo,Teresa,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Mateo,Teresa,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Mateo,Elena,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Teresa,Elena,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Teresa,Elena,8.695652173913043,2.989130434782609,49.184782608695656,2.909090909090909,have come envy think be have care stick wonder feel
+Elena,Teresa,2.5,3.75,33.75,0.6666666666666666,be
+Elena,Candido,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Elena,Candido,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Elena,Candido,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Elena,Candido,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Candido,Elena,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Candido,Elena,2.2058823529411766,0.0,44.85294117647059,INF,cut take talk
+Elena,Candido,0.4807692307692308,0.0,61.057692307692314,INF,offer eat smile watch talk
+Elena,Mateo,0.4807692307692308,0.0,61.057692307692314,INF,offer eat smile watch talk
+Candido,Mateo,0.4807692307692308,0.0,61.057692307692314,INF,offer eat smile watch talk
+Candido,Elena,0.0,1.1363636363636365,35.22727272727273,0.0,wink hush
+Candido,Elena,0.0,1.1363636363636365,35.22727272727273,0.0,wink hush
+Elena,Candido,0.0,1.1363636363636365,35.22727272727273,0.0,wink hush
+Elena,Candido,0.0,1.1363636363636365,35.22727272727273,0.0,wink hush
+Candido,Teresa,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Candido,Teresa,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Teresa,Candido,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Teresa,Candido,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Teresa,Candido,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Teresa,Candido,0.8333333333333334,1.6666666666666667,37.5,0.5,bump walk
+Elena,Dooley,0.0,0.0,50.0,INF,wipe
+Elena,Candido,0.0,1.9230769230769231,51.92307692307693,0.0,yell step grab
+Elena,Teresa,0.0,1.9230769230769231,51.92307692307693,0.0,yell step grab
+Candido,Teresa,0.0,1.9230769230769231,51.92307692307693,0.0,yell step grab
+Candido,Elena,0.0,3.6764705882352944,43.38235294117647,0.0,turn reach grab
+Elena,Candido,0.0,0.0,47.368421052631575,INF,hang go wrap
+Elena,Candido,0.0,0.0,47.368421052631575,INF,hang go wrap
+Elena,Candido,0.0,0.0,47.368421052631575,INF,hang go wrap
+Candido,Elena,0.0,0.0,47.368421052631575,INF,hang go wrap
+Candido,Elena,0.0,0.0,47.368421052631575,INF,hang go wrap
+Elena,Candido,0.0,0.0,47.368421052631575,INF,hang go wrap
+Elena,Candido,0.0,7.5,32.5,0.0,be tell
+Elena,Candido,1.5625,0.0,35.9375,INF,push embrace
+Dooley,Elena,1.0416666666666665,0.0,48.95833333333333,INF,come pick add
+Elena,Dooley,1.0416666666666665,0.0,48.95833333333333,INF,come pick add
+Candido,Greg,3.4722222222222223,5.902777777777778,43.40277777777778,0.5882352941176471,think mean inspire be see
+Elena,Candido,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Elena,Mateo,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Candido,Mateo,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Candido,Elena,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Candido,Elena,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Mateo,Elena,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+Mateo,Elena,2.272727272727273,0.0,34.090909090909086,INF,direct take allow help
+CDA,Mother,1.7857142857142856,5.059523809523809,62.202380952380956,0.35294117647058826,be import die see have offer disappear
+Elena,Mother,3.75,2.5,43.75,1.5,feel cast
+Mateo,Candido,1.3888888888888888,5.092592592592593,49.074074074074076,0.2727272727272727,whine complain do want go have
+Mateo,Candido,1.3888888888888888,5.092592592592593,49.074074074074076,0.2727272727272727,whine complain do want go have
+Mateo,Candido,1.3888888888888888,5.092592592592593,49.074074074074076,0.2727272727272727,whine complain do want go have
+Mateo,Candido,1.3888888888888888,5.092592592592593,49.074074074074076,0.2727272727272727,whine complain do want go have
+Dooley,Elena,4.166666666666666,1.5625,48.4375,2.6666666666666665,stick shake relax take speak
+Dooley,Elena,4.166666666666666,1.5625,48.4375,2.6666666666666665,stick shake relax take speak
+Elena,Dooley,4.166666666666666,1.5625,48.4375,2.6666666666666665,stick shake relax take speak
+Elena,Dooley,9.375,0.0,48.95833333333333,INF,be please
+Dooley,Elena,0.0,0.0,54.54545454545454,INF,urge close plead
+Elena,Dooley,0.0,0.0,54.54545454545454,INF,urge close plead
+Elena,Dooley,2.1739130434782608,4.3478260869565215,63.04347826086957,0.5,know have be urge look
+Dooley,Aidan,0.6578947368421052,1.3157894736842104,34.868421052631575,0.5,turn add
+Dooley,Donovan,0.4807692307692308,0.0,41.82692307692308,INF,say continue be remind discuss
+Dooley,Donovan,0.4807692307692308,0.0,41.82692307692308,INF,say continue be remind discuss
+Elena,Dooley,0.0,0.0,57.14285714285714,INF,stand say send
+Dooley,Elena,0.0,0.0,57.14285714285714,INF,stand say send
+Dooley,Elena,0.0,0.0,57.14285714285714,INF,stand say send
+Dooley,Elena,0.4807692307692308,0.0,57.21153846153846,INF,start flicker come be see
+Aidan,Dooley,5.0,0.0,41.66666666666667,INF,please listen say slow
+Mobil,Dooley,0.0,0.0,76.0,INF,look drive know glance
+Aidan,Dooley,0.0,4.861111111111112,45.13888888888889,0.0,snap do come
+Dooley,Aidan,4.166666666666666,1.7857142857142856,36.904761904761905,2.3333333333333335,continue know want do be
+Mother,Dooley,0.0,5.208333333333334,53.125,0.0,move leave mutter
+Mother,Dooley,0.0,5.208333333333334,53.125,0.0,move leave mutter
+Mother,Dooley,1.0416666666666665,0.0,48.95833333333333,INF,yellow squeeze
+Mother,Dooley,1.0416666666666665,0.0,48.95833333333333,INF,yellow squeeze
+Dooley,Elena,6.25,0.0,36.607142857142854,INF,be call know
+Dooley,Greg,4.166666666666666,2.7777777777777777,59.72222222222222,1.5,be tell have be
+Cindy,Mother,4.6875,0.0,64.0625,INF,have suggest have take
+Cindy,Mother,0.9615384615384616,0.0,45.19230769230769,INF,be start hear have look
+Cindy,Mother,0.9615384615384616,0.0,45.19230769230769,INF,be start hear have look
+Cindy,Mother,0.9615384615384616,0.0,45.19230769230769,INF,be start hear have look
+Cindy,Mother,0.9615384615384616,0.0,45.19230769230769,INF,be start hear have look
+Cindy,Mother,3.6764705882352944,0.0,63.970588235294116,INF,have start be have help get organize begin
+Cindy,Mother,3.6764705882352944,0.0,63.970588235294116,INF,have start be have help get organize begin
+Cindy,Mother,3.6764705882352944,0.0,63.970588235294116,INF,have start be have help get organize begin
+Mother,Lincoln Town,8.088235294117647,0.7352941176470588,50.0,11.0,open lean give can greet
+Mother,Lincoln Town,8.088235294117647,0.7352941176470588,50.0,11.0,open lean give can greet
+Greg,Gwen,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,be add
+Gwen,Greg,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,be add
+Aidan,Mother,2.272727272727273,4.545454545454546,56.81818181818182,0.5,need
+Mother,Greg,1.1363636363636365,0.3787878787878788,46.96969696969697,3.0,want keep talk steer push
+Mother,Greg,1.1363636363636365,0.3787878787878788,46.96969696969697,3.0,want keep talk steer push
+Greg,Gwen,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,say know be
+Greg,Aidan,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,say know be
+Gwen,Aidan,2.840909090909091,1.1363636363636365,50.56818181818182,2.5,say know be
+Mother,Greg,0.0,0.0,50.0,INF,blink speak
+Greg,Mother,0.0,0.0,50.0,INF,blink speak
+Greg,Mother,0.0,0.0,53.84615384615385,INF,be offer say
+Mother,Greg,0.5,0.0,67.5,INF,stare be look speak
+Mother,Greg,2.976190476190476,1.1904761904761905,38.69047619047619,2.5,be like discuss say
+Mother,Greg,1.1363636363636365,1.8181818181818181,55.22727272727273,0.625,be watch disappear go be quote be
+Donovan,Mother,3.0585106382978724,2.127659574468085,56.51595744680851,1.4375,have have change be be lead be be make give hate help cope see wipe
+Donovan,James,3.0585106382978724,2.127659574468085,56.51595744680851,1.4375,have have change be be lead be be make give hate help cope see wipe
+Donovan,James,3.0585106382978724,2.127659574468085,56.51595744680851,1.4375,have have change be be lead be be make give hate help cope see wipe
+Mother,James,3.0585106382978724,2.127659574468085,56.51595744680851,1.4375,have have change be be lead be be make give hate help cope see wipe
+Mother,James,3.0585106382978724,2.127659574468085,56.51595744680851,1.4375,have have change be be lead be be make give hate help cope see wipe
+Donovan,Mother,1.2586666666666666,3.2413333333333334,47.5,0.388317564788153,decide present spend figure take take fit find look waddle
+Mother,Mark,1.0869565217391304,0.5434782608695652,63.58695652173913,2.0,load sit wait pick
+Mark,CDA,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,stand introduce do know
+CDA,Mark,2.6785714285714284,0.8928571428571428,57.14285714285714,3.0,stand introduce do know
+Mark,Josie,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,ask want go find make
+Mark,Sophie,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,ask want go find make
+Josie,Sophie,3.8461538461538463,0.4807692307692308,41.82692307692308,8.0,ask want go find make
+Mark,Sophie,3.0,1.5,51.5,2.0,get copy carry
+Mark,Sophie,3.0,1.5,51.5,2.0,get copy carry
+Mark,Sophie,3.0,1.5,51.5,2.0,get copy carry
+Mark,Sophie,3.0,1.5,51.5,2.0,get copy carry
+Mark,Sophie,0.0,0.0,40.0,INF,look
+Dustin,Sophie,3.125,4.166666666666666,51.041666666666664,0.75,be come look
+Mark,Riggs,1.9736842105263157,0.6578947368421052,60.526315789473685,3.0,huddle fix feel come
+CDA,Riggs,3.431372549019608,3.6764705882352944,65.44117647058823,0.9333333333333333,think step find do be tuck curl lean
+CDA,Riggs,3.431372549019608,3.6764705882352944,65.44117647058823,0.9333333333333333,think step find do be tuck curl lean
+Mark,Josie,2.9605263157894735,3.9473684210526314,56.25,0.75,trade dance clash
+Mark,Sophie,2.9605263157894735,3.9473684210526314,56.25,0.75,trade dance clash
+Josie,Sophie,2.9605263157894735,3.9473684210526314,56.25,0.75,trade dance clash
+Josie,Mark,2.9605263157894735,3.9473684210526314,56.25,0.75,trade dance clash
+Sophie,Mark,2.9605263157894735,3.9473684210526314,56.25,0.75,trade dance clash
+Josie,Aidan,2.083333333333333,1.0416666666666665,21.875,2.0,be
+Mark,Josie,2.083333333333333,1.0416666666666665,46.875,2.0,step hold
+Mark,Josie,2.083333333333333,1.0416666666666665,46.875,2.0,step hold
+Josie,Sophie,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Josie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Josie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Josie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Josie,Aidan,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Sophie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Sophie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Sophie,Mark,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Sophie,Aidan,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Mark,Aidan,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Mark,Aidan,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Mark,Aidan,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,want link be know be
+Mark,Feingold,3.125,6.25,15.625,0.5,be
+Mark,Sophie,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,kiss kiss
+Mark,Donovan,0.0,0.0,47.61904761904761,INF,put say be
+Feingold,Mark,0.0,0.0,37.5,INF,have see
+Feingold,Mark,5.681818181818182,0.0,39.77272727272727,INF,let go find say
+Dustin,CDA,1.5625,4.296875,53.515625,0.36363636363636365,circle point spread-eagle
+Dustin,Feingold,1.5625,4.296875,53.515625,0.36363636363636365,circle point spread-eagle
+Dustin,Feingold,1.5625,4.296875,53.515625,0.36363636363636365,circle point spread-eagle
+CDA,Feingold,1.5625,4.296875,53.515625,0.36363636363636365,circle point spread-eagle
+CDA,Feingold,1.5625,4.296875,53.515625,0.36363636363636365,circle point spread-eagle
+Dustin,Nick,0.625,0.0,44.375,INF,laugh point hover
+Dustin,Andre,0.625,0.0,44.375,INF,laugh point hover
+Dustin,Feingold,0.625,0.0,44.375,INF,laugh point hover
+Dustin,Nick,0.625,0.0,44.375,INF,laugh point hover
+Dustin,Andre,0.625,0.0,44.375,INF,laugh point hover
+Dustin,Feingold,0.625,0.0,44.375,INF,laugh point hover
+Nick,Andre,0.625,0.0,44.375,INF,laugh point hover
+Nick,Feingold,0.625,0.0,44.375,INF,laugh point hover
+Andre,Feingold,0.625,0.0,44.375,INF,laugh point hover
+Nick,Feingold,2.0,3.5000000000000004,54.50000000000001,0.5714285714285714,hold poise give hold
+Nick,Andre,2.0,3.5000000000000004,54.50000000000001,0.5714285714285714,hold poise give hold
+Nick,Andre,2.0,3.5000000000000004,54.50000000000001,0.5714285714285714,hold poise give hold
+Feingold,Andre,2.0,3.5000000000000004,54.50000000000001,0.5714285714285714,hold poise give hold
+Feingold,Andre,2.0,3.5000000000000004,54.50000000000001,0.5714285714285714,hold poise give hold
+Dustin,Josie,0.5,1.0,58.5,0.5,turn see lift wipe
+Dustin,Josie,0.5,1.0,58.5,0.5,turn see lift wipe
+Dustin,Josie,0.5,1.0,58.5,0.5,turn see lift wipe
+Josie,Dustin,0.5,1.0,58.5,0.5,turn see lift wipe
+Nick,Feingold,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Feingold,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Feingold,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Feingold,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Nick,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Feingold,Andre,1.6891891891891893,0.6756756756756757,54.391891891891895,2.5,push look close be pull pin
+Sophie,Josie,0.0,0.0,28.57142857142857,INF,yell
+Nick,Mark,3.125,1.5625,70.3125,2.0,get
+Dustin,Josie,1.6304347826086956,4.891304347826087,41.30434782608695,0.3333333333333333,try comfort shake back
+Dustin,Josie,1.6304347826086956,4.891304347826087,41.30434782608695,0.3333333333333333,try comfort shake back
+Dustin,Josie,1.6304347826086956,4.891304347826087,41.30434782608695,0.3333333333333333,try comfort shake back
+Nick,Mark,0.9615384615384616,1.4423076923076923,70.67307692307693,0.6666666666666666,yell make catch pull
+Nick,Dustin,0.9615384615384616,1.4423076923076923,70.67307692307693,0.6666666666666666,yell make catch pull
+Mark,Dustin,0.9615384615384616,1.4423076923076923,70.67307692307693,0.6666666666666666,yell make catch pull
+Josie,Dustin,0.0,1.25,43.75,0.0,do dare touch say step
+Josie,Dustin,0.0,1.25,43.75,0.0,do dare touch say step
+Dustin,Josie,0.0,1.25,43.75,0.0,do dare touch say step
+Dustin,Josie,0.0,1.25,43.75,0.0,do dare touch say step
+Mark,Feingold,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,say nod
+Dustin,Nick,2.7777777777777777,0.0,52.77777777777778,INF,have pin
+Josie,Sophie,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,throb be yell
+Josie,Andre,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,throb be yell
+Sophie,Andre,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,throb be yell
+Josie,Sophie,1.5625,0.78125,53.90625,2.0,crouch ask be
+Mark,Sophie,1.25,5.0,43.75,0.25,leap help
+Nick,Mark,1.0416666666666665,1.0416666666666665,56.25,1.0,step point
+Nick,Mark,1.0416666666666665,1.0416666666666665,56.25,1.0,step point
+Andre,Nick,0.0,1.9230769230769231,44.230769230769226,0.0,grab drag
+Andre,Nick,0.0,1.9230769230769231,44.230769230769226,0.0,grab drag
+Dustin,Josie,4.605263157894736,1.3157894736842104,36.18421052631579,3.5,let find talk say be go
+Josie,Dustin,0.0,5.769230769230769,25.0,0.0,be talk tell
+Josie,Dustin,0.0,5.769230769230769,25.0,0.0,be talk tell
+Josie,Dustin,4.166666666666666,0.0,37.5,INF,reach bat
+Josie,Dustin,4.166666666666666,0.0,37.5,INF,reach bat
+Sophie,Dustin,0.0,0.0,46.15384615384615,INF,walk point
+Sophie,Dustin,0.0,0.0,46.15384615384615,INF,walk point
+Dustin,Sophie,0.0,0.0,46.15384615384615,INF,walk point
+Sophie,Dustin,0.0,0.0,46.15384615384615,INF,walk point
+Sophie,Dustin,0.9615384615384616,0.0,37.5,INF,be be tell
+Dustin,Sophie,0.9615384615384616,0.0,37.5,INF,be be tell
+Josie,Sophie,0.0,0.0,40.0,INF,drape shuffle
+Josie,Sophie,0.0,1.1363636363636365,53.40909090909091,0.0,keep say go do want
+Mark,Sophie,1.25,1.25,57.49999999999999,1.0,light pass
+Sophie,Josie,6.25,2.083333333333333,41.66666666666667,3.0,grin sparkle
+Josie,Mark,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be work have
+Josie,Mark,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be work have
+Mark,Josie,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be work have
+Mark,Josie,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,be work have
+Sophie,Josie,0.0,0.0,20.0,INF,giggle
+Mark,Sophie,2.5,5.0,42.5,0.5,wheeze
+Mark,Josie,1.293103448275862,3.0172413793103448,37.06896551724138,0.42857142857142855,be squint laugh
+Mark,Sophie,1.293103448275862,3.0172413793103448,37.06896551724138,0.42857142857142855,be squint laugh
+Mark,Sophie,1.293103448275862,3.0172413793103448,37.06896551724138,0.42857142857142855,be squint laugh
+Josie,Sophie,1.293103448275862,3.0172413793103448,37.06896551724138,0.42857142857142855,be squint laugh
+Josie,Sophie,1.293103448275862,3.0172413793103448,37.06896551724138,0.42857142857142855,be squint laugh
+Mark,Feingold,3.289473684210526,3.289473684210526,56.57894736842105,1.0,fall talk
+Mark,Feingold,3.289473684210526,3.289473684210526,56.57894736842105,1.0,fall talk
+Josie,Sophie,2.604166666666667,0.0,47.39583333333333,INF,drop stumble say
+Sophie,Josie,2.604166666666667,0.0,47.39583333333333,INF,drop stumble say
+Mark,Josie,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,do say turn head
+Mark,Josie,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,do say turn head
+Josie,Mark,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,do say turn head
+Mark,Josie,2.083333333333333,0.0,31.25,INF,do
+Jesus,Mark,0.6578947368421052,2.631578947368421,44.07894736842105,0.25,look be
+Michael,Barbara,0.0,0.0,43.75,INF,say stop look
+Michael,Barbara,0.0,0.0,43.75,INF,say stop look
+Michael,Mark,0.0,0.0,43.75,INF,say stop look
+Michael,Barbara,0.0,0.0,43.75,INF,say stop look
+Barbara,Mark,0.0,0.0,43.75,INF,say stop look
+Barbara,Mark,0.0,0.0,43.75,INF,say stop look
+Mark,Barbara,0.0,0.0,43.75,INF,say stop look
+Mike,Barbara,3.289473684210526,0.0,54.60526315789473,INF,shake ball rock
+Mike,Barbara,0.8333333333333334,0.8333333333333334,65.0,1.0,shout ask hurry nod do scare
+Mike,Mark,0.8333333333333334,0.8333333333333334,65.0,1.0,shout ask hurry nod do scare
+Barbara,Mark,0.8333333333333334,0.8333333333333334,65.0,1.0,shout ask hurry nod do scare
+Mother,Mike,0.0,0.78125,67.96875,0.0,wait give
+Mike,Greg,1.4285714285714286,2.5,56.07142857142857,0.5714285714285714,try explain be tell be listen respect be protect say have echo have share ring hear
+Mike,Greg,1.4285714285714286,2.5,56.07142857142857,0.5714285714285714,try explain be tell be listen respect be protect say have echo have share ring hear
+Mike,Gwen,0.0,0.0,0.0,INF,
+Gwen,Mike,6.944444444444445,0.0,26.38888888888889,INF,please say
+Mike,Mother,1.9230769230769231,0.0,67.3076923076923,INF,call hurry
+Mother,Mike,1.9230769230769231,0.0,67.3076923076923,INF,call hurry
+Mother,Mike,0.625,3.75,55.625,0.16666666666666666,apologize pause let
+Mother,Mike,0.625,3.75,55.625,0.16666666666666666,apologize pause let
+Mother,Mike,0.0,3.90625,27.34375,0.0,cut thank call
+Mother,Mike,0.0,3.90625,27.34375,0.0,cut thank call
+Mike,Mother,0.0,3.90625,27.34375,0.0,cut thank call
+Mike,Mother,0.0,3.90625,27.34375,0.0,cut thank call
+Mother,Mike,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mother,Mike,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mother,Mike,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mother,Mike,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mike,Mother,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mike,Mother,0.0,0.6578947368421052,46.71052631578947,0.0,silence smile push
+Mother,Mike,1.1363636363636365,0.0,48.86363636363637,INF,explain refer
+Mother,Mike,1.1363636363636365,0.0,48.86363636363637,INF,explain refer
+Mike,Mother,1.1363636363636365,0.0,48.86363636363637,INF,explain refer
+Mike,Mother,1.1363636363636365,0.0,48.86363636363637,INF,explain refer
+Donovan,Elena,10.416666666666668,1.0416666666666665,63.541666666666664,10.0,have be have name have be have raise have name
+Josie,Sophie,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Josie,Mark,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Josie,CDA,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Sophie,Mark,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Sophie,CDA,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Mark,CDA,1.3392857142857142,2.232142857142857,50.0,0.6,want see be go
+Josie,Mark,1.3461538461538463,2.307692307692308,51.73076923076923,0.5833333333333334,be fix feel drive hurt think look slide prove warm
+Josie,Mark,1.3461538461538463,2.307692307692308,51.73076923076923,0.5833333333333334,be fix feel drive hurt think look slide prove warm
+Josie,Mark,1.3461538461538463,2.307692307692308,51.73076923076923,0.5833333333333334,be fix feel drive hurt think look slide prove warm
+Josie,Mark,1.3461538461538463,2.307692307692308,51.73076923076923,0.5833333333333334,be fix feel drive hurt think look slide prove warm
+CDA,Stonebrook,0.5102040816326531,1.0204081632653061,59.693877551020414,0.5,see be be have round swing cut head
+Greg,Aidan,0.0,5.357142857142857,23.214285714285715,0.0,growl
+Aidan,Greg,0.0,5.357142857142857,23.214285714285715,0.0,growl
+Greg,Aidan,6.944444444444445,0.0,26.38888888888889,INF,say
+Greg,Aidan,2.5,2.5,25.0,1.0,expect
+Lincoln Town,CDA,0.0,0.0,60.71428571428571,INF,turn pull
+Greg,Mrs. Perrich,1.875,0.0,56.458333333333336,INF,see be stand lean entertain have gather wait reach grab pull
+Mrs. Perrich,Greg,1.875,0.0,56.458333333333336,INF,see be stand lean entertain have gather wait reach grab pull
+Mrs. Perrich,Greg,1.875,0.0,56.458333333333336,INF,see be stand lean entertain have gather wait reach grab pull
+Mrs. Perrich,Greg,1.875,0.0,56.458333333333336,INF,see be stand lean entertain have gather wait reach grab pull
+Mrs. Perrich,Greg,1.875,0.0,56.458333333333336,INF,see be stand lean entertain have gather wait reach grab pull
+Mother,Mrs. Perrich,3.4090909090909087,0.0,51.13636363636363,INF,seem be smile want believe
+Mother,Mrs. Perrich,3.4090909090909087,0.0,51.13636363636363,INF,seem be smile want believe
+Mother,Mrs. Perrich,3.4090909090909087,0.0,51.13636363636363,INF,seem be smile want believe
+Josie,Sophie,3.4090909090909087,5.681818181818182,27.27272727272727,0.6,answer
+Josie,Mark,3.4090909090909087,5.681818181818182,27.27272727272727,0.6,answer
+Sophie,Mark,3.4090909090909087,5.681818181818182,27.27272727272727,0.6,answer
+Mr. Weinstein,Josie,0.0,0.0,52.0,INF,perch wait take continue
+Mr. Weinstein,Josie,0.0,0.0,52.0,INF,perch wait take continue
+Josie,Mr. Weinstein,0.0,0.0,52.0,INF,perch wait take continue
+Dustin,Josie,0.0,0.0,14.285714285714285,INF,
+Josie,CDA,5.3977272727272725,4.829545454545454,48.86363636363637,1.1176470588235294,pack slump want get excite help think see
+Berne,Mark,0.7653061224489796,0.0,35.96938775510204,INF,say fuck tell see lather paint
+Berne,Feingold,0.7653061224489796,0.0,35.96938775510204,INF,say fuck tell see lather paint
+Berne,Feingold,0.7653061224489796,0.0,35.96938775510204,INF,say fuck tell see lather paint
+Mark,Feingold,0.7653061224489796,0.0,35.96938775510204,INF,say fuck tell see lather paint
+Mark,Feingold,0.7653061224489796,0.0,35.96938775510204,INF,say fuck tell see lather paint
+Feingold,Dustin,3.125,3.571428571428571,39.732142857142854,0.875,be say see be get
+Feingold,Nick,3.125,3.571428571428571,39.732142857142854,0.875,be say see be get
+Dustin,Nick,3.125,3.571428571428571,39.732142857142854,0.875,be say see be get
+Sophie,Josie,0.0,0.0,68.42105263157895,INF,ditch find slip
+Riggs,Josie,1.875,0.625,57.49999999999999,3.0,have roll provide be happen stand lean have play be point
+Riggs,Josie,1.875,0.625,57.49999999999999,3.0,have roll provide be happen stand lean have play be point
+Riggs,Josie,1.875,0.625,57.49999999999999,3.0,have roll provide be happen stand lean have play be point
+Riggs,Josie,1.875,0.625,57.49999999999999,3.0,have roll provide be happen stand lean have play be point
+Dooley,Mother,4.807692307692308,0.0,41.34615384615385,INF,understand have say
+Dooley,Donovan,6.5,3.5000000000000004,46.0,1.8571428571428572,go detach cut look
+Dooley,Donovan,0.8333333333333334,0.8333333333333334,45.0,1.0,gesture usher
+Dooley,Aidan,1.875,0.625,42.5,3.0,look want talk say sit
+Aidan,Greg,2.7777777777777777,1.3888888888888888,45.83333333333333,2.0,be be
+Dooley,Aidan,2.941176470588235,4.411764705882353,33.82352941176471,0.6666666666666666,be trust say
+Josie,Sophie,0.9803921568627451,0.7352941176470588,49.26470588235294,1.3333333333333333,tell notice be wear wear explain be go
+Josie,Sophie,0.9803921568627451,0.7352941176470588,49.26470588235294,1.3333333333333333,tell notice be wear wear explain be go
+Josie,Sophie,0.9803921568627451,0.7352941176470588,49.26470588235294,1.3333333333333333,tell notice be wear wear explain be go
+Josie,Sophie,0.9803921568627451,0.7352941176470588,49.26470588235294,1.3333333333333333,tell notice be wear wear explain be go
+Josie,Sophie,0.9803921568627451,0.7352941176470588,49.26470588235294,1.3333333333333333,tell notice be wear wear explain be go
+Josie,CDA,0.8620689655172413,0.43103448275862066,43.53448275862069,2.0,be blush walk get wait
+Josie,Sophie,0.8620689655172413,0.43103448275862066,43.53448275862069,2.0,be blush walk get wait
+CDA,Sophie,0.8620689655172413,0.43103448275862066,43.53448275862069,2.0,be blush walk get wait
+Mother,Mark,2.0161290322580645,2.4193548387096775,60.08064516129033,0.8333333333333334,be attend have buy
+Mark,Mother,1.7857142857142856,1.0714285714285714,51.42857142857142,1.6666666666666667,say need give let have laugh agree
+Mark,Mother,1.7857142857142856,1.0714285714285714,51.42857142857142,1.6666666666666667,say need give let have laugh agree
+Mother,Mark,1.7857142857142856,1.0714285714285714,51.42857142857142,1.6666666666666667,say need give let have laugh agree
+Coolidge,Mark,1.25,0.625,50.625,2.0,decide meet have do go tuck
+Mark,Donovan,0.390625,0.0,62.109375,INF,tell keep do pass fill
+Mark,Donovan,0.390625,0.0,62.109375,INF,tell keep do pass fill
+Mark,Josie,2.9088235294117646,4.444117647058824,51.470588235294116,0.6545334215751157,tell be mimic mock be
+Josie,Mark,2.9088235294117646,4.444117647058824,51.470588235294116,0.6545334215751157,tell be mimic mock be
+James,Bullington,0.0,0.0,42.857142857142854,INF,be pull put
+James,Bullington,0.0,0.0,42.857142857142854,INF,be pull put
+James,Cindy,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be be
+James,Mother,1.3888888888888888,0.4629629629629629,64.81481481481481,3.0,be fix say have go act surprise
+Cindy,Mother,0.0,0.0,57.14285714285714,INF,be be lead
+Mother,Greg,2.9296875,2.1484375,60.546875,1.3636363636363635,tell make feel be open let be think know know have happen seem have be trap
+Mother,Cindy,0.8928571428571428,0.0,52.67857142857143,INF,touch turn see poke wave
+Cindy,Mother,0.0,4.807692307692308,41.34615384615385,0.0,embrace tell look
+Cindy,Mother,0.0,4.807692307692308,41.34615384615385,0.0,embrace tell look
+Cindy,James,0.0,0.0,25.0,INF,
+James,Greg,5.714285714285714,5.357142857142857,57.49999999999999,1.0666666666666667,sound tighten think have be have start ignore
+Greg,James,6.0,10.0,48.0,0.6,know know know have be hate
+James,Cindy,0.3289473684210526,5.921052631578947,49.01315789473684,0.05555555555555555,say re-introduce remain know do want see
+Cindy,James,0.3289473684210526,5.921052631578947,49.01315789473684,0.05555555555555555,say re-introduce remain know do want see
+Cindy,James,0.3289473684210526,5.921052631578947,49.01315789473684,0.05555555555555555,say re-introduce remain know do want see
+Cindy,James,0.3289473684210526,5.921052631578947,49.01315789473684,0.05555555555555555,say re-introduce remain know do want see
+Cindy,James,0.0,0.0,53.333333333333336,INF,urge invite join play
+Cindy,James,0.0,0.0,53.333333333333336,INF,urge invite join play
+Cindy,James,0.0,0.0,53.333333333333336,INF,urge invite join play
+Cindy,James,1.25,7.5,31.25,0.16666666666666666,say cut
+Cindy,James,1.1363636363636365,0.0,62.5,INF,tell go join
+Dooley,James,1.5625,7.8125,40.625,0.2,be like
+Mother,Cindy,2.941176470588235,0.0,50.0,INF,put tell be
+Mother,Cindy,2.941176470588235,0.0,50.0,INF,put tell be
+Mother,Cindy,2.380952380952381,0.5952380952380952,54.166666666666664,4.0,start go give
+Mother,Cindy,2.380952380952381,0.5952380952380952,54.166666666666664,4.0,start go give
+Mother,Donovan,0.5681818181818182,0.0,53.97727272727273,INF,become sink swell
+Donovan,Mother,0.5681818181818182,0.0,53.97727272727273,INF,become sink swell
+Donovan,Mother,0.5681818181818182,0.0,53.97727272727273,INF,become sink swell
+Josie,Bullington,1.2962962962962963,1.2037037037037037,60.46296296296296,1.0769230769230769,want run shave see bring press restore bury forget bring create be do need be send do need be cross-examine string turn prowl ask do become do let happen
+Josie,Bullington,1.2962962962962963,1.2037037037037037,60.46296296296296,1.0769230769230769,want run shave see bring press restore bury forget bring create be do need be send do need be cross-examine string turn prowl ask do become do let happen
+Josie,Bullington,1.2962962962962963,1.2037037037037037,60.46296296296296,1.0769230769230769,want run shave see bring press restore bury forget bring create be do need be send do need be cross-examine string turn prowl ask do become do let happen
+Mrs. Perrich,Hazel,1.3888888888888888,0.0,61.57407407407407,INF,walk have mentore see
+Aidan,Hazel,0.0,2.272727272727273,43.18181818181818,0.0,answer
+Hazel,Teal,1.171875,4.6875,62.890625,0.25,have draw rally shift stand fold
+Teal,Hazel,1.171875,4.6875,62.890625,0.25,have draw rally shift stand fold
+Teal,Hazel,1.171875,4.6875,62.890625,0.25,have draw rally shift stand fold
+Greg,Hazel,0.0,0.0,60.0,INF,do give say
+Nick,Dustin,1.25,2.5,56.25,0.5,find
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Mr. Weinstein,Greg,1.0204081632653061,0.0,62.244897959183675,INF,sit use orate remind have have
+Teal,Dooley,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Teal,Dooley,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Teal,Dooley,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Teal,CDA,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Teal,Bullington,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,CDA,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,Bullington,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,CDA,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,Bullington,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,CDA,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Dooley,Bullington,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+CDA,Bullington,2.7027027027027026,1.9144144144144142,57.0945945945946,1.411764705882353,be like hear suggest be talk spend terrify have find talk expose point say do let bring be understand have read tell have make be go be make be go get send feel make be tell belong be give transfer eat
+Josie,Sophie,1.25,0.0,48.75,INF,be speak
+Josie,Mark,7.187499999999999,4.6875,63.125,1.5333333333333334,want be swap lose seem be
+Mark,Coolidge,1.953125,3.90625,47.265625,0.5,have speak see be do
+Mark,Coolidge,1.953125,3.90625,47.265625,0.5,have speak see be do
+Coolidge,Mark,1.953125,3.90625,47.265625,0.5,have speak see be do
+Aidan,Mother,0.0,0.0,37.5,INF,come
+Aidan,Mother,0.0,0.0,33.33333333333333,INF,say
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Josie,Dooley,0.5208333333333333,0.0,53.645833333333336,INF,adjust wipe step
+Paul,Dooley,5.681818181818182,0.0,39.77272727272727,INF,say
+Dooley,Paul,4.166666666666666,0.0,62.5,INF,scare do
+Dooley,Paul,4.166666666666666,0.0,62.5,INF,scare do
+Paul,Dooley,0.625,0.625,53.75,1.0,jab think tip
+Josie,Mr. Weinstein,1.25,0.0,48.75,INF,want have move expose
+Josie,Mr. Weinstein,1.25,0.0,48.75,INF,want have move expose
+Josie,Mr. Weinstein,1.25,0.0,48.75,INF,want have move expose
+Josie,Mr. Weinstein,1.25,0.0,48.75,INF,want have move expose
+Mr. Weinstein,Josie,1.25,0.0,48.75,INF,want have move expose
+Mark,Coolidge,1.650943396226415,0.4716981132075472,54.48113207547169,3.5,want be be be think wonder see come try talk
+Coolidge,Mark,1.650943396226415,0.4716981132075472,54.48113207547169,3.5,want be be be think wonder see come try talk
+Coolidge,Mark,1.650943396226415,0.4716981132075472,54.48113207547169,3.5,want be be be think wonder see come try talk
+Candido,Teresa,0.0,2.272727272727273,43.18181818181818,0.0,ask hold
+Elena,Mother,0.0,0.0,57.14285714285714,INF,begin climb come yell
+Greg,Dooley,2.631578947368421,4.440789473684211,49.506578947368425,0.5925925925925926,want tell say be blow watch have watch let plague feel deliver
+Greg,Dooley,2.631578947368421,4.440789473684211,49.506578947368425,0.5925925925925926,want tell say be blow watch have watch let plague feel deliver
+Greg,Dooley,2.631578947368421,4.440789473684211,49.506578947368425,0.5925925925925926,want tell say be blow watch have watch let plague feel deliver
+Greg,Dooley,2.631578947368421,4.440789473684211,49.506578947368425,0.5925925925925926,want tell say be blow watch have watch let plague feel deliver
+Sophie,Mark,4.0625,3.75,54.6875,1.0833333333333333,be rip smash have have see lean hide
+Mark,Sophie,4.0625,3.75,54.6875,1.0833333333333333,be rip smash have have see lean hide
+Mark,Sophie,4.0625,3.75,54.6875,1.0833333333333333,be rip smash have have see lean hide
+Josie,Mark,7.5,1.25,31.25,6.0,do know happen
+Josie,Mark,0.7352941176470588,0.7352941176470588,51.470588235294116,1.0,hesitate hold try say
+Josie,Mark,2.272727272727273,0.0,34.090909090909086,INF,be say
+Mark,Stonebrook,0.0,0.0,50.0,INF,fall
+Mark,Greg,7.75,1.25,51.0,6.2,have realize stand think have stare wonder tell have happen
+Mark,Greg,7.75,1.25,51.0,6.2,have realize stand think have stare wonder tell have happen
+Mark,Greg,7.75,1.25,51.0,6.2,have realize stand think have stare wonder tell have happen
+Mark,Greg,7.75,1.25,51.0,6.2,have realize stand think have stare wonder tell have happen
+Dooley,Aidan,1.7857142857142856,1.7857142857142856,10.714285714285714,1.0,be
+Aidan,Dooley,0.0,0.0,57.14285714285714,INF,be say
+Aidan,Dooley,0.0,0.0,57.14285714285714,INF,be say
+Catholic,Aidan,1.0416666666666665,0.0,48.95833333333333,INF,believe
+Aidan,Dooley,0.0,0.0,42.857142857142854,INF,do join snap
+Dooley,Aidan,0.0,0.0,33.33333333333333,INF,say
+James,Mark,2.083333333333333,2.083333333333333,45.83333333333333,1.0,
+Dooley,Greg,2.2058823529411766,0.7352941176470588,50.0,3.0,grab force
+Dooley,Greg,2.2058823529411766,0.7352941176470588,50.0,3.0,grab force
+Dooley,Greg,2.2058823529411766,0.7352941176470588,50.0,3.0,grab force
+Dooley,Greg,1.4285714285714286,0.0,50.0,INF,slam shake cry think take push
+Dooley,James,1.4285714285714286,0.0,50.0,INF,slam shake cry think take push
+Dooley,Greg,1.4285714285714286,0.0,50.0,INF,slam shake cry think take push
+Dooley,James,1.4285714285714286,0.0,50.0,INF,slam shake cry think take push
+Greg,James,1.4285714285714286,0.0,50.0,INF,slam shake cry think take push
+Greg,Mark,4.107142857142857,1.9642857142857142,52.5,2.090909090909091,be be think have have have beckon have call trudge want believe
+Greg,James,4.107142857142857,1.9642857142857142,52.5,2.090909090909091,be be think have have have beckon have call trudge want believe
+Greg,Mark,4.107142857142857,1.9642857142857142,52.5,2.090909090909091,be be think have have have beckon have call trudge want believe
+Greg,James,4.107142857142857,1.9642857142857142,52.5,2.090909090909091,be be think have have have beckon have call trudge want believe
+Mark,James,4.107142857142857,1.9642857142857142,52.5,2.090909090909091,be be think have have have beckon have call trudge want believe
+Mark,Josie,3.804347826086957,1.0869565217391304,51.63043478260869,3.5,deserve hear wait run
+Josie,Mother,0.7575757575757576,1.5151515151515151,55.3030303030303,0.5,be worry see approach do
+Josie,Mother,0.4464285714285714,1.3392857142857142,48.214285714285715,0.3333333333333333,hear come know be leave be
+Josie,Mother,0.4464285714285714,1.3392857142857142,48.214285714285715,0.3333333333333333,hear come know be leave be
+Mother,Josie,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Josie,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Elena,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Josie,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Josie,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Elena,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Josie,Elena,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Josie,Elena,1.953125,0.0,51.171875,INF,call leave tell be think have run
+Mother,Josie,4.326923076923077,2.8846153846153846,62.019230769230774,1.5,feel fill know be tell tell
+Mother,Josie,4.326923076923077,2.8846153846153846,62.019230769230774,1.5,feel fill know be tell tell
+Donovan,Mother,1.524390243902439,1.8292682926829267,64.9390243902439,0.8333333333333334,try imagine tell be be
+Josie,Mother,2.1551724137931036,2.1551724137931036,50.86206896551724,1.0,leave tell be call do know
+Mother,Josie,2.1551724137931036,2.1551724137931036,50.86206896551724,1.0,leave tell be call do know
+Mother,Josie,2.1551724137931036,2.1551724137931036,50.86206896551724,1.0,leave tell be call do know
+Josie,CDA,0.0,0.0,50.0,INF,stand clutch
+CDA,Josie,0.0,0.0,50.0,INF,stand clutch
+Mark,Josie,1.5625,3.125,51.5625,0.5,stare run
+CDA,Mark,0.0,0.0,60.0,INF,show swim
+Mark,Stonebrook,1.1029411764705883,2.2058823529411766,55.51470588235294,0.5,have be tell climb jump
+Mark,Stonebrook,1.1029411764705883,2.2058823529411766,55.51470588235294,0.5,have be tell climb jump
+Josie,Mark,5.092592592592593,2.314814814814815,48.148148148148145,2.2,hold stare show wish hold
+Josie,Mark,5.092592592592593,2.314814814814815,48.148148148148145,2.2,hold stare show wish hold
+Josie,Mark,5.092592592592593,2.314814814814815,48.148148148148145,2.2,hold stare show wish hold
+Josie,Mark,2.6785714285714284,1.7857142857142856,52.67857142857143,1.5,ask be
+Josie,Mark,3.040540540540541,1.0135135135135136,52.702702702702695,3.0,be take feel be keep
+Mark,Josie,0.0,0.0,42.857142857142854,INF,huddle clutch
+Josie,Mark,2.976190476190476,0.0,44.642857142857146,INF,be clasp hold
+Josie,Mark,2.976190476190476,0.0,44.642857142857146,INF,be clasp hold
+Josie,Mark,2.976190476190476,0.0,44.642857142857146,INF,be clasp hold
+Josie,Mark,2.976190476190476,0.0,44.642857142857146,INF,be clasp hold
+Josie,Mark,0.9615384615384616,0.9615384615384616,21.153846153846153,1.0,say miss
+Mark,Josie,0.9615384615384616,0.9615384615384616,21.153846153846153,1.0,say miss
+Josie,Dooley,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Josie,Greg,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Josie,James,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Dooley,Greg,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Dooley,James,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Greg,James,1.9230769230769231,0.9615384615384616,39.42307692307692,2.0,tell tell
+Josie,Donovan,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Josie,Greg,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Josie,Mother,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Josie,Elena,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Donovan,Greg,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Donovan,Mother,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Donovan,Elena,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Donovan,Josie,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Greg,Mother,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Greg,Elena,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Greg,Josie,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Mother,Elena,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Mother,Josie,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Elena,Josie,2.7925531914893615,1.8617021276595744,57.047872340425535,1.5,hold speak think have try give be suppose be be suppose become look wonder do come be be need
+Josie,Mark,3.3653846153846154,0.7211538461538461,49.75961538461539,4.666666666666667,walk decide need go see continue march share
+Brendan Kiely,Michael,0.0,0.0,72.72727272727273,INF,reserve include

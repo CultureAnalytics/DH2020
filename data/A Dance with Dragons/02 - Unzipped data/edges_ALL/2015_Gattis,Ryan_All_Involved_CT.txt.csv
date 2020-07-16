@@ -1,0 +1,670 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Briseno,Rodney King,0.5952380952380952,0.5952380952380952,53.57142857142857,1.0,acquit use subdue
+Lupe,Clever,4.739336492890995,1.5402843601895735,53.43601895734598,3.076923076923077,work feel feel fall have be come fix be get try make breathe think be be know be die be know think be melt know be do work know be become know know study sketch
+Fate,Clever,5.078125,1.953125,55.46875,2.6,be look go know be look
+Fate,Clever,5.078125,1.953125,55.46875,2.6,be look go know be look
+Fate,Clever,1.6304347826086956,0.5434782608695652,58.69565217391305,3.0,be say move look fall cuz cut
+Clever,Fate,1.9230769230769231,0.9615384615384616,54.807692307692314,2.0,whisper look show get
+Payasa,Lupe,0.0,0.0,20.0,INF,
+Ray,Lil Mosco,0.0,0.0,50.0,INF,go
+Ray,Lil Mosco,2.34375,0.78125,53.125,3.0,be get use be
+Fate,Clever,3.4420289855072466,1.4492753623188406,58.87681159420289,2.375,mean joke happen see get brick come be say be feel guess be call blast
+Clever,Fate,0.5952380952380952,0.0,70.83333333333334,INF,give do get be ask do
+Clever,Fate,0.0,0.2976190476190476,54.46428571428571,0.0,remind breathe come
+Clever,Serrato,0.0,0.2976190476190476,54.46428571428571,0.0,remind breathe come
+Fate,Serrato,0.0,0.2976190476190476,54.46428571428571,0.0,remind breathe come
+Ranger,Oso,0.0,0.0,47.05882352941176,INF,be guard
+Gloria,Fate,1.0416666666666665,0.0,48.95833333333333,INF,try encourage be do
+Gloria,Fate,1.9736842105263157,0.6578947368421052,39.473684210526315,3.0,point be stand
+Gloria,Serrato,1.9736842105263157,0.6578947368421052,39.473684210526315,3.0,point be stand
+Fate,Serrato,1.9736842105263157,0.6578947368421052,39.473684210526315,3.0,point be stand
+Ernesto,Gloria,0.0,0.0,33.33333333333333,INF,thank
+Ernesto,Clever,0.0,0.0,60.0,INF,walk look have line chip
+Ernie,Ray,1.5625,2.604166666666667,41.66666666666667,0.6,pull be
+Ray,Ernie,1.5625,2.604166666666667,41.66666666666667,0.6,pull be
+Clever,Ray,5.092592592592593,1.8518518518518516,41.2037037037037,2.75,be grab stand work say get
+Ernesto,Clever,3.6111111111111107,1.1111111111111112,57.49999999999999,3.25,get stay be recognize remember be hang cuz lay be
+Ernesto,Clever,3.6111111111111107,1.1111111111111112,57.49999999999999,3.25,get stay be recognize remember be hang cuz lay be
+Clever,Ernesto,3.6111111111111107,1.1111111111111112,57.49999999999999,3.25,get stay be recognize remember be hang cuz lay be
+Fate,Ernesto,8.125,1.875,55.00000000000001,4.333333333333333,make do doubt need know
+Fate,Ernesto,8.125,1.875,55.00000000000001,4.333333333333333,make do doubt need know
+Creeper,Fate,4.166666666666666,3.75,55.41666666666667,1.1111111111111112,be be wave be
+Creeper,Ernesto,4.166666666666666,3.75,55.41666666666667,1.1111111111111112,be be wave be
+Fate,Ernesto,4.166666666666666,3.75,55.41666666666667,1.1111111111111112,be be wave be
+Creeper,Ray,2.6785714285714284,3.571428571428571,61.60714285714286,0.75,come ask be
+Ray,J.C. Pennies,0.0,0.3472222222222222,60.763888888888886,0.0,see be steal be write
+Fate,Creeper,0.6944444444444444,0.0,32.63888888888889,INF,say
+Lorraine,Cork,0.4807692307692308,0.4807692307692308,60.57692307692307,1.0,say wait
+Lorraine,Cork,0.4807692307692308,0.4807692307692308,60.57692307692307,1.0,say wait
+Fate,Lorraine,1.893939393939394,1.1363636363636365,54.54545454545454,1.6666666666666667,say be come be be say
+Ernie,Ray,4.032258064516129,5.64516129032258,58.06451612903226,0.7142857142857143,know complain have sell pay catch aggravate
+Ernie,Ray,4.032258064516129,5.64516129032258,58.06451612903226,0.7142857142857143,know complain have sell pay catch aggravate
+Ernie,Ray,4.032258064516129,5.64516129032258,58.06451612903226,0.7142857142857143,know complain have sell pay catch aggravate
+Ernesto,Ray,2.6785714285714284,0.0,61.60714285714286,INF,take offer
+Ernie,Ray,0.0,6.521739130434782,54.347826086956516,0.0,lose see make mean
+Ray,Lil Mosco,3.4615384615384617,2.6923076923076925,47.69230769230769,1.2857142857142858,see get load go claim head get decide need be talk be be squeal bone
+Ray,Lil Mosco,3.4615384615384617,2.6923076923076925,47.69230769230769,1.2857142857142858,see get load go claim head get decide need be talk be be squeal bone
+Ray,Lil Mosco,3.4615384615384617,2.6923076923076925,47.69230769230769,1.2857142857142858,see get load go claim head get decide need be talk be be squeal bone
+Ray,Lil Mosco,3.4615384615384617,2.6923076923076925,47.69230769230769,1.2857142857142858,see get load go claim head get decide need be talk be be squeal bone
+Ray,Fate,6.730769230769231,1.6025641025641024,58.333333333333336,4.2,make be be lay do be
+Ray,Fate,6.730769230769231,1.6025641025641024,58.333333333333336,4.2,make be be lay do be
+Payasa,Lil Mosco,5.0,2.083333333333333,49.583333333333336,2.4,know be look shoot
+Clever,Fate,0.4807692307692308,2.8846153846153846,50.480769230769226,0.16666666666666666,be stomp look
+Clever,Lorraine,0.4807692307692308,2.8846153846153846,50.480769230769226,0.16666666666666666,be stomp look
+Fate,Lorraine,0.4807692307692308,2.8846153846153846,50.480769230769226,0.16666666666666666,be stomp look
+Creeper,Fate,4.6875,0.0,39.0625,INF,say be be
+Ray,Ernie,6.25,2.5,41.25,2.5,get tell
+Serrato,Elena,0.35714285714285715,0.0,59.64285714285714,INF,whir recognize
+Fate,Cork,5.952380952380952,8.333333333333332,47.61904761904761,0.7142857142857143,guess be act tell happen
+Fate,Elena,2.083333333333333,5.729166666666666,58.854166666666664,0.36363636363636365,swear have give need speed
+Fate,Elena,2.083333333333333,5.729166666666666,58.854166666666664,0.36363636363636365,swear have give need speed
+Fate,Elena,2.083333333333333,5.729166666666666,58.854166666666664,0.36363636363636365,swear have give need speed
+Elena,Lorraine,2.9545454545454546,3.4090909090909087,42.72727272727273,0.8666666666666667,fly say do mean be trap ask be interrupt think deserve
+Ramiro,Elena,1.25,0.0,18.75,INF,say
+Gloria,Cork,1.7857142857142856,2.232142857142857,38.839285714285715,0.8,say think fit say be wear
+Fate,Gloria,0.0,0.0,57.14285714285714,INF,look see be do
+Elena,Fate,1.9736842105263157,0.6578947368421052,55.26315789473685,3.0,say need go say
+Elena,Fate,7.352941176470589,0.0,51.470588235294116,INF,leave tell know know
+Clever,Fate,1.0416666666666665,2.604166666666667,50.520833333333336,0.4,drive
+Clever,Ernesto,4.947916666666666,4.427083333333334,48.95833333333333,1.1176470588235294,talk call be ask meet say do come miss get do
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Lorraine,Elena,3.6458333333333335,3.125,61.979166666666664,1.1666666666666667,mope be do get sniffle try cry put feel be wear
+Clever,KRLA,5.625,0.625,48.75,9.0,be play
+Clever,Fate,1.3157894736842104,5.482456140350877,63.377192982456144,0.24,be take get cross post stand
+Lil Mosco,Fate,3.5000000000000004,3.0,49.5,1.1666666666666667,do know be
+Elena,Manny,1.25,0.0,18.75,INF,
+Payasa,Ernesto,5.357142857142857,1.530612244897959,44.13265306122449,3.5,have be cuz have go see tell happen do do come be
+Payasa,Ernesto,5.357142857142857,1.530612244897959,44.13265306122449,3.5,have be cuz have go see tell happen do do come be
+Payasa,Ernesto,5.357142857142857,1.530612244897959,44.13265306122449,3.5,have be cuz have go see tell happen do do come be
+Ernesto,Payasa,5.357142857142857,1.530612244897959,44.13265306122449,3.5,have be cuz have go see tell happen do do come be
+Payasita,Lil Mosco,2.272727272727273,5.681818181818182,46.590909090909086,0.4,get get
+Clever,Ernesto,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,hear slide cuz be pick
+Clever,Ernesto,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,hear slide cuz be pick
+Clever,Ernesto,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,hear slide cuz be pick
+Payasa,Lorraine,0.0,0.0,50.0,INF,be
+Serrato,Payasa,0.9765625,2.1484375,59.375,0.45454545454545453,be be come spill think be talk be trip be do hit be
+Serrato,Lil Mosco,0.9765625,2.1484375,59.375,0.45454545454545453,be be come spill think be talk be trip be do hit be
+Payasa,Lil Mosco,0.9765625,2.1484375,59.375,0.45454545454545453,be be come spill think be talk be trip be do hit be
+Payasa,Lil Mosco,2.5,0.0,52.5,INF,know have do let do have do
+Payasa,Ernie,5.0,5.833333333333333,49.166666666666664,0.8571428571428571,know have
+Payasa,Ernie,5.0,5.833333333333333,49.166666666666664,0.8571428571428571,know have
+Payasa,Clever,0.4098360655737705,2.2540983606557377,48.15573770491803,0.18181818181818182,be decide give stumble say be be finish grab whisper pull be stand
+Payasa,Clever,0.4098360655737705,2.2540983606557377,48.15573770491803,0.18181818181818182,be decide give stumble say be be finish grab whisper pull be stand
+Clever,Payasa,0.0,0.0,46.15384615384615,INF,get
+Payasa,Ernesto,0.9146341463414633,0.0,35.670731707317074,INF,find stay leave hang be end
+Payasa,Lil Mosco,0.9146341463414633,0.0,35.670731707317074,INF,find stay leave hang be end
+Ernesto,Lil Mosco,0.9146341463414633,0.0,35.670731707317074,INF,find stay leave hang be end
+Payasa,Ernesto,1.1904761904761905,0.0,51.19047619047619,INF,see remind look
+Clever,Ernesto,5.263157894736842,4.605263157894736,48.026315789473685,1.1428571428571428,back have believe ask
+Lil Mosco,Payasa,5.208333333333334,2.083333333333333,17.708333333333336,2.5,have love say
+Clever,Creeper,3.1818181818181817,3.4090909090909087,64.31818181818181,0.9333333333333333,watch put climb get work think be be gon be miss
+Salvi,Fate,4.464285714285714,0.0,45.535714285714285,INF,know be lace
+Momo,Fate,9.375,3.90625,49.21875,2.4,burn forgive lie
+Fate,Momo,9.375,3.90625,49.21875,2.4,burn forgive lie
+Momo,Payasa,6.547619047619048,1.7857142857142856,48.80952380952381,3.6666666666666665,be burn make drop be
+Momo,Payasa,6.547619047619048,1.7857142857142856,48.80952380952381,3.6666666666666665,be burn make drop be
+Fate,Payasa,0.0,0.9615384615384616,45.19230769230769,0.0,give do
+Fate,Payasa,0.0,0.9615384615384616,45.19230769230769,0.0,give do
+Cecilia,Toño,0.78125,0.0,36.71875,INF,say tell happen
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Cecilia,Momo,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Momo,Cecilia,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Momo,Cecilia,4.521276595744681,2.6595744680851063,41.755319148936174,1.7,see know do be help laugh know cut
+Ray,Payasa,0.0,0.0,41.17647058823529,INF,end stay
+Cecilia,Momo,0.0,0.0,42.10526315789473,INF,do wake walk
+Fate,Momo,5.0,1.25,53.75,4.0,think be speak be get mean know ask be
+Fate,Momo,5.0,1.25,53.75,4.0,think be speak be get mean know ask be
+Fate,Momo,5.0,1.25,53.75,4.0,think be speak be get mean know ask be
+Mr. Park,Toyota,0.78125,0.78125,51.5625,1.0,be be drive
+Rodney King,Latasha Harlins,1.1904761904761905,0.0,36.904761904761905,INF,be name
+Rodney King,Latasha Harlins,1.171875,3.125,51.953125,0.375,be shoot kill name
+Filipina Maria,Mr. So-and-So,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Filipina Maria,Mr. So-and-So,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Mr. So-and-So,Filipina Maria,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Mr. So-and-So,Filipina Maria,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Mr. So-and-So,Filipina Maria,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Filipina Maria,Mr. So-and-So,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Filipina Maria,Mr. So-and-So,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Filipina Maria,Mr. So-and-So,3.6111111111111107,0.2777777777777778,51.66666666666667,13.0,look see start hope pronounce call do
+Mr. So-and-So,Anthony,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Mr. So-and-So,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Anthony,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Catholic,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Pedro,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Teresa,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Catholic,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,5.514705882352941,1.911764705882353,56.10294117647059,2.8846153846153846,be know be be do know be be be have look do know get be smile be live grow be know be know be know be know be be know meet
+Teresa,Pedro,4.545454545454546,4.545454545454546,63.63636363636363,1.0,ask say be be marry engage do work
+Teresa,Pedro,4.545454545454546,4.545454545454546,63.63636363636363,1.0,ask say be be marry engage do work
+John,Antonio,0.625,1.25,58.12500000000001,0.5,use say scratch write
+Suzuki,Gutierrez,0.0,0.0,54.54545454545454,INF,be
+Suzuki,Gutierrez,2.0,0.5,65.5,4.0,see flail be try get run
+Gutes,CHP,0.30991735537190085,3.202479338842975,51.03305785123967,0.0967741935483871,be breathe be babble apologize manage be tell be do do trust leave have leave have tell leave be load do want be be
+Suzuki,Gutierrez,0.0,0.0,38.46153846153847,INF,get
+Suzuki,Gutierrez,1.0,0.5,58.5,2.0,do scramble open support
+Suzuki,Gutierrez,1.0,0.5,58.5,2.0,do scramble open support
+Suzuki,Gutierrez,1.0,0.5,58.5,2.0,do scramble open support
+Gutierrez,Suzuki,1.8442622950819672,0.20491803278688525,50.409836065573764,9.0,be hold be be manage twist keep support be flip leave put speed
+Gutierrez,Suzuki,1.8442622950819672,0.20491803278688525,50.409836065573764,9.0,be hold be be manage twist keep support be flip leave put speed
+Gutierrez,Suzuki,1.8442622950819672,0.20491803278688525,50.409836065573764,9.0,be hold be be manage twist keep support be flip leave put speed
+Gutierrez,Suzuki,1.8442622950819672,0.20491803278688525,50.409836065573764,9.0,be hold be be manage twist keep support be flip leave put speed
+Suzuki,Gutes,2.734375,0.390625,59.375,7.0,do say be have get turn go
+Gutes,Suzuki,2.734375,0.390625,59.375,7.0,do say be have get turn go
+Suzuki,Gutierrez,1.25,6.25,57.49999999999999,0.2,support be moan
+Suzuki,Gutes,1.25,6.25,57.49999999999999,0.2,support be moan
+Gutierrez,Gutes,1.25,6.25,57.49999999999999,0.2,support be moan
+Suzuki,Gutierrez,2.380952380952381,4.761904761904762,45.23809523809524,0.5,do react resolve do
+Gutes,Junior,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,pay be pay
+Gloria,Rubio,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Rubio,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Rubio,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Gloria,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Gloria,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Gloria,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Gloria,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Gloria,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Rubio,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Gloria,Anthony,0.0,0.7075471698113208,54.009433962264154,0.0,happen meet look call tell call think blurt laugh call be
+Anthony,Gloria,5.681818181818182,0.0,39.77272727272727,INF,say
+Gloria,Gutierrez,0.8152173913043478,2.989130434782609,54.891304347826086,0.2727272727272727,want try tell happen come end say be
+Gloria,Gutierrez,6.578947368421052,2.4122807017543857,50.6578947368421,2.727272727272727,make do tell be remind have stay get be be see do say
+Gloria,Gutierrez,6.578947368421052,2.4122807017543857,50.6578947368421,2.727272727272727,make do tell be remind have stay get be be see do say
+Gutierrez,Gloria,6.578947368421052,2.4122807017543857,50.6578947368421,2.727272727272727,make do tell be remind have stay get be be see do say
+Gutierrez,Gloria,6.578947368421052,2.4122807017543857,50.6578947368421,2.727272727272727,make do tell be remind have stay get be be see do say
+Gutierrez,Junior,3.4274193548387095,0.6048387096774194,54.03225806451613,5.666666666666667,pull look be think be get tell be go walk
+Junior,Gutierrez,3.4274193548387095,0.6048387096774194,54.03225806451613,5.666666666666667,pull look be think be get tell be go walk
+Junior,Gutierrez,3.4274193548387095,0.6048387096774194,54.03225806451613,5.666666666666667,pull look be think be get tell be go walk
+Gutes,McPherson,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,have get be head go
+STL,LAFD,3.515625,3.125,49.609375,1.125,call be pay
+Gutierrez,Gloria,3.125,3.90625,53.385416666666664,0.8,be try pick go do stay
+Gutierrez,Gloria,3.125,3.90625,53.385416666666664,0.8,be try pick go do stay
+Carrillo,Pedro,0.0,2.1739130434782608,58.69565217391305,0.0,hear be sit
+Carrillo,Briseno,3.0555555555555554,1.9444444444444444,55.00000000000001,1.5714285714285714,be sit read acquit remind be
+Normandie,Bradley,1.6666666666666667,0.8333333333333334,70.83333333333334,2.0,be go
+CHP,National Guard,0.3676470588235294,0.0,56.98529411764706,INF,be stretch be send put be start stay be see peek
+CHP,STL,0.3676470588235294,0.0,56.98529411764706,INF,be stretch be send put be start stay be see peek
+National Guard,STL,0.3676470588235294,0.0,56.98529411764706,INF,be stretch be send put be start stay be see peek
+Gloria,Suzuki,0.4464285714285714,0.0,35.267857142857146,INF,see move talk say check
+Gloria,Suzuki,0.4464285714285714,0.0,35.267857142857146,INF,see move talk say check
+McPherson,Suzuki,0.7142857142857143,2.5,65.35714285714286,0.2857142857142857,look notice put smash
+McPherson,Suzuki,0.7142857142857143,2.5,65.35714285714286,0.2857142857142857,look notice put smash
+STL,RTD,2.0220588235294117,2.941176470588235,55.33088235294118,0.6875,be overhaul tell be go be impact do go
+RTD,LAPD,0.26041666666666663,1.5625,48.17708333333333,0.16666666666666666,be serve do use call get
+Suzuki,McPherson,4.761904761904762,1.5873015873015872,55.55555555555556,3.0,be make mention nod have see do bother explain tell have see
+CHP,Taurino,1.0638297872340425,0.26595744680851063,49.734042553191486,4.0,be be say head call
+CHP,Suzuki,1.0638297872340425,0.26595744680851063,49.734042553191486,4.0,be be say head call
+Taurino,Suzuki,1.0638297872340425,0.26595744680851063,49.734042553191486,4.0,be be say head call
+Taurino,FBI,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+Taurino,Suzuki,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+Taurino,Suzuki,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+Taurino,National Guard,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+FBI,Suzuki,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+FBI,Suzuki,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+FBI,National Guard,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+Suzuki,National Guard,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+Suzuki,National Guard,2.2435897435897436,0.641025641025641,48.3974358974359,3.5,do know be think be see fly arrive
+CHP,Gutierrez,0.0,8.125,41.875,0.0,do blame happen do blame
+Suzuki,McPherson,0.5859375,3.3203125,61.71875,0.17647058823529413,be do head grab have trickle
+Miller,McPherson,5.263157894736842,0.6578947368421052,62.5,8.0,hear get hit do know say
+Miller,LAPD,3.125,4.910714285714286,52.67857142857143,0.6363636363636364,be like ride
+Rogowski,Gutierrez,4.166666666666666,1.6666666666666667,27.500000000000004,2.5,say hear
+Najarian,Gutierrez,3.618421052631579,1.8092105263157896,51.151315789473685,2.0,help touch be be name say be get get find
+Najarian,Anthony,3.618421052631579,1.8092105263157896,51.151315789473685,2.0,help touch be be name say be get get find
+Gutierrez,Anthony,3.618421052631579,1.8092105263157896,51.151315789473685,2.0,help touch be be name say be get get find
+Fate,Cecilia,1.1574074074074074,0.23148148148148145,52.31481481481482,5.0,take get pay keep see do come run figure get come let happen
+Fate,Clever,6.666666666666667,0.0,46.666666666666664,INF,do know belong
+Jeffersón,Tio George,2.992957746478873,1.7605633802816902,55.809859154929576,1.7,fantasize cut use do orphan get send live get pass
+Jeffersón,Tio George,2.992957746478873,1.7605633802816902,55.809859154929576,1.7,fantasize cut use do orphan get send live get pass
+Tio George,Fate,3.6290322580645165,2.82258064516129,59.67741935483871,1.2857142857142858,say smile be hope say feel kick be start stick be click
+Momo,Abejundio,7.236842105263158,1.3157894736842104,38.81578947368421,5.5,be say be get be
+Miguel,Mikey,1.3157894736842104,1.9736842105263157,59.86842105263158,0.6666666666666666,be pull get
+Mikey,Miguel,4.166666666666666,2.604166666666667,59.895833333333336,1.6,get get dress be
+Mikey,Creeper,0.390625,0.390625,55.46875,1.0,go describe move look be talk
+Creeper,Mikey,0.390625,0.390625,55.46875,1.0,go describe move look be talk
+Creeper,Mikey,0.390625,0.390625,55.46875,1.0,go describe move look be talk
+Creeper,Mikey,0.390625,0.390625,55.46875,1.0,go describe move look be talk
+Creeper,Mikey,0.390625,0.390625,55.46875,1.0,go describe move look be talk
+Lil Mosco,Fate,1.25,5.0,50.416666666666664,0.25,hear be try pick be vanish move
+Erickson,Cecilia,0.0,2.0161290322580645,52.82258064516129,0.0,tell be get walk
+Erickson,Lil Mosco,0.0,2.0161290322580645,52.82258064516129,0.0,tell be get walk
+Cecilia,Lil Mosco,0.0,2.0161290322580645,52.82258064516129,0.0,tell be get walk
+Lil Mosco,Payasa,0.3048780487804878,1.8292682926829267,46.646341463414636,0.16666666666666666,hear yell walk be gon
+Lil Mosco,Payasa,0.3048780487804878,1.8292682926829267,46.646341463414636,0.16666666666666666,hear yell walk be gon
+Erickson,FBI,6.41025641025641,1.282051282051282,43.58974358974359,5.0,know be be list tell be liaise be liaise try get
+Erickson,FBI,6.41025641025641,1.282051282051282,43.58974358974359,5.0,know be be list tell be liaise be liaise try get
+Jeffersón,Rohan,3.75,4.6875,51.5625,0.8,be be be sing sit
+Rohan,Jeffersón,4.807692307692308,5.288461538461538,39.90384615384615,0.9090909090909091,know introduce manage do be
+Jeffersón,Rohan,4.807692307692308,5.288461538461538,39.90384615384615,0.9090909090909091,know introduce manage do be
+Jeffersón,Rohan,4.233870967741935,0.0,50.60483870967742,INF,have get go get have run say know be be do do know be play
+Jeffersón,Rohan,4.233870967741935,0.0,50.60483870967742,INF,have get go get have run say know be be do do know be play
+Jeffersón,Rohan,4.233870967741935,0.0,50.60483870967742,INF,have get go get have run say know be be do do know be play
+Jeffersón,Rohan,4.233870967741935,0.0,50.60483870967742,INF,have get go get have run say know be be do do know be play
+Jeffersón,Erickson,2.0238095238095237,0.8333333333333334,60.952380952380956,2.4285714285714284,feel harden start believe be know be get get get pray get fuck come be ride cuz be load wipe
+Tacos El Unico,Lil Mosco,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Tacos El Unico,Yesenia,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Lil Mosco,Yesenia,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Lil Mosco,Tacos El Unico,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Lil Mosco,Tacos El Unico,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Yesenia,Tacos El Unico,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Yesenia,Tacos El Unico,2.8301886792452833,2.8301886792452833,50.943396226415096,1.0,hear work be relate kill be know be involve be
+Tacos El Unico,Lil Mosco,0.0,0.0,58.82352941176471,INF,find be
+Lil Mosco,Tacos El Unico,0.0,0.0,50.0,INF,see put
+Lil Mosco,Tacos El Unico,4.5,5.5,57.99999999999999,0.8181818181818182,kill do take have come
+Lil Mosco,Tacos El Unico,4.5,5.5,57.99999999999999,0.8181818181818182,kill do take have come
+Lil Mosco,Tacos El Unico,4.5,5.5,57.99999999999999,0.8181818181818182,kill do take have come
+Rodney King,Yesenia,1.4705882352941175,3.431372549019608,51.9607843137255,0.42857142857142855,decide go figure be tell follow see get take get kill
+Ramiro,Ernesto,1.8181818181818181,2.0454545454545454,54.31818181818182,0.8888888888888888,smile use cut need be have be be sit remember look die think use be be know
+Fox,Momo,3.4722222222222223,0.78125,52.69097222222222,4.444444444444445,see fall come do know see have leave do know cuz be look aim be look throw explode say do
+Fox,Momo,3.4722222222222223,0.78125,52.69097222222222,4.444444444444445,see fall come do know see have leave do know cuz be look aim be look throw explode say do
+Fox,Momo,3.4722222222222223,0.78125,52.69097222222222,4.444444444444445,see fall come do know see have leave do know cuz be look aim be look throw explode say do
+Momo,Fate,1.3888888888888888,1.9444444444444444,47.77777777777778,0.7142857142857143,tell be gon hit see pick do be gon
+Momo,Ramiro,3.935185185185185,0.6944444444444444,54.629629629629626,5.666666666666667,do say be know be be dodge know be get get worry do get be
+Momo,Ramiro,3.935185185185185,0.6944444444444444,54.629629629629626,5.666666666666667,do say be know be be dodge know be get get worry do get be
+Momo,Ramiro,3.935185185185185,0.6944444444444444,54.629629629629626,5.666666666666667,do say be know be be dodge know be get get worry do get be
+Momo,Ramiro,3.935185185185185,0.6944444444444444,54.629629629629626,5.666666666666667,do say be know be be dodge know be get get worry do get be
+Ramiro,Momo,3.935185185185185,0.6944444444444444,54.629629629629626,5.666666666666667,do say be know be be dodge know be get get worry do get be
+Momo,Jeffersón,6.359649122807018,5.482456140350877,53.07017543859649,1.16,say let try call be treat do do send
+Momo,Jeffersón,6.359649122807018,5.482456140350877,53.07017543859649,1.16,say let try call be treat do do send
+Momo,Jeffersón,6.359649122807018,5.482456140350877,53.07017543859649,1.16,say let try call be treat do do send
+Momo,Jeffersón,6.359649122807018,5.482456140350877,53.07017543859649,1.16,say let try call be treat do do send
+Ramiro,Fox,0.8928571428571428,0.0,38.392857142857146,INF,get get catch
+Ramiro,Lil Blanco,0.8928571428571428,0.0,38.392857142857146,INF,get get catch
+Fox,Lil Blanco,0.8928571428571428,0.0,38.392857142857146,INF,get get catch
+Fate,Payasa,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,spot be live jog
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Creeper,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Creeper,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Momo,Fate,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Fate,Momo,4.508196721311475,3.0737704918032787,48.15573770491803,1.4666666666666666,ask know say say be get talk talk ask click keep be know
+Ramiro,Yesenia,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Ramiro,Lil Blanco,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Ramiro,Fox,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Yesenia,Lil Blanco,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Yesenia,Fox,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Lil Blanco,Fox,0.646551724137931,1.5086206896551724,42.672413793103445,0.42857142857142855,do shoot yell pump raise blast outline move
+Lu,Lorraine,2.5,0.625,51.87500000000001,4.0,have be gear go
+Lu,Lorraine,2.5,0.625,51.87500000000001,4.0,have be gear go
+Lorraine,Lu,1.4204545454545454,3.125,56.81818181818182,0.45454545454545453,be scream cry see pack tell be
+Lorraine,Lu,1.4204545454545454,3.125,56.81818181818182,0.45454545454545453,be scream cry see pack tell be
+Lorraine,Lu,1.4204545454545454,3.125,56.81818181818182,0.45454545454545453,be scream cry see pack tell be
+Lorraine,Lu,1.4204545454545454,3.125,56.81818181818182,0.45454545454545453,be scream cry see pack tell be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lorraine,Lu,3.0555555555555554,1.3888888888888888,57.77777777777777,2.2,be do get hold be know be do get be be
+Lu,Lorraine,2.5,2.5,51.0,1.0,push mean care explain do get
+Lu,Lorraine,2.5,2.5,51.0,1.0,push mean care explain do get
+Lu,Lorraine,2.5,2.5,51.0,1.0,push mean care explain do get
+Lu,Elena,1.8292682926829267,3.048780487804878,53.65853658536586,0.6,work come say kill go shut
+Elena,Lu,1.8292682926829267,3.048780487804878,53.65853658536586,0.6,work come say kill go shut
+Elena,Fate,1.9230769230769231,1.9230769230769231,65.38461538461539,1.0,leave do need
+Lu,Fate,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be sit
+Lu,Oso,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be sit
+Fate,Oso,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be sit
+Fate,Lupe,2.403846153846154,1.4423076923076923,59.61538461538461,1.6666666666666667,read call stop turn take set be get prop
+Fate,Lil Mosco,1.893939393939394,2.6515151515151514,43.93939393939394,0.7142857142857143,give get keep be trade click get stay
+Fate,Lil Mosco,1.893939393939394,2.6515151515151514,43.93939393939394,0.7142857142857143,give get keep be trade click get stay
+Lil Mosco,Fate,1.893939393939394,2.6515151515151514,43.93939393939394,0.7142857142857143,give get keep be trade click get stay
+Fate,Lil Mosco,1.893939393939394,2.6515151515151514,43.93939393939394,0.7142857142857143,give get keep be trade click get stay
+Fate,Oso,1.6666666666666667,1.6666666666666667,60.0,1.0,mean shut look be
+Patch,Oso,1.3888888888888888,6.944444444444445,25.0,0.2,say
+Patch,Oso,3.75,0.0,31.25,INF,say tell scalp
+Lu,Oso,2.083333333333333,10.416666666666668,37.5,0.2,do
+Lu,Louise,1.9230769230769231,0.9615384615384616,48.3974358974359,2.0,have know be involve be be
+Lu,Lil Mosco,11.25,2.5,41.25,4.5,have be think be know go
+Lu,Fate,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Fate,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Fate,Lu,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Fate,Lu,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Fate,Lu,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Fate,Lu,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Fate,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Wright,5.053191489361701,1.5957446808510638,55.053191489361694,3.1666666666666665,have see face pass tell be have move get rob walk
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Lil Mosco,1.3888888888888888,0.5952380952380952,37.698412698412696,2.3333333333333335,do be accept do like change be hold bite need breathe be have click say
+Lu,Oso,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,lean stub give look
+Lu,Oso,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,lean stub give look
+Oso,Lu,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,lean stub give look
+Lu,Momo,2.34375,0.78125,34.375,3.0,hold say be
+Lu,Momo,3.9473684210526314,4.934210526315789,54.276315789473685,0.8,kill go know pay be be give be
+Lu,Momo,3.9473684210526314,4.934210526315789,54.276315789473685,0.8,kill go know pay be be give be
+Lu,Momo,3.9473684210526314,4.934210526315789,54.276315789473685,0.8,kill go know pay be be give be
+Lu,Momo,3.9473684210526314,4.934210526315789,54.276315789473685,0.8,kill go know pay be be give be
+Lil Mosco,Fate,2.5,1.7857142857142856,55.714285714285715,1.4,go think be have set do have
+Fate,Momo,2.34375,0.0,57.03125,INF,find say undo open look
+Lu,Momo,6.8181818181818175,0.0,38.63636363636363,INF,say blast
+Jesus,Ranger,0.8064516129032258,0.0,50.806451612903224,INF,say step send
+Ranger,Oso,0.0,1.8867924528301887,64.15094339622641,0.0,kick stop be hear come go take
+Ranger,Oso,0.0,1.8867924528301887,64.15094339622641,0.0,kick stop be hear come go take
+Ranger,Oso,0.0,1.8867924528301887,64.15094339622641,0.0,kick stop be hear come go take
+Lu,Oso,1.4423076923076923,0.0,40.86538461538461,INF,go
+Lu,Ranger,1.4423076923076923,0.0,40.86538461538461,INF,go
+Oso,Ranger,1.4423076923076923,0.0,40.86538461538461,INF,go
+Lu,Ranger,1.4285714285714286,0.0,64.28571428571429,INF,do like see be sit prop be play wait be find
+Lu,Ranger,1.4285714285714286,0.0,64.28571428571429,INF,do like see be sit prop be play wait be find
+Lu,Ranger,1.4285714285714286,0.0,64.28571428571429,INF,do like see be sit prop be play wait be find
+Momo,Fate,0.0,0.0,46.42857142857143,INF,use look buy use
+Momo,Creeper,0.0,0.0,46.42857142857143,INF,use look buy use
+Fate,Creeper,0.0,0.0,46.42857142857143,INF,use look buy use
+Creeper,Momo,2.631578947368421,2.631578947368421,42.10526315789473,1.0,put rob say
+Lu,Momo,1.875,2.8125,37.8125,0.6666666666666666,be shrug step make go
+Oso,Fate,3.3333333333333335,3.3333333333333335,50.0,1.0,move chuck be
+Lu,Oso,1.8867924528301887,0.0,60.37735849056604,INF,jump be throw get park chuck
+Lu,Fate,1.8867924528301887,0.0,60.37735849056604,INF,jump be throw get park chuck
+Oso,Fate,1.8867924528301887,0.0,60.37735849056604,INF,jump be throw get park chuck
+Oso,Lu,1.8867924528301887,0.0,60.37735849056604,INF,jump be throw get park chuck
+Fate,Lu,1.8867924528301887,0.0,60.37735849056604,INF,jump be throw get park chuck
+Fate,Lu,2.2058823529411766,0.0,44.85294117647059,INF,be
+Fate,Sturm,3.571428571428571,2.142857142857143,54.285714285714285,1.6666666666666667,be wait be make be get show
+Fate,Sturm,3.571428571428571,2.142857142857143,54.285714285714285,1.6666666666666667,be wait be make be get show
+Erickson,Fate,0.0,0.9615384615384616,52.88461538461539,0.0,walk look do see see stand
+Fate,Erickson,0.0,0.9615384615384616,52.88461538461539,0.0,walk look do see see stand
+Erickson,Fate,3.8461538461538463,2.403846153846154,62.980769230769226,1.6,get tell be think
+Fate,Erickson,3.8461538461538463,2.403846153846154,62.980769230769226,1.6,get tell be think
+Erickson,Fate,0.0,2.5,47.5,0.0,whip walk
+Fate,Erickson,0.0,2.5,47.5,0.0,whip walk
+Fate,Erickson,0.0,2.5,47.5,0.0,whip walk
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Fate,Erickson,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Fate,Erickson,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Fate,Erickson,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Fate,Erickson,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,3.888888888888889,2.5,60.27777777777777,1.5555555555555556,be foam work
+Erickson,Fate,5.0,0.625,49.375,8.0,listen know be be say
+Irene,Fate,0.0,0.0,50.0,INF,be aim go wait come get
+Lu,Ernesto,2.941176470588235,3.6764705882352944,54.166666666666664,0.8,have be start plan have ask run check lie be be be pick
+Lu,Ernesto,3.125,0.78125,55.46875,4.0,do notice recognize try help talk see
+Lu,Ernesto,3.125,0.78125,55.46875,4.0,do notice recognize try help talk see
+Ernesto,Lu,3.125,0.78125,55.46875,4.0,do notice recognize try help talk see
+Irene,Gloria,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,be go
+Irene,Lydia,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,be go
+Gloria,Lydia,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,be go
+Gloria,Ernesto,3.214285714285714,2.142857142857143,43.214285714285715,1.5,tell be perch be see be
+Gloria,Ernesto,3.214285714285714,2.142857142857143,43.214285714285715,1.5,tell be perch be see be
+Gloria,Ernesto,3.214285714285714,2.142857142857143,43.214285714285715,1.5,tell be perch be see be
+Ernesto,Gloria,3.214285714285714,2.142857142857143,43.214285714285715,1.5,tell be perch be see be
+Gloria,Ernesto,3.214285714285714,1.7857142857142856,49.28571428571429,1.8,be be look come rest find be drag have be remove
+Irene,Fate,1.25,1.25,42.5,1.0,be be run
+Fate,Lu,1.5957446808510638,2.925531914893617,52.92553191489362,0.5454545454545454,be be have wonder look do get have tell
+Irene,Gloria,3.3333333333333335,5.833333333333333,50.83333333333333,0.5714285714285714,decide tell see
+Irene,Lydia,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Irene,Lydia,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Lydia,Irene,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Lydia,Irene,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Lydia,Irene,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Lydia,Irene,5.277777777777778,0.5555555555555556,56.388888888888886,9.5,have get deport work do know be chop move
+Mrs. Nantakarn,Irene,1.5625,1.5625,59.375,1.0,hear ask be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Mrs. Nantakarn,Irene,3.7162162162162162,0.6756756756756757,46.95945945945946,5.5,say want see marry die tell cut do be
+Bonnie,Irene,3.125,0.0,46.875,INF,be do say
+Compton,Ernesto,3.5037878787878785,3.882575757575758,53.21969696969697,0.9024390243902439,do remember look burn find be live borrow move make be carry mean get beat take start make walk be dig bother search try
+Irene,Fate,3.3783783783783785,0.33783783783783783,44.932432432432435,10.0,see be be be barbecue eat
+Fate,Irene,3.225806451612903,1.6129032258064515,50.0,2.0,be start do understand be start
+Irene,Clever,0.4629629629629629,0.9259259259259258,35.648148148148145,0.5,work be tell be be
+Wright,Sinatra,4.6875,0.78125,50.78125,6.0,turn be name
+Sinatra,Clever,5.0,4.166666666666666,50.83333333333333,1.2,be
+Clever,Sinatra,0.0,4.605263157894736,48.026315789473685,0.0,want burn sit
+Sinatra,Fate,0.8333333333333334,1.6666666666666667,64.16666666666667,0.5,come think
+Wright,Clever,0.8064516129032258,5.241935483870968,55.24193548387096,0.15384615384615385,be protect figure be
+Wright,Vikings,0.8064516129032258,5.241935483870968,55.24193548387096,0.15384615384615385,be protect figure be
+Clever,Vikings,0.8064516129032258,5.241935483870968,55.24193548387096,0.15384615384615385,be protect figure be
+Clever,Wright,3.3854166666666665,5.989583333333334,57.291666666666664,0.5652173913043478,say need burn make burn have do need do be park see be say
+Clever,Sinatra,1.650943396226415,2.358490566037736,46.93396226415094,0.7,be want ease leave look make be go
+Fate,Clever,0.0,0.0,18.181818181818183,INF,
+Payasa,Fate,6.25,1.6666666666666667,48.75,3.75,break say make move cool
+Payasa,Fate,6.25,1.6666666666666667,48.75,3.75,break say make move cool
+Oso,Fate,0.0,0.0,42.10526315789473,INF,be go wait hear
+Oso,Clever,0.0,0.0,42.10526315789473,INF,be go wait hear
+Fate,Clever,0.0,0.0,42.10526315789473,INF,be go wait hear
+Payasa,Payasita,2.336842105263158,2.9263157894736844,42.10526315789473,0.7985611510791366,call cuz be mean
+Payasa,Fate,3.30188679245283,3.30188679245283,53.77358490566038,1.0,get do know say make wait say make move be know
+Elena,Payasa,1.5625,0.0,29.6875,INF,be see say
+Payasa,Elena,5.208333333333334,3.4722222222222223,55.208333333333336,1.5,be think say figure keep talk cuz seem be keep
+Elena,Payasa,5.208333333333334,3.4722222222222223,55.208333333333336,1.5,be think say figure keep talk cuz seem be keep
+Payasa,Elena,2.8846153846153846,0.0,50.96153846153846,INF,be say get see
+Payasa,Elena,2.8846153846153846,0.0,50.96153846153846,INF,be say get see
+Louise,Oso,0.0,0.0,52.94117647058824,INF,pull
+Elena,Payasa,1.0869565217391304,5.434782608695652,45.65217391304348,0.2,be say shut
+Fate,Ray,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Fate,Lupe,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Fate,Ernie,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Ray,Lupe,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Ray,Ernie,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Lupe,Ernie,2.7439024390243905,2.4390243902439024,53.35365853658537,1.125,be scare go pay have
+Ernie,Ernesto,9.722222222222223,1.3888888888888888,38.88888888888889,7.0,want pay say know say
+Clever,Ray,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,look look need be study mash spit sizzle
+Clever,Fate,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,look look need be study mash spit sizzle
+Clever,Ray,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,look look need be study mash spit sizzle
+Clever,Fate,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,look look need be study mash spit sizzle
+Ray,Fate,1.893939393939394,1.1363636363636365,63.63636363636363,1.6666666666666667,look look need be study mash spit sizzle
+Fat John,Tortuga,0.625,1.25,63.125,0.5,sell hit
+Fat John,Gloria,0.625,1.25,63.125,0.5,sell hit
+Tortuga,Gloria,0.625,1.25,63.125,0.5,sell hit
+Rosecrans,Tacos El Unico,1.1363636363636365,1.7045454545454544,58.52272727272727,0.6666666666666666,stand be be
+James,Ernesto,3.9473684210526314,0.0,27.631578947368425,INF,say do know
+James,Ernesto,2.7777777777777777,10.648148148148149,49.53703703703704,0.2608695652173913,feel tell happen do want make feel
+Listo,Momo,2.4193548387096775,0.0,45.96774193548387,INF,drop be happen do know be
+Listo,Ernesto,2.4193548387096775,0.0,45.96774193548387,INF,drop be happen do know be
+Momo,Ernesto,2.4193548387096775,0.0,45.96774193548387,INF,drop be happen do know be
+Ernesto,Listo,2.4193548387096775,0.8064516129032258,54.83870967741935,3.0,do feel do think be cuz use try fuck
+Tortuga,Fat John,1.3392857142857142,0.4464285714285714,55.35714285714286,3.0,be be meet
+Tortuga,Gloria,1.3392857142857142,0.4464285714285714,55.35714285714286,3.0,be be meet
+Fat John,Gloria,1.3392857142857142,0.4464285714285714,55.35714285714286,3.0,be be meet
+Tortuga,James,2.604166666666667,0.5208333333333333,71.875,5.0,stare get be go
+Fat John,John,3.9473684210526314,0.0,59.210526315789465,INF,make believe be see
+Fat John,John,3.9473684210526314,0.0,59.210526315789465,INF,make believe be see
+Fat John,Tortuga,5.46875,0.0,57.03125,INF,do know have
+Fat John,Tortuga,0.0,0.0,60.0,INF,take
+Fat John,Tortuga,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Fat John,Tortuga,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Fat John,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Fat John,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Tortuga,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Tortuga,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Tortuga,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Tortuga,John,2.0408163265306123,1.2755102040816326,51.78571428571429,1.6,have spot promise hit open sound
+Fat John,Fate,1.8518518518518516,0.9259259259259258,52.77777777777778,2.0,be settle ask be gon happen click happen
+Fat John,John,2.6785714285714284,3.571428571428571,43.75,0.75,do say grab
+Gloria,Jermy,1.4705882352941175,0.0,33.82352941176471,INF,put say go
+Gloria,Jermy,1.4705882352941175,0.0,33.82352941176471,INF,put say go
+Gloria,Jermy,0.78125,5.46875,50.0,0.14285714285714285,call be
+Jermy,Gloria,0.78125,5.46875,50.0,0.14285714285714285,call be
+Gloria,Aurelio,0.5681818181818182,0.0,44.88636363636363,INF,hand say have see
+Gloria,Aurelio,0.5681818181818182,0.0,44.88636363636363,INF,hand say have see
+Gloria,Aurelio,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,have call be
+Lydia,Mateo,0.0,0.0,35.714285714285715,INF,take give
+Gloria,Teresa,1.25,1.25,55.00000000000001,1.0,do leave go
+Gloria,Teresa,1.25,1.25,55.00000000000001,1.0,do leave go
+Gloria,Izel,4.6875,1.8229166666666667,45.57291666666667,2.5714285714285716,live be be
+Gloria,Izel,4.6875,1.8229166666666667,45.57291666666667,2.5714285714285716,live be be
+Gloria,Izel,4.6875,1.8229166666666667,45.57291666666667,2.5714285714285716,live be be
+Gloria,Lydia,3.1914893617021276,2.6595744680851063,51.59574468085106,1.2,do get have be live leave
+Gloria,Lydia,3.1914893617021276,2.6595744680851063,51.59574468085106,1.2,do get have be live leave
+Gloria,Lydia,3.1914893617021276,2.6595744680851063,51.59574468085106,1.2,do get have be live leave
+Fernwood,Olanda,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Fernwood,Wright,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Fernwood,Olanda,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Fernwood,Izel,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Olanda,Wright,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Olanda,Izel,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Wright,Olanda,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Wright,Izel,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Olanda,Izel,0.3289473684210526,0.3289473684210526,54.60526315789473,1.0,become become be pass kinda click stop
+Ernesto,Fate,1.293103448275862,0.8620689655172413,56.46551724137932,1.5,kinda believe live be involve
+Tom,Norton,1.3888888888888888,1.6666666666666667,56.94444444444444,0.8333333333333334,hit be drive think fuck waste bounce
+Fat John,Tortuga,2.9166666666666665,1.6666666666666667,52.083333333333336,1.75,be see decide make
+Gloria,Jermy,1.5625,0.0,35.9375,INF,say make call look
+Jermy,Gloria,0.8333333333333334,0.0,49.166666666666664,INF,say hear get press put
+Jermy,Gloria,0.8333333333333334,0.0,49.166666666666664,INF,say hear get press put
+Jermy,Gloria,0.8333333333333334,0.0,49.166666666666664,INF,say hear get press put
+Momo,Wright,1.5625,0.0,73.4375,INF,hear be lay find
+Fate,Momo,5.147058823529411,3.6764705882352944,61.76470588235294,1.4,ask go want know
+Momo,Payasa,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,remind come tell
+Momo,Payasa,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,remind come tell
+Kerwin,Momo,0.0,0.0,61.904761904761905,INF,be be ride come be go see chuck
+Momo,Cecilia,5.0,8.75,46.25,0.5714285714285714,plan lie
+Momo,Cecilia,8.653846153846153,1.9230769230769231,58.65384615384615,4.5,know be lie ask
+Momo,Cecilia,0.6578947368421052,0.0,57.23684210526315,INF,lie sound mean kill tell be
+Momo,Cecilia,0.6578947368421052,0.0,57.23684210526315,INF,lie sound mean kill tell be
+Cecilia,Momo,0.6578947368421052,0.0,57.23684210526315,INF,lie sound mean kill tell be
+Momo,Cecilia,0.6578947368421052,0.0,57.23684210526315,INF,lie sound mean kill tell be
+Cecilia,Momo,3.4090909090909087,0.0,60.22727272727273,INF,fill have be meet
+Cecilia,Momo,3.4090909090909087,0.0,60.22727272727273,INF,fill have be meet
+Tam,Tom,3.4090909090909087,2.840909090909091,39.20454545454545,1.2,know get be
+Mikey,Miguel,0.0,0.0,45.45454545454545,INF,ask learn be
+Miguel,James,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,say be
+Miguel,James,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,say be
+Jeanette,James,5.410447761194029,2.0522388059701493,50.74626865671642,2.6363636363636362,be go watch take make go be be go be be switch talk
+Jeanette,James,5.410447761194029,2.0522388059701493,50.74626865671642,2.6363636363636362,be go watch take make go be be go be be switch talk
+Payasa,James,0.7352941176470588,3.6764705882352944,42.64705882352941,0.2,be say point
+Payasa,James,5.0,2.5,32.5,2.0,be think
+James,Jeanette,0.0,0.0,55.55555555555556,INF,stare
+Jeanette,James,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+Jeanette,James,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+Jeanette,James,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+Jeanette,James,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+Jeanette,Payasa,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+James,Payasa,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+James,Payasa,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+James,Payasa,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+James,Payasa,4.285714285714286,2.857142857142857,50.0,1.5,go decide be do go back look
+Ernie,National Guard,5.324074074074074,1.6203703703703702,57.870370370370374,3.2857142857142856,take hope have have have consider seem know get go
+Ernie,National Guard,5.324074074074074,1.6203703703703702,57.870370370370374,3.2857142857142856,take hope have have have consider seem know get go
+Ernie,National Guard,5.324074074074074,1.6203703703703702,57.870370370370374,3.2857142857142856,take hope have have have consider seem know get go
+Cecilia,Momo,1.9230769230769231,0.0,36.53846153846153,INF,say get get
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Momo,Cecilia,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Momo,Cecilia,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Cecilia,Momo,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Momo,Cecilia,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Momo,Cecilia,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Momo,Cecilia,4.25531914893617,3.0585106382978724,46.941489361702125,1.391304347826087,go try convince go tell do want get walk be come find lie know want know want hear be be try do protect
+Compton,Watts,0.21551724137931033,0.21551724137931033,66.8103448275862,1.0,get have be
+Watts,Compton,0.21551724137931033,0.21551724137931033,66.8103448275862,1.0,get have be
+Kerwin,Dodgers,3.125,2.34375,44.53125,1.3333333333333333,be get have bring
+Dodgers,Kerwin,3.125,2.34375,44.53125,1.3333333333333333,be get have bring

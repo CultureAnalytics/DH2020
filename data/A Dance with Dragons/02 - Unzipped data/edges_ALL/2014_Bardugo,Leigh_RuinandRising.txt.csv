@@ -1,0 +1,1461 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Grisha,Ravka,2.309782608695652,1.358695652173913,76.7663043478261,1.7,rise be be claim have make run
+Grisha,Keramzin,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,forget become have be
+David,Genya,5.0,0.8333333333333334,60.83333333333333,6.0,have do be limit
+David,Inferni,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,follow move be help track hide
+Inferni,David,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,follow move be help track hide
+Inferni,David,6.8181818181818175,2.840909090909091,58.52272727272727,2.4,be reflect have fashion salvage
+David,Nikolai,3.4090909090909087,3.787878787878788,38.25757575757576,0.9,have be take have be stop
+David,Morozova,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be work
+David,Morozova,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be work
+Genya,Morozova,0.7352941176470588,0.0,46.32352941176471,INF,wait say follow
+Genya,Morozova,0.7352941176470588,0.0,46.32352941176471,INF,wait say follow
+Grisha,Soldat Sol,1.875,1.25,46.875,1.5,have train
+Mal,Stigg,1.3392857142857142,0.0,52.23214285714286,INF,enter see have gather watch survive
+Mal,Inferni,1.3392857142857142,0.0,52.23214285714286,INF,enter see have gather watch survive
+Stigg,Inferni,1.3392857142857142,0.0,52.23214285714286,INF,enter see have gather watch survive
+Mal,Zoya,0.0,1.7857142857142856,41.07142857142857,0.0,silence
+Mal,Grisha,2.7777777777777777,0.0,52.77777777777778,INF,watch
+Squallers,Zoya,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Squallers,Nadia,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Squallers,Nadia,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Squallers,Adrik,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Zoya,Nadia,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Zoya,Nadia,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Zoya,Adrik,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Nadia,Adrik,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Nadia,Adrik,1.7857142857142856,0.8928571428571428,18.75,2.0,be
+Stigg,Harshaw,0.0,0.0,21.428571428571427,INF,make
+Corporalki,Tamar,1.7857142857142856,0.5952380952380952,30.952380952380953,3.0,be
+Corporalki,Tamar,1.7857142857142856,0.5952380952380952,30.952380952380953,3.0,be
+Corporalki,Tolya,1.7857142857142856,0.5952380952380952,30.952380952380953,3.0,be
+Tamar,Tolya,1.7857142857142856,0.5952380952380952,30.952380952380953,3.0,be
+Tamar,Tolya,1.7857142857142856,0.5952380952380952,30.952380952380953,3.0,be
+Genya,David,2.34375,1.5625,33.59375,1.5,keep be
+Maxim,Grisha,9.274193548387096,0.8064516129032258,44.75806451612903,11.5,be prefer practice trust take
+Maxim,Grisha,9.274193548387096,0.8064516129032258,44.75806451612903,11.5,be prefer practice trust take
+Grisha,Maxim,9.274193548387096,0.8064516129032258,44.75806451612903,11.5,be prefer practice trust take
+Sergei,Mal,1.875,0.0,53.125,INF,follow gaze be move speak correct
+Oretsev,Sergei,2.272727272727273,0.0,34.090909090909086,INF,call beckon
+Tolya,Tamar,7.8125,1.5625,3.125,5.0,outrank
+Mal,Grisha,12.5,2.7777777777777777,51.388888888888886,4.5,have get fight
+Genya,Squaller,3.4482758620689653,4.741379310344827,50.43103448275862,0.7272727272727273,remember bruise stand
+Squaller,Genya,3.4482758620689653,4.741379310344827,50.43103448275862,0.7272727272727273,remember bruise stand
+Mal,Genya,0.0,1.6666666666666667,31.666666666666664,0.0,be reply
+Stigg,Inferni,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Stigg,Genya,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Stigg,Ruby,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Inferni,Genya,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Inferni,Ruby,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Genya,Ruby,3.125,0.8928571428571428,45.982142857142854,3.5,do look say bob seem be take
+Mal,Genya,0.0,12.5,12.5,0.0,ignore
+Ruby,Mal,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be talk
+Mal,Ruby,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be talk
+Mal,Ruby,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,be talk
+David,Genya,1.3888888888888888,0.0,43.05555555555556,INF,be
+Sankta Alina,Alina,1.875,1.875,41.25,1.0,have come spend declare
+Morozova,David,0.5681818181818182,0.0,44.88636363636363,INF,have keep shriek
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+David,Morozova,1.171875,0.0,58.203125,INF,spend pore jot
+Grisha,Morozova,3.977272727272727,3.4090909090909087,47.159090909090914,1.1666666666666667,believe have be destroy
+Grisha,Morozova,3.977272727272727,3.4090909090909087,47.159090909090914,1.1666666666666667,believe have be destroy
+Morozova,Ravka,3.826530612244898,4.336734693877551,48.97959183673469,0.8823529411764706,have hide be get suspect have discover steal have be force flee
+David,Genya,2.1875,1.5625,48.75,1.4,have drag stock use make
+David,Genya,2.1875,1.5625,48.75,1.4,have drag stock use make
+David,Genya,2.1875,1.5625,48.75,1.4,have drag stock use make
+Dva Stolba,Mal,4.296875,5.078125,46.875,0.8461538461538461,have fall think be find have be bear
+Morozova,Sankt Ilya,4.411764705882353,5.88235294117647,36.76470588235294,0.75,feel be
+David,Tamar,5.208333333333334,4.166666666666666,53.125,1.25,have create have help be belong
+Genya,Tamar,2.631578947368421,1.9736842105263157,48.026315789473685,1.3333333333333333,arrive have refuse leave
+Genya,Tamar,2.272727272727273,2.272727272727273,40.909090909090914,1.0,have mutter pull
+Alina,Tamar,0.9615384615384616,0.9615384615384616,36.53846153846153,1.0,need watch say
+Alina,Tamar,0.9615384615384616,0.9615384615384616,36.53846153846153,1.0,need watch say
+Tamar,Genya,2.1341463414634148,2.1341463414634148,46.95121951219512,1.0,pinch prod harass have throw agree
+Genya,Tamar,2.1341463414634148,2.1341463414634148,46.95121951219512,1.0,pinch prod harass have throw agree
+Alina,Tamar,0.0,1.6666666666666667,31.666666666666664,0.0,be go flatten grumble
+Tamar,Alina,3.353658536585366,3.9634146341463414,46.34146341463415,0.8461538461538461,have be blow curl scar say wait fall give
+Tamar,Alina,3.353658536585366,3.9634146341463414,46.34146341463415,0.8461538461538461,have be blow curl scar say wait fall give
+Tamar,Alina,3.353658536585366,3.9634146341463414,46.34146341463415,0.8461538461538461,have be blow curl scar say wait fall give
+Tamar,Alina,3.353658536585366,3.9634146341463414,46.34146341463415,0.8461538461538461,have be blow curl scar say wait fall give
+Genya,Tamar,0.35714285714285715,1.0714285714285714,52.85714285714286,0.3333333333333333,continue keep cover spend hunch do shy
+Genya,Tamar,0.35714285714285715,1.0714285714285714,52.85714285714286,0.3333333333333333,continue keep cover spend hunch do shy
+Genya,Tamar,0.35714285714285715,1.0714285714285714,52.85714285714286,0.3333333333333333,continue keep cover spend hunch do shy
+Genya,Tamar,0.35714285714285715,1.0714285714285714,52.85714285714286,0.3333333333333333,continue keep cover spend hunch do shy
+Genya,Tamar,0.35714285714285715,1.0714285714285714,52.85714285714286,0.3333333333333333,continue keep cover spend hunch do shy
+Genya,Tamar,2.586206896551724,2.1551724137931036,50.43103448275862,1.2,be use alter have return mean
+Genya,Tamar,2.586206896551724,2.1551724137931036,50.43103448275862,1.2,be use alter have return mean
+Genya,Tamar,2.586206896551724,2.1551724137931036,50.43103448275862,1.2,be use alter have return mean
+Genya,Tamar,4.605263157894736,2.631578947368421,50.6578947368421,1.75,turn face draw keep spread create hide
+Genya,Tamar,4.605263157894736,2.631578947368421,50.6578947368421,1.75,turn face draw keep spread create hide
+Genya,Tamar,4.605263157894736,2.631578947368421,50.6578947368421,1.75,turn face draw keep spread create hide
+Nadia,Zoya,3.125,1.5625,32.8125,2.0,be bind prevent summon
+Mal,Genya,0.0,2.5,37.5,0.0,be bloody
+Genya,Tolya,0.0,3.90625,39.84375,0.0,be flank
+Genya,Tamar,0.0,3.90625,39.84375,0.0,be flank
+Tolya,Tamar,0.0,3.90625,39.84375,0.0,be flank
+Nadia,Zoya,0.78125,3.125,21.09375,0.25,
+Nadia,Squallers,0.78125,3.125,21.09375,0.25,
+Nadia,Mal,0.78125,3.125,21.09375,0.25,
+Nadia,David,0.78125,3.125,21.09375,0.25,
+Zoya,Squallers,0.78125,3.125,21.09375,0.25,
+Zoya,Mal,0.78125,3.125,21.09375,0.25,
+Zoya,David,0.78125,3.125,21.09375,0.25,
+Squallers,Mal,0.78125,3.125,21.09375,0.25,
+Squallers,David,0.78125,3.125,21.09375,0.25,
+Mal,David,0.78125,3.125,21.09375,0.25,
+Mal,Grisha,0.0,0.0,60.0,INF,arch point
+Tamar,Genya,0.0,0.0,33.33333333333333,INF,nod sit
+Genya,Tamar,1.5625,0.0,48.4375,INF,clench
+Zoya,Nadia,10.833333333333334,4.166666666666666,38.333333333333336,2.6,trust do know
+Genya,David,0.0,6.25,50.0,0.0,steal
+David,Keramzin,4.166666666666666,1.6666666666666667,60.83333333333333,2.5,do look look have be do get
+David,Keramzin,4.166666666666666,1.6666666666666667,60.83333333333333,2.5,do look look have be do get
+David,Keramzin,4.166666666666666,1.6666666666666667,60.83333333333333,2.5,do look look have be do get
+Keramzin,David,4.166666666666666,1.6666666666666667,60.83333333333333,2.5,do look look have be do get
+Mal,Genya,4.761904761904762,1.7857142857142856,41.07142857142857,2.6666666666666665,kill lock feel
+Tolya,Genya,0.0,0.0,50.0,INF,throw
+Nadia,Zoya,0.0,0.0,42.10526315789473,INF,hold spin slice
+Nadia,Tamar,0.0,0.0,42.10526315789473,INF,hold spin slice
+Nadia,Tamar,0.0,0.0,42.10526315789473,INF,hold spin slice
+Zoya,Tamar,0.0,0.0,42.10526315789473,INF,hold spin slice
+Zoya,Tamar,0.0,0.0,42.10526315789473,INF,hold spin slice
+Nadia,Zoya,6.730769230769231,1.9230769230769231,37.5,3.5,lob
+Nadia,Zoya,1.3888888888888888,0.0,54.166666666666664,INF,look confuse jump do raise attack
+Tolya,Tamar,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be stop
+David,Genya,0.0,0.0,42.857142857142854,INF,run
+Nadia,Zoya,0.0,0.0,40.0,INF,flip
+Genya,David,3.869047619047619,3.273809523809524,54.761904761904766,1.1818181818181819,see widen pass demand know be
+Genya,David,3.869047619047619,3.273809523809524,54.761904761904766,1.1818181818181819,see widen pass demand know be
+Zoya,Nadia,2.083333333333333,2.083333333333333,40.27777777777778,1.0,stand summon be arm
+Zoya,Mal,2.083333333333333,2.083333333333333,40.27777777777778,1.0,stand summon be arm
+Nadia,Mal,2.083333333333333,2.083333333333333,40.27777777777778,1.0,stand summon be arm
+Vladim,Grisha,0.0,2.840909090909091,28.97727272727273,0.0,be get
+Nadia,Tamar,0.7142857142857143,0.0,45.0,INF,have get say dab have dunk
+Tamar,Nadia,0.7142857142857143,0.0,45.0,INF,have get say dab have dunk
+Tamar,Nadia,0.7142857142857143,0.0,45.0,INF,have get say dab have dunk
+Tolya,Tamar,0.0,0.0,11.76470588235294,INF,walk
+Tolya,Mal,0.0,0.0,11.76470588235294,INF,walk
+Tamar,Mal,0.0,0.0,11.76470588235294,INF,walk
+Vladim,Mal,0.0,0.0,46.666666666666664,INF,move turn take
+Mal,Tamar,0.0,0.0,50.0,INF,dispatch rally search work
+Mal,Soldat Sol,0.0,0.0,50.0,INF,dispatch rally search work
+Tamar,Soldat Sol,0.0,0.0,50.0,INF,dispatch rally search work
+Mal,Tolya,0.0,0.0,33.33333333333333,INF,escort trail
+Nikolai,Baghra,4.166666666666666,0.0,40.27777777777778,INF,have intend get return
+Nikolai,Baghra,4.166666666666666,0.0,40.27777777777778,INF,have intend get return
+Mal,Tolya,3.90625,0.0,52.34375,INF,glance wait
+Fjerda,Grisha,0.0,5.681818181818182,30.681818181818183,0.0,burn
+Nikolai,Vasily,1.0,0.5,50.5,2.0,think lay command be lower
+Sankta Alina,Nikolai,0.0,0.8928571428571428,34.82142857142857,0.0,hold
+Nikolai,Tolya,4.487179487179487,3.5256410256410255,40.705128205128204,1.2727272727272727,leave secure guard make stay disturb
+Grisha,Vladim,0.0,0.5208333333333333,53.645833333333336,0.0,arrive find pack wait
+Nadia,Maxim,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be tend
+Nadia,Stigg,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be tend
+Maxim,Stigg,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be tend
+Sergei,Vladim,0.0,1.25,58.75,0.0,ask dismiss
+Sergei,Stigg,0.0,0.0,54.54545454545454,INF,be wedge
+Harshaw,Sergei,0.0,0.0,31.57894736842105,INF,be
+Harshaw,Genya,0.0,0.0,31.57894736842105,INF,be
+Sergei,Genya,0.0,0.0,31.57894736842105,INF,be
+David,Tamar,2.976190476190476,0.5952380952380952,48.80952380952381,5.0,station keep
+David,Genya,6.25,1.5625,42.1875,4.0,know be meet say guess
+Genya,David,6.25,1.5625,42.1875,4.0,know be meet say guess
+Oretsev,Zoya,0.0,6.8181818181818175,29.545454545454547,0.0,blame reply sniff
+Tolya,Tamar,1.5625,0.78125,44.53125,2.0,know be trust rough put
+Tolya,Mal,1.5625,0.78125,44.53125,2.0,know be trust rough put
+Tamar,Mal,1.5625,0.78125,44.53125,2.0,know be trust rough put
+David,Tamar,0.0,4.166666666666666,51.388888888888886,0.0,be insist put say
+Mal,Nikolai,0.0,0.0,40.0,INF,shake
+Ryevost,Tamar,0.0,0.0,33.33333333333333,INF,think try say
+Sturmhond,Ravka,3.125,0.0,46.875,INF,have
+Tamar,Tolya,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,have be trust
+Tamar,Sturmhond,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,have be trust
+Tolya,Sturmhond,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,have be trust
+Nikolai,Ryevost,8.75,2.5,48.75,3.5,be be base be be
+Adrik,Genya,0.0,0.0,60.0,INF,shoot bounce
+Adrik,Genya,0.0,0.0,60.0,INF,shoot bounce
+Nadia,Genya,0.0,0.9615384615384616,68.26923076923077,0.0,give shrug march
+Adrik,Genya,0.8064516129032258,1.2096774193548387,52.82258064516129,0.6666666666666666,be be seem be look prove
+Adrik,Nadia,0.8064516129032258,1.2096774193548387,52.82258064516129,0.6666666666666666,be be seem be look prove
+Adrik,Genya,0.8064516129032258,1.2096774193548387,52.82258064516129,0.6666666666666666,be be seem be look prove
+Genya,Nadia,0.8064516129032258,1.2096774193548387,52.82258064516129,0.6666666666666666,be be seem be look prove
+Nadia,Genya,0.8064516129032258,1.2096774193548387,52.82258064516129,0.6666666666666666,be be seem be look prove
+Zoya,Harshaw,4.296875,1.953125,46.875,2.2,roll flounce follow give say be
+Zoya,Stigg,4.296875,1.953125,46.875,2.2,roll flounce follow give say be
+Zoya,Harshaw,4.296875,1.953125,46.875,2.2,roll flounce follow give say be
+Zoya,Stigg,4.296875,1.953125,46.875,2.2,roll flounce follow give say be
+Harshaw,Stigg,4.296875,1.953125,46.875,2.2,roll flounce follow give say be
+David,Morozova,5.921052631578947,1.3157894736842104,50.6578947368421,4.5,suspect have prefer remain cloister
+Nadia,Tamar,4.166666666666666,0.0,52.976190476190474,INF,seem go be grin
+Nadia,Tamar,4.166666666666666,0.0,52.976190476190474,INF,seem go be grin
+Vladim,Maxim,5.092592592592593,3.2407407407407405,47.22222222222222,1.5714285714285714,get set take
+Sergei,Alina,0.0,0.0,54.54545454545454,INF,do look say be go be
+Sergei,Alina,0.0,0.0,54.54545454545454,INF,do look say be go be
+Nikolai,Ravka,0.0,6.25,43.75,0.0,be
+Sturmhond,Nikolai,4.0,2.0,50.0,2.0,abandon disguise be have be think
+Nikolai,Ryevost,0.0,0.0,25.0,INF,be
+Mal,Nikolai,2.0,4.5,57.49999999999999,0.4444444444444444,feel have turn resent
+Mal,Nikolai,2.0,4.5,57.49999999999999,0.4444444444444444,feel have turn resent
+Harshaw,Stigg,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Harshaw,Grisha,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Harshaw,Sun Summoner,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Stigg,Grisha,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Stigg,Sun Summoner,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Grisha,Sun Summoner,3.515625,1.171875,45.3125,3.0,be have make hear have return
+Sergei,Marie,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,be fall know blame
+Sergei,Marie,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,be fall know blame
+Baghra,Genya,3.125,3.75,38.125,0.8333333333333334,hate do be
+Morozova,Alina,3.289473684210526,2.631578947368421,30.92105263157895,1.25,seek rule equal
+Genya,Mal,1.4423076923076923,0.0,33.17307692307692,INF,deal deal try deal
+Morozova,Alina,0.0,0.0,30.0,INF,seek
+Mal,Morozova,2.6785714285714284,1.7857142857142856,49.107142857142854,1.5,have know know start look have seem
+Ruby,Mal,7.6923076923076925,0.9615384615384616,60.57692307692307,8.0,have be
+Sankta Alina,Ruby,0.0,3.125,21.875,0.0,whisper
+Soldat Sol,Maxim,5.681818181818182,3.4090909090909087,36.36363636363637,1.6666666666666667,happen
+Tolya,Tamar,3.9473684210526314,3.9473684210526314,50.0,1.0,bring scout make follow
+David,Mal,1.7857142857142856,2.232142857142857,45.982142857142854,0.8,manage construct
+Os Alta,Ravka,0.9259259259259258,0.0,47.22222222222222,INF,have try penetrate
+Zoya,Nadia,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+Zoya,Adrik,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+Zoya,Squallers,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+Nadia,Adrik,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+Nadia,Squallers,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+Adrik,Squallers,1.6666666666666667,2.7777777777777777,46.666666666666664,0.6,make march spread summon provide trap
+David,Genya,3.9473684210526314,0.0,53.94736842105263,INF,keep fall seem be
+Genya,David,3.9473684210526314,0.0,53.94736842105263,INF,keep fall seem be
+Tolya,David,0.0,1.9230769230769231,44.230769230769226,0.0,heft
+Baghra,Morozova,6.8181818181818175,3.977272727272727,43.75,1.7142857142857142,have warn expect find
+Baghra,Morozova,6.8181818181818175,3.977272727272727,43.75,1.7142857142857142,have warn expect find
+Grisha,Morozova,1.9886363636363635,1.7045454545454544,46.30681818181818,1.1666666666666667,be like seem believe be break be manipulate
+Morozova,Grisha,1.9886363636363635,1.7045454545454544,46.30681818181818,1.1666666666666667,be like seem believe be break be manipulate
+Morozova,Second Army,5.208333333333334,3.125,58.333333333333336,1.6666666666666667,have live
+Morozova,Grisha,3.9473684210526314,0.0,53.94736842105263,INF,be have know have isolate
+Grisha,Morozova,3.9473684210526314,0.0,53.94736842105263,INF,be have know have isolate
+Morozova,Grisha,6.018518518518518,4.166666666666666,41.66666666666667,1.4444444444444444,want believe be be create
+Morozova,Grisha,6.018518518518518,4.166666666666666,41.66666666666667,1.4444444444444444,want believe be be create
+Morozova,Grisha,6.018518518518518,4.166666666666666,41.66666666666667,1.4444444444444444,want believe be be create
+Mal,Morozova,1.3888888888888888,0.0,59.72222222222222,INF,slow have walk cast
+Tolya,Morozova,2.2058823529411766,1.8382352941176472,57.720588235294116,1.2,tie wade secure follow attach
+Morozova,Oncat,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,be gasp soak spit
+Harshaw,Morozova,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,reach be
+David,Nadia,5.769230769230769,5.288461538461538,42.78846153846153,1.0909090909090908,ask have ask
+David,Nadia,5.769230769230769,5.288461538461538,42.78846153846153,1.0909090909090908,ask have ask
+David,Nadia,5.769230769230769,5.288461538461538,42.78846153846153,1.0909090909090908,ask have ask
+David,Nadia,5.769230769230769,5.288461538461538,42.78846153846153,1.0909090909090908,ask have ask
+Tamar,Nadia,2.272727272727273,0.0,52.27272727272727,INF,have start try teach
+Tamar,Shu,2.272727272727273,0.0,52.27272727272727,INF,have start try teach
+Nadia,Shu,2.272727272727273,0.0,52.27272727272727,INF,have start try teach
+Tolya,Shu,1.0,1.5,49.5,0.6666666666666666,recite want hear
+Mal,Genya,3.0,4.0,45.0,0.75,have order remain escape complain
+Kregi,Shu,10.0,3.3333333333333335,40.0,3.0,be brave name say
+David,Tolya,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,put sleep grumble
+David,Zoya,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,put sleep grumble
+Tolya,Zoya,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,put sleep grumble
+Squallers,Inferni,3.3653846153846154,0.9615384615384616,45.67307692307692,3.5,be seem have be love argue
+Stigg,Harshaw,0.0,1.7857142857142856,41.07142857142857,0.0,do want stand
+Stigg,Genya,0.0,1.7857142857142856,41.07142857142857,0.0,do want stand
+Stigg,Genya,0.0,1.7857142857142856,41.07142857142857,0.0,do want stand
+Harshaw,Genya,0.0,1.7857142857142856,41.07142857142857,0.0,do want stand
+Harshaw,Genya,0.0,1.7857142857142856,41.07142857142857,0.0,do want stand
+Harshaw,Oncat,5.0,6.25,48.75,0.8,be take
+Adrik,Genya,1.1904761904761905,0.0,51.19047619047619,INF,be suppose stay want be
+Adrik,Zoya,1.1904761904761905,0.0,51.19047619047619,INF,be suppose stay want be
+Genya,Zoya,1.1904761904761905,0.0,51.19047619047619,INF,be suppose stay want be
+Zoya,Adrik,0.0,0.0,44.44444444444444,INF,keep slip try get
+Harshaw,Genya,4.807692307692308,0.0,56.730769230769226,INF,do annoy make
+Genya,Oncat,1.9444444444444444,4.722222222222222,57.77777777777777,0.4117647058823529,like drag send spark be slip feed chuckle have say
+Genya,Oncat,1.9444444444444444,4.722222222222222,57.77777777777777,0.4117647058823529,like drag send spark be slip feed chuckle have say
+Genya,Oncat,1.9444444444444444,4.722222222222222,57.77777777777777,0.4117647058823529,like drag send spark be slip feed chuckle have say
+Genya,Oncat,1.9444444444444444,4.722222222222222,57.77777777777777,0.4117647058823529,like drag send spark be slip feed chuckle have say
+Mal,Alina,4.761904761904762,1.7857142857142856,31.547619047619047,2.6666666666666665,need keep stay focus
+Oncat,Harshaw,0.0,0.6944444444444444,54.861111111111114,0.0,say amble
+Genya,Zoya,1.5625,7.8125,34.375,0.2,tremble whisper be
+Squallers,Mal,0.0,0.0,30.76923076923077,INF,command send
+Mal,Genya,0.0,0.0,32.0,INF,do tuck
+Mal,David,0.0,0.0,32.0,INF,do tuck
+Mal,Zoya,0.0,0.0,32.0,INF,do tuck
+Mal,Nadia,0.0,0.0,32.0,INF,do tuck
+Mal,Harshaw,0.0,0.0,32.0,INF,do tuck
+Mal,Oncat,0.0,0.0,32.0,INF,do tuck
+Mal,David,0.0,0.0,32.0,INF,do tuck
+Genya,David,0.0,0.0,32.0,INF,do tuck
+Genya,Zoya,0.0,0.0,32.0,INF,do tuck
+Genya,Nadia,0.0,0.0,32.0,INF,do tuck
+Genya,Harshaw,0.0,0.0,32.0,INF,do tuck
+Genya,Oncat,0.0,0.0,32.0,INF,do tuck
+Genya,David,0.0,0.0,32.0,INF,do tuck
+David,Zoya,0.0,0.0,32.0,INF,do tuck
+David,Nadia,0.0,0.0,32.0,INF,do tuck
+David,Harshaw,0.0,0.0,32.0,INF,do tuck
+David,Oncat,0.0,0.0,32.0,INF,do tuck
+Zoya,Nadia,0.0,0.0,32.0,INF,do tuck
+Zoya,Harshaw,0.0,0.0,32.0,INF,do tuck
+Zoya,Oncat,0.0,0.0,32.0,INF,do tuck
+Zoya,David,0.0,0.0,32.0,INF,do tuck
+Nadia,Harshaw,0.0,0.0,32.0,INF,do tuck
+Nadia,Oncat,0.0,0.0,32.0,INF,do tuck
+Nadia,David,0.0,0.0,32.0,INF,do tuck
+Harshaw,Oncat,0.0,0.0,32.0,INF,do tuck
+Harshaw,David,0.0,0.0,32.0,INF,do tuck
+Oncat,David,0.0,0.0,32.0,INF,do tuck
+Tamar,Tolya,0.0,1.9230769230769231,28.846153846153843,0.0,be reply
+Sergei,Stigg,0.0,0.0,0.0,INF,
+Tolya,David,1.1904761904761905,4.166666666666666,42.26190476190476,0.2857142857142857,happen start scrabble dig
+Tolya,Tamar,1.1904761904761905,4.166666666666666,42.26190476190476,0.2857142857142857,happen start scrabble dig
+David,Tamar,1.1904761904761905,4.166666666666666,42.26190476190476,0.2857142857142857,happen start scrabble dig
+Adrik,David,2.232142857142857,0.8928571428571428,61.16071428571429,2.5,drop have be stand collapse
+Adrik,David,2.232142857142857,0.8928571428571428,61.16071428571429,2.5,drop have be stand collapse
+Zoya,Adrik,0.0,0.0,11.11111111111111,INF,say
+David,Zoya,2.083333333333333,10.416666666666668,37.5,0.2,burst groan
+Zoya,Sergei,5.357142857142857,0.0,37.5,INF,flex make call
+Zoya,Sergei,5.357142857142857,0.0,37.5,INF,flex make call
+Sergei,David,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,reply say sound be come
+Tolya,Mal,1.7500000000000002,0.5,55.75,3.5,take find dig heft call stabilize maintain form move
+Tolya,Squallers,1.7500000000000002,0.5,55.75,3.5,take find dig heft call stabilize maintain form move
+Mal,Squallers,1.7500000000000002,0.5,55.75,3.5,take find dig heft call stabilize maintain form move
+Stigg,Sergei,1.5625,0.78125,41.40625,2.0,find be cover
+Tolya,Tamar,0.0,1.3888888888888888,43.05555555555556,0.0,bring raise flush
+Sergei,Harshaw,1.4705882352941175,2.941176470588235,36.76470588235294,0.5,be care say
+Stigg,Harshaw,0.0,6.25,43.75,0.0,do think
+Sergei,Stigg,0.0,0.0,31.57894736842105,INF,walk head
+Nadia,Zoya,0.0,0.0,25.0,INF,ask
+Squallers,Mal,0.0,1.5625,29.6875,0.0,say be move
+David,Mal,3.8461538461538463,5.769230769230769,44.230769230769226,0.6666666666666666,be have create
+Tolya,David,0.0,0.0,46.15384615384615,INF,pull
+Tolya,David,0.0,0.0,46.15384615384615,INF,pull
+David,Tolya,4.605263157894736,1.3157894736842104,46.71052631578947,3.5,wonder remind be
+Tolya,David,4.605263157894736,1.3157894736842104,46.71052631578947,3.5,wonder remind be
+Mal,Tolya,0.0,0.0,30.0,INF,signal flank
+Mal,Tamar,0.0,0.0,30.0,INF,signal flank
+Tolya,Tamar,0.0,0.0,30.0,INF,signal flank
+Tolya,Tamar,1.25,0.625,33.125,2.0,be be
+Tolya,Mal,1.25,0.625,33.125,2.0,be be
+Tamar,Mal,1.25,0.625,33.125,2.0,be be
+Tolya,Mal,0.0,3.6458333333333335,38.02083333333333,0.0,brace array raise
+Tolya,Inferni,0.0,3.6458333333333335,38.02083333333333,0.0,brace array raise
+Mal,Inferni,0.0,3.6458333333333335,38.02083333333333,0.0,brace array raise
+Genya,Tolya,0.0,0.0,60.0,INF,nod
+Alina,Mal,0.0,4.6875,20.3125,0.0,say
+Mal,Adrik,5.147058823529411,0.0,41.911764705882355,INF,gesture help reseal speak
+Mal,Tolya,5.147058823529411,0.0,41.911764705882355,INF,gesture help reseal speak
+Adrik,Tolya,5.147058823529411,0.0,41.911764705882355,INF,gesture help reseal speak
+Zoya,Alina,2.083333333333333,0.8333333333333334,40.416666666666664,2.5,draw say know be begin think turn
+Zoya,Alina,2.083333333333333,0.8333333333333334,40.416666666666664,2.5,draw say know be begin think turn
+Zoya,Mal,0.0,1.3888888888888888,54.166666666666664,0.0,shrug cast
+Mal,Zoya,6.8181818181818175,1.7045454545454544,55.11363636363637,4.0,want talk be have sound
+Sergei,Stigg,0.0,0.0,25.0,INF,help save
+Zoya,Sun Summoner,1.293103448275862,0.0,50.43103448275862,INF,stick add be save
+Zoya,Sun Summoner,1.293103448275862,0.0,50.43103448275862,INF,stick add be save
+Mal,Ryevost,2.6515151515151514,3.4090909090909087,51.515151515151516,0.7777777777777778,have take be determine get ryevost
+Mal,Tolya,4.3478260869565215,1.6304347826086956,37.5,2.6666666666666665,lead grumble do know
+Tolya,Tamar,3.7037037037037033,3.2407407407407405,44.907407407407405,1.1428571428571428,make know work recognize
+Nadia,Tamar,0.0,0.0,61.53846153846154,INF,clear kiss
+Nadia,Tamar,0.0,0.0,61.53846153846154,INF,clear kiss
+Tolya,Tamar,2.083333333333333,0.0,22.916666666666664,INF,call
+Tolya,Shu,2.083333333333333,0.0,22.916666666666664,INF,call
+Tamar,Shu,2.083333333333333,0.0,22.916666666666664,INF,call
+Tolya,Tamar,5.833333333333333,0.0,47.5,INF,smile make look
+Tolya,Tamar,5.833333333333333,0.0,47.5,INF,smile make look
+Adrik,Nadia,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Adrik,Tolya,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Adrik,Mal,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Nadia,Tolya,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Nadia,Mal,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Tolya,Mal,0.0,0.0,54.166666666666664,INF,start raise scout set be post
+Stigg,Sergei,0.0,0.0,50.0,INF,see try get eat
+Harshaw,Oncat,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Nikolai,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Sergei,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Nikolai,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Sergei,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Oncat,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,Sergei,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nikolai,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Sergei,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Genya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Genya,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Genya,David,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Genya,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Genya,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Genya,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Nadia,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+David,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nadia,Adrik,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Nadia,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Adrik,Zoya,1.6791044776119404,0.18656716417910446,51.865671641791046,9.0,look curl snooze prop fall struggle look do bother help
+Harshaw,Stigg,0.0,0.0,42.857142857142854,INF,be
+Nadia,Marie,2.7777777777777777,2.7777777777777777,38.88888888888889,1.0,be
+Ravka,Nikolai,0.0,0.0,37.5,INF,have declare
+Nikolai,Fjerda,0.0,1.0416666666666665,40.625,0.0,want have go finish
+Nikolai,Zoya,0.0,1.0416666666666665,40.625,0.0,want have go finish
+Fjerda,Zoya,0.0,1.0416666666666665,40.625,0.0,want have go finish
+Ravka,Tolya,0.0,0.0,33.33333333333333,INF,say
+Tamar,Nadia,0.0,4.166666666666666,42.5,0.0,disperse walk dig
+Tamar,Nadia,1.875,3.125,50.0,0.6,keep bounce spin show do seem mind
+Tamar,Nadia,1.875,3.125,50.0,0.6,keep bounce spin show do seem mind
+Ravka,Nikolai,5.555555555555555,1.3888888888888888,48.61111111111111,4.0,have declare be be make have realize
+Nikolai,Ravka,5.555555555555555,1.3888888888888888,48.61111111111111,4.0,have declare be be make have realize
+Keramzin,Trivka,0.0,2.272727272727273,52.27272727272727,0.0,see catch freeze
+Tamar,Ravka,1.25,0.0,38.75,INF,say have declare
+Tamar,Nikolai,1.25,0.0,38.75,INF,say have declare
+Ravka,Nikolai,1.25,0.0,38.75,INF,say have declare
+Mal,Luchenko,3.75,0.0,26.25,INF,stiffen say
+Fjerda,Shu,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,think pay get
+Fjerda,Sun Summoner,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,think pay get
+Shu,Sun Summoner,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,think pay get
+Ekaterina,Luchenko,0.0,0.0,25.0,INF,do get say
+Os Alta,Ekaterina,0.0,0.0,50.0,INF,see be say
+Harshaw,Stigg,3.571428571428571,0.0,53.57142857142857,INF,be have shoot
+Tamar,Tolya,2.7777777777777777,2.7777777777777777,27.77777777777778,1.0,have charge
+Zoya,Nadia,1.6891891891891893,2.7027027027027026,49.66216216216216,0.625,have leave lift be tell
+Zoya,Adrik,1.6891891891891893,2.7027027027027026,49.66216216216216,0.625,have leave lift be tell
+Nadia,Adrik,1.6891891891891893,2.7027027027027026,49.66216216216216,0.625,have leave lift be tell
+Nikolai,Mal,0.0,0.0,66.66666666666666,INF,toss
+Nikolai,Grisha,0.0,0.0,38.46153846153847,INF,move drive
+David,Genya,1.9736842105263157,3.9473684210526314,62.5,0.5,have manage retrieve stagger run
+David,Genya,1.9736842105263157,3.9473684210526314,62.5,0.5,have manage retrieve stagger run
+David,Genya,1.9736842105263157,3.9473684210526314,62.5,0.5,have manage retrieve stagger run
+Tolya,Harshaw,2.5,0.625,41.875,4.0,have throw be slow
+Tolya,David,2.5,0.625,41.875,4.0,have throw be slow
+Tolya,Inferni,2.5,0.625,41.875,4.0,have throw be slow
+Tolya,David,2.5,0.625,41.875,4.0,have throw be slow
+Harshaw,David,2.5,0.625,41.875,4.0,have throw be slow
+Harshaw,Inferni,2.5,0.625,41.875,4.0,have throw be slow
+Harshaw,David,2.5,0.625,41.875,4.0,have throw be slow
+David,Inferni,2.5,0.625,41.875,4.0,have throw be slow
+Inferni,David,2.5,0.625,41.875,4.0,have throw be slow
+Oncat,Tolya,0.0,0.0,50.0,INF,dart
+Nikolai,Mal,0.0,0.0,42.857142857142854,INF,exchange
+Mal,Tolya,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod snatch give
+Mal,Tamar,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod snatch give
+Tolya,Tamar,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,nod snatch give
+Tolya,Tamar,2.083333333333333,3.6458333333333335,44.27083333333333,0.5714285714285714,follow cut remain try lend
+Tolya,Nikolai,2.083333333333333,3.6458333333333335,44.27083333333333,0.5714285714285714,follow cut remain try lend
+Tolya,Nikolai,2.083333333333333,3.6458333333333335,44.27083333333333,0.5714285714285714,follow cut remain try lend
+Tamar,Nikolai,2.083333333333333,3.6458333333333335,44.27083333333333,0.5714285714285714,follow cut remain try lend
+Tamar,Nikolai,2.083333333333333,3.6458333333333335,44.27083333333333,0.5714285714285714,follow cut remain try lend
+Tolya,Nikolai,1.7045454545454544,1.4204545454545454,58.23863636363637,1.2,put have hit be turn form crush loom
+Tolya,Nikolai,1.7045454545454544,1.4204545454545454,58.23863636363637,1.2,put have hit be turn form crush loom
+Tolya,Nikolai,1.7045454545454544,1.4204545454545454,58.23863636363637,1.2,put have hit be turn form crush loom
+Tolya,Nikolai,1.7045454545454544,1.4204545454545454,58.23863636363637,1.2,put have hit be turn form crush loom
+Tamar,Ekaterina,0.0,0.0,33.33333333333333,INF,charge
+Tamar,Mal,1.5625,1.0416666666666665,55.729166666666664,1.5,lift take be slice
+Mal,Nikolai,0.0,3.125,36.875,0.0,brace hold shinny
+Mal,Tamar,0.0,3.125,36.875,0.0,brace hold shinny
+Mal,Tolya,0.0,3.125,36.875,0.0,brace hold shinny
+Nikolai,Tamar,0.0,3.125,36.875,0.0,brace hold shinny
+Nikolai,Tolya,0.0,3.125,36.875,0.0,brace hold shinny
+Tamar,Tolya,0.0,3.125,36.875,0.0,brace hold shinny
+Mal,Nikolai,1.3888888888888888,0.9259259259259258,53.24074074074075,1.5,be hook haul
+Mal,Nikolai,1.3888888888888888,0.9259259259259258,53.24074074074075,1.5,be hook haul
+Grisha,Nikolai,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Grisha,Sturmhond,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Grisha,Mal,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Grisha,Nikolai,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Nikolai,Sturmhond,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Nikolai,Mal,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Sturmhond,Mal,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Sturmhond,Nikolai,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Mal,Nikolai,2.7777777777777777,2.314814814814815,46.75925925925926,1.2,recognize have masquerade have be
+Nikolai,David,11.666666666666666,4.166666666666666,37.5,2.8,say look please
+Genya,Nikolai,2.0,5.5,48.5,0.36363636363636365,worry have see scar do seem recognize
+Genya,Nikolai,2.0,5.5,48.5,0.36363636363636365,worry have see scar do seem recognize
+Nadia,Grisha,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,circulate whisper use
+Grisha,Nadia,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,circulate whisper use
+Mal,Tolya,1.5,0.5,54.0,3.0,be help tie maneuver
+Mal,Nikolai,1.5,0.5,54.0,3.0,be help tie maneuver
+Tolya,Nikolai,1.5,0.5,54.0,3.0,be help tie maneuver
+Mal,Nikolai,2.2058823529411766,0.0,74.26470588235294,INF,have find be
+Genya,Nadia,1.3888888888888888,5.555555555555555,31.944444444444443,0.25,be cluster be huddle
+Stigg,Sergei,1.875,0.0,53.125,INF,have get stick slump bury
+Stigg,Sergei,1.875,0.0,53.125,INF,have get stick slump bury
+Stigg,Sergei,1.875,0.0,53.125,INF,have get stick slump bury
+Tamar,Harshaw,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Tamar,Oncat,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Tamar,Sergei,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Harshaw,Oncat,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Harshaw,Tamar,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Harshaw,Sergei,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Harshaw,Tamar,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Oncat,Tamar,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Oncat,Sergei,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Oncat,Tamar,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Tamar,Sergei,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Sergei,Tamar,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,be see dig
+Alina,Nikolai,0.0,0.0,25.0,INF,begin
+Marie,Sergei,0.3787878787878788,1.5151515151515151,55.68181818181818,0.25,think crush mirror askew tear huddle
+Marie,Genya,0.3787878787878788,1.5151515151515151,55.68181818181818,0.25,think crush mirror askew tear huddle
+Sergei,Genya,0.3787878787878788,1.5151515151515151,55.68181818181818,0.25,think crush mirror askew tear huddle
+Sergei,Marie,0.3787878787878788,1.5151515151515151,55.68181818181818,0.25,think crush mirror askew tear huddle
+Genya,Marie,0.3787878787878788,1.5151515151515151,55.68181818181818,0.25,think crush mirror askew tear huddle
+Kingfisher,Bittern,2.82258064516129,3.6290322580645165,61.29032258064516,0.7777777777777778,be dock bear
+Kingfisher,Bittern,5.172413793103448,1.7241379310344827,51.724137931034484,3.0,have be equip look
+Tolya,Tamar,2.7777777777777777,0.3472222222222222,49.65277777777778,8.0,come leap call have recognize
+Genya,David,2.5,0.0,47.5,INF,take yank
+David,Genya,2.5,0.0,47.5,INF,take yank
+Squaller,Inferni,3.125,0.5208333333333333,63.020833333333336,6.0,have be set spar dull summon cast
+Ravka,Nikolai,0.5952380952380952,1.1904761904761905,55.35714285714286,0.5,be extend reply
+Nikolai,Grisha,1.1904761904761905,3.571428571428571,38.095238095238095,0.3333333333333333,have be
+Nikolai,Grisha,1.1904761904761905,3.571428571428571,38.095238095238095,0.3333333333333333,have be
+Mal,Nikolai,4.391891891891892,6.081081081081082,51.689189189189186,0.7222222222222222,be have bristle leave have register
+Nikolai,Mal,5.555555555555555,0.0,61.111111111111114,INF,clap
+Baghra,Nikolai,0.0,0.0,20.0,INF,say be
+Nikolai,Baghra,0.0,0.0,40.0,INF,know be
+Misha,Nikolai,0.0,3.571428571428571,25.0,0.0,reply
+Sankta Alina,Nikolai,0.0,0.0,25.0,INF,breathe
+Nikolai,Baghra,9.659090909090908,3.977272727272727,40.909090909090914,2.4285714285714284,have teach be have
+Nikolai,Baghra,9.659090909090908,3.977272727272727,40.909090909090914,2.4285714285714284,have teach be have
+Keramzin,Mal,2.9166666666666665,2.9166666666666665,57.49999999999999,1.0,feel remember have arrive have have
+Grisha,Os Alta,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Grisha,Keramzin,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Grisha,Botkin,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Os Alta,Keramzin,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Os Alta,Botkin,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Keramzin,Botkin,1.8518518518518516,0.4629629629629629,42.129629629629626,4.0,have be evacuate
+Baghra,Morozova,2.272727272727273,0.0,25.0,INF,have read
+Genya,David,0.0,5.208333333333334,36.45833333333333,0.0,be say
+Sergei,Nikolai,1.0416666666666665,3.125,45.83333333333333,0.3333333333333333,try be put jeopardize
+Sergei,Nikolai,1.0416666666666665,3.125,45.83333333333333,0.3333333333333333,try be put jeopardize
+Baghra,Mal,0.0,0.0,40.0,INF,reach snag gesture
+Alina,Mal,0.0,0.0,25.0,INF,sound say
+Tolya,Tamar,3.2407407407407405,0.9259259259259258,58.79629629629629,3.5,have gather look draw
+Genya,David,3.125,1.25,50.625,2.5,feel see array shield
+Genya,Zoya,0.0,5.46875,57.03125,0.0,put lead
+Mal,Zoya,6.25,0.0,53.75,INF,lay
+Alina,Sturmhond,0.3787878787878788,0.0,45.07575757575758,INF,let believe stand darkle say recognize
+Alina,Mal,0.3787878787878788,0.0,45.07575757575758,INF,let believe stand darkle say recognize
+Sturmhond,Mal,0.3787878787878788,0.0,45.07575757575758,INF,let believe stand darkle say recognize
+Genya,Zoya,4.375,0.0,55.625,INF,swallow take muster have come
+David,Zoya,4.166666666666666,0.0,49.166666666666664,INF,look reach take
+David,Zoya,4.166666666666666,0.0,49.166666666666664,INF,look reach take
+Zoya,David,4.166666666666666,0.0,49.166666666666664,INF,look reach take
+Zoya,David,4.166666666666666,0.0,49.166666666666664,INF,look reach take
+Mal,Grisha,2.272727272727273,3.4090909090909087,48.86363636363637,0.6666666666666666,fall hold warn
+Genya,Nikolai,1.3157894736842104,0.0,46.05263157894737,INF,have come commit know
+Genya,Nikolai,2.380952380952381,1.1904761904761905,34.523809523809526,2.0,say take take
+Nikolai,Genya,2.2435897435897436,1.282051282051282,37.5,1.75,say be stand collude darkle
+Mal,Nikolai,0.0,0.0,40.0,INF,cross
+Tamar,Tolya,0.0,0.8928571428571428,41.964285714285715,0.0,go hear
+Tamar,Tolya,0.0,0.8928571428571428,41.964285714285715,0.0,go hear
+Tamar,Genya,0.0,2.7777777777777777,30.555555555555557,0.0,lean whisper
+Tamar,Genya,0.5,4.0,47.5,0.125,start say hold ward
+Genya,Tamar,0.5,4.0,47.5,0.125,start say hold ward
+Genya,Tamar,0.5,4.0,47.5,0.125,start say hold ward
+Genya,David,0.0,0.0,28.57142857142857,INF,try
+Tamar,David,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,be soothe find bunch say know
+Tamar,David,5.833333333333333,0.8333333333333334,53.333333333333336,7.0,be soothe find bunch say know
+David,Genya,0.0,0.0,60.0,INF,furrow
+Genya,Tamar,0.0,0.0,54.54545454545454,INF,take kiss
+Genya,Tamar,0.0,0.0,54.54545454545454,INF,take kiss
+Tamar,Genya,0.0,0.0,54.54545454545454,INF,take kiss
+Genya,Tamar,0.0,0.0,54.54545454545454,INF,take kiss
+Tamar,Genya,1.5625,0.0,48.4375,INF,think push
+Tamar,Genya,2.8846153846153846,0.0,50.96153846153846,INF,throw kiss
+Tamar,Genya,2.8846153846153846,0.0,50.96153846153846,INF,throw kiss
+Tamar,Genya,2.8846153846153846,0.0,50.96153846153846,INF,throw kiss
+Tamar,Genya,2.8846153846153846,0.0,50.96153846153846,INF,throw kiss
+Mal,Genya,0.0,1.0416666666666665,48.95833333333333,0.0,clear give whistle
+Mal,Tamar,0.0,1.0416666666666665,48.95833333333333,0.0,clear give whistle
+Genya,Tamar,0.0,1.0416666666666665,48.95833333333333,0.0,clear give whistle
+Nikolai,Genya,3.289473684210526,4.605263157894736,39.473684210526315,0.7142857142857143,stop say do think rest
+David,Genya,3.3333333333333335,5.833333333333333,50.83333333333333,0.5714285714285714,be murmur
+Genya,Tamar,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Genya,Grisha,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Genya,Sergei,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Tamar,Grisha,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Tamar,Sergei,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Grisha,Sergei,0.9615384615384616,0.0,41.34615384615385,INF,decide update have happen deal
+Nevsky,Genya,0.9868421052631579,0.0,49.01315789473684,INF,work see sleep be leave show
+Mal,Grisha,2.455357142857143,1.5625,45.982142857142854,1.5714285714285714,be wait rinse report secure take outfit want divide
+Alina,Luchenko,2.083333333333333,1.0416666666666665,30.208333333333332,2.0,be be
+Ravka,Alina,8.333333333333332,4.166666666666666,20.833333333333336,2.0,be break
+Genya,Keramzin,0.0,0.0,47.05882352941176,INF,be go ask bring
+Genya,Mal,0.0,0.0,23.076923076923077,INF,take go say
+Genya,Ana Kuya,0.0,0.0,30.0,INF,introduce
+Baghra,Nikolai,1.5625,0.0,48.4375,INF,unleash
+Tolya,Sergei,1.5625,0.78125,41.40625,2.0,have go dim go sit
+Sergei,Genya,0.0,2.0,46.0,0.0,be let ignore
+Sergei,Nikolai,5.0675675675675675,6.756756756756757,47.63513513513514,0.75,say be make have
+Marie,Sergei,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,remember use sit laugh
+Baghra,Misha,0.0,0.7352941176470588,46.32352941176471,0.0,emerge be startle see wait
+Misha,Marie,0.0,0.0,50.0,INF,slow see be lead
+Baghra,Marie,6.25,1.5625,42.1875,4.0,give
+Marie,Nikolai,3.75,1.25,65.0,3.0,be know do mean want worry
+Nikolai,Ravka,7.8125,0.0,42.1875,INF,be
+Baghra,Misha,0.0,0.0,46.666666666666664,INF,murmur lead
+Baghra,Misha,0.0,0.0,46.666666666666664,INF,murmur lead
+Baghra,Marie,0.6578947368421052,1.3157894736842104,63.81578947368421,0.5,be bundle see grab button step bite
+Baghra,Misha,0.6578947368421052,1.3157894736842104,63.81578947368421,0.5,be bundle see grab button step bite
+Marie,Misha,0.6578947368421052,1.3157894736842104,63.81578947368421,0.5,be bundle see grab button step bite
+Baghra,Misha,0.0,0.0,25.0,INF,ask
+Misha,Oncat,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Misha,Zoya,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Oncat,Misha,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Oncat,Zoya,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Oncat,Misha,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Misha,Zoya,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Zoya,Misha,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have curl be smirk
+Baghra,Misha,0.0,0.0,25.0,INF,ask
+Nikolai,Grisha,4.605263157894736,2.631578947368421,40.131578947368425,1.75,say do make call
+Mal,Nikolai,3.4090909090909087,0.0,42.04545454545455,INF,be lean cross
+Keramzin,Nikolai,3.125,1.3888888888888888,62.15277777777778,2.25,be be be steal lure have set
+Keramzin,Trivka,3.125,1.3888888888888888,62.15277777777778,2.25,be be be steal lure have set
+Nikolai,Trivka,3.125,1.3888888888888888,62.15277777777778,2.25,be be be steal lure have set
+Nikolai,Duva,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,have offer recuperate be pass
+Nikolai,Duva,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,have offer recuperate be pass
+Nikolai,Duva,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,have offer recuperate be pass
+Nikolai,Duva,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,have offer recuperate be pass
+Duva,Sergei,2.5,1.5,56.00000000000001,1.6666666666666667,offer let wait take have be leave
+Duva,Ravka,2.5,1.5,56.00000000000001,1.6666666666666667,offer let wait take have be leave
+Duva,Sergei,2.5,1.5,56.00000000000001,1.6666666666666667,offer let wait take have be leave
+Sergei,Ravka,2.5,1.5,56.00000000000001,1.6666666666666667,offer let wait take have be leave
+Ravka,Sergei,2.5,1.5,56.00000000000001,1.6666666666666667,offer let wait take have be leave
+Nikolai,Mal,0.0,0.0,44.44444444444444,INF,meet figure pursue
+Nikolai,Morozova,5.263157894736842,0.6578947368421052,59.86842105263158,8.0,have spend study be concern be convince be miss
+Morozova,Nikolai,5.263157894736842,0.6578947368421052,59.86842105263158,8.0,have spend study be concern be convince be miss
+Nikolai,Baghra,5.263157894736842,0.0,57.89473684210527,INF,want pressure have be approach
+Dva Stolba,Mal,2.717391304347826,2.989130434782609,46.46739130434783,0.9090909090909091,be have be bear name stand have decide be
+Murin,Nikolai,0.0,1.6666666666666667,51.66666666666667,0.0,be abandon say
+Nevsky,Ravka,0.78125,0.0,58.59375,INF,claim be travel try get arrive become cross
+Nikolai,Tamar,0.0,0.0,25.0,INF,ask
+Tamar,Nikolai,6.0344827586206895,2.586206896551724,53.44827586206896,2.3333333333333335,have break suggest captain have set get
+Tamar,Bittern,6.0344827586206895,2.586206896551724,53.44827586206896,2.3333333333333335,have break suggest captain have set get
+Nikolai,Tamar,6.0344827586206895,2.586206896551724,53.44827586206896,2.3333333333333335,have break suggest captain have set get
+Nikolai,Bittern,6.0344827586206895,2.586206896551724,53.44827586206896,2.3333333333333335,have break suggest captain have set get
+Tamar,Bittern,6.0344827586206895,2.586206896551724,53.44827586206896,2.3333333333333335,have break suggest captain have set get
+Zoya,Tamar,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Zoya,Squallers,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Zoya,Nadia,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Tamar,Squallers,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Tamar,Nadia,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Squallers,Nadia,2.083333333333333,2.5,38.75,0.8333333333333334,be work reply need be
+Stigg,Inferni,0.0,9.659090909090908,44.88636363636363,0.0,hurt have
+Adrik,Nikolai,0.0,0.0,56.25,INF,be be leave be go miss
+Harshaw,Oncat,0.0,0.0,37.5,INF,miss
+Bittern,Genya,0.9259259259259258,0.9259259259259258,50.0,1.0,be weight be come
+Nikolai,David,2.0161290322580645,0.8064516129032258,52.016129032258064,2.5,need form feel be put
+David,Nikolai,2.0161290322580645,0.8064516129032258,52.016129032258064,2.5,need form feel be put
+David,Genya,10.416666666666668,0.0,45.13888888888889,INF,be have take have
+Zoya,Tolya,0.0,2.272727272727273,46.21212121212121,0.0,mean do get go tromp complain regale
+Zoya,Kregi,0.0,2.272727272727273,46.21212121212121,0.0,mean do get go tromp complain regale
+Tolya,Kregi,0.0,2.272727272727273,46.21212121212121,0.0,mean do get go tromp complain regale
+Tolya,Alina,0.0,0.0,50.0,INF,go
+Nikolai,Keramzin,3.6458333333333335,0.0,58.854166666666664,INF,have agree send return be
+Nikolai,Ravka,0.0,5.0,48.333333333333336,0.0,know be imagine assume murder bring
+Ravka,Nikolai,0.0,5.0,48.333333333333336,0.0,know be imagine assume murder bring
+Ravka,Nikolai,0.0,5.0,48.333333333333336,0.0,know be imagine assume murder bring
+Nikolai,Genya,4.891304347826087,1.0869565217391304,37.5,4.5,smooth say know have tell
+Nikolai,Genya,4.891304347826087,1.0869565217391304,37.5,4.5,smooth say know have tell
+Mal,Nikolai,2.5,1.25,66.25,2.0,take realize be
+Nadia,Tamar,1.3157894736842104,0.0,56.57894736842105,INF,see have come visit be sharpen
+Nadia,Tamar,1.3157894736842104,0.0,56.57894736842105,INF,see have come visit be sharpen
+Genya,Zoya,2.142857142857143,0.0,57.85714285714286,INF,sit sew be lounge keep
+Genya,Zoya,2.142857142857143,0.0,57.85714285714286,INF,sit sew be lounge keep
+Genya,Zoya,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,bite blurt miss
+Tamar,Grisha,0.0,0.0,38.095238095238095,INF,be say have
+Genya,Zoya,0.0,4.6875,57.8125,0.0,toss
+Tamar,Nadia,0.0,0.0,66.66666666666666,INF,shove
+Alina,Zoya,0.0,1.9230769230769231,36.53846153846153,0.0,wear say
+Ravka,Sun Summoner,0.0,0.0,33.33333333333333,INF,declare
+Tamar,Nadia,0.0,0.0,56.25,INF,hook draw
+Nadia,Tamar,0.0,0.0,56.25,INF,hook draw
+Kingfisher,Nikolai,0.0,0.8333333333333334,39.166666666666664,0.0,return leave
+Kingfisher,Ravka,0.0,0.8333333333333334,39.166666666666664,0.0,return leave
+Nikolai,Ravka,0.0,0.8333333333333334,39.166666666666664,0.0,return leave
+Mal,Nikolai,2.34375,0.0,35.15625,INF,be
+Nikolai,Mal,0.0,0.0,42.857142857142854,INF,put be reassign
+Nikolai,Corporalnik,0.6944444444444444,0.6944444444444444,61.57407407407407,1.0,be sit crumple raise come tend
+Nikolai,Corporalnik,0.6944444444444444,0.6944444444444444,61.57407407407407,1.0,be sit crumple raise come tend
+Nikolai,Corporalnik,0.6944444444444444,0.6944444444444444,61.57407407407407,1.0,be sit crumple raise come tend
+Nikolai,Corporalnik,0.6944444444444444,0.6944444444444444,61.57407407407407,1.0,be sit crumple raise come tend
+Nikolai,Corporalnik,0.6944444444444444,0.6944444444444444,61.57407407407407,1.0,be sit crumple raise come tend
+Keramzin,First Army,1.6666666666666667,1.6666666666666667,56.666666666666664,1.0,know
+Alina,Ravka,1.4423076923076923,0.0,48.55769230769231,INF,enter show do
+Alina,Sun Summoner,1.4423076923076923,0.0,48.55769230769231,INF,enter show do
+Ravka,Sun Summoner,1.4423076923076923,0.0,48.55769230769231,INF,enter show do
+Adrik,Harshaw,6.8181818181818175,0.0,20.454545454545457,INF,
+Mal,Tolya,0.0,0.0,25.0,INF,be sleep
+Tamar,Mal,1.1029411764705883,1.4705882352941175,47.42647058823529,0.75,slip be pull
+Tamar,Tolya,1.1029411764705883,1.4705882352941175,47.42647058823529,0.75,slip be pull
+Mal,Tolya,1.1029411764705883,1.4705882352941175,47.42647058823529,0.75,slip be pull
+David,Tamar,1.0,0.0,51.0,INF,stride get rap push
+Adrik,Harshaw,8.333333333333332,6.25,27.083333333333332,1.3333333333333333,have be evict
+Genya,David,1.25,1.875,61.875,0.6666666666666666,blink
+Genya,Tamar,0.0,3.125,53.125,0.0,be seat go
+Nikolai,Tamar,0.0,0.0,25.0,INF,do begin
+Genya,David,0.0,0.0,50.0,INF,cry shrink
+Tolya,Tamar,0.0,0.0,25.0,INF,reach
+Tamar,Mal,0.0,1.7857142857142856,55.35714285714286,0.0,jab
+Tolya,Tamar,8.333333333333332,1.3888888888888888,56.94444444444444,6.0,lay
+Grisha,Tamar,0.0,0.0,33.33333333333333,INF,shake
+Grisha,Tamar,0.0,0.0,33.33333333333333,INF,shake
+Tolya,Tamar,1.3888888888888888,2.7777777777777777,40.27777777777778,0.5,answer
+Nikolai,Ravka,0.0,0.0,40.0,INF,be go break
+Genya,David,0.9615384615384616,0.641025641025641,57.37179487179487,1.5,have make be draft try re-create
+Genya,David,0.9615384615384616,0.641025641025641,57.37179487179487,1.5,have make be draft try re-create
+Genya,David,0.9615384615384616,0.641025641025641,57.37179487179487,1.5,have make be draft try re-create
+Ravka,Nikolai,0.0,4.166666666666666,45.83333333333333,0.0,have warn say
+Mal,Nikolai,0.0,0.0,25.0,INF,ask
+Nikolai,Genya,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have be have bring have be victimize
+Nikolai,Genya,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have be have bring have be victimize
+Kingfisher,Nikolai,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,have return send refresh address be plan
+Kingfisher,Ravka,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,have return send refresh address be plan
+Nikolai,Ravka,1.7361111111111112,2.083333333333333,60.06944444444444,0.8333333333333334,have return send refresh address be plan
+Ravka,Sun Summoner,0.0,1.4705882352941175,45.588235294117645,0.0,carry meet
+Mal,Nikolai,0.0,0.0,44.0,INF,leave meet
+Mal,Bittern,0.0,0.0,44.0,INF,leave meet
+Nikolai,Bittern,0.0,0.0,44.0,INF,leave meet
+Nikolai,Baghra,2.380952380952381,1.7857142857142856,48.214285714285715,1.3333333333333333,be discuss have write need talk
+Misha,Nikolai,9.722222222222223,0.0,56.94444444444444,INF,have bring
+Nikolai,Misha,0.0,0.625,44.375,0.0,be do open begin silence
+Nikolai,Misha,0.0,0.625,44.375,0.0,be do open begin silence
+Nikolai,Baghra,0.0,0.625,44.375,0.0,be do open begin silence
+Nikolai,Misha,0.0,0.625,44.375,0.0,be do open begin silence
+Misha,Baghra,0.0,0.625,44.375,0.0,be do open begin silence
+Misha,Baghra,0.0,0.625,44.375,0.0,be do open begin silence
+Baghra,Misha,0.0,0.625,44.375,0.0,be do open begin silence
+Baghra,Misha,0.8333333333333334,0.0,45.83333333333333,INF,stop wriggle snap freeze
+Baghra,Nikolai,0.0,5.46875,44.53125,0.0,scowl lean pull
+Baghra,Nikolai,0.0,5.46875,44.53125,0.0,scowl lean pull
+Baghra,Nikolai,0.0,0.0,41.66666666666667,INF,lean
+Baghra,Morozova,6.944444444444445,0.0,15.277777777777779,INF,do know
+Nikolai,Misha,1.0,0.0,43.0,INF,be say
+Morozova,Grisha,3.289473684210526,0.6578947368421052,51.31578947368421,5.0,be live test be
+Grisha,Morozova,3.289473684210526,0.6578947368421052,51.31578947368421,5.0,be live test be
+Morozova,Mal,3.515625,1.5625,41.796875,2.25,think talk make be treat
+Morozova,Ravka,3.515625,1.5625,41.796875,2.25,think talk make be treat
+Mal,Ravka,3.515625,1.5625,41.796875,2.25,think talk make be treat
+Ravka,Baghra,3.125,0.0,46.875,INF,have learn
+Morozova,Nikolai,4.166666666666666,1.6666666666666667,34.166666666666664,2.5,tell love continue
+Baghra,Morozova,0.0,2.1551724137931036,42.672413793103445,0.0,say push die say die
+Baghra,Morozova,0.0,2.1551724137931036,42.672413793103445,0.0,say push die say die
+Morozova,Grisha,0.0,0.0,55.55555555555556,INF,be
+Baghra,Morozova,6.25,6.25,50.0,1.0,seem have
+Baghra,Grisha,0.0,1.0416666666666665,36.45833333333333,0.0,ask take kill
+Tolya,Tamar,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tolya,Soldat Sol,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tolya,Mal,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tolya,Caryeva,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tamar,Soldat Sol,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tamar,Mal,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Tamar,Caryeva,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Soldat Sol,Mal,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Soldat Sol,Caryeva,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Mal,Caryeva,1.7857142857142856,0.0,39.285714285714285,INF,use know fall realize be wait
+Dva Stolba,Morozova,3.8461538461538463,2.1634615384615383,57.45192307692307,1.7777777777777777,be stock treat resist need make cover
+Baghra,Misha,0.6578947368421052,1.3157894736842104,40.131578947368425,0.5,come descend say
+Mal,Misha,1.8518518518518516,2.7777777777777777,43.51851851851852,0.6666666666666666,be wear be
+Mal,Baghra,1.8518518518518516,2.7777777777777777,43.51851851851852,0.6666666666666666,be wear be
+Misha,Baghra,1.8518518518518516,2.7777777777777777,43.51851851851852,0.6666666666666666,be wear be
+Nikolai,Ravka,1.4705882352941175,0.0,51.470588235294116,INF,want be see
+Mal,Nikolai,0.0,1.0869565217391304,38.04347826086957,0.0,want stay continue be go have reassign
+Mal,Nikolai,0.0,1.0869565217391304,38.04347826086957,0.0,want stay continue be go have reassign
+Grisha,Zoya,1.0416666666666665,0.0,48.95833333333333,INF,
+Genya,David,0.0,0.0,25.0,INF,
+Tamar,Nadia,0.0,0.0,0.0,INF,
+Mal,Tamar,0.0,0.0,50.0,INF,hear step
+Tamar,Nadia,0.0,1.3888888888888888,43.05555555555556,0.0,see press await
+Tamar,Nadia,0.0,1.3888888888888888,43.05555555555556,0.0,see press await
+Tamar,Nadia,3.125,0.78125,46.09375,4.0,manage turn give
+Tamar,Nadia,3.125,0.78125,46.09375,4.0,manage turn give
+Tolya,Tamar,0.0,2.083333333333333,31.25,0.0,take reply
+Alina,Nikolai,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,whisper step
+Nikolai,Tamar,0.0,0.0,50.0,INF,hasten
+Tamar,Nikolai,0.0,0.0,50.0,INF,hasten
+Nadia,Harshaw,0.0,1.0416666666666665,40.625,0.0,see talk
+Mal,Tamar,0.0,0.0,50.0,INF,glimpse burst
+Mal,Nikolai,0.0,0.0,50.0,INF,glimpse burst
+Tamar,Nikolai,0.0,0.0,50.0,INF,glimpse burst
+Mal,Tamar,0.0,0.0,40.0,INF,bellow
+Nikolai,Mal,0.2840909090909091,1.7045454545454544,54.82954545454546,0.16666666666666666,move beat ripple form re-form bear slip absorb
+Nikolai,Mal,0.2840909090909091,1.7045454545454544,54.82954545454546,0.16666666666666666,move beat ripple form re-form bear slip absorb
+Nikolai,Mal,0.2840909090909091,1.7045454545454544,54.82954545454546,0.16666666666666666,move beat ripple form re-form bear slip absorb
+Sergei,Genya,5.288461538461538,2.8846153846153846,49.519230769230774,1.8333333333333333,be try slip let
+Sergei,Genya,5.288461538461538,2.8846153846153846,49.519230769230774,1.8333333333333333,be try slip let
+Mal,Nikolai,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,try hold break run lay fall
+Mal,Nikolai,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,try hold break run lay fall
+Mal,Nikolai,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,try hold break run lay fall
+Alina,Nikolai,8.088235294117647,5.147058823529411,22.058823529411764,1.5714285714285714,go
+Alina,Nikolai,8.088235294117647,5.147058823529411,22.058823529411764,1.5714285714285714,go
+Baghra,Misha,3.8461538461538463,0.0,42.30769230769231,INF,stand
+Baghra,Misha,0.0,0.0,33.33333333333333,INF,tell
+Baghra,Misha,4.166666666666666,1.6666666666666667,60.83333333333333,2.5,reach find pat
+Misha,Mal,1.1904761904761905,0.0,36.904761904761905,INF,say bolt duck
+Misha,Mal,1.1904761904761905,0.0,36.904761904761905,INF,say bolt duck
+Mal,Misha,2.302631578947368,0.9868421052631579,46.71052631578947,2.3333333333333335,hear feel push have be run
+Mal,Misha,2.302631578947368,0.9868421052631579,46.71052631578947,2.3333333333333335,hear feel push have be run
+Mal,Misha,2.302631578947368,0.9868421052631579,46.71052631578947,2.3333333333333335,hear feel push have be run
+Mal,Misha,2.302631578947368,0.9868421052631579,46.71052631578947,2.3333333333333335,hear feel push have be run
+Mal,Tolya,0.0,1.7857142857142856,41.07142857142857,0.0,shout come pelt
+Zoya,Nadia,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Zoya,Harshaw,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Zoya,Bittern,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Zoya,Grisha,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Nadia,Harshaw,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Nadia,Bittern,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Nadia,Grisha,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Harshaw,Bittern,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Harshaw,Grisha,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Bittern,Grisha,1.8382352941176472,0.3676470588235294,38.970588235294116,5.0,be back use try keep
+Tamar,Nevsky,0.9259259259259258,2.314814814814815,48.61111111111111,0.4,be be relieve see
+Nevsky,Tamar,0.9259259259259258,2.314814814814815,48.61111111111111,0.4,be be relieve see
+Genya,Tamar,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Genya,David,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Genya,Tamar,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Genya,Tamar,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Genya,David,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Genya,Tamar,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Tamar,David,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+David,Tamar,0.8620689655172413,0.0,61.206896551724135,INF,kneel stand attack
+Tamar,Bittern,0.0,0.0,50.0,INF,shove shout slide seize
+Tamar,Bittern,0.0,0.0,50.0,INF,shove shout slide seize
+Zoya,Squallers,0.8928571428571428,4.464285714285714,51.78571428571429,0.2,lay scramble
+Mal,Harshaw,1.25,1.25,52.5,1.0,stumble strike have drag
+Mal,Tolya,0.0,0.0,46.666666666666664,INF,take fill
+Mal,Zoya,0.0,0.0,46.666666666666664,INF,take fill
+Tolya,Zoya,0.0,0.0,46.666666666666664,INF,take fill
+Nevsky,Nikolai,0.0,0.0,66.66666666666666,INF,look catch be swallow
+Nevsky,Nikolai,0.0,0.0,66.66666666666666,INF,look catch be swallow
+Tamar,Bittern,1.6129032258064515,2.82258064516129,53.62903225806451,0.5714285714285714,falter swing try get
+Adrik,Genya,0.0,0.0,28.57142857142857,INF,kneel
+Adrik,Genya,1.5151515151515151,2.272727272727273,47.72727272727273,0.6666666666666666,have take be try stop be train
+Adrik,Genya,1.5151515151515151,2.272727272727273,47.72727272727273,0.6666666666666666,have take be try stop be train
+Nadia,Bittern,7.142857142857142,8.035714285714286,27.67857142857143,0.8888888888888888,turn dip
+Nadia,Bittern,7.142857142857142,8.035714285714286,27.67857142857143,0.8888888888888888,turn dip
+Nadia,Tamar,0.0,1.5625,42.1875,0.0,keep demand
+Harshaw,Tolya,0.0,0.0,50.0,INF,come
+Nadia,Harshaw,5.681818181818182,0.0,39.77272727272727,INF,hold caution
+Bittern,Harshaw,2.6785714285714284,3.571428571428571,58.03571428571429,0.75,right let
+Tolya,Adrik,1.1363636363636365,0.0,44.31818181818182,INF,leap begin work
+Nadia,Zoya,1.9736842105263157,0.0,40.131578947368425,INF,want say see begin
+Mal,Harshaw,0.0,0.0,40.0,INF,be fare
+Genya,Ravka,3.75,5.0,41.25,0.75,think flee
+Zoya,Nadia,0.0,0.0,36.36363636363637,INF,get
+Zoya,Nadia,13.636363636363635,1.1363636363636365,48.86363636363637,12.0,be focus keep
+David,Tamar,1.0,0.5,54.50000000000001,2.0,be take see
+David,Mal,1.0,0.5,54.50000000000001,2.0,be take see
+Tamar,Mal,1.0,0.5,54.50000000000001,2.0,be take see
+Harshaw,Tolya,2.631578947368421,3.289473684210526,41.44736842105263,0.8,alternate give
+Harshaw,Mal,2.631578947368421,3.289473684210526,41.44736842105263,0.8,alternate give
+Tolya,Mal,2.631578947368421,3.289473684210526,41.44736842105263,0.8,alternate give
+Nadia,Zoya,6.25,1.0416666666666665,55.208333333333336,6.0,have toil try find help
+Genya,Nadia,0.0,0.5681818181818182,40.340909090909086,0.0,stand brace rest
+Genya,Nadia,0.0,0.5681818181818182,40.340909090909086,0.0,stand brace rest
+Genya,Nadia,0.0,0.5681818181818182,40.340909090909086,0.0,stand brace rest
+Genya,Nadia,0.0,0.5681818181818182,40.340909090909086,0.0,stand brace rest
+Genya,Nadia,0.0,0.5681818181818182,40.340909090909086,0.0,stand brace rest
+Misha,Mal,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,be clutch have find
+Mal,Misha,3.571428571428571,0.8928571428571428,45.535714285714285,4.0,be clutch have find
+Misha,Baghra,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Misha,Zoya,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Misha,Baghra,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Misha,Zoya,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Baghra,Misha,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Baghra,Zoya,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Misha,Zoya,1.3888888888888888,0.4629629629629629,42.592592592592595,3.0,tighten realize bring make
+Misha,Sergei,6.25,0.0,43.75,INF,do remind
+Sergei,Keramzin,2.7777777777777777,0.0,52.77777777777778,INF,be
+Sergei,Baghra,0.0,0.0,50.0,INF,be beg
+Nikolai,Baghra,2.272727272727273,1.7045454545454544,41.47727272727273,1.3333333333333333,ask give
+Adrik,Nikolai,0.0,2.7777777777777777,41.66666666666667,0.0,be mutter
+Nikolai,Bittern,0.7575757575757576,0.3787878787878788,59.46969696969697,2.0,spot mark abandon have suggest stash
+Nadia,Zoya,0.0,0.4629629629629629,43.98148148148148,0.0,be scrape crumple
+Mal,Harshaw,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Mal,Tolya,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Mal,Adrik,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Mal,Bittern,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Harshaw,Tolya,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Harshaw,Adrik,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Harshaw,Bittern,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Tolya,Adrik,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Tolya,Bittern,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Adrik,Bittern,1.6666666666666667,0.0,31.666666666666664,INF,secure carry
+Zoya,Nadia,0.78125,3.90625,39.0625,0.2,help drag fall
+Tolya,Bittern,4.545454545454546,1.7045454545454544,52.84090909090909,2.6666666666666665,slide shut glimpse sneak force sit
+Misha,Adrik,2.083333333333333,0.0,53.47222222222222,INF,gaze dart drop realize be carry
+Adrik,Misha,2.083333333333333,0.0,53.47222222222222,INF,gaze dart drop realize be carry
+Tolya,Adrik,4.166666666666666,1.6666666666666667,40.833333333333336,2.5,do want know plan bury
+Genya,Adrik,1.5625,1.5625,46.875,1.0,be pin
+Genya,Adrik,2.34375,0.78125,53.125,3.0,have sense say use
+Genya,Adrik,2.34375,0.78125,53.125,3.0,have sense say use
+Mal,Oncat,1.6304347826086956,0.0,41.84782608695652,INF,drop gather have make pluck
+Mal,Harshaw,1.6304347826086956,0.0,41.84782608695652,INF,drop gather have make pluck
+Oncat,Harshaw,1.6304347826086956,0.0,41.84782608695652,INF,drop gather have make pluck
+Zoya,Sergei,2.34375,0.0,41.40625,INF,say have know be trust
+Oncat,Sergei,1.25,6.25,22.5,0.2,like add
+Oncat,Harshaw,1.25,6.25,22.5,0.2,like add
+Sergei,Harshaw,1.25,6.25,22.5,0.2,like add
+Tolya,Tamar,0.5952380952380952,0.0,47.023809523809526,INF,throw say have watch
+Tolya,Nikolai,0.5952380952380952,0.0,47.023809523809526,INF,throw say have watch
+Tolya,Nikolai,0.5952380952380952,0.0,47.023809523809526,INF,throw say have watch
+Tamar,Nikolai,0.5952380952380952,0.0,47.023809523809526,INF,throw say have watch
+Tamar,Nikolai,0.5952380952380952,0.0,47.023809523809526,INF,throw say have watch
+Adrik,Sergei,0.0,0.0,38.46153846153847,INF,snarl be
+Adrik,Sergei,2.380952380952381,5.952380952380952,39.285714285714285,0.4,be scowl say
+Adrik,Nadia,2.5,0.0,37.5,INF,have do
+Nadia,Sergei,8.333333333333332,0.8333333333333334,64.16666666666667,10.0,have fall choose
+Nadia,Maxim,8.333333333333332,0.8333333333333334,64.16666666666667,10.0,have fall choose
+Sergei,Maxim,8.333333333333332,0.8333333333333334,64.16666666666667,10.0,have fall choose
+Adrik,Zoya,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Adrik,Baghra,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Adrik,Sergei,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Zoya,Baghra,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Zoya,Sergei,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Baghra,Sergei,2.0161290322580645,0.0,46.37096774193548,INF,hand take say do know tell
+Zoya,Baghra,4.545454545454546,3.4090909090909087,28.40909090909091,1.3333333333333333,lower imitate
+Zoya,Baghra,4.545454545454546,3.4090909090909087,28.40909090909091,1.3333333333333333,lower imitate
+Baghra,Grisha,1.6304347826086956,6.521739130434782,48.369565217391305,0.25,struggle summon have mention get
+Grisha,Mal,1.1363636363636365,6.25,47.159090909090914,0.18181818181818182,have be be say
+Grisha,Maxim,1.1363636363636365,6.25,47.159090909090914,0.18181818181818182,have be be say
+Mal,Maxim,1.1363636363636365,6.25,47.159090909090914,0.18181818181818182,have be be say
+Baghra,David,0.0,11.25,38.75,0.0,hate say
+Harshaw,Oncat,0.0,1.3888888888888888,43.05555555555556,0.0,ask scratch
+Baghra,David,2.5,3.75,63.74999999999999,0.6666666666666666,know have refuse teach
+David,Zoya,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+David,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+David,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+David,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+David,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+Zoya,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+Zoya,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+Zoya,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+Zoya,Morozova,1.6666666666666667,3.3333333333333335,41.66666666666667,0.5,remind obsess be
+David,Morozova,1.7857142857142856,0.0,55.35714285714286,INF,be like
+David,Genya,4.166666666666666,3.125,26.041666666666668,1.3333333333333333,have be need
+Genya,David,4.166666666666666,3.125,26.041666666666668,1.3333333333333333,have be need
+Adrik,David,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Adrik,Zoya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Adrik,Harshaw,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Adrik,Tolya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Adrik,Mal,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+David,Zoya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+David,Harshaw,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+David,Tolya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+David,Mal,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Zoya,Harshaw,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Zoya,Tolya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Zoya,Mal,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Harshaw,Tolya,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Harshaw,Mal,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Tolya,Mal,1.3157894736842104,1.644736842105263,49.67105263157895,0.8,look miss gaze watch sketch
+Genya,David,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,David,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,David,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Genya,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Nadia,David,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Nadia,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Nadia,David,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Nadia,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Nadia,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+David,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Nadia,Tamar,1.4534883720930232,2.3255813953488373,49.7093023255814,0.625,see pull gesture try explain ignore run
+Zoya,Dva Stolba,1.3157894736842104,2.631578947368421,48.68421052631579,0.5,keep
+Zoya,Dva Stolba,1.3157894736842104,2.631578947368421,48.68421052631579,0.5,keep
+Tamar,Nadia,0.0,0.0,12.5,INF,travel
+Tamar,Adrik,0.0,0.0,12.5,INF,travel
+Tamar,David,0.0,0.0,12.5,INF,travel
+Tamar,Genya,0.0,0.0,12.5,INF,travel
+Tamar,Misha,0.0,0.0,12.5,INF,travel
+Nadia,Adrik,0.0,0.0,12.5,INF,travel
+Nadia,David,0.0,0.0,12.5,INF,travel
+Nadia,Genya,0.0,0.0,12.5,INF,travel
+Nadia,Misha,0.0,0.0,12.5,INF,travel
+Adrik,David,0.0,0.0,12.5,INF,travel
+Adrik,Genya,0.0,0.0,12.5,INF,travel
+Adrik,Misha,0.0,0.0,12.5,INF,travel
+David,Genya,0.0,0.0,12.5,INF,travel
+David,Misha,0.0,0.0,12.5,INF,travel
+Genya,Misha,0.0,0.0,12.5,INF,travel
+Genya,Tamar,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,have keep hide do seem mind
+Genya,Tamar,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,have keep hide do seem mind
+Mal,Zoya,0.0,0.0,12.5,INF,travel
+Mal,Harshaw,0.0,0.0,12.5,INF,travel
+Mal,Tolya,0.0,0.0,12.5,INF,travel
+Zoya,Harshaw,0.0,0.0,12.5,INF,travel
+Zoya,Tolya,0.0,0.0,12.5,INF,travel
+Harshaw,Tolya,0.0,0.0,12.5,INF,travel
+Tamar,Caryeva,2.5,2.5,39.0,1.0,be meet send
+Tamar,Nadia,3.8461538461538463,1.4423076923076923,44.71153846153847,2.6666666666666665,do like send cut
+Tamar,Mal,3.8461538461538463,1.4423076923076923,44.71153846153847,2.6666666666666665,do like send cut
+Nadia,Mal,3.8461538461538463,1.4423076923076923,44.71153846153847,2.6666666666666665,do like send cut
+Tamar,Soldat Sol,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,know try reassure be
+Tamar,Nadia,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,know try reassure be
+Soldat Sol,Tamar,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,know try reassure be
+Soldat Sol,Nadia,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,know try reassure be
+Tamar,Nadia,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,know try reassure be
+Misha,Bittern,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be watch pelt
+Misha,Bittern,2.380952380952381,1.1904761904761905,53.57142857142857,2.0,be watch pelt
+Mal,Misha,0.0,0.0,41.66666666666667,INF,come say wave
+David,Adrik,8.0,6.5,45.5,1.2307692307692308,know be be go need do want admit
+Adrik,David,8.0,6.5,45.5,1.2307692307692308,know be be go need do want admit
+Mal,Misha,0.0,2.083333333333333,64.58333333333334,0.0,glance rise shoulder
+Mal,Misha,0.0,2.083333333333333,64.58333333333334,0.0,glance rise shoulder
+Shu,Ravka,2.6515151515151514,1.5151515151515151,59.46969696969697,1.75,be be destroy rebuild govern depend have be draw
+Zoya,Tolya,0.0,0.0,47.368421052631575,INF,scrunch dig
+Zoya,Harshaw,0.0,0.0,47.368421052631575,INF,scrunch dig
+Zoya,Tolya,0.0,0.0,47.368421052631575,INF,scrunch dig
+Zoya,Harshaw,0.0,0.0,47.368421052631575,INF,scrunch dig
+Tolya,Harshaw,0.0,0.0,47.368421052631575,INF,scrunch dig
+Ravka,Shu,3.787878787878788,4.545454545454546,46.21212121212121,0.8333333333333334,be have burn have be leave mourn
+Mal,Novyi Zem,5.0,0.0,28.333333333333332,INF,lie
+Tolya,Mal,6.25,0.0,43.75,INF,hand
+Novyi Zem,Mal,1.0416666666666665,0.0,48.95833333333333,INF,have go say chuckle return
+Morozova,Alina,1.9230769230769231,0.4807692307692308,47.59615384615385,4.0,hold be
+Mal,Cera Huo,0.0,1.9230769230769231,51.92307692307693,0.0,take follow seem appear disappear wend
+Shu,Ravka,3.125,1.171875,48.828125,2.6666666666666665,drag be take be have retrace
+Mal,Morozova,0.0,1.5625,48.4375,0.0,give
+Mal,Morozova,0.0,0.0,50.0,INF,pick signal
+Tolya,Morozova,0.0,0.0,43.75,INF,draw form wait
+Zoya,Harshaw,1.5625,0.78125,63.28125,2.0,move throw flare bear
+Harshaw,Zoya,0.0,0.0,40.0,INF,send chase
+Tolya,Tamar,4.391891891891892,7.4324324324324325,42.22972972972973,0.5909090909090909,think have be return
+Tolya,Ravka,4.391891891891892,7.4324324324324325,42.22972972972973,0.5909090909090909,think have be return
+Tamar,Ravka,4.391891891891892,7.4324324324324325,42.22972972972973,0.5909090909090909,think have be return
+Shu,Harshaw,2.8846153846153846,15.384615384615385,35.57692307692308,0.1875,be say
+Harshaw,Zoya,0.0,1.3888888888888888,20.833333333333336,0.0,gasp
+Tolya,Cera Huo,4.6875,1.5625,37.5,3.0,accord be have know be find
+Mal,Cera Huo,0.8928571428571428,1.488095238095238,59.523809523809526,0.6,have give move be know
+Mal,Cera Huo,0.8928571428571428,1.488095238095238,59.523809523809526,0.6,have give move be know
+Mal,Cera Huo,0.8928571428571428,1.488095238095238,59.523809523809526,0.6,have give move be know
+Mal,Cera Huo,0.8928571428571428,1.488095238095238,59.523809523809526,0.6,have give move be know
+Harshaw,Mal,4.464285714285714,3.571428571428571,56.25,1.25,ask turn
+Harshaw,Oncat,0.6578947368421052,4.605263157894736,42.10526315789473,0.14285714285714285,scratch whisper say be
+Keramzin,Grisha,3.8461538461538463,1.9230769230769231,44.230769230769226,2.0,piece survive
+Keramzin,First Army,3.8461538461538463,1.9230769230769231,44.230769230769226,2.0,piece survive
+Grisha,First Army,3.8461538461538463,1.9230769230769231,44.230769230769226,2.0,piece survive
+David,Nikolai,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,think be heal put
+David,Zoya,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,think be heal put
+David,Nikolai,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,think be heal put
+David,Zoya,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,think be heal put
+Nikolai,Zoya,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,think be heal put
+Nikolai,Tolya,0.0,2.5,37.5,0.0,do say
+Nikolai,Harshaw,0.0,0.0,50.0,INF,watch watch
+Mal,Cera Huo,5.357142857142857,8.035714285714286,50.89285714285714,0.6666666666666666,grow move
+Mal,Cera Huo,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,have be follow kneel run
+Harshaw,Cera Huo,0.0,3.4722222222222223,35.41666666666667,0.0,say burn
+Harshaw,Cera Huo,0.4032258064516129,0.8064516129032258,63.306451612903224,0.5,strike send roll reveal be
+Oncat,Harshaw,0.0,0.0,60.0,INF,rise jump hiss
+Oncat,Harshaw,0.0,0.0,50.0,INF,set dunk
+Ravka,Zoya,3.125,0.625,46.25,5.0,think be suppose be say
+Zoya,Tolya,0.0,0.0,14.285714285714285,INF,caution
+Harshaw,Zoya,3.125,5.208333333333334,41.66666666666667,0.6,be take
+Shu,Tolya,0.0,0.7352941176470588,34.55882352941176,0.0,go object
+Harshaw,Oncat,11.607142857142858,4.464285714285714,33.92857142857143,2.6,say nuzzle fail meet
+Tolya,Tamar,0.0,0.0,20.0,INF,
+Zoya,Harshaw,0.6944444444444444,0.0,43.75,INF,be whine stay
+Mal,Tolya,1.875,0.0,48.125,INF,have enter promise survive
+Zoya,Mal,0.0,0.0,22.22222222222222,INF,say
+Mal,Zoya,0.0,0.0,33.33333333333333,INF,drop
+Mal,Zoya,0.0,0.0,33.33333333333333,INF,drop
+Baghra,Grisha,6.25,1.5625,29.6875,4.0,have be
+Baghra,Zoya,1.9230769230769231,0.0,44.230769230769226,INF,be have discount
+Dva Stolba,Tolya,2.403846153846154,0.0,59.13461538461539,INF,have say have manage eat
+Dva Stolba,Oncat,2.403846153846154,0.0,59.13461538461539,INF,have say have manage eat
+Tolya,Oncat,2.403846153846154,0.0,59.13461538461539,INF,have say have manage eat
+Zoya,Tolya,0.0,1.5,54.50000000000001,0.0,hear grumble have listen snore
+Mal,Dva Stolba,0.0,1.7857142857142856,48.214285714285715,0.0,curl press
+Mal,Dva Stolba,0.0,1.7857142857142856,48.214285714285715,0.0,curl press
+Mal,Dva Stolba,0.0,1.7857142857142856,48.214285714285715,0.0,curl press
+Trivka,Novyi Zem,0.0,0.5813953488372093,52.90697674418605,0.0,be have sleep buzz bind
+Mal,Dva Stolba,1.875,0.0,73.125,INF,separate keep draw
+Mal,Dva Stolba,1.875,0.0,73.125,INF,separate keep draw
+Alina,Morozova,0.0,6.25,33.75,0.0,say
+Harshaw,Oncat,0.5208333333333333,2.604166666666667,55.208333333333336,0.2,travel hum murmur lock
+Harshaw,Mal,0.0,3.8461538461538463,50.0,0.0,start hum run catch
+Harshaw,Tolya,1.6129032258064515,5.241935483870968,44.75806451612903,0.3076923076923077,kiss do stop be flush be race remember let hear grumble promise
+Harshaw,Zoya,1.6129032258064515,5.241935483870968,44.75806451612903,0.3076923076923077,kiss do stop be flush be race remember let hear grumble promise
+Tolya,Zoya,1.6129032258064515,5.241935483870968,44.75806451612903,0.3076923076923077,kiss do stop be flush be race remember let hear grumble promise
+Bittern,Caryeva,2.403846153846154,2.8846153846153846,48.55769230769231,0.8333333333333334,have arrive expect retrieve meet send
+Tamar,Nadia,0.3472222222222222,0.3472222222222222,57.638888888888886,1.0,find seat pin perch
+Tamar,Adrik,0.3472222222222222,0.3472222222222222,57.638888888888886,1.0,find seat pin perch
+Nadia,Adrik,0.3472222222222222,0.3472222222222222,57.638888888888886,1.0,find seat pin perch
+Tolya,Zoya,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Tolya,Nadia,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Tolya,Adrik,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Zoya,Nadia,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Zoya,Adrik,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Nadia,Adrik,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,envelop give embrace
+Tamar,Oncat,1.875,0.0,48.125,INF,hug close spring forage
+Tamar,Harshaw,1.875,0.0,48.125,INF,hug close spring forage
+Oncat,Harshaw,1.875,0.0,48.125,INF,hug close spring forage
+Misha,Mal,1.0416666666666665,0.0,48.95833333333333,INF,come pelt hurl
+Mal,Misha,0.78125,0.0,36.71875,INF,do say sweep
+David,Genya,0.0,0.0,33.33333333333333,INF,
+Adrik,Nadia,2.34375,6.25,16.40625,0.375,chastise be exhaust starve
+Alina,Mal,0.0,0.0,14.285714285714285,INF,say
+Botkin,Ana Kuya,0.0,1.2096774193548387,53.62903225806451,0.0,sway scrape
+Botkin,Ana Kuya,0.0,1.2096774193548387,53.62903225806451,0.0,sway scrape
+Botkin,Ana Kuya,0.0,1.2096774193548387,53.62903225806451,0.0,sway scrape
+Botkin,Ana Kuya,0.0,1.2096774193548387,53.62903225806451,0.0,sway scrape
+Botkin,Ana Kuya,0.0,1.2096774193548387,53.62903225806451,0.0,sway scrape
+Alina,Botkin,0.0,0.0,28.57142857142857,INF,say
+Alina,Botkin,0.0,0.0,28.57142857142857,INF,repeat
+Botkin,Grisha,1.1904761904761905,4.166666666666666,37.5,0.2857142857142857,hope kill spit
+Grisha,Botkin,1.1904761904761905,4.166666666666666,37.5,0.2857142857142857,hope kill spit
+Botkin,Morozova,1.1363636363636365,0.7575757575757576,52.65151515151515,1.5,want tell bring bear
+Botkin,Morozova,1.1363636363636365,0.7575757575757576,52.65151515151515,1.5,want tell bring bear
+Mal,Morozova,0.0,1.7857142857142856,41.07142857142857,0.0,give
+Zoya,Tamar,0.7352941176470588,0.0,46.32352941176471,INF,sit settle
+Genya,Nadia,3.125,2.5,49.375,1.25,wash have wet
+Mal,Botkin,0.0,2.6785714285714284,33.035714285714285,0.0,tell say
+Mal,Nadia,0.0,2.6785714285714284,33.035714285714285,0.0,tell say
+Botkin,Nadia,0.0,2.6785714285714284,33.035714285714285,0.0,tell say
+Genya,Nadia,0.0,1.25,48.75,0.0,rest
+Tamar,Genya,0.0,0.0,37.5,INF,make
+Botkin,Mal,0.0,0.0,45.45454545454545,INF,do say
+Genya,Tamar,0.0,0.0,40.0,INF,clear
+Genya,David,3.125,0.0,34.375,INF,be say
+Genya,Zoya,4.166666666666666,3.4722222222222223,31.25,1.2,make put say
+Misha,Grisha,0.9615384615384616,1.9230769230769231,27.884615384615387,0.5,have say
+Misha,Tolya,0.9615384615384616,1.9230769230769231,27.884615384615387,0.5,have say
+Grisha,Tolya,0.9615384615384616,1.9230769230769231,27.884615384615387,0.5,have say
+Genya,Mal,2.7777777777777777,0.0,47.22222222222222,INF,read say do like
+Misha,Alina,2.7777777777777777,4.861111111111112,42.36111111111111,0.5714285714285714,be stop
+Alina,Harshaw,3.75,3.75,32.5,1.0,be say
+Nadia,Mal,5.555555555555555,0.0,38.88888888888889,INF,reach nudge
+Alina,Zoya,1.9736842105263157,3.9473684210526314,41.44736842105263,0.5,go get finish
+Morozova,Sun Summoner,2.2058823529411766,1.4705882352941175,49.26470588235294,1.5,have be
+Genya,Zoya,0.0,0.0,40.0,INF,drop gaze
+Mal,Genya,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,tuck breathe
+Dva Stolba,Bittern,0.0,0.0,50.0,INF,leave cross retrieve
+Adrik,Zoya,9.615384615384617,8.653846153846153,27.884615384615387,1.1111111111111112,seem relish
+Adrik,Nadia,9.615384615384617,8.653846153846153,27.884615384615387,1.1111111111111112,seem relish
+Zoya,Nadia,9.615384615384617,8.653846153846153,27.884615384615387,1.1111111111111112,seem relish
+Baghra,Dva Stolba,0.0,0.0,20.0,INF,teach
+Nadia,Mal,0.0,0.0,25.0,INF,have make
+Tamar,Harshaw,5.0,3.125,41.875,1.6,scout make be walk
+Shu,Fjerda,1.0416666666666665,0.0,51.736111111111114,INF,do think turn be strike
+Misha,Mal,3.8461538461538463,0.0,19.230769230769234,INF,instruct run
+Tamar,Harshaw,2.0,0.0,62.0,INF,practice start set keep falter
+Nadia,Adrik,3.90625,1.171875,44.921875,3.3333333333333335,unfurl help learn manage sprawl offer
+Nadia,Zoya,3.90625,1.171875,44.921875,3.3333333333333335,unfurl help learn manage sprawl offer
+Adrik,Nadia,3.90625,1.171875,44.921875,3.3333333333333335,unfurl help learn manage sprawl offer
+Adrik,Zoya,3.90625,1.171875,44.921875,3.3333333333333335,unfurl help learn manage sprawl offer
+Nadia,Zoya,3.90625,1.171875,44.921875,3.3333333333333335,unfurl help learn manage sprawl offer
+David,Genya,0.4166666666666667,0.0,46.25,INF,try figure extract
+Genya,David,0.4166666666666667,0.0,46.25,INF,try figure extract
+Zoya,Corporalnik,5.357142857142857,6.785714285714286,39.285714285714285,0.7894736842105263,have wonder have become have choose
+Corporalnik,Zoya,5.357142857142857,6.785714285714286,39.285714285714285,0.7894736842105263,have wonder have become have choose
+Corporalnik,Zoya,5.357142857142857,6.785714285714286,39.285714285714285,0.7894736842105263,have wonder have become have choose
+Mal,Misha,0.8064516129032258,0.0,47.58064516129033,INF,head set learn shoot
+Mal,Misha,0.8064516129032258,0.0,47.58064516129033,INF,head set learn shoot
+Tamar,Misha,2.430555555555556,1.3888888888888888,46.18055555555556,1.75,know do believe do say end be bring
+Misha,Mal,0.0,5.208333333333334,44.79166666666667,0.0,head join
+Mal,Misha,0.0,5.208333333333334,44.79166666666667,0.0,head join
+Tolya,Tamar,4.166666666666666,1.1904761904761905,47.023809523809526,3.5,be have make be
+Ruby,Vladim,2.34375,3.515625,50.390625,0.6666666666666666,be see think recognize
+Ruby,Vladim,2.34375,3.515625,50.390625,0.6666666666666666,be see think recognize
+Vladim,Zoya,0.0,0.0,58.333333333333336,INF,smile appear
+Zoya,Ruby,0.0,0.0,71.42857142857143,INF,exchange
+Vladim,Ruby,0.0,0.0,50.0,INF,lay
+Nadia,Zoya,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Nadia,Bittern,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Nadia,Tolya,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Nadia,Soldat Sol,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Zoya,Bittern,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Zoya,Tolya,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Zoya,Soldat Sol,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Bittern,Tolya,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Bittern,Soldat Sol,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Tolya,Soldat Sol,0.6578947368421052,0.9868421052631579,37.82894736842105,0.6666666666666666,keep agree wait
+Harshaw,Misha,2.717391304347826,0.5434782608695652,53.2608695652174,5.0,have be empty find open share
+Harshaw,Oncat,2.717391304347826,0.5434782608695652,53.2608695652174,5.0,have be empty find open share
+Misha,Oncat,2.717391304347826,0.5434782608695652,53.2608695652174,5.0,have be empty find open share
+David,Genya,2.272727272727273,4.545454545454546,44.696969696969695,0.5,make be leave get start procure blast
+David,Misha,2.272727272727273,4.545454545454546,44.696969696969695,0.5,make be leave get start procure blast
+Genya,Misha,2.272727272727273,4.545454545454546,44.696969696969695,0.5,make be leave get start procure blast
+Bittern,Ravka,2.6785714285714284,0.0,40.17857142857143,INF,reboard cross
+Soldat Sol,Sankta Alina,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,plan reunite stand overlook have be
+Soldat Sol,Tsemna,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,plan reunite stand overlook have be
+Sankta Alina,Tsemna,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,plan reunite stand overlook have be
+Mal,Harshaw,4.807692307692308,0.0,33.65384615384615,INF,take try find
+Mal,Harshaw,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Mal,Zoya,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Mal,Oncat,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Harshaw,Zoya,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Harshaw,Oncat,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Zoya,Oncat,1.0,0.0,43.0,INF,hear turn see run yowl dart
+Harshaw,Nikolai,1.9230769230769231,0.0,36.53846153846153,INF,have be
+Harshaw,Mal,1.9230769230769231,0.0,36.53846153846153,INF,have be
+Harshaw,Nikolai,1.9230769230769231,0.0,36.53846153846153,INF,have be
+Nikolai,Mal,1.9230769230769231,0.0,36.53846153846153,INF,have be
+Mal,Nikolai,1.9230769230769231,0.0,36.53846153846153,INF,have be
+Mal,Nikolai,1.5625,0.78125,41.40625,2.0,have have put say
+Mal,Harshaw,1.5625,0.78125,41.40625,2.0,have have put say
+Nikolai,Harshaw,1.5625,0.78125,41.40625,2.0,have have put say
+Zoya,Nikolai,1.3888888888888888,0.0,43.05555555555556,INF,stare do budge
+Harshaw,Nikolai,0.0,0.0,37.5,INF,return
+Harshaw,Nikolai,0.0,0.0,37.5,INF,return
+Oncat,Nikolai,0.0,2.5,30.833333333333336,0.0,be say
+Tomikyana,David,4.411764705882353,0.0,54.41176470588235,INF,arrive have take
+Tomikyana,Genya,4.411764705882353,0.0,54.41176470588235,INF,arrive have take
+David,Genya,4.411764705882353,0.0,54.41176470588235,INF,arrive have take
+Genya,David,1.2096774193548387,0.0,47.17741935483871,INF,have set be help construct carry
+Genya,David,1.2096774193548387,0.0,47.17741935483871,INF,have set be help construct carry
+Harshaw,Misha,7.738095238095238,2.976190476190476,55.952380952380956,2.6,be dispatch steal find seem
+Harshaw,Misha,7.738095238095238,2.976190476190476,55.952380952380956,2.6,be dispatch steal find seem
+Genya,Misha,0.0,0.0,33.33333333333333,INF,labor
+Nadia,Adrik,2.976190476190476,0.8928571428571428,50.89285714285714,3.3333333333333335,crackle seem dampen hear be stand boom
+Nadia,Adrik,2.976190476190476,0.8928571428571428,50.89285714285714,3.3333333333333335,crackle seem dampen hear be stand boom
+Mal,Soldat Sol,2.403846153846154,0.4807692307692308,43.269230769230774,5.0,float be choose
+Harshaw,Tamar,1.4705882352941175,0.0,51.470588235294116,INF,take have bring
+Harshaw,Tamar,6.25,2.5,21.25,2.5,go say
+David,Soldat Sol,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,give
+Nadia,Tamar,4.5,6.5,41.0,0.6923076923076923,hear whisper want have argue include
+Nadia,Adrik,4.5,6.5,41.0,0.6923076923076923,hear whisper want have argue include
+Nadia,Tamar,4.5,6.5,41.0,0.6923076923076923,hear whisper want have argue include
+Tamar,Adrik,4.5,6.5,41.0,0.6923076923076923,hear whisper want have argue include
+Adrik,Tamar,4.5,6.5,41.0,0.6923076923076923,hear whisper want have argue include
+Harshaw,Squallers,1.25,0.625,40.625,2.0,be create locate get
+Genya,David,0.0,0.0,30.0,INF,remain
+Genya,Tomikyana,0.0,0.0,30.0,INF,remain
+Genya,Misha,0.0,0.0,30.0,INF,remain
+David,Tomikyana,0.0,0.0,30.0,INF,remain
+David,Misha,0.0,0.0,30.0,INF,remain
+Tomikyana,Misha,0.0,0.0,30.0,INF,remain
+Misha,Genya,1.1904761904761905,1.1904761904761905,59.523809523809526,1.0,know insist go have slip sleep
+Misha,Genya,1.1904761904761905,1.1904761904761905,59.523809523809526,1.0,know insist go have slip sleep
+Genya,David,2.272727272727273,0.0,52.27272727272727,INF,have do
+Tamar,Nadia,3.571428571428571,7.142857142857142,32.142857142857146,0.5,have disappear
+Zoya,Soldat Sol,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Zoya,Oncat,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Zoya,Soldat Sol,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Zoya,Oncat,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Soldat Sol,Zoya,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Soldat Sol,Oncat,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Soldat Sol,Zoya,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Zoya,Oncat,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Oncat,Zoya,1.5151515151515151,1.5151515151515151,54.54545454545454,1.0,think take slip be watch purr
+Mal,Soldat Sol,1.4830508474576272,1.4830508474576272,59.7457627118644,1.0,think lead guess hope take line dry
+Mal,Soldat Sol,1.4830508474576272,1.4830508474576272,59.7457627118644,1.0,think lead guess hope take line dry
+Grisha,Keramzin,7.291666666666667,2.604166666666667,48.4375,2.8,do wonder have be have discover
+Alina,Oretsev,1.9230769230769231,3.8461538461538463,48.07692307692308,0.5,be do
+David,Misha,2.1739130434782608,3.260869565217391,33.69565217391305,0.6666666666666666,go do make take get
+Harshaw,Oncat,2.403846153846154,0.0,55.28846153846154,INF,have leave curl sit groom watch assemble
+Harshaw,Misha,2.403846153846154,0.0,55.28846153846154,INF,have leave curl sit groom watch assemble
+Oncat,Misha,2.403846153846154,0.0,55.28846153846154,INF,have leave curl sit groom watch assemble
+Tolya,Tamar,2.083333333333333,0.0,31.25,INF,have pin
+Mal,Misha,0.0,0.0,28.57142857142857,INF,be
+Zoya,Nadia,0.0,4.166666666666666,15.833333333333332,0.0,join
+Zoya,Adrik,0.0,4.166666666666666,15.833333333333332,0.0,join
+Zoya,Harshaw,0.0,4.166666666666666,15.833333333333332,0.0,join
+Nadia,Adrik,0.0,4.166666666666666,15.833333333333332,0.0,join
+Nadia,Harshaw,0.0,4.166666666666666,15.833333333333332,0.0,join
+Adrik,Harshaw,0.0,4.166666666666666,15.833333333333332,0.0,join
+Squallers,Zoya,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,raise summon drop have do
+Mal,Tolya,2.82258064516129,2.82258064516129,39.516129032258064,1.0,believe have be bring have feel use
+Nikolai,Tamar,2.0,0.5,41.5,4.0,seize hold wrench force release
+Nikolai,Tamar,2.0,0.5,41.5,4.0,seize hold wrench force release
+Nikolai,Tamar,2.0,0.5,41.5,4.0,seize hold wrench force release
+Nikolai,Tamar,2.0,0.5,41.5,4.0,seize hold wrench force release
+Botkin,Ana Kuya,0.0,0.0,38.46153846153847,INF,show
+Tolya,Tamar,2.5,7.5,30.0,0.3333333333333333,be call
+Tolya,Tamar,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be race trail light
+Tolya,Zoya,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be race trail light
+Tamar,Zoya,1.1904761904761905,0.5952380952380952,45.83333333333333,2.0,be race trail light
+Tolya,Tamar,0.0,0.0,38.88888888888889,INF,go see exchange
+Tolya,Morozova,0.0,0.0,38.88888888888889,INF,go see exchange
+Tamar,Morozova,0.0,0.0,38.88888888888889,INF,go see exchange
+Alina,Tamar,0.0,0.0,14.285714285714285,INF,say
+Tamar,Mal,0.0,0.0,42.857142857142854,INF,open attempt force
+Tamar,Morozova,0.0,0.0,42.857142857142854,INF,open attempt force
+Mal,Morozova,0.0,0.0,42.857142857142854,INF,open attempt force
+Tolya,Mal,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,place apply try restore
+Tolya,Morozova,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,place apply try restore
+Mal,Morozova,2.083333333333333,0.5208333333333333,47.39583333333333,4.0,place apply try restore
+Alina,Morozova,0.0,0.0,28.57142857142857,INF,breathe
+Alina,Nikolai,0.0,0.0,30.76923076923077,INF,repeat seek
+Zoya,Nikolai,0.0,0.8928571428571428,41.964285714285715,0.0,run try slow
+Zoya,Nikolai,0.0,0.8928571428571428,41.964285714285715,0.0,run try slow
+Mal,Morozova,0.0,0.0,33.33333333333333,INF,slump
+Tolya,Tamar,0.0,0.0,50.0,INF,hear whisper
+Zoya,Soldat Sol,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Zoya,Tolya,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Zoya,Tamar,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Soldat Sol,Tolya,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Soldat Sol,Tamar,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Tolya,Tamar,2.5,1.4285714285714286,53.214285714285715,1.75,appropriate keep distract load hide fold
+Squallers,Zoya,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Squallers,Nadia,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Squallers,Adrik,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Zoya,Nadia,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Zoya,Adrik,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Nadia,Adrik,0.8333333333333334,1.1111111111111112,44.72222222222222,0.75,be begin fill carry allow
+Sankta Alina,Nikolai,0.8928571428571428,1.3392857142857142,51.33928571428571,0.6666666666666666,say press
+Tomikyana,Soldat Sol,0.4807692307692308,0.0,57.21153846153846,INF,get stash tuck return
+Genya,First Army,0.0,0.0,66.66666666666666,INF,find
+Genya,First Army,0.0,0.0,66.66666666666666,INF,find
+Genya,Nadia,0.0,1.7241379310344827,46.55172413793103,0.0,be head flank dress steal
+Genya,Zoya,0.0,1.7241379310344827,46.55172413793103,0.0,be head flank dress steal
+Nadia,Zoya,0.0,1.7241379310344827,46.55172413793103,0.0,be head flank dress steal
+Genya,Sun Summoner,2.7439024390243905,0.3048780487804878,40.853658536585364,9.0,concoct be be slate escape manage vanquish
+Genya,Sun Summoner,2.7439024390243905,0.3048780487804878,40.853658536585364,9.0,concoct be be slate escape manage vanquish
+Sun Summoner,Ravka,4.5,1.0,58.5,4.5,be have give save
+Sun Summoner,Ravka,4.5,1.0,58.5,4.5,be have give save
+Zoya,Tamar,0.0,0.0,40.0,INF,be come check bring
+Nikolai,First Army,1.6304347826086956,0.0,63.58695652173913,INF,install begin assemble start give
+Nikolai,Grisha,1.6304347826086956,0.0,63.58695652173913,INF,install begin assemble start give
+First Army,Grisha,1.6304347826086956,0.0,63.58695652173913,INF,install begin assemble start give
+Nikolai,Sturmhond,2.8125,0.9375,56.25,3.0,mobilize remain secure send rally have manage
+Tamar,Zoya,3.3333333333333335,4.166666666666666,32.5,0.8,return check
+Zoya,Tamar,3.3333333333333335,4.166666666666666,32.5,0.8,return check
+Mal,Nikolai,3.4722222222222223,5.555555555555555,46.52777777777778,0.625,be give have be be be expect
+Mal,Nikolai,0.0,0.9259259259259258,50.92592592592593,0.0,doze drag wake be lie watch
+Nikolai,Fjerda,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,reach trace run get be
+Nikolai,Fjerda,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,reach trace run get be
+Fjerda,Nikolai,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,reach trace run get be
+Harshaw,Soldat Sol,1.5625,0.78125,47.65625,2.0,be be include
+Harshaw,Ruby,1.5625,0.78125,47.65625,2.0,be be include
+Soldat Sol,Ruby,1.5625,0.78125,47.65625,2.0,be be include
+Sergei,Marie,3.90625,0.78125,14.0625,5.0,be
+Sergei,Botkin,3.90625,0.78125,14.0625,5.0,be
+Marie,Botkin,3.90625,0.78125,14.0625,5.0,be
+Tolya,Tamar,5.208333333333334,0.0,36.45833333333333,INF,wonder have bring
+Tolya,Mal,5.208333333333334,0.0,36.45833333333333,INF,wonder have bring
+Tamar,Mal,5.208333333333334,0.0,36.45833333333333,INF,wonder have bring
+Mal,Botkin,5.769230769230769,0.0,63.46153846153846,INF,have possess be
+Morozova,Mal,3.2407407407407405,0.0,52.31481481481482,INF,be have have go have reverberate
+Mal,Morozova,4.166666666666666,2.083333333333333,38.19444444444444,2.0,have be bear be
+Morozova,Grisha,1.4285714285714286,0.7142857142857143,52.142857142857146,2.0,have know unlock be have live grow
+Morozova,Grisha,1.4285714285714286,0.7142857142857143,52.142857142857146,2.0,have know unlock be have live grow
+Grisha,Morozova,1.4285714285714286,0.7142857142857143,52.142857142857146,2.0,have know unlock be have live grow
+Morozova,Keramzin,0.7352941176470588,0.0,52.20588235294118,INF,have know come
+Mal,Morozova,2.7777777777777777,0.0,47.22222222222222,INF,take curl press
+Mal,Morozova,2.7777777777777777,0.0,47.22222222222222,INF,take curl press
+Sun Summoner,Sankta Alina,2.314814814814815,2.7777777777777777,57.870370370370374,0.8333333333333334,be be need do bury
+Mal,Sankta Alina,0.0,1.5,62.5,0.0,limp change help put go
+Genya,Sankta Alina,0.0,0.0,40.0,INF,wrinkle
+Alina,Genya,0.0,3.289473684210526,33.55263157894737,0.0,be pull add sail
+Genya,David,0.0,0.0,50.0,INF,travel meet
+Genya,Grisha,0.0,0.0,50.0,INF,travel meet
+David,Grisha,0.0,0.0,50.0,INF,travel meet
+Misha,Mal,0.0,0.0,35.0,INF,offer bring elect go
+Misha,Mal,0.0,0.0,35.0,INF,offer bring elect go
+Misha,Oncat,4.545454545454546,3.4090909090909087,42.04545454545455,1.3333333333333333,make be hide be stuff
+Misha,Oncat,4.545454545454546,3.4090909090909087,42.04545454545455,1.3333333333333333,make be hide be stuff
+Mal,Misha,0.0,0.0,46.15384615384615,INF,leave return
+Os Alta,Misha,3.125,0.0,51.041666666666664,INF,come be have have
+Misha,Mal,7.5892857142857135,1.3392857142857142,66.07142857142857,5.666666666666667,know be have say vow watch
+Misha,Mal,7.5892857142857135,1.3392857142857142,66.07142857142857,5.666666666666667,know be have say vow watch
+Misha,Nikolai,1.3392857142857142,1.3392857142857142,54.46428571428571,1.0,assume rebuild be reach understand
+Tamar,Tolya,2.34375,0.78125,53.125,3.0,be
+Nikolai,Tamar,0.0,3.90625,46.09375,0.0,end attend trail
+Nikolai,Sturmhond,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,be thank say refer have leave give
+Nikolai,Sturmhond,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,be thank say refer have leave give
+Nikolai,Sturmhond,0.7142857142857143,0.7142857142857143,44.285714285714285,1.0,be thank say refer have leave give
+Nikolai,Os Alta,5.0,6.25,48.75,0.8,hope return
+Sun Summoner,Nikolai,0.0,5.681818181818182,30.681818181818183,0.0,be
+Genya,Tomikyana,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,have give leave
+Ravka,Grisha,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,need need
+Ravka,Grisha,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,need need
+Second Army,David,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,want lead
+Grisha,Corporalki,0.5,1.0,30.5,0.5,lead want represent
+Corporalnik,Alina,5.681818181818182,5.681818181818182,25.0,1.0,be
+Zoya,David,0.0,0.0,26.666666666666668,INF,follow
+Ruby,Soldat Sol,2.232142857142857,0.8928571428571428,54.01785714285714,2.5,be have live be have perish
+Soldat Sol,Ruby,2.232142857142857,0.8928571428571428,54.01785714285714,2.5,be have live be have perish
+Nikolai,First Army,0.0,0.0,47.368421052631575,INF,stand
+Nikolai,First Army,0.0,0.0,47.368421052631575,INF,stand
+First Army,Nikolai,0.0,0.0,47.368421052631575,INF,stand
+Duke,Os Alta,5.0,0.0,61.66666666666667,INF,have take
+Grisha,Keramzin,4.166666666666666,3.787878787878788,43.56060606060606,1.1,be test be allow choose go be
+Korol Rezni,Ravka,3.260869565217391,1.0869565217391304,47.82608695652174,3.0,be tell keep keep
+Alina,Grisha,1.9230769230769231,1.9230769230769231,46.15384615384615,1.0,know die reply take fill
+Genya,Alina,0.8928571428571428,8.035714285714286,41.07142857142857,0.1111111111111111,do mean say be ruin
+Genya,Alina,0.0,4.545454545454546,50.0,0.0,do use try manipulate
+Alina,Genya,0.0,8.333333333333332,25.0,0.0,do manipulate
+Genya,Alina,2.8846153846153846,3.8461538461538463,39.42307692307692,0.75,have tell
+Alina,David,2.5,5.0,52.5,0.5,say be
+David,Alina,4.464285714285714,4.464285714285714,41.07142857142857,1.0,do think
+David,Morozova,8.035714285714286,1.7857142857142856,33.035714285714285,4.5,be be
+Morozova,David,8.035714285714286,1.7857142857142856,33.035714285714285,4.5,be be
+Nikolai,Alina,0.0,0.0,33.33333333333333,INF,be
+Nikolai,Alina,2.5,0.0,37.5,INF,be want marry
+Alina,Nikolai,5.0,1.6666666666666667,40.0,3.0,do feel be
+Baghra,Alina,0.0,0.0,46.15384615384615,INF,do decide tell
+Baghra,Alina,0.0,0.0,46.15384615384615,INF,do decide tell
+Alina,Zoya,0.0,0.0,50.0,INF,start
+Alina,Zoya,0.5681818181818182,0.0,44.88636363636363,INF,do choose be lead
+Alina,Grisha,0.5681818181818182,0.0,44.88636363636363,INF,do choose be lead
+Zoya,Grisha,0.5681818181818182,0.0,44.88636363636363,INF,do choose be lead
+Harshaw,Alina,0.0,0.0,54.54545454545454,INF,do choose fight
+Tolya,Tamar,5.0,0.0,35.0,INF,do stay
+Tolya,Alina,5.0,0.0,35.0,INF,do stay
+Tamar,Alina,5.0,0.0,35.0,INF,do stay
+Alina,Mal,4.166666666666666,4.166666666666666,47.22222222222222,1.0,have
+Grisha,Henry Holt,0.0,0.0,46.666666666666664,INF,sell dance
+Kaz,Ketterdam,1.488095238095238,6.845238095238096,53.57142857142857,0.21739130434782608,claw be take exact destroy
+Kaz,Ketterdam,1.488095238095238,6.845238095238096,53.57142857142857,0.21739130434782608,claw be take exact destroy
+Kaz,Ketterdam,1.488095238095238,6.845238095238096,53.57142857142857,0.21739130434782608,claw be take exact destroy
+Kaz,Ketterdam,1.488095238095238,6.845238095238096,53.57142857142857,0.21739130434782608,claw be take exact destroy
+Grisha,Fjerda,1.5625,0.78125,47.65625,2.0,do have assemble help infiltrate
+Leigh Bardugo,LLC,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Leigh Bardugo,Henry Holt,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Leigh Bardugo,Henry Holt,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Leigh Bardugo,LLC,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+LLC,Henry Holt,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+LLC,Henry Holt,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Henry Holt,LLC,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Henry Holt,LLC,0.8333333333333334,0.4166666666666667,42.083333333333336,2.0,be register
+Grisha,Ravka,1.25,0.0,33.75,INF,
+Grisha,Ravka,1.25,0.0,33.75,INF,
+Alina,Mal,2.5,0.0,44.166666666666664,INF,forge
+Alina,Morozova,2.5,0.0,44.166666666666664,INF,forge
+Alina,Mal,2.5,0.0,44.166666666666664,INF,forge
+Alina,Morozova,2.5,0.0,44.166666666666664,INF,forge
+Mal,Morozova,2.5,0.0,44.166666666666664,INF,forge

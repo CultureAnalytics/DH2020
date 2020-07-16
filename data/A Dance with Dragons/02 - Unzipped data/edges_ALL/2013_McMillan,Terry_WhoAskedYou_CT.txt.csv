@@ -1,0 +1,1068 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Quentin,Mother,0.3472222222222222,1.0416666666666665,59.72222222222222,0.3333333333333333,call get sound say use ask
+Quentin,Mrs. Butler,0.3472222222222222,1.0416666666666665,59.72222222222222,0.3333333333333333,call get sound say use ask
+Mother,Quentin,0.3472222222222222,1.0416666666666665,59.72222222222222,0.3333333333333333,call get sound say use ask
+Mother,Mrs. Butler,0.3472222222222222,1.0416666666666665,59.72222222222222,0.3333333333333333,call get sound say use ask
+Quentin,Mrs. Butler,0.3472222222222222,1.0416666666666665,59.72222222222222,0.3333333333333333,call get sound say use ask
+Quentin,Mother,9.090909090909092,3.4090909090909087,64.77272727272727,2.6666666666666665,have tell do like be call ignore
+Mother,Quentin,9.090909090909092,3.4090909090909087,64.77272727272727,2.6666666666666665,have tell do like be call ignore
+Dexter,Costco,1.8292682926829267,1.524390243902439,69.8170731707317,1.2,be do carjack use claim be
+Dexter,Buddy,6.578947368421052,0.9868421052631579,58.223684210526315,6.666666666666667,say be try get go see have have do want miss visit
+Dexter,Buddy,6.578947368421052,0.9868421052631579,58.223684210526315,6.666666666666667,say be try get go see have have do want miss visit
+Dexter,Buddy,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Dexter,Skittles,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Buddy,Dexter,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Buddy,Dexter,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Buddy,Skittles,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Dexter,Skittles,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Dexter,Skittles,2.2435897435897436,1.282051282051282,58.01282051282052,1.75,swear be be suppose meet
+Lee David,Arlene,2.7777777777777777,0.6944444444444444,60.416666666666664,4.0,be be slip have be try convince go put
+Arlene,Lee David,2.7777777777777777,0.6944444444444444,60.416666666666664,4.0,be be slip have be try convince go put
+Kim,Lee David,0.0,0.0,60.0,INF,stand look be
+Kim,Lee David,7.386363636363637,5.113636363636364,60.22727272727273,1.4444444444444444,use take walk get lose
+Kim,Lee David,7.386363636363637,5.113636363636364,60.22727272727273,1.4444444444444444,use take walk get lose
+Kim,Lee David,7.386363636363637,5.113636363636364,60.22727272727273,1.4444444444444444,use take walk get lose
+Kim,Lee David,1.1904761904761905,2.976190476190476,52.976190476190474,0.4,sponge bathe thank handle bend
+Lee David,Kim,1.7045454545454544,2.272727272727273,71.02272727272727,0.75,be walk be have light
+Venetia,Arlene,3.0172413793103448,3.1609195402298855,57.04022988505747,0.9545454545454546,see be pray be talk warn start go hang like get talk go give be go
+Venetia,Arlene,3.0172413793103448,3.1609195402298855,57.04022988505747,0.9545454545454546,see be pray be talk warn start go hang like get talk go give be go
+Venetia,Arlene,3.0172413793103448,3.1609195402298855,57.04022988505747,0.9545454545454546,see be pray be talk warn start go hang like get talk go give be go
+Venetia,Rodney,1.488095238095238,2.380952380952381,48.51190476190476,0.625,spend be do have be be have do go
+Rodney,Venetia,1.488095238095238,2.380952380952381,48.51190476190476,0.625,spend be do have be be have do go
+Rodney,Venetia,1.488095238095238,2.380952380952381,48.51190476190476,0.625,spend be do have be be have do go
+Rodney,Venetia,1.488095238095238,2.380952380952381,48.51190476190476,0.625,spend be do have be be have do go
+Venetia,Lauren,0.8928571428571428,1.7857142857142856,58.03571428571429,0.5,have be grow turn be be
+Venetia,Zachary,0.8928571428571428,1.7857142857142856,58.03571428571429,0.5,have be grow turn be be
+Lauren,Zachary,0.8928571428571428,1.7857142857142856,58.03571428571429,0.5,have be grow turn be be
+Zach,Lauren,1.3392857142857142,3.571428571428571,59.375,0.375,be graduate drop pick
+Zach,Venetia,1.3392857142857142,3.571428571428571,59.375,0.375,be graduate drop pick
+Lauren,Venetia,1.3392857142857142,3.571428571428571,59.375,0.375,be graduate drop pick
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Venetia,Arlene,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Venetia,5.227272727272727,1.1363636363636365,50.0,4.6,be surprise have call tell call see pick have call tell know be blow
+Arlene,Pepperdine,6.578947368421052,0.0,30.263157894736842,INF,think be get
+Arlene,Pepperdine,6.578947368421052,0.0,30.263157894736842,INF,think be get
+Arlene,Pepperdine,6.578947368421052,0.0,30.263157894736842,INF,think be get
+Venetia,Arlene,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Venetia,Arlene,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Venetia,Arlene,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Venetia,Arlene,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Venetia,Arlene,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Venetia,3.214285714285714,5.0,51.78571428571429,0.6428571428571429,go think be have share be
+Arlene,Pepperdine,1.293103448275862,4.310344827586207,53.01724137931034,0.3,be have use learn be sell
+Arlene,Pepperdine,1.293103448275862,4.310344827586207,53.01724137931034,0.3,be have use learn be sell
+Pepperdine,Arlene,1.293103448275862,4.310344827586207,53.01724137931034,0.3,be have use learn be sell
+Arlene,Venetia,2.5,3.5000000000000004,54.0,0.7142857142857143,have become get do mean be
+Arlene,Betty Jean,0.0,2.840909090909091,51.70454545454546,0.0,look say be mean
+Arlene,Omar,0.0,0.0,46.15384615384615,INF,think discriminate be
+Arlene,Omar,0.0,0.0,46.15384615384615,INF,think discriminate be
+Arlene,Omar,5.729166666666666,3.6458333333333335,44.79166666666667,1.5714285714285714,talk be say think
+Arlene,Omar,5.729166666666666,3.6458333333333335,44.79166666666667,1.5714285714285714,talk be say think
+Omar,Arlene,5.729166666666666,3.6458333333333335,44.79166666666667,1.5714285714285714,talk be say think
+Omar,Arlene,5.729166666666666,3.6458333333333335,44.79166666666667,1.5714285714285714,talk be say think
+Trinetta,Arlene,3.4438775510204076,0.5102040816326531,59.31122448979592,6.75,clear be take pick like get start hum walk stand find squeeze take act be forget be
+Arlene,Tammy,0.8928571428571428,7.142857142857142,63.39285714285714,0.125,have get marry
+Arlene,Tammy,0.8928571428571428,7.142857142857142,63.39285714285714,0.125,have get marry
+Tammy,Howard,2.34375,1.5625,58.59375,1.5,use like break
+Tammy,Howard,2.34375,1.5625,58.59375,1.5,use like break
+Howard,Tammy,2.34375,1.5625,58.59375,1.5,use like break
+Howard,Tammy,2.34375,1.5625,58.59375,1.5,use like break
+Thelma,Lee David,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,be be go marry attract run
+Thelma,Lee David,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,be be go marry attract run
+Lee David,Thelma,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,be be go marry attract run
+Thelma,Lee David,3.787878787878788,2.272727272727273,57.57575757575758,1.6666666666666667,be be go marry attract run
+Trinetta,Quentin,2.941176470588235,0.0,50.0,INF,claim name have
+Trinetta,Luther,2.941176470588235,0.0,50.0,INF,claim name have
+Trinetta,Quentin,2.941176470588235,0.0,50.0,INF,claim name have
+Quentin,Luther,2.941176470588235,0.0,50.0,INF,claim name have
+Luther,Quentin,2.941176470588235,0.0,50.0,INF,claim name have
+Quentin,Ricky,4.435483870967742,0.4032258064516129,56.451612903225815,11.0,do know name doubt sleep do think have
+Ricky,Quentin,4.435483870967742,0.4032258064516129,56.451612903225815,11.0,do know name doubt sleep do think have
+Ricky,Quentin,4.435483870967742,0.4032258064516129,56.451612903225815,11.0,do know name doubt sleep do think have
+Trinetta,Quentin,1.4705882352941175,4.411764705882353,47.05882352941176,0.3333333333333333,put think be go take
+Trinetta,Quentin,1.4705882352941175,4.411764705882353,47.05882352941176,0.3333333333333333,put think be go take
+Grandma,Luther,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,say make lose give
+Grandma,Luther,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,say make lose give
+Grandma,Luther,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,say make lose give
+Ma,Trinetta,5.263157894736842,0.0,42.10526315789473,INF,say give
+Luther,Ricky,2.083333333333333,0.6944444444444444,41.66666666666667,3.0,get suppose have
+Mr. Butler,Daddy,0.7352941176470588,0.0,46.32352941176471,INF,say do answer
+Luther,Ricky,1.875,5.625,57.49999999999999,0.3333333333333333,be sit be wait
+Trinetta,Dora,1.3888888888888888,4.166666666666666,61.111111111111114,0.3333333333333333,do hear be
+Tammy,BJ,2.0161290322580645,0.0,62.5,INF,hear knock know be
+Lee David,Kim,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,mind sit get
+Lorinda,Disneyland,0.0,0.0,54.54545454545454,INF,be visit be take have go
+Lorinda,Disneyland,0.0,0.0,54.54545454545454,INF,be visit be take have go
+Lorinda,BJ,0.0,0.0,14.285714285714285,INF,be
+Lee David,Jack,4.838709677419355,1.2096774193548387,55.24193548387096,4.0,know be be plop doubt notice
+Lee David,Jack,4.838709677419355,1.2096774193548387,55.24193548387096,4.0,know be be plop doubt notice
+Kim,Lee David,1.1363636363636365,0.0,35.22727272727273,INF,be say
+Mickey D,BJ,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,walk turn talk buy go
+Mickey D,Lee David,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,walk turn talk buy go
+BJ,Lee David,1.0416666666666665,1.0416666666666665,72.91666666666666,1.0,walk turn talk buy go
+BJ,Lee David,3.4722222222222223,0.0,52.083333333333336,INF,stop be get manage
+BJ,Lee David,3.4722222222222223,0.0,52.083333333333336,INF,stop be get manage
+Lee David,BJ,3.4722222222222223,0.0,52.083333333333336,INF,stop be get manage
+Jackson,Clay,1.25,0.0,68.75,INF,shoot
+Lee David,BJ,2.717391304347826,2.1739130434782608,64.67391304347827,1.25,be treat be
+Trevor,Starbucks,0.0,1.1363636363636365,47.34848484848485,0.0,be go do have count be
+Trevor,Tanna,2.2058823529411766,1.4705882352941175,43.38235294117647,1.5,do like have do
+Kim,Trevor,7.5,6.25,46.25,1.2,have be
+BJ,Arlene,5.88235294117647,0.0,41.17647058823529,INF,yell walk
+Lee David,Kim,2.898550724637681,2.717391304347826,48.007246376811594,1.0666666666666667,take be go be call come sit get be be have be have call
+Kim,Arlene,2.083333333333333,8.333333333333332,39.58333333333333,0.25,strut
+Arlene,Venetia,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Venetia,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Arlene,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Venetia,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Betty Jean,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Betty Jean,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Betty Jean,Trinetta,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Trinetta,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Trinetta,Betty Jean,2.2435897435897436,0.3205128205128205,51.28205128205128,7.0,call tell call tell have be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Betty Jean,Trinetta,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Betty Jean,Trinetta,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Trinetta,Betty Jean,3.9473684210526314,0.6578947368421052,45.39473684210527,6.0,have leave be plan keep prove be
+Betty Jean,Arlene,7.954545454545454,9.090909090909092,28.40909090909091,0.875,be
+Arlene,Oprah,1.9736842105263157,4.385964912280701,56.79824561403509,0.45,end read see win send
+Betty Jean,Omar,2.0569620253164556,2.2151898734177213,56.4873417721519,0.9285714285714286,abhor get dream tell know spark do do bite be get give be drive give head work
+Betty Jean,Omar,2.0569620253164556,2.2151898734177213,56.4873417721519,0.9285714285714286,abhor get dream tell know spark do do bite be get give be drive give head work
+Omar,Betty Jean,2.0569620253164556,2.2151898734177213,56.4873417721519,0.9285714285714286,abhor get dream tell know spark do do bite be get give be drive give head work
+Omar,Betty Jean,2.0569620253164556,2.2151898734177213,56.4873417721519,0.9285714285714286,abhor get dream tell know spark do do bite be get give be drive give head work
+Betty Jean,Trinetta,3.205128205128205,3.8461538461538463,57.05128205128205,0.8333333333333334,understand continue act be be have be
+Betty Jean,Trinetta,3.205128205128205,3.8461538461538463,57.05128205128205,0.8333333333333334,understand continue act be be have be
+Betty Jean,Trinetta,5.357142857142857,1.7857142857142856,50.0,3.0,have come count
+Betty Jean,Lee David,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Betty Jean,Lee David,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Betty Jean,Lee David,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Betty Jean,Lee David,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Lee David,Betty Jean,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Lee David,Betty Jean,0.5681818181818182,3.4090909090909087,59.65909090909091,0.16666666666666666,blame introduce know be be
+Venetia,Trinetta,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,tell borrow get help call
+Venetia,Trinetta,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,tell borrow get help call
+Venetia,Trinetta,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,tell borrow get help call
+Trinetta,Venetia,2.6785714285714284,0.8928571428571428,46.42857142857143,3.0,tell borrow get help call
+Venetia,Trinetta,2.82258064516129,0.0,58.46774193548387,INF,know have pay live be
+Trinetta,Venetia,2.82258064516129,0.0,58.46774193548387,INF,know have pay live be
+Trinetta,Venetia,2.82258064516129,0.0,58.46774193548387,INF,know have pay live be
+Trinetta,Venetia,3.6290322580645165,2.4193548387096775,39.11290322580645,1.5,have live think occur get help
+Trinetta,Venetia,3.6290322580645165,2.4193548387096775,39.11290322580645,1.5,have live think occur get help
+Trinetta,Venetia,3.6290322580645165,2.4193548387096775,39.11290322580645,1.5,have live think occur get help
+Betty Jean,Costco,0.0,0.78125,61.71875,0.0,have buy live
+Betty Jean,Costco,0.0,0.78125,61.71875,0.0,have buy live
+Beyoncé,Jackson,0.5952380952380952,0.0,56.547619047619044,INF,be get be
+Tammy,Betty Jean,6.25,0.8928571428571428,42.857142857142854,7.0,love show do need
+Tammy,Betty Jean,6.25,0.8928571428571428,42.857142857142854,7.0,love show do need
+Lee David,Dora,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,be blast be go close
+Dora,Lee David,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,be blast be go close
+Lee David,Betty Jean,1.6129032258064515,2.82258064516129,63.306451612903224,0.5714285714285714,have be have take be have try stop give
+Betty Jean,Lee David,3.90625,0.78125,39.0625,5.0,go hire find care
+Kim,Trinetta,7.249999999999999,4.0,42.75,1.8125,be share know tell be be be be want see
+Kim,Trinetta,7.249999999999999,4.0,42.75,1.8125,be share know tell be be be be want see
+Kim,Trinetta,7.249999999999999,4.0,42.75,1.8125,be share know tell be be be be want see
+Trinetta,Arlene,6.25,2.7777777777777777,35.41666666666667,2.25,do expect stop do be be do
+Kim,Mr. Lee,4.166666666666666,0.0,49.166666666666664,INF,say shake
+Kim,Mr. Lee,4.166666666666666,0.0,49.166666666666664,INF,say shake
+Miss Betty,Mr. Lee,3.289473684210526,3.618421052631579,53.61842105263158,0.9090909090909091,be understand have let be do look
+Mr. Lee,Kimmie,2.7777777777777777,0.0,58.333333333333336,INF,take make yell
+Miss Betty,Mr. Lee,7.000000000000001,2.0,59.0,3.5,think be think get be keep shut
+Mr. Lee,Dora,3.7037037037037033,4.166666666666666,55.092592592592595,0.8888888888888888,do know be listen try speak pretend be ride
+Dora,Mr. Lee,3.7037037037037033,4.166666666666666,55.092592592592595,0.8888888888888888,do know be listen try speak pretend be ride
+Miss Betty,Mr. Lee,1.1363636363636365,0.0,53.40909090909091,INF,be marry
+Miss Betty,Mr. Lee,0.0,2.0,50.0,0.0,be pass get
+Dexter,Miss Betty,1.3157894736842104,0.0,56.57894736842105,INF,have sit read open be be read
+Dexter,Miss Betty,1.3157894736842104,0.0,56.57894736842105,INF,have sit read open be be read
+Tierra,Kim,1.3020833333333335,2.34375,46.35416666666667,0.5555555555555556,meet say change run turn say talk
+Tierra,Kim,1.3020833333333335,2.34375,46.35416666666667,0.5555555555555556,meet say change run turn say talk
+Tierra,Betty Jean,1.1363636363636365,0.946969696969697,47.91666666666667,1.2,be shut lock look put put say know be trust
+Kim,Tierra,4.464285714285714,0.8928571428571428,41.07142857142857,5.0,decide listen call want know stay
+Mr. Lee,Harry,2.857142857142857,1.4285714285714286,67.14285714285714,2.0,give decide leave dig pull
+Kim,Miss Betty,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Kim,Miss Betty,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Kim,Mickey D,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Kim,Miss Betty,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Miss Betty,Mickey D,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Miss Betty,Mickey D,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Mickey D,Miss Betty,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,say walk set
+Miss Betty,Daddy,3.7162162162162162,2.364864864864865,58.78378378378378,1.5714285714285714,be sit beat look be wait ask
+Miss Betty,Luther,3.7162162162162162,2.364864864864865,58.78378378378378,1.5714285714285714,be sit beat look be wait ask
+Miss Betty,Luther,3.7162162162162162,2.364864864864865,58.78378378378378,1.5714285714285714,be sit beat look be wait ask
+Daddy,Luther,3.7162162162162162,2.364864864864865,58.78378378378378,1.5714285714285714,be sit beat look be wait ask
+Daddy,Luther,3.7162162162162162,2.364864864864865,58.78378378378378,1.5714285714285714,be sit beat look be wait ask
+Miss Betty,Luther,1.5,1.0,57.49999999999999,1.5,be walk sit
+Luther,Grandma,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Grandma,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Grandma,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Grandma,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Luther,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Grandma,Miss Betty,1.7578125,5.46875,41.2109375,0.32142857142857145,know do get be hurt say be wait answer ’cause have say hurt yank drop
+Miss Betty,Luther,0.8928571428571428,0.0,77.67857142857143,INF,look sit look
+Luther,Ricky,0.0,0.4032258064516129,51.20967741935484,0.0,do take go eat get
+Miss Betty,Mickey D,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,pick ’em
+Miss Betty,Mickey D,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,pick ’em
+Miss Betty,Mickey D,2.734375,2.34375,57.421875,1.1666666666666667,be tell beat ’cause know do feel talk
+McDonald 's,Kim,0.0,0.0,27.27272727272727,INF,do eat
+Trinetta,Miss Betty,3.125,0.0,43.30357142857143,INF,be be keep get
+Trinetta,Miss Betty,3.125,0.0,43.30357142857143,INF,be be keep get
+Trinetta,Miss Betty,3.125,0.0,43.30357142857143,INF,be be keep get
+Luther,Grandma,0.0,0.0,50.0,INF,come
+Luther,Ricky,0.0,0.0,50.0,INF,come
+Grandma,Ricky,0.0,0.0,50.0,INF,come
+Grandma,McDonald 's,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+Grandma,Ricky,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+McDonald 's,Grandma,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+McDonald 's,Ricky,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+McDonald 's,Grandma,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+McDonald 's,Grandma,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+Grandma,Ricky,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+Ricky,Grandma,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+Ricky,Grandma,2.9958677685950414,0.6198347107438017,56.71487603305785,4.833333333333333,hope take get hope get spend ’cause do wan go do live do get be do call say get see be do knock walk say go close
+Grandma,McDonald 's,1.4705882352941175,0.7352941176470588,38.970588235294116,2.0,hope take do
+Grandma,Luther,1.4705882352941175,0.7352941176470588,38.970588235294116,2.0,hope take do
+McDonald 's,Luther,1.4705882352941175,0.7352941176470588,38.970588235294116,2.0,hope take do
+Grandma,Ricky,2.2058823529411766,0.0,33.088235294117645,INF,mean say
+McDonald 's,Grandma,0.9615384615384616,0.0,45.19230769230769,INF,get go
+Grandma,Ricky,11.363636363636363,0.0,34.090909090909086,INF,make say
+Ricky,Mama,3.9634146341463414,0.6097560975609756,46.646341463414636,6.5,stop say gon end go do know say
+Ricky,Mama,3.9634146341463414,0.6097560975609756,46.646341463414636,6.5,stop say gon end go do know say
+Grandma,Ricky,2.34375,0.0,41.40625,INF,get know be
+Ricky,Grandma,5.9375,0.3125,48.75,19.0,know go ’cause go spend house be help
+Ricky,Grandma,5.9375,0.3125,48.75,19.0,know go ’cause go spend house be help
+Ricky,Grandma,8.333333333333332,2.7777777777777777,33.33333333333333,3.0,do worry
+Grandma,Kim,4.6875,2.34375,36.71875,2.0,get be tell
+Kim,Grandma,5.0,0.0,68.33333333333333,INF,hear say know mean
+Kim,Grandma,5.0,0.0,68.33333333333333,INF,hear say know mean
+Grandma,Tammy,0.8928571428571428,0.0,63.39285714285714,INF,hear say
+Grandma,Tammy,7.5,1.25,61.25000000000001,6.0,say be
+Grandma,Tammy,7.5,1.25,61.25000000000001,6.0,say be
+Ricky,Tammy,6.25,2.083333333333333,41.66666666666667,3.0,make
+Dexter,Ma,6.61764705882353,0.7352941176470588,45.588235294117645,9.0,thank
+Arlene,Rodney,4.054054054054054,2.027027027027027,53.37837837837838,2.0,have speak hear force stop accept add
+Arlene,Venetia,4.054054054054054,2.027027027027027,53.37837837837838,2.0,have speak hear force stop accept add
+Arlene,Venetia,4.054054054054054,2.027027027027027,53.37837837837838,2.0,have speak hear force stop accept add
+Rodney,Venetia,4.054054054054054,2.027027027027027,53.37837837837838,2.0,have speak hear force stop accept add
+Rodney,Venetia,4.054054054054054,2.027027027027027,53.37837837837838,2.0,have speak hear force stop accept add
+Venetia,Arlene,2.7777777777777777,0.9259259259259258,68.51851851851852,3.0,do have ask know have hope be forgive show write
+Luther,Ricky,0.0,0.3676470588235294,55.51470588235294,0.0,have abandon be stay resurface be go have be get
+Tammy,Trevor,4.23728813559322,2.5423728813559325,47.45762711864407,1.6666666666666667,have have share be wish hope know be do get move live
+Tammy,Trevor,4.23728813559322,2.5423728813559325,47.45762711864407,1.6666666666666667,have have share be wish hope know be do get move live
+Tammy,Trevor,4.23728813559322,2.5423728813559325,47.45762711864407,1.6666666666666667,have have share be wish hope know be do get move live
+Tammy,Max,0.625,0.0,69.375,INF,have get be turn
+Kim,Trinetta,3.289473684210526,2.302631578947368,54.93421052631579,1.4285714285714286,have get be hope be be finish get drop be go see be go
+Trinetta,Dante,2.82258064516129,0.4032258064516129,58.06451612903226,7.0,do see suppose mean be have pull
+Trinetta,Dante,2.82258064516129,0.4032258064516129,58.06451612903226,7.0,do see suppose mean be have pull
+Trinetta,Dante,2.82258064516129,0.4032258064516129,58.06451612903226,7.0,do see suppose mean be have pull
+Ricky,Luther,5.681818181818182,0.0,48.86363636363637,INF,tell send
+Trinetta,Miss Betty,5.113636363636364,6.8181818181818175,47.159090909090914,0.75,be play be get
+Trinetta,Miss Betty,5.113636363636364,6.8181818181818175,47.159090909090914,0.75,be play be get
+Dante,Miss Betty,9.375,0.0,53.125,INF,help get
+Trinetta,Dante,2.272727272727273,5.681818181818182,55.68181818181818,0.4,get come
+Luther,Ricky,7.738095238095238,3.571428571428571,41.07142857142857,2.1666666666666665,be be get
+Dexter,Luther,3.977272727272727,0.5681818181818182,59.09090909090909,7.0,do know be be bear
+Dexter,Ricky,3.977272727272727,0.5681818181818182,59.09090909090909,7.0,do know be be bear
+Dexter,Ricky,3.977272727272727,0.5681818181818182,59.09090909090909,7.0,do know be be bear
+Luther,Ricky,3.977272727272727,0.5681818181818182,59.09090909090909,7.0,do know be be bear
+Luther,Ricky,3.977272727272727,0.5681818181818182,59.09090909090909,7.0,do know be be bear
+Dante,Mama,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Dante,Mr. Butler,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Dante,Mama,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Dante,Mr. Butler,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Dante,Mama,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Dante,Mr. Butler,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Mama,Mr. Butler,3.278688524590164,3.278688524590164,59.01639344262295,1.0,sing sound use listen be get catch be end think
+Arlene,Mama,3.6458333333333335,5.729166666666666,57.291666666666664,0.6363636363636364,make promise tell tell promise tell give
+Mama,Arlene,3.6458333333333335,5.729166666666666,57.291666666666664,0.6363636363636364,make promise tell tell promise tell give
+Mama,Arlene,3.6458333333333335,5.729166666666666,57.291666666666664,0.6363636363636364,make promise tell tell promise tell give
+Ma,Trinetta,8.75,0.0,21.25,INF,be
+Paula Deen,Arlene,5.729166666666666,2.256944444444444,50.34722222222222,2.5384615384615383,want try see make be be remember think tell be try watch be understand make enjoy
+Tammy,Lee David,4.464285714285714,0.0,66.96428571428571,INF,have find look
+Arlene,Paula Deen,2.3214285714285716,2.5,59.464285714285715,0.9285714285714286,be be stand lose put be be be eat like
+Lauren,Zach,0.6944444444444444,3.4722222222222223,51.388888888888886,0.2,have say do think be
+USC,Pepperdine,3.4722222222222223,0.6944444444444444,51.388888888888886,5.0,be be drive become come shove know be get
+USC,UCLA,3.4722222222222223,0.6944444444444444,51.388888888888886,5.0,be be drive become come shove know be get
+Pepperdine,UCLA,3.4722222222222223,0.6944444444444444,51.388888888888886,5.0,be be drive become come shove know be get
+Vennie,Tammy,1.7857142857142856,0.0,44.642857142857146,INF,wish watch be go see
+Vennie,Lee David,1.7857142857142856,0.0,44.642857142857146,INF,wish watch be go see
+Vennie,Tammy,1.7857142857142856,0.0,44.642857142857146,INF,wish watch be go see
+Tammy,Lee David,1.7857142857142856,0.0,44.642857142857146,INF,wish watch be go see
+Lee David,Tammy,1.7857142857142856,0.0,44.642857142857146,INF,wish watch be go see
+Arlene,Omar,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,be go invite
+Arlene,Omar,5.555555555555555,2.7777777777777777,25.0,2.0,do tell
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Omar,Arlene,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,2.663934426229508,2.2540983606557377,59.01639344262295,1.1818181818181819,be go cut eat get lose know happen know stand lose be have tell be snoop do say see look find have hear talk
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Omar,Arlene,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Omar,Arlene,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Arlene,Omar,4.521276595744681,2.393617021276596,46.27659574468085,1.8888888888888888,know let know be think be need imagine be be move get marry
+Trinetta,Kim,3.0,2.0,47.0,1.5,do have be be plan come get
+Kim,Jesus,4.166666666666666,1.3888888888888888,50.0,3.0,need
+Jesus,Kim,4.166666666666666,1.3888888888888888,50.0,3.0,need
+Kim,Jesus,0.0,0.0,50.0,INF,let
+Rodney,Lauren,5.989583333333334,5.989583333333334,50.520833333333336,1.0,be be make be know be remember
+Rodney,Lauren,5.989583333333334,5.989583333333334,50.520833333333336,1.0,be be make be know be remember
+Principal Daniels,Betty Jean,2.5,1.25,36.25,2.0,be
+Ms. Jenkins,Ricky,9.090909090909092,10.227272727272728,44.31818181818182,0.8888888888888888,have be complain
+Ricky,Ms. Jenkins,6.61764705882353,4.411764705882353,36.029411764705884,1.5,be be make conduct
+Ricky,Ms. Jenkins,6.61764705882353,4.411764705882353,36.029411764705884,1.5,be be make conduct
+Ms. Jenkins,Ricky,0.0,0.0,47.368421052631575,INF,call interrupt yell
+Ricky,Ms. Jenkins,0.0,0.0,40.0,INF,tell
+Ms. Jenkins,Ricky,0.0,0.0,40.0,INF,tell
+Luther,Betty Jean,4.6875,2.604166666666667,51.041666666666664,1.8,be forgive call
+Luther,Betty Jean,4.6875,2.604166666666667,51.041666666666664,1.8,be forgive call
+Warren,Betty Jean,1.0416666666666665,0.0,44.79166666666667,INF,be say stand walk open
+Betty Jean,Grandma,1.7857142857142856,1.488095238095238,56.25,1.2,be give pay get tire watch love be destroy take abandon
+Betty Jean,Grandma,1.7857142857142856,1.488095238095238,56.25,1.2,be give pay get tire watch love be destroy take abandon
+Grandma,Betty Jean,1.7857142857142856,1.488095238095238,56.25,1.2,be give pay get tire watch love be destroy take abandon
+Grandma,Betty Jean,1.7857142857142856,1.488095238095238,56.25,1.2,be give pay get tire watch love be destroy take abandon
+Quentin,Mother,0.0,0.0,50.0,INF,
+Mother,Daddy,1.3392857142857142,3.571428571428571,70.08928571428571,0.375,do understand live grow
+Mindy,Margaret,3.571428571428571,1.7857142857142856,47.023809523809526,2.0,have join go stay
+Principal Daniels,Grandma,0.0,0.0,59.375,INF,write give ’cause do have be
+Principal Daniels,Grandma,0.0,0.0,59.375,INF,write give ’cause do have be
+Disneyland,Grandma,0.0,0.0,41.66666666666667,INF,go
+Kim,Grandma,2.7027027027027026,1.6891891891891893,55.067567567567565,1.6,need find go do walk want be take
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Kim,Luther,2.1226415094339623,1.650943396226415,45.28301886792453,1.2857142857142858,walk jump be be be snooze try act stretch run
+Ricky,Kim,7.5,6.666666666666667,45.83333333333333,1.125,be arouse
+Ricky,Kim,7.5,6.666666666666667,45.83333333333333,1.125,be arouse
+Grandma,Disneyland,0.0,1.0869565217391304,46.73913043478261,0.0,say want go take
+Luther,Ricky,0.0,4.807692307692308,41.34615384615385,0.0,walk follow
+Luther,Ricky,0.0,4.807692307692308,41.34615384615385,0.0,walk follow
+Kim,Mister,10.294117647058822,0.0,66.17647058823529,INF,wink tell have
+Grandma,Ricky,5.729166666666666,3.6458333333333335,36.45833333333333,1.5714285714285714,appreciate do need be
+Ricky,Luther,1.6666666666666667,0.0,65.0,INF,come ask be call
+Kim,Disneyland,1.5625,7.8125,65.625,0.2,do like
+Mr. Lee,Miss Betty,4.166666666666666,2.604166666666667,51.5625,1.6,love read happen figure be doze be turn walk limp say be kill
+Mr. Lee,Kim,4.166666666666666,2.604166666666667,51.5625,1.6,love read happen figure be doze be turn walk limp say be kill
+Miss Betty,Kim,4.166666666666666,2.604166666666667,51.5625,1.6,love read happen figure be doze be turn walk limp say be kill
+Luther,Ricky,4.166666666666666,3.4722222222222223,47.91666666666667,1.2,take need
+Miss Betty,Luther,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Miss Betty,Ricky,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Miss Betty,Mr. Lee,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Luther,Ricky,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Luther,Mr. Lee,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Ricky,Mr. Lee,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,get push sleep lift
+Dexter,Miss Betty,2.272727272727273,0.5681818181818182,56.25,4.0,look be go be live say
+Kim,Lee David,1.4705882352941175,0.0,51.470588235294116,INF,help
+Tammy,Jackson,3.7162162162162162,3.7162162162162162,52.02702702702703,1.0,be be take get come suppose confront
+Jackson,Trevor,6.547619047619048,5.357142857142857,40.476190476190474,1.2222222222222223,help speed have wear
+Max,Clay,4.4921875,1.953125,52.9296875,2.3,be hope hate have try do make feel roll say smile rescue become
+Max,Clay,4.4921875,1.953125,52.9296875,2.3,be hope hate have try do make feel roll say smile rescue become
+Clay,Max,4.4921875,1.953125,52.9296875,2.3,be hope hate have try do make feel roll say smile rescue become
+Clay,Max,4.4921875,1.953125,52.9296875,2.3,be hope hate have try do make feel roll say smile rescue become
+Clay,Ma,8.333333333333332,2.430555555555556,64.23611111111111,3.4285714285714284,be wonder be pick see die be go
+Clay,Daddy,8.333333333333332,2.430555555555556,64.23611111111111,3.4285714285714284,be wonder be pick see die be go
+Ma,Daddy,8.333333333333332,2.430555555555556,64.23611111111111,3.4285714285714284,be wonder be pick see die be go
+Clay,Ma,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Clay,Daddy,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Clay,Tammy,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Ma,Daddy,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Ma,Tammy,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Daddy,Tammy,2.0569620253164556,1.740506329113924,54.43037974683544,1.1818181818181819,mean try sue make give leave call fuck ask pick have pick say miss do
+Clay,Tammy,0.8620689655172413,0.0,47.41379310344828,INF,show do have be
+Jackson,BJ,5.208333333333334,1.0416666666666665,39.58333333333333,5.0,pretend know save do know tell
+Jackson,BJ,5.208333333333334,1.0416666666666665,39.58333333333333,5.0,pretend know save do know tell
+Tanna,Trevor,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,have ask stay be bear hold
+Tanna,Clementine,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,have ask stay be bear hold
+Tanna,Trevor,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,have ask stay be bear hold
+Tanna,Clementine,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,have ask stay be bear hold
+Trevor,Clementine,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,have ask stay be bear hold
+Dexter,Tammy,0.5,3.0,52.5,0.16666666666666666,come lie be look see
+Tammy,Dexter,0.5,3.0,52.5,0.16666666666666666,come lie be look see
+Dexter,BJ,2.0161290322580645,2.4193548387096775,50.403225806451616,0.8333333333333334,be be be have get be take
+Jackson,Tammy,3.571428571428571,1.7857142857142856,37.5,2.0,be go do
+Arlene,Omar,1.5,0.0,38.5,INF,sit tell do
+Dexter,Arlene,1.25,0.0,38.75,INF,tell get parole
+Dexter,Betty Jean,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be be help bring raise
+Dexter,Trinetta,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be be help bring raise
+Dexter,Betty Jean,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be be help bring raise
+Betty Jean,Trinetta,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be be help bring raise
+Trinetta,Betty Jean,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be be help bring raise
+Dexter,Arlene,1.7857142857142856,5.357142857142857,35.714285714285715,0.3333333333333333,tell be
+Venetia,Omar,5.88235294117647,0.0,64.70588235294117,INF,tell do know be go do
+Lauren,Venetia,2.7777777777777777,4.166666666666666,54.166666666666664,0.6666666666666666,call tell be have
+Dexter,Venetia,2.556818181818182,1.1363636363636365,50.85227272727273,2.25,know be come be be go think be wait feel want tell
+Dexter,Venetia,2.556818181818182,1.1363636363636365,50.85227272727273,2.25,know be come be be go think be wait feel want tell
+Venetia,Arlene,4.861111111111112,3.8194444444444446,32.98611111111111,1.2727272727272727,be be be bring let fend suffer know
+Venetia,Arlene,6.09375,0.15625,52.5,39.0,dial have leave want know wish have let be share do understand be go have be have call get rely
+Ma,Omar,14.772727272727273,2.272727272727273,37.5,6.5,take say
+Arlene,Rodney,12.5,2.7777777777777777,29.166666666666668,4.5,tell
+Arlene,Lauren,3.125,0.0,21.875,INF,say call
+Arlene,Lauren,3.125,0.0,21.875,INF,say call
+Arlene,Rodney,7.894736842105263,5.921052631578947,44.07894736842105,1.3333333333333333,tell take
+Lauren,Rodney,0.0,0.0,33.33333333333333,INF,refuse speak call
+Lauren,Rodney,0.0,0.0,33.33333333333333,INF,refuse speak call
+Rodney,Lauren,0.0,0.0,40.0,INF,be
+Zachary,Rodney,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,want know say
+Arlene,Rodney,2.0161290322580645,3.6290322580645165,50.806451612903224,0.5555555555555556,do care get tell do be do want hear criticize be handle do be react
+Arlene,Rodney,2.0161290322580645,3.6290322580645165,50.806451612903224,0.5555555555555556,do care get tell do be do want hear criticize be handle do be react
+Rodney,Arlene,2.0161290322580645,3.6290322580645165,50.806451612903224,0.5555555555555556,do care get tell do be do want hear criticize be handle do be react
+Rodney,Arlene,2.0161290322580645,3.6290322580645165,50.806451612903224,0.5555555555555556,do care get tell do be do want hear criticize be handle do be react
+Dexter,Tammy,0.5681818181818182,0.5681818181818182,62.5,1.0,say walk
+Dexter,Tammy,6.730769230769231,5.769230769230769,25.961538461538463,1.1666666666666667,welcome say
+Lee David,BJ,5.769230769230769,2.403846153846154,49.519230769230774,2.4,be have be see
+Ma,Tammy,6.25,0.0,50.0,INF,hold head
+Ma,Tammy,6.25,0.0,50.0,INF,hold head
+Dexter,Ma,9.375,0.0,32.29166666666667,INF,say say
+Ma,Ricky,6.4393939393939394,3.4090909090909087,50.75757575757576,1.8888888888888888,say guess see be perspire look want run hide
+Ma,Trinetta,9.0,3.5000000000000004,51.5,2.5714285714285716,have ask be be be
+Luther,Kim,0.0,0.0,58.333333333333336,INF,do travel do
+Kim,Grandma,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Grandma,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Grandma,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Grandma,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Grandma,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Grandma,Kim,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Grandma,Kim,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Grandma,Kim,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Grandma,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Luther,3.0585106382978724,1.5957446808510638,57.047872340425535,1.9166666666666667,be get hear cough sneeze feel say be take give ask mind watch say do mind be think woulda know have do be cough be sneeze pretend coulda be watch read go coulda be look cross be have do be jump put make be burn say be make like
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Ricky,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Ricky,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Grandma,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Ricky,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Kim,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Grandma,Ricky,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Grandma,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Grandma,Ricky,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Grandma,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Ricky,Oprah,6.4655172413793105,1.5086206896551724,52.370689655172406,4.285714285714286,light shock know do know pay make watch put listen remember think be
+Ricky,Kim,2.25,0.75,59.0,3.0,be take remember have forget tell tell tell be put say be go grow
+Ricky,Kim,2.25,0.75,59.0,3.0,be take remember have forget tell tell tell be put say be go grow
+Kim,Ricky,2.25,0.75,59.0,3.0,be take remember have forget tell tell tell be put say be go grow
+Kim,Ricky,2.25,0.75,59.0,3.0,be take remember have forget tell tell tell be put say be go grow
+Grandma,Ricky,3.0660377358490565,0.7075471698113208,54.71698113207547,4.333333333333333,be press make hang pull show do use call do feel hear
+Grandma,Dexter,3.0660377358490565,0.7075471698113208,54.71698113207547,4.333333333333333,be press make hang pull show do use call do feel hear
+Ricky,Dexter,3.0660377358490565,0.7075471698113208,54.71698113207547,4.333333333333333,be press make hang pull show do use call do feel hear
+Ricky,Grandma,3.0660377358490565,0.7075471698113208,54.71698113207547,4.333333333333333,be press make hang pull show do use call do feel hear
+Dexter,Grandma,3.0660377358490565,0.7075471698113208,54.71698113207547,4.333333333333333,be press make hang pull show do use call do feel hear
+Ma,Luther,7.203389830508475,3.1779661016949152,54.02542372881356,2.2666666666666666,be try get know be know have have get reach be miss see hear see happen
+Ma,Ricky,7.203389830508475,3.1779661016949152,54.02542372881356,2.2666666666666666,be try get know be know have have get reach be miss see hear see happen
+Luther,Ma,7.203389830508475,3.1779661016949152,54.02542372881356,2.2666666666666666,be try get know be know have have get reach be miss see hear see happen
+Luther,Ricky,7.203389830508475,3.1779661016949152,54.02542372881356,2.2666666666666666,be try get know be know have have get reach be miss see hear see happen
+Ma,Ricky,7.203389830508475,3.1779661016949152,54.02542372881356,2.2666666666666666,be try get know be know have have get reach be miss see hear see happen
+Luther,Ricky,3.125,3.125,53.75,1.0,hope do hate hope do give
+Dante,Ricky,3.571428571428571,2.0089285714285716,60.49107142857143,1.7777777777777777,promise do hurt do be carry dip dab see have hit be bear
+Dante,Ricky,3.571428571428571,2.0089285714285716,60.49107142857143,1.7777777777777777,promise do hurt do be carry dip dab see have hit be bear
+Dante,Luther,3.571428571428571,2.0089285714285716,60.49107142857143,1.7777777777777777,promise do hurt do be carry dip dab see have hit be bear
+Ricky,Luther,3.571428571428571,2.0089285714285716,60.49107142857143,1.7777777777777777,promise do hurt do be carry dip dab see have hit be bear
+Ricky,Luther,3.571428571428571,2.0089285714285716,60.49107142857143,1.7777777777777777,promise do hurt do be carry dip dab see have hit be bear
+Ma,Luther,3.3333333333333335,1.25,48.75,2.6666666666666665,have change talk get piss talk say
+Dexter,Luther,0.0,0.0,65.0,INF,tell be talk
+Ricky,Dante,5.263157894736842,0.0,47.368421052631575,INF,want know miss be try figure come take
+Kim,Harry,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,think musta read
+Kim,Harry,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,think musta read
+Harry,Grandma,2.1341463414634148,1.524390243902439,52.4390243902439,1.4,get kill get go live go be get say
+Harry,Ricky,2.1341463414634148,1.524390243902439,52.4390243902439,1.4,get kill get go live go be get say
+Grandma,Ricky,2.1341463414634148,1.524390243902439,52.4390243902439,1.4,get kill get go live go be get say
+Kim,Luther,5.263157894736842,1.3157894736842104,51.31578947368421,4.0,miss miss say
+Kim,Luther,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,have be go
+Hattie,Grandma,1.0416666666666665,4.6875,56.770833333333336,0.2222222222222222,be want go
+Hattie,Luther,1.0416666666666665,4.6875,56.770833333333336,0.2222222222222222,be want go
+Grandma,Luther,1.0416666666666665,4.6875,56.770833333333336,0.2222222222222222,be want go
+Venetia,Ricky,4.166666666666666,0.0,35.833333333333336,INF,say be say
+Tammy,Ricky,0.0,0.0,28.57142857142857,INF,be
+Ricky,Tammy,6.25,1.25,67.5,5.0,open be
+Luther,Harry,4.166666666666666,1.0416666666666665,61.458333333333336,4.0,ask look
+Luther,Harry,4.166666666666666,1.0416666666666665,61.458333333333336,4.0,ask look
+Trevor,Tammy,5.303030303030303,2.6515151515151514,58.71212121212122,2.0,be be go be move look forget
+Tammy,BJ,0.9615384615384616,0.0,29.807692307692307,INF,look be expose
+Sears,Clementine,1.9021739130434785,2.1739130434782608,54.61956521739131,0.875,decide use buy hope be buy
+Ricky,Luther,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,do be be
+Venetia,Luther,1.7857142857142856,0.0,55.35714285714286,INF,do like say
+Lauren,Zachary,2.272727272727273,0.0,25.0,INF,do sit
+Lauren,Venetia,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Lauren,Venetia,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Lauren,Venetia,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Lauren,Zach,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Venetia,Zach,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Venetia,Zach,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Venetia,Zach,0.3787878787878788,2.6515151515151514,48.484848484848484,0.14285714285714285,say drag get drag let
+Venetia,Ricky,0.0,0.0,26.666666666666668,INF,say thank
+Venetia,Ricky,0.0,0.0,26.666666666666668,INF,say thank
+Jackson,Tammy,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Jackson,Tammy,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Jackson,Tammy,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Tammy,Jackson,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Tammy,Jackson,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Tammy,Jackson,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,be put look have find get sell be pay go
+Dexter,Salvation Army,3.3333333333333335,3.3333333333333335,60.0,1.0,work see
+Salvation Army,Dexter,3.3333333333333335,3.3333333333333335,60.0,1.0,work see
+Arlene,Trinetta,8.59375,2.34375,51.5625,3.6666666666666665,do know open tell
+Arlene,Trinetta,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Lee David,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Trinetta,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Lee David,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Lee David,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Trinetta,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Lee David,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Arlene,Trinetta,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Lee David,Trinetta,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Lee David,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Lee David,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Trinetta,Arlene,4.0625,4.375,54.0625,0.9285714285714286,be go confront say tell be be do have tell
+Lee David,Trinetta,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Arlene,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Trinetta,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Arlene,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Trinetta,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Arlene,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Trinetta,Lee David,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Trinetta,Arlene,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Trinetta,Lee David,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Lee David,Arlene,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Arlene,Lee David,0.4464285714285714,0.0,63.83928571428571,INF,tell get say know be be
+Arlene,Trinetta,1.5625,0.0,45.9375,INF,be get be try figure do have possess tell
+Arlene,Trinetta,1.5625,0.0,45.9375,INF,be get be try figure do have possess tell
+Arlene,Trinetta,1.5625,0.0,45.9375,INF,be get be try figure do have possess tell
+Dante,Trinetta,2.631578947368421,0.6578947368421052,65.13157894736842,4.0,be park go
+Ricky,Luther,0.0,5.555555555555555,50.0,0.0,see
+Mrs. Butler,Dante,6.25,1.5625,17.1875,4.0,be
+Quentin,Trinetta,2.604166666666667,2.604166666666667,40.625,1.0,do make claim be travel
+Quentin,Margaret,2.604166666666667,2.604166666666667,40.625,1.0,do make claim be travel
+Trinetta,Margaret,2.604166666666667,2.604166666666667,40.625,1.0,do make claim be travel
+Quentin,Margaret,3.125,2.083333333333333,61.458333333333336,1.5,feel bring be
+Dexter,Skittles,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Skittles,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Skittles,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Dexter,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Skittles,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Skittles,Karen,2.631578947368421,1.9736842105263157,58.55263157894737,1.3333333333333333,bring suppose be try look come
+Omar,Arlene,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Omar,Lauren,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Omar,Zachary,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Arlene,Omar,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Arlene,Lauren,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Arlene,Zachary,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Omar,Lauren,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Omar,Zachary,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Lauren,Zachary,1.293103448275862,0.8620689655172413,32.327586206896555,1.5,do sit
+Venetia,Trinetta,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,send leave say have be pray happen be move grow
+Trinetta,Venetia,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,send leave say have be pray happen be move grow
+Trinetta,Venetia,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,send leave say have be pray happen be move grow
+Trinetta,Venetia,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,send leave say have be pray happen be move grow
+Kim,Trinetta,6.875000000000001,2.5,55.625,2.75,do know hear send
+Trinetta,Kim,6.875000000000001,2.5,55.625,2.75,do know hear send
+Rodney,Venetia,4.0,1.5,62.5,2.6666666666666665,be pretend be pretend be work
+Venetia,Rodney,4.0,1.5,62.5,2.6666666666666665,be pretend be pretend be work
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Rodney,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Rodney,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Arlene,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Venetia,Zach,5.371900826446281,1.6528925619834711,52.47933884297521,3.25,have bite break tell do like have be take be wish realize be go sell tell get say be find be be be
+Arlene,Venetia,1.293103448275862,0.8620689655172413,59.91379310344828,1.5,call mention change be ask call
+Arlene,Venetia,1.293103448275862,0.8620689655172413,59.91379310344828,1.5,call mention change be ask call
+Betty Jean,Social Services,7.716049382716049,4.4753086419753085,40.89506172839506,1.7241379310344827,be wonder have be file be entitle be have please do be say be give lend need help get
+Dexter,Luther,8.653846153846153,0.9615384615384616,51.92307692307693,9.0,accord need
+Luther,Jack,8.333333333333332,2.380952380952381,55.952380952380956,3.5,be do have be grow
+Trinetta,Margaret,3.4482758620689653,0.0,51.724137931034484,INF,love use stop love lose
+Trinetta,Margaret,3.4482758620689653,0.0,51.724137931034484,INF,love use stop love lose
+Trinetta,Margaret,3.4482758620689653,0.0,51.724137931034484,INF,love use stop love lose
+Mindy,Margaret,1.7045454545454544,4.545454545454546,51.32575757575758,0.375,be bear imagine leave care live be be cause
+Mindy,Margaret,1.7045454545454544,4.545454545454546,51.32575757575758,0.375,be bear imagine leave care live be be cause
+Dexter,Mother,2.96875,2.03125,55.00000000000001,1.4615384615384615,do send help mitigate know be cover be live call doubt be help
+Dexter,Mother,2.96875,2.03125,55.00000000000001,1.4615384615384615,do send help mitigate know be cover be live call doubt be help
+Dexter,Mother,2.96875,2.03125,55.00000000000001,1.4615384615384615,do send help mitigate know be cover be live call doubt be help
+Mindy,Margaret,1.3157894736842104,5.263157894736842,51.31578947368421,0.25,be have agree let wash
+Mother,Dexter,1.3020833333333335,0.0,61.197916666666664,INF,like be go be believe put be see be travel meander
+Mother,Trinetta,1.3020833333333335,0.0,61.197916666666664,INF,like be go be believe put be see be travel meander
+Dexter,Trinetta,1.3020833333333335,0.0,61.197916666666664,INF,like be go be believe put be see be travel meander
+Luther,Quentin,2.142857142857143,0.7142857142857143,42.857142857142854,3.0,be call be hope speak happen be be
+Mindy,Margaret,1.4705882352941175,1.4705882352941175,52.94117647058824,1.0,be breastfeed be be be choose come
+Mother,Trinetta,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Mother,Mindy,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Mother,Margaret,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Trinetta,Mindy,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Trinetta,Margaret,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Mindy,Margaret,5.63063063063063,2.7027027027027026,52.02702702702703,2.0833333333333335,know be do understand wish have understand arrive be suffer be pass be be attend be hope find forgive be wonder drop say spend
+Mindy,Margaret,5.681818181818182,4.545454545454546,53.40909090909091,1.25,say get
+Luther,Ricky,2.5,1.25,26.25,2.0,be be
+Margaret,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Margaret,Mother,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Margaret,Mother,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Margaret,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Margaret,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Mother,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Mother,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Margaret,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Margaret,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Mindy,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mother,Margaret,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Margaret,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Margaret,0.641025641025641,0.641025641025641,44.871794871794876,1.0,be meet wrap give bend
+Mindy,Margaret,0.5208333333333333,1.0416666666666665,65.10416666666666,0.5,sit grow sit place
+Mindy,Margaret,0.5208333333333333,1.0416666666666665,65.10416666666666,0.5,sit grow sit place
+Ricky,Mindy,1.25,0.0,58.75,INF,ask plop
+Ricky,Mindy,1.25,0.0,58.75,INF,ask plop
+Mindy,Margaret,3.125,4.375,47.5,0.7142857142857143,give press place
+Mindy,Ricky,3.125,4.375,47.5,0.7142857142857143,give press place
+Margaret,Ricky,3.125,4.375,47.5,0.7142857142857143,give press place
+Ricky,Margaret,1.7857142857142856,2.976190476190476,57.14285714285714,0.6,look breathe do blow
+Ricky,Margaret,1.7857142857142856,2.976190476190476,57.14285714285714,0.6,look breathe do blow
+Mrs. Butler,Mindy,0.6944444444444444,0.0,43.75,INF,be meet say
+Mrs. Butler,BJ,6.25,0.0,36.05769230769231,INF,drop call
+Mrs. Butler,Betty Jean,6.25,0.0,36.05769230769231,INF,drop call
+BJ,Betty Jean,6.25,0.0,36.05769230769231,INF,drop call
+Margaret,Quentin,1.7857142857142856,0.5952380952380952,40.476190476190474,3.0,be sit be stand
+Dexter,Mother,2.5735294117647056,1.4705882352941175,57.720588235294116,1.75,remember use jump be tell break get
+Margaret,Mother,2.9166666666666665,1.6666666666666667,55.41666666666667,1.75,hear begin cry dash be sit be hold give
+Margaret,Mother,2.9166666666666665,1.6666666666666667,55.41666666666667,1.75,hear begin cry dash be sit be hold give
+Mother,Margaret,0.0,1.9230769230769231,36.53846153846153,0.0,do keep call
+Mother,Margaret,2.5,0.8333333333333334,30.0,3.0,call grow
+Mother,Margaret,2.5,0.8333333333333334,30.0,3.0,call grow
+Mother,Mindy,1.5625,1.5625,59.375,1.0,pull play
+Mother,Margaret,1.5625,1.5625,59.375,1.0,pull play
+Mindy,Margaret,1.5625,1.5625,59.375,1.0,pull play
+Mindy,Ricky,0.4464285714285714,0.0,56.69642857142857,INF,believe do ask wash see
+Tammy,Jackson,0.9615384615384616,0.0,60.57692307692307,INF,live say
+Denny,Jackson,3.8461538461538463,0.0,42.30769230769231,INF,be have haunt
+Mama,Betty Jean,10.887096774193548,0.4032258064516129,46.774193548387096,27.0,have be play be be get
+Mama,Betty Jean,10.887096774193548,0.4032258064516129,46.774193548387096,27.0,have be play be be get
+Clay,Ma,8.75,7.5,40.416666666666664,1.1666666666666667,know be be do apologize
+Ricky,BJ,0.0,0.0,47.82608695652174,INF,win tell sit
+Tammy,Mr. Movie Star,1.5625,0.390625,60.546875,4.0,say surprise see relax look be wait
+Pacific Coast Highway,Honda,1.7857142857142856,2.142857142857143,67.5,0.8333333333333334,be drive use sell want rent
+Ricky,Dexter,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Ricky,Aunt Betty,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Ricky,Disneyland,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Dexter,Aunt Betty,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Dexter,Disneyland,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Aunt Betty,Disneyland,1.9927536231884055,1.2681159420289856,48.91304347826087,1.5714285714285714,need do seem be bring tell be take want go give
+Luther,Omar,3.125,1.5625,20.3125,2.0,be
+Tammy,Grandma,4.891304347826087,3.260869565217391,52.71739130434783,1.5,say be feel have stop be
+Tammy,Grandma,4.891304347826087,3.260869565217391,52.71739130434783,1.5,say be feel have stop be
+Aunt Betty,Venetia,0.8928571428571428,0.0,49.107142857142854,INF,like slip swear
+Aunt Betty,Betty Jean,3.3653846153846154,2.8846153846153846,55.28846153846154,1.1666666666666667,pull be park sit
+Principal Daniels,Betty Jean,2.380952380952381,1.7857142857142856,67.26190476190477,1.3333333333333333,admit look see
+Betty Jean,Quentin,5.434782608695652,5.434782608695652,54.347826086956516,1.0,have be
+Betty Jean,Dexter,5.434782608695652,5.434782608695652,54.347826086956516,1.0,have be
+Quentin,Dexter,5.434782608695652,5.434782608695652,54.347826086956516,1.0,have be
+Ricky,Luther,3.0,1.5,47.5,2.0,have be mean bring get beat
+Ricky,Luther,1.5625,1.171875,53.515625,1.3333333333333333,have be pick get take wait
+Ricky,Luther,1.5625,1.171875,53.515625,1.3333333333333333,have be pick get take wait
+Arlene,Betty Jean,0.0,1.4705882352941175,45.588235294117645,0.0,want be
+Ricky,Luther,6.25,0.5681818181818182,56.81818181818182,11.0,think have be expose ask have live let use be
+Luther,Ricky,6.25,0.5681818181818182,56.81818181818182,11.0,think have be expose ask have live let use be
+Luther,Ricky,6.25,0.5681818181818182,56.81818181818182,11.0,think have be expose ask have live let use be
+Arlene,Omar,0.0,0.0,28.57142857142857,INF,do
+Betty Jean,Mr. Butler,2.8846153846153846,4.807692307692308,57.692307692307686,0.6,be be have manage say
+Betty Jean,Hattie,2.8846153846153846,4.807692307692308,57.692307692307686,0.6,be be have manage say
+Betty Jean,Mr. Butler,2.8846153846153846,4.807692307692308,57.692307692307686,0.6,be be have manage say
+Betty Jean,Hattie,2.8846153846153846,4.807692307692308,57.692307692307686,0.6,be be have manage say
+Mr. Butler,Hattie,2.8846153846153846,4.807692307692308,57.692307692307686,0.6,be be have manage say
+Kim,Kimmie,3.1578947368421053,1.8421052631578945,49.73684210526316,1.7142857142857142,have mention wish be refer have tell be sit give push make go grab try pull
+Kimmie,Kim,3.1578947368421053,1.8421052631578945,49.73684210526316,1.7142857142857142,have mention wish be refer have tell be sit give push make go grab try pull
+Luther,Hattie,3.4482758620689653,0.43103448275862066,54.741379310344826,8.0,say be do smell stand use
+Luther,Hattie,3.4482758620689653,0.43103448275862066,54.741379310344826,8.0,say be do smell stand use
+Luther,Hattie,3.4482758620689653,0.43103448275862066,54.741379310344826,8.0,say be do smell stand use
+Hattie,Mister,3.888888888888889,2.5,62.5,1.5555555555555556,have figure tell carry do have be care try stay
+Mrs. Butler,Mr. Jones,3.4090909090909087,4.545454545454546,46.590909090909086,0.75,be be be
+Mickey D,Mr. Butler,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,be invest
+Venetia,Betty Jean,6.25,0.0,60.416666666666664,INF,get serve tell
+Rodney,Arlene,1.5625,0.0,23.4375,INF,say
+Arlene,Rodney,2.976190476190476,1.488095238095238,43.154761904761905,2.0,have be want say be get have be
+Arlene,Rodney,2.976190476190476,1.488095238095238,43.154761904761905,2.0,have be want say be get have be
+Luther,Ricky,5.952380952380952,2.976190476190476,52.976190476190474,2.0,plead get be have get decide be seem love wash
+Tammy,Clementine,0.5952380952380952,1.1904761904761905,50.595238095238095,0.5,pretend be try figure get
+Tammy,Clementine,0.5952380952380952,1.1904761904761905,50.595238095238095,0.5,pretend be try figure get
+Tammy,Clementine,0.5952380952380952,1.1904761904761905,50.595238095238095,0.5,pretend be try figure get
+Tammy,Clementine,0.5952380952380952,1.1904761904761905,50.595238095238095,0.5,pretend be try figure get
+Clementine,Peace Corps,3.7162162162162162,0.6756756756756757,49.66216216216216,5.5,be know seem be do be set go
+Clementine,Peace Corps,3.7162162162162162,0.6756756756756757,49.66216216216216,5.5,be know seem be do be set go
+Clementine,Peace Corps,3.7162162162162162,0.6756756756756757,49.66216216216216,5.5,be know seem be do be set go
+Clementine,Peace Corps,3.7162162162162162,0.6756756756756757,49.66216216216216,5.5,be know seem be do be set go
+Grandma,Ricky,4.545454545454546,0.0,40.909090909090914,INF,be wonder say
+Luther,Ricky,4.166666666666666,2.083333333333333,43.75,2.0,need have say
+Luther,Ricky,0.819672131147541,2.0491803278688523,49.59016393442623,0.4,trim do want do leave do say
+Luther,Ricky,0.819672131147541,2.0491803278688523,49.59016393442623,0.4,trim do want do leave do say
+Tammy,Google,2.232142857142857,0.0,47.767857142857146,INF,do know do ask live
+Luther,Google,8.333333333333332,3.125,46.875,2.6666666666666665,be have teach
+Luther,Ricky,2.5,4.375,48.125,0.5714285714285714,be believe be head go
+Luther,Grandma,0.4716981132075472,1.650943396226415,50.70754716981132,0.2857142857142857,get take say do smell fry think have watch do mind
+Luther,Grandma,0.4716981132075472,1.650943396226415,50.70754716981132,0.2857142857142857,get take say do smell fry think have watch do mind
+Betty Jean,Lorinda,0.5208333333333333,0.0,49.47916666666667,INF,tell use have get
+Mrs. Butler,Ricky,5.319148936170213,1.5957446808510638,50.53191489361703,3.3333333333333335,be be call advise catch be be
+Mrs. Butler,Ricky,5.319148936170213,1.5957446808510638,50.53191489361703,3.3333333333333335,be be call advise catch be be
+Luther,Grandma,1.0416666666666665,2.604166666666667,63.020833333333336,0.4,be try watch hear be light get suspend
+Luther,Ricky,1.0416666666666665,2.604166666666667,63.020833333333336,0.4,be try watch hear be light get suspend
+Grandma,Ricky,1.0416666666666665,2.604166666666667,63.020833333333336,0.4,be try watch hear be light get suspend
+NFL,Dorsey,1.0,0.5,50.5,2.0,go hope be go be add
+Luther,Ricky,4.166666666666666,1.7361111111111112,49.65277777777778,2.4,do know be talk say reach whip put
+Luther,Ricky,4.166666666666666,1.7361111111111112,49.65277777777778,2.4,do know be talk say reach whip put
+Luther,Ricky,4.166666666666666,1.7361111111111112,49.65277777777778,2.4,do know be talk say reach whip put
+Luther,Ricky,4.166666666666666,1.7361111111111112,49.65277777777778,2.4,do know be talk say reach whip put
+Grandma,Ricky,3.1914893617021276,1.8617021276595744,52.3936170212766,1.7142857142857142,look wish have have tell keep know be go go weather say
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+Jackson,Max,1.5625,2.34375,69.01041666666666,0.6666666666666666,have be try fix sleep be be come be bring say be go marry
+BJ,Lee David,2.556818181818182,0.5681818181818182,53.69318181818182,4.5,be care work see be go
+BJ,Martha,5.945121951219512,2.4390243902439024,53.8109756097561,2.4375,know have watch take prepare cost find do make have do know eat do compete seem take make
+Luther,Dorsey,1.0416666666666665,2.083333333333333,51.041666666666664,0.5,go run be
+Max,Grandma,2.083333333333333,2.7777777777777777,45.13888888888889,0.75,think be go say be smoke
+Quentin,Mother,0.0,0.0,44.44444444444444,INF,have leave
+Martha,Quentin,0.0,0.0,33.33333333333333,INF,do happen make
+Ricky,Auntie Arlene,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Ricky,Tammy,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Ricky,Tammy,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Ricky,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Ricky,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Auntie Arlene,Tammy,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Auntie Arlene,Tammy,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Auntie Arlene,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Auntie Arlene,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Tammy,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Tammy,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Tammy,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Tammy,Max,0.0,0.4464285714285714,49.55357142857143,0.0,bring
+Dexter,Tammy,0.0,0.0,40.0,INF,come
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Mindy,Grandma,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Mindy,Grandma,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Mindy,Grandma,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+Grandma,Mindy,4.655421686746988,5.434939759036145,42.92168674698795,0.8565728219906894,say be be be leave want call let know call say do think take be know be go pretend be show have marry
+NFL,Grandma,3.8580246913580245,2.6234567901234565,46.60493827160494,1.4705882352941178,be say call have be tell graduate get draft go have rely take be be do
+NFL,Grandma,3.8580246913580245,2.6234567901234565,46.60493827160494,1.4705882352941178,be say call have be tell graduate get draft go have rely take be be do
+NFL,Grandma,3.8580246913580245,2.6234567901234565,46.60493827160494,1.4705882352941178,be say call have be tell graduate get draft go have rely take be be do
+Luther,Ricky,3.125,0.625,41.25,5.0,tell go need do
+Luther,Ricky,4.6875,1.5625,56.25,3.0,think wish have
+Quentin,Dexter,3.125,0.0,40.625,INF,do register
+Quentin,Aunt Betty,0.0,0.0,50.0,INF,have see treat
+Kim,Luther,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,tell say
+Kim,Luther,3.571428571428571,2.6785714285714284,50.89285714285714,1.3333333333333333,tell say
+Kim,Grandma,1.36986301369863,1.5410958904109588,53.25342465753424,0.8888888888888888,be take see leave be sit be say put hope say do be say be make
+Grandma,Kim,1.36986301369863,1.5410958904109588,53.25342465753424,0.8888888888888888,be take see leave be sit be say put hope say do be say be make
+Grandma,Kim,1.36986301369863,1.5410958904109588,53.25342465753424,0.8888888888888888,be take see leave be sit be say put hope say do be say be make
+Grandma,Kim,1.36986301369863,1.5410958904109588,53.25342465753424,0.8888888888888888,be take see leave be sit be say put hope say do be say be make
+Miss Betty,Omar,4.861111111111112,0.6944444444444444,47.22222222222222,7.0,be leave be try watch wan tell be
+Grandma,Kim,3.125,0.0,34.375,INF,say say
+Kim,Grandma,0.625,0.0,39.375,INF,be tell be know tell
+Grandma,Kim,0.625,0.0,39.375,INF,be tell be know tell
+Grandma,Kim,0.625,0.0,39.375,INF,be tell be know tell
+Kim,Luther,8.333333333333332,0.0,36.11111111111111,INF,tell say
+Omar,Mother,2.083333333333333,2.083333333333333,50.0,1.0,be send
+Betty Jean,Arlene,3.9285714285714284,1.9642857142857142,45.535714285714285,2.0,be say say be tell mean say have know do tell have get explain do
+Betty Jean,Arlene,3.9285714285714284,1.9642857142857142,45.535714285714285,2.0,be say say be tell mean say have know do tell have get explain do
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Arlene,Omar,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Omar,Arlene,4.296875,0.0,55.078125,INF,tell be be freak come give realize know
+Howard,Arlene,3.225806451612903,0.8064516129032258,47.58064516129033,4.0,look take be retire think be turn
+Howard,Arlene,3.225806451612903,0.8064516129032258,47.58064516129033,4.0,look take be retire think be turn
+Venetia,Arlene,3.7162162162162162,4.054054054054054,43.58108108108108,0.9166666666666666,have put tell tell discuss debate have
+Venetia,Arlene,3.7162162162162162,4.054054054054054,43.58108108108108,0.9166666666666666,have put tell tell discuss debate have
+Arlene,Venetia,3.7162162162162162,4.054054054054054,43.58108108108108,0.9166666666666666,have put tell tell discuss debate have
+Tammy,Eli,1.6826923076923077,1.201923076923077,52.88461538461539,1.4,be mean be do notice have go do know want start
+Eli,Tammy,1.6826923076923077,1.201923076923077,52.88461538461539,1.4,be mean be do notice have go do know want start
+Ricky,Luther,9.558823529411764,2.2058823529411766,52.94117647058824,4.333333333333333,know be do give worry
+Dexter,Ricky,1.7857142857142856,1.530612244897959,68.11224489795919,1.1666666666666667,speak tell have be process have have be pick take
+Dexter,Ricky,1.7857142857142856,1.530612244897959,68.11224489795919,1.1666666666666667,speak tell have be process have have be pick take
+Dexter,Ricky,1.7857142857142856,1.530612244897959,68.11224489795919,1.1666666666666667,speak tell have be process have have be pick take
+Principal Daniels,Luther,5.46875,1.5625,55.46875,3.5,be get go do like
+Principal Daniels,Arlene,5.46875,1.5625,55.46875,3.5,be get go do like
+Principal Daniels,Arlene,5.46875,1.5625,55.46875,3.5,be get go do like
+Luther,Arlene,5.46875,1.5625,55.46875,3.5,be get go do like
+Luther,Arlene,5.46875,1.5625,55.46875,3.5,be get go do like
+Venetia,Arlene,7.8125,0.0,42.1875,INF,do
+Venetia,Ricky,4.741379310344827,0.8620689655172413,46.12068965517241,5.5,be force take use be be go
+Venetia,Ricky,4.741379310344827,0.8620689655172413,46.12068965517241,5.5,be force take use be be go
+Dr. Phil,CNN,7.894736842105263,0.0,44.73684210526316,INF,read watch know
+Grandma,Ricky,0.8928571428571428,0.8928571428571428,60.11904761904761,1.0,say hear have wrap give
+Clementine,BJ,2.663230240549828,1.1168384879725086,52.92096219931272,2.3846153846153846,love be bye-bye stop tiptoe talk praise do have watch listen be get bowl look stop pretend enjoy get buy earn split want visit make take afford be babysit be see be be have have chase forget be play hide start run be do
+Clementine,BJ,2.663230240549828,1.1168384879725086,52.92096219931272,2.3846153846153846,love be bye-bye stop tiptoe talk praise do have watch listen be get bowl look stop pretend enjoy get buy earn split want visit make take afford be babysit be see be be have have chase forget be play hide start run be do
+Clementine,BJ,2.663230240549828,1.1168384879725086,52.92096219931272,2.3846153846153846,love be bye-bye stop tiptoe talk praise do have watch listen be get bowl look stop pretend enjoy get buy earn split want visit make take afford be babysit be see be be have have chase forget be play hide start run be do
+Obama,Jackson,1.1363636363636365,3.4090909090909087,54.54545454545454,0.3333333333333333,see say say stop
+Dexter,Ma,5.263157894736842,3.289473684210526,38.81578947368421,1.6,be have write
+Arlene,Omar,2.403846153846154,3.8461538461538463,55.28846153846154,0.625,have fill be take
+Arlene,Omar,2.403846153846154,3.8461538461538463,55.28846153846154,0.625,have fill be take
+Omar,Arlene,2.403846153846154,3.8461538461538463,55.28846153846154,0.625,have fill be take
+Kwame,Skittles,2.0161290322580645,5.64516129032258,58.46774193548387,0.35714285714285715,be tear want know be want raise clean be do be encourage be
+Kwame,Skittles,2.0161290322580645,5.64516129032258,58.46774193548387,0.35714285714285715,be tear want know be want raise clean be do be encourage be
+Skittles,Kwame,0.0,3.90625,58.59375,0.0,ask bring visit
+Lauren,Ricky,1.3888888888888888,0.0,59.72222222222222,INF,like be like be
+Arlene,Omar,3.0,5.5,51.5,0.5454545454545454,go do promise talk
+Omar,Betty Jean,1.7857142857142856,1.1904761904761905,60.11904761904761,1.5,make call have be fill top give tell be be believe remember
+Omar,Betty Jean,1.7857142857142856,1.1904761904761905,60.11904761904761,1.5,make call have be fill top give tell be be believe remember
+Betty Jean,Omar,1.7857142857142856,1.1904761904761905,60.11904761904761,1.5,make call have be fill top give tell be be believe remember
+Betty Jean,Omar,1.7857142857142856,1.1904761904761905,60.11904761904761,1.5,make call have be fill top give tell be be believe remember
+Omar,Stephen,1.7045454545454544,1.9886363636363635,55.39772727272727,0.8571428571428571,have keep do want bring do bring invite say love come
+Omar,Stephen,1.7045454545454544,1.9886363636363635,55.39772727272727,0.8571428571428571,have keep do want bring do bring invite say love come
+Omar,Stephen,1.7045454545454544,1.9886363636363635,55.39772727272727,0.8571428571428571,have keep do want bring do bring invite say love come
+Omar,Stephen,1.7045454545454544,1.9886363636363635,55.39772727272727,0.8571428571428571,have keep do want bring do bring invite say love come
+Zach,Obama,0.0,0.0,55.55555555555556,INF,do work
+Zach,Obama,0.6944444444444444,0.6944444444444444,37.5,1.0,wave give chant
+Zach,Obama,0.6944444444444444,0.6944444444444444,37.5,1.0,wave give chant
+Trinetta,Dexter,3.3653846153846154,2.8846153846153846,43.75,1.1666666666666667,believe be punish seem preoccupy
+Margaret,Mindy,4.487179487179487,1.9230769230769231,57.692307692307686,2.3333333333333335,drop tell be see be feel fall
+Margaret,Mindy,4.487179487179487,1.9230769230769231,57.692307692307686,2.3333333333333335,drop tell be see be feel fall
+Mindy,Margaret,2.272727272727273,0.22727272727272727,52.04545454545455,10.0,agree let tell be decide take break hope be be go be
+Margaret,Mindy,2.272727272727273,0.22727272727272727,52.04545454545455,10.0,agree let tell be decide take break hope be be go be
+Margaret,Mindy,2.272727272727273,0.22727272727272727,52.04545454545455,10.0,agree let tell be decide take break hope be be go be
+Margaret,Mindy,2.272727272727273,0.22727272727272727,52.04545454545455,10.0,agree let tell be decide take break hope be be go be
+Ricky,Luther,0.0,0.0,20.0,INF,
+Grandma,Disneyland,0.0,0.0,64.28571428571429,INF,be take
+Obama,Tom,12.5,2.840909090909091,48.29545454545455,4.4,say hope help find be leave
+Quentin,Mindy,4.0,0.5,43.5,8.0,love close say
+Mr. Heaven,Grandma,1.40625,0.625,59.21875,2.25,be live do help get turn rent find do remember
+Mr. Heaven,Quentin,1.40625,0.625,59.21875,2.25,be live do help get turn rent find do remember
+Mr. Heaven,Grandma,1.40625,0.625,59.21875,2.25,be live do help get turn rent find do remember
+Mr. Heaven,Quentin,1.40625,0.625,59.21875,2.25,be live do help get turn rent find do remember
+Grandma,Quentin,1.40625,0.625,59.21875,2.25,be live do help get turn rent find do remember
+Quentin,Grandma,0.0,0.4807692307692308,61.057692307692314,0.0,do have pay give
+Quentin,Grandma,0.0,0.4807692307692308,61.057692307692314,0.0,do have pay give
+Ricky,Grandma,1.7857142857142856,0.5952380952380952,69.04761904761905,3.0,be seem be smooth
+Omar,Arlene,3.8461538461538463,1.9230769230769231,17.307692307692307,2.0,
+Omar,Venetia,3.8461538461538463,1.9230769230769231,17.307692307692307,2.0,
+Arlene,Venetia,3.8461538461538463,1.9230769230769231,17.307692307692307,2.0,
+Omar,Dr. Phil,0.0,1.9230769230769231,59.61538461538461,0.0,pull see
+Venetia,Lee David,7.5,0.0,57.49999999999999,INF,be raise be
+Venetia,Lee David,7.5,0.0,57.49999999999999,INF,be raise be
+Omar,Betty Jean,0.0,4.6875,39.0625,0.0,be have put
+Venetia,Ricky,4.861111111111112,2.083333333333333,59.72222222222222,2.3333333333333335,tell have stay be do
+Omar,Venetia,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,pull work have tell be
+Venetia,Omar,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,pull work have tell be
+Venetia,Omar,1.1363636363636365,1.893939393939394,45.45454545454545,0.6,pull work have tell be
+Betty Jean,Tammy,1.9396551724137931,1.293103448275862,58.83620689655172,1.5,walk understand see be be read look be be be hold look engage
+Venetia,Gladys Knight,0.0,1.0416666666666665,61.458333333333336,0.0,be go see do want get catch
+Luther,USC,0.0,0.0,60.0,INF,choose
+Quentin,Luther,1.5625,0.0,52.604166666666664,INF,come say take
+Quentin,Ricky,4.2682926829268295,6.707317073170732,45.1219512195122,0.6363636363636364,be be be act be have apologize cuss
+Quentin,Ricky,4.2682926829268295,6.707317073170732,45.1219512195122,0.6363636363636364,be be be act be have apologize cuss
+Quentin,Ricky,4.2682926829268295,6.707317073170732,45.1219512195122,0.6363636363636364,be be be act be have apologize cuss
+Quentin,Ricky,4.2682926829268295,6.707317073170732,45.1219512195122,0.6363636363636364,be be be act be have apologize cuss
+Quentin,Ricky,4.2682926829268295,6.707317073170732,45.1219512195122,0.6363636363636364,be be be act be have apologize cuss
+Principal Daniels,Luther,3.4615384615384617,2.307692307692308,55.769230769230774,1.5,believe remember mention know be graduate put say know be go excel want know be have know
+Principal Daniels,Luther,3.4615384615384617,2.307692307692308,55.769230769230774,1.5,believe remember mention know be graduate put say know be go excel want know be have know
+Principal Daniels,Luther,3.4615384615384617,2.307692307692308,55.769230769230774,1.5,believe remember mention know be graduate put say know be go excel want know be have know
+Ricky,Grandma,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,sit sit
+Grandma,Ricky,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,sit sit
+NFL,Ricky,3.0660377358490565,0.4716981132075472,47.40566037735849,6.5,do make want know be wave give do make be go be give
+Ricky,NFL,3.0660377358490565,0.4716981132075472,47.40566037735849,6.5,do make want know be wave give do make be go be give
+Warren,Mister,0.4807692307692308,0.0,64.90384615384616,INF,avoid sit watch play coach
+Warren,Mister,0.4807692307692308,0.0,64.90384615384616,INF,avoid sit watch play coach
+Luther,USC,0.5208333333333333,2.604166666666667,63.541666666666664,0.2,smile remember live
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Ricky,Luther,0.21929824561403508,1.9736842105263157,57.45614035087719,0.1111111111111111,figure be go pick sit cry see be lick be
+Quentin,Luther,2.857142857142857,2.142857142857143,63.57142857142857,1.3333333333333333,call have put hear rap know break answer
+Quentin,Luther,2.857142857142857,2.142857142857143,63.57142857142857,1.3333333333333333,call have put hear rap know break answer
+Tammy,Clementine,0.5952380952380952,0.2976190476190476,53.86904761904761,2.0,do see use spend take come
+Tammy,Clementine,0.5952380952380952,0.2976190476190476,53.86904761904761,2.0,do see use spend take come
+Tammy,Clementine,0.5952380952380952,0.2976190476190476,53.86904761904761,2.0,do see use spend take come
+Arlene,Venetia,1.2096774193548387,0.0,43.95161290322581,INF,take send ask think
+Arlene,Tammy,1.2096774193548387,0.0,43.95161290322581,INF,take send ask think
+Venetia,Tammy,1.2096774193548387,0.0,43.95161290322581,INF,take send ask think

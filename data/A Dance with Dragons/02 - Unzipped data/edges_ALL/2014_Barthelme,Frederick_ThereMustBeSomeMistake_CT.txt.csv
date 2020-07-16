@@ -1,0 +1,613 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Ng,Bruce,0.0,0.0,66.66666666666666,INF,be
+Roberta,Forgetful Bay,5.288461538461538,3.3653846153846154,60.57692307692307,1.5714285714285714,be be need make
+Morgan,Lucy,0.7352941176470588,0.7352941176470588,60.29411764705882,1.0,be die marry
+Morgan,Diane,0.0,0.0,53.333333333333336,INF,be die marry
+Morgan,Diane,0.0,0.0,53.333333333333336,INF,be die marry
+Diane,Morgan,1.0416666666666665,0.0,65.625,INF,be do be
+Jilly,Walmart,0.8620689655172413,0.43103448275862066,50.43103448275862,2.0,visit go be
+Jilly,Cal,0.9615384615384616,0.0,60.57692307692307,INF,be have marry
+Cal,Jilly,0.9615384615384616,0.0,60.57692307692307,INF,be have marry
+Cal,Jilly,0.9615384615384616,0.0,60.57692307692307,INF,be have marry
+Jilly,Diane,2.083333333333333,3.4722222222222223,44.44444444444444,0.6,get stay
+Jilly,Morgan,5.357142857142857,5.357142857142857,60.71428571428571,1.0,like
+Cal,Morgan,4.166666666666666,4.583333333333333,54.58333333333333,0.9090909090909091,call chuckle make want smack talk
+Cal,Morgan,4.166666666666666,4.583333333333333,54.58333333333333,0.9090909090909091,call chuckle make want smack talk
+Morgan,Jilly,5.357142857142857,0.5952380952380952,60.71428571428571,9.0,show check be suppose
+Morgan,Facebook,5.357142857142857,0.5952380952380952,60.71428571428571,9.0,show check be suppose
+Jilly,Facebook,5.357142857142857,0.5952380952380952,60.71428571428571,9.0,show check be suppose
+Jilly,Morgan,4.741379310344827,3.8793103448275863,56.896551724137936,1.2222222222222223,be see smile look
+Jilly,Cal,4.741379310344827,3.8793103448275863,56.896551724137936,1.2222222222222223,be see smile look
+Morgan,Cal,4.741379310344827,3.8793103448275863,56.896551724137936,1.2222222222222223,be see smile look
+Morgan,Jilly,5.263157894736842,0.6578947368421052,57.23684210526315,8.0,please be say bring
+Ng,Bruce,2.5,3.75,43.75,0.6666666666666666,have be run
+Chantal,Parker,1.7857142857142856,1.1904761904761905,44.642857142857146,1.5,be have do
+Parker,Forgetful Bay,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Parker,HOA,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Parker,Roberta,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Forgetful Bay,Parker,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Forgetful Bay,HOA,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Forgetful Bay,Roberta,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Parker,HOA,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Parker,Roberta,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+HOA,Roberta,1.3888888888888888,2.430555555555556,57.291666666666664,0.5714285714285714,be do want be do
+Diane,Forgetful Bay,1.9230769230769231,1.282051282051282,63.46153846153846,1.5,follow have attend leave join
+Hilton,Parker,0.0,0.0,54.54545454545454,INF,say wave
+Ng,Chantal,5.625,8.75,50.625,0.6428571428571429,hear get
+Forgetful Bay,Parker,0.3125,1.875,65.3125,0.16666666666666666,follow be find
+Parker,Chantal,1.6666666666666667,1.25,50.416666666666664,1.3333333333333333,be deck summon say do recognize
+Parker,Chantal,1.6666666666666667,1.25,50.416666666666664,1.3333333333333333,be deck summon say do recognize
+Parker,Ella,0.8928571428571428,6.25,50.0,0.14285714285714285,be hear
+Chantal,Ng,0.0,0.6944444444444444,65.97222222222221,0.0,join
+Chantal,Forgetful Bay,0.0,0.6944444444444444,65.97222222222221,0.0,join
+Ng,Forgetful Bay,0.0,0.6944444444444444,65.97222222222221,0.0,join
+Morgan,Cal,4.910714285714286,4.017857142857143,41.07142857142857,1.2222222222222223,get talk be look say stop worry
+Morgan,Jilly,4.910714285714286,4.017857142857143,41.07142857142857,1.2222222222222223,get talk be look say stop worry
+Cal,Jilly,4.910714285714286,4.017857142857143,41.07142857142857,1.2222222222222223,get talk be look say stop worry
+Morgan,Chantal,2.5,3.75,43.75,0.6666666666666666,be go do want
+Chantal,Cal,0.8333333333333334,4.166666666666666,48.333333333333336,0.2,think be
+Cal,Facebook,0.7575757575757576,0.0,59.84848484848485,INF,be pick have point
+Cal,Morgan,0.7575757575757576,0.0,59.84848484848485,INF,be pick have point
+Facebook,Morgan,0.7575757575757576,0.0,59.84848484848485,INF,be pick have point
+Chantal,Jilly,0.0,0.0,33.33333333333333,INF,know be say
+Chantal,Cal,0.0,0.0,30.0,INF,be
+Raleigh,Morgan,0.0,0.0,45.45454545454545,INF,tell say
+Morgan,Jilly,0.8333333333333334,0.0,65.83333333333333,INF,get twist pin
+Howdy Doody,Morgan,7.291666666666667,1.0416666666666665,50.0,7.0,know be say
+Jilly,Morgan,2.5,0.0,57.49999999999999,INF,come visit have return
+Cal,Diane,0.8928571428571428,0.0,49.107142857142854,INF,get fly see
+Jilly,Diane,0.0,0.0,23.076923076923077,INF,be say
+Cal,Diane,4.464285714285714,6.25,39.285714285714285,0.7142857142857143,think say
+Lucy,NPR,0.9615384615384616,0.0,68.26923076923077,INF,introduce hear be drive
+Jilly,Lucy,1.3888888888888888,0.5555555555555556,53.61111111111111,2.5,bring diminish thin fall
+Jilly,Morgan,0.0,0.0,61.53846153846154,INF,drive join
+Jilly,Morgan,1.9230769230769231,0.0,51.92307692307693,INF,do be call
+Diane,Cal,3.4090909090909087,0.0,32.95454545454545,INF,think be sleep
+Cal,Diane,3.125,1.5625,32.8125,2.0,say do think
+Diane,Jilly,5.681818181818182,0.0,30.681818181818183,INF,do envy say
+Cal,Jilly,0.0,0.0,18.181818181818183,INF,say
+Cal,Jilly,1.1363636363636365,7.954545454545454,27.27272727272727,0.14285714285714285,get say
+Jilly,Diane,0.0,0.0,38.88888888888889,INF,say do think be sleep
+Jilly,Cal,0.0,0.0,38.88888888888889,INF,say do think be sleep
+Diane,Cal,0.0,0.0,38.88888888888889,INF,say do think be sleep
+Diane,Jilly,3.289473684210526,0.0,44.07894736842105,INF,think make sleep say
+Diane,Jilly,3.289473684210526,0.0,44.07894736842105,INF,think make sleep say
+Diane,Morgan,0.0,6.8181818181818175,38.63636363636363,0.0,say
+Jilly,Morgan,4.166666666666666,2.083333333333333,43.75,2.0,be have
+Wallace,Jilly,0.0,0.0,28.57142857142857,INF,say
+Mary,Forgetful Bay,3.75,1.6666666666666667,57.91666666666667,2.25,get have come have happen
+Parker,HOA,4.850746268656716,2.6119402985074625,58.2089552238806,1.8571428571428572,remain be acknowledge be connect have be ask vacate have be replace be know
+Parker,Bernadette,4.850746268656716,2.6119402985074625,58.2089552238806,1.8571428571428572,remain be acknowledge be connect have be ask vacate have be replace be know
+Parker,HOA,4.850746268656716,2.6119402985074625,58.2089552238806,1.8571428571428572,remain be acknowledge be connect have be ask vacate have be replace be know
+Parker,Bernadette,4.850746268656716,2.6119402985074625,58.2089552238806,1.8571428571428572,remain be acknowledge be connect have be ask vacate have be replace be know
+HOA,Bernadette,4.850746268656716,2.6119402985074625,58.2089552238806,1.8571428571428572,remain be acknowledge be connect have be ask vacate have be replace be know
+Mother,Diane,1.1029411764705883,1.8382352941176472,52.94117647058824,0.6,visit stay like do object
+Diane,Mother,1.1029411764705883,1.8382352941176472,52.94117647058824,0.6,visit stay like do object
+Forgetful Bay,Mary,0.9615384615384616,0.38461538461538464,67.88461538461539,2.5,have meet have say wave enter leave enter notice be stand be
+Mary,Mother,0.0,0.0,50.0,INF,
+Mary,Gil,0.0,0.0,45.0,INF,have keep say turn give
+Chantal,Forgetful Bay,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,introduce tell have say know
+Chantal,Diane,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,introduce tell have say know
+Forgetful Bay,Chantal,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,introduce tell have say know
+Forgetful Bay,Diane,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,introduce tell have say know
+Chantal,Diane,1.0416666666666665,0.5208333333333333,52.604166666666664,2.0,introduce tell have say know
+Chantal,Forgetful Bay,2.5,1.25,56.25,2.0,sit take be chat watch
+Morgan,Chantal,5.147058823529411,0.0,59.55882352941176,INF,call let know be tell be
+Morgan,Chantal,5.147058823529411,0.0,59.55882352941176,INF,call let know be tell be
+John,Chantal,2.083333333333333,1.0416666666666665,21.875,2.0,be be say
+Rosa,Mary,2.170138888888889,0.6944444444444444,49.21875,3.125,keep eat talk explain go look sound drive turn
+Chantal,Forgetful Bay,0.4166666666666667,4.166666666666666,55.41666666666667,0.1,end return see
+Forgetful Bay,Chantal,0.4166666666666667,4.166666666666666,55.41666666666667,0.1,end return see
+Wallace,Chantal,1.7857142857142856,5.357142857142857,35.714285714285715,0.3333333333333333,be say
+Chantal,Sara,0.35714285714285715,0.7142857142857143,67.5,0.5,tell be sit walk
+Chantal,Diane,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,tell
+Diane,Wallace,0.0,0.0,33.33333333333333,INF,say
+Diane,Dan,2.631578947368421,1.3157894736842104,51.31578947368421,2.0,listen say tell name be kill
+Diane,Dan,2.631578947368421,1.3157894736842104,51.31578947368421,2.0,listen say tell name be kill
+Dan,Diane,2.631578947368421,1.3157894736842104,51.31578947368421,2.0,listen say tell name be kill
+Dan,Diane,0.0,1.6666666666666667,58.333333333333336,0.0,be say work
+Diane,Dan,1.7241379310344827,2.8017241379310347,67.88793103448276,0.6153846153846154,be bump be clip get catch twist
+Wallace,Diane,0.0,0.0,33.33333333333333,INF,be say
+Dan,Google,1.875,0.0,58.12500000000001,INF,let say click
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Diane,Dan,0.5,0.5,47.0,1.0,do pause go tell take sleep
+Wallace,Diane,5.681818181818182,0.0,30.681818181818183,INF,know say
+Chantal,Ng,2.857142857142857,4.642857142857143,38.21428571428571,0.6153846153846154,have recover be learn follow
+Chantal,Ng,2.857142857142857,4.642857142857143,38.21428571428571,0.6153846153846154,have recover be learn follow
+Chantal,Ng,2.857142857142857,4.642857142857143,38.21428571428571,0.6153846153846154,have recover be learn follow
+Chantal,Ng,2.857142857142857,4.642857142857143,38.21428571428571,0.6153846153846154,have recover be learn follow
+Changs,Forgetful Bay,3.9930555555555554,1.5625,59.72222222222222,2.5555555555555554,turn be go have come have be purchase own need be join run
+Morgan,Diane,4.276315789473684,2.9605263157894735,45.39473684210527,1.4444444444444444,come visit report do report
+Morgan,Diane,5.357142857142857,7.142857142857142,51.78571428571429,0.75,scold make
+Jilly,Diane,0.0,0.0,14.285714285714285,INF,say
+Chantal,Bo Del Mar,3.6458333333333335,4.427083333333334,39.84375,0.8235294117647058,marry name turn accuse accord be imagine make be beat
+Bo Del Mar,Chantal,3.6458333333333335,4.427083333333334,39.84375,0.8235294117647058,marry name turn accuse accord be imagine make be beat
+Bo Del Mar,Chantal,3.6458333333333335,4.427083333333334,39.84375,0.8235294117647058,marry name turn accuse accord be imagine make be beat
+Bo Del Mar,Chantal,3.6458333333333335,4.427083333333334,39.84375,0.8235294117647058,marry name turn accuse accord be imagine make be beat
+Bo Del Mar,Chantal,0.9765625,3.7109375,53.125,0.2631578947368421,hide try be threaten be wash set say be have do
+Morgan,Jilly,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,say hit say
+Mary,Jilly,1.644736842105263,1.3157894736842104,28.618421052631575,1.25,begin say include
+Chantal,Jilly,3.5000000000000004,4.5,56.00000000000001,0.7777777777777778,be be tell
+Chantal,Jilly,3.5000000000000004,4.5,56.00000000000001,0.7777777777777778,be be tell
+Jilly,Chantal,0.9259259259259258,2.314814814814815,56.018518518518526,0.4,see have
+Bert,Chantal,5.769230769230769,0.9615384615384616,24.03846153846154,6.0,be say
+Pascal,Chantal,1.25,5.0,43.75,0.25,own say
+Pascal,Chantal,0.0,4.807692307692308,33.65384615384615,0.0,be say
+Roy,Chantal,1.9230769230769231,5.288461538461538,58.17307692307693,0.36363636363636365,be say turn do be
+Jilly,Wallander,0.5,1.5,62.0,0.3333333333333333,wish watch subtitle
+Roy,Pascal,4.285714285714286,1.0714285714285714,63.21428571428571,4.0,get get use have inherit get repair give remember
+Pascal,Chantal,0.0,1.0416666666666665,32.29166666666667,0.0,be say
+Raleigh,Cal,0.5,0.0,61.5,INF,get be sleep set die
+Raleigh,Jilly,0.5,0.0,61.5,INF,get be sleep set die
+Cal,Jilly,0.5,0.0,61.5,INF,get be sleep set die
+Cal,Diane,4.545454545454546,5.681818181818182,35.22727272727273,0.8,do want talk
+Jilly,Morgan,4.276315789473684,2.302631578947368,40.78947368421053,1.8571428571428572,be be be do know make think talk
+Dan,Cal,0.0,0.0,12.5,INF,say
+Diane,Dan,6.944444444444445,1.3888888888888888,36.11111111111111,5.0,like
+Diane,Cal,2.6785714285714284,3.571428571428571,22.321428571428573,0.75,be feel say
+Diane,Cal,3.90625,0.78125,32.8125,5.0,wonder be say
+Diane,Chantal,0.0,1.7857142857142856,50.595238095238095,0.0,be talk start call ring
+Chantal,Parker,4.807692307692308,2.8846153846153846,53.84615384615385,1.6666666666666667,need say
+Chantal,Parker,0.0,0.0,41.17647058823529,INF,do tell know say
+Parker,Coke,0.4464285714285714,0.8928571428571428,55.80357142857143,0.5,leave see show
+Parker,Coke,0.4464285714285714,0.8928571428571428,55.80357142857143,0.5,leave see show
+Coke,Parker,0.4464285714285714,0.8928571428571428,55.80357142857143,0.5,leave see show
+Wilson,Parker,1.3888888888888888,0.0,43.05555555555556,INF,say
+Parker,Cal,0.7352941176470588,0.0,58.08823529411765,INF,stop surprise see walk
+Parker,Diane,0.78125,0.390625,48.828125,2.0,do look say be deliver
+Parker,Diane,0.78125,0.390625,48.828125,2.0,do look say be deliver
+Cal,Parker,3.125,0.0,55.208333333333336,INF,do see come
+Cal,Chantal,3.125,0.0,55.208333333333336,INF,do see come
+Parker,Chantal,3.125,0.0,55.208333333333336,INF,do see come
+Chantal,Parker,1.7857142857142856,0.0,50.595238095238095,INF,tap turn back
+Chantal,Parker,1.7857142857142856,0.0,50.595238095238095,INF,tap turn back
+Parker,Chantal,1.7857142857142856,0.0,50.595238095238095,INF,tap turn back
+Parker,Chantal,1.7857142857142856,0.0,50.595238095238095,INF,tap turn back
+Parker,Chantal,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,watch lean hang say be say
+Parker,Chantal,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,watch lean hang say be say
+Parker,Chantal,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,watch lean hang say be say
+Chantal,Parker,4.3478260869565215,1.0869565217391304,64.13043478260869,4.0,seem be ask understand have say be answer
+Chantal,Parker,4.3478260869565215,1.0869565217391304,64.13043478260869,4.0,seem be ask understand have say be answer
+Parker,Chantal,4.3478260869565215,1.0869565217391304,64.13043478260869,4.0,seem be ask understand have say be answer
+Chantal,Parker,4.3478260869565215,1.0869565217391304,64.13043478260869,4.0,seem be ask understand have say be answer
+Chantal,Parker,5.46875,0.0,44.53125,INF,smile extend shake do
+Chantal,Parker,5.46875,0.0,44.53125,INF,smile extend shake do
+Parker,Cal,2.380952380952381,0.5952380952380952,63.69047619047619,4.0,glance pay leave
+Cal,Diane,0.0,0.0,30.0,INF,be say
+Wallace,Diane,1.25,0.0,38.75,INF,say
+Wilson,Parker,0.0,0.0,33.33333333333333,INF,say
+Ella,Parker,0.0,0.0,38.46153846153847,INF,get say
+Chantal,Forgetful Bay,0.26595744680851063,0.26595744680851063,69.68085106382979,1.0,be dress do recognize notice be do recognize
+Bert,Chantal,0.0,0.0,14.285714285714285,INF,say
+Forgetful Bay,Chantal,1.715686274509804,1.2254901960784315,63.725490196078425,1.4,be plan go stop assume be receive get be
+Forgetful Bay,Chantal,1.715686274509804,1.2254901960784315,63.725490196078425,1.4,be plan go stop assume be receive get be
+Forgetful Bay,Parker,1.715686274509804,1.2254901960784315,63.725490196078425,1.4,be plan go stop assume be receive get be
+Chantal,Parker,1.715686274509804,1.2254901960784315,63.725490196078425,1.4,be plan go stop assume be receive get be
+Chantal,Parker,1.715686274509804,1.2254901960784315,63.725490196078425,1.4,be plan go stop assume be receive get be
+Parker,Bruce,0.0,0.0,44.44444444444444,INF,say
+Ella,Bruce,0.0,0.0,50.0,INF,say
+Bruce,Parker,5.263157894736842,2.631578947368421,65.78947368421053,2.0,hold be
+Bruce,Parker,5.263157894736842,2.631578947368421,65.78947368421053,2.0,hold be
+Chantal,Parker,0.0,0.0,37.5,INF,text
+Parker,Forgetful Bay,2.616279069767442,0.872093023255814,73.25581395348837,3.0,be be find
+Parker,Forgetful Bay,2.616279069767442,0.872093023255814,73.25581395348837,3.0,be be find
+Parker,Forgetful Bay,2.616279069767442,0.872093023255814,73.25581395348837,3.0,be be find
+Forgetful Bay,Parker,2.616279069767442,0.872093023255814,73.25581395348837,3.0,be be find
+Parker,Ella,1.6666666666666667,2.5,49.166666666666664,0.6666666666666666,be survive
+Parker,Ella,1.6666666666666667,2.5,49.166666666666664,0.6666666666666666,be survive
+Ng,Chantal,0.0,0.0,36.36363636363637,INF,
+Ng,Parker,0.0,0.0,36.36363636363637,INF,
+Chantal,Parker,0.0,0.0,36.36363636363637,INF,
+Jilly,Morgan,2.8846153846153846,0.0,58.65384615384615,INF,take make
+Jilly,Morgan,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Jilly,Chantal,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Jilly,Diane,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Morgan,Chantal,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Morgan,Diane,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Chantal,Diane,0.9868421052631579,3.289473684210526,48.35526315789473,0.3,be get be be
+Mrs. Parker,Jilly,3.8461538461538463,2.8846153846153846,39.42307692307692,1.3333333333333333,say
+Jilly,Morgan,4.5,2.5,65.0,1.8,be get tell have tell
+Jilly,Morgan,4.5,2.5,65.0,1.8,be get tell have tell
+Jilly,Morgan,4.5,2.5,65.0,1.8,be get tell have tell
+Morgan,Jilly,4.5,2.5,65.0,1.8,be get tell have tell
+Morgan,Jilly,4.5,2.5,65.0,1.8,be get tell have tell
+Jilly,Morgan,4.5,2.5,65.0,1.8,be get tell have tell
+Chantal,Jilly,0.0,0.0,40.0,INF,say
+Jilly,Morgan,0.9259259259259258,0.4629629629629629,65.27777777777779,2.0,sit chat repair crank
+Diane,Chantal,1.9067796610169492,1.2711864406779663,52.7542372881356,1.5,do include report schedule happen
+Diane,Chantal,1.9067796610169492,1.2711864406779663,52.7542372881356,1.5,do include report schedule happen
+Bernadette,HOA,0.9771986970684038,3.013029315960912,60.83061889250815,0.32432432432432434,entitle set include approve be be use explode fly include fly explode be allow sign purchase sign clear be catch use be light reach use be use light relight be drop use carry shoot have light
+Bernadette,Mr. Parker,2.8125,1.875,62.81250000000001,1.5,have take be understand be be see hear
+Bernadette,HOA,2.8125,1.875,62.81250000000001,1.5,have take be understand be be see hear
+Bernadette,HOA,2.8125,1.875,62.81250000000001,1.5,have take be understand be be see hear
+Mr. Parker,HOA,2.8125,1.875,62.81250000000001,1.5,have take be understand be be see hear
+Mr. Parker,HOA,2.8125,1.875,62.81250000000001,1.5,have take be understand be be see hear
+Roberta,Bernadette,6.25,4.017857142857143,54.01785714285714,1.5555555555555556,be miss cozy become report
+Roberta,Bruce,6.25,4.017857142857143,54.01785714285714,1.5555555555555556,be miss cozy become report
+Bernadette,Bruce,6.25,4.017857142857143,54.01785714285714,1.5555555555555556,be miss cozy become report
+Morgan,Jilly,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Morgan,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Morgan,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Morgan,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Jilly,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Jilly,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Jilly,Diane,1.153846153846154,1.5384615384615385,51.153846153846146,0.75,have be allot be clutter be want clean return be schedule
+Fatima,Lorraine,0.0,1.4705882352941175,45.588235294117645,0.0,be talk ask sleep
+Lorraine,Chantal,1.9230769230769231,1.9230769230769231,34.61538461538461,1.0,be guess do shoot say
+Chantal,Ella,4.891304347826087,0.5434782608695652,53.2608695652174,9.0,point point rub wonder be wonder be think wonder be
+Chantal,Ella,4.891304347826087,0.5434782608695652,53.2608695652174,9.0,point point rub wonder be wonder be think wonder be
+Jilly,Cal,1.1363636363636365,0.0,62.5,INF,ask be look
+Jilly,Chantal,0.0,0.0,41.66666666666667,INF,turn shake
+Jilly,Chantal,5.0,0.0,25.0,INF,say
+Chantal,Jilly,0.0,0.0,33.33333333333333,INF,seem say
+Cal,Diane,1.488095238095238,2.6785714285714284,57.738095238095234,0.5555555555555556,have be distract figure write ask involve come
+Cal,Diane,1.488095238095238,2.6785714285714284,57.738095238095234,0.5555555555555556,have be distract figure write ask involve come
+Diane,Cal,1.488095238095238,2.6785714285714284,57.738095238095234,0.5555555555555556,have be distract figure write ask involve come
+Diane,Cal,1.488095238095238,2.6785714285714284,57.738095238095234,0.5555555555555556,have be distract figure write ask involve come
+Jilly,Chantal,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be say
+Morgan,Diane,1.5625,1.5625,59.375,1.0,like do
+Diane,Cal,2.083333333333333,1.3888888888888888,68.75,1.5,be screw be marry last
+Jean,Parker,0.0,0.0,66.66666666666666,INF,come meet discuss
+Jean,Parker,0.0,0.0,66.66666666666666,INF,come meet discuss
+Chantal,Jilly,2.616279069767442,2.616279069767442,59.883720930232556,1.0,be live border need understand
+Bernadette,HOA,0.5102040816326531,1.2755102040816326,55.35714285714286,0.4,come see be crown introduce beg invite say be go drop
+Bernadette,HOA,0.5102040816326531,1.2755102040816326,55.35714285714286,0.4,come see be crown introduce beg invite say be go drop
+Bernadette,Roberta,0.5102040816326531,1.2755102040816326,55.35714285714286,0.4,come see be crown introduce beg invite say be go drop
+HOA,Roberta,0.5102040816326531,1.2755102040816326,55.35714285714286,0.4,come see be crown introduce beg invite say be go drop
+HOA,Roberta,0.5102040816326531,1.2755102040816326,55.35714285714286,0.4,come see be crown introduce beg invite say be go drop
+Bernadette,Roberta,0.0,1.3157894736842104,46.05263157894737,0.0,be do say
+Parker,Diane,6.5,2.5,39.0,2.6,be talk know say
+Parker,Diane,6.5,2.5,39.0,2.6,be talk know say
+Diane,Chantal,3.6764705882352944,1.4705882352941175,53.67647058823529,2.5,have have come
+Mrs. Parker,Bernadette,0.0,0.35714285714285715,48.214285714285715,0.0,say gather intend return take pass
+Mrs. Parker,Bernadette,0.0,0.35714285714285715,48.214285714285715,0.0,say gather intend return take pass
+Mrs. Parker,Bernadette,0.0,0.35714285714285715,48.214285714285715,0.0,say gather intend return take pass
+Bernadette,Mrs. Parker,4.838709677419355,2.4193548387096775,54.03225806451613,2.0,have think be go move leave turn be
+Bernadette,Mrs. Parker,4.72972972972973,2.7027027027027026,57.432432432432435,1.75,gather be like be feel know let
+Bernadette,Mrs. Parker,4.72972972972973,2.7027027027027026,57.432432432432435,1.75,gather be like be feel know let
+Bernadette,Mrs. Parker,4.72972972972973,2.7027027027027026,57.432432432432435,1.75,gather be like be feel know let
+Bernadette,Mr. Parker,0.0,0.0,55.00000000000001,INF,say talk be
+Bernadette,Mr. Parker,0.0,0.0,55.00000000000001,INF,say talk be
+Mr. Parker,Ella,9.558823529411764,1.4705882352941175,41.911764705882355,6.5,wonder have say
+Mr. Parker,Ella,9.558823529411764,1.4705882352941175,41.911764705882355,6.5,wonder have say
+Chantal,Mr. Parker,0.3676470588235294,0.3676470588235294,55.14705882352941,1.0,say flip say do give
+Chantal,Mr. Parker,0.3676470588235294,0.3676470588235294,55.14705882352941,1.0,say flip say do give
+Wallace,Bruce,0.0,0.0,33.33333333333333,INF,say
+Mrs. Parker,Bruce,0.0,1.25,48.75,0.0,remain say
+Bernadette,Roberta,8.333333333333332,4.166666666666666,37.5,2.0,tell
+Bernadette,Jean,1.3888888888888888,0.0,43.05555555555556,INF,get
+Bernadette,Parker,7.6923076923076925,1.9230769230769231,59.61538461538461,4.0,tell come yak want
+Parker,Bernadette,1.7857142857142856,3.571428571428571,51.78571428571429,0.5,tell
+Bernadette,HOA,1.25,0.625,58.12500000000001,2.0,have take be
+Forgetful Bay,Bruce,0.0,1.1363636363636365,62.5,0.0,say
+Ng,Changs,0.0,0.0,58.333333333333336,INF,know have meet
+Mrs. Parker,Bernadette,0.0,0.0,36.36363636363637,INF,be say
+Mrs. Parker,Bernadette,4.166666666666666,3.125,34.375,1.3333333333333333,assume be say
+Ella,Parker,1.7219387755102038,1.4668367346938775,58.03571428571429,1.173913043478261,have commence go follow have leave transform have be reduce be purchase decease suffer prosper honor spend flee
+Ella,Forgetful Bay,1.7219387755102038,1.4668367346938775,58.03571428571429,1.173913043478261,have commence go follow have leave transform have be reduce be purchase decease suffer prosper honor spend flee
+Parker,Forgetful Bay,1.7219387755102038,1.4668367346938775,58.03571428571429,1.173913043478261,have commence go follow have leave transform have be reduce be purchase decease suffer prosper honor spend flee
+Bernadette,Jean,0.0,0.0,60.0,INF,talk look
+Bernadette,Parker,7.094594594594595,4.72972972972973,47.63513513513514,1.5,report have be learn be
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Parker,Bernadette,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Parker,Bernadette,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Parker,Bernadette,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Bernadette,Parker,1.3636363636363635,2.5,59.77272727272728,0.5454545454545454,imagine write report happen note write go kill be prevent use
+Morgan,Chantal,0.0,0.0,41.66666666666667,INF,do
+Jilly,Chantal,3.125,0.0,38.54166666666667,INF,get
+Jilly,Chantal,3.4482758620689653,1.293103448275862,53.879310344827594,2.6666666666666665,get have anticipate seem open surprise
+Jilly,Chantal,6.944444444444445,1.8518518518518516,54.166666666666664,3.75,smile think suggest do prefer call turn
+Jilly,Chantal,6.944444444444445,1.8518518518518516,54.166666666666664,3.75,smile think suggest do prefer call turn
+Chantal,Jilly,0.0,0.0,20.0,INF,turn
+Wallace,Jilly,3.90625,3.125,30.46875,1.25,ask pierce say
+Jilly,Jean,0.625,0.0,49.375,INF,get listen
+Sarah Linden,Jilly,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,play be be have change
+Sarah Linden,Jilly,2.82258064516129,1.2096774193548387,50.806451612903224,2.3333333333333335,play be be have change
+Jean,Jilly,1.3513513513513513,2.364864864864865,63.85135135135135,0.5714285714285714,be get call think leave say meet answer throw
+Mrs. Parker,Mr. Parker,5.46875,0.78125,43.75,7.0,act be say
+Mrs. Parker,Jilly,5.46875,0.78125,43.75,7.0,act be say
+Mr. Parker,Jilly,5.46875,0.78125,43.75,7.0,act be say
+Jilly,Chris,1.3888888888888888,0.0,50.46296296296296,INF,be raise buy call
+Jilly,Chris,1.3888888888888888,0.0,50.46296296296296,INF,be raise buy call
+Jilly,Chris,1.3888888888888888,0.0,50.46296296296296,INF,be raise buy call
+Jilly,Chris,1.3888888888888888,0.0,50.46296296296296,INF,be raise buy call
+Chris,Jilly,3.070175438596491,2.1929824561403506,57.89473684210527,1.4,make have be say be be give
+Chris,Jilly,3.070175438596491,2.1929824561403506,57.89473684210527,1.4,make have be say be be give
+Bernadette,Jean,0.0,0.0,69.23076923076923,INF,show
+Jilly,Morgan,5.263157894736842,2.631578947368421,50.0,2.0,have be debrief
+Jilly,Chantal,5.263157894736842,2.631578947368421,50.0,2.0,have be debrief
+Morgan,Chantal,5.263157894736842,2.631578947368421,50.0,2.0,have be debrief
+Bernadette,Jean,1.1363636363636365,0.0,57.95454545454546,INF,invite offer look
+Parker,Mrs. Parker,3.0,4.0,56.99999999999999,0.75,say get be be know
+Mrs. Parker,Parker,3.0,4.0,56.99999999999999,0.75,say get be be know
+Parker,Ella,0.0,0.0,60.86956521739131,INF,be say be go die
+Parker,Ella,0.0,0.0,60.86956521739131,INF,be say be go die
+Mr. Parker,Forgetful Bay,0.0,3.0,69.0,0.0,do think be be involve
+Ng,Bernadette,0.0,0.0,41.66666666666667,INF,be say
+Ng,Parker,0.7352941176470588,0.7352941176470588,39.705882352941174,1.0,have look
+Ng,Parker,0.7352941176470588,0.7352941176470588,39.705882352941174,1.0,have look
+Ng,Parker,0.7352941176470588,0.7352941176470588,39.705882352941174,1.0,have look
+Ng,Parker,0.0,1.25,58.75,0.0,do have
+Parker,Bernadette,1.6666666666666667,0.0,58.333333333333336,INF,seem have have say
+Boykin,Diane,0.0,0.0,30.0,INF,be say
+Leo,Diane,0.0,0.0,28.57142857142857,INF,say
+Bernadette,Mrs. Parker,4.044117647058823,0.7352941176470588,62.86764705882353,5.5,come ask think tell be be go help find
+Bernadette,Mrs. Parker,4.044117647058823,0.7352941176470588,62.86764705882353,5.5,come ask think tell be be go help find
+Diane,Bernadette,4.761904761904762,0.0,42.857142857142854,INF,come introduce estrange shake
+Wallace,Diane,0.0,0.0,30.0,INF,say
+Bernadette,Diane,7.142857142857142,0.0,35.714285714285715,INF,shake
+Leo,Diane,5.078125,0.78125,59.765625,6.5,shoot stop sit look
+Leo,Diane,5.078125,0.78125,59.765625,6.5,shoot stop sit look
+Wallace,Diane,0.0,1.9230769230769231,44.230769230769226,0.0,want throw say
+Bernadette,Leo,1.1904761904761905,0.0,51.19047619047619,INF,do keep wait say tousle
+Chantal,Leo,0.8333333333333334,0.0,65.83333333333333,INF,be find
+Leo,Peterson,0.0,0.0,62.5,INF,be meet be find
+Leo,Parker,0.0,0.0,62.5,INF,be meet be find
+Peterson,Parker,0.0,0.0,62.5,INF,be meet be find
+Bernadette,Jean,0.6944444444444444,0.0,60.416666666666664,INF,get
+Diane,Cal,1.0416666666666665,0.0,40.625,INF,be see look
+Jilly,Diane,7.8125,0.0,17.1875,INF,know
+Morgan,Diane,0.5208333333333333,0.5208333333333333,53.125,1.0,need call tell be do see
+Morgan,Diane,0.5208333333333333,0.5208333333333333,53.125,1.0,need call tell be do see
+Diane,Leo,0.0,0.0,58.333333333333336,INF,wave be sit comb
+Diane,Leo,0.0,0.0,58.333333333333336,INF,wave be sit comb
+Diane,Leo,0.0,0.0,57.14285714285714,INF,hold hit be yank
+Leo,Diane,0.0,0.0,57.14285714285714,INF,hold hit be yank
+Diane,Leo,2.2058823529411766,0.7352941176470588,73.52941176470588,3.0,look be do look appreciate
+Diane,Leo,2.2058823529411766,0.7352941176470588,73.52941176470588,3.0,look be do look appreciate
+Diane,Leo,2.2058823529411766,0.7352941176470588,73.52941176470588,3.0,look be do look appreciate
+Diane,Leo,2.2058823529411766,0.7352941176470588,73.52941176470588,3.0,look be do look appreciate
+Morgan,Diane,2.840909090909091,2.840909090909091,67.04545454545455,1.0,call get leave say be worry
+Diane,Leo,0.0,0.0,58.333333333333336,INF,follow
+Leo,Diane,0.0,0.0,50.0,INF,jump
+Diane,Leo,2.5,0.0,50.83333333333333,INF,finish hug rock
+Diane,Leo,2.5,0.0,50.83333333333333,INF,finish hug rock
+Leo,Diane,2.5,0.0,50.83333333333333,INF,finish hug rock
+Leo,Diane,2.5,0.0,50.83333333333333,INF,finish hug rock
+Jilly,Chantal,2.5,1.25,26.25,2.0,be
+Ella,Forgetful Bay,0.0,0.625,54.37499999999999,0.0,arrive introduce
+Forgetful Bay,Ella,0.0,0.625,54.37499999999999,0.0,arrive introduce
+Forgetful Bay,Ella,0.0,0.625,54.37499999999999,0.0,arrive introduce
+Mrs. Parker,Bernadette,1.4423076923076923,0.0,60.09615384615385,INF,meet say gather commemorate
+Mrs. Parker,Bernadette,1.4423076923076923,0.0,60.09615384615385,INF,meet say gather commemorate
+Bernadette,HOA,2.734375,1.953125,64.0625,1.4,be arrange prevent say exist
+Bernadette,Mrs. Parker,2.734375,1.953125,64.0625,1.4,be arrange prevent say exist
+HOA,Mrs. Parker,2.734375,1.953125,64.0625,1.4,be arrange prevent say exist
+Chantal,Jean,1.25,0.625,38.125,2.0,be
+Chantal,Jilly,1.25,0.625,38.125,2.0,be
+Chantal,Bruce,1.25,0.625,38.125,2.0,be
+Chantal,Roberta,1.25,0.625,38.125,2.0,be
+Jean,Jilly,1.25,0.625,38.125,2.0,be
+Jean,Bruce,1.25,0.625,38.125,2.0,be
+Jean,Roberta,1.25,0.625,38.125,2.0,be
+Jilly,Bruce,1.25,0.625,38.125,2.0,be
+Jilly,Roberta,1.25,0.625,38.125,2.0,be
+Bruce,Roberta,1.25,0.625,38.125,2.0,be
+Diane,Leo,2.82258064516129,3.024193548387097,57.056451612903224,0.9333333333333333,have remove call find have allow attend be
+Diane,Leo,2.82258064516129,3.024193548387097,57.056451612903224,0.9333333333333333,have remove call find have allow attend be
+Diane,Forgetful Bay,1.0416666666666665,2.7777777777777777,60.06944444444444,0.375,have look find be commit be look
+Forgetful Bay,Diane,1.0416666666666665,2.7777777777777777,60.06944444444444,0.375,have look find be commit be look
+Forgetful Bay,Diane,1.0416666666666665,2.7777777777777777,60.06944444444444,0.375,have look find be commit be look
+Parker,HOA,1.4705882352941175,0.0,51.470588235294116,INF,think be look retake
+Parker,HOA,1.4705882352941175,0.0,51.470588235294116,INF,think be look retake
+Parker,Mrs. Parker,5.681818181818182,0.0,57.95454545454546,INF,know be say
+Leo,Bernadette,3.0844155844155843,1.7857142857142856,61.36363636363637,1.7272727272727273,start ask give realize have misplace realize lead want go cough cover have pick have lay
+Jean,Bernadette,2.840909090909091,3.4090909090909087,43.75,0.8333333333333334,have say earn
+Mr. Peterson,Peterson,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Mr. Peterson,Jean,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Mr. Peterson,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Mr. Peterson,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Peterson,Jean,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Peterson,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Peterson,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Jean,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Jean,Bernadette,2.083333333333333,1.5625,44.27083333333333,1.3333333333333333,be seem realize stop pause continue do matter
+Bernadette,Parker,2.5,0.0,57.49999999999999,INF,be say have slim do look
+Parker,Bernadette,2.5,0.0,57.49999999999999,INF,be say have slim do look
+Parker,Bernadette,2.5,0.0,57.49999999999999,INF,be say have slim do look
+Parker,Bernadette,2.5,0.0,57.49999999999999,INF,be say have slim do look
+Parker,Bernadette,9.722222222222223,0.0,45.83333333333333,INF,have exaggerate
+Bernadette,Parker,3.1914893617021276,5.851063829787234,59.04255319148937,0.5454545454545454,have imagine seem have owe
+Parker,Bernadette,3.1914893617021276,5.851063829787234,59.04255319148937,0.5454545454545454,have imagine seem have owe
+Parker,Bernadette,3.1914893617021276,5.851063829787234,59.04255319148937,0.5454545454545454,have imagine seem have owe
+Parker,Ella,1.6891891891891893,1.6891891891891893,50.67567567567568,1.0,be be be call
+Diane,Jilly,1.9230769230769231,1.282051282051282,50.641025641025635,1.5,be meet be shake nod wish say take
+Diane,Chantal,0.0,0.0,35.714285714285715,INF,kick say
+Diane,Jilly,2.272727272727273,2.272727272727273,31.818181818181817,1.0,like say
+Peterson,Jilly,4.545454545454546,1.1363636363636365,30.681818181818183,4.0,be say
+Diane,Chantal,0.0,0.0,40.0,INF,handle say
+Peterson,Chantal,3.125,0.0,40.625,INF,have say
+Peterson,Chantal,3.125,0.0,40.625,INF,have say
+Chantal,Peterson,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,ask tell
+Chantal,Peterson,1.3888888888888888,0.0,43.05555555555556,INF,pass
+Chantal,Forgetful Bay,0.0,0.7352941176470588,52.20588235294118,0.0,remain be
+Forgetful Bay,Chantal,0.0,0.7352941176470588,52.20588235294118,0.0,remain be
+HOA,Bernadette,1.5625,5.859375,45.703125,0.26666666666666666,be say say open
+HOA,Forgetful Bay,1.5625,5.859375,45.703125,0.26666666666666666,be say say open
+Bernadette,Forgetful Bay,1.5625,5.859375,45.703125,0.26666666666666666,be say say open
+Jean,Bernadette,0.0,0.0,60.0,INF,rise turn address
+Jean,Bernadette,1.358695652173913,1.6304347826086956,60.05434782608695,0.8333333333333334,be head be be drag scrape make bang
+Jean,Bruce,1.358695652173913,1.6304347826086956,60.05434782608695,0.8333333333333334,be head be be drag scrape make bang
+Bernadette,Bruce,1.358695652173913,1.6304347826086956,60.05434782608695,0.8333333333333334,be head be be drag scrape make bang
+Bruce,Roberta,4.166666666666666,0.4629629629629629,50.92592592592593,9.0,have be sit find go
+Nasser,Bernadette,0.0,0.0,28.57142857142857,INF,say
+Jean,Nasser,0.0,0.0,42.857142857142854,INF,say
+Bernadette,Nasser,0.0,0.0,14.285714285714285,INF,say
+Jilly,Bruce,0.0,0.0,37.5,INF,be
+Jilly,Roberta,0.0,0.0,37.5,INF,be
+Bruce,Roberta,0.0,0.0,37.5,INF,be
+Bernadette,Roberta,0.0,0.0,38.46153846153847,INF,put say
+Hilton,Bruce,1.3888888888888888,2.314814814814815,48.148148148148145,0.6,come trot slam speed
+Jean,Bernadette,3.125,0.625,56.25,5.0,circle be talk do know
+Rosa,Bernadette,0.0,0.0,38.46153846153847,INF,say point
+Jean,Bernadette,0.9615384615384616,0.0,52.88461538461539,INF,ask speak
+Rosa,Bernadette,6.25,3.125,53.125,2.0,say hear
+Forgetful Bay,Bernadette,0.0,0.78125,42.96875,0.0,say drop
+Forgetful Bay,Bernadette,0.0,0.78125,42.96875,0.0,say drop
+Peterson,Bernadette,5.555555555555555,2.7777777777777777,13.88888888888889,2.0,say
+Diane,Cal,2.083333333333333,1.6666666666666667,56.25,1.25,have insist join schedule last be feel
+Diane,Cal,2.083333333333333,1.6666666666666667,56.25,1.25,have insist join schedule last be feel
+Wallace,Diane,2.7777777777777777,3.4722222222222223,54.861111111111114,0.8,seem be die say
+Dan,Diane,0.0,6.944444444444445,26.38888888888889,0.0,include say
+Diane,Cal,0.0,1.0416666666666665,53.125,0.0,want give say draw
+Diane,Cal,1.9230769230769231,0.0,59.61538461538461,INF,be watch chat
+Diane,Cal,1.6304347826086956,0.5434782608695652,50.0,3.0,be want see
+Diane,Cal,1.6304347826086956,0.5434782608695652,50.0,3.0,be want see
+Jilly,Morgan,3.90625,3.125,55.46875,1.25,be be
+Diane,Morgan,0.9433962264150944,0.4716981132075472,55.188679245283026,2.0,want meet do take try stare know
+Diane,Jilly,0.9433962264150944,0.4716981132075472,55.188679245283026,2.0,want meet do take try stare know
+Morgan,Jilly,0.9433962264150944,0.4716981132075472,55.188679245283026,2.0,want meet do take try stare know
+Diane,Cal,0.0,0.0,46.15384615384615,INF,say do
+Diane,Jerry,4.375,0.0,45.625,INF,turn nod say seem
+Cal,Diane,1.0416666666666665,0.3472222222222222,43.05555555555556,3.0,want get say seem have make say
+Diane,Cal,4.6875,2.34375,61.71875,2.0,want talk be help
+Jilly,Diane,0.0,0.0,50.0,INF,look be
+Cal,Diane,0.0,0.0,41.66666666666667,INF,settle say
+Betty,Morgan,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Betty,Morgan,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Betty,Morgan,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Betty,Morgan,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Morgan,Betty,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Morgan,Betty,3.6764705882352944,2.5735294117647056,58.45588235294118,1.4285714285714286,be repeat swat answer ask
+Diane,Cal,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,be worry be go do
+Diane,Cal,4.411764705882353,5.147058823529411,43.38235294117647,0.8571428571428571,be worry be go do
+Jilly,Morgan,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Jilly,Diane,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Jilly,Diane,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Jilly,Chantal,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Morgan,Diane,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Morgan,Diane,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Morgan,Chantal,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Diane,Chantal,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Diane,Chantal,0.390625,0.0,55.859375,INF,tell meet drop drive see
+Jilly,Morgan,1.7045454545454544,2.556818181818182,54.82954545454546,0.6666666666666666,do seem have steer turn do want see feel be feel
+Jilly,Morgan,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Diane,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Jean,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Bernadette,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Bruce,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jilly,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Diane,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Jean,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Bernadette,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Bruce,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Morgan,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Jean,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Bernadette,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Bruce,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Diane,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Bernadette,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Bruce,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Jean,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bernadette,Bruce,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bernadette,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bernadette,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bernadette,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bernadette,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bruce,Roberta,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bruce,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bruce,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Bruce,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Roberta,Peterson,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Roberta,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Roberta,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Peterson,Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Peterson,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Parker,Mrs. Parker,0.6756756756756757,10.135135135135135,40.54054054054054,0.06666666666666667,
+Cal,Morgan,12.5,1.9230769230769231,47.11538461538461,6.5,be do get
+Jilly,Diane,5.681818181818182,2.272727272727273,28.40909090909091,2.5,be say
+Jilly,Forgetful Bay,1.4423076923076923,0.4807692307692308,40.38461538461539,3.0,think ask marry move
+Wallace,Diane,4.6875,3.125,29.6875,1.5,
+Diane,Jilly,0.78125,0.0,49.21875,INF,think be come join say
+Diane,Cal,0.0,0.0,33.33333333333333,INF,be wait
+Diane,Jilly,0.0,0.0,30.0,INF,say
+Bernadette,Smoky Lake,0.4807692307692308,2.403846153846154,54.807692307692314,0.2,say dress head be
+Jean,Bernadette,1.25,0.625,68.125,2.0,be do recognize be introduce
+Peterson,Bernadette,0.0,0.0,14.285714285714285,INF,say
+Chantal,Bernadette,8.035714285714286,6.25,28.57142857142857,1.2857142857142858,be wonder say ignore
+Chantal,Jean,8.035714285714286,6.25,28.57142857142857,1.2857142857142858,be wonder say ignore
+Bernadette,Jean,8.035714285714286,6.25,28.57142857142857,1.2857142857142858,be wonder say ignore
+Chantal,Peterson,2.631578947368421,0.6578947368421052,38.81578947368421,4.0,have hear be have
+Chantal,Peterson,0.0,0.0,53.84615384615385,INF,talk die say
+Chantal,Jean,6.25,0.0,33.75,INF,find say
+Jilly,Cal,0.0,0.0,16.666666666666664,INF,
+Chantal,Jean,4.464285714285714,0.0,31.25,INF,be know say
+Chantal,Parker,6.730769230769231,0.0,47.11538461538461,INF,do know have
+Morgan,Jilly,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,be make
+Morgan,Jilly,3.4090909090909087,2.272727272727273,53.40909090909091,1.5,be chop be play be talk
+Morgan,Jilly,3.4090909090909087,2.272727272727273,53.40909090909091,1.5,be chop be play be talk
+Chantal,Morgan,0.0,2.083333333333333,31.25,0.0,want go say
+Peterson,Morgan,0.0,0.0,25.0,INF,say
+Jilly,Morgan,1.7045454545454544,2.840909090909091,50.0,0.6,look say
+Harper,Morgan,1.875,1.25,51.87500000000001,1.5,say leave say
+Bernadette,Chantal,0.0,2.5,27.500000000000004,0.0,want go
+Bernadette,HOA,0.0,2.5,17.5,0.0,be
+Chantal,Morgan,0.0,0.0,45.45454545454545,INF,go
+Jilly,Morgan,2.2058823529411766,0.7352941176470588,50.0,3.0,do look be be say
+Morgan,Bernadette,0.0,0.0,57.14285714285714,INF,wrap pull close
+Morgan,Bernadette,0.0,0.0,57.14285714285714,INF,wrap pull close
+Jean,Bernadette,0.0,0.0,37.5,INF,do say
+Parker,Chantal,0.78125,0.0,55.46875,INF,be shoot
+Peterson,Parker,0.0,0.0,33.33333333333333,INF,mean
+Jean,Parker,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,tell be be
+Jean,Bernadette,4.166666666666666,0.0,29.166666666666668,INF,have tell know say
+Jean,Bernadette,5.208333333333334,0.0,36.45833333333333,INF,sit say
+Bernadette,Jean,2.73972602739726,0.5136986301369862,61.130136986301366,5.333333333333333,call arrange meet go repeat remember record start be be speak
+Bernadette,Jean,2.73972602739726,0.5136986301369862,61.130136986301366,5.333333333333333,call arrange meet go repeat remember record start be be speak
+Jean,Chantal,1.5625,0.390625,44.921875,4.0,be do say be shut state
+Jean,Chantal,1.5625,0.390625,44.921875,4.0,be do say be shut state
+Jean,Bernadette,1.5625,0.390625,44.921875,4.0,be do say be shut state
+Chantal,Bernadette,1.5625,0.390625,44.921875,4.0,be do say be shut state
+Chantal,Bernadette,1.5625,0.390625,44.921875,4.0,be do say be shut state
+Chantal,Jilly,0.0,0.0,36.36363636363637,INF,have tell say
+Chantal,Jilly,0.0,0.0,45.45454545454545,INF,be do say
+Hilton,Forgetful Bay,0.0,0.4464285714285714,53.125,0.0,report die
+Hilton,Forgetful Bay,0.0,0.4464285714285714,53.125,0.0,report die
+Morgan,Chantal,0.0,0.0,62.5,INF,be be
+Morgan,Jilly,0.0,0.0,62.5,INF,be be
+Chantal,Jilly,0.0,0.0,62.5,INF,be be
+Peterson,Parker,2.0454545454545454,2.272727272727273,55.68181818181818,0.9,seem have absorb mention be go be suspect be give think
+Chantal,Bruce,1.7361111111111112,0.6944444444444444,61.458333333333336,2.5,take see be be turn come
+Chantal,Roberta,1.7361111111111112,0.6944444444444444,61.458333333333336,2.5,take see be be turn come
+Bruce,Roberta,1.7361111111111112,0.6944444444444444,61.458333333333336,2.5,take see be be turn come
+Peterson,Chantal,2.0652173913043477,1.4130434782608696,58.26086956521739,1.4615384615384615,drive notice have see be mean be have be kick be run
+Peterson,Bernadette,2.0652173913043477,1.4130434782608696,58.26086956521739,1.4615384615384615,drive notice have see be mean be have be kick be run
+Peterson,Bernadette,2.0652173913043477,1.4130434782608696,58.26086956521739,1.4615384615384615,drive notice have see be mean be have be kick be run
+Chantal,Bernadette,2.0652173913043477,1.4130434782608696,58.26086956521739,1.4615384615384615,drive notice have see be mean be have be kick be run
+Chantal,Bernadette,2.0652173913043477,1.4130434782608696,58.26086956521739,1.4615384615384615,drive notice have see be mean be have be kick be run
+Jean,Bernadette,0.4746835443037975,3.79746835443038,69.14556962025317,0.125,be notice look keep go see flow hold
+Jean,Smoky Lake,0.4746835443037975,3.79746835443038,69.14556962025317,0.125,be notice look keep go see flow hold
+Jean,Bernadette,0.4746835443037975,3.79746835443038,69.14556962025317,0.125,be notice look keep go see flow hold
+Bernadette,Smoky Lake,0.4746835443037975,3.79746835443038,69.14556962025317,0.125,be notice look keep go see flow hold
+Smoky Lake,Bernadette,0.4746835443037975,3.79746835443038,69.14556962025317,0.125,be notice look keep go see flow hold
+Bruce,Roberta,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Bruce,Ng,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Bruce,Mary,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Roberta,Ng,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Roberta,Mary,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Ng,Mary,1.963350785340314,1.832460732984293,57.98429319371727,1.0714285714285714,see figure have be leave get pass have live be pack slow pass take be look be begin be guess be give be stand welcome start grin think get
+Jilly,Morgan,1.215277777777778,3.8194444444444446,61.63194444444444,0.3181818181818182,be saw look be go tour take kill wound
+Jilly,Diane,5.172413793103448,1.7241379310344827,44.827586206896555,3.0,be touch
+Jilly,Morgan,5.172413793103448,1.7241379310344827,44.827586206896555,3.0,be touch
+Diane,Morgan,5.172413793103448,1.7241379310344827,44.827586206896555,3.0,be touch
+Jilly,Morgan,1.1904761904761905,1.3888888888888888,60.912698412698404,0.8571428571428571,be turn go get be be block come

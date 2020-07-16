@@ -1,0 +1,1259 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Dōgen,Nao,0.0,0.0,28.57142857142857,INF,be
+Nao,Naoko,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be be call do
+Naoko,Nao,2.083333333333333,1.0416666666666665,38.54166666666667,2.0,be be call do
+Akiba,Edith Pilaf,2.7027027027027026,2.364864864864865,54.391891891891895,1.1428571428571428,be sit be sing bring have take
+Akiba,Babette,2.7027027027027026,2.364864864864865,54.391891891891895,1.1428571428571428,be sit be sing bring have take
+Edith Pilaf,Babette,2.7027027027027026,2.364864864864865,54.391891891891895,1.1428571428571428,be sit be sing bring have take
+Oliver,Ruth,0.0,0.0,33.33333333333333,INF,repeat do answer
+Oliver,Ruth,0.0,1.7857142857142856,61.47959183673469,0.0,be do disembowel leave step
+Oliver,Ruth,0.0,1.7857142857142856,61.47959183673469,0.0,be do disembowel leave step
+Oliver,Ruth,0.0,1.7857142857142856,61.47959183673469,0.0,be do disembowel leave step
+Ruth,Oliver,1.6304347826086956,0.0,50.54347826086957,INF,pick drop turn
+Ruth,Oliver,1.6304347826086956,0.0,50.54347826086957,INF,pick drop turn
+Oliver,Ruth,1.6304347826086956,0.0,50.54347826086957,INF,pick drop turn
+Oliver,Ruth,1.6304347826086956,0.0,50.54347826086957,INF,pick drop turn
+Ruth,Oliver,1.0416666666666665,0.0,40.625,INF,put take
+Ruth,Oliver,2.1551724137931036,2.1551724137931036,61.206896551724135,1.0,be stack pile mind
+Ruth,Oliver,0.7352941176470588,0.0,58.08823529411765,INF,be assert have
+Ruth,Oliver,1.4534883720930232,1.4534883720930232,43.604651162790695,1.0,miss move agree be order want do
+Ruth,Oliver,1.4534883720930232,1.4534883720930232,43.604651162790695,1.0,miss move agree be order want do
+Oliver,Ruth,1.4534883720930232,1.4534883720930232,43.604651162790695,1.0,miss move agree be order want do
+Oliver,Ruth,1.4534883720930232,1.4534883720930232,43.604651162790695,1.0,miss move agree be order want do
+Oliver,Ruth,1.4534883720930232,1.4534883720930232,43.604651162790695,1.0,miss move agree be order want do
+Ruth,Oliver,3.0,0.0,49.0,INF,call have read read
+Oliver,Ruth,3.0,0.0,49.0,INF,call have read read
+Oliver,Ruth,4.545454545454546,3.4090909090909087,42.04545454545455,1.3333333333333333,escape be tell be excite
+Ruth,Oliver,4.545454545454546,3.4090909090909087,42.04545454545455,1.3333333333333333,escape be tell be excite
+Oliver,Ruth,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,tell
+Jiko Obaachama,Granny,4.032258064516129,1.6129032258064515,50.806451612903224,2.5,be say like like tell smell make be have train notice remember
+Jiko Obaachama,Granny,4.032258064516129,1.6129032258064515,50.806451612903224,2.5,be say like like tell smell make be have train notice remember
+Nao,Taisho,3.896103896103896,2.4350649350649354,50.81168831168831,1.6,be go tell need explain be hold have notice do look
+Marcel Proust,Nao,3.273809523809524,3.273809523809524,55.35714285714286,1.0,pick think be call temp name name
+Akiba,Marcel Proust,2.556818181818182,1.4204545454545454,73.29545454545455,1.8,mean be sit think lose be sit write
+Jiko Obaachama,Babette,2.9850746268656714,3.544776119402985,56.156716417910445,0.8421052631578947,be read see be shape turn fall cover
+Jiko Obaachama,Babette,2.0408163265306123,2.5510204081632653,54.59183673469388,0.8,occur be be be be imagine search lose sift fall leave be
+Dōgen,Jiko Obaachama,6.5625,1.25,57.1875,5.25,be come call name write make
+Dōgen,Marcel Proust,6.5625,1.25,57.1875,5.25,be come call name write make
+Jiko Obaachama,Marcel Proust,6.5625,1.25,57.1875,5.25,be come call name write make
+Dōgen,Jiko Obaachama,9.375,0.5208333333333333,40.10416666666667,18.0,be be be kick
+Dōgen,Marcel Proust,9.375,0.5208333333333333,40.10416666666667,18.0,be be be kick
+Dōgen,Marcel Proust,9.375,0.5208333333333333,40.10416666666667,18.0,be be be kick
+Jiko Obaachama,Marcel Proust,9.375,0.5208333333333333,40.10416666666667,18.0,be be be kick
+Jiko Obaachama,Marcel Proust,9.375,0.5208333333333333,40.10416666666667,18.0,be be be kick
+Jiko Obaachama,Babette,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Jiko Obaachama,Babette,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Jiko Obaachama,Marcel Proust,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Babette,Marcel Proust,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Babette,Jiko Obaachama,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Babette,Marcel Proust,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Babette,Jiko Obaachama,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Marcel Proust,Jiko Obaachama,3.985507246376811,3.6231884057971016,47.46376811594203,1.1,write be have read be tell start think be be pop use write
+Babette,Marcel Proust,6.25,6.770833333333333,53.645833333333336,0.9230769230769231,be be be be write
+Babette,Marcel Proust,6.25,6.770833333333333,53.645833333333336,0.9230769230769231,be be be be write
+Jiko Obaachama,Babette,3.125,1.5625,32.8125,2.0,be
+Jiko Obaachama,Babette,3.3203125,2.34375,53.7109375,1.4166666666666667,do know do know be have finish sweep weed arrange be be
+Jiko Obaachama,Babette,3.3203125,2.34375,53.7109375,1.4166666666666667,do know do know be have finish sweep weed arrange be be
+Jiko Obaachama,Babette,3.3203125,2.34375,53.7109375,1.4166666666666667,do know do know be have finish sweep weed arrange be be
+Jiko Obaachama,Babette,3.3203125,2.34375,53.7109375,1.4166666666666667,do know do know be have finish sweep weed arrange be be
+Jiko Obaachama,Nao,2.403846153846154,2.644230769230769,52.644230769230774,0.9090909090909091,think write be love want remember be plan stick remember be
+Jiko Obaachama,Nao,2.403846153846154,2.644230769230769,52.644230769230774,0.9090909090909091,think write be love want remember be plan stick remember be
+Jiko Obaachama,Nao,2.403846153846154,2.644230769230769,52.644230769230774,0.9090909090909091,think write be love want remember be plan stick remember be
+Jiko Obaachama,Nao,4.642857142857143,1.4285714285714286,59.64285714285714,3.25,mean think want know post stop do
+Jiko Obaachama,Marcel Proust,3.4090909090909087,1.1363636363636365,50.0,3.0,come be be lose
+Jiko Obaachama,Marcel Proust,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,be write know be do leave find
+Jiko Obaachama,Marcel Proust,3.125,1.875,40.0,1.6666666666666667,
+Jiko Obaachama,Buddhist,5.416666666666667,2.083333333333333,49.166666666666664,2.6,do think mind be understand last
+Ruth,Akiba,2.8846153846153846,2.307692307692308,47.11538461538461,1.25,make explain do bother find log investigate verify have drag be translate annotate scribble
+Ruth,Akiba,2.8846153846153846,2.307692307692308,47.11538461538461,1.25,make explain do bother find log investigate verify have drag be translate annotate scribble
+Ruth,Akiba,2.8846153846153846,2.307692307692308,47.11538461538461,1.25,make explain do bother find log investigate verify have drag be translate annotate scribble
+Jiko Obaachama,Nao,2.976190476190476,4.166666666666666,50.0,0.7142857142857143,lean do have warn find
+Nao,Dōgen,4.166666666666666,1.5151515151515151,42.803030303030305,2.75,have do have
+Nao,Marcel Proust,4.166666666666666,1.5151515151515151,42.803030303030305,2.75,have do have
+Dōgen,Marcel Proust,4.166666666666666,1.5151515151515151,42.803030303030305,2.75,have do have
+Oliver,Ruth,0.0,2.7777777777777777,47.22222222222222,0.0,think be say
+Ruth,Oliver,0.3676470588235294,0.7352941176470588,63.60294117647059,0.5,be intern firebomb fight be bear
+Muriel,Kitty,1.5625,1.5625,46.875,1.0,doubt be say place turn
+Muriel,Kitty,1.5625,1.5625,46.875,1.0,doubt be say place turn
+Oliver,Muriel,1.7857142857142856,0.0,69.64285714285714,INF,like
+Muriel,Oliver,2.6785714285714284,0.0,47.32142857142857,INF,flick rub distract
+Muriel,Oliver,2.6785714285714284,0.0,47.32142857142857,INF,flick rub distract
+Muriel,Oliver,2.6785714285714284,0.0,47.32142857142857,INF,flick rub distract
+Muriel,Oliver,2.6785714285714284,0.0,47.32142857142857,INF,flick rub distract
+Muriel,Ruth,0.0,0.0,54.54545454545454,INF,peer
+Muriel,Ruth,0.0,0.0,54.54545454545454,INF,peer
+Muriel,Kitty,4.605263157894736,2.631578947368421,55.92105263157895,1.75,be decorate look
+Muriel,Ruth,6.521739130434782,0.0,45.65217391304348,INF,have ask inspect find have repack
+Muriel,Ruth,6.521739130434782,0.0,45.65217391304348,INF,have ask inspect find have repack
+Muriel,Ruth,0.0,2.083333333333333,56.25,0.0,watch handle feel grow
+Muriel,Ruth,0.0,2.083333333333333,56.25,0.0,watch handle feel grow
+Muriel,Ruth,4.464285714285714,0.0,45.535714285714285,INF,lay take
+Nao,Muriel,5.681818181818182,6.8181818181818175,42.04545454545455,0.8333333333333334,have
+Muriel,Ruth,2.5,2.5,55.00000000000001,1.0,stomp look have come see
+Muriel,Ruth,2.5,2.5,55.00000000000001,1.0,stomp look have come see
+Muriel,Ruth,2.5,2.5,55.00000000000001,1.0,stomp look have come see
+Muriel,Ruth,2.5,2.5,55.00000000000001,1.0,stomp look have come see
+Ruth,Oliver,1.9230769230769231,0.0,59.61538461538461,INF,read
+Ruth,Nao,1.7857142857142856,0.0,41.07142857142857,INF,read
+Oliver,Ruth,7.5,5.0,40.833333333333336,1.5,do want tell
+Ruth,Oliver,0.0,0.0,50.0,INF,take slip
+Oliver,Ruth,0.0,0.0,50.0,INF,take slip
+Ruth,Oliver,0.625,4.375,45.0,0.14285714285714285,listen tick
+Ruth,Nao,2.850877192982456,1.7543859649122806,48.026315789473685,1.625,hold sniff identify smell tickle realize be
+Ruth,Nao,2.850877192982456,1.7543859649122806,48.026315789473685,1.625,hold sniff identify smell tickle realize be
+Ruth,Nao,2.850877192982456,1.7543859649122806,48.026315789473685,1.625,hold sniff identify smell tickle realize be
+Ruth,Nao,2.850877192982456,1.7543859649122806,48.026315789473685,1.625,hold sniff identify smell tickle realize be
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Nao,Ruth,2.6785714285714284,2.232142857142857,45.089285714285715,1.2,claim have write know be decide go
+Ruth,Nao,1.3888888888888888,2.314814814814815,55.55555555555556,0.6,pace slow read have write replicate
+Dad,Nao,3.896103896103896,1.6233766233766231,55.519480519480524,2.4,come cut surround get stay have happen turn wave have look have gather sing
+Dad,OTB,1.9444444444444444,2.083333333333333,53.75,0.9333333333333333,have go get find confront confess be lie go sit get smash vend go buy jump
+Dad,Chuo Rapid Express Incident,1.9444444444444444,2.083333333333333,53.75,0.9333333333333333,have go get find confront confess be lie go sit get smash vend go buy jump
+OTB,Chuo Rapid Express Incident,1.9444444444444444,2.083333333333333,53.75,0.9333333333333333,have go get find confront confess be lie go sit get smash vend go buy jump
+Ruth,Nao,4.838709677419355,1.2096774193548387,35.88709677419355,4.0,have read
+Nao,Ruth,4.838709677419355,1.2096774193548387,35.88709677419355,4.0,have read
+Ruth,Nao,0.0,4.166666666666666,45.83333333333333,0.0,be imagine sit
+Ruth,Oliver,2.302631578947368,1.3157894736842104,59.539473684210535,1.75,have be fascinate meander grow try follow be do
+Oliver,Ruth,2.302631578947368,1.3157894736842104,59.539473684210535,1.75,have be fascinate meander grow try follow be do
+Oliver,Ruth,2.302631578947368,1.3157894736842104,59.539473684210535,1.75,have be fascinate meander grow try follow be do
+Oliver,Ruth,2.302631578947368,1.3157894736842104,59.539473684210535,1.75,have be fascinate meander grow try follow be do
+Ruth,Oliver,3.040540540540541,1.6891891891891893,57.432432432432435,1.8,have be invite do be make be become
+Ruth,Oliver,3.040540540540541,1.6891891891891893,57.432432432432435,1.8,have be invite do be make be become
+Oliver,Ruth,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Oliver,Ruth,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Oliver,Ruth,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Ruth,Oliver,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Oliver,Ruth,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Oliver,Ruth,1.1904761904761905,0.8928571428571428,52.67857142857143,1.3333333333333333,use visit drink talk piece
+Oliver,Ruth,2.380952380952381,0.2976190476190476,54.46428571428571,8.0,be do call be draw
+Oliver,Ruth,2.380952380952381,0.2976190476190476,54.46428571428571,8.0,be do call be draw
+Ruth,Oliver,2.380952380952381,0.2976190476190476,54.46428571428571,8.0,be do call be draw
+Ruth,Oliver,1.3888888888888888,2.7777777777777777,43.98148148148148,0.5,flicker listen talk have move
+Ruth,Oliver,1.3888888888888888,2.7777777777777777,43.98148148148148,0.5,flicker listen talk have move
+Oliver,Ruth,1.3888888888888888,2.7777777777777777,43.98148148148148,0.5,flicker listen talk have move
+Ruth,Oliver,1.3888888888888888,2.7777777777777777,43.98148148148148,0.5,flicker listen talk have move
+Ruth,Oliver,2.302631578947368,0.0,52.960526315789465,INF,end part go teach
+Ruth,Oliver,2.302631578947368,0.0,52.960526315789465,INF,end part go teach
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Oliver,Ruth,4.23728813559322,0.211864406779661,59.95762711864406,20.0,have be diagnose have die have promise care be go be publish embark take
+Ruth,Whaletown,2.6785714285714284,0.5952380952380952,63.39285714285714,4.5,seem move come be exchange have be
+Ruth,Whaletown,2.6785714285714284,0.5952380952380952,63.39285714285714,4.5,seem move come be exchange have be
+Dawson,Douglass,5.277777777777778,1.1111111111111112,60.27777777777777,4.75,have be hunt name establish start kill call
+Dawson,Whaletown,5.277777777777778,1.1111111111111112,60.27777777777777,4.75,have be hunt name establish start kill call
+Douglass,Whaletown,5.277777777777778,1.1111111111111112,60.27777777777777,4.75,have be hunt name establish start kill call
+Dawson,Douglass,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,have ship
+Dawson,Douglass,2.1875,0.9375,64.375,2.3333333333333335,be establish have be slaughter have flee close move
+Whaletown,Ruth,0.6756756756756757,0.33783783783783783,58.445945945945944,2.0,have become hover feel haunt
+Ruth,Oliver,0.0,0.0,47.82608695652174,INF,lean tilt see pierce
+Oliver,Ruth,0.0,0.0,47.82608695652174,INF,lean tilt see pierce
+Oliver,Ruth,0.0,0.0,47.82608695652174,INF,lean tilt see pierce
+Oliver,Ruth,0.0,4.6875,39.0625,0.0,say hold fall
+Oliver,Ruth,0.0,4.6875,39.0625,0.0,say hold fall
+Oliver,Ruth,1.694915254237288,2.5423728813559325,60.16949152542372,0.6666666666666666,move be start walk be run trail seem be heal be absorb
+Oliver,Ruth,1.694915254237288,2.5423728813559325,60.16949152542372,0.6666666666666666,move be start walk be run trail seem be heal be absorb
+Oliver,Ruth,1.694915254237288,2.5423728813559325,60.16949152542372,0.6666666666666666,move be start walk be run trail seem be heal be absorb
+Ruth,Oliver,1.694915254237288,2.5423728813559325,60.16949152542372,0.6666666666666666,move be start walk be run trail seem be heal be absorb
+Ruth,Oliver,1.694915254237288,2.5423728813559325,60.16949152542372,0.6666666666666666,move be start walk be run trail seem be heal be absorb
+Oliver,Ruth,1.3157894736842104,2.302631578947368,49.01315789473684,0.5714285714285714,see unfold embed come tell see
+Oliver,Ruth,1.3157894736842104,2.302631578947368,49.01315789473684,0.5714285714285714,see unfold embed come tell see
+Ruth,Oliver,1.3157894736842104,2.302631578947368,49.01315789473684,0.5714285714285714,see unfold embed come tell see
+Buddhist,Ruth,1.3888888888888888,4.166666666666666,50.0,0.3333333333333333,be leave enter be be contemplate ponder
+Buddhist,Ruth,1.3888888888888888,4.166666666666666,50.0,0.3333333333333333,be leave enter be be contemplate ponder
+Buddhist,Ruth,1.3888888888888888,4.166666666666666,50.0,0.3333333333333333,be leave enter be be contemplate ponder
+Oliver,Ruth,0.0,2.631578947368421,55.26315789473685,0.0,be chop hear
+Nao,Marcel Proust,6.25,3.6458333333333335,52.604166666666664,1.7142857142857142,have describe see wonder have fall
+Ruth,Nao,0.4032258064516129,0.0,47.983870967741936,INF,picture sit wait bring
+Ruth,Nao,0.4032258064516129,0.0,47.983870967741936,INF,picture sit wait bring
+Nao,Ruth,0.4032258064516129,0.0,47.983870967741936,INF,picture sit wait bring
+Nao,Ruth,0.4032258064516129,0.0,47.983870967741936,INF,picture sit wait bring
+Nao,Ruth,0.6756756756756757,1.0135135135135136,57.770270270270274,0.6666666666666666,do have learn have surpass lead be
+Nao,Ruth,0.6756756756756757,1.0135135135135136,57.770270270270274,0.6666666666666666,do have learn have surpass lead be
+Nao,Ruth,0.6756756756756757,1.0135135135135136,57.770270270270274,0.6666666666666666,do have learn have surpass lead be
+Nao,Ruth,0.6756756756756757,1.0135135135135136,57.770270270270274,0.6666666666666666,do have learn have surpass lead be
+Ruth,Oliver,2.754237288135593,6.3559322033898304,51.90677966101694,0.43333333333333335,hear come tap have catch be be miss
+Ruth,Oliver,2.754237288135593,6.3559322033898304,51.90677966101694,0.43333333333333335,hear come tap have catch be be miss
+Ruth,Oliver,0.0,0.6944444444444444,49.30555555555556,0.0,tap
+Ruth,Oliver,0.0,0.6944444444444444,49.30555555555556,0.0,tap
+Oliver,Ruth,0.0,0.6944444444444444,49.30555555555556,0.0,tap
+Jiko Obaachama,Haruki,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Jiko Obaachama,Sugako,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Jiko Obaachama,Ema,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Haruki,Sugako,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Haruki,Ema,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Sugako,Ema,3.3333333333333335,0.4166666666666667,39.58333333333333,8.0,be have name name
+Ema,Jiko Obaachama,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Ema,Haruki,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Ema,Jiko Obaachama,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Ema,Haruki,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Jiko Obaachama,Ema,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Jiko Obaachama,Haruki,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Ema,Haruki,0.641025641025641,1.282051282051282,46.794871794871796,0.5,be be get marry adopt take get kill
+Haruki,Nao,1.25,6.875000000000001,41.875,0.18181818181818182,replace need keep go
+Haruki,Ema,1.6666666666666667,0.0,38.333333333333336,INF,be name
+Ema,Haruki,1.6666666666666667,0.0,38.333333333333336,INF,be name
+Haruki,Tokyo University,1.6891891891891893,0.5067567567567568,55.91216216216216,3.3333333333333335,be be think become be like keep try kill guess say run
+Haruki,Tokyo University,1.6891891891891893,0.5067567567567568,55.91216216216216,3.3333333333333335,be be think become be like keep try kill guess say run
+Haruki,Tokyo University,1.6891891891891893,0.5067567567567568,55.91216216216216,3.3333333333333335,be be think become be like keep try kill guess say run
+Tokyo University,Haruki,1.6891891891891893,0.5067567567567568,55.91216216216216,3.3333333333333335,be be think become be like keep try kill guess say run
+Jiko Obaachama,Ema,1.7045454545454544,1.1363636363636365,42.61363636363637,1.5,say tell do want commit
+Jiko Obaachama,Haruki,1.7045454545454544,1.1363636363636365,42.61363636363637,1.5,say tell do want commit
+Ema,Haruki,1.7045454545454544,1.1363636363636365,42.61363636363637,1.5,say tell do want commit
+Jiko Obaachama,Haruki,1.9736842105263157,0.3289473684210526,58.223684210526315,6.0,say get bully love be run get pick
+Jiko Obaachama,Haruki,1.9736842105263157,0.3289473684210526,58.223684210526315,6.0,say get bully love be run get pick
+Haruki,Ema,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Haruki,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Haruki,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Haruki,Ema,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Haruki,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Haruki,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Ema,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Ema,Nao,1.9886363636363635,1.4204545454545454,48.86363636363637,1.4,be get kill get carry be be
+Ema,Emma Goldman,7.738095238095238,2.380952380952381,47.023809523809526,3.25,speak be name be
+Ema,Jiko Obaachama,7.738095238095238,2.380952380952381,47.023809523809526,3.25,speak be name be
+Emma Goldman,Jiko Obaachama,7.738095238095238,2.380952380952381,47.023809523809526,3.25,speak be name be
+Emma Goldman,Jiko Obaachama,4.0,1.5,58.5,2.6666666666666665,be be grow think be
+Emma Goldman,Jiko Obaachama,4.0,1.5,58.5,2.6666666666666665,be be grow think be
+Jiko Obaachama,Emma Goldman,4.0,1.5,58.5,2.6666666666666665,be be grow think be
+Jiko Obaachama,Emma Goldman,4.0,1.5,58.5,2.6666666666666665,be be grow think be
+Emma Goldman,Jiko Obaachama,3.532608695652174,2.4456521739130435,59.2391304347826,1.4444444444444444,write call live be try get read have get be live try figure
+Jiko Obaachama,Emma Goldman,2.34375,0.390625,44.140625,6.0,name be hang
+Jiko Obaachama,Sugako,2.34375,0.390625,44.140625,6.0,name be hang
+Jiko Obaachama,Sugako,2.34375,0.390625,44.140625,6.0,name be hang
+Emma Goldman,Sugako,2.34375,0.390625,44.140625,6.0,name be hang
+Emma Goldman,Sugako,2.34375,0.390625,44.140625,6.0,name be hang
+Emma Goldman,Jiko Obaachama,2.34375,0.390625,44.140625,6.0,name be hang
+Sugako,Jiko Obaachama,2.34375,0.390625,44.140625,6.0,name be hang
+Sugako,Jiko Obaachama,2.34375,0.390625,44.140625,6.0,name be hang
+Sugako,Jiko Obaachama,5.743243243243244,1.0135135135135136,47.2972972972973,5.666666666666667,call plot assassinate listen tell do buy
+Jiko Obaachama,Sugako,2.696078431372549,2.2058823529411766,63.725490196078425,1.2222222222222223,be be be hang get meet think be get
+Ema,Jiko Obaachama,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,be use take move become get
+Jiko Obaachama,Ema,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,be use take move become get
+Jiko Obaachama,Ema,0.7142857142857143,1.4285714285714286,52.142857142857146,0.5,be use take move become get
+Dad,Jiko Obaachama,1.8867924528301887,0.7075471698113208,59.66981132075472,2.6666666666666665,say take visit be move do see find learn be
+Jiko Obaachama,Dad,1.8867924528301887,0.7075471698113208,59.66981132075472,2.6666666666666665,say take visit be move do see find learn be
+Great Minds of Western Philosophy,Dad,4.336734693877551,1.530612244897959,55.35714285714286,2.8333333333333335,guess be bring think help find get
+Great Minds of Western Philosophy,Dad,4.336734693877551,1.530612244897959,55.35714285714286,2.8333333333333335,guess be bring think help find get
+Dad,Socrates,4.166666666666666,2.083333333333333,60.416666666666664,2.0,start do
+Dad,Great Minds of Western Philosophy,1.9230769230769231,0.0,54.48717948717948,INF,like fold finish read cut
+Great Minds of Western Philosophy,Dad,1.9230769230769231,0.0,54.48717948717948,INF,like fold finish read cut
+Great Minds of Western Philosophy,Dad,1.9230769230769231,0.0,54.48717948717948,INF,like fold finish read cut
+Oliver,Ruth,0.0,0.0,50.0,INF,be sleep
+Ruth,Oliver,4.5,2.5,37.0,1.8,be read fall continue read
+Ruth,Oliver,4.5,2.5,37.0,1.8,be read fall continue read
+Ruth,Oliver,4.5,2.5,37.0,1.8,be read fall continue read
+Oliver,Ruth,4.5,2.5,37.0,1.8,be read fall continue read
+Oliver,Ruth,4.5,2.5,37.0,1.8,be read fall continue read
+Oliver,Ruth,4.5,2.5,37.0,1.8,be read fall continue read
+Ruth,Oliver,0.0,5.0,35.0,0.0,know make
+Ruth,Oliver,0.0,0.0,36.36363636363637,INF,hear
+Ruth,Oliver,0.0,0.0,36.36363636363637,INF,hear
+Ruth,Kitty,3.5000000000000004,2.5,50.0,1.4,close see bob
+Ruth,Kitty,3.5000000000000004,2.5,50.0,1.4,close see bob
+Ruth,Kitty,3.5000000000000004,2.5,50.0,1.4,close see bob
+Haruki,Nao,0.0,0.0,40.54054054054054,INF,search cross-reference recall
+Haruki,Tokyo University,0.0,0.0,40.54054054054054,INF,search cross-reference recall
+Haruki,Nao,0.0,0.0,40.54054054054054,INF,search cross-reference recall
+Haruki,Tokyo University,0.0,0.0,40.54054054054054,INF,search cross-reference recall
+Nao,Tokyo University,0.0,0.0,40.54054054054054,INF,search cross-reference recall
+Haruki,Yasutanis,0.5067567567567568,0.33783783783783783,46.4527027027027,1.5,move input come find appear be relate
+Haruki,Nao,0.5067567567567568,0.33783783783783783,46.4527027027027,1.5,move input come find appear be relate
+Yasutanis,Nao,0.5067567567567568,0.33783783783783783,46.4527027027027,1.5,move input come find appear be relate
+Nao,Haruki,0.0,2.8846153846153846,43.269230769230774,0.0,go look be list miss
+Nao,Yasutanis,0.0,2.8846153846153846,43.269230769230774,0.0,go look be list miss
+Haruki,Yasutanis,0.0,2.8846153846153846,43.269230769230774,0.0,go look be list miss
+Stanford University,Leistiko,0.0,0.0,58.82352941176471,INF,belong
+Stanford University,Harry,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,have post write
+Stanford University,Harry,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,have post write
+Stanford University,Harry,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,have post write
+Harry,Haruki,2.857142857142857,0.7142857142857143,56.42857142857143,4.0,be name live work
+Mr. Yasutani,Naoko,2.430555555555556,2.430555555555556,61.80555555555556,1.0,realize sound be involve be try get
+Mr. Yasutani,Naoko,2.430555555555556,2.430555555555556,61.80555555555556,1.0,realize sound be involve be try get
+Muriel,Oliver,4.166666666666666,2.083333333333333,47.91666666666667,2.0,belong be sit have talk
+Muriel,Oliver,4.166666666666666,2.083333333333333,47.91666666666667,2.0,belong be sit have talk
+Ruth,Kitty,3.4090909090909087,1.5151515151515151,49.621212121212125,2.25,have go be sit listen finger stack
+Oliver,Ruth,2.556818181818182,0.5681818181818182,65.05681818181817,4.5,find do have hide hear come have work
+Ruth,Oliver,2.556818181818182,0.5681818181818182,65.05681818181817,4.5,find do have hide hear come have work
+Ruth,Oliver,2.556818181818182,0.5681818181818182,65.05681818181817,4.5,find do have hide hear come have work
+Ruth,Oliver,6.25,1.0416666666666665,51.041666666666664,6.0,offer wonder be
+Ruth,Oliver,1.7857142857142856,0.0,60.11904761904761,INF,hear appear
+Ruth,Oliver,1.6304347826086956,1.6304347826086956,40.21739130434783,1.0,ask annoy stay leave deal
+Oliver,Ruth,1.6304347826086956,1.6304347826086956,40.21739130434783,1.0,ask annoy stay leave deal
+Ruth,Oliver,0.0,2.5,44.166666666666664,0.0,leave press confess
+Ruth,Oliver,0.0,2.5,44.166666666666664,0.0,leave press confess
+Oliver,Ruth,9.375,0.0,48.95833333333333,INF,be laugh
+Muriel,Ruth,0.75,0.0,55.25,INF,be be share have turn find turn
+Muriel,Ruth,0.75,0.0,55.25,INF,be be share have turn find turn
+Muriel,Ruth,0.75,0.0,55.25,INF,be be share have turn find turn
+Oliver,Muriel,2.5,6.875000000000001,55.625,0.36363636363636365,talk be be have notice
+Oliver,Ruth,2.5,6.875000000000001,55.625,0.36363636363636365,talk be be have notice
+Muriel,Ruth,2.5,6.875000000000001,55.625,0.36363636363636365,talk be be have notice
+Oliver,Ruth,2.2058823529411766,0.0,44.85294117647059,INF,have start say interrupt
+Ruth,Benoit,10.416666666666668,0.0,39.58333333333333,INF,do know
+Benoit,Muriel,0.0,0.0,12.5,INF,say
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Ruth,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Muriel,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Ruth,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Ruth,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Ruth,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Ruth,Nao,2.631578947368421,2.1929824561403506,56.57894736842105,1.2,be wear watch think come
+Oliver,Muriel,0.0,5.88235294117647,52.94117647058824,0.0,hold catch
+Muriel,Oliver,0.0,5.88235294117647,52.94117647058824,0.0,hold catch
+Oliver,Ruth,2.6785714285714284,8.035714285714286,53.57142857142857,0.3333333333333333,shrug be nod
+Oliver,Muriel,2.6785714285714284,8.035714285714286,53.57142857142857,0.3333333333333333,shrug be nod
+Ruth,Muriel,2.6785714285714284,8.035714285714286,53.57142857142857,0.3333333333333333,shrug be nod
+Oliver,Ruth,0.0,0.4807692307692308,64.90384615384616,0.0,go pick stand watch
+Jiko Obaachama,Ruth,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Jiko Obaachama,Ruth,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Jiko Obaachama,Sugako,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Jiko Obaachama,Haruki,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Jiko Obaachama,Ruth,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Ruth,Sugako,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Ruth,Haruki,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Ruth,Sugako,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Ruth,Haruki,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Sugako,Haruki,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Sugako,Ruth,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Haruki,Ruth,0.641025641025641,1.6025641025641024,54.166666666666664,0.4,tell be hang die carry seem be talk sit write slip become
+Jiko Obaachama,Ruth,3.90625,1.5625,47.65625,2.5,get be stare bury
+Jiko Obaachama,Ruth,3.90625,1.5625,47.65625,2.5,get be stare bury
+Jiko Obaachama,Ruth,3.90625,1.5625,47.65625,2.5,get be stare bury
+Jiko Obaachama,Ruth,3.90625,1.5625,47.65625,2.5,get be stare bury
+Jiko Obaachama,Ruth,0.0,0.0,38.46153846153847,INF,call kuuge mean
+Nao,Akiba,1.893939393939394,3.0303030303030303,49.621212121212125,0.625,exist sit
+Nao,Akiba,1.893939393939394,3.0303030303030303,49.621212121212125,0.625,exist sit
+Nao,Naoko,3.125,7.8125,39.0625,0.4,call
+Reiko,Daisuke,2.5,0.0,57.49999999999999,INF,lead name run fleece
+Ugawa Sensei,Buddhist,1.5625,0.78125,53.90625,2.0,be do be chant
+Buddhist,Jiko Obaachama,1.8229166666666667,1.0416666666666665,61.71875,1.75,do recognize grow do have hear ask
+Ugawa Sensei,Jiko Obaachama,4.3478260869565215,1.4492753623188406,47.82608695652174,3.0,think be be wish understand be chant have be do be understand be be
+Daisuke,Dad,0.0,0.6578947368421052,51.973684210526315,0.0,go give go
+Marcel Proust,Ruth,1.25,5.0,53.75,0.25,temp
+Nojima,Miyagi,3.2407407407407405,0.4629629629629629,40.74074074074074,7.0,give
+Ruth,Nao,1.2295081967213115,2.459016393442623,47.13114754098361,0.5,spend watch be look accord have go be be find
+Ruth,Nao,1.2295081967213115,2.459016393442623,47.13114754098361,0.5,spend watch be look accord have go be be find
+Ruth,Nao,1.2295081967213115,2.459016393442623,47.13114754098361,0.5,spend watch be look accord have go be be find
+Ruth,Nao,1.2295081967213115,2.459016393442623,47.13114754098361,0.5,spend watch be look accord have go be be find
+Nao,Callie,0.0,2.2058823529411766,38.970588235294116,0.0,walk pick dial
+Callie,Ruth,0.0,0.0,66.66666666666666,INF,glance be
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Callie,Ruth,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Callie,Ruth,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Callie,2.1875,0.0,47.8125,INF,speak have mention find have sound surprise hear have offer come
+Ruth,Oliver,5.288461538461538,0.9615384615384616,66.82692307692307,5.5,ask put pour have come
+Ruth,Callie,0.0,0.0,53.84615384615385,INF,sniff push
+Callie,Oliver,1.8518518518518516,0.0,42.592592592592595,INF,hold snap open pass
+Callie,Oliver,1.8518518518518516,0.0,42.592592592592595,INF,hold snap open pass
+Oliver,Callie,1.8518518518518516,0.0,42.592592592592595,INF,hold snap open pass
+Oliver,Ruth,1.3157894736842104,1.3157894736842104,65.78947368421053,1.0,explain pick sever study
+Oliver,Ruth,1.3157894736842104,1.3157894736842104,65.78947368421053,1.0,explain pick sever study
+Callie,Oliver,1.7857142857142856,0.0,48.214285714285715,INF,have return be pack
+Oliver,Callie,1.7857142857142856,0.0,48.214285714285715,INF,have return be pack
+Ruth,Callie,2.083333333333333,0.0,47.91666666666667,INF,take walk
+Callie,Ruth,2.083333333333333,0.0,47.91666666666667,INF,take walk
+Callie,Ruth,0.625,1.875,47.5,0.3333333333333333,focus see
+Muriel,Ruth,2.083333333333333,2.083333333333333,34.72222222222222,1.0,say be
+Muriel,Callie,2.083333333333333,2.083333333333333,34.72222222222222,1.0,say be
+Ruth,Callie,2.083333333333333,2.083333333333333,34.72222222222222,1.0,say be
+Callie,Oliver,0.0,0.0,40.0,INF,turn
+Callie,Ruth,0.0,0.0,40.0,INF,turn
+Ruth,Callie,4.807692307692308,0.0,41.34615384615385,INF,know say carry
+Ruth,Nao,4.166666666666666,1.3888888888888888,44.44444444444444,3.0,read go
+Ruth,Oliver,2.7777777777777777,0.0,41.66666666666667,INF,slip knead
+Ruth,Oliver,2.7777777777777777,0.0,41.66666666666667,INF,slip knead
+Ruth,Oliver,2.7777777777777777,0.0,41.66666666666667,INF,slip knead
+Ruth,Oliver,2.7777777777777777,0.0,41.66666666666667,INF,slip knead
+Oliver,Ruth,0.8928571428571428,0.0,63.39285714285714,INF,fall get go
+Chuo Rapid Express Incident,Dad,1.5909090909090908,0.0,67.5,INF,use wake think be be sit mean be be hear snore realize be
+Kayla,Nao,1.1363636363636365,0.5681818181818182,43.75,2.0,forward
+Reiko,Kayla,2.272727272727273,0.0,43.18181818181818,INF,be
+Daisuke,Reiko,4.807692307692308,0.0,49.03846153846153,INF,corner find see
+Daisuke,Reiko,4.807692307692308,0.0,49.03846153846153,INF,corner find see
+Daisuke,Reiko,0.0,0.0,46.15384615384615,INF,go
+Daisuke,Reiko,2.8688524590163933,1.8442622950819672,49.385245901639344,1.5555555555555556,get corner push ask have happen have be tell be have be
+Daisuke,Reiko,2.8688524590163933,1.8442622950819672,49.385245901639344,1.5555555555555556,get corner push ask have happen have be tell be have be
+Daisuke,Reiko,2.8688524590163933,1.8442622950819672,49.385245901639344,1.5555555555555556,get corner push ask have happen have be tell be have be
+Daisuke,Reiko,2.8688524590163933,1.8442622950819672,49.385245901639344,1.5555555555555556,get corner push ask have happen have be tell be have be
+Daisuke,Reiko,2.8688524590163933,1.8442622950819672,49.385245901639344,1.5555555555555556,get corner push ask have happen have be tell be have be
+Daisuke,Reiko,5.0,0.8928571428571428,46.964285714285715,5.6,be tell be shape turn have call beat figure have give
+Daisuke,Reiko,5.0,0.8928571428571428,46.964285714285715,5.6,be tell be shape turn have call beat figure have give
+Daisuke,Reiko,5.0,0.8928571428571428,46.964285714285715,5.6,be tell be shape turn have call beat figure have give
+Daisuke,Reiko,5.0,0.8928571428571428,46.964285714285715,5.6,be tell be shape turn have call beat figure have give
+Reiko,Daisuke,4.166666666666666,1.893939393939394,48.484848484848484,2.2,be have make be say give
+Reiko,Daisuke,4.166666666666666,1.893939393939394,48.484848484848484,2.2,be have make be say give
+Dad,Jiko Obaachama,2.9166666666666665,0.0,47.083333333333336,INF,be think shift raise sigh be
+Jiko Obaachama,Muji,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Jiko Obaachama,Buddhist,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Jiko Obaachama,Dad,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Muji,Buddhist,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Muji,Dad,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Buddhist,Dad,5.649038461538462,1.9230769230769231,49.15865384615385,2.9375,be talk be help make make come tell pretend be find arrange go get have do
+Nick Drake,Dad,3.125,0.4464285714285714,67.85714285714286,7.0,turn play have give be get
+Dad,Jiko Obaachama,1.9444444444444444,1.6666666666666667,45.27777777777778,1.1666666666666667,be watch kneel be
+Dad,Muji,1.9444444444444444,1.6666666666666667,45.27777777777778,1.1666666666666667,be watch kneel be
+Jiko Obaachama,Muji,1.9444444444444444,1.6666666666666667,45.27777777777778,1.1666666666666667,be watch kneel be
+Muji,Jiko Obaachama,2.5,0.8333333333333334,50.0,3.0,be watch sense see be pretend be
+Muji,Jiko Obaachama,3.2670454545454546,1.8465909090909092,58.52272727272727,1.7692307692307692,be talk be burp trill be pretend sleep be exhale be hang forget take matter be be go get
+Muji,Dad,3.2670454545454546,1.8465909090909092,58.52272727272727,1.7692307692307692,be talk be burp trill be pretend sleep be exhale be hang forget take matter be be go get
+Jiko Obaachama,Dad,3.2670454545454546,1.8465909090909092,58.52272727272727,1.7692307692307692,be talk be burp trill be pretend sleep be exhale be hang forget take matter be be go get
+Fukushima,Miyagi,3.125,0.0,41.875,INF,be
+Ruth,Oliver,1.1904761904761905,0.0,60.71428571428571,INF,live be name overthrow
+Ruth,Whaletown,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Whaletown,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Whaletown,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Whaletown,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Whaletown,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Whaletown,Ruth,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Whaletown,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Ruth,Oliver,1.0204081632653061,1.2755102040816326,44.642857142857146,0.8,bring have inter
+Oliver,Ruth,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Oliver,Ruth,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Oliver,Ruth,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Oliver,Ruth,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Ruth,Oliver,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Oliver,Ruth,0.0,2.0161290322580645,52.82258064516129,0.0,refuse drive ride be go insist walk
+Oliver,Ruth,1.1363636363636365,1.1363636363636365,34.090909090909086,1.0,need tell
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Dora,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Muriel,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Ruth,Dora,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Dora,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Dora,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Dora,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Muriel,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,3.0063291139240507,3.481012658227848,50.4746835443038,0.8636363636363636,claim like take be have inform be complain be siphon take read deliver
+Dora,Ruth,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Dora,Ruth,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Dora,Ruth,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,0.2976190476190476,1.1904761904761905,53.273809523809526,0.25,like be be come give update
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,4.891304347826087,0.8152173913043478,52.9891304347826,6.0,have know have have accept remain be refuse buy publish
+Ruth,Dora,2.5,1.875,55.625,1.3333333333333333,work keep do seem mind
+Ruth,Dora,2.5,1.875,55.625,1.3333333333333333,work keep do seem mind
+Dora,Ruth,2.5,1.25,46.25,2.0,use dote bring
+Dora,Ruth,2.5,1.25,46.25,2.0,use dote bring
+Dora,Ruth,2.5,1.25,46.25,2.0,use dote bring
+Ruth,Callie,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,have overcome call call
+Ruth,Benoit,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,have overcome call call
+Ruth,Callie,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,have overcome call call
+Ruth,Benoit,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,have overcome call call
+Callie,Benoit,1.3888888888888888,2.314814814814815,44.44444444444444,0.6,have overcome call call
+Ruth,Benoit,4.166666666666666,0.0,52.976190476190474,INF,have leave do call figure know
+Ruth,Dora,4.166666666666666,0.0,52.976190476190474,INF,have leave do call figure know
+Benoit,Ruth,4.166666666666666,0.0,52.976190476190474,INF,have leave do call figure know
+Benoit,Dora,4.166666666666666,0.0,52.976190476190474,INF,have leave do call figure know
+Ruth,Dora,4.166666666666666,0.0,52.976190476190474,INF,have leave do call figure know
+Dora,Ruth,0.9615384615384616,0.4807692307692308,37.019230769230774,2.0,have be say hammer
+Dora,Whaletown,0.9615384615384616,0.4807692307692308,37.019230769230774,2.0,have be say hammer
+Ruth,Whaletown,0.9615384615384616,0.4807692307692308,37.019230769230774,2.0,have be say hammer
+Ruth,Yasutanis,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Yasutanis,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Yasutanis,Ruth,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Yasutanis,Ruth,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Yasutanis,Ruth,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Yasutanis,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Ruth,Dora,4.261363636363636,2.272727272727273,45.73863636363637,1.875,feel be help want get translate be tell
+Muriel,Dora,4.166666666666666,14.583333333333334,39.58333333333333,0.2857142857142857,be spread be
+Dora,Ruth,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Dora,Nao,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Dora,Ruth,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Dora,Ruth,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Dora,Nao,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Dora,Ruth,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Ruth,Nao,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Nao,Ruth,4.166666666666666,1.1363636363636365,46.21212121212121,3.6666666666666665,see be feel do want know
+Blake,Chandini,2.3706896551724137,2.8017241379310347,60.3448275862069,0.8461538461538461,be linger pretend read name name use be call change
+Ruth,Dora,0.0,0.0,40.0,INF,say hand
+Ruth,Blake,0.0,4.545454545454546,50.0,0.0,flip try ignore
+Ruth,Blake,0.0,4.545454545454546,50.0,0.0,flip try ignore
+Ruth,Blake,1.875,1.25,56.875,1.5,hold crowd see back
+Ruth,Chandini,1.875,1.25,56.875,1.5,hold crowd see back
+Ruth,Blake,1.875,1.25,56.875,1.5,hold crowd see back
+Ruth,Chandini,1.875,1.25,56.875,1.5,hold crowd see back
+Blake,Chandini,1.875,1.25,56.875,1.5,hold crowd see back
+Dora,Ruth,6.666666666666667,0.8333333333333334,52.5,8.0,admire unbuckle hand
+Ruth,Blake,1.875,0.0,58.12500000000001,INF,get smell
+Ruth,Blake,1.875,0.0,58.12500000000001,INF,get smell
+Blake,Ruth,1.4423076923076923,3.8461538461538463,48.55769230769231,0.375,let run pound
+Blake,Ruth,1.4423076923076923,3.8461538461538463,48.55769230769231,0.375,let run pound
+Blake,Ruth,1.4423076923076923,3.8461538461538463,48.55769230769231,0.375,let run pound
+Oliver,Ruth,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,have flicker tell run check
+Oliver,Ruth,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,have flicker tell run check
+Oliver,Ruth,1.7045454545454544,2.840909090909091,54.54545454545454,0.6,have flicker tell run check
+Ruth,Leistiko,2.734375,3.125,47.265625,0.875,be try be have pass write be
+Ruth,Leistiko,2.734375,3.125,47.265625,0.875,be try be have pass write be
+Leistiko,Ruth,2.734375,3.125,47.265625,0.875,be try be have pass write be
+Ruth,Oliver,0.0,0.0,57.14285714285714,INF,hear fiddle try fire
+Jiko Obaachama,Buddhist,1.1029411764705883,0.0,43.01470588235294,INF,have make
+Nao,Miyagi,1.232394366197183,0.35211267605633806,40.66901408450704,3.5,beat read sit pull follow take
+Shishōsetsu,Ruth,1.9886363636363635,0.8522727272727272,35.79545454545455,2.3333333333333335,be lean read start be
+Ruth,Shishōsetsu,1.9886363636363635,0.8522727272727272,35.79545454545455,2.3333333333333335,be lean read start be
+Shishōsetsu,Taishō Democracy,3.6290322580645165,1.2096774193548387,40.32258064516129,3.0,flourish continue influence
+Ruth,Nao,6.578947368421052,0.6578947368421052,40.131578947368425,10.0,have realize be wait exist be
+Ruth,Nao,6.578947368421052,0.6578947368421052,40.131578947368425,10.0,have realize be wait exist be
+Muriel,Ruth,0.0,0.0,45.45454545454545,INF,see approach point
+Muriel,Oliver,0.0,0.0,45.45454545454545,INF,see approach point
+Muriel,Ruth,0.0,0.0,45.45454545454545,INF,see approach point
+Ruth,Oliver,0.0,0.0,45.45454545454545,INF,see approach point
+Oliver,Ruth,0.0,0.0,45.45454545454545,INF,see approach point
+Ruth,Oliver,0.0,0.0,40.0,INF,turn
+Ruth,Oliver,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Ruth,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Ruth,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Ruth,Oliver,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Ruth,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Ruth,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Oliver,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Oliver,Muriel,0.5208333333333333,0.0,45.3125,INF,see shrug give annoy
+Jiko Obaachama,Muriel,11.931818181818182,7.954545454545454,34.659090909090914,1.5,love love
+Muriel,Jigenji,1.650943396226415,0.7075471698113208,59.905660377358494,2.3333333333333335,live be have cling be surround
+Dad,Disneyland,0.8928571428571428,1.1904761904761905,62.202380952380956,0.75,promise go come pick take cheer know intend survive
+Disneyland,Dad,0.8928571428571428,1.1904761904761905,62.202380952380956,0.75,promise go come pick take cheer know intend survive
+Disneyland,Dad,0.8928571428571428,1.1904761904761905,62.202380952380956,0.75,promise go come pick take cheer know intend survive
+Naoko,Dad,0.0,0.0,36.36363636363637,INF,have arrive say
+Kayla,Nao,9.722222222222223,1.3888888888888888,38.88888888888889,7.0,give say do need
+Buddhist,Dad,3.4926470588235294,2.0220588235294117,50.36764705882353,1.7272727272727273,be begin ring make leave shiver be stand look whisper be say come
+Dad,Muji,2.8846153846153846,0.641025641025641,52.88461538461539,4.5,flick lead hear come run meet
+Dad,Jiko Obaachama,3.2327586206896552,0.43103448275862066,49.78448275862069,7.5,have welcome be be hang help
+Dad,Muji,3.2327586206896552,0.43103448275862066,49.78448275862069,7.5,have welcome be be hang help
+Jiko Obaachama,Muji,3.2327586206896552,0.43103448275862066,49.78448275862069,7.5,have welcome be be hang help
+Dad,Disneyland,1.9396551724137931,2.1551724137931036,56.25,0.9,do say take leave buy promise do be stick play be
+Dad,Disneyland,1.9396551724137931,2.1551724137931036,56.25,0.9,do say take leave buy promise do be stick play be
+Disneyland,Dad,1.9396551724137931,2.1551724137931036,56.25,0.9,do say take leave buy promise do be stick play be
+Jiko Obaachama,Kayla,0.0,2.34375,60.15625,0.0,ask scrub
+Jiko Obaachama,Kayla,2.82258064516129,0.8064516129032258,56.048387096774185,3.5,like take be have be practice be wait think wait be annoy do mind
+Jiko Obaachama,Kayla,2.82258064516129,0.8064516129032258,56.048387096774185,3.5,like take be have be practice be wait think wait be annoy do mind
+Jiko Obaachama,Kayla,2.82258064516129,0.8064516129032258,56.048387096774185,3.5,like take be have be practice be wait think wait be annoy do mind
+Jiko Obaachama,Kayla,2.82258064516129,0.8064516129032258,56.048387096774185,3.5,like take be have be practice be wait think wait be annoy do mind
+Muji,Kayla,1.171875,0.390625,48.4375,3.0,ring signal snuck crawl
+Jiko Obaachama,Kayla,0.78125,0.0,55.46875,INF,go look find
+Jiko Obaachama,Kayla,0.78125,0.0,55.46875,INF,go look find
+Jiko Obaachama,Kayla,0.6097560975609756,2.1341463414634148,63.109756097560975,0.2857142857142857,be spend have think get
+Ruth,Marcel Proust,3.571428571428571,0.0,53.57142857142857,INF,be try read
+Ruth,Nao,2.083333333333333,5.208333333333334,51.041666666666664,0.4,be try read
+Oliver,Nao,1.3157894736842104,8.552631578947368,42.76315789473684,0.15384615384615385,insist go run wait worry
+Nao,Oliver,1.3157894736842104,8.552631578947368,42.76315789473684,0.15384615384615385,insist go run wait worry
+Ruth,Shishōsetsu,0.6578947368421052,1.3157894736842104,53.289473684210535,0.5,launch type be have come refresh
+Ruth,Shishōsetsu,0.6578947368421052,1.3157894736842104,53.289473684210535,0.5,launch type be have come refresh
+Ruth,Oliver,0.0,0.0,45.0,INF,cry hear
+Ruth,Oliver,0.0,0.0,45.0,INF,cry hear
+Ruth,Oliver,0.0,0.0,45.0,INF,cry hear
+Oliver,Ruth,0.0,0.0,45.0,INF,cry hear
+Ruth,Oliver,0.0,0.0,45.0,INF,cry hear
+Ruth,Oliver,0.0,0.0,45.0,INF,cry hear
+Jiko Obaachama,Reiko,1.9607843137254901,0.7352941176470588,56.127450980392155,2.6666666666666665,be have find be tell have chant become launch stab
+Jiko Obaachama,Reiko,1.9607843137254901,0.7352941176470588,56.127450980392155,2.6666666666666665,be have find be tell have chant become launch stab
+Jiko Obaachama,Reiko,1.639344262295082,1.8442622950819672,48.97540983606557,0.8888888888888888,stand scrub be finish talk plunk stack be pile say do have worry
+Jiko Obaachama,Reiko,1.639344262295082,1.8442622950819672,48.97540983606557,0.8888888888888888,stand scrub be finish talk plunk stack be pile say do have worry
+Jiko Obaachama,Reiko,1.639344262295082,1.8442622950819672,48.97540983606557,0.8888888888888888,stand scrub be finish talk plunk stack be pile say do have worry
+Jiko Obaachama,Muji,0.8928571428571428,1.3392857142857142,60.26785714285714,0.6666666666666666,spend do come be be have move get lead
+Jiko Obaachama,Muji,1.7857142857142856,0.0,63.52040816326531,INF,die move help decide sell tear build drive
+Jiko Obaachama,Jigenji,1.7857142857142856,0.0,63.52040816326531,INF,die move help decide sell tear build drive
+Muji,Jigenji,1.7857142857142856,0.0,63.52040816326531,INF,die move help decide sell tear build drive
+Muji,Jigenji,4.310344827586207,2.1551724137931036,48.706896551724135,2.0,be fall be repair say wonder be hold
+Jiko Obaachama,Haruki,0.390625,0.0,55.859375,INF,be study get draft
+Jiko Obaachama,Tokyo University,0.390625,0.0,55.859375,INF,be study get draft
+Jiko Obaachama,Haruki,0.390625,0.0,55.859375,INF,be study get draft
+Haruki,Tokyo University,0.390625,0.0,55.859375,INF,be study get draft
+Tokyo University,Haruki,0.390625,0.0,55.859375,INF,be study get draft
+Jiko Obaachama,Haruki,3.90625,1.5625,57.03125,2.5,say freak be
+Jiko Obaachama,Haruki,3.90625,1.5625,57.03125,2.5,say freak be
+Haruki,Jiko Obaachama,5.227272727272727,3.1818181818181817,58.86363636363636,1.6428571428571428,be annihilate be say be be like be be
+Jiko Obaachama,Haruki,5.227272727272727,3.1818181818181817,58.86363636363636,1.6428571428571428,be annihilate be say be be like be be
+Dad,Haruki,3.823529411764706,0.8823529411764706,49.411764705882355,4.333333333333333,take feel be pack leave find fall multiply be feel be draft force become
+Dad,Haruki,3.823529411764706,0.8823529411764706,49.411764705882355,4.333333333333333,take feel be pack leave find fall multiply be feel be draft force become
+Jiko Obaachama,Ema,1.358695652173913,1.0869565217391304,51.902173913043484,1.25,find be go die want commit be need
+Jiko Obaachama,Ema,2.3706896551724137,1.0775862068965518,48.275862068965516,2.2,commit decide wait be be shave become devote teach live be do
+Jiko Obaachama,Ema,2.3706896551724137,1.0775862068965518,48.275862068965516,2.2,commit decide wait be be shave become devote teach live be do
+Jiko Obaachama,Ema,2.3706896551724137,1.0775862068965518,48.275862068965516,2.2,commit decide wait be be shave become devote teach live be do
+Jiko Obaachama,Ema,2.3706896551724137,1.0775862068965518,48.275862068965516,2.2,commit decide wait be be shave become devote teach live be do
+Jiko Obaachama,Ema,2.3706896551724137,1.0775862068965518,48.275862068965516,2.2,commit decide wait be be shave become devote teach live be do
+Reiko,Great Minds of Western Philosophy,7.758620689655173,0.0,54.310344827586206,INF,happen know be
+Jiko Obaachama,Reiko,5.859375,3.515625,43.75,1.6666666666666667,text say be teach do zazen be horse
+Oliver,Ruth,1.3157894736842104,0.0,56.57894736842105,INF,be stand watch adjust
+Oliver,Ruth,1.3157894736842104,0.0,56.57894736842105,INF,be stand watch adjust
+Oliver,Ruth,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Oliver,Ruth,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Oliver,Ruth,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Oliver,Ruth,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Ruth,Oliver,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Oliver,Ruth,3.515625,0.390625,52.34375,9.0,have be sharpen squeeze go thrust
+Ruth,Oliver,0.0,2.631578947368421,39.473684210526315,0.0,say break scratch
+Ruth,Oliver,0.0,2.631578947368421,39.473684210526315,0.0,say break scratch
+Oliver,Ruth,0.0,0.0,63.63636363636363,INF,take pop hand
+Oliver,Ruth,0.0,0.0,63.63636363636363,INF,take pop hand
+Oliver,Ruth,0.0,1.3888888888888888,54.166666666666664,0.0,hold
+Ruth,Oliver,1.9230769230769231,2.8846153846153846,56.730769230769226,0.6666666666666666,think see flinch spray
+Ruth,Oliver,1.9230769230769231,2.8846153846153846,56.730769230769226,0.6666666666666666,think see flinch spray
+Ruth,Blake,10.119047619047619,3.571428571428571,38.69047619047619,2.8333333333333335,think have say have say
+Ruth,Muriel,10.119047619047619,3.571428571428571,38.69047619047619,2.8333333333333335,think have say have say
+Blake,Muriel,10.119047619047619,3.571428571428571,38.69047619047619,2.8333333333333335,think have say have say
+Muriel,Fukushima,7.8125,3.125,39.0625,2.5,think
+Muriel,Jiko Obaachama,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,think cling
+Muriel,Miyagi,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,think cling
+Jiko Obaachama,Miyagi,3.4722222222222223,1.3888888888888888,39.58333333333333,2.5,think cling
+Jiko Obaachama,Muriel,0.0,0.78125,61.71875,0.0,find take
+Muriel,Jiko Obaachama,5.681818181818182,1.1363636363636365,41.66666666666667,5.0,walk carry like be hold
+Jiko Obaachama,Muriel,5.681818181818182,1.1363636363636365,41.66666666666667,5.0,walk carry like be hold
+Jiko Obaachama,Muriel,5.681818181818182,1.1363636363636365,41.66666666666667,5.0,walk carry like be hold
+Jiko Obaachama,Muriel,5.681818181818182,1.1363636363636365,41.66666666666667,5.0,walk carry like be hold
+Ema,Jiko Obaachama,3.5377358490566038,2.5943396226415096,52.358490566037744,1.3636363636363635,be lean use be be have set make do
+Tepco,Fukushima,1.715686274509804,2.941176470588235,56.127450980392155,0.5833333333333334,be learn follow pump cool prevent have happen
+Ruth,Oliver,1.9230769230769231,0.0,51.92307692307693,INF,have relate supply
+Ruth,Oliver,1.9230769230769231,0.0,51.92307692307693,INF,have relate supply
+Ruth,Oliver,5.46875,0.78125,62.5,7.0,have be dice be explain
+Ruth,Oliver,5.357142857142857,3.571428571428571,33.92857142857143,1.5,sound like ignore
+Muji,Jiko Obaachama,1.7857142857142856,8.928571428571429,17.857142857142858,0.2,
+Muji,Jiko Obaachama,1.8181818181818181,0.0,52.72727272727272,INF,start get sit be make run
+Jiko Obaachama,Muji,0.819672131147541,1.639344262295082,53.278688524590166,0.5,be imagine be teach be suppose be do drag overlook sit
+Sugako,Haruki,6.25,3.125,28.125,2.0,
+Jiko Obaachama,Muji,0.5434782608695652,0.0,47.28260869565217,INF,be spend prepare arrange dust be
+Jiko Obaachama,Buddhist,0.5434782608695652,0.0,47.28260869565217,INF,be spend prepare arrange dust be
+Muji,Buddhist,0.5434782608695652,0.0,47.28260869565217,INF,be spend prepare arrange dust be
+Muji,Lord Buddha,4.009433962264151,2.358490566037736,59.66981132075472,1.7,tell have name get upset happen see hang
+Muji,Lord Buddha,4.009433962264151,2.358490566037736,59.66981132075472,1.7,tell have name get upset happen see hang
+Muji,Lord Buddha,4.009433962264151,2.358490566037736,59.66981132075472,1.7,tell have name get upset happen see hang
+Jiko Obaachama,Muji,0.7978723404255319,0.5319148936170213,47.6063829787234,1.5,have arrive take be get shave
+Jiko Obaachama,Muji,6.25,3.9473684210526314,45.06578947368421,1.5833333333333333,be let grow be let help
+Muji,Jiko Obaachama,3.9285714285714284,4.285714285714286,60.357142857142854,0.9166666666666666,be fall be
+Muji,Jiko Obaachama,2.976190476190476,2.083333333333333,59.226190476190474,1.4285714285714286,be think stay make go be sneak
+Haruki,Jiko Obaachama,6.5,4.0,53.5,1.625,seem withdraw make give have tell like
+Jiko Obaachama,Haruki,6.5,4.0,53.5,1.625,seem withdraw make give have tell like
+Muji,Jiko Obaachama,4.941860465116279,2.0348837209302326,46.51162790697674,2.4285714285714284,be greet have come help sneak
+Muji,Jiko Obaachama,4.941860465116279,2.0348837209302326,46.51162790697674,2.4285714285714284,be greet have come help sneak
+Jiko Obaachama,Haruki,0.0,0.0,50.0,INF,tell belong be
+Jiko Obaachama,Haruki,0.0,0.0,50.0,INF,tell belong be
+Jiko Obaachama,Haruki,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Jiko Obaachama,Sugako,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Jiko Obaachama,Ema,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Haruki,Sugako,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Haruki,Ema,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Sugako,Ema,1.644736842105263,1.644736842105263,51.973684210526315,1.0,be wrap
+Nao,Ruth,0.0,0.0,45.45454545454545,INF,
+Benoit,Ruth,0.7352941176470588,0.0,69.85294117647058,INF,stare seem reside
+Ruth,Benoit,4.6875,4.166666666666666,41.14583333333333,1.125,feel tell be convey
+Ruth,Benoit,4.6875,4.166666666666666,41.14583333333333,1.125,feel tell be convey
+Benoit,Ruth,4.6875,4.166666666666666,41.14583333333333,1.125,feel tell be convey
+Ruth,Benoit,3.8793103448275863,3.4482758620689653,51.293103448275865,1.125,want ask translate have bring seem
+Benoit,Ruth,3.8793103448275863,3.4482758620689653,51.293103448275865,1.125,want ask translate have bring seem
+Benoit,Ruth,3.8793103448275863,3.4482758620689653,51.293103448275865,1.125,want ask translate have bring seem
+Barbara,Ruth,2.6785714285714284,4.464285714285714,42.857142857142854,0.6,have hear say
+Ruth,Benoit,1.1904761904761905,3.571428571428571,52.38095238095239,0.3333333333333333,have lean catch be say
+Benoit,Ruth,0.0,0.0,25.0,INF,study
+Dora,Benoit,0.0,3.571428571428571,10.714285714285714,0.0,answer
+Barbara,Benoit,5.357142857142857,0.5952380952380952,27.380952380952383,9.0,adore say be help
+Benoit,Ruth,3.070175438596491,1.3157894736842104,50.0,2.3333333333333335,holler replace whistle lead have be terrace be park
+Benoit,Ruth,3.070175438596491,1.3157894736842104,50.0,2.3333333333333335,holler replace whistle lead have be terrace be park
+Benoit,Ruth,3.070175438596491,1.3157894736842104,50.0,2.3333333333333335,holler replace whistle lead have be terrace be park
+Benoit,Ruth,3.070175438596491,1.3157894736842104,50.0,2.3333333333333335,holler replace whistle lead have be terrace be park
+Benoit,Ruth,1.4204545454545454,3.125,50.0,0.45454545454545453,jump call use wipe offer
+Benoit,Ruth,1.4204545454545454,3.125,50.0,0.45454545454545453,jump call use wipe offer
+Ruth,Benoit,2.34375,0.78125,59.375,3.0,give curl
+Benoit,Ruth,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,watch pull
+Benoit,Ruth,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,watch pull
+Oliver,Ruth,0.0,0.9615384615384616,52.88461538461539,0.0,use bring
+Masako,Oliver,1.5625,0.0,39.0625,INF,say hear stop wear
+Masako,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Masako,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Masako,Oliver,1.5625,0.0,39.0625,INF,say hear stop wear
+Masako,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Masako,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Ruth,Oliver,1.5625,0.0,39.0625,INF,say hear stop wear
+Ruth,Oliver,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Ruth,1.5625,0.0,39.0625,INF,say hear stop wear
+Oliver,Masako,0.0,0.78125,42.96875,0.0,drive
+Oliver,Masako,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Oliver,Masako,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Oliver,Masako,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Masako,Oliver,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Masako,Oliver,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Oliver,Masako,3.30188679245283,2.1226415094339623,43.63207547169811,1.5555555555555556,park help hand
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Benoit,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Benoit,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Oliver,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Masako,Benoit,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Masako,Benoit,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Benoit,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Benoit,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Benoit,Masako,1.875,0.3125,45.3125,6.0,be do collect be wait ask have go find
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,0.3048780487804878,2.1341463414634148,51.21951219512195,0.14285714285714285,get close slip return discover
+Masako,Ruth,4.807692307692308,0.0,56.730769230769226,INF,say show have bring
+Ruth,Masako,4.807692307692308,0.0,56.730769230769226,INF,say show have bring
+Benoit,Masako,6.25,0.0,43.75,INF,use have know laugh tell
+Masako,Benoit,6.25,0.0,43.75,INF,use have know laugh tell
+Benoit,Masako,0.0,3.289473684210526,54.60526315789473,0.0,ask see take show
+Masako,Benoit,0.0,3.289473684210526,54.60526315789473,0.0,ask see take show
+Benoit,Masako,2.717391304347826,0.5434782608695652,48.91304347826087,5.0,be do admire take unwrap
+Benoit,Masako,2.717391304347826,0.5434782608695652,48.91304347826087,5.0,be do admire take unwrap
+Masako,Benoit,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,hesitate look stain
+Benoit,Masako,4.583333333333333,0.0,58.75,INF,look handle turn surprise
+Benoit,Masako,4.583333333333333,0.0,58.75,INF,look handle turn surprise
+Benoit,Masako,0.8333333333333334,5.0,40.833333333333336,0.16666666666666666,get
+Benoit,Masako,0.8333333333333334,5.0,40.833333333333336,0.16666666666666666,get
+Masako,Benoit,0.0,4.891304347826087,47.28260869565217,0.0,do want let take do want
+Masako,Benoit,0.0,4.891304347826087,47.28260869565217,0.0,do want let take do want
+Benoit,Masako,0.0,4.891304347826087,47.28260869565217,0.0,do want let take do want
+Masako,Benoit,0.0,4.891304347826087,47.28260869565217,0.0,do want let take do want
+Masako,Benoit,0.0,0.0,55.00000000000001,INF,say watch lean scratch
+Benoit,Masako,1.7857142857142856,12.5,50.0,0.14285714285714285,be seem
+Benoit,Ruth,0.0,0.0,53.84615384615385,INF,reach tap
+Ruth,Oliver,0.78125,0.0,55.46875,INF,do have be siphon run
+Ruth,Oliver,0.78125,0.0,55.46875,INF,do have be siphon run
+Haruki,Oliver,0.0,4.166666666666666,40.27777777777778,0.0,say
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Nao,Marcel Proust,0.0,0.0,60.0,INF,be hide be hide write
+Oliver,Ruth,1.6666666666666667,3.3333333333333335,61.66666666666667,0.5,put tell be worry
+Oliver,Ruth,1.6666666666666667,3.3333333333333335,61.66666666666667,0.5,put tell be worry
+Ruth,Oliver,1.6666666666666667,3.3333333333333335,61.66666666666667,0.5,put tell be worry
+Ruth,Nao,7.03125,1.5625,53.90625,4.5,be waste try track
+Oliver,Ruth,0.0,0.0,63.63636363636363,INF,do reply do notice
+Oliver,Ruth,0.0,0.0,50.0,INF,do respond go
+Oliver,Ruth,0.0,0.8333333333333334,59.166666666666664,0.0,tap hear whoosh be send
+Oliver,Ruth,0.0,0.8333333333333334,59.166666666666664,0.0,tap hear whoosh be send
+Oliver,Ruth,0.0,0.0,50.0,INF,hold see
+Oliver,Ruth,0.0,0.0,50.0,INF,hold see
+Ayako,Oliver,0.0,2.717391304347826,27.717391304347828,0.0,show say say
+Ayako,Oliver,0.0,2.717391304347826,27.717391304347828,0.0,show say say
+Ayako,Oliver,0.0,2.717391304347826,27.717391304347828,0.0,show say say
+Ayako,Oliver,0.0,2.717391304347826,27.717391304347828,0.0,show say say
+Akira,Kimi,1.8518518518518516,0.0,50.0,INF,be name have emigrate
+Akira,Fukushima,1.8518518518518516,0.0,50.0,INF,be name have emigrate
+Kimi,Fukushima,1.8518518518518516,0.0,50.0,INF,be name have emigrate
+Kimi,Akira,3.3854166666666665,0.5208333333333333,54.427083333333336,6.5,have raise send be get be have manage convince sell retire
+Akira,Kimi,3.4090909090909087,3.977272727272727,47.159090909090914,0.8571428571428571,have turn be trap
+Kimi,Ruth,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Kimi,Oliver,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Kimi,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Kimi,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Kimi,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Ruth,Oliver,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Ruth,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Ruth,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Ruth,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Oliver,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Oliver,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Oliver,Akira,0.6097560975609756,0.3048780487804878,60.0609756097561,2.0,close have take wash sit clean put
+Tosh,Akira,2.2058823529411766,0.0,59.55882352941176,INF,have graduate work drive help
+Tosh,Akira,2.2058823529411766,0.0,59.55882352941176,INF,have graduate work drive help
+Ruth,Tosh,0.0,0.0,75.0,INF,ask
+Ruth,Kimi,0.0,0.0,50.0,INF,ask
+Kimi,Akira,0.0,4.6875,20.3125,0.0,hesitate answer
+Kimi,Ruth,0.0,4.6875,20.3125,0.0,hesitate answer
+Akira,Ruth,0.0,4.6875,20.3125,0.0,hesitate answer
+Akira,Ruth,0.0,0.0,60.0,INF,nod
+Akira,Oliver,1.6304347826086956,0.0,54.891304347826086,INF,lean refill raise
+Akira,Oliver,1.6304347826086956,0.0,54.891304347826086,INF,lean refill raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Oliver,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,feel hesitate raise
+Ruth,Kimi,7.8125,3.90625,38.28125,2.0,have explain have agree try help
+Ruth,Kimi,7.8125,3.90625,38.28125,2.0,have explain have agree try help
+Ruth,Kimi,1.7045454545454544,1.1363636363636365,65.3409090909091,1.5,watch wipe accept
+Tosh,Ruth,0.0,0.0,63.63636363636363,INF,come lean
+Tosh,Ruth,0.5952380952380952,0.0,66.07142857142857,INF,have live put squeeze
+Tosh,Ruth,0.5952380952380952,0.0,66.07142857142857,INF,have live put squeeze
+Ruth,Oliver,2.083333333333333,0.6944444444444444,58.333333333333336,3.0,ask be read
+Oliver,Ruth,2.083333333333333,0.6944444444444444,58.333333333333336,3.0,ask be read
+Jiko Obaachama,Haruki,4.411764705882353,4.411764705882353,38.23529411764706,1.0,be tell meet
+Ruth,Haruki,5.681818181818182,7.954545454545454,40.909090909090914,0.7142857142857143,be make have visit
+Haruki,Ruth,5.681818181818182,7.954545454545454,40.909090909090914,0.7142857142857143,be make have visit
+Ruth,Haruki,4.910714285714286,5.803571428571429,50.0,0.8461538461538461,know have confess blow ask make feel
+Ruth,Haruki,4.910714285714286,5.803571428571429,50.0,0.8461538461538461,know have confess blow ask make feel
+Ruth,Haruki,3.0660377358490565,0.7075471698113208,56.60377358490566,4.333333333333333,be begin think make be have talk decide wait see come
+Jiko Obaachama,Muji,1.524390243902439,0.9146341463414633,51.21951219512195,1.6666666666666667,be do mind visit help chant get play drum
+Muji,Jiko Obaachama,1.3297872340425532,1.8617021276595744,62.76595744680851,0.7142857142857143,be get feed send do remember happen walk notice slide be
+Muji,Jiko Obaachama,2.604166666666667,3.125,31.770833333333332,0.8333333333333334,answer ask be upset
+Jiko Obaachama,Muji,2.027027027027027,0.0,57.432432432432435,INF,be have leave get make do
+Jiko Obaachama,Buddhist,2.027027027027027,0.0,57.432432432432435,INF,be have leave get make do
+Muji,Buddhist,2.027027027027027,0.0,57.432432432432435,INF,be have leave get make do
+Muji,Jiko Obaachama,2.232142857142857,0.4464285714285714,50.89285714285714,5.0,have donate sit sit
+Jiko Obaachama,Muji,8.552631578947368,1.3157894736842104,48.026315789473685,6.5,be decide make
+Jiko Obaachama,Muji,5.357142857142857,0.0,48.214285714285715,INF,have love decide sing be
+Haruki,Obon,2.604166666666667,1.215277777777778,54.513888888888886,2.142857142857143,be close know be tell visit leave think sing
+Haruki,Obon,2.604166666666667,1.215277777777778,54.513888888888886,2.142857142857143,be close know be tell visit leave think sing
+Obon,Haruki,2.604166666666667,1.215277777777778,54.513888888888886,2.142857142857143,be close know be tell visit leave think sing
+Obon,Haruki,2.604166666666667,1.215277777777778,54.513888888888886,2.142857142857143,be close know be tell visit leave think sing
+Jiko Obaachama,Haruki,2.1739130434782608,1.0869565217391304,61.95652173913043,2.0,say be have laugh make think be
+Jiko Obaachama,Haruki,2.1739130434782608,1.0869565217391304,61.95652173913043,2.0,say be have laugh make think be
+Naval Authority,Jiko Obaachama,0.0,0.0,41.66666666666667,INF,send say
+Ema,Suga,2.5,1.25,36.25,2.0,be
+Haruki,Jiko Obaachama,0.0,0.0,30.0,INF,be say
+Jiko Obaachama,Muji,8.13953488372093,2.616279069767442,47.383720930232556,3.111111111111111,be sit wait jump be go mumble thank
+Jiko Obaachama,Disneyland,8.13953488372093,2.616279069767442,47.383720930232556,3.111111111111111,be sit wait jump be go mumble thank
+Muji,Disneyland,8.13953488372093,2.616279069767442,47.383720930232556,3.111111111111111,be sit wait jump be go mumble thank
+Haruki,Mother,1.282051282051282,0.3205128205128205,57.37179487179487,4.0,have pass strengthen be announce terminate shut
+Mother,Suga,5.9375,1.25,40.3125,4.75,linger call mind
+Mother,Ema,5.9375,1.25,40.3125,4.75,linger call mind
+Suga,Ema,5.9375,1.25,40.3125,4.75,linger call mind
+Dōgen,Nao,0.0,0.0,12.5,INF,
+Haruki,Tokyo University,0.0,0.0,66.66666666666666,INF,be
+Jiko Obaachama,Haruki,0.0,1.5625,35.9375,0.0,give
+Ruth,Oliver,1.8229166666666667,0.26041666666666663,64.58333333333334,7.0,have give have go visit have
+Ruth,John,1.8229166666666667,0.26041666666666663,64.58333333333334,7.0,have give have go visit have
+Ruth,Oliver,1.8229166666666667,0.26041666666666663,64.58333333333334,7.0,have give have go visit have
+Ruth,John,1.8229166666666667,0.26041666666666663,64.58333333333334,7.0,have give have go visit have
+Oliver,John,1.8229166666666667,0.26041666666666663,64.58333333333334,7.0,have give have go visit have
+Oliver,Ruth,0.8620689655172413,1.7241379310344827,59.48275862068966,0.5,be disappear characterize be feel
+Ruth,Oliver,6.730769230769231,0.0,39.42307692307692,INF,watch tell
+Ruth,Oliver,0.0,0.0,41.66666666666667,INF,have get tell
+Oliver,Masako,1.6025641025641024,2.2435897435897436,47.43589743589743,0.7142857142857143,be be say drop deliver pick
+Oliver,Masako,1.6025641025641024,2.2435897435897436,47.43589743589743,0.7142857142857143,be be say drop deliver pick
+Masako,Oliver,1.6025641025641024,2.2435897435897436,47.43589743589743,0.7142857142857143,be be say drop deliver pick
+Oliver,Masako,1.6025641025641024,2.2435897435897436,47.43589743589743,0.7142857142857143,be be say drop deliver pick
+Ruth,Oliver,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,offer sit listen think
+Ruth,Oliver,4.545454545454546,1.1363636363636365,44.31818181818182,4.0,offer sit listen think
+Socrates,Crito,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,be say drink
+Socrates,Crito,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,be say drink
+Crito,Socrates,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,be say drink
+Crito,Socrates,0.0,6.666666666666667,60.0,0.0,be stall try get hold
+Buddhist,Jiko Obaachama,4.261363636363636,1.9886363636363635,52.84090909090909,2.142857142857143,set stand pull bow press teach
+Kayla,Akiba,5.921052631578947,2.631578947368421,57.23684210526315,2.25,have think wish make materialize blow
+Kayla,Akiba,5.921052631578947,2.631578947368421,57.23684210526315,2.25,have think wish make materialize blow
+Akiba,Kayla,5.921052631578947,2.631578947368421,57.23684210526315,2.25,have think wish make materialize blow
+Babette,Oliver,3.4090909090909087,5.681818181818182,36.36363636363637,0.6,seem say
+Babette,Nao,1.4705882352941175,0.0,45.588235294117645,INF,seem have say
+Babette,Oliver,1.4705882352941175,0.0,45.588235294117645,INF,seem have say
+Nao,Oliver,1.4705882352941175,0.0,45.588235294117645,INF,seem have say
+Babette,Oliver,2.7777777777777777,0.6944444444444444,40.97222222222222,4.0,be have talk say
+Akiba,Oliver,0.8928571428571428,0.0,34.82142857142857,INF,like go say
+Oliver,Ruth,3.125,0.0,34.375,INF,say turn
+Oliver,Ruth,3.125,0.0,34.375,INF,say turn
+Ruth,Oliver,3.125,0.0,34.375,INF,say turn
+Ruth,Oliver,3.125,0.0,34.375,INF,say turn
+Ruth,Oliver,1.7857142857142856,0.0,41.07142857142857,INF,hear think
+Oliver,Babette,3.125,1.5625,45.3125,2.0,be
+Babette,Nao,0.0,4.807692307692308,25.961538461538463,0.0,be be be recruit
+Babette,Nao,0.0,4.807692307692308,25.961538461538463,0.0,be be be recruit
+Babette,Nao,0.0,4.807692307692308,25.961538461538463,0.0,be be be recruit
+Oliver,Ruth,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Oliver,Ruth,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Oliver,Ruth,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Ruth,Oliver,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Ruth,Oliver,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Oliver,Ruth,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Oliver,Ruth,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Ruth,Oliver,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Ruth,Oliver,4.807692307692308,3.3653846153846154,57.21153846153846,1.4285714285714286,do look have see be sound have back
+Ruth,Oliver,7.03125,4.6875,38.28125,1.5,have recall hate have
+Ruth,Oliver,7.03125,4.6875,38.28125,1.5,have recall hate have
+Ruth,Oliver,3.7037037037037033,5.092592592592593,50.46296296296296,0.7272727272727273,hate feel need speak explain be have
+Ruth,Oliver,3.7037037037037033,5.092592592592593,50.46296296296296,0.7272727272727273,hate feel need speak explain be have
+Oliver,Ruth,3.7037037037037033,5.092592592592593,50.46296296296296,0.7272727272727273,hate feel need speak explain be have
+Oliver,Ruth,3.7037037037037033,5.092592592592593,50.46296296296296,0.7272727272727273,hate feel need speak explain be have
+Ruth,Oliver,2.840909090909091,1.1363636363636365,68.75,2.5,watch veil go pull
+Ruth,Oliver,2.840909090909091,1.1363636363636365,68.75,2.5,watch veil go pull
+Ruth,Oliver,2.840909090909091,1.1363636363636365,68.75,2.5,watch veil go pull
+Oliver,Ruth,9.090909090909092,2.272727272727273,43.18181818181818,4.0,know
+Oliver,Ruth,9.090909090909092,2.272727272727273,43.18181818181818,4.0,know
+Ruth,Oliver,5.0,3.75,41.25,1.3333333333333333,know call
+Oliver,Ruth,1.2195121951219512,2.1341463414634148,60.0609756097561,0.5714285714285714,be know open crack reveal have notice
+Oliver,Ruth,1.2195121951219512,2.1341463414634148,60.0609756097561,0.5714285714285714,be know open crack reveal have notice
+Oliver,Ruth,1.2195121951219512,2.1341463414634148,60.0609756097561,0.5714285714285714,be know open crack reveal have notice
+Oliver,Ruth,1.2195121951219512,2.1341463414634148,60.0609756097561,0.5714285714285714,be know open crack reveal have notice
+Romeo,Juliet,0.0,0.0,20.0,INF,
+Oliver,Shakespeare,1.0714285714285714,0.35714285714285715,55.714285714285715,3.0,send fetch be read
+Oliver,Shakespeare,1.0714285714285714,0.35714285714285715,55.714285714285715,3.0,send fetch be read
+Oliver,Shakespeare,1.0714285714285714,0.35714285714285715,55.714285714285715,3.0,send fetch be read
+Romeo,Juliet,1.7045454545454544,2.840909090909091,40.909090909090914,0.6,be make get tell
+Romeo,Shakespeare,1.7045454545454544,2.840909090909091,40.909090909090914,0.6,be make get tell
+Juliet,Shakespeare,1.7045454545454544,2.840909090909091,40.909090909090914,0.6,be make get tell
+Shakespeare,John,0.8333333333333334,0.0,52.5,INF,have find peruse concern publish
+Armani,Babette,4.166666666666666,2.7777777777777777,43.05555555555556,1.5,have be die say think hit
+Armani,Babette,4.166666666666666,2.7777777777777777,43.05555555555556,1.5,have be die say think hit
+Babette,Armani,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Babette,Armani,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Babette,Ryu,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Babette,Armani,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Armani,Ryu,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Armani,Ryu,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Ryu,Armani,5.603448275862069,0.8620689655172413,48.706896551724135,6.5,be choose call be
+Edith Pilaf,Barbara,0.78125,1.953125,53.515625,0.4,hang sulk listen refuse go get feed
+Edith Pilaf,Babette,0.78125,1.953125,53.515625,0.4,hang sulk listen refuse go get feed
+Barbara,Babette,0.78125,1.953125,53.515625,0.4,hang sulk listen refuse go get feed
+Harry,Nao,2.083333333333333,0.6944444444444444,50.0,3.0,agree seem author be have come
+Mr. Yasutani,Naoko,2.4390243902439024,2.4390243902439024,63.41463414634146,1.0,suppose say be do have name have be meet
+Naoko,Mr. Yasutani,2.4390243902439024,2.4390243902439024,63.41463414634146,1.0,suppose say be do have name have be meet
+Stanford University,Haruki,0.0,0.0,60.86956521739131,INF,identify grow
+Harry,Mr. Yasutani,1.8292682926829267,2.7439024390243905,51.52439024390244,0.6666666666666666,be have be jeopardize
+Harry,Mr. Yasutani,1.8292682926829267,2.7439024390243905,51.52439024390244,0.6666666666666666,be have be jeopardize
+Nao,Oliver,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Nao,H. Yasudani,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Nao,Oliver,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Nao,H. Yasudani,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Oliver,H. Yasudani,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Oliver,Nao,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+H. Yasudani,Nao,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,conclude have find cite have try fail track
+Nao,Oliver,0.8333333333333334,2.5,50.0,0.3333333333333333,stand stretch wander
+Nao,Oliver,4.545454545454546,4.545454545454546,36.36363636363637,1.0,ask wave catch
+Nao,Oliver,4.545454545454546,4.545454545454546,36.36363636363637,1.0,ask wave catch
+Ruth,Oliver,0.0,6.018518518518518,56.94444444444444,0.0,apologize call apologize call be linger
+Ruth,Oliver,0.0,6.018518518518518,56.94444444444444,0.0,apologize call apologize call be linger
+Oliver,Ruth,0.0,6.018518518518518,56.94444444444444,0.0,apologize call apologize call be linger
+Oliver,Ruth,0.0,6.018518518518518,56.94444444444444,0.0,apologize call apologize call be linger
+Ruth,Oliver,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Ruth,Oliver,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Ruth,Oliver,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Ruth,Oliver,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Oliver,Ruth,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Oliver,Ruth,2.9605263157894735,1.644736842105263,53.289473684210535,1.8,feel be cross share see slump hesitate
+Ruth,Leistiko,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Ruth,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Leistiko,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Nao,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Nao,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Nao,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Nao,Oliver,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Oliver,Nao,5.319148936170213,1.8617021276595744,50.26595744680851,2.857142857142857,recount have write have be fire summarize break realize be look
+Oliver,Ruth,2.34375,2.34375,45.3125,1.0,do mean be call
+Oliver,Ruth,0.0,0.0,57.14285714285714,INF,ask study
+Oliver,Ruth,3.6764705882352944,0.0,55.14705882352941,INF,sit put
+Oliver,Ruth,3.6764705882352944,0.0,55.14705882352941,INF,sit put
+Ruth,Oliver,8.333333333333332,0.0,25.0,INF,reach
+Oliver,Ruth,0.0,0.0,45.45454545454545,INF,say rub
+Benoit,Ruth,0.0,0.0,77.77777777777779,INF,look hear enter
+Benoit,Ruth,0.0,0.0,77.77777777777779,INF,look hear enter
+Ruth,Benoit,0.0,0.0,42.857142857142854,INF,take
+Ruth,Benoit,3.977272727272727,0.5681818181818182,45.45454545454545,7.0,appreciate start shake stare
+Ruth,Benoit,3.977272727272727,0.5681818181818182,45.45454545454545,7.0,appreciate start shake stare
+Montaigne,Socrates,2.358490566037736,1.179245283018868,54.95283018867924,2.0,write paraphrase be go mean philosophize differ
+Montaigne,Lord Buddha,2.358490566037736,1.179245283018868,54.95283018867924,2.0,write paraphrase be go mean philosophize differ
+Socrates,Lord Buddha,2.358490566037736,1.179245283018868,54.95283018867924,2.0,write paraphrase be go mean philosophize differ
+Ruth,Benoit,1.0416666666666665,0.0,48.95833333333333,INF,read translate place
+Benoit,Ruth,1.0416666666666665,0.0,48.95833333333333,INF,read translate place
+Ruth,Jiko Obaachama,2.083333333333333,1.7361111111111112,46.18055555555556,1.2,be read find give have mention
+Ruth,Jiko Obaachama,2.083333333333333,1.7361111111111112,46.18055555555556,1.2,be read find give have mention
+Jiko Obaachama,Ruth,2.083333333333333,1.7361111111111112,46.18055555555556,1.2,be read find give have mention
+Jiko Obaachama,Ruth,2.083333333333333,1.7361111111111112,46.18055555555556,1.2,be read find give have mention
+Ruth,Benoit,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,pick contain have return translate
+Ruth,Oliver,3.3653846153846154,1.4423076923076923,52.88461538461539,2.3333333333333335,want discuss ask be look
+Ruth,Oliver,3.3653846153846154,1.4423076923076923,52.88461538461539,2.3333333333333335,want discuss ask be look
+Ruth,Oliver,2.8846153846153846,2.8846153846153846,48.07692307692308,1.0,wish have make
+Oliver,Ruth,2.8846153846153846,2.8846153846153846,48.07692307692308,1.0,wish have make
+Ruth,Oliver,7.142857142857142,0.0,45.23809523809524,INF,think go look realize be
+Ruth,Oliver,7.142857142857142,0.0,45.23809523809524,INF,think go look realize be
+Ruth,Oliver,0.0,0.5208333333333333,45.3125,0.0,cry turn see emerge drip
+Ruth,Oliver,0.0,0.5208333333333333,45.3125,0.0,cry turn see emerge drip
+Ruth,Oliver,0.8928571428571428,0.0,56.25,INF,see spread
+Ruth,Oliver,0.8928571428571428,0.0,56.25,INF,see spread
+Jiko Obaachama,Sugako,0.8620689655172413,0.43103448275862066,43.53448275862069,2.0,continue study write hang
+Ryu,Babette,0.0,8.333333333333332,13.88888888888889,0.0,spoil say
+Muji,Jiko Obaachama,2.7573529411764706,3.6764705882352944,47.97794117647059,0.75,arrive be come run greet tell be be be call disturb be like have
+Jiko Obaachama,Muji,2.7573529411764706,3.6764705882352944,47.97794117647059,0.75,arrive be come run greet tell be be be call disturb be like have
+Jiko Obaachama,Babette,7.421875,1.953125,54.6875,3.8,be care care have go waste fail achieve be write have die
+Jiko Obaachama,Babette,7.421875,1.953125,54.6875,3.8,be care care have go waste fail achieve be write have die
+Nao,Oliver,3.8461538461538463,0.9615384615384616,54.166666666666664,4.0,sit think have write be wait pick persist speak
+Ruth,Oliver,0.0,0.0,44.44444444444444,INF,hold show
+Ruth,Oliver,4.464285714285714,4.017857142857143,48.660714285714285,1.1111111111111112,be lie move
+Oliver,Ruth,4.464285714285714,4.017857142857143,48.660714285714285,1.1111111111111112,be lie move
+Oliver,Ruth,1.0869565217391304,1.6304347826086956,62.5,0.6666666666666666,speak have pass startle
+Oliver,Ruth,1.0869565217391304,1.6304347826086956,62.5,0.6666666666666666,speak have pass startle
+Oliver,Ruth,0.0,0.0,58.333333333333336,INF,sound
+Ruth,Oliver,0.8620689655172413,5.603448275862069,52.1551724137931,0.15384615384615385,be tell think catch simmer
+Ruth,Oliver,0.8620689655172413,5.603448275862069,52.1551724137931,0.15384615384615385,be tell think catch simmer
+Ruth,Oliver,0.0,1.7857142857142856,55.35714285714286,0.0,switch turn
+Ruth,Oliver,0.0,1.7857142857142856,55.35714285714286,0.0,switch turn
+Oliver,Jiko Obaachama,0.0,0.0,33.33333333333333,INF,remember
+Jiko Obaachama,Oliver,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Jiko Obaachama,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Jiko Obaachama,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Jiko Obaachama,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Oliver,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Oliver,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Oliver,Ruth,4.761904761904762,0.0,38.095238095238095,INF,hold take put know
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Ruth,Oliver,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Oliver,Ruth,4.545454545454546,1.1363636363636365,53.40909090909091,4.0,be drink check try tell
+Jiko Obaachama,Nao,3.4375000000000004,1.5625,60.0,2.2,feel have realize be let go
+Ruth,Oliver,0.5434782608695652,1.6304347826086956,63.04347826086957,0.3333333333333333,hear whoosh put take
+Ruth,Oliver,0.0,5.208333333333334,44.79166666666667,0.0,top pour
+Haruki,Ruth,1.6666666666666667,5.0,40.0,0.3333333333333333,find be say
+Oliver,Ruth,0.0,0.0,66.66666666666666,INF,look
+Marcel Proust,Nao,1.25,5.0,43.75,0.25,temp
+Ugawa Sensei,Muji,0.0,0.0,14.285714285714285,INF,plead
+Muji,Jiko Obaachama,1.644736842105263,1.9736842105263157,56.9078947368421,0.8333333333333334,dress have sew make sew be tie
+Muji,Jiko Obaachama,1.644736842105263,1.9736842105263157,56.9078947368421,0.8333333333333334,dress have sew make sew be tie
+Muji,Lord Buddha,2.604166666666667,1.3020833333333335,56.510416666666664,2.0,say be call be call be look sit
+Jiko Obaachama,Haruki,0.4166666666666667,0.0,39.58333333333333,INF,get go put
+Muji,Jiko Obaachama,1.0416666666666665,0.0,40.625,INF,go get
+Muji,Jiko Obaachama,1.1363636363636365,0.0,62.5,INF,have bring be mount hang
+Muji,Dad,5.147058823529411,1.715686274509804,53.92156862745098,3.0,go help clean be sit find
+Muji,Dad,5.147058823529411,1.715686274509804,53.92156862745098,3.0,go help clean be sit find
+Jiko Obaachama,Haruki,3.308823529411765,0.7352941176470588,54.779411764705884,4.5,be be have tell tell chase
+Haruki,Jiko Obaachama,1.8518518518518516,0.9259259259259258,49.074074074074076,2.0,be complete fulfil send
+Haruki,Jiko Obaachama,1.8518518518518516,0.9259259259259258,49.074074074074076,2.0,be complete fulfil send
+Haruki,Jiko Obaachama,1.8518518518518516,0.9259259259259258,49.074074074074076,2.0,be complete fulfil send
+Dad,Jiko Obaachama,3.9473684210526314,0.0,43.42105263157895,INF,live write
+Dad,Muji,5.241935483870968,0.0,56.048387096774185,INF,leave have get work stick help get
+Dad,Jiko Obaachama,5.241935483870968,0.0,56.048387096774185,INF,leave have get work stick help get
+Muji,Jiko Obaachama,5.241935483870968,0.0,56.048387096774185,INF,leave have get work stick help get
+Haruki,Dad,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,own say take
+Haruki,Dad,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,own say take
+Jiko Obaachama,Jigenji,6.521739130434782,2.1739130434782608,43.47826086956522,3.0,care be do belong
+Muji,Jiko Obaachama,2.2540983606557377,2.0491803278688523,54.713114754098356,1.1,promise take be be be promise come help
+Whaletown,Ruth,0.9259259259259258,1.8518518518518516,56.481481481481474,0.5,be do get visit
+Whaletown,Ruth,0.9259259259259258,1.8518518518518516,56.481481481481474,0.5,be do get visit
+Ruth,Nao,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Ruth,Jiko Obaachama,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Nao,Jiko Obaachama,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Nao,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Nao,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Nao,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Jiko Obaachama,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Jiko Obaachama,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Jiko Obaachama,Ruth,1.5625,0.0,48.4375,INF,agree read find wish do commemorate
+Ruth,Oliver,1.5957446808510638,2.127659574468085,53.72340425531915,0.75,recede heal need provide move spend
+Ruth,Oliver,1.5957446808510638,2.127659574468085,53.72340425531915,0.75,recede heal need provide move spend
+Oliver,Ruth,1.5957446808510638,2.127659574468085,53.72340425531915,0.75,recede heal need provide move spend
+Oliver,Ruth,1.5957446808510638,2.127659574468085,53.72340425531915,0.75,recede heal need provide move spend
+Oliver,Ruth,1.5957446808510638,2.127659574468085,53.72340425531915,0.75,recede heal need provide move spend
+Ruth,Oliver,2.5,1.25,56.25,2.0,be
+Oliver,Ruth,2.5,1.25,56.25,2.0,be
+Oliver,Ruth,0.0,0.0,60.0,INF,touch
+Ruth,Masako,5.324074074074074,2.5462962962962963,56.94444444444444,2.090909090909091,have pass be look be lead be lay feel see
+Ruth,Masako,5.324074074074074,2.5462962962962963,56.94444444444444,2.090909090909091,have pass be look be lead be lay feel see
+Masako,Ruth,5.324074074074074,2.5462962962962963,56.94444444444444,2.090909090909091,have pass be look be lead be lay feel see
+Masako,Ruth,5.324074074074074,2.5462962962962963,56.94444444444444,2.090909090909091,have pass be look be lead be lay feel see
+Oliver,Ruth,3.205128205128205,1.282051282051282,57.05128205128205,2.5,want get grow buy leave
+Ruth,Oliver,3.205128205128205,1.282051282051282,57.05128205128205,2.5,want get grow buy leave
+Douglas,Ruth,10.9375,1.5625,43.75,7.0,use love surround
+Oliver,Ruth,0.0,1.0869565217391304,59.78260869565217,0.0,say ride be
+Ruth,Whaletown,0.0,0.0,50.0,INF,bring talk be
+Ruth,Dora,0.0,0.0,50.0,INF,bring talk be
+Whaletown,Ruth,0.0,0.0,50.0,INF,bring talk be
+Whaletown,Dora,0.0,0.0,50.0,INF,bring talk be
+Ruth,Dora,0.0,0.0,50.0,INF,bring talk be
+Ruth,Dora,2.717391304347826,1.6304347826086956,39.130434782608695,1.6666666666666667,guess be stuff baffle have like
+Ruth,Dora,2.717391304347826,1.6304347826086956,39.130434782608695,1.6666666666666667,guess be stuff baffle have like
+Ruth,Dora,2.717391304347826,1.6304347826086956,39.130434782608695,1.6666666666666667,guess be stuff baffle have like
+Ruth,Nao,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Ruth,Jiko Obaachama,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Nao,Jiko Obaachama,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Nao,Ruth,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Nao,Ruth,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Jiko Obaachama,Ruth,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Jiko Obaachama,Ruth,1.7045454545454544,3.977272727272727,39.77272727272727,0.42857142857142855,think wish know sing
+Muriel,Oliver,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,be stand test mount have order
+Muriel,Oliver,2.604166666666667,0.5208333333333333,51.041666666666664,5.0,be stand test mount have order
+Muriel,Ruth,0.9146341463414633,0.9146341463414633,56.70731707317073,1.0,be hope want take send coordinate
+Muriel,Oliver,0.9146341463414633,0.9146341463414633,56.70731707317073,1.0,be hope want take send coordinate
+Ruth,Oliver,0.9146341463414633,0.9146341463414633,56.70731707317073,1.0,be hope want take send coordinate
+Nao,Jiko Obaachama,12.5,2.083333333333333,27.083333333333332,6.0,be
+Nao,Jiko Obaachama,4.605263157894736,0.0,42.76315789473684,INF,promise go help
+Nao,Muji,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Muji,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Muji,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Muji,Nao,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Muji,Nao,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Muji,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Nao,Haruki,0.7978723404255319,0.5319148936170213,43.351063829787236,1.5,be know be come grab stuff be speculate
+Muriel,Ruth,0.0,0.0,45.45454545454545,INF,lower look
+Muriel,Ruth,0.0,0.0,45.45454545454545,INF,lower look
+Ruth,Oliver,5.357142857142857,0.0,51.78571428571429,INF,look
+Muriel,Oliver,3.75,5.625,55.625,0.6666666666666666,sit groan cause
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Ruth,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Muriel,Nao,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Nao,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Nao,Muriel,3.79746835443038,3.6392405063291138,40.664556962025316,1.0434782608695652,be feel tell be look describe have lead be wait talk go find
+Jiko Obaachama,Muji,3.75,0.75,37.5,5.0,check write return
+Muriel,Oliver,3.125,9.375,37.5,0.3333333333333333,break turn
+Muriel,Nao,1.0416666666666665,0.6944444444444444,37.15277777777778,1.5,continue be come lead change
+Muriel,Nao,1.0416666666666665,0.6944444444444444,37.15277777777778,1.5,continue be come lead change
+Ruth,Oliver,0.78125,3.90625,45.3125,0.2,be start say interrupt
+Muriel,Ruth,0.0,0.0,42.857142857142854,INF,pass
+Ruth,Haruki,12.5,4.6875,32.8125,2.6666666666666665,think
+Oliver,Ruth,3.3333333333333335,0.8333333333333334,42.5,4.0,say drop
+Ruth,Oliver,0.0,0.0,50.0,INF,turn pass
+Ruth,Oliver,0.0,0.0,55.55555555555556,INF,ask do answer
+Ruth,Muriel,0.0,0.0,42.857142857142854,INF,be say clutch
+Oliver,Ruth,0.0,0.0,68.42105263157895,INF,carry hold find line
+Oliver,Ruth,0.0,0.0,68.42105263157895,INF,carry hold find line
+Oliver,Ruth,0.0,0.0,68.42105263157895,INF,carry hold find line
+Oliver,Ruth,2.34375,8.59375,32.8125,0.2727272727272727,say cut
+Ruth,Oliver,0.0,0.0,71.42857142857143,INF,look
+Ruth,Oliver,2.2058823529411766,2.941176470588235,41.911764705882355,0.75,break
+Ruth,Oliver,2.7777777777777777,0.0,19.444444444444446,INF,call
+Muriel,Oliver,0.0,0.0,30.76923076923077,INF,go say push
+Oliver,Ruth,1.4423076923076923,0.4807692307692308,63.46153846153846,3.0,stare phone tell be come
+Ruth,Oliver,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,be feel leave drive
+Ruth,Oliver,1.7857142857142856,0.8928571428571428,50.89285714285714,2.0,wedge close listen
+Ruth,Oliver,1.7857142857142856,0.8928571428571428,50.89285714285714,2.0,wedge close listen
+Ruth,Oliver,1.7857142857142856,0.8928571428571428,50.89285714285714,2.0,wedge close listen
+Harry,Nao,1.3888888888888888,1.3888888888888888,30.555555555555557,1.0,
+Daisuke-kun,Reiko,0.0,2.734375,56.640625,0.0,remember use ambush beat go
+Daisuke,Reiko,3.977272727272727,0.0,46.02272727272727,INF,move stop go do see
+Daisuke,Reiko,3.977272727272727,0.0,46.02272727272727,INF,move stop go do see
+Ruth,Jiko Obaachama,1.1904761904761905,1.1904761904761905,50.0,1.0,be be get go sit
+Jiko Obaachama,Ruth,1.1904761904761905,1.1904761904761905,50.0,1.0,be be get go sit
+Ruth,Oliver,2.34375,2.34375,51.5625,1.0,sleep make
+Ruth,Oliver,2.34375,2.34375,51.5625,1.0,sleep make
+Ruth,Oliver,8.522727272727272,2.272727272727273,43.75,3.75,seem remember suggest have appreciate
+Ruth,Oliver,8.522727272727272,2.272727272727273,43.75,3.75,seem remember suggest have appreciate
+Oliver,Ruth,8.522727272727272,2.272727272727273,43.75,3.75,seem remember suggest have appreciate
+Ruth,Oliver,8.522727272727272,2.272727272727273,43.75,3.75,seem remember suggest have appreciate
+Nao,Ruth,0.0,0.0,44.44444444444444,INF,be write be
+Muriel,Nao,2.7083333333333335,0.4166666666666667,48.541666666666664,6.5,be be follow find send have put be flip
+Muriel,Oliver,2.7083333333333335,0.4166666666666667,48.541666666666664,6.5,be be follow find send have put be flip
+Muriel,Oliver,2.7083333333333335,0.4166666666666667,48.541666666666664,6.5,be be follow find send have put be flip
+Nao,Oliver,2.7083333333333335,0.4166666666666667,48.541666666666664,6.5,be be follow find send have put be flip
+Nao,Oliver,2.7083333333333335,0.4166666666666667,48.541666666666664,6.5,be be follow find send have put be flip
+Nao,Jiko Obaachama,0.43103448275862066,0.8620689655172413,50.43103448275862,0.5,say be be
+Nao,Jiko Obaachama,0.43103448275862066,0.8620689655172413,50.43103448275862,0.5,say be be
+Jiko Obaachama,Nao,0.43103448275862066,0.8620689655172413,50.43103448275862,0.5,say be be
+Jiko Obaachama,Nao,1.25,2.5,51.24999999999999,0.5,have be be be be
+Oliver,Ruth,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,pick be let
+Ruth,Schrödinger,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,know
+Ruth,Schrödinger,0.78125,1.5625,47.65625,0.5,press have confess make do
+Ruth,Marcel Proust,0.78125,1.5625,47.65625,0.5,press have confess make do
+Schrödinger,Ruth,0.78125,1.5625,47.65625,0.5,press have confess make do
+Schrödinger,Marcel Proust,0.78125,1.5625,47.65625,0.5,press have confess make do
+Ruth,Marcel Proust,0.78125,1.5625,47.65625,0.5,press have confess make do
+Ruth,Schrödinger,1.25,0.0,52.083333333333336,INF,know be think devise have do
+Ruth,Schrödinger,3.0303030303030303,1.893939393939394,55.68181818181818,1.6,know have propose put be trigger release be meet
+Ruth,Oliver,0.9615384615384616,2.8846153846153846,57.692307692307686,0.3333333333333333,stare shift
+Ruth,Oliver,5.555555555555555,3.4722222222222223,46.52777777777778,1.6,stare close
+Nao,Jiko Obaachama,7.8125,0.78125,35.15625,10.0,come be
+Nao,Jiko Obaachama,7.8125,0.78125,35.15625,10.0,come be
+Haruki,Dōgen,7.5,5.0,37.5,1.5,have be quote talk
+Hugh Everett,Dōgen,1.6129032258064515,0.4032258064516129,56.048387096774185,4.0,come support be have be
+Nao,Jiko Obaachama,2.142857142857143,1.0714285714285714,45.357142857142854,2.0,be finish be live be finish
+Nao,Jiko Obaachama,2.142857142857143,1.0714285714285714,45.357142857142854,2.0,be finish be live be finish
+Schrödinger,Ruth,0.0,0.0,18.181818181818183,INF,say

@@ -1,0 +1,1244 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Patsy,Woo-jin,0.78125,2.34375,46.875,0.3333333333333333,be go want know
+Patsy,Woo-jin,0.78125,2.34375,46.875,0.3333333333333333,be go want know
+Woo-jin,Patsy,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Woo-jin,Patsy,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Patsy,Woo-jin,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Patsy,Woo-jin,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Woo-jin,Patsy,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Patsy,Woo-jin,2.403846153846154,2.644230769230769,58.41346153846154,0.9090909090909091,eat go stuff have share show have yell need
+Patsy,Woo-jin,7.142857142857142,2.380952380952381,52.38095238095239,3.0,be talk be
+Patsy,Woo-jin,7.142857142857142,2.380952380952381,52.38095238095239,3.0,be talk be
+Patsy,Woo-jin,7.142857142857142,2.380952380952381,52.38095238095239,3.0,be talk be
+Woo-jin,Patsy,0.0,3.90625,58.59375,0.0,show accuse bring
+Patsy,Woo-jin,0.0,3.90625,58.59375,0.0,show accuse bring
+Patsy,Woo-jin,9.558823529411764,1.4705882352941175,59.55882352941176,6.5,be be bring
+Woo-jin,Patsy,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Woo-jin,Patsy,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Patsy,Woo-jin,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Patsy,Woo-jin,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Patsy,Woo-jin,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Patsy,Woo-jin,1.9230769230769231,0.3205128205128205,59.294871794871796,6.0,have decide take like like go like do have
+Woo-jin,Patsy,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Woo-jin,Patsy,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Woo-jin,Patsy,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Woo-jin,Patsy,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Patsy,Woo-jin,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Patsy,Woo-jin,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Patsy,Woo-jin,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Patsy,Woo-jin,1.524390243902439,0.0,59.45121951219512,INF,do bring have start cook forget eat be yell be
+Patsy,Woo-jin,0.5,2.5,53.0,0.2,get let eat stay be have get ask move come sputter
+Patsy,Woo-jin,0.5,2.5,53.0,0.2,get let eat stay be have get ask move come sputter
+Patsy,Woo-jin,0.5,2.5,53.0,0.2,get let eat stay be have get ask move come sputter
+Patsy,Woo-jin,0.5,2.5,53.0,0.2,get let eat stay be have get ask move come sputter
+Patsy,Woo-jin,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Patsy,Woo-jin,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Woo-jin,Patsy,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Woo-jin,Patsy,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Patsy,Woo-jin,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Woo-jin,Patsy,1.1904761904761905,0.0,41.66666666666667,INF,wobble do feed get put pay eat
+Woo-jin,Patsy,4.807692307692308,3.3653846153846154,53.36538461538461,1.4285714285714286,save want try eat
+Woo-jin,Patsy,3.125,2.9605263157894735,57.07236842105263,1.0555555555555556,eat get get have eat like double leave take taste pack
+Woo-jin,Patsy,3.125,2.9605263157894735,57.07236842105263,1.0555555555555556,eat get get have eat like double leave take taste pack
+Woo-jin,Patsy,3.125,2.9605263157894735,57.07236842105263,1.0555555555555556,eat get get have eat like double leave take taste pack
+Woo-jin,Patsy,3.125,2.9605263157894735,57.07236842105263,1.0555555555555556,eat get get have eat like double leave take taste pack
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Patsy,Woo-jin,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Patsy,0.75,0.25,65.0,3.0,show shake find see hog light eat melt
+Woo-jin,Stella,0.0,2.5,49.5,0.0,see recognize be
+Woo-jin,Newman Assassin,0.0,2.5,49.5,0.0,see recognize be
+Woo-jin,Stella,0.0,2.5,49.5,0.0,see recognize be
+Stella,Newman Assassin,0.0,2.5,49.5,0.0,see recognize be
+Newman Assassin,Stella,0.0,2.5,49.5,0.0,see recognize be
+Woo-jin,Patsy,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Woo-jin,Patsy,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Patsy,Woo-jin,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Patsy,Woo-jin,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Patsy,Woo-jin,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Woo-jin,Patsy,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Woo-jin,Patsy,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Woo-jin,Patsy,5.487804878048781,4.2682926829268295,56.09756097560976,1.2857142857142858,try look make help start think have be eat
+Stella,Dr. Uri Borden,0.0,0.0,59.375,INF,land climb receive play
+Stella,Neethan,0.0,0.0,59.375,INF,land climb receive play
+Dr. Uri Borden,Neethan,0.0,0.0,59.375,INF,land climb receive play
+Woo-jin,Neethan,2.232142857142857,2.6785714285714284,48.660714285714285,0.8333333333333334,push turn fetch
+Woo-jin,Patsy,2.083333333333333,6.25,25.0,0.3333333333333333,whisper
+Patsy,Woo-jin,4.0,5.5,46.5,0.7272727272727273,suffer feed bleed amplify have begin level
+Woo-jin,Patsy,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,amaze give cut turn go
+Woo-jin,Hattie,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,amaze give cut turn go
+Woo-jin,Patsy,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,amaze give cut turn go
+Patsy,Hattie,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,amaze give cut turn go
+Hattie,Patsy,0.7352941176470588,3.6764705882352944,54.41176470588235,0.2,amaze give cut turn go
+Hattie,Patsy,2.976190476190476,0.5952380952380952,48.80952380952381,5.0,start take rub
+Patsy,Hattie,2.976190476190476,0.5952380952380952,48.80952380952381,5.0,start take rub
+Patsy,Hattie,2.976190476190476,0.5952380952380952,48.80952380952381,5.0,start take rub
+Hattie,Patsy,1.1363636363636365,1.1363636363636365,43.18181818181818,1.0,come say
+Hattie,Patsy,2.083333333333333,0.8928571428571428,63.69047619047619,2.3333333333333335,circle rub offer plug lay
+Hattie,Patsy,2.083333333333333,0.8928571428571428,63.69047619047619,2.3333333333333335,circle rub offer plug lay
+Hattie,Patsy,0.9615384615384616,0.9615384615384616,59.61538461538461,1.0,help disrobe sit
+Hattie,Patsy,3.125,0.625,56.25,5.0,slip
+Hattie,Michael,3.125,0.625,56.25,5.0,slip
+Patsy,Michael,3.125,0.625,56.25,5.0,slip
+Patsy,Michael,2.7777777777777777,1.9444444444444444,57.49999999999999,1.4285714285714286,remove sing love sleep be say be
+Patsy,Michael,2.7777777777777777,1.9444444444444444,57.49999999999999,1.4285714285714286,remove sing love sleep be say be
+Michael,Patsy,2.7777777777777777,1.9444444444444444,57.49999999999999,1.4285714285714286,remove sing love sleep be say be
+Hattie,Patsy,2.083333333333333,4.166666666666666,43.75,0.5,sit pet
+Hattie,Patsy,2.083333333333333,4.166666666666666,43.75,0.5,sit pet
+Patsy,Juan,1.8518518518518516,1.3888888888888888,48.61111111111111,1.3333333333333333,be cover do cry be play
+Patsy,Juan,1.8518518518518516,1.3888888888888888,48.61111111111111,1.3333333333333333,be cover do cry be play
+Woo-jin,Juan,0.0,0.0,56.25,INF,crawl be propel
+Woo-jin,Juan,0.0,0.0,56.25,INF,crawl be propel
+Woo-jin,Juan,0.9615384615384616,0.641025641025641,62.5,1.5,arrive open turn consider commence
+Tom,Woo-jin,3.0797101449275366,0.9057971014492754,52.53623188405797,3.4,be make be look
+Woo-jin,Boeing,1.5625,2.1484375,54.1015625,0.7272727272727273,hypnotize leave carbonate take crumble roar dip
+Woo-jin,Boeing,1.5625,2.1484375,54.1015625,0.7272727272727273,hypnotize leave carbonate take crumble roar dip
+Woo-jin,Boeing,1.5625,2.1484375,54.1015625,0.7272727272727273,hypnotize leave carbonate take crumble roar dip
+Woo-jin,Boeing,1.5625,2.1484375,54.1015625,0.7272727272727273,hypnotize leave carbonate take crumble roar dip
+New York Alki,Woo-jin,4.435483870967742,2.0161290322580645,54.83870967741935,2.2,serve go be make be
+Woo-jin,Sandford,2.7777777777777777,1.3888888888888888,45.83333333333333,2.0,be look close
+Woo-jin,Sandford,1.25,2.5,41.25,0.5,clench push yell clank
+Woo-jin,Sandford,1.25,2.5,41.25,0.5,clench push yell clank
+Ben O’Winn,Bahn Kan,1.7857142857142856,2.857142857142857,52.5,0.625,be comprise douse endure
+Bahn Kan,Woo-jin,0.0,1.5625,48.4375,0.0,fetch
+Woo-jin,Bahn Kan,3.009259259259259,4.398148148148148,51.85185185185185,0.6842105263157895,count assess consider anticipate arrive let wash do
+Woo-jin,Bahn Kan,0.3125,3.125,59.06249999999999,0.1,feel discourage come glance smile recall defeat
+Sally,Woo-jin,0.8928571428571428,0.0,34.82142857142857,INF,hold repeat
+Sally,Mike,0.8928571428571428,0.0,34.82142857142857,INF,hold repeat
+Woo-jin,Mike,0.8928571428571428,0.0,34.82142857142857,INF,hold repeat
+Woo-jin,Sally,0.0,0.0,60.0,INF,look
+Sally,Woo-jin,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Sally,Mike,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Sally,Woo-jin,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Woo-jin,Mike,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Woo-jin,Sally,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Woo-jin,Sally,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Mike,Sally,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Mike,Sally,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Mike,Woo-jin,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Sally,Woo-jin,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Sally,Woo-jin,3.7037037037037033,0.9259259259259258,58.333333333333336,4.0,have think be start have get correct include
+Woo-jin,Sally,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,haul lock
+Woo-jin,Donald,2.604166666666667,1.5625,29.166666666666668,1.6666666666666667,say do know do give
+Woo-jin,Sally,4.435483870967742,6.451612903225806,50.403225806451616,0.6875,want tell know let slide
+Woo-jin,Sally,4.435483870967742,6.451612903225806,50.403225806451616,0.6875,want tell know let slide
+Woo-jin,Sally,4.435483870967742,6.451612903225806,50.403225806451616,0.6875,want tell know let slide
+Woo-jin,Sally,1.3888888888888888,8.333333333333332,45.83333333333333,0.16666666666666666,find stew happen feel
+Woo-jin,Sally,1.3888888888888888,8.333333333333332,45.83333333333333,0.16666666666666666,find stew happen feel
+Woo-jin,Sally,4.375,0.0,55.625,INF,understand be look rise
+Sally,Woo-jin,4.375,0.0,55.625,INF,understand be look rise
+Woo-jin,Boeing,0.0,0.8928571428571428,56.25,0.0,pass
+Woo-jin,Boeing,0.4464285714285714,0.0,60.26785714285714,INF,come seem push convulse
+Woo-jin,Boeing,0.4464285714285714,0.0,60.26785714285714,INF,come seem push convulse
+Patsy,Woo-jin,2.6515151515151514,3.0303030303030303,57.95454545454546,0.875,yell reveal be
+Patsy,Woo-jin,2.6515151515151514,3.0303030303030303,57.95454545454546,0.875,yell reveal be
+Woo-jin,Sandford,2.6785714285714284,3.571428571428571,36.607142857142854,0.75,be accept
+Bahn Kan,Ben O’Winn,2.976190476190476,0.0,49.404761904761905,INF,have start remove make grow
+Sally,Mike,5.357142857142857,0.0,51.78571428571429,INF,call
+Woo-jin,Wiggins,0.0,0.9615384615384616,60.57692307692307,0.0,introduce
+Woo-jin,New York Alki,4.861111111111112,3.4722222222222223,52.77777777777778,1.4,crane catch grow have be
+Wiggins,Woo-jin,0.0,0.0,52.63157894736842,INF,clip offer fill
+Woo-jin,Wiggins,0.0,0.0,52.63157894736842,INF,clip offer fill
+Wiggins,Dr. Farmer,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,say be
+Dr. Farmer,Woo-jin,2.1551724137931036,0.0,53.01724137931034,INF,like meet cover squish squeal shake
+Dr. Farmer,Woo-jin,2.1551724137931036,0.0,53.01724137931034,INF,like meet cover squish squeal shake
+Woo-jin,Dr. Farmer,2.1551724137931036,0.0,53.01724137931034,INF,like meet cover squish squeal shake
+Dr. Farmer,Woo-jin,2.1551724137931036,0.0,53.01724137931034,INF,like meet cover squish squeal shake
+Wiggins,Dr. Farmer,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,steady begin talk know
+Wiggins,Woo-jin,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,steady begin talk know
+Wiggins,Dr. Farmer,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,steady begin talk know
+Wiggins,Woo-jin,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,steady begin talk know
+Dr. Farmer,Woo-jin,4.166666666666666,3.4722222222222223,53.47222222222222,1.2,steady begin talk know
+Wiggins,Woo-jin,0.9615384615384616,0.9615384615384616,59.61538461538461,1.0,give
+Woo-jin,Dr. Farmer,1.8518518518518516,2.314814814814815,58.79629629629629,0.8,smell get spiral
+Woo-jin,Dr. Farmer,0.0,0.0,50.0,INF,pull
+Woo-jin,Patsy,1.7857142857142856,1.7857142857142856,67.85714285714286,1.0,be begin miss
+Woo-jin,Boeing,4.605263157894736,0.0,48.026315789473685,INF,walk have appear appear
+Bahn Kan,Ben O’Winn,0.9615384615384616,0.0,37.5,INF,do show
+Woo-jin,Sandford,0.0,0.0,46.666666666666664,INF,dunk grab punch
+Woo-jin,Sandford,0.0,0.0,46.666666666666664,INF,dunk grab punch
+Sandford,Woo-jin,2.0,0.0,57.99999999999999,INF,shake retrieve place
+Sandford,Woo-jin,2.0,0.0,57.99999999999999,INF,shake retrieve place
+Sally,Woo-jin,4.545454545454546,0.0,50.0,INF,hug say
+Sally,Mike,4.545454545454546,0.0,50.0,INF,hug say
+Woo-jin,Mike,4.545454545454546,0.0,50.0,INF,hug say
+Woo-jin,New York Alki,2.6785714285714284,0.0,54.46428571428571,INF,walk rise swoop crisscross tremble have love come have discover
+New York Alki,Woo-jin,2.6785714285714284,0.0,54.46428571428571,INF,walk rise swoop crisscross tremble have love come have discover
+New York Alki,Woo-jin,2.6785714285714284,0.0,54.46428571428571,INF,walk rise swoop crisscross tremble have love come have discover
+Nick,Star,4.924242424242424,0.0,61.74242424242424,INF,live be be call
+Nick,Star,4.924242424242424,0.0,61.74242424242424,INF,live be be call
+Nick,Star,0.0,0.4166666666666667,62.916666666666664,0.0,buy drive bottom
+Star,Nick,0.0,0.4166666666666667,62.916666666666664,0.0,buy drive bottom
+Star,Nick,1.1363636363636365,0.0,62.5,INF,greet stand
+Luke,Nick,3.8461538461538463,1.9230769230769231,71.15384615384616,2.0,be be
+Nick,Luke,4.166666666666666,0.3787878787878788,56.060606060606055,11.0,remember be keep want be be have be
+Nick,Luke,4.166666666666666,0.3787878787878788,56.060606060606055,11.0,remember be keep want be be have be
+Nick,Star,12.5,0.0,44.642857142857146,INF,
+Nick,Star,4.487179487179487,0.641025641025641,58.97435897435898,7.0,be do know do be want do
+Star,Nick,1.6304347826086956,0.5434782608695652,58.69565217391305,3.0,become do hear be stand
+Abby,Rocco,3.571428571428571,3.316326530612245,46.1734693877551,1.0769230769230769,accumulate go fall name persist be have be drop
+Rocco,Abby,3.571428571428571,3.316326530612245,46.1734693877551,1.0769230769230769,accumulate go fall name persist be have be drop
+Abby,Rocco,2.976190476190476,0.0,49.404761904761905,INF,rise make share
+Abby,Rocco,5.092592592592593,4.62962962962963,45.83333333333333,1.1,be sink
+Abby,Rocco,0.0,1.875,43.125,0.0,bear sorta
+Abby,Rocco,0.0,1.875,43.125,0.0,bear sorta
+Abby,Rocco,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Abby,Rocco,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Abby,Rocco,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Abby,Rocco,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Rocco,Abby,2.5,1.4285714285714286,53.214285714285715,1.75,have confide suspect be suppose be appear love be
+Abby,Rocco,2.976190476190476,9.523809523809524,54.166666666666664,0.3125,doubt wake live
+Abby,Rocco,2.976190476190476,9.523809523809524,54.166666666666664,0.3125,doubt wake live
+Abby,Rocco,0.8928571428571428,2.6785714285714284,53.57142857142857,0.3333333333333333,assemble turn dry leave
+Rocco,Abby,2.5,2.5,45.0,1.0,thumb
+Bickle,Abby,4.861111111111112,0.0,34.02777777777778,INF,do know name say
+Rocco,Abby,1.7857142857142856,0.0,55.35714285714286,INF,set
+Rocco,Bionet,3.4090909090909087,6.8181818181818175,35.22727272727273,0.5,be
+Rocco,Abby,0.0,0.4807692307692308,64.90384615384616,0.0,stumble kiss grab
+Abby,Rocco,0.0,0.4807692307692308,64.90384615384616,0.0,stumble kiss grab
+Abby,Rocco,0.0,0.0,38.46153846153847,INF,be say be go
+Nick,Luke,6.25,0.0,63.74999999999999,INF,be name
+Rocco,Peter Ng,6.25,2.083333333333333,41.66666666666667,3.0,be be
+Abby,Stella,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,watch
+Abby,Newman Assassin,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,watch
+Stella,Newman Assassin,0.9615384615384616,0.9615384615384616,51.92307692307693,1.0,watch
+Henrietta,Stella,0.0,0.9615384615384616,68.26923076923077,0.0,pen be sign
+Stella,Gustave Doré,2.5,3.214285714285714,48.57142857142857,0.7777777777777778,be cover torment
+Hunt,Stella,0.0,0.0,73.68421052631578,INF,be mount
+Hunt,Stella,0.0,0.0,73.68421052631578,INF,be mount
+Hunt,Stella,0.0,2.7777777777777777,52.77777777777778,0.0,rush disrobe
+Stella,Hunt,2.840909090909091,2.272727272727273,56.25,1.25,have retrieve appear be stick have brace get jiujitsue
+Stella,Hunt,2.840909090909091,2.272727272727273,56.25,1.25,have retrieve appear be stick have brace get jiujitsue
+Hunt,Stella,2.840909090909091,2.272727272727273,56.25,1.25,have retrieve appear be stick have brace get jiujitsue
+Stella,Hunt,2.840909090909091,2.272727272727273,56.25,1.25,have retrieve appear be stick have brace get jiujitsue
+Stella,Hunt,1.0416666666666665,2.083333333333333,80.20833333333334,0.5,swipe
+Hunt,Stella,0.4032258064516129,4.838709677419355,56.048387096774185,0.08333333333333333,lift get rip reveal
+Dr. Uri Borden,Neethan,1.5625,0.0,51.5625,INF,wait cover play
+Rocco,Abby,0.0,1.4705882352941175,57.35294117647059,0.0,crawl sleep dream
+Rocco,Abby,0.0,1.4705882352941175,57.35294117647059,0.0,crawl sleep dream
+Rocco,Abby,0.0,0.0,75.0,INF,wake touch
+Rocco,Abby,0.0,3.571428571428571,39.285714285714285,0.0,mumble kiss
+Abby,Rocco,0.0,0.0,28.57142857142857,INF,spoon
+Abby,Rocco,0.0,0.0,28.57142857142857,INF,spoon
+Rocco,Abby,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Rocco,Abby,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Rocco,Abby,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Rocco,Abby,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Abby,Rocco,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Rocco,Abby,2.941176470588235,0.7352941176470588,61.029411764705884,4.0,slide let
+Abby,Bickle,4.6875,1.953125,46.484375,2.4,get offer say dole know spy
+Bickle,Abby,4.6875,1.953125,46.484375,2.4,get offer say dole know spy
+Rocco,Abby,0.0,4.6875,57.8125,0.0,give
+Rocco,Abby,1.5625,1.5625,59.375,1.0,do have want leave
+Rocco,Abby,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,kiss communicate be
+Abby,Rocco,0.0,0.625,64.375,0.0,listen enter plunge
+Abby,Rocco,0.0,0.625,64.375,0.0,listen enter plunge
+Abby,Rocco,3.4090909090909087,0.45454545454545453,52.5,7.5,put understand explain have evolve need be work develop
+Abby,Rocco,1.3157894736842104,0.3289473684210526,53.61842105263158,4.0,struggle locate have be lose scramble claw
+Abby,Rocco,6.25,6.25,51.13636363636363,1.0,curse tell have say be
+Abby,Bickle,6.25,6.25,51.13636363636363,1.0,curse tell have say be
+Rocco,Bickle,6.25,6.25,51.13636363636363,1.0,curse tell have say be
+Federicos,Abby,0.8333333333333334,0.0,52.5,INF,jog
+Abby,Bickle,2.7777777777777777,0.6944444444444444,57.638888888888886,4.0,be be send name
+Federicos,Abby,0.0,0.0,50.0,INF,wait deliver
+Federicos,Abby,0.0,0.0,50.0,INF,wait deliver
+Federico,Abby,1.5625,0.0,42.1875,INF,look have meet
+Federico,Abby,0.6578947368421052,0.0,62.5,INF,notice stir set fold cross
+Abby,Federico,0.6578947368421052,0.0,62.5,INF,notice stir set fold cross
+Abby,Federico,0.6578947368421052,0.0,62.5,INF,notice stir set fold cross
+Abby,Federico,0.6578947368421052,0.0,62.5,INF,notice stir set fold cross
+Kylee,Abby,0.0,0.6944444444444444,49.30555555555556,0.0,be be say
+Federicos,Federico,2.1739130434782608,2.1739130434782608,43.47826086956522,1.0,say be
+Federicos,Kylee,2.1739130434782608,2.1739130434782608,43.47826086956522,1.0,say be
+Federico,Kylee,2.1739130434782608,2.1739130434782608,43.47826086956522,1.0,say be
+Abby,Federicos,3.040540540540541,2.364864864864865,59.45945945945946,1.2857142857142858,pass absorb bear squint
+Abby,Federicos,3.040540540540541,2.364864864864865,59.45945945945946,1.2857142857142858,pass absorb bear squint
+Abby,Federico,3.5000000000000004,1.0,63.5,3.5,glimpse be use entertain
+Abby,Federicos,3.5000000000000004,1.0,63.5,3.5,glimpse be use entertain
+Federico,Federicos,3.5000000000000004,1.0,63.5,3.5,glimpse be use entertain
+Abby,Federico,3.75,0.0,56.25,INF,say lean
+Federico,Abby,1.0416666666666665,2.083333333333333,69.09722222222221,0.5,dress seat have be hang fold
+Federico,Abby,1.0416666666666665,2.083333333333333,69.09722222222221,0.5,dress seat have be hang fold
+Federico,Abby,1.0416666666666665,2.083333333333333,69.09722222222221,0.5,dress seat have be hang fold
+Federico,Abby,1.0416666666666665,2.083333333333333,69.09722222222221,0.5,dress seat have be hang fold
+Kylee,Abby,0.0,0.0,25.0,INF,shush
+Federico,Kylee,0.5952380952380952,0.0,37.5,INF,take like see say
+Federico,Abby,1.3888888888888888,0.0,37.5,INF,leave say
+Abby,Kylee,1.25,2.083333333333333,53.333333333333336,0.6,try repress curl
+Abby,Kylee,1.25,2.083333333333333,53.333333333333336,0.6,try repress curl
+Kylee,Abby,1.25,2.083333333333333,53.333333333333336,0.6,try repress curl
+Kylee,Isaac,3.0172413793103448,4.741379310344827,57.758620689655174,0.6363636363636364,say sober buy start think have go
+Abby,Kylee,5.681818181818182,5.681818181818182,52.27272727272727,1.0,let need
+Isaac,Federico,0.0,0.0,33.33333333333333,INF,keep
+Isaac,Kylee,0.3676470588235294,0.3676470588235294,49.26470588235294,1.0,be begin cry quiver tip
+Isaac,Kylee,0.3676470588235294,0.3676470588235294,49.26470588235294,1.0,be begin cry quiver tip
+Kylee,Isaac,0.0,5.681818181818182,48.86363636363637,0.0,lean hiss be murder
+Abby,Rocco,7.5,1.25,46.25,6.0,keep close reach remember be
+Abby,Rocco,7.5,1.25,46.25,6.0,keep close reach remember be
+Rocco,Abby,7.5,1.25,46.25,6.0,keep close reach remember be
+Isaac,Abby,2.5735294117647056,2.941176470588235,53.30882352941176,0.875,rise fall mount pump assume be
+Abby,Isaac,2.5735294117647056,2.941176470588235,53.30882352941176,0.875,rise fall mount pump assume be
+Abby,Kylee,1.7241379310344827,0.8620689655172413,49.137931034482754,2.0,recognize top ripple
+Abby,Isaac,1.7241379310344827,0.8620689655172413,49.137931034482754,2.0,recognize top ripple
+Kylee,Isaac,1.7241379310344827,0.8620689655172413,49.137931034482754,2.0,recognize top ripple
+Federico,Abby,0.0,0.0,50.0,INF,stop
+Isaac,Kylee,2.1551724137931036,0.0,49.56896551724138,INF,hire present
+Isaac,Kylee,2.1551724137931036,0.0,49.56896551724138,INF,hire present
+Federico,Abby,0.0,0.0,72.72727272727273,INF,scurry trail
+Abby,Federico,1.3888888888888888,0.0,54.166666666666664,INF,keep come have gather
+Abby,Federicos,1.3888888888888888,0.0,54.166666666666664,INF,keep come have gather
+Federico,Federicos,1.3888888888888888,0.0,54.166666666666664,INF,keep come have gather
+Isaac,Federico,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Isaac,Abby,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Isaac,Federicos,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Federico,Abby,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Federico,Federicos,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Abby,Federicos,0.0,7.4074074074074066,33.33333333333333,0.0,be whisper begin
+Federico,Kylee,2.380952380952381,2.380952380952381,47.61904761904761,1.0,come lift direct
+Federico,Kylee,2.380952380952381,2.380952380952381,47.61904761904761,1.0,come lift direct
+Kylee,Isaac,0.0,3.75,56.25,0.0,blubber do leave
+Kylee,Federico,1.5625,0.0,23.4375,INF,
+Kylee,Federicos,2.272727272727273,4.545454545454546,56.81818181818182,0.5,faint be bear sob
+Abby,Federico,4.166666666666666,1.3888888888888888,50.0,3.0,tap
+Kylee,Federico,0.0,4.545454545454546,59.09090909090909,0.0,follow push
+Federico,Federicos,0.8928571428571428,3.571428571428571,56.25,0.25,begin lower dig
+Federico,Kylee,0.5208333333333333,1.5625,52.083333333333336,0.3333333333333333,unfold make
+Federico,Abby,2.2058823529411766,0.0,50.73529411764706,INF,proceed sidle explain work
+Federico,Federicos,0.0,6.25,50.0,0.0,die move
+Isaac,Kylee,0.0,5.902777777777778,69.09722222222221,0.0,be clutch fend appear be
+Kylee,Isaac,0.0,5.902777777777778,69.09722222222221,0.0,be clutch fend appear be
+Isaac,Kylee,0.8928571428571428,0.0,52.67857142857143,INF,raise deliver have
+Kylee,Federicos,0.5208333333333333,1.5625,64.58333333333334,0.3333333333333333,bark direct
+Kylee,Abby,2.142857142857143,1.4285714285714286,59.285714285714285,1.5,observe find grunt have attend
+Kylee,Bionet,2.142857142857143,1.4285714285714286,59.285714285714285,1.5,observe find grunt have attend
+Kylee,Abby,2.142857142857143,1.4285714285714286,59.285714285714285,1.5,observe find grunt have attend
+Abby,Bionet,2.142857142857143,1.4285714285714286,59.285714285714285,1.5,observe find grunt have attend
+Bionet,Abby,2.142857142857143,1.4285714285714286,59.285714285714285,1.5,observe find grunt have attend
+Abby,Jadie,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Abby,Megan,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Abby,Heather,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Abby,Jadie,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Abby,Megan,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Abby,Heather,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Jadie,Megan,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Jadie,Heather,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Megan,Heather,1.6891891891891893,1.0135135135135136,45.94594594594595,1.6666666666666667,have pile head abandon
+Heather,Abby,0.0,0.0,50.0,INF,pinch
+Abby,Bionet,1.7241379310344827,2.1551724137931036,51.293103448275865,0.8,hear have enter give
+Salo,Garza,2.8125,0.9375,51.24999999999999,3.0,go handle set run induce eat sleep take speak masturbate read watch
+Garza,Salo,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,describe feel
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Garza,Salo,1.2755102040816326,0.6377551020408163,60.33163265306123,2.0,find wake take get dress eat go work chat type make make go hook be screw come fall dream
+Bionet,Garza,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,be control start take panic
+Salo,Garza,4.310344827586207,2.586206896551724,44.827586206896555,1.6666666666666667,drag change wonder break
+Salo,Garza,4.310344827586207,2.586206896551724,44.827586206896555,1.6666666666666667,drag change wonder break
+Salo,Garza,4.310344827586207,2.586206896551724,44.827586206896555,1.6666666666666667,drag change wonder break
+Garza,Salo,1.5,0.5,66.0,3.0,begin look have lead give fill
+Garza,Salo,1.5,0.5,66.0,3.0,begin look have lead give fill
+Garza,Salo,1.5,0.5,66.0,3.0,begin look have lead give fill
+Hell,Garza,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,slaughter vomit
+Garza,Salo,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Bionet,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Salo,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Salo,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Bionet,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Salo,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Salo,Bionet,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Bionet,Salo,1.1160714285714286,0.4464285714285714,53.79464285714286,2.5,run lead hand figure be operate put
+Garza,Bionet,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Garza,Abby,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Bionet,Abby,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Bionet,Garza,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Bionet,Garza,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Abby,Garza,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Abby,Garza,0.7352941176470588,0.7352941176470588,45.588235294117645,1.0,see ferry suppose remain undergo relearn take
+Abby,Rocco,0.0,0.0,46.666666666666664,INF,translate
+Rocco,Abby,0.4629629629629629,0.4629629629629629,47.22222222222222,1.0,be spend warn prepare
+Rocco,Abby,0.4629629629629629,0.4629629629629629,47.22222222222222,1.0,be spend warn prepare
+Rocco,Abby,3.125,2.34375,38.28125,1.3333333333333333,have prep
+Abby,Rocco,3.125,2.34375,38.28125,1.3333333333333333,have prep
+Abby,Rocco,0.0,0.0,42.857142857142854,INF,lean
+Abby,Kylee,2.272727272727273,2.840909090909091,58.52272727272727,0.8,confront jerk smell burn
+Kylee,Abby,2.272727272727273,2.840909090909091,58.52272727272727,0.8,confront jerk smell burn
+Federicos,Federico,1.5625,1.5625,40.625,1.0,accompany stride ascend
+Federicos,Federico,1.7241379310344827,3.4482758620689653,46.55172413793103,0.5,elbow get ooh expel
+Kylee,Federicos,0.0,0.9375,51.5625,0.0,depart tickle coo hand wipe
+Federicos,Kylee,0.0,0.9375,51.5625,0.0,depart tickle coo hand wipe
+Federicos,Kylee,0.0,0.9375,51.5625,0.0,depart tickle coo hand wipe
+Kylee,Abby,2.083333333333333,3.125,44.79166666666667,0.6666666666666666,watch disappear haul
+Kylee,Federicos,2.083333333333333,3.125,44.79166666666667,0.6666666666666666,watch disappear haul
+Abby,Federicos,2.083333333333333,3.125,44.79166666666667,0.6666666666666666,watch disappear haul
+Kylee,Abby,0.43103448275862066,0.43103448275862066,57.758620689655174,1.0,arrive find set nap
+Kylee,Federico,0.43103448275862066,0.43103448275862066,57.758620689655174,1.0,arrive find set nap
+Abby,Federico,0.43103448275862066,0.43103448275862066,57.758620689655174,1.0,arrive find set nap
+Federico,Kylee,0.0,0.625,54.37499999999999,0.0,pour shout wake
+Federico,Kylee,0.0,0.0,22.22222222222222,INF,ask continue
+Abby,Federicos,0.0,0.0,33.33333333333333,INF,kneel
+Kylee,Federico,1.1363636363636365,1.7045454545454544,42.61363636363637,0.6666666666666666,shrug scoot chuckle leave
+Kylee,Abby,1.1363636363636365,1.7045454545454544,42.61363636363637,0.6666666666666666,shrug scoot chuckle leave
+Federico,Abby,1.1363636363636365,1.7045454545454544,42.61363636363637,0.6666666666666666,shrug scoot chuckle leave
+Abby,Luke,3.804347826086957,1.0869565217391304,47.28260869565217,3.5,check shout recite
+Abby,Luke,3.804347826086957,1.0869565217391304,47.28260869565217,3.5,check shout recite
+Luke,Mr. Kirkpatrick,0.0,3.8461538461538463,42.30769230769231,0.0,vanish
+Federico,Abby,3.571428571428571,1.7857142857142856,37.5,2.0,grab train
+Federico,Abby,3.571428571428571,1.7857142857142856,37.5,2.0,grab train
+Abby,Federico,3.571428571428571,1.7857142857142856,37.5,2.0,grab train
+Federico,Abby,3.571428571428571,1.7857142857142856,37.5,2.0,grab train
+Federico,Abby,0.0,0.78125,42.96875,0.0,appear remove
+Abby,Federico,0.0,0.78125,42.96875,0.0,appear remove
+Federico,Abby,0.0,0.0,60.0,INF,be wheel shake
+Federico,Abby,0.0,0.0,60.0,INF,be wheel shake
+Federico,Abby,0.0,0.0,60.0,INF,be wheel shake
+Abby,Kylee,3.125,0.625,36.25,5.0,sit realize be suppose represent
+Abby,Rocco,3.125,0.625,36.25,5.0,sit realize be suppose represent
+Kylee,Rocco,3.125,0.625,36.25,5.0,sit realize be suppose represent
+Abby,Federico,1.6891891891891893,2.027027027027027,50.33783783783784,0.8333333333333334,leap grab prance rise
+Abby,Federico,1.6891891891891893,2.027027027027027,50.33783783783784,0.8333333333333334,leap grab prance rise
+Bickle,Abby,1.4705882352941175,0.0,63.23529411764706,INF,hustle glide
+Federicos,Abby,1.3888888888888888,0.0,61.57407407407407,INF,pop prance play have greet
+Federicos,Abby,1.3888888888888888,0.0,61.57407407407407,INF,pop prance play have greet
+Federicos,Abby,1.3888888888888888,0.0,61.57407407407407,INF,pop prance play have greet
+Federicos,Abby,1.3888888888888888,0.0,61.57407407407407,INF,pop prance play have greet
+Abby,Federico,0.0,1.1904761904761905,65.47619047619048,0.0,collapse be drag leave dump
+Abby,Federico,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,sing costume
+Abby,Kylee,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,sing costume
+Federico,Kylee,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,sing costume
+Federicos,Kylee,2.006172839506173,2.1604938271604937,60.03086419753087,0.9285714285714286,be blow miss cut speed saw miniaturize come summon appear
+Federicos,Abby,2.006172839506173,2.1604938271604937,60.03086419753087,0.9285714285714286,be blow miss cut speed saw miniaturize come summon appear
+Kylee,Abby,2.006172839506173,2.1604938271604937,60.03086419753087,0.9285714285714286,be blow miss cut speed saw miniaturize come summon appear
+Abby,Kylee,2.7777777777777777,0.0,41.66666666666667,INF,overcome turn ask do make stop
+VW,Star,0.0,4.605263157894736,63.81578947368421,0.0,be live
+VW,Nick,0.0,4.605263157894736,63.81578947368421,0.0,be live
+Star,Nick,0.0,4.605263157894736,63.81578947368421,0.0,be live
+Nick,Bickle,0.0,0.0,50.0,INF,be do decide call
+Nick,Bickle,0.0,0.0,50.0,INF,be do decide call
+Star,Nick,2.2058823529411766,0.7352941176470588,52.94117647058824,3.0,ask speak go bury
+Star,Bickle,2.2058823529411766,0.7352941176470588,52.94117647058824,3.0,ask speak go bury
+Star,Nick,2.2058823529411766,0.7352941176470588,52.94117647058824,3.0,ask speak go bury
+Nick,Bickle,2.2058823529411766,0.7352941176470588,52.94117647058824,3.0,ask speak go bury
+Bickle,Nick,2.2058823529411766,0.7352941176470588,52.94117647058824,3.0,ask speak go bury
+Star,Nick,0.0,0.0,66.66666666666666,INF,do cope leave
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Marc,Nick,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Marc,Nick,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Nick,Marc,3.8461538461538463,4.807692307692308,42.628205128205124,0.8,talk kill have discover
+Star,Nick,4.166666666666666,0.0,38.69047619047619,INF,have reveal
+Nick,Star,2.5,0.625,51.87500000000001,4.0,be be stand look try figure put blurt sleep
+Nick,Star,2.5,0.625,51.87500000000001,4.0,be be stand look try figure put blurt sleep
+Nick,Star,0.5,0.0,59.5,INF,notice follow gaze see be sit
+Nick,Star,0.5,0.0,59.5,INF,notice follow gaze see be sit
+Star,Luke,3.0303030303030303,0.3787878787878788,45.07575757575758,8.0,say be go tell have become
+Star,Nick,7.236842105263158,1.3157894736842104,49.34210526315789,5.5,do help say call
+Sammy,Skinner,2.9166666666666665,0.4166666666666667,56.666666666666664,7.0,have walk
+Sammy,Skinner,2.9166666666666665,0.4166666666666667,56.666666666666664,7.0,have walk
+Skinner,Chiho,5.833333333333333,4.166666666666666,43.333333333333336,1.4,watch move
+Chiho,Skinner,1.25,0.0,38.75,INF,live
+Chiho,Skinner,2.7777777777777777,1.8518518518518516,58.333333333333336,1.5,sign shuffle wonder be toss
+Chiho,Skinner,2.7777777777777777,1.8518518518518516,58.333333333333336,1.5,sign shuffle wonder be toss
+Skinner,Chiho,1.0714285714285714,0.35714285714285715,52.85714285714286,3.0,sit watch pump design
+Chiho,Skinner,0.0,4.166666666666666,45.83333333333333,0.0,give
+Chiho,Skinner,1.9230769230769231,0.9615384615384616,58.65384615384615,2.0,have do have
+Skinner,Chiho,2.302631578947368,4.605263157894736,56.25,0.5,insist have know see have spend gaze
+Skinner,Chiho,2.302631578947368,4.605263157894736,56.25,0.5,insist have know see have spend gaze
+Chiho,Skinner,2.302631578947368,4.605263157894736,56.25,0.5,insist have know see have spend gaze
+Skinner,Chiho,2.302631578947368,4.605263157894736,56.25,0.5,insist have know see have spend gaze
+Skinner,Chiho,7.8125,2.34375,39.84375,3.3333333333333335,read know be
+Skinner,Coca-Cola,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,open stack expire
+Waitimu,Roon,1.9736842105263157,0.0,50.6578947368421,INF,be bear
+Skinner,Chiho,2.142857142857143,2.857142857142857,55.00000000000001,0.75,have speak yell
+Skinner,Chiho,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Skinner,Waitimu,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Skinner,Roon,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Chiho,Waitimu,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Chiho,Roon,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Waitimu,Roon,2.7777777777777777,3.7037037037037033,52.77777777777778,0.75,keep avoid talk
+Carl,Hiroko,0.5208333333333333,0.5208333333333333,61.458333333333336,1.0,live
+Carl,Skinner,0.0,0.0,61.111111111111114,INF,be negotiate roll
+Carl,Chiho,0.0,0.0,61.111111111111114,INF,be negotiate roll
+Skinner,Chiho,0.0,0.0,61.111111111111114,INF,be negotiate roll
+Carl,Skinner,2.5,3.0,58.5,0.8333333333333334,grab have clamber slam
+Carl,Skinner,2.5,3.0,58.5,0.8333333333333334,grab have clamber slam
+Hiroko,Skinner,0.6578947368421052,0.0,46.71052631578947,INF,let get say separate embrace
+Carl,Chiho,1.953125,3.515625,50.78125,0.5555555555555556,lift stand anticipate
+Skinner,Chiho,0.6578947368421052,1.3157894736842104,45.39473684210527,0.5,know put
+Skinner,Chiho,0.6578947368421052,1.3157894736842104,45.39473684210527,0.5,know put
+Hiroko,Carl,0.9259259259259258,1.3888888888888888,60.64814814814815,0.6666666666666666,lift repair zap pull
+Hiroko,Chiho,1.3157894736842104,2.631578947368421,38.15789473684211,0.5,say be worry escape
+Coke,Skinner,0.0,4.464285714285714,45.535714285714285,0.0,show say
+Chiho,Hiroko,0.0,0.0,25.0,INF,ask
+Skinner,Carl,2.083333333333333,4.166666666666666,54.861111111111114,0.5,be go look share
+Jesus,Skinner,0.0,0.0,41.66666666666667,INF,be say
+Hiroko,Chiho,0.0,0.0,64.28571428571429,INF,come
+Carl,Roon,2.7777777777777777,0.0,30.555555555555557,INF,do tell call
+Carl,Chiho,0.0,0.0,39.130434782608695,INF,do be knit hold
+Carl,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Carl,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Carl,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Chiho,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Chiho,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Chiho,Hiroko,0.0,0.0,39.130434782608695,INF,do be knit hold
+Skinner,Hiroko,0.78125,0.0,42.96875,INF,say say be work
+Skinner,Carl,0.78125,0.0,42.96875,INF,say say be work
+Hiroko,Carl,0.78125,0.0,42.96875,INF,say say be work
+Boeing,Skinner,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be fight laugh
+Skinner,Hiroko,0.0,4.166666666666666,40.27777777777778,0.0,say be say fight
+Hiroko,Carl,1.293103448275862,2.586206896551724,54.741379310344826,0.5,climb squeeze
+Hiroko,Bionet,2.5,2.5,15.0,1.0,be have
+Hiroko,Bionet,2.5,2.5,15.0,1.0,be have
+Chiho,Skinner,0.0,5.681818181818182,48.86363636363637,0.0,rub kiss
+Chiho,Skinner,0.0,5.681818181818182,48.86363636363637,0.0,rub kiss
+Carl,Hiroko,0.0,0.0,55.88235294117647,INF,leave recline go
+Carl,Skinner,3.4722222222222223,0.0,57.638888888888886,INF,reach take squeeze remind be
+Skinner,Carl,2.380952380952381,3.869047619047619,53.273809523809526,0.6153846153846154,go break be have be erase
+Carl,Skinner,0.0,1.3157894736842104,46.05263157894737,0.0,whisper come be
+Boeing,Skinner,0.0,0.0,18.181818181818183,INF,be say
+Carl,Skinner,1.7857142857142856,0.0,41.07142857142857,INF,say fall
+Will Ferrell,Carl,0.0,0.0,33.33333333333333,INF,shut say
+Skinner,Caponegra,0.0,3.6458333333333335,42.1875,0.0,be sweep say yank
+Caponegra,Skinner,10.0,5.0,25.0,2.0,roll
+Caponegra,Skinner,0.0,2.083333333333333,47.91666666666667,0.0,give
+Carl,Skinner,0.8333333333333334,0.0,39.166666666666664,INF,say get get
+Skinner,Will Ferrell,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,put climb look
+Skinner,Carl,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,put climb look
+Will Ferrell,Skinner,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,put climb look
+Will Ferrell,Carl,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,put climb look
+Skinner,Carl,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,put climb look
+Will Ferrell,Skinner,0.0,0.0,36.36363636363637,INF,go say
+Carl,Skinner,0.5208333333333333,6.770833333333333,63.541666666666664,0.07692307692307693,drag unload lurch
+Carl,Skinner,0.5208333333333333,6.770833333333333,63.541666666666664,0.07692307692307693,drag unload lurch
+Skinner,Carl,5.113636363636364,5.681818181818182,61.93181818181818,0.9,flutter squeeze go
+Skinner,Carl,5.113636363636364,5.681818181818182,61.93181818181818,0.9,flutter squeeze go
+Chiho,Hiroko,1.1363636363636365,8.522727272727272,49.43181818181818,0.13333333333333333,follow suspend
+Hiroko,Chiho,0.0,0.0,55.55555555555556,INF,show rise perch come rest seem float
+Skinner,Carl,0.0,4.464285714285714,59.82142857142857,0.0,lay peel
+Skinner,Carl,0.0,4.464285714285714,59.82142857142857,0.0,lay peel
+Carl,Skinner,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,swab dry help retrieve
+Skinner,Carl,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,swab dry help retrieve
+Skinner,Carl,2.6785714285714284,2.6785714285714284,44.642857142857146,1.0,swab dry help retrieve
+Carl,Roon,3.3333333333333335,1.6666666666666667,35.0,2.0,be go do
+Carl,Bionet,0.0,0.0,50.0,INF,consult
+Roon,Carl,2.8846153846153846,2.8846153846153846,40.38461538461539,1.0,be put
+Hiroko,Carl,4.166666666666666,2.083333333333333,10.416666666666668,2.0,be
+Chiho,Hearst Castle,1.3392857142857142,0.0,66.51785714285714,INF,have start focus describe
+Waitimu,Roon,2.8846153846153846,1.4423076923076923,53.36538461538461,2.0,go be be say
+Waitimu,Roon,2.272727272727273,0.0,25.0,INF,name say
+Skinner,Roon,5.803571428571429,2.232142857142857,52.67857142857143,2.6,listen nod reflect be court
+Roon,Skinner,5.803571428571429,2.232142857142857,52.67857142857143,2.6,listen nod reflect be court
+Roon,Waitimu,0.0,0.0,43.75,INF,look smell be
+Nick,Mr. Kirkpatrick,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,avoid be
+Nick,Mr. Kirkpatrick,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,avoid be
+Luke,Wyatt,4.464285714285714,0.8928571428571428,51.78571428571429,5.0,say be
+Erika,Wyatt,3.4090909090909087,0.0,42.04545454545455,INF,be
+Wyatt,Erika,1.9736842105263157,3.289473684210526,63.1578947368421,0.6,come look nod
+Luke,Wyatt,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,say think see
+Kirkpatrick Academy of Human Potential,Erika,4.761904761904762,3.571428571428571,58.333333333333336,1.3333333333333333,get explain realize make
+Kirkpatrick Academy of Human Potential,Erika,4.761904761904762,3.571428571428571,58.333333333333336,1.3333333333333333,get explain realize make
+Erika,Kirkpatrick Academy of Human Potential,4.761904761904762,3.571428571428571,58.333333333333336,1.3333333333333333,get explain realize make
+Wyatt,Erika,0.0,0.0,42.857142857142854,INF,shake
+Star,Nick,2.941176470588235,1.4705882352941175,66.17647058823529,2.0,need get see have write
+Erika,Bickle,0.8333333333333334,5.0,54.166666666666664,0.16666666666666666,be track
+Erika,Nick,2.840909090909091,0.0,51.70454545454546,INF,drop be
+Nick,Erika,1.3888888888888888,0.0,54.166666666666664,INF,be stand
+Nick,Luke,0.78125,0.0,42.96875,INF,get say be
+Nick,Luke,0.8928571428571428,0.0,56.25,INF,say do keep look
+Nick,Bickle,7.000000000000001,1.5,47.5,4.666666666666667,be go find be do need change
+Nick,Mr. Kirkpatrick,7.000000000000001,1.5,47.5,4.666666666666667,be go find be do need change
+Bickle,Mr. Kirkpatrick,7.000000000000001,1.5,47.5,4.666666666666667,be go find be do need change
+Stella,Newman Assassin,0.4807692307692308,0.0,64.90384615384616,INF,print
+Kirkpatrick Academy of Human Potential,Beth-Anne,0.78125,0.0,49.21875,INF,speak suppose be
+Kirkpatrick Academy of Human Potential,Neethan,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Kirkpatrick Academy of Human Potential,Neethan,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Kirkpatrick Academy of Human Potential,Neethan,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Kirkpatrick Academy of Human Potential,Beth-Anne,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Kirkpatrick Academy of Human Potential,Neethan,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Neethan,Beth-Anne,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Neethan,Beth-Anne,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Neethan,Beth-Anne,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Beth-Anne,Neethan,4.032258064516129,0.4032258064516129,56.85483870967742,10.0,enter be extend broaden provide process speak
+Geri,Neethan,0.0,0.0,33.33333333333333,INF,be wear recognize
+Geri,Neethan,2.272727272727273,3.977272727272727,61.93181818181818,0.5714285714285714,be blow remember exist evolve be
+Neethan,Geri,2.272727272727273,3.977272727272727,61.93181818181818,0.5714285714285714,be blow remember exist evolve be
+Neethan,Geri,0.7352941176470588,0.0,16.911764705882355,INF,say let do
+Neethan,Stella,0.0,0.0,51.85185185185185,INF,be create
+Neethan,Newman Assassin,0.0,0.0,51.85185185185185,INF,be create
+Neethan,Burke,0.0,0.0,51.85185185185185,INF,be create
+Stella,Newman Assassin,0.0,0.0,51.85185185185185,INF,be create
+Stella,Burke,0.0,0.0,51.85185185185185,INF,be create
+Newman Assassin,Burke,0.0,0.0,51.85185185185185,INF,be create
+Neethan,Stella,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Neethan,Newman Assassin,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Neethan,Stella,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Neethan,Newman Assassin,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Stella,Newman Assassin,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Stella,Newman Assassin,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Newman Assassin,Stella,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Stella,Newman Assassin,2.857142857142857,1.4285714285714286,52.85714285714286,2.0,tell be
+Geri,Burke,3.75,1.875,54.37499999999999,2.0,say tell be work
+Beth-Anne,Tom,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,
+Neethan,Tom,0.9615384615384616,0.0,58.01282051282052,INF,say cantilever use pull grow give
+Neethan,Tom,0.9615384615384616,0.0,58.01282051282052,INF,say cantilever use pull grow give
+Neethan,Tom,0.9615384615384616,0.0,58.01282051282052,INF,say cantilever use pull grow give
+Neethan,Tom,0.9615384615384616,0.0,58.01282051282052,INF,say cantilever use pull grow give
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Tom,Neethan,3.571428571428571,4.336734693877551,51.275510204081634,0.8235294117647058,gray do convey fail owe be piss be
+Neethan,Tom,1.5625,0.0,48.4375,INF,fall
+Neethan,Bionet,3.25,3.75,53.0,0.8666666666666667,have stop abuse stop become go recite bear
+Neethan,Bionet,3.25,3.75,53.0,0.8666666666666667,have stop abuse stop become go recite bear
+Bionet,Neethan,3.25,3.75,53.0,0.8666666666666667,have stop abuse stop become go recite bear
+Neethan,Tom,2.976190476190476,0.0,63.69047619047619,INF,confide consume
+Neethan,Tom,2.976190476190476,0.0,63.69047619047619,INF,confide consume
+Neethan,Tom,2.976190476190476,0.0,63.69047619047619,INF,confide consume
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Newman Assassin,Stella,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Beth-Anne,Nico,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,accord be
+Neethan,Nico,0.0,0.0,50.0,INF,remember host
+Nico,Neethan,0.0,0.0,50.0,INF,remember host
+Neethan,Ted Williams,1.3888888888888888,3.4722222222222223,67.36111111111111,0.4,have be defrost
+Ted Williams,Neethan,1.8867924528301887,0.4716981132075472,52.358490566037744,4.0,have outperform dress race try represent give
+Nico,Neethan,0.7352941176470588,1.4705882352941175,44.85294117647059,0.5,say play
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Newman Assassin,Stella,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Eric Bibble,Neethan,4.398148148148148,5.555555555555555,53.00925925925925,0.7916666666666666,shake have be tell give ’em
+Eric Bibble,Neethan,4.398148148148148,5.555555555555555,53.00925925925925,0.7916666666666666,shake have be tell give ’em
+Stella,Newman Assassin,4.861111111111112,2.7777777777777777,42.36111111111111,1.75,do want ask
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Newman Assassin,Stella,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Myra,Neethan,0.6944444444444444,2.7777777777777777,54.861111111111114,0.25,ratchet tease cast stand eclipse
+Myra,Neethan,0.6944444444444444,2.7777777777777777,54.861111111111114,0.25,ratchet tease cast stand eclipse
+Beth-Anne,Wanda,1.0416666666666665,0.0,40.625,INF,say
+Neethan,Stella,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Neethan,Newman Assassin,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Neethan,Wanda,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Stella,Newman Assassin,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Stella,Wanda,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Newman Assassin,Wanda,0.5681818181818182,0.0,44.88636363636363,INF,be say
+Neethan,Gordon,2.6785714285714284,0.0,36.607142857142854,INF,do make proclon
+Neethan,Stella,0.6944444444444444,2.7777777777777777,57.638888888888886,0.25,brace offend
+Neethan,Newman Assassin,0.6944444444444444,2.7777777777777777,57.638888888888886,0.25,brace offend
+Stella,Newman Assassin,0.6944444444444444,2.7777777777777777,57.638888888888886,0.25,brace offend
+Wanda,Neethan,3.048780487804878,3.048780487804878,59.756097560975604,1.0,look understand be feel be
+Wanda,Neethan,3.048780487804878,3.048780487804878,59.756097560975604,1.0,look understand be feel be
+Stella,Newman Assassin,5.147058823529411,1.4705882352941175,46.32352941176471,3.5,tell
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Newman Assassin,Stella,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Stella,Newman Assassin,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Stella,Neethan,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Newman Assassin,Stella,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Newman Assassin,Neethan,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Stella,Newman Assassin,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Stella,Neethan,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Newman Assassin,Neethan,2.564102564102564,0.3205128205128205,50.96153846153846,8.0,be speak
+Neethan,Myra,2.380952380952381,2.380952380952381,61.904761904761905,1.0,smell concoct endanger
+Neethan,Myra,0.3676470588235294,2.2058823529411766,56.25,0.16666666666666666,replay highlight raise spread reveal
+Neethan,Myra,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Neethan,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Neethan,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Neethan,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Neethan,Myra,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Myra,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Myra,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Myra,Eric Bibble,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Eric Bibble,Myra,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Eric Bibble,Myra,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Eric Bibble,Myra,0.4032258064516129,1.6129032258064515,52.82258064516129,0.25,shoot be giggle touch engage
+Neethan,Eric Bibble,1.4285714285714286,2.857142857142857,41.42857142857143,0.5,do transform carjack get
+Dr. Uri Borden,Neethan,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Dr. Uri Borden,Stella,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Dr. Uri Borden,Newman Assassin,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Neethan,Stella,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Neethan,Newman Assassin,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Stella,Newman Assassin,1.8292682926829267,2.2865853658536586,53.20121951219512,0.8,play get involve decide abort instigate impregnate
+Neethan,Dr. Uri Borden,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,learn enter complain lose
+Neethan,Dr. Uri Borden,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,learn enter complain lose
+Dr. Uri Borden,Bionet,2.393617021276596,1.5957446808510638,55.58510638297872,1.5,uncover be instigate be pursue want bring
+Bionet,Dr. Uri Borden,2.393617021276596,1.5957446808510638,55.58510638297872,1.5,uncover be instigate be pursue want bring
+Neethan,Peter Ng,3.3854166666666665,1.3020833333333335,47.39583333333333,2.6,study bone tell go get deserve reduce
+Neethan,Peter Ng,3.3854166666666665,1.3020833333333335,47.39583333333333,2.6,study bone tell go get deserve reduce
+Stella,Newman Assassin,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,show be mean keep
+Neethan,Newman Assassin,3.0303030303030303,1.893939393939394,43.56060606060606,1.6,be do know be talk
+Neethan,Myra,0.0,2.34375,47.65625,0.0,be doin
+Myra,Neethan,3.125,2.34375,50.78125,1.3333333333333333,think be smell get arouse
+Beth-Anne,Neethan,0.0,1.0416666666666665,40.625,0.0,introduce
+Beth-Anne,Neethan,0.0,1.0416666666666665,40.625,0.0,introduce
+Beth-Anne,Bickle,0.0,1.0416666666666665,40.625,0.0,introduce
+Neethan,Bickle,0.0,1.0416666666666665,40.625,0.0,introduce
+Neethan,Bickle,0.0,1.0416666666666665,40.625,0.0,introduce
+Bickle,Neethan,0.0,0.0,40.0,INF,lean speak
+Beth-Anne,Bickle,0.0,2.272727272727273,29.545454545454547,0.0,take
+Beth-Anne,Kelli,0.0,2.272727272727273,29.545454545454547,0.0,take
+Beth-Anne,Staci,0.0,2.272727272727273,29.545454545454547,0.0,take
+Beth-Anne,Brandi,0.0,2.272727272727273,29.545454545454547,0.0,take
+Bickle,Kelli,0.0,2.272727272727273,29.545454545454547,0.0,take
+Bickle,Staci,0.0,2.272727272727273,29.545454545454547,0.0,take
+Bickle,Brandi,0.0,2.272727272727273,29.545454545454547,0.0,take
+Kelli,Staci,0.0,2.272727272727273,29.545454545454547,0.0,take
+Kelli,Brandi,0.0,2.272727272727273,29.545454545454547,0.0,take
+Staci,Brandi,0.0,2.272727272727273,29.545454545454547,0.0,take
+Neethan,Ms. Fairbanks,1.0135135135135136,3.040540540540541,55.4054054054054,0.3333333333333333,be say provoke intensify jump mention interview
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Newman Assassin,Stella,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Stella,Newman Assassin,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,be
+Bickle,Myra,0.8928571428571428,0.0,41.964285714285715,INF,haunt proceed
+Bickle,Neethan,0.8928571428571428,0.0,41.964285714285715,INF,haunt proceed
+Myra,Neethan,0.8928571428571428,0.0,41.964285714285715,INF,haunt proceed
+Neethan,Myra,5.357142857142857,1.1904761904761905,52.976190476190474,4.5,have be fuck have play have be fuck
+Neethan,Gordon,5.357142857142857,1.1904761904761905,52.976190476190474,4.5,have be fuck have play have be fuck
+Myra,Neethan,5.357142857142857,1.1904761904761905,52.976190476190474,4.5,have be fuck have play have be fuck
+Myra,Gordon,5.357142857142857,1.1904761904761905,52.976190476190474,4.5,have be fuck have play have be fuck
+Neethan,Gordon,5.357142857142857,1.1904761904761905,52.976190476190474,4.5,have be fuck have play have be fuck
+Neethan,Rory,4.545454545454546,0.0,40.909090909090914,INF,meet
+Rory,Neethan,3.9285714285714284,0.35714285714285715,44.285714285714285,11.0,have be think include
+Rory,Neethan,3.9285714285714284,0.35714285714285715,44.285714285714285,11.0,have be think include
+Rory,Neethan,3.9285714285714284,0.35714285714285715,44.285714285714285,11.0,have be think include
+Rory,Neethan,3.9285714285714284,0.35714285714285715,44.285714285714285,11.0,have be think include
+Neethan,Rory,0.8333333333333334,0.0,52.5,INF,take bend allow light
+Beth-Anne,Rory,2.5,4.375,43.125,0.5714285714285714,seep gather
+Neethan,Stella,0.0,0.0,58.82352941176471,INF,recognize do head
+Neethan,Stella,0.0,0.0,58.82352941176471,INF,recognize do head
+Neethan,Rory,2.6515151515151514,4.166666666666666,41.66666666666667,0.6363636363636364,occupy be rope intend set
+Rory,Neethan,4.605263157894736,0.6578947368421052,52.63157894736842,7.0,intend go have be pitch
+Julian,Rory,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Julian,Neethan,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Julian,Neethan,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Julian,Abraham Lincoln,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Rory,Neethan,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Rory,Neethan,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Rory,Abraham Lincoln,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Neethan,Abraham Lincoln,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Neethan,Abraham Lincoln,0.872093023255814,0.29069767441860467,47.674418604651166,3.0,be say give spend get be develop
+Neethan,Rory,5.263157894736842,0.0,47.368421052631575,INF,say listen know have have
+Rory,Neethan,5.263157894736842,0.0,47.368421052631575,INF,say listen know have have
+Julian,Rory,0.9615384615384616,0.9615384615384616,44.230769230769226,1.0,keep talk say listen
+Neethan,Myra,0.0,0.0,62.5,INF,hear
+Neethan,Myra,0.0,0.6578947368421052,57.23684210526315,0.0,imagine pursue
+Neethan,Myra,1.5625,2.604166666666667,50.0,0.6,have roll
+Dr. Uri Borden,Bionet,1.0135135135135136,2.027027027027027,56.41891891891891,0.5,discover engineer hack release
+Neethan,Rory,3.289473684210526,1.3157894736842104,37.5,2.5,say wave
+Neethan,Rory,3.289473684210526,1.3157894736842104,37.5,2.5,say wave
+Neethan,Mr. Kirkpatrick,3.7162162162162162,3.7162162162162162,49.32432432432432,1.0,be look kick be go happen
+Neethan,Bickle,3.7162162162162162,3.7162162162162162,49.32432432432432,1.0,be look kick be go happen
+Mr. Kirkpatrick,Bickle,3.7162162162162162,3.7162162162162162,49.32432432432432,1.0,be look kick be go happen
+Abby,Kylee,0.0,0.0,58.333333333333336,INF,blink surround play caricature
+Abby,Federicos,0.0,0.0,58.333333333333336,INF,blink surround play caricature
+Kylee,Federicos,0.0,0.0,58.333333333333336,INF,blink surround play caricature
+Kylee,Abby,0.0,0.0,58.333333333333336,INF,blink surround play caricature
+Federicos,Abby,0.0,0.0,58.333333333333336,INF,blink surround play caricature
+Woo-jin,Abby,2.7777777777777777,0.0,61.111111111111114,INF,know find be point
+Abby,Woo-jin,0.0,0.0,45.0,INF,stumble clutch continue clutch be stumble
+Woo-jin,Abby,0.0,0.0,45.0,INF,stumble clutch continue clutch be stumble
+Woo-jin,Abby,0.0,0.0,45.0,INF,stumble clutch continue clutch be stumble
+Woo-jin,Abby,0.5952380952380952,0.0,47.023809523809526,INF,walk pivot come wave follow
+Abby,Woo-jin,6.521739130434782,3.804347826086957,50.54347826086957,1.7142857142857142,follow take illuminate
+Woo-jin,Abby,6.521739130434782,3.804347826086957,50.54347826086957,1.7142857142857142,follow take illuminate
+Woo-jin,Abby,0.0,0.8333333333333334,45.83333333333333,0.0,excuse go clean dress
+Woo-jin,Abby,0.0,8.928571428571429,48.214285714285715,0.0,hand
+Abby,Rocco,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Abby,Rocco,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Abby,Rocco,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Abby,Rocco,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Rocco,Abby,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Rocco,Abby,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Abby,Rocco,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Rocco,Abby,1.7857142857142856,1.1904761904761905,49.404761904761905,1.5,call answer pick
+Woo-jin,Dr. Farmer,2.7777777777777777,0.0,63.888888888888886,INF,have
+Abby,Dr. Farmer,1.9230769230769231,0.0,59.61538461538461,INF,watch surprise proceed have
+Abby,Woo-jin,1.4705882352941175,2.2058823529411766,49.26470588235294,0.6666666666666666,accept sit
+Abby,Woo-jin,0.8333333333333334,3.3333333333333335,49.166666666666664,0.25,loom flow
+Abby,Woo-jin,0.8333333333333334,3.3333333333333335,49.166666666666664,0.25,loom flow
+Woo-jin,Abby,4.166666666666666,3.571428571428571,54.166666666666664,1.1666666666666667,gaze hold do
+Abby,Woo-jin,4.166666666666666,3.571428571428571,54.166666666666664,1.1666666666666667,gaze hold do
+Abby,Woo-jin,0.0,0.0,53.333333333333336,INF,step settle hum
+Pierre,Dr. Farmer,3.8461538461538463,0.9615384615384616,64.42307692307693,4.0,return look tan
+Pierre,Abby,0.0,5.357142857142857,51.78571428571429,0.0,see smile
+Abby,Kylee,1.8518518518518516,0.0,53.70370370370371,INF,connect snoop watch cavort
+Abby,Federicos,1.8518518518518516,0.0,53.70370370370371,INF,connect snoop watch cavort
+Kylee,Federicos,1.8518518518518516,0.0,53.70370370370371,INF,connect snoop watch cavort
+Abby,Bionet,0.0,0.5952380952380952,47.023809523809526,0.0,connect appear be
+Abby,Bionet,0.0,0.5952380952380952,47.023809523809526,0.0,connect appear be
+Dr. Farmer,Abby,0.7352941176470588,0.3676470588235294,45.955882352941174,2.0,say say pick believe have go
+Dr. Farmer,Abby,0.7352941176470588,0.3676470588235294,45.955882352941174,2.0,say say pick believe have go
+Dr. Farmer,Woo-jin,1.0869565217391304,0.0,59.78260869565217,INF,lean have discover open
+Dr. Farmer,Abby,0.0,0.0,50.0,INF,hand
+Kylee,Federicos,5.0,2.0,41.0,2.5,need need move
+Woo-jin,Abby,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Woo-jin,Dr. Farmer,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Woo-jin,Bickle,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Abby,Dr. Farmer,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Abby,Bickle,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Dr. Farmer,Bickle,1.1363636363636365,1.5151515151515151,51.89393939393939,0.75,be stand talk fish
+Woo-jin,Abby,1.953125,3.515625,66.40625,0.5555555555555556,be shiver watch
+Woo-jin,Abby,1.953125,3.515625,66.40625,0.5555555555555556,be shiver watch
+Woo-jin,Patsy,3.6764705882352944,2.2058823529411766,35.294117647058826,1.6666666666666667,come ask
+Abby,Rocco,3.6764705882352944,0.7352941176470588,54.41176470588235,5.0,end be go get dress find
+Abby,Neethan,2.3417910447761194,2.135820895522388,58.2089552238806,1.0964360587002095,pass look wave dress lean
+Abby,Neethan,2.3417910447761194,2.135820895522388,58.2089552238806,1.0964360587002095,pass look wave dress lean
+Abby,Hell,2.3417910447761194,2.135820895522388,58.2089552238806,1.0964360587002095,pass look wave dress lean
+Neethan,Hell,2.3417910447761194,2.135820895522388,58.2089552238806,1.0964360587002095,pass look wave dress lean
+Neethan,Hell,2.3417910447761194,2.135820895522388,58.2089552238806,1.0964360587002095,pass look wave dress lean
+Stella,Asesino Newman,0.0,0.0,36.0,INF,
+Stella,Asesino Newman,0.0,0.0,36.0,INF,
+Asesino Newman,Stella,0.0,0.0,36.0,INF,
+Stella,Asesino Newman,0.0,0.0,36.0,INF,
+Abby,Jadie,1.7857142857142856,0.0,26.785714285714285,INF,see
+Wyatt,Erika,1.5625,2.34375,64.84375,0.6666666666666666,clean start talk seem be sprout
+Wyatt,Erika,0.0,0.0,51.85185185185185,INF,hang drink take write
+Nick,Bickle,0.0,3.289473684210526,33.55263157894737,0.0,veer
+Nick,Mr. Kirkpatrick,0.0,3.289473684210526,33.55263157894737,0.0,veer
+Bickle,Mr. Kirkpatrick,0.0,3.289473684210526,33.55263157894737,0.0,veer
+Erika,Wyatt,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,be
+Wyatt,Erika,5.88235294117647,1.4705882352941175,57.35294117647059,4.0,accord get come drain
+Erika,Wendell Hoffman,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,meet name look expect name look
+Erika,Wendell Hoffman,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,meet name look expect name look
+Wendell Hoffman,Erika,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Wendell Hoffman,Erika,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Wendell Hoffman,Erika,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Erika,Wendell Hoffman,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Erika,Wendell Hoffman,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Wendell Hoffman,Erika,0.8928571428571428,0.8928571428571428,55.35714285714286,1.0,suggest attend be put record
+Erika,Wendell Hoffman,0.0,0.0,38.46153846153847,INF,be write
+Bionet,Wikipedia,0.0,6.944444444444445,26.38888888888889,0.0,mention refer
+Erika,Wyatt,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,get take mess do know
+Erika,Wyatt,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,get take mess do know
+Erika,Wyatt,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,get take mess do know
+Erika,Wyatt,2.7777777777777777,0.4629629629629629,63.42592592592593,6.0,get take mess do know
+Erika,Wyatt,2.840909090909091,5.113636363636364,37.5,0.5555555555555556,withdraw try talk speak
+Wyatt,Erika,2.840909090909091,5.113636363636364,37.5,0.5555555555555556,withdraw try talk speak
+Wyatt,Erika,2.840909090909091,5.113636363636364,37.5,0.5555555555555556,withdraw try talk speak
+Erika,Wendell Hoffman,4.166666666666666,0.0,45.83333333333333,INF,return see help have happen
+Erika,Wendell Hoffman,4.166666666666666,0.0,45.83333333333333,INF,return see help have happen
+Wendell Hoffman,Erika,4.166666666666666,0.0,45.83333333333333,INF,return see help have happen
+Wendell Hoffman,Erika,4.166666666666666,0.0,45.83333333333333,INF,return see help have happen
+Erika,Wendell Hoffman,3.90625,1.5625,57.03125,2.5,arrive find overrun
+Erika,Nick,6.0344827586206895,1.293103448275862,40.94827586206897,4.666666666666667,need figure have come have do exist
+Erika,Bionet,6.0344827586206895,1.293103448275862,40.94827586206897,4.666666666666667,need figure have come have do exist
+Nick,Bionet,6.0344827586206895,1.293103448275862,40.94827586206897,4.666666666666667,need figure have come have do exist
+Erika,Wyatt,0.8928571428571428,2.6785714285714284,42.857142857142854,0.3333333333333333,start get get have use
+Erika,Wyatt,0.8928571428571428,2.6785714285714284,42.857142857142854,0.3333333333333333,start get get have use
+Erika,Wyatt,0.8928571428571428,2.6785714285714284,42.857142857142854,0.3333333333333333,start get get have use
+Wyatt,Erika,0.8928571428571428,2.6785714285714284,42.857142857142854,0.3333333333333333,start get get have use
+Erika,Wendell Hoffman,1.7857142857142856,4.642857142857143,45.0,0.38461538461538464,ask be go keep say have be
+Erika,Wendell Hoffman,1.7857142857142856,4.642857142857143,45.0,0.38461538461538464,ask be go keep say have be
+Erika,Wendell Hoffman,1.7857142857142856,4.642857142857143,45.0,0.38461538461538464,ask be go keep say have be
+Wendell Hoffman,Erika,1.7857142857142856,4.642857142857143,45.0,0.38461538461538464,ask be go keep say have be
+Wendell Hoffman,Erika,1.7857142857142856,4.642857142857143,45.0,0.38461538461538464,ask be go keep say have be
+Wyatt,Haeckel,5.357142857142857,2.6785714285714284,63.39285714285714,2.0,read
+Skinner,Roon,2.272727272727273,3.977272727272727,52.84090909090909,0.5714285714285714,return have do slip
+Roon,Skinner,2.272727272727273,3.977272727272727,52.84090909090909,0.5714285714285714,return have do slip
+Roon,Waitimu,7.6923076923076925,2.8846153846153846,50.96153846153846,2.6666666666666665,have clone
+Roon,Chiho,5.288461538461538,4.807692307692308,47.59615384615385,1.1,have double demand turn
+Skinner,Coca-Cola,0.0,0.0,58.333333333333336,INF,be unholster
+Skinner,Coca-Cola,0.0,0.0,58.333333333333336,INF,be unholster
+Sal,Rhonda,0.0,0.0,9.090909090909092,INF,be
+Sal,Skinner,5.263157894736842,4.605263157894736,58.55263157894737,1.1428571428571428,exclaim rush grasp be
+Sal,Skinner,5.263157894736842,4.605263157894736,58.55263157894737,1.1428571428571428,exclaim rush grasp be
+Skinner,Sal,0.7352941176470588,0.0,34.55882352941176,INF,laugh
+Sal,Rhonda,1.4705882352941175,0.7352941176470588,38.970588235294116,2.0,have be say
+Bramble Falls,Rhonda,0.0,3.125,38.54166666666667,0.0,say
+Rhonda,Skinner,0.0,0.0,50.0,INF,refill
+Rhonda,Skinner,0.0,9.722222222222223,34.72222222222222,0.0,ask
+Skinner,Rhonda,0.0,9.722222222222223,34.72222222222222,0.0,ask
+Rhonda,Sal,0.0,3.571428571428571,39.285714285714285,0.0,assure pour
+Skinner,Bionet,1.25,8.75,50.0,0.14285714285714285,dial
+Mr. Skinner,Sal,3.90625,0.0,33.59375,INF,have show say
+Skinner,Mr. Skinner,0.7352941176470588,1.4705882352941175,46.81372549019608,0.5,have see say do relax be think smile clap
+Skinner,Sal,0.7352941176470588,1.4705882352941175,46.81372549019608,0.5,have see say do relax be think smile clap
+Mr. Skinner,Sal,0.7352941176470588,1.4705882352941175,46.81372549019608,0.5,have see say do relax be think smile clap
+Sal,Skinner,0.0,0.0,53.84615384615385,INF,dig beckon
+Sal,Skinner,0.0,0.0,53.84615384615385,INF,dig beckon
+Rhonda,Bramble Falls,0.43103448275862066,1.293103448275862,50.0,0.3333333333333333,say gun try cross
+Bramble Falls,Sal,0.0,1.9736842105263157,50.6578947368421,0.0,use be add
+Bionet,Sal,4.861111111111112,2.083333333333333,31.944444444444443,2.3333333333333335,know operate accord say
+Rhonda,Bionet,1.1904761904761905,3.571428571428571,42.857142857142854,0.3333333333333333,say ensure be use enslave
+Skinner,Jadie,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,say
+Sal,Skinner,0.5,4.0,47.5,0.125,bring date
+Talleagle,Bramble Falls,0.43103448275862066,1.7241379310344827,49.56896551724138,0.25,claim have visit ask demur
+Talleagle,Sal,0.9615384615384616,2.403846153846154,31.25,0.4,be work be say
+Skinner,Chiho,1.5625,7.8125,53.125,0.2,imagine worry
+Chiho,Skinner,1.5625,7.8125,53.125,0.2,imagine worry
+Thomas,Skinner,7.03125,3.125,64.84375,2.25,want accept work
+Thomas,Skinner,1.1363636363636365,4.545454545454546,48.86363636363637,0.25,laugh
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Skinner,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Thomas,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,2.0348837209302326,2.3255813953488373,60.75581395348837,0.875,describe expect pledge open say have explode
+Skinner,Boeing,4.054054054054054,3.040540540540541,60.47297297297297,1.3333333333333333,show be hustle be brief
+Skinner,Boeing,4.054054054054054,3.040540540540541,60.47297297297297,1.3333333333333333,show be hustle be brief
+Chiho,Skinner,1.0869565217391304,1.0869565217391304,58.69565217391305,1.0,extinguish miss take
+Chiho,Skinner,0.0,0.0,54.54545454545454,INF,toss scramble
+Chiho,Skinner,0.0,0.0,54.54545454545454,INF,toss scramble
+Skinner,Chiho,2.6595744680851063,1.8617021276595744,57.180851063829785,1.4285714285714286,vomit be deal hang retire visit know be watch share
+Chiho,Skinner,2.6595744680851063,1.8617021276595744,57.180851063829785,1.4285714285714286,vomit be deal hang retire visit know be watch share
+Skinner,Bramble Falls,2.5,1.875,50.625,1.3333333333333333,seem find wait be forget
+Skinner,Bramble Falls,2.5,1.875,50.625,1.3333333333333333,seem find wait be forget
+Skinner,Bramble Falls,2.5,1.875,50.625,1.3333333333333333,seem find wait be forget
+Skinner,Bramble Falls,2.5,1.875,50.625,1.3333333333333333,seem find wait be forget
+Chiho,Carl,1.5625,2.083333333333333,42.1875,0.75,need sit disengage pull
+Bramble Falls,Skinner,1.9886363636363635,0.5681818181818182,63.35227272727273,3.5,take understand be happen roll slide slow struggle stay root
+Bramble Falls,Skinner,1.9886363636363635,0.5681818181818182,63.35227272727273,3.5,take understand be happen roll slide slow struggle stay root
+Skinner,Bionet,0.0,0.0,57.14285714285714,INF,find click
+Skinner,Bionet,2.976190476190476,2.380952380952381,61.30952380952381,1.25,point think hide
+Skinner,Bionet,2.976190476190476,2.380952380952381,61.30952380952381,1.25,point think hide
+Chiho,Skinner,2.272727272727273,9.090909090909092,34.090909090909086,0.25,blubber
+Skinner,Coca-Cola,0.0,0.8928571428571428,49.107142857142854,0.0,draw thrust
+Skinner,Coca-Cola,0.0,0.8928571428571428,49.107142857142854,0.0,draw thrust
+Talleagle,Skinner,0.0,0.9615384615384616,60.57692307692307,0.0,grunt pull
+Talleagle,Skinner,0.0,3.125,34.375,0.0,tell chew swallow
+Skinner,Roon,11.538461538461538,0.9615384615384616,41.34615384615385,12.0,fuck
+Skinner,Coca-Cola,2.5,0.0,57.49999999999999,INF,unholster set
+Skinner,Coca-Cola,2.5,0.0,57.49999999999999,INF,unholster set
+Kirkpatrick Academy of Human Potential,Nick,10.416666666666668,0.0,56.25,INF,do know
+Kirkpatrick Academy of Human Potential,Erika,5.769230769230769,1.9230769230769231,53.84615384615385,3.0,tell have channel
+Erika,Wyatt,1.1363636363636365,0.0,48.86363636363637,INF,say open hand
+Wyatt,Erika,1.1363636363636365,0.0,48.86363636363637,INF,say open hand
+Wyatt,Erika,2.083333333333333,0.0,47.91666666666667,INF,watch
+Wyatt,Erika,6.25,0.0,43.75,INF,check
+Wyatt,Erika,6.25,0.0,43.75,INF,check
+Wyatt,Erika,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Wyatt,Erika,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Wyatt,Erika,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Erika,Wyatt,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Erika,Wyatt,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Erika,Wyatt,3.6764705882352944,3.6764705882352944,51.470588235294116,1.0,ask be happen shake wave
+Erika,Wyatt,1.875,3.75,59.375,0.5,get be hold
+Erika,Wyatt,1.3513513513513513,1.3513513513513513,67.56756756756756,1.0,be be bang be do think go do
+Erika,Wyatt,1.3513513513513513,1.3513513513513513,67.56756756756756,1.0,be be bang be do think go do
+Nick,Swan,3.75,0.0,46.25,INF,say understand
+Swan,Michael,2.840909090909091,0.0,51.70454545454546,INF,say know go do
+Swan,Michael,2.840909090909091,0.0,51.70454545454546,INF,say know go do
+Nick,Michael,0.0,0.0,53.84615384615385,INF,say have
+Swan,Nick,0.0,4.807692307692308,64.42307692307693,0.0,sit
+Wyatt,Erika,3.4722222222222223,0.6944444444444444,34.72222222222222,5.0,do realize be do
+Swan,Mr. Kirkpatrick,0.6756756756756757,1.3513513513513513,54.729729729729726,0.5,accord refuse have found ensure stay enslave remain
+Bickle,Mr. Kirkpatrick,2.1739130434782608,0.0,50.0,INF,say be travel ensnare
+Jim,Helen Miller,0.0,0.0,40.0,INF,
+Erika,Bionet,2.586206896551724,0.8620689655172413,55.172413793103445,3.0,be say have be help decipher have channel write have enter
+Nick,Erika,0.0,0.625,64.375,0.0,accord give operate
+Nick,Erika,5.64516129032258,2.0161290322580645,56.85483870967742,2.8,sound explain have know be spy
+Erika,Nick,5.64516129032258,2.0161290322580645,56.85483870967742,2.8,sound explain have know be spy
+Nick,Erika,3.125,2.604166666666667,56.770833333333336,1.2,have get see trip hear
+Nick,Erika,3.125,2.604166666666667,56.770833333333336,1.2,have get see trip hear
+Nick,Erika,3.125,2.604166666666667,56.770833333333336,1.2,have get see trip hear
+Nick,Erika,3.125,2.604166666666667,56.770833333333336,1.2,have get see trip hear
+Nick,Swan,5.952380952380952,2.976190476190476,52.976190476190474,2.0,have be assign want make go
+Nick,Erika,5.952380952380952,2.976190476190476,52.976190476190474,2.0,have be assign want make go
+Swan,Erika,5.952380952380952,2.976190476190476,52.976190476190474,2.0,have be assign want make go
+Nick,Erika,8.928571428571429,2.6785714285714284,52.67857142857143,3.3333333333333335,need get have be
+Nick,Erika,1.9230769230769231,1.9230769230769231,42.30769230769231,1.0,need get vomit
+Nick,Mr. Kirkpatrick,0.625,0.0,54.37499999999999,INF,accord be wait take
+Nick,Wyatt,2.5,0.0,47.5,INF,follow fatigue wish be
+Nick,Erika,2.5,0.0,47.5,INF,follow fatigue wish be
+Wyatt,Erika,2.5,0.0,47.5,INF,follow fatigue wish be
+Abby,Stella,1.9230769230769231,2.564102564102564,54.48717948717948,0.75,sit suck be broadcast
+Abby,Newman Assassin,1.9230769230769231,2.564102564102564,54.48717948717948,0.75,sit suck be broadcast
+Stella,Newman Assassin,1.9230769230769231,2.564102564102564,54.48717948717948,0.75,sit suck be broadcast
+Skinner,Stella,0.0,0.0,60.46511627906976,INF,pull spit throw knock
+Skinner,Stella,0.0,0.0,60.46511627906976,INF,pull spit throw knock
+Skinner,Stella,0.0,0.0,60.46511627906976,INF,pull spit throw knock
+Stella,Skinner,0.0,0.0,60.46511627906976,INF,pull spit throw knock
+Skinner,Stella,0.8620689655172413,3.8793103448275863,53.879310344827594,0.2222222222222222,pull duck avoid rip slam
+Rocco,Lamb,0.0,0.0,27.27272727272727,INF,do say
+Lamb,Rocco,0.0,0.9615384615384616,52.88461538461539,0.0,say meet
+Lamb,Bionet,0.0,0.9615384615384616,52.88461538461539,0.0,say meet
+Rocco,Bionet,0.0,0.9615384615384616,52.88461538461539,0.0,say meet
+Rocco,Jadie,1.6304347826086956,0.5434782608695652,45.65217391304348,3.0,be do do have do
+Rocco,Jadie,1.6304347826086956,0.5434782608695652,45.65217391304348,3.0,be do do have do
+Jadie,Rocco,1.6304347826086956,0.5434782608695652,45.65217391304348,3.0,be do do have do
+Lamb,Rocco,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,be say be be
+Lamb,Rocco,3.9473684210526314,1.3157894736842104,42.10526315789473,3.0,be say be be
+Rocco,Kylee,0.0,0.0,53.84615384615385,INF,say send get
+Bickle,Abby,0.0,0.0,50.0,INF,say be send infiltrate say
+Rocco,Lamb,0.0,0.0,30.0,INF,recycle say
+Abby,Rocco,1.9230769230769231,0.0,48.07692307692308,INF,look have share pull wheel
+Rocco,Abby,1.9230769230769231,0.0,48.07692307692308,INF,look have share pull wheel
+Rocco,Abby,1.9230769230769231,0.0,48.07692307692308,INF,look have share pull wheel
+Abby,New York Alki,4.6875,0.0,45.3125,INF,be go
+Luke,Nick,0.4032258064516129,0.0,60.88709677419355,INF,drip set
+Bickle,Luke,3.4090909090909087,0.0,51.13636363636363,INF,say
+Wyatt,Erika,0.0,6.25,43.75,0.0,do want call
+Wyatt,Erika,4.017857142857143,4.464285714285714,55.80357142857143,0.9,think call put call think be
+Nick,Mr. Kirkpatrick,2.8169014084507045,3.697183098591549,48.41549295774648,0.7619047619047619,expectancy be be be go be make retire hang get stone seem lose find
+Skinner,Chiho,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Roon,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Chiho,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Roon,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Chiho,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Roon,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Chiho,Roon,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Chiho,Skinner,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Roon,Skinner,1.215277777777778,1.5625,52.77777777777778,0.7777777777777778,bob see be fling catch be dunk appear be go resolve see
+Skinner,Bionet,0.0,5.357142857142857,56.547619047619044,0.0,give blow toggle
+Skinner,Bionet,0.0,0.0,42.857142857142854,INF,tap
+Skinner,Bionet,0.0,0.0,42.857142857142854,INF,tap
+Boeing,Skinner,1.875,1.25,31.874999999999996,1.5,mumble zonk
+Bionet,Skinner,2.1551724137931036,0.0,46.12068965517241,INF,step begin flood manufacture
+Bionet,Skinner,2.1551724137931036,0.0,46.12068965517241,INF,step begin flood manufacture
+Bionet,Skinner,2.1551724137931036,0.0,46.12068965517241,INF,step begin flood manufacture
+Skinner,Waitimu,2.272727272727273,3.4090909090909087,67.04545454545455,0.6666666666666666,imagine have sign be feel be expect
+Waitimu,Skinner,2.272727272727273,3.4090909090909087,67.04545454545455,0.6666666666666666,imagine have sign be feel be expect
+Waitimu,Skinner,2.272727272727273,3.4090909090909087,67.04545454545455,0.6666666666666666,imagine have sign be feel be expect
+Skinner,Carl,0.0,8.928571428571429,33.92857142857143,0.0,
+Skinner,Coca-Cola,2.604166666666667,0.0,55.729166666666664,INF,stand build crawl flip
+Skinner,Coca-Cola,2.604166666666667,0.0,55.729166666666664,INF,stand build crawl flip
+Skinner,Coca-Cola,2.604166666666667,0.0,55.729166666666664,INF,stand build crawl flip
+Skinner,Coca-Cola,2.604166666666667,0.0,55.729166666666664,INF,stand build crawl flip
+Skinner,Coca-Cola,2.604166666666667,0.0,55.729166666666664,INF,stand build crawl flip
+Skinner,Bionet,1.4705882352941175,0.3676470588235294,51.10294117647059,4.0,get find clutch sit
+Skinner,Bionet,1.4705882352941175,0.3676470588235294,51.10294117647059,4.0,get find clutch sit
+Chiho,Skinner,1.1363636363636365,0.0,62.5,INF,stare reach touch
+Jim,Tex,4.861111111111112,1.3888888888888888,54.861111111111114,3.5,extend introduce
+Jim,Tex,4.861111111111112,1.3888888888888888,54.861111111111114,3.5,extend introduce
+Forrest,Mr. Kirkpatrick,2.6515151515151514,0.0,67.04545454545455,INF,have name get wrap try figure be tell
+Tex,Forrest,2.272727272727273,0.0,43.18181818181818,INF,ask have happen
+Wyatt,Erika,0.0,0.0,54.054054054054056,INF,return live join build distribute
+Abby,Sylvie,0.0,0.0,63.63636363636363,INF,spot
+Bertrand,Sylvie,1.0416666666666665,0.0,48.95833333333333,INF,have get
+Abby,Sylvie,0.0,0.0,30.76923076923077,INF,touch magnet
+Abby,Bertrand,0.0,0.0,30.76923076923077,INF,touch magnet
+Sylvie,Bertrand,0.0,0.0,30.76923076923077,INF,touch magnet
+Gavin,Abby,1.953125,1.953125,55.46875,1.0,be talk fold be bring
+Gavin,Abby,1.953125,1.953125,55.46875,1.0,be talk fold be bring
+Gavin,Abby,1.953125,1.953125,55.46875,1.0,be talk fold be bring
+Gavin,Abby,1.953125,1.953125,55.46875,1.0,be talk fold be bring
+Gavin,Bertrand,3.6458333333333335,0.5208333333333333,50.0,7.0,know be be be
+Gavin,Abby,6.666666666666667,0.8333333333333334,39.166666666666664,8.0,remind
+Abby,Sylvie,0.0,0.0,47.61904761904761,INF,steady try avoid sink
+Abby,Star,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,wait say squint be
+Abby,Nick,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,wait say squint be
+Star,Nick,1.0869565217391304,0.5434782608695652,41.84782608695652,2.0,wait say squint be
+Star,Nick,12.5,2.7777777777777777,29.166666666666668,4.5,know
+Abby,Star,0.0,0.0,40.0,INF,approach say
+Nick,Marc,0.0,3.125,46.875,0.0,
+Dr. Pliss,Marc,1.7857142857142856,0.0,60.11904761904761,INF,pull slide
+Dr. Pliss,Marc,1.7857142857142856,0.0,60.11904761904761,INF,pull slide
+Marc,Dr. Pliss,6.770833333333333,1.0416666666666665,42.1875,6.5,tell have send have
+Nick,Marc,2.976190476190476,6.547619047619048,66.66666666666666,0.45454545454545453,watch grow remember
+Luke,Nick,7.236842105263158,7.236842105263158,43.42105263157895,1.0,promise
+Luke,Star,7.236842105263158,7.236842105263158,43.42105263157895,1.0,promise
+Nick,Star,7.236842105263158,7.236842105263158,43.42105263157895,1.0,promise
+Abby,Thomas,1.0714285714285714,0.0,64.64285714285715,INF,purchase watch
+Abby,Sylvie,1.0714285714285714,0.0,64.64285714285715,INF,purchase watch
+Abby,Thomas,1.0714285714285714,0.0,64.64285714285715,INF,purchase watch
+Abby,Sylvie,1.0714285714285714,0.0,64.64285714285715,INF,purchase watch
+Thomas,Sylvie,1.0714285714285714,0.0,64.64285714285715,INF,purchase watch
+Woo-jin,Isaac,1.893939393939394,1.893939393939394,62.878787878787875,1.0,find have visit
+Woo-jin,Patsy,0.0,1.4705882352941175,51.470588235294116,0.0,smush watch whisper
+Patsy,Woo-jin,9.027777777777777,6.25,51.388888888888886,1.4444444444444444,help draft
+Abby,Rocco,0.0,2.34375,41.40625,0.0,do recognize be be
+Abby,Rocco,0.0,2.34375,41.40625,0.0,do recognize be be
+Skinner,Abby,0.8333333333333334,0.0,72.5,INF,point display sit watch
+Skinner,Abby,0.8333333333333334,0.0,72.5,INF,point display sit watch
+Abby,Skinner,5.113636363636364,7.954545454545454,41.47727272727273,0.6428571428571429,turn expect see find defeat
+Abby,Skinner,5.113636363636364,7.954545454545454,41.47727272727273,0.6428571428571429,turn expect see find defeat
+Abby,Skinner,5.113636363636364,7.954545454545454,41.47727272727273,0.6428571428571429,turn expect see find defeat
+Abby,Skinner,5.113636363636364,7.954545454545454,41.47727272727273,0.6428571428571429,turn expect see find defeat
+Skinner,Rocco,0.0,0.0,52.94117647058824,INF,fiddle go gush spill
+Skinner,Rocco,0.0,0.0,52.94117647058824,INF,fiddle go gush spill
+Abby,Rocco,3.4722222222222223,0.0,46.52777777777778,INF,save get arrest think be say
+Abby,Rocco,3.4722222222222223,0.0,46.52777777777778,INF,save get arrest think be say
+Bickle,Kylee,2.6785714285714284,1.7857142857142856,45.535714285714285,1.5,need babysit volunteer
+Bickle,Kylee,2.6785714285714284,1.7857142857142856,45.535714285714285,1.5,need babysit volunteer
+Skinner,Bionet,1.875,3.125,50.0,0.6,turn pull toss
+Skinner,Abby,1.875,3.125,50.0,0.6,turn pull toss
+Bionet,Skinner,1.875,3.125,50.0,0.6,turn pull toss
+Bionet,Abby,1.875,3.125,50.0,0.6,turn pull toss
+Skinner,Abby,1.875,3.125,50.0,0.6,turn pull toss
+Abby,Rocco,1.1363636363636365,0.0,53.40909090909091,INF,peel press
+Abby,Rocco,1.1363636363636365,0.0,53.40909090909091,INF,peel press
+Rocco,Abby,1.1363636363636365,0.0,53.40909090909091,INF,peel press
+Rocco,Abby,1.1363636363636365,0.0,53.40909090909091,INF,peel press
+Wyatt,Erika,0.78125,0.0,55.46875,INF,do consider get
+Wyatt,Star,0.78125,0.0,55.46875,INF,do consider get
+Erika,Star,0.78125,0.0,55.46875,INF,do consider get
+Bickle,Jesus,5.921052631578947,3.9473684210526314,53.289473684210535,1.5,be hint seem pray make
+Bickle,Mr. Kirkpatrick,0.0,0.0,52.17391304347826,INF,laugh move begin reveal
+Mr. Kirkpatrick,Nietzsche,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Bardo,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Nietzsche,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Bardo,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Nietzsche,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Bardo,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Nietzsche,Bardo,0.0,0.25510204081632654,52.806122448979586,0.0,tell communicate become transform
+Mr. Kirkpatrick,Nietzsche,0.0,0.0,45.16129032258064,INF,be spread be spread
+Bickle,Mr. Kirkpatrick,3.4090909090909087,0.5681818181818182,68.75,6.0,say have be wait reach
+Bickle,Mr. Kirkpatrick,1.3157894736842104,1.9736842105263157,54.60526315789473,0.6666666666666666,ask have cause
+Mr. Kirkpatrick,Nick,8.333333333333332,2.083333333333333,56.25,4.0,become start speak
+Bickle,Mr. Kirkpatrick,0.0,2.5,44.166666666666664,0.0,pack leave promise return
+Bickle,Mr. Kirkpatrick,0.0,2.5,44.166666666666664,0.0,pack leave promise return
+Nick,Star,2.717391304347826,3.260869565217391,59.2391304347826,0.8333333333333334,figure have abandon stand shake
+Woo-jin,Isaac,3.0660377358490565,0.4716981132075472,56.839622641509436,6.5,lie rest succumb dream consist ask fuck
+Woo-jin,Star,3.0660377358490565,0.4716981132075472,56.839622641509436,6.5,lie rest succumb dream consist ask fuck
+Isaac,Star,3.0660377358490565,0.4716981132075472,56.839622641509436,6.5,lie rest succumb dream consist ask fuck
+Woo-jin,Neethan,0.0,0.0,10.0,INF,be say
+Woo-jin,Neethan,3.1862745098039214,0.9803921568627451,58.57843137254902,3.25,shuffle piss be sideswipe support name do panic adapt inhabit fabricate
+Woo-jin,Neethan,3.1862745098039214,0.9803921568627451,58.57843137254902,3.25,shuffle piss be sideswipe support name do panic adapt inhabit fabricate
+Woo-jin,Neethan,0.0,1.1363636363636365,44.31818181818182,0.0,empty
+Woo-jin,Neethan,1.1904761904761905,1.1904761904761905,54.761904761904766,1.0,leave float snore
+Woo-jin,Neethan,1.6666666666666667,0.0,65.0,INF,walk shake reassert
+Woo-jin,New York Alki,4.761904761904762,0.0,61.904761904761905,INF,say hop leave
+Woo-jin,Neethan,2.272727272727273,1.7045454545454544,59.65909090909091,1.3333333333333333,close let rest
+Woo-jin,Neethan,2.272727272727273,1.7045454545454544,59.65909090909091,1.3333333333333333,close let rest
+Woo-jin,Neethan,0.0,2.941176470588235,50.0,0.0,turn dip come be cry
+Abby,Rocco,0.0,0.0,50.0,INF,dress toss
+Rocco,Bionet,1.5,3.0,67.5,0.5,murmur sleep wrap go work rebuild
+Abby,Rocco,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Abby,Rocco,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Abby,Rocco,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Rocco,Abby,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Rocco,Abby,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Abby,Rocco,0.4807692307692308,0.9615384615384616,44.71153846153847,0.5,stand watch sleep know be go kill have be
+Sylvie,Rocco,8.152173913043478,1.6304347826086956,55.434782608695656,5.0,tell have accept
+Rocco,Sylvie,8.152173913043478,1.6304347826086956,55.434782608695656,5.0,tell have accept
+Sylvie,Rocco,9.210526315789473,3.289473684210526,34.868421052631575,2.8,want say miss have be
+Sylvie,Rocco,9.210526315789473,3.289473684210526,34.868421052631575,2.8,want say miss have be
+Sylvie,Rocco,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,do know be
+Sylvie,Rocco,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,do know be
+Sylvie,Rocco,0.0,0.0,25.0,INF,know
+Sylvie,Rocco,2.083333333333333,2.083333333333333,62.5,1.0,anticipate do laugh
+Sylvie,Rocco,2.083333333333333,2.083333333333333,62.5,1.0,anticipate do laugh
+Sylvie,Rocco,3.6458333333333335,3.6458333333333335,59.375,1.0,whir think know seem disrupt
+Sylvie,Abby,0.8620689655172413,3.4482758620689653,50.86206896551724,0.25,map crop
+Sylvie,Abby,0.8620689655172413,3.4482758620689653,50.86206896551724,0.25,map crop
+Abby,Sylvie,1.171875,4.296875,57.03125,0.2727272727272727,watch disappear be watch be admit miniaturize present
+Abby,Rocco,1.171875,4.296875,57.03125,0.2727272727272727,watch disappear be watch be admit miniaturize present
+Abby,Rocco,1.171875,4.296875,57.03125,0.2727272727272727,watch disappear be watch be admit miniaturize present
+Sylvie,Rocco,1.171875,4.296875,57.03125,0.2727272727272727,watch disappear be watch be admit miniaturize present
+Sylvie,Rocco,1.171875,4.296875,57.03125,0.2727272727272727,watch disappear be watch be admit miniaturize present
+Rocco,Sylvie,6.521739130434782,0.5434782608695652,49.45652173913043,12.0,wonder take feel sleep
+Rocco,Sylvie,2.734375,0.0,44.140625,INF,summon order rub bulge
+Rocco,Sylvie,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,involve prop discard
+Abby,Rocco,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Abby,Rocco,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Rocco,Abby,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Rocco,Abby,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Rocco,Abby,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Rocco,Abby,3.0660377358490565,0.4716981132075472,43.63207547169811,6.5,purchase manufacture craft dress
+Abby,Sylvie,0.0,0.0,57.89473684210527,INF,sit position
+Abby,Sylvie,0.0,0.0,57.89473684210527,INF,sit position
+Abby,Rocco,0.0,0.0,33.33333333333333,INF,say
+Sylvie,Abby,3.3333333333333335,0.0,36.666666666666664,INF,be
+Sylvie,Abby,3.3333333333333335,0.0,36.666666666666664,INF,be
+Abby,University of British Columbia,2.2058823529411766,0.7352941176470588,61.76470588235294,3.0,be
+Abby,Rocco,1.0416666666666665,0.0,48.95833333333333,INF,say have say
+Rocco,Abby,1.1363636363636365,0.0,35.22727272727273,INF,say say be
+Sylvie,Rocco,7.065217391304348,0.0,49.45652173913043,INF,retrieve return find chuckle have make
+Sylvie,Abby,7.065217391304348,0.0,49.45652173913043,INF,retrieve return find chuckle have make
+Rocco,Abby,7.065217391304348,0.0,49.45652173913043,INF,retrieve return find chuckle have make
+Sylvie,Abby,3.804347826086957,0.0,35.32608695652174,INF,say say finish edit
+Sylvie,Abby,3.804347826086957,0.0,35.32608695652174,INF,say say finish edit
+Rocco,Sylvie,0.0,0.0,15.384615384615385,INF,say
+Rocco,Sylvie,0.0,0.0,54.54545454545454,INF,gather kiss
+Rocco,Sylvie,0.0,0.0,54.54545454545454,INF,gather kiss
+Rocco,Sylvie,3.125,1.5625,57.8125,2.0,return sit
+Rocco,Sylvie,3.125,1.5625,57.8125,2.0,return sit
+Rocco,Sylvie,3.7037037037037033,6.018518518518518,64.35185185185185,0.6153846153846154,poke enter have snore
+Rocco,Sylvie,3.7037037037037033,6.018518518518518,64.35185185185185,0.6153846153846154,poke enter have snore
+Rocco,Abby,0.8928571428571428,3.571428571428571,52.67857142857143,0.25,return pause
+Sylvie,Rocco,0.0,0.0,60.0,INF,arrive find
+Sylvie,Abby,0.0,0.0,60.0,INF,arrive find
+Rocco,Abby,0.0,0.0,60.0,INF,arrive find
+Rocco,Abby,8.333333333333332,1.3888888888888888,56.94444444444444,6.0,have hear come
+Abby,Rocco,1.0416666666666665,0.0,48.95833333333333,INF,watch huff
+Abby,Rocco,3.125,1.875,55.00000000000001,1.6666666666666667,be pump strain
+Abby,Rocco,3.125,1.875,55.00000000000001,1.6666666666666667,be pump strain
+Rocco,Sylvie,1.5625,0.0,60.9375,INF,notice stand
+Sylvie,Rocco,0.0,0.0,46.666666666666664,INF,lean lean
+Kylee,Sylvie,0.0,1.7857142857142856,48.214285714285715,0.0,do want say
+Kylee,Rocco,1.0416666666666665,0.0,32.29166666666667,INF,do care feel
+Sylvie,Rocco,4.375,3.125,52.5,1.4,catch offer cast gaze
+Rocco,Sylvie,4.375,3.125,52.5,1.4,catch offer cast gaze
+Rocco,Sylvie,4.375,3.125,52.5,1.4,catch offer cast gaze
+Kylee,Sylvie,0.0,6.944444444444445,15.277777777777779,0.0,be
+Abby,Rocco,7.142857142857142,0.0,7.142857142857142,INF,love
+Sylvie,Abby,1.4705882352941175,2.5735294117647056,45.955882352941174,0.5714285714285714,lead be drip point
+Sylvie,Rocco,0.0,0.0,22.22222222222222,INF,be say
+Abby,Rocco,1.3888888888888888,0.0,31.944444444444443,INF,be say wipe
+Abby,Rocco,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Abby,Bionet,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Abby,Rocco,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Abby,Rocco,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Rocco,Bionet,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Bionet,Rocco,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Bionet,Rocco,0.7352941176470588,1.1029411764705883,56.98529411764706,0.6666666666666666,step fetch sit hold crawl
+Abby,Lamb,3.6764705882352944,0.0,49.26470588235294,INF,open find dress
+Abby,Lamb,5.0,0.0,35.0,INF,say
+Skinner,Bickle,3.75,7.5,48.75,0.5,do squeeze stop make
+Skinner,Bickle,0.0,0.0,45.0,INF,throw dance pour
+Skinner,Bickle,1.4705882352941175,0.0,39.705882352941174,INF,say do care take
+Skinner,Bickle,0.0,0.0,41.66666666666667,INF,stretch cross
+Luke,Star,0.0,5.681818181818182,57.95454545454546,0.0,show
+Don,Nick,5.147058823529411,2.941176470588235,62.5,1.75,tell be live have
+Don,Marc,5.147058823529411,2.941176470588235,62.5,1.75,tell be live have
+Nick,Marc,5.147058823529411,2.941176470588235,62.5,1.75,tell be live have
+Marc,Star,0.0,0.78125,49.21875,0.0,
+Marc,Sandy,0.0,0.78125,49.21875,0.0,
+Star,Marc,0.0,0.78125,49.21875,0.0,
+Star,Sandy,0.0,0.78125,49.21875,0.0,
+Marc,Sandy,0.0,0.78125,49.21875,0.0,
+Sandy,Marc,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,have invite
+Sandy,Star,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,have invite
+Marc,Star,3.6458333333333335,1.0416666666666665,53.645833333333336,3.5,have invite
+Don,Marc,3.3333333333333335,0.0,50.0,INF,say fall work
+Don,Marc,3.3333333333333335,0.0,50.0,INF,say fall work
+Don,Nick,4.411764705882353,0.7352941176470588,53.67647058823529,6.0,be ask buy
+Nick,Star,3.4090909090909087,5.113636363636364,46.02272727272727,0.6666666666666666,say feel hope be get need
+Nick,Star,3.4090909090909087,5.113636363636364,46.02272727272727,0.6666666666666666,say feel hope be get need
+Star,Nick,3.4090909090909087,5.113636363636364,46.02272727272727,0.6666666666666666,say feel hope be get need
+Marc,Star,1.0,0.0,71.0,INF,be try dig have stop figure be
+Don,Star,2.1551724137931036,3.8793103448275863,56.03448275862068,0.5555555555555556,tell be be be hear have go
+Don,Nick,2.1551724137931036,3.8793103448275863,56.03448275862068,0.5555555555555556,tell be be be hear have go
+Don,Nick,2.1551724137931036,3.8793103448275863,56.03448275862068,0.5555555555555556,tell be be be hear have go
+Star,Nick,2.1551724137931036,3.8793103448275863,56.03448275862068,0.5555555555555556,tell be be be hear have go
+Star,Nick,2.1551724137931036,3.8793103448275863,56.03448275862068,0.5555555555555556,tell be be be hear have go
+Star,Don,9.868421052631579,6.578947368421052,57.23684210526315,1.5,be think have be
+Nick,Star,1.5,0.0,66.5,INF,be be use run
+Nick,Star,1.5,0.0,66.5,INF,be be use run
+Nick,Bionet,0.0,0.0,42.857142857142854,INF,say come
+Nick,Wyatt,0.0,0.0,42.857142857142854,INF,say come
+Bionet,Wyatt,0.0,0.0,42.857142857142854,INF,say come
+Mr. Kirkpatrick,Nick,0.0,0.0,53.84615384615385,INF,be wait say

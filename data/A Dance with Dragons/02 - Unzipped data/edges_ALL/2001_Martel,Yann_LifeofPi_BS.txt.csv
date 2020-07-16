@@ -1,0 +1,210 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mr. Adirubasamy,God,2.1551724137931036,0.0,56.46551724137932,INF,be listen agree be make believe
+Oika Shipping Company,Mr. Okamoto,0.9090909090909091,0.45454545454545453,45.909090909090914,2.0,help complete be retire
+Oika Shipping Company,Japanese Ministry of Transport,0.9090909090909091,0.45454545454545453,45.909090909090914,2.0,help complete be retire
+Mr. Okamoto,Japanese Ministry of Transport,0.9090909090909091,0.45454545454545453,45.909090909090914,2.0,help complete be retire
+Francis Adirubasamy,Mamaji,6.730769230769231,0.9615384615384616,57.692307692307686,7.0,call be be use indicate
+Francis Adirubasamy,Mamaji,1.3888888888888888,1.8518518518518516,67.12962962962963,0.75,be be bear be
+Ravi,Mamaji,0.5208333333333333,0.5208333333333333,55.208333333333336,1.0,tell be bear do want give save have take swing
+Mamaji,Ravi,0.5208333333333333,0.5208333333333333,55.208333333333336,1.0,tell be bear do want give save have take swing
+Ravi,Mamaji,1.0869565217391304,0.0,59.78260869565217,INF,call leave
+Mamaji,Ravi,1.0869565217391304,0.0,59.78260869565217,INF,call leave
+Ravi,Mamaji,0.641025641025641,1.282051282051282,57.05128205128205,0.5,be have begin swim
+Ravi,Mamaji,0.641025641025641,1.282051282051282,57.05128205128205,0.5,be have begin swim
+Ravi,Mamaji,0.641025641025641,1.282051282051282,57.05128205128205,0.5,be have begin swim
+Mother,Mamaji,1.4204545454545454,2.272727272727273,44.034090909090914,0.625,come swim claim be bring spread say be
+Mamaji,Patel,7.03125,3.125,46.09375,2.25,match
+Mamaji,Patel,0.4629629629629629,0.9259259259259258,57.870370370370374,0.5,be be be make fall make mention
+Mamaji,Martin,0.0,2.083333333333333,47.91666666666667,0.0,remember dream
+Ravi,Patel,2.0161290322580645,0.4032258064516129,49.193548387096776,5.0,be get enter
+Peter Dharmaraj,Matthew,1.8292682926829267,2.1341463414634148,64.32926829268293,0.8571428571428571,be call know be take go become
+Joseph,Muhammad,2.083333333333333,0.5208333333333333,64.0625,4.0,spend persecute be
+Joseph,Muhammad,2.083333333333333,0.5208333333333333,64.0625,4.0,spend persecute be
+Muhammad,Medina,3.9285714285714284,0.35714285714285715,52.85714285714286,11.0,plan mark plan
+Muhammad,Medina,3.9285714285714284,0.35714285714285715,52.85714285714286,11.0,plan mark plan
+Ajith Giadson,Sampath Saroja,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sampath Saroja,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sampath Saroja,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sampath Saroja,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Ajith Giadson,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Stanley Kumar,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Sampath Saroja,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Stanley Kumar,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Stanley Kumar,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Stanley Kumar,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Stanley Kumar,Sylvester Naveen,0.0,0.0,32.69230769230769,INF,say say say say
+Martin,Mother,3.90625,7.8125,63.28125,0.5,complain mean
+Martin,Mrs. Gandhi,3.90625,7.8125,63.28125,0.5,complain mean
+Mother,Mrs. Gandhi,3.90625,7.8125,63.28125,0.5,complain mean
+Christ,God,0.4032258064516129,3.225806451612903,51.20967741935484,0.125,spend burst have forsake
+Christ,God,0.4032258064516129,3.225806451612903,51.20967741935484,0.125,spend burst have forsake
+Sita,Rama,2.2222222222222223,0.2777777777777778,59.72222222222222,8.0,catch climb say be go punish take kidnap
+Martin,Richard Parker,2.586206896551724,3.8793103448275863,52.1551724137931,0.6666666666666666,learn be remove
+Ravi,Patel,7.8125,1.5625,40.625,5.0,have
+Patel,Mother,0.0,2.7777777777777777,52.77777777777778,0.0,be insist
+Martin,Mother,2.083333333333333,0.0,81.25,INF,be look
+Gita,Patel,0.0,0.0,37.5,INF,have see
+Mahisha,Babu,0.0,0.9615384615384616,29.807692307692307,0.0,start
+Martin,Babu,1.7857142857142856,0.0,55.35714285714286,INF,turn nod
+Mahisha,Babu,3.125,8.59375,44.53125,0.36363636363636365,follow do move disappear
+Mahisha,Babu,3.125,8.59375,44.53125,0.36363636363636365,follow do move disappear
+Mahisha,Babu,3.75,3.75,52.5,1.0,parallel
+Mahisha,Babu,3.75,3.75,52.5,1.0,parallel
+Martin,Mahisha,1.4705882352941175,3.6764705882352944,59.55882352941176,0.4,find have order be feed
+Mahisha,Martin,2.4193548387096775,7.661290322580645,47.983870967741936,0.3157894736842105,come have be starve have be deny
+Ravi,Martin,0.0,3.571428571428571,53.57142857142857,0.0,sulk give
+Lord Ganesha,Krishna,2.2058823529411766,0.7352941176470588,55.88235294117647,3.0,smile play
+Virgin Mary,Lord Ganesha,1.3513513513513513,0.6756756756756757,70.94594594594594,2.0,be sit
+Virgin Mary,Christ,1.3513513513513513,0.6756756756756757,70.94594594594594,2.0,be sit
+Lord Ganesha,Christ,1.3513513513513513,0.6756756756756757,70.94594594594594,2.0,be sit
+Shiva,Krishna,8.841463414634147,1.8292682926829267,45.426829268292686,4.833333333333333,call approach discern feel
+Shiva,Lord Ganesha,8.841463414634147,1.8292682926829267,45.426829268292686,4.833333333333333,call approach discern feel
+Krishna,Lord Ganesha,8.841463414634147,1.8292682926829267,45.426829268292686,4.833333333333333,call approach discern feel
+Brahman,Martin,1.6129032258064515,0.0,50.0,INF,ask relate say relate
+Martin,Mother,0.9615384615384616,3.3653846153846154,72.59615384615384,0.2857142857142857,be settle sun
+Mother,Martin,5.555555555555555,0.0,72.22222222222221,INF,read chat
+Martin,Patel,0.5,5.0,58.5,0.1,try imagine say slip kill
+God,Christ,5.208333333333334,4.166666666666666,53.125,1.25,be sham turn
+God,Christ,5.208333333333334,4.166666666666666,53.125,1.25,be sham turn
+God,Christ,5.208333333333334,4.166666666666666,53.125,1.25,be sham turn
+God,Christ,5.208333333333334,4.166666666666666,53.125,1.25,be sham turn
+God,Martin,6.521739130434782,6.521739130434782,60.86956521739131,1.0,be taint be
+Krishna,Yashoda,0.0,0.0,46.666666666666664,INF,come wag
+Yashoda,Krishna,0.0,0.0,46.666666666666664,INF,come wag
+Yashoda,Krishna,1.8564356435643563,2.846534653465347,50.742574257425744,0.6521739130434783,see see see be miss include
+Krishna,Yashoda,1.8564356435643563,2.846534653465347,50.742574257425744,0.6521739130434783,see see see be miss include
+Krishna,Yashoda,1.8564356435643563,2.846534653465347,50.742574257425744,0.6521739130434783,see see see be miss include
+Rama,Sita,3.125,0.8522727272727272,48.29545454545455,3.6666666666666665,have be remind grow get be
+Rama,Sita,3.125,0.8522727272727272,48.29545454545455,3.6666666666666665,have be remind grow get be
+Rama,Sita,3.125,0.8522727272727272,48.29545454545455,3.6666666666666665,have be remind grow get be
+Sita,Rama,3.125,0.8522727272727272,48.29545454545455,3.6666666666666665,have be remind grow get be
+Brahman,Krishna,3.4090909090909087,2.840909090909091,61.93181818181818,1.2,be have be
+Martin,God,0.0,2.976190476190476,73.21428571428571,0.0,be be slide thank be
+Martin,God,0.0,2.976190476190476,73.21428571428571,0.0,be be slide thank be
+Krishna,Jesus,3.571428571428571,0.2976190476190476,60.416666666666664,12.0,race race offer have put find
+Christ,God,0.2976190476190476,1.7857142857142856,55.05952380952381,0.16666666666666666,be pray keep come
+Mr. Kumar,University of Toronto,1.3888888888888888,1.3888888888888888,58.333333333333336,1.0,lead study
+Lord Ganesha,Martin,5.88235294117647,2.794117647058824,56.029411764705884,2.1052631578947367,be have bless be please have be be be
+Ravi,Krishna,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Christ,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Christ,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Ravi,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Christ,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Christ,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Krishna,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Christ,Muhammad,3.90625,2.34375,56.25,1.6666666666666667,have hold have appear be have show have lift do slumber
+Patel,Jesus,1.4705882352941175,2.941176470588235,54.41176470588235,0.5,whisper be
+Muhammad,God,1.3392857142857142,0.8928571428571428,58.48214285714286,1.5,be bring die
+Muhammad,God,1.3392857142857142,0.8928571428571428,58.48214285714286,1.5,be bring die
+Martin,Mother,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,stare
+Mr. Patel,Patel,7.5,3.75,28.749999999999996,2.0,be
+Martin,God,2.314814814814815,0.0,45.83333333333333,INF,clear say suppose be be try do
+Mrs. Gandhi,Mother,5.5,6.5,52.0,0.8461538461538461,be be be be like say
+Martin,Bapu Gandhi,2.0,0.0,50.0,INF,go do hear say say be
+Santosh,Christ,6.25,0.0,58.03571428571429,INF,finish call
+Martin,Mother,0.4166666666666667,2.083333333333333,50.83333333333333,0.2,finish turn catch observe get use
+Martin,Ravi,0.4166666666666667,2.083333333333333,50.83333333333333,0.2,finish turn catch observe get use
+Mother,Ravi,0.4166666666666667,2.083333333333333,50.83333333333333,0.2,finish turn catch observe get use
+Mother,Martin,2.5,1.7857142857142856,61.42857142857143,1.4,play look be do prevent comment
+Mother,Ravi,2.5,1.7857142857142856,61.42857142857143,1.4,play look be do prevent comment
+Mother,Ravi,2.5,1.7857142857142856,61.42857142857143,1.4,play look be do prevent comment
+Martin,Ravi,2.5,1.7857142857142856,61.42857142857143,1.4,play look be do prevent comment
+Martin,Ravi,2.5,1.7857142857142856,61.42857142857143,1.4,play look be do prevent comment
+Mother,Mamaji,0.0,0.0,41.17647058823529,INF,catch
+Mrs. Gandhi,Martin,4.166666666666666,0.0,62.5,INF,get
+Martin,Mrs. Gandhi,0.0,0.0,66.66666666666666,INF,be
+Mrs. Gandhi,Martin,5.729166666666666,2.604166666666667,62.5,2.2,have bomb have be have be
+Mr. Adirubasamy,Mr. Patel,4.166666666666666,0.0,55.833333333333336,INF,look
+Mr. Adirubasamy,Mr. Patel,4.166666666666666,0.0,55.833333333333336,INF,look
+Richard Parker,Mr. Patel,1.25,0.0,28.749999999999996,INF,be say
+Mamaji,Mr. Kumar,0.4464285714285714,2.6785714285714284,46.875,0.16666666666666666,say
+Mother,Goubert Salai,1.6129032258064515,0.0,41.935483870967744,INF,be leave know love
+Goubert Salai,Mother,1.6129032258064515,0.0,41.935483870967744,INF,be leave know love
+Goubert Salai,Mother,1.6129032258064515,0.0,41.935483870967744,INF,be leave know love
+Jesus,Virgin Mary,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Jesus,Muhammad,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Jesus,Vishnu,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Jesus,Richard Parker,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Virgin Mary,Muhammad,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Virgin Mary,Vishnu,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Virgin Mary,Richard Parker,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Muhammad,Vishnu,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Muhammad,Richard Parker,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Vishnu,Richard Parker,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,see
+Vishnu,Allah,0.0,6.25,65.97222222222221,0.0,preserve protect save bear
+Vishnu,Christ,0.0,6.25,65.97222222222221,0.0,preserve protect save bear
+Allah,Christ,0.0,6.25,65.97222222222221,0.0,preserve protect save bear
+Martin,Mother,0.8928571428571428,0.0,70.53571428571429,INF,stop consider knock
+Orange Juice,Virgin Mary,2.616279069767442,1.4534883720930232,58.720930232558146,1.8,be call tend drool surround crawl
+Martin,Richard Parker,7.352941176470589,0.0,63.23529411764706,INF,have have have stick
+Martin,Mother,0.0,4.411764705882353,48.529411764705884,0.0,strike sear
+Martin,Ravi,0.0,4.411764705882353,48.529411764705884,0.0,strike sear
+Mother,Ravi,0.0,4.411764705882353,48.529411764705884,0.0,strike sear
+Jesus,Virgin Mary,0.0,3.75,36.25,0.0,
+Jesus,Muhammad,0.0,3.75,36.25,0.0,
+Jesus,Vishnu,0.0,3.75,36.25,0.0,
+Virgin Mary,Muhammad,0.0,3.75,36.25,0.0,
+Virgin Mary,Vishnu,0.0,3.75,36.25,0.0,
+Muhammad,Vishnu,0.0,3.75,36.25,0.0,
+Martin,Mother,7.352941176470589,7.352941176470589,55.88235294117647,1.0,be be
+Martin,Ravi,7.352941176470589,7.352941176470589,55.88235294117647,1.0,be be
+Mother,Ravi,7.352941176470589,7.352941176470589,55.88235294117647,1.0,be be
+Martin,Mother,7.954545454545454,0.0,46.590909090909086,INF,
+Martin,Ravi,7.954545454545454,0.0,46.590909090909086,INF,
+Mother,Ravi,7.954545454545454,0.0,46.590909090909086,INF,
+Richard Parker,God,3.7037037037037033,3.2407407407407405,48.61111111111111,1.1428571428571428,be orphan think
+Tomatlán,Mr. Okamoto,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Tomatlán,Japanese Ministry of Transport,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Tomatlán,Mr. Okamoto,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Tomatlán,Mr. Okamoto,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Mr. Okamoto,Japanese Ministry of Transport,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Mr. Okamoto,Tomatlán,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Japanese Ministry of Transport,Mr. Okamoto,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Japanese Ministry of Transport,Mr. Okamoto,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Japanese Ministry of Transport,Tomatlán,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Mr. Okamoto,Tomatlán,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Mr. Okamoto,Tomatlán,1.7699115044247788,1.4380530973451326,52.54424778761062,1.2307692307692308,retire tell be be advise have vanish be report have land
+Mr. Okamoto,Tomatlán,4.6875,0.0,57.8125,INF,be convince read
+Mr. Okamoto,Tomatlán,4.6875,0.0,57.8125,INF,be convince read
+Tomatlán,Mr. Okamoto,2.2058823529411766,2.941176470588235,43.872549019607845,0.75,get see be decide continue catch
+Mr. Okamoto,Tomatlán,2.25,2.75,49.0,0.8181818181818182,admit be arrive be
+Mr. Okamoto,Mr. Chiba,0.0,0.0,47.82608695652174,INF,speak tape
+Mr. Okamoto,Patel,0.0,0.0,47.82608695652174,INF,speak tape
+Mr. Chiba,Patel,0.0,0.0,47.82608695652174,INF,speak tape
+Mr. Chiba,Mr. Patel,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,be have have eat
+Mr. Chiba,Mr. Patel,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,be have have eat
+Mr. Okamoto,Mr. Patel,0.7352941176470588,0.0,34.55882352941176,INF,do believe
+Mr. Okamoto,Patel,0.0,0.0,33.33333333333333,INF,get
+Mr. Chiba,Mr. Patel,6.8181818181818175,4.545454545454546,34.090909090909086,1.5,be talk
+Patel,Mother,3.8461538461538463,3.3653846153846154,42.78846153846153,1.1428571428571428,be say break
+Martin,Ravi,2.8846153846153846,5.769230769230769,52.88461538461539,0.5,be get believe have survive
+Martin,Mother,0.0,0.0,64.28571428571429,INF,end eat
+Mr. Okamoto,Mr. Chiba,1.1904761904761905,3.571428571428571,28.57142857142857,0.3333333333333333,be
+Mr. Okamoto,Mr. Patel,0.0,0.6944444444444444,38.19444444444444,0.0,thank take talk
+Mr. Okamoto,Patel,4.861111111111112,4.166666666666666,52.083333333333336,1.1666666666666667,remember be

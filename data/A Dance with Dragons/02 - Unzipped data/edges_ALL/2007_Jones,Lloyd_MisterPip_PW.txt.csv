@@ -1,0 +1,688 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mr. Watts,bush,0.0,0.5208333333333333,53.645833333333336,0.0,tow
+Mr. Watts,bush,0.0,0.5208333333333333,53.645833333333336,0.0,tow
+Mr. Watts,Mrs. Watts,3.125,3.125,61.60714285714286,1.0,hope stop have see speak
+Mr. Watts,Mr. Dickens,4.861111111111112,3.4722222222222223,47.22222222222222,1.4,say be meet feel
+Mr. Dickens,Matilda,2.0,2.0,32.0,1.0,get do ask fix
+Matilda,Mr. Dickens,2.0,2.0,32.0,1.0,get do ask fix
+Mr. Watts,Mr. Dickens,0.0,0.0,57.89473684210527,INF,sit wait introduce
+Pirrip,Philip,5.241935483870968,1.2096774193548387,48.38709677419355,4.333333333333333,be make
+Pirrip,Pip,5.241935483870968,1.2096774193548387,48.38709677419355,4.333333333333333,be make
+Philip,Pip,5.241935483870968,1.2096774193548387,48.38709677419355,4.333333333333333,be make
+Mr. Watts,Pip,7.5,2.5,50.0,3.0,be
+Mr. Watts,Mabel,3.804347826086957,0.0,57.065217391304344,INF,think have see carry wave
+Mr. Watts,Mabel,3.804347826086957,0.0,57.065217391304344,INF,think have see carry wave
+Mabel,Mr. Watts,3.804347826086957,0.0,57.065217391304344,INF,think have see carry wave
+Mr. Watts,Mabel,3.804347826086957,0.0,57.065217391304344,INF,think have see carry wave
+Mr. Watts,Mabel,0.0,0.0,57.14285714285714,INF,nod
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mr. Watts,Mabel,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mr. Watts,Mabel,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mr. Watts,Mabel,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mr. Watts,Mabel,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,2.925531914893617,0.5319148936170213,51.86170212765957,5.5,have take have say start ask stop raise remind
+Mabel,Mr. Watts,0.0,0.0,30.0,INF,say
+Mr. Watts,Mabel,0.0,0.0,30.0,INF,say
+Mr. Watts,Pip,5.208333333333334,1.0416666666666665,68.75,5.0,reach feel have be speak
+Magwitch,Pip,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Magwitch,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Magwitch,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Magwitch,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Magwitch,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Mr. Watts,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Magwitch,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Mr. Watts,Magwitch,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Mr. Watts,Magwitch,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Mr. Watts,Magwitch,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Mr. Watts,Magwitch,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,escape convict threaten rip do bring do hear hear be convict be
+Pip,Mr. Watts,2.631578947368421,0.6578947368421052,65.13157894736842,4.0,surround rank
+Mr. Watts,Pip,3.3482142857142856,1.3392857142857142,52.45535714285714,2.5,remember have read do think be make slip have convict say
+Pip,Mr. Watts,4.583333333333333,2.5,62.916666666666664,1.8333333333333333,tell have cry be lose
+Mr. Dickens,Charles Dickens,0.0,4.464285714285714,66.96428571428571,0.0,refer
+Mr. Dickens,Charles Dickens,0.0,4.464285714285714,66.96428571428571,0.0,refer
+Mr. Dickens,Charles Dickens,0.0,4.464285714285714,66.96428571428571,0.0,refer
+Mr. Dickens,Charles Dickens,0.0,4.464285714285714,66.96428571428571,0.0,refer
+Mr. Dickens,Mr. Watts,3.289473684210526,1.3157894736842104,69.07894736842105,2.5,speak begin feel
+Mr. Dickens,Mr. Watts,3.289473684210526,1.3157894736842104,69.07894736842105,2.5,speak begin feel
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Celia,2.564102564102564,2.564102564102564,53.84615384615385,1.0,answer shift look snuck
+Mr. Watts,Mr. Dickens,6.25,1.3888888888888888,64.58333333333334,4.5,visit be have live work
+Mr. Dickens,Mr. Watts,0.0,0.0,66.66666666666666,INF,be lose
+Gilbert,Mr. Watts,2.380952380952381,0.0,64.28571428571429,INF,stick ask work stammer
+Gilbert,Mr. Watts,2.380952380952381,0.0,64.28571428571429,INF,stick ask work stammer
+Mr. Watts,Mrs. Kabui,3.125,0.0,65.625,INF,hold welcome walk
+Mrs. Kabui,Mr. Watts,0.0,5.555555555555555,61.111111111111114,0.0,speak
+Mr. Watts,Mrs. Kabui,2.272727272727273,1.1363636363636365,69.31818181818183,2.0,give look
+Mr. Watts,Mabel,3.6458333333333335,2.083333333333333,48.4375,1.75,have have be expect hear catch
+Mr. Watts,Mabel,3.6458333333333335,2.083333333333333,48.4375,1.75,have have be expect hear catch
+Mabel,Mr. Watts,3.6458333333333335,2.083333333333333,48.4375,1.75,have have be expect hear catch
+Mr. Watts,Mabel,3.6458333333333335,2.083333333333333,48.4375,1.75,have have be expect hear catch
+Mabel,Mr. Watts,5.0,2.5,42.5,2.0,whisper
+Mr. Watts,Mabel,5.0,2.5,42.5,2.0,whisper
+Mr. Watts,Mabel,1.5625,0.390625,48.046875,4.0,see sit be read
+Pip,Joe Gargery,6.25,1.171875,48.828125,5.333333333333333,tell call bring add have think
+Pip,Joe Gargery,6.25,1.171875,48.828125,5.333333333333333,tell call bring add have think
+Pip,Magwitch,1.4423076923076923,2.8846153846153846,57.21153846153846,0.5,use create carry file convict wait
+Matilda,Mr. Watts,2.5,0.0,37.5,INF,say
+Mr. Watts,Matilda,3.125,1.5625,32.8125,2.0,have give
+Mr. Watts,Grace,4.6875,0.78125,63.28125,6.0,remember look huddle wonder be
+Mr. Watts,Mrs. Watts,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,ask have hear have hide
+Mr. Watts,Mrs. Watts,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,ask have hear have hide
+Mr. Watts,Mrs. Watts,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,ask have hear have hide
+Matilda,Mr. Watts,0.0,0.0,33.33333333333333,INF,do hide say
+Gilbert,Mr. Watts,0.0,0.0,53.84615384615385,INF,come say
+Mr. Watts,Gilbert,0.0,0.0,62.5,INF,confer
+Mr. Watts,Mrs. Masoi,0.0,0.0,68.75,INF,do take
+Mr. Watts,Mrs. Masoi,0.0,0.0,68.75,INF,do take
+Mr. Watts,Mrs. Masoi,0.0,0.0,50.0,INF,announce have share
+Gilbert,Mr. Watts,7.638888888888889,1.3888888888888888,63.19444444444444,5.5,have hunt
+Gilbert,Mr. Watts,7.638888888888889,1.3888888888888888,63.19444444444444,5.5,have hunt
+Pip,Mr. Watts,3.75,0.625,35.625,6.0,switch feel reconnect
+Joe Gargery,Mr. Watts,1.9736842105263157,2.302631578947368,50.98684210526315,0.8571428571428571,know orphan squeeze come exist
+Miss Havisham,Estella,1.5625,0.5208333333333333,47.91666666666667,3.0,be invite play adopt
+Miss Havisham,Estella,1.5625,0.5208333333333333,47.91666666666667,3.0,be invite play adopt
+Miss Havisham,Estella,1.5625,0.5208333333333333,47.91666666666667,3.0,be invite play adopt
+Pip,Joe Gargery,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,be
+Pip,Joe Gargery,2.393617021276596,0.26595744680851063,50.53191489361703,9.0,have settle go include huddle drink listen
+Joe Gargery,Pip,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Joe Gargery,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Joe Gargery,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Pip,Joe Gargery,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Pip,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Pip,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Joe Gargery,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Joe Gargery,Mr. Jaggers,1.9736842105263157,0.6578947368421052,50.0,3.0,bring declare
+Mr. Jaggers,Pip,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,have
+Pip,Mr. Watts,2.1875,0.9375,44.375,2.3333333333333335,mean get leave have know forge
+Pip,Mr. Watts,2.1875,0.9375,44.375,2.3333333333333335,mean get leave have know forge
+Pip,Joe Gargery,2.1875,0.9375,44.375,2.3333333333333335,mean get leave have know forge
+Mr. Watts,Joe Gargery,2.1875,0.9375,44.375,2.3333333333333335,mean get leave have know forge
+Mr. Watts,Joe Gargery,2.1875,0.9375,44.375,2.3333333333333335,mean get leave have know forge
+Miss Havisham,Pip,7.083333333333333,4.583333333333333,55.00000000000001,1.5454545454545454,have meet know have change be
+Mr. Watts,Pip,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Mr. Watts,Pip,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Pip,Mr. Watts,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Pip,Mr. Watts,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Pip,Mr. Watts,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Pip,Mr. Watts,7.758620689655173,1.7241379310344827,56.03448275862068,4.5,have give have come know be feel
+Mr. Watts,Daniel,2.941176470588235,0.0,50.0,INF,look be focus have say
+Mr. Watts,Daniel,4.166666666666666,1.0416666666666665,53.125,4.0,walk
+Mr. Watts,Gilbert,0.0,1.0416666666666665,65.625,0.0,give continue
+Gilbert,Mr. Watts,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Gilbert,Mr. Watts,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Gilbert,Mr. Watts,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Gilbert,Mr. Watts,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Mr. Watts,Gilbert,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Gilbert,Mr. Watts,0.8620689655172413,0.0,68.10344827586206,INF,be respond stand smile intervene ask be go oblige
+Gilbert,Mr. Watts,4.807692307692308,0.0,56.730769230769226,INF,help produce
+Gilbert,Mr. Watts,4.807692307692308,0.0,56.730769230769226,INF,help produce
+Gilbert,Mrs. Haripa,0.625,0.0,49.375,INF,say be get
+Gilbert,Mrs. Haripa,0.625,0.0,49.375,INF,say be get
+Mrs. Haripa,Mr. Watts,1.0869565217391304,1.0869565217391304,54.347826086956516,1.0,do think be say
+Mrs. Haripa,Mr. Watts,6.944444444444445,4.166666666666666,55.55555555555556,1.6666666666666667,blaze
+Mrs. Haripa,Mr. Watts,1.5151515151515151,1.893939393939394,63.25757575757576,0.8,be enjoy miss raise be stand thank
+Mr. Watts,Mrs. Haripa,1.5151515151515151,1.893939393939394,63.25757575757576,0.8,be enjoy miss raise be stand thank
+Mr. Watts,Mrs. Haripa,1.5151515151515151,1.893939393939394,63.25757575757576,0.8,be enjoy miss raise be stand thank
+Mr. Watts,Mabel,0.0,0.0,57.14285714285714,INF,station
+Mr. Watts,Mr. Dickens,3.125,4.910714285714286,63.39285714285714,0.6363636363636364,feel be be fly
+Mr. Watts,Mr. Dickens,3.125,4.910714285714286,63.39285714285714,0.6363636363636364,feel be be fly
+Mr. Watts,Grace,4.664179104477612,1.3059701492537312,53.73134328358209,3.5714285714285716,read see smile leave wonder realize be know come reflect give join
+Mr. Watts,Grace,4.664179104477612,1.3059701492537312,53.73134328358209,3.5714285714285716,read see smile leave wonder realize be know come reflect give join
+Mr. Watts,Grace,4.664179104477612,1.3059701492537312,53.73134328358209,3.5714285714285716,read see smile leave wonder realize be know come reflect give join
+Mr. Watts,Mrs. Watts,0.0,0.5681818181818182,53.97727272727273,0.0,give stock
+Mrs. Watts,Mr. Watts,0.0,0.5681818181818182,53.97727272727273,0.0,give stock
+Gilbert,Mr. Watts,1.9230769230769231,0.0,75.0,INF,have leave
+Pip,Mr. Watts,3.804347826086957,2.717391304347826,71.73913043478261,1.4,be trouble have detect be be
+Mr. Watts,Herbert Pocket,4.166666666666666,2.083333333333333,57.08333333333333,2.0,do take understand have worry be leave
+Mr. Watts,Pip,4.166666666666666,2.083333333333333,57.08333333333333,2.0,do take understand have worry be leave
+Herbert Pocket,Pip,4.166666666666666,2.083333333333333,57.08333333333333,2.0,do take understand have worry be leave
+Herbert Pocket,Mr. Watts,4.166666666666666,2.083333333333333,57.08333333333333,2.0,do take understand have worry be leave
+Pip,Mr. Watts,4.166666666666666,2.083333333333333,57.08333333333333,2.0,do take understand have worry be leave
+Mr. Watts,Handel,5.769230769230769,0.0,55.769230769230774,INF,understand have change
+Mr. Watts,Handel,5.769230769230769,0.0,55.769230769230774,INF,understand have change
+Pip,Joe Gargery,3.4722222222222223,5.555555555555555,40.97222222222222,0.625,move trouble
+Pip,Joe Gargery,14.423076923076922,0.9615384615384616,61.53846153846154,15.0,act
+Joe Gargery,Estella,0.0,0.0,66.66666666666666,INF,have come visit
+Matilda,Mr. Watts,1.4705882352941175,5.147058823529411,52.20588235294118,0.2857142857142857,be be say
+Estella,Mr. Watts,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be say
+Mr. Watts,Mrs. Watts,0.0,0.0,63.1578947368421,INF,say think hear call
+Mr. Watts,Matilda,1.7857142857142856,1.7857142857142856,46.42857142857143,1.0,call keep
+Pip,Handel,8.333333333333332,3.125,38.54166666666667,2.6666666666666665,ask change
+Pip,Handel,8.333333333333332,3.125,38.54166666666667,2.6666666666666665,ask change
+Grace,Mr. Watts,1.9230769230769231,5.769230769230769,46.15384615384615,0.3333333333333333,be say
+Pip,Miss Havisham,2.5,1.0,44.5,2.5,be
+Pip,Joe Gargery,2.5,1.0,44.5,2.5,be
+Miss Havisham,Joe Gargery,2.5,1.0,44.5,2.5,be
+Mabel,Mr. Watts,3.4722222222222223,0.0,63.19444444444444,INF,stick ask believe
+Mabel,Mr. Watts,3.4722222222222223,0.0,63.19444444444444,INF,stick ask believe
+Mabel,Mr. Watts,3.4722222222222223,0.0,63.19444444444444,INF,stick ask believe
+Mabel,Mr. Watts,3.4722222222222223,0.0,63.19444444444444,INF,stick ask believe
+Dolores,Mr. Watts,0.6578947368421052,0.0,46.71052631578947,INF,have provide say
+Victoria,Sam,4.5,4.5,51.0,1.0,be stagger
+Mr. Watts,Sam,0.5952380952380952,0.0,61.30952380952381,INF,see hand kneel
+Mr. Watts,Sam,0.5952380952380952,0.0,61.30952380952381,INF,see hand kneel
+Sam,Mr. Watts,0.5952380952380952,0.0,61.30952380952381,INF,see hand kneel
+Sam,Mr. Watts,0.5952380952380952,0.0,61.30952380952381,INF,see hand kneel
+Mr. Watts,Sam,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Mr. Watts,Sam,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Mr. Watts,Sam,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Mr. Watts,Sam,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Mr. Watts,Gilbert,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Sam,Gilbert,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Sam,Gilbert,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Sam,Gilbert,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Sam,Gilbert,0.8522727272727272,1.7045454545454544,67.89772727272727,0.5,give hear be rest fit nod start
+Sam,bush,0.0,0.0,68.75,INF,be see be take
+Sam,bush,0.0,0.0,68.75,INF,be see be take
+Gilbert,Sam,0.0,0.0,75.0,INF,dig take
+Gilbert,Sam,0.0,0.0,75.0,INF,dig take
+Mr. Watts,Mr. Dickens,3.4722222222222223,0.6944444444444444,79.16666666666666,5.0,say be have be lead
+Mr. Watts,Mr. Dickens,3.4722222222222223,0.6944444444444444,79.16666666666666,5.0,say be have be lead
+Mr. Dickens,Mr. Watts,4.0,2.25,49.75,1.7777777777777777,look light wish have buy happen see butter raise say look
+Mr. Dickens,Mr. Watts,4.0,2.25,49.75,1.7777777777777777,look light wish have buy happen see butter raise say look
+Mr. Dickens,Mr. Watts,4.0,2.25,49.75,1.7777777777777777,look light wish have buy happen see butter raise say look
+Mr. Dickens,Mr. Watts,4.0,2.25,49.75,1.7777777777777777,look light wish have buy happen see butter raise say look
+Mr. Watts,Mr. Dickens,0.6756756756756757,1.3513513513513513,73.64864864864865,0.5,stand have visit see imagine supply
+Mr. Watts,Mrs. Siep,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,vacate push introduce
+Mr. Watts,Mrs. Siep,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,vacate push introduce
+Mr. Watts,Mrs. Siep,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,vacate push introduce
+Mr. Watts,Mrs. Siep,0.7352941176470588,1.4705882352941175,56.61764705882353,0.5,vacate push introduce
+Mr. Watts,Mrs. Siep,6.756756756756757,2.364864864864865,44.932432432432435,2.857142857142857,be do prompt say be cultivate
+Mr. Watts,Mrs. Siep,6.756756756756757,2.364864864864865,44.932432432432435,2.857142857142857,be do prompt say be cultivate
+Mrs. Siep,Mr. Watts,2.6515151515151514,1.1363636363636365,50.75757575757576,2.3333333333333335,know say have be hear want tell
+Dolores,Mr. Watts,2.82258064516129,2.0161290322580645,37.096774193548384,1.4,say be say have
+Dolores,Pip,2.82258064516129,2.0161290322580645,37.096774193548384,1.4,say be say have
+Mr. Watts,Pip,2.82258064516129,2.0161290322580645,37.096774193548384,1.4,say be say have
+Pip,Estella,6.25,3.571428571428571,54.46428571428571,1.75,do understand continue want
+Magwitch,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Magwitch,Pip,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Magwitch,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Magwitch,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Magwitch,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Estella,Pip,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Pip,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Pip,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Pip,Estella,4.310344827586207,1.0775862068965518,51.508620689655174,4.0,escape convict like admire get pay escape have help escape do understand return
+Estella,Pip,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Pip,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Herbert Pocket,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Pip,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Pip,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Herbert Pocket,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Estella,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Herbert Pocket,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Estella,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Herbert Pocket,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Pip,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Herbert Pocket,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Estella,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Herbert Pocket,Magwitch,7.291666666666667,1.8229166666666667,55.46875,4.0,come know be toss see turn have progress be help escape
+Magwitch,Estella,2.272727272727273,1.1363636363636365,42.04545454545455,2.0,turn be
+Pip,Joe Gargery,6.578947368421052,2.631578947368421,38.15789473684211,2.5,disappoint be find forgive
+Pip,Joe Gargery,6.578947368421052,2.631578947368421,38.15789473684211,2.5,disappoint be find forgive
+Pip,Joe Gargery,6.578947368421052,2.631578947368421,38.15789473684211,2.5,disappoint be find forgive
+Pip,Joe Gargery,6.578947368421052,2.631578947368421,38.15789473684211,2.5,disappoint be find forgive
+Pip,Estella,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,chase be commit
+Pip,Joe Gargery,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,chase be commit
+Estella,Joe Gargery,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,chase be commit
+Mr. Watts,Daniel,2.1739130434782608,0.0,67.3913043478261,INF,turn face stick
+Mr. Watts,Daniel,2.1739130434782608,0.0,67.3913043478261,INF,turn face stick
+Daniel,Mr. Watts,0.0,3.125,63.541666666666664,0.0,turn look
+Mr. Watts,Daniel,1.5625,6.25,54.6875,0.25,address
+Mr. Watts,Daniel,1.5625,6.25,54.6875,0.25,address
+Mr. Watts,Daniel,0.0,0.0,73.33333333333333,INF,ask look
+Mr. Watts,Daniel,0.0,0.0,73.33333333333333,INF,ask look
+Pip,Mr. Dickens,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,belong blurt
+Pip,Daniel,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,belong blurt
+Mr. Dickens,Daniel,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,belong blurt
+Daniel,Mr. Dickens,4.3478260869565215,0.0,56.52173913043478,INF,place instruct go fetch
+Daniel,Mr. Dickens,4.3478260869565215,0.0,56.52173913043478,INF,place instruct go fetch
+Daniel,Mr. Dickens,4.3478260869565215,0.0,56.52173913043478,INF,place instruct go fetch
+Mr. Watts,Pip,6.730769230769231,6.730769230769231,48.07692307692308,1.0,expect clear
+Mr. Watts,Daniel,3.804347826086957,3.804347826086957,61.95652173913043,1.0,have say change rest beam
+Mr. Watts,Daniel,3.804347826086957,3.804347826086957,61.95652173913043,1.0,have say change rest beam
+Daniel,Mr. Watts,1.8518518518518516,0.9259259259259258,60.18518518518518,2.0,do understand fail hear step
+Pip,Magwitch,1.893939393939394,3.787878787878788,60.984848484848484,0.5,know have know threaten tear do return
+Pip,Mr. Watts,1.893939393939394,3.787878787878788,60.984848484848484,0.5,know have know threaten tear do return
+Pip,Mr. Watts,1.893939393939394,3.787878787878788,60.984848484848484,0.5,know have know threaten tear do return
+Magwitch,Mr. Watts,1.893939393939394,3.787878787878788,60.984848484848484,0.5,know have know threaten tear do return
+Magwitch,Mr. Watts,1.893939393939394,3.787878787878788,60.984848484848484,0.5,know have know threaten tear do return
+Mr. Watts,Pip,3.4090909090909087,0.5681818181818182,59.65909090909091,6.0,choose watch join
+Mr. Watts,Pip,3.4090909090909087,0.5681818181818182,59.65909090909091,6.0,choose watch join
+Mr. Watts,Grace,1.25,2.5,61.25000000000001,0.5,be reassemble include light
+Grace,Mr. Watts,1.25,2.5,61.25000000000001,0.5,be reassemble include light
+Mr. Watts,Charles Dickens,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be
+Mr. Watts,Daniel,3.75,0.0,62.916666666666664,INF,think catch see register have reveal be
+Mr. Watts,Daniel,3.75,0.0,62.916666666666664,INF,think catch see register have reveal be
+Mr. Watts,Mr. Dickens,3.75,0.0,62.916666666666664,INF,think catch see register have reveal be
+Daniel,Mr. Dickens,3.75,0.0,62.916666666666664,INF,think catch see register have reveal be
+Daniel,Mr. Dickens,3.75,0.0,62.916666666666664,INF,think catch see register have reveal be
+Mr. Dickens,Daniel,2.7777777777777777,8.333333333333332,55.55555555555556,0.3333333333333333,have take protect
+Daniel,Mr. Dickens,5.833333333333333,7.5,66.66666666666666,0.7777777777777778,make say be
+Daniel,Mr. Dickens,5.833333333333333,7.5,66.66666666666666,0.7777777777777778,make say be
+Daniel,Mr. Dickens,5.833333333333333,7.5,66.66666666666666,0.7777777777777778,make say be
+Mr. Watts,Magwitch,1.201923076923077,3.6057692307692304,58.65384615384615,0.3333333333333333,be address hear use read recapture lie await
+Mr. Watts,Magwitch,1.201923076923077,3.6057692307692304,58.65384615384615,0.3333333333333333,be address hear use read recapture lie await
+Mr. Watts,Magwitch,1.201923076923077,3.6057692307692304,58.65384615384615,0.3333333333333333,be address hear use read recapture lie await
+Grace,Mr. Watts,0.0,0.0,57.14285714285714,INF,be leave take turn
+Grace,Mr. Watts,0.0,0.0,57.14285714285714,INF,be leave take turn
+Pip,Mr. Watts,1.282051282051282,0.3205128205128205,59.93589743589743,4.0,be mean destroy seek place
+Mr. Watts,Grace,0.0,0.0,61.111111111111114,INF,see pull
+Mr. Watts,Grace,0.0,0.0,61.111111111111114,INF,see pull
+Mr. Watts,Grace,2.5,3.0,58.5,0.8333333333333334,see pull dawn have be spare
+Mr. Watts,Grace,3.75,0.0,66.25,INF,have
+Mr. Watts,Grace,0.0,4.464285714285714,66.96428571428571,0.0,do join
+Mr. Watts,Matilda,0.0,4.605263157894736,58.55263157894737,0.0,do want look see
+Mr. Watts,Matilda,0.0,4.605263157894736,58.55263157894737,0.0,do want look see
+Mr. Watts,Grace,2.5,0.0,64.16666666666667,INF,stand
+Grace,Mr. Watts,4.545454545454546,1.7045454545454544,66.47727272727273,2.6666666666666665,know have come understand be nurse
+Grace,Mr. Watts,4.545454545454546,1.7045454545454544,66.47727272727273,2.6666666666666665,know have come understand be nurse
+Mr. Watts,Daniel,2.5,1.0,48.5,2.5,close say hear say
+Mr. Dickens,Pip,2.586206896551724,0.43103448275862066,62.5,6.0,sit write do be
+Mr. Dickens,Pip,2.586206896551724,0.43103448275862066,62.5,6.0,sit write do be
+Mr. Watts,Pirrip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Mr. Watts,Philip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Mr. Watts,Pip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Pirrip,Philip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Pirrip,Pip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Philip,Pip,3.888888888888889,0.8333333333333334,55.27777777777778,4.666666666666667,take recite be make
+Pip,Satis House,5.232558139534884,2.3255813953488373,50.58139534883721,2.25,be gaze find walk look
+Estella,Sarah,0.9259259259259258,0.9259259259259258,50.0,1.0,do like speak do like tease taunt
+Celia,Pip,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Mr. Watts,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Magwitch,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Pip,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Mr. Watts,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Magwitch,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Pip,Mr. Watts,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Pip,Magwitch,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Mr. Watts,Magwitch,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,come share come give find
+Celia,Pip,10.0,8.75,31.25,1.1428571428571428,claim know
+Celia,Pip,8.823529411764707,1.4705882352941175,48.529411764705884,6.0,wonder have come think be arrest
+Celia,Pip,8.823529411764707,1.4705882352941175,48.529411764705884,6.0,wonder have come think be arrest
+Mr. Watts,Celia,0.0,0.0,60.0,INF,thank
+Celia,Mr. Watts,0.9615384615384616,0.4807692307692308,56.25,2.0,say provide develop
+Mr. Watts,Gilbert,2.5,0.0,64.16666666666667,INF,stick group
+Mr. Watts,Gilbert,2.5,0.0,64.16666666666667,INF,stick group
+Mr. Watts,Celia,4.166666666666666,0.0,57.738095238095234,INF,look think have forget see
+Mr. Watts,Celia,4.166666666666666,0.0,57.738095238095234,INF,look think have forget see
+Mr. Watts,Celia,4.166666666666666,0.0,57.738095238095234,INF,look think have forget see
+Mr. Watts,Celia,4.166666666666666,0.0,57.738095238095234,INF,look think have forget see
+Mr. Watts,Celia,1.25,0.0,68.75,INF,resume write sit
+Mr. Watts,Celia,0.0,0.0,57.14285714285714,INF,look find
+Celia,Mr. Watts,1.7857142857142856,2.6785714285714284,59.82142857142857,0.6666666666666666,give pretend look
+Celia,Mr. Watts,1.7857142857142856,2.6785714285714284,59.82142857142857,0.6666666666666666,give pretend look
+Pip,Mr. Watts,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Pip,Satis House,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Pip,Mr. Watts,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Pip,Mr. Watts,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Mr. Watts,Satis House,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Satis House,Mr. Watts,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Satis House,Mr. Watts,2.027027027027027,1.3513513513513513,61.48648648648649,1.5,retrieve make smile have finish be scribble
+Estella,Pip,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,say
+Estella,Mr. Watts,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,say
+Pip,Mr. Watts,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,say
+Estella,Pip,8.333333333333332,2.083333333333333,31.25,4.0,need remember say
+Estella,Pip,2.5735294117647056,2.2058823529411766,48.161764705882355,1.1666666666666667,remember have say become turn
+Estella,Pip,1.7045454545454544,0.5681818181818182,47.72727272727273,3.0,try remember drift
+Pip,Satis House,3.125,1.5625,76.5625,2.0,make feel approach
+Pip,Miss Havisham,10.0,2.5,67.5,4.0,have be invite
+Mrs. Watts,Mr. Watts,0.0,1.3888888888888888,65.27777777777779,0.0,be obscure
+Mr. Watts,Mrs. Watts,0.0,0.0,52.63157894736842,INF,kneel stroke dab
+Mr. Watts,Mrs. Watts,0.0,0.0,52.63157894736842,INF,kneel stroke dab
+Mr. Watts,Mrs. Watts,0.0,0.0,52.63157894736842,INF,kneel stroke dab
+Mr. Watts,Mrs. Watts,0.0,0.0,52.63157894736842,INF,kneel stroke dab
+Estella,Pip,6.25,1.5625,17.1875,4.0,say
+Mr. Watts,Matilda,0.26595744680851063,0.7978723404255319,45.744680851063826,0.3333333333333333,wait wait seem stir turn know say think get
+Victoria,Gilbert,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Victoria,Mabel,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Victoria,Daniel,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Gilbert,Mabel,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Gilbert,Daniel,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Mabel,Daniel,3.7037037037037033,1.3888888888888888,65.27777777777779,2.6666666666666665,grow be think do
+Mr. Watts,Pip,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Mr. Watts,Miss Havisham,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Mr. Watts,Gilbert,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Mr. Watts,Mr. Pumblechook,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Pip,Miss Havisham,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Pip,Gilbert,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Pip,Mr. Pumblechook,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Miss Havisham,Gilbert,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Miss Havisham,Mr. Pumblechook,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Gilbert,Mr. Pumblechook,2.840909090909091,0.5681818181818182,60.22727272727273,5.0,read walk remember
+Mr. Pumblechook,Victoria,3.2407407407407405,1.8518518518518516,61.57407407407407,1.75,refer be remember be wave
+Mr. Pumblechook,Victoria,3.2407407407407405,1.8518518518518516,61.57407407407407,1.75,refer be remember be wave
+Mr. Pumblechook,Pip,3.260869565217391,0.5434782608695652,48.369565217391305,6.0,be have take be apprentice
+Mr. Pumblechook,Joe Gargery,3.260869565217391,0.5434782608695652,48.369565217391305,6.0,be have take be apprentice
+Pip,Joe Gargery,3.260869565217391,0.5434782608695652,48.369565217391305,6.0,be have take be apprentice
+Mr. Jaggers,Pip,6.25,1.6666666666666667,52.083333333333336,3.75,be think try remember feel tell
+Mr. Jaggers,Pip,6.25,1.6666666666666667,52.083333333333336,3.75,be think try remember feel tell
+Pip,Mr. Jaggers,6.25,1.6666666666666667,52.083333333333336,3.75,be think try remember feel tell
+Pip,Mr. Jaggers,6.25,1.6666666666666667,52.083333333333336,3.75,be think try remember feel tell
+Mrs. Watts,Mr. Watts,0.0,0.0,54.54545454545454,INF,come bury walk go support
+Mr. Watts,Mrs. Watts,0.0,3.90625,71.09375,0.0,fall hang
+Mr. Watts,Mrs. Watts,0.0,3.90625,71.09375,0.0,fall hang
+Mr. Watts,Mrs. Watts,0.0,3.90625,71.09375,0.0,fall hang
+Mr. Watts,Mrs. Watts,0.0,3.90625,71.09375,0.0,fall hang
+Gilbert,Mrs. Watts,1.4705882352941175,2.941176470588235,66.17647058823529,0.5,happen catch walk sneak
+Mrs. Watts,Mr. Watts,1.0869565217391304,0.0,64.13043478260869,INF,be kneel enter
+Mr. Watts,Mrs. Siep,1.25,0.0,58.75,INF,nod interrupt
+Mr. Watts,Mrs. Siep,1.25,0.0,58.75,INF,nod interrupt
+Mrs. Siep,Mr. Watts,1.25,0.0,58.75,INF,nod interrupt
+Mr. Watts,Mabel,0.0,0.0,40.0,INF,say
+Mr. Masoi,Grace,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,remember run bawl
+Daniel,Mrs. Watts,2.083333333333333,0.5208333333333333,72.39583333333334,4.0,be clap say remember
+Daniel,Mrs. Watts,2.083333333333333,0.5208333333333333,72.39583333333334,4.0,be clap say remember
+Daniel,Mrs. Watts,2.083333333333333,0.5208333333333333,72.39583333333334,4.0,be clap say remember
+Daniel,Mr. Watts,0.0,0.0,40.0,INF,thank say
+Grace,Matilda,4.166666666666666,0.0,45.83333333333333,INF,be
+Matilda,Grace,3.9473684210526314,3.289473684210526,45.39473684210527,1.2,tell do know be
+Mr. Watts,Miss Havisham,1.4423076923076923,4.326923076923077,48.07692307692308,0.3333333333333333,worry come become stick
+Mr. Watts,Miss Havisham,1.4423076923076923,4.326923076923077,48.07692307692308,0.3333333333333333,worry come become stick
+Miss Havisham,Mr. Watts,1.4423076923076923,4.326923076923077,48.07692307692308,0.3333333333333333,worry come become stick
+Mr. Watts,Gilbert,3.7037037037037033,0.9259259259259258,69.44444444444444,4.0,be send find ask be
+Pip,Miss Havisham,5.769230769230769,2.8846153846153846,49.03846153846153,2.0,do remember be meet
+Pip,Sarah,5.769230769230769,2.8846153846153846,49.03846153846153,2.0,do remember be meet
+Miss Havisham,Sarah,5.769230769230769,2.8846153846153846,49.03846153846153,2.0,do remember be meet
+Miss Havisham,Pip,1.6304347826086956,1.0869565217391304,49.45652173913043,1.5,inform have go be educate turn
+Miss Havisham,Estella,1.6304347826086956,1.0869565217391304,49.45652173913043,1.5,inform have go be educate turn
+Pip,Estella,1.6304347826086956,1.0869565217391304,49.45652173913043,1.5,inform have go be educate turn
+Estella,Pip,11.11111111111111,2.7777777777777777,52.77777777777778,4.0,admire tell
+Mr. Watts,Mrs. Watts,4.545454545454546,1.1363636363636365,67.04545454545455,4.0,have be speak
+Mr. Watts,Pip,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be list come
+Pip,Mr. Watts,3.9473684210526314,3.9473684210526314,55.26315789473685,1.0,be list come
+Mr. Watts,Pip,2.586206896551724,1.293103448275862,71.98275862068965,2.0,stand recite be be bring
+Gilbert,Mr. Jaggers,0.0,3.125,46.875,0.0,answer
+Pip,Mr. Jaggers,10.227272727272728,2.272727272727273,51.13636363636363,4.5,bear
+Mr. Jaggers,Pip,10.227272727272728,2.272727272727273,51.13636363636363,4.5,bear
+Daniel,Mr. Watts,6.8181818181818175,2.272727272727273,63.63636363636363,3.0,raise guess
+Daniel,Mr. Watts,6.8181818181818175,2.272727272727273,63.63636363636363,3.0,raise guess
+Daniel,Mr. Watts,6.8181818181818175,2.272727272727273,63.63636363636363,3.0,raise guess
+Daniel,Mr. Watts,6.8181818181818175,2.272727272727273,63.63636363636363,3.0,raise guess
+Mr. Watts,Pip,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,produce realize have enter
+Mr. Watts,Mr. Jaggers,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,produce realize have enter
+Pip,Mr. Jaggers,3.8793103448275863,0.8620689655172413,64.22413793103449,4.5,produce realize have enter
+Mr. Watts,Mr. Dickens,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,get tell
+Matilda,Pip,6.25,1.875,31.874999999999996,3.3333333333333335,offer care
+Mr. Watts,Pip,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,do need rush leave
+Pip,Mr. Watts,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,do need rush leave
+Pip,Mr. Watts,2.82258064516129,0.8064516129032258,54.43548387096774,3.5,do need rush leave
+Mr. Dickens,Mrs. Watts,1.4705882352941175,1.8382352941176472,58.45588235294118,0.8,rise take set scatter
+Mr. Dickens,Mrs. Watts,1.4705882352941175,1.8382352941176472,58.45588235294118,0.8,rise take set scatter
+Mr. Dickens,Mrs. Watts,0.0,0.0,53.84615384615385,INF,be join
+Mr. Watts,Mrs. Watts,2.7777777777777777,0.0,86.11111111111111,INF,be smile
+Mr. Watts,Mrs. Watts,4.605263157894736,1.3157894736842104,62.5,3.5,need say ask have read
+Mr. Watts,Mrs. Watts,0.0,0.8333333333333334,65.83333333333333,0.0,lean put
+Mr. Watts,Mrs. Watts,3.3783783783783785,2.027027027027027,64.86486486486487,1.6666666666666667,find get love use
+Mr. Watts,Mrs. Watts,3.3783783783783785,2.027027027027027,64.86486486486487,1.6666666666666667,find get love use
+Mr. Watts,Mrs. Watts,3.3783783783783785,2.027027027027027,64.86486486486487,1.6666666666666667,find get love use
+Pip,Mr. Dickens,4.807692307692308,5.769230769230769,66.34615384615384,0.8333333333333334,have hear
+Philip,Pip,7.857142857142857,1.7857142857142856,53.214285714285715,4.4,be make call come be call
+Philip,Pip,7.857142857142857,1.7857142857142856,53.214285714285715,4.4,be make call come be call
+Matilda,Gilbert,0.0,1.7857142857142856,33.92857142857143,0.0,say want
+Matilda,Mr. Watts,0.0,1.7857142857142856,33.92857142857143,0.0,say want
+Gilbert,Mr. Watts,0.0,1.7857142857142856,33.92857142857143,0.0,say want
+Dolores,Matilda,0.8928571428571428,0.0,41.964285714285715,INF,say take
+Mr. Watts,Gilbert,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Mr. Watts,Gilbert,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Mr. Watts,Pip,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Mr. Watts,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Mr. Watts,Gilbert,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Mr. Watts,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Pip,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Pip,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Pip,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Pip,Gilbert,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Pip,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Estella,Gilbert,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Estella,6.25,2.083333333333333,61.66666666666667,3.0,be be raise ask do kidnap like
+Gilbert,Mr. Watts,0.0,0.0,60.0,INF,release
+Mr. Watts,Grace,4.032258064516129,2.4193548387096775,48.38709677419355,1.6666666666666667,be hear learn have come
+Mr. Watts,Pip,3.7037037037037033,1.3888888888888888,57.870370370370374,2.6666666666666665,introduce be be see make
+Pip,Mr. Watts,3.7037037037037033,1.3888888888888888,57.870370370370374,2.6666666666666665,introduce be be see make
+Pip,Mr. Watts,8.653846153846153,2.8846153846153846,50.0,3.0,be drop
+Mr. Watts,Pip,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Pip,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Pip,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Pip,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Pip,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Pip,Mr. Dickens,4.651162790697675,2.0348837209302326,56.104651162790695,2.2857142857142856,want tell have write claim take make wish weave
+Mr. Watts,Miss Ryan,1.3888888888888888,2.7777777777777777,69.9074074074074,0.5,be bring cover
+Mr. Watts,Miss Ryan,0.8620689655172413,0.43103448275862066,53.879310344827594,2.0,arrange take
+Mr. Watts,Miss Ryan,3.5256410256410255,0.9615384615384616,62.17948717948718,3.6666666666666665,think have be plant resemble give have promise marry
+Mr. Watts,Miss Ryan,3.5256410256410255,0.9615384615384616,62.17948717948718,3.6666666666666665,think have be plant resemble give have promise marry
+Mr. Watts,Miss Ryan,3.0,1.0,60.0,3.0,be grow fail attract
+Mr. Watts,Miss Ryan,3.0,1.0,60.0,3.0,be grow fail attract
+Miss Ryan,Mr. Watts,3.0,1.0,60.0,3.0,be grow fail attract
+Miss Ryan,Mr. Watts,3.0,1.0,60.0,3.0,be grow fail attract
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Mr. Watts,Miss Ryan,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Miss Ryan,Mr. Watts,2.1929824561403506,0.6578947368421052,65.5701754385965,3.3333333333333335,come find sprawl have be weed tie crawl encourage
+Grace,Mr. Watts,3.6290322580645165,1.2096774193548387,56.451612903225815,3.0,wash come know expect pass
+Grace,Mr. Watts,3.6290322580645165,1.2096774193548387,56.451612903225815,3.0,wash come know expect pass
+Mr. Watts,Grace,0.78125,0.0,67.96875,INF,open pour
+Mr. Watts,Grace,0.78125,0.0,67.96875,INF,open pour
+Grace,Mr. Watts,0.9259259259259258,0.9259259259259258,61.111111111111114,1.0,say be be have do
+Grace,Mr. Watts,2.083333333333333,0.0,64.58333333333334,INF,have come ask
+Mr. Watts,Grace,0.0,3.515625,52.734375,0.0,be be replace sit
+Grace,Mr. Watts,0.0,0.0,61.904761904761905,INF,be stand carry
+Mr. Watts,Grace,1.6666666666666667,0.8333333333333334,64.16666666666667,2.0,know have be be be gain tease
+Grace,Mr. Watts,7.6923076923076925,0.9615384615384616,52.88461538461539,8.0,give say
+Mr. Watts,Sarah,2.0,5.0,45.0,0.4,laugh be say stop look
+Mr. Watts,Sarah,2.0,5.0,45.0,0.4,laugh be say stop look
+Mr. Watts,Pip,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,be be
+Mr. Watts,Grace,0.0,0.0,56.00000000000001,INF,mention wriggle get
+Mr. Watts,Mrs. Watts,1.5625,0.0,60.9375,INF,stand look
+Matilda,Mr. Watts,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,say
+Mrs. Watts,Mr. Watts,5.625,2.5,66.875,2.25,keep feel
+Mr. Jaggers,Pip,5.729166666666666,1.5625,51.041666666666664,3.6666666666666665,know help be tell
+Pip,Joe Gargery,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Pip,Mr. Pumblechook,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Pip,Joe Gargery,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Pip,Mr. Pumblechook,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Pip,Joe Gargery,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Pip,Mr. Pumblechook,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Joe Gargery,Mr. Pumblechook,3.125,1.4204545454545454,40.909090909090914,2.2,hear be leave have go make be
+Mr. Watts,Grace,7.638888888888889,0.6944444444444444,58.333333333333336,11.0,have create call
+Mr. Watts,Grace,0.0,0.0,57.14285714285714,INF,say be mean call
+Grace,Mr. Watts,1.1363636363636365,0.0,57.95454545454546,INF,ask have remember write
+Mrs. Watts,Mr. Watts,1.4705882352941175,0.0,45.588235294117645,INF,do say breathe
+Mr. Watts,Grace,0.0,1.293103448275862,60.775862068965516,0.0,paint scribble be bear
+Mr. Watts,Grace,2.631578947368421,1.9736842105263157,74.3421052631579,1.3333333333333333,introduce
+Miss Ryan,Mr. Watts,0.9868421052631579,0.9868421052631579,71.71052631578947,1.0,tell use chew have knock remember smell
+Mr. Watts,Miss Ryan,0.9868421052631579,0.9868421052631579,71.71052631578947,1.0,tell use chew have knock remember smell
+Mr. Watts,Miss Ryan,0.9868421052631579,0.9868421052631579,71.71052631578947,1.0,tell use chew have knock remember smell
+Mr. Watts,Miss Ryan,0.9868421052631579,0.9868421052631579,71.71052631578947,1.0,tell use chew have knock remember smell
+Celia,Victoria,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,catch
+Joe Gargery,Mr. Watts,3.571428571428571,1.7857142857142856,37.5,2.0,ask reply do need know
+Mr. Watts,Pip,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Joe Gargery,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Pip,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Joe Gargery,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Pip,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Joe Gargery,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Pip,Joe Gargery,6.071428571428571,3.214285714285714,53.57142857142857,1.8888888888888888,be be worry have get mix have slip
+Mr. Watts,Miss Ryan,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,recover speak use row
+Mr. Watts,Grace,1.0416666666666665,0.0,65.625,INF,put
+Mr. Watts,Grace,4.6875,6.25,70.3125,0.75,do remember complain forget include
+Mr. Watts,Grace,3.3333333333333335,3.3333333333333335,33.33333333333333,1.0,raise ask do
+Grace,Mr. Watts,3.3333333333333335,3.3333333333333335,33.33333333333333,1.0,raise ask do
+Mr. Watts,Grace,1.282051282051282,0.0,55.12820512820513,INF,have agree gather stick leave pick choose want
+Mr. Watts,Grace,1.282051282051282,0.0,55.12820512820513,INF,have agree gather stick leave pick choose want
+Mr. Watts,Sarah,7.291666666666667,5.729166666666666,45.3125,1.2727272727272727,worry hear make want believe
+Mr. Watts,Sarah,7.291666666666667,5.729166666666666,45.3125,1.2727272727272727,worry hear make want believe
+Mr. Watts,Sarah,7.291666666666667,5.729166666666666,45.3125,1.2727272727272727,worry hear make want believe
+Mr. Watts,Grace,2.083333333333333,0.0,61.25000000000001,INF,find have run mask separate
+Mr. Watts,Grace,2.083333333333333,0.0,61.25000000000001,INF,find have run mask separate
+Grace,Mr. Watts,2.083333333333333,0.0,61.25000000000001,INF,find have run mask separate
+Mr. Watts,Grace,2.083333333333333,0.0,61.25000000000001,INF,find have run mask separate
+Mr. Watts,Grace,1.6304347826086956,1.0869565217391304,55.97826086956522,1.5,say write be have hear turn rattle
+Mr. Watts,Grace,1.6304347826086956,1.0869565217391304,55.97826086956522,1.5,say write be have hear turn rattle
+Mr. Watts,Pip,4.3478260869565215,3.260869565217391,57.608695652173914,1.3333333333333333,introduce have hear
+Mr. Watts,Grace,1.3888888888888888,4.166666666666666,61.111111111111114,0.3333333333333333,challenge describe
+Mr. Watts,Pip,2.840909090909091,5.113636363636364,42.04545454545455,0.5555555555555556,believe
+Mr. Watts,Grace,0.0,0.0,55.55555555555556,INF,be
+Mr. Watts,Pip,2.7777777777777777,0.6944444444444444,57.638888888888886,4.0,stare fall
+Mr. Watts,Mrs. Watts,0.0,0.0,70.58823529411765,INF,compose tell bury
+Mr. Watts,Mrs. Watts,0.0,0.0,70.58823529411765,INF,compose tell bury
+Mr. Watts,Mrs. Watts,0.0,0.0,70.58823529411765,INF,compose tell bury
+Mr. Watts,Mrs. Watts,0.0,4.166666666666666,62.5,0.0,describe
+Mr. Watts,Grace,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,decide mend be reinvent
+Mr. Watts,Mrs. Watts,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,decide mend be reinvent
+Mr. Watts,Grace,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,decide mend be reinvent
+Mr. Watts,Mrs. Watts,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,decide mend be reinvent
+Grace,Mrs. Watts,0.6944444444444444,0.6944444444444444,54.166666666666664,1.0,decide mend be reinvent
+Mr. Watts,Sheba,5.0,1.9444444444444444,55.27777777777778,2.5714285714285716,have feel embolden have say be break follow
+Sheba,Mr. Watts,5.0,1.9444444444444444,55.27777777777778,2.5714285714285716,have feel embolden have say be break follow
+Mr. Watts,Mr. Masoi,1.0416666666666665,0.0,57.291666666666664,INF,know have drag
+Mr. Watts,Mr. Masoi,1.0416666666666665,0.0,57.291666666666664,INF,know have drag
+Mr. Watts,Mr. Masoi,1.0416666666666665,0.0,57.291666666666664,INF,know have drag
+Mr. Watts,Mrs. Watts,1.25,1.25,57.49999999999999,1.0,need go break
+Mr. Watts,Mrs. Watts,7.8125,3.125,39.0625,2.5,want know
+Mr. Jaggers,Matilda,8.552631578947368,3.618421052631579,50.98684210526315,2.3636363636363638,seem know be have cling be
+Gilbert,Mrs. Masoi,2.840909090909091,1.7045454545454544,59.09090909090909,1.6666666666666667,give smile
+Gilbert,Mr. Jaggers,2.5,0.5,56.99999999999999,5.0,have give start be
+Gilbert,Mr. Watts,1.9886363636363635,0.8522727272727272,60.79545454545454,2.3333333333333335,belong have see seem look
+Mr. Watts,Gilbert,1.9886363636363635,0.8522727272727272,60.79545454545454,2.3333333333333335,belong have see seem look
+Mr. Watts,Mr. Dickens,2.7777777777777777,0.0,63.888888888888886,INF,have rewrite
+Mr. Dickens,Orlick,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Mr. Dickens,Pip,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Mr. Dickens,Joe Gargery,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Orlick,Pip,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Orlick,Joe Gargery,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Pip,Joe Gargery,4.411764705882353,1.4705882352941175,41.17647058823529,3.0,be compete
+Orlick,Pip,2.7777777777777777,9.027777777777777,49.30555555555556,0.3076923076923077,attack leave
+Orlick,Pip,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,try kill
+Magwitch,Pip,3.260869565217391,1.6304347826086956,64.67391304347827,2.0,turn be
+Compeyson,Mr. Watts,0.8333333333333334,4.166666666666666,61.66666666666667,0.2,turn do believe
+Mr. Watts,Magwitch,1.6666666666666667,0.0,51.66666666666667,INF,read discover be swear
+Compeyson,Miss Havisham,0.0,1.4705882352941175,63.23529411764706,0.0,turn be disappoint
+Compeyson,Mr. Watts,0.0,1.4705882352941175,63.23529411764706,0.0,turn be disappoint
+Miss Havisham,Mr. Watts,0.0,1.4705882352941175,63.23529411764706,0.0,turn be disappoint
+Compeyson,Magwitch,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Compeyson,Pip,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Compeyson,Herbert Pocket,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Compeyson,Magwitch,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Magwitch,Pip,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Magwitch,Herbert Pocket,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Pip,Herbert Pocket,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Pip,Magwitch,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Herbert Pocket,Magwitch,1.8382352941176472,0.7352941176470588,62.13235294117647,2.5,be turn sit wait
+Mr. Dickens,Compeyson,0.0,2.604166666666667,51.5625,0.0,direct launch
+Mr. Dickens,Magwitch,0.0,2.604166666666667,51.5625,0.0,direct launch
+Compeyson,Magwitch,0.0,2.604166666666667,51.5625,0.0,direct launch
+Compeyson,Mr. Dickens,0.0,2.604166666666667,51.5625,0.0,direct launch
+Magwitch,Mr. Dickens,0.0,2.604166666666667,51.5625,0.0,direct launch
+Magwitch,Compeyson,2.8846153846153846,0.4807692307692308,54.32692307692307,6.0,be emerge drift
+Miss Havisham,Magwitch,4.375,0.625,50.0,7.0,suppose be uphold
+Miss Havisham,Compeyson,4.375,0.625,50.0,7.0,suppose be uphold
+Magwitch,Compeyson,4.375,0.625,50.0,7.0,suppose be uphold
+Mr. Watts,Mr. Dickens,2.272727272727273,0.0,61.36363636363637,INF,have stick
+Mr. Watts,Mr. Dickens,0.0,1.4705882352941175,45.588235294117645,0.0,say
+Mr. Watts,Mr. Dickens,0.0,1.4705882352941175,45.588235294117645,0.0,say
+Matilda,Charles Dickens,3.4482758620689653,0.8620689655172413,54.310344827586206,4.0,have like say ask
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Maria,Matilda,5.978260869565218,3.804347826086957,40.21739130434783,1.5714285714285714,know replace ask describe say be brave make
+Mr. Watts,Grace,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+Mr. Watts,Grace,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+Mr. Watts,Grace,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+Grace,Mr. Watts,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+Mr. Watts,Grace,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+Mr. Watts,Grace,5.818965517241379,4.094827586206897,52.1551724137931,1.4210526315789473,be love love have want know feel have push
+June Watts,Mr. Watts,0.5952380952380952,2.380952380952381,63.69047619047619,0.25,remember be say think want name find
+June Watts,Mr. Watts,1.293103448275862,2.586206896551724,51.293103448275865,0.5,dial say speak be
+Matilda,Mrs. Watts,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be
+Matilda,Mrs. Watts,0.9615384615384616,3.8461538461538463,41.34615384615385,0.25,marry say
+June Watts,Mr. Watts,3.977272727272727,3.4090909090909087,65.3409090909091,1.1666666666666667,fuss stare
+Mrs. Watts,Mr. Watts,2.466666666666667,5.1722222222222225,59.02777777777778,0.476906552094522,do recall wear
+Mrs. Watts,Grace,5.921052631578947,1.9736842105263157,50.0,3.0,catch say do think
+Mrs. Watts,Grace,5.921052631578947,1.9736842105263157,50.0,3.0,catch say do think
+Mrs. Watts,Mr. Watts,1.7857142857142856,0.0,69.64285714285714,INF,ask have do
+Mrs. Watts,Grace,1.8518518518518516,0.0,61.111111111111114,INF,sit think have see
+Tom,Mrs. Watts,7.03125,1.5625,53.90625,4.5,suppose know say
+Tom,Sheba,0.8333333333333334,0.0,39.166666666666664,INF,be say
+Tom,June Watts,0.8333333333333334,0.0,39.166666666666664,INF,be say
+Sheba,June Watts,0.8333333333333334,0.0,39.166666666666664,INF,be say
+Tom,Sheba,4.614705882352941,4.208823529411765,58.82352941176471,1.0964360587002095,think wear stand pull show have be achieve
+Sheba,Tom,4.614705882352941,4.208823529411765,58.82352941176471,1.0964360587002095,think wear stand pull show have be achieve
+Mr. Watts,Grace,0.0,0.7352941176470588,63.970588235294116,0.0,do ask look
+Mrs. Watts,Grace,0.0,0.0,53.84615384615385,INF,tell happen
+Mrs. Watts,Miss Ryan,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,be
+Tom,Mrs. Watts,1.25,0.0,38.75,INF,use mow
+Tom,Mrs. Watts,1.25,0.0,38.75,INF,use mow
+Mr. Dickens,Mr. Watts,10.0,2.5,57.49999999999999,4.0,
+Mr. Dickens,Mr. Watts,4.3478260869565215,1.0869565217391304,72.82608695652173,4.0,be reward play investigate
+Mr. Dickens,Mr. Watts,1.4705882352941175,7.352941176470589,61.76470588235294,0.2,be think be
+Mr. Watts,Mr. Dickens,1.4705882352941175,7.352941176470589,61.76470588235294,0.2,be think be
+Mr. Dickens,Tom,2.272727272727273,0.0,25.0,INF,
+Pip,Handel,10.0,2.5,47.5,4.0,become
+Mr. Watts,Mr. Masoi,0.0,0.0,72.0,INF,be sit
+Charles Dickens,Eastgate House,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Charles Dickens,Pip,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Charles Dickens,Joe Gargery,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Eastgate House,Pip,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Eastgate House,Joe Gargery,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Pip,Joe Gargery,2.083333333333333,1.7361111111111112,57.291666666666664,1.2,lead be sign
+Pip,Joe Gargery,3.3783783783783785,0.6756756756756757,63.51351351351351,5.0,be realize be take have visit
+Pip,Miss Havisham,3.3783783783783785,0.6756756756756757,63.51351351351351,5.0,be realize be take have visit
+Joe Gargery,Miss Havisham,3.3783783783783785,0.6756756756756757,63.51351351351351,5.0,be realize be take have visit
+Mr. Dickens,Miss Havisham,0.8928571428571428,0.4464285714285714,59.375,2.0,pinch stick impose install
+Mr. Dickens,Estella,0.8928571428571428,0.4464285714285714,59.375,2.0,pinch stick impose install
+Mr. Dickens,Miss Havisham,0.8928571428571428,0.4464285714285714,59.375,2.0,pinch stick impose install
+Mr. Dickens,Estella,0.8928571428571428,0.4464285714285714,59.375,2.0,pinch stick impose install
+Miss Havisham,Estella,0.8928571428571428,0.4464285714285714,59.375,2.0,pinch stick impose install
+Estella,Pip,2.7027027027027026,0.33783783783783783,56.41891891891891,8.0,stand stare receive condescend call
+Estella,Mr. Dickens,2.7027027027027026,0.33783783783783783,56.41891891891891,8.0,stand stare receive condescend call
+Pip,Mr. Dickens,2.7027027027027026,0.33783783783783783,56.41891891891891,8.0,stand stare receive condescend call

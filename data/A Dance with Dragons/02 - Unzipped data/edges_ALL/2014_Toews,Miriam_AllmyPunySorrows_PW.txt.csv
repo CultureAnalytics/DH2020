@@ -1,0 +1,955 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Elf,Lottie,2.6785714285714284,1.3392857142857142,60.26785714285714,2.0,be enchant suspend crash stop be go
+Jacob Von Riesen,Yolandi,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Jacob Von Riesen,Plautdietsch,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Jacob Von Riesen,Plautdietsch,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Yolandi,Plautdietsch,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Yolandi,Plautdietsch,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Yolandi,Jacob Von Riesen,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Plautdietsch,Jacob Von Riesen,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Plautdietsch,Jacob Von Riesen,1.1363636363636365,0.0,32.196969696969695,INF,be call introduce say be
+Elf,Rachmaninoff,2.455357142857143,4.241071428571429,59.375,0.5789473684210527,be know be have pay be choose play
+Elf,Plautdietsch,0.0,1.0869565217391304,46.73913043478261,0.0,be bear tell do teach want survive
+Julie,Elf,5.327868852459016,3.8934426229508197,51.434426229508205,1.368421052631579,be try act believe die go have write bequeath hope make leave die
+Elf,Julie,5.327868852459016,3.8934426229508197,51.434426229508205,1.368421052631579,be try act believe die go have write bequeath hope make leave die
+Yoli,Elf,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,say do say think be
+Elf,Shelley,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Elf,Shelley,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Elf,Shelley,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Elf,Shelley,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Elf,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Elf,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Shelley,Mary,1.25,1.875,71.875,0.6666666666666666,tell drown be cremate do burn keep
+Mary,Shelley,2.631578947368421,1.9736842105263157,53.289473684210535,1.3333333333333333,ask have rot begin say have calcify be
+Mary,Shelley,2.631578947368421,1.9736842105263157,53.289473684210535,1.3333333333333333,ask have rot begin say have calcify be
+Mary,Elf,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Mary,Swivelhead,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Elf,Mary,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Elf,Swivelhead,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Elf,Mary,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Mary,Swivelhead,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Swivelhead,Mary,3.571428571428571,2.142857142857143,57.14285714285714,1.6666666666666667,disappear have play clap say be be look be go find write
+Yoli,Elf,4.545454545454546,2.272727272727273,29.545454545454547,2.0,say
+Janice,Elf,3.7037037037037033,2.7777777777777777,41.66666666666667,1.3333333333333333,come give tell be see see
+Elf,Janice,3.7037037037037033,2.7777777777777777,41.66666666666667,1.3333333333333333,come give tell be see see
+Elf,Janice,3.7037037037037033,2.7777777777777777,41.66666666666667,1.3333333333333333,come give tell be see see
+Elf,Janice,3.7037037037037033,2.7777777777777777,41.66666666666667,1.3333333333333333,come give tell be see see
+Elf,Janice,3.7037037037037033,2.7777777777777777,41.66666666666667,1.3333333333333333,come give tell be see see
+Janice,Elf,4.513888888888888,5.555555555555555,48.26388888888889,0.8125,be compare be have be throw
+Janice,Elf,1.3888888888888888,0.0,76.38888888888889,INF,look turn
+Janice,Elf,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,want look
+Elf,Janice,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,want look
+Elf,Janice,5.625,0.0,54.37499999999999,INF,clear make
+Elf,Janice,5.625,0.0,54.37499999999999,INF,clear make
+Elf,Janice,6.854838709677419,7.661290322580645,43.54838709677419,0.8947368421052632,be piss botch be try be be
+Elf,Janice,6.854838709677419,7.661290322580645,43.54838709677419,0.8947368421052632,be piss botch be try be be
+Yoli,Janice,9.166666666666666,0.0,37.5,INF,know know say
+Elf,Janice,3.515625,2.1484375,55.2734375,1.6363636363636365,explain be have read be have see be tell be be
+Elf,Janice,3.515625,2.1484375,55.2734375,1.6363636363636365,explain be have read be have see be tell be be
+Yoli,Janice,3.4090909090909087,0.0,32.95454545454545,INF,do understand say
+Elf,Janice,2.6785714285714284,0.8928571428571428,60.71428571428571,3.0,be examine smooth
+Janice,Elf,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,clear be startle
+Janice,Elf,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,clear be startle
+Elf,Will,0.43859649122807015,2.631578947368421,58.333333333333336,0.16666666666666666,visit be be lie look hold crawl
+Elf,Nora,0.43859649122807015,2.631578947368421,58.333333333333336,0.16666666666666666,visit be be lie look hold crawl
+Will,Nora,0.43859649122807015,2.631578947368421,58.333333333333336,0.16666666666666666,visit be be lie look hold crawl
+Will,Elf,0.43859649122807015,2.631578947368421,58.333333333333336,0.16666666666666666,visit be be lie look hold crawl
+Nora,Elf,0.43859649122807015,2.631578947368421,58.333333333333336,0.16666666666666666,visit be be lie look hold crawl
+Nic,Elf,0.0,0.0,63.63636363636363,INF,take
+Nic,Elf,9.375,3.125,50.0,3.0,love be
+Nic,Elf,2.579365079365079,2.380952380952381,53.769841269841265,1.0833333333333333,talk live be work love speak argue wear console be
+Elf,Janice,2.717391304347826,4.3478260869565215,58.152173913043484,0.625,squint change
+Elf,Janice,2.717391304347826,4.3478260869565215,58.152173913043484,0.625,squint change
+Yoli,Elf,0.0,0.0,42.857142857142854,INF,be ridicule
+Elf,Janice,1.25,4.375,49.375,0.2857142857142857,be call do hear
+Elf,Janice,2.5,4.375,48.125,0.5714285714285714,roll
+Elf,Janice,2.5,4.375,48.125,0.5714285714285714,roll
+Elf,Janice,2.5,4.375,48.125,0.5714285714285714,roll
+Elfrieda,Janice,8.59375,1.5625,27.34375,5.5,want know be say
+Elf,Janice,1.3888888888888888,0.0,54.166666666666664,INF,nod look
+Janice,Elf,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Janice,Swiv,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Elf,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Elf,Swiv,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Elf,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Elf,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Elf,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Janice,Swiv,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Swiv,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Swiv,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Swiv,Janice,0.4629629629629629,0.23148148148148145,53.00925925925925,2.0,leave smile say come get walk sit smoothe
+Yolandi,Janice,1.1363636363636365,0.0,44.31818181818182,INF,say do
+Elf,Claudio,1.25,7.5,51.24999999999999,0.16666666666666666,say be upset
+Claudio,Elfie,0.0,4.166666666666666,49.166666666666664,0.0,be do
+Elfie,Claudio,0.0,4.166666666666666,49.166666666666664,0.0,be do
+Yolandi,Elf,5.769230769230769,0.0,48.07692307692308,INF,do say
+Will,Nora,0.43103448275862066,0.8620689655172413,40.08620689655172,0.5,ask be tell cover
+Will,Nora,0.43103448275862066,0.8620689655172413,40.08620689655172,0.5,ask be tell cover
+Will,Nora,0.43103448275862066,0.8620689655172413,40.08620689655172,0.5,ask be tell cover
+Will,Nora,0.43103448275862066,0.8620689655172413,40.08620689655172,0.5,ask be tell cover
+Will,Nora,0.43103448275862066,0.8620689655172413,40.08620689655172,0.5,ask be tell cover
+Elfrieda,Nora,1.875,1.875,41.25,1.0,come ask be say
+Elfrieda,Elf,1.875,1.875,41.25,1.0,come ask be say
+Nora,Elfrieda,1.875,1.875,41.25,1.0,come ask be say
+Nora,Elf,1.875,1.875,41.25,1.0,come ask be say
+Elfrieda,Elf,1.875,1.875,41.25,1.0,come ask be say
+Nora,Elfrieda,4.5,0.0,51.5,INF,tell have swear be
+Nora,Elf,4.5,0.0,51.5,INF,tell have swear be
+Nora,Elfrieda,4.5,0.0,51.5,INF,tell have swear be
+Elfrieda,Elf,4.5,0.0,51.5,INF,tell have swear be
+Elf,Elfrieda,4.5,0.0,51.5,INF,tell have swear be
+Nora,Elf,0.0,0.0,25.0,INF,
+Will,Nora,1.3020833333333335,2.34375,56.770833333333336,0.5555555555555556,be have commandeer stay be tell be be
+Will,Nora,1.3020833333333335,2.34375,56.770833333333336,0.5555555555555556,be have commandeer stay be tell be be
+Will,Nora,1.3020833333333335,2.34375,56.770833333333336,0.5555555555555556,be have commandeer stay be tell be be
+Elf,Nic,3.2407407407407405,2.314814814814815,53.70370370370371,1.4,phone tell be eat be beg call
+Yoli,Janice,1.3888888888888888,4.166666666666666,27.77777777777778,0.3333333333333333,say hate
+Elf,Janice,1.9607843137254901,1.2254901960784315,65.44117647058823,1.6,tell be walk pass tell have do call do hate
+Elf,Janice,1.9607843137254901,1.2254901960784315,65.44117647058823,1.6,tell be walk pass tell have do call do hate
+Janice,Elf,1.9607843137254901,1.2254901960784315,65.44117647058823,1.6,tell be walk pass tell have do call do hate
+Janice,Elf,1.9607843137254901,1.2254901960784315,65.44117647058823,1.6,tell be walk pass tell have do call do hate
+Janice,Elf,1.0416666666666665,5.208333333333334,60.416666666666664,0.2,go be
+Elf,Thomas Aquinas,6.547619047619048,1.7857142857142856,58.333333333333336,3.6666666666666665,tell hire watch be have
+Elf,Thomas Aquinas,8.333333333333332,4.166666666666666,62.5,2.0,tell have be talk
+Janice,Elf,4.276315789473684,0.0,53.61842105263158,INF,stop ask be have fall say have
+Elf,Janice,4.276315789473684,0.0,53.61842105263158,INF,stop ask be have fall say have
+Elf,Janice,4.276315789473684,0.0,53.61842105263158,INF,stop ask be have fall say have
+Elf,Heidegger,2.7061855670103094,3.0927835051546393,58.11855670103093,0.875,take do appreciate apologize leave make bring be do say be be be say be be be gut
+Elf,Nora,3.289473684210526,3.9473684210526314,61.18421052631579,0.8333333333333334,play lift
+Elf,Nic,4.318181818181818,2.272727272727273,58.86363636363636,1.9,be be be be be disappear get
+Elf,Julie,2.272727272727273,0.5681818181818182,51.70454545454546,4.0,be try assemble work be release
+Nic,Elf,5.681818181818182,1.7045454545454544,56.25,3.3333333333333335,have suggest be
+Nic,Julie,5.681818181818182,1.7045454545454544,56.25,3.3333333333333335,have suggest be
+Elf,Julie,5.681818181818182,1.7045454545454544,56.25,3.3333333333333335,have suggest be
+Nicolas,Julie,0.0,0.0,30.0,INF,say
+Nic,Elf,3.9473684210526314,1.5350877192982455,52.41228070175439,2.5714285714285716,have be listen think sound be gnash exist sell anaesthetize allow help bask have do
+Nic,Julie,3.9473684210526314,1.5350877192982455,52.41228070175439,2.5714285714285716,have be listen think sound be gnash exist sell anaesthetize allow help bask have do
+Elf,Julie,3.9473684210526314,1.5350877192982455,52.41228070175439,2.5714285714285716,have be listen think sound be gnash exist sell anaesthetize allow help bask have do
+Elf,Julie,4.032258064516129,0.4032258064516129,50.403225806451616,10.0,have hear say spit
+Elf,Julie,4.032258064516129,0.4032258064516129,50.403225806451616,10.0,have hear say spit
+Nic,Will,0.8522727272727272,0.0,55.96590909090909,INF,have get eradicate have return relieve get overthrow
+Julie,Canada Post,5.743243243243244,3.040540540540541,39.86486486486486,1.8888888888888888,be be reprimand roll issue make
+Julie,Canada Post,5.743243243243244,3.040540540540541,39.86486486486486,1.8888888888888888,be be reprimand roll issue make
+Julie,Canada Post,5.743243243243244,3.040540540540541,39.86486486486486,1.8888888888888888,be be reprimand roll issue make
+Julie,Canada Post,4.054054054054054,1.0135135135135136,57.0945945945946,4.0,split take pay see
+Julie,Canada Post,4.054054054054054,1.0135135135135136,57.0945945945946,4.0,split take pay see
+Canada Post,Julie,4.054054054054054,1.0135135135135136,57.0945945945946,4.0,split take pay see
+Julie,Elf,3.3333333333333335,3.3333333333333335,64.44444444444444,1.0,sit drink eat talk be grasp have
+Dan,Nora,4.166666666666666,1.3888888888888888,50.0,3.0,be look
+Dan,Nora,3.571428571428571,1.7857142857142856,23.214285714285715,2.0,be
+Dan,Elf,7.142857142857142,3.571428571428571,46.42857142857143,2.0,have tell
+Dan,Nora,1.6304347826086956,0.5434782608695652,54.347826086956516,3.0,be be say be
+Nora,Dan,1.6304347826086956,0.5434782608695652,54.347826086956516,3.0,be be say be
+Nora,Dan,1.6304347826086956,0.5434782608695652,54.347826086956516,3.0,be be say be
+Nora,Dan,7.142857142857142,3.571428571428571,46.42857142857143,2.0,do tell
+Nora,Elf,7.142857142857142,3.571428571428571,46.42857142857143,2.0,do tell
+Dan,Elf,7.142857142857142,3.571428571428571,46.42857142857143,2.0,do tell
+Barry,Will,4.545454545454546,0.0,59.09090909090909,INF,put
+Barry,Will,5.357142857142857,1.7857142857142856,35.714285714285715,3.0,be
+Julie,Will,11.607142857142858,1.7857142857142856,50.89285714285714,6.5,talk love
+Julie,Canada Post,0.0,0.0,58.82352941176471,INF,put issue prepare
+Julie,Canada Post,0.0,0.0,58.82352941176471,INF,put issue prepare
+Dan,Nora,3.298611111111111,3.125,49.13194444444444,1.0555555555555556,raise be embrace feel get resolve be finish
+Dan,Will,3.298611111111111,3.125,49.13194444444444,1.0555555555555556,raise be embrace feel get resolve be finish
+Dan,Will,3.298611111111111,3.125,49.13194444444444,1.0555555555555556,raise be embrace feel get resolve be finish
+Nora,Will,3.298611111111111,3.125,49.13194444444444,1.0555555555555556,raise be embrace feel get resolve be finish
+Nora,Will,3.298611111111111,3.125,49.13194444444444,1.0555555555555556,raise be embrace feel get resolve be finish
+Nic,Elf,0.0,0.0,50.0,INF,go park
+Nic,Elf,1.2254901960784315,0.49019607843137253,51.225490196078425,2.5,agree do say call offer try meet be try meet
+Nic,Claudio,0.0,0.0,53.84615384615385,INF,return lean fold
+Nic,Elf,1.3392857142857142,1.3392857142857142,72.32142857142857,1.0,sit tell be suppose be do
+Claudio,Nic,7.291666666666667,0.0,42.70833333333333,INF,listen know say say
+Nic,Claudio,2.5297619047619047,3.422619047619048,54.761904761904766,0.7391304347826086,sigh rub grimace smile shrug talk be build finish carry be paddle be drift
+Nic,Claudio,2.5297619047619047,3.422619047619048,54.761904761904766,0.7391304347826086,sigh rub grimace smile shrug talk be build finish carry be paddle be drift
+Nic,Claudio,2.5297619047619047,3.422619047619048,54.761904761904766,0.7391304347826086,sigh rub grimace smile shrug talk be build finish carry be paddle be drift
+Nora,Elf,0.0,0.0,45.45454545454545,INF,
+Radek,Julie,0.0,0.0,65.38461538461539,INF,be meet be walk visit
+Radek,Julie,0.0,0.0,65.38461538461539,INF,be meet be walk visit
+Radek,Julie,2.6785714285714284,0.0,61.60714285714286,INF,be accompany
+Radek,Julie,2.6785714285714284,0.0,61.60714285714286,INF,be accompany
+Yoli,Julie,1.25,0.0,18.75,INF,say
+Radek,Elf,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Elf,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Radek,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Elf,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Elf,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Elf,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Elf,Nora,5.225409836065574,5.84016393442623,47.950819672131146,0.8947368421052632,sit be rent talk put plan make want live name prefer live do know be call feed empty be
+Will,Nora,3.515625,1.5625,44.921875,2.25,fall move become
+Will,Franz Kafka,3.515625,1.5625,44.921875,2.25,fall move become
+Nora,Franz Kafka,3.515625,1.5625,44.921875,2.25,fall move become
+Will,Nora,1.3888888888888888,1.3888888888888888,41.66666666666667,1.0,study go become
+Will,Radek,1.3888888888888888,1.3888888888888888,41.66666666666667,1.0,study go become
+Nora,Radek,1.3888888888888888,1.3888888888888888,41.66666666666667,1.0,study go become
+Radek,Northrop Frye,3.90625,0.78125,59.895833333333336,5.0,pour say be think have say take get move keep create keep reinvent
+Radek,Northrop Frye,3.90625,0.78125,59.895833333333336,5.0,pour say be think have say take get move keep create keep reinvent
+Elf,Radek,0.8771929824561403,0.8771929824561403,45.614035087719294,1.0,come tell let go study get light come say
+Jesus,Radek,3.571428571428571,1.4285714285714286,49.28571428571429,2.5,drive know say
+Elf,Melanie,0.0,0.0,52.94117647058824,INF,go have have go look
+Elf,Melanie,0.0,0.0,52.94117647058824,INF,go have have go look
+Will,Nora,16.666666666666664,5.555555555555555,33.33333333333333,3.0,have text be
+Finbar,Yolandi,3.353658536585366,3.048780487804878,49.69512195121951,1.1,ask be see tell do know spill be say
+Will,Nora,3.308823529411765,2.5735294117647056,42.64705882352941,1.2857142857142858,be babysat read draw ride turn help create be lurch try set
+Will,Nora,3.308823529411765,2.5735294117647056,42.64705882352941,1.2857142857142858,be babysat read draw ride turn help create be lurch try set
+Nora,Nic,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Nora,Nic,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Nic,Nora,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Nic,Nora,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Nic,Nora,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Nic,Nora,2.6785714285714284,1.5625,49.330357142857146,1.7142857142857142,ask have have have eat have shower have join have answer engage
+Yoli,Nora,5.263157894736842,3.9473684210526314,38.15789473684211,1.3333333333333333,say be say be
+Nora,Pavese,5.851063829787234,3.9893617021276597,43.351063829787236,1.4666666666666666,think course inherit destroy do know berate have kill
+Nora,Will,1.25,1.25,67.5,1.0,be mortify
+Yoli,Elf,0.78125,0.0,55.46875,INF,say have embed
+Elf,Claudio,4.166666666666666,0.0,45.83333333333333,INF,ring be
+Claudio,Elf,1.0869565217391304,1.0869565217391304,50.0,1.0,tell like represent say mean pretend be
+Claudio,Elf,1.0869565217391304,1.0869565217391304,50.0,1.0,tell like represent say mean pretend be
+Claudio,Elf,3.9473684210526314,0.0,53.94736842105263,INF,explain ask be
+Elf,Claudio,3.9473684210526314,0.0,53.94736842105263,INF,explain ask be
+Elf,Claudio,6.896551724137931,2.1551724137931036,56.46551724137932,3.2,do know visit love swim
+Elf,Claudio,6.896551724137931,2.1551724137931036,56.46551724137932,3.2,do know visit love swim
+Elf,Claudio,6.896551724137931,2.1551724137931036,56.46551724137932,3.2,do know visit love swim
+Claudio,Elf,6.8181818181818175,0.0,75.0,INF,be bail
+Claudio,Elf,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Claudio,Nic,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Claudio,Elf,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Elf,Nic,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Elf,Claudio,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Nic,Claudio,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Nic,Elf,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Claudio,Elf,2.1341463414634148,2.7439024390243905,58.536585365853654,0.7777777777777778,apologize phone say be answer have go be be sign
+Yolandi,Claudio,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Yolandi,Claudio,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Yolandi,Claudio,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Yolandi,Nic,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Claudio,Nic,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Claudio,Nic,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Claudio,Nic,3.260869565217391,1.6304347826086956,47.28260869565217,2.0,listen be be do be
+Nic,Claudio,9.722222222222223,1.3888888888888888,33.33333333333333,7.0,do know be
+Elf,Claudio,0.0,0.0,57.14285714285714,INF,schedule think say
+Claudio,Elf,4.605263157894736,0.6578947368421052,36.84210526315789,7.0,listen find be get call
+Yolandi,Elfrieda,0.0,3.90625,33.59375,0.0,be be do
+Yoli,Elf,0.0,17.5,22.5,0.0,moan
+Yoli,Elf,0.0,0.0,40.0,INF,say
+Janice,Elf,5.147058823529411,1.1029411764705883,65.80882352941177,4.666666666666667,do enhance be make jump say be be be know have have confirm stop search go
+Janice,Elf,4.375,5.625,55.00000000000001,0.7777777777777778,tell do make be refuse take
+Elf,Janice,2.586206896551724,0.43103448275862066,62.5,6.0,say go say tell go tell be
+Elf,Janice,2.586206896551724,0.43103448275862066,62.5,6.0,say go say tell go tell be
+Janice,Elf,2.586206896551724,0.43103448275862066,62.5,6.0,say go say tell go tell be
+Janice,Elf,2.586206896551724,0.43103448275862066,62.5,6.0,say go say tell go tell be
+Nic,Elf,5.833333333333333,5.416666666666667,42.083333333333336,1.0769230769230769,be approach care
+Nic,Elf,2.586206896551724,0.646551724137931,55.38793103448276,4.0,prefer be be jump strap
+Nic,Claudio,5.263157894736842,0.6578947368421052,46.71052631578947,8.0,tell call suspect be
+Nic,Claudio,5.263157894736842,0.6578947368421052,46.71052631578947,8.0,tell call suspect be
+Nic,Claudio,3.389830508474576,0.0,42.3728813559322,INF,say know change remind be say do say say do be
+Nic,Claudio,3.389830508474576,0.0,42.3728813559322,INF,say know change remind be say do say say do be
+Claudio,Nic,3.389830508474576,0.0,42.3728813559322,INF,say know change remind be say do say say do be
+Claudio,Nic,3.389830508474576,0.0,42.3728813559322,INF,say know change remind be say do say say do be
+Nic,Claudio,2.5,1.6666666666666667,69.16666666666667,1.5,ask be feel rotate
+Nic,Elf,1.644736842105263,0.6578947368421052,63.48684210526315,2.5,walk seem be tell leave have adopt
+Julie,Shadow,4.296875,1.953125,53.125,2.2,sit be amuse have
+Julie,Shadow,4.296875,1.953125,53.125,2.2,sit be amuse have
+Shadow,Julie,4.296875,1.953125,53.125,2.2,sit be amuse have
+Shadow,Julie,4.296875,1.953125,53.125,2.2,sit be amuse have
+Judson,Julie,2.7777777777777777,4.861111111111112,47.91666666666667,0.5714285714285714,be be be see
+Judson,Julie,2.7777777777777777,4.861111111111112,47.91666666666667,0.5714285714285714,be be be see
+Shadow,Julie,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Shadow,Julie,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Shadow,Julie,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Shadow,Julie,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,3.3482142857142856,2.232142857142857,67.63392857142857,1.5,be run be excite run play call involve say run sit bark
+Julie,Shadow,2.1739130434782608,1.6304347826086956,52.71739130434783,1.3333333333333333,have exhaust play plop
+Julie,Shadow,2.1739130434782608,1.6304347826086956,52.71739130434783,1.3333333333333333,have exhaust play plop
+Shadow,Julie,2.1739130434782608,1.6304347826086956,52.71739130434783,1.3333333333333333,have exhaust play plop
+Nic,Elf,1.6666666666666667,1.0,56.00000000000001,1.6666666666666667,stop be go see tell sit talk turn plunk head
+Nic,Elf,1.6666666666666667,1.0,56.00000000000001,1.6666666666666667,stop be go see tell sit talk turn plunk head
+Elf,Nic,1.6666666666666667,1.0,56.00000000000001,1.6666666666666667,stop be go see tell sit talk turn plunk head
+Nic,Elf,1.6666666666666667,1.0,56.00000000000001,1.6666666666666667,stop be go see tell sit talk turn plunk head
+Janice,Elf,5.681818181818182,2.272727272727273,46.590909090909086,2.5,tell have be show
+Janice,Elf,5.681818181818182,2.272727272727273,46.590909090909086,2.5,tell have be show
+Elf,Janice,5.681818181818182,2.272727272727273,46.590909090909086,2.5,tell have be show
+Janice,Elf,2.840909090909091,0.0,56.25,INF,ask mean say mean have eat take
+Elf,Janice,2.840909090909091,0.0,56.25,INF,ask mean say mean have eat take
+Elf,Janice,2.840909090909091,0.0,56.25,INF,ask mean say mean have eat take
+Elf,Melanie,3.0172413793103448,2.1551724137931036,50.0,1.4,turn say ask please tell be
+Elf,Melanie,3.0172413793103448,2.1551724137931036,50.0,1.4,turn say ask please tell be
+Elf,Melanie,3.0172413793103448,2.1551724137931036,50.0,1.4,turn say ask please tell be
+Elf,Elfrieda,4.166666666666666,0.3472222222222222,51.041666666666664,12.0,ask be go be discharge say be say say do know have hear
+Elf,Elfrieda,4.166666666666666,0.3472222222222222,51.041666666666664,12.0,ask be go be discharge say be say say do know have hear
+Elf,Plautdietsch,0.0,0.0,57.89473684210527,INF,go discover
+Janice,Elf,0.0,0.0,50.0,INF,come
+Janice,Elf,3.125,0.3472222222222222,60.416666666666664,9.0,be smile say tell be go be see give
+Janice,Elf,3.125,0.3472222222222222,60.416666666666664,9.0,be smile say tell be go be see give
+Elf,Janice,3.125,0.3472222222222222,60.416666666666664,9.0,be smile say tell be go be see give
+Elf,Janice,3.125,0.3472222222222222,60.416666666666664,9.0,be smile say tell be go be see give
+Elf,Janice,7.8125,3.125,51.5625,2.5,smile look
+Elf,Janice,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,say want get
+Elf,Nic,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,say want get
+Elf,Janice,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,say want get
+Janice,Nic,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,say want get
+Nic,Janice,3.4722222222222223,1.3888888888888888,45.13888888888889,2.5,say want get
+Janice,Elf,1.5,1.5,56.99999999999999,1.0,say leave get follow
+Janice,Elf,1.5,1.5,56.99999999999999,1.0,say leave get follow
+Elf,Janice,1.5,1.5,56.99999999999999,1.0,say leave get follow
+Elf,Janice,1.5,1.5,56.99999999999999,1.0,say leave get follow
+Janice,Elf,5.803571428571429,1.3392857142857142,53.57142857142857,4.333333333333333,ask be go say think be have
+Elf,Janice,5.803571428571429,1.3392857142857142,53.57142857142857,4.333333333333333,ask be go say think be have
+Elf,Janice,5.803571428571429,1.3392857142857142,53.57142857142857,4.333333333333333,ask be go say think be have
+Elf,Janice,5.803571428571429,1.3392857142857142,53.57142857142857,4.333333333333333,ask be go say think be have
+Janice,Elf,2.9166666666666665,1.6666666666666667,58.75,1.75,tell want play warm do know respond
+Nic,Janice,0.0,0.0,61.53846153846154,INF,try call answer
+Janice,Elf,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,tell be come be
+Elf,Janice,3.571428571428571,0.8928571428571428,59.82142857142857,4.0,tell be come be
+Elf,Nic,1.5625,0.390625,51.171875,4.0,celebrate homecome give
+Nic,Elf,5.357142857142857,2.232142857142857,56.69642857142857,2.4,be talk learn be thumb be take read
+Will,Claudio,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Will,Dan,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Will,Nora,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Claudio,Dan,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Claudio,Nora,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Dan,Nora,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,have get be leave
+Elf,Nora,0.0,4.807692307692308,49.03846153846153,0.0,see be
+Nic,Julie,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Nic,Julie,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Nic,Dan,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Nic,Finbar,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Nic,Radek,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Dan,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Finbar,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Radek,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Dan,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Finbar,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Julie,Radek,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Dan,Finbar,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Dan,Radek,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Finbar,Radek,0.5859375,1.171875,49.8046875,0.5,like live isolate have look be be
+Elf,Julie,1.6666666666666667,3.3333333333333335,61.66666666666667,0.5,be sit move
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Julie,Radek,0.5434782608695652,0.1358695652173913,52.58152173913043,4.0,drop tell be leave agree call be stop say thank scratch say shrug shrug smile back continue thank
+Shelby,Julie,1.6666666666666667,0.0,51.66666666666667,INF,call see be haul practise
+Shelby,Julie,1.6666666666666667,0.0,51.66666666666667,INF,call see be haul practise
+Shelby,Julie,1.7045454545454544,0.0,34.659090909090914,INF,squeeze deliver
+Shelby,Julie,1.7045454545454544,0.0,34.659090909090914,INF,squeeze deliver
+Nora,Anders,4.513888888888888,3.125,45.13888888888889,1.4444444444444444,ask take be be rip be communicate
+Nora,Anders,4.513888888888888,3.125,45.13888888888889,1.4444444444444444,ask take be be rip be communicate
+Nora,Anders,4.513888888888888,3.125,45.13888888888889,1.4444444444444444,ask take be be rip be communicate
+Tina,Elf,1.6304347826086956,0.5434782608695652,50.0,3.0,tell be spend
+Tina,Elf,1.6304347826086956,0.5434782608695652,50.0,3.0,tell be spend
+Tina,Elf,6.875000000000001,0.0,48.125,INF,ask be do say know
+Elf,Tina,6.875000000000001,0.0,48.125,INF,ask be do say know
+Tina,Elf,2.976190476190476,0.0,44.642857142857146,INF,ask be get say do know ask
+Elf,Tina,2.976190476190476,0.0,44.642857142857146,INF,ask be get say do know ask
+Elf,Tina,2.976190476190476,0.0,44.642857142857146,INF,ask be get say do know ask
+Elf,Tina,2.976190476190476,0.0,44.642857142857146,INF,ask be get say do know ask
+Nora,Finbar,9.375,5.803571428571429,45.535714285714285,1.6153846153846154,do know make be space
+Dan,Nora,4.5,3.0,52.5,1.5,wish do fight be be
+Dan,Nora,4.5,3.0,52.5,1.5,wish do fight be be
+Nora,Dan,4.5,3.0,52.5,1.5,wish do fight be be
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Anders,Dan,1.8617021276595744,1.5957446808510638,60.37234042553191,1.1666666666666667,tell block mess wash try wash be do
+Nora,Anders,0.0,0.0,50.0,INF,have go
+Nic,Elf,6.018518518518518,4.166666666666666,63.888888888888886,1.4444444444444444,call say have go seem excite open look drain
+Tina,Elf,1.9230769230769231,0.0,49.358974358974365,INF,say have go say have ask stay prepare
+Tina,Elf,1.9230769230769231,0.0,49.358974358974365,INF,say have go say have ask stay prepare
+Elf,Tina,1.9230769230769231,0.0,49.358974358974365,INF,say have go say have ask stay prepare
+Elf,Tina,1.9230769230769231,0.0,49.358974358974365,INF,say have go say have ask stay prepare
+Tina,Elf,2.631578947368421,0.0,39.473684210526315,INF,hold call come take
+Elf,Joe Zuken,1.8292682926829267,0.0,54.268292682926834,INF,have announce have have heimlich begin choke
+Elf,Joe Zuken,4.261363636363636,0.8522727272727272,51.70454545454546,5.0,have rescue say wish have be plan marry have lead be finish
+Elf,Joe Zuken,4.261363636363636,0.8522727272727272,51.70454545454546,5.0,have rescue say wish have be plan marry have lead be finish
+Tina,Leni,0.0,1.9230769230769231,48.07692307692308,0.0,lose kill
+Leni,Tina,0.0,1.9230769230769231,48.07692307692308,0.0,lose kill
+Elf,Julie,1.5625,0.78125,60.15625,2.0,be breathe
+Julie,Nic,0.0,0.0,33.33333333333333,INF,look ask have
+Elf,Nic,2.0408163265306123,1.530612244897959,59.693877551020414,1.3333333333333333,want hear be say tell be get be stand have walk be stand prop
+Elf,Nic,2.0408163265306123,1.530612244897959,59.693877551020414,1.3333333333333333,want hear be say tell be get be stand have walk be stand prop
+Will,Nora,2.364864864864865,1.0135135135135136,66.8918918918919,2.3333333333333335,have finish tell be go stay be come be
+Tina,Plautdietsch,9.0,3.5000000000000004,43.5,2.5714285714285716,nod say do know be
+Nic,Claudio,3.289473684210526,0.0,44.07894736842105,INF,be tell be talk
+Nic,Tina,1.1904761904761905,1.1904761904761905,50.0,1.0,come see
+Nic,Elf,0.0,0.0,58.333333333333336,INF,sit have go
+Elf,Nic,2.027027027027027,2.364864864864865,63.17567567567568,0.8571428571428571,be be load cover tell have call ask
+Nic,Elf,2.027027027027027,2.364864864864865,63.17567567567568,0.8571428571428571,be be load cover tell have call ask
+Elf,Mary,5.0,2.5,60.5,2.0,use sing
+Elf,Jesus,5.0,2.5,60.5,2.0,use sing
+Mary,Jesus,5.0,2.5,60.5,2.0,use sing
+Nic,Tina,4.761904761904762,0.0,42.857142857142854,INF,be drive meet
+Nora,Will,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,be come tell be sleep
+Nora,Anders,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,be come tell be sleep
+Will,Anders,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,be come tell be sleep
+Nora,Will,0.625,3.125,51.24999999999999,0.2,text tell tell have sleep
+Nora,Anders,0.625,3.125,51.24999999999999,0.2,text tell tell have sleep
+Nora,Anders,0.625,3.125,51.24999999999999,0.2,text tell tell have sleep
+Will,Anders,0.625,3.125,51.24999999999999,0.2,text tell tell have sleep
+Will,Anders,0.625,3.125,51.24999999999999,0.2,text tell tell have sleep
+Nic,Jack London,2.0161290322580645,1.2096774193548387,54.83870967741935,1.6666666666666667,ask make lead build
+Nic,Jack London,8.333333333333332,1.3888888888888888,56.94444444444444,6.0,have
+Elfrieda,Nicolas,3.5256410256410255,3.5256410256410255,44.230769230769226,1.0,tell be have be have go work deal be
+Nicolas,Elfrieda,3.5256410256410255,3.5256410256410255,44.230769230769226,1.0,tell be have be have go work deal be
+Virginia Woolf,Yolandi,1.4423076923076923,5.528846153846153,52.644230769230774,0.2608695652173913,be fuck live want create doom say
+Virginia Woolf,Elf,1.4423076923076923,5.528846153846153,52.644230769230774,0.2608695652173913,be fuck live want create doom say
+Yolandi,Elf,1.4423076923076923,5.528846153846153,52.644230769230774,0.2608695652173913,be fuck live want create doom say
+Yoli,Elf,0.0,0.0,40.0,INF,say
+Will,Nora,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Will,Yolandi,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Will,Elf,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Nora,Yolandi,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Nora,Elf,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Yolandi,Elf,1.8382352941176472,0.7352941176470588,47.42647058823529,2.5,see go do do think mean shut say
+Elf,Claudio,0.6944444444444444,1.3888888888888888,64.58333333333334,0.5,say guess make say
+Ekko,Friedrich,2.82258064516129,2.0161290322580645,30.64516129032258,1.4,have do say send
+Claudio,Elf,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,say sound sob
+Yoli,Claudio,0.0,0.0,20.0,INF,say
+Yolandi,Claudio,2.083333333333333,1.0416666666666665,46.875,2.0,say be
+Joanna,Yolandi,0.0,0.0,45.45454545454545,INF,hear say
+Tina,Signora Bertolucci,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Tina,Elf,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Tina,Mrs. Ernst Warkentine,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Signora Bertolucci,Elf,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Signora Bertolucci,Mrs. Ernst Warkentine,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Elf,Mrs. Ernst Warkentine,0.9803921568627451,1.4705882352941175,60.29411764705882,0.6666666666666666,be be say have go visit be be refer
+Elf,Nic,1.911764705882353,2.794117647058824,61.1764705882353,0.6842105263157895,go check be be stare be close pretend notice be call get leave go get drive
+Elf,Tina,0.8928571428571428,0.4464285714285714,62.94642857142857,2.0,drive see pass
+Odile Hospital,Plautdietsch,7.638888888888889,5.555555555555555,36.80555555555556,1.375,be joke keep
+Elf,Starbucks,1.5625,0.0,44.27083333333333,INF,tell go see return
+Elf,Tina,0.9615384615384616,0.0,60.57692307692307,INF,go tell be have
+Elf,Tina,0.9615384615384616,0.0,60.57692307692307,INF,go tell be have
+Elf,Tina,6.8181818181818175,3.4090909090909087,44.31818181818182,2.0,open tap
+Elf,Tina,6.8181818181818175,3.4090909090909087,44.31818181818182,2.0,open tap
+Nic,Tina,0.0,0.0,50.0,INF,ask be shake
+Nic,Tina,0.0,0.0,50.0,INF,ask be shake
+Tina,Starbucks,0.5,0.0,55.50000000000001,INF,tell be go check bring
+Tina,Starbucks,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,nod roll say
+Tina,Starbucks,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,nod roll say
+Starbucks,Finbar,0.78125,0.0,49.21875,INF,get
+Nora,Will,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Nora,Will,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Will,Nora,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Will,Nora,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Will,Nora,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Will,Nora,1.6304347826086956,1.358695652173913,51.358695652173914,1.2,ask drive see be knock ask be be answer
+Nora,Will,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Nora,Will,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Will,Nora,2.083333333333333,5.324074074074074,53.70370370370371,0.391304347826087,be have poison drag be have do have talk disapprove
+Gerhard,Julie,2.083333333333333,0.0,56.25,INF,call hold
+Nic,Tina,2.586206896551724,1.293103448275862,54.741379310344826,2.0,say go say sit read play
+Nic,Elf,2.586206896551724,1.293103448275862,54.741379310344826,2.0,say go say sit read play
+Nic,Tina,2.586206896551724,1.293103448275862,54.741379310344826,2.0,say go say sit read play
+Tina,Elf,2.586206896551724,1.293103448275862,54.741379310344826,2.0,say go say sit read play
+Elf,Tina,2.586206896551724,1.293103448275862,54.741379310344826,2.0,say go say sit read play
+Nic,Elf,0.0,0.0,73.33333333333333,INF,say call be
+Tina,Elf,9.166666666666666,0.0,37.5,INF,call say
+Elf,Tina,4.017857142857143,0.8928571428571428,37.94642857142857,4.5,get talk be
+Nic,Elfie,1.953125,2.83203125,55.37109375,0.6896551724137931,hear imagine leave undulate get be be have want hold touch smile kiss say say have make have fill keep make miss
+Jason,CBC,2.7925531914893615,1.4627659574468086,56.38297872340425,1.9090909090909092,tell be involve be divorce live see be go know suggest pick drive catch watch have say be happen
+Jason,CBC,2.7925531914893615,1.4627659574468086,56.38297872340425,1.9090909090909092,tell be involve be divorce live see be go know suggest pick drive catch watch have say be happen
+Jason,Elf,9.375,3.125,50.0,3.0,have tell
+Yoyo,Nic,0.0,0.0,50.0,INF,say move go
+Radek,Elfrieda,0.0,0.0,61.111111111111114,INF,ask be do say come see
+Radek,Elfrieda,0.0,0.0,61.111111111111114,INF,ask be do say come see
+Radek,Elfrieda,0.0,0.0,61.111111111111114,INF,ask be do say come see
+Radek,Elfrieda,0.0,0.0,61.111111111111114,INF,ask be do say come see
+Nic,Tina,4.464285714285714,1.7857142857142856,48.51190476190476,2.5,tell have leave know be sit catch have worsen need
+Elf,Nic,4.166666666666666,1.6666666666666667,47.5,2.5,say do know want go
+Janice,Elf,3.9473684210526314,2.302631578947368,51.64473684210527,1.7142857142857142,be be tell agree be be be expect co-operate
+Janice,Elf,3.9473684210526314,2.302631578947368,51.64473684210527,1.7142857142857142,be be tell agree be be be expect co-operate
+Janice,Elf,3.9473684210526314,2.302631578947368,51.64473684210527,1.7142857142857142,be be tell agree be be be expect co-operate
+Elf,Janice,3.9473684210526314,2.302631578947368,51.64473684210527,1.7142857142857142,be be tell agree be be be expect co-operate
+Elf,Tina,5.5,3.0,51.5,1.8333333333333333,smile say ask be say be shock hear need
+Elf,Nora,0.9615384615384616,0.0,45.19230769230769,INF,smile say say
+Joanna,Ekko,0.0,0.0,0.0,INF,
+Joanna,Ekko,3.571428571428571,1.7857142857142856,37.5,2.0,be
+Tina,Sheila,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Tina,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Tina,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Tina,Sheila,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Tina,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Tina,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Sheila,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Sheila,Esther,2.083333333333333,0.0,53.47222222222222,INF,tell have write
+Sheila,Esther,2.5,1.25,36.25,2.0,be
+Esther,Sheila,2.5,1.25,36.25,2.0,be
+Tina,Starbucks,0.0,0.0,52.94117647058824,INF,ask bring do tell
+Tina,Starbucks,0.0,0.0,52.94117647058824,INF,ask bring do tell
+Sheila,Frank,1.5625,0.0,42.1875,INF,call say be get
+Sheila,Frank,1.5625,0.0,42.1875,INF,call say be get
+Sheila,Frank,1.5625,0.0,42.1875,INF,call say be get
+Frank,Tina,0.0,0.0,41.66666666666667,INF,be
+Frank,Tina,2.5,1.25,61.25000000000001,2.0,walk be travel be
+Frank,Tina,2.5,1.25,61.25000000000001,2.0,walk be travel be
+Yolandi,Tina,5.681818181818182,0.0,21.59090909090909,INF,say give
+Yolandi,Elfrieda,5.681818181818182,0.0,21.59090909090909,INF,say give
+Tina,Elfrieda,5.681818181818182,0.0,21.59090909090909,INF,say give
+Benito Zetina Morelos,Jason,2.717391304347826,0.0,66.84782608695652,INF,be be give
+Benito Zetina Morelos,CBC,4.487179487179487,1.6025641025641024,52.88461538461539,2.8,be be talk have do die
+Benito Zetina Morelos,CBC,4.487179487179487,1.6025641025641024,52.88461538461539,2.8,be be talk have do die
+Benito Zetina Morelos,Kelvin High School,0.3676470588235294,0.0,58.45588235294118,INF,do have walk read
+Benito Zetina Morelos,Kelvin High School,0.3676470588235294,0.0,58.45588235294118,INF,do have walk read
+Kelvin High School,Benito Zetina Morelos,0.3676470588235294,0.0,58.45588235294118,INF,do have walk read
+Yoli,Pete,5.147058823529411,0.0,36.029411764705884,INF,say be
+Will,Nora,1.1363636363636365,0.0,53.40909090909091,INF,see get
+Nicolas,Elfrieda,1.953125,0.390625,47.65625,5.0,say have talk know have go promise be go
+Nicolas,Elfrieda,1.953125,0.390625,47.65625,5.0,say have talk know have go promise be go
+Dan,Nora,0.0,0.0,16.666666666666664,INF,be
+Nora,Dan,6.887755102040815,1.2755102040816326,53.06122448979592,5.4,have break put declare be feel tell hope understand let
+Nora,Dan,6.887755102040815,1.2755102040816326,53.06122448979592,5.4,have break put declare be feel tell hope understand let
+Nora,Dan,6.887755102040815,1.2755102040816326,53.06122448979592,5.4,have break put declare be feel tell hope understand let
+Nora,Dan,6.887755102040815,1.2755102040816326,53.06122448979592,5.4,have break put declare be feel tell hope understand let
+Jason,Sheila,4.666666666666667,1.0,56.99999999999999,4.666666666666667,slide hug tell have be pick be fly be have have get divorce
+Jason,Frank,4.666666666666667,1.0,56.99999999999999,4.666666666666667,slide hug tell have be pick be fly be have have get divorce
+Jason,Sheila,4.666666666666667,1.0,56.99999999999999,4.666666666666667,slide hug tell have be pick be fly be have have get divorce
+Jason,Frank,4.666666666666667,1.0,56.99999999999999,4.666666666666667,slide hug tell have be pick be fly be have have get divorce
+Sheila,Frank,4.666666666666667,1.0,56.99999999999999,4.666666666666667,slide hug tell have be pick be fly be have have get divorce
+Elf,Nic,7.954545454545454,0.0,46.590909090909086,INF,have mention
+Julie,Benito Zetina Morelos,2.2058823529411766,0.0,44.85294117647059,INF,tell have track
+Julie,Kelvin High School,4.166666666666666,0.0,54.166666666666664,INF,shake tell have go find
+Julie,Benito Zetina Morelos,4.166666666666666,0.0,54.166666666666664,INF,shake tell have go find
+Kelvin High School,Benito Zetina Morelos,4.166666666666666,0.0,54.166666666666664,INF,shake tell have go find
+Elf,Tina,6.8181818181818175,3.4090909090909087,44.31818181818182,2.0,be say
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Frank,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Sheila,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Frank,Julie,5.769230769230769,3.125,50.72115384615385,1.8461538461538463,be be win
+Jason,Canada Post,0.0,0.0,60.0,INF,take go be sponsor
+Elf,Tina,3.8793103448275863,2.1551724137931036,42.241379310344826,1.8,drop tell be be wait
+Frank,Sheila,0.29069767441860467,4.069767441860465,49.127906976744185,0.07142857142857142,say hobble see grab tell get fight
+Frank,Sheila,0.29069767441860467,4.069767441860465,49.127906976744185,0.07142857142857142,say hobble see grab tell get fight
+Frank,Sheila,0.29069767441860467,4.069767441860465,49.127906976744185,0.07142857142857142,say hobble see grab tell get fight
+Frank,Sheila,0.29069767441860467,4.069767441860465,49.127906976744185,0.07142857142857142,say hobble see grab tell get fight
+Sheila,Swivelhead,1.6666666666666667,0.0,51.66666666666667,INF,tell have put
+Sheila,Swivelhead,1.6666666666666667,0.0,51.66666666666667,INF,tell have put
+Julie,Kelvin High School,3.125,1.171875,51.953125,2.6666666666666665,come see sit act
+Julie,Benito Zetina Morelos,3.125,1.171875,51.953125,2.6666666666666665,come see sit act
+Kelvin High School,Benito Zetina Morelos,3.125,1.171875,51.953125,2.6666666666666665,come see sit act
+Frank,Plautdietsch,5.813953488372093,1.1627906976744187,41.86046511627907,5.0,swear holler shriek fly have stop catch use have shoot
+Sheila,Leni,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Elf,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Lottie,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Leni,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Elf,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Lottie,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Leni,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Elf,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Lottie,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Sheila,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Leni,Elf,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Leni,Lottie,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Leni,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Elf,Lottie,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Elf,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Lottie,Tina,3.6585365853658534,4.878048780487805,30.48780487804878,0.75,go sleep sit talk
+Coleridge,Elf,0.9375,2.5,61.5625,0.375,be write know
+Elf,Coleridge,2.7777777777777777,0.0,63.888888888888886,INF,have find
+Jason,Odile Hospital,2.1875,3.4375000000000004,49.375,0.6363636363636364,pile have drop open take
+Sheila,Tina,4.166666666666666,0.0,40.27777777777778,INF,massage
+Frank,Starbucks,0.390625,3.515625,46.09375,0.1111111111111111,promise have wait tell go relax
+Frank,Pete,0.390625,3.515625,46.09375,0.1111111111111111,promise have wait tell go relax
+Frank,Starbucks,0.390625,3.515625,46.09375,0.1111111111111111,promise have wait tell go relax
+Frank,Pete,0.390625,3.515625,46.09375,0.1111111111111111,promise have wait tell go relax
+Starbucks,Pete,0.390625,3.515625,46.09375,0.1111111111111111,promise have wait tell go relax
+Tina,Sheila,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Frank,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Elf,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Sheila,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Frank,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Elf,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Sheila,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Frank,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Tina,Elf,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Sheila,Frank,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Sheila,Elf,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Frank,Elf,3.571428571428571,1.1904761904761905,49.2063492063492,3.0,be be operate have take put be be go trek psych say
+Elf,Sheila,0.3787878787878788,0.7575757575757576,62.5,0.5,pick tear write fold give give
+Elf,Tina,0.3787878787878788,0.7575757575757576,62.5,0.5,pick tear write fold give give
+Elf,Tina,0.3787878787878788,0.7575757575757576,62.5,0.5,pick tear write fold give give
+Sheila,Tina,0.3787878787878788,0.7575757575757576,62.5,0.5,pick tear write fold give give
+Sheila,Tina,0.3787878787878788,0.7575757575757576,62.5,0.5,pick tear write fold give give
+Sheila,Elf,11.363636363636363,6.0606060606060606,46.21212121212121,1.875,talk think be have give
+Plautdietsch,Sheila,1.644736842105263,0.3289473684210526,42.76315789473684,5.0,sing know know sing
+Plautdietsch,Elf,1.644736842105263,0.3289473684210526,42.76315789473684,5.0,sing know know sing
+Sheila,Elf,1.644736842105263,0.3289473684210526,42.76315789473684,5.0,sing know know sing
+Elf,Tina,0.0,0.8064516129032258,54.03225806451613,0.0,leave go see be do linger whisper be fight
+Yolandi,Tina,1.9230769230769231,0.9615384615384616,43.269230769230774,2.0,say have be fight
+Tina,Elf,3.8461538461538463,0.0,65.38461538461539,INF,take say have
+Sheila,Tina,2.631578947368421,0.6578947368421052,54.60526315789473,4.0,tell have be call be remind
+Sheila,Tina,2.631578947368421,0.6578947368421052,54.60526315789473,4.0,tell have be call be remind
+Sheila,Odile Hospital,1.3157894736842104,0.6578947368421052,61.18421052631579,2.0,give say
+Tina,Kathy Reichs,0.6756756756756757,2.364864864864865,42.9054054054054,0.2857142857142857,be
+Sheila,Tina,4.296875,0.0,48.828125,INF,take make figure get
+Sheila,Tina,4.296875,0.0,48.828125,INF,take make figure get
+Elf,Starbucks,2.364864864864865,2.364864864864865,57.432432432432435,1.0,go tell have happen go get specify
+Tina,Elf,4.0625,0.625,55.3125,6.5,tell be go make come be
+Sheila,Tina,4.310344827586207,4.741379310344827,49.56896551724138,0.9090909090909091,go listen talk go
+Tina,Sheila,4.310344827586207,4.741379310344827,49.56896551724138,0.9090909090909091,go listen talk go
+Tina,Sheila,4.310344827586207,4.741379310344827,49.56896551724138,0.9090909090909091,go listen talk go
+Tina,Lottie,0.0,0.0,47.05882352941176,INF,lay
+Yoli,Plautdietsch,0.5,4.0,51.5,0.125,say look
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nora,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Tina,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Tina,Nic,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Nic,Tina,4.056728232189974,1.6160949868073877,47.361477572559366,2.510204081632653,tell be need understand love miss be be be be look understand do want live do mean want die be be go want die have live need be fight hold know be love know want help help need do have go be stay be see have go have know be be go bow control understand be want end sleep be be be try save save be do agree be do want do be be find push be break run
+Yoli,Janice,0.5681818181818182,0.0,53.97727272727273,INF,say think be go
+Yoli,Elf,0.5681818181818182,0.0,53.97727272727273,INF,say think be go
+Janice,Elf,0.5681818181818182,0.0,53.97727272727273,INF,say think be go
+Frank,Jesus,0.872093023255814,0.5813953488372093,61.337209302325576,1.5,be be sing have swing give return
+Jesus,Frank,0.872093023255814,0.5813953488372093,61.337209302325576,1.5,be be sing have swing give return
+Tina,Lottie,1.5,3.0,43.5,0.5,go be fight
+Sheila,Gordon,2.272727272727273,3.0303030303030303,55.3030303030303,0.75,have say kill try stop cry do
+Gordon,Sheila,2.272727272727273,3.0303030303030303,55.3030303030303,0.75,have say kill try stop cry do
+Gordon,Sheila,2.272727272727273,3.0303030303030303,55.3030303030303,0.75,have say kill try stop cry do
+Gordon,Tina,0.0,3.8793103448275863,47.8448275862069,0.0,thank come say be be be take
+Gordon,Tina,0.0,3.8793103448275863,47.8448275862069,0.0,thank come say be be be take
+Sheila,Gordon,4.861111111111112,1.3888888888888888,43.75,3.5,roll compose take
+Sheila,Gordon,4.861111111111112,1.3888888888888888,43.75,3.5,roll compose take
+Sheila,Tina,0.0,0.0,47.368421052631575,INF,be cover
+Sheila,Tina,0.0,0.0,47.368421052631575,INF,be cover
+Will,Nora,3.4090909090909087,0.0,60.22727272727273,INF,have get start be
+Nora,Dan,0.0,0.0,54.54545454545454,INF,ask be come
+Will,Nora,2.2435897435897436,3.5256410256410255,58.333333333333336,0.6363636363636364,have clean have watch go drive
+Will,Anders,2.2435897435897436,3.5256410256410255,58.333333333333336,0.6363636363636364,have clean have watch go drive
+Nora,Anders,2.2435897435897436,3.5256410256410255,58.333333333333336,0.6363636363636364,have clean have watch go drive
+Nora,Will,2.2435897435897436,3.5256410256410255,58.333333333333336,0.6363636363636364,have clean have watch go drive
+Anders,Will,2.2435897435897436,3.5256410256410255,58.333333333333336,0.6363636363636364,have clean have watch go drive
+Nic,Elf,3.125,0.78125,46.09375,4.0,be spend
+Elf,Nic,0.9615384615384616,0.9615384615384616,71.15384615384616,1.0,have be notice go miss
+Nic,Elf,4.166666666666666,4.779411764705882,49.877450980392155,0.8717948717948718,go say have change be talk have stop go bear be berate follow lecture threaten electrify call beg be reassure let go
+Nic,Elf,4.166666666666666,4.779411764705882,49.877450980392155,0.8717948717948718,go say have change be talk have stop go bear be berate follow lecture threaten electrify call beg be reassure let go
+Nic,Elfrieda,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Nic,Elfrieda,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Nic,Elf,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Nic,Elfrieda,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Elfrieda,Elf,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Elfrieda,Elf,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Elf,Elfrieda,1.607142857142857,0.7142857142857143,59.10714285714286,2.25,make call be visit put talk be figure do see have work do be
+Nora,Anders,0.4629629629629629,4.166666666666666,54.629629629629626,0.1111111111111111,spill drop grope
+Will,Nora,2.2222222222222223,0.0,55.55555555555556,INF,have reach have say be ride
+Nic,Elf,2.450980392156863,0.24509803921568626,54.166666666666664,10.0,say be pick be go order be deliver buy take be go be
+Nora,Elf,0.0,0.0,58.333333333333336,INF,come tell be go celebrate
+Nora,Elf,0.0,0.0,58.333333333333336,INF,come tell be go celebrate
+Elf,Nora,0.0,0.0,58.333333333333336,INF,come tell be go celebrate
+Nic,Dan,9.027777777777777,4.861111111111112,52.77777777777778,1.8571428571428572,have call have be reach
+Nic,Dan,9.027777777777777,4.861111111111112,52.77777777777778,1.8571428571428572,have call have be reach
+Yoli,Dan,0.0,7.291666666666667,42.70833333333333,0.0,say be call
+Dan,Nic,0.8620689655172413,1.7241379310344827,62.93103448275862,0.5,ask know say have try call be
+Dan,Nic,0.8620689655172413,1.7241379310344827,62.93103448275862,0.5,ask know say have try call be
+Dan,Nic,1.6666666666666667,1.6666666666666667,70.0,1.0,say have try call be
+Yoyo,Dan,0.0,0.0,36.36363636363637,INF,say
+Nic,Elf,1.4705882352941175,0.7352941176470588,62.5,2.0,be
+Nic,Elf,3.0172413793103448,0.0,48.706896551724135,INF,tell have pick go ask go
+Nic,Nora,3.0172413793103448,0.0,48.706896551724135,INF,tell have pick go ask go
+Nic,Nora,3.0172413793103448,0.0,48.706896551724135,INF,tell have pick go ask go
+Elf,Nora,3.0172413793103448,0.0,48.706896551724135,INF,tell have pick go ask go
+Elf,Nora,3.0172413793103448,0.0,48.706896551724135,INF,tell have pick go ask go
+Nic,Nora,3.5256410256410255,1.9230769230769231,53.52564102564102,1.8333333333333333,say remember have change have give make feel do know trail
+Nic,Nora,3.5256410256410255,1.9230769230769231,53.52564102564102,1.8333333333333333,say remember have change have give make feel do know trail
+Nic,Nora,3.5256410256410255,1.9230769230769231,53.52564102564102,1.8333333333333333,say remember have change have give make feel do know trail
+Nic,Nora,3.5256410256410255,1.9230769230769231,53.52564102564102,1.8333333333333333,say remember have change have give make feel do know trail
+Nic,Nora,3.5256410256410255,1.9230769230769231,53.52564102564102,1.8333333333333333,say remember have change have give make feel do know trail
+Nic,D. H. Lawrence,4.6875,1.5625,43.75,3.0,say do know
+Nic,Shelley,4.6875,1.5625,43.75,3.0,say do know
+Nic,Wordsworth,4.6875,1.5625,43.75,3.0,say do know
+D. H. Lawrence,Shelley,4.6875,1.5625,43.75,3.0,say do know
+D. H. Lawrence,Wordsworth,4.6875,1.5625,43.75,3.0,say do know
+Shelley,Wordsworth,4.6875,1.5625,43.75,3.0,say do know
+Nora,Elf,4.761904761904762,3.571428571428571,34.523809523809526,1.3333333333333333,say hug say be
+Nora,Elf,4.761904761904762,3.571428571428571,34.523809523809526,1.3333333333333333,say hug say be
+Nora,Nic,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nora,Elf,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nora,Will,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nic,Nora,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nic,Elf,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nic,Will,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nora,Elf,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nora,Will,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Elf,Will,2.604166666666667,0.0,34.89583333333333,INF,say thank give
+Nic,Elf,1.4285714285714286,0.0,58.57142857142858,INF,serve eat watch refract bowl
+Will,Nora,0.4629629629629629,1.8518518518518516,56.94444444444444,0.25,sleep sleep
+Elf,Nora,0.6048387096774194,1.8145161290322582,65.32258064516128,0.3333333333333333,be be be get eat go snort say excuse be set
+Elf,Mickey Mouse,0.6048387096774194,1.8145161290322582,65.32258064516128,0.3333333333333333,be be be get eat go snort say excuse be set
+Elf,Nora,0.6048387096774194,1.8145161290322582,65.32258064516128,0.3333333333333333,be be be get eat go snort say excuse be set
+Elf,Mickey Mouse,0.6048387096774194,1.8145161290322582,65.32258064516128,0.3333333333333333,be be be get eat go snort say excuse be set
+Nora,Mickey Mouse,0.6048387096774194,1.8145161290322582,65.32258064516128,0.3333333333333333,be be be get eat go snort say excuse be set
+Elf,Mickey Mouse,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be say be set
+Julie,Judson,0.0,0.0,61.904761904761905,INF,phone tell be be babysit
+Julie,Judson,0.0,0.0,61.904761904761905,INF,phone tell be be babysit
+Julie,Judson,0.0,0.0,61.904761904761905,INF,phone tell be be babysit
+Nora,Nelson,2.364864864864865,0.0,46.28378378378378,INF,say have come tag hug
+Nora,Nelson,2.364864864864865,0.0,46.28378378378378,INF,say have come tag hug
+Nora,Nelson,2.364864864864865,0.0,46.28378378378378,INF,say have come tag hug
+Nora,Nelson,2.364864864864865,0.0,46.28378378378378,INF,say have come tag hug
+Nora,Anders,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,do come have do be be be
+Nora,Anders,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,do come have do be be be
+Anders,Nora,2.586206896551724,0.8620689655172413,48.275862068965516,3.0,do come have do be be be
+Elf,Yoli,6.25,5.5,50.24999999999999,1.1363636363636365,be be remind be be have teach please stop equate
+Elf,Nic,1.715686274509804,0.49019607843137253,60.5392156862745,3.5,get die have want take keep do like divvy be bury
+Nic,Elf,3.260869565217391,3.804347826086957,59.60144927536232,0.8571428571428571,have suggest be bury have say be be suggest go say have say do want be bury
+Nic,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Nic,Elf,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Nic,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Nic,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Nic,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Nic,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Carl Jung,Elf,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Elf,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Elf,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Elf,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Elf,Carl Jung,2.9829545454545454,0.9943181818181818,49.43181818181818,3.0,talk engrave want bring do know tell have ask take be tell do trust do do understand do want feel
+Elfie,Mary,0.0,0.0,64.70588235294117,INF,be be choose play
+Elfie,Joseph,4.166666666666666,0.0,51.388888888888886,INF,tell convince budge have wedge be move play be get annoy
+Elfie,Joseph,4.166666666666666,0.0,51.388888888888886,INF,tell convince budge have wedge be move play be get annoy
+Elf,Mary,3.4482758620689653,3.7356321839080464,64.08045977011494,0.9230769230769231,get play try ignore know be do be sit bustle make be be be fluff be do have
+Elf,Joseph,3.4482758620689653,3.7356321839080464,64.08045977011494,0.9230769230769231,get play try ignore know be do be sit bustle make be be be fluff be do have
+Mary,Joseph,3.4482758620689653,3.7356321839080464,64.08045977011494,0.9230769230769231,get play try ignore know be do be sit bustle make be be be fluff be do have
+Elf,Claudio,4.605263157894736,5.263157894736842,58.55263157894737,0.875,think see shake
+Elf,Nora,4.605263157894736,5.263157894736842,58.55263157894737,0.875,think see shake
+Claudio,Nora,4.605263157894736,5.263157894736842,58.55263157894737,0.875,think see shake
+Elf,Claudio,1.5625,2.34375,52.34375,0.6666666666666666,be say
+Claudio,Elfrieda,0.4032258064516129,0.8064516129032258,31.048387096774192,0.5,taste toast be wait
+Claudio,Elf,2.7777777777777777,0.0,63.888888888888886,INF,tell name have fill
+Claudio,Elfrieda,0.5952380952380952,4.761904761904762,56.547619047619044,0.125,be think do give say
+Elfrieda,Claudio,0.5952380952380952,4.761904761904762,56.547619047619044,0.125,be think do give say
+Elfrieda,Claudio,0.5952380952380952,4.761904761904762,56.547619047619044,0.125,be think do give say
+Claudio,Elfrieda,4.435483870967742,0.4032258064516129,56.451612903225815,11.0,stare say tell be
+Elfrieda,Claudio,1.6129032258064515,5.64516129032258,50.806451612903224,0.2857142857142857,bury weep weep be cry tell
+Elfrieda,Claudio,1.6129032258064515,5.64516129032258,50.806451612903224,0.2857142857142857,bury weep weep be cry tell
+Claudio,Elf,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,remember discover sit crush
+Elf,Nora,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,remember bash be
+Will,Zoe,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Zoe,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Nic,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Zoe,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Zoe,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Nic,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Zoe,Nic,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Zoe,Will,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Zoe,Nic,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Zoe,Will,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Nic,Will,3.040540540540541,0.33783783783783783,53.37837837837838,9.0,be have spend be
+Will,Tina,10.0,3.75,36.25,2.6666666666666665,say show
+Nora,Anders,0.0,0.0,50.0,INF,be skype be
+Amelia Earhart,Elf,3.8461538461538463,5.769230769230769,51.92307692307693,0.6666666666666666,whisper be be have apologize be
+Amelia Earhart,Elf,3.8461538461538463,5.769230769230769,51.92307692307693,0.6666666666666666,whisper be be have apologize be
+Elf,Tina,0.2717391304347826,1.0869565217391304,44.29347826086957,0.25,drink toast stray come smile
+Elf,Leni,0.2717391304347826,1.0869565217391304,44.29347826086957,0.25,drink toast stray come smile
+Tina,Leni,0.2717391304347826,1.0869565217391304,44.29347826086957,0.25,drink toast stray come smile
+Julie,Will,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Will,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Nora,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Dan,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Will,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Will,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Nora,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Julie,Dan,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Will,Nora,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Will,Dan,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Will,Nora,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Will,Dan,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Nora,Dan,1.3392857142857142,0.4464285714285714,44.642857142857146,3.0,be be be
+Allan,Julie,0.0,2.5,47.5,0.0,dream sleep say
+Allan,Julie,0.0,0.0,45.45454545454545,INF,offer be say
+Elf,Tina,3.3653846153846154,1.4423076923076923,60.57692307692307,2.3333333333333335,tell be walk feel come walk mean be be forgive
+Leni,Dan,8.13953488372093,3.488372093023256,39.53488372093023,2.3333333333333335,pretend be have lose whisper
+Nora,Will,0.4629629629629629,0.0,40.27777777777778,INF,recover do celebrate take see
+Nora,Zoe,0.4629629629629629,0.0,40.27777777777778,INF,recover do celebrate take see
+Will,Zoe,0.4629629629629629,0.0,40.27777777777778,INF,recover do celebrate take see
+Will,Zoe,3.4482758620689653,0.8620689655172413,64.65517241379311,4.0,take live
+Will,Zoe,1.8229166666666667,1.3020833333333335,55.208333333333336,1.4,carry zoom laugh bounce lose have go retrace suppose be
+Will,Nora,1.8229166666666667,1.3020833333333335,55.208333333333336,1.4,carry zoom laugh bounce lose have go retrace suppose be
+Will,Nora,1.8229166666666667,1.3020833333333335,55.208333333333336,1.4,carry zoom laugh bounce lose have go retrace suppose be
+Zoe,Nora,1.8229166666666667,1.3020833333333335,55.208333333333336,1.4,carry zoom laugh bounce lose have go retrace suppose be
+Zoe,Nora,1.8229166666666667,1.3020833333333335,55.208333333333336,1.4,carry zoom laugh bounce lose have go retrace suppose be
+Julie,Elf,0.0,0.0,60.0,INF,put show say
+Elf,Julie,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,be put sleep read

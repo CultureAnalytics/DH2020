@@ -1,0 +1,708 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Hilde,Eirik,0.6355932203389831,1.4830508474576272,62.28813559322034,0.42857142857142855,consume mash stay lie listen write
+Hilde,Lars,0.6355932203389831,1.4830508474576272,62.28813559322034,0.42857142857142855,consume mash stay lie listen write
+Eirik,Lars,0.6355932203389831,1.4830508474576272,62.28813559322034,0.42857142857142855,consume mash stay lie listen write
+Lars,Bjørneboe,1.171875,0.5208333333333333,47.265625,2.25,round
+Johannes,Stig,0.0,0.0,0.0,INF,
+Lars,Eirik,0.8928571428571428,1.7857142857142856,40.17857142857143,0.5,be go
+Lars,Hilde,0.8928571428571428,1.7857142857142856,40.17857142857143,0.5,be go
+Eirik,Hilde,0.8928571428571428,1.7857142857142856,40.17857142857143,0.5,be go
+Hilde,Bjørneboe,1.7241379310344827,1.293103448275862,31.46551724137931,1.3333333333333333,be scorn call like
+Hilde,Bjørneboe,1.7241379310344827,1.293103448275862,31.46551724137931,1.3333333333333333,be scorn call like
+Hilde,Bjørneboe,1.7241379310344827,1.293103448275862,31.46551724137931,1.3333333333333333,be scorn call like
+Hilde,Eirik,0.0,0.6944444444444444,43.75,0.0,do be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Lars,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Eirik,Lars,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Eirik,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Eirik,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Eirik,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Eirik,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Lars,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Lars,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Lars,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Lars,Hilde,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Lars,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Hilde,Eirik,2.8169014084507045,4.48943661971831,51.1443661971831,0.6274509803921569,be like be be happen be cause have be try chat feel stand be be talk feel go be be talk be
+Frank,Remi,0.0,1.7857142857142856,48.214285714285715,0.0,be say
+Remi,Frank,1.1363636363636365,2.272727272727273,51.13636363636363,0.5,be miss say
+Remi,Frank,1.7857142857142856,0.0,69.64285714285714,INF,say look
+Frank,Remi,0.78125,0.0,42.96875,INF,sound say
+Frank,Remi,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,bother say get
+Frank,Remi,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,bother say get
+Remi,Hege,4.807692307692308,0.0,41.34615384615385,INF,do know live say
+Remi,Frank,4.807692307692308,0.0,41.34615384615385,INF,do know live say
+Hege,Frank,4.807692307692308,0.0,41.34615384615385,INF,do know live say
+Irene,Hilde,1.8518518518518516,0.0,46.2962962962963,INF,turn walk be chip
+Irene,Hilde,1.8518518518518516,0.0,46.2962962962963,INF,turn walk be chip
+Torill,Hege,0.0,0.0,38.88888888888889,INF,be
+Torill,Sture,0.0,0.0,38.88888888888889,INF,be
+Hege,Sture,0.0,0.0,38.88888888888889,INF,be
+Karl Ove,Nils Erik,2.083333333333333,2.083333333333333,20.833333333333336,1.0,be be
+Nils Erik,Hege,3.125,0.0,46.875,INF,appear call
+Tor Einar,Sture,0.0,0.0,55.55555555555556,INF,use play say
+Camilla,Liv,0.0,0.0,0.0,INF,
+Stian,Liv,2.083333333333333,1.25,58.333333333333336,1.6666666666666667,be keep fidget take taunt refuse do tell do laugh say be follow
+Stian,Ivar,2.083333333333333,1.25,58.333333333333336,1.6666666666666667,be keep fidget take taunt refuse do tell do laugh say be follow
+Liv,Ivar,2.083333333333333,1.25,58.333333333333336,1.6666666666666667,be keep fidget take taunt refuse do tell do laugh say be follow
+Liv,Stian,2.083333333333333,1.25,58.333333333333336,1.6666666666666667,be keep fidget take taunt refuse do tell do laugh say be follow
+Ivar,Stian,2.083333333333333,1.25,58.333333333333336,1.6666666666666667,be keep fidget take taunt refuse do tell do laugh say be follow
+bush,Brian Eno,0.4807692307692308,1.201923076923077,48.31730769230769,0.4,assemble stack flick select start organise
+bush,David Byrne,0.4807692307692308,1.201923076923077,48.31730769230769,0.4,assemble stack flick select start organise
+Brian Eno,David Byrne,0.4807692307692308,1.201923076923077,48.31730769230769,0.4,assemble stack flick select start organise
+Brian Eno,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Brian Eno,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,Robert Fripp,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Robert Fripp,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,David Byrne,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Bowie,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Adrian Belew,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+David Byrne,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Adrian Belew,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Adrian Belew,Bowie,0.5081300813008129,0.5081300813008129,55.08130081300813,1.0,be be spread start release produce work play produce come come be talk remain use play be
+Andrea,Vivian,1.9230769230769231,0.3205128205128205,46.47435897435898,6.0,smile ask come giggle blush stare
+Vivian,Andrea,1.9230769230769231,0.3205128205128205,46.47435897435898,6.0,smile ask come giggle blush stare
+Vivian,Andrea,2.0161290322580645,0.8064516129032258,48.79032258064516,2.5,have leave be say look smile lower
+Karl Ove,Andrea,0.9615384615384616,0.0,29.807692307692307,INF,speak say
+Vivian,Liv,3.571428571428571,1.7857142857142856,37.5,2.0,be
+Vivian,Hildegunn,1.3888888888888888,0.0,31.944444444444443,INF,like round
+Andrea,Vivian,3.6290322580645165,2.217741935483871,60.28225806451613,1.6363636363636365,have think have be tell have see see be be be use express
+Andrea,Lloyd Cole,1.153846153846154,2.307692307692308,64.23076923076924,0.5,write read fall make slip put gaze make stand
+Levi,Ali,1.4705882352941175,0.7352941176470588,60.147058823529406,2.0,put stand wear choose try do go trot hang
+Reidar,Karl Ove,8.333333333333332,0.0,41.66666666666667,INF,put
+Vibeke,Stig,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Vibeke,Lovisa,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Vibeke,Steve,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Vibeke,Stein-Inge,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Vibeke,Jo,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Stig,Lovisa,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Stig,Steve,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Stig,Stein-Inge,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Stig,Jo,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Lovisa,Steve,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Lovisa,Stein-Inge,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Lovisa,Jo,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Steve,Stein-Inge,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Steve,Jo,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Stein-Inge,Jo,2.7901785714285716,2.34375,43.080357142857146,1.1904761904761905,connect remember be seem give be be reveal get handle
+Andrea,Vivian,0.0,1.7857142857142856,26.785714285714285,0.0,compare
+Vivian,Richard,0.0,0.0,52.17391304347826,INF,say twist sit cross face
+Vivian,Richard,0.0,0.0,52.17391304347826,INF,say twist sit cross face
+Harrison,Hildegunn,0.78125,0.0,42.96875,INF,say write say
+Andrea,Richard,4.545454545454546,0.0,50.0,INF,say look
+Bassen,Lars,1.1904761904761905,0.0,55.952380952380956,INF,have start have move be study
+Bassen,Lars,1.1904761904761905,0.0,55.952380952380956,INF,have start have move be study
+Bassen,Eirik,1.1904761904761905,0.0,55.952380952380956,INF,have start have move be study
+Lars,Eirik,1.1904761904761905,0.0,55.952380952380956,INF,have start have move be study
+Lars,Eirik,1.1904761904761905,0.0,55.952380952380956,INF,have start have move be study
+Bassen,Lars,9.166666666666666,2.5,68.33333333333333,3.6666666666666665,tell have take move
+Espen,Trond,1.1363636363636365,0.0,62.5,INF,be stare be
+Cecilie,Arendal,3.289473684210526,0.0,33.55263157894737,INF,know go say
+Vibeke,Nils Erik,3.4090909090909087,0.0,42.04545454545455,INF,say
+Stian,Kai Roald,5.0,1.25,33.75,4.0,fight be
+Stian,Kai Roald,2.586206896551724,0.0,45.689655172413794,INF,be be have throw give fly
+Stian,Kai Roald,2.586206896551724,0.0,45.689655172413794,INF,be be have throw give fly
+Vivian,Andrea,0.0,0.0,20.0,INF,laugh
+Stian,Nils Erik,2.734375,1.171875,39.84375,2.3333333333333335,think see see watch
+Stian,Nils Erik,2.734375,1.171875,39.84375,2.3333333333333335,think see see watch
+Torill,Andrea,1.5625,0.0,65.10416666666666,INF,be have sit notice be butter
+Georg,Andrea,6.25,0.8928571428571428,28.57142857142857,7.0,be be say
+Tor Einar,Hege,1.953125,0.78125,44.140625,2.5,say look open come
+Tor Einar,Nils Erik,1.953125,0.78125,44.140625,2.5,say look open come
+Hege,Nils Erik,1.953125,0.78125,44.140625,2.5,say look open come
+Vibeke,Jane,4.166666666666666,0.0,29.166666666666668,INF,come
+Vibeke,Sture,4.166666666666666,0.0,29.166666666666668,INF,come
+Jane,Sture,4.166666666666666,0.0,29.166666666666668,INF,come
+Liv,Camilla,0.0,2.1739130434782608,54.347826086956516,0.0,be walk arrive send steal turn
+Camilla,Liv,0.0,2.1739130434782608,54.347826086956516,0.0,be walk arrive send steal turn
+Camilla,Liv,0.0,2.1739130434782608,54.347826086956516,0.0,be walk arrive send steal turn
+Nils Erik,Poco Loco,0.5952380952380952,3.571428571428571,67.26190476190477,0.16666666666666666,be wear
+Tor Einar,Nils Erik,2.2058823529411766,1.4705882352941175,49.26470588235294,1.5,laugh hitch sit
+Tor Einar,Nils Erik,2.2058823529411766,1.4705882352941175,49.26470588235294,1.5,laugh hitch sit
+Irene,Nils Erik,2.083333333333333,0.0,39.58333333333333,INF,say brighten
+Tor Einar,Jan Vidar,0.0,0.0,41.66666666666667,INF,be
+Jan Vidar,Tor Einar,0.0,0.0,41.66666666666667,INF,be
+Nils Erik,Tor Einar,3.273809523809524,2.380952380952381,53.86904761904761,1.375,have be be ensconce have do tag slip be notice
+Jan Vidar,Hege,2.5,0.0,47.5,INF,have be
+Jan Vidar,Bowie,4.359243697478991,1.4705882352941175,53.83403361344538,2.9642857142857144,follow go have make be heave wear be be be be be overcome be be squirm want feel be be be want be be be liberate be be have inform educate consider know be join take want entertain want sell fuse become subsume become
+Øyvind,Jan Vidar,0.8620689655172413,0.43103448275862066,46.98275862068966,2.0,have choose finish sit cry
+Øyvind,Jan Vidar,2.7027027027027026,1.8018018018018018,53.153153153153156,1.5,go say head find sit stare fall continue dot come sit pursue have be sleep get disintegrate drift
+Jøgge,Bjørn,0.0,0.0,44.827586206896555,INF,confide tell be go try get fuck
+Jøgge,Bjørn,2.7777777777777777,2.083333333333333,34.02777777777778,1.3333333333333333,turn meet give smile
+Harald,Lisbeth,0.0,0.0,50.0,INF,pass
+Bjørn,Prince,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,say tap pass
+Bjørn,Lisbeth,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,say tap pass
+Prince,Lisbeth,0.5952380952380952,0.5952380952380952,46.42857142857143,1.0,say tap pass
+Karl Ove,Jøgge,0.0,0.0,30.76923076923077,INF,be say
+Lisbeth,Hanne,6.875000000000001,1.875,51.24999999999999,3.6666666666666665,be be have be
+Hanne,Lisbeth,1.744186046511628,2.0348837209302326,56.68604651162791,0.8571428571428571,stand blow squint surround be think
+Harald,Geir Helge,1.9230769230769231,0.9615384615384616,20.192307692307693,2.0,be
+Harald,Geir Helge,1.9230769230769231,0.9615384615384616,20.192307692307693,2.0,be
+Tveit,Bassen,0.8620689655172413,0.43103448275862066,53.879310344827594,2.0,be go be go be wait come
+Bassen,Hanne,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,put dance do forget sit chat watch
+Bassen,Annette,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,put dance do forget sit chat watch
+Hanne,Annette,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,put dance do forget sit chat watch
+Hanne,Bassen,0.6944444444444444,0.0,54.861111111111114,INF,laugh go be pore
+Jøgge,Jesus,0.6578947368421052,0.0,51.973684210526315,INF,know be lie listen
+Jøgge,Jesus,0.6578947368421052,0.0,51.973684210526315,INF,know be lie listen
+Jøgge,Gabriel,0.6578947368421052,0.0,51.973684210526315,INF,know be lie listen
+Jesus,Gabriel,0.6578947368421052,0.0,51.973684210526315,INF,know be lie listen
+Jesus,Gabriel,0.6578947368421052,0.0,51.973684210526315,INF,know be lie listen
+Jan Vidar,Unni,3.125,0.0,63.541666666666664,INF,be sit want show be know
+Unni,Jan Vidar,3.125,0.0,63.541666666666664,INF,be sit want show be know
+Unni,Jan Vidar,3.125,0.0,63.541666666666664,INF,be sit want show be know
+Jan Vidar,Bassen,1.4084507042253522,1.4084507042253522,60.56338028169014,1.0,be go be work be be graft be do have be have be get
+Jan Vidar,Jøgge,1.4084507042253522,1.4084507042253522,60.56338028169014,1.0,be go be work be be graft be do have be have be get
+Bassen,Jan Vidar,1.4084507042253522,1.4084507042253522,60.56338028169014,1.0,be go be work be be graft be do have be have be get
+Bassen,Jøgge,1.4084507042253522,1.4084507042253522,60.56338028169014,1.0,be go be work be be graft be do have be have be get
+Jan Vidar,Jøgge,1.4084507042253522,1.4084507042253522,60.56338028169014,1.0,be go be work be be graft be do have be have be get
+Yngve,Arvid,6.25,3.125,40.625,2.0,arrive
+Arvid,Yngve,3.869047619047619,1.1904761904761905,63.988095238095234,3.25,poke say leave drag have use have live
+Yngve,Jan Vidar,0.3289473684210526,0.3289473684210526,49.34210526315789,1.0,do join drive cycle see go swim stay
+Yngve,Jan Vidar,0.3289473684210526,0.3289473684210526,49.34210526315789,1.0,do join drive cycle see go swim stay
+Jan Vidar,Karl Ove,3.8461538461538463,3.3653846153846154,35.09615384615385,1.1428571428571428,be be
+Bjørn,Jøgge,0.0,0.0,28.57142857142857,INF,be tell
+Karl Ove,Unni,0.0,0.0,10.0,INF,say
+Unni,Karl Ove,5.681818181818182,0.0,21.59090909090909,INF,have get know
+Unni,Karl Ove,5.357142857142857,0.0,44.642857142857146,INF,glance watch squeeze
+Unni,Karl Ove,5.357142857142857,0.0,44.642857142857146,INF,glance watch squeeze
+Unni,Karl Ove,5.357142857142857,0.0,44.642857142857146,INF,glance watch squeeze
+Unni,Karl Ove,5.357142857142857,0.0,44.642857142857146,INF,glance watch squeeze
+Arne,Unni,1.9230769230769231,3.8461538461538463,40.38461538461539,0.5,be be whisper
+Yngve,Unni,0.0,5.357142857142857,30.357142857142854,0.0,be come say
+Linda,John,0.0,0.0,45.16129032258064,INF,
+Linda,Ingrid,0.0,0.0,45.16129032258064,INF,
+John,Ingrid,0.0,0.0,45.16129032258064,INF,
+Hanne,Jan Vidar,4.6875,2.34375,61.71875,2.0,be be be
+Hanne,Jøgge,4.6875,2.34375,61.71875,2.0,be be be
+Jan Vidar,Jøgge,4.6875,2.34375,61.71875,2.0,be be be
+Yngve,Linda,1.0638297872340425,0.5319148936170213,49.46808510638298,2.0,speak be plan be
+Jan Vidar,Hanne,4.583333333333333,2.083333333333333,60.0,2.2,wonder be hear do follow be burn talk
+Jan Vidar,Hanne,4.583333333333333,2.083333333333333,60.0,2.2,wonder be hear do follow be burn talk
+Jan Vidar,Boen,2.1739130434782608,2.717391304347826,55.97826086956522,0.8,jump continue jump plod
+Nye Sørlandet,Karl Ove,0.0,0.0,26.666666666666668,INF,do get
+Karl Ove,Mefisto,1.5625,3.515625,51.171875,0.4444444444444444,hear go watch creep continue jerk peck undeterr
+Arne,Arvid,2.380952380952381,0.5952380952380952,25.595238095238095,4.0,be
+Arne,Ivar,2.380952380952381,0.5952380952380952,25.595238095238095,4.0,be
+Arvid,Ivar,2.380952380952381,0.5952380952380952,25.595238095238095,4.0,be
+Mefisto,Karl Ove,0.7352941176470588,2.2058823529411766,50.0,0.3333333333333333,walk do be offend
+Mefisto,Karl Ove,0.7352941176470588,2.2058823529411766,50.0,0.3333333333333333,walk do be offend
+Steinar Vindsland,Nye Sørlandet,2.5337837837837838,1.0135135135135136,64.02027027027027,2.5,go speak say have pick nod spend choose write be choose know have be review have follow
+Bjørneboe,Hilde,8.653846153846153,5.288461538461538,39.90384615384615,1.6363636363636365,be have talk
+Renate,Karl Ove,2.5,0.0,27.500000000000004,INF,fuck
+Renate,Mona,4.166666666666666,6.25,47.91666666666667,0.6666666666666666,have be listen
+Renate,Mona,4.166666666666666,6.25,47.91666666666667,0.6666666666666666,have be listen
+Karl Ove,Mona,1.7857142857142856,0.0,19.642857142857142,INF,be have say
+Mona,Renate,0.0,7.8125,42.1875,0.0,
+Bassen,Espen,1.1363636363636365,1.1363636363636365,46.21212121212121,1.0,hang call border know be know
+Gisle,Trond,5.0,4.583333333333333,47.083333333333336,1.0909090909090908,be do say do say be
+Gisle,Trond,5.0,4.583333333333333,47.083333333333336,1.0909090909090908,be do say do say be
+Gisle,Trond,5.0,4.583333333333333,47.083333333333336,1.0909090909090908,be do say do say be
+Bassen,Espen,1.6891891891891893,4.72972972972973,44.932432432432435,0.35714285714285715,know belong have happen tolerate find
+Bassen,Espen,4.910714285714286,1.3392857142857142,47.32142857142857,3.6666666666666665,be do know have speak sit
+Kjartan,Heidegger,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,be take mean
+Tuxedomoon,Karl Ove,0.0,0.0,45.83333333333333,INF,review be base
+Unni,Yngve,6.25,1.488095238095238,51.78571428571429,4.2,have be have want have book wait hear want do
+Yngve,Kjartan,0.0,0.0,53.333333333333336,INF,take take
+Kjartan,Yngve,0.0,0.0,22.22222222222222,INF,say
+Kjartan,Yngve,4.464285714285714,0.8928571428571428,44.642857142857146,5.0,do respond nod
+Heidegger,Yngve,0.7352941176470588,6.61764705882353,51.470588235294116,0.1111111111111111,have hear say
+Johannes,Kjartan,2.159090909090909,3.295454545454545,55.45454545454545,0.6551724137931034,talk be do see say nod spend listen have do absorb see see reveal reveal
+Kjartan,Johannes,2.159090909090909,3.295454545454545,55.45454545454545,0.6551724137931034,talk be do see say nod spend listen have do absorb see see reveal reveal
+Kjartan,Johannes,2.159090909090909,3.295454545454545,55.45454545454545,0.6551724137931034,talk be do see say nod spend listen have do absorb see see reveal reveal
+Yngve,Kjartan,4.838709677419355,2.0161290322580645,51.20967741935484,2.4,have roll have start talk spear put
+Yngve,Kjartan,3.0303030303030303,0.7575757575757576,47.72727272727273,4.0,walk have borrow be go buy
+Kjartan,Yngve,0.0,0.0,22.22222222222222,INF,say
+Karl Ove,Yngve,1.9230769230769231,0.9615384615384616,20.192307692307693,2.0,be say
+Kjartan,Heidegger,5.592105263157895,0.6578947368421052,56.9078947368421,8.5,touch ramble call call have send have make
+Kjartan,Arne,5.592105263157895,0.6578947368421052,56.9078947368421,8.5,touch ramble call call have send have make
+Heidegger,Arne,5.592105263157895,0.6578947368421052,56.9078947368421,8.5,touch ramble call call have send have make
+Yngve,Bjørneboe,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,be give
+Yngve,Kjartan,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,be give
+Bjørneboe,Kjartan,1.5957446808510638,0.7978723404255319,57.180851063829785,2.0,be give
+Yngve,Kjartan,0.0,0.3472222222222222,52.43055555555556,0.0,give listen
+Yngve,Kjærstad,0.0,0.3472222222222222,52.43055555555556,0.0,give listen
+Kjartan,Kjærstad,0.0,0.3472222222222222,52.43055555555556,0.0,give listen
+Yngve,Kjellaug,0.0,0.0,52.94117647058824,INF,pass bear open see be stiffen
+Yngve,Ingrid,0.0,0.0,52.94117647058824,INF,pass bear open see be stiffen
+Yngve,Ingrid,0.0,0.0,52.94117647058824,INF,pass bear open see be stiffen
+Kjellaug,Ingrid,0.0,0.0,52.94117647058824,INF,pass bear open see be stiffen
+Kjellaug,Ingrid,0.0,0.0,52.94117647058824,INF,pass bear open see be stiffen
+Yngve,Kjartan,0.0,0.0,37.5,INF,pass
+Yngve,Kristin,2.6785714285714284,0.0,61.60714285714286,INF,do get
+Yngve,Trond,0.8333333333333334,1.6666666666666667,37.5,0.5,be talk be talk
+Yngve,Kristin,0.8333333333333334,1.6666666666666667,37.5,0.5,be talk be talk
+Yngve,Kristin,0.8333333333333334,1.6666666666666667,37.5,0.5,be talk be talk
+Trond,Kristin,0.8333333333333334,1.6666666666666667,37.5,0.5,be talk be talk
+Trond,Kristin,0.8333333333333334,1.6666666666666667,37.5,0.5,be talk be talk
+Yngve,Trond,2.840909090909091,1.7045454545454544,54.54545454545454,1.6666666666666667,get be go sit continue chat
+Trond,Kristin,3.125,0.0,46.875,INF,push
+Kristin,Trond,2.7777777777777777,0.0,52.77777777777778,INF,look look read have write
+Kristin,Trond,2.7777777777777777,0.0,52.77777777777778,INF,look look read have write
+Trond,Kristin,2.380952380952381,0.0,50.0,INF,look pinch pass
+Trond,Kristin,2.380952380952381,0.0,50.0,INF,look pinch pass
+Kristin,Trond,2.380952380952381,0.0,50.0,INF,look pinch pass
+Trond,Kristin,2.380952380952381,0.0,50.0,INF,look pinch pass
+Kristin,Trond,1.9230769230769231,0.0,51.92307692307693,INF,write push read
+Trond,Kristin,5.0,2.5,32.5,2.0,be
+Unni,Fredrik,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Unni,Fredrik,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Unni,Fredrik,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Fredrik,Unni,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Fredrik,Unni,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Fredrik,Unni,5.706521739130435,3.260869565217391,51.902173913043484,1.75,be have accept have come meet
+Unni,Hanne,4.6875,1.5625,50.0,3.0,tell write have finish
+Gunnar,Tove,2.11864406779661,2.11864406779661,51.69491525423729,1.0,smell be run open be sit
+Unni,Karl Ove,2.4122807017543857,0.43859649122807015,46.271929824561404,5.5,have say be wake want do be go get marry prepare
+Unni,Karl Ove,2.4122807017543857,0.43859649122807015,46.271929824561404,5.5,have say be wake want do be go get marry prepare
+Yngve,Kristin,1.25,0.3125,58.4375,4.0,catch be walk make
+Yngve,Unni,1.25,0.3125,58.4375,4.0,catch be walk make
+Kristin,Unni,1.25,0.3125,58.4375,4.0,catch be walk make
+Yngve,Kristin,2.5,6.25,41.25,0.4,have
+Yngve,Kristin,0.5952380952380952,1.7857142857142856,61.904761904761905,0.3333333333333333,shake smile stand wait look be be arrive
+Kristin,Yngve,2.5,0.5,41.0,5.0,have spot break say draw
+Kristin,Yngve,2.5,0.5,41.0,5.0,have spot break say draw
+Kristin,Yngve,2.5,0.5,41.0,5.0,have spot break say draw
+Unni,Yngve,0.0,0.0,60.0,INF,bring spread
+Yngve,Kristin,4.545454545454546,1.1363636363636365,39.77272727272727,4.0,be stare
+Unni,Yngve,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,give hug
+Unni,Kristin,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,give hug
+Unni,Yngve,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,give hug
+Unni,Kristin,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,give hug
+Yngve,Kristin,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,give hug
+Hamsun,Yngve,1.5873015873015872,0.3968253968253968,63.095238095238095,4.0,drive lean look have be be be show see write have make
+Yngve,Hamsun,1.5873015873015872,0.3968253968253968,63.095238095238095,4.0,drive lean look have be be be show see write have make
+Hamsun,Grimstad,1.3888888888888888,0.0,59.72222222222222,INF,do remember say have see
+Grimstad,Hamsun,1.7857142857142856,0.35714285714285715,46.42857142857143,5.0,drive have do
+Rune,Kristin,1.0204081632653061,0.5102040816326531,69.89795918367348,2.0,have take finish be work earn be plan
+Rune,Kristin,1.0204081632653061,0.5102040816326531,69.89795918367348,2.0,have take finish be work earn be plan
+Rune,Kristin,1.0204081632653061,0.5102040816326531,69.89795918367348,2.0,have take finish be work earn be plan
+Rune,Kristin,1.0204081632653061,0.5102040816326531,69.89795918367348,2.0,have take finish be work earn be plan
+Rune,Arendal,0.0,0.0,60.71428571428571,INF,rent be be stay sleep
+Yngve,Kristin,2.142857142857143,2.142857142857143,64.28571428571429,1.0,be feel lie listen giggle laugh chat subdue
+Geir Helge,Dag Lothar,1.5,1.0,69.5,1.5,be ride be
+Geir Helge,Dag Lothar,1.5,1.0,69.5,1.5,be ride be
+Yngve,Kristin,1.0,0.0,43.0,INF,suggest go save have take
+Yngve,Kristin,2.7777777777777777,0.4629629629629629,52.31481481481482,6.0,have be like like
+Yngve,Kristin,2.7777777777777777,0.4629629629629629,52.31481481481482,6.0,have be like like
+Kristin,Cecilie,0.5,0.5,55.00000000000001,1.0,be be see be
+Cecilie,Kristin,0.5,0.5,55.00000000000001,1.0,be be see be
+Cecilie,Kristin,0.5,0.5,55.00000000000001,1.0,be be see be
+Karl Ove,Yngve,0.0,0.0,30.76923076923077,INF,say
+Yngve,Kristin,3.289473684210526,0.6578947368421052,43.42105263157895,5.0,go be have
+Yngve,Kristin,1.0,0.0,59.0,INF,decide give miss lie read go do
+Yngve,Kristin,2.7027027027027026,2.7027027027027026,51.35135135135135,1.0,say be have say be rent sit lean sit exchange smile be have decide get marry have surprise
+Yngve,Cecilie,2.7027027027027026,2.7027027027027026,51.35135135135135,1.0,say be have say be rent sit lean sit exchange smile be have decide get marry have surprise
+Kristin,Yngve,2.7027027027027026,2.7027027027027026,51.35135135135135,1.0,say be have say be rent sit lean sit exchange smile be have decide get marry have surprise
+Kristin,Cecilie,2.7027027027027026,2.7027027027027026,51.35135135135135,1.0,say be have say be rent sit lean sit exchange smile be have decide get marry have surprise
+Yngve,Cecilie,2.7027027027027026,2.7027027027027026,51.35135135135135,1.0,say be have say be rent sit lean sit exchange smile be have decide get marry have surprise
+Yngve,Kristin,3.316326530612245,0.7653061224489796,63.26530612244898,4.333333333333333,be join drive enjoy be be be be reflect
+Yngve,Kristin,3.316326530612245,0.7653061224489796,63.26530612244898,4.333333333333333,be join drive enjoy be be be be reflect
+Yngve,Kristin,3.316326530612245,0.7653061224489796,63.26530612244898,4.333333333333333,be join drive enjoy be be be be reflect
+Yngve,Kristin,7.291666666666667,0.0,51.041666666666664,INF,see be treat be
+Cecilie,Kristin,2.8846153846153846,0.9615384615384616,46.15384615384615,3.0,think be feel
+Cecilie,Kristin,2.8846153846153846,0.9615384615384616,46.15384615384615,3.0,think be feel
+Yngve,Kristin,3.75,0.0,36.25,INF,leave go
+Cecilie,Kristin,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,say be
+Steinar Vindsland,Hamsun,3.6637931034482754,0.43103448275862066,68.31896551724138,8.5,be leave begin decide spend write go drop be come say have be try get have ring
+Steinar Vindsland,Hamsun,3.6637931034482754,0.43103448275862066,68.31896551724138,8.5,be leave begin decide spend write go drop be come say have be try get have ring
+Kristin,Yngve,4.0,0.0,60.0,INF,say have look
+Yngve,Kristin,4.0,0.0,60.0,INF,say have look
+Yngve,Kristin,4.0,0.0,60.0,INF,say have look
+Fædrelandsvennen,Sissel Kyrkjebø,3.75,1.875,64.375,2.0,attend suggest write
+Sissel Kyrkjebø,Kristin,3.273809523809524,0.2976190476190476,44.047619047619044,11.0,make make farm be wear be
+Sissel Kyrkjebø,Kristin,3.273809523809524,0.2976190476190476,44.047619047619044,11.0,make make farm be wear be
+Fædrelandsvennen,Sissel Kyrkjebø,6.132075471698113,3.5377358490566038,46.93396226415094,1.7333333333333334,be be prefer be follow be
+Geir Helge,Anne,1.7857142857142856,2.6785714285714284,49.107142857142854,0.6666666666666666,remember run have be
+Kristin,Yngve,0.0,0.0,38.88888888888889,INF,be say
+Cecilie,Yngve,4.166666666666666,3.125,42.70833333333333,1.3333333333333333,be be be be
+Hilde,Eirik,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Hilde,Lars,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Hilde,Espen,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Hilde,Lars,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Hilde,Jan Vidar,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Eirik,Lars,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Eirik,Espen,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Eirik,Lars,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Eirik,Jan Vidar,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Lars,Espen,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Lars,Jan Vidar,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Espen,Lars,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Espen,Jan Vidar,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Lars,Jan Vidar,0.3472222222222222,0.3472222222222222,40.97222222222222,1.0,be drink be hang
+Yngve,Bassen,3.4090909090909087,0.0,63.25757575757576,INF,go go wear have rent
+Hamsun,Glahn,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Hamsun,Hanne,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Hamsun,Hanne,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Hamsun,Glahn,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Glahn,Hanne,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Glahn,Hanne,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Hanne,Glahn,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Hanne,Glahn,2.3195876288659796,3.0927835051546393,58.50515463917526,0.75,refuse go wash wind shout be have shoot realise love jump soak be yell have sit cry be
+Yngve,Karl Ove,4.411764705882353,0.7352941176470588,36.029411764705884,6.0,say
+Yngve,Kristin,4.411764705882353,0.7352941176470588,36.029411764705884,6.0,say
+Karl Ove,Kristin,4.411764705882353,0.7352941176470588,36.029411764705884,6.0,say
+Unni,Fredrik,2.5,0.0,44.166666666666664,INF,have invite be arrive
+Unni,Fredrik,2.5,0.0,44.166666666666664,INF,have invite be arrive
+Kristin,Cecilie,3.532608695652174,1.358695652173913,53.80434782608695,2.6,fly be have happen do say treat have
+Cecilie,Kristin,3.532608695652174,1.358695652173913,53.80434782608695,2.6,fly be have happen do say treat have
+Cecilie,Kristin,3.532608695652174,1.358695652173913,53.80434782608695,2.6,fly be have happen do say treat have
+Yngve,Kristin,3.75,0.0,46.25,INF,have sit
+Kristin,Yngve,3.9473684210526314,3.9473684210526314,50.0,1.0,be rub be wear have be
+Yngve,Kristin,3.9473684210526314,3.9473684210526314,50.0,1.0,be rub be wear have be
+Fredrik,Yngve,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Fredrik,Kristin,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Fredrik,Yngve,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Fredrik,Kristin,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Yngve,Kristin,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Yngve,Fredrik,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Kristin,Fredrik,2.1739130434782608,4.891304347826087,40.76086956521739,0.4444444444444444,sit answer ask
+Yngve,Kristin,3.125,1.0416666666666665,62.5,3.0,remember think be be
+Fredrik,Unni,0.4166666666666667,1.25,48.333333333333336,0.3333333333333333,give stare say writhe
+Yngve,Karl Ove,0.0,0.0,0.0,INF,
+Yngve,Kristin,0.5434782608695652,1.6304347826086956,41.30434782608695,0.3333333333333333,go wander
+Yngve,Fredrik,0.5434782608695652,1.6304347826086956,41.30434782608695,0.3333333333333333,go wander
+Kristin,Fredrik,0.5434782608695652,1.6304347826086956,41.30434782608695,0.3333333333333333,go wander
+Yngve,Kristin,1.3888888888888888,0.0,54.166666666666664,INF,go sit chat
+Yngve,Fredrik,1.3888888888888888,0.0,54.166666666666664,INF,go sit chat
+Kristin,Fredrik,1.3888888888888888,0.0,54.166666666666664,INF,go sit chat
+Unni,Yngve,0.7575757575757576,1.1363636363636365,55.68181818181818,0.6666666666666666,return have make drink show
+Unni,Kristin,0.7575757575757576,1.1363636363636365,55.68181818181818,0.6666666666666666,return have make drink show
+Yngve,Kristin,0.7575757575757576,1.1363636363636365,55.68181818181818,0.6666666666666666,return have make drink show
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Fredrik,Unni,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+Unni,Fredrik,1.0,4.25,42.75,0.23529411764705882,be get rebuke make go struggle follow shout pretend be
+K.O.,Fredrik,0.0,0.0,55.55555555555556,INF,write
+Yngve,Kristin,8.333333333333332,4.166666666666666,29.166666666666668,2.0,tell
+Bjørn,Jøgge,1.3392857142857142,1.5625,48.88392857142857,0.8571428571428571,be be drink get jump continue be
+Bjørn,Amanda,1.3513513513513513,1.0135135135135136,48.986486486486484,1.3333333333333333,have bring be see talk go
+Bjørn,Jøran,1.3513513513513513,1.0135135135135136,48.986486486486484,1.3333333333333333,have bring be see talk go
+Amanda,Jøran,1.3513513513513513,1.0135135135135136,48.986486486486484,1.3333333333333333,have bring be see talk go
+Bjørn,Amanda,6.944444444444445,0.0,48.61111111111111,INF,be try
+Bjørn,Amanda,0.9868421052631579,0.6578947368421052,53.61842105263158,1.5,come run turn give seem reconsider open
+Amanda,Bjørn,0.9868421052631579,0.6578947368421052,53.61842105263158,1.5,come run turn give seem reconsider open
+Amanda,Bjørn,1.5625,1.953125,52.734375,0.8,lay fall have find want
+Amanda,Bjørn,2.272727272727273,3.4090909090909087,39.77272727272727,0.6666666666666666,get say
+Amanda,Jøran,0.0,0.0,25.0,INF,have finish
+Christ,Jøgge,0.0,0.0,38.46153846153847,INF,come say
+Bjørn,Jøgge,0.0,1.3888888888888888,37.5,0.0,let go see say drag
+Bjørn,Harald,0.0,1.3888888888888888,37.5,0.0,let go see say drag
+Jøgge,Harald,0.0,1.3888888888888888,37.5,0.0,let go see say drag
+Espen,Trond,1.5625,0.0,35.9375,INF,recognise
+Gisle,Trond,3.8461538461538463,0.0,34.61538461538461,INF,get give
+Espen,Gisle,2.393617021276596,3.4574468085106385,57.97872340425532,0.6923076923076923,go continue increase tidy clean look have hit
+Espen,Trond,2.393617021276596,3.4574468085106385,57.97872340425532,0.6923076923076923,go continue increase tidy clean look have hit
+Gisle,Trond,2.393617021276596,3.4574468085106385,57.97872340425532,0.6923076923076923,go continue increase tidy clean look have hit
+Hugo,Nils Erik,6.578947368421052,1.3157894736842104,50.0,5.0,want dance say look
+Sture,Nils Erik,0.5681818181818182,0.0,53.97727272727273,INF,come flick budge
+Sture,Nils Erik,0.5681818181818182,0.0,53.97727272727273,INF,come flick budge
+Sture,Nils Erik,0.5681818181818182,0.0,53.97727272727273,INF,come flick budge
+Karl Ove,Hilde,4.861111111111112,2.7777777777777777,47.91666666666667,1.75,have be
+Karl Ove,Kjartan,3.571428571428571,0.8928571428571428,47.91666666666667,4.0,be wait be be have be remember
+Andrea,Vivian,4.545454545454546,0.0,50.0,INF,look put
+Vivian,Andrea,4.545454545454546,0.0,50.0,INF,look put
+Kai Roald,Vivian,6.25,4.166666666666666,47.91666666666667,1.5,roll be grin
+Kai Roald,Vivian,6.25,4.166666666666666,47.91666666666667,1.5,roll be grin
+Karl Ove,Hege,2.272727272727273,0.0,38.63636363636363,INF,phone say come
+Hege,Andrea,3.3854166666666665,0.0,57.03125,INF,find be feel be be touch do understand
+Hege,Andrea,3.3854166666666665,0.0,57.03125,INF,find be feel be be touch do understand
+Andrea,Hege,3.3854166666666665,0.0,57.03125,INF,find be feel be be touch do understand
+Hege,Andrea,3.3854166666666665,0.0,57.03125,INF,find be feel be be touch do understand
+Torill,Karl Ove,2.7777777777777777,0.6944444444444444,52.083333333333336,4.0,have be have let say
+Andrea,Hildegunn,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,be stand watch approach
+Andrea,Richard,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,be stand watch approach
+Hildegunn,Richard,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,be stand watch approach
+Vivian,Andrea,0.6578947368421052,0.3289473684210526,49.01315789473684,2.0,be wave start shout come look smile
+Vivian,Karl Ove,0.6578947368421052,0.3289473684210526,49.01315789473684,2.0,be wave start shout come look smile
+Andrea,Karl Ove,0.6578947368421052,0.3289473684210526,49.01315789473684,2.0,be wave start shout come look smile
+Vivian,Andrea,3.125,0.0,53.125,INF,be be yank make
+Vivian,Andrea,3.125,0.0,53.125,INF,be be yank make
+Vivian,Andrea,3.125,0.0,53.125,INF,be be yank make
+Karl Ove,Irene,5.0,0.0,35.0,INF,think be fall say
+Geir Helge,Dag Lothar,3.289473684210526,3.9473684210526314,59.42982456140351,0.8333333333333334,have read be grow have be have take have dare
+Nils Erik,Thomas Mann,1.1627906976744187,1.744186046511628,48.25581395348838,0.6666666666666666,go go buy take
+Nils Erik,Felix Krull,1.1627906976744187,1.744186046511628,48.25581395348838,0.6666666666666666,go go buy take
+Thomas Mann,Felix Krull,1.1627906976744187,1.744186046511628,48.25581395348838,0.6666666666666666,go go buy take
+Irene,Karl Ove,1.0869565217391304,0.0,38.04347826086957,INF,introduce call be hear
+Irene,Karl Ove,1.0869565217391304,0.0,38.04347826086957,INF,introduce call be hear
+Vivian,Andrea,0.8928571428571428,0.0,49.107142857142854,INF,come race
+Anne,Tor Einar,1.7857142857142856,1.9736842105263157,54.88721804511278,0.9047619047619048,dance be come be be attract stand smooch be ring invite try lower have say have happen have happen be have have be
+Anne,Nils Erik,1.7857142857142856,1.9736842105263157,54.88721804511278,0.9047619047619048,dance be come be be attract stand smooch be ring invite try lower have say have happen have happen be have have be
+Tor Einar,Nils Erik,1.7857142857142856,1.9736842105263157,54.88721804511278,0.9047619047619048,dance be come be be attract stand smooch be ring invite try lower have say have happen have happen be have have be
+Anne,Frank,2.450980392156863,0.9803921568627451,57.35294117647059,2.5,traipse be be stand do care be have be watch
+Anne,Frank,2.450980392156863,0.9803921568627451,57.35294117647059,2.5,traipse be be stand do care be have be watch
+Frank,Anne,2.450980392156863,0.9803921568627451,57.35294117647059,2.5,traipse be be stand do care be have be watch
+Nils Erik,Tor Einar,1.875,3.125,50.0,0.6,feel have know be
+Kai Roald,Vivian,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Kai Roald,Hildegunn,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Kai Roald,Andrea,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Vivian,Hildegunn,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Vivian,Andrea,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Hildegunn,Andrea,0.0,0.0,52.38095238095239,INF,sit sit sit sit sit
+Hildegunn,Andrea,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,have
+Martin Luther,Vivian,0.0,0.0,41.66666666666667,INF,live say
+Vivian,Andrea,0.0,0.0,53.57142857142857,INF,be say be intend show be know
+Vivian,Andrea,0.0,0.0,53.57142857142857,INF,be say be intend show be know
+Andrea,Hildegunn,1.0869565217391304,0.5434782608695652,46.19565217391305,2.0,be sit be head
+Kai Roald,Vivian,0.0,0.0,33.33333333333333,INF,come
+Karl Ove,Jo,0.0,0.0,41.17647058823529,INF,come say pull
+Endre,Jo,0.0,0.0,53.84615384615385,INF,be be
+Stig,Jo,0.0,0.0,44.44444444444444,INF,let have say try crawl
+Reidar,Jo,0.0,0.0,42.857142857142854,INF,smile push
+Jo,Endre,0.8928571428571428,0.8928571428571428,58.92857142857143,1.0,have round see trudge bow stamp
+Nils Erik,Geir Helge,1.7307692307692308,1.3461538461538463,53.84615384615385,1.2857142857142858,turn rest watch spray be remind have say lie swim see
+Geir Helge,Nils Erik,1.7307692307692308,1.3461538461538463,53.84615384615385,1.2857142857142858,turn rest watch spray be remind have say lie swim see
+Jesus,Mary Chain,3.273809523809524,3.422619047619048,55.208333333333336,0.9565217391304348,be seem conflict be define do be have notice be take have hear like have hear
+Hilda,Eva,0.0,0.0,36.36363636363637,INF,use belong
+Kundera,Hamsun,2.604166666666667,2.083333333333333,51.5625,1.25,be go do be prefer
+Kjærstad,Kundera,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,have be
+Erling,Harald,0.0,0.0,45.45454545454545,INF,stand
+Erling,Harald,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,have
+Torill,Georg,0.0,0.0,0.0,INF,
+Reidar,Andrea,0.0,0.0,33.33333333333333,INF,come
+Karl Ove,Reidar,0.9615384615384616,0.0,29.807692307692307,INF,say
+Hildegunn,Andrea,0.0,0.0,33.33333333333333,INF,put
+Kai Roald,Vivian,0.0,0.0,0.0,INF,
+Kai Roald,Hege,4.861111111111112,2.083333333333333,48.61111111111111,2.3333333333333335,walk swing stare
+Kai Roald,Hege,4.3478260869565215,8.695652173913043,52.17391304347826,0.5,shrug say have have call
+Hege,Vivian,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,do want sit be
+Hege,Vivian,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,do want sit be
+Vivian,Hege,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,do want sit be
+Vivian,Hege,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,do want sit be
+Kai Roald,Karl Ove,4.807692307692308,0.0,41.34615384615385,INF,have ring say
+Karl Ove,Kai Roald,1.3888888888888888,0.6944444444444444,25.694444444444443,2.0,be
+Jørn,Vivian,1.1363636363636365,0.0,53.40909090909091,INF,watch do stick
+Jørn,Vivian,1.1363636363636365,0.0,53.40909090909091,INF,watch do stick
+Hildegunn,Vivian,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Hildegunn,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Hildegunn,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Hildegunn,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Hildegunn,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Vivian,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Vivian,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Vivian,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Vivian,Andrea,2.640845070422535,1.232394366197183,52.46478873239436,2.142857142857143,come be bore chat avoid look do look be be be make glance blush
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Henning,Levi,3.515625,1.3671875,56.0546875,2.5714285714285716,be have be set show be wear play have like listen
+Vivian,Liv,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Vivian,Christ,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Vivian,Liv,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Vivian,Liv,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Liv,Christ,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Christ,Liv,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Christ,Liv,0.3676470588235294,0.7352941176470588,51.83823529411765,0.5,be be object look
+Andrea,Vivian,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Andrea,Stian,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Andrea,Ivar,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Vivian,Stian,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Vivian,Ivar,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Stian,Ivar,1.3888888888888888,0.0,26.38888888888889,INF,stand
+Stian,Ivar,3.125,0.390625,62.109375,8.0,have be have go ask have
+Stian,Vivian,3.125,0.390625,62.109375,8.0,have be have go ask have
+Ivar,Vivian,3.125,0.390625,62.109375,8.0,have be have go ask have
+Tor Einar,Stian,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Stian,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Stian,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Stian,Tor Einar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Stian,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Stian,Tor Einar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Ivar,Tor Einar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Ivar,Tor Einar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Tor Einar,Ivar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Ivar,Tor Einar,3.070175438596491,0.6578947368421052,47.14912280701755,4.666666666666667,have have make do go have return tremble have knock have get
+Stian,Ivar,4.807692307692308,2.8846153846153846,23.076923076923077,1.6666666666666667,be expect deal
+Stian,Tor Einar,9.615384615384617,0.9615384615384616,50.96153846153846,10.0,sit
+Vivian,Andrea,0.0,0.0,50.0,INF,be say
+Steve,Vivian,2.7777777777777777,8.333333333333332,33.33333333333333,0.3333333333333333,be say
+Torill,Andrea,0.0,2.5510204081632653,50.51020408163265,0.0,be wake be shake shout scream groan take sleep
+Torill,Andrea,0.0,2.5510204081632653,50.51020408163265,0.0,be wake be shake shout scream groan take sleep
+Tor Einar,Hege,0.33783783783783783,2.027027027027027,65.2027027027027,0.16666666666666666,be do have drop come
+Tor Einar,Hege,0.33783783783783783,2.027027027027027,65.2027027027027,0.16666666666666666,be do have drop come
+Yngve,Arendal,3.75,0.0,41.25,INF,have get have pen
+Yngve,Øyvind,3.75,0.0,41.25,INF,have get have pen
+Arendal,Øyvind,3.75,0.0,41.25,INF,have get have pen
+Torill,Nils Erik,1.8292682926829267,3.6585365853658534,50.609756097560975,0.5,have see be have exist
+Karl Ove,Andrea,6.25,0.0,13.750000000000002,INF,
+Karl Ove,Andrea,6.25,0.0,13.750000000000002,INF,
+Karl Ove,Andrea,0.0,1.9230769230769231,36.53846153846153,0.0,do take whisper
+Hege,Nils Erik,4.741379310344827,2.586206896551724,47.8448275862069,1.8333333333333333,be come be know have do
+Hege,Nils Erik,4.741379310344827,2.586206896551724,47.8448275862069,1.8333333333333333,be come be know have do
+Hege,Nils Erik,4.741379310344827,2.586206896551724,47.8448275862069,1.8333333333333333,be come be know have do
+Hege,Nils Erik,4.741379310344827,2.586206896551724,47.8448275862069,1.8333333333333333,be come be know have do
+Vivian,Andrea,4.791666666666667,2.9166666666666665,50.625,1.6428571428571428,see be be sit sit want have have be do be
+Håfjord School,Nils Erik,3.4653465346534658,1.8564356435643563,57.05445544554455,1.8666666666666667,wonder ask dance reject be have appear get wander sit go see gleam go search say be like share
+Vivian,Steve,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Vivian,Andrea,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Vivian,Hildegunn,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Steve,Andrea,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Steve,Hildegunn,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Andrea,Hildegunn,2.473958333333333,1.4322916666666665,50.260416666666664,1.7272727272727273,be go be ask be enjoy be laugh be know make move bound plough stand
+Tor Einar,Hege,2.1341463414634148,2.8963414634146343,59.60365853658537,0.7368421052631579,applaud have finish take stagger see chat snog look light drain turn glimpse
+Nils Erik,Tor Einar,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,go be
+Nils Erik,Henning,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,go be
+Tor Einar,Henning,3.571428571428571,2.6785714285714284,36.607142857142854,1.3333333333333333,go be
+Jesus,Mary Chain,0.0,0.0,62.5,INF,
+Hege,Ine,7.5,0.0,22.5,INF,like say
+Hege,Ine,0.4629629629629629,2.314814814814815,63.888888888888886,0.2,stand ring come
+Ine,Hege,0.0,0.0,53.84615384615385,INF,be come slip
+Jesus,Hege,0.0,0.0,33.33333333333333,INF,be
+Tor Einar,Nils Erik,2.7777777777777777,1.0416666666666665,51.736111111111114,2.6666666666666665,be chat sit be be go
+Nils Erik,Tor Einar,2.7777777777777777,1.0416666666666665,51.736111111111114,2.6666666666666665,be chat sit be be go
+Tor Einar,Nils Erik,2.5,1.875,55.625,1.3333333333333333,have be keep
+Tor Einar,Nils Erik,2.7777777777777777,2.083333333333333,56.25,1.3333333333333333,return be go go
+Karl Ove,Jo,4.435483870967742,0.8064516129032258,43.145161290322584,5.5,sit torment be love be
+Karl Ove,Jo,4.435483870967742,0.8064516129032258,43.145161290322584,5.5,sit torment be love be
+Karl Ove,Jo,4.435483870967742,0.8064516129032258,43.145161290322584,5.5,sit torment be love be
+Karl Ove,Jo,4.435483870967742,0.8064516129032258,43.145161290322584,5.5,sit torment be love be
+Karl Ove,Jo,4.435483870967742,0.8064516129032258,43.145161290322584,5.5,sit torment be love be
+Stig,Reidar,3.125,1.5625,7.8125,2.0,be
+Stig,Endre,3.125,1.5625,7.8125,2.0,be
+Reidar,Endre,3.125,1.5625,7.8125,2.0,be
+Lisa,Gabriel,0.0,0.0,50.0,INF,be squirm
+Gabriel,Lisa,5.147058823529411,5.88235294117647,53.67647058823529,0.875,grin unzip stuff
+Gabriel,Lisa,5.147058823529411,5.88235294117647,53.67647058823529,0.875,grin unzip stuff
+Gabriel,Lisa,5.147058823529411,5.88235294117647,53.67647058823529,0.875,grin unzip stuff
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Tor Einar,Nils Erik,6.1440677966101696,0.6355932203389831,57.6271186440678,9.666666666666666,know have do be recognise have be do have be do read have laugh
+Nils Erik,Tor Einar,3.4274193548387095,2.0161290322580645,52.62096774193549,1.7,be want do do feel visit be have darken be
+Nils Erik,Hege,3.4274193548387095,2.0161290322580645,52.62096774193549,1.7,be want do do feel visit be have darken be
+Tor Einar,Hege,3.4274193548387095,2.0161290322580645,52.62096774193549,1.7,be want do do feel visit be have darken be
+Nils Erik,Tor Einar,1.4830508474576272,0.847457627118644,56.99152542372882,1.75,be open join sit support look glisten be rest
+Stian,Ivar,1.9230769230769231,0.0,55.769230769230774,INF,be decide have
+Ivar,Karl Ove,3.7162162162162162,2.364864864864865,64.1891891891892,1.5714285714285714,play be tell play watch nod change have be practise
+Ivar,Karl Ove,3.7162162162162162,2.364864864864865,64.1891891891892,1.5714285714285714,play be tell play watch nod change have be practise
+Ivar,Karl Ove,3.7162162162162162,2.364864864864865,64.1891891891892,1.5714285714285714,play be tell play watch nod change have be practise
+Ivar,Karl Ove,3.7162162162162162,2.364864864864865,64.1891891891892,1.5714285714285714,play be tell play watch nod change have be practise
+Stian,Karl Ove,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,play be listen be play
+Stian,Karl Ove,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,play be listen be play
+Stian,Ivar,4.807692307692308,0.9615384615384616,48.07692307692308,5.0,do pose
+Stian,Ivar,3.977272727272727,2.840909090909091,43.18181818181818,1.4,try conceal feel spit pretend be
+Eva,Karl Ove,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Eva,Karl Ove,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Eva,Karl Ove,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Eva,Karl Ove,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Karl Ove,Eva,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Karl Ove,Eva,3.7213740458015265,3.6259541984732824,49.904580152671755,1.0263157894736843,have be give use belong play have treat have be break replace have snap be replace have have say move be work talk do listen inform have say tell reprimand say do see
+Christ,Eva,0.0,4.166666666666666,49.166666666666664,0.0,be go let
+Stian,Ivar,2.976190476190476,4.166666666666666,40.476190476190474,0.7142857142857143,be be go discuss have achieve
+Andrea,Vivian,0.0,0.0,58.333333333333336,INF,present
+Karl Ove,Vivian,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Karl Ove,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Karl Ove,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Karl Ove,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Vivian,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Vivian,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Vivian,Andrea,0.0,0.0,48.38709677419355,INF,come say show be be write move
+Vivian,Andrea,4.166666666666666,0.4629629629629629,58.333333333333336,9.0,meet have know have be
+Jan Vidar,Nils Erik,2.232142857142857,1.3392857142857142,64.28571428571429,1.6666666666666667,have sit ask be go
+Jon Olav,Dale,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,have grow go be know
+Dale,Jon Olav,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,have grow go be know
+Jon Olav,Håfjord School,4.032258064516129,2.4193548387096775,41.935483870967744,1.6666666666666667,drink talk be have come consider feel
+Jon Olav,Dale,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,have sleep go
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Dale,Jon Olav,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Jon Olav,Dale,0.7075471698113208,0.4716981132075472,68.63207547169812,1.5,be have leave make promise send get tell do be go know
+Liv,Camilla,3.787878787878788,1.893939393939394,60.984848484848484,2.0,cast have do shiver go see sit possess have be fascinate
+Felix Krull,Thomas Mann,0.0,0.0,46.666666666666664,INF,be say
+Nils Erik,Tor Einar,3.8194444444444446,2.7777777777777777,57.291666666666664,1.375,have be be have be leave do
+Nils Erik,Tor Einar,3.8194444444444446,2.7777777777777777,57.291666666666664,1.375,have be be have be leave do
+Tor Einar,Nils Erik,3.8461538461538463,1.9230769230769231,53.205128205128204,2.0,assume be be do like do be be say allow want say prefer hear have say talk
+Tor Einar,Nils Erik,3.8461538461538463,1.9230769230769231,53.205128205128204,2.0,assume be be do like do be be say allow want say prefer hear have say talk
+Ine,Irene,0.0,0.0,0.0,INF,
+Camilla,Liv,0.0,0.0,37.5,INF,beat
+Andrea,Vivian,2.6785714285714284,3.571428571428571,50.89285714285714,0.75,have say
+Andrea,Kai Roald,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Andrea,Hege,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Andrea,Jan Vidar,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Andrea,Sture,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Kai Roald,Hege,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Kai Roald,Jan Vidar,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Kai Roald,Sture,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Hege,Jan Vidar,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Hege,Sture,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Jan Vidar,Sture,0.9375,5.0,36.5625,0.1875,disappear disappear disappear disappear be go
+Arvid,Erling,4.72972972972973,1.3513513513513513,47.97297297297297,3.5,be go be have scrape be play know
+Gunnar,Tove,1.9067796610169492,0.6355932203389831,50.0,3.0,pick be wait spend keep crawl be frighten exude strike be gladden
+Tove,Gunnar,1.9067796610169492,0.6355932203389831,50.0,3.0,pick be wait spend keep crawl be frighten exude strike be gladden
+Tove,Gunnar,1.9067796610169492,0.6355932203389831,50.0,3.0,pick be wait spend keep crawl be frighten exude strike be gladden
+Tove,Gunnar,1.9067796610169492,0.6355932203389831,50.0,3.0,pick be wait spend keep crawl be frighten exude strike be gladden
+Gunnar,Lars,0.7352941176470588,0.7352941176470588,51.470588235294116,1.0,sleep hurry drive be wait
+Gunnar,Lars,0.7352941176470588,0.7352941176470588,51.470588235294116,1.0,sleep hurry drive be wait
+Lars,Bassen,1.5625,0.78125,47.65625,2.0,be leave go look
+Yngve,Lars,1.3888888888888888,3.2407407407407405,58.333333333333336,0.42857142857142855,keep be be

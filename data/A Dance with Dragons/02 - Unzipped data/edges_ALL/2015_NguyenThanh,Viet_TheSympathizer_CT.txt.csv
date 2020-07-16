@@ -1,0 +1,579 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Marx,Lenin,1.9230769230769231,1.9230769230769231,52.56410256410257,1.0,offer have hypnotize
+Marx,Mao,1.9230769230769231,1.9230769230769231,52.56410256410257,1.0,offer have hypnotize
+Lenin,Mao,1.9230769230769231,1.9230769230769231,52.56410256410257,1.0,offer have hypnotize
+Mao,Lenin,3.431372549019608,1.715686274509804,47.794117647058826,2.0,be find demonstrate be plagiarize arise say rap be be do
+Mao,Lenin,3.431372549019608,1.715686274509804,47.794117647058826,2.0,be find demonstrate be plagiarize arise say rap be be do
+Mao,Lenin,3.431372549019608,1.715686274509804,47.794117647058826,2.0,be find demonstrate be plagiarize arise say rap be be do
+Lenin,Mao,3.431372549019608,1.715686274509804,47.794117647058826,2.0,be find demonstrate be plagiarize arise say rap be be do
+Da Nang,Nha Trang,2.616279069767442,2.9069767441860463,50.2906976744186,0.9,believe have fall have shoot fight escape run
+Claude,Madame,0.0,4.375,75.625,0.0,resume study do raise
+Claude,Madame,0.0,4.375,75.625,0.0,resume study do raise
+Claude,CIA,0.0,0.4807692307692308,64.90384615384616,0.0,be date rule
+CIA,Ho Chi Minh,3.125,0.0,46.875,INF,be look fight
+Uncle Ho,Ho Chi Minh,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Uncle Ho,Ho Chi Minh,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Uncle Ho,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Uncle Ho,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Ho Chi Minh,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Ho Chi Minh,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Ho Chi Minh,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Ho Chi Minh,Claude,0.8620689655172413,0.0,64.65517241379311,INF,say speak believe see
+Claude,Richard Hedd,0.0,0.0,60.0,INF,arrive be carry
+Claude,Richard Hedd,0.0,0.0,60.0,INF,arrive be carry
+Claude,Madame,1.6129032258064515,7.258064516129033,55.64516129032258,0.2222222222222222,do like despise forgive do rescue
+Madame,Claude,1.6129032258064515,7.258064516129033,55.64516129032258,0.2222222222222222,do like despise forgive do rescue
+Madame,Claude,1.6129032258064515,7.258064516129033,55.64516129032258,0.2222222222222222,do like despise forgive do rescue
+Madame,Claude,1.6129032258064515,7.258064516129033,55.64516129032258,0.2222222222222222,do like despise forgive do rescue
+Da Nang,Nha Trang,1.7857142857142856,0.0,44.642857142857146,INF,have happen have flee leave turn
+God,Noah,0.0,0.0,44.44444444444444,INF,save
+Catholic,Noah,3.4090909090909087,3.787878787878788,62.5,0.9,have be remember sermonize go daydream
+God,Noah,1.6304347826086956,1.6304347826086956,61.95652173913043,1.0,do be give rescue afford
+American Radio Service,Sony,0.7352941176470588,0.0,66.91176470588235,INF,be work listen
+Faulkner,Man,0.641025641025641,1.9230769230769231,61.53846153846154,0.3333333333333333,have replace be write
+Bon,Man,2.857142857142857,0.35714285714285715,59.64285714285714,8.0,wait have pass recall
+Bon,Man,0.4629629629629629,2.7777777777777777,70.83333333333334,0.16666666666666666,pour sit allow drink offer
+Bon,Marcos,0.0,8.75,31.25,0.0,groan rub
+Bon,Marcos,0.0,8.75,31.25,0.0,groan rub
+Man,Bon,3.389090909090909,4.565454545454545,57.49999999999999,0.7423337315810433,be have volunteer fight have hate encourage kneel make insert
+Bon,Man,1.1904761904761905,1.1904761904761905,54.761904761904766,1.0,leave be go put have persuade think
+Bon,Man,2.364864864864865,1.0135135135135136,47.97297297297297,2.3333333333333335,have tell flee be stay despise
+Bon,Man,2.364864864864865,1.0135135135135136,47.97297297297297,2.3333333333333335,have tell flee be stay despise
+Man,Bon,2.364864864864865,1.0135135135135136,47.97297297297297,2.3333333333333335,have tell flee be stay despise
+Man,Bon,2.364864864864865,1.0135135135135136,47.97297297297297,2.3333333333333335,have tell flee be stay despise
+Bon,Trinh Cong Son,2.142857142857143,2.5,55.35714285714286,0.8571428571428571,be know be see step
+Bon,Man,2.142857142857143,2.5,55.35714285714286,0.8571428571428571,be know be see step
+Bon,Trinh Cong Son,2.142857142857143,2.5,55.35714285714286,0.8571428571428571,be know be see step
+Trinh Cong Son,Man,2.142857142857143,2.5,55.35714285714286,0.8571428571428571,be know be see step
+Man,Trinh Cong Son,2.142857142857143,2.5,55.35714285714286,0.8571428571428571,be know be see step
+Bon,Man,1.7045454545454544,0.0,57.38636363636363,INF,say leave toss
+Man,Bon,1.7045454545454544,0.0,57.38636363636363,INF,say leave toss
+Man,Bon,6.896551724137931,4.310344827586207,43.96551724137931,1.6,be draw sneer muddle
+Bon,Linh,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Bon,Linh,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Bon,Linh,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Bon,Duc,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Linh,Duc,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Linh,Duc,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Linh,Duc,3.4722222222222223,0.0,46.52777777777778,INF,be steer hold
+Bon,Linh,2.5,0.5,53.0,5.0,be lean peer
+Bon,Duc,2.5,0.5,53.0,5.0,be lean peer
+Bon,Duc,2.5,0.5,53.0,5.0,be lean peer
+Linh,Duc,2.5,0.5,53.0,5.0,be lean peer
+Linh,Duc,2.5,0.5,53.0,5.0,be lean peer
+Le Loi,Trinh Cong Son,0.8064516129032258,7.258064516129033,53.2258064516129,0.1111111111111111,continue complain pass turn cease stop
+National Assembly,Le Loi,0.872093023255814,2.3255813953488373,54.94186046511628,0.375,get think be follow turn
+Bon,National Assembly,3.6363636363636362,2.9545454545454546,57.04545454545455,1.2307692307692308,salute ponder be be protect stroll gaze be attack aim
+Man,Catholic,7.142857142857142,0.0,64.28571428571429,INF,amuse
+Bon,Duc,1.3888888888888888,0.0,48.61111111111111,INF,stroke say see
+Bon,Duc,1.524390243902439,0.6097560975609756,56.40243902439024,2.5,drape squeeze hang hold roll peek
+Bon,Linh,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,settle
+Bon,Duc,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,settle
+Linh,Duc,0.8333333333333334,5.833333333333333,40.0,0.14285714285714285,settle
+Linh,Duc,0.0,0.0,45.45454545454545,INF,ask cradle
+Duc,Linh,0.0,0.0,45.45454545454545,INF,ask cradle
+Linh,Bon,1.7241379310344827,0.0,53.44827586206896,INF,make settle wait wait
+Bon,Man,1.953125,5.46875,48.828125,0.35714285714285715,predict join avenge murder assassinate consider
+Bon,Man,5.0,2.083333333333333,46.25,2.4,do know come believe rescue be become
+Mimi,Phi Phi,3.0303030303030303,3.0303030303030303,54.54545454545454,1.0,call inject
+Mimi,Ti Ti,3.0303030303030303,3.0303030303030303,54.54545454545454,1.0,call inject
+Phi Phi,Ti Ti,3.0303030303030303,3.0303030303030303,54.54545454545454,1.0,call inject
+Phi Phi,Mimi,0.7575757575757576,0.0,47.72727272727273,INF,be remind have take
+Sarge,Phi Phi,8.928571428571429,0.0,55.35714285714286,INF,guard love say
+Mimi,Ti Ti,2.2058823529411766,5.147058823529411,51.470588235294116,0.42857142857142855,nod crack crack
+Mimi,Ti Ti,2.2058823529411766,5.147058823529411,51.470588235294116,0.42857142857142855,nod crack crack
+Ti Ti,Mimi,2.2058823529411766,5.147058823529411,51.470588235294116,0.42857142857142855,nod crack crack
+Bon,Linh,0.0,0.0,53.84615384615385,INF,doze cup get
+Bon,Duc,0.0,0.0,53.84615384615385,INF,doze cup get
+Bon,Duc,0.0,0.0,53.84615384615385,INF,doze cup get
+Linh,Duc,0.0,0.0,53.84615384615385,INF,doze cup get
+Linh,Duc,0.0,0.0,53.84615384615385,INF,doze cup get
+Bon,Linh,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Bon,Duc,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Bon,Madame,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Bon,Linh,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Linh,Duc,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Linh,Madame,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Duc,Madame,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Duc,Linh,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Madame,Linh,2.631578947368421,4.605263157894736,34.868421052631575,0.5714285714285714,be be
+Bon,Linh,1.9230769230769231,3.3653846153846154,48.55769230769231,0.5714285714285714,be seize drag
+Linh,Duc,0.0,0.8333333333333334,59.166666666666664,0.0,carry wail wrap
+Duc,Linh,0.0,0.8333333333333334,59.166666666666664,0.0,carry wail wrap
+Bon,Linh,0.0,0.0,50.0,INF,do determine
+Bon,Linh,0.0,0.0,50.0,INF,do determine
+Bon,Duc,0.0,0.0,48.0,INF,say draw throw huddle
+Bon,Duc,0.0,0.0,48.0,INF,say draw throw huddle
+Bon,Linh,0.0,0.0,48.0,INF,say draw throw huddle
+Duc,Linh,0.0,0.0,48.0,INF,say draw throw huddle
+Duc,Linh,0.0,0.0,48.0,INF,say draw throw huddle
+Mama San,Duc,12.5,0.0,30.357142857142854,INF,say
+Linh,Duc,0.6578947368421052,0.0,57.23684210526315,INF,set pause let
+Bon,Linh,0.0,0.0,52.94117647058824,INF,be kneel clutch
+Bon,Duc,0.0,0.0,52.94117647058824,INF,be kneel clutch
+Linh,Duc,0.0,0.0,52.94117647058824,INF,be kneel clutch
+Bon,Duc,1.3888888888888888,7.638888888888889,57.638888888888886,0.18181818181818182,be make have hear
+Duc,Linh,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.7045454545454544,0.8522727272727272,51.98863636363637,2.0,be roll pry see have tear
+Linh,Duc,1.4423076923076923,0.9615384615384616,47.59615384615385,1.5,pry do tumble
+Linh,Duc,1.4423076923076923,0.9615384615384616,47.59615384615385,1.5,pry do tumble
+Bon,Linh,0.3289473684210526,2.9605263157894735,54.60526315789473,0.1111111111111111,scream run throw make bump
+Bon,Linh,0.3289473684210526,2.9605263157894735,54.60526315789473,0.1111111111111111,scream run throw make bump
+Bon,Linh,0.3289473684210526,2.9605263157894735,54.60526315789473,0.1111111111111111,scream run throw make bump
+Bon,Duc,1.5957446808510638,3.1914893617021276,50.53191489361703,0.5,be run extend take do flop
+Bon,Duc,1.5957446808510638,3.1914893617021276,50.53191489361703,0.5,be run extend take do flop
+Bon,Duc,1.5957446808510638,3.1914893617021276,50.53191489361703,0.5,be run extend take do flop
+Bon,Duc,1.5957446808510638,3.1914893617021276,50.53191489361703,0.5,be run extend take do flop
+Duc,Bon,1.25,7.5,51.24999999999999,0.16666666666666666,hand begin slow bow sob
+Duc,Linh,0.390625,1.953125,50.78125,0.2,be squeeze push
+Duc,Linh,0.0,0.0,50.0,INF,drape ease cover load
+Duc,Bon,0.0,0.0,50.0,INF,drape ease cover load
+Duc,Linh,0.0,0.0,50.0,INF,drape ease cover load
+Linh,Bon,0.0,0.0,50.0,INF,drape ease cover load
+Bon,Linh,0.0,0.0,50.0,INF,drape ease cover load
+Linh,Duc,0.0,0.0,33.33333333333333,INF,bury
+Bon,Duc,3.8793103448275863,1.7241379310344827,49.56896551724138,2.25,spin taunt haunt come
+Duc,Bon,0.78125,0.0,46.09375,INF,have lower share throw
+Duc,Bon,0.78125,0.0,46.09375,INF,have lower share throw
+Man,Linh,0.8152173913043478,0.2717391304347826,44.565217391304344,3.0,see flicker be convince have abandon
+Man,Duc,0.8152173913043478,0.2717391304347826,44.565217391304344,3.0,see flicker be convince have abandon
+Man,Duc,0.8152173913043478,0.2717391304347826,44.565217391304344,3.0,see flicker be convince have abandon
+Linh,Duc,0.8152173913043478,0.2717391304347826,44.565217391304344,3.0,see flicker be convince have abandon
+Linh,Duc,0.8152173913043478,0.2717391304347826,44.565217391304344,3.0,see flicker be convince have abandon
+Bon,Duc,1.293103448275862,5.172413793103448,48.706896551724135,0.25,have starve have drag eat
+Bon,Duc,1.293103448275862,5.172413793103448,48.706896551724135,0.25,have starve have drag eat
+Hammer,Claude,6.521739130434782,2.717391304347826,60.32608695652174,2.4,do find become
+Hammer,Man,6.521739130434782,2.717391304347826,60.32608695652174,2.4,do find become
+Claude,Man,6.521739130434782,2.717391304347826,60.32608695652174,2.4,do find become
+Madame,Richard Nixon,0.5952380952380952,0.3968253968253968,57.738095238095234,1.5,be be find write shop cook wash clean find undertake have manage
+IRS,American Dream,1.953125,1.171875,64.0625,1.6666666666666667,be privy have have receive mean have concede
+God,Bon,2.232142857142857,0.8928571428571428,46.875,2.5,prove serve pay
+Richard Hedd,Man,3.5256410256410255,0.0,50.32051282051282,INF,refer have choose
+Ms. Mori,Ford,1.893939393939394,2.083333333333333,50.56818181818182,0.9090909090909091,have become be describe engage commit stage
+Claude,Bon,0.0,0.0,33.33333333333333,INF,say
+Trinh Cong Son,Sonny,1.0869565217391304,0.0,72.82608695652173,INF,have see be nickname
+Trinh Cong Son,Sonny,1.0869565217391304,0.0,72.82608695652173,INF,have see be nickname
+Richard Nixon,John Wayne,5.059523809523809,2.083333333333333,71.42857142857143,2.4285714285714284,be think have be manufacture name
+Trinh Cong Son,Madame,0.0,1.0416666666666665,57.291666666666664,0.0,interject be interview
+Sonny,Madame,0.8928571428571428,0.0,56.25,INF,commemorate hulk flank cup grasp
+Hammer,Claude,0.5208333333333333,0.0,57.8125,INF,invite be
+Hammer,Claude,0.5208333333333333,0.0,57.8125,INF,invite be
+Stan,UCLA,0.0,1.953125,57.421875,0.0,be write
+UCLA,Stan,0.0,1.953125,57.421875,0.0,be write
+Hammer,Stan,3.6764705882352944,3.308823529411765,43.01470588235294,1.1111111111111112,seem extend
+Stan,God,2.5,1.25,46.25,2.0,be
+Claude,Viet Cong,0.0,10.416666666666668,39.58333333333333,0.0,identify
+Jesus,Uncle Ho,2.7777777777777777,4.513888888888888,48.26388888888889,0.6153846153846154,be be corrupt desecrate exploit mention
+Virgin Mary,God,0.0,0.0,56.25,INF,pray drone
+Sonny,Clark Gable,1.5625,0.0,60.9375,INF,be spot ensure
+Sonny,Clark Gable,1.5625,0.0,60.9375,INF,be spot ensure
+Kodak,Sonny,0.6756756756756757,0.6756756756756757,58.108108108108105,1.0,have take dispatch sit take
+Lana,Lan,2.3706896551724137,2.586206896551724,51.939655172413794,0.9166666666666666,be wear have send be reveal display
+Lan,Lana,2.3706896551724137,2.586206896551724,51.939655172413794,0.9166666666666666,be wear have send be reveal display
+Lan,Madame,2.083333333333333,0.0,60.416666666666664,INF,be have be straitjacket
+Lan,Madame,2.083333333333333,0.0,60.416666666666664,INF,be have be straitjacket
+Lan,Madame,1.644736842105263,0.0,58.88157894736842,INF,be regard beguile
+Madame,Lan,2.2058823529411766,0.0,56.61764705882353,INF,take swallow sleep
+Madame,Lan,0.8928571428571428,3.273809523809524,50.595238095238095,0.2727272727272727,concede fly study feel enhance keep
+Madame,Lan,0.8928571428571428,3.273809523809524,50.595238095238095,0.2727272727272727,concede fly study feel enhance keep
+Madame,Lan,0.8928571428571428,3.273809523809524,50.595238095238095,0.2727272727272727,concede fly study feel enhance keep
+Madame,Lan,0.8928571428571428,3.273809523809524,50.595238095238095,0.2727272727272727,concede fly study feel enhance keep
+Madame,Lan,4.5,1.25,46.25,3.6,sit accord lecture maintain cultivate call mind
+Madame,Lan,4.5,1.25,46.25,3.6,sit accord lecture maintain cultivate call mind
+Madame,Lan,4.5,1.25,46.25,3.6,sit accord lecture maintain cultivate call mind
+Madame,Lan,4.5,1.25,46.25,3.6,sit accord lecture maintain cultivate call mind
+Lan,Madame,4.741379310344827,2.586206896551724,65.08620689655173,1.8333333333333333,have visit have be invite
+Lan,Lana,2.0348837209302326,2.616279069767442,60.46511627906976,0.7777777777777778,hear be mutter be go have return choose live
+Lan,Lana,2.0348837209302326,2.616279069767442,60.46511627906976,0.7777777777777778,hear be mutter be go have return choose live
+Lana,Lan,0.0,2.8846153846153846,50.96153846153846,0.0,bear remember
+Clark Gable,Green Beret,1.6666666666666667,1.3888888888888888,56.94444444444444,1.2,respond take announce serve be find
+God,Clark Gable,3.7037037037037033,0.0,59.25925925925925,INF,say flank
+God,Clark Gable,3.7037037037037033,0.0,59.25925925925925,INF,say flank
+Sonny,Ms. Mori,7.352941176470589,0.0,57.35294117647059,INF,turn find
+Ms. Mori,Sonny,4.861111111111112,1.3888888888888888,43.75,3.5,have be have say
+Lana,Madame,6.25,6.25,37.5,1.0,be declare
+Lana,Madame,2.4390243902439024,2.1341463414634148,56.40243902439024,1.1428571428571428,have be try keep be strut say be be do
+Lana,Madame,2.4390243902439024,2.1341463414634148,56.40243902439024,1.1428571428571428,have be try keep be strut say be be do
+Madame,Lana,2.083333333333333,3.125,47.56944444444444,0.6666666666666666,say want marry be see
+Madame,Rita,0.7142857142857143,0.0,50.71428571428571,INF,turn allow repeat
+Madame,Castro,0.7142857142857143,0.0,50.71428571428571,INF,turn allow repeat
+Rita,Castro,0.7142857142857143,0.0,50.71428571428571,INF,turn allow repeat
+Castro,Madame,2.34375,3.125,50.78125,0.75,say say be
+Rita,Madame,0.3472222222222222,2.7777777777777777,49.65277777777778,0.125,seal be mention police
+Rita,Lana,0.3472222222222222,2.7777777777777777,49.65277777777778,0.125,seal be mention police
+Madame,Rita,0.3472222222222222,2.7777777777777777,49.65277777777778,0.125,seal be mention police
+Madame,Lana,0.3472222222222222,2.7777777777777777,49.65277777777778,0.125,seal be mention police
+Rita,Lana,0.3472222222222222,2.7777777777777777,49.65277777777778,0.125,seal be mention police
+Rita,Madame,4.310344827586207,2.586206896551724,41.37931034482759,1.6666666666666667,allow say grip console
+Madame,Rita,4.310344827586207,2.586206896551724,41.37931034482759,1.6666666666666667,allow say grip console
+Madame,Rita,4.310344827586207,2.586206896551724,41.37931034482759,1.6666666666666667,allow say grip console
+Bellamy,Shamus,2.734375,0.390625,53.125,7.0,be hear be shamus
+Bellamy,Shamus,2.734375,0.390625,53.125,7.0,be hear be shamus
+Bellamy,Shamus,2.734375,0.390625,53.125,7.0,be hear be shamus
+Shamus,Jack Daniel,1.1627906976744187,0.5813953488372093,63.372093023255815,2.0,be baptize survive haul oil
+Shamus,Jack Daniel,1.1627906976744187,0.5813953488372093,63.372093023255815,2.0,be baptize survive haul oil
+Bellamy,Harvard,0.0,0.0,45.83333333333333,INF,be drop run
+Harvard,Bellamy,0.0,0.0,45.83333333333333,INF,be drop run
+Harvard,Bellamy,0.0,0.0,45.83333333333333,INF,be drop run
+Harvard,Bellamy,0.0,0.0,45.83333333333333,INF,be drop run
+Joseph Buttinger,Frances FitzGerald,6.25,0.0,56.25,INF,read
+Joseph Buttinger,Frances FitzGerald,5.555555555555555,0.0,50.0,INF,have read
+Green Berets,Viet Cong,2.272727272727273,2.272727272727273,43.93939393939394,1.0,alert sneak be scream be cut
+Viet Cong,Adam,0.0,0.0,66.66666666666666,INF,bob swallow
+Adam,Viet Cong,0.0,0.0,66.66666666666666,INF,bob swallow
+Man,Bon,5.208333333333334,1.0416666666666665,52.083333333333336,5.0,have share censor
+Ford,Richard Nixon,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Ford,John Wayne,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Ford,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Ford,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Richard Nixon,John Wayne,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Richard Nixon,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Richard Nixon,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+John Wayne,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+John Wayne,Richard Hedd,0.5434782608695652,1.0869565217391304,44.02173913043478,0.5,hang pose recognize
+Claude,CIA,1.9736842105263157,0.0,50.6578947368421,INF,mention be fund
+Violet,Harry,2.5943396226415096,1.8867924528301887,52.12264150943396,1.375,arrive have be build prepare be waylay
+Violet,Harry,2.5943396226415096,1.8867924528301887,52.12264150943396,1.375,arrive have be build prepare be waylay
+Harry,Mekong Delta,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,peer see point be stock
+Ms. Mori,Lana,4.722222222222222,1.1111111111111112,56.388888888888886,4.25,tell be take have cook give do love do have
+Ms. Mori,Lana,4.722222222222222,1.1111111111111112,56.388888888888886,4.25,tell be take have cook give do love do have
+Ms. Mori,Lana,4.722222222222222,1.1111111111111112,56.388888888888886,4.25,tell be take have cook give do love do have
+Man,Ms. Mori,1.6666666666666667,2.083333333333333,52.916666666666664,0.8,think know be help exploit
+Shamus,Bellamy,3.3333333333333335,0.0,63.33333333333333,INF,be play be
+Binh,Benny,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Binh,Green Berets,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Binh,King Cong,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Benny,Green Berets,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Benny,King Cong,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Green Berets,King Cong,2.631578947368421,3.289473684210526,51.973684210526315,0.8,nickname be fill
+Green Beret,King Cong,0.0,2.840909090909091,47.159090909090914,0.0,meet
+Green Beret,King Cong,0.0,2.840909090909091,47.159090909090914,0.0,meet
+Mai,Bellamy,2.717391304347826,0.5434782608695652,35.869565217391305,5.0,fall
+Mai,Bellamy,2.717391304347826,0.5434782608695652,35.869565217391305,5.0,fall
+Mai,King Cong,3.4482758620689653,1.293103448275862,50.43103448275862,2.6666666666666665,be kidnap rape serve annihilate
+Mai,Green Berets,3.4482758620689653,1.293103448275862,50.43103448275862,2.6666666666666665,be kidnap rape serve annihilate
+Mai,King Cong,3.4482758620689653,1.293103448275862,50.43103448275862,2.6666666666666665,be kidnap rape serve annihilate
+King Cong,Green Berets,3.4482758620689653,1.293103448275862,50.43103448275862,2.6666666666666665,be kidnap rape serve annihilate
+Green Berets,King Cong,3.4482758620689653,1.293103448275862,50.43103448275862,2.6666666666666665,be kidnap rape serve annihilate
+Bellamy,Danny Boy,1.0,0.75,54.25,1.3333333333333333,be crown airlift be be give
+James Yoon,Sheen,2.6785714285714284,0.8928571428571428,63.095238095238095,3.0,be be see look overpower be have win
+James Yoon,Sheen,2.6785714285714284,0.8928571428571428,63.095238095238095,3.0,be be see look overpower be have win
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Berets,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Berets,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Berets,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Green Berets,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Green Berets,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,Green Beret,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Berets,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,God,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Green Beret,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Shamus,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+God,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,Bellamy,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Shamus,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+Bellamy,King Cong,1.875,3.1818181818181817,57.67045454545454,0.5892857142857143,shoot be arrive get rip have be remake haggle be call flog blow whistle punish dispatch command plant hardwork oversee believe believe give sandale lead involve crawl barb prepare involve
+National Liberation Front,Viet Cong,2.227906976744186,3.586046511627907,56.97674418604651,0.6212710765239948,be know care kill
+Violet,Viet Cong,5.113636363636364,2.556818181818182,55.96590909090909,2.0,agree double play allow forget play have be
+Binh,Mai,1.1363636363636365,2.840909090909091,36.93181818181818,0.4,find be be call torture
+Mai,Binh,1.0135135135135136,0.6756756756756757,52.36486486486487,1.5,begin unravel be speak regard
+Binh,Mai,2.6785714285714284,0.4464285714285714,57.58928571428571,6.0,sit film ask be
+Mai,Binh,2.6785714285714284,0.4464285714285714,57.58928571428571,6.0,sit film ask be
+James Yoon,Viet Cong,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Mai,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Viet Cong,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Mai,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Viet Cong,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Mai,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+Viet Cong,Mai,1.4150943396226416,2.1226415094339623,53.06603773584906,0.6666666666666666,be prop play leave lie angle brace be receive have rape
+James Yoon,Binh,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+James Yoon,Benny,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+James Yoon,Attucks,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+Binh,Benny,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+Binh,Attucks,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+Benny,Attucks,1.3888888888888888,1.3888888888888888,55.55555555555556,1.0,have be catch lead
+Binh,Attucks,1.3392857142857142,0.0,55.80357142857143,INF,be exterminate fire lose run
+Attucks,Binh,1.3392857142857142,0.0,55.80357142857143,INF,be exterminate fire lose run
+Viet Cong,Attucks,2.0161290322580645,1.2096774193548387,32.25806451612903,1.6666666666666667,capture commit castrate stuff
+Attucks,Viet Cong,2.0161290322580645,1.2096774193548387,32.25806451612903,1.6666666666666667,capture commit castrate stuff
+Attucks,Viet Cong,2.0161290322580645,1.2096774193548387,32.25806451612903,1.6666666666666667,capture commit castrate stuff
+Attucks,Viet Cong,2.0161290322580645,1.2096774193548387,32.25806451612903,1.6666666666666667,capture commit castrate stuff
+Claude,Viet Cong,0.0,2.604166666666667,55.729166666666664,0.0,follow feature mutilate capture
+Claude,Viet Cong,0.0,0.6578947368421052,57.23684210526315,0.0,say advance urinate
+Binh,Viet Cong,0.0,6.5,45.5,0.0,rest reserve torture
+Binh,Attucks,1.5,0.0,50.5,INF,pour use
+Binh,James Yoon,2.616279069767442,0.0,50.872093023255815,INF,be reveal know be support
+Binh,James Yoon,2.616279069767442,0.0,50.872093023255815,INF,be reveal know be support
+Claude,National Interrogation Center,2.1551724137931036,1.7241379310344827,54.741379310344826,1.25,be lecture look
+Claude,Harvard,1.8229166666666667,0.5208333333333333,58.072916666666664,3.5,include be be intimidate hold
+Claude,Harvard,1.8229166666666667,0.5208333333333333,58.072916666666664,3.5,include be be intimidate hold
+Claude,Harvard,1.8229166666666667,0.5208333333333333,58.072916666666664,3.5,include be be intimidate hold
+James Yoon,Viet Cong,0.2840909090909091,1.4204545454545454,39.20454545454545,0.2,break get confess beat
+Viet Cong,James Yoon,0.2840909090909091,1.4204545454545454,39.20454545454545,0.2,break get confess beat
+Viet Cong,James Yoon,0.2840909090909091,1.4204545454545454,39.20454545454545,0.2,break get confess beat
+Viet Cong,James Yoon,0.2840909090909091,1.4204545454545454,39.20454545454545,0.2,break get confess beat
+Binh,Harry,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Binh,Harry,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Binh,Harry,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Binh,James Yoon,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Harry,James Yoon,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Harry,James Yoon,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Harry,James Yoon,0.75,1.25,56.00000000000001,0.6,come have concoct mix be congeal daub
+Mao,Man,4.375,0.0,60.62499999999999,INF,urge remember be tell be
+Man,Mao,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,discuss be daze
+Man,Mao,2.083333333333333,1.6666666666666667,56.25,1.25,impart lead name
+King Cong,Viet Cong,2.9166666666666665,4.166666666666666,49.583333333333336,0.7,be remain smolder scatter pose have fall be shoot stab beat choke
+King Cong,Green Berets,2.9166666666666665,4.166666666666666,49.583333333333336,0.7,be remain smolder scatter pose have fall be shoot stab beat choke
+Viet Cong,Green Berets,2.9166666666666665,4.166666666666666,49.583333333333336,0.7,be remain smolder scatter pose have fall be shoot stab beat choke
+Viet Cong,Binh,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Viet Cong,Mai,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Viet Cong,Shamus,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Viet Cong,Bellamy,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Binh,Mai,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Binh,Shamus,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Binh,Bellamy,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Mai,Shamus,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Mai,Bellamy,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Shamus,Bellamy,1.4344262295081966,2.2540983606557377,52.04918032786885,0.6363636363636364,include have rape deal wield stand arise
+Mama San,Shamus,3.6585365853658534,1.8292682926829267,40.853658536585364,2.0,do seize blast shoulder fall spin
+Mama San,Bellamy,3.6585365853658534,1.8292682926829267,40.853658536585364,2.0,do seize blast shoulder fall spin
+Mama San,Bellamy,3.6585365853658534,1.8292682926829267,40.853658536585364,2.0,do seize blast shoulder fall spin
+Shamus,Bellamy,3.6585365853658534,1.8292682926829267,40.853658536585364,2.0,do seize blast shoulder fall spin
+Shamus,Bellamy,3.6585365853658534,1.8292682926829267,40.853658536585364,2.0,do seize blast shoulder fall spin
+Shamus,Bellamy,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,dead be set call
+Shamus,King Cong,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,dead be set call
+Bellamy,King Cong,0.5681818181818182,1.1363636363636365,52.84090909090909,0.5,dead be set call
+National Interrogation Center,Claude,1.5625,3.4375000000000004,62.5,0.45454545454545453,be see be have be work
+Beethoven,Nazis,2.7777777777777777,0.3472222222222222,57.986111111111114,8.0,be contemplate atomize
+Catholic,God,3.8461538461538463,0.0,52.56410256410257,INF,be walk be
+National Interrogation Center,Claude,0.0,0.0,66.66666666666666,INF,reach be
+Jesus,Virgin Mary,0.9259259259259258,1.8518518518518516,37.96296296296296,0.5,remember wash welcome stand
+Virgin Mary,Jesus,0.9259259259259258,1.8518518518518516,37.96296296296296,0.5,remember wash welcome stand
+Lenin,Stalin,4.891304347826087,4.3478260869565215,47.28260869565217,1.125,make feel
+Ms. Mori,Ho Chi Minh,2.7777777777777777,0.6944444444444444,57.638888888888886,4.0,pull decorate furnish admire travel
+Ms. Mori,Ho Chi Minh,2.7777777777777777,0.6944444444444444,57.638888888888886,4.0,pull decorate furnish admire travel
+Ms. Mori,Sonny,1.1363636363636365,0.0,57.95454545454546,INF,lay sit cross barefoot
+Sonny,Ms. Mori,1.0416666666666665,1.5625,51.5625,0.6666666666666666,have offer show return
+Sonny,Ms. Mori,1.0416666666666665,1.5625,51.5625,0.6666666666666666,have offer show return
+Sonny,Ms. Mori,1.0416666666666665,1.5625,51.5625,0.6666666666666666,have offer show return
+Sonny,Ms. Mori,1.0416666666666665,1.5625,51.5625,0.6666666666666666,have offer show return
+Ms. Mori,Sonny,4.521276595744681,2.925531914893617,50.0,1.5454545454545454,have plan read be have sit soak have be
+Ms. Mori,Sonny,4.521276595744681,2.925531914893617,50.0,1.5454545454545454,have plan read be have sit soak have be
+Sonny,Ms. Mori,4.521276595744681,2.925531914893617,50.0,1.5454545454545454,have plan read be have sit soak have be
+Sonny,Ms. Mori,6.048387096774194,1.6129032258064515,56.85483870967742,3.75,have be listen smoke ask
+George,Abe,0.0,0.0,33.33333333333333,INF,
+God,Ms. Mori,5.208333333333334,1.0416666666666665,43.75,5.0,hope be joke say
+Ms. Mori,Sonny,2.380952380952381,1.1904761904761905,58.333333333333336,2.0,go retrieve sit
+Sonny,Ms. Mori,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,like meet say
+Sonny,Ms. Mori,0.0,0.0,33.33333333333333,INF,have hear
+Abe,Ms. Mori,1.0416666666666665,0.0,32.29166666666667,INF,look be get say
+Sonny,Ms. Mori,4.166666666666666,0.0,54.166666666666664,INF,lay say
+Sonny,Ms. Mori,4.166666666666666,0.0,54.166666666666664,INF,lay say
+Ms. Mori,Sonny,2.380952380952381,4.166666666666666,60.11904761904761,0.5714285714285714,be swallow watch put
+Ms. Mori,Sonny,2.380952380952381,4.166666666666666,60.11904761904761,0.5714285714285714,be swallow watch put
+Ms. Mori,Sonny,1.644736842105263,2.9605263157894735,53.289473684210535,0.5555555555555556,have be be be say persuade turn
+Ms. Mori,Sonny,1.644736842105263,2.9605263157894735,53.289473684210535,0.5555555555555556,have be be be say persuade turn
+Ms. Mori,Sonny,1.644736842105263,2.9605263157894735,53.289473684210535,0.5555555555555556,have be be be say persuade turn
+Ms. Mori,Sonny,7.142857142857142,4.464285714285714,45.535714285714285,1.6,be cling murmur
+Sonny,Ms. Mori,0.0,0.0,63.63636363636363,INF,look go
+Ms. Mori,Sonny,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,exhale focus show choose know be
+Ms. Mori,Sonny,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,exhale focus show choose know be
+Sonny,Ms. Mori,1.1363636363636365,1.7045454545454544,65.3409090909091,0.6666666666666666,exhale focus show choose know be
+Ms. Mori,Sonny,3.125,4.296875,51.953125,0.7272727272727273,watch recline be be
+Ms. Mori,Sonny,2.941176470588235,0.0,55.88235294117647,INF,offer offer shake
+Ms. Mori,Sonny,2.941176470588235,0.0,55.88235294117647,INF,offer offer shake
+Ms. Mori,Sonny,2.941176470588235,0.0,55.88235294117647,INF,offer offer shake
+Ms. Mori,Sonny,2.941176470588235,0.0,55.88235294117647,INF,offer offer shake
+Sonny,Bon,0.8064516129032258,1.2096774193548387,59.2741935483871,0.6666666666666666,show slide hover
+Bon,Sonny,0.8064516129032258,1.2096774193548387,59.2741935483871,0.6666666666666666,show slide hover
+Sonny,Lana,4.513888888888888,2.083333333333333,62.84722222222222,2.1666666666666665,announce be call provide have
+Sonny,Fantasia,4.513888888888888,2.083333333333333,62.84722222222222,2.1666666666666665,announce be call provide have
+Lana,Fantasia,4.513888888888888,2.083333333333333,62.84722222222222,2.1666666666666665,announce be call provide have
+Bon,Fantasia,1.6304347826086956,2.1739130434782608,54.891304347826086,0.75,persuade go hear go forget be think be have decide die be show
+Fantasia,Bon,1.6304347826086956,2.1739130434782608,54.891304347826086,0.75,persuade go hear go forget be think be have decide die be show
+Bon,Man,2.5,0.0,57.49999999999999,INF,become have waste be suppose do
+Bon,Pham Duy,0.0,2.083333333333333,50.69444444444444,0.0,settle serenade
+American Dream,Da Nang,0.5057803468208093,1.4450867052023122,51.80635838150289,0.35,be walk see laugh play have hear ban thuot continue have get die be bury strike be
+American Dream,John Wayne,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+American Dream,George,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+American Dream,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+American Dream,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+John Wayne,George,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+John Wayne,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+John Wayne,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+George,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+George,Virgin Mary,2.5,2.0,55.50000000000001,1.25,say raise present know step clothe
+Nancy Sinatra,Virgin Mary,0.3787878787878788,0.0,66.28787878787878,INF,sing be be derive
+Nancy Sinatra,Virgin Mary,0.3787878787878788,0.0,66.28787878787878,INF,sing be be derive
+Nancy Sinatra,Lana,14.772727272727273,0.0,48.86363636363637,INF,do know sing
+Lana,Bon,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,introduce hear be return reserve have replace tell be
+Lana,Bon,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,introduce hear be return reserve have replace tell be
+Lana,Bon,3.2407407407407405,0.9259259259259258,55.092592592592595,3.5,introduce hear be return reserve have replace tell be
+Lana,Ms. Mori,3.125,0.4464285714285714,60.71428571428571,7.0,accept give fire have light
+Lana,Ms. Mori,3.125,0.4464285714285714,60.71428571428571,7.0,accept give fire have light
+Bon,Lana,2.717391304347826,0.5434782608695652,57.608695652173914,5.0,trickle break have cast rouse
+Bon,Linh,2.1551724137931036,3.8793103448275863,38.793103448275865,0.5555555555555556,be talk talk
+Bon,Duc,2.1551724137931036,3.8793103448275863,38.793103448275865,0.5555555555555556,be talk talk
+Linh,Duc,2.1551724137931036,3.8793103448275863,38.793103448275865,0.5555555555555556,be talk talk
+Linh,Bon,2.1551724137931036,3.8793103448275863,38.793103448275865,0.5555555555555556,be talk talk
+Duc,Bon,2.1551724137931036,3.8793103448275863,38.793103448275865,0.5555555555555556,be talk talk
+Lana,Pham Duy,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Pham Duy,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Pham Duy,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Pham Duy,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Pham Duy,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Lana,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Pham Duy,Trinh Cong Son,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Pham Duy,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Trinh Cong Son,Duc,2.564102564102564,0.4807692307692308,52.083333333333336,5.333333333333333,write plead use teach compose seize let sit sing
+Man,God,2.840909090909091,1.4204545454545454,52.55681818181818,2.0,have receive convey have write do exist be
+Dr. Hedd,Viet Cong,1.7857142857142856,4.081632653061225,59.43877551020408,0.4375,regard bother come have write do have
+Dr. Hedd,Viet Cong,2.380952380952381,2.976190476190476,51.78571428571429,0.8,be be be speak be deal
+Man,Claude,3.571428571428571,1.1160714285714286,66.74107142857143,3.2,have report have achieve draw have be introduce have visit do
+Dr. Hedd,Stalin,0.0,0.0,56.00000000000001,INF,have write be
+Dr. Hedd,Occidental,0.0,0.0,56.00000000000001,INF,have write be
+Stalin,Occidental,0.0,0.0,56.00000000000001,INF,have write be
+Stalin,Mao,1.9230769230769231,0.0,59.61538461538461,INF,have say
+God,Bon,1.644736842105263,4.276315789473684,59.86842105263158,0.38461538461538464,confess burn be send make keep
+Man,God,1.7045454545454544,3.4090909090909087,49.43181818181818,0.5,be compose make
+Bon,Lana,0.5208333333333333,4.6875,40.625,0.1111111111111111,stash turn speak
+Adam,God,4.651162790697675,0.29069767441860467,41.56976744186046,16.0,want replicate lead fall
+Adam,God,3.571428571428571,3.273809523809524,45.535714285714285,1.0909090909090908,have debase have debase want be
+God,Adam,3.571428571428571,3.273809523809524,45.535714285714285,1.0909090909090908,have debase have debase want be
+Lana,Sonny,1.0135135135135136,4.054054054054054,48.986486486486484,0.25,drive quell leave meet
+Lana,Sonny,1.0135135135135136,4.054054054054054,48.986486486486484,0.25,drive quell leave meet
+Sonny,Lana,1.0135135135135136,4.054054054054054,48.986486486486484,0.25,drive quell leave meet
+Lana,Sonny,1.0135135135135136,4.054054054054054,48.986486486486484,0.25,drive quell leave meet
+Claude,Buddhist,7.236842105263158,0.6578947368421052,55.26315789473685,11.0,breathe be have teach learn
+Ms. Mori,Sonny,2.644230769230769,1.9230769230769231,51.20192307692307,1.375,think read wait call come define be call
+Ms. Mori,God,2.644230769230769,1.9230769230769231,51.20192307692307,1.375,think read wait call come define be call
+Ms. Mori,Sonny,2.644230769230769,1.9230769230769231,51.20192307692307,1.375,think read wait call come define be call
+Ms. Mori,God,2.644230769230769,1.9230769230769231,51.20192307692307,1.375,think read wait call come define be call
+Sonny,God,2.644230769230769,1.9230769230769231,51.20192307692307,1.375,think read wait call come define be call
+Sonny,Bon,8.333333333333332,3.125,63.541666666666664,2.6666666666666665,be have tell do know be
+Bon,Sonny,0.0,0.0,44.44444444444444,INF,say be
+Sonny,Bon,0.0,0.5952380952380952,66.07142857142857,0.0,be open walk recommend
+Claude,Bon,0.0,3.6764705882352944,49.26470588235294,0.0,know look say do
+Lana,Sonny,4.2682926829268295,3.048780487804878,60.97560975609756,1.4,have think be return have do leave have help forget have do
+Lana,Sonny,4.2682926829268295,3.048780487804878,60.97560975609756,1.4,have think be return have do leave have help forget have do
+Sonny,Lana,4.2682926829268295,3.048780487804878,60.97560975609756,1.4,have think be return have do leave have help forget have do
+Lana,Sonny,4.2682926829268295,3.048780487804878,60.97560975609756,1.4,have think be return have do leave have help forget have do
+Sonny,Ms. Mori,2.314814814814815,1.8518518518518516,55.092592592592595,1.25,be confuse turn jilt
+Sonny,Ms. Mori,2.314814814814815,1.8518518518518516,55.092592592592595,1.25,be confuse turn jilt
+Sonny,Ms. Mori,2.314814814814815,1.8518518518518516,55.092592592592595,1.25,be confuse turn jilt
+Man,Bon,0.4629629629629629,1.3888888888888888,57.407407407407405,0.3333333333333333,tell accept disobey be return save
+Sonny,Ms. Mori,1.3297872340425532,1.3297872340425532,56.91489361702128,1.0,be do have notice leave provide
+Sonny,Madame,1.3297872340425532,1.3297872340425532,56.91489361702128,1.0,be do have notice leave provide
+Ms. Mori,Madame,1.3297872340425532,1.3297872340425532,56.91489361702128,1.0,be do have notice leave provide
+Claude,Hammer,1.0135135135135136,0.0,74.66216216216216,INF,greet dress look have see be tan
+Claude,Hammer,1.0135135135135136,0.0,74.66216216216216,INF,greet dress look have see be tan
+Bon,Claude,3.3333333333333335,7.5,42.5,0.4444444444444444,shake
+Bon,Claude,3.3333333333333335,7.5,42.5,0.4444444444444444,shake
+Claude,Bon,0.0,0.0,44.44444444444444,INF,say grab
+Bon,Claude,17.1875,6.25,39.0625,2.75,have be
+Bellamy,Shamus,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Bellamy,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Bellamy,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Bellamy,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Shamus,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Shamus,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Shamus,Viet Cong,1.8790849673202614,1.5522875816993464,54.084967320261434,1.2105263157894737,be saturate be reduce be ride peer be burst be savage be give be take be make wish participate look
+Jesus,God,1.893939393939394,0.0,43.56060606060606,INF,say stroke remember begin
+Jesus,God,1.893939393939394,0.0,43.56060606060606,INF,say stroke remember begin
+Jesus,God,1.893939393939394,0.0,43.56060606060606,INF,say stroke remember begin
+Jesus,God,1.953125,5.078125,49.21875,0.38461538461538464,have have have be
+Jesus,God,1.953125,5.078125,49.21875,0.38461538461538464,have have have be
+Bon,Man,4.166666666666666,0.4166666666666667,48.75,10.0,be beard have encounter
+Claude,Virgin Mary,0.9259259259259258,5.555555555555555,60.18518518518518,0.16666666666666666,do believe give leave
+Virgin Mary,Claude,0.9259259259259258,5.555555555555555,60.18518518518518,0.16666666666666666,do believe give leave
+Claude,Man,8.214285714285714,1.0714285714285714,53.57142857142857,7.666666666666667,want keep have teach know
+Lana,Sonny,4.375,0.0,60.62499999999999,INF,grip have have leave
+Lana,Bon,2.556818181818182,2.840909090909091,44.60227272727273,0.9,be shrug sit remind
+Bon,Lana,2.556818181818182,2.840909090909091,44.60227272727273,0.9,be shrug sit remind
+Bon,Sonny,0.0,1.25,48.75,0.0,rise follow
+Uncle Ho,Mao,2.083333333333333,0.0,59.02777777777778,INF,remake say do
+Harvard,Claude,2.631578947368421,2.302631578947368,66.11842105263158,1.1428571428571428,try imagine multiply be have be invent have learn
+Sonny,Man,3.125,2.34375,57.03125,1.3333333333333333,watch be be be have pass
+Man,Sonny,3.571428571428571,0.0,60.71428571428571,INF,be know be
+Sonny,Man,3.571428571428571,0.0,60.71428571428571,INF,be know be
+Mao,Ho Chi Minh,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Mao,Marx,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Mao,Buddha,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Mao,Jesus,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Mao,Adam,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Ho Chi Minh,Marx,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Ho Chi Minh,Buddha,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Ho Chi Minh,Jesus,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Ho Chi Minh,Adam,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Marx,Buddha,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Marx,Jesus,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Marx,Adam,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Buddha,Jesus,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Buddha,Adam,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Jesus,Adam,4.497354497354497,4.761904761904762,48.76543209876543,0.9444444444444444,learn have please turn please turn stop call remember be be see have leave confess have take have become have fall have be have be have go save do need make do suspect see forget forget acknowledge be have fight have call have incinerate have come save have buy sell have call have seek do have teach have seek civilize have be do hold have defeat have say see have clash have rule have use have live have be write sacrifice frolic have give have part have follow have follow have soar crash burn be have part have happen have bite have be bear be need see please please let sleep
+Sonny,Tokarev,2.34375,1.5625,39.84375,1.5,stare
+Bon,Molotova,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,escort stand idle

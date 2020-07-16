@@ -1,0 +1,584 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Duignan,Colfer,5.3977272727272725,2.840909090909091,57.67045454545454,1.9,be tell earn sell salvage make think have be
+Colfer,Duignan,5.3977272727272725,2.840909090909091,57.67045454545454,1.9,be tell earn sell salvage make think have be
+Mr. Todd,Anna,2.083333333333333,0.0,72.91666666666666,INF,address call
+Mr. Todd,Mrs. Morden,2.083333333333333,0.0,72.91666666666666,INF,address call
+Mr. Todd,Max,2.083333333333333,0.0,72.91666666666666,INF,address call
+Anna,Mrs. Morden,2.083333333333333,0.0,72.91666666666666,INF,address call
+Anna,Max,2.083333333333333,0.0,72.91666666666666,INF,address call
+Mrs. Morden,Max,2.083333333333333,0.0,72.91666666666666,INF,address call
+Anna,Mr. Todd,0.0,2.6785714285714284,54.46428571428571,0.0,lay withdraw
+Mr. Todd,Anna,0.2358490566037736,0.0,58.25471698113207,INF,sit riffle make think pare
+Mr. Todd,Anna,0.2358490566037736,0.0,58.25471698113207,INF,sit riffle make think pare
+Mr. Todd,Blunden,0.0,1.1363636363636365,57.95454545454546,0.0,wear have approve
+Mr. Todd,Anna,1.9736842105263157,4.605263157894736,56.57894736842105,0.42857142857142855,look hover
+Anna,Mr. Todd,1.9736842105263157,4.605263157894736,56.57894736842105,0.42857142857142855,look hover
+Anna,Mr. Todd,1.9736842105263157,4.605263157894736,56.57894736842105,0.42857142857142855,look hover
+Mrs. Morden,Mr. Todd,2.232142857142857,6.25,48.660714285714285,0.35714285714285715,let go say show
+Mr. Todd,Anna,1.3157894736842104,0.6578947368421052,63.81578947368421,2.0,stop sit gaze draw
+Anna,Mr. Todd,1.3157894736842104,0.6578947368421052,63.81578947368421,2.0,stop sit gaze draw
+Anna,Mr. Todd,2.616279069767442,2.9069767441860463,52.616279069767444,0.9,have go turn give be reserve
+Anna,Mr. Todd,2.616279069767442,2.9069767441860463,52.616279069767444,0.9,have go turn give be reserve
+Anna,Mr. Todd,4.3478260869565215,1.6304347826086956,63.58695652173913,2.6666666666666665,be be force pay
+Anna,Mr. Todd,4.3478260869565215,1.6304347826086956,63.58695652173913,2.6666666666666665,be be force pay
+Mr. Grace,Carlo Grace,0.872093023255814,0.29069767441860467,61.627906976744185,3.0,be wear be
+Carlo Grace,Constance,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Connie Grace,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Constance,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Connie Grace,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Carlo Grace,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Constance,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Constance,Connie Grace,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Constance,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Myles,Connie Grace,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Connie Grace,Myles,0.9297520661157025,1.3429752066115703,53.925619834710744,0.6923076923076923,be be be have hear laugh reveal lie have toss wad stick throw drown
+Rose,Rosie,1.0416666666666665,6.25,51.041666666666664,0.16666666666666666,give utter
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Chloe,Rose,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Rose,Chloe,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Rose,Chloe,1.875,2.083333333333333,61.04166666666667,0.9,wobble lift seem fall sit keep smile have be make shake
+Mrs. Grace,Chloe,0.0,3.90625,49.21875,0.0,say reprove wail ignore come kneel try wrest
+Mrs. Grace,Chloe,0.0,3.90625,49.21875,0.0,say reprove wail ignore come kneel try wrest
+Mrs. Grace,Chloe,0.0,3.90625,49.21875,0.0,say reprove wail ignore come kneel try wrest
+Chloe,Myles,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be be
+Myles,Chloe,2.941176470588235,2.941176470588235,52.94117647058824,1.0,be be
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Myles,Chloe,3.308823529411765,1.1029411764705883,45.588235294117645,3.0,have be battle keep snatch hit say
+Rose,Mrs. Grace,0.0,1.3888888888888888,65.27777777777779,0.0,be get dress
+Myles,Chloe,0.0,1.25,38.75,0.0,poke
+Chloe,Myles,0.0,1.25,38.75,0.0,poke
+Chloe,Myles,0.3125,2.8125,49.375,0.1111111111111111,play lob run leap try catch
+Chloe,Mrs. Grace,0.3125,2.8125,49.375,0.1111111111111111,play lob run leap try catch
+Myles,Mrs. Grace,0.3125,2.8125,49.375,0.1111111111111111,play lob run leap try catch
+Myles,Chloe,0.0,0.6578947368421052,57.23684210526315,0.0,do flap gibber
+Chloe,Myles,0.0,0.6578947368421052,57.23684210526315,0.0,do flap gibber
+Chloe,Myles,0.0,0.6578947368421052,57.23684210526315,0.0,do flap gibber
+Chloe,Myles,1.25,2.5,46.25,0.5,pretend be see
+Rose,Chloe,6.25,1.25,72.5,5.0,be examine
+Vuillard,Bonnard,5.0,5.714285714285714,52.142857142857146,0.875,be be be be
+Bonnard,Vuillard,1.293103448275862,1.293103448275862,59.48275862068966,1.0,have be be set distract whip rework have be hang
+Max,Anna,0.0,0.0,50.0,INF,call
+Claire,Anna,2.976190476190476,11.904761904761903,47.023809523809526,0.25,pretend be have hope be
+Mrs. Grace,Duignan,3.4090909090909087,3.4090909090909087,54.54545454545454,1.0,make think have give tell hold
+Mrs. Grace,Duignan,3.4090909090909087,3.4090909090909087,54.54545454545454,1.0,make think have give tell hold
+Duignan,Mrs. Grace,3.4090909090909087,3.4090909090909087,54.54545454545454,1.0,make think have give tell hold
+Duignan,Mrs. Grace,3.4090909090909087,3.4090909090909087,54.54545454545454,1.0,make think have give tell hold
+Duignan,Avril,2.272727272727273,5.0,54.54545454545454,0.45454545454545453,have die be be be be balk
+Duignan,Avril,2.272727272727273,5.0,54.54545454545454,0.45454545454545453,have die be be be be balk
+Avril,Duignan,2.272727272727273,5.0,54.54545454545454,0.45454545454545453,have die be be be be balk
+Avril,Duignan,2.272727272727273,5.0,54.54545454545454,0.45454545454545453,have die be be be be balk
+Avril,Duignan,5.555555555555555,1.3888888888888888,37.5,4.0,ask say have die
+Avril,Duignan,5.555555555555555,1.3888888888888888,37.5,4.0,ask say have die
+Patsy,Mary,1.7857142857142856,1.1904761904761905,63.69047619047619,1.5,have be die
+Duignan,Patsy,1.25,1.0416666666666665,61.04166666666667,1.2,find dispirit hear die crowd remember
+Duignan,Mary,1.25,1.0416666666666665,61.04166666666667,1.2,find dispirit hear die crowd remember
+Patsy,Mary,1.25,1.0416666666666665,61.04166666666667,1.2,find dispirit hear die crowd remember
+Claire,Duignan,2.7122641509433962,3.4198113207547167,45.75471698113208,0.7931034482758621,be use swarm have begin appear be regret say
+Duignan,Claire,2.7122641509433962,3.4198113207547167,45.75471698113208,0.7931034482758621,be use swarm have begin appear be regret say
+Claire,Vaublin,0.5434782608695652,1.9021739130434785,47.55434782608695,0.2857142857142857,abandon be be take
+Claire,Vaublin,0.5434782608695652,1.9021739130434785,47.55434782608695,0.2857142857142857,abandon be be take
+Claire,Jerome,3.125,0.0,71.875,INF,say have drive
+Claire,Jerome,4.891304347826087,3.804347826086957,39.130434782608695,1.2857142857142858,mean do
+Jerome,Claire,4.891304347826087,3.804347826086957,39.130434782608695,1.2857142857142858,mean do
+Jerome,Claire,4.891304347826087,3.804347826086957,39.130434782608695,1.2857142857142858,mean do
+Jerome,Claire,4.166666666666666,0.8928571428571428,63.988095238095234,4.666666666666667,be have consider have tell speak have brandish let fly
+Jerome,Claire,4.166666666666666,0.8928571428571428,63.988095238095234,4.666666666666667,be have consider have tell speak have brandish let fly
+Claire,Jerome,4.861111111111112,9.027777777777777,36.11111111111111,0.5384615384615384,be be
+Claire,Miss Vavasour,0.8152173913043478,1.6304347826086956,45.380434782608695,0.5,get go leave park get telephone tell wish rent
+Miss Vavasour,Claire,0.8152173913043478,1.6304347826086956,45.380434782608695,0.5,get go leave park get telephone tell wish rent
+Miss Vavasour,Claire,0.8152173913043478,1.6304347826086956,45.380434782608695,0.5,get go leave park get telephone tell wish rent
+Rose,Connie Grace,3.869047619047619,2.6785714285714284,52.976190476190474,1.4444444444444444,quiver save fold place glut overheate
+Myles,Chloe,1.9927536231884055,3.0797101449275366,57.2463768115942,0.6470588235294118,be eat lick lick suppose have finish wait lean press lift
+Myles,Chloe,1.9927536231884055,3.0797101449275366,57.2463768115942,0.6470588235294118,be eat lick lick suppose have finish wait lean press lift
+Chloe,Myles,1.9927536231884055,3.0797101449275366,57.2463768115942,0.6470588235294118,be eat lick lick suppose have finish wait lean press lift
+Myles,Chloe,1.9927536231884055,3.0797101449275366,57.2463768115942,0.6470588235294118,be eat lick lick suppose have finish wait lean press lift
+Chloe,Myles,0.4629629629629629,0.0,58.79629629629629,INF,walk say
+Chloe,Myles,0.0,1.6666666666666667,25.0,0.0,look whisper be
+Myles,Chloe,0.0,0.0,57.14285714285714,INF,talk
+Myles,Mrs. Grace,2.6595744680851063,2.925531914893617,56.11702127659575,0.9090909090909091,see turn watch go see have vault land turn smile know be know show have be have encounter face
+Myles,Mrs. Grace,2.6595744680851063,2.925531914893617,56.11702127659575,0.9090909090909091,see turn watch go see have vault land turn smile know be know show have be have encounter face
+Rose,Myles,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Rose,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Rose,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Rose,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Myles,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Myles,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Myles,Chloe,0.5102040816326531,0.7653061224489796,51.78571428571429,0.6666666666666666,let linger appear be come clatter be
+Mrs. Grace,Constance,4.291044776119403,2.798507462686567,49.62686567164179,1.5333333333333334,be smile consider be look be persuade expect turn
+Constance,Mrs. Grace,4.291044776119403,2.798507462686567,49.62686567164179,1.5333333333333334,be smile consider be look be persuade expect turn
+Constance,Mrs. Grace,4.291044776119403,2.798507462686567,49.62686567164179,1.5333333333333334,be smile consider be look be persuade expect turn
+Myles,Rose,0.0,2.8846153846153846,58.65384615384615,0.0,appear pursue
+Myles,Rose,0.0,2.8846153846153846,58.65384615384615,0.0,appear pursue
+Rose,Myles,2.0454545454545454,1.8181818181818181,57.95454545454546,1.125,trip pretend ruck pitch tumble knock give be
+Rose,Myles,2.0454545454545454,1.8181818181818181,57.95454545454546,1.125,trip pretend ruck pitch tumble knock give be
+Rose,Myles,2.0454545454545454,1.8181818181818181,57.95454545454546,1.125,trip pretend ruck pitch tumble knock give be
+Rose,Mrs. Grace,0.6944444444444444,0.6944444444444444,65.27777777777779,1.0,laugh look bite
+Rose,Mrs. Grace,0.6944444444444444,0.6944444444444444,65.27777777777779,1.0,laugh look bite
+Chloe,Mrs. Grace,3.0357142857142856,1.607142857142857,62.5,1.8888888888888888,enter have introduce think be have be introduce have say have remember be shake address
+Chloe,Mrs. Grace,3.0357142857142856,1.607142857142857,62.5,1.8888888888888888,enter have introduce think be have be introduce have say have remember be shake address
+Chloe,Mrs. Grace,3.0357142857142856,1.607142857142857,62.5,1.8888888888888888,enter have introduce think be have be introduce have say have remember be shake address
+Rose,Mrs. Grace,1.3888888888888888,1.3888888888888888,63.888888888888886,1.0,stoop wrinkle pick
+Anna,Mr. Todd,2.450980392156863,3.1862745098039214,56.127450980392155,0.7692307692307693,be force acknowledge prod potion seem inhabit be distinguish wake dream have be waft be be destine be
+Anna,Mr. Todd,2.450980392156863,3.1862745098039214,56.127450980392155,0.7692307692307693,be force acknowledge prod potion seem inhabit be distinguish wake dream have be waft be be destine be
+Mr. Todd,Anna,2.450980392156863,3.1862745098039214,56.127450980392155,0.7692307692307693,be force acknowledge prod potion seem inhabit be distinguish wake dream have be waft be be destine be
+Mr. Todd,Anna,2.450980392156863,3.1862745098039214,56.127450980392155,0.7692307692307693,be force acknowledge prod potion seem inhabit be distinguish wake dream have be waft be be destine be
+Anna,Claire,1.5151515151515151,2.6515151515151514,65.53030303030303,0.5714285714285714,be experience know be expect seem be suffer
+Anna,Claire,1.5151515151515151,2.6515151515151514,65.53030303030303,0.5714285714285714,be experience know be expect seem be suffer
+Claire,Anna,1.5151515151515151,2.6515151515151514,65.53030303030303,0.5714285714285714,be experience know be expect seem be suffer
+Mrs. Grace,Chloe,0.9090909090909091,2.0454545454545454,51.590909090909086,0.4444444444444444,stand sit be immure hover
+Anna,Charlie,0.9615384615384616,2.403846153846154,50.480769230769226,0.4,do worry be take
+Anna,Charlie,0.0,0.0,44.44444444444444,INF,hold
+Anna,Charlie,2.620967741935484,2.217741935483871,53.2258064516129,1.1818181818181819,have plunge have know do apply shimmer be be look
+Anna,Charlie,2.620967741935484,2.217741935483871,53.2258064516129,1.1818181818181819,have plunge have know do apply shimmer be be look
+Anna,Charlie,2.083333333333333,0.0,64.58333333333334,INF,get
+Chloe,Myles,10.0,2.5,40.833333333333336,4.0,be go
+Duignan,Colfer,1.3157894736842104,1.644736842105263,57.56578947368421,0.8,do run be say copulate be blur
+Mrs. Grace,Chloe,0.0,0.0,57.14285714285714,INF,be seat
+Mrs. Grace,Myles,0.0,0.0,57.14285714285714,INF,be seat
+Chloe,Myles,0.0,0.0,57.14285714285714,INF,be seat
+Chloe,Myles,2.380952380952381,0.0,40.476190476190474,INF,win do make
+Chloe,Myles,2.380952380952381,0.0,40.476190476190474,INF,win do make
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Chloe,Myles,1.7045454545454544,3.4090909090909087,51.70454545454546,0.5,grin press grimace make hold chafe
+Mrs. Grace,Chloe,0.0,0.0,33.33333333333333,INF,follow
+Mrs. Grace,Myles,0.0,0.0,33.33333333333333,INF,follow
+Chloe,Myles,0.0,0.0,33.33333333333333,INF,follow
+Rose,Chloe,4.166666666666666,2.083333333333333,43.75,2.0,be
+Rose,Chloe,0.5319148936170213,2.393617021276596,56.64893617021277,0.2222222222222222,be go tie
+Rose,Chloe,0.5319148936170213,2.393617021276596,56.64893617021277,0.2222222222222222,be go tie
+Rose,Chloe,0.5319148936170213,2.393617021276596,56.64893617021277,0.2222222222222222,be go tie
+Rose,Chloe,0.5319148936170213,2.393617021276596,56.64893617021277,0.2222222222222222,be go tie
+Rose,Chloe,3.260869565217391,5.706521739130435,60.597826086956516,0.5714285714285714,sit lean brace rest fold pose have be be
+Rose,Chloe,3.260869565217391,5.706521739130435,60.597826086956516,0.5714285714285714,sit lean brace rest fold pose have be be
+Rose,Chloe,3.260869565217391,5.706521739130435,60.597826086956516,0.5714285714285714,sit lean brace rest fold pose have be be
+Mrs. Grace,Mr. Grace,0.5681818181818182,4.545454545454546,58.52272727272727,0.125,drink be open
+Mrs. Grace,Rose,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Mrs. Grace,Mr. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Rose,Mrs. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Rose,Mrs. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Rose,Mr. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Rose,Mrs. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Mrs. Grace,Mr. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Mrs. Grace,Mr. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Mr. Grace,Mrs. Grace,0.8620689655172413,2.586206896551724,62.06896551724138,0.3333333333333333,say be say be command eat grin offer
+Rose,Mrs. Grace,0.0,1.7857142857142856,50.595238095238095,0.0,sulk suppose
+Rose,Mr. Grace,0.0,1.7857142857142856,50.595238095238095,0.0,sulk suppose
+Mrs. Grace,Mr. Grace,0.0,1.7857142857142856,50.595238095238095,0.0,sulk suppose
+Chloe,Mrs. Grace,0.78125,2.083333333333333,47.13541666666667,0.375,be disgust say bore spit brush rise walk pine
+Mrs. Grace,Chloe,0.78125,2.083333333333333,47.13541666666667,0.375,be disgust say bore spit brush rise walk pine
+Mrs. Grace,Chloe,0.78125,2.083333333333333,47.13541666666667,0.375,be disgust say bore spit brush rise walk pine
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Mrs. Grace,Connie Grace,2.3,4.5359375,45.5078125,0.5070616603513607,be be conjure have go have feel have purloin have do be moan turn topple
+Anna,Claire,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Anna,Claire,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Claire,Anna,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Claire,Anna,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Anna,Claire,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Claire,Anna,2.2435897435897436,1.6025641025641024,60.256410256410255,1.4,remember remember remember be go be remember be
+Myles,Rose,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Myles,Chloe,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Myles,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Myles,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Myles,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Myles,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Rose,Chloe,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Rose,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Rose,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Rose,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Rose,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Chloe,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Chloe,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Chloe,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Chloe,Mr. Grace,2.403846153846154,3.3653846153846154,55.769230769230774,0.7142857142857143,have come be ogle be lose pine have be observe
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Carlo Grace,Chloe,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Chloe,Carlo Grace,3.6231884057971016,2.717391304347826,63.22463768115942,1.3333333333333333,sit lose shoot be pass catch have act
+Myles,Mrs. Grace,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Myles,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Myles,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Myles,Mrs. Grace,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Myles,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Myles,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Mrs. Grace,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Mrs. Grace,Rose,0.2777777777777778,0.0,59.72222222222222,INF,be lie face eye be seat
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Mr. Grace,Chloe,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Mr. Grace,Chloe,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Chloe,Mr. Grace,1.8678160919540232,2.586206896551724,48.41954022988506,0.7222222222222222,be chase say laugh disbelieve say call come stand lean narrow grin put fold embrace
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Myles,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Rose,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Myles,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Rose,Mrs. Grace,0.8757961783439491,2.0700636942675157,56.92675159235668,0.4230769230769231,see glimpse race hold try wriggle dig feel run be be chase frame pine
+Mrs. Grace,Rose,2.798507462686567,2.2388059701492535,56.156716417910445,1.25,grasp haul pull be fly lean be sprawl
+Mrs. Grace,Rose,2.798507462686567,2.2388059701492535,56.156716417910445,1.25,grasp haul pull be fly lean be sprawl
+Rose,Mrs. Grace,0.4807692307692308,10.576923076923077,50.480769230769226,0.045454545454545456,spring do catch
+Myles,Chloe,1.4925373134328357,2.0522388059701493,59.14179104477611,0.7272727272727273,emerge pick blow wait rapt burnish come whistle pierce wane
+Myles,Chloe,1.4925373134328357,2.0522388059701493,59.14179104477611,0.7272727272727273,emerge pick blow wait rapt burnish come whistle pierce wane
+Myles,Chloe,1.4925373134328357,2.0522388059701493,59.14179104477611,0.7272727272727273,emerge pick blow wait rapt burnish come whistle pierce wane
+Bonnard,Le Bosquet,2.11864406779661,3.672316384180791,54.09604519774012,0.5769230769230769,consider think make have die call do see come remind have realise be do be look have emerge peer expect
+Bonnard,Le Bosquet,2.11864406779661,3.672316384180791,54.09604519774012,0.5769230769230769,consider think make have die call do see come remind have realise be do be look have emerge peer expect
+Chloe,Myles,0.5681818181818182,0.0,40.340909090909086,INF,seem spend
+Chloe,Myles,2.8273809523809526,1.7857142857142856,52.529761904761905,1.5833333333333333,reply have say be have be show come leap spray have stir have see jump
+Myles,Chloe,2.8273809523809526,1.7857142857142856,52.529761904761905,1.5833333333333333,reply have say be have be show come leap spray have stir have see jump
+Myles,Chloe,2.8273809523809526,1.7857142857142856,52.529761904761905,1.5833333333333333,reply have say be have be show come leap spray have stir have see jump
+Myles,Chloe,2.8273809523809526,1.7857142857142856,52.529761904761905,1.5833333333333333,reply have say be have be show come leap spray have stir have see jump
+Chloe,Bonnard,1.4175257731958764,0.7731958762886598,56.572164948453604,1.8333333333333333,wear overhang strike see hover look see prop be be notice
+Chloe,Myles,2.976190476190476,7.142857142857142,42.26190476190476,0.4166666666666667,do play do be play
+Chloe,Joe,2.5,0.2777777777777778,57.22222222222222,9.0,have remark see be hulk say have
+Joe,Chloe,2.5,0.2777777777777778,57.22222222222222,9.0,have remark see be hulk say have
+Joe,Chloe,2.131506849315069,2.4917808219178084,61.130136986301366,0.8554150632215504,be be be see have take be reflect
+Chloe,Myles,0.7142857142857143,2.857142857142857,56.42857142857143,0.25,try pretend be conjure say
+Chloe,Joe,0.7142857142857143,2.857142857142857,56.42857142857143,0.25,try pretend be conjure say
+Chloe,Myles,0.7142857142857143,2.857142857142857,56.42857142857143,0.25,try pretend be conjure say
+Chloe,Joe,0.7142857142857143,2.857142857142857,56.42857142857143,0.25,try pretend be conjure say
+Myles,Joe,0.7142857142857143,2.857142857142857,56.42857142857143,0.25,try pretend be conjure say
+Miss Vavasour,Claire,2.9069767441860463,2.3255813953488373,59.883720930232556,1.25,be excite glow keep clasp purse stop smile
+Miss Vavasour,Claire,2.9069767441860463,2.3255813953488373,59.883720930232556,1.25,be excite glow keep clasp purse stop smile
+Miss Vavasour,Claire,2.9069767441860463,2.3255813953488373,59.883720930232556,1.25,be excite glow keep clasp purse stop smile
+Miss Vavasour,Claire,2.9069767441860463,2.3255813953488373,59.883720930232556,1.25,be excite glow keep clasp purse stop smile
+Miss Vavasour,Claire,2.9069767441860463,2.3255813953488373,59.883720930232556,1.25,be excite glow keep clasp purse stop smile
+Claire,Blunden,0.3205128205128205,1.6025641025641024,59.61538461538461,0.2,open be bob see do like
+Blunden,Claire,0.3205128205128205,1.6025641025641024,59.61538461538461,0.2,open be bob see do like
+Miss Vavasour,Mrs. Grace,1.2867647058823528,0.1838235294117647,57.35294117647059,7.0,be do pierce cross make think suffer grimace be strike notice
+Claire,Anna,3.125,1.9886363636363635,58.52272727272727,1.5714285714285714,bear look hold use do lift wrinkle
+Claire,Anna,3.125,1.9886363636363635,58.52272727272727,1.5714285714285714,bear look hold use do lift wrinkle
+Claire,Anna,3.125,1.9886363636363635,58.52272727272727,1.5714285714285714,bear look hold use do lift wrinkle
+Claire,Anna,3.125,1.9886363636363635,58.52272727272727,1.5714285714285714,bear look hold use do lift wrinkle
+Bonnard,Marthe,0.3048780487804878,1.524390243902439,46.95121951219512,0.2,recall write tiptoe
+Bonnard,Le Bosquet,2.840909090909091,2.272727272727273,42.61363636363637,1.25,buy live bind torment
+Bonnard,Marthe,2.840909090909091,2.272727272727273,42.61363636363637,1.25,buy live bind torment
+Le Bosquet,Marthe,2.840909090909091,2.272727272727273,42.61363636363637,1.25,buy live bind torment
+Le Bosquet,Bonnard,1.9230769230769231,1.9230769230769231,55.12820512820513,1.0,develop be paint continue have die
+Anna,Mr. Todd,0.8771929824561403,1.0964912280701753,54.166666666666664,0.8,rest still think come see upturn beg be
+Anna,Mr. Todd,0.8771929824561403,1.0964912280701753,54.166666666666664,0.8,rest still think come see upturn beg be
+Mr. Todd,Anna,0.8771929824561403,1.0964912280701753,54.166666666666664,0.8,rest still think come see upturn beg be
+Mr. Todd,Anna,0.8771929824561403,1.0964912280701753,54.166666666666664,0.8,rest still think come see upturn beg be
+Anna,Mr. Todd,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Anna,Bonnard,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Anna,Marthe,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Anna,Le Bosquet,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Mr. Todd,Bonnard,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Mr. Todd,Marthe,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Mr. Todd,Le Bosquet,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Bonnard,Marthe,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Bonnard,Le Bosquet,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Marthe,Le Bosquet,2.6515151515151514,3.0303030303030303,42.803030303030305,0.875,die shut
+Max,Anna,0.8333333333333334,0.0,49.166666666666664,INF,look say have watch be
+Max,Anna,0.8333333333333334,0.0,49.166666666666664,INF,look say have watch be
+Avril,Duignan,0.35714285714285715,0.0,56.785714285714285,INF,appear realise be remind
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Myles,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Myles,Chloe,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Myles,Chloe,2.5,1.5277777777777777,53.75,1.6363636363636365,gall bear seize shake demand see go cross let waggle laugh sound fling fall lie sprawl be
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Chloe,Joe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Joe,Chloe,4.918032786885246,3.278688524590164,49.18032786885246,1.5,shake rattle throw tell have love love smell have remark
+Connie Grace,Chloe,2.5,7.5,46.666666666666664,0.3333333333333333,have be be
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Chloe,Myles,1.6666666666666667,1.6666666666666667,54.44444444444444,1.0,be walk search need make stop turn ignore seize pull kiss be crush taste do
+Mrs. Grace,Rose,2.631578947368421,0.6578947368421052,54.60526315789473,4.0,have be see
+Chloe,Myles,4.6875,3.125,44.6875,1.5,say be step smack produce
+Chloe,Myles,4.6875,3.125,44.6875,1.5,say be step smack produce
+Chloe,Myles,4.6875,3.125,44.6875,1.5,say be step smack produce
+Myles,Chloe,2.8846153846153846,5.128205128205128,56.08974358974359,0.5625,give shrug shamble lift turn say laugh
+Chloe,Myles,2.8846153846153846,5.128205128205128,56.08974358974359,0.5625,give shrug shamble lift turn say laugh
+Chloe,Myles,0.3787878787878788,4.924242424242424,52.27272727272727,0.07692307692307693,remain be give turn
+Chloe,Myles,0.3787878787878788,4.924242424242424,52.27272727272727,0.07692307692307693,remain be give turn
+Claire,Vaublin,3.888888888888889,3.888888888888889,43.333333333333336,1.0,return be shock find be summon
+Claire,Vaublin,3.888888888888889,3.888888888888889,43.333333333333336,1.0,return be shock find be summon
+Vaublin,Claire,3.888888888888889,3.888888888888889,43.333333333333336,1.0,return be shock find be summon
+Vaublin,Claire,3.888888888888889,3.888888888888889,43.333333333333336,1.0,return be shock find be summon
+Claire,Anna,2.941176470588235,7.352941176470589,60.29411764705882,0.4,do tell be have want
+Claire,Anna,2.941176470588235,7.352941176470589,60.29411764705882,0.4,do tell be have want
+Annie,Serge,12.5,1.5625,10.9375,8.0,be
+Serge,Annie,5.803571428571429,3.125,48.214285714285715,1.8571428571428572,call do suppress have be
+Annie,Serge,5.803571428571429,3.125,48.214285714285715,1.8571428571428572,call do suppress have be
+Annie,Serge,5.803571428571429,3.125,48.214285714285715,1.8571428571428572,call do suppress have be
+Annie,Serge,0.4629629629629629,0.4629629629629629,43.51851851851852,1.0,warble make give
+Annie,Serge,0.4629629629629629,0.4629629629629629,43.51851851851852,1.0,warble make give
+Annie,Serge,2.430555555555556,2.083333333333333,53.81944444444444,1.1666666666666667,be take be say heft flap study
+Annie,Serge,2.430555555555556,2.083333333333333,53.81944444444444,1.1666666666666667,be take be say heft flap study
+Serge,Anna,2.717391304347826,0.0,58.152173913043484,INF,reach splay snatch
+Anna,Chloe,0.0,12.5,7.5,0.0,
+Miss Vavasour,Black,6.547619047619048,6.547619047619048,44.047619047619044,1.0,be make be look
+Miss Vavasour,Black,6.547619047619048,6.547619047619048,44.047619047619044,1.0,be make be look
+Miss Vavasour,Bun,2.734375,0.390625,56.25,7.0,be lighten be put join
+Blunden,Miss Vavasour,1.6304347826086956,2.717391304347826,43.47826086956522,0.6,come look frown
+Miss Vavasour,Bun,2.5,3.75,62.083333333333336,0.6666666666666666,be burn seem be swell grow sit regard fix come
+Bun,Miss Vavasour,2.6515151515151514,3.787878787878788,57.1969696969697,0.7,tell keep flicker refuse
+Bun,Miss Vavasour,2.083333333333333,1.5625,50.520833333333336,1.3333333333333333,begin see be have give
+Anna,Charlie,3.6111111111111107,1.1111111111111112,53.05555555555556,3.25,be be be have buy sell
+Anna,Charlie,3.6111111111111107,1.1111111111111112,53.05555555555556,3.25,be be be have buy sell
+Myles,Rose,2.840909090909091,6.534090909090909,45.17045454545455,0.43478260869565216,laugh laugh twitch be understand scowl
+Myles,Chloe,2.840909090909091,6.534090909090909,45.17045454545455,0.43478260869565216,laugh laugh twitch be understand scowl
+Rose,Myles,2.840909090909091,6.534090909090909,45.17045454545455,0.43478260869565216,laugh laugh twitch be understand scowl
+Rose,Chloe,2.840909090909091,6.534090909090909,45.17045454545455,0.43478260869565216,laugh laugh twitch be understand scowl
+Myles,Chloe,2.840909090909091,6.534090909090909,45.17045454545455,0.43478260869565216,laugh laugh twitch be understand scowl
+Anna,Charlie,5.514705882352941,7.352941176470589,54.779411764705884,0.75,do come let admit do invite die
+Max,Anna,0.0,0.0,50.0,INF,do keep call
+Bun,Miss Vavasour,4.166666666666666,1.7543859649122806,55.48245614035088,2.375,say give look press be put heave
+Bun,Miss Vavasour,1.358695652173913,1.358695652173913,60.32608695652174,1.0,sound wave grin wave buzz be go
+Chloe,Myles,2.1739130434782608,0.5434782608695652,62.5,4.0,be
+Bonnard,Marthe,2.0161290322580645,0.0,59.2741935483871,INF,do be depict have think be meet
+Miss Vavasour,Bun,6.521739130434782,1.0869565217391304,40.21739130434783,6.0,ask be have meet ask
+Bun,Miss Vavasour,6.521739130434782,1.0869565217391304,40.21739130434783,6.0,ask be have meet ask
+Miss Vavasour,Vivienne,0.0,0.0,31.57894736842105,INF,see say own
+Vivienne,Miss Vavasour,0.9615384615384616,0.4807692307692308,52.40384615384615,2.0,be own say have pass
+Miss Vavasour,Vivienne,0.9615384615384616,0.4807692307692308,52.40384615384615,2.0,be own say have pass
+Vivienne,Miss Vavasour,1.0416666666666665,0.0,23.958333333333336,INF,say be
+Mrs. Grace,Rose,0.5952380952380952,0.0,66.07142857142857,INF,be glitter come help wash
+Mrs. Grace,Rose,2.5,3.0,52.5,0.8333333333333334,stand pose incline cup pour chip
+Mrs. Grace,Rose,2.5,3.0,52.5,0.8333333333333334,stand pose incline cup pour chip
+Chloe,Rose,2.631578947368421,0.9868421052631579,54.276315789473685,2.6666666666666665,think be mean be be
+Chloe,Rose,2.631578947368421,0.9868421052631579,54.276315789473685,2.6666666666666665,think be mean be be
+Chloe,Mrs. Grace,1.7543859649122806,1.3157894736842104,47.80701754385965,1.3333333333333333,be be be set seem smudge
+Chloe,Mrs. Grace,1.7543859649122806,1.3157894736842104,47.80701754385965,1.3333333333333333,be be be set seem smudge
+Chloe,Mrs. Grace,1.7543859649122806,1.3157894736842104,47.80701754385965,1.3333333333333333,be be be set seem smudge
+Mrs. Grace,Rosie,3.7037037037037033,4.62962962962963,47.22222222222222,0.8,have have be
+Rose,Chloe,0.0,1.3157894736842104,56.57894736842105,0.0,discover come call
+Mr. Grace,Chloe,2.403846153846154,0.4807692307692308,54.807692307692314,5.0,peer say be grin
+Mr. Grace,Chloe,2.403846153846154,0.4807692307692308,54.807692307692314,5.0,peer say be grin
+Chloe,Mr. Grace,2.403846153846154,0.4807692307692308,54.807692307692314,5.0,peer say be grin
+Mr. Grace,Carlo Grace,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Mr. Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Mr. Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Mr. Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Mr. Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Carlo Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Carlo Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Carlo Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Carlo Grace,Chloe,4.797979797979798,2.398989898989899,53.40909090909091,2.0,tread bound have step share have blur look frown have notice stand know have
+Myles,Chloe,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Myles,Chloe,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Myles,Chloe,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Myles,Chloe,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Chloe,Myles,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Chloe,Myles,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Chloe,Myles,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Chloe,Myles,3.088235294117647,1.1764705882352942,55.73529411764706,2.625,have slow get put mouth raise have be do smile shrug be bear grin
+Chloe,Rose,3.273809523809524,2.6785714285714284,55.952380952380956,1.2222222222222223,have forget be be do notice hear
+Rose,Chloe,3.273809523809524,2.6785714285714284,55.952380952380956,1.2222222222222223,have forget be be do notice hear
+Rose,Chloe,3.273809523809524,2.6785714285714284,55.952380952380956,1.2222222222222223,have forget be be do notice hear
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Mrs. Grace,Rose,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Mrs. Grace,Rose,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Mrs. Grace,Rose,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,0.8620689655172413,2.1551724137931036,55.603448275862064,0.4,stop stand turn turn be hold be rock
+Rose,Mrs. Grace,2.272727272727273,1.7045454545454544,46.02272727272727,1.3333333333333333,say coax be
+Mrs. Grace,Rose,2.272727272727273,1.7045454545454544,46.02272727272727,1.3333333333333333,say coax be
+Rose,Mrs. Grace,3.571428571428571,0.5952380952380952,57.738095238095234,6.0,have turn give
+Mrs. Grace,Rose,1.3888888888888888,1.8518518518518516,70.83333333333334,0.75,move touch snatch be burn
+Mrs. Grace,Rose,1.3888888888888888,1.8518518518518516,70.83333333333334,0.75,move touch snatch be burn
+Rose,Mrs. Grace,1.3888888888888888,1.8518518518518516,70.83333333333334,0.75,move touch snatch be burn
+Mrs. Grace,Rose,1.3888888888888888,1.8518518518518516,70.83333333333334,0.75,move touch snatch be burn
+Rosie,Mrs. Grace,1.7241379310344827,3.6637931034482754,46.33620689655172,0.47058823529411764,come coax manage insinuate make be set
+Rose,Mrs. Grace,0.78125,1.3020833333333335,60.416666666666664,0.6,go talk talk keep seem speak stoop suspect be suppress
+Rose,Mrs. Grace,0.78125,1.3020833333333335,60.416666666666664,0.6,go talk talk keep seem speak stoop suspect be suppress
+Rose,Mrs. Grace,0.78125,1.3020833333333335,60.416666666666664,0.6,go talk talk keep seem speak stoop suspect be suppress
+Rose,Mrs. Grace,0.78125,1.3020833333333335,60.416666666666664,0.6,go talk talk keep seem speak stoop suspect be suppress
+Rose,Mrs. Grace,0.78125,1.3020833333333335,60.416666666666664,0.6,go talk talk keep seem speak stoop suspect be suppress
+Rose,Mr. Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Rose,Mrs. Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Rose,Carlo Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Mr. Grace,Mrs. Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Mr. Grace,Carlo Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Mrs. Grace,Carlo Grace,5.172413793103448,0.43103448275862066,49.56896551724138,12.0,catch be shout
+Mrs. Grace,Rose,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Mrs. Grace,Rose,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Rose,Mrs. Grace,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Rose,Mrs. Grace,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Mrs. Grace,Rose,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Rose,Mrs. Grace,3.2303370786516856,2.106741573033708,51.96629213483146,1.5333333333333334,turn have stop stand face smile lift edge gouge blow clear have turn be walk
+Rose,Mrs. Grace,4.166666666666666,0.0,55.833333333333336,INF,be lose
+Rose,Mrs. Grace,2.5,1.6666666666666667,59.166666666666664,1.5,recall
+Rose,Mrs. Grace,2.0408163265306123,3.061224489795918,58.16326530612245,0.6666666666666666,be go climb do climb have be go walk polish empty
+Rose,Carlo Grace,1.8394366197183099,2.3859154929577464,49.29577464788733,0.7709563164108619,be have entertain cavort bulge chest-fur be be entertain be
+Mrs. Grace,Rose,5.263157894736842,7.236842105263158,34.868421052631575,0.7272727272727273,have receive blurt
+Carlo Grace,Rose,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,pay do happen cross be
+Carlo Grace,Rose,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,pay do happen cross be
+Carlo Grace,Rose,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,pay do happen cross be
+Carlo Grace,Rose,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,pay do happen cross be
+Carlo Grace,Rose,2.7027027027027026,1.0135135135135136,55.74324324324324,2.6666666666666665,pay do happen cross be
+Rosie,Myles,1.6025641025641024,0.3205128205128205,51.92307692307693,5.0,do think fall myle scrawl love accompany enclose
+Rosie,Myles,1.6025641025641024,0.3205128205128205,51.92307692307693,5.0,do think fall myle scrawl love accompany enclose
+Myles,Rosie,1.6025641025641024,0.3205128205128205,51.92307692307693,5.0,do think fall myle scrawl love accompany enclose
+Chloe,Rosie,2.34375,3.90625,56.25,0.6,think be have find
+Chloe,Rose,1.0,2.5,64.5,0.4,be be increase seem
+Chloe,Myles,0.5102040816326531,0.0,46.42857142857143,INF,watch sit peel
+Chloe,Myles,2.1551724137931036,0.43103448275862066,45.689655172413794,5.0,seem be
+Chloe,Myles,2.1551724137931036,0.43103448275862066,45.689655172413794,5.0,seem be
+Chloe,Myles,2.1551724137931036,0.43103448275862066,45.689655172413794,5.0,seem be
+Rose,Chloe,0.0,0.0,72.41379310344827,INF,lay seem be
+Rose,Chloe,0.0,0.0,72.41379310344827,INF,lay seem be
+Rose,Chloe,0.0,0.0,72.41379310344827,INF,lay seem be
+Rosie,Chloe,0.0,1.0416666666666665,40.625,0.0,be wash say
+Chloe,Myles,0.0,4.807692307692308,49.03846153846153,0.0,sit
+Chloe,Myles,2.430555555555556,1.7361111111111112,54.166666666666664,1.4,do think be be pose kneel look face
+Rosie,Chloe,1.4423076923076923,1.9230769230769231,50.480769230769226,0.75,hope get drown say speak give nick
+Rosie,Chloe,1.4423076923076923,1.9230769230769231,50.480769230769226,0.75,hope get drown say speak give nick
+Chloe,Myles,5.288461538461538,3.3653846153846154,45.19230769230769,1.5714285714285714,sit splay lean close
+Chloe,Myles,5.288461538461538,3.3653846153846154,45.19230769230769,1.5714285714285714,sit splay lean close
+Chloe,Myles,5.288461538461538,3.3653846153846154,45.19230769230769,1.5714285714285714,sit splay lean close
+Chloe,Myles,5.288461538461538,3.3653846153846154,45.19230769230769,1.5714285714285714,sit splay lean close
+Chloe,Myles,5.288461538461538,3.3653846153846154,45.19230769230769,1.5714285714285714,sit splay lean close
+Chloe,Myles,2.556818181818182,5.681818181818182,53.125,0.45,reach find lie clasp do tighten feel hear moan rise
+Myles,Chloe,2.556818181818182,5.681818181818182,53.125,0.45,reach find lie clasp do tighten feel hear moan rise
+Myles,Chloe,2.556818181818182,5.681818181818182,53.125,0.45,reach find lie clasp do tighten feel hear moan rise
+Myles,Chloe,2.556818181818182,5.681818181818182,53.125,0.45,reach find lie clasp do tighten feel hear moan rise
+Rose,Chloe,1.7857142857142856,0.0,69.64285714285714,INF,be stand
+Chloe,Rose,1.9444444444444444,3.0555555555555554,55.00000000000001,0.6363636363636364,pull rety speak catch be
+Chloe,Rose,1.9444444444444444,3.0555555555555554,55.00000000000001,0.6363636363636364,pull rety speak catch be
+Chloe,Rose,1.9444444444444444,3.0555555555555554,55.00000000000001,0.6363636363636364,pull rety speak catch be
+Chloe,Rose,1.9444444444444444,3.0555555555555554,55.00000000000001,0.6363636363636364,pull rety speak catch be
+Chloe,Rose,1.5625,4.0625,51.87500000000001,0.38461538461538464,come be square shriek
+Rose,Chloe,0.24509803921568626,1.2254901960784315,65.19607843137256,0.2,stand glare see get turn begin gather pitch throw
+Rose,Chloe,0.24509803921568626,1.2254901960784315,65.19607843137256,0.2,stand glare see get turn begin gather pitch throw
+Rose,Chloe,0.24509803921568626,1.2254901960784315,65.19607843137256,0.2,stand glare see get turn begin gather pitch throw
+Rose,Chloe,0.24509803921568626,1.2254901960784315,65.19607843137256,0.2,stand glare see get turn begin gather pitch throw
+Myles,Chloe,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Myles,Chloe,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Myles,Chloe,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Chloe,Myles,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Chloe,Myles,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Myles,Chloe,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Myles,Chloe,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Chloe,Myles,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Chloe,Myles,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,get be sit sit put lay
+Rose,Chloe,4.166666666666666,0.0,33.92857142857143,INF,watch clutch stand
+Rose,Chloe,4.166666666666666,0.0,33.92857142857143,INF,watch clutch stand
+Rose,Chloe,4.166666666666666,0.0,33.92857142857143,INF,watch clutch stand
+Claire,Bonnard,4.166666666666666,3.7037037037037033,43.98148148148148,1.125,be finish inform betroth gloss
+Claire,Bonnard,4.166666666666666,3.7037037037037033,43.98148148148148,1.125,be finish inform betroth gloss
+Claire,Bonnard,4.166666666666666,3.7037037037037033,43.98148148148148,1.125,be finish inform betroth gloss
+Claire,Bonnard,2.393617021276596,3.4574468085106385,53.72340425531915,0.6923076923076923,have tell sound shy have get fill
+Max,Miss Vavasour,2.0,3.0,43.0,0.6666666666666666,say do think be be force
+Miss Vavasour,Rose,0.0,4.166666666666666,69.16666666666667,0.0,do think mean call
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Myles,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Myles,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Miss Vavasour,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Chloe,Myles,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Chloe,Myles,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Myles,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Myles,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Myles,Chloe,2.307692307692308,2.6923076923076925,44.230769230769226,0.8571428571428571,like ask blame believe say be go follow try save be convince drown be
+Chloe,Myles,5.208333333333334,5.208333333333334,52.083333333333336,1.0,have go do know have be have go have be make

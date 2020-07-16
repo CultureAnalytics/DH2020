@@ -1,0 +1,674 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Candie,Bobby,2.586206896551724,0.43103448275862066,52.1551724137931,6.0,hope read feel
+Marx,Lenin,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Marx,Stalin,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Marx,Mao Zedong,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Lenin,Stalin,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Lenin,Mao Zedong,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Stalin,Mao Zedong,2.9545454545454546,1.8181818181818181,46.13636363636363,1.625,establish reindoctrinate be teach have write confess engage
+Stalin,Mao Zedong,1.9886363636363635,1.7045454545454544,55.39772727272727,1.1666666666666667,read discuss issue
+Stalin,Chinese Communist Party,1.9886363636363635,1.7045454545454544,55.39772727272727,1.1666666666666667,read discuss issue
+Mao Zedong,Chinese Communist Party,1.9886363636363635,1.7045454545454544,55.39772727272727,1.1666666666666667,read discuss issue
+People 's Liberation Army,Father Hu,1.0,1.25,53.75,0.8,become declare leave devote rebuild
+People 's Liberation Army,Chinese Communist Party,1.0,1.25,53.75,0.8,become declare leave devote rebuild
+Father Hu,Chinese Communist Party,1.0,1.25,53.75,0.8,become declare leave devote rebuild
+Pei,Yu Yuan,1.9230769230769231,0.0,59.61538461538461,INF,say keep
+Niu,People 's Liberation Army,3.787878787878788,1.893939393939394,48.86363636363637,2.0,be have be
+Dr. Wang,Tang Jing,1.25,0.625,48.125,2.0,turn ask be hit
+Ming,Beijing University,3.260869565217391,0.0,61.95652173913043,INF,have graduate major be respect
+Beijing University,Ming,3.260869565217391,0.0,61.95652173913043,INF,have graduate major be respect
+Niu,Commissar Pei,4.838709677419355,1.2096774193548387,48.79032258064516,4.0,have lack guess be happen
+Commissar Pei,Niu,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,argue follow
+Commissar Pei,Niu,2.6785714285714284,2.6785714285714284,58.92857142857143,1.0,have
+Sixtieth Field Army,Chinese People 's Volunteer Army,1.953125,0.0,48.046875,INF,be have lose
+Chaolin,Niu,2.083333333333333,0.4166666666666667,54.166666666666664,5.0,be say please give
+Chaolin,Niu,2.083333333333333,0.4166666666666667,54.166666666666664,5.0,be say please give
+Dr. Wang,Tiger,0.0,0.8928571428571428,41.964285714285715,0.0,be say
+Dr. Wang,Pei,0.0,0.8928571428571428,41.964285714285715,0.0,be say
+Tiger,Pei,0.0,0.8928571428571428,41.964285714285715,0.0,be say
+Pei,Niu,0.8333333333333334,0.0,59.166666666666664,INF,tell be go have
+Pei,Niu,3.571428571428571,4.464285714285714,41.964285714285715,0.8,do stay say
+Ming,Pei,0.0,0.0,64.70588235294117,INF,offer come say be
+Dr. Wang,Commissar Pei,3.6764705882352944,0.0,61.029411764705884,INF,wail take
+Tiger,Pei,0.0,0.0,60.0,INF,curse streak
+Stalin,Kim Il Sung,0.4807692307692308,0.0,53.36538461538461,INF,stick send
+Pei,Commissar Pei,2.7439024390243905,1.524390243902439,54.268292682926834,1.8,pat have be place say ride
+Pei,Tiger,3.2407407407407405,0.0,56.018518518518526,INF,raise announce live die
+Pei,Commissar Pei,3.2407407407407405,0.0,56.018518518518526,INF,raise announce live die
+Pei,Commissar Pei,3.2407407407407405,0.0,56.018518518518526,INF,raise announce live die
+Tiger,Commissar Pei,3.2407407407407405,0.0,56.018518518518526,INF,raise announce live die
+Tiger,Commissar Pei,3.2407407407407405,0.0,56.018518518518526,INF,raise announce live die
+Tiger,Dr. Wang,0.0,2.314814814814815,56.94444444444444,0.0,walk march
+Pei,Tiger,2.82258064516129,0.0,61.693548387096776,INF,have think be assign lead wound have order stay
+Tiger,Pei,2.82258064516129,0.0,61.693548387096776,INF,have think be assign lead wound have order stay
+Tiger,Pei,0.0,0.0,78.57142857142857,INF,carry contain
+Tiger,Pei,0.0,0.0,78.57142857142857,INF,carry contain
+Commissar Pei,Pei,0.4807692307692308,0.0,45.67307692307692,INF,eat gather encourage search
+Commissar Pei,Pei,0.4807692307692308,0.0,45.67307692307692,INF,eat gather encourage search
+Tiger,Pei,2.586206896551724,1.7241379310344827,68.10344827586206,1.5,find have carry
+Commissar Pei,Pei,0.7575757575757576,0.7575757575757576,62.121212121212125,1.0,take write say have borrow compensate come liberate
+Commissar Pei,Pei,2.8846153846153846,4.807692307692308,73.07692307692307,0.6,regret have bring have be
+Commissar Pei,Pei,2.8846153846153846,4.807692307692308,73.07692307692307,0.6,regret have bring have be
+Sam,Harry Truman,1.530612244897959,2.806122448979592,56.88775510204081,0.5454545454545454,translate serve tell have flee catch
+Sam,Harry Truman,1.530612244897959,2.806122448979592,56.88775510204081,0.5454545454545454,translate serve tell have flee catch
+Pei,Chaolin,4.6875,3.125,48.4375,1.5,tell get kill help lead
+Pei,Chaolin,4.6875,3.125,48.4375,1.5,tell get kill help lead
+Tiger,Commissar Pei,0.9259259259259258,2.314814814814815,52.31481481481482,0.4,begin push be overhang
+Pei,Tiger,0.0,2.272727272727273,70.45454545454545,0.0,be hesitate shove
+Tiger,Pei,0.0,2.272727272727273,70.45454545454545,0.0,be hesitate shove
+Tiger,Pei,0.0,0.0,60.0,INF,raise come
+Wanlin,Commissar Pei,4.545454545454546,0.0,68.18181818181817,INF,have recognize have see do remember
+Wanlin,Niu,2.462121212121212,0.946969696969697,63.25757575757576,2.6,tell have be capture have abandon strew have manage flee have run draw
+Wanlin,Gushu,0.0,0.0,62.5,INF,speak catch wiggle
+Wanlin,Gushu,0.0,0.0,62.5,INF,speak catch wiggle
+Wanlin,Gushu,0.0,0.0,60.0,INF,open find
+Wanlin,Gushu,0.0,1.7045454545454544,66.47727272727273,0.0,return tell turn
+Gushu,Wanlin,0.0,1.7045454545454544,66.47727272727273,0.0,return tell turn
+Wanlin,Gushu,1.4705882352941175,0.3676470588235294,56.98529411764706,4.0,collect raise see gather
+Gushu,Wanlin,1.4705882352941175,0.3676470588235294,56.98529411764706,4.0,collect raise see gather
+Gushu,Wanlin,0.0,3.125,43.30357142857143,0.0,groan stop be labor tear
+Gushu,Wanlin,0.0,3.125,43.30357142857143,0.0,groan stop be labor tear
+Gushu,Wanlin,0.0,3.125,43.30357142857143,0.0,groan stop be labor tear
+Wanlin,Dr. Thomas,3.125,0.78125,64.84375,4.0,curse believe have intend mangle
+Dr. Thomas,Wanlin,3.125,0.78125,64.84375,4.0,curse believe have intend mangle
+Wanlin,Gushu,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,learn go become insist refuse say die lose
+Wanlin,Gushu,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,learn go become insist refuse say die lose
+Wanlin,Gushu,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,learn go become insist refuse say die lose
+Gushu,Wanlin,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,learn go become insist refuse say die lose
+Gushu,Wanlin,1.0869565217391304,4.3478260869565215,59.78260869565217,0.25,learn go become insist refuse say die lose
+Wanlin,Dr. Thomas,0.7575757575757576,2.6515151515151514,45.07575757575758,0.2857142857142857,tell want save have get
+Dr. Greene,Dr. Thomas,0.0,0.0,61.904761904761905,INF,come wear
+Kim Il Sung,Korean People 's Army,0.49019607843137253,0.24509803921568626,44.36274509803921,2.0,chant be
+Kim Il Sung,Chinese People 's Volunteers,0.49019607843137253,0.24509803921568626,44.36274509803921,2.0,chant be
+Korean People 's Army,Chinese People 's Volunteers,0.49019607843137253,0.24509803921568626,44.36274509803921,2.0,chant be
+Commissar Pei,Pei,2.5,3.125,54.37499999999999,0.8,give have leave need
+Dr. Thomas,Dr. Greene,0.0,2.083333333333333,68.75,0.0,be give replace hold be
+Wang Yong,Feng Yan,1.3157894736842104,0.0,46.05263157894737,INF,say smile look
+Dajian,Liu Tai-an,3.6057692307692304,3.125,50.96153846153846,1.1538461538461537,share explain have fear show ruin have want reach
+Dajian,Liu Tai-an,3.6057692307692304,3.125,50.96153846153846,1.1538461538461537,share explain have fear show ruin have want reach
+Dajian,Liu Tai-an,5.555555555555555,2.7777777777777777,47.22222222222222,2.0,tell
+Liu Tai-an,Han Shu,4.2682926829268295,2.7439024390243905,61.28048780487805,1.5555555555555556,be be appoint help keep be seem
+Liu Tai-an,Han Shu,4.2682926829268295,2.7439024390243905,61.28048780487805,1.5555555555555556,be be appoint help keep be seem
+Ming,Chaolin,2.663934426229508,1.0245901639344261,60.245901639344254,2.6,barb tell have see be have admit be be transfer hold staunch
+Ming,Chaolin,2.663934426229508,1.0245901639344261,60.245901639344254,2.6,barb tell have see be have admit be be transfer hold staunch
+Dajian,Huangpu Military Academy,6.854838709677419,2.82258064516129,61.29032258064516,2.4285714285714284,get know find have be
+Dajian,People 's Liberation Army,0.0,0.0,59.09090909090909,INF,disband be be assign
+Woodworth,Father Hu,4.779411764705882,0.3676470588235294,59.55882352941176,13.0,provide meet preach
+Woodworth,Civil Information and Education Center,4.779411764705882,0.3676470588235294,59.55882352941176,13.0,provide meet preach
+Father Hu,Civil Information and Education Center,4.779411764705882,0.3676470588235294,59.55882352941176,13.0,provide meet preach
+Woodworth,Catholic,2.7777777777777777,0.9259259259259258,62.96296296296296,3.0,attend want learn have be be
+People 's Liberation Army,Red Army,0.0,3.125,55.208333333333336,0.0,serve
+Generalissimo Chiang,Reds,2.631578947368421,1.9736842105263157,53.289473684210535,1.3333333333333333,recapture
+Ming,Commissar Pei,2.083333333333333,0.3472222222222222,61.458333333333336,6.0,say have be transfer be have regain
+Ming,Wang Yong,1.4204545454545454,1.4204545454545454,53.97727272727273,1.0,ming go have offer exchange join let go
+Woodworth,Mr. Feng,0.5952380952380952,1.1904761904761905,55.35714285714286,0.5,say want ask
+Ming,Commissar Pei,1.3157894736842104,1.9736842105263157,54.60526315789473,0.6666666666666666,be excite have say pass
+Woodworth,Father Hu,5.263157894736842,0.6578947368421052,51.973684210526315,8.0,accord be involve persecute
+Commissar Pei,Woodworth,7.638888888888889,2.083333333333333,51.388888888888886,3.6666666666666665,be hear be help
+Commissar Pei,Woodworth,7.638888888888889,2.083333333333333,51.388888888888886,3.6666666666666665,be hear be help
+Ming,Woodworth,4.583333333333333,0.4166666666666667,68.33333333333333,11.0,make think be convince have be involve persecute want repatriate
+Dajian,Woodworth,0.0,0.0,46.15384615384615,INF,mention
+Woodworth,Dajian,2.083333333333333,7.638888888888889,45.83333333333333,0.2727272727272727,have punish disappoint
+Dajian,Woodworth,2.083333333333333,7.638888888888889,45.83333333333333,0.2727272727272727,have punish disappoint
+Woodworth,Liu Tai-an,1.25,0.0,53.75,INF,be rumor have present
+Ming,Commissar Pei,1.6666666666666667,0.8333333333333334,77.5,2.0,tell have betray
+Ming,Pei,1.7857142857142856,1.1904761904761905,54.166666666666664,1.5,surprise refrain ask inform have quit
+Ming,Woodworth,1.7857142857142856,1.1904761904761905,54.166666666666664,1.5,surprise refrain ask inform have quit
+Pei,Woodworth,1.7857142857142856,1.1904761904761905,54.166666666666664,1.5,surprise refrain ask inform have quit
+Wanlin,Commissar Pei,0.0,2.2058823529411766,62.5,0.0,betray want go
+Wanlin,Commissar Pei,0.0,2.2058823529411766,62.5,0.0,betray want go
+Ming,Commissar Pei,2.272727272727273,0.0,70.45454545454545,INF,tell have treat
+Pei,Johnson,5.3125,4.375,65.3125,1.2142857142857142,have be interrogate know speak have lose show
+Johnson,Pei,5.3125,4.375,65.3125,1.2142857142857142,have be interrogate know speak have lose show
+Johnson,Pei,5.3125,4.375,65.3125,1.2142857142857142,have be interrogate know speak have lose show
+Johnson,Pei,5.3125,4.375,65.3125,1.2142857142857142,have be interrogate know speak have lose show
+Johnson,Commissar Pei,1.7857142857142856,0.0,69.64285714285714,INF,have come interrogate
+Pei,Johnson,2.1739130434782608,0.0,32.608695652173914,INF,tell dip
+Pei,Johnson,2.1739130434782608,0.0,32.608695652173914,INF,tell dip
+Wanlin,Commissar Pei,3.260869565217391,3.260869565217391,50.0,1.0,torture have reveal do have kill
+Commissar Pei,Wanlin,3.260869565217391,3.260869565217391,50.0,1.0,torture have reveal do have kill
+Wanlin,Commissar Pei,0.0,3.75,56.25,0.0,betray mutter
+Wanlin,Ming,0.0,3.75,56.25,0.0,betray mutter
+Commissar Pei,Ming,0.0,3.75,56.25,0.0,betray mutter
+Commissar Pei,Pei,4.166666666666666,1.3888888888888888,61.111111111111114,3.0,head be catch
+Pei,Wanlin,4.545454545454546,5.303030303030303,56.81818181818182,0.8571428571428571,be be have issue have be
+Pei,Wanlin,4.545454545454546,5.303030303030303,56.81818181818182,0.8571428571428571,be be have issue have be
+Julan,Wang Yong,0.0,0.0,43.75,INF,take show
+Dajian,Wang Yong,0.0,1.0416666666666665,57.291666666666664,0.0,be
+Ming,Wang Yong,3.571428571428571,2.6785714285714284,54.46428571428571,1.3333333333333333,joke have be have stuff fry say
+Ming,Wang Yong,3.571428571428571,2.6785714285714284,54.46428571428571,1.3333333333333333,joke have be have stuff fry say
+Ming,Wang Yong,3.571428571428571,2.6785714285714284,54.46428571428571,1.3333333333333333,joke have be have stuff fry say
+Ming,Commissar Pei,0.0,0.0,46.666666666666664,INF,ask do get
+Ming,Chaolin,0.0,0.0,53.84615384615385,INF,assure be remove
+Chaolin,Feng Yan,1.4150943396226416,0.2358490566037736,62.5,6.0,provide have get tattoo have surrender efface
+Chaolin,Feng Yan,1.4150943396226416,0.2358490566037736,62.5,6.0,provide have get tattoo have surrender efface
+Dajian,Feng Yan,3.90625,3.125,49.21875,1.25,tell do cheer
+Liu Tai-an,Han Shu,3.3333333333333335,4.166666666666666,32.5,0.8,have rule
+Liu Tai-an,Han Shu,1.25,0.0,58.75,INF,pace clasp seem lose
+Liu Tai-an,Han Shu,1.25,0.0,58.75,INF,pace clasp seem lose
+Liu Tai-an,Dajian,1.25,0.0,68.75,INF,point
+Dajian,Han Shu,2.142857142857143,0.7142857142857143,51.42857142857142,3.0,walk daze be jab
+Liu Tai-an,Brothers,2.7777777777777777,0.0,52.77777777777778,INF,say send have arrive take live
+Liu Tai-an,Generalissimo Chiang,2.7777777777777777,0.0,52.77777777777778,INF,say send have arrive take live
+Brothers,Generalissimo Chiang,2.7777777777777777,0.0,52.77777777777778,INF,say send have arrive take live
+Liu Tai-an,Lin Wushen,2.7777777777777777,2.083333333333333,61.80555555555556,1.3333333333333333,thrust intend poke
+Liu Tai-an,Lin Wushen,2.7777777777777777,2.083333333333333,61.80555555555556,1.3333333333333333,thrust intend poke
+Lin Wushen,Liu Tai-an,2.7777777777777777,2.083333333333333,61.80555555555556,1.3333333333333333,thrust intend poke
+Liu Tai-an,Lin Wushen,2.1739130434782608,7.065217391304348,38.58695652173913,0.3076923076923077,go rip expose
+Liu Tai-an,Lin Wushen,2.1739130434782608,7.065217391304348,38.58695652173913,0.3076923076923077,go rip expose
+Liu Tai-an,Lin Wushen,2.1739130434782608,7.065217391304348,38.58695652173913,0.3076923076923077,go rip expose
+Liu Tai-an,Lin Wushen,2.1739130434782608,7.065217391304348,38.58695652173913,0.3076923076923077,go rip expose
+Liu Tai-an,Lin Wushen,1.1363636363636365,1.5151515151515151,33.71212121212121,0.75,seize raise say tell want go
+Liu Tai-an,Lin Wushen,4.6875,0.5208333333333333,44.79166666666667,9.0,look regain say be
+Liu Tai-an,Lin Wushen,4.6875,0.5208333333333333,44.79166666666667,9.0,look regain say be
+Brothers,Liu Tai-an,3.125,0.0,38.54166666666667,INF,say be make
+Dajian,Liu Tai-an,2.6785714285714284,2.232142857142857,41.517857142857146,1.2,talk do know kill decide
+Dajian,Liu Tai-an,2.6785714285714284,2.232142857142857,41.517857142857146,1.2,talk do know kill decide
+Stalin,Mao Zedong,1.0,1.0,62.0,1.0,kneel hunch bow
+Lin Wushen,Liu Tai-an,3.214285714285714,1.7857142857142856,52.142857142857146,1.8,grab wave hiss let ask go
+Lin Wushen,Liu Tai-an,3.214285714285714,1.7857142857142856,52.142857142857146,1.8,grab wave hiss let ask go
+Lin Wushen,Chinese Communist Party,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,shout live
+Lin Wushen,Chinese Communist Party,2.2058823529411766,2.2058823529411766,54.41176470588235,1.0,shout live
+Liu Tai-an,Lin Wushen,0.0,0.0,41.66666666666667,INF,stab twist
+Yang Huan,Huangpu Military Academy,2.34375,1.953125,55.078125,1.2,be be
+Mei Lufu,Yang Huan,0.78125,1.5625,47.65625,0.5,say be remember
+Mei Lufu,Yang Huan,0.78125,1.5625,47.65625,0.5,say be remember
+Mei Lufu,Yang Huan,1.5625,0.0,60.9375,INF,slap
+Mei Lufu,Yang Huan,0.0,0.0,50.0,INF,begin punch
+Mei Lufu,Liu Tai-an,2.083333333333333,3.125,61.458333333333336,0.6666666666666666,be shudder have think educate be
+Brothers,Lin Wushen,4.6875,5.46875,39.84375,0.8571428571428571,please do follow
+Brothers,Yang Huan,4.6875,5.46875,39.84375,0.8571428571428571,please do follow
+Lin Wushen,Yang Huan,4.6875,5.46875,39.84375,0.8571428571428571,please do follow
+Dajian,Huangpu Military Academy,5.357142857142857,1.3392857142857142,43.30357142857143,4.0,be alarm have realize have be
+Liu Tai-an,Dajian,1.5,1.0,53.5,1.5,refrain quake let
+Liu Tai-an,Han Shu,2.9069767441860463,2.3255813953488373,52.90697674418605,1.25,be entitle eat use eat
+Han Shu,Liu Tai-an,2.9069767441860463,2.3255813953488373,52.90697674418605,1.25,be entitle eat use eat
+Dajian,Mei Lufu,0.0,0.0,58.82352941176471,INF,tell live work declare settle
+Liu Tai-an,Wang Yong,1.4705882352941175,1.4705882352941175,32.35294117647059,1.0,be talk arrive
+Liu Tai-an,Reds,0.8333333333333334,2.5,46.666666666666664,0.3333333333333333,say kill eat come
+Liu Tai-an,Reds,0.8333333333333334,2.5,46.666666666666664,0.3333333333333333,say kill eat come
+Dajian,Feng Yan,0.7575757575757576,0.0,53.78787878787878,INF,hear have join return keep ask
+Dajian,Feng Yan,0.7575757575757576,0.0,53.78787878787878,INF,hear have join return keep ask
+Chaolin,Commissar Pei,5.46875,0.78125,75.0,7.0,tell have be help organize
+Chaolin,Commissar Pei,5.46875,0.78125,75.0,7.0,tell have be help organize
+Yu Yuan,Pei,1.8518518518518516,0.0,38.88888888888889,INF,meet say stretch hold
+Yu Yuan,Pei,1.8518518518518516,0.0,38.88888888888889,INF,meet say stretch hold
+Pei,Zhao Teng,3.1862745098039214,0.7352941176470588,62.745098039215684,4.333333333333333,hold be have be be be
+Pei,Zhao Teng,3.1862745098039214,0.7352941176470588,62.745098039215684,4.333333333333333,hold be have be be be
+Pei,Commissar Pei,3.1862745098039214,0.7352941176470588,62.745098039215684,4.333333333333333,hold be have be be be
+Zhao Teng,Commissar Pei,3.1862745098039214,0.7352941176470588,62.745098039215684,4.333333333333333,hold be have be be be
+Zhao Teng,Commissar Pei,3.1862745098039214,0.7352941176470588,62.745098039215684,4.333333333333333,hold be have be be be
+Chaolin,Zhao Teng,7.142857142857142,2.976190476190476,47.023809523809526,2.4,be have say
+Pei,Chaolin,0.6944444444444444,2.083333333333333,55.55555555555556,0.3333333333333333,be elect become be lead
+Pei,Zhao Teng,0.6944444444444444,2.083333333333333,55.55555555555556,0.3333333333333333,be elect become be lead
+Chaolin,Zhao Teng,0.6944444444444444,2.083333333333333,55.55555555555556,0.3333333333333333,be elect become be lead
+United Communist Association,Chinese Communist Party,0.8928571428571428,1.3392857142857142,65.625,0.6666666666666666,be compose
+United Communist Association,U.N.,0.8928571428571428,1.3392857142857142,65.625,0.6666666666666666,be compose
+Chinese Communist Party,U.N.,0.8928571428571428,1.3392857142857142,65.625,0.6666666666666666,be compose
+Ming,United Communist Association,2.9166666666666665,3.75,50.0,0.7777777777777778,say let
+Dajian,Wang Yong,1.1904761904761905,0.0,46.42857142857143,INF,have follow have go remain
+Dajian,Wang Yong,1.1904761904761905,0.0,46.42857142857143,INF,have follow have go remain
+Commissar Pei,Woodworth,8.189655172413794,1.7241379310344827,59.05172413793104,4.75,stun realize have have be awaken
+Yu Yuan,Chaolin,5.0,1.6666666666666667,40.0,3.0,please answer say
+Commissar Pei,Pei,0.8928571428571428,1.7857142857142856,61.60714285714286,0.5,do want keep
+Yu Yuan,Commissar Pei,4.166666666666666,0.0,55.833333333333336,INF,comrade get
+Ming,Harry Truman,0.0,1.5625,60.9375,0.0,ming take
+Dr. Wang,Ming,0.6578947368421052,0.0,57.23684210526315,INF,get exchange
+Ming,Harry Truman,1.0,1.5,57.49999999999999,0.6666666666666666,be impersonate play
+Ming,Harry Truman,1.0714285714285714,1.0714285714285714,60.71428571428571,1.0,wear be keep bow fan form
+Ming,Harry Truman,1.0714285714285714,1.0714285714285714,60.71428571428571,1.0,wear be keep bow fan form
+Ming,Harry Truman,1.0714285714285714,1.0714285714285714,60.71428571428571,1.0,wear be keep bow fan form
+Ming,Harry Truman,1.0714285714285714,1.0714285714285714,60.71428571428571,1.0,wear be keep bow fan form
+Ming,Feng Wen,3.75,0.0,61.25000000000001,INF,realize know be
+Commissar Pei,Pei,1.3157894736842104,0.0,51.31578947368421,INF,be read translate
+Commissar Pei,Mao Zedong,2.1739130434782608,3.804347826086957,67.93478260869566,0.5714285714285714,tell have be kill
+Commissar Pei,Mao Zedong,2.1739130434782608,3.804347826086957,67.93478260869566,0.5714285714285714,tell have be kill
+Richard,Feng Yan,0.6944444444444444,0.0,54.861111111111114,INF,ask do
+Richard,Commissar Pei,0.0,0.0,54.54545454545454,INF,report
+Ming,Chinese People 's Volunteers,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Ming,Korean People 's Army,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Ming,Chinese People 's Volunteers,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Ming,Korean People 's Army,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Ming,Chinese People 's Volunteers,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Ming,Korean People 's Army,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Chinese People 's Volunteers,Korean People 's Army,2.6119402985074625,1.3059701492537312,57.276119402985074,2.0,cut draw write be
+Frank,Richard,6.25,0.0,62.5,INF,ask help get have
+Frank,Richard,6.25,0.0,62.5,INF,ask help get have
+Wang Yabing,Chaolin,0.8928571428571428,0.0,52.67857142857143,INF,have talk decide let carry be
+Commissar Pei,Pei,0.0,1.6666666666666667,65.0,0.0,wear offer
+Pei,Chaolin,0.0,0.0,57.14285714285714,INF,let go
+Chaolin,Dr. Wang,1.6304347826086956,0.5434782608695652,54.347826086956516,3.0,get let
+Chaolin,Zhao Teng,2.644230769230769,1.201923076923077,55.769230769230774,2.2,look starve have quarrel speak be
+Chaolin,Zhao Teng,2.644230769230769,1.201923076923077,55.769230769230774,2.2,look starve have quarrel speak be
+Chaolin,Lee,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Chaolin,Choi,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Chaolin,Korean People 's Army,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Lee,Choi,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Lee,Korean People 's Army,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Choi,Korean People 's Army,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,have meet introduce say be
+Chaolin,Bell,1.6025641025641024,0.0,52.243589743589745,INF,suggest seize come say have make have do
+Chaolin,Lee,1.6025641025641024,0.0,52.243589743589745,INF,suggest seize come say have make have do
+Bell,Chaolin,1.6025641025641024,0.0,52.243589743589745,INF,suggest seize come say have make have do
+Bell,Lee,1.6025641025641024,0.0,52.243589743589745,INF,suggest seize come say have make have do
+Chaolin,Lee,1.6025641025641024,0.0,52.243589743589745,INF,suggest seize come say have make have do
+Mr. Park,Chaolin,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,shake give light smoke
+Lee,Chinese Communist Party,3.5000000000000004,1.5,43.0,2.3333333333333335,say be
+Mr. Park,Bell,7.236842105263158,7.236842105263158,48.68421052631579,1.0,talk capture shock
+Mr. Park,Kim Il Sung,3.5256410256410255,1.282051282051282,54.166666666666664,2.75,say have order open embarrass expose be treat
+Choi,Mr. Park,2.4193548387096775,3.225806451612903,68.54838709677419,0.75,see tell have study have be
+Choi,Mr. Park,7.638888888888889,1.3888888888888888,63.19444444444444,5.5,ask have be take be
+Choi,Mr. Park,7.638888888888889,1.3888888888888888,63.19444444444444,5.5,ask have be take be
+Pei,Chaolin,2.6785714285714284,3.125,47.767857142857146,0.8571428571428571,do express have say be
+Pei,Chaolin,2.6785714285714284,3.125,47.767857142857146,0.8571428571428571,do express have say be
+Pei,Chaolin,2.6785714285714284,3.125,47.767857142857146,0.8571428571428571,do express have say be
+Ming,Red Cross,1.8518518518518516,3.8580246913580245,49.84567901234568,0.48,go write address expose have suffer demand return kill stop back take stamp bring
+Leach,Bell,0.0,0.5,59.5,0.0,introduce say represent talk
+Commissar Pei,Bell,3.515625,3.515625,55.46875,1.0,be worry tell be say dare suppress report
+Bell,Leach,4.761904761904762,1.7857142857142856,69.64285714285714,2.6666666666666665,be seat follow
+Chaolin,Bell,3.571428571428571,2.976190476190476,26.785714285714285,1.2,say believe be go hurt do
+Chaolin,Bell,1.4705882352941175,0.0,51.470588235294116,INF,barb say
+Chaolin,Bell,6.25,0.0,43.75,INF,say be believe
+Ming,Bell,0.43103448275862066,0.0,58.189655172413794,INF,rule ming write
+Ming,Bell,0.43103448275862066,0.0,58.189655172413794,INF,rule ming write
+Leach,Bell,5.0,0.0,70.0,INF,say be go hold have invite attend
+Pei,Chaolin,1.25,0.0,53.75,INF,send go have meet
+Pei,Leach,1.25,0.0,53.75,INF,send go have meet
+Pei,Bell,1.25,0.0,53.75,INF,send go have meet
+Chaolin,Leach,1.25,0.0,53.75,INF,send go have meet
+Chaolin,Bell,1.25,0.0,53.75,INF,send go have meet
+Leach,Bell,1.25,0.0,53.75,INF,send go have meet
+Commissar Pei,Chaolin,1.6304347826086956,0.0,67.93478260869566,INF,rush hand put roll
+Leach,Chaolin,0.0,0.0,61.53846153846154,INF,stay walk
+Kim Il Sung,Mao Zedong,0.0,0.0,33.33333333333333,INF,
+Choi,Bell,1.3888888888888888,0.0,54.166666666666664,INF,describe have catch
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Leach,0.43103448275862066,2.1551724137931036,62.93103448275862,0.2,continue grow stand let
+Bell,Fulton,3.9634146341463414,0.0,61.890243902439025,INF,act have rush take be have graduate grant request
+Bell,Fulton,3.9634146341463414,0.0,61.890243902439025,INF,act have rush take be have graduate grant request
+Fulton,Bell,3.9634146341463414,0.0,61.890243902439025,INF,act have rush take be have graduate grant request
+Chaolin,Bell,5.625,3.75,50.625,1.5,be wonder go withdraw open
+Chaolin,Bell,5.625,3.75,50.625,1.5,be wonder go withdraw open
+Ridgway,Bell,0.0,1.3157894736842104,46.05263157894737,0.0,pass catch look
+Bell,Stalin,5.448717948717949,0.641025641025641,58.01282051282052,8.5,have be remark be say
+Stalin,Chaolin,9.722222222222223,0.0,34.72222222222222,INF,amuse translate
+Chaolin,United Communist Association,0.0,0.0,61.53846153846154,INF,report found
+Chaolin,United Communist Association,0.0,0.0,61.53846153846154,INF,report found
+Mr. Park,Chinese Communist Party,5.208333333333334,1.0416666666666665,60.416666666666664,5.0,say admire
+Chaolin,Bell,0.0,2.941176470588235,55.88235294117647,0.0,seem touch reply capture
+Lee,Mr. Park,0.6578947368421052,0.0,51.973684210526315,INF,wink say like invite
+Mr. Park,Commissar Pei,0.0,0.0,55.55555555555556,INF,inquire send regard promise convey
+Mr. Park,Chaolin,0.0,0.0,55.55555555555556,INF,inquire send regard promise convey
+Commissar Pei,Chaolin,0.0,0.0,55.55555555555556,INF,inquire send regard promise convey
+Mr. Park,Chaolin,2.556818181818182,0.0,49.715909090909086,INF,be wonder have place say seize invite
+Mr. Park,Bell,2.556818181818182,0.0,49.715909090909086,INF,be wonder have place say seize invite
+Mr. Park,Chaolin,2.556818181818182,0.0,49.715909090909086,INF,be wonder have place say seize invite
+Mr. Park,Bell,2.556818181818182,0.0,49.715909090909086,INF,be wonder have place say seize invite
+Chaolin,Bell,2.556818181818182,0.0,49.715909090909086,INF,be wonder have place say seize invite
+Choi,Chaolin,3.6458333333333335,1.5625,44.79166666666667,2.3333333333333335,have elect
+Choi,Chaolin,0.0,0.0,52.38095238095239,INF,take sit
+Choi,Chaolin,0.0,0.0,52.38095238095239,INF,take sit
+Choi,Chaolin,0.0,0.0,52.38095238095239,INF,take sit
+Choi,Bell,2.34375,1.5625,49.21875,1.5,announce have begin be allow listen
+Bell,Choi,0.0,0.0,52.38095238095239,INF,seem order pay
+Bell,Choi,0.0,0.0,52.38095238095239,INF,seem order pay
+Choi,Bell,3.6764705882352944,1.8382352941176472,62.13235294117647,2.0,tell remain remind be have obey give
+Choi,Bell,0.4629629629629629,0.0,43.98148148148148,INF,ask sit say be treat treat
+Chaolin,Lee,1.4423076923076923,0.9615384615384616,62.980769230769226,1.5,go talk return fetch
+Chaolin,Bell,0.0,6.8181818181818175,47.72727272727273,0.0,argue protect
+Mr. Park,Chaolin,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,praise be cooperate
+Mr. Park,Bell,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,praise be cooperate
+Chaolin,Bell,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,praise be cooperate
+Chaolin,Commissar Pei,0.0,0.0,66.66666666666666,INF,be go consult be give
+Chaolin,Ming,0.7142857142857143,0.7142857142857143,58.57142857142858,1.0,return have witness
+Chaolin,Gaochen,0.7142857142857143,0.7142857142857143,58.57142857142858,1.0,return have witness
+Ming,Gaochen,0.7142857142857143,0.7142857142857143,58.57142857142858,1.0,return have witness
+Ming,Gaochen,1.25,0.0,52.083333333333336,INF,revise follow translate
+Gaochen,Chaolin,0.625,0.625,48.75,1.0,slap say have come
+Bell,Gaochen,1.4423076923076923,1.9230769230769231,58.17307692307693,0.75,have give be translate
+Lee,Gaochen,1.7045454545454544,0.0,61.93181818181818,INF,have interpret be speak
+Lee,Gaochen,1.7045454545454544,0.0,61.93181818181818,INF,have interpret be speak
+Liu Tai-an,Lin Wushen,2.5735294117647056,0.3676470588235294,52.94117647058824,7.0,speak describe have disembowel have be cudgel strangle
+Liu Tai-an,Yang Huan,2.5735294117647056,0.3676470588235294,52.94117647058824,7.0,speak describe have disembowel have be cudgel strangle
+Lin Wushen,Yang Huan,2.5735294117647056,0.3676470588235294,52.94117647058824,7.0,speak describe have disembowel have be cudgel strangle
+Choi,Bell,2.941176470588235,1.8382352941176472,51.10294117647059,1.6,have return ask be commit
+Fulton,Bell,3.4090909090909087,4.829545454545454,55.39772727272727,0.7058823529411765,have arrive replace take have issue order release have ignore
+Choi,Bell,0.0,1.3888888888888888,37.5,0.0,tell point want speak
+Choi,Fulton,0.0,1.3888888888888888,37.5,0.0,tell point want speak
+Bell,Fulton,0.0,1.3888888888888888,37.5,0.0,tell point want speak
+Matt,Bell,1.7857142857142856,2.6785714285714284,38.392857142857146,0.6666666666666666,be say
+Bell,Choi,4.861111111111112,0.6944444444444444,50.0,7.0,glance go have be
+Chaolin,Bell,0.0,0.0,63.63636363636363,INF,go see
+Commissar Pei,Chaolin,6.0,2.0,48.0,3.0,have instruct mediate make sign
+Commissar Pei,Bell,6.0,2.0,48.0,3.0,have instruct mediate make sign
+Chaolin,Bell,6.0,2.0,48.0,3.0,have instruct mediate make sign
+Choi,Bell,2.82258064516129,0.4032258064516129,45.16129032258064,7.0,announce be be go test
+Choi,Bell,2.82258064516129,0.4032258064516129,45.16129032258064,7.0,announce be be go test
+Shunji,Bell,0.0,2.1739130434782608,50.0,0.0,know interpret go
+Shunji,Bell,0.0,2.1739130434782608,50.0,0.0,know interpret go
+Bell,U.N.,1.3888888888888888,6.25,57.17592592592593,0.2222222222222222,pick write admit be be kill injure
+Chaolin,Choi,0.0,0.0,30.0,INF,go talk
+Choi,Chaolin,0.0,0.0,30.0,INF,go talk
+Chaolin,Bell,2.8125,3.4375000000000004,53.75,0.8181818181818182,insist have put convey mention be
+Chaolin,Bell,2.8125,3.4375000000000004,53.75,0.8181818181818182,insist have put convey mention be
+Choi,Lee,1.7857142857142856,5.952380952380952,54.166666666666664,0.3,nod realize be break
+Chaolin,Bell,0.0,0.0,37.5,INF,go
+U.N.,Fulton,4.651162790697675,4.069767441860465,49.41860465116279,1.1428571428571428,have be send cope be have handle allow hold
+Choi,Chaolin,4.166666666666666,1.7857142857142856,55.952380952380956,2.3333333333333335,summarize deliver
+Bell,Fulton,4.861111111111112,3.4722222222222223,52.77777777777778,1.4,get have be demote have leave
+Stalin,Mao Zedong,1.4534883720930232,0.0,52.03488372093024,INF,fire pitch drive spew erect
+Stalin,Kim Il Sung,1.4534883720930232,0.0,52.03488372093024,INF,fire pitch drive spew erect
+Mao Zedong,Kim Il Sung,1.4534883720930232,0.0,52.03488372093024,INF,fire pitch drive spew erect
+Chaolin,Ming,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,be invite be reach be plan take prepare
+Reds,Bell,4.166666666666666,4.166666666666666,51.66666666666667,1.0,do help kidnap
+Bell,Reds,0.0,3.75,56.25,0.0,treat do
+Reds,Bell,0.0,3.75,56.25,0.0,treat do
+Chaolin,Ming,6.25,1.1363636363636365,56.25,5.5,be please have ask say feel cripple
+Chaolin,Ming,6.25,1.1363636363636365,56.25,5.5,be please have ask say feel cripple
+Ming,Mr. Park,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,tell have infiltrate
+Commissar Pei,Pei,2.380952380952381,4.464285714285714,43.154761904761905,0.5333333333333333,fear fall keep paralyze be move
+Commissar Pei,Pei,4.605263157894736,2.631578947368421,61.18421052631579,1.75,be be take keep
+Pei,Zhao Teng,0.0,2.82258064516129,45.564516129032256,0.0,be go replace be
+Pei,Zhao Teng,0.0,2.82258064516129,45.564516129032256,0.0,be go replace be
+Zhao Teng,Wanren,2.083333333333333,0.0,36.80555555555556,INF,lose step
+Pei,Chaolin,6.25,3.125,55.625,2.0,see need have be
+Pei,Ming,6.25,3.125,55.625,2.0,see need have be
+Chaolin,Ming,6.25,3.125,55.625,2.0,see need have be
+Commissar Pei,Pei,3.90625,1.5625,75.78125,2.5,seem be
+Commissar Pei,Pei,1.6666666666666667,0.0,65.0,INF,walk look crack
+Zhao Teng,Wanren,2.8125,0.625,49.0625,4.5,board have sidle have turn stage divert
+Shanmin,Richard,2.7777777777777777,0.0,30.555555555555557,INF,come
+Pei,Chinese Communist Party,2.083333333333333,0.0,56.25,INF,regard
+Commissar Pei,Pei,1.1029411764705883,0.3676470588235294,57.35294117647059,3.0,come take have intend put
+Commissar Pei,Pei,5.113636363636364,4.545454545454546,53.97727272727273,1.125,wave prevent hear
+Zhao Teng,Pei,1.5625,0.9375,52.5,1.6666666666666667,designate be
+Chaolin,Ming,2.2058823529411766,2.2058823529411766,66.17647058823529,1.0,be ship
+Ming,Chaolin,0.0,2.083333333333333,54.58333333333333,0.0,do see go wave
+Zhao Teng,Chaolin,0.0,2.556818181818182,45.17045454545455,0.0,be communicate assume be
+Chaolin,Zhao Teng,0.0,2.556818181818182,45.17045454545455,0.0,be communicate assume be
+James Yen,U.N.,1.8518518518518516,0.0,68.51851851851852,INF,be distribute
+Weiming,Shanmin,0.0,0.0,50.0,INF,come clean bring
+Kelly,Commissar Pei,0.9868421052631579,1.644736842105263,55.26315789473685,0.6,inform provide be
+Kelly,Pei,0.9868421052631579,1.644736842105263,55.26315789473685,0.6,inform provide be
+Kelly,Pei,0.9868421052631579,1.644736842105263,55.26315789473685,0.6,inform provide be
+Commissar Pei,Pei,0.9868421052631579,1.644736842105263,55.26315789473685,0.6,inform provide be
+Commissar Pei,Pei,0.9868421052631579,1.644736842105263,55.26315789473685,0.6,inform provide be
+Zhao Teng,Chaolin,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be detail go
+Zhao Teng,Ming,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be detail go
+Chaolin,Ming,2.314814814814815,0.4629629629629629,49.074074074074076,5.0,be detail go
+Pei,Chaolin,5.303030303030303,0.7575757575757576,66.66666666666666,7.0,guess have say treat have keep
+Pei,Wanren,5.303030303030303,0.7575757575757576,66.66666666666666,7.0,guess have say treat have keep
+Chaolin,Wanren,5.303030303030303,0.7575757575757576,66.66666666666666,7.0,guess have say treat have keep
+Wanren,United Communist Association,3.3333333333333335,0.4166666666666667,59.583333333333336,8.0,ask like join have be induct arrive
+Wanren,Commissar Pei,1.4705882352941175,0.7352941176470588,68.38235294117648,2.0,tell believe go
+Commissar Pei,Pei,0.0,0.0,56.25,INF,check do press
+Commissar Pei,Pei,0.0,0.0,56.25,INF,check do press
+Commissar Pei,Ming,1.0416666666666665,3.125,58.333333333333336,0.3333333333333333,be communicate
+Mushu,Little Hou,2.6785714285714284,3.571428571428571,47.32142857142857,0.75,have be name
+Mushu,Little Hou,1.744186046511628,0.872093023255814,60.17441860465116,2.0,be jail have be catch semaphore be hide have find
+Mushu,Little Hou,1.744186046511628,0.872093023255814,60.17441860465116,2.0,be jail have be catch semaphore be hide have find
+Little Hou,Mushu,5.0,4.375,50.625,1.1428571428571428,be see say be bore
+Mushu,Little Hou,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,believe devise
+Little Hou,Mushu,0.0,4.166666666666666,57.738095238095234,0.0,glare dare look keep
+Mushu,Little Hou,0.0,4.166666666666666,57.738095238095234,0.0,glare dare look keep
+Mushu,Little Hou,0.0,4.166666666666666,57.738095238095234,0.0,glare dare look keep
+Mushu,Little Hou,0.0,4.166666666666666,57.738095238095234,0.0,glare dare look keep
+Mushu,Little Hou,3.90625,3.515625,48.828125,1.1111111111111112,help resume shut try drop do feel
+Mushu,Little Hou,1.6025641025641024,2.564102564102564,54.807692307692314,0.625,hear sound measure sit glow press
+Mushu,Little Hou,1.6025641025641024,2.564102564102564,54.807692307692314,0.625,hear sound measure sit glow press
+Mushu,Little Hou,1.293103448275862,0.8620689655172413,63.36206896551724,1.5,reach squat let step hold keep
+Mushu,Little Hou,1.293103448275862,0.8620689655172413,63.36206896551724,1.5,reach squat let step hold keep
+Little Hou,Commissar Pei,1.1029411764705883,0.7352941176470588,56.98529411764706,1.5,say do use create open
+Mushu,Little Hou,2.8846153846153846,1.9230769230769231,49.03846153846153,1.5,point hiccup chew
+Little Hou,Mushu,4.3478260869565215,2.1739130434782608,58.69565217391305,2.0,say be help
+Little Hou,Pei,4.3478260869565215,2.1739130434782608,58.69565217391305,2.0,say be help
+Little Hou,Pei,4.3478260869565215,2.1739130434782608,58.69565217391305,2.0,say be help
+Mushu,Pei,4.3478260869565215,2.1739130434782608,58.69565217391305,2.0,say be help
+Mushu,Pei,4.3478260869565215,2.1739130434782608,58.69565217391305,2.0,say be help
+Mushu,Ming,0.8928571428571428,0.0,56.25,INF,get talk ming
+Ming,Commissar Pei,8.75,1.25,60.0,7.0,ming tell be
+Mushu,Ming,1.5625,0.0,60.9375,INF,see have emerge ask step
+Little Hou,Mushu,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,squat ask put push
+Little Hou,Mushu,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,squat ask put push
+Little Hou,Mushu,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,squat ask put push
+Mushu,Little Hou,0.5208333333333333,1.0416666666666665,52.604166666666664,0.5,squat ask put push
+Mushu,Little Hou,0.78125,0.390625,56.640625,2.0,come go block speak drop prevent search put be write
+Mushu,Little Hou,0.78125,0.390625,56.640625,2.0,come go block speak drop prevent search put be write
+Mushu,Little Hou,0.78125,0.390625,56.640625,2.0,come go block speak drop prevent search put be write
+Mushu,Little Hou,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,jail be return
+Mushu,Little Hou,1.25,0.8333333333333334,41.25,1.5,slap say remember give
+Mushu,Little Hou,2.34375,3.125,44.53125,0.75,say think be
+Little Hou,Commissar Pei,0.0,3.75,46.25,0.0,be release pass
+Mushu,Pei,0.0,3.90625,52.34375,0.0,tell devise
+Little Hou,Kraft,0.0,0.0,61.111111111111114,INF,make use
+Kraft,Little Hou,0.0,0.0,61.111111111111114,INF,make use
+Little Hou,Mushu,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Little Hou,Mushu,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Little Hou,Mushu,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Mushu,Little Hou,6.756756756756757,2.027027027027027,42.567567567567565,3.3333333333333335,be have conceive walk accuse steal
+Pei,Ming,4.910714285714286,0.8928571428571428,54.91071428571429,5.5,have put tell
+Kelly,Major MacDonald,1.4705882352941175,1.2254901960784315,52.20588235294118,1.2,be decide prepare arise be remove
+Commissar Pei,Pei,4.326923076923077,2.403846153846154,62.5,1.8,have feel isolate create catch remind
+Commissar Pei,Pei,4.605263157894736,4.605263157894736,64.47368421052632,1.0,be have divine reveal
+Commissar Pei,Kelly,1.3392857142857142,4.017857142857143,48.214285714285715,0.3333333333333333,have refer kill
+Commissar Pei,Major MacDonald,1.3392857142857142,4.017857142857143,48.214285714285715,0.3333333333333333,have refer kill
+Kelly,Major MacDonald,1.3392857142857142,4.017857142857143,48.214285714285715,0.3333333333333333,have refer kill
+Commissar Pei,Ming,3.125,4.6875,60.9375,0.6666666666666666,be be observe
+Commissar Pei,Pei,2.1551724137931036,1.293103448275862,65.51724137931035,1.6666666666666667,have hang bear stop butcher
+Little Hou,Larsen,1.893939393939394,2.272727272727273,50.378787878787875,0.8333333333333334,be approach turn lead be come charge
+Little Hou,Larsen,5.769230769230769,2.8846153846153846,37.5,2.0,
+Little Hou,Wenfu,2.8846153846153846,1.9230769230769231,41.34615384615385,1.5,be single force leave clasp
+Little Hou,Commissar Pei,4.166666666666666,4.166666666666666,43.51851851851852,1.0,be worry be disrupt
+Commissar Pei,Pei,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Commissar Pei,Wenfu,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Commissar Pei,Little Hou,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Pei,Wenfu,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Pei,Little Hou,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Wenfu,Little Hou,2.717391304347826,1.6304347826086956,43.47826086956522,1.6666666666666667,happen send be confer be issue
+Larsen,Wenfu,5.241935483870968,8.064516129032258,47.983870967741936,0.65,be believe be inflict
+Larsen,Wenfu,5.241935483870968,8.064516129032258,47.983870967741936,0.65,be believe be inflict
+Larsen,Shanmin,3.7037037037037033,3.2407407407407405,41.2037037037037,1.1428571428571428,look grab make ask mean
+Shanmin,Larsen,3.7037037037037033,3.2407407407407405,41.2037037037037,1.1428571428571428,look grab make ask mean
+Shanmin,Larsen,3.205128205128205,0.0,60.89743589743589,INF,be sit go affix
+Chaolin,Wanren,5.555555555555555,0.0,38.88888888888889,INF,be allude
+Peng,Chaolin,0.43103448275862066,0.8620689655172413,53.879310344827594,0.5,notice be switch ask be spend
+Larsen,Kelly,2.7777777777777777,0.6944444444444444,52.083333333333336,4.0,say come get
+Kelly,Larsen,1.3392857142857142,0.0,52.23214285714286,INF,open step stand spring
+Kelly,Peng,1.3392857142857142,0.0,52.23214285714286,INF,open step stand spring
+Larsen,Peng,1.3392857142857142,0.0,52.23214285714286,INF,open step stand spring
+Kelly,Peng,3.6764705882352944,0.0,55.14705882352941,INF,motion stop want do
+Kelly,Peng,3.6764705882352944,0.0,55.14705882352941,INF,motion stop want do
+Chaolin,Kelly,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Chaolin,Larsen,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Chaolin,Wenfu,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Kelly,Larsen,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Kelly,Wenfu,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Larsen,Wenfu,4.411764705882353,0.7352941176470588,47.794117647058826,6.0,tell have release investigate punish
+Kelly,Larsen,0.6944444444444444,2.083333333333333,69.44444444444444,0.3333333333333333,fix stare annoy handle
+Kelly,Larsen,0.6944444444444444,2.083333333333333,69.44444444444444,0.3333333333333333,fix stare annoy handle
+Kelly,Chaolin,4.651162790697675,3.488372093023256,43.02325581395349,1.3333333333333333,have ask take finish hear have press be call
+Larsen,Wanren,4.375,1.25,39.375,3.5,get say please stop
+Larsen,Wanren,4.3478260869565215,3.804347826086957,52.71739130434783,1.1428571428571428,seem convince have hear have whack
+Wanren,Larsen,2.380952380952381,0.5952380952380952,49.404761904761905,4.0,do counter have be order
+Kelly,Wenfu,2.142857142857143,2.5,41.07142857142857,0.8571428571428571,hear have take know be punish
+Larsen,Wanren,2.083333333333333,0.4166666666666667,67.5,5.0,come hold contain
+Wanren,Larsen,0.0,1.1363636363636365,35.22727272727273,0.0,tell give
+Larsen,Wanren,6.25,3.125,46.875,2.0,have sense deal
+Wanren,Larsen,6.25,3.125,46.875,2.0,have sense deal
+Wanren,Larsen,6.25,3.125,46.875,2.0,have sense deal
+Wanren,Chaolin,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,say let know
+Wanren,Commissar Pei,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,say let know
+Chaolin,Commissar Pei,3.289473684210526,1.3157894736842104,53.289473684210535,2.5,say let know
+Wanren,Larsen,6.382978723404255,3.9893617021276597,51.329787234042556,1.6,have sign be feel want make look be blame
+Larsen,Kelly,3.4090909090909087,3.4090909090909087,61.36363636363637,1.0,have think act have take protect
+Larsen,Kelly,3.4090909090909087,3.4090909090909087,61.36363636363637,1.0,have think act have take protect
+Larsen,Kelly,3.4090909090909087,3.4090909090909087,61.36363636363637,1.0,have think act have take protect
+Wanren,Commissar Pei,5.729166666666666,0.5208333333333333,64.58333333333334,11.0,be do have come know
+Wanren,Commissar Pei,5.729166666666666,0.5208333333333333,64.58333333333334,11.0,be do have come know
+Pei,Larsen,2.083333333333333,0.0,53.47222222222222,INF,go see
+Wanren,Larsen,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,translate lift
+Wanren,Larsen,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,translate lift
+Wanren,Larsen,2.5,1.25,39.58333333333333,2.0,go hold be have
+Larsen,Charlie,0.0,0.0,40.0,INF,point try isolate
+Larsen,Charlie,0.0,0.0,40.0,INF,point try isolate
+Wanren,Larsen,3.90625,3.125,42.96875,1.25,tell have steal get
+Commissar Pei,Manpu,0.0,0.0,57.692307692307686,INF,be hold preside
+Wanren,Commissar Pei,5.416666666666667,0.8333333333333334,60.416666666666664,6.5,do mention have award do care
+Larsen,Wanren,2.34375,1.5625,46.09375,1.5,get
+Weiming,Shanmin,3.6764705882352944,3.6764705882352944,54.41176470588235,1.0,be be make be create
+Meng Feihan,Harry Truman,3.070175438596491,1.0964912280701753,50.21929824561403,2.8,be become lie do listen be be
+Shanmin,Weiming,2.717391304347826,0.5434782608695652,44.565217391304344,5.0,return have be detail
+Shanmin,Weiming,0.0,8.035714285714286,27.67857142857143,0.0,tug whisper
+Peng,Weiming,2.083333333333333,4.166666666666666,43.75,0.5,see
+Harris,Weiming,0.0,0.0,53.84615384615385,INF,shout be do
+Weiming,Harris,4.166666666666666,2.083333333333333,52.083333333333336,2.0,weim do respond have hear
+Harris,Weiming,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,walk pinch do say wince
+Harris,Weiming,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,walk pinch do say wince
+Weiming,Harris,0.5681818181818182,1.7045454545454544,61.36363636363637,0.3333333333333333,walk pinch do say wince
+Harris,Weiming,0.0,0.0,50.0,INF,kick send
+Weiming,Harris,0.0,0.0,50.0,INF,kick send
+Weiming,Harris,0.0,0.0,50.0,INF,kick send
+Weiming,Harris,0.0,0.0,47.368421052631575,INF,wipe pull batter
+Harris,Weiming,1.7857142857142856,4.017857142857143,40.625,0.4444444444444444,pick thrust order open
+Harris,Weiming,1.7857142857142856,4.017857142857143,40.625,0.4444444444444444,pick thrust order open
+Weiming,Peng,2.083333333333333,0.0,53.47222222222222,INF,weim look open
+Peng,Kelly,6.0,1.0,56.99999999999999,6.0,tremble say assign accompany be keep
+Chaolin,Ming,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be
+Ming,Commissar Pei,2.734375,1.953125,54.6875,1.4,ming be do get sound
+Ming,Commissar Pei,2.734375,1.953125,54.6875,1.4,ming be do get sound
+Pei,Feng Wen,0.0,5.833333333333333,54.166666666666664,0.0,reply leave
+Ming,Feng Wen,0.6578947368421052,0.0,51.973684210526315,INF,list be share
+Ming,Feng Yan,0.6578947368421052,0.0,51.973684210526315,INF,list be share
+Feng Wen,Feng Yan,0.6578947368421052,0.0,51.973684210526315,INF,list be share
+Pei,Ming,0.9615384615384616,1.5384615384615385,59.03846153846154,0.625,receive return have deliver be bear
+Pei,Ming,6.25,0.0,60.416666666666664,INF,want take
+Ming,Commissar Pei,5.978260869565218,2.1739130434782608,44.02173913043478,2.75,explain remain want keep
+Ming,Commissar Pei,5.978260869565218,2.1739130434782608,44.02173913043478,2.75,explain remain want keep
+Ming,Commissar Pei,5.978260869565218,2.1739130434782608,44.02173913043478,2.75,explain remain want keep
+Wanren,Ming,1.5625,0.0,54.6875,INF,hand pass
+Wanren,Ming,1.5625,0.0,54.6875,INF,hand pass
+Liu Tai-an,Generalissimo Chiang,0.0,0.0,42.10526315789473,INF,tell tell
+Liu Tai-an,Ming,0.0,0.0,42.10526315789473,INF,tell tell
+Generalissimo Chiang,Ming,0.0,0.0,42.10526315789473,INF,tell tell
+Chaolin,Commissar Pei,3.3653846153846154,8.653846153846153,49.519230769230774,0.3888888888888889,dare get notice report
+Wright,Mr. Feng,1.4285714285714286,0.35714285714285715,41.07142857142857,4.0,say be explain be go keep get clarify
+Wright,Mr. Feng,0.7352941176470588,0.0,46.32352941176471,INF,flick order put
+Wright,Mr. Feng,0.7352941176470588,0.0,46.32352941176471,INF,flick order put
+Wright,Commissar Pei,0.5952380952380952,0.0,70.83333333333334,INF,sit hand show
+Wright,Feng Yan,3.75,0.0,36.25,INF,say know be
+Pei,Feng Wen,5.0,3.0,52.0,1.6666666666666667,be say be
+Pei,Feng Wen,5.0,3.0,52.0,1.6666666666666667,be say be
+Feng Wen,Pei,5.0,3.0,52.0,1.6666666666666667,be say be
+Pei,Feng Wen,5.0,3.0,52.0,1.6666666666666667,be say be
+Wright,Wang Yong,2.403846153846154,2.8846153846153846,48.55769230769231,0.8333333333333334,sit tell have check
+Mr. Feng,Huangpu Military Academy,0.0,0.625,39.375,0.0,be
+Mr. Feng,Generalissimo Chiang,0.0,0.625,39.375,0.0,be
+Huangpu Military Academy,Generalissimo Chiang,0.0,0.625,39.375,0.0,be
+Mr. Feng,Wright,1.0869565217391304,0.0,38.04347826086957,INF,have decide go add uncross
+Liu Tai-an,Lin Wushen,3.6458333333333335,4.6875,50.0,0.7777777777777778,dread have cut
+Lin Wushen,Chinese People 's Volunteer Army,1.6666666666666667,2.5,45.83333333333333,0.6666666666666666,hand identify have keep
+Chinese People 's Volunteer Army,Lin Wushen,1.6666666666666667,2.5,45.83333333333333,0.6666666666666666,hand identify have keep
+Chinese People 's Volunteer Army,Lin Wushen,1.6666666666666667,2.5,45.83333333333333,0.6666666666666666,hand identify have keep
+Han Shu,Liu Tai-an,4.807692307692308,1.4423076923076923,53.36538461538461,3.3333333333333335,believe have be have have send have get have need be remove
+Han Shu,Liu Tai-an,4.807692307692308,1.4423076923076923,53.36538461538461,3.3333333333333335,believe have be have have send have get have need be remove
+Liu Tai-an,Han Shu,4.807692307692308,1.4423076923076923,53.36538461538461,3.3333333333333335,believe have be have have send have get have need be remove
+Han Shu,Liu Tai-an,4.807692307692308,1.4423076923076923,53.36538461538461,3.3333333333333335,believe have be have have send have get have need be remove
+Civil Information and Education Center,Red Cross,4.6875,2.34375,61.71875,2.0,read distribute
+MacArthur,Ridgway,0.7575757575757576,1.5151515151515151,52.27272727272727,0.5,get ask look like fight
+Dr. Wang,Wang Yong,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,have do ask
+Wang Yong,Dajian,0.0,0.0,46.42857142857143,INF,be be take meet
+Wang Yong,Dajian,0.0,0.0,46.42857142857143,INF,be be take meet
+Wang Yong,United Nations,2.34375,0.0,57.03125,INF,do have buy have obtain work
+Wang Yong,Reds,2.6785714285714284,3.571428571428571,43.75,0.75,break use
+Reds,Wang Yong,0.0,3.75,26.25,0.0,screw say
+Dajian,Brothers,2.7027027027027026,3.3783783783783785,47.97297297297297,0.8,stand point declare think be work
+Dajian,Reds,2.7027027027027026,3.3783783783783785,47.97297297297297,0.8,stand point declare think be work
+Brothers,Reds,2.7027027027027026,3.3783783783783785,47.97297297297297,0.8,stand point declare think be work
+Wang Yong,Brothers,0.0,0.0,46.15384615384615,INF,say let stop
+Wang Yong,Dajian,0.0,0.0,43.75,INF,bellow do
+Wang Yong,Feng Yan,0.0,0.5952380952380952,51.78571428571429,0.0,look say fix be
+Wang Yong,Feng Yan,3.0303030303030303,4.924242424242424,46.590909090909086,0.6153846153846154,go make leave give we
+Wang Yong,Feng Yan,3.0303030303030303,4.924242424242424,46.590909090909086,0.6153846153846154,go make leave give we
+Brothers,Stalin,4.807692307692308,4.807692307692308,67.3076923076923,1.0,know pop
+Dr. Wang,Dajian,8.035714285714286,0.0,41.964285714285715,INF,please do make do
+Father Hu,United Nations,0.6944444444444444,3.7037037037037033,51.157407407407405,0.1875,ignore go do come preach mediate assure be deliver
+Generalissimo Chiang,U.N.,6.25,1.9230769230769231,49.519230769230774,3.25,instruct realize endure cooperate
+Brothers,Generalissimo Chiang,6.730769230769231,0.9615384615384616,42.30769230769231,7.0,remember settle care
+Commissar Pei,Ming,7.142857142857142,0.8928571428571428,63.39285714285714,8.0,do know be
+Blackie,Nanshan,0.4166666666666667,0.4166666666666667,62.5,1.0,be soak prance be kick
+Blackie,Nanshan,0.4166666666666667,0.4166666666666667,62.5,1.0,be soak prance be kick
+Wang Yong,Blackie,4.807692307692308,0.0,56.730769230769226,INF,know get
+Nanshan,Blackie,0.0,0.0,40.0,INF,keep
+Nanshan,Blackie,0.0,0.78125,42.96875,0.0,cover pass
+Nanshan,Blackie,0.0,0.78125,42.96875,0.0,cover pass
+Nanshan,Blackie,2.430555555555556,4.513888888888888,56.94444444444444,0.5384615384615384,have replace do mind be bring end be repatriate
+Nanshan,Blackie,0.0,0.0,40.0,INF,wait come
+Nanshan,Blackie,0.0,5.0,25.0,0.0,tell kill
+Blackie,Nanshan,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,disrupt forget
+Wang Yong,Dajian,1.4285714285714286,1.0714285714285714,51.78571428571429,1.3333333333333333,assign talk gather report
+Dajian,Wang Yong,1.4285714285714286,1.0714285714285714,51.78571428571429,1.3333333333333333,assign talk gather report
+Pei,Ming,6.896551724137931,6.4655172413793105,52.1551724137931,1.0666666666666667,know be take help clear
+Dr. Wang,Wang Yong,1.0416666666666665,2.083333333333333,21.875,0.5,ask want say
+Feng Yan,Wang Yong,0.0,3.4722222222222223,40.97222222222222,0.0,want have say
+Wang Yong,Brother Wang,6.944444444444445,0.0,48.61111111111111,INF,call
+Wang Yong,Brother Wang,3.571428571428571,1.7857142857142856,41.07142857142857,2.0,lift take tell be
+Yu Yuan,Chaolin,2.7777777777777777,0.5555555555555556,43.333333333333336,5.0,say intend remind penetrate rivet come be wait
+Yu Yuan,Chaolin,2.7777777777777777,0.5555555555555556,43.333333333333336,5.0,say intend remind penetrate rivet come be wait
+Commissar Pei,Ming,7.954545454545454,3.977272727272727,47.159090909090914,2.0,see hug weep see
+Mr. Park,Red Army,0.0,2.6785714285714284,54.46428571428571,0.0,return fight
+Mr. Park,Bell,1.4705882352941175,1.1029411764705883,53.30882352941176,1.3333333333333333,confess tell have plan execute
+Mr. Park,Bell,1.4705882352941175,1.1029411764705883,53.30882352941176,1.3333333333333333,confess tell have plan execute
+Mr. Park,Bell,1.4705882352941175,1.1029411764705883,53.30882352941176,1.3333333333333333,confess tell have plan execute
+Ming,Pei,2.7777777777777777,1.8518518518518516,65.74074074074075,1.5,turn tell have be depress feel have abandon
+Pei,Ming,0.8333333333333334,0.0,49.166666666666664,INF,say think have do
+Commissar Pei,Chinese Communist Party,4.924242424242424,3.0303030303030303,52.65151515151515,1.625,be embody want confirm have prove
+Chinese Communist Party,Commissar Pei,4.924242424242424,3.0303030303030303,52.65151515151515,1.625,be embody want confirm have prove
+Pei,Ming,2.4456521739130435,0.0,60.597826086956516,INF,stick assert be have send get reregister have land serve
+Pei,Ming,2.4456521739130435,0.0,60.597826086956516,INF,stick assert be have send get reregister have land serve
+Pei,Ming,2.4456521739130435,0.0,60.597826086956516,INF,stick assert be have send get reregister have land serve
+Shanmin,Ming,3.4090909090909087,1.1363636363636365,50.0,3.0,insist have save stand
+Woodworth,Wang Yong,4.741379310344827,1.7241379310344827,48.706896551724135,2.75,be order recall help teach serve
+Woodworth,Wang Yong,4.741379310344827,1.7241379310344827,48.706896551724135,2.75,be order recall help teach serve
+Yu Yuan,Woodworth,1.3513513513513513,4.054054054054054,59.45945945945946,0.3333333333333333,bulge say preside look do make mix
+Huangpu Military Academy,Yu Yuan,0.8620689655172413,3.4482758620689653,61.206896551724135,0.25,pay help participate
+Yu Yuan,Commissar Pei,2.840909090909091,2.840909090909091,62.5,1.0,save speak board bind
+Ming,Pei,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,go be jail lead create have be
+Ming,Commissar Pei,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,go be jail lead create have be
+Pei,Commissar Pei,0.9615384615384616,1.6025641025641024,61.53846153846154,0.6,go be jail lead create have be
+Commissar Pei,Pei,2.976190476190476,2.083333333333333,59.226190476190474,1.4285714285714286,have be chessmen have create place have be
+Commissar Pei,Pei,2.976190476190476,2.083333333333333,59.226190476190474,1.4285714285714286,have be chessmen have create place have be
+Commissar Pei,Pei,2.976190476190476,2.083333333333333,59.226190476190474,1.4285714285714286,have be chessmen have create place have be
+Commissar Pei,Pei,2.976190476190476,2.083333333333333,59.226190476190474,1.4285714285714286,have be chessmen have create place have be
+Ming,Beijing University,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,ming be send carry make marry have be
+Ming,Beijing University,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,ming be send carry make marry have be
+Ming,Beijing University,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,ming be send carry make marry have be
+Ming,Beijing University,2.857142857142857,0.35714285714285715,65.35714285714286,8.0,ming be send carry make marry have be
+Shanmin,Ming,0.0,0.0,58.333333333333336,INF,be return be
+Ming,Chaolin,7.758620689655173,0.43103448275862066,53.879310344827594,18.0,be
+Ming,Pei,7.758620689655173,0.43103448275862066,53.879310344827594,18.0,be
+Chaolin,Pei,7.758620689655173,0.43103448275862066,53.879310344827594,18.0,be
+Pei,Chaolin,0.0,2.272727272727273,70.45454545454545,0.0,see leave be die
+Chaolin,Pei,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,tell have go see have reach have get come
+Chaolin,Pei,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,tell have go see have reach have get come
+Chaolin,Pei,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,tell have go see have reach have get come
+Chaolin,Pei,2.631578947368421,1.3157894736842104,59.210526315789465,2.0,tell have go see have reach have get come
+Pei,Tiger,5.405405405405405,2.7027027027027026,62.16216216216216,2.0,have have forget have save have be
+Pei,Tiger,5.405405405405405,2.7027027027027026,62.16216216216216,2.0,have have forget have save have be
+Pei,Tiger,5.405405405405405,2.7027027027027026,62.16216216216216,2.0,have have forget have save have be
+Tiger,Pei,5.405405405405405,2.7027027027027026,62.16216216216216,2.0,have have forget have save have be
+Tiger,Pei,5.405405405405405,2.7027027027027026,62.16216216216216,2.0,have have forget have save have be
+Pei,Tiger,6.547619047619048,2.380952380952381,57.738095238095234,2.75,have be do have die
+Pei,Chaolin,4.166666666666666,0.0,54.166666666666664,INF,say be
+Pei,Tiger,4.166666666666666,0.0,54.166666666666664,INF,say be
+Chaolin,Tiger,4.166666666666666,0.0,54.166666666666664,INF,say be
+Chaolin,Pei,1.7857142857142856,2.232142857142857,70.98214285714286,0.8,have tell have pay be die
+Chaolin,Pei,1.7857142857142856,2.232142857142857,70.98214285714286,0.8,have tell have pay be die

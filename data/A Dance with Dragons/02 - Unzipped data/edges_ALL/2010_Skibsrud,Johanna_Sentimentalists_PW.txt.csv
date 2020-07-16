@@ -1,0 +1,405 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Sophia,Helen,3.571428571428571,1.4285714285714286,46.42857142857143,2.5,resume have send
+Helen,Susan,2.727272727272727,1.1363636363636365,54.31818181818182,2.4,suggest be look have know cling return
+Helen,Henry,2.727272727272727,1.1363636363636365,54.31818181818182,2.4,suggest be look have know cling return
+Helen,Henry,2.727272727272727,1.1363636363636365,54.31818181818182,2.4,suggest be look have know cling return
+Susan,Henry,2.727272727272727,1.1363636363636365,54.31818181818182,2.4,suggest be look have know cling return
+Susan,Henry,2.727272727272727,1.1363636363636365,54.31818181818182,2.4,suggest be look have know cling return
+Helen,Susan,1.293103448275862,0.0,52.1551724137931,INF,be sell accord be arrange be transfer employ drive
+Roddy Stewart,Helen,0.5208333333333333,0.26041666666666663,53.385416666666664,2.0,sleep curl be drive
+Henry,Helen,1.3157894736842104,0.6578947368421052,66.44736842105263,2.0,have discover begin be bear
+Helen,Henry,2.5,0.8333333333333334,63.33333333333333,3.0,have plan be be be drive meet
+Helen,Henry,2.5,0.8333333333333334,63.33333333333333,3.0,have plan be be be drive meet
+Henry,Datsun,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Henry,Helen,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Henry,Datsun,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Henry,Helen,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Datsun,Henry,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Datsun,Helen,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Henry,Helen,0.0,0.6944444444444444,47.4537037037037,0.0,visit pack fill drive
+Henry,Owen,1.6129032258064515,2.0161290322580645,47.983870967741936,0.8,start have be orchestrate
+Henry,Owen,1.9230769230769231,0.3205128205128205,54.166666666666664,6.0,know speak have forget seem be connect
+Henry,Susan,3.977272727272727,1.1363636363636365,53.97727272727273,3.5,be watch
+Henry,Susan,3.977272727272727,1.1363636363636365,53.97727272727273,3.5,be watch
+Helen,Henry,4.464285714285714,0.0,45.535714285714285,INF,say do have keep
+Helen,Henry,4.464285714285714,0.0,45.535714285714285,INF,say do have keep
+Fargo,Helen,0.0,0.0,58.139534883720934,INF,be follow leave fly meet
+Fargo,Sophia,0.0,0.0,58.139534883720934,INF,be follow leave fly meet
+Helen,Sophia,0.0,0.0,58.139534883720934,INF,be follow leave fly meet
+Helen,Datsun,0.9375,0.0,44.0625,INF,rent cram drive
+Helen,Sophia,2.556818181818182,0.8522727272727272,55.68181818181818,3.0,have be make fly bring call tell receive
+Helen,Sophia,2.556818181818182,0.8522727272727272,55.68181818181818,3.0,have be make fly bring call tell receive
+Helen,Sophia,1.5625,0.5208333333333333,68.75,3.0,be have spend clean spill lodge
+Helen,Sophia,1.5625,0.5208333333333333,68.75,3.0,be have spend clean spill lodge
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Helen,Tom,1.9230769230769231,0.0,49.358974358974365,INF,do know be pack drive be pack drive
+Tom,Helen,1.3888888888888888,0.0,43.05555555555556,INF,tell
+Tom,Helen,0.0,0.0,45.45454545454545,INF,be move say
+Helen,Sophia,3.90625,0.0,33.59375,INF,call
+Sophia,Helen,2.34375,0.0,53.90625,INF,have move live have start have go
+Helen,Sophia,1.4705882352941175,0.0,54.41176470588235,INF,have drive visit report have settle
+Helen,Henry,1.4705882352941175,0.0,54.41176470588235,INF,have drive visit report have settle
+Sophia,Henry,1.4705882352941175,0.0,54.41176470588235,INF,have drive visit report have settle
+Helen,Sophia,0.0,0.0,52.94117647058824,INF,make
+Sophia,Henry,3.1779661016949152,3.389830508474576,47.66949152542373,0.9375,stay be visit be keep talk be like be
+Henry,Sophia,3.1779661016949152,3.389830508474576,47.66949152542373,0.9375,stay be visit be keep talk be like be
+Henry,Sophia,3.1779661016949152,3.389830508474576,47.66949152542373,0.9375,stay be visit be keep talk be like be
+Henry,Sophia,3.1779661016949152,3.389830508474576,47.66949152542373,0.9375,stay be visit be keep talk be like be
+Helen,Sophia,2.0,0.0,57.99999999999999,INF,go toboggan watch
+Helen,Henry,2.0,0.0,57.99999999999999,INF,go toboggan watch
+Helen,Henry,2.0,0.0,57.99999999999999,INF,go toboggan watch
+Sophia,Henry,2.0,0.0,57.99999999999999,INF,go toboggan watch
+Sophia,Henry,2.0,0.0,57.99999999999999,INF,go toboggan watch
+Helen,Henry,4.166666666666666,0.5208333333333333,57.8125,8.0,need tell call
+Helen,Henry,4.166666666666666,0.5208333333333333,57.8125,8.0,need tell call
+Helen,Henry,2.1739130434782608,2.536231884057971,57.608695652173914,0.8571428571428571,call do do ask be have miss have occur
+Napoleon,Henry,0.0,0.0,48.275862068965516,INF,say use
+Napoleon,Henry,0.0,0.0,48.275862068965516,INF,say use
+Henry,Helen,0.3676470588235294,0.0,64.33823529411765,INF,spend be be be accompany
+Henry,Helen,0.9868421052631579,0.0,51.64473684210527,INF,let climb lean press take clamber
+Henry,Helen,0.9868421052631579,0.0,51.64473684210527,INF,let climb lean press take clamber
+Helen,Henry,0.9868421052631579,0.0,51.64473684210527,INF,let climb lean press take clamber
+Henry,Owen,3.125,4.6875,60.9375,0.6666666666666666,be have identify have fish jump
+Henry,Owen,3.125,4.6875,60.9375,0.6666666666666666,be have identify have fish jump
+Henry,Helen,1.7999999999999998,3.3000000000000003,54.900000000000006,0.5454545454545454,stare cross have construct sling go provoke be be be bind be defeat
+Henry,Helen,1.7999999999999998,3.3000000000000003,54.900000000000006,0.5454545454545454,stare cross have construct sling go provoke be be be bind be defeat
+Henry,Owen,0.0,1.25,28.749999999999996,0.0,
+Henry,Owen,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Owen,Henry,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Owen,Henry,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Owen,Henry,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Owen,Henry,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Owen,Henry,2.272727272727273,0.5681818181818182,60.79545454545454,4.0,be ask move come be have live have forget have slip
+Henry,Jacqui,3.977272727272727,0.5681818181818182,63.63636363636363,7.0,have marry have be bear
+Henry,Owen,3.977272727272727,0.5681818181818182,63.63636363636363,7.0,have marry have be bear
+Jacqui,Owen,3.977272727272727,0.5681818181818182,63.63636363636363,7.0,have marry have be bear
+Henry,Jacqui,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,be marry be build have be have intend
+Henry,Jacqui,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,be marry be build have be have intend
+Jacqui,Henry,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,be marry be build have be have intend
+Jacqui,Henry,3.4482758620689653,3.0172413793103448,55.603448275862064,1.1428571428571428,be marry be build have be have intend
+Henry,Jacqui,3.125,0.0,46.875,INF,have promise
+Henry,Jacqui,2.8846153846153846,3.8461538461538463,54.807692307692314,0.75,want
+Owen,Henry,3.214285714285714,1.4285714285714286,61.07142857142858,2.25,be close have save begin disappear have rise
+Owen,Jacqui,4.166666666666666,2.6515151515151514,53.78787878787878,1.5714285714285714,close have be insist be die
+Henry,Jacqui,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Jacqui,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Jacqui,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Jacqui,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Jacqui,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Jacqui,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Jacqui,Owen,0.0,1.0080645161290323,55.443548387096776,0.0,be do speak have build be tell paint come live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Owen,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Owen,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Owen,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Owen,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Owen,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Henry,Jacqui,2.763157894736842,1.710526315789474,53.421052631578945,1.6153846153846154,be think begin overhear describe wring strangle bend hide wander regret have have build have live
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Jacqui,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Jacqui,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Jacqui,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Jacqui,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Jacqui,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Jacqui,Henry,2.5510204081632653,0.25510204081632654,54.33673469387755,10.0,have be see have have repeat step have feel enter
+Henry,Owen,1.5625,0.78125,47.65625,2.0,be break
+Henry,Owen,2.364864864864865,1.3513513513513513,53.04054054054054,1.75,be say practice inform know
+Henry,Owen,2.364864864864865,1.3513513513513513,53.04054054054054,1.75,be say practice inform know
+Henry,Owen,2.364864864864865,1.3513513513513513,53.04054054054054,1.75,be say practice inform know
+Henry,Owen,2.364864864864865,1.3513513513513513,53.04054054054054,1.75,be say practice inform know
+Owen,Henry,2.0,1.25,50.74999999999999,1.6,add look nod imagine be have
+Owen,Henry,2.0,1.25,50.74999999999999,1.6,add look nod imagine be have
+Henry,Owen,2.0,1.25,50.74999999999999,1.6,add look nod imagine be have
+Henry,Owen,2.0,1.25,50.74999999999999,1.6,add look nod imagine be have
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Owen,Henry,5.555555555555555,6.944444444444445,50.46296296296296,0.8,be turn be imagine be
+Henry,Jacqui,1.715686274509804,0.24509803921568626,52.94117647058824,7.0,watch follow haul have keep have be
+Henry,Jacqui,1.715686274509804,0.24509803921568626,52.94117647058824,7.0,watch follow haul have keep have be
+Henry,Jacqui,1.715686274509804,0.24509803921568626,52.94117647058824,7.0,watch follow haul have keep have be
+Henry,Owen,1.5909090909090908,2.0454545454545454,54.54545454545454,0.7777777777777778,mark stick become assure
+Henry,Owen,1.5909090909090908,2.0454545454545454,54.54545454545454,0.7777777777777778,mark stick become assure
+Henry,Owen,1.5909090909090908,2.0454545454545454,54.54545454545454,0.7777777777777778,mark stick become assure
+Henry,Owen,3.75,0.0,51.24999999999999,INF,observe have forbid help
+Owen,Henry,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,be go tell fill
+Owen,Henry,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,be go tell fill
+Henry,Owen,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,be go tell fill
+Henry,Owen,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,be go tell fill
+Henry,Owen,0.0,0.0,80.0,INF,wink
+Owen,Henry,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,occur know have be
+Owen,Henry,3.4090909090909087,2.272727272727273,57.95454545454546,1.5,occur know have be
+Henry,Owen,3.4090909090909087,0.0,60.22727272727273,INF,turn wheel allow pass
+Henry,Owen,3.4090909090909087,0.0,60.22727272727273,INF,turn wheel allow pass
+Henry,Owen,2.7777777777777777,2.7777777777777777,64.81481481481481,1.0,have go have forbid work have begin work
+Henry,Owen,2.7777777777777777,2.7777777777777777,64.81481481481481,1.0,have go have forbid work have begin work
+Owen,Henry,2.586206896551724,2.1551724137931036,64.22413793103449,1.2,have be stand reach nod pass
+Erdos,Henry,1.4285714285714286,0.0,50.0,INF,do tell be lean save
+Erdos,Henry,1.4285714285714286,0.0,50.0,INF,do tell be lean save
+Henry,Erdos,4.595588235294118,1.6544117647058825,46.69117647058824,2.7777777777777777,put help have hesitate call start go tell tell be mean
+Henry,Erdos,4.595588235294118,1.6544117647058825,46.69117647058824,2.7777777777777777,put help have hesitate call start go tell tell be mean
+Henry,Erdos,4.595588235294118,1.6544117647058825,46.69117647058824,2.7777777777777777,put help have hesitate call start go tell tell be mean
+Henry,Erdos,4.595588235294118,1.6544117647058825,46.69117647058824,2.7777777777777777,put help have hesitate call start go tell tell be mean
+Henry,Owen,1.7857142857142856,2.9017857142857144,63.16964285714286,0.6153846153846154,be have refuse go be stay have relocate build continue work
+Henry,Owen,1.7857142857142856,2.9017857142857144,63.16964285714286,0.6153846153846154,be have refuse go be stay have relocate build continue work
+Henry,Owen,0.5681818181818182,0.8522727272727272,50.85227272727273,0.6666666666666666,be permit do drive ask return
+Owen,Henry,0.0,0.0,55.55555555555556,INF,sit be notice
+Owen,Henry,0.0,0.0,55.55555555555556,INF,sit be notice
+Henry,Owen,2.840909090909091,0.0,56.25,INF,wink hand turn be
+Owen,Henry,1.4492753623188406,1.0869565217391304,64.13043478260869,1.3333333333333333,step hold be do continue hold have settle
+Owen,Henry,1.4492753623188406,1.0869565217391304,64.13043478260869,1.3333333333333333,step hold be do continue hold have settle
+Owen,Henry,1.4492753623188406,1.0869565217391304,64.13043478260869,1.3333333333333333,step hold be do continue hold have settle
+Owen,Henry,1.4492753623188406,1.0869565217391304,64.13043478260869,1.3333333333333333,step hold be do continue hold have settle
+Henry,Owen,1.4492753623188406,1.0869565217391304,64.13043478260869,1.3333333333333333,step hold be do continue hold have settle
+Helen,Henry,1.3392857142857142,1.488095238095238,49.55357142857143,0.9,feel be be open catch lean tie loom survey sense
+Helen,Henry,1.3392857142857142,1.488095238095238,49.55357142857143,0.9,feel be be open catch lean tie loom survey sense
+Helen,Henry,3.1626506024096384,0.7530120481927711,51.50602409638554,4.2,snap disappear begin keep puff lift have forget have be hold have cut
+Gerry,Fargo,0.0,2.5,65.5,0.0,do get telephone
+Henry,Bogart,1.1824324324324325,0.33783783783783783,48.47972972972973,3.5,try cut do like growl argue say be be frickin be set go
+Henry,Bogart,1.1824324324324325,0.33783783783783783,48.47972972972973,3.5,try cut do like growl argue say be be frickin be set go
+Henry,Bogart,1.1824324324324325,0.33783783783783783,48.47972972972973,3.5,try cut do like growl argue say be be frickin be set go
+Bogart,Henry,1.1824324324324325,0.33783783783783783,48.47972972972973,3.5,try cut do like growl argue say be be frickin be set go
+Bogart,Henry,1.1824324324324325,0.33783783783783783,48.47972972972973,3.5,try cut do like growl argue say be be frickin be set go
+Napoleon,Teddy,0.0,0.0,80.0,INF,come
+Napoleon,KIAC,3.0172413793103448,1.293103448275862,54.310344827586206,2.3333333333333335,be give sort save find
+KIAC,Napoleon,3.0172413793103448,1.293103448275862,54.310344827586206,2.3333333333333335,be give sort save find
+KIAC,Napoleon,3.0172413793103448,1.293103448275862,54.310344827586206,2.3333333333333335,be give sort save find
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Hill,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Hill,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Teddy,Hill,0.0,0.0,59.25925925925925,INF,shove pull drum
+Hill,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Hill,Teddy,0.0,0.0,59.25925925925925,INF,shove pull drum
+Napoleon,Clark,0.0,0.0,56.00000000000001,INF,haul push
+Napoleon,Clark,0.8064516129032258,1.0080645161290323,54.63709677419355,0.8,get go have push be jump take zoom
+Napoleon,Clark,0.8064516129032258,1.0080645161290323,54.63709677419355,0.8,get go have push be jump take zoom
+Napoleon,Clark,1.25,0.0,54.75,INF,come pass roar skip manage slide say
+Napoleon,Clark,1.25,0.0,54.75,INF,come pass roar skip manage slide say
+Napoleon,Clark,6.25,0.0,60.416666666666664,INF,be
+Clark,Napoleon,0.0,6.944444444444445,59.72222222222222,0.0,be remember
+Napoleon,Haskell,0.7352941176470588,0.0,34.55882352941176,INF,ask think be look
+Napoleon,Clark,0.8333333333333334,2.9166666666666665,49.583333333333336,0.2857142857142857,seem walk open call
+Napoleon,Clark,0.8333333333333334,2.9166666666666665,49.583333333333336,0.2857142857142857,seem walk open call
+Napoleon,Haskell,3.75,5.0,31.25,0.75,say
+Napoleon,Clark,3.125,1.953125,51.171875,1.6,stick take be shake sit
+Napoleon,Clark,3.125,1.953125,51.171875,1.6,stick take be shake sit
+Napoleon,Clark,3.125,1.953125,51.171875,1.6,stick take be shake sit
+Haskell,Clark,0.78125,0.0,24.21875,INF,say
+Clark,Napoleon,2.232142857142857,0.0,44.19642857142857,INF,look be stand face clasp
+Napoleon,Clark,5.263157894736842,3.9473684210526314,48.68421052631579,1.3333333333333333,see be be
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Clark,Napoleon,4.0,0.5,55.50000000000001,8.0,get stretch grasp
+Napoleon,Clark,0.0,0.0,73.33333333333333,INF,tell tell
+Clark,Napoleon,0.0,0.0,73.33333333333333,INF,tell tell
+Clark,Napoleon,3.5256410256410255,0.0,58.01282051282052,INF,nod nod speak introduce be sit stand drain
+Clark,Napoleon,3.5256410256410255,0.0,58.01282051282052,INF,nod nod speak introduce be sit stand drain
+Clark,Napoleon,3.5256410256410255,0.0,58.01282051282052,INF,nod nod speak introduce be sit stand drain
+Clark,Napoleon,3.5256410256410255,0.0,58.01282051282052,INF,nod nod speak introduce be sit stand drain
+Clark,Napoleon,3.5256410256410255,0.0,58.01282051282052,INF,nod nod speak introduce be sit stand drain
+Clark,Napoleon,3.125,0.0,59.375,INF,stretch take
+Clark,Napoleon,3.125,0.0,59.375,INF,stretch take
+Clark,Napoleon,3.125,0.0,59.375,INF,stretch take
+Clark,Napoleon,3.125,0.0,59.375,INF,stretch take
+Clark,Napoleon,5.0,3.125,41.875,1.6,bang
+Napoleon,Clark,5.0,3.125,41.875,1.6,bang
+Napoleon,Clark,2.083333333333333,0.0,36.80555555555556,INF,say
+Napoleon,Haskell,0.5434782608695652,2.717391304347826,40.21739130434783,0.2,meet say
+Napoleon,Haskell,2.5,3.4375000000000004,44.0625,0.7272727272727273,pause look be have recall mind
+Napoleon,Haskell,2.5,3.4375000000000004,44.0625,0.7272727272727273,pause look be have recall mind
+Napoleon,Haskell,2.5,3.4375000000000004,44.0625,0.7272727272727273,pause look be have recall mind
+Gerry,Fargo,3.125,0.0,34.375,INF,call
+Napoleon,Owen,0.0,0.0,66.66666666666666,INF,look
+Hill,Teddy,0.0,0.0,33.33333333333333,INF,
+Napoleon,Mike,4.0,2.0,78.0,2.0,be nudge name have resemble
+Mike,Napoleon,4.0,2.0,78.0,2.0,be nudge name have resemble
+Napoleon,Looch,0.78125,1.5625,53.90625,0.5,turn catch be
+Napoleon,LUCIANO,0.78125,1.5625,53.90625,0.5,turn catch be
+Napoleon,Looch,0.78125,1.5625,53.90625,0.5,turn catch be
+Napoleon,LUCIANO,0.78125,1.5625,53.90625,0.5,turn catch be
+Looch,LUCIANO,0.78125,1.5625,53.90625,0.5,turn catch be
+Napoleon,Owen,3.125,0.4464285714285714,46.42857142857143,7.0,hear drift
+Napoleon,Owen,2.5,2.083333333333333,62.083333333333336,1.2,lurch feel follow move begin fall
+Napoleon,Owen,2.5,2.083333333333333,62.083333333333336,1.2,lurch feel follow move begin fall
+Napoleon,Owen,2.5,2.083333333333333,62.083333333333336,1.2,lurch feel follow move begin fall
+Napoleon,Owen,2.5,2.083333333333333,62.083333333333336,1.2,lurch feel follow move begin fall
+Napoleon,Hill,0.0,0.0,63.1578947368421,INF,be move burn
+Napoleon,Teddy,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Napoleon,Teddy,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Teddy,Napoleon,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Teddy,Napoleon,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Napoleon,Teddy,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Napoleon,Teddy,5.729166666666666,0.0,65.10416666666666,INF,have see have see realize be see
+Napoleon,Teddy,0.0,7.386363636363637,38.06818181818182,0.0,do talk talk
+Napoleon,Hill,0.0,7.386363636363637,38.06818181818182,0.0,do talk talk
+Napoleon,Teddy,0.0,7.386363636363637,38.06818181818182,0.0,do talk talk
+Napoleon,Hill,0.0,7.386363636363637,38.06818181818182,0.0,do talk talk
+Teddy,Hill,0.0,7.386363636363637,38.06818181818182,0.0,do talk talk
+Napoleon,KIAC,0.0,0.0,43.75,INF,be end sort
+Napoleon,Teddy,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Napoleon,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Napoleon,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Napoleon,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Teddy,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Teddy,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Teddy,Hill,0.0,0.0,54.83870967741935,INF,stick see be gather do
+Hill,Napoleon,0.5208333333333333,3.125,63.020833333333336,0.16666666666666666,get look porn complain collect
+Teddy,Hill,1.5,8.0,54.50000000000001,0.1875,stop come say be let see
+Teddy,Napoleon,1.5,8.0,54.50000000000001,0.1875,stop come say be let see
+Hill,Napoleon,1.5,8.0,54.50000000000001,0.1875,stop come say be let see
+Napoleon,Teddy,0.6944444444444444,0.0,54.861111111111114,INF,see say
+Napoleon,Hill,3.9473684210526314,0.0,48.68421052631579,INF,do know say pass
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Napoleon,Teddy,5.803571428571429,1.7857142857142856,56.69642857142857,3.25,say wish feel be speak like be
+Teddy,Napoleon,3.7037037037037033,0.0,51.85185185185185,INF,look shrug raise say help
+Teddy,Napoleon,3.7037037037037033,0.0,51.85185185185185,INF,look shrug raise say help
+Napoleon,Clark,14.0625,3.125,57.8125,4.5,do know
+Clark,Napoleon,4.807692307692308,9.615384615384617,43.269230769230774,0.5,care be startle care
+Owen,Napoleon,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Owen,Napoleon,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Owen,Napoleon,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Napoleon,Owen,1.7123287671232876,1.5410958904109588,47.43150684931507,1.1111111111111112,get mix tell request make make see say do fuck believe
+Owen,Napoleon,4.910714285714286,1.7857142857142856,57.58928571428571,2.75,have describe draw understand
+Napoleon,Owen,4.910714285714286,1.7857142857142856,57.58928571428571,2.75,have describe draw understand
+Looch,Napoleon,1.4705882352941175,0.0,54.41176470588235,INF,be keep go realize be wear
+Looch,Napoleon,1.4705882352941175,0.0,54.41176470588235,INF,be keep go realize be wear
+Looch,Napoleon,1.4705882352941175,0.0,54.41176470588235,INF,be keep go realize be wear
+Pike,Napoleon,3.75,2.5,43.75,1.5,tell want flatten
+Pike,Looch,3.75,2.5,43.75,1.5,tell want flatten
+Pike,Napoleon,3.75,2.5,43.75,1.5,tell want flatten
+Napoleon,Looch,3.75,2.5,43.75,1.5,tell want flatten
+Looch,Napoleon,3.75,2.5,43.75,1.5,tell want flatten
+Pike,Napoleon,3.571428571428571,4.464285714285714,56.25,0.8,say see do hold
+Pike,Napoleon,3.571428571428571,4.464285714285714,56.25,0.8,say see do hold
+Pike,Napoleon,3.571428571428571,4.464285714285714,56.25,0.8,say see do hold
+Napoleon,Pike,3.3333333333333335,4.166666666666666,39.166666666666664,0.8,be say be
+Pike,Napoleon,3.3333333333333335,4.166666666666666,39.166666666666664,0.8,be say be
+Teddy,Hill,1.1363636363636365,1.7045454545454544,60.79545454545454,0.6666666666666666,say see move
+Teddy,Napoleon,1.1363636363636365,1.7045454545454544,60.79545454545454,0.6666666666666666,say see move
+Hill,Napoleon,1.1363636363636365,1.7045454545454544,60.79545454545454,0.6666666666666666,say see move
+Napoleon,Hill,0.0,0.0,57.692307692307686,INF,do collect do come see
+Napoleon,Teddy,0.0,0.0,57.692307692307686,INF,do collect do come see
+Hill,Teddy,0.0,0.0,57.692307692307686,INF,do collect do come see
+Helen,Sophia,2.314814814814815,0.9259259259259258,56.018518518518526,2.5,be arrive have leave
+Sophia,Fargo,0.0,1.9230769230769231,51.92307692307693,0.0,stay be traverse
+Helen,Henry,0.8152173913043478,0.2717391304347826,59.78260869565217,3.0,go stare rest have raise
+Helen,Henry,0.8152173913043478,0.2717391304347826,59.78260869565217,3.0,go stare rest have raise
+Helen,Henry,4.166666666666666,2.2222222222222223,53.61111111111111,1.875,leave wander have remain
+Henry,Helen,4.166666666666666,2.2222222222222223,53.61111111111111,1.875,leave wander have remain
+Helen,Fargo,2.7083333333333335,0.625,61.66666666666667,4.333333333333333,be have send have keep have spend look have freeze stand melt
+Higgins,Parada,2.5735294117647056,0.7352941176470588,49.63235294117647,3.5,have accord exaggerate number make appear be
+Higgins,Parada,2.5735294117647056,0.7352941176470588,49.63235294117647,3.5,have accord exaggerate number make appear be
+Parada,Higgins,1.875,2.5,43.125,0.75,hope uncover lay rest threaten say turn
+Parada,Higgins,1.875,2.5,43.125,0.75,hope uncover lay rest threaten say turn
+Parada,Higgins,1.875,2.5,43.125,0.75,hope uncover lay rest threaten say turn
+Parada,Higgins,1.875,2.5,43.125,0.75,hope uncover lay rest threaten say turn
+Higgins,Parada,1.6666666666666667,3.3333333333333335,59.44444444444444,0.5,be go be prove disprove sort transcribe be leave
+Higgins,Parada,1.6666666666666667,3.3333333333333335,59.44444444444444,0.5,be go be prove disprove sort transcribe be leave
+Baird,FRANCIE,2.083333333333333,3.125,53.125,0.6666666666666666,have refuse speak
+FRANCIE,Baird,1.3157894736842104,0.0,56.57894736842105,INF,have say hang
+Parada,Higgins,2.0,1.5,48.5,1.3333333333333333,be evoke
+Higgins,Parada,2.0,1.5,48.5,1.3333333333333333,be evoke
+Parada,Higgins,4.575892857142857,3.013392857142857,45.982142857142854,1.5185185185185186,be have be discredit be have hope replace have happen seem speak accept be relegate have be be unspeak
+Higgins,Parada,4.575892857142857,3.013392857142857,45.982142857142854,1.5185185185185186,be have be discredit be have hope replace have happen seem speak accept be relegate have be be unspeak
+Higgins,Parada,4.575892857142857,3.013392857142857,45.982142857142854,1.5185185185185186,be have be discredit be have hope replace have happen seem speak accept be relegate have be be unspeak
+Higgins,Parada,4.575892857142857,3.013392857142857,45.982142857142854,1.5185185185185186,be have be discredit be have hope replace have happen seem speak accept be relegate have be be unspeak
+Helen,Henry,2.6515151515151514,2.272727272727273,43.56060606060606,1.1666666666666667,be witness continue
+Napoleon,Haskell,0.0,0.0,50.0,INF,
+FRANCIE,Carey,2.232142857142857,2.232142857142857,59.82142857142857,1.0,know be be be
+FRANCIE,Carey,2.232142857142857,2.232142857142857,59.82142857142857,1.0,know be be be
+FRANCIE,LUCIANO,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,be be be
+FRANCIE,BRISCOE,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,be be be
+LUCIANO,BRISCOE,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,be be be
+GRAINGER,HAINES,2.840909090909091,0.0,65.3409090909091,INF,send get ask want see
+HAINES,GRAINGER,2.840909090909091,0.0,65.3409090909091,INF,send get ask want see
+LUCIANO,GRAINGER,5.0,0.625,59.375,8.0,have be be speak
+Owen,Carey,4.166666666666666,4.761904761904762,62.5,0.875,read appear
+Owen,Henry,0.8064516129032258,0.0,66.93548387096774,INF,die be indicate be send keep
+Owen,Henry,0.8064516129032258,0.0,66.93548387096774,INF,die be indicate be send keep
+Baird,Henry,3.9285714285714284,4.642857142857143,48.57142857142857,0.8461538461538461,help wonder disappear have see kill be
+Roddy Stewart,Henry,0.0,0.0,55.55555555555556,INF,exist

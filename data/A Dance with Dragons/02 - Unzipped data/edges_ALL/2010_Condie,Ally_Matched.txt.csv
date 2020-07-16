@@ -1,0 +1,535 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+New York Times,Condie,3.8194444444444446,0.0,54.513888888888886,INF,bestsell peel reverberate
+New York Times,Dylan Thomas,3.8194444444444446,0.0,54.513888888888886,INF,bestsell peel reverberate
+Condie,Dylan Thomas,3.8194444444444446,0.0,54.513888888888886,INF,bestsell peel reverberate
+New York Times,Condie,5.921052631578947,1.644736842105263,42.43421052631579,3.6,bestsell be
+Condie,Society,1.524390243902439,0.6097560975609756,41.76829268292683,2.5,be introduce
+Cassia Reyes,Society,6.547619047619048,0.5952380952380952,35.714285714285715,11.0,match be please present
+Cassia Reyes,Society,4.5,0.5,39.0,9.0,say be please present
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Penguin Books Ltd,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Books Ltd,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Penguin Group,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,USA -RRB- Inc.,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Penguin Group,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Condie,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+USA -RRB- Inc.,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Condie,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Condie,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Condie,Dylan Thomas,0.7142857142857143,0.044642857142857144,48.88392857142857,16.0,speak publish publish publish reserve publish
+Xander,Grandfather,0.0,0.5319148936170213,54.78723404255319,0.0,tell pop show make store accord
+Xander,Grandfather,0.0,0.5319148936170213,54.78723404255319,0.0,tell pop show make store accord
+Xander,Society,5.147058823529411,0.0,53.67647058823529,INF,smile give greet have
+Xander,Society,5.147058823529411,0.0,53.67647058823529,INF,smile give greet have
+Xander,Lea,3.0172413793103448,0.0,62.5,INF,cross seat see know name
+Xander,Lea,3.0172413793103448,0.0,62.5,INF,cross seat see know name
+Xander,Lea,3.0172413793103448,0.0,62.5,INF,cross seat see know name
+Lea,Joseph Peterson,4.807692307692308,0.9615384615384616,40.38461538461539,5.0,have be match
+Lea,Joseph Peterson,0.0,0.0,66.66666666666666,INF,preside bring happen
+Society,Cassia Reyes,3.260869565217391,2.1739130434782608,64.13043478260869,1.5,watch wait determine see be poise present
+Second School,Xander,1.293103448275862,1.7241379310344827,55.603448275862064,0.75,be go do see
+Serena,Bram,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,do say say turn pretend do hear
+Serena,Bram,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,do say say turn pretend do hear
+Bram,Xander,4.166666666666666,1.6666666666666667,44.166666666666664,2.5,say shove do sleep be dream
+Bram,Xander,4.166666666666666,1.6666666666666667,44.166666666666664,2.5,say shove do sleep be dream
+Bram,Xander,6.0344827586206895,1.293103448275862,44.396551724137936,4.666666666666667,do want know be do want
+Bram,Xander,6.0344827586206895,1.293103448275862,44.396551724137936,4.666666666666667,do want know be do want
+Bram,Second School,1.4423076923076923,0.9615384615384616,59.13461538461539,1.5,breathe move be
+Grandfather,Committee,0.7352941176470588,0.3676470588235294,48.89705882352941,2.0,be be participate be
+Society,Xander,5.681818181818182,1.1363636363636365,43.18181818181818,5.0,have decide know spend
+Cassia Reyes,Society,6.25,0.78125,36.71875,8.0,be please present
+Cassia Reyes,Society,4.5,0.5,39.0,9.0,say be please present
+Em,Xander,1.7857142857142856,2.232142857142857,45.982142857142854,0.8,say talk cover be like
+Cassia Reyes,Xander,2.5,0.0,37.5,INF,
+Ky,Second School,0.3205128205128205,0.9615384615384616,65.38461538461539,0.3333333333333333,do see do receive go
+Ky,Second School,0.3205128205128205,0.9615384615384616,65.38461538461539,0.3333333333333333,do see do receive go
+Ky,Second School,0.3205128205128205,0.9615384615384616,65.38461538461539,0.3333333333333333,do see do receive go
+Ky,Second School,0.3205128205128205,0.9615384615384616,65.38461538461539,0.3333333333333333,do see do receive go
+Society,Markhams,3.125,0.0,36.875,INF,overlook allow adopt
+Society,Ky,3.125,0.0,36.875,INF,overlook allow adopt
+Markhams,Ky,3.125,0.0,36.875,INF,overlook allow adopt
+Xander,Markhams,2.5,0.0,30.833333333333336,INF,be stay say
+Xander,Mr. Carrow,1.25,0.4166666666666667,58.333333333333336,3.0,wait hear boom
+Xander,Mr. Carrow,1.25,0.4166666666666667,58.333333333333336,3.0,wait hear boom
+Mr. Carrow,Xander,2.4193548387096775,2.0161290322580645,50.403225806451616,1.2,be allow go imagine stand look
+Patrick,Aida,0.0,0.0,38.46153846153847,INF,talk say
+Patrick,Xander,0.0,0.0,38.46153846153847,INF,talk say
+Aida,Xander,0.0,0.0,38.46153846153847,INF,talk say
+Society,Mr. Carrow,0.0,0.0,50.0,INF,be say
+Molly,Aida,0.0,0.0,33.33333333333333,INF,have see
+Second School,Ky,0.0,0.0,56.25,INF,say introduce
+Grandfather,Ky,0.5434782608695652,0.0,55.97826086956522,INF,have tell say pull
+Patrick,Aida,0.0,0.0,28.57142857142857,INF,
+Aida,Patrick,0.0,0.0,28.57142857142857,INF,
+Ky,Patrick,4.375,0.625,55.00000000000001,7.0,be surprise receive be respect
+Ky,Aida,4.375,0.625,55.00000000000001,7.0,be surprise receive be respect
+Patrick,Aida,4.375,0.625,55.00000000000001,7.0,be surprise receive be respect
+Hill,Grandfather,4.166666666666666,0.0,38.69047619047619,INF,love let hike say
+Hill,Grandfather,4.166666666666666,0.0,38.69047619047619,INF,love let hike say
+Bram,Hill,2.5735294117647056,3.308823529411765,52.94117647058824,0.7777777777777778,be choose know go get
+Bram,Grandfather,0.0,5.208333333333334,44.79166666666667,0.0,push
+Committee,Grandfather,2.083333333333333,2.083333333333333,51.388888888888886,1.0,have invite come say
+Grandfather,Committee,0.4629629629629629,0.0,55.092592592592595,INF,sit complete
+Committee,Grandfather,9.027777777777777,0.0,40.97222222222222,INF,leave shake say
+Bram,Grandfather,2.6785714285714284,0.0,33.035714285714285,INF,have say
+Bram,Grandfather,1.25,0.0,48.75,INF,place
+Bram,Grandfather,4.605263157894736,1.9736842105263157,51.31578947368421,2.3333333333333335,be say laugh smile put
+Bram,Grandfather,0.0,0.0,50.0,INF,go let speak
+Bram,Grandfather,1.875,0.0,53.125,INF,have go speak
+Bram,Grandfather,0.78125,0.390625,51.953125,2.0,tell wait sleep have ask have
+Ky,Society,0.0,5.0,45.0,0.0,want keep
+Society,Ky,0.0,5.0,45.0,0.0,want keep
+Ky,Piper,5.208333333333334,5.729166666666666,47.39583333333333,0.9090909090909091,look occur have be
+Ky,Piper,5.208333333333334,5.729166666666666,47.39583333333333,0.9090909090909091,look occur have be
+Oria,Piper,9.375,7.142857142857142,51.33928571428571,1.3125,be be be be
+Ky,Xander,6.770833333333333,1.5625,66.66666666666666,4.333333333333333,look wonder be go ask be think
+Sera,Em,2.34375,0.0,35.15625,INF,
+Sera,Xander,2.34375,0.0,35.15625,INF,
+Em,Xander,2.34375,0.0,35.15625,INF,
+Grandfather,Xander,4.166666666666666,2.083333333333333,43.75,2.0,be
+Xander,Ky,3.8194444444444446,2.430555555555556,54.861111111111114,1.5714285714285714,tell sit think tell be crowd
+Xander,Ky,3.8194444444444446,2.430555555555556,54.861111111111114,1.5714285714285714,tell sit think tell be crowd
+Ky,Xander,3.8194444444444446,2.430555555555556,54.861111111111114,1.5714285714285714,tell sit think tell be crowd
+Ky,Xander,3.8194444444444446,2.430555555555556,54.861111111111114,1.5714285714285714,tell sit think tell be crowd
+Em,Xander,1.1363636363636365,0.0,44.31818181818182,INF,say turn answer
+Em,Xander,1.1363636363636365,0.0,44.31818181818182,INF,say turn answer
+Ky,Xander,7.352941176470589,1.4705882352941175,44.11764705882353,5.0,know look be turn be
+Xander,Ky,0.0,2.314814814814815,53.24074074074075,0.0,sit show
+Xander,Society,0.0,2.314814814814815,53.24074074074075,0.0,sit show
+Ky,Society,0.0,2.314814814814815,53.24074074074075,0.0,sit show
+Ky,Xander,4.375,9.375,41.25,0.4666666666666667,feel have ignore turn share
+Ky,Xander,4.375,9.375,41.25,0.4666666666666667,feel have ignore turn share
+Xander,Ky,7.352941176470589,0.7352941176470588,44.85294117647059,10.0,do be compose know
+Ky,Xander,6.25,6.25,57.49999999999999,1.0,do know have see
+Bram,Grandfather,2.272727272727273,0.5681818181818182,65.3409090909091,4.0,see look give
+Dylan Thomas,Tennyson,2.5,0.0,64.16666666666667,INF,be call cross be write live
+Ky,Aida,1.4705882352941175,0.0,51.470588235294116,INF,notice use describe
+Ky,Aida,1.4705882352941175,0.0,51.470588235294116,INF,notice use describe
+Aida,Ky,6.25,2.272727272727273,50.56818181818182,2.75,know do mean know have ask
+Ky,Hill,3.260869565217391,1.6304347826086956,51.63043478260869,2.0,face talk look
+Ky,Hill,3.260869565217391,1.6304347826086956,51.63043478260869,2.0,face talk look
+Grandfather,Bram,0.5208333333333333,4.6875,61.458333333333336,0.1111111111111111,turn say come
+Mama,Bram,5.921052631578947,0.0,46.71052631578947,INF,be argue say gesture
+Ky,Xander,0.0,0.0,60.0,INF,do do come
+Bram,Grandfather,0.6578947368421052,1.3157894736842104,61.18421052631579,0.5,do look
+Thomas Moran,Grandfather,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,guess
+Second School,Xander,0.0,0.0,57.14285714285714,INF,push hold
+Xander,Ky,4.166666666666666,2.083333333333333,52.083333333333336,2.0,tell
+Xander,Em,6.25,3.571428571428571,54.46428571428571,1.75,hope do get call
+Ky,Bram,1.4705882352941175,0.7352941176470588,62.5,2.0,come meet do have get
+Piper,Ky,0.0,0.0,66.66666666666666,INF,
+Piper,Xander,0.0,0.0,66.66666666666666,INF,
+Ky,Xander,0.0,0.0,66.66666666666666,INF,
+Piper,Ky,0.7352941176470588,0.0,63.970588235294116,INF,do think sign say
+Em,Xander,0.7575757575757576,0.0,47.72727272727273,INF,be tell point weave say
+Em,Xander,0.6578947368421052,0.0,62.5,INF,flop lean look
+Xander,Em,4.545454545454546,0.0,54.54545454545454,INF,ask mean feel forget
+Em,Xander,4.545454545454546,0.0,54.54545454545454,INF,ask mean feel forget
+Em,Xander,1.3888888888888888,2.083333333333333,40.97222222222222,0.6666666666666666,say put hug
+Em,Xander,1.3888888888888888,2.083333333333333,40.97222222222222,0.6666666666666666,say put hug
+Em,Xander,1.3888888888888888,2.083333333333333,40.97222222222222,0.6666666666666666,say put hug
+Em,Xander,1.1363636363636365,0.0,62.5,INF,become describe
+Em,Xander,5.0,6.0,45.0,0.8333333333333334,be look
+Em,Xander,5.0,6.0,45.0,0.8333333333333334,be look
+Xander,Em,6.944444444444445,0.6944444444444444,31.25,10.0,be have be match tell
+Em,Xander,0.0,4.807692307692308,49.03846153846153,0.0,look
+Em,Xander,0.0,4.807692307692308,49.03846153846153,0.0,look
+Xander,Ky,0.390625,0.390625,55.46875,1.0,plant picture work play listen pipe
+Xander,Em,3.289473684210526,5.263157894736842,54.60526315789473,0.625,pull
+Society,Xander,4.779411764705882,1.1029411764705883,38.23529411764706,4.333333333333333,need know be do be convince
+Ky,Piper,8.75,0.0,61.25000000000001,INF,get
+Em,Xander,4.6875,1.5625,52.083333333333336,3.0,be come leave be
+Em,Xander,0.9615384615384616,2.8846153846153846,34.61538461538461,0.3333333333333333,slide
+Em,Xander,2.556818181818182,3.125,55.68181818181818,0.8181818181818182,ask search start tell know put tie
+Em,Xander,2.556818181818182,3.125,55.68181818181818,0.8181818181818182,ask search start tell know put tie
+Em,Xander,2.556818181818182,3.125,55.68181818181818,0.8181818181818182,ask search start tell know put tie
+Em,Xander,2.556818181818182,3.125,55.68181818181818,0.8181818181818182,ask search start tell know put tie
+Em,Xander,2.556818181818182,3.125,55.68181818181818,0.8181818181818182,ask search start tell know put tie
+Ky,Xander,0.0,0.0,66.66666666666666,INF,try keep notice see stand edge
+Ky,Xander,0.0,0.0,66.66666666666666,INF,try keep notice see stand edge
+Em,Xander,0.0,3.8461538461538463,50.0,0.0,look
+Xander,Em,0.0,3.8461538461538463,50.0,0.0,look
+Em,Xander,3.6057692307692304,4.086538461538462,50.0,0.8823529411764706,be have touch be help notice help want lean feel
+Em,Xander,3.6057692307692304,4.086538461538462,50.0,0.8823529411764706,be have touch be help notice help want lean feel
+Xander,Em,2.5,0.0,44.166666666666664,INF,let get say
+Em,Xander,4.166666666666666,6.481481481481481,48.61111111111111,0.6428571428571429,seem worry be suppose say do share
+Em,Xander,4.166666666666666,6.481481481481481,48.61111111111111,0.6428571428571429,seem worry be suppose say do share
+Em,Xander,4.166666666666666,6.481481481481481,48.61111111111111,0.6428571428571429,seem worry be suppose say do share
+Xander,Ky,0.0,0.0,50.0,INF,glance
+Xander,Ky,5.681818181818182,1.1363636363636365,56.81818181818182,5.0,do hesitate know mean
+Xander,Ky,5.681818181818182,1.1363636363636365,56.81818181818182,5.0,do hesitate know mean
+Xander,Em,1.1363636363636365,0.0,71.5909090909091,INF,put
+Xander,Em,1.1363636363636365,0.0,71.5909090909091,INF,put
+Xander,Em,6.25,0.6944444444444444,48.61111111111111,9.0,make give
+Xander,Em,0.0,0.0,66.66666666666666,INF,have know
+Em,Xander,0.0,0.0,66.66666666666666,INF,have know
+Xander,Em,4.8,2.018181818181818,61.36363636363637,2.3783783783783785,settle watch take
+Xander,Em,4.8,2.018181818181818,61.36363636363637,2.3783783783783785,settle watch take
+Em,Xander,4.8,2.018181818181818,61.36363636363637,2.3783783783783785,settle watch take
+Em,Xander,4.8,2.018181818181818,61.36363636363637,2.3783783783783785,settle watch take
+Xander,Ky,4.62962962962963,3.2407407407407405,53.24074074074075,1.4285714285714286,stop try hold have do worry be mean be be mean love
+Xander,Em,4.62962962962963,3.2407407407407405,53.24074074074075,1.4285714285714286,stop try hold have do worry be mean be be mean love
+Ky,Em,4.62962962962963,3.2407407407407405,53.24074074074075,1.4285714285714286,stop try hold have do worry be mean be be mean love
+Xander,First School,0.5952380952380952,1.1904761904761905,79.16666666666666,0.5,let go
+Em,Xander,1.3888888888888888,12.5,41.66666666666667,0.1111111111111111,be
+Dylan Thomas,Tennyson,7.291666666666667,2.083333333333333,57.291666666666664,3.5,want find have do make
+Xander,Em,2.6785714285714284,3.571428571428571,58.03571428571429,0.75,do hear describe
+Em,Xander,5.555555555555555,4.166666666666666,34.72222222222222,1.3333333333333333,be talk
+Em,Dalen,2.8846153846153846,2.403846153846154,48.55769230769231,1.2,describe tell learn be distract hear
+Ky,Xander,0.0,0.8333333333333334,45.83333333333333,0.0,give do
+Xander,Aida,1.4423076923076923,2.403846153846154,46.15384615384615,0.6,be give give say try sound
+Second School,Ky,0.5434782608695652,0.5434782608695652,72.82608695652173,1.0,wait sort end look have give
+Bram,Ky,3.90625,0.0,58.59375,INF,hear play feel reach pull
+Ky,Grandfather,7.236842105263158,1.3157894736842104,49.34210526315789,5.5,know
+Ky,Xander,2.2058823529411766,0.0,50.73529411764706,INF,be be feel
+Xander,Ky,4.6875,2.8125,57.49999999999999,1.6666666666666667,want know feel be be
+Xander,Ky,4.6875,2.8125,57.49999999999999,1.6666666666666667,want know feel be be
+Xander,Ky,4.166666666666666,0.0,51.388888888888886,INF,think see pause
+Grandfather,Bram,0.7575757575757576,0.3787878787878788,47.34848484848485,2.0,have come stay hear talk go come
+Grandfather,Bram,0.7575757575757576,0.3787878787878788,47.34848484848485,2.0,have come stay hear talk go come
+Grandfather,Bram,0.7575757575757576,0.3787878787878788,47.34848484848485,2.0,have come stay hear talk go come
+Xander,Em,6.578947368421052,1.9736842105263157,49.34210526315789,3.3333333333333335,be help
+Xander,Em,6.578947368421052,1.9736842105263157,49.34210526315789,3.3333333333333335,be help
+Xander,Ky,2.941176470588235,1.4705882352941175,54.41176470588235,2.0,remind say
+Xander,Ky,1.3513513513513513,2.364864864864865,50.33783783783784,0.5714285714285714,be tempt give put close
+Xander,Ky,1.3513513513513513,2.364864864864865,50.33783783783784,0.5714285714285714,be tempt give put close
+Ky,Xander,8.0,3.5000000000000004,52.5,2.2857142857142856,know be fall be love be do
+Ky,Xander,8.0,3.5000000000000004,52.5,2.2857142857142856,know be fall be love be do
+Ky,Xander,8.0,3.5000000000000004,52.5,2.2857142857142856,know be fall be love be do
+Bram,Xander,4.166666666666666,0.0,51.388888888888886,INF,be do suspect have do
+Bram,Em,9.375,0.0,48.95833333333333,INF,find tell
+Grandfather,Bram,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,imagine take feel
+Xander,Ky,0.3787878787878788,3.4090909090909087,50.75757575757576,0.1111111111111111,get lean say
+Ky,Xander,0.3787878787878788,3.4090909090909087,50.75757575757576,0.1111111111111111,get lean say
+Xander,Markhams,3.289473684210526,1.3157894736842104,48.026315789473685,2.5,crowd do hide
+Xander,Ky,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,do know belong be pick
+Xander,Markhams,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,do know belong be pick
+Ky,Xander,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,do know belong be pick
+Ky,Markhams,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,do know belong be pick
+Xander,Markhams,3.804347826086957,0.5434782608695652,65.21739130434783,7.0,do know belong be pick
+Xander,Ky,6.25,0.0,52.083333333333336,INF,do know be start feel
+Ky,Xander,0.0,0.0,57.14285714285714,INF,do see
+Ky,Livy,1.8518518518518516,0.9259259259259258,56.481481481481474,2.0,mean be pair be pair fall try keep
+Ky,Livy,1.8518518518518516,0.9259259259259258,56.481481481481474,2.0,mean be pair be pair fall try keep
+Society,Hill,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,have ask use hike
+Xander,Ky,8.035714285714286,0.0,56.25,INF,save
+Ky,Xander,2.272727272727273,1.1363636363636365,55.68181818181818,2.0,be continue give be do belong
+Ky,Xander,0.0,3.125,55.208333333333336,0.0,tell ask
+Ky,Em,2.840909090909091,0.0,65.3409090909091,INF,come have go fall put
+Xander,Bram,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,be be mean be use say get become lose pay
+Xander,Bram,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,be be mean be use say get become lose pay
+Xander,Bram,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,be be mean be use say get become lose pay
+Xander,Bram,2.941176470588235,0.9803921568627451,50.98039215686274,3.0,be be mean be use say get become lose pay
+Ky,Xander,2.027027027027027,0.33783783783783783,54.391891891891895,6.0,look weave follow hope understand have read care
+Xander,Ky,2.027027027027027,0.33783783783783783,54.391891891891895,6.0,look weave follow hope understand have read care
+Xander,Ky,2.027027027027027,0.33783783783783783,54.391891891891895,6.0,look weave follow hope understand have read care
+Xander,Ky,2.027027027027027,0.33783783783783783,54.391891891891895,6.0,look weave follow hope understand have read care
+Ky,Xander,2.34375,1.5625,52.34375,1.5,say reveal
+Ky,Xander,2.34375,1.5625,52.34375,1.5,say reveal
+Em,Piper,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Em,Xander,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Em,Ky,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Piper,Xander,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Piper,Ky,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Xander,Ky,0.4807692307692308,0.0,49.519230769230774,INF,stay watch sit scan
+Xander,Ky,2.083333333333333,0.0,47.91666666666667,INF,ask nod reach draw
+Xander,Ky,2.083333333333333,0.0,47.91666666666667,INF,ask nod reach draw
+Ky,Xander,3.125,4.166666666666666,42.70833333333333,0.75,be be watch
+Ky,Xander,3.125,4.166666666666666,42.70833333333333,0.75,be be watch
+Em,Livy,2.631578947368421,1.9736842105263157,63.81578947368421,1.3333333333333333,try explain do disturb
+Livy,Em,0.0,0.0,75.0,INF,interrupt
+Livy,Ky,5.555555555555555,8.333333333333332,52.77777777777778,0.6666666666666666,fix
+Ky,Xander,4.166666666666666,2.083333333333333,60.416666666666664,2.0,be know
+Ky,Xander,3.8461538461538463,6.730769230769231,74.03846153846155,0.5714285714285714,pay know
+Livy,Ky,6.25,3.3333333333333335,63.74999999999999,1.875,feel see be be
+Livy,Ky,6.25,3.3333333333333335,63.74999999999999,1.875,feel see be be
+Ky,Xander,0.0,0.0,52.63157894736842,INF,turn watch
+Ky,Xander,0.0,3.8461538461538463,50.0,0.0,end
+Ky,Xander,0.0,1.25,58.75,0.0,want look twine do
+Xander,Ky,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,know share
+Xander,Hill,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,know share
+Ky,Hill,2.941176470588235,1.4705882352941175,48.529411764705884,2.0,know share
+Livy,Xander,0.0,2.6785714285714284,54.46428571428571,0.0,slide start
+Ky,Xander,4.166666666666666,0.0,54.166666666666664,INF,do have be
+Ky,Xander,2.976190476190476,1.1904761904761905,48.214285714285715,2.5,let play say get
+Ky,Xander,2.976190476190476,1.1904761904761905,48.214285714285715,2.5,let play say get
+Ky,Xander,0.0,0.0,30.76923076923077,INF,sit
+Xander,Ky,0.0,1.1904761904761905,32.142857142857146,0.0,have take
+Ky,Xander,7.291666666666667,11.458333333333332,56.25,0.6363636363636364,be have be
+Ky,Xander,7.291666666666667,11.458333333333332,56.25,0.6363636363636364,be have be
+Xander,Ky,5.952380952380952,3.571428571428571,42.857142857142854,1.6666666666666667,play be
+Ky,Xander,0.0,0.0,57.14285714285714,INF,take watch
+Ky,Xander,0.0,0.0,57.14285714285714,INF,take watch
+Ky,Xander,0.0,0.0,57.14285714285714,INF,take watch
+Ky,Xander,0.0,0.0,57.14285714285714,INF,take watch
+Xander,Ky,4.891304347826087,0.0,55.97826086956522,INF,move put overtake win
+Ky,Xander,4.891304347826087,0.0,55.97826086956522,INF,move put overtake win
+Ky,Xander,4.891304347826087,0.0,55.97826086956522,INF,move put overtake win
+Ky,Xander,4.891304347826087,0.0,55.97826086956522,INF,move put overtake win
+Ky,Xander,1.2096774193548387,0.4032258064516129,69.35483870967742,3.0,do hesitate place set lean look
+Ky,Xander,1.2096774193548387,0.4032258064516129,69.35483870967742,3.0,do hesitate place set lean look
+Ky,Xander,1.2096774193548387,0.4032258064516129,69.35483870967742,3.0,do hesitate place set lean look
+Ky,Markhams,1.0,1.0,46.0,1.0,say come live welcome express
+Markhams,Ky,1.0,1.0,46.0,1.0,say come live welcome express
+Grandfather,Ky,2.586206896551724,2.1551724137931036,57.327586206896555,1.2,be turn
+Xander,Ky,7.5,0.0,52.5,INF,know do say
+Society,Ky,5.232558139534884,1.1627906976744187,56.395348837209305,4.5,tie include be realize be
+Ky,Bram,1.0,2.0,61.0,0.5,look wrap think put
+Patrick,Xander,0.3787878787878788,0.0,48.10606060606061,INF,go walk die find bring
+Patrick,Xander,0.3787878787878788,0.0,48.10606060606061,INF,go walk die find bring
+Patrick,Xander,0.3787878787878788,0.0,48.10606060606061,INF,go walk die find bring
+Xander,Patrick,0.3787878787878788,0.0,48.10606060606061,INF,go walk die find bring
+Xander,Patrick,0.3787878787878788,0.0,48.10606060606061,INF,go walk die find bring
+Ky,Xander,1.3888888888888888,4.861111111111112,49.30555555555556,0.2857142857142857,be hurt commit
+Ky,Hill,0.0,0.0,57.89473684210527,INF,do walk
+Ky,Xander,7.142857142857142,4.464285714285714,45.535714285714285,1.6,be realize look
+Ky,Xander,7.142857142857142,4.464285714285714,45.535714285714285,1.6,be realize look
+Ky,Hill,2.6785714285714284,1.7857142857142856,45.535714285714285,1.5,do
+Ky,Second School,0.0,2.840909090909091,56.25,0.0,be sort
+Ky,Hill,2.0161290322580645,0.0,59.2741935483871,INF,look know be remember remember hike
+Xander,Ky,6.018518518518518,2.314814814814815,62.03703703703704,2.6,show hold act be
+Xander,Ky,4.545454545454546,3.977272727272727,46.02272727272727,1.1428571428571428,feel worry belong
+Xander,Ky,4.545454545454546,3.977272727272727,46.02272727272727,1.1428571428571428,feel worry belong
+Bram,Xander,0.0,0.0,40.0,INF,remember
+First School,Bram,0.0,0.0,44.44444444444444,INF,come get
+Ky,Dylan Thomas,3.205128205128205,1.282051282051282,62.17948717948718,2.5,stand shield come mind catch sing like hear sing
+Ky,Dylan Thomas,3.205128205128205,1.282051282051282,62.17948717948718,2.5,stand shield come mind catch sing like hear sing
+Dylan Thomas,Ky,3.205128205128205,1.282051282051282,62.17948717948718,2.5,stand shield come mind catch sing like hear sing
+Ky,Dylan Thomas,2.083333333333333,0.0,56.25,INF,reach pull
+Xander,Hill,2.34375,0.78125,59.375,3.0,have tell be happen
+Ky,Xander,4.464285714285714,1.7857142857142856,50.89285714285714,2.5,tell say
+Ky,Hill,3.125,1.0416666666666665,54.166666666666664,3.0,close say bend wait
+Ky,Hill,3.125,1.0416666666666665,54.166666666666664,3.0,close say bend wait
+Hill,Ky,4.545454545454546,2.272727272727273,65.9090909090909,2.0,close be
+Society,Ky,1.5151515151515151,0.7575757575757576,64.39393939393939,2.0,have leave think have see live want be
+Ky,Hill,3.273809523809524,2.380952380952381,51.488095238095234,1.375,tell be say hope do hear hope do ask
+Hill,Ky,3.273809523809524,2.380952380952381,51.488095238095234,1.375,tell be say hope do hear hope do ask
+Hill,Ky,3.273809523809524,2.380952380952381,51.488095238095234,1.375,tell be say hope do hear hope do ask
+Ky,Xander,4.513888888888888,1.0416666666666665,58.333333333333336,4.333333333333333,remember see lean realize be fall
+Ky,Xander,4.513888888888888,1.0416666666666665,58.333333333333336,4.333333333333333,remember see lean realize be fall
+Ky,Society,3.90625,4.296875,44.921875,0.9090909090909091,say think be have
+Ky,Society,3.90625,4.296875,44.921875,0.9090909090909091,say think be have
+Xander,Ky,16.40625,3.125,42.96875,5.25,deserve know deserve hear
+Ky,Xander,16.40625,3.125,42.96875,5.25,deserve know deserve hear
+Xander,Hill,1.7045454545454544,1.1363636363636365,51.70454545454546,1.5,say be hide
+Xander,Ky,2.5,1.25,56.25,2.0,be challenge
+Xander,Grandfather,0.4464285714285714,0.0,70.98214285714286,INF,take be broker see jump jump
+Ky,Xander,1.0416666666666665,5.208333333333334,35.41666666666667,0.2,say
+Xander,Ky,11.25,2.5,56.25,4.5,do know
+Xander,Ky,1.9736842105263157,0.0,66.44736842105263,INF,think tell be trust
+Ky,Xander,3.289473684210526,3.9473684210526314,66.44736842105263,0.8333333333333334,think see realize like
+Ky,Hill,0.0,0.0,47.05882352941176,INF,begin climb
+Ky,Xander,1.1904761904761905,1.1904761904761905,64.28571428571429,1.0,ask pull be whisper
+Xander,Hill,0.0,0.0,61.53846153846154,INF,put
+Em,Aida,0.0,0.0,50.0,INF,call
+Ky,Aida,1.25,0.0,58.75,INF,have hear
+Ky,Grandfather,2.840909090909091,2.556818181818182,55.96590909090909,1.1111111111111112,do know speak think be call
+Patrick,Ky,2.631578947368421,3.289473684210526,57.23684210526315,0.8,be relate possess
+Ky,Patrick,3.125,3.125,50.89285714285714,1.0,tell say look be give
+Ky,Patrick,1.8518518518518516,0.9259259259259258,52.77777777777778,2.0,have know be think be shake
+Aida,Patrick,2.7777777777777777,0.0,30.555555555555557,INF,turn
+Patrick,Aida,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,move pin pull
+Patrick,Markhams,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,move pin pull
+Aida,Markhams,0.5434782608695652,0.5434782608695652,46.73913043478261,1.0,move pin pull
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,1.7241379310344827,0.43103448275862066,42.672413793103445,4.0,snap gag keep talk do stifle
+Patrick,Aida,5.88235294117647,0.0,41.17647058823529,INF,do realize do give
+Markhams,Aida,4.6875,0.0,32.8125,INF,push reach
+Markhams,Aida,4.6875,0.0,32.8125,INF,push reach
+Bram,Em,3.7037037037037033,0.9259259259259258,47.22222222222222,4.0,move take take
+Ky,Bram,2.6785714285714284,1.7857142857142856,59.82142857142857,1.5,be need get start find
+Patrick,Aida,6.25,2.5,31.25,2.5,go
+Hill,Ky,1.6666666666666667,4.166666666666666,57.49999999999999,0.4,bring look know catch stand
+First School,Ky,0.0,0.0,68.75,INF,remember come come
+Xander,Bram,0.0,0.0,43.75,INF,see
+Hill,Ky,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be
+Oria,Xander,0.0,5.263157894736842,47.368421052631575,0.0,be leave do want leave
+Oria,Em,0.0,5.263157894736842,47.368421052631575,0.0,be leave do want leave
+Xander,Em,0.0,5.263157894736842,47.368421052631575,0.0,be leave do want leave
+Xander,Ky,2.976190476190476,4.166666666666666,50.0,0.7142857142857143,do know hide write give
+Xander,Grandfather,2.976190476190476,4.166666666666666,50.0,0.7142857142857143,do know hide write give
+Ky,Grandfather,2.976190476190476,4.166666666666666,50.0,0.7142857142857143,do know hide write give
+Xander,Ky,0.0,2.941176470588235,61.76470588235294,0.0,gaze live
+Xander,Ky,3.4090909090909087,3.4090909090909087,47.72727272727273,1.0,have be learn
+Ky,Xander,4.296875,2.734375,58.59375,1.5714285714285714,realize wonder run be have set
+Ky,Xander,2.5,5.0,39.166666666666664,0.5,play
+Ky,Xander,7.446808510638298,1.8617021276595744,50.26595744680851,4.0,think have find realize be make love
+Ky,Xander,7.446808510638298,1.8617021276595744,50.26595744680851,4.0,think have find realize be make love
+Ky,Xander,7.446808510638298,1.8617021276595744,50.26595744680851,4.0,think have find realize be make love
+Ky,Xander,7.446808510638298,1.8617021276595744,50.26595744680851,4.0,think have find realize be make love
+Ky,Xander,5.113636363636364,2.272727272727273,47.159090909090914,2.25,think be help learn use tell
+Ky,Xander,0.8333333333333334,5.0,34.166666666666664,0.16666666666666666,say be
+Ky,Xander,0.8333333333333334,5.0,34.166666666666664,0.16666666666666666,say be
+Xander,Ky,1.7857142857142856,0.0,55.35714285714286,INF,have help
+Xander,Ky,6.25,1.0416666666666665,55.208333333333336,6.0,see want expect
+Xander,Hill,1.6666666666666667,5.0,46.666666666666664,0.3333333333333333,have tell ask do have
+Xander,Hill,1.6666666666666667,5.0,46.666666666666664,0.3333333333333333,have tell ask do have
+Xander,Ky,0.0,0.0,55.55555555555556,INF,be hold hold
+Ky,Markhams,4.891304347826087,7.065217391304348,27.173913043478258,0.6923076923076923,disappear disappear disappear make
+Ky,Grandfather,5.833333333333333,1.6666666666666667,45.83333333333333,3.5,close ask
+Ky,Xander,8.974358974358974,1.282051282051282,41.02564102564102,7.0,have learn have have have
+Ky,Bram,8.974358974358974,1.282051282051282,41.02564102564102,7.0,have learn have have have
+Xander,Bram,8.974358974358974,1.282051282051282,41.02564102564102,7.0,have learn have have have
+Xander,Ky,4.605263157894736,3.9473684210526314,49.34210526315789,1.1666666666666667,keep update learn be
+Scott,Elaine,3.816793893129771,2.767175572519084,41.50763358778626,1.3793103448275863,make write make love read give go be be
+Scott,Elaine,3.816793893129771,2.767175572519084,41.50763358778626,1.3793103448275863,make write make love read give go be be
+Bram,Grandfather,4.310344827586207,0.8620689655172413,53.44827586206896,5.0,make come say view
+Bram,Grandfather,4.310344827586207,0.8620689655172413,53.44827586206896,5.0,make come say view
+Grandfather,Bram,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,read be write
+Grandfather,Bram,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,read be write
+Grandfather,Bram,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,read be write
+Grandfather,Bram,3.7037037037037033,1.3888888888888888,54.166666666666664,2.6666666666666665,read be write
+Bram,Grandfather,0.0,7.03125,61.71875,0.0,leave remember
+Ky,Xander,1.25,0.0,38.75,INF,
+Ky,Oria,4.464285714285714,0.0,45.535714285714285,INF,be bring die
+Oria,Ky,4.464285714285714,0.0,45.535714285714285,INF,be bring die
+Ky,Patrick,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Ky,Aida,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Ky,Society,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Ky,Patrick,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Ky,Aida,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Ky,Society,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Patrick,Aida,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Patrick,Society,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize
+Aida,Society,4.521276595744681,2.925531914893617,52.12765957446809,1.5454545454545454,realize be come be kill have be realize

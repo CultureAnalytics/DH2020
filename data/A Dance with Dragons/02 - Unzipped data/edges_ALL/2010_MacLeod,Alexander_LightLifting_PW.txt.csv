@@ -1,0 +1,138 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Tyson,Ben,8.012820512820513,4.807692307692308,51.28205128205128,1.6666666666666667,know be stand be do hear come bet stick
+Mike,Burner,1.1363636363636365,3.4090909090909087,50.0,0.3333333333333333,be do need keep
+Graham,Burner,0.0,0.0,54.54545454545454,INF,repeat
+Burner,Graham,1.5625,0.0,54.6875,INF,call pull
+Marcotte,Graham,2.840909090909091,0.0,28.97727272727273,INF,get
+Marcotte,Bourque,2.840909090909091,0.0,28.97727272727273,INF,get
+Graham,Bourque,2.840909090909091,0.0,28.97727272727273,INF,get
+Burner,Bourque,0.78125,0.0,61.71875,INF,stand do acknowledge
+Marcotte,Bourque,4.017857142857143,0.8928571428571428,52.23214285714286,4.5,keep bump try settle find
+Burner,Bourque,2.5,0.35714285714285715,68.57142857142857,7.0,see know be hear say be tuck
+Burner,Jamie Burns,2.5,0.35714285714285715,68.57142857142857,7.0,see know be hear say be tuck
+Bourque,Jamie Burns,2.5,0.35714285714285715,68.57142857142857,7.0,see know be hear say be tuck
+Graham,Bourque,1.6304347826086956,1.0869565217391304,58.152173913043484,1.5,hook step feel be break
+Bannister,Landy,4.3478260869565215,1.0869565217391304,55.434782608695656,4.0,believe run
+Bannister,Landy,3.2407407407407405,0.0,56.018518518518526,INF,be do know meet have go
+Landy,Bannister,2.272727272727273,0.7575757575757576,54.54545454545454,3.0,go be be look come
+Landy,Bannister,2.272727272727273,0.7575757575757576,54.54545454545454,3.0,go be be look come
+Bannister,Landy,2.272727272727273,0.7575757575757576,54.54545454545454,3.0,go be be look come
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,2.2222222222222223,2.7777777777777777,52.77777777777778,0.8,do know say have look look have see come have let go
+Landy,Bannister,3.9473684210526314,0.0,53.94736842105263,INF,know be come do stop
+Landy,Bannister,3.9473684210526314,0.0,53.94736842105263,INF,know be come do stop
+Graham,Bourque,1.0869565217391304,1.0869565217391304,67.3913043478261,1.0,go be leave go
+Graham,Dawson,1.0869565217391304,1.0869565217391304,67.3913043478261,1.0,go be leave go
+Bourque,Dawson,1.0869565217391304,1.0869565217391304,67.3913043478261,1.0,go be leave go
+Graham,Bourque,0.0,0.0,36.36363636363637,INF,say
+Graham,Bourque,2.1825396825396823,1.3888888888888888,66.26984126984127,1.5714285714285714,look be get drop put head seem think have bring get
+Graham,Bourque,2.1825396825396823,1.3888888888888888,66.26984126984127,1.5714285714285714,look be get drop put head seem think have bring get
+Graham,Bourque,2.1825396825396823,1.3888888888888888,66.26984126984127,1.5714285714285714,look be get drop put head seem think have bring get
+Graham,Bourque,2.1825396825396823,1.3888888888888888,66.26984126984127,1.5714285714285714,look be get drop put head seem think have bring get
+Burner,Bourque,2.1739130434782608,4.3478260869565215,54.347826086956516,0.5,look come roar hang
+Burner,Bourque,2.1739130434782608,4.3478260869565215,54.347826086956516,0.5,look come roar hang
+Jamie Burns,Bourque,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Graham,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Bourque,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Graham,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Bourque,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Graham,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Bourque,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Jamie Burns,Graham,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Bourque,Graham,2.0,2.5,52.5,0.8,be expect understand come start win carry expect understand happen be catch catch surge believe experience
+Graham,Burner,3.4274193548387095,2.0161290322580645,62.298387096774185,1.7,unfold watch try hold know have want see come edge come
+Graham,Burner,3.4274193548387095,2.0161290322580645,62.298387096774185,1.7,unfold watch try hold know have want see come edge come
+Burner,Graham,3.4274193548387095,2.0161290322580645,62.298387096774185,1.7,unfold watch try hold know have want see come edge come
+Burner,Graham,3.4274193548387095,2.0161290322580645,62.298387096774185,1.7,unfold watch try hold know have want see come edge come
+JC,Tom,7.258064516129033,0.4032258064516129,56.85483870967742,18.0,be have rotate
+JC,Jesus Christ,0.0,0.0,50.0,INF,stand
+Allan,JC,1.5625,0.0,54.6875,INF,be call be bear
+Tom,JC,1.7045454545454544,2.272727272727273,55.11363636363637,0.75,ask be open jump
+Tom,JC,1.7857142857142856,0.0,55.35714285714286,INF,act
+Tom,JC,0.7352941176470588,0.0,46.32352941176471,INF,see whisper be
+JC,Tom,0.7352941176470588,0.0,46.32352941176471,INF,see whisper be
+Tom,JC,0.0,0.0,30.0,INF,do say be go
+Tom,JC,3.977272727272727,5.113636363636364,59.09090909090909,0.7777777777777778,think haul punch
+Tom,JC,3.289473684210526,0.6578947368421052,43.42105263157895,5.0,dump make tell
+Garlatti,JC,2.5,0.0,44.166666666666664,INF,look
+Garlatti,Tom,2.5,0.0,44.166666666666664,INF,look
+JC,Tom,2.5,0.0,44.166666666666664,INF,look
+Robbie,Tom,2.5,0.0,57.49999999999999,INF,get have hire fire
+Robbie,Tom,4.0,3.5000000000000004,52.5,1.1428571428571428,want slow be want show get start yell say give whack make fit
+Tom,JC,0.8928571428571428,0.0,52.67857142857143,INF,grab yell want see walk suck
+Tom,JC,0.8928571428571428,0.0,52.67857142857143,INF,grab yell want see walk suck
+Robbie,Robert,0.0,0.0,58.333333333333336,INF,be be call
+JC,Tom,5.0,0.0,65.0,INF,look
+JC,Tom,3.040540540540541,0.6756756756756757,61.14864864864865,4.5,think say go cook sit watch
+Robbie,JC,0.6578947368421052,0.0,51.973684210526315,INF,end sit
+Robbie,Tom,0.6578947368421052,0.0,51.973684210526315,INF,end sit
+JC,Tom,0.6578947368421052,0.0,51.973684210526315,INF,end sit
+Tom,Robbie,2.5,0.0,62.5,INF,buy buy buy
+Stace,Mel,1.1904761904761905,0.5952380952380952,48.214285714285715,2.0,stop bring see shake hear bang get swallow
+Krista,Stace,2.4193548387096775,0.0,52.41935483870967,INF,reach place strap
+Krista,Stace,2.4193548387096775,0.0,52.41935483870967,INF,reach place strap
+Stace,Krista,2.4193548387096775,0.0,52.41935483870967,INF,reach place strap
+Brad,Stace,0.9615384615384616,1.4423076923076923,55.28846153846154,0.6666666666666666,get feel trap
+Brad,Stace,4.6875,0.390625,44.921875,12.0,try share try smile be understand
+Brad,Stace,4.6875,0.390625,44.921875,12.0,try share try smile be understand
+Stace,Brad,3.4090909090909087,2.840909090909091,52.84090909090909,1.2,see cut layer
+Stace,Melanie,0.78125,4.6875,50.78125,0.16666666666666666,release push
+Melanie,Brad,0.0,0.0,41.66666666666667,INF,sound
+Allan,Marlene,0.0,4.807692307692308,25.961538461538463,0.0,be go hurt say
+Barney,Musgrave,0.0,0.0,65.38461538461539,INF,be be begin end get
+Musgrave,Barney,0.0,0.0,65.38461538461539,INF,be be begin end get
+Musgrave,Barney,6.944444444444445,0.0,48.61111111111111,INF,keep
+Barney,Musgrave,7.857142857142857,2.142857142857143,50.0,3.6666666666666665,come make send
+Reggie,Matt,0.0,2.5,47.5,0.0,be retard whisper
+Matt,Christopher,3.0,1.5,51.5,2.0,be be be
+Matt,James,3.0,1.5,51.5,2.0,be be be
+Christopher,James,3.0,1.5,51.5,2.0,be be be
+Chris,Matt,2.5,3.75,43.75,0.6666666666666666,use practice
+James,Reggie,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+James,Reggie,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+James,Reggie,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+James,Reggie,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,5.0,4.583333333333333,53.75,1.0909090909090908,start tease ask be sit
+Reggie,James,0.0,4.807692307692308,68.26923076923077,0.0,turn skip turn look
+Reggie,James,0.0,4.807692307692308,68.26923076923077,0.0,turn skip turn look
+James,Reggie,0.0,4.583333333333333,55.41666666666667,0.0,take tackle start hit
+Reggie,James,0.0,4.583333333333333,55.41666666666667,0.0,take tackle start hit
+Reggie,James,0.0,4.583333333333333,55.41666666666667,0.0,take tackle start hit
+Reggie,James,0.0,4.583333333333333,55.41666666666667,0.0,take tackle start hit
+Reggie,James,0.0,4.583333333333333,55.41666666666667,0.0,take tackle start hit
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,2.34375,0.78125,53.125,3.0,be roll be kneel pin be belt
+James,Reggie,0.8928571428571428,4.464285714285714,51.78571428571429,0.2,be be
+Matthew,Chris,1.3157894736842104,9.210526315789473,47.368421052631575,0.14285714285714285,rip be
+Matthew,James,6.25,0.0,77.08333333333334,INF,turn
+James,Reggie,4.6875,2.6785714285714284,60.49107142857143,1.75,do cry be watch happen look be get beat think have be tell do hurt do hurt
+James,Reggie,4.6875,2.6785714285714284,60.49107142857143,1.75,do cry be watch happen look be get beat think have be tell do hurt do hurt
+James,Reggie,4.6875,2.6785714285714284,60.49107142857143,1.75,do cry be watch happen look be get beat think have be tell do hurt do hurt
+Reggie,James,2.083333333333333,0.0,53.47222222222222,INF,call come get go
+Reggie,James,2.083333333333333,0.0,53.47222222222222,INF,call come get go
+Reggie,James,0.0,8.695652173913043,34.78260869565217,0.0,be be say cry
+James,Reggie,0.0,0.0,55.55555555555556,INF,stop wash turn
+James,Reggie,0.0,0.0,55.55555555555556,INF,stop wash turn
+Reggie,James,0.0,0.0,57.14285714285714,INF,put
+Reggie,James,0.0,0.0,57.14285714285714,INF,put
+Reggie,James,1.5,5.5,61.0,0.2727272727272727,untuck start dry wipe
+Reggie,James,1.5,5.5,61.0,0.2727272727272727,untuck start dry wipe

@@ -1,0 +1,720 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Millon,SpecOps,0.0,0.8333333333333334,52.5,0.0,come
+Swindon,Wessex,1.5957446808510638,0.0,57.97872340425532,INF,begin find end cleanse descend operate
+Swindon,Gavin,1.5957446808510638,0.0,57.97872340425532,INF,begin find end cleanse descend operate
+Wessex,Gavin,1.5957446808510638,0.0,57.97872340425532,INF,begin find end cleanse descend operate
+Landen,North Wessex,1.1029411764705883,2.2058823529411766,49.63235294117647,0.5,be sit glide
+Landen,Swindon,0.0,0.0,44.44444444444444,INF,say dock
+Jenny,Landen,1.0416666666666665,0.0,40.625,INF,be be call come pick
+Jenny,Landen,1.0416666666666665,0.0,40.625,INF,be be call come pick
+Landen,Jenny,1.0416666666666665,0.0,40.625,INF,be be call come pick
+Jenny,Aornis,2.1739130434782608,5.978260869565218,39.67391304347826,0.36363636363636365,fix be
+Jenny,Swindon,6.944444444444445,2.083333333333333,35.41666666666667,3.3333333333333335,make be be
+Joffy,Landen,1.3888888888888888,0.6944444444444444,53.47222222222222,2.0,say receive slip murmur
+Phoebe,Landen,1.0416666666666665,0.0,32.29166666666667,INF,have get say
+Braxton,Landen,1.7857142857142856,0.0,33.92857142857143,INF,be have remark tell
+Phoebe,SpecOps,0.0,0.0,57.89473684210527,INF,associate be
+Spike,SpecOps,5.0,0.0,55.00000000000001,INF,be have lose
+James,Swindon All-You-Can-Eat-at-Fatso,1.5625,1.875,61.5625,0.8333333333333334,run be be sponsor include
+James,Swindon All-You-Can-Eat-at-Fatso,1.5625,1.875,61.5625,0.8333333333333334,run be be sponsor include
+SpecOps,ChronoGuard,3.289473684210526,13.157894736842104,36.18421052631579,0.25,have be disband
+SpecOps,Dr. Chumley,2.6515151515151514,1.7045454545454544,62.310606060606055,1.5555555555555556,be turn enter seem be lean move do be sob
+Dr. Chumley,Victor Analogy,0.7352941176470588,0.0,58.08823529411765,INF,stop be do stare
+Dr. Chumley,Victor Analogy,0.7352941176470588,0.0,58.08823529411765,INF,stop be do stare
+SpecOps,Phoebe,3.767123287671233,2.5684931506849313,55.3082191780822,1.4666666666666666,be wonder do lessen be run notice have read advise work wheeze see have be list
+SpecOps,Phoebe,3.767123287671233,2.5684931506849313,55.3082191780822,1.4666666666666666,be wonder do lessen be run notice have read advise work wheeze see have be list
+Phoebe,Dr. Chumley,6.25,1.7045454545454544,60.22727272727273,3.6666666666666665,be think function stop stare
+Shazza,Dr. Chumley,0.0,0.0,50.0,INF,remember remember say walk wait
+Braxton,SpecOps,0.4464285714285714,4.910714285714286,55.35714285714286,0.09090909090909091,be
+Braxton,Wessex,0.4464285714285714,4.910714285714286,55.35714285714286,0.09090909090909091,be
+SpecOps,Wessex,0.4464285714285714,4.910714285714286,55.35714285714286,0.09090909090909091,be
+St. Zvlkx,Swindon All-You-Can-Eat-at-Fatso,3.4722222222222223,3.009259259259259,54.629629629629626,1.1538461538461537,have have be involve build be include hold
+St. Zvlkx,Drink Not Included Library Service,3.4722222222222223,3.009259259259259,54.629629629629626,1.1538461538461537,have have be involve build be include hold
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,3.4722222222222223,3.009259259259259,54.629629629629626,1.1538461538461537,have have be involve build be include hold
+Swindon,Bunty Fairweather,0.0,5.88235294117647,41.17647058823529,0.0,hear save
+Van de Poste,Commonsense Party,4.891304347826087,4.528985507246377,57.2463768115942,1.08,be have be discharge discharge have rise dispose
+Van de Poste,SpecOps,5.059523809523809,4.761904761904762,52.083333333333336,1.0625,be do address burgeon have look reverse decide reinstate
+Braxton,Van de Poste,2.403846153846154,1.4423076923076923,46.15384615384615,1.6666666666666667,ask know have be remember
+Braxton,Swindon,2.403846153846154,1.4423076923076923,46.15384615384615,1.6666666666666667,ask know have be remember
+Van de Poste,Swindon,2.403846153846154,1.4423076923076923,46.15384615384615,1.6666666666666667,ask know have be remember
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,0.0,4.605263157894736,48.026315789473685,0.0,want be include
+Wessex,Phoebe,1.530612244897959,1.7857142857142856,59.94897959183674,0.8571428571428571,be be want like liaise be reestablish
+Braxton,Mrs. Hicks,5.288461538461538,4.326923076923077,48.07692307692308,1.2222222222222223,eat talk be
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,0.5681818181818182,2.556818181818182,62.78409090909091,0.2222222222222222,do join include be step fall
+Swindon All-You-Can-Eat-at-Fatso,Phoebe,0.5681818181818182,2.556818181818182,62.78409090909091,0.2222222222222222,do join include be step fall
+Swindon All-You-Can-Eat-at-Fatso,Phoebe,0.5681818181818182,2.556818181818182,62.78409090909091,0.2222222222222222,do join include be step fall
+Drink Not Included Library Service,Phoebe,0.5681818181818182,2.556818181818182,62.78409090909091,0.2222222222222222,do join include be step fall
+Drink Not Included Library Service,Phoebe,0.5681818181818182,2.556818181818182,62.78409090909091,0.2222222222222222,do join include be step fall
+SpecOps,Aldi,2.272727272727273,6.0606060606060606,37.121212121212125,0.375,be be regard be
+Millon,SpecOps,6.907894736842106,3.289473684210526,50.32894736842105,2.1,walk feel mix improve be go be
+Landen,Braxton,3.273809523809524,2.380952380952381,49.107142857142854,1.375,tell be head feel be fall blast
+Landen,Phoebe,3.273809523809524,2.380952380952381,49.107142857142854,1.375,tell be head feel be fall blast
+Braxton,Phoebe,3.273809523809524,2.380952380952381,49.107142857142854,1.375,tell be head feel be fall blast
+Quinn,Highsmith,1.6304347826086956,2.1739130434782608,48.369565217391305,0.75,say scribble be
+Landen,Highsmith,1.0416666666666665,0.5208333333333333,48.4375,2.0,wait say zoom shift read be tuck
+Tesco,Landen,2.941176470588235,5.88235294117647,38.23529411764706,0.5,look mutter stare
+Landen,Tesco,0.0,5.263157894736842,21.052631578947366,0.0,do say
+Quinn,Highsmith,0.0,0.0,22.22222222222222,INF,say
+Phoebe,Landen,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be
+Phoebe,Landen,1.7045454545454544,0.0,39.20454545454545,INF,be say laugh glare
+Landen,Phoebe,0.0,0.0,50.0,INF,say hand stop
+SpecOps,Braxton,6.402439024390244,0.9146341463414633,39.02439024390244,7.0,be say be love accept have accept
+Landen,Braxton,2.232142857142857,0.4464285714285714,58.03571428571429,5.0,be head pass call accept
+Aornis,Phoebe,0.0,0.9615384615384616,22.115384615384613,0.0,give do
+Charles Fang,Aldbourne,0.0,2.403846153846154,51.442307692307686,0.0,smite step pick
+Landen,Jenny,4.166666666666666,3.75,45.416666666666664,1.1111111111111112,reply glance eat think be ease
+Mycroft,Polly,3.225806451612903,2.4193548387096775,36.29032258064516,1.3333333333333333,be have turn have resemble
+Wingco,Jenny,0.0,2.083333333333333,39.58333333333333,0.0,look reply
+Dr. S. A. Orbiter,Braxton,1.2096774193548387,2.4193548387096775,47.983870967741936,0.5,speak say go set
+Joffy,Miles,2.631578947368421,3.289473684210526,46.71052631578947,0.8,be want speak
+Joffy,Miles,0.0,0.0,50.0,INF,make do
+Joffy,Miles,0.0,0.0,57.14285714285714,INF,exchange
+Joffy,Miles,1.4285714285714286,1.4285714285714286,48.57142857142857,1.0,know be be see overcome avert
+Joffy,Swindon,1.4285714285714286,1.4285714285714286,48.57142857142857,1.0,know be be see overcome avert
+Miles,Swindon,1.4285714285714286,1.4285714285714286,48.57142857142857,1.0,know be be see overcome avert
+Miles,Wingco,0.0,0.0,40.0,INF,ask
+Joffy,Landen,1.25,0.0,45.416666666666664,INF,talk call say be leave
+Joffy,Miles,1.25,0.0,45.416666666666664,INF,talk call say be leave
+Landen,Miles,1.25,0.0,45.416666666666664,INF,talk call say be leave
+Landen,Joffy,1.25,0.0,45.416666666666664,INF,talk call say be leave
+Miles,Joffy,1.25,0.0,45.416666666666664,INF,talk call say be leave
+Joffy,Landen,0.625,0.0,34.375,INF,have say watch go
+Wingco,Landen,1.8292682926829267,0.0,59.14634146341463,INF,have check be walk find be try stay generate
+Jenny,Landen,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Jenny,Aornis,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Jenny,Wingco,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Landen,Aornis,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Landen,Wingco,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Aornis,Wingco,0.390625,2.734375,37.5,0.14285714285714285,do go pretend be torment
+Mr. Snuffles,Wingco,2.604166666666667,1.0416666666666665,54.6875,2.5,be name explain be interview
+Landen,Jenny,0.7352941176470588,0.0,58.08823529411765,INF,say see be
+Wingco,Landen,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,say tell be
+Jenny,Landen,1.875,2.5,60.62499999999999,0.75,be
+Wingco,Jenny,0.9615384615384616,0.0,37.5,INF,be be see
+Wingco,Mr. Snuffles,0.0,0.0,45.45454545454545,INF,thank leave
+Aornis,Jenny,3.125,2.604166666666667,40.10416666666667,1.2,alter be have give give despise
+Aornis,Landen,3.125,2.604166666666667,40.10416666666667,1.2,alter be have give give despise
+Aornis,Jenny,3.125,2.604166666666667,40.10416666666667,1.2,alter be have give give despise
+Jenny,Landen,3.125,2.604166666666667,40.10416666666667,1.2,alter be have give give despise
+Landen,Jenny,3.125,2.604166666666667,40.10416666666667,1.2,alter be have give give despise
+Aornis,Jenny,6.25,4.166666666666666,31.25,1.5,find be hide
+SLS,Special Library Service,1.25,2.5,62.916666666666664,0.5,be charge protect
+Jenny,Landen,4.411764705882353,2.2058823529411766,58.08823529411765,2.0,have cover read be do see go
+Jenny,Landen,8.333333333333332,4.861111111111112,47.91666666666667,1.7142857142857142,make be say rise
+Landen,Jenny,0.0,0.0,64.0,INF,repeat be act say
+Landen,Jenny,0.0,0.0,64.0,INF,repeat be act say
+Highsmith,Quinn,0.0,0.0,18.181818181818183,INF,
+Highsmith,Aornis,0.0,6.944444444444445,48.61111111111111,0.0,quit lose
+Wingco,Highsmith,0.0,1.3888888888888888,48.61111111111111,0.0,hand thank
+Wingco,Highsmith,0.0,1.3888888888888888,48.61111111111111,0.0,hand thank
+Duffy,Highsmith,4.545454545454546,0.0,50.0,INF,name call add
+Swindon,Highsmith,0.33783783783783783,0.0,42.9054054054054,INF,do take speak be tidy be grow
+Swindon,Highsmith,0.33783783783783783,0.0,42.9054054054054,INF,do take speak be tidy be grow
+Highsmith,Joffy,3.7037037037037033,0.9259259259259258,54.629629629629626,4.0,be assist tell get autograph be
+Highsmith,Joffy,3.7037037037037033,0.9259259259259258,54.629629629629626,4.0,be assist tell get autograph be
+Highsmith,Joffy,3.7037037037037033,0.9259259259259258,54.629629629629626,4.0,be assist tell get autograph be
+Joffy,Highsmith,3.7037037037037033,0.9259259259259258,54.629629629629626,4.0,be assist tell get autograph be
+Swindon,Aornis,0.0,0.0,47.368421052631575,INF,remember be leave
+Swindon,Landen,3.6111111111111107,3.6111111111111107,55.00000000000001,1.0,need ask know have do want do do need have
+Swindon,Highsmith,3.6111111111111107,3.6111111111111107,55.00000000000001,1.0,need ask know have do want do do need have
+Landen,Highsmith,3.6111111111111107,3.6111111111111107,55.00000000000001,1.0,need ask know have do want do do need have
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,1.4705882352941175,3.6764705882352944,41.911764705882355,0.4,welcome include say
+Wexler,SLS,7.142857142857142,0.0,50.0,INF,understand know head
+Wexler,SLS,2.403846153846154,0.0,55.28846153846154,INF,be precipitate
+SLS,Zhark,0.0,4.642857142857143,43.92857142857143,0.0,die protect write
+SLS,Daphne Farquitt,0.0,4.642857142857143,43.92857142857143,0.0,die protect write
+Zhark,Daphne Farquitt,0.0,4.642857142857143,43.92857142857143,0.0,die protect write
+Nancy,Duffy,1.9736842105263157,3.289473684210526,31.57894736842105,0.6,be explain
+Geraldine,Duffy,0.8928571428571428,0.4464285714285714,37.94642857142857,2.0,be say
+Geraldine,Lucy,0.0,2.083333333333333,22.916666666666664,0.0,say be
+Geraldine,Swindon,0.7352941176470588,0.0,58.08823529411765,INF,look have deposit pack
+Duffy,James,2.6785714285714284,0.0,40.17857142857143,INF,thank follow
+Swindon,Wessex,4.72972972972973,2.027027027027027,50.0,2.3333333333333335,include be
+Stig,Landen,0.0,0.0,25.0,INF,ask
+Landen,Stig,2.1739130434782608,0.5434782608695652,66.84782608695652,4.0,pass be
+Landen,Stig,1.7857142857142856,0.0,41.07142857142857,INF,stare
+Landen,Stig,3.6764705882352944,0.0,43.38235294117647,INF,have take want
+James,Stig,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,flicker swim
+James,Landen,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,flicker swim
+Stig,Landen,3.2407407407407405,0.9259259259259258,47.68518518518518,3.5,flicker swim
+GSD,Stig,0.0,0.0,33.33333333333333,INF,thank say
+Stig,Daphne Farquitt,0.6944444444444444,0.0,77.08333333333334,INF,pull push box
+Landen,Stig,3.125,0.0,46.875,INF,be say help
+Landen,Spike,3.125,0.0,34.375,INF,have dispose
+Braxton,Stig,0.0,5.681818181818182,21.59090909090909,0.0,design say
+Landen,Braxton,0.390625,7.03125,45.703125,0.05555555555555555,walk offer tell send
+Braxton,Finis,0.0,0.0,64.0,INF,delve be wear find
+Finis,Swindon,1.7543859649122806,3.7280701754385963,54.166666666666664,0.47058823529411764,remain be
+Finis,Swindon,1.7543859649122806,3.7280701754385963,54.166666666666664,0.47058823529411764,remain be
+Landen,Tupperware,5.288461538461538,2.8846153846153846,57.21153846153846,1.8333333333333333,do contain have suggest make ensure
+Krantz,Swindon,3.804347826086957,0.5434782608695652,56.52173913043478,7.0,do explain be do say
+Swindon,Lupton Cornball,0.0,0.0,40.0,INF,be
+Commonsense Party,Wingco,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be
+Millon,Commonsense Party,1.4423076923076923,0.0,52.40384615384615,INF,have volunteer be
+Jane Eyre,Landen,7.03125,1.8229166666666667,51.5625,3.857142857142857,have land be chat have progress be use have be
+Jane Eyre,James,7.03125,1.8229166666666667,51.5625,3.857142857142857,have land be chat have progress be use have be
+Landen,James,7.03125,1.8229166666666667,51.5625,3.857142857142857,have land be chat have progress be use have be
+Landen,James,1.6304347826086956,1.0869565217391304,60.32608695652174,1.5,kiss exchange climb spool have leave pass be skim
+Landen,Aldbourne,1.6304347826086956,1.0869565217391304,60.32608695652174,1.5,kiss exchange climb spool have leave pass be skim
+James,Aldbourne,1.6304347826086956,1.0869565217391304,60.32608695652174,1.5,kiss exchange climb spool have leave pass be skim
+Joffy,GSD,3.0303030303030303,3.0303030303030303,51.515151515151516,1.0,have be welcome have want shred
+James,Landen,4.117647058823529,4.264705882352941,58.6764705882353,0.9655172413793104,have loose have be catch have have move have stand pass pass penetrate
+James,Mother Daisy,0.0,0.0,46.15384615384615,INF,let speak
+James,Swindon,0.0,2.976190476190476,44.642857142857146,0.0,include
+Mother Daisy,Henrietta,1.2096774193548387,0.4032258064516129,50.0,3.0,see say control have allocate
+Henrietta,Mother Daisy,1.6304347826086956,0.5434782608695652,58.69565217391305,3.0,say stare look
+James,Mother Daisy,2.1551724137931036,0.0,53.01724137931034,INF,say wrestle howl scratch bite attempt calm
+James,Henrietta,2.1551724137931036,0.0,53.01724137931034,INF,say wrestle howl scratch bite attempt calm
+James,Henrietta,2.1551724137931036,0.0,53.01724137931034,INF,say wrestle howl scratch bite attempt calm
+Mother Daisy,Henrietta,2.1551724137931036,0.0,53.01724137931034,INF,say wrestle howl scratch bite attempt calm
+Mother Daisy,Henrietta,2.1551724137931036,0.0,53.01724137931034,INF,say wrestle howl scratch bite attempt calm
+Henrietta,Mother Daisy,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Henrietta,Daisy Mutlar,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Henrietta,Landen,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Mother Daisy,Henrietta,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Mother Daisy,Daisy Mutlar,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Mother Daisy,Landen,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Henrietta,Daisy Mutlar,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Henrietta,Landen,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Daisy Mutlar,Landen,3.9473684210526314,0.6578947368421052,53.289473684210535,6.0,be have be have ensnare
+Mother Daisy,Henrietta,1.0416666666666665,0.3472222222222222,62.5,3.0,be tie pause wait be watch throw
+Mother Daisy,Henrietta,1.0416666666666665,0.3472222222222222,62.5,3.0,be tie pause wait be watch throw
+Horace,Mother Daisy,5.208333333333334,0.0,53.125,INF,write add
+Wessex,James,2.34375,3.90625,50.0,0.6,use murmur
+Crabbe,Jack,4.6875,1.0416666666666665,65.10416666666666,4.5,take twist crumple walk have be stand
+Crabbe,Jack,4.166666666666666,0.6944444444444444,50.69444444444444,6.0,hear realize have hear
+Phoebe,St. Zvlkx,5.241935483870968,0.8064516129032258,52.016129032258064,6.5,be owe
+Phoebe,Swindon,5.241935483870968,0.8064516129032258,52.016129032258064,6.5,be owe
+St. Zvlkx,Swindon,5.241935483870968,0.8064516129032258,52.016129032258064,6.5,be owe
+Swindon,James,0.0,0.0,55.55555555555556,INF,expand be be
+Swindon,Mother Daisy,0.0,0.0,55.55555555555556,INF,expand be be
+James,Mother Daisy,0.0,0.0,55.55555555555556,INF,expand be be
+Mother Daisy,James,0.5952380952380952,0.0,51.78571428571429,INF,be investigate remain join
+Mother Daisy,James,1.6304347826086956,0.5434782608695652,67.3913043478261,3.0,draw pass stare tremble
+James,Wexler,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+James,Mother Daisy,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+James,Special Library Services,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+Wexler,Mother Daisy,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+Wexler,Special Library Services,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+Mother Daisy,Special Library Services,2.6785714285714284,3.571428571428571,53.273809523809526,0.75,have stop ring call arrive dress
+Wexler,Mother Daisy,3.977272727272727,1.7045454545454544,57.95454545454546,2.3333333333333335,nod pass be leave turn
+Wexler,Phoebe,3.977272727272727,1.7045454545454544,57.95454545454546,2.3333333333333335,nod pass be leave turn
+Mother Daisy,Phoebe,3.977272727272727,1.7045454545454544,57.95454545454546,2.3333333333333335,nod pass be leave turn
+Phoebe,SpecOps,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+SpecOps,Phoebe,0.0,0.0,44.827586206896555,INF,say arrive know be
+SpecOps,Phoebe,0.0,0.0,44.827586206896555,INF,say arrive know be
+SpecOps,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+SpecOps,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,0.0,0.0,44.827586206896555,INF,say arrive know be
+Phoebe,Mother Daisy,2.5,0.0,77.5,INF,look nod
+Phoebe,Wexler,2.2058823529411766,2.941176470588235,47.794117647058826,0.75,nod place depart
+Phoebe,Wexler,2.2058823529411766,2.941176470588235,47.794117647058826,0.75,nod place depart
+Phoebe,SpecOps,2.82258064516129,0.4032258064516129,54.83870967741935,7.0,get work be be close have be reopen
+Phoebe,SpecOps,2.82258064516129,0.4032258064516129,54.83870967741935,7.0,get work be be close have be reopen
+Braxton,SpecOps,2.272727272727273,5.681818181818182,46.590909090909086,0.4,affect be squander
+Megan,Henrietta,4.166666666666666,1.1904761904761905,56.547619047619044,3.5,be have be place cover
+Duffy,Swindon,1.8382352941176472,2.2058823529411766,54.779411764705884,0.8333333333333334,call tell need see
+Duffy,Landen,0.5102040816326531,0.25510204081632654,60.45918367346938,2.0,be go tell do need drive be use tell eat
+Landen,Duffy,0.5102040816326531,0.25510204081632654,60.45918367346938,2.0,be go tell do need drive be use tell eat
+Duffy,Liddington,0.0,1.4705882352941175,63.23529411764706,0.0,reply scoot make
+Duffy,Aldbourne,0.0,1.4705882352941175,63.23529411764706,0.0,reply scoot make
+Liddington,Duffy,0.0,1.4705882352941175,63.23529411764706,0.0,reply scoot make
+Liddington,Aldbourne,0.0,1.4705882352941175,63.23529411764706,0.0,reply scoot make
+Duffy,Aldbourne,0.0,1.4705882352941175,63.23529411764706,0.0,reply scoot make
+Jack,Crabbe,5.147058823529411,1.4705882352941175,58.08823529411765,3.5,have be look have arrive
+Jack,Phoebe,5.147058823529411,1.4705882352941175,58.08823529411765,3.5,have be look have arrive
+Crabbe,Phoebe,5.147058823529411,1.4705882352941175,58.08823529411765,3.5,have be look have arrive
+Crabbe,Jack,0.625,1.875,52.5,0.3333333333333333,be use
+Quinn,Highsmith,1.1363636363636365,0.0,26.136363636363637,INF,get
+Quinn,Aornis,1.1363636363636365,0.0,26.136363636363637,INF,get
+Highsmith,Aornis,1.1363636363636365,0.0,26.136363636363637,INF,get
+Millon,Landen,0.0,0.0,50.0,INF,come say lay
+Aornis,Swindon,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,be take leave
+Aornis,Quinn,0.0,0.0,45.45454545454545,INF,point be escort
+Aornis,Highsmith,0.0,0.0,45.45454545454545,INF,point be escort
+Quinn,Highsmith,0.0,0.0,45.45454545454545,INF,point be escort
+Highsmith,Aornis,0.0,0.0,60.0,INF,show take
+Landen,Aornis,0.0,0.625,44.375,0.0,ask show get
+Landen,Highsmith,2.631578947368421,7.236842105263158,26.973684210526315,0.36363636363636365,be allow replace reply check
+Lola Vavoom Discount Sofa Warehouse See Press,Highsmith,3.3333333333333335,0.0,43.333333333333336,INF,run say
+Krantz,Millon,2.7777777777777777,0.9259259259259258,51.85185185185185,3.0,be have contribute say
+Millon,Landen,5.0,1.6666666666666667,46.666666666666664,3.0,make chat
+Millon,Wingco,0.0,0.0,33.33333333333333,INF,be
+Millon,Wingco,0.0,0.0,33.33333333333333,INF,be
+Pickwick,Wingco,2.142857142857143,2.142857142857143,52.85714285714286,1.0,show juggle be recite
+Wingco,ICF,4.4491525423728815,3.389830508474576,49.78813559322034,1.3125,think buffer be say need find be be pass get take
+Wingco,ICF,0.819672131147541,3.483606557377049,48.15573770491803,0.23529411764705882,ask go be seem revolve permeate
+Millon,Landen,2.1739130434782608,5.434782608695652,40.21739130434783,0.4,come listen be come
+Millon,Stig,2.1739130434782608,5.434782608695652,40.21739130434783,0.4,come listen be come
+Landen,Stig,2.1739130434782608,5.434782608695652,40.21739130434783,0.4,come listen be come
+Krantz,Landen,0.0,2.34375,41.40625,0.0,say be
+Krantz,Tupperware,2.272727272727273,2.9545454545454546,56.59090909090909,0.7692307692307693,activate die achieve catch
+Krantz,Tupperware,2.272727272727273,2.9545454545454546,56.59090909090909,0.7692307692307693,activate die achieve catch
+Krantz,Tupperware,2.272727272727273,2.9545454545454546,56.59090909090909,0.7692307692307693,activate die achieve catch
+Krantz,Tupperware,2.272727272727273,2.9545454545454546,56.59090909090909,0.7692307692307693,activate die achieve catch
+Swindon,Tupperware,1.7045454545454544,3.4090909090909087,49.43181818181818,0.5,be
+Stig,Millon,0.0,0.0,50.0,INF,search check put
+Stig,Millon,0.0,0.0,50.0,INF,search check put
+Norman Scrunge,Time Industry,7.4324324324324325,2.027027027027027,58.108108108108105,3.6666666666666665,have finish set turn wonder be come
+Norman Scrunge,Shazza,7.4324324324324325,2.027027027027027,58.108108108108105,3.6666666666666665,have finish set turn wonder be come
+Time Industry,Shazza,7.4324324324324325,2.027027027027027,58.108108108108105,3.6666666666666665,have finish set turn wonder be come
+ChronoGuard,Swindon,2.295918367346939,0.7653061224489796,45.91836734693878,3.0,know have employ be know come cover attach indicate be
+Shazza,Biff,2.34375,0.0,60.15625,INF,name spend
+Shazza,Biff,2.34375,0.0,60.15625,INF,name spend
+Shazza,Gavin,0.0,0.0,57.14285714285714,INF,ask walk
+Shazza,Gavin,3.0303030303030303,3.0303030303030303,48.484848484848484,1.0,be pack confess say regard be bet take
+Gerald,Gavin,8.035714285714286,0.0,56.25,INF,be relieve have mention be
+Gerald,Gavin,8.035714285714286,0.0,56.25,INF,be relieve have mention be
+Gavin,ChronoGuard,1.3888888888888888,3.935185185185185,63.19444444444444,0.35294117647058826,be have work be go see have meet be give
+Gavin,ChronoGuard,1.3888888888888888,3.935185185185185,63.19444444444444,0.35294117647058826,be have work be go see have meet be give
+Gavin,ChronoGuard,3.205128205128205,4.166666666666666,49.03846153846153,0.7692307692307693,be say accord have be
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Gavin,Mr. Chowdry,0.0,0.0,63.1578947368421,INF,glare file walk speak note pull turn leave
+Shazza,Mr. Chowdry,0.5952380952380952,0.2976190476190476,49.107142857142854,2.0,be be go have see spark be preignit be be park
+Shazza,Sarah Wade,0.0,3.4722222222222223,29.86111111111111,0.0,be murder be
+Wessex,Duffy,2.1739130434782608,4.3478260869565215,58.69565217391305,0.5,say walk
+Duffy,Krantz,0.0,0.0,38.88888888888889,INF,be go tell discover remain
+Duffy,Krantz,0.0,0.0,38.88888888888889,INF,be go tell discover remain
+Lupton Cornball,Finis,1.6666666666666667,0.0,45.0,INF,be have meet
+Phoebe,Bunty Fairweather,8.333333333333332,0.8333333333333334,37.5,10.0,
+Duffy,Phoebe,0.7352941176470588,0.0,58.08823529411765,INF,nod make open admit
+Duffy,Phoebe,0.7352941176470588,0.0,58.08823529411765,INF,nod make open admit
+Duffy,Phoebe,0.0,0.0,58.82352941176471,INF,take move look
+Duffy,Phoebe,0.0,0.0,58.82352941176471,INF,take move look
+Special Library Services,Phoebe,0.0,0.0,44.44444444444444,INF,have fund add
+Phoebe,Wexler,1.3888888888888888,0.6944444444444444,36.80555555555556,2.0,tell continue do think be
+St. Zvlkx,Phoebe,1.1029411764705883,0.0,54.779411764705884,INF,be write predict call
+Keith,Phoebe,2.083333333333333,0.5208333333333333,43.22916666666667,4.0,look murmur be
+Keith,St. Zvlkx,2.0,0.5,29.5,4.0,have be
+Keith,Swindon,2.0,0.5,29.5,4.0,have be
+St. Zvlkx,Swindon,2.0,0.5,29.5,4.0,have be
+St. Zvlkx,Keith,2.027027027027027,2.027027027027027,50.0,1.0,be say be buy scrape peddle
+Phoebe,St. Zvlkx,1.953125,1.171875,43.75,1.6666666666666667,agree say produce
+Phoebe,St. Zvlkx,0.5952380952380952,0.0,47.023809523809526,INF,have get be find
+Phoebe,St. Zvlkx,0.5952380952380952,0.0,47.023809523809526,INF,have get be find
+Jack,Phoebe,2.7777777777777777,1.8518518518518516,47.22222222222222,1.5,do be implicate do like
+Duffy,Phoebe,2.7777777777777777,1.3888888888888888,73.61111111111111,2.0,ask have leave
+Millon,Krantz,2.5,1.6666666666666667,55.833333333333336,1.5,have track
+Millon,Krantz,0.9259259259259258,1.8518518518518516,52.77777777777778,0.5,find look
+Landen,Krantz,1.9736842105263157,0.0,55.92105263157895,INF,confirm have think be
+Landen,Krantz,1.9736842105263157,0.0,55.92105263157895,INF,confirm have think be
+Krantz,Tupperware,0.0,2.5,50.83333333333333,0.0,be
+Millon,Krantz,2.941176470588235,3.6764705882352944,40.44117647058824,0.8,thank tell keep look ring
+Millon,Krantz,2.941176470588235,3.6764705882352944,40.44117647058824,0.8,thank tell keep look ring
+Aornis,Landen,5.833333333333333,1.9444444444444444,47.77777777777778,3.0,explain be wonder have mean find forget drop
+Lupton Cornball,Tupperware,2.0161290322580645,2.4193548387096775,60.08064516129033,0.8333333333333334,know know be be do want
+Tupperware,Lupton Cornball,2.0161290322580645,2.4193548387096775,60.08064516129033,0.8333333333333334,know know be be do want
+Jack,Tupperware,6.25,3.3653846153846154,55.769230769230774,1.8571428571428572,know have see be be
+Jack,Finis,6.25,3.3653846153846154,55.769230769230774,1.8571428571428572,know have see be be
+Tupperware,Finis,6.25,3.3653846153846154,55.769230769230774,1.8571428571428572,know have see be be
+Tupperware,Jack,6.25,3.3653846153846154,55.769230769230774,1.8571428571428572,know have see be be
+Finis,Jack,6.25,3.3653846153846154,55.769230769230774,1.8571428571428572,know have see be be
+St. Zvlkx,Keith,4.310344827586207,3.0172413793103448,40.94827586206897,1.4285714285714286,know be contain be
+Wessex,Phoebe,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Wessex,Swindon All-You-Can-Eat-at-Fatso,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Wessex,Drink Not Included Library Service,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Phoebe,Swindon All-You-Can-Eat-at-Fatso,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Phoebe,Drink Not Included Library Service,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,3.8306451612903225,1.8145161290322582,54.03225806451613,2.111111111111111,be offer explain have tell be assist include need call
+Krantz,Swindon,0.0,0.0,25.0,INF,be do
+Krantz,Jack,2.272727272727273,0.0,43.18181818181818,INF,be correct
+Krantz,Finis,5.833333333333333,0.0,54.166666666666664,INF,check
+Lupton Cornball,Krantz,1.171875,2.34375,55.859375,0.5,be go clean say find
+Jack,Daimler,1.0714285714285714,2.142857142857143,62.5,0.5,pick trace have take see drive lie rub
+Jack,Daimler,1.0714285714285714,2.142857142857143,62.5,0.5,pick trace have take see drive lie rub
+Bowden,Lola Vavoom Discount Sofa Warehouse See Press,4.0,0.5,47.5,8.0,have collapse be take
+Bunty Fairweather,Lola Vavoom Discount Sofa Warehouse See Press,0.0,0.0,54.166666666666664,INF,be move put bump be go be
+Mrs. Hilly,Swindon Adelphi,1.1904761904761905,0.5952380952380952,41.07142857142857,2.0,be think have be
+Swindon Adelphi,Mrs. Hilly,1.5151515151515151,0.0,53.03030303030303,INF,screech hurry tell accept hear
+Swindon Adelphi,Mrs. Hilly,1.5151515151515151,0.0,53.03030303030303,INF,screech hurry tell accept hear
+Phoebe,SpecOps,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,be be be
+Phoebe,SpecOps,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,be be be
+Phoebe,Jack,4.807692307692308,0.9615384615384616,55.769230769230774,5.0,thank ask be book
+Jack,Phoebe,2.0,0.0,50.0,INF,tell step keep cover check
+Flossie,Jack,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,have be say assure be be be thank get
+Flossie,Miss Buxton,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,have be say assure be be be thank get
+Jack,Miss Buxton,2.127659574468085,0.7978723404255319,41.755319148936174,2.6666666666666665,have be say assure be be be thank get
+Mr. Schitt,Phoebe,3.0,3.0,34.0,1.0,add turn be
+Mr. Schitt,Jack,3.0,3.0,34.0,1.0,add turn be
+Phoebe,Jack,3.0,3.0,34.0,1.0,add turn be
+Judith Trask,Swindon,0.0,0.0,33.33333333333333,INF,
+Phoebe,Jack,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Phoebe,Jack,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Phoebe,Jack,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Phoebe,Jack,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Jack,Phoebe,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Jack,Phoebe,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Jack,Phoebe,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Jack,Phoebe,6.686046511627906,3.488372093023256,45.63953488372093,1.9166666666666667,be tell leave be disturb be take
+Flossie,Phoebe,0.0,0.0,22.22222222222222,INF,tell
+Jack,Flossie,3.4722222222222223,0.6944444444444444,68.05555555555556,5.0,have die be
+Miss Buxton,Jack,6.25,0.8928571428571428,35.714285714285715,7.0,doubtless say ask
+Jack,Miss Buxton,6.25,0.8928571428571428,35.714285714285715,7.0,doubtless say ask
+Phoebe,Jack,2.083333333333333,0.6944444444444444,49.074074074074076,3.0,compose tell have be go descend be steal destroy do be put
+Blyton,Mrs. Hilly,1.8382352941176472,2.941176470588235,51.10294117647059,0.625,take be see do threaten
+Blyton,Mrs. Hilly,1.8382352941176472,2.941176470588235,51.10294117647059,0.625,take be see do threaten
+Swindon Adelphi,Mrs. Hilly,0.0,0.0,37.5,INF,walk pull
+Swindon Adelphi,Mrs. Hilly,0.0,0.0,37.5,INF,walk pull
+Phoebe,Mrs. Hilly,2.34375,3.90625,68.75,0.6,be
+Landen,Phoebe,4.166666666666666,2.083333333333333,62.268518518518526,2.0,ask indicate be have be view be see mean be enforce
+Landen,Mrs. Hilly,4.166666666666666,2.083333333333333,62.268518518518526,2.0,ask indicate be have be view be see mean be enforce
+Phoebe,Mrs. Hilly,4.166666666666666,2.083333333333333,62.268518518518526,2.0,ask indicate be have be view be see mean be enforce
+Jack,St. Zvlkx,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Bunty Fairweather,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Smote Solutions,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,St. Zvlkx,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Bunty Fairweather,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Smote Solutions,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,St. Zvlkx,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Bunty Fairweather,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Smote Solutions,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+St. Zvlkx,Bunty Fairweather,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+St. Zvlkx,Smote Solutions,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+St. Zvlkx,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+St. Zvlkx,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Bunty Fairweather,Smote Solutions,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Bunty Fairweather,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Bunty Fairweather,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Smote Solutions,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Smote Solutions,Krantz,6.081081081081082,3.7162162162162162,48.310810810810814,1.6363636363636365,tell have happen have be see see be be help try do
+Jack,Krantz,2.0408163265306123,1.0204081632653061,62.244897959183675,2.0,tell be blab implant bring help halt happen be
+Jack,Krantz,2.0408163265306123,1.0204081632653061,62.244897959183675,2.0,tell be blab implant bring help halt happen be
+Jack,Swindon,2.0408163265306123,1.0204081632653061,62.244897959183675,2.0,tell be blab implant bring help halt happen be
+Krantz,Swindon,2.0408163265306123,1.0204081632653061,62.244897959183675,2.0,tell be blab implant bring help halt happen be
+Krantz,Swindon,2.0408163265306123,1.0204081632653061,62.244897959183675,2.0,tell be blab implant bring help halt happen be
+Blyton,Mrs. Hilly,4.6568627450980395,0.7352941176470588,45.588235294117645,6.333333333333333,be write begin be
+Blyton,Mrs. Hilly,4.6568627450980395,0.7352941176470588,45.588235294117645,6.333333333333333,be write begin be
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,3.214285714285714,3.0357142857142856,50.89285714285714,1.0588235294117647,begin include be be supply call
+Swindon All-You-Can-Eat-at-Fatso,Blyton,3.214285714285714,3.0357142857142856,50.89285714285714,1.0588235294117647,begin include be be supply call
+Drink Not Included Library Service,Blyton,3.214285714285714,3.0357142857142856,50.89285714285714,1.0588235294117647,begin include be be supply call
+Mrs. Hilly,Phoebe,3.125,0.0,46.875,INF,stare see say see
+Mrs. Hilly,Phoebe,3.125,0.0,46.875,INF,stare see say see
+Mrs. Hilly,Phoebe,3.125,0.0,46.875,INF,stare see say see
+Mrs. Hilly,Phoebe,3.125,0.0,46.875,INF,stare see say see
+Phoebe,Blyton,3.4090909090909087,0.0,42.04545454545455,INF,mind add be outlaw
+Jack,Stig,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Jack,Stig,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Jack,Stig,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Jack,Daimler,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Stig,Daimler,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Stig,Daimler,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Stig,Daimler,2.604166666666667,0.5208333333333333,55.208333333333336,5.0,thank call tell get
+Landen,Phoebe,0.0,0.0,52.38095238095239,INF,drop pick drive
+Landen,Swindon Adelphi,0.0,0.0,52.38095238095239,INF,drop pick drive
+Landen,Phoebe,0.0,0.0,52.38095238095239,INF,drop pick drive
+Phoebe,Swindon Adelphi,0.0,0.0,52.38095238095239,INF,drop pick drive
+Swindon Adelphi,Phoebe,0.0,0.0,52.38095238095239,INF,drop pick drive
+Commonsense Party,Duffy,3.9473684210526314,5.921052631578947,58.55263157894737,0.6666666666666666,look limp
+Bunty Fairweather,Blyton,0.5952380952380952,0.8928571428571428,48.51190476190476,0.6666666666666666,want see be say walk put ban
+Blyton,Wessex,0.0,0.0,56.25,INF,ban
+Swindon,Swindon Time Zone,0.9615384615384616,1.4423076923076923,51.442307692307686,0.6666666666666666,be negotiate try stop insist implement
+Liddington,Swindon,5.241935483870968,1.6129032258064515,54.43548387096774,3.25,live be give shut
+Swindon,Smote Solutions,1.2096774193548387,1.6129032258064515,48.79032258064516,0.75,be have give expect
+Bunty Fairweather,Duffy,2.272727272727273,0.0,47.72727272727273,INF,see walk sit
+Swindon,Bunty Fairweather,0.3472222222222222,0.0,46.875,INF,say look stick let see be
+Swindon,Smote Solutions,0.3472222222222222,0.0,46.875,INF,say look stick let see be
+Bunty Fairweather,Smote Solutions,0.3472222222222222,0.0,46.875,INF,say look stick let see be
+Duffy,Geraldine,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,plot be list
+Lucy,Duffy,1.9230769230769231,0.0,51.92307692307693,INF,ask tell be ask cancel
+Miles,SpecOps,1.5625,0.0,79.6875,INF,have work
+Miles,GSD,0.0,0.0,45.45454545454545,INF,do mean be involve be
+GSD,Miles,0.0,0.0,45.45454545454545,INF,do mean be involve be
+Miles,Joffy,6.61764705882353,0.0,52.20588235294118,INF,be support look
+Joffy,Miles,6.61764705882353,0.0,52.20588235294118,INF,be support look
+Miles,Smote Solutions,5.46875,0.78125,50.0,7.0,greet exchange ask intend lure smite
+Miles,Swindon,5.46875,0.78125,50.0,7.0,greet exchange ask intend lure smite
+Smote Solutions,Swindon,5.46875,0.78125,50.0,7.0,greet exchange ask intend lure smite
+Miles,Smote Solutions,1.530612244897959,1.530612244897959,56.12244897959183,1.0,think be reply have let think be be import make
+Smote Solutions,Swindon,2.0,2.5,47.5,0.8,be nobble allow be lay waste
+Miles,Joffy,6.712962962962964,2.083333333333333,46.75925925925926,3.2222222222222223,be say kill be be think enjoy have discuss
+Norman Scrunge,Time Industry,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be situate
+Norman Scrunge,Swindon,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be situate
+Time Industry,Swindon,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be situate
+Wessex,Swindon,1.8382352941176472,0.3676470588235294,53.67647058823529,5.0,mean be live have receive
+Norman Scrunge,Time Industry,1.2195121951219512,3.6585365853658534,51.21951219512195,0.3333333333333333,keep abandon be measure give be recommend
+Dad,ChronoGuard,0.0,0.0,64.51612903225806,INF,be be stretch bring bring work
+Dad,Sarah Wade,0.0,0.0,64.51612903225806,INF,be be stretch bring bring work
+ChronoGuard,Sarah Wade,0.0,0.0,64.51612903225806,INF,be be stretch bring bring work
+Landen,George,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+Landen,George,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+Landen,George,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+Landen,St. Zvlkx,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+George,St. Zvlkx,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+George,St. Zvlkx,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+George,St. Zvlkx,5.113636363636364,1.1363636363636365,55.11363636363637,4.5,call tell be be be begin worry report have be vandalize
+Landen,Smote Solutions,6.25,0.8928571428571428,42.857142857142854,7.0,have eat talk plan avert cleanse
+Landen,Miles,2.806122448979592,2.295918367346939,56.12244897959183,1.2222222222222223,know have drop explain have confirm smite go plan
+Landen,Joffy,2.806122448979592,2.295918367346939,56.12244897959183,1.2222222222222223,know have drop explain have confirm smite go plan
+Miles,Joffy,2.806122448979592,2.295918367346939,56.12244897959183,1.2222222222222223,know have drop explain have confirm smite go plan
+Millon,Wingco,1.9736842105263157,0.0,29.605263157894733,INF,have trace get
+Millon,Aornis,1.9736842105263157,0.0,29.605263157894733,INF,have trace get
+Wingco,Aornis,1.9736842105263157,0.0,29.605263157894733,INF,have trace get
+Landen,Millon,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,get ask be have look alarm tell
+Landen,Millon,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,get ask be have look alarm tell
+Wingco,Millon,1.3157894736842104,0.0,40.78947368421053,INF,be say have pop
+Wingco,Millon,2.6785714285714284,4.166666666666666,57.44047619047619,0.6428571428571429,have admit have say go make be think
+ICF,Joey,1.1904761904761905,0.0,36.904761904761905,INF,be call persuade take go
+ICF,Joey,1.1904761904761905,0.0,36.904761904761905,INF,be call persuade take go
+ICF,Joey,1.1904761904761905,0.0,36.904761904761905,INF,be call persuade take go
+ICF,Joey,1.1904761904761905,0.0,36.904761904761905,INF,be call persuade take go
+Braxton,Duffy,3.515625,0.390625,58.59375,9.0,look see be have hear coerce score
+Mrs. Hilly,Blyton,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Mrs. Hilly,Wexler,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Mrs. Hilly,SLS,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Blyton,Wexler,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Blyton,SLS,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Wexler,SLS,4.044117647058823,2.2058823529411766,46.69117647058824,1.8333333333333333,have make be
+Jack,Swindon Adelphi,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,give ask
+Jack,Swindon Adelphi,0.8928571428571428,1.7857142857142856,54.46428571428571,0.5,give ask
+Jack,Judith Trask,0.0,8.333333333333332,25.0,0.0,kill
+Judith Trask,SpecOps,5.46875,4.6875,52.34375,1.1666666666666667,be
+SpecOps,Braxton,1.1363636363636365,6.8181818181818175,37.5,0.16666666666666666,
+Mr. Cornball,Smote Solutions,0.8928571428571428,0.4464285714285714,55.80357142857143,2.0,be liaise schedule smite
+Mr. Cornball,Swindon,0.8928571428571428,0.4464285714285714,55.80357142857143,2.0,be liaise schedule smite
+Smote Solutions,Swindon,0.8928571428571428,0.4464285714285714,55.80357142857143,2.0,be liaise schedule smite
+Wessex,Conrad Spoons,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Wessex,Wexler,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Wessex,SLS,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Wessex,Conrad Spoons,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Conrad Spoons,Wexler,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Conrad Spoons,SLS,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Wexler,SLS,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Wexler,Conrad Spoons,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+SLS,Conrad Spoons,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be be sit
+Geraldine,Wessex,3.125,1.5625,50.66964285714286,2.0,have introduce be be end explain be take drop need be do
+Conrad Spoons,Wessex,0.9615384615384616,0.641025641025641,65.06410256410257,1.5,be outline begin project run outline
+Conrad Spoons,Wessex,0.9615384615384616,0.641025641025641,65.06410256410257,1.5,be outline begin project run outline
+Wessex,Conrad Spoons,0.9615384615384616,0.641025641025641,65.06410256410257,1.5,be outline begin project run outline
+Duffy,Miles,1.5625,4.6875,56.25,0.3333333333333333,be sneak whisper want have
+Special Library Services,Wexler,3.618421052631579,2.302631578947368,49.34210526315789,1.5714285714285714,be talk say be implement
+SLS,Phoebe,0.0,0.4629629629629629,47.68518518518518,0.0,be say be transfer
+Braxton,Special Library Services,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Braxton,Wessex,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Braxton,Wexler,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Special Library Services,Wessex,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Special Library Services,Wexler,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Wessex,Wexler,3.5416666666666665,0.625,55.833333333333336,5.666666666666667,confirm switch make be outline be transfer suggest start
+Conrad Spoons,Wessex,1.0416666666666665,0.26041666666666663,50.78125,4.0,say ask be give fund make
+Duffy,Landen,1.4423076923076923,0.9615384615384616,51.442307692307686,1.5,tell be go see tell be add insist go take get
+Duffy,Landen,1.4423076923076923,0.9615384615384616,51.442307692307686,1.5,tell be go see tell be add insist go take get
+Duffy,Landen,1.4423076923076923,0.9615384615384616,51.442307692307686,1.5,tell be go see tell be add insist go take get
+Duffy,Landen,1.4423076923076923,0.9615384615384616,51.442307692307686,1.5,tell be go see tell be add insist go take get
+Duffy,Landen,1.4423076923076923,0.9615384615384616,51.442307692307686,1.5,tell be go see tell be add insist go take get
+Phoebe,Conrad Spoons,3.8461538461538463,0.0,42.30769230769231,INF,tell say
+Jack,Braxton,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have be look
+Jack,Phoebe,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have be look
+Jack,Braxton,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have be look
+Jack,Phoebe,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have be look
+Braxton,Phoebe,4.605263157894736,1.3157894736842104,51.973684210526315,3.5,have be look
+Wexler,Braxton,5.46875,6.25,57.03125,0.875,be have be affect
+Swindon,Wessex,4.838709677419355,7.258064516129033,54.03225806451613,0.6666666666666666,be be take have meet target cut fund be need commit
+Wexler,SLS,2.0,2.5,39.5,0.8,assume equate
+Phoebe,Braxton,0.5208333333333333,2.604166666666667,51.041666666666664,0.2,apologize say do be
+Jack,James,0.5952380952380952,1.1904761904761905,45.83333333333333,0.5,continue want take see
+Duffy,Wexler,1.3888888888888888,1.6203703703703702,61.80555555555556,0.8571428571428571,be go add alert be go be concentrate go be go
+Duffy,Wexler,1.3888888888888888,1.6203703703703702,61.80555555555556,0.8571428571428571,be go add alert be go be concentrate go be go
+Wexler,Duffy,1.3888888888888888,1.6203703703703702,61.80555555555556,0.8571428571428571,be go add alert be go be concentrate go be go
+James,Brotherhood of Perpetual Defenestration,2.083333333333333,0.0,61.25000000000001,INF,be throw follow
+Jack,St. Zvlkx,2.083333333333333,2.7777777777777777,34.02777777777778,0.75,be want vandalize
+Jack,St. Zvlkx,2.083333333333333,2.7777777777777777,34.02777777777778,0.75,be want vandalize
+James,Jack,5.0,1.25,73.75,4.0,look stare
+James,Jack,3.5000000000000004,0.5,52.0,7.0,be arm know hang
+James,Jack,3.5000000000000004,0.5,52.0,7.0,be arm know hang
+Jack,James,3.5000000000000004,0.5,52.0,7.0,be arm know hang
+James,Jack,3.5000000000000004,0.5,52.0,7.0,be arm know hang
+James,Jack,2.272727272727273,1.1363636363636365,69.31818181818183,2.0,ask stare address
+Jack,Brotherhood of Perpetual Defenestration,1.0869565217391304,2.717391304347826,35.32608695652174,0.4,be await catalog reply
+Brotherhood of Perpetual Defenestration,Jack,0.35714285714285715,0.7142857142857143,64.64285714285715,0.5,be lie see change
+Brotherhood of Perpetual Defenestration,Jack,0.35714285714285715,0.7142857142857143,64.64285714285715,0.5,be lie see change
+Jack,James,2.556818181818182,0.8522727272727272,64.77272727272727,3.0,think have do raise be explode be spatter
+Jack,James,2.556818181818182,0.8522727272727272,64.77272727272727,3.0,think have do raise be explode be spatter
+Jack,James,2.556818181818182,0.8522727272727272,64.77272727272727,3.0,think have do raise be explode be spatter
+Phoebe,Judith Trask,1.0,2.5,40.5,0.4,say have appear be
+Phoebe,Stig,2.5,3.75,43.75,0.6666666666666666,apologize disbelieve have discuss call alert have
+Phoebe,Stig,2.5,3.75,43.75,0.6666666666666666,apologize disbelieve have discuss call alert have
+Special Library Service,James,1.9230769230769231,0.4807692307692308,51.442307692307686,4.0,secure clean
+Swindon,Conrad Spoons,0.5102040816326531,0.0,66.83673469387756,INF,borrow go have emerge refresh wear find return
+MadCon,Mycroft,0.0,0.0,54.54545454545454,INF,be attend bear win
+MadCon,Swindon,0.0,0.0,54.54545454545454,INF,be attend bear win
+Mycroft,Swindon,0.0,0.0,54.54545454545454,INF,be attend bear win
+Mr. Chowdry,Swindon,1.1111111111111112,1.6666666666666667,61.66666666666667,0.6666666666666666,hurry try be distract have reach come be man
+Dad,Jenny,0.0,0.0,33.33333333333333,INF,say be
+Jenny,Polly,0.0,0.0,11.11111111111111,INF,be
+Jack,St. Zvlkx,1.644736842105263,0.9868421052631579,60.526315789473685,1.6666666666666667,be ponder regard copy announce give call
+MadCon,Landen,3.5256410256410255,0.0,47.756410256410255,INF,like thank move grasp squeeze
+Landen,Jack,7.894736842105263,3.289473684210526,36.18421052631579,2.4,be say come
+Landen,Gavin,2.7777777777777777,5.902777777777778,55.208333333333336,0.47058823529411764,stare comprehend be go be talk
+Landen,Smote Solutions,1.2254901960784315,2.696078431372549,54.90196078431373,0.45454545454545453,be go stand talk be regard
+Gavin,MadCon,0.4166666666666667,0.0,49.583333333333336,INF,grasp pull start
+Gavin,MadCon,0.4166666666666667,0.0,49.583333333333336,INF,grasp pull start
+Gavin,MadCon,0.4166666666666667,0.0,49.583333333333336,INF,grasp pull start
+Gavin,MadCon,0.4166666666666667,0.0,49.583333333333336,INF,grasp pull start
+Gavin,MadCon,0.4166666666666667,0.0,49.583333333333336,INF,grasp pull start
+Landen,Gavin,1.179245283018868,2.8301886792452833,50.70754716981132,0.4166666666666667,look hope stop do have suggest have glare mouth do tap tell cut
+Landen,Gavin,1.179245283018868,2.8301886792452833,50.70754716981132,0.4166666666666667,look hope stop do have suggest have glare mouth do tap tell cut
+Landen,Gavin,1.179245283018868,2.8301886792452833,50.70754716981132,0.4166666666666667,look hope stop do have suggest have glare mouth do tap tell cut
+Landen,Gavin,1.179245283018868,2.8301886792452833,50.70754716981132,0.4166666666666667,look hope stop do have suggest have glare mouth do tap tell cut
+Gavin,Landen,0.0,4.166666666666666,35.833333333333336,0.0,disengage turn landen scowl
+Landen,Gavin,0.0,4.166666666666666,35.833333333333336,0.0,disengage turn landen scowl
+Gavin,Jenny,1.8382352941176472,2.2058823529411766,45.955882352941174,0.8333333333333334,give trot hang tell meet
+Gavin,Jenny,1.8382352941176472,2.2058823529411766,45.955882352941174,0.8333333333333334,give trot hang tell meet
+Gavin,Jenny,1.8382352941176472,2.2058823529411766,45.955882352941174,0.8333333333333334,give trot hang tell meet
+Gavin,Jenny,1.8382352941176472,2.2058823529411766,45.955882352941174,0.8333333333333334,give trot hang tell meet
+Landen,Gavin,0.9615384615384616,0.9615384615384616,48.07692307692308,1.0,carry be say have kill
+Joffy,Swindon,1.5625,2.083333333333333,50.520833333333336,0.75,figure make do get fry get keep get
+Joffy,Smote Solutions,1.5625,2.083333333333333,50.520833333333336,0.75,figure make do get fry get keep get
+Swindon,Smote Solutions,1.5625,2.083333333333333,50.520833333333336,0.75,figure make do get fry get keep get
+Duffy,Conrad Spoons,0.6944444444444444,0.0,60.416666666666664,INF,be organize try fund
+Landen,Gavin,1.0416666666666665,0.0,65.625,INF,say drop
+Landen,Gavin,1.0416666666666665,0.0,65.625,INF,say drop
+John de Hepburn,Eleanor,1.7857142857142856,0.0,37.5,INF,bonkee be
+John de Hepburn,Bonkeing Kinges,1.7857142857142856,0.0,37.5,INF,bonkee be
+Eleanor,Bonkeing Kinges,1.7857142857142856,0.0,37.5,INF,bonkee be
+Eleanor,John de Hepburn,4.583333333333333,2.5,46.25,1.8333333333333333,receive rave do find be find follow have atempt swim disport
+James,Duffy,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,spend try change have earmark
+James,Conrad Spoons,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,spend try change have earmark
+Duffy,Conrad Spoons,3.4722222222222223,2.083333333333333,52.77777777777778,1.6666666666666667,spend try change have earmark
+Swindon All-You-Can-Eat-at-Fatso,Drink Not Included Library Service,1.5,2.75,51.74999999999999,0.5454545454545454,be reopen include be close have fall retrieve be go
+Nancy,Duffy,4.772727272727273,4.090909090909091,56.59090909090909,1.1666666666666667,have lay tell be leave wonder be
+Nancy,Duffy,4.772727272727273,4.090909090909091,56.59090909090909,1.1666666666666667,have lay tell be leave wonder be
+James,Phoebe,1.3392857142857142,0.8928571428571428,51.33928571428571,1.5,drop be do see be do
+James,Duffy,2.2540983606557377,2.2540983606557377,49.59016393442623,1.0,be work reply be look tire compare have manage reuse have come
+John de Hepburn,Eleanor,0.4629629629629629,0.4629629629629629,32.407407407407405,1.0,be
+John de Hepburn,Bonkeing Kinges,0.4629629629629629,0.4629629629629629,32.407407407407405,1.0,be
+Eleanor,Bonkeing Kinges,0.4629629629629629,0.4629629629629629,32.407407407407405,1.0,be
+Phoebe,Gavin,5.208333333333334,5.208333333333334,43.75,1.0,find be get fry
+Joffy,Gavin,0.0,2.8846153846153846,35.57692307692308,0.0,have miss say
+Joffy,Landen,0.0,2.8846153846153846,35.57692307692308,0.0,have miss say
+Gavin,Landen,0.0,2.8846153846153846,35.57692307692308,0.0,have miss say
+Gavin,Jenny,3.125,3.75,58.12500000000001,0.8333333333333334,be take meet find be
+Gavin,Jenny,3.125,3.75,58.12500000000001,0.8333333333333334,be take meet find be
+Aornis,Phlegethon,0.3787878787878788,0.0,45.07575757575758,INF,know comprise
+Phlegethon,Aornis,0.3787878787878788,0.0,45.07575757575758,INF,know comprise
+Millon,Gavin,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Millon,Swindon,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Millon,Gavin,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Millon,Swindon,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Millon,Gavin,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Millon,Swindon,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Gavin,Swindon,3.125,2.232142857142857,55.35714285714286,1.4,have go practice think cram upcome have nip use speak sadden offer regard open
+Phoebe,Landen,2.34375,1.7187500000000002,55.93749999999999,1.3636363636363635,have finish walk tell have say have be identify be lose entitle be translate be
+Phoebe,Bowden,2.34375,1.7187500000000002,55.93749999999999,1.3636363636363635,have finish walk tell have say have be identify be lose entitle be translate be
+Landen,Bowden,2.34375,1.7187500000000002,55.93749999999999,1.3636363636363635,have finish walk tell have say have be identify be lose entitle be translate be
+Phoebe,St. Zvlkx,3.483606557377049,0.819672131147541,54.713114754098356,4.25,be work lose have find recycle have be spread have be go be destroy
+Phoebe,St. Zvlkx,3.483606557377049,0.819672131147541,54.713114754098356,4.25,be work lose have find recycle have be spread have be go be destroy
+Phoebe,Jack,3.483606557377049,0.819672131147541,54.713114754098356,4.25,be work lose have find recycle have be spread have be go be destroy
+St. Zvlkx,Jack,3.483606557377049,0.819672131147541,54.713114754098356,4.25,be work lose have find recycle have be spread have be go be destroy
+St. Zvlkx,Jack,3.483606557377049,0.819672131147541,54.713114754098356,4.25,be work lose have find recycle have be spread have be go be destroy
+Jenny,Aornis,3.048780487804878,1.8292682926829267,53.65853658536586,1.6666666666666667,tell sit explain do exist have be create
+Jenny,Aornis,3.048780487804878,1.8292682926829267,53.65853658536586,1.6666666666666667,tell sit explain do exist have be create
+Aornis,Swindon,7.954545454545454,4.545454545454546,46.590909090909086,1.75,be be be live
+Jenny,Aornis,2.7777777777777777,8.333333333333332,33.33333333333333,0.3333333333333333,be
+Landen,Jenny,1.7241379310344827,0.8620689655172413,42.241379310344826,2.0,tell say be be limit
+Jenny,Landen,0.0,0.0,36.36363636363637,INF,be get say
+Landen,Aornis,0.9615384615384616,2.8846153846153846,26.923076923076923,0.3333333333333333,be cause
+Aornis,Phlegethon,2.083333333333333,7.291666666666667,23.958333333333336,0.2857142857142857,remember say be
+Phlegethon,Jenny,4.166666666666666,3.125,42.70833333333333,1.3333333333333333,kidnap
+Jenny,Aornis,2.850877192982456,0.43859649122807015,54.60526315789473,6.5,do stand know be have leave think realize be entail
+Aornis,Jenny,2.850877192982456,0.43859649122807015,54.60526315789473,6.5,do stand know be have leave think realize be entail
+Aornis,Jenny,2.850877192982456,0.43859649122807015,54.60526315789473,6.5,do stand know be have leave think realize be entail
+Jenny,Landen,0.0,9.375,65.625,0.0,imagine be imagine be
+Aornis,Jenny,1.9230769230769231,7.6923076923076925,51.92307692307693,0.25,think miss want live
+Aornis,Jenny,1.9230769230769231,7.6923076923076925,51.92307692307693,0.25,think miss want live
+Krantz,Jack,5.833333333333333,5.0,49.166666666666664,1.1666666666666667,be deliver help defeat
+Landen,Krantz,2.8846153846153846,0.4807692307692308,58.17307692307693,6.0,have tell be have agree add be accept see look
+Gavin,Smote Solutions,2.083333333333333,1.5625,54.6875,1.3333333333333333,fail mean be have swap suppose deliver
+Gavin,Joffy,2.083333333333333,1.5625,54.6875,1.3333333333333333,fail mean be have swap suppose deliver
+Smote Solutions,Joffy,2.083333333333333,1.5625,54.6875,1.3333333333333333,fail mean be have swap suppose deliver
+Joffy,Miles,3.977272727272727,5.3977272727272725,49.715909090909086,0.7368421052631579,speak have tell be go stay be vaporize be say give assist
+Phoebe,Judith Trask,4.605263157894736,2.9605263157894735,58.223684210526315,1.5555555555555556,ask have speak assault have be murder
+Phoebe,Gavin,4.038461538461538,0.7692307692307693,56.730769230769226,5.25,tell position be do check be work be be relieve find make realize drink smell
+Lupton Cornball,GSD,2.364864864864865,2.5337837837837838,51.858108108108105,0.9333333333333333,seem have change come reiterate be listen confirm be have be turn regard
+Lupton Cornball,Joffy,2.364864864864865,2.5337837837837838,51.858108108108105,0.9333333333333333,seem have change come reiterate be listen confirm be have be turn regard
+GSD,Joffy,2.364864864864865,2.5337837837837838,51.858108108108105,0.9333333333333333,seem have change come reiterate be listen confirm be have be turn regard
+Millon,Wingco,3.4615384615384617,2.6923076923076925,58.46153846153847,1.2857142857142858,pace be cram want have be receive read be transmit
+Millon,Wingco,3.4615384615384617,2.6923076923076925,58.46153846153847,1.2857142857142858,pace be cram want have be receive read be transmit
+Millon,Landen,3.4090909090909087,0.5681818181818182,64.20454545454545,6.0,tell have show have be send
+Millon,Landen,3.4090909090909087,0.5681818181818182,64.20454545454545,6.0,tell have show have be send
+Jack,Krantz,4.918032786885246,4.713114754098361,59.221311475409834,1.0434782608695652,have destroy lose write be explain be help supply
+Wingco,Landen,0.0,0.0,37.5,INF,look
+Bradshaw,Wingco,0.8333333333333334,0.8333333333333334,31.666666666666664,1.0,need report say
+James,Swindon,4.545454545454546,1.3636363636363635,54.090909090909086,3.3333333333333335,head see surround be fill see smite do descend
+Vera Lynn,SLS,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,have be
+Swindon,Joffy,3.804347826086957,4.891304347826087,26.08695652173913,0.7777777777777778,be annihilate
+Joffy,GSD,2.3255813953488373,0.29069767441860467,53.19767441860465,8.0,do seem be be have help be benefit
+Joffy,GSD,2.3255813953488373,0.29069767441860467,53.19767441860465,8.0,do seem be be have help be benefit
+GSD,Joffy,2.3255813953488373,0.29069767441860467,53.19767441860465,8.0,do seem be be have help be benefit
+Charles Fang,Jack,3.3333333333333335,0.4166666666666667,62.916666666666664,8.0,say walk find
+Charles Fang,Jack,3.3333333333333335,0.4166666666666667,62.916666666666664,8.0,say walk find
+Charles Fang,Joffy,3.3333333333333335,0.4166666666666667,62.916666666666664,8.0,say walk find
+Jack,Joffy,3.3333333333333335,0.4166666666666667,62.916666666666664,8.0,say walk find
+Jack,Joffy,3.3333333333333335,0.4166666666666667,62.916666666666664,8.0,say walk find
+Crabbe,Jack,0.0,0.0,26.666666666666668,INF,say address
+Crabbe,Jack,0.0,0.0,26.666666666666668,INF,say address
+Wingco,Jack,1.25,1.25,47.5,1.0,be respond
+Phoebe,Jack,3.9634146341463414,3.048780487804878,39.329268292682926,1.3,tell read be doubtless continue
+Phoebe,Jack,3.9634146341463414,3.048780487804878,39.329268292682926,1.3,tell read be doubtless continue
+Phoebe,Jack,3.9634146341463414,3.048780487804878,39.329268292682926,1.3,tell read be doubtless continue
+Jack,Phoebe,3.977272727272727,3.977272727272727,42.04545454545455,1.0,be say be
+Phoebe,Jack,3.977272727272727,3.977272727272727,42.04545454545455,1.0,be say be
+Vauxhall,Shazza,0.0,0.43103448275862066,44.396551724137936,0.0,have kill
+Vauxhall,Gavin,0.0,0.43103448275862066,44.396551724137936,0.0,have kill
+Shazza,Gavin,0.0,0.43103448275862066,44.396551724137936,0.0,have kill
+Gavin,Goliath Corporation,0.8620689655172413,1.293103448275862,42.672413793103445,0.6666666666666666,see have work
+Gavin,ChronoGuard,5.147058823529411,3.6764705882352944,44.11764705882353,1.4,kill happen live drop
+Gavin,Shazza,3.125,2.604166666666667,52.604166666666664,1.2,be think be have suggest
+Gavin,Landen,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Gavin,Landen,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Gavin,Landen,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Landen,Gavin,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Landen,Gavin,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Landen,Gavin,3.8135593220338984,5.296610169491525,50.21186440677966,0.72,say give be behold give pull shake say have
+Gavin,Landen,3.800675675675676,2.1114864864864864,50.16891891891891,1.8,set be be be be be say want remember be be happen be know get do want have be do be yell stop
+Gavin,Landen,3.800675675675676,2.1114864864864864,50.16891891891891,1.8,set be be be be be say want remember be be happen be know get do want have be do be yell stop
+Gavin,Landen,3.800675675675676,2.1114864864864864,50.16891891891891,1.8,set be be be be be say want remember be be happen be know get do want have be do be yell stop
+Gavin,Landen,3.800675675675676,2.1114864864864864,50.16891891891891,1.8,set be be be be be say want remember be be happen be know get do want have be do be yell stop
+Gavin,ChronoGuard,4.166666666666666,5.952380952380952,47.023809523809526,0.7,be kill go be
+Gavin,ChronoGuard,0.0,4.166666666666666,56.439393939393945,0.0,be be trick kill kill go be murder carry
+Gavin,ChronoGuard,0.0,4.166666666666666,56.439393939393945,0.0,be be trick kill kill go be murder carry
+ChronoGuard,Gavin,1.3157894736842104,3.9473684210526314,52.63157894736842,0.3333333333333333,be have be be
+Gavin,ChronoGuard,2.5,5.625,31.874999999999996,0.4444444444444444,pay coerce take
+Gavin,ChronoGuard,2.5,5.625,31.874999999999996,0.4444444444444444,pay coerce take
+Gavin,ChronoGuard,2.5,5.625,31.874999999999996,0.4444444444444444,pay coerce take
+Swindon Time Zone,Liddington,1.4705882352941175,1.1029411764705883,47.42647058823529,1.3333333333333333,say mean be run be
+Swindon Time Zone,Swindon,1.4705882352941175,1.1029411764705883,47.42647058823529,1.3333333333333333,say mean be run be
+Liddington,Swindon,1.4705882352941175,1.1029411764705883,47.42647058823529,1.3333333333333333,say mean be run be
+Gavin,ChronoGuard,4.72972972972973,5.405405405405405,52.02702702702703,0.875,tell commit be sacrifice save murder
+Gavin,ChronoGuard,4.72972972972973,5.405405405405405,52.02702702702703,0.875,tell commit be sacrifice save murder
+Gavin,ChronoGuard,4.72972972972973,5.405405405405405,52.02702702702703,0.875,tell commit be sacrifice save murder
+Mr. Chowdry,Landen,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+Mr. Chowdry,North Wessex,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+Mr. Chowdry,Swindon,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+Landen,North Wessex,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+Landen,Swindon,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+North Wessex,Swindon,0.872093023255814,2.3255813953488373,47.96511627906977,0.375,be sit glide head
+Landen,Swindon,2.083333333333333,1.4583333333333333,51.45833333333333,1.4285714285714286,begin take end cleanse do live have
+Gavin,Landen,2.272727272727273,3.787878787878788,48.484848484848484,0.6,do know come shoot say know be
+Landen,Gavin,2.272727272727273,3.787878787878788,48.484848484848484,0.6,do know come shoot say know be
+Landen,Gavin,2.272727272727273,3.787878787878788,48.484848484848484,0.6,do know come shoot say know be
+Gavin,Liddington,1.5625,0.0,42.1875,INF,lose
+Liddington,Gavin,1.5625,0.0,42.1875,INF,lose
+Gavin,Landen,7.352941176470589,0.0,39.705882352941174,INF,find say lay
+Gavin,Landen,6.61764705882353,5.88235294117647,52.20588235294118,1.125,have have do say
+Wingco,Pickwick,4.166666666666666,3.6458333333333335,50.520833333333336,1.1428571428571428,put have move take

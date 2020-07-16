@@ -1,0 +1,672 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Bishop,Lacey,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Bishop,Buckshaw,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Bishop,Harriet,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Bishop,Ophelia,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Bishop,Daphne,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Lacey,Buckshaw,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Lacey,Harriet,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Lacey,Ophelia,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Lacey,Daphne,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Buckshaw,Harriet,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Buckshaw,Ophelia,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Buckshaw,Daphne,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Harriet,Ophelia,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Harriet,Daphne,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Ophelia,Daphne,2.307692307692308,2.5,49.03846153846153,0.9230769230769231,lay be get have exist
+Dogger,Mrs. Mullet,2.1875,0.625,49.6875,3.5,have shed tear have
+Dogger,Flavia,2.1875,0.625,49.6875,3.5,have shed tear have
+Mrs. Mullet,Flavia,2.1875,0.625,49.6875,3.5,have shed tear have
+Harriet,Nelson,0.9328358208955223,1.6791044776119404,55.59701492537313,0.5555555555555556,seem be bless toss suppose be say have bring die have hold
+Harriet,Nelson,0.9328358208955223,1.6791044776119404,55.59701492537313,0.5555555555555556,seem be bless toss suppose be say have bring die have hold
+Dorsey,Ryerson Rainsmith,6.25,2.6785714285714284,58.92857142857143,2.3333333333333335,be call do think be
+Dorsey,Ryerson Rainsmith,6.25,2.6785714285714284,58.92857142857143,2.3333333333333335,be call do think be
+Ryerson Rainsmith,Dorsey,6.25,2.6785714285714284,58.92857142857143,2.3333333333333335,be call do think be
+Ryerson Rainsmith,Dorsey,6.25,2.6785714285714284,58.92857142857143,2.3333333333333335,be call do think be
+Harriet,Buckshaw,1.5625,2.272727272727273,56.39204545454546,0.6875,be miss have return be forbid think censor dread be say snip have come die
+Miss Bodycote,Female Academy,1.0,2.25,58.75,0.4444444444444444,be be be pack be be train assume be keep
+Miss Bodycote,Harriet,1.0,2.25,58.75,0.4444444444444444,be be be pack be be train assume be keep
+Female Academy,Harriet,1.0,2.25,58.75,0.4444444444444444,be be be pack be be train assume be keep
+Feely,St. Tancred 's,3.0172413793103448,3.8793103448275863,58.620689655172406,0.7777777777777778,have be have accompany be scotch be be classify
+Feely,St. Tancred 's,3.0172413793103448,3.8793103448275863,58.620689655172406,0.7777777777777778,have be have accompany be scotch be be classify
+Feely,Cynthia,10.227272727272728,2.272727272727273,42.04545454545455,4.5,be be release
+Felicity,Miss Bodycote,2.5510204081632653,2.0408163265306123,54.59183673469388,1.25,announce be solve have hear have be summer be set
+Felicity,Female Academy,2.5510204081632653,2.0408163265306123,54.59183673469388,1.25,announce be solve have hear have be summer be set
+Miss Bodycote,Female Academy,2.5510204081632653,2.0408163265306123,54.59183673469388,1.25,announce be solve have hear have be summer be set
+Harriet,Dorsey,5.113636363636364,1.7045454545454544,56.81818181818182,3.0,presume say have solve
+Miss Flavia,Dogger,0.0,5.208333333333334,36.45833333333333,0.0,say
+Dogger,Ryerson Rainsmith,2.314814814814815,1.8518518518518516,40.27777777777778,1.25,thank say paddle keep
+Daffy,Feely,3.125,3.125,43.75,1.0,come pretend be lose chat drift look
+Miss Bodycote,Female Academy,1.1363636363636365,0.3787878787878788,46.96969696969697,3.0,be decree be deliver
+Daffy,Ryerson Rainsmith,3.5000000000000004,2.0,54.50000000000001,1.75,miss trudge
+Ryerson Rainsmith,Daffy,2.941176470588235,2.941176470588235,47.05882352941176,1.0,remember live
+Flavia,Daffy,0.2840909090909091,0.0,51.98863636363637,INF,be find tell crack quaver stand break
+Flavia,Daffy,0.2840909090909091,0.0,51.98863636363637,INF,be find tell crack quaver stand break
+Daffy,Flavia,0.2840909090909091,0.0,51.98863636363637,INF,be find tell crack quaver stand break
+Ryerson Rainsmith,Daffy,3.125,3.515625,46.484375,0.8888888888888888,have be coin describe be fawn cringe
+Ryerson Rainsmith,Daffy,3.125,3.515625,46.484375,0.8888888888888888,have be coin describe be fawn cringe
+Dr. Rainsmith,Dorsey,3.4090909090909087,3.4090909090909087,38.63636363636363,1.0,be say be
+Dorsey,Miss Bodycote,3.225806451612903,0.0,61.29032258064516,INF,have introduce be
+Miss Bodycote,Dorsey,3.225806451612903,0.0,61.29032258064516,INF,have introduce be
+Ryerson Rainsmith,Dorsey,1.6129032258064515,0.0,56.451612903225815,INF,resume read pass add print
+Merton,Dorsey,0.0,0.0,52.94117647058824,INF,do see have meet say
+Merton,Ryerson Rainsmith,1.5625,0.78125,47.65625,2.0,die say forget be
+Ryerson Rainsmith,Dorsey,0.0,2.7777777777777777,63.888888888888886,0.0,be
+Ryerson Rainsmith,Dorsey,2.604166666666667,5.208333333333334,42.1875,0.5,be say rub wring be
+Miss Bodycote,Female Academy,0.0,1.0416666666666665,57.291666666666664,0.0,take
+Miss Bodycote,Female Academy,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,be
+Miss Bodycote,Danforth,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,be
+Female Academy,Danforth,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,be
+Dorsey,Miss Bodycote,1.9230769230769231,1.4423076923076923,62.019230769230774,1.3333333333333333,wait stand
+Ryerson Rainsmith,Dorsey,1.1363636363636365,0.0,53.40909090909091,INF,pound
+Miss Bodycote,Female Academy,3.125,1.5625,45.3125,2.0,welcome
+Miss Bodycote,Fitzgibbon,0.0,0.0,22.22222222222222,INF,take
+Miss Bodycote,Fitzgibbon,0.0,0.0,22.22222222222222,INF,take
+Buckshaw,Feely,1.293103448275862,2.586206896551724,37.5,0.5,like be say dream
+Buckshaw,Daffy,1.293103448275862,2.586206896551724,37.5,0.5,like be say dream
+Feely,Daffy,1.293103448275862,2.586206896551724,37.5,0.5,like be say dream
+Collingwood,Patricia Anne,0.0,0.0,7.6923076923076925,INF,
+Patricia Anne,Barton,2.34375,1.5625,21.09375,1.5,forget move
+Collingwood,Daffy,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,rat say wipe
+Collingwood,Daffy,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,rat say wipe
+Daffy,Feely,3.6458333333333335,3.125,55.729166666666664,1.1666666666666667,have be waste have claim
+Pinkham,Miss Fawlthorne,0.0,1.5625,42.1875,0.0,rip take
+Collingwood,Daffy,0.0,0.0,50.0,INF,whistle
+Daffy,Miss Fawlthorne,2.272727272727273,3.4090909090909087,57.95454545454546,0.6666666666666666,disorientate be have use have catch
+Flavia,Miss Fawlthorne,3.4090909090909087,3.787878787878788,38.25757575757576,0.9,say lift gaze
+Miss Fawlthorne,Harriet,5.0,1.25,48.75,4.0,give have
+Collingwood,Harriet,3.6111111111111107,3.6111111111111107,59.44444444444444,1.0,lay sprawl give have be vomit
+Collingwood,Harriet,3.6111111111111107,3.6111111111111107,59.44444444444444,1.0,lay sprawl give have be vomit
+Collingwood,Harriet,3.6111111111111107,3.6111111111111107,59.44444444444444,1.0,lay sprawl give have be vomit
+Harriet,Jack,0.5681818181818182,0.2840909090909091,65.05681818181817,2.0,appear be char be roll unfurl come drop discolor be wrap
+Miss Fawlthorne,Collingwood,0.9259259259259258,0.9259259259259258,35.18518518518518,1.0,
+Collingwood,Daffy,1.6304347826086956,2.717391304347826,56.52173913043478,0.6,do imagine do begin ululate put
+Collingwood,Miss Fawlthorne,3.9634146341463414,3.6585365853658534,53.35365853658537,1.0833333333333333,fall know be say return assume be
+Miss Fawlthorne,Collingwood,2.734375,3.90625,43.359375,0.7,drink order obey finish
+Fitzgibbon,Miss Bodycote,1.7857142857142856,2.5,52.85714285714286,0.7142857142857143,see suspend
+Fitzgibbon,Female Academy,1.7857142857142856,2.5,52.85714285714286,0.7142857142857143,see suspend
+Miss Bodycote,Female Academy,1.7857142857142856,2.5,52.85714285714286,0.7142857142857143,see suspend
+Collingwood,Miss Fawlthorne,3.8461538461538463,0.0,26.923076923076923,INF,take instruct
+Collingwood,Fitzgibbon,3.8461538461538463,0.0,26.923076923076923,INF,take instruct
+Miss Fawlthorne,Fitzgibbon,3.8461538461538463,0.0,26.923076923076923,INF,take instruct
+Fitzgibbon,Collingwood,0.5681818181818182,0.0,40.340909090909086,INF,haul lead
+Collingwood,Miss Fawlthorne,0.0,0.0,38.46153846153847,INF,allow add
+Mrs. Bannerman,Miss Bodycote,1.5625,0.78125,41.40625,2.0,be say
+Daffy,Nicholas Nickleby,1.744186046511628,1.4534883720930232,45.63953488372093,1.2,remember have read let speak take
+Flavia,Collingwood,1.3157894736842104,0.0,40.78947368421053,INF,say stick have use
+Miss Bodycote,Female Academy,2.6785714285714284,0.8928571428571428,64.28571428571429,3.0,tell have be
+Bishop,Lacey,1.0638297872340425,0.26595744680851063,56.11702127659575,4.0,know live have be bring
+Druce,Van Arque,3.225806451612903,1.6129032258064515,43.54838709677419,2.0,push turn be talk pronounce
+Shakespeare,Labour,3.4090909090909087,2.9545454545454546,53.63636363636364,1.1538461538461537,be precede let know come be deal be
+Shakespeare,Druce,3.4090909090909087,2.9545454545454546,53.63636363636364,1.1538461538461537,be precede let know come be deal be
+Labour,Druce,3.4090909090909087,2.9545454545454546,53.63636363636364,1.1538461538461537,be precede let know come be deal be
+Van Arque,Fabian,1.0416666666666665,2.083333333333333,46.875,0.5,be be be say light be go
+Wallace Scroop,Van Arque,0.0,0.0,45.45454545454545,INF,say offer
+Miss Fawlthorne,Edith Cavell,1.5625,1.5625,55.208333333333336,1.0,have find stand
+Miss Fawlthorne,Collingwood,1.5625,1.5625,55.208333333333336,1.0,have find stand
+Edith Cavell,Collingwood,1.5625,1.5625,55.208333333333336,1.0,have find stand
+Miss Fawlthorne,Flavia,3.125,0.0,40.625,INF,tell wish see say
+Van Arque,Miss Fawlthorne,2.314814814814815,0.0,45.83333333333333,INF,say surprise run tell
+Bishop,Lacey,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,want tell be
+Van Arque,Miss Fawlthorne,0.8928571428571428,0.4464285714285714,73.66071428571429,2.0,be come scutter follow
+Flavia,Van Arque,0.0,0.0,36.36363636363637,INF,take
+Gravenhurst,Miss de Luce,4.326923076923077,0.0,34.13461538461539,INF,present say beg favor
+Gravenhurst,Miss de Luce,4.326923076923077,0.0,34.13461538461539,INF,present say beg favor
+Van Arque,LaBelle,0.0,1.0869565217391304,46.73913043478261,0.0,be walk appear
+Van Arque,Miss Fawlthorne,2.272727272727273,1.1363636363636365,46.590909090909086,2.0,have get say climb
+Miss Bodycote,Female Academy,0.5681818181818182,6.25,61.36363636363637,0.09090909090909091,be stray
+Collingwood,Miss Fawlthorne,9.782608695652174,3.260869565217391,56.52173913043478,3.0,be have interview have hear
+Miss Bodycote,Female Academy,2.734375,1.171875,52.34375,2.3333333333333335,be demand have cross
+Bowles,Jumbo,2.8846153846153846,0.0,43.269230769230774,INF,call have
+Jumbo,Patricia Anne,2.272727272727273,1.1363636363636365,23.863636363636363,2.0,be say
+Harriet,Flavia,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be
+Buckshaw,Feely,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Buckshaw,Daffy,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Buckshaw,BBC Home Service,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Feely,Daffy,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Feely,BBC Home Service,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Daffy,BBC Home Service,0.0,0.3125,49.6875,0.0,be transport sit draw listen
+Harriet,Felicity,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Harriet,Feely,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Harriet,Daffy,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Felicity,Feely,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Felicity,Daffy,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Felicity,Harriet,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Feely,Daffy,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Feely,Harriet,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Daffy,Harriet,1.7045454545454544,0.0,50.56818181818182,INF,stare be
+Bishop,Lacey,1.9886363636363635,0.8522727272727272,49.43181818181818,2.3333333333333335,think fade hang get
+Harriet,Van Arque,0.6578947368421052,0.0,51.973684210526315,INF,be lurk
+Jumbo,Gremly,2.579365079365079,2.579365079365079,56.74603174603175,1.0,be have be elbow be sit dance gutter come
+Jumbo,Druce,2.579365079365079,2.579365079365079,56.74603174603175,1.0,be have be elbow be sit dance gutter come
+Gremly,Druce,2.579365079365079,2.579365079365079,56.74603174603175,1.0,be have be elbow be sit dance gutter come
+Flavia,Jumbo,3.125,0.0,30.208333333333332,INF,pronounce
+Miss Bodycote,Female Academy,2.314814814814815,0.9259259259259258,63.42592592592593,2.5,be tell
+Wallace Scroop,Daffy,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Wallace Scroop,Miss Bodycote,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Wallace Scroop,Female Academy,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Daffy,Miss Bodycote,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Daffy,Female Academy,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Miss Bodycote,Female Academy,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,be have learn have have use have suggest be haunt
+Feely,Daffy,2.4456521739130435,1.6304347826086956,61.141304347826086,1.5,think be have tell be have terrify have shed
+Bishop,Lacey,0.0,0.9615384615384616,37.5,0.0,begin cart
+Gremly,Jumbo,1.5151515151515151,3.4090909090909087,37.5,0.4444444444444444,fetch order have be make scramble vanish
+Jumbo,Gremly,1.5151515151515151,3.4090909090909087,37.5,0.4444444444444444,fetch order have be make scramble vanish
+Daffy,Feely,4.901960784313726,2.2058823529411766,57.59803921568627,2.2222222222222223,have dig have terrorize raise have rat
+Daffy,Buckshaw,4.901960784313726,2.2058823529411766,57.59803921568627,2.2222222222222223,have dig have terrorize raise have rat
+Feely,Buckshaw,4.901960784313726,2.2058823529411766,57.59803921568627,2.2222222222222223,have dig have terrorize raise have rat
+Harriet,Miss Bodycote,3.3333333333333335,0.8333333333333334,55.833333333333336,4.0,have be
+Collingwood,Miss Bodycote,1.0869565217391304,1.0869565217391304,45.65217391304348,1.0,be accord have go miss
+Gremly,Flavia,7.6923076923076925,3.8461538461538463,50.0,2.0,gasp read have scribble
+Le Marchand,Wentworth,2.5,2.5,35.0,1.0,have tell
+Le Marchand,Clarissa Brazenose,2.5,2.5,35.0,1.0,have tell
+Le Marchand,Collingwood,2.5,2.5,35.0,1.0,have tell
+Wentworth,Clarissa Brazenose,2.5,2.5,35.0,1.0,have tell
+Wentworth,Collingwood,2.5,2.5,35.0,1.0,have tell
+Clarissa Brazenose,Collingwood,2.5,2.5,35.0,1.0,have tell
+Clarissa Brazenose,Miss Bodycote,1.3157894736842104,0.0,61.8421052631579,INF,be
+Flavia,Clarissa Brazenose,1.25,1.25,47.5,1.0,be say
+Clarissa Brazenose,Fitzgibbon,0.0,0.0,50.0,INF,be scrub open come
+Clarissa Brazenose,Fitzgibbon,0.0,0.0,50.0,INF,be scrub open come
+Jumbo,Gremly,2.0,5.5,32.5,0.36363636363636365,be have learn
+Jumbo,Van Arque,2.0,5.5,32.5,0.36363636363636365,be have learn
+Jumbo,Clarissa Brazenose,2.0,5.5,32.5,0.36363636363636365,be have learn
+Gremly,Van Arque,2.0,5.5,32.5,0.36363636363636365,be have learn
+Gremly,Clarissa Brazenose,2.0,5.5,32.5,0.36363636363636365,be have learn
+Van Arque,Clarissa Brazenose,2.0,5.5,32.5,0.36363636363636365,be have learn
+Miss Bodycote,Female Academy,2.0161290322580645,1.6129032258064515,57.66129032258065,1.25,do think forget live come
+Jumbo,Flavia,4.605263157894736,0.0,58.55263157894737,INF,have finish change tunic stick
+Flavia,Miss Fawlthorne,0.0,0.0,43.75,INF,come say knock
+Miss Bodycote,Female Academy,0.0,7.6923076923076925,61.53846153846154,0.0,be
+Rugeley Poisoner,William Palmer,3.125,4.6875,42.1875,0.6666666666666666,have tickle
+Druce,Miss Bodycote,2.7777777777777777,0.0,19.444444444444446,INF,explain
+Miss Bodycote,Female Academy,2.631578947368421,6.578947368421052,64.47368421052632,0.4,set cackle
+Druce,Miss Bodycote,4.166666666666666,1.3888888888888888,38.88888888888889,3.0,do worry hear tell
+Miss Bodycote,Flavia,0.8620689655172413,3.4482758620689653,50.86206896551724,0.25,do need tell come revenge be be reckon
+Pinkham,Flavia,4.6875,0.78125,60.15625,6.0,stand pause look be construct
+Pinkham,Flavia,4.6875,0.78125,60.15625,6.0,stand pause look be construct
+Miss Bodycote,Female Academy,0.78125,0.78125,51.5625,1.0,be have say
+Felicity,Miss Bodycote,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have tell be have be
+Felicity,Female Academy,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have tell be have be
+Felicity,Female Academy,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have tell be have be
+Miss Bodycote,Female Academy,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have tell be have be
+Miss Bodycote,Female Academy,5.681818181818182,3.4090909090909087,54.54545454545454,1.6666666666666667,have tell be have be
+Marge,Sal,0.0,0.0,14.285714285714285,INF,listen
+Sal,Marge,0.0,1.7857142857142856,48.214285714285715,0.0,slap pretend be
+Marge,Sal,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,begin rummage make hear exchange titter
+Marge,Sal,0.3787878787878788,0.7575757575757576,44.31818181818182,0.5,be mark bear pocket belong
+Marge,Sal,2.9017857142857144,1.7857142857142856,56.02678571428571,1.625,know pinch be miss belong take need
+Flavia,Mrs. Bannerman,1.1363636363636365,2.840909090909091,46.02272727272727,0.4,come call hesitate try catch
+Flavia,Mrs. Bannerman,0.0,2.631578947368421,44.73684210526316,0.0,come repeat pat
+Miss Fawlthorne,Mrs. Bannerman,1.0416666666666665,1.0416666666666665,39.58333333333333,1.0,have have say have come be admit
+Emil Fischer,Mrs. Bannerman,0.0,0.0,33.33333333333333,INF,say
+Flavia,Mrs. Bannerman,0.0,0.0,30.76923076923077,INF,do say
+Van Arque,Harriet,1.7857142857142856,2.976190476190476,66.66666666666666,0.6,have begin refer do encourage
+Flavia,Miss Fawlthorne,0.9259259259259258,4.166666666666666,46.75925925925926,0.2222222222222222,allow pass say have come
+Flavia,Miss Fawlthorne,0.9259259259259258,4.166666666666666,46.75925925925926,0.2222222222222222,allow pass say have come
+Bishop,Lacey,1.5625,2.9296875,62.6953125,0.5333333333333333,do seem remember be have hear chant skip seem
+Leo,Jack,0.6578947368421052,1.9736842105263157,63.1578947368421,0.3333333333333333,strike pose clasp begin be sink torpedo bring bound
+Leo,Jack,0.5208333333333333,1.5625,64.58333333333334,0.3333333333333333,lose bring bound
+Leo,Jack,0.5208333333333333,1.5625,64.58333333333334,0.3333333333333333,lose bring bound
+Leo,Jack,0.5208333333333333,1.5625,64.58333333333334,0.3333333333333333,lose bring bound
+Leo,Jack,1.4534883720930232,0.5813953488372093,58.43023255813954,2.5,be stroll come bring do seem
+Bishop,Lacey,2.1739130434782608,5.434782608695652,57.608695652173914,0.4,be be whisk do
+Cornelia Corwin,Miss Fawlthorne,1.6666666666666667,0.0,11.666666666666666,INF,read
+Miss Bodycote,Female Academy,1.3888888888888888,4.861111111111112,65.97222222222221,0.2857142857142857,be divide
+Miss Bodycote,Miss Fawlthorne,0.5952380952380952,0.0,42.26190476190476,INF,go encourage
+Felicity,Buckshaw,6.0,5.5,52.5,1.0909090909090908,be ask have tell walk
+Felicity,Miss Bodycote,6.428571428571428,3.571428571428571,50.0,1.8,have take mention have be be
+Miss Fawlthorne,Flavia,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Miss Fawlthorne,Miss Bodycote,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Miss Fawlthorne,Female Academy,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Flavia,Miss Bodycote,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Flavia,Female Academy,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Miss Bodycote,Female Academy,2.083333333333333,3.273809523809524,51.78571428571429,0.6363636363636364,see say have be have be
+Edith Cavell,Miss Fawlthorne,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Edith Cavell,Miss Fawlthorne,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Edith Cavell,Miss Fawlthorne,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Edith Cavell,Mr. Tugg,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Miss Fawlthorne,Mr. Tugg,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Miss Fawlthorne,Mr. Tugg,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Miss Fawlthorne,Mr. Tugg,4.435483870967742,1.6129032258064515,50.403225806451616,2.75,have be assign have explain be make call have ask be come go
+Mrs. Bannerman,Felicity,2.272727272727273,0.3787878787878788,67.04545454545455,6.0,remind have point take
+Flavia,Mrs. Bannerman,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,say
+Mrs. Bannerman,Clarissa Brazenose,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Mrs. Bannerman,Wentworth,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Mrs. Bannerman,Le Marchand,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Clarissa Brazenose,Wentworth,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Clarissa Brazenose,Le Marchand,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Wentworth,Le Marchand,2.717391304347826,5.434782608695652,39.67391304347826,0.5,be die quiz be hold
+Daffy,Labour,4.009433962264151,1.179245283018868,43.86792452830189,3.4,have read know have say smirk say have blow
+Van Arque,Jumbo,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,be examine be lose
+Druce,Gremly,4.3604651162790695,2.0348837209302326,35.46511627906977,2.142857142857143,be place do know be call
+Druce,Barton,4.3604651162790695,2.0348837209302326,35.46511627906977,2.142857142857143,be place do know be call
+Gremly,Barton,4.3604651162790695,2.0348837209302326,35.46511627906977,2.142857142857143,be place do know be call
+Miss Moate,Gremly,2.358490566037736,5.4245283018867925,45.04716981132076,0.43478260869565216,be wander stand stand leave do know
+Miss Moate,Druce,2.358490566037736,5.4245283018867925,45.04716981132076,0.43478260869565216,be wander stand stand leave do know
+Gremly,Druce,2.358490566037736,5.4245283018867925,45.04716981132076,0.43478260869565216,be wander stand stand leave do know
+Gremly,Miss Moate,2.358490566037736,5.4245283018867925,45.04716981132076,0.43478260869565216,be wander stand stand leave do know
+Druce,Miss Moate,2.358490566037736,5.4245283018867925,45.04716981132076,0.43478260869565216,be wander stand stand leave do know
+Mary Jane,Clarissa Brazenose,0.0,0.0,20.0,INF,
+Scarlett,Miss Moate,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,be shoot fan
+Jumbo,Miss Moate,4.285714285714286,2.5,47.5,1.7142857142857142,occur be have be know expect
+Bowles,Jumbo,0.0,0.0,44.44444444444444,INF,be
+Miss Moate,Jumbo,0.0,8.088235294117647,56.61764705882353,0.0,do follow straggle
+Druce,Miss Moate,1.0869565217391304,1.0869565217391304,50.0,1.0,give order hand bundle
+Miss Moate,Druce,1.0869565217391304,1.0869565217391304,50.0,1.0,give order hand bundle
+Jumbo,Druce,6.25,0.0,23.75,INF,say
+Jumbo,Druce,0.5681818181818182,3.977272727272727,31.818181818181817,0.14285714285714285,say smile begin
+Jumbo,Miss Moate,0.5681818181818182,3.977272727272727,31.818181818181817,0.14285714285714285,say smile begin
+Druce,Miss Moate,0.5681818181818182,3.977272727272727,31.818181818181817,0.14285714285714285,say smile begin
+Clarissa Brazenose,Miss Moate,7.738095238095238,4.166666666666666,40.476190476190474,1.8571428571428572,prompt keep grow
+Scarlett,Miss Bodycote,1.4534883720930232,2.0348837209302326,52.32558139534884,0.7142857142857143,tell realize speak be have dare give
+Scarlett,Miss Bodycote,1.4534883720930232,2.0348837209302326,52.32558139534884,0.7142857142857143,tell realize speak be have dare give
+Scarlett,Miss Bodycote,1.4534883720930232,2.0348837209302326,52.32558139534884,0.7142857142857143,tell realize speak be have dare give
+Scarlett,Miss Bodycote,1.4705882352941175,5.147058823529411,58.08823529411765,0.2857142857142857,reply moisten dab overheate
+Clarissa Brazenose,Miss Bodycote,5.555555555555555,2.7777777777777777,25.0,2.0,remind
+Clarissa Brazenose,Scarlett,5.681818181818182,0.0,30.681818181818183,INF,know say
+Scarlett,Miss Moate,0.8928571428571428,1.7857142857142856,47.32142857142857,0.5,scratch believe
+Scarlett,Miss Moate,0.8928571428571428,1.7857142857142856,47.32142857142857,0.5,scratch believe
+Miss Flavia,Flavia,3.125,3.125,43.75,1.0,
+Harriet,Scarlett,4.086538461538462,6.25,51.20192307692307,0.6538461538461539,do like have slight sympathize have be bundle ship
+Clarissa Brazenose,Beaux Arts Ball,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,be have creep meet
+Clarissa Brazenose,Scarlett,0.0,0.0,46.15384615384615,INF,be suppose say
+Harriet,Flavia,0.0,0.0,20.0,INF,
+Miss Moate,Druce,3.3653846153846154,1.9230769230769231,40.86538461538461,1.75,be wonder be fit realize be speak
+Gremly,Jumbo,1.3157894736842104,0.0,51.31578947368421,INF,be have see
+Harriet,Buckshaw,1.8518518518518516,0.0,53.70370370370371,INF,have mouth have find
+Miss Moate,Beethoven,3.515625,0.0,55.859375,INF,know be form have use
+Miss Moate,Beethoven,3.515625,0.0,55.859375,INF,know be form have use
+Feely,Daffy,0.5952380952380952,2.083333333333333,44.94047619047619,0.2857142857142857,be sit hang listen open
+Feely,Buckshaw,0.5952380952380952,2.083333333333333,44.94047619047619,0.2857142857142857,be sit hang listen open
+Daffy,Buckshaw,0.5952380952380952,2.083333333333333,44.94047619047619,0.2857142857142857,be sit hang listen open
+Miss Moate,Gremly,2.1739130434782608,0.0,45.65217391304348,INF,say grab do
+Gremly,Miss Moate,2.7777777777777777,9.722222222222223,54.166666666666664,0.2857142857142857,give
+Miss Fawlthorne,Gremly,2.9166666666666665,1.6666666666666667,45.416666666666664,1.75,have tell stop think include
+Miss Moate,Daffy,2.5,0.0,27.500000000000004,INF,be be call
+Fitzgibbon,Miss Moate,0.0,0.0,57.14285714285714,INF,put point hang
+Collingwood,Miss Moate,0.0,3.571428571428571,10.714285714285714,0.0,whisper
+Miss Moate,Fitzgibbon,0.5952380952380952,0.0,51.78571428571429,INF,speak be turn
+Miss Moate,Peter Pan,2.403846153846154,3.3653846153846154,63.46153846153846,0.7142857142857143,select have be wear
+Miss Moate,Collingwood,0.0,0.8333333333333334,45.83333333333333,0.0,cross go hide
+Bishop,Lacey,2.34375,3.90625,50.0,0.6,be be
+Fitzgibbon,Collingwood,1.7857142857142856,0.5952380952380952,54.761904761904766,3.0,see have leave
+Fitzgibbon,Collingwood,0.0,0.0,52.38095238095239,INF,keep rub see begin move
+Dr. Darby,Bishop,2.5,2.5,65.0,1.0,have be fall display
+Dr. Darby,Lacey,2.5,2.5,65.0,1.0,have be fall display
+Bishop,Lacey,2.5,2.5,65.0,1.0,have be fall display
+Fitzgibbon,Collingwood,1.3888888888888888,1.3888888888888888,52.77777777777778,1.0,be count leap dash
+Collingwood,Flavia,2.314814814814815,1.8518518518518516,58.79629629629629,1.25,be spread be
+Collingwood,Flavia,2.314814814814815,1.8518518518518516,58.79629629629629,1.25,be spread be
+Collingwood,Flavia,2.314814814814815,1.8518518518518516,58.79629629629629,1.25,be spread be
+Fitzgibbon,Collingwood,1.9230769230769231,1.9230769230769231,50.0,1.0,be have spot be be sleep
+Fitzgibbon,Collingwood,1.5,0.0,50.5,INF,take have pour dump refill
+Flavia,Miss Fawlthorne,2.7777777777777777,4.513888888888888,42.70833333333333,0.6153846153846154,have say have be drug toss
+Flavia,Collingwood,2.7777777777777777,4.513888888888888,42.70833333333333,0.6153846153846154,have say have be drug toss
+Miss Fawlthorne,Collingwood,2.7777777777777777,4.513888888888888,42.70833333333333,0.6153846153846154,have say have be drug toss
+Bowles,Jumbo,0.0,0.0,45.45454545454545,INF,
+Clarissa Brazenose,Beaux Arts Ball,1.0416666666666665,1.5625,47.39583333333333,0.6666666666666666,have be miss
+Clarissa Brazenose,Beaux Arts Ball,1.0416666666666665,1.5625,47.39583333333333,0.6666666666666666,have be miss
+Clarissa Brazenose,Mary Jane,2.34375,0.0,41.40625,INF,frighten
+Mary Jane,Le Marchand,2.1739130434782608,3.804347826086957,46.19565217391305,0.5714285714285714,believe be spell miss
+Collingwood,Patricia Anne,0.0,0.0,14.285714285714285,INF,
+Gremly,Jumbo,0.0,6.25,10.416666666666668,0.0,
+Pinkham,Collingwood,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,rat keep
+Pinkham,Miss Fawlthorne,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,rat keep
+Collingwood,Miss Fawlthorne,3.6764705882352944,1.4705882352941175,47.794117647058826,2.5,rat keep
+Scarlett,Clarissa Brazenose,0.6578947368421052,2.631578947368421,44.07894736842105,0.25,see come
+Scarlett,Clarissa Brazenose,0.6578947368421052,2.631578947368421,44.07894736842105,0.25,see come
+Clarissa Brazenose,Beaux Arts Ball,1.8518518518518516,1.3888888888888888,56.018518518518526,1.3333333333333333,have be miss see
+Marge,Sal,0.0,0.0,33.33333333333333,INF,
+Dorsey,Ryerson Rainsmith,0.0,0.0,32.142857142857146,INF,come
+Ryerson Rainsmith,Dorsey,0.0,0.0,32.142857142857146,INF,come
+Ryerson Rainsmith,Dorsey,0.0,0.0,32.142857142857146,INF,come
+Ryerson Rainsmith,Dorsey,0.0,0.0,32.142857142857146,INF,come
+Gravenhurst,LaBelle,1.5625,3.90625,50.78125,0.4,do include
+Tarquin,Flavia,0.5,0.5,67.0,1.0,write consider
+Scarlett,Clarissa Brazenose,2.976190476190476,0.0,49.404761904761905,INF,claim have see come
+Scarlett,Clarissa Brazenose,2.976190476190476,0.0,49.404761904761905,INF,claim have see come
+Felicity,Feely,3.4722222222222223,3.125,43.40277777777778,1.1111111111111112,have write fail have insist play
+Scarlett,Clarissa Brazenose,1.6666666666666667,0.0,51.66666666666667,INF,be have see come
+Buckshaw,St. Tancred 's,0.5681818181818182,1.1363636363636365,57.38636363636363,0.5,have see be litter give
+Le Marchand,Wentworth,2.5,2.5,43.57142857142857,1.0,hold shake have belong
+Le Marchand,Clarissa Brazenose,2.5,2.5,43.57142857142857,1.0,hold shake have belong
+Wentworth,Clarissa Brazenose,2.5,2.5,43.57142857142857,1.0,hold shake have belong
+Michael,Clarissa Brazenose,2.272727272727273,2.272727272727273,50.0,1.0,have wear
+Edith Cavell,Flavia,1.25,3.125,50.625,0.4,have bother come
+Daffy,Dickens,1.1363636363636365,2.272727272727273,60.22727272727273,0.5,have throw add be be
+Miss Bodycote,Female Academy,0.0,1.7857142857142856,41.07142857142857,0.0,
+Miss Fawlthorne,Dorsey,0.0,0.0,50.0,INF,be slide
+Miss Bodycote,Female Academy,3.4482758620689653,4.741379310344827,53.879310344827594,0.7272727272727273,be be require scramble finish
+Bishop,Michael,1.7500000000000002,0.75,51.5,2.3333333333333335,be
+Bishop,Mary Jane,1.7500000000000002,0.75,51.5,2.3333333333333335,be
+Michael,Mary Jane,1.7500000000000002,0.75,51.5,2.3333333333333335,be
+Fitzgibbon,Miss Bodycote,2.864583333333333,0.26041666666666663,61.458333333333336,11.0,have put take have be receive
+Fitzgibbon,Miss Bodycote,2.864583333333333,0.26041666666666663,61.458333333333336,11.0,have put take have be receive
+Buckshaw,Miss Flavia,3.7037037037037033,0.4629629629629629,47.68518518518518,8.0,trust find be live
+Dogger,Gladys,8.695652173913043,1.0869565217391304,46.73913043478261,8.0,go be hear be bask
+Dogger,Gladys,8.695652173913043,1.0869565217391304,46.73913043478261,8.0,go be hear be bask
+Gladys,Elizabeth,1.25,0.625,68.125,2.0,cover look
+Gladys,Elizabeth,1.25,0.625,68.125,2.0,cover look
+Harriet,Daphne,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,do realize affect tear plop make
+Daphne,Buckshaw,3.77906976744186,4.3604651162790695,47.674418604651166,0.8666666666666667,have be leave decease be bring remark suppose have feel
+Daphne,Daffy,3.77906976744186,4.3604651162790695,47.674418604651166,0.8666666666666667,have be leave decease be bring remark suppose have feel
+Buckshaw,Daffy,3.77906976744186,4.3604651162790695,47.674418604651166,0.8666666666666667,have be leave decease be bring remark suppose have feel
+Buckshaw,Daphne,3.77906976744186,4.3604651162790695,47.674418604651166,0.8666666666666667,have be leave decease be bring remark suppose have feel
+Daffy,Daphne,3.77906976744186,4.3604651162790695,47.674418604651166,0.8666666666666667,have be leave decease be bring remark suppose have feel
+Feely,Daffy,3.571428571428571,0.0,10.714285714285714,INF,have
+Mrs. Bannerman,Feely,2.7777777777777777,2.083333333333333,48.842592592592595,1.3333333333333333,coil apply be wear seem have note
+Mrs. Bannerman,Feely,2.7777777777777777,2.083333333333333,48.842592592592595,1.3333333333333333,coil apply be wear seem have note
+Mrs. Bannerman,Feely,2.7777777777777777,2.083333333333333,48.842592592592595,1.3333333333333333,coil apply be wear seem have note
+Miss Fawlthorne,Ryerson Rainsmith,4.166666666666666,0.0,40.27777777777778,INF,have get
+Miss Fawlthorne,Danforth,4.166666666666666,0.0,40.27777777777778,INF,have get
+Ryerson Rainsmith,Danforth,4.166666666666666,0.0,40.27777777777778,INF,have get
+Danforth,Miss Fawlthorne,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,have be plan have pick
+Danforth,Miss Bodycote,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,have be plan have pick
+Miss Fawlthorne,Miss Bodycote,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,have be plan have pick
+Feely,Daffy,4.5,1.5,42.0,3.0,be be have refer call
+Dorsey,Miss Fawlthorne,2.604166666666667,8.854166666666668,38.54166666666667,0.29411764705882354,imagine allow get
+Miss Fawlthorne,Dorsey,2.604166666666667,8.854166666666668,38.54166666666667,0.29411764705882354,imagine allow get
+Miss Bodycote,Female Academy,0.9615384615384616,4.807692307692308,63.46153846153846,0.2,lay
+Miss Fawlthorne,Mrs. Bannerman,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,have notice be happen
+Flavia,Mrs. Bannerman,0.0,2.083333333333333,31.25,0.0,be say
+Wentworth,Le Marchand,2.2058823529411766,2.941176470588235,36.029411764705884,0.75,be be add
+Miss Bodycote,Female Academy,2.5510204081632653,1.2755102040816326,52.295918367346935,2.0,be be call be expect conduct have be
+Miss Fawlthorne,Jumbo,0.7653061224489796,0.0,52.295918367346935,INF,be follow bring
+Jumbo,Fabian,6.578947368421052,3.289473684210526,58.55263157894737,2.0,cluster be enjoy be learn inhale
+Jumbo,Van Arque,6.578947368421052,3.289473684210526,58.55263157894737,2.0,cluster be enjoy be learn inhale
+Fabian,Van Arque,6.578947368421052,3.289473684210526,58.55263157894737,2.0,cluster be enjoy be learn inhale
+Scarlett,Van Arque,6.41025641025641,6.41025641025641,64.1025641025641,1.0,have be prattle have vanish be
+Fabian,Miss Bodycote,2.2540983606557377,2.459016393442623,51.02459016393443,0.9166666666666666,stop have be walk smash fall see have rip let loose be suppose be know
+Fabian,Female Academy,2.2540983606557377,2.459016393442623,51.02459016393443,0.9166666666666666,stop have be walk smash fall see have rip let loose be suppose be know
+Miss Bodycote,Female Academy,2.2540983606557377,2.459016393442623,51.02459016393443,0.9166666666666666,stop have be walk smash fall see have rip let loose be suppose be know
+Dorsey,Collingwood,4.166666666666666,1.0416666666666665,53.125,4.0,be have be
+Dorsey,Fitzgibbon,2.272727272727273,0.5681818181818182,47.159090909090914,4.0,be have be refer say have
+Dorsey,Flavia,2.8846153846153846,0.0,58.65384615384615,INF,back descend match edge
+Daffy,Mrs. Mullet,2.146464646464646,1.2626262626262625,57.1969696969697,1.7,have pinch make count be borrow use describe entrust be permit be wash iron stiffen fold
+Daffy,Mrs. Mullet,2.146464646464646,1.2626262626262625,57.1969696969697,1.7,have pinch make count be borrow use describe entrust be permit be wash iron stiffen fold
+Miss Bodycote,Female Academy,2.083333333333333,2.083333333333333,45.83333333333333,1.0,be register
+Scarlett,Miss Fawlthorne,0.22727272727272727,0.0,50.68181818181819,INF,reappear accord
+Scarlett,Mrs. Bannerman,0.22727272727272727,0.0,50.68181818181819,INF,reappear accord
+Miss Fawlthorne,Mrs. Bannerman,0.22727272727272727,0.0,50.68181818181819,INF,reappear accord
+Miss Fawlthorne,Mrs. Bannerman,2.5,0.4166666666666667,37.083333333333336,6.0,be be launder
+Miss Fawlthorne,Fitzgibbon,2.5,0.4166666666666667,37.083333333333336,6.0,be be launder
+Mrs. Bannerman,Fitzgibbon,2.5,0.4166666666666667,37.083333333333336,6.0,be be launder
+Kelly,Mrs. Bannerman,3.0555555555555554,2.5,52.22222222222223,1.2222222222222223,be miss stoke be do require have use gain
+Michael,Miss Fawlthorne,0.0,0.0,16.666666666666664,INF,
+Clarissa Brazenose,Jumbo,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,have be
+Scarlett,Gremly,0.0,3.8461538461538463,34.61538461538461,0.0,have try warn have
+Miss Bodycote,Female Academy,1.5957446808510638,3.723404255319149,45.744680851063826,0.42857142857142855,be spring train
+Miss Bodycote,Female Academy,1.2195121951219512,2.7439024390243905,59.45121951219512,0.4444444444444444,claim be be require scramble be
+Daffy,Jack,2.0,1.9,53.7,1.0526315789473684,fly be read alia wreak boil bind extract be lash have betray remove be
+Daffy,Jack,2.0,1.9,53.7,1.0526315789473684,fly be read alia wreak boil bind extract be lash have betray remove be
+Jumbo,Dorsey,2.7777777777777777,3.4722222222222223,57.638888888888886,0.8,know do care have
+Miss Fawlthorne,Fitzgibbon,2.34375,0.78125,40.625,3.0,say be go
+Ryerson Rainsmith,Danforth,0.0,0.0,35.714285714285715,INF,see
+Miss Bodycote,Female Academy,2.2058823529411766,2.2058823529411766,46.568627450980394,1.0,suppose have become be
+Miss Bodycote,Female Academy,0.8333333333333334,0.8333333333333334,58.333333333333336,1.0,be
+Miss Bodycote,Female Academy,0.3676470588235294,0.3676470588235294,55.14705882352941,1.0,be
+Clarissa Brazenose,Michael,3.8793103448275863,0.8620689655172413,60.775862068965516,4.5,be wear be snuggle
+Michael,Clarissa Brazenose,3.8793103448275863,0.8620689655172413,60.775862068965516,4.5,be wear be snuggle
+Paul,Nelson,2.0,1.0,61.0,2.0,be turn be say come
+Francesca,Miss Fawlthorne,0.0,0.0,53.333333333333336,INF,suppose do say
+Ryerson Rainsmith,Dr. Rainsmith,0.0,0.0,41.66666666666667,INF,mean be devastate
+Flavia,Dorsey,4.545454545454546,5.681818181818182,44.31818181818182,0.8,be
+Clarissa Brazenose,Le Marchand,3.125,3.125,50.0,1.0,have believe blacken be miss miss
+Clarissa Brazenose,Wentworth,3.125,3.125,50.0,1.0,have believe blacken be miss miss
+Le Marchand,Wentworth,3.125,3.125,50.0,1.0,have believe blacken be miss miss
+Miss Fawlthorne,Clarissa Brazenose,0.0,1.7857142857142856,41.07142857142857,0.0,excuse say be
+Miss Bodycote,Female Academy,0.8522727272727272,0.8522727272727272,59.65909090909091,1.0,be have put fail flourish be be send
+Female Academy,Miss Bodycote,0.8522727272727272,0.8522727272727272,59.65909090909091,1.0,be have put fail flourish be be send
+Fitzgibbon,Miss Fawlthorne,0.0,0.0,27.27272727272727,INF,thank say
+Miss Bodycote,Female Academy,0.8620689655172413,0.8620689655172413,74.13793103448276,1.0,have learn remain find have be identify
+Dr. Rainsmith,Royal Ontario Museum,4.411764705882353,0.7352941176470588,65.44117647058823,6.0,go say have be consult
+Dorsey,Gravenhurst,1.9021739130434785,0.0,48.09782608695652,INF,be be know be go find be
+Dorsey,Wallace Scroop,1.9021739130434785,0.0,48.09782608695652,INF,be be know be go find be
+Gravenhurst,Wallace Scroop,1.9021739130434785,0.0,48.09782608695652,INF,be be know be go find be
+Mrs. Mullet,Alf,2.976190476190476,0.0,68.45238095238095,INF,be have hear
+Le Marchand,Wentworth,1.0416666666666665,3.125,20.833333333333336,0.3333333333333333,be
+Le Marchand,Clarissa Brazenose,1.0416666666666665,3.125,20.833333333333336,0.3333333333333333,be
+Wentworth,Clarissa Brazenose,1.0416666666666665,3.125,20.833333333333336,0.3333333333333333,be
+Miss Fawlthorne,Wallace Scroop,0.0,0.0,33.33333333333333,INF,say hand
+Flavia,Wallace Scroop,1.25,0.0,28.749999999999996,INF,sit say
+Peter Pan,Miss Bodycote,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,have pull arrive be try
+Miss Bodycote,Peter Pan,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,have pull arrive be try
+Collingwood,Miss Fawlthorne,0.8333333333333334,3.3333333333333335,62.5,0.25,be be rescue
+Phyllis,Bishop,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,forget laugh call be strike
+Phyllis,Lacey,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,forget laugh call be strike
+Phyllis,Bishop,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,forget laugh call be strike
+Phyllis,Lacey,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,forget laugh call be strike
+Bishop,Lacey,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,forget laugh call be strike
+Phyllis,St. Tancred 's,3.125,2.604166666666667,56.770833333333336,1.2,have die have attend
+Phyllis,St. Tancred 's,3.125,2.604166666666667,56.770833333333336,1.2,have die have attend
+Flavia,Miss Fawlthorne,3.0,2.0,35.0,1.5,learn say notice have answer
+Flavia,Miss Fawlthorne,3.0,2.0,35.0,1.5,learn say notice have answer
+Le Marchand,Wentworth,6.944444444444445,6.944444444444445,8.333333333333332,1.0,
+Mr. Gradgrind,Dickens,2.586206896551724,2.586206896551724,53.44827586206896,1.0,have meet be
+Dickens,Buckshaw,3.9893617021276597,0.7978723404255319,50.53191489361703,5.0,seem echo have fall read want be
+Dickens,Daffy,3.9893617021276597,0.7978723404255319,50.53191489361703,5.0,seem echo have fall read want be
+Buckshaw,Daffy,3.9893617021276597,0.7978723404255319,50.53191489361703,5.0,seem echo have fall read want be
+Miss Fawlthorne,Miss Bodycote,1.5625,6.770833333333333,58.333333333333336,0.23076923076923078,be have deal wish remain
+Le Marchand,Wentworth,1.3888888888888888,4.166666666666666,27.77777777777778,0.3333333333333333,be
+Le Marchand,Wentworth,2.941176470588235,2.941176470588235,35.294117647058826,1.0,be be
+Le Marchand,Clarissa Brazenose,2.941176470588235,2.941176470588235,35.294117647058826,1.0,be be
+Wentworth,Clarissa Brazenose,2.941176470588235,2.941176470588235,35.294117647058826,1.0,be be
+Miss Bodycote,Female Academy,5.487804878048781,2.4390243902439024,60.36585365853659,2.25,have be be have be murder be wonder stuff
+Miss Fawlthorne,Miss Bodycote,2.1341463414634148,0.3048780487804878,63.41463414634146,7.0,do remember have announce drop go mean keep come
+Miss Fawlthorne,Female Academy,2.1341463414634148,0.3048780487804878,63.41463414634146,7.0,do remember have announce drop go mean keep come
+Miss Bodycote,Female Academy,2.1341463414634148,0.3048780487804878,63.41463414634146,7.0,do remember have announce drop go mean keep come
+Mrs. Bannerman,William Palmer,1.282051282051282,2.564102564102564,60.256410256410255,0.5,wait open be delay think get
+William Palmer,Mrs. Mullet,2.4390243902439024,1.2195121951219512,54.87804878048781,2.0,write be be wash fly say outline have ask spot be be
+William Palmer,Mrs. Mullet,2.4390243902439024,1.2195121951219512,54.87804878048781,2.0,write be be wash fly say outline have ask spot be be
+William Palmer,Mrs. Mullet,2.4390243902439024,1.2195121951219512,54.87804878048781,2.0,write be be wash fly say outline have ask spot be be
+Gravenhurst,LaBelle,1.5625,0.78125,47.65625,2.0,recognize
+Miss Fawlthorne,Mrs. Bannerman,0.0,0.0,50.0,INF,face be be
+Gravenhurst,Mrs. Bannerman,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,be ease
+Gravenhurst,Mrs. Bannerman,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,be ease
+Gravenhurst,Mrs. Bannerman,3.0,9.0,48.0,0.3333333333333333,know be
+Mrs. Bannerman,Miss Bodycote,5.113636363636364,2.272727272727273,51.70454545454546,2.25,have take question
+Gremly,Miss Fawlthorne,1.3888888888888888,0.0,48.61111111111111,INF,be have claim
+Miss Fawlthorne,Mrs. Rainsmith,4.411764705882353,5.147058823529411,55.14705882352941,0.8571428571428571,be have tip
+Mrs. Rainsmith,Gremly,3.0,6.0,39.0,0.5,have ask have recoil be
+Mrs. Rainsmith,Gremly,3.0,6.0,39.0,0.5,have ask have recoil be
+Clarissa Brazenose,Wentworth,2.5,2.5,48.333333333333336,1.0,be have feed be
+Clarissa Brazenose,Le Marchand,2.5,2.5,48.333333333333336,1.0,be have feed be
+Clarissa Brazenose,Le Marchand,2.5,2.5,48.333333333333336,1.0,be have feed be
+Wentworth,Le Marchand,2.5,2.5,48.333333333333336,1.0,be have feed be
+Wentworth,Le Marchand,2.5,2.5,48.333333333333336,1.0,be have feed be
+Bishop,Lacey,0.0,0.0,41.17647058823529,INF,be
+Bishop,St. Tancred 's,0.0,0.0,41.17647058823529,INF,be
+Lacey,St. Tancred 's,0.0,0.0,41.17647058823529,INF,be
+Mrs. Mullet,Alf,0.625,0.0,54.37499999999999,INF,be keep trim
+Mrs. Mullet,Alf,0.625,0.0,54.37499999999999,INF,be keep trim
+Sal,Marge,1.7241379310344827,0.0,70.6896551724138,INF,scrape follow tell have fetch have drop
+Marge,Sal,1.7857142857142856,0.0,55.35714285714286,INF,confirm have hand
+Sal,Marge,5.555555555555555,1.3888888888888888,54.166666666666664,4.0,picture track move read
+Sal,Marge,5.555555555555555,1.3888888888888888,54.166666666666664,4.0,picture track move read
+Sal,Francesca,1.7857142857142856,0.0,41.07142857142857,INF,tremble
+Marge,Francesca,0.0,3.125,30.208333333333332,0.0,be do
+Marge,Sal,0.0,0.0,44.44444444444444,INF,be
+Marge,Sal,0.0,0.9615384615384616,60.57692307692307,0.0,put take put step
+Marge,Sal,0.0,0.9615384615384616,60.57692307692307,0.0,put take put step
+Marge,Sal,0.0,0.9615384615384616,60.57692307692307,0.0,put take put step
+Sal,Marge,0.0,0.9615384615384616,60.57692307692307,0.0,put take put step
+Sal,Marge,0.0,0.9615384615384616,60.57692307692307,0.0,put take put step
+Marge,Sal,1.9230769230769231,0.4807692307692308,51.442307692307686,4.0,go have be stitch
+Wallace Scroop,Sal,1.6666666666666667,1.6666666666666667,30.0,1.0,do have do say
+Wallace Scroop,Marge,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be nose be
+Wallace Scroop,Marge,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be nose be
+Miss Fawlthorne,Wallace Scroop,0.0,5.681818181818182,48.86363636363637,0.0,say breathe
+Wallace Scroop,Miss Fawlthorne,3.571428571428571,0.8928571428571428,31.25,4.0,send be say correct
+Wallace Scroop,Miss Fawlthorne,3.571428571428571,0.8928571428571428,31.25,4.0,send be say correct
+Wallace Scroop,Marge,3.571428571428571,0.8928571428571428,31.25,4.0,send be say correct
+Miss Fawlthorne,Marge,3.571428571428571,0.8928571428571428,31.25,4.0,send be say correct
+Miss Fawlthorne,Marge,3.571428571428571,0.8928571428571428,31.25,4.0,send be say correct
+Dorsey,Mrs. Rainsmith,0.0,1.25,48.75,0.0,know say
+Dorsey,Sal,0.0,1.25,48.75,0.0,know say
+Dorsey,Marge,0.0,1.25,48.75,0.0,know say
+Mrs. Rainsmith,Sal,0.0,1.25,48.75,0.0,know say
+Mrs. Rainsmith,Marge,0.0,1.25,48.75,0.0,know say
+Sal,Marge,0.0,1.25,48.75,0.0,know say
+Mrs. Rainsmith,Dorsey,0.625,3.75,45.625,0.16666666666666666,say be say
+Mrs. Rainsmith,Dorsey,0.625,3.75,45.625,0.16666666666666666,say be say
+Mrs. Rainsmith,Marge,0.625,3.75,45.625,0.16666666666666666,say be say
+Dorsey,Marge,0.625,3.75,45.625,0.16666666666666666,say be say
+Dorsey,Marge,0.625,3.75,45.625,0.16666666666666666,say be say
+Mrs. Rainsmith,Marge,1.25,0.0,38.75,INF,do admit
+Dorsey,Marge,0.8928571428571428,0.8928571428571428,44.642857142857146,1.0,have happen come
+Marge,Sal,2.5,2.5,47.0,1.0,glow brush know be
+Sal,Marge,2.5,2.5,47.0,1.0,glow brush know be
+Sal,Marge,2.5,2.5,47.0,1.0,glow brush know be
+Marge,Sal,4.464285714285714,2.6785714285714284,50.0,1.6666666666666667,give head
+Marge,Fitzgibbon,3.260869565217391,0.0,44.565217391304344,INF,call get put
+Mrs. Bannerman,Miss Bodycote,0.8064516129032258,4.838709677419355,62.096774193548384,0.16666666666666666,be seem have cast
+Miss Bodycote,Female Academy,3.353658536585366,3.6585365853658534,61.28048780487805,0.9166666666666666,think be realize be remain
+Gremly,Scarlett,1.953125,1.171875,43.75,1.6666666666666667,have make have grow
+Francesca,Dorsey,0.9259259259259258,0.0,47.22222222222222,INF,want be
+Dorsey,Francesca,0.9259259259259258,0.0,47.22222222222222,INF,want be
+Edward Kelly,Miss Bodycote,1.0,2.5,52.5,0.4,be fit
+Mrs. Bannerman,Gravenhurst,2.857142857142857,3.9285714285714284,58.92857142857143,0.7272727272727273,stick do appear have arrest
+Gravenhurst,Mrs. Bannerman,2.857142857142857,3.9285714285714284,58.92857142857143,0.7272727272727273,stick do appear have arrest
+Shakespeare,Daffy,1.1904761904761905,0.0,51.19047619047619,INF,have have hoist accord mean roust
+Shakespeare,Daffy,1.1904761904761905,0.0,51.19047619047619,INF,have have hoist accord mean roust
+Le Marchand,Wentworth,1.875,1.875,51.24999999999999,1.0,have mention want keep
+Miss Fawlthorne,Miss Moate,4.166666666666666,2.604166666666667,55.729166666666664,1.6,have suggest be be
+Patricia Anne,Nicholas Nickleby,0.6097560975609756,0.9146341463414633,59.45121951219512,0.6666666666666666,be cuddle be wedge lean
+Patricia Anne,Shakespeare,0.8771929824561403,1.0964912280701753,64.69298245614034,0.8,neighbor be mean be model appear be be try include mention
+Michael,Jack,1.7857142857142856,1.25,56.96428571428571,1.4285714285714286,be be manage nick admit be picture be
+Mrs. Mullet,Alf,4.166666666666666,2.380952380952381,55.35714285714286,1.75,have win say lose
+Collingwood,Mrs. Bannerman,2.1551724137931036,3.0172413793103448,60.3448275862069,0.7142857142857143,be miss be be stick rub
+Miss Fawlthorne,Danforth,0.9868421052631579,0.9868421052631579,66.44736842105263,1.0,be play have see pick
+Miss Fawlthorne,Ryerson Rainsmith,0.9868421052631579,0.9868421052631579,66.44736842105263,1.0,be play have see pick
+Danforth,Ryerson Rainsmith,0.9868421052631579,0.9868421052631579,66.44736842105263,1.0,be play have see pick
+Elvina,Merton,0.0,0.0,38.46153846153847,INF,say take
+Elvina,Merton,2.5,0.0,57.49999999999999,INF,know be fib be wash have begin bake
+Merton,Elvina,2.5,0.0,57.49999999999999,INF,know be fib be wash have begin bake
+Merton,Elvina,0.6944444444444444,0.3472222222222222,65.625,2.0,pull be sit do boil join
+Merton,Elvina,0.6944444444444444,0.3472222222222222,65.625,2.0,pull be sit do boil join
+Merton,Mrs. Rainsmith,0.0,0.0,35.714285714285715,INF,
+Dr. Rainsmith,Merton,1.2096774193548387,2.4193548387096775,47.983870967741936,0.5,mean be be be train cope
+Dr. Rainsmith,Merton,1.2096774193548387,2.4193548387096775,47.983870967741936,0.5,mean be be be train cope
+Elvina,Merton,0.0,0.5681818181818182,53.97727272727273,0.0,give say die
+Elvina,Flavia,0.0,0.5681818181818182,53.97727272727273,0.0,give say die
+Merton,Flavia,0.0,0.5681818181818182,53.97727272727273,0.0,give say die
+Elvina,Mrs. Rainsmith,3.125,7.291666666666667,37.5,0.42857142857142855,change say be be be
+Elvina,Mrs. Rainsmith,3.125,7.291666666666667,37.5,0.42857142857142855,change say be be be
+Mrs. Rainsmith,Beaux Arts Ball,1.0416666666666665,2.083333333333333,46.875,0.5,present be take do
+Beaux Arts Ball,Mrs. Rainsmith,1.0416666666666665,2.083333333333333,46.875,0.5,present be take do
+Beaux Arts Ball,Mrs. Rainsmith,1.0416666666666665,2.083333333333333,46.875,0.5,present be take do
+Dr. Rainsmith,Mrs. Rainsmith,1.4705882352941175,6.61764705882353,50.73529411764706,0.2222222222222222,bring have send
+Miss Fawlthorne,Mrs. Rainsmith,0.7352941176470588,2.941176470588235,55.14705882352941,0.25,say be
+Mrs. Rainsmith,Elvina,2.5,5.833333333333333,45.0,0.42857142857142855,expect be say look
+Francesca,Beaux Arts Ball,0.0,0.0,40.0,INF,be wear
+Miss Bodycote,Female Academy,0.0,1.1363636363636365,44.31818181818182,0.0,mean
+Miss Fawlthorne,Collingwood,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Miss Fawlthorne,Merton,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Miss Fawlthorne,Elvina,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Collingwood,Merton,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Collingwood,Elvina,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Merton,Elvina,4.62962962962963,3.2407407407407405,36.574074074074076,1.4285714285714286,want tell worry
+Dogger,Buckshaw,1.5625,0.0,48.4375,INF,be have receive
+Miss Bodycote,Female Academy,0.0,3.9473684210526314,59.210526315789465,0.0,make know be
+Jumbo,Druce,1.3157894736842104,0.6578947368421052,34.868421052631575,2.0,be ask serve
+Miss Fawlthorne,Miss Moate,0.5952380952380952,0.0,42.26190476190476,INF,
+Miss Fawlthorne,Mrs. Bannerman,0.5952380952380952,0.0,42.26190476190476,INF,
+Miss Moate,Mrs. Bannerman,0.5952380952380952,0.0,42.26190476190476,INF,
+Moatey,Fabian,3.6764705882352944,0.0,49.26470588235294,INF,say flick
+Francesca,Moatey,0.0,0.0,47.05882352941176,INF,be sit bring
+Ryerson Rainsmith,Miss Moate,0.0,0.0,28.57142857142857,INF,
+Fabian,Miss Moate,2.5,0.0,52.5,INF,regard say have
+Beaux Arts Ball,Francesca,0.0,5.232558139534884,45.93023255813954,0.0,die think assume come
+Miss Moate,Francesca,0.0,0.4032258064516129,44.75806451612903,0.0,produce break tuck
+Miss Moate,Francesca,0.0,0.4032258064516129,44.75806451612903,0.0,produce break tuck
+Miss Moate,Francesca,0.0,0.4032258064516129,44.75806451612903,0.0,produce break tuck
+Miss Moate,Francesca,0.0,0.4032258064516129,44.75806451612903,0.0,produce break tuck
+Francesca,Michael,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,give
+Francesca,Clarissa Brazenose,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Clarissa Brazenose,Francesca,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Clarissa Brazenose,Francesca,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Clarissa Brazenose,Francesca,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Clarissa Brazenose,Francesca,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Clarissa Brazenose,Francesca,4.72972972972973,0.33783783783783783,48.986486486486484,14.0,ask have have present stare be try remember be be do
+Francesca,Miss Fawlthorne,0.0,0.0,40.909090909090914,INF,help say
+Francesca,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Francesca,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Francesca,Miss Fawlthorne,0.0,0.0,40.909090909090914,INF,help say
+Francesca,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Francesca,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Miss Fawlthorne,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Miss Fawlthorne,Miss Dawes,0.0,0.0,40.909090909090914,INF,help say
+Mrs. Rainsmith,Edith Cavell,0.0,0.0,28.57142857142857,INF,take
+Mrs. Rainsmith,Edith Cavell,2.604166666666667,0.5208333333333333,38.54166666666667,5.0,be renovate have move get fume
+Dorsey,Miss Dawes,0.0,3.289473684210526,44.07894736842105,0.0,come dance
+Michael,Clarissa Brazenose,4.375,4.375,56.25,1.0,think have congratulate win
+Dogger,Fabian,1.9230769230769231,0.9615384615384616,63.78205128205128,2.0,be have learn pore have turn
+Clarissa Brazenose,Fabian,5.357142857142857,2.976190476190476,39.285714285714285,1.8,have be
+Fabian,Clarissa Brazenose,2.717391304347826,1.6304347826086956,34.78260869565217,1.6666666666666667,have be talk say
+Fabian,Clarissa Brazenose,3.804347826086957,0.0,52.71739130434783,INF,reveal be have win have lose
+Fabian,Clarissa Brazenose,3.804347826086957,0.0,52.71739130434783,INF,reveal be have win have lose
+Elvina,Merton,2.840909090909091,1.4204545454545454,50.28409090909091,2.0,be realize deal deal reply be help
+Elvina,Merton,2.840909090909091,1.4204545454545454,50.28409090909091,2.0,be realize deal deal reply be help
+Dorsey,Elvina,1.7361111111111112,0.3472222222222222,47.91666666666667,5.0,come say place lead turn be
+Francesca,Beaux Arts Ball,0.0,0.78125,55.46875,0.0,die say
+Dr. Rainsmith,Ryerson Rainsmith,0.0,0.0,36.36363636363637,INF,mean
+Dorsey,Elvina,1.1363636363636365,0.0,35.22727272727273,INF,get lock
+Ryerson Rainsmith,Elvina,3.3333333333333335,0.0,36.666666666666664,INF,wish wait come say
+Francesca,Edith Cavell,0.3676470588235294,4.411764705882353,42.279411764705884,0.08333333333333333,see say believe be suffer take
+Francesca,Edith Cavell,0.3676470588235294,4.411764705882353,42.279411764705884,0.08333333333333333,see say believe be suffer take
+Edith Cavell,Francesca,0.5,0.0,39.5,INF,get find
+Miss Dawes,Miss Bodycote,5.803571428571429,7.142857142857142,51.33928571428571,0.8125,be decide
+Miss Dawes,Female Academy,5.803571428571429,7.142857142857142,51.33928571428571,0.8125,be decide
+Miss Bodycote,Female Academy,5.803571428571429,7.142857142857142,51.33928571428571,0.8125,be decide
+Ryerson Rainsmith,Dorsey,1.9396551724137931,1.9396551724137931,51.293103448275865,1.0,contain alert have fall be pack put mingle return
+Kelly,Jack,2.4390243902439024,5.182926829268292,58.231707317073166,0.47058823529411764,have ask have observe be have be fly
+Francesca,Edith Cavell,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Francesca,Edith Cavell,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Francesca,Beaux Arts Ball,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Francesca,Edith Cavell,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Francesca,Edith Cavell,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Francesca,Beaux Arts Ball,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Edith Cavell,Beaux Arts Ball,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Edith Cavell,Beaux Arts Ball,0.8620689655172413,1.5086206896551724,49.353448275862064,0.5714285714285714,suppose ask manage get sever be spot be crawl
+Fabian,Clarissa Brazenose,3.4722222222222223,4.166666666666666,50.69444444444444,0.8333333333333334,do be tell be be be do be
+Clarissa Brazenose,Fabian,3.4722222222222223,4.166666666666666,50.69444444444444,0.8333333333333334,do be tell be be be do be
+Clarissa Brazenose,Fabian,3.4722222222222223,4.166666666666666,50.69444444444444,0.8333333333333334,do be tell be be be do be
+Fabian,Clarissa Brazenose,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Fabian,Beaux Arts Ball,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Fabian,Francesca,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Clarissa Brazenose,Beaux Arts Ball,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Clarissa Brazenose,Francesca,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Beaux Arts Ball,Francesca,3.75,1.25,48.333333333333336,3.0,have give admit have be have witness
+Francesca,Clarissa Brazenose,3.8461538461538463,0.9615384615384616,41.34615384615385,4.0,have be
+Fabian,Miss Bodycote,2.7777777777777777,4.166666666666666,59.72222222222222,0.6666666666666666,have be create enrol
+Miss Bodycote,Fabian,3.125,0.0,55.208333333333336,INF,have mention
+Fabian,Miss Bodycote,6.696428571428571,2.6785714285714284,54.91071428571429,2.5,have puzzle have be force appear disguise have spot
+Fabian,Scarlett,6.696428571428571,2.6785714285714284,54.91071428571429,2.5,have puzzle have be force appear disguise have spot
+Fabian,Miss Bodycote,6.696428571428571,2.6785714285714284,54.91071428571429,2.5,have puzzle have be force appear disguise have spot
+Miss Bodycote,Scarlett,6.696428571428571,2.6785714285714284,54.91071428571429,2.5,have puzzle have be force appear disguise have spot
+Scarlett,Miss Bodycote,6.696428571428571,2.6785714285714284,54.91071428571429,2.5,have puzzle have be force appear disguise have spot
+Miss Bodycote,Scarlett,3.316326530612245,3.061224489795918,54.8469387755102,1.0833333333333333,speculate have have withdraw appear prove be remember have see close
+Miss Bodycote,Scarlett,3.316326530612245,3.061224489795918,54.8469387755102,1.0833333333333333,speculate have have withdraw appear prove be remember have see close
+Scarlett,Miss Bodycote,3.316326530612245,3.061224489795918,54.8469387755102,1.0833333333333333,speculate have have withdraw appear prove be remember have see close
+Clarissa Brazenose,Miss Bodycote,2.5,0.8333333333333334,63.33333333333333,3.0,risk sneak visit live turn
+Le Marchand,Wentworth,2.0,5.0,49.0,0.4,suppose haunt see
+Le Marchand,Miss Bodycote,2.0,5.0,49.0,0.4,suppose haunt see
+Wentworth,Miss Bodycote,2.0,5.0,49.0,0.4,suppose haunt see
+Miss Fawlthorne,William Palmer,0.0,0.0,57.14285714285714,INF,be seat be
+Miss Fawlthorne,William Palmer,0.0,0.0,57.14285714285714,INF,be seat be
+Miss Moate,Miss Fawlthorne,4.62962962962963,1.3888888888888888,38.425925925925924,3.3333333333333335,be hear have be arrest say release
+Miss Moate,Mrs. Bannerman,4.62962962962963,1.3888888888888888,38.425925925925924,3.3333333333333335,be hear have be arrest say release
+Miss Fawlthorne,Mrs. Bannerman,4.62962962962963,1.3888888888888888,38.425925925925924,3.3333333333333335,be hear have be arrest say release
+Wallace Scroop,Francesca,2.6785714285714284,3.125,58.48214285714286,0.8571428571428571,be have cease make
+Wallace Scroop,Miss Bodycote,0.0,1.7045454545454544,57.38636363636363,0.0,do have drag
+Wallace Scroop,Female Academy,0.0,1.7045454545454544,57.38636363636363,0.0,do have drag
+Miss Bodycote,Female Academy,0.0,1.7045454545454544,57.38636363636363,0.0,do have drag
+Mrs. Bannerman,Miss Fawlthorne,4.166666666666666,2.083333333333333,47.4537037037037,2.0,have say stare give stir mention be be be keep
+Mrs. Bannerman,Miss Fawlthorne,4.166666666666666,2.083333333333333,47.4537037037037,2.0,have say stare give stir mention be be be keep
+Miss Fawlthorne,Francesca,2.631578947368421,1.9736842105263157,48.026315789473685,1.3333333333333333,be help make recognize
+Miss Fawlthorne,Francesca,2.631578947368421,1.9736842105263157,48.026315789473685,1.3333333333333333,be help make recognize
+Miss Fawlthorne,Francesca,2.631578947368421,1.9736842105263157,48.026315789473685,1.3333333333333333,be help make recognize
+Wentworth,Le Marchand,0.78125,2.34375,21.875,0.3333333333333333,be add
+Wentworth,Clarissa Brazenose,0.78125,2.34375,21.875,0.3333333333333333,be add
+Le Marchand,Clarissa Brazenose,0.78125,2.34375,21.875,0.3333333333333333,be add

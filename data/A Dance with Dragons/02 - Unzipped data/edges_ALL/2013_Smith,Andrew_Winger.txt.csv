@@ -1,0 +1,1373 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Nick,Casey,1.5350877192982455,1.7543859649122806,54.60526315789473,0.875,try drive be point be head be
+Casey,Nick,2.34375,3.90625,64.58333333333334,0.6,feel be convince cuss mean make succeed drown
+Casey,Nick,2.1241830065359477,2.7777777777777777,55.88235294117647,0.7647058823529411,walk make carry be guess be roll do be warn step come welcome involve have detach lose distract
+Casey,Nick,2.1241830065359477,2.7777777777777777,55.88235294117647,0.7647058823529411,walk make carry be guess be roll do be warn step come welcome involve have detach lose distract
+Nick,Casey,2.1241830065359477,2.7777777777777777,55.88235294117647,0.7647058823529411,walk make carry be guess be roll do be warn step come welcome involve have detach lose distract
+Casey,Nick,2.1241830065359477,2.7777777777777777,55.88235294117647,0.7647058823529411,walk make carry be guess be roll do be warn step come welcome involve have detach lose distract
+Seanie,JP,3.125,0.5208333333333333,54.6875,6.0,have do be make get get file move
+Mr. Farrow,Chas,1.5625,0.9375,61.25000000000001,1.6666666666666667,be push scan look stuff lean slump be hide prepare
+Mr. Farrow,Chas,1.5625,0.9375,61.25000000000001,1.6666666666666667,be push scan look stuff lean slump be hide prepare
+Ryan Dean,Chas,0.3676470588235294,1.8382352941176472,44.85294117647059,0.2,say have unpack pick be need hurry
+Chas,Mr. Farrow,0.9146341463414633,0.9146341463414633,61.58536585365854,1.0,be push squeeze heft look use cart drop
+Chas,Mr. Farrow,0.9146341463414633,0.9146341463414633,61.58536585365854,1.0,be push squeeze heft look use cart drop
+Chas,Mr. Farrow,3.75,0.0,66.25,INF,turn look do know be
+Mr. Farrow,Chas,3.75,0.0,66.25,INF,turn look do know be
+Mr. Farrow,Chas,3.75,0.0,66.25,INF,turn look do know be
+Chas,Mr. Farrow,4.0,0.0,64.0,INF,think be go hit be be watch
+Mr. Farrow,Chas,0.5,0.5,35.0,1.0,clear say be go need reinvent
+Mr. Farrow,Chas,0.5,0.5,35.0,1.0,clear say be go need reinvent
+Chas,Mr. Farrow,2.8846153846153846,0.0,62.5,INF,rub think be wait leave reassign
+Mr. Farrow,Chas,2.8846153846153846,0.0,62.5,INF,rub think be wait leave reassign
+Chas,Mr. Farrow,2.586206896551724,3.2327586206896552,54.525862068965516,0.8,see come feel feel give see think hurt
+Chas,Mr. Farrow,2.586206896551724,3.2327586206896552,54.525862068965516,0.8,see come feel feel give see think hurt
+Chas,Mr. Farrow,2.586206896551724,3.2327586206896552,54.525862068965516,0.8,see come feel feel give see think hurt
+Ryan Dean,Mr. Farrow,1.4705882352941175,2.0220588235294117,59.74264705882353,0.7272727272727273,fumble climb wonder be go get need pee rig have invent slip pull shut
+Ryan Dean,Mr. Farrow,1.4705882352941175,2.0220588235294117,59.74264705882353,0.7272727272727273,fumble climb wonder be go get need pee rig have invent slip pull shut
+Annie,Ryan Dean,2.604166666666667,4.6875,59.375,0.5555555555555556,make feel choke tell have take gain learn
+Seanie,JP,2.8125,3.125,49.0625,0.9,see wait make feel see miss room
+Seanie,JP,1.7857142857142856,3.571428571428571,37.5,0.5,play
+Seanie,JP,3.7037037037037033,3.4722222222222223,48.379629629629626,1.0666666666666667,play be have play be give
+Seanie,JP,3.7037037037037033,3.4722222222222223,48.379629629629626,1.0666666666666667,play be have play be give
+Seanie,JP,3.7037037037037033,3.4722222222222223,48.379629629629626,1.0666666666666667,play be have play be give
+JP,Sartre,0.0,0.0,50.0,INF,be
+John-Paul Tureau,Sartre,3.2327586206896552,2.1551724137931036,56.68103448275862,1.5,be start call stick do get assume be mean hint do
+Seanie,Sean Russell Flaherty,3.90625,3.90625,54.6875,1.0,inherit be
+Seanie,Sean Russell Flaherty,3.90625,3.90625,54.6875,1.0,inherit be
+Chas,Betch,0.7575757575757576,1.1363636363636365,37.5,0.6666666666666666,be shorten combine do have call
+Betch,Chas,0.7575757575757576,1.1363636363636365,37.5,0.6666666666666666,be shorten combine do have call
+Betch,Chas,0.7575757575757576,1.1363636363636365,37.5,0.6666666666666666,be shorten combine do have call
+Betch,Chas,0.7575757575757576,1.1363636363636365,37.5,0.6666666666666666,be shorten combine do have call
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+Joey,Kevin,0.9146341463414633,1.9817073170731707,53.20121951219512,0.46153846153846156,be make run snuck make do run allow make swim
+JP,Seanie,0.33783783783783783,4.054054054054054,55.067567567567565,0.08333333333333333,leave finish take leave use live
+Chas,Annie,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be count bank say
+Megan,Chas,0.0,0.0,28.57142857142857,INF,be
+Annie,American Literature,3.5256410256410255,0.641025641025641,65.06410256410257,5.5,have condition have
+Chas,Megan,2.604166666666667,4.6875,55.208333333333336,0.5555555555555556,be goof sneak think be be
+Chas,Annie,2.604166666666667,4.6875,55.208333333333336,0.5555555555555556,be goof sneak think be be
+Chas,Megan,2.604166666666667,4.6875,55.208333333333336,0.5555555555555556,be goof sneak think be be
+Chas,Annie,2.604166666666667,4.6875,55.208333333333336,0.5555555555555556,be goof sneak think be be
+Megan,Annie,2.604166666666667,4.6875,55.208333333333336,0.5555555555555556,be goof sneak think be be
+Ryan Dean,Annie,3.977272727272727,3.4090909090909087,53.97727272727273,1.1666666666666667,say decide do try make take feel
+Seanie,JP,0.0,0.8928571428571428,63.39285714285714,0.0,find seat
+JP,Seanie,8.854166666666668,2.604166666666667,51.041666666666664,3.4,have be have see do make feel
+Seanie,JP,2.1551724137931036,2.1551724137931036,57.758620689655174,1.0,be go have
+Chas,Megan,1.9230769230769231,0.4807692307692308,59.13461538461539,4.0,be have see sit hang
+Megan,Chas,1.7857142857142856,0.0,55.35714285714286,INF,play be ace
+Megan,Chas,1.7857142857142856,0.0,55.35714285714286,INF,play be ace
+Megan,Chas,3.6764705882352944,3.1862745098039214,55.88235294117647,1.1538461538461537,know be see have have breed pack run
+Megan,Chas,3.6764705882352944,3.1862745098039214,55.88235294117647,1.1538461538461537,know be see have have breed pack run
+Chas,Megan,3.6764705882352944,3.1862745098039214,55.88235294117647,1.1538461538461537,know be see have have breed pack run
+Megan,Chas,3.6764705882352944,3.1862745098039214,55.88235294117647,1.1538461538461537,know be see have have breed pack run
+Buzzard,Annie,1.9230769230769231,0.9615384615384616,58.65384615384615,2.0,tell run tell run
+Seanie,Betch,0.0,0.0,30.0,INF,say loan play
+Seanie,JP,3.618421052631579,0.3289473684210526,48.68421052631579,11.0,watch get walk stop say smile shake
+Annie,Isabel,0.5434782608695652,0.0,55.97826086956522,INF,be be
+Annie,Isabel,0.5434782608695652,0.0,55.97826086956522,INF,be be
+Annie,JP,2.840909090909091,0.0,60.79545454545454,INF,smile wave wave sit watch watch
+JP,Annie,2.840909090909091,0.0,60.79545454545454,INF,smile wave wave sit watch watch
+Chas,Betch,2.941176470588235,1.1029411764705883,50.36764705882353,2.6666666666666665,close see have set doubt exist make be take do
+Chas,Seanie,2.941176470588235,1.1029411764705883,50.36764705882353,2.6666666666666665,close see have set doubt exist make be take do
+Chas,Seanie,2.941176470588235,1.1029411764705883,50.36764705882353,2.6666666666666665,close see have set doubt exist make be take do
+Betch,Seanie,2.941176470588235,1.1029411764705883,50.36764705882353,2.6666666666666665,close see have set doubt exist make be take do
+Betch,Seanie,2.941176470588235,1.1029411764705883,50.36764705882353,2.6666666666666665,close see have set doubt exist make be take do
+Chas,Joey,1.5625,0.78125,28.90625,2.0,be
+Chas,Kevin,1.5625,0.78125,28.90625,2.0,be
+Joey,Kevin,1.5625,0.78125,28.90625,2.0,be
+Kevin,Joey,3.977272727272727,0.0,59.65909090909091,INF,have keep sneak
+Kevin,Mr. Farrow,3.977272727272727,0.0,59.65909090909091,INF,have keep sneak
+Joey,Mr. Farrow,3.977272727272727,0.0,59.65909090909091,INF,have keep sneak
+Chas,Joey,2.0,1.0,45.0,2.0,be wear
+Chas,Kevin,2.0,1.0,45.0,2.0,be wear
+Chas,Joey,2.0,1.0,45.0,2.0,be wear
+Chas,Kevin,2.0,1.0,45.0,2.0,be wear
+Joey,Kevin,2.0,1.0,45.0,2.0,be wear
+Kevin,Chas,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Kevin,Chas,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Kevin,Chas,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Kevin,Joey,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Chas,Joey,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Chas,Joey,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Chas,Joey,1.5625,1.875,51.5625,0.8333333333333334,play be be play be
+Chas,Joey,0.0,0.0,38.88888888888889,INF,look say do bring
+Chas,Kevin,0.0,0.0,38.88888888888889,INF,look say do bring
+Joey,Kevin,0.0,0.0,38.88888888888889,INF,look say do bring
+Kevin,Joey,2.734375,0.78125,49.609375,3.5,smile stretch be pull
+Kevin,Joey,2.734375,0.78125,49.609375,3.5,smile stretch be pull
+Joey,Chas,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Joey,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Joey,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Joey,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Chas,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Chas,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Chas,Kevin,5.405405405405405,1.3513513513513513,52.702702702702695,4.0,hand grab fly
+Chas,Kevin,1.953125,0.390625,50.78125,5.0,have open be drink take have offer pop open
+Chas,Joey,1.953125,0.390625,50.78125,5.0,have open be drink take have offer pop open
+Chas,Joey,1.953125,0.390625,50.78125,5.0,have open be drink take have offer pop open
+Kevin,Joey,1.953125,0.390625,50.78125,5.0,have open be drink take have offer pop open
+Kevin,Joey,1.953125,0.390625,50.78125,5.0,have open be drink take have offer pop open
+Chas,Joey,1.9230769230769231,0.4807692307692308,57.21153846153846,4.0,reach grab pull hear smell try find place
+Chas,Joey,1.0416666666666665,1.5625,51.5625,0.6666666666666666,be look laugh manage
+Chas,Kevin,1.0416666666666665,1.5625,51.5625,0.6666666666666666,be look laugh manage
+Joey,Kevin,1.0416666666666665,1.5625,51.5625,0.6666666666666666,be look laugh manage
+Joey,Ryan Dean,2.941176470588235,0.0,50.0,INF,tell be get do
+Chas,Joey,6.25,2.7777777777777777,38.19444444444444,2.25,do know get be stand compound
+Chas,Kevin,6.25,2.7777777777777777,38.19444444444444,2.25,do know get be stand compound
+Joey,Kevin,6.25,2.7777777777777777,38.19444444444444,2.25,do know get be stand compound
+Chas,Joey,0.0,0.0,31.25,INF,make
+Chas,Kevin,0.0,0.0,31.25,INF,make
+Joey,Kevin,0.0,0.0,31.25,INF,make
+Chas,Joey,1.4344262295081966,1.639344262295082,51.02459016393443,0.875,be be be begin sing have sing join continue
+Chas,Kevin,1.4344262295081966,1.639344262295082,51.02459016393443,0.875,be be be begin sing have sing join continue
+Joey,Kevin,1.4344262295081966,1.639344262295082,51.02459016393443,0.875,be be be begin sing have sing join continue
+Chas,Kevin,1.8292682926829267,0.3048780487804878,56.40243902439024,6.0,grab pull hear say be go put
+Chas,Joey,2.6785714285714284,0.0,50.89285714285714,INF,have have climb squeeze
+Chas,Kevin,2.6785714285714284,0.0,50.89285714285714,INF,have have climb squeeze
+Joey,Kevin,2.6785714285714284,0.0,50.89285714285714,INF,have have climb squeeze
+Seanie,JP,0.0,0.0,36.36363636363637,INF,be
+Megan,Joey,1.0869565217391304,1.0869565217391304,32.608695652173914,1.0,know be be
+Megan,Joey,0.0,0.0,33.33333333333333,INF,
+Seanie,JP,0.0,5.769230769230769,40.38461538461539,0.0,know tell be
+Kevin,Joey,0.0,0.0,8.333333333333332,INF,
+Kevin,Chas,0.0,0.0,8.333333333333332,INF,
+Joey,Chas,0.0,0.0,8.333333333333332,INF,
+Ryan Dean,JP,0.0,0.0,38.095238095238095,INF,get throw say
+Seanie,Joey,1.9736842105263157,0.0,34.868421052631575,INF,say do look
+Joey,JP,2.7777777777777777,4.166666666666666,15.277777777777779,0.6666666666666666,add
+Seanie,JP,2.380952380952381,0.8928571428571428,56.25,2.6666666666666665,start sing have join hear be sing
+Seanie,JP,1.953125,0.78125,53.515625,2.5,do tell do believe be
+Kevin,Chas,1.25,0.625,38.125,2.0,be
+Kevin,Joey,1.25,0.625,38.125,2.0,be
+Chas,Joey,1.25,0.625,38.125,2.0,be
+Mrs. Kurtz,Ryan Dean,2.1153846153846154,0.7692307692307693,55.57692307692308,2.75,be seem be watch take west
+Mrs. Kurtz,Ryan Dean,2.1153846153846154,0.7692307692307693,55.57692307692308,2.75,be seem be watch take west
+Ryan Dean,Mrs. Kurtz,0.0,0.0,53.333333333333336,INF,west do get
+Ryan Dean,Mrs. Kurtz,3.6764705882352944,0.0,49.26470588235294,INF,west do know be
+Ryan Dean,Seanie,4.545454545454546,3.4090909090909087,46.590909090909086,1.3333333333333333,west be feel make be
+Seanie,Ryan Dean,4.545454545454546,3.4090909090909087,46.590909090909086,1.3333333333333333,west be feel make be
+Megan,Ryan Dean,0.0,0.0,54.54545454545454,INF,be
+Ryan Dean,Joey,0.0,0.0,45.45454545454545,INF,take
+Megan,Joey,0.0,0.0,45.45454545454545,INF,do tell say
+Megan,Joey,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,sit
+Seanie,JP,3.4090909090909087,1.7045454545454544,53.97727272727273,2.0,have stay hear stand laugh
+Annie,American Literature,4.807692307692308,1.9230769230769231,62.5,2.5,have be feel be think see
+Annie,American Literature,4.807692307692308,1.9230769230769231,62.5,2.5,have be feel be think see
+Annie,Ryan Dean,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Annie,Ryan Dean,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Annie,Ryan Dean,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Annie,Ryan Dean,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Annie,Ryan Dean,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Ryan Dean,Annie,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+Ryan Dean,Annie,6.25,0.9868421052631579,48.026315789473685,6.333333333333333,have see touch rub call say hope feel
+JP,Annie,1.25,6.25,42.5,0.2,sit
+Annie,Mr. Wellins,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Annie,American Literature,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Annie,Hawthorne,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Mr. Wellins,American Literature,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Mr. Wellins,Hawthorne,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Mr. Wellins,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Mr. Wellins,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+American Literature,Hawthorne,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+American Literature,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+American Literature,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Hawthorne,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Hawthorne,Annie,4.615384615384616,1.9230769230769231,55.00000000000001,2.4,ask begin blather do be suppose pay feel have slap do care
+Annie,Hawthorne,0.0,2.5,37.5,0.0,ignore listen
+Mr. Wellins,Annie,0.0,0.0,50.0,INF,dismiss spring rush
+Mr. Wellins,Annie,0.0,0.0,50.0,INF,dismiss spring rush
+Seanie,JP,0.0,0.0,53.84615384615385,INF,sit change
+Annie,JP,1.0416666666666665,7.291666666666667,25.0,0.14285714285714285,piss say
+Seanie,Annie,3.125,5.46875,41.40625,0.5714285714285714,say be tell
+Seanie,Ryan Dean,3.125,5.46875,41.40625,0.5714285714285714,say be tell
+Annie,Ryan Dean,3.125,5.46875,41.40625,0.5714285714285714,say be tell
+McAuliffe,Seanie,1.3888888888888888,0.0,43.05555555555556,INF,wait see coach coach call
+JP,Seanie,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+JP,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+JP,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+JP,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+JP,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Seanie,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Seanie,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Seanie,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Seanie,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Casey,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Casey,Nick,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Nick,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Nick,Casey,0.9328358208955223,0.5597014925373134,43.28358208955223,1.6666666666666667,expect pass be stand shout
+Seanie,Casey,5.729166666666666,0.0,44.27083333333333,INF,say wan know know be
+JP,Seanie,7.142857142857142,4.464285714285714,45.535714285714285,1.6,look
+JP,Casey,1.1363636363636365,0.0,62.5,INF,begin laugh stare look kill
+Casey,Nick,4.411764705882353,1.4705882352941175,58.82352941176471,3.0,guess keep watch walk
+Seanie,Chas,2.6785714285714284,0.0,54.46428571428571,INF,end know be come be
+Seanie,Kevin,2.6785714285714284,0.0,54.46428571428571,INF,end know be come be
+Chas,Kevin,2.6785714285714284,0.0,54.46428571428571,INF,end know be come be
+Seanie,JP,0.0,0.0,43.75,INF,do wait get
+Joey,Casey,3.0555555555555554,1.3888888888888888,60.0,2.2,get see step be stand do be do run
+Joey,Nick,3.0555555555555554,1.3888888888888888,60.0,2.2,get see step be stand do be do run
+Casey,Nick,3.0555555555555554,1.3888888888888888,60.0,2.2,get see step be stand do be do run
+Casey,Joey,3.0555555555555554,1.3888888888888888,60.0,2.2,get see step be stand do be do run
+Nick,Joey,3.0555555555555554,1.3888888888888888,60.0,2.2,get see step be stand do be do run
+Casey,Nick,0.0,0.0,63.63636363636363,INF,do notice be come
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Casey,Joey,1.5625,3.125,49.47916666666667,0.5,see puff walk push knock
+Joey,Casey,5.743243243243244,2.364864864864865,51.35135135135135,2.4285714285714284,have be be be have be hit have
+Joey,Casey,5.743243243243244,2.364864864864865,51.35135135135135,2.4285714285714284,have be be be have be hit have
+Joey,Nick,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Nick,Joey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Nick,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Nick,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Nick,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Nick,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Joey,Casey,1.694915254237288,0.0,50.847457627118644,INF,be make be circle be throw launch head shoulder wrap drive crash
+Casey,Joey,4.166666666666666,0.0,57.738095238095234,INF,punch get knock
+Casey,Nick,2.5,0.625,59.375,4.0,hear whistle scream get know be be bleed
+Ryan Dean,Annie,6.1440677966101696,1.4830508474576272,51.69491525423729,4.142857142857143,draw try explain hope realize think be deal be
+Ryan Dean,Annie,6.1440677966101696,1.4830508474576272,51.69491525423729,4.142857142857143,draw try explain hope realize think be deal be
+Seanie,JP,6.25,0.78125,46.09375,8.0,be stand dress have come
+Seanie,Joey,6.25,0.78125,46.09375,8.0,be stand dress have come
+JP,Joey,6.25,0.78125,46.09375,8.0,be stand dress have come
+Casey,Joey,0.0,0.0,25.0,INF,have see
+Seanie,Joey,6.597222222222222,3.8194444444444446,47.91666666666667,1.7272727272727273,be have
+Joey,JP,0.0,0.0,27.27272727272727,INF,tell happen say
+Casey,Seanie,1.5,1.0,41.5,1.5,be lay stick say
+Annie,JP,0.0,0.0,30.0,INF,talk say
+Annie,Ryan Dean,6.730769230769231,5.769230769230769,33.65384615384615,1.1666666666666667,be piss
+JP,Annie,3.3653846153846154,5.288461538461538,56.730769230769226,0.6363636363636364,be get be
+Annie,Seanie,6.578947368421052,1.9736842105263157,38.81578947368421,3.3333333333333335,piss show care say
+Annie,Seanie,6.578947368421052,1.9736842105263157,38.81578947368421,3.3333333333333335,piss show care say
+Annie,JP,6.25,0.0,38.19444444444444,INF,think feel do tell explain
+Annie,JP,6.25,0.0,38.19444444444444,INF,think feel do tell explain
+Chas,Mr. Farrow,1.3392857142857142,2.232142857142857,57.14285714285714,0.6,expect be come tell get be
+Chas,Mr. Farrow,1.3392857142857142,2.232142857142857,57.14285714285714,0.6,expect be come tell get be
+JP,Ryan Dean,0.0,0.0,44.44444444444444,INF,say be
+Mr. Farrow,JP,1.9736842105263157,0.6578947368421052,60.526315789473685,3.0,pull look
+Mr. Farrow,JP,1.9736842105263157,0.6578947368421052,60.526315789473685,3.0,pull look
+JP,John-Paul Tureau,0.0,1.6666666666666667,25.0,0.0,swallow answer
+JP,Sean Russell Flaherty,0.0,1.6666666666666667,25.0,0.0,swallow answer
+John-Paul Tureau,Sean Russell Flaherty,0.0,1.6666666666666667,25.0,0.0,swallow answer
+Mr. Farrow,Ryan Dean,1.5625,0.5208333333333333,43.75,3.0,continue do appreciate
+Seanie,JP,0.8333333333333334,0.0,45.83333333333333,INF,say turn go
+Joey,Kevin,6.4393939393939394,2.6515151515151514,51.515151515151516,2.4285714285714284,have be talk wonder be know be
+Joey,Kevin,6.4393939393939394,2.6515151515151514,51.515151515151516,2.4285714285714284,have be talk wonder be know be
+Joey,Kevin,6.4393939393939394,2.6515151515151514,51.515151515151516,2.4285714285714284,have be talk wonder be know be
+Joey,Kevin,6.4393939393939394,2.6515151515151514,51.515151515151516,2.4285714285714284,have be talk wonder be know be
+Casey,Nick,0.0,0.0,42.857142857142854,INF,be go be
+Chas,Joey,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Chas,Kevin,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Joey,Kevin,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Joey,Chas,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Joey,Chas,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Kevin,Chas,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Kevin,Chas,1.4534883720930232,1.4534883720930232,48.25581395348838,1.0,think be do do seem be see sleep
+Chas,Annie,3.8636363636363633,4.318181818181818,57.27272727272727,0.8947368421052632,make kick climb be be satisfy kick force get cause hate
+Chas,Annie,3.8636363636363633,4.318181818181818,57.27272727272727,0.8947368421052632,make kick climb be be satisfy kick force get cause hate
+Chas,Annie,3.8636363636363633,4.318181818181818,57.27272727272727,0.8947368421052632,make kick climb be be satisfy kick force get cause hate
+Chas,Casey,2.083333333333333,0.5208333333333333,39.0625,4.0,get see say be
+Casey,Chas,0.0,1.0416666666666665,40.625,0.0,be say
+Ryan Dean,Annie,2.387640449438202,2.106741573033708,57.30337078651685,1.1333333333333333,be believe be be walk tie notice get make
+Ryan Dean,Annie,2.387640449438202,2.106741573033708,57.30337078651685,1.1333333333333333,be believe be be walk tie notice get make
+Annie,Chas,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Annie,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Annie,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Annie,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Chas,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Chas,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Chas,Ryan Dean,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Chas,Annie,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Ryan Dean,Annie,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Ryan Dean,Annie,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Ryan Dean,Annie,3.0555555555555554,1.5277777777777777,57.638888888888886,2.0,be know give talk have cross try make break play get incite cause shed
+Annie,Isabel,0.5952380952380952,0.0,61.30952380952381,INF,sit eat sip
+JP,Ryan Dean,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+JP,Seanie,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+JP,Annie,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+Ryan Dean,Seanie,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+Ryan Dean,Annie,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+Seanie,Annie,1.8092105263157896,4.111842105263158,46.71052631578947,0.44,call try wave sit see come go ignore be have keep focus walk sit
+Annie,Isabel,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,look do
+Isabel,Annie,2.1739130434782608,0.5434782608695652,53.80434782608695,4.0,look do
+Annie,Isabel,2.717391304347826,4.891304347826087,40.21739130434783,0.5555555555555556,see lean whisper imagine be say
+Annie,Ryan Dean,0.0,0.0,25.0,INF,think be
+Annie,Ryan Dean,1.4705882352941175,5.147058823529411,63.970588235294116,0.2857142857142857,act get
+Ryan Dean,Chas,4.741379310344827,1.293103448275862,49.137931034482754,3.6666666666666665,talk lie want go run get
+Ryan Dean,Chas,4.741379310344827,1.293103448275862,49.137931034482754,3.6666666666666665,talk lie want go run get
+Ryan Dean,Chas,4.741379310344827,1.293103448275862,49.137931034482754,3.6666666666666665,talk lie want go run get
+JP,Seanie,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,glance see be watch
+Seanie,Annie,3.804347826086957,0.0,54.891304347826086,INF,be see have look be
+Annie,Ryan Dean,6.8181818181818175,3.4090909090909087,53.40909090909091,2.0,wish call
+Isabel,Annie,3.767123287671233,2.3972602739726026,47.26027397260274,1.5714285714285714,luck be sit mean have sit give brush cause employ speculate
+Isabel,Ryan Dean,3.767123287671233,2.3972602739726026,47.26027397260274,1.5714285714285714,luck be sit mean have sit give brush cause employ speculate
+Isabel,Annie,3.767123287671233,2.3972602739726026,47.26027397260274,1.5714285714285714,luck be sit mean have sit give brush cause employ speculate
+Isabel,Ryan Dean,3.767123287671233,2.3972602739726026,47.26027397260274,1.5714285714285714,luck be sit mean have sit give brush cause employ speculate
+Annie,Ryan Dean,3.767123287671233,2.3972602739726026,47.26027397260274,1.5714285714285714,luck be sit mean have sit give brush cause employ speculate
+Isabel,Ryan Dean,3.125,0.0,40.625,INF,get say
+Seanie,JP,5.585106382978723,2.393617021276596,47.340425531914896,2.3333333333333335,be spot pull be lift have help get
+Annie,Ryan Dean,3.90625,0.78125,39.0625,5.0,do make say
+Annie,Seanie,3.90625,0.78125,39.0625,5.0,do make say
+Ryan Dean,Seanie,3.90625,0.78125,39.0625,5.0,do make say
+Seanie,JP,3.90625,2.34375,56.25,1.6666666666666667,be
+Seanie,JP,3.4722222222222223,3.4722222222222223,43.05555555555556,1.0,flip have pull
+Seanie,JP,1.7045454545454544,0.0,50.56818181818182,INF,be get load raise lock walk leave yell
+Joey,Mr. Farrow,8.0,1.0,59.0,8.0,be think understand be try help say
+Mrs. Kurtz,Megan,2.083333333333333,5.729166666666666,46.35416666666667,0.36363636363636365,go have assign get
+Megan,Joey,4.310344827586207,3.8793103448275863,46.98275862068966,1.1111111111111112,have complain think become
+Megan,Joey,4.310344827586207,3.8793103448275863,46.98275862068966,1.1111111111111112,have complain think become
+Megan,Joey,4.310344827586207,3.8793103448275863,46.98275862068966,1.1111111111111112,have complain think become
+Joey,Betch,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Joey,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Joey,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Joey,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Joey,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Betch,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Betch,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Betch,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Betch,Megan,2.910958904109589,0.684931506849315,45.71917808219178,4.25,say do have say think hang lower look say move feel smell get
+Megan,Joey,0.0,0.0,33.33333333333333,INF,say get look
+Megan,Joey,0.0,0.0,33.33333333333333,INF,say get look
+Chas,Megan,7.8125,0.78125,60.15625,10.0,have be like
+Mrs. Kurtz,Megan,1.6891891891891893,1.0135135135135136,51.35135135135135,1.6666666666666667,have be loom watch say do form work
+Mrs. Kurtz,Megan,1.6891891891891893,1.0135135135135136,51.35135135135135,1.6666666666666667,have be loom watch say do form work
+Seanie,Megan,7.236842105263158,0.0,50.6578947368421,INF,think be come
+Megan,Ryan Dean,4.513888888888888,2.430555555555556,40.27777777777778,1.8571428571428572,give put say plead help
+Megan,Ryan Dean,4.513888888888888,2.430555555555556,40.27777777777778,1.8571428571428572,give put say plead help
+Megan,Ryan Dean,4.513888888888888,2.430555555555556,40.27777777777778,1.8571428571428572,give put say plead help
+Casey,Nick,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,be wait come
+Chas,Joey,1.25,0.625,38.125,2.0,look see return
+Chas,Kevin,1.25,0.625,38.125,2.0,look see return
+Joey,Kevin,1.25,0.625,38.125,2.0,look see return
+Chas,Kevin,2.302631578947368,0.9868421052631579,46.71052631578947,2.3333333333333335,know have jump be have be liquefy be
+Annie,Mr. Farrow,3.308823529411765,0.7352941176470588,60.66176470588235,4.5,suck be be leave go meet appear block
+Ryan Dean,Mr. Farrow,4.375,1.25,49.375,3.5,say look be feel
+Mr. Farrow,Ryan Dean,1.6304347826086956,2.717391304347826,52.17391304347826,0.6,see apply work
+Annie,Megan,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Annie,Mr. Farrow,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Annie,Mr. Farrow,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Annie,Ryan Dean,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Megan,Mr. Farrow,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Megan,Mr. Farrow,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Megan,Ryan Dean,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Mr. Farrow,Ryan Dean,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Mr. Farrow,Ryan Dean,1.5,2.166666666666667,53.666666666666664,0.6923076923076923,imagine throw pick smell clench impale look come lean be protect whisper let go
+Joey,Kevin,2.925531914893617,1.8617021276595744,42.02127659574468,1.5714285714285714,sail raise slap execute say
+Joey,Kevin,2.925531914893617,1.8617021276595744,42.02127659574468,1.5714285714285714,sail raise slap execute say
+Annie,Mr. Farrow,4.166666666666666,3.6458333333333335,50.520833333333336,1.1428571428571428,tell work think pee make get tear laugh lean be
+Mr. Farrow,Annie,4.166666666666666,3.6458333333333335,50.520833333333336,1.1428571428571428,tell work think pee make get tear laugh lean be
+Joey,Megan,0.0,0.0,50.0,INF,walk meet
+Annie,Joey,1.9021739130434785,3.260869565217391,62.22826086956522,0.5833333333333334,guess do feel see say be go ruin be do say
+Joey,Chas,0.78125,1.5625,47.65625,0.5,guess counteract cause
+Megan,Joey,0.0,0.0,42.857142857142854,INF,walk lock
+Joey,Megan,0.0,0.0,42.857142857142854,INF,walk lock
+Joey,Megan,2.976190476190476,0.0,35.11904761904761,INF,get say start
+Megan,Joey,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Megan,Joey,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Megan,Joey,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Megan,Joey,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Joey,Megan,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Joey,Megan,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Joey,Megan,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Megan,Joey,1.6025641025641024,0.641025641025641,49.03846153846153,2.5,step kiss see kiss do
+Joey,Megan,0.0,0.0,40.0,INF,pull turn
+Megan,Ryan Dean,0.0,0.0,43.47826086956522,INF,be go
+Megan,Ryan Dean,0.0,0.0,43.47826086956522,INF,be go
+Chas,Megan,4.166666666666666,2.083333333333333,35.41666666666667,2.0,tell make
+Chas,Joey,5.3977272727272725,2.272727272727273,58.23863636363637,2.375,try make do think be go get get let know be fight
+Joey,Chas,5.3977272727272725,2.272727272727273,58.23863636363637,2.375,try make do think be go get get let know be fight
+Joey,Chas,5.3977272727272725,2.272727272727273,58.23863636363637,2.375,try make do think be go get get let know be fight
+Joey,Chas,5.3977272727272725,2.272727272727273,58.23863636363637,2.375,try make do think be go get get let know be fight
+Billy Budd,Mr. Wellins,2.616279069767442,0.0,50.872093023255815,INF,have finish read be convince be believe read have do
+Billy Budd,Mr. Wellins,2.616279069767442,0.0,50.872093023255815,INF,have finish read be convince be believe read have do
+Mr. Wellins,Billy Budd,6.25,2.083333333333333,37.5,3.0,accord be argue be
+Mr. Wellins,Billy Budd,6.25,2.083333333333333,37.5,3.0,accord be argue be
+JP,Seanie,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+JP,Chas,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+JP,Kevin,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+JP,Joey,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Seanie,Chas,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Seanie,Kevin,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Seanie,Joey,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Chas,Kevin,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Chas,Joey,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Kevin,Joey,0.5813953488372093,1.1627906976744187,44.76744186046512,0.5,keep make make be return include
+Megan,Chas,1.0638297872340425,0.7978723404255319,44.9468085106383,1.3333333333333333,be excite make remember get face
+Megan,Chas,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Megan,Chas,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Megan,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Megan,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Chas,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Chas,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Chas,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+Chas,Annie,3.205128205128205,4.166666666666666,46.47435897435898,0.7692307692307693,be think be be have feel know be be be try do think feel find
+JP,Seanie,4.807692307692308,0.0,18.269230769230766,INF,talk know
+Annie,Ryan Dean,3.9473684210526314,6.907894736842106,44.40789473684211,0.5714285714285714,talk know be be do be like play
+Megan,Annie,8.333333333333332,4.861111111111112,53.47222222222222,1.7142857142857142,get do make feel
+Megan,Chas,3.125,1.7361111111111112,56.25,1.8,seem be want want
+Megan,Chas,3.125,1.7361111111111112,56.25,1.8,seem be want want
+Ryan Dean,Joey,0.9615384615384616,0.4807692307692308,33.17307692307692,2.0,have be mean ask begin be
+Ryan Dean,Casey,0.9615384615384616,0.4807692307692308,33.17307692307692,2.0,have be mean ask begin be
+Joey,Casey,0.9615384615384616,0.4807692307692308,33.17307692307692,2.0,have be mean ask begin be
+Joey,Seanie,3.125,0.0,63.541666666666664,INF,have succeed make look
+Joey,Casey,2.941176470588235,2.941176470588235,29.411764705882355,1.0,say
+Megan,Joey,0.0,1.9230769230769231,28.846153846153843,0.0,want do say
+Megan,Annie,5.0,6.0,49.0,0.8333333333333334,offer tempt get be
+Mr. Wellins,Annie,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Mr. Wellins,Megan,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Mr. Wellins,Chas,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Annie,Megan,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Annie,Chas,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Megan,Chas,3.0844155844155843,1.7857142857142856,50.97402597402597,1.7272727272727273,be concentrate keep listen look have do
+Mr. Wellins,Connecticut Yankee,2.8846153846153846,2.644230769230769,61.77884615384615,1.0909090909090908,be do have do find underlie be
+Mr. Wellins,Connecticut Yankee,2.8846153846153846,2.644230769230769,61.77884615384615,1.0909090909090908,be do have do find underlie be
+JP,Seanie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+JP,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+JP,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+JP,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+JP,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+JP,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Annie,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Annie,Isabel,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Isabel,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Isabel,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Isabel,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Isabel,Annie,2.5,0.8333333333333334,46.666666666666664,3.0,sit be be keep be imagine have breed
+Seanie,Isabel,1.9230769230769231,5.769230769230769,53.84615384615385,0.3333333333333333,notice be fascinate
+Seanie,Annie,2.5,3.0,46.5,0.8333333333333334,slap watch see be do
+Annie,Ryan Dean,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,know do wear
+Annie,Seanie,4.934210526315789,1.3157894736842104,46.381578947368425,3.75,hear cause jerk control
+Seanie,JP,0.9615384615384616,0.0,45.19230769230769,INF,stop be say
+Ryan Dean,Seanie,5.357142857142857,1.3392857142857142,39.732142857142854,4.0,be be think be say
+Seanie,Annie,0.0,0.0,50.0,INF,kick brush
+Casey,Joey,4.166666666666666,1.3888888888888888,27.77777777777778,3.0,speak do think
+Seanie,Annie,6.25,4.166666666666666,52.083333333333336,1.5,find think have make
+Annie,JP,0.0,0.0,41.66666666666667,INF,be go say
+Annie,JP,7.8125,0.0,17.1875,INF,be
+Kevin,Chas,2.1739130434782608,1.0869565217391304,48.91304347826087,2.0,go end
+Kevin,Chas,5.147058823529411,4.779411764705882,43.01470588235294,1.0769230769230769,be keep take touch taunt piss
+Kevin,Chas,5.147058823529411,4.779411764705882,43.01470588235294,1.0769230769230769,be keep take touch taunt piss
+Kevin,Chas,5.147058823529411,4.779411764705882,43.01470588235294,1.0769230769230769,be keep take touch taunt piss
+Kevin,Chas,5.147058823529411,4.779411764705882,43.01470588235294,1.0769230769230769,be keep take touch taunt piss
+Kevin,Chas,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Kevin,Chas,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Kevin,Chas,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Kevin,Chas,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Kevin,Chas,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Chas,Kevin,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Chas,Kevin,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Chas,Kevin,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Chas,Kevin,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Chas,Kevin,0.8152173913043478,1.358695652173913,47.82608695652174,0.6,think get feel slip get do say fuck
+Kevin,Chas,1.3392857142857142,0.4464285714285714,58.92857142857143,3.0,help look coach seem be pretend do hear cuss
+Kevin,Chas,1.3392857142857142,0.4464285714285714,58.92857142857143,3.0,help look coach seem be pretend do hear cuss
+Kevin,Chas,1.3392857142857142,0.4464285714285714,58.92857142857143,3.0,help look coach seem be pretend do hear cuss
+Kevin,Chas,1.3392857142857142,0.4464285714285714,58.92857142857143,3.0,help look coach seem be pretend do hear cuss
+Chas,Betch,0.0,3.125,44.09722222222222,0.0,laugh murmur turn mouth fuck coach hear
+JP,Annie,2.7777777777777777,1.1111111111111112,53.888888888888886,2.5,do think be think be be tell get
+Seanie,JP,0.0,3.571428571428571,39.285714285714285,0.0,hear say laugh
+JP,Seanie,0.5859375,1.7578125,53.90625,0.3333333333333333,remember hear sit try get see score know be put tell stand
+JP,Joey,0.5859375,1.7578125,53.90625,0.3333333333333333,remember hear sit try get see score know be put tell stand
+Seanie,Joey,0.5859375,1.7578125,53.90625,0.3333333333333333,remember hear sit try get see score know be put tell stand
+Seanie,Joey,2.5,0.8333333333333334,50.0,3.0,take help
+Seanie,Joey,0.78125,2.34375,59.375,0.3333333333333333,stay stitch let stand be do
+Joey,Seanie,0.78125,2.34375,59.375,0.3333333333333333,stay stitch let stand be do
+Joey,Seanie,0.78125,2.34375,59.375,0.3333333333333333,stay stitch let stand be do
+JP,Annie,2.1551724137931036,0.8620689655172413,59.05172413793104,2.5,do say be do be think be
+Ryan Dean,Seanie,0.0,0.0,35.714285714285715,INF,bring say
+Joey,Seanie,1.1904761904761905,0.0,36.904761904761905,INF,look coach say
+Ryan Dean,Seanie,1.7857142857142856,0.0,41.07142857142857,INF,welcome say
+JP,Joey,0.0,0.0,35.714285714285715,INF,say coach interrupt
+Ryan Dean,JP,3.125,0.0,38.54166666666667,INF,be coach
+Joey,JP,3.289473684210526,0.0,44.07894736842105,INF,go crack call
+Annie,JP,2.0348837209302326,2.0348837209302326,49.41860465116279,1.0,be sit come swirl ache
+Annie,JP,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+Annie,Seanie,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+Annie,Joey,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+JP,Seanie,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+JP,Joey,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+Seanie,Joey,0.7352941176470588,0.3676470588235294,43.01470588235294,2.0,be sit sit do do go
+Megan,Chas,5.46875,0.0,44.53125,INF,leave know see say do see
+Megan,Ryan Dean,5.46875,0.0,44.53125,INF,leave know see say do see
+Megan,Chas,5.46875,0.0,44.53125,INF,leave know see say do see
+Megan,Ryan Dean,5.46875,0.0,44.53125,INF,leave know see say do see
+Chas,Megan,5.46875,0.0,44.53125,INF,leave know see say do see
+Chas,Ryan Dean,5.46875,0.0,44.53125,INF,leave know see say do see
+Megan,Ryan Dean,5.46875,0.0,44.53125,INF,leave know see say do see
+Chas,Megan,1.4705882352941175,4.411764705882353,41.17647058823529,0.3333333333333333,pull lead be sit
+Chas,Megan,1.4705882352941175,4.411764705882353,41.17647058823529,0.3333333333333333,pull lead be sit
+Annie,Megan,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,JP,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,Joey,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,JP,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Megan,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,JP,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,JP,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,JP,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Joey,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+JP,Chas,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+JP,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Chas,Seanie,1.4802631578947367,3.453947368421053,51.64473684210527,0.42857142857142855,look shake think tell install leave
+Annie,Seanie,0.0,0.0,40.0,INF,stand
+Seanie,Annie,1.6891891891891893,1.3513513513513513,45.608108108108105,1.25,say take vacate forget tell like
+Annie,JP,4.166666666666666,1.6666666666666667,40.833333333333336,2.5,be do say
+Seanie,Megan,3.8461538461538463,3.8461538461538463,53.84615384615385,1.0,do want hear lecture
+Ryan Dean,Megan,3.30188679245283,1.8867924528301887,49.528301886792455,1.75,stop stare be get argue taunt go west be go do
+Ryan Dean,Megan,5.88235294117647,1.4705882352941175,45.588235294117645,4.0,west be go do
+Ryan Dean,Megan,1.0,1.0,54.0,1.0,west be
+Megan,Ryan Dean,1.0,1.0,54.0,1.0,west be
+Mrs. Kurtz,Ryan Dean,2.5,0.8333333333333334,50.0,3.0,do forget
+Annie,Ryan Dean,0.0,0.0,30.0,INF,be do
+Mrs. Kurtz,Ryan Dean,3.571428571428571,0.0,39.285714285714285,INF,call
+Seanie,Mrs. Kurtz,8.695652173913043,2.1739130434782608,54.347826086956516,4.0,keep think have say do get
+Seanie,JP,6.730769230769231,0.9615384615384616,38.46153846153847,7.0,say be
+JP,Annie,2.0348837209302326,1.4534883720930232,50.0,1.4,tickle forget exist
+Annie,Seanie,3.75,1.5,54.75,2.5,want go get tell be go stand watch hold prop
+Chas,Megan,5.319148936170213,4.521276595744681,58.24468085106383,1.1764705882352942,have forget look be lead figure have do be do
+Chas,Megan,5.319148936170213,4.521276595744681,58.24468085106383,1.1764705882352942,have forget look be lead figure have do be do
+Megan,Chas,5.319148936170213,4.521276595744681,58.24468085106383,1.1764705882352942,have forget look be lead figure have do be do
+Megan,Chas,5.319148936170213,4.521276595744681,58.24468085106383,1.1764705882352942,have forget look be lead figure have do be do
+Chas,JP,0.78125,1.8229166666666667,59.895833333333336,0.42857142857142855,be get drip grab spin pin have knee-drop
+Chas,Megan,1.0416666666666665,0.0,32.29166666666667,INF,look
+Chas,Joey,1.7857142857142856,0.0,48.214285714285715,INF,turn see have follow
+Joey,Chas,1.7857142857142856,0.0,48.214285714285715,INF,turn see have follow
+Joey,Chas,2.6785714285714284,2.232142857142857,52.23214285714286,1.2,look piss storm shove stall
+Joey,Chas,2.6785714285714284,2.232142857142857,52.23214285714286,1.2,look piss storm shove stall
+Joey,Chas,3.4090909090909087,0.0,42.04545454545455,INF,yell do touch
+Joey,Chas,2.083333333333333,2.083333333333333,29.166666666666668,1.0,be say
+Joey,Joe,4.807692307692308,0.0,33.65384615384615,INF,have let punch
+Chas,Joey,5.660377358490567,1.650943396226415,58.72641509433962,3.4285714285714284,feel tell be punch think remind be return get interrupt think leave
+Chas,Joey,5.660377358490567,1.650943396226415,58.72641509433962,3.4285714285714284,feel tell be punch think remind be return get interrupt think leave
+Chas,Joey,5.660377358490567,1.650943396226415,58.72641509433962,3.4285714285714284,feel tell be punch think remind be return get interrupt think leave
+Chas,Joey,5.660377358490567,1.650943396226415,58.72641509433962,3.4285714285714284,feel tell be punch think remind be return get interrupt think leave
+Isabel,Annie,0.0,0.0,60.71428571428571,INF,do give fold thank tell give take
+Isabel,Annie,0.0,0.0,60.71428571428571,INF,do give fold thank tell give take
+Isabel,Annie,0.0,0.0,60.71428571428571,INF,do give fold thank tell give take
+Isabel,Annie,0.0,0.0,60.71428571428571,INF,do give fold thank tell give take
+JP,Seanie,0.78125,0.0,49.21875,INF,go sit be
+Chas,JP,3.4482758620689653,0.8620689655172413,61.206896551724135,4.0,know punch feel need have
+Annie,Ryan Dean,0.0,0.0,45.45454545454545,INF,write
+JP,Chas,0.9615384615384616,5.128205128205128,55.44871794871795,0.1875,be get punch be believe
+Seanie,JP,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,run be lag
+Seanie,JP,4.924242424242424,5.681818181818182,43.93939393939394,0.8666666666666667,feel miss be expect talk
+Seanie,JP,4.924242424242424,5.681818181818182,43.93939393939394,0.8666666666666667,feel miss be expect talk
+JP,Annie,0.8064516129032258,0.0,57.25806451612904,INF,be relieve have sit be
+Megan,Ryan Dean,0.7352941176470588,0.0,34.55882352941176,INF,smile say
+Joey,Chas,5.625,0.0,59.375,INF,intervene look do back
+Joey,Chas,5.625,0.0,59.375,INF,intervene look do back
+Joey,Megan,2.272727272727273,0.0,47.72727272727273,INF,lean grab say let see
+Joey,Megan,4.0,2.0,50.0,2.0,whisper know hear get
+Joey,Ryan Dean,4.0,2.0,50.0,2.0,whisper know hear get
+Megan,Ryan Dean,4.0,2.0,50.0,2.0,whisper know hear get
+Joey,JP,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+Joey,Megan,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+Joey,Annie,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+JP,Megan,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+JP,Annie,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+Megan,Annie,9.722222222222223,2.083333333333333,54.861111111111114,4.666666666666667,do know be talk
+Mrs. Kurtz,Ryan Dean,3.4482758620689653,0.0,44.827586206896555,INF,be loom chirp
+Mrs. Kurtz,Annie,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Mrs. Kurtz,Annie,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Mrs. Kurtz,Ryan Dean,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Mrs. Kurtz,Annie,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Mrs. Kurtz,Annie,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Mrs. Kurtz,Ryan Dean,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Annie,Ryan Dean,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Annie,Ryan Dean,3.289473684210526,2.631578947368421,44.07894736842105,1.25,tousle make feel be destine keep make be say take
+Ryan Dean,Joey,0.78125,0.78125,48.4375,1.0,think skip say
+Joey,Megan,3.4090909090909087,0.0,60.22727272727273,INF,fire
+Joey,Megan,5.729166666666666,1.0416666666666665,51.5625,5.5,be realize be make avoid deal
+Megan,Ryan Dean,0.0,0.0,35.714285714285715,INF,say miss
+Sean Russell Flaherty,Annie,3.595890410958904,1.36986301369863,52.56849315068494,2.625,be have tell be get begin wear step
+Sean Russell Flaherty,Chas,3.595890410958904,1.36986301369863,52.56849315068494,2.625,be have tell be get begin wear step
+Annie,Chas,3.595890410958904,1.36986301369863,52.56849315068494,2.625,be have tell be get begin wear step
+Seanie,Ryan Dean,0.0,4.605263157894736,48.026315789473685,0.0,be laugh say
+Seanie,Ryan Dean,0.0,4.605263157894736,48.026315789473685,0.0,be laugh say
+Joey,Ryan Dean,3.125,0.0,34.375,INF,ask do say
+Isabel,Annie,1.25,0.625,53.125,2.0,be sit eat take get recuperate deliver update
+Isabel,Ryan Dean,1.25,0.625,53.125,2.0,be sit eat take get recuperate deliver update
+Annie,Ryan Dean,1.25,0.625,53.125,2.0,be sit eat take get recuperate deliver update
+Ryan Dean,Joey,5.0,1.6666666666666667,33.33333333333333,3.0,love say
+Joey,Megan,1.171875,1.5625,50.390625,0.75,keep come try relax
+Joey,Megan,1.171875,1.5625,50.390625,0.75,keep come try relax
+Chas,Annie,5.319148936170213,0.5319148936170213,49.46808510638298,10.0,lay stare listen wonder have read be think be
+Chas,Annie,5.319148936170213,0.5319148936170213,49.46808510638298,10.0,lay stare listen wonder have read be think be
+Chas,Annie,5.319148936170213,0.5319148936170213,49.46808510638298,10.0,lay stare listen wonder have read be think be
+Kevin,Mike,3.508771929824561,0.0,63.1578947368421,INF,coach pull tell be go let start be put be want see handle
+Kevin,Mike,3.508771929824561,0.0,63.1578947368421,INF,coach pull tell be go let start be put be want see handle
+Mike,Kevin,3.508771929824561,0.0,63.1578947368421,INF,coach pull tell be go let start be put be want see handle
+Joey,Ryan Dean,5.053191489361701,1.8617021276595744,48.40425531914894,2.7142857142857144,shake say be look say coach be be tap
+Joey,Ryan Dean,5.053191489361701,1.8617021276595744,48.40425531914894,2.7142857142857144,shake say be look say coach be be tap
+Ryan Dean,Joey,5.053191489361701,1.8617021276595744,48.40425531914894,2.7142857142857144,shake say be look say coach be be tap
+Joey,JP,8.333333333333332,2.5,35.833333333333336,3.3333333333333335,know hate
+Joey,Megan,1.8382352941176472,1.1029411764705883,55.88235294117647,1.6666666666666667,shake pull close whisper look swear take
+Joey,Megan,1.8382352941176472,1.1029411764705883,55.88235294117647,1.6666666666666667,shake pull close whisper look swear take
+Joey,Kevin,0.0,0.0,50.0,INF,turn see leave
+Joey,Kevin,3.4090909090909087,4.545454545454546,52.65151515151515,0.75,look have be stand see coach be hold
+Joey,Kevin,7.142857142857142,0.0,50.0,INF,be hold
+McAuliffe,Kevin,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,ride
+Kevin,Joey,1.644736842105263,1.9736842105263157,43.75,0.8333333333333334,hurt accept be know do mind room be
+Kevin,Joey,1.644736842105263,1.9736842105263157,43.75,0.8333333333333334,hurt accept be know do mind room be
+JP,Kevin,4.166666666666666,7.291666666666667,55.208333333333336,0.5714285714285714,be have give
+Seanie,JP,0.0,1.1363636363636365,35.22727272727273,0.0,sit be talk
+Seanie,JP,0.0,1.1363636363636365,35.22727272727273,0.0,sit be talk
+Joey,Kevin,5.769230769230769,7.6923076923076925,48.07692307692308,0.75,have be hurt be
+Seanie,Kevin,4.054054054054054,5.405405405405405,60.810810810810814,0.75,think be feel put be hurt
+Joey,Chas,0.8333333333333334,0.0,45.83333333333333,INF,follow
+Mr. Farrow,Joey,5.803571428571429,0.8928571428571428,43.30357142857143,6.5,check say envy have
+Mr. Farrow,Joey,5.803571428571429,0.8928571428571428,43.30357142857143,6.5,check say envy have
+Mr. Farrow,Kevin,2.232142857142857,0.4464285714285714,63.39285714285714,5.0,have tell leave be be shut hear circulate do push call say start
+Mr. Farrow,Joey,2.232142857142857,0.4464285714285714,63.39285714285714,5.0,have tell leave be be shut hear circulate do push call say start
+Kevin,Joey,2.232142857142857,0.4464285714285714,63.39285714285714,5.0,have tell leave be be shut hear circulate do push call say start
+Seanie,Joey,3.75,3.75,22.5,1.0,be
+Seanie,JP,3.75,3.75,22.5,1.0,be
+Joey,JP,3.75,3.75,22.5,1.0,be
+Sean Russell Flaherty,Annie,3.8461538461538463,1.9230769230769231,32.69230769230769,2.0,hear say
+Joey,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Joey,Annie,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Joey,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Joey,Megan,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Joey,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Chas,Annie,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Chas,Megan,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Annie,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Annie,Megan,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Annie,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Chas,Megan,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Megan,Chas,2.9605263157894735,0.3289473684210526,38.81578947368421,9.0,do find have be make be drive take
+Joey,Megan,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Joey,Chas,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Joey,Megan,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Joey,Chas,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Megan,Chas,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Megan,Chas,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Chas,Megan,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Megan,Chas,0.0,0.9375,44.0625,0.0,be go live assume be go do care be go ask
+Annie,Megan,3.787878787878788,4.166666666666666,46.590909090909086,0.9090909090909091,want get dread sit
+Chas,Joey,1.6666666666666667,5.0,60.0,0.3333333333333333,do come pervert involve get stick send search
+Annie,Mr. Wellins,2.0161290322580645,3.6290322580645165,52.41935483870967,0.5555555555555556,pass tell be get tick
+Annie,JP,2.0161290322580645,3.6290322580645165,52.41935483870967,0.5555555555555556,pass tell be get tick
+Mr. Wellins,JP,2.0161290322580645,3.6290322580645165,52.41935483870967,0.5555555555555556,pass tell be get tick
+Annie,Megan,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Annie,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Annie,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Annie,Megan,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Annie,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Megan,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Megan,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Megan,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Chas,Megan,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Chas,Megan,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Megan,Chas,2.754237288135593,2.5423728813559325,54.02542372881356,1.0833333333333333,try argue be do be look give be punch say shut
+Joey,Chas,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,ask pay flicker watch
+Joey,Chas,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,ask pay flicker watch
+Kevin,Chas,1.7857142857142856,1.4285714285714286,45.357142857142854,1.25,have be be be carry
+Kevin,Joey,1.7857142857142856,1.4285714285714286,45.357142857142854,1.25,have be be be carry
+Chas,Joey,1.7857142857142856,1.4285714285714286,45.357142857142854,1.25,have be be be carry
+Annie,Chas,0.9615384615384616,0.0,45.19230769230769,INF,bet be say
+Megan,Ryan Dean,3.225806451612903,3.225806451612903,48.38709677419355,1.0,try change choose steer bet
+Megan,Annie,3.225806451612903,3.225806451612903,48.38709677419355,1.0,try change choose steer bet
+Ryan Dean,Annie,3.225806451612903,3.225806451612903,48.38709677419355,1.0,try change choose steer bet
+Chas,Megan,6.730769230769231,0.0,47.11538461538461,INF,have know be go
+Annie,TSA,0.3289473684210526,0.6578947368421052,56.9078947368421,0.5,tell see be stand turn shake
+TSA,Mr. West,4.62962962962963,2.314814814814815,52.31481481481482,2.0,place board ransack say
+Ryan Dean,Megan,1.0416666666666665,0.5208333333333333,65.10416666666666,2.0,west bet be
+Ryan Dean,Megan,1.0416666666666665,0.5208333333333333,65.10416666666666,2.0,west bet be
+Joey,Ryan Dean,0.0,0.0,12.5,INF,
+Ryan Dean,Joey,0.0,5.681818181818182,39.77272727272727,0.0,west be
+Ryan Dean,Joe,0.0,0.0,50.0,INF,west go
+Rachel,Annie,5.147058823529411,4.411764705882353,31.61764705882353,1.1666666666666667,call be
+Doc Dad,Doc Mom,3.308823529411765,1.8382352941176472,50.73529411764706,1.8,decide try use have call
+Annie,Ryan Dean,3.9473684210526314,1.9736842105263157,30.92105263157895,2.0,be tell say
+Ryan Dean,Annie,3.9473684210526314,1.9736842105263157,30.92105263157895,2.0,be tell say
+Ryan Dean,Doc Mom,5.978260869565218,1.0869565217391304,49.45652173913043,5.5,tell live say turn look
+Doc Mom,Annie,3.260869565217391,2.1739130434782608,55.434782608695656,1.5,be listen be catch think be
+Ryan Dean,Doc Mom,4.375,0.0,45.625,INF,pick say
+Annie,Doc Mom,7.291666666666667,0.0,26.041666666666668,INF,be
+Annie,Doc Mom,4.285714285714286,0.0,61.42857142857143,INF,be mess try make be swim tell look
+Annie,Doc Mom,4.285714285714286,0.0,61.42857142857143,INF,be mess try make be swim tell look
+Annie,Ryan Dean,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,realize be happen get terrify defeat say think be move
+Annie,Ryan Dean,3.205128205128205,0.3205128205128205,47.756410256410255,10.0,realize be happen get terrify defeat say think be move
+Doc Mom,Annie,4.245283018867925,2.358490566037736,44.339622641509436,1.8,be look hold pin imagine look
+Doc Mom,Annie,4.245283018867925,2.358490566037736,44.339622641509436,1.8,be look hold pin imagine look
+Doc Mom,Annie,4.245283018867925,2.358490566037736,44.339622641509436,1.8,be look hold pin imagine look
+Annie,Doc Mom,5.681818181818182,3.0303030303030303,57.95454545454546,1.875,settle be have choose
+Doc Dad,Ryan Dean,2.8688524590163933,1.4344262295081966,53.07377049180327,2.0,be wait pay lean whisper do have pee have find be shrink cut
+Doc Dad,Rachel,2.8688524590163933,1.4344262295081966,53.07377049180327,2.0,be wait pay lean whisper do have pee have find be shrink cut
+Doc Dad,Rachel,2.8688524590163933,1.4344262295081966,53.07377049180327,2.0,be wait pay lean whisper do have pee have find be shrink cut
+Ryan Dean,Rachel,2.8688524590163933,1.4344262295081966,53.07377049180327,2.0,be wait pay lean whisper do have pee have find be shrink cut
+Ryan Dean,Rachel,2.8688524590163933,1.4344262295081966,53.07377049180327,2.0,be wait pay lean whisper do have pee have find be shrink cut
+Annie,Doc Mom,4.375,0.0,35.625,INF,make say
+Doc Mom,Annie,4.375,0.0,35.625,INF,make say
+Doc Dad,Annie,0.0,0.0,46.42857142857143,INF,lead say do take
+Doc Dad,Ryan Dean,0.0,0.0,46.42857142857143,INF,lead say do take
+Annie,Ryan Dean,0.0,0.0,46.42857142857143,INF,lead say do take
+Ryan Dean,Annie,1.25,2.5,46.25,0.5,do want be say
+Annie,Ryan Dean,0.0,1.4705882352941175,45.588235294117645,0.0,continue put
+Pedro,Ryan Dean,0.0,0.0,69.56521739130434,INF,decide give
+Annie,Pedro,0.5681818181818182,0.0,63.06818181818182,INF,say do skitter
+Annie,Pedro,0.5681818181818182,0.0,63.06818181818182,INF,say do skitter
+Ryan Dean,Doc Dad,4.166666666666666,0.0,45.83333333333333,INF,say
+Annie,Pedro,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Annie,Ryan Dean,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Annie,Pedro,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Annie,Ryan Dean,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Pedro,Annie,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Pedro,Ryan Dean,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Pedro,Annie,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Annie,Ryan Dean,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Ryan Dean,Annie,3.3333333333333335,4.722222222222222,43.05555555555556,0.7058823529411765,have realize be do control let go be get
+Annie,Ryan Dean,2.9069767441860463,2.0348837209302326,48.54651162790697,1.4285714285714286,look be live create want do
+Annie,Ryan Dean,2.9069767441860463,2.0348837209302326,48.54651162790697,1.4285714285714286,look be live create want do
+Annie,Ryan Dean,2.9069767441860463,2.0348837209302326,48.54651162790697,1.4285714285714286,look be live create want do
+Annie,Ryan Dean,2.9069767441860463,2.0348837209302326,48.54651162790697,1.4285714285714286,look be live create want do
+Annie,Ryan Dean,2.9069767441860463,2.0348837209302326,48.54651162790697,1.4285714285714286,look be live create want do
+Annie,Ryan Dean,2.1739130434782608,1.0869565217391304,51.08695652173913,2.0,start say know make do tell do do
+Annie,Ryan Dean,2.1739130434782608,1.0869565217391304,51.08695652173913,2.0,start say know make do tell do do
+Annie,Ryan Dean,2.1739130434782608,1.0869565217391304,51.08695652173913,2.0,start say know make do tell do do
+Annie,Pedro,1.875,3.75,39.375,0.5,hear come
+Annie,Pedro,4.761904761904762,1.7857142857142856,50.595238095238095,2.6666666666666665,leave shut sail begin mount
+Annie,Ryan Dean,3.1818181818181817,2.727272727272727,55.90909090909091,1.1666666666666667,smile know be think be tempt make be say be
+Annie,Ryan Dean,3.1818181818181817,2.727272727272727,55.90909090909091,1.1666666666666667,smile know be think be tempt make be say be
+Ryan Dean,Annie,3.1818181818181817,2.727272727272727,55.90909090909091,1.1666666666666667,smile know be think be tempt make be say be
+Ryan Dean,Annie,7.142857142857142,0.0,42.857142857142854,INF,get strip-search say
+Annie,Ryan Dean,5.978260869565218,5.978260869565218,48.91304347826087,1.0,need hear happen have be
+Annie,Sean Russell Flaherty,0.7352941176470588,0.7352941176470588,54.41176470588235,1.0,launch go step go
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,6.5625,3.125,40.3125,2.1,be be laugh have do say be hear
+Doc Mom,Annie,15.178571428571427,0.0,34.82142857142857,INF,say love
+Doc Mom,Ryan Dean,15.178571428571427,0.0,34.82142857142857,INF,say love
+Annie,Ryan Dean,15.178571428571427,0.0,34.82142857142857,INF,say love
+Ryan Dean,Doc Dad,0.0,0.0,50.0,INF,come say do think bring
+Ryan Dean,Doc Mom,7.236842105263158,2.631578947368421,42.76315789473684,2.75,be go miss have say
+Ryan Dean,Annie,2.083333333333333,0.0,22.916666666666664,INF,be say
+Megan,Chas,2.586206896551724,1.293103448275862,37.5,2.0,be arrive take
+Hemingway,Annie,0.0,0.0,60.0,INF,hold
+Joey,Chas,7.638888888888889,0.0,53.47222222222222,INF,skip
+Chas,Megan,0.0,2.717391304347826,49.45652173913043,0.0,kind see get
+Chas,Megan,3.125,4.326923076923077,52.16346153846154,0.7222222222222222,look be tire have go do have be get spend
+Joey,Megan,2.7027027027027026,1.3513513513513513,52.702702702702695,2.0,say be go be stop think be
+Joey,Megan,2.7027027027027026,1.3513513513513513,52.702702702702695,2.0,say be go be stop think be
+Joey,Annie,2.7027027027027026,1.3513513513513513,52.702702702702695,2.0,say be go be stop think be
+Megan,Annie,2.7027027027027026,1.3513513513513513,52.702702702702695,2.0,say be go be stop think be
+Megan,Annie,2.7027027027027026,1.3513513513513513,52.702702702702695,2.0,say be go be stop think be
+Annie,Chas,6.521739130434782,3.804347826086957,50.54347826086957,1.7142857142857142,see come realize be do make feel
+Joey,Annie,0.0,4.166666666666666,43.452380952380956,0.0,be do want get hurt do
+Megan,Ryan Dean,3.4090909090909087,0.0,69.31818181818183,INF,look
+Joey,Ryan Dean,0.0,0.0,42.857142857142854,INF,say grow
+Joey,Megan,3.4090909090909087,1.1363636363636365,50.0,3.0,see be look
+Megan,Annie,1.4204545454545454,0.5681818181818182,38.92045454545455,2.5,be touch believe precipitate
+Megan,Ryan Dean,1.4204545454545454,0.5681818181818182,38.92045454545455,2.5,be touch believe precipitate
+Annie,Ryan Dean,1.4204545454545454,0.5681818181818182,38.92045454545455,2.5,be touch believe precipitate
+Annie,Megan,1.1904761904761905,2.6785714285714284,43.75,0.4444444444444444,slip kick contemplate allow touch
+Megan,Chas,0.0,3.571428571428571,50.0,0.0,slip be play see be go
+Megan,Chas,0.0,3.571428571428571,50.0,0.0,slip be play see be go
+Megan,Annie,0.0,0.0,50.0,INF,see be hold
+Ryan Dean,Joey,9.166666666666666,2.5,48.333333333333336,3.6666666666666665,do know come realize have be cuss be be
+Ryan Dean,Megan,9.166666666666666,2.5,48.333333333333336,3.6666666666666665,do know come realize have be cuss be be
+Joey,Megan,9.166666666666666,2.5,48.333333333333336,3.6666666666666665,do know come realize have be cuss be be
+Megan,Annie,1.25,0.0,48.75,INF,rally pull be tangle
+Megan,Annie,3.048780487804878,6.097560975609756,64.02439024390245,0.5,pinch stifle hurt make be be concern
+Chas,Pussboy,4.166666666666666,0.0,42.5,INF,say throw
+Megan,Ryan Dean,5.625,0.625,48.75,9.0,say think be know
+Chas,Pussboy,0.0,1.5625,35.9375,0.0,give be fuck
+Chas,Pussboy,1.6129032258064515,0.0,46.774193548387096,INF,turn say fuck make lick
+Annie,Ryan Dean,3.2407407407407405,0.9259259259259258,40.27777777777778,3.5,live hear say be
+Megan,Annie,1.524390243902439,2.1341463414634148,54.87804878048781,0.7142857142857143,cup coo touch look hallucinate
+Megan,Annie,1.524390243902439,2.1341463414634148,54.87804878048781,0.7142857142857143,cup coo touch look hallucinate
+Chas,Megan,2.5,8.75,28.749999999999996,0.2857142857142857,be talk
+Megan,Ryan Dean,3.2407407407407405,0.4629629629629629,44.44444444444444,7.0,wheel say hope feel
+Megan,Ryan Dean,3.2407407407407405,0.4629629629629629,44.44444444444444,7.0,wheel say hope feel
+Ryan Dean,Annie,0.0,5.208333333333334,36.45833333333333,0.0,be say
+Annie,Seanie,1.8382352941176472,1.8382352941176472,49.26470588235294,1.0,walk be turn see come
+Annie,JP,1.8382352941176472,1.8382352941176472,49.26470588235294,1.0,walk be turn see come
+Annie,Seanie,1.8382352941176472,1.8382352941176472,49.26470588235294,1.0,walk be turn see come
+Annie,JP,1.8382352941176472,1.8382352941176472,49.26470588235294,1.0,walk be turn see come
+Seanie,JP,1.8382352941176472,1.8382352941176472,49.26470588235294,1.0,walk be turn see come
+Seanie,JP,0.0,0.625,39.375,0.0,turn talk see be say
+Seanie,Annie,0.0,0.625,39.375,0.0,turn talk see be say
+JP,Annie,0.0,0.625,39.375,0.0,turn talk see be say
+Annie,Chas,2.8846153846153846,0.0,39.42307692307692,INF,see wonder have do
+Annie,Megan,2.8846153846153846,0.0,39.42307692307692,INF,see wonder have do
+Chas,Megan,2.8846153846153846,0.0,39.42307692307692,INF,see wonder have do
+Annie,JP,1.3888888888888888,0.0,65.27777777777779,INF,be watch give
+Seanie,John-Paul Tureau,3.6231884057971016,0.7246376811594203,55.072463768115945,5.0,know tell get know be laugh have do be have do be fog want kill
+Seanie,John-Paul Tureau,3.6231884057971016,0.7246376811594203,55.072463768115945,5.0,know tell get know be laugh have do be have do be fog want kill
+Joey,Casey,1.4705882352941175,2.941176470588235,36.76470588235294,0.5,yawn clear see ask play
+Joey,Chas,1.4705882352941175,2.941176470588235,36.76470588235294,0.5,yawn clear see ask play
+Casey,Chas,1.4705882352941175,2.941176470588235,36.76470588235294,0.5,yawn clear see ask play
+Chas,Kevin,8.035714285714286,2.6785714285714284,46.42857142857143,3.0,be
+Chas,Megan,5.555555555555555,9.722222222222223,62.5,0.5714285714285714,know be piss
+Joey,Chas,2.5,2.5,25.0,1.0,say leave
+Chas,Joey,1.5625,2.604166666666667,58.333333333333336,0.6,get rasp
+Chas,Joey,1.5625,2.604166666666667,58.333333333333336,0.6,get rasp
+Casey,Chas,7.4074074074074066,1.8518518518518516,53.70370370370371,4.0,try be say be be get kick
+Casey,Kevin,1.171875,0.0,36.328125,INF,be scare go get fuck say
+Casey,Kevin,0.0,0.0,40.0,INF,glare
+Joey,Casey,7.142857142857142,3.571428571428571,46.42857142857143,2.0,be
+Joey,Kevin,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Joey,Casey,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Joey,Casey,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Joey,Chas,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Kevin,Casey,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Kevin,Casey,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Kevin,Chas,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Casey,Chas,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Casey,Chas,2.7777777777777777,2.7777777777777777,55.55555555555556,1.0,laugh look confuse look be piss be call say fuck
+Chas,Kevin,2.5,1.25,56.25,2.0,be wear
+Kevin,Maxine,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,House of Spirits,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,Maxine,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,House of Spirits,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,Maxine,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,House of Spirits,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,Maxine,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Kevin,House of Spirits,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Maxine,House of Spirits,0.5813953488372093,1.4534883720930232,58.43023255813954,0.4,pull show have tuck shoot
+Maxine,House of Spirits,1.358695652173913,1.358695652173913,62.5,1.0,decide shoot taste do notice float
+Maxine,Kevin,1.358695652173913,1.358695652173913,62.5,1.0,decide shoot taste do notice float
+House of Spirits,Kevin,1.358695652173913,1.358695652173913,62.5,1.0,decide shoot taste do notice float
+JP,Annie,2.976190476190476,6.349206349206349,49.404761904761905,0.46875,be go feel try defend have be do wash sew be piss hug believe be try hurt
+Maxine,Chas,3.977272727272727,3.125,54.26136363636363,1.2727272727272727,have take be fight settle
+Maxine,Casey,3.977272727272727,3.125,54.26136363636363,1.2727272727272727,have take be fight settle
+Chas,Casey,3.977272727272727,3.125,54.26136363636363,1.2727272727272727,have take be fight settle
+Kevin,Joey,0.9615384615384616,0.0,45.19230769230769,INF,look do
+Casey,Chas,7.142857142857142,5.357142857142857,30.357142857142854,1.3333333333333333,be
+Chas,Casey,0.0,1.1904761904761905,27.380952380952383,0.0,be say be
+Casey,Chas,2.083333333333333,0.0,42.36111111111111,INF,have get hitchhike
+Casey,Chas,2.083333333333333,0.0,42.36111111111111,INF,have get hitchhike
+Ryan Dean,Pussboy,7.758620689655173,3.8793103448275863,43.53448275862069,2.0,love be
+Chas,Seanie,4.166666666666666,1.5625,48.4375,2.6666666666666665,choke know have
+Chas,Kevin,3.4722222222222223,1.3888888888888888,34.02777777777778,2.5,bump say give
+Chas,Maxine,3.4722222222222223,1.3888888888888888,34.02777777777778,2.5,bump say give
+Kevin,Maxine,3.4722222222222223,1.3888888888888888,34.02777777777778,2.5,bump say give
+Pussboy,Chas,2.272727272727273,3.0303030303030303,52.27272727272727,0.75,note watch drink be commit kiss
+Pussboy,Megan,2.272727272727273,3.0303030303030303,52.27272727272727,0.75,note watch drink be commit kiss
+Chas,Megan,2.272727272727273,3.0303030303030303,52.27272727272727,0.75,note watch drink be commit kiss
+Casey,Chas,1.4705882352941175,2.941176470588235,48.529411764705884,0.5,bust lose
+Chas,Casey,2.0408163265306123,2.0408163265306123,53.06122448979592,1.0,result watch fall be counteract tell be feel take
+Joey,Maxine,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Joey,House of Spirits,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Joey,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Joey,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Joey,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Joey,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Maxine,House of Spirits,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Maxine,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Maxine,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Maxine,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Maxine,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+House of Spirits,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+House of Spirits,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+House of Spirits,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+House of Spirits,Kevin,2.5,2.2058823529411766,60.0,1.1333333333333333,know take shoot have be go do present avoid do want see get piss have be stab
+Casey,Joey,2.380952380952381,1.1904761904761905,59.92063492063492,2.0,be understate know be make be lose mean be go suffer
+Casey,Chas,2.380952380952381,1.1904761904761905,59.92063492063492,2.0,be understate know be make be lose mean be go suffer
+Joey,Chas,2.380952380952381,1.1904761904761905,59.92063492063492,2.0,be understate know be make be lose mean be go suffer
+Casey,Chas,1.5625,5.9375,55.00000000000001,0.2631578947368421,be begin imagine dream involve hate
+Joey,Ryan Dean,4.807692307692308,1.4423076923076923,47.59615384615385,3.3333333333333335,laugh cup whisper shut
+Joey,Ryan Dean,4.807692307692308,1.4423076923076923,47.59615384615385,3.3333333333333335,laugh cup whisper shut
+Chas,Pussboy,0.0,0.0,44.44444444444444,INF,put say
+Joey,Chas,0.0,0.0,45.83333333333333,INF,click unlock look say leave
+Chas,Joey,0.0,0.0,45.83333333333333,INF,click unlock look say leave
+Joey,Ryan Dean,2.083333333333333,3.4722222222222223,44.44444444444444,0.6,say be go do go
+Bannock,Chas,2.0,1.5,52.5,1.3333333333333333,be be be fall recline reach grab tear open
+Bannock,Chas,2.0,1.5,52.5,1.3333333333333333,be be be fall recline reach grab tear open
+Chas,Megan,2.1739130434782608,1.0869565217391304,35.869565217391305,2.0,say be go tell be go
+Megan,Chas,0.0,4.464285714285714,38.392857142857146,0.0,see look get
+Chas,Megan,3.214285714285714,0.35714285714285715,53.57142857142857,9.0,be bruise slam catch rub
+Chas,Megan,3.214285714285714,0.35714285714285715,53.57142857142857,9.0,be bruise slam catch rub
+Chas,Megan,3.214285714285714,0.35714285714285715,53.57142857142857,9.0,be bruise slam catch rub
+Chas,Megan,3.214285714285714,0.35714285714285715,53.57142857142857,9.0,be bruise slam catch rub
+Joey,Chas,5.0,5.5,45.5,0.9090909090909091,know be think do jump begin murder
+Joey,Chas,5.0,5.5,45.5,0.9090909090909091,know be think do jump begin murder
+Chas,Megan,0.0,0.0,57.14285714285714,INF,know do do look
+Chas,Joey,2.5,1.25,56.25,2.0,think be cry say
+Joey,Chas,0.6578947368421052,0.0,51.973684210526315,INF,go get be go
+Chas,Megan,4.838709677419355,8.46774193548387,51.20967741935484,0.5714285714285714,do feel do do feel be hurt know
+Annie,JP,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,make think be be try do be do
+Annie,Chas,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,make think be be try do be do
+JP,Chas,1.9736842105263157,1.9736842105263157,51.31578947368421,1.0,make think be be try do be do
+Joey,Bannock,0.0,0.0,40.0,INF,start drive
+Ryan Dean,Joey,3.3333333333333335,8.333333333333332,35.0,0.4,be say
+Kevin,Ryan Dean,3.4375000000000004,1.5625,47.5,2.2,be have talk be try play
+Joey,Sean Russell Flaherty,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Joey,Sean Russell Flaherty,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Joey,Casey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Sean Russell Flaherty,Joey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Sean Russell Flaherty,Casey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Sean Russell Flaherty,Joey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Sean Russell Flaherty,Casey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Joey,Casey,3.977272727272727,3.4090909090909087,42.61363636363637,1.1666666666666667,pause see make have say be say
+Seanie,Sean Russell Flaherty,2.364864864864865,3.7162162162162162,56.08108108108109,0.6363636363636364,keep call
+Seanie,Sean Russell Flaherty,2.364864864864865,3.7162162162162162,56.08108108108109,0.6363636363636364,keep call
+Casey,Joey,2.1739130434782608,3.260869565217391,59.78260869565217,0.6666666666666666,be be hit think be say
+Casey,Joey,2.1739130434782608,3.260869565217391,59.78260869565217,0.6666666666666666,be be hit think be say
+Joey,Chas,1.1627906976744187,3.488372093023256,51.162790697674424,0.3333333333333333,find play try convince get be
+Joey,Chas,1.1627906976744187,3.488372093023256,51.162790697674424,0.3333333333333333,find play try convince get be
+Joey,Chas,2.430555555555556,2.083333333333333,39.93055555555556,1.1666666666666667,say be do find get look steal ditch
+Joey,Chas,2.430555555555556,2.083333333333333,39.93055555555556,1.1666666666666667,say be do find get look steal ditch
+Joey,Chas,2.430555555555556,2.083333333333333,39.93055555555556,1.1666666666666667,say be do find get look steal ditch
+Joey,Chas,2.430555555555556,2.083333333333333,39.93055555555556,1.1666666666666667,say be do find get look steal ditch
+Chas,Pokémon,3.3653846153846154,1.4423076923076923,45.19230769230769,2.3333333333333335,sell buy
+Chas,Joey,2.403846153846154,0.9615384615384616,46.63461538461539,2.5,be get leave trust be
+Chas,Joey,2.403846153846154,0.9615384615384616,46.63461538461539,2.5,be get leave trust be
+Joey,Casey,3.0172413793103448,1.7241379310344827,40.08620689655172,1.75,have be admit think be be
+Joey,Chas,3.0172413793103448,1.7241379310344827,40.08620689655172,1.75,have be admit think be be
+Joey,Casey,3.0172413793103448,1.7241379310344827,40.08620689655172,1.75,have be admit think be be
+Joey,Chas,3.0172413793103448,1.7241379310344827,40.08620689655172,1.75,have be admit think be be
+Casey,Chas,3.0172413793103448,1.7241379310344827,40.08620689655172,1.75,have be admit think be be
+Joey,Bannock,4.166666666666666,0.0,68.05555555555556,INF,say be live
+Chas,Joey,1.293103448275862,0.0,40.08620689655172,INF,load help
+Chas,Joey,1.293103448275862,0.0,40.08620689655172,INF,load help
+Ned,Joey,3.4090909090909087,0.0,60.22727272727273,INF,point
+JP,Annie,1.171875,2.34375,65.234375,0.5,feel start cry become determine have live stop deposit
+Ryan Dean,Joey,2.403846153846154,0.0,43.75,INF,look think try go sleep
+Ryan Dean,Joey,2.403846153846154,0.0,43.75,INF,look think try go sleep
+Joey,Ned,5.5,7.000000000000001,55.50000000000001,0.7857142857142857,be be feel start scream
+Ned,Joey,1.7857142857142856,2.380952380952381,59.32539682539682,0.75,have admit take be pour have come be
+Ned,Joey,1.5909090909090908,2.5,55.90909090909091,0.6363636363636364,begin laugh be cry have do know be go die decide do want kill watch do scare
+Joey,Ned,1.5909090909090908,2.5,55.90909090909091,0.6363636363636364,begin laugh be cry have do know be go die decide do want kill watch do scare
+Ned,Joey,3.90625,6.25,39.84375,0.625,scream tense close hurt
+Ned,Joey,3.90625,6.25,39.84375,0.625,scream tense close hurt
+Ned,Joey,3.90625,6.25,39.84375,0.625,scream tense close hurt
+Joey,Ned,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Joey,Eighth Circle of Hell,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Joey,Annie,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Ned,Eighth Circle of Hell,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Ned,Annie,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Eighth Circle of Hell,Annie,3.8636363636363633,2.9545454545454546,56.81818181818182,1.3076923076923077,consider leave become do want get need crush
+Ned,Joey,1.875,0.0,43.125,INF,close scream say
+Joey,Chas,7.954545454545454,2.272727272727273,35.22727272727273,3.5,get
+Ned,Bannock,1.0416666666666665,0.0,82.29166666666666,INF,say be
+Ned,Joey,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,own scream have be sleep do
+Ned,Joey,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,own scream have be sleep do
+Ned,Joey,2.2058823529411766,0.3676470588235294,62.13235294117647,6.0,own scream have be sleep do
+Joey,Ryan Dean,0.0,0.0,43.75,INF,say go
+Joey,Chas,0.0,0.0,46.666666666666664,INF,say start
+Joey,Chas,1.644736842105263,0.0,45.723684210526315,INF,put convict pull climb come lose
+Joey,Chas,1.644736842105263,0.0,45.723684210526315,INF,put convict pull climb come lose
+Joey,Chas,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,slam back lift see be
+Joey,Chas,2.8846153846153846,0.9615384615384616,53.84615384615385,3.0,slam back lift see be
+Chas,Ryan Dean,0.0,7.291666666666667,51.041666666666664,0.0,do want sit
+Chas,Joey,4.807692307692308,0.0,18.269230769230766,INF,try find say
+Chas,Joey,1.0714285714285714,1.7857142857142856,45.714285714285715,0.6,throw make swerve startle
+Chas,Joey,1.0714285714285714,1.7857142857142856,45.714285714285715,0.6,throw make swerve startle
+Joey,Ned,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Joey,Chas,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Joey,Ned,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Joey,Chas,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Ned,Joey,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Ned,Chas,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Joey,Chas,5.357142857142857,2.142857142857143,55.35714285714286,2.5,tell pick scream leave get stick
+Chas,Ned,3.4722222222222223,0.0,68.75,INF,say fall be help get
+Chas,Ned,3.4722222222222223,0.0,68.75,INF,say fall be help get
+Annie,JP,2.3706896551724137,2.586206896551724,60.560344827586206,0.9166666666666666,know be be have force think know have get
+Chas,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Bannock,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Bannock,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Chas,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Bannock,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Casey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Chas,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Joey,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Casey,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Joey,Ned,2.146464646464646,1.3888888888888888,52.02020202020202,1.5454545454545454,be have keep bottle get make drink start cry run find be make learn be have be hit get hope do explode be tell
+Seanie,JP,0.9259259259259258,0.4629629629629629,54.166666666666664,2.0,be send decide be go stay
+JP,Seanie,1.1904761904761905,3.571428571428571,47.61904761904761,0.3333333333333333,be go let try get
+Seanie,JP,3.75,1.25,51.66666666666667,3.0,think talk seanie shut make
+Casey,Joey,2.806122448979592,0.25510204081632654,45.91836734693878,11.0,feel begin say be stop chase steer say win
+Joey,Casey,2.806122448979592,0.25510204081632654,45.91836734693878,11.0,feel begin say be stop chase steer say win
+Seanie,Annie,0.0,0.0,40.0,INF,say see
+JP,Seanie,1.0416666666666665,0.0,57.291666666666664,INF,feel peer look
+Seanie,Sean Russell Flaherty,2.430555555555556,1.0416666666666665,54.861111111111114,2.3333333333333335,be be see know be belong
+Seanie,Sean Russell Flaherty,2.430555555555556,1.0416666666666665,54.861111111111114,2.3333333333333335,be be see know be belong
+Seanie,JP,0.7352941176470588,0.0,52.20588235294118,INF,shove come crash
+Seanie,JP,0.7352941176470588,0.0,52.20588235294118,INF,shove come crash
+JP,Seanie,0.0,0.0,50.0,INF,trip avoid
+Seanie,JP,0.0,0.0,33.33333333333333,INF,knock say
+Seanie,JP,0.0,0.0,53.125,INF,come try kick dive take
+Seanie,JP,0.0,0.0,53.125,INF,come try kick dive take
+JP,Seanie,0.0,0.0,53.125,INF,come try kick dive take
+JP,Seanie,0.0,0.0,53.125,INF,come try kick dive take
+JP,Seanie,2.34375,0.390625,47.265625,6.0,realize kick back turn pull stop stream
+JP,Seanie,2.34375,0.390625,47.265625,6.0,realize kick back turn pull stop stream
+JP,Seanie,2.34375,0.390625,47.265625,6.0,realize kick back turn pull stop stream
+JP,Seanie,2.34375,0.390625,47.265625,6.0,realize kick back turn pull stop stream
+Seanie,JP,0.8928571428571428,2.232142857142857,57.58928571428571,0.4,get stand stay keep
+Seanie,JP,0.8928571428571428,2.232142857142857,57.58928571428571,0.4,get stand stay keep
+Megan,Joey,0.8333333333333334,0.8333333333333334,45.0,1.0,try talk do say
+Joey,Ned,0.8333333333333334,2.5,60.0,0.3333333333333333,draw scream start think be go pee
+Ned,Joey,0.8333333333333334,2.5,60.0,0.3333333333333333,draw scream start think be go pee
+Ned,Joey,0.8333333333333334,2.5,60.0,0.3333333333333333,draw scream start think be go pee
+Ned,Joey,0.8333333333333334,2.5,60.0,0.3333333333333333,draw scream start think be go pee
+Annie,Megan,8.125,1.25,35.625,6.5,look brush
+Annie,Megan,8.125,1.25,35.625,6.5,look brush
+JP,American Literature,2.083333333333333,1.3888888888888888,68.75,1.5,be feel see walk
+JP,Annie,1.25,3.125,60.62499999999999,0.4,start cough stare sit
+JP,Annie,3.25,2.25,52.5,1.4444444444444444,say hold shake look have happen
+Annie,JP,3.25,2.25,52.5,1.4444444444444444,say hold shake look have happen
+Annie,Ryan Dean,2.976190476190476,5.357142857142857,48.80952380952381,0.5555555555555556,have ask write do lose
+Hickey,Ryan Dean,1.282051282051282,0.641025641025641,62.17948717948718,2.0,do tell stand drop make be be
+Annie,Doc Mom,5.448717948717949,0.9615384615384616,50.0,5.666666666666667,be make count be fix
+Ryan Dean,Hickey,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Ryan Dean,Pokémon,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Ryan Dean,Annie,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Hickey,Pokémon,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Hickey,Annie,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Pokémon,Annie,2.6785714285714284,2.819548872180451,53.900375939849624,0.95,give be get scare receive be try think think get do think be moron stop worry be get be suppose do happen start wear fuck be change begin appreciate grow need talk live fuck be take insist weigh be fuck take wash wait
+Ryan Dean,Mr. Farrow,4.878048780487805,1.524390243902439,54.57317073170732,3.2,be be go get sidetrack be convince be
+Joey,Kevin,0.0,4.464285714285714,31.25,0.0,open come
+Casey,Chas,0.0,0.0,40.0,INF,come
+Chas,Casey,4.807692307692308,3.8461538461538463,45.19230769230769,1.25,be say be be cry avoid look
+Chas,Annie,4.807692307692308,3.8461538461538463,45.19230769230769,1.25,be say be be cry avoid look
+Casey,Annie,4.807692307692308,3.8461538461538463,45.19230769230769,1.25,be say be be cry avoid look
+Annie,Ryan Dean,5.128205128205128,2.564102564102564,46.15384615384615,2.0,look know be go pull say be
+Annie,Ryan Dean,5.787037037037037,1.6203703703703702,44.44444444444444,3.5714285714285716,do know laugh be go cry shake put say do love collapse
+Annie,Ryan Dean,5.787037037037037,1.6203703703703702,44.44444444444444,3.5714285714285716,do know laugh be go cry shake put say do love collapse
+Annie,Ryan Dean,5.787037037037037,1.6203703703703702,44.44444444444444,3.5714285714285716,do know laugh be go cry shake put say do love collapse
+Annie,Ryan Dean,5.787037037037037,1.6203703703703702,44.44444444444444,3.5714285714285716,do know laugh be go cry shake put say do love collapse
+Annie,Ryan Dean,2.027027027027027,0.6756756756756757,43.24324324324324,3.0,watch turn see follow say go
+Annie,Ryan Dean,2.027027027027027,0.6756756756756757,43.24324324324324,3.0,watch turn see follow say go
+Annie,Ryan Dean,2.027027027027027,0.6756756756756757,43.24324324324324,3.0,watch turn see follow say go
+Annie,Ryan Dean,2.027027027027027,0.6756756756756757,43.24324324324324,3.0,watch turn see follow say go
+Seanie,JP,0.0,0.0,53.333333333333336,INF,
+Joey,Isabel,3.1914893617021276,1.5957446808510638,52.659574468085104,2.0,eat stare tell start annoy be focus be do exist
+Seanie,JP,4.838709677419355,0.8064516129032258,49.193548387096776,6.0,know be start have take get
+JP,Seanie,4.838709677419355,0.8064516129032258,49.193548387096776,6.0,know be start have take get
+JP,Seanie,4.838709677419355,0.8064516129032258,49.193548387096776,6.0,know be start have take get
+JP,Megan,6.875000000000001,4.375,48.75,1.5714285714285714,have stop talk mope be
+JP,Megan,6.875000000000001,4.375,48.75,1.5714285714285714,have stop talk mope be
+Chas,Ned,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,do scream make confess have be fool
+Chas,Megan,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,do scream make confess have be fool
+Ned,Chas,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,do scream make confess have be fool
+Ned,Megan,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,do scream make confess have be fool
+Chas,Megan,2.2058823529411766,1.4705882352941175,46.32352941176471,1.5,do scream make confess have be fool
+Chas,Pussboy,0.0,0.0,62.5,INF,do put call
+Joey,Megan,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,tell have break be
+Joey,Chas,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,tell have break be
+Megan,Chas,2.7777777777777777,0.6944444444444444,46.52777777777778,4.0,tell have break be
+Mr. Farrow,Casey,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Mr. Farrow,Annie,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Mr. Farrow,Joey,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Casey,Annie,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Casey,Joey,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Annie,Joey,0.847457627118644,0.6355932203389831,57.83898305084746,1.3333333333333333,throw catch copulate figure need do be want
+Seanie,JP,0.0,0.0,57.14285714285714,INF,turn follow
+Chas,Megan,4.62962962962963,0.9259259259259258,57.407407407407405,5.0,want ask know be speak
+Chas,Ryan Dean,4.62962962962963,0.9259259259259258,57.407407407407405,5.0,want ask know be speak
+Megan,Ryan Dean,4.62962962962963,0.9259259259259258,57.407407407407405,5.0,want ask know be speak
+Chas,Megan,3.205128205128205,1.9230769230769231,58.97435897435898,1.6666666666666667,have say look make feel do see
+Chas,Megan,3.205128205128205,1.9230769230769231,58.97435897435898,1.6666666666666667,have say look make feel do see
+Ryan Dean,Megan,6.481481481481481,0.0,45.370370370370374,INF,west do say do see
+Ryan Dean,Joey,0.0,0.0,58.82352941176471,INF,west do decide join
+Ryan Dean,Isabel,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,west
+Ryan Dean,Doc Mom,10.9375,0.0,51.5625,INF,west
+Ryan Dean,Annie,5.555555555555555,2.7777777777777777,36.11111111111111,2.0,west
+Ryan Dean,Hickey,0.0,3.125,59.375,0.0,west
+Hickey,Ryan Dean,1.1904761904761905,3.571428571428571,71.42857142857143,0.3333333333333333,be hiss
+Joey,Kevin,2.976190476190476,0.0,58.92857142857143,INF,say ask come be forget
+Joey,Kevin,2.976190476190476,0.0,58.92857142857143,INF,say ask come be forget
+JP,Seanie,7.8125,3.125,26.5625,2.5,feel
+Joey,Bannock,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,laugh feel drive find kick
+Joey,Ned,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,laugh feel drive find kick
+Joey,Ned,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,laugh feel drive find kick
+Bannock,Ned,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,laugh feel drive find kick
+Bannock,Ned,3.787878787878788,1.1363636363636365,58.71212121212122,3.3333333333333335,laugh feel drive find kick
+Joey,Nick,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,wish be hear say be be
+Joey,Casey,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,wish be hear say be be
+Joey,Nick,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,wish be hear say be be
+Nick,Casey,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,wish be hear say be be
+Casey,Nick,1.6304347826086956,2.1739130434782608,61.41304347826087,0.75,wish be hear say be be
+Joey,Kevin,6.481481481481481,3.2407407407407405,34.72222222222222,2.0,know be go do make have
+Joey,Kevin,2.4456521739130435,2.717391304347826,44.83695652173913,0.9,be be assign leave hear come
+Joey,Casey,4.166666666666666,1.6666666666666667,40.833333333333336,2.5,do say run
+Kevin,Joey,0.0,0.0,42.857142857142854,INF,look
+Kevin,Mr. Farrow,4.310344827586207,3.4482758620689653,47.41379310344828,1.25,say have stall give finish chew
+Kevin,Mr. Farrow,4.310344827586207,3.4482758620689653,47.41379310344828,1.25,say have stall give finish chew
+Pokémon,Chas,2.5,0.7142857142857143,51.07142857142857,3.5,be stand wear push open walk
+Pokémon,Casey,2.5,0.7142857142857143,51.07142857142857,3.5,be stand wear push open walk
+Chas,Casey,2.5,0.7142857142857143,51.07142857142857,3.5,be stand wear push open walk
+Casey,Joey,7.142857142857142,3.571428571428571,52.142857142857146,2.0,do creep look consider know think
+Casey,Joey,7.142857142857142,3.571428571428571,52.142857142857146,2.0,do creep look consider know think
+Casey,Joey,7.142857142857142,3.571428571428571,52.142857142857146,2.0,do creep look consider know think
+Joey,Chas,3.0,0.0,56.99999999999999,INF,have leave separate
+Joey,Casey,3.0,0.0,56.99999999999999,INF,have leave separate
+Chas,Casey,3.0,0.0,56.99999999999999,INF,have leave separate
+Joey,Casey,3.4722222222222223,2.430555555555556,66.31944444444444,1.4285714285714286,give notice eye look be watch
+Joey,Casey,3.4722222222222223,2.430555555555556,66.31944444444444,1.4285714285714286,give notice eye look be watch
+Joey,Casey,3.4722222222222223,2.430555555555556,66.31944444444444,1.4285714285714286,give notice eye look be watch
+Annie,Casey,2.34375,1.5625,49.21875,1.5,dig say hope be pay be talk
+Chas,Casey,1.0714285714285714,5.0,42.5,0.21428571428571427,leave hear say be put complain be fuck get
+Casey,Nick,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Casey,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Casey,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Nick,Casey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Nick,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Nick,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Casey,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Casey,Joey,1.6666666666666667,4.166666666666666,58.611111111111114,0.4,have go be make have hang
+Bannock,Chas,5.113636363636364,3.4090909090909087,61.93181818181818,1.5,do think come have cut get
+Bannock,Chas,5.113636363636364,3.4090909090909087,61.93181818181818,1.5,do think come have cut get
+Chas,Pokémon,4.6875,2.34375,55.46875,2.0,have
+Chas,Pokémon,4.6875,2.34375,55.46875,2.0,have
+Kevin,Isabel,3.048780487804878,2.1341463414634148,58.231707317073166,1.4285714285714286,have take draw be
+Kevin,Isabel,3.048780487804878,2.1341463414634148,58.231707317073166,1.4285714285714286,have take draw be
+Isabel,Kevin,3.048780487804878,2.1341463414634148,58.231707317073166,1.4285714285714286,have take draw be
+Nick,Bill,1.293103448275862,0.43103448275862066,56.896551724137936,3.0,know be write
+Nick,Bill,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Nick,Bill,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Nick,Bill,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Bill,Nick,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Bill,Nick,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Bill,Nick,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Bill,Nick,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Nick,Bill,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Bill,Nick,1.1627906976744187,0.5813953488372093,58.720930232558146,2.0,continue mean get put tell be do get marry
+Kevin,Mr. Wellins,0.7352941176470588,0.0,34.55882352941176,INF,play be
+Joey,Kevin,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Joey,Casey,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Joey,Chas,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Kevin,Casey,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Kevin,Chas,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Casey,Chas,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,come find be go
+Joey,Kevin,0.0,0.0,38.88888888888889,INF,swing say be go look
+Joey,Annie,0.0,0.0,38.88888888888889,INF,swing say be go look
+Kevin,Annie,0.0,0.0,38.88888888888889,INF,swing say be go look
+Kevin,Casey,2.0161290322580645,0.0,46.37096774193548,INF,lean say do think go be say
+Kevin,Joey,2.0161290322580645,0.0,46.37096774193548,INF,lean say do think go be say
+Kevin,Joey,2.0161290322580645,0.0,46.37096774193548,INF,lean say do think go be say
+Casey,Joey,2.0161290322580645,0.0,46.37096774193548,INF,lean say do think go be say
+Casey,Joey,2.0161290322580645,0.0,46.37096774193548,INF,lean say do think go be say
+Kevin,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Kevin,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Kevin,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Kevin,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Kevin,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Kevin,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Joey,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Joey,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Joey,Casey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Casey,Joey,3.5377358490566038,2.5943396226415096,48.58490566037736,1.3636363636363635,find tell be need stop hit be introduce
+Chas,Joey,3.75,3.125,33.125,1.2,do realize be
+Chas,Joey,3.75,3.125,33.125,1.2,do realize be
+Seanie,Isabel,0.8928571428571428,1.7857142857142856,61.60714285714286,0.5,see sit
+Isabel,Seanie,3.4090909090909087,5.681818181818182,54.54545454545454,0.6,seem keep open
+Ryan Dean,Isabel,0.0,0.0,30.0,INF,say
+Seanie,JP,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,say be
+Mrs. Kurtz,Seanie,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,lean whisper think be laugh
+Mrs. Kurtz,Seanie,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,lean whisper think be laugh
+Mrs. Kurtz,Seanie,2.717391304347826,2.1739130434782608,42.934782608695656,1.25,lean whisper think be laugh
+Seanie,Annie,0.7575757575757576,0.0,35.60606060606061,INF,say tell tell be go sit cross
+Seanie,Pokémon,0.7575757575757576,0.0,35.60606060606061,INF,say tell tell be go sit cross
+Annie,Pokémon,0.7575757575757576,0.0,35.60606060606061,INF,say tell tell be go sit cross
+Mrs. Kurtz,Ryan Dean,0.0,0.0,25.0,INF,high-five say be
+Megan,Ryan Dean,0.6944444444444444,4.166666666666666,47.91666666666667,0.16666666666666666,mean score
+Megan,Ryan Dean,0.0,0.0,35.714285714285715,INF,say be
+Megan,Ryan Dean,5.88235294117647,0.0,35.294117647058826,INF,say be
+Annie,Megan,13.750000000000002,6.25,20.0,2.2,be say
+Annie,Casey,3.040540540540541,3.3783783783783785,53.04054054054054,0.9,lead get drink remember be have do be apologize
+Seanie,Isabel,0.0,0.0,47.368421052631575,INF,bet have move say
+Annie,Seanie,1.5625,0.0,52.604166666666664,INF,sit sit face
+Ryan Dean,Seanie,1.0416666666666665,2.083333333333333,38.54166666666667,0.5,be piss say
+Kevin,Annie,3.289473684210526,1.3157894736842104,48.026315789473685,2.5,figure have
+Joe,Joey,2.2058823529411766,0.0,33.088235294117645,INF,be say smile
+Seanie,JP,0.0,0.0,45.45454545454545,INF,be
+Seanie,Isabel,0.0,0.0,14.285714285714285,INF,
+Seanie,Isabel,0.0,3.289473684210526,28.289473684210524,0.0,have settle
+Mr. Wellins,JP,3.125,1.0416666666666665,37.5,3.0,look wave have be
+Mr. Wellins,John-Paul Tureau,3.125,1.0416666666666665,37.5,3.0,look wave have be
+Mr. Wellins,JP,3.125,1.0416666666666665,37.5,3.0,look wave have be
+Mr. Wellins,John-Paul Tureau,3.125,1.0416666666666665,37.5,3.0,look wave have be
+JP,John-Paul Tureau,3.125,1.0416666666666665,37.5,3.0,look wave have be
+JP,Ryan Dean,3.571428571428571,1.7857142857142856,46.07142857142857,2.0,go stop say be go tell do care know
+Annie,Seanie,3.6764705882352944,6.61764705882353,48.529411764705884,0.5555555555555556,feel hug be talk
+Annie,Seanie,3.6764705882352944,6.61764705882353,48.529411764705884,0.5555555555555556,feel hug be talk
+Annie,Ryan Dean,2.403846153846154,0.0,43.75,INF,tell come be
+Annie,Ryan Dean,2.403846153846154,0.0,43.75,INF,tell come be
+Annie,Ryan Dean,2.403846153846154,0.0,43.75,INF,tell come be
+JP,Annie,4.861111111111112,2.083333333333333,48.61111111111111,2.3333333333333335,get bust be hear have say
+Seanie,Isabel,2.1551724137931036,0.0,56.46551724137932,INF,sit dance come tell go
+Seanie,Annie,2.1551724137931036,0.0,56.46551724137932,INF,sit dance come tell go
+Isabel,Annie,2.1551724137931036,0.0,56.46551724137932,INF,sit dance come tell go
+Annie,Isabel,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Annie,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Annie,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Annie,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Isabel,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Isabel,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Isabel,Seanie,3.1818181818181817,2.727272727272727,48.63636363636364,1.1666666666666667,do see volunteer walk let seanie know be dread go say
+Annie,JP,3.0172413793103448,1.293103448275862,47.41379310344828,2.3333333333333335,put whisper tell be say
+Joey,JP,5.092592592592593,0.9259259259259258,38.425925925925924,5.5,tell be say
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Isabel,Annie,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+Annie,Isabel,1.4084507042253522,0.7042253521126761,45.774647887323944,2.0,stop turn say be tell cover ask stick lick squeal laugh run whisper
+JP,Seanie,6.25,2.5462962962962963,50.46296296296296,2.4545454545454546,be talk have be speak be be say pick
+Seanie,JP,6.25,2.5462962962962963,50.46296296296296,2.4545454545454546,be talk have be speak be be say pick
+Megan,Ryan Dean,0.5681818181818182,0.0,44.88636363636363,INF,see smile say like dance
+Megan,Ryan Dean,0.5681818181818182,0.0,44.88636363636363,INF,see smile say like dance
+Kevin,Megan,0.0,0.0,41.66666666666667,INF,see say
+Annie,JP,0.0,0.0,57.14285714285714,INF,smile do turn look
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Hemingway,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Hemingway,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Ryan Dean,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Mr. Wellins,Hemingway,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Ryan Dean,Hemingway,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+Ryan Dean,Hemingway,3.3333333333333335,1.8333333333333333,50.83333333333333,1.8181818181818181,begin talk be suppress start blah-blah-blahe take be let go
+JP,Annie,0.0,4.605263157894736,53.289473684210535,0.0,cough give scoot
+Megan,Joey,0.0,0.0,0.0,INF,
+Annie,Chas,3.75,0.625,30.625000000000004,6.0,say be come be
+Annie,Ryan Dean,3.75,0.625,30.625000000000004,6.0,say be come be
+Chas,Ryan Dean,3.75,0.625,30.625000000000004,6.0,say be come be
+Mr. West,Mr. Wellins,0.0,0.5208333333333333,45.3125,0.0,bring announce snap
+Mr. West,Annie,0.0,0.5208333333333333,45.3125,0.0,bring announce snap
+Mr. Wellins,Annie,0.0,0.5208333333333333,45.3125,0.0,bring announce snap
+Mr. Wellins,Ryan Dean,3.8194444444444446,3.4722222222222223,56.59722222222222,1.1,go have be hint
+Mr. Wellins,Hemingway,3.8194444444444446,3.4722222222222223,56.59722222222222,1.1,go have be hint
+Ryan Dean,Hemingway,3.8194444444444446,3.4722222222222223,56.59722222222222,1.1,go have be hint
+Mr. Wellins,Mr. West,0.0,0.6578947368421052,46.71052631578947,0.0,do mean comment
+Ryan Dean,Mr. Wellins,7.291666666666667,0.0,34.375,INF,please elucidate say
+Mr. West,JP,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,please do whisper turn look
+Mr. West,Annie,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,please do whisper turn look
+JP,Annie,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,please do whisper turn look
+Annie,Kevin,0.3125,1.25,48.4375,0.25,see carry imagine throw kick scream stop
+Annie,Kevin,0.3125,1.25,48.4375,0.25,see carry imagine throw kick scream stop
+Kevin,Annie,0.3125,1.25,48.4375,0.25,see carry imagine throw kick scream stop
+Annie,Kevin,0.8928571428571428,0.0,34.82142857142857,INF,wait stand
+Annie,Megan,0.8928571428571428,0.0,34.82142857142857,INF,wait stand
+Kevin,Megan,0.8928571428571428,0.0,34.82142857142857,INF,wait stand
+Kevin,Ryan Dean,1.25,0.0,38.75,INF,say
+Kevin,Joey,0.0,0.0,56.52173913043478,INF,look shake say do come
+Kevin,Joey,0.0,0.0,56.52173913043478,INF,look shake say do come
+Joey,Kevin,7.291666666666667,3.125,39.58333333333333,2.3333333333333335,know be say
+Joey,Kevin,0.78125,0.0,49.21875,INF,be park be
+Joey,Kevin,0.0,0.0,46.15384615384615,INF,do see say
+Kevin,Joey,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Kevin,Casey,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Kevin,Nick,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Joey,Casey,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Joey,Nick,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Casey,Nick,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,say get
+Joey,Ryan Dean,0.0,0.0,50.0,INF,be
+Ryan Dean,Kevin,0.0,0.0,55.00000000000001,INF,be do have go say
+Nick,Casey,2.272727272727273,0.0,34.090909090909086,INF,get say
+Nick,Kevin,2.272727272727273,0.0,34.090909090909086,INF,get say
+Casey,Kevin,2.272727272727273,0.0,34.090909090909086,INF,get say
+Kevin,Annie,0.0,0.0,38.88888888888889,INF,load walk
+Annie,Kevin,0.0,0.0,45.45454545454545,INF,close start
+Kevin,Joey,0.0,0.0,53.333333333333336,INF,say tell call show
+Kevin,Joey,0.0,0.0,53.333333333333336,INF,say tell call show
+Chas,Mr. Farrow,1.0416666666666665,0.0,48.95833333333333,INF,watch
+Chas,Casey,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Chas,Joey,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Chas,Bannock,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Chas,Ned,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Casey,Joey,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Casey,Bannock,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Casey,Chas,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Casey,Ned,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Joey,Bannock,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Joey,Chas,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Joey,Ned,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Bannock,Chas,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Bannock,Ned,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Chas,Ned,1.6304347826086956,1.0869565217391304,47.28260869565217,1.5,tell drink pee drive get lose pick scream
+Joey,Doc Mom,5.769230769230769,4.326923076923077,55.28846153846154,1.3333333333333333,be finish talk say be
+Joey,Ryan Dean,5.769230769230769,4.326923076923077,55.28846153846154,1.3333333333333333,be finish talk say be
+Doc Mom,Ryan Dean,5.769230769230769,4.326923076923077,55.28846153846154,1.3333333333333333,be finish talk say be
+Doc Mom,Ryan Dean,10.0,1.25,38.75,8.0,say
+Casey,Nick,0.0,3.8461538461538463,42.30769230769231,0.0,kill
+Casey,Joey,0.0,3.8461538461538463,42.30769230769231,0.0,kill
+Nick,Joey,0.0,3.8461538461538463,42.30769230769231,0.0,kill
+Casey,Nick,0.0,5.681818181818182,57.95454545454546,0.0,come
+Casey,Joey,3.125,3.8194444444444446,56.94444444444444,0.8181818181818182,hear confess figure be do want come be chase
+Casey,Joey,3.125,3.8194444444444446,56.94444444444444,0.8181818181818182,hear confess figure be do want come be chase
+Casey,Joey,3.125,3.8194444444444446,56.94444444444444,0.8181818181818182,hear confess figure be do want come be chase
+Kevin,Chas,1.8292682926829267,0.6097560975609756,46.34146341463415,3.0,move fight watch
+Kevin,Chas,4.365079365079365,2.1825396825396823,49.007936507936506,2.0,talk decide be suit live tell be go do get reopen do have send
+Seanie,JP,1.1363636363636365,0.0,17.045454545454543,INF,invite
+Kevin,Chas,0.625,0.0,49.375,INF,sound keep think happen leave
+Ryan Dean,Pine Mountain Academy,2.1551724137931036,0.43103448275862066,66.37931034482759,5.0,be do reinvent
+Andrew Smith,Sam Bosma,0.390625,0.0,71.484375,INF,text reserve include
+LUCY RUTH CUMMINS,Sam Bosma,1.893939393939394,0.3787878787878788,70.45454545454545,5.0,book be set
+LUCY RUTH CUMMINS,Sam Bosma,1.893939393939394,0.3787878787878788,70.45454545454545,5.0,book be set
+Andrew Smith,Ryan Dean,3.0172413793103448,1.0775862068965518,56.25,2.8,board grapple live fall think play
+Andrew Smith,Ryan Dean,3.0172413793103448,1.0775862068965518,56.25,2.8,board grapple live fall think play
+Andrew Smith,Ryan Dean,3.0172413793103448,1.0775862068965518,56.25,2.8,board grapple live fall think play
+Andrew Smith,Ryan Dean,3.0172413793103448,1.0775862068965518,56.25,2.8,board grapple live fall think play

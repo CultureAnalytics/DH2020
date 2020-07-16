@@ -1,0 +1,500 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Moldenke,Bunkerville,1.5625,0.390625,54.296875,4.0,stay be bleed speak
+Bunkerville,Moldenke,1.5625,0.390625,54.296875,4.0,stay be bleed speak
+Bunkerville,Moldenke,1.5625,0.390625,54.296875,4.0,stay be bleed speak
+Moldenke,Zanzetti,0.0,1.5625,42.1875,0.0,do
+Moldenke,Bunkerville,3.5000000000000004,2.0,46.5,1.75,have see walk do want frighten
+Ozzie,Moldenke,2.6785714285714284,1.7857142857142856,49.107142857142854,1.5,make conceal carry
+Moldenke,Ozzie,2.6785714285714284,1.7857142857142856,49.107142857142854,1.5,make conceal carry
+Moldenke,Ozzie,2.6785714285714284,1.7857142857142856,49.107142857142854,1.5,make conceal carry
+Moldenke,Ozzie,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Moldenke,Ozzie,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Moldenke,Ozzie,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Moldenke,Ozzie,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Moldenke,Ozzie,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Ozzie,Moldenke,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Ozzie,Moldenke,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Ozzie,Moldenke,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Ozzie,Moldenke,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Ozzie,Moldenke,2.604166666666667,3.6458333333333335,56.25,0.7142857142857143,take feel make do draw wave
+Altobello,Saposcat,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Altobello,Arden,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Altobello,Bunkerville,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Saposcat,Arden,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Saposcat,Bunkerville,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Arden,Bunkerville,0.0,0.16666666666666669,53.166666666666664,0.0,be report live enter sever visit
+Bunkerville,KUNK,2.232142857142857,2.6785714285714284,59.375,0.8333333333333334,blame make
+Altobello,Coward,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Altobello,Coward,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Altobello,Bunkerville,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Altobello,Coward,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Coward,Bunkerville,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Coward,Bunkerville,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+Bunkerville,Coward,1.0416666666666665,0.5208333333333333,56.770833333333336,2.0,take say buy dial go kill try
+KUNK,Coward,2.083333333333333,0.0,56.25,INF,put claim
+KUNK,Coward,2.083333333333333,0.0,56.25,INF,put claim
+Altobello,Franklin,0.0,3.040540540540541,51.01351351351351,0.0,receive be kill visit
+Moldenke,Altobello,3.225806451612903,4.032258064516129,50.806451612903224,0.8,inform be
+Ozzie,Moldenke,1.5625,1.0416666666666665,47.39583333333333,1.5,ask need stay suggest
+Ozzie,Altobello,2.5,0.0,49.5,INF,wait read make
+Ozzie,Moldenke,2.5,0.0,49.5,INF,wait read make
+Ozzie,Altobello,2.5,0.0,49.5,INF,wait read make
+Altobello,Moldenke,2.5,0.0,49.5,INF,wait read make
+Moldenke,Altobello,2.5,0.0,49.5,INF,wait read make
+Altobello,Bunkerville,0.6097560975609756,1.8292682926829267,70.73170731707317,0.3333333333333333,get go work dock unload
+Moldenke,Altobello,1.8518518518518516,0.9259259259259258,63.888888888888886,2.0,arrive free disembark fill get
+Moldenke,Saposcat,1.3888888888888888,0.0,43.05555555555556,INF,head
+Altobello,Bunkerville,1.25,0.625,63.125,2.0,be come get send
+Moldenke,Altobello,0.0,0.5208333333333333,49.47916666666667,0.0,shift keep flow wait open
+Moldenke,Altobello,0.0,0.5208333333333333,49.47916666666667,0.0,shift keep flow wait open
+Salmonella,Udo,0.0,0.0,62.5,INF,fold look
+Bunkerville,Udo,0.0,0.0,53.84615384615385,INF,give give say
+Moldenke,Udo,0.9615384615384616,2.8846153846153846,57.692307692307686,0.3333333333333333,gnaw consider
+Udo,Altobello,1.7857142857142856,1.0714285714285714,60.0,1.6666666666666667,get work dock think go see treat
+Udo,Altobello,1.7857142857142856,1.0714285714285714,60.0,1.6666666666666667,get work dock think go see treat
+Moldenke,Udo,1.4285714285714286,2.142857142857143,65.0,0.6666666666666666,be surprise remind be treat wish
+Moldenke,Altobello,1.4285714285714286,2.142857142857143,65.0,0.6666666666666666,be surprise remind be treat wish
+Moldenke,Altobello,1.4285714285714286,2.142857142857143,65.0,0.6666666666666666,be surprise remind be treat wish
+Udo,Altobello,1.4285714285714286,2.142857142857143,65.0,0.6666666666666666,be surprise remind be treat wish
+Udo,Altobello,1.4285714285714286,2.142857142857143,65.0,0.6666666666666666,be surprise remind be treat wish
+Udo,Salmonella,3.571428571428571,0.8928571428571428,66.96428571428571,4.0,hold take
+Salmonella,Moldenke,3.90625,3.125,42.96875,1.25,say feel ask feel
+Salmonella,Udo,3.90625,3.125,42.96875,1.25,say feel ask feel
+Moldenke,Udo,3.90625,3.125,42.96875,1.25,say feel ask feel
+Salmonella,Udo,0.0,1.7857142857142856,55.35714285714286,0.0,come
+Salmonella,Udo,0.0,0.0,62.5,INF,put
+Salmonella,Udo,0.0,0.0,62.5,INF,put
+Moldenke,Udo,0.6578947368421052,0.0,46.71052631578947,INF,bring open wave
+Udo,Moldenke,0.9259259259259258,0.0,58.333333333333336,INF,say want put be touch
+Moldenke,Udo,0.9259259259259258,0.0,58.333333333333336,INF,say want put be touch
+Salmonella,Udo,0.0,1.1363636363636365,62.5,0.0,say be be go
+Moldenke,Udo,0.0,1.0869565217391304,55.434782608695656,0.0,sleep drive come
+Moldenke,Udo,5.0,6.25,48.75,0.8,confess be live
+Moldenke,Altobello,5.0,6.25,48.75,0.8,confess be live
+Udo,Altobello,5.0,6.25,48.75,0.8,confess be live
+Altobello,Udo,1.25,1.25,52.5,1.0,be pull
+Bunkerville,Nick,0.0,0.0,42.857142857142854,INF,call be arrest
+Ozzie,Nelson,0.7352941176470588,0.0,46.32352941176471,INF,read be explode make attend
+Ozzie,Nick,0.7352941176470588,0.0,46.32352941176471,INF,read be explode make attend
+Ozzie,Nelson,0.7352941176470588,0.0,46.32352941176471,INF,read be explode make attend
+Nelson,Nick,0.7352941176470588,0.0,46.32352941176471,INF,read be explode make attend
+Nick,Nelson,0.7352941176470588,0.0,46.32352941176471,INF,read be explode make attend
+Marvona,Grendon,0.0,0.0,42.857142857142854,INF,explode be arrest lead
+Marvona,Bloom,6.25,2.083333333333333,41.66666666666667,3.0,know say
+Marvona,Bloom,0.0,0.0,69.23076923076923,INF,escape be sentence
+Bunkerville,Bloom,2.272727272727273,0.0,70.45454545454545,INF,listen
+Bloom,Nelson,0.8928571428571428,0.0,52.67857142857143,INF,be be make sit
+Moldenke,Bloom,1.0416666666666665,0.0,48.95833333333333,INF,spend
+Bloom,Arden,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Tunney,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Arden,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Bloom,Tunney,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Arden,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Arden,Altobello,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Arden,Tunney,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Altobello,Tunney,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Altobello,Tunney,0.78125,1.3020833333333335,58.333333333333336,0.6,rise put go run have walk block room
+Tunney,Altobello,0.5681818181818182,0.0,49.43181818181818,INF,order show be assign
+Tunney,Moldenke,0.5681818181818182,0.0,49.43181818181818,INF,order show be assign
+Tunney,Altobello,0.5681818181818182,0.0,49.43181818181818,INF,order show be assign
+Altobello,Moldenke,0.5681818181818182,0.0,49.43181818181818,INF,order show be assign
+Moldenke,Altobello,0.5681818181818182,0.0,49.43181818181818,INF,order show be assign
+Moldenke,Altobello,3.3653846153846154,0.9615384615384616,61.057692307692314,3.5,open find
+Moldenke,Burke,3.3653846153846154,0.9615384615384616,61.057692307692314,3.5,open find
+Altobello,Burke,3.3653846153846154,0.9615384615384616,61.057692307692314,3.5,open find
+Altobello,Burke,1.9230769230769231,9.134615384615383,58.17307692307693,0.21052631578947367,have study make
+Burke,Altobello,1.9230769230769231,9.134615384615383,58.17307692307693,0.21052631578947367,have study make
+Altobello,Zanzetti,0.5208333333333333,1.5625,64.58333333333334,0.3333333333333333,be reveal lock shield
+Moldenke,Saposcat,1.953125,0.78125,58.203125,2.5,follow walk eat drink crowd be wander take be
+Altobello,Moldenke,2.8125,1.25,53.43750000000001,2.25,come have evolve see roam chase
+Altobello,Arden,0.0,0.0,57.89473684210527,INF,catch show take
+Arden,Altobello,0.0,0.0,57.89473684210527,INF,catch show take
+Moldenke,Altobello,2.083333333333333,4.166666666666666,49.30555555555556,0.5,lean ask mind settle
+Saposcat,Burke,3.75,0.8333333333333334,42.083333333333336,4.5,tell do say be
+Moldenke,Arden,2.272727272727273,2.840909090909091,53.97727272727273,0.8,feel refresh soak venture
+Zanzetti,Moldenke,2.7777777777777777,0.0,58.333333333333336,INF,invent claim do give
+Zanzetti,Moldenke,2.7777777777777777,0.0,58.333333333333336,INF,invent claim do give
+Moldenke,Arden,0.0,3.571428571428571,57.14285714285714,0.0,close walk hear be
+Arden,Moldenke,3.125,0.0,55.208333333333336,INF,cross smell
+Moldenke,Bunkerville,0.0,0.0,11.11111111111111,INF,be
+Ernie,Moldenke,3.4722222222222223,1.0416666666666665,45.48611111111111,3.3333333333333335,put come whisper look
+Ernie,Moldenke,3.4722222222222223,1.0416666666666665,45.48611111111111,3.3333333333333335,put come whisper look
+Moldenke,Ernie,3.4722222222222223,1.0416666666666665,45.48611111111111,3.3333333333333335,put come whisper look
+Ernie,Saposcat,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Ernie,Misti Gaynor,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Ernie,Enfield Peters,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Saposcat,Misti Gaynor,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Saposcat,Enfield Peters,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Misti Gaynor,Enfield Peters,0.0,0.2717391304347826,56.25,0.0,decide distract go see star puke
+Saposcat,Moldenke,0.0,1.524390243902439,59.45121951219512,0.0,step hide
+Moldenke,Arden,1.0416666666666665,0.0,44.79166666666667,INF,think be go
+Altobello,Moldenke,0.0,6.25,35.41666666666667,0.0,come say stink
+Altobello,Moldenke,0.0,6.25,35.41666666666667,0.0,come say stink
+Moldenke,Ernie,7.352941176470589,6.61764705882353,56.61764705882353,1.1111111111111112,kick be be
+Moldenke,Ernie,7.352941176470589,6.61764705882353,56.61764705882353,1.1111111111111112,kick be be
+Ernie,Arden,2.556818181818182,1.9886363636363635,47.72727272727273,1.2857142857142858,do put walk stop feel be take
+Ernie,Arden,2.556818181818182,1.9886363636363635,47.72727272727273,1.2857142857142858,do put walk stop feel be take
+Arden,Ernie,2.556818181818182,1.9886363636363635,47.72727272727273,1.2857142857142858,do put walk stop feel be take
+Moldenke,Ernie,0.7352941176470588,0.7352941176470588,57.35294117647059,1.0,take display
+Ernie,Moldenke,0.0,0.0,60.0,INF,wink
+Ernie,Moldenke,3.75,2.9166666666666665,40.0,1.2857142857142858,deliver whisper be be
+Moldenke,Ernie,6.25,2.6785714285714284,33.92857142857143,2.3333333333333335,say give
+Ernie,Moldenke,0.0,0.0,46.15384615384615,INF,follow wave
+Ernie,Zanzetti,0.0,1.875,58.12500000000001,0.0,be bear deliver andhouse keep
+Ernie,Bunkerville,0.0,1.875,58.12500000000001,0.0,be bear deliver andhouse keep
+Zanzetti,Bunkerville,0.0,1.875,58.12500000000001,0.0,be bear deliver andhouse keep
+Moldenke,Saposcat,0.0,0.0,38.46153846153847,INF,go
+Moldenke,Arden,0.0,0.0,38.46153846153847,INF,go
+Saposcat,Arden,0.0,0.0,38.46153846153847,INF,go
+Udo,Salmonella,0.0,0.0,57.14285714285714,INF,find
+Udo,Altobello,2.380952380952381,1.1904761904761905,44.047619047619044,2.0,drink eat read arrive
+Salmonella,Moldenke,5.555555555555555,0.0,50.0,INF,place
+Moldenke,Udo,1.25,0.4166666666666667,55.00000000000001,3.0,sleep awaken
+Salmonella,Moldenke,0.0,0.0,58.82352941176471,INF,sit slide give sit
+Salmonella,Udo,0.625,0.0,64.375,INF,brush let
+Salmonella,Udo,0.625,0.0,64.375,INF,brush let
+Salmonella,Udo,0.625,0.0,64.375,INF,brush let
+Udo,Moldenke,1.4204545454545454,1.1363636363636365,51.98863636363637,1.25,stand have be paint
+Udo,Salmonella,1.4204545454545454,1.1363636363636365,51.98863636363637,1.25,stand have be paint
+Moldenke,Salmonella,1.4204545454545454,1.1363636363636365,51.98863636363637,1.25,stand have be paint
+Moldenke,Salmonella,0.0,0.0,60.0,INF,look
+Salmonella,Moldenke,5.357142857142857,0.0,37.5,INF,follow
+Moldenke,Salmonella,0.9615384615384616,0.0,68.26923076923077,INF,greet
+Franklin,Udo,2.5735294117647056,0.7352941176470588,55.51470588235294,3.5,see include spin wheel extend expect be kiss
+Franklin,Udo,2.5735294117647056,0.7352941176470588,55.51470588235294,3.5,see include spin wheel extend expect be kiss
+Franklin,Udo,2.5735294117647056,0.7352941176470588,55.51470588235294,3.5,see include spin wheel extend expect be kiss
+Udo,Franklin,0.0,0.0,83.33333333333334,INF,take
+Moldenke,Franklin,7.142857142857142,0.0,35.714285714285715,INF,wave
+Moldenke,Udo,7.142857142857142,0.0,35.714285714285715,INF,wave
+Franklin,Udo,7.142857142857142,0.0,35.714285714285715,INF,wave
+Salmonella,Moldenke,2.380952380952381,4.166666666666666,64.88095238095238,0.5714285714285714,be lay arch
+Salmonella,Moldenke,2.380952380952381,4.166666666666666,64.88095238095238,0.5714285714285714,be lay arch
+Udo,Franklin,1.3888888888888888,1.3888888888888888,75.0,1.0,give
+Moldenke,Salmonella,0.0,0.0,54.54545454545454,INF,continue sit wait
+Altobello,Bunkerville,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,be forbid
+Altobello,Franklin,0.0,0.7352941176470588,75.73529411764706,0.0,be play
+Moldenke,Franklin,0.0,1.6666666666666667,65.0,0.0,make attend miss
+Udo,Salmonella,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,be spot
+Salmonella,Udo,5.147058823529411,2.2058823529411766,45.588235294117645,2.3333333333333335,be spot
+Moldenke,Udo,0.0,0.0,42.857142857142854,INF,tap
+Salmonella,Udo,0.0,3.571428571428571,53.57142857142857,0.0,tug
+Udo,Altobello,0.0,5.88235294117647,58.82352941176471,0.0,give
+Altobello,Udo,0.0,5.88235294117647,58.82352941176471,0.0,give
+Udo,Salmonella,0.0,0.0,60.0,INF,push
+Altobello,Moldenke,0.0,0.0,38.46153846153847,INF,fall stop stand
+Moldenke,Altobello,0.0,0.0,38.46153846153847,INF,fall stop stand
+Moldenke,Altobello,0.0,0.0,38.46153846153847,INF,fall stop stand
+Moldenke,Franklin,0.0,0.0,45.45454545454545,INF,say hurry run
+Moldenke,Franklin,3.75,2.5,33.75,1.5,lift
+Moldenke,Ernie,6.25,0.625,63.125,10.0,smell come give
+Moldenke,Ernie,0.4032258064516129,0.8064516129032258,53.62903225806451,0.5,stand hand claw whisper let have let
+Moldenke,Saposcat,0.4032258064516129,0.8064516129032258,53.62903225806451,0.5,stand hand claw whisper let have let
+Ernie,Saposcat,0.4032258064516129,0.8064516129032258,53.62903225806451,0.5,stand hand claw whisper let have let
+Moldenke,Saposcat,3.2407407407407405,0.0,59.72222222222222,INF,be repulse doubt want be see
+Moldenke,Saposcat,0.0,0.8333333333333334,45.83333333333333,0.0,agree meet
+Moldenke,Saposcat,0.78125,0.0,42.96875,INF,listen be go
+Ernie,Moldenke,0.0,0.0,40.0,INF,wink
+Ernie,Salmonella,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,come pat
+Ernie,Salmonella,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,look
+Bunkerville,Misti Gaynor,2.272727272727273,4.545454545454546,38.63636363636363,0.5,have die
+Moldenke,Salmonella,0.0,0.0,50.0,INF,stand wait
+Moldenke,Saposcat,0.0,0.0,50.0,INF,stand wait
+Salmonella,Saposcat,0.0,0.0,50.0,INF,stand wait
+Moldenke,Arden,1.5625,0.0,48.4375,INF,look
+Franklin,Salmonella,0.0,0.0,33.33333333333333,INF,be say
+Moldenke,Arden,0.0,0.0,57.14285714285714,INF,see screech
+Franklin,Bunkerville,2.631578947368421,3.289473684210526,51.973684210526315,0.8,be be reserve visit be
+Franklin,Bunkerville,2.631578947368421,3.289473684210526,51.973684210526315,0.8,be be reserve visit be
+Franklin,Bunkerville,0.0,0.0,33.33333333333333,INF,
+Saposcat,Franklin,0.0,2.232142857142857,40.625,0.0,close hear smell
+Saposcat,Franklin,0.0,2.232142857142857,40.625,0.0,close hear smell
+Salmonella,Franklin,0.0,0.0,60.0,INF,hold
+Moldenke,Franklin,2.083333333333333,5.208333333333334,51.041666666666664,0.4,want go
+Salmonella,Franklin,0.0,0.0,66.66666666666666,INF,twirl
+Salmonella,Moldenke,0.0,0.0,46.15384615384615,INF,be ride
+Young People 's Home,Salmonella,1.3888888888888888,4.861111111111112,43.75,0.2857142857142857,call begin
+Salmonella,Moldenke,0.0,0.0,30.0,INF,call say
+Salmonella,Moldenke,0.0,15.0,45.0,0.0,scowl
+Moldenke,Salmonella,2.083333333333333,0.0,59.02777777777778,INF,back see kick
+Udo,Moldenke,2.272727272727273,0.0,61.36363636363637,INF,have
+Udo,Salmonella,2.2435897435897436,1.9230769230769231,57.37179487179487,1.1666666666666667,think look be do mean be
+Udo,Salmonella,0.0,0.5434782608695652,55.97826086956522,0.0,stiffen drive see
+Udo,Salmonella,0.0,1.1363636363636365,48.86363636363637,0.0,tug operate usher
+Salmonella,Udo,10.416666666666668,0.0,56.25,INF,sit
+Udo,Bunkerville,2.0,3.0,47.0,0.6666666666666666,set respond lurch enter
+Udo,Arden,2.0,3.0,47.0,0.6666666666666666,set respond lurch enter
+Bunkerville,Arden,2.0,3.0,47.0,0.6666666666666666,set respond lurch enter
+Zanzetti,Altobello,2.2058823529411766,0.7352941176470588,38.23529411764706,3.0,return
+Bunkerville,Altobello,0.5208333333333333,6.25,43.22916666666667,0.08333333333333333,weaken reach
+Moldenke,Altobello,0.0,0.0,62.5,INF,decide have boil
+Altobello,Myron,0.0,0.0,40.0,INF,take
+Myron,Bunkerville,3.75,0.8333333333333334,58.75,4.5,be have say do know boil kill
+Myron,Moldenke,3.75,0.8333333333333334,58.75,4.5,be have say do know boil kill
+Bunkerville,Moldenke,3.75,0.8333333333333334,58.75,4.5,be have say do know boil kill
+Moldenke,Myron,2.857142857142857,1.7857142857142856,58.214285714285715,1.6,get steam hope be ache have go
+Moldenke,Myron,2.857142857142857,1.7857142857142856,58.214285714285715,1.6,get steam hope be ache have go
+Moldenke,Myron,2.857142857142857,1.7857142857142856,58.214285714285715,1.6,get steam hope be ache have go
+Moldenke,Myron,0.5208333333333333,2.604166666666667,51.041666666666664,0.2,walk play myrtle line give
+Myron,Moldenke,4.6875,3.6458333333333335,58.333333333333336,1.2857142857142858,be stalk do want give be lose
+Moldenke,Myron,4.6875,3.6458333333333335,58.333333333333336,1.2857142857142858,be stalk do want give be lose
+Moldenke,Myron,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,recall be
+Myron,Moldenke,2.5735294117647056,1.1029411764705883,58.08823529411765,2.3333333333333335,boil sit swap be set
+Myron,Bunkerville,2.5735294117647056,1.1029411764705883,58.08823529411765,2.3333333333333335,boil sit swap be set
+Moldenke,Bunkerville,2.5735294117647056,1.1029411764705883,58.08823529411765,2.3333333333333335,boil sit swap be set
+Moldenke,Myron,1.0,0.0,55.00000000000001,INF,be have hang
+Moldenke,Myron,1.0,0.0,55.00000000000001,INF,be have hang
+Myron,Bunkerville,3.8461538461538463,3.8461538461538463,34.61538461538461,1.0,be be etch
+Myron,Grendon,3.8461538461538463,3.8461538461538463,34.61538461538461,1.0,be be etch
+Bunkerville,Grendon,3.8461538461538463,3.8461538461538463,34.61538461538461,1.0,be be etch
+Bunkerville,Myron,3.8461538461538463,3.8461538461538463,34.61538461538461,1.0,be be etch
+Grendon,Myron,3.8461538461538463,3.8461538461538463,34.61538461538461,1.0,be be etch
+Moldenke,Bunkerville,1.1904761904761905,0.0,46.42857142857143,INF,go look send
+Moldenke,Altobello,1.1904761904761905,0.0,46.42857142857143,INF,go look send
+Bunkerville,Altobello,1.1904761904761905,0.0,46.42857142857143,INF,go look send
+Myron,Altobello,1.6666666666666667,2.083333333333333,56.25,0.8,haul carry give
+Myron,Altobello,1.6666666666666667,2.083333333333333,56.25,0.8,haul carry give
+Myron,Altobello,1.6666666666666667,2.083333333333333,56.25,0.8,haul carry give
+Moldenke,Altobello,0.6756756756756757,0.33783783783783783,63.85135135135135,2.0,arrive stand look float stand
+Moldenke,Myron,0.6756756756756757,0.33783783783783783,63.85135135135135,2.0,arrive stand look float stand
+Altobello,Myron,0.6756756756756757,0.33783783783783783,63.85135135135135,2.0,arrive stand look float stand
+Myron,Moldenke,0.7653061224489796,4.081632653061225,54.33673469387755,0.1875,be see run do let dodge lose trot
+Moldenke,Myron,0.7653061224489796,4.081632653061225,54.33673469387755,0.1875,be see run do let dodge lose trot
+Moldenke,Myron,0.7653061224489796,4.081632653061225,54.33673469387755,0.1875,be see run do let dodge lose trot
+Moldenke,Myron,0.7653061224489796,4.081632653061225,54.33673469387755,0.1875,be see run do let dodge lose trot
+Moldenke,Myron,0.7653061224489796,4.081632653061225,54.33673469387755,0.1875,be see run do let dodge lose trot
+Myron,Tunney,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,wave pass hope stop take
+Myron,Tunney,0.5952380952380952,0.5952380952380952,60.71428571428571,1.0,wave pass hope stop take
+Moldenke,Altobello,0.0,2.6515151515151514,60.984848484848484,0.0,remember be visit drive
+Altobello,Moldenke,1.7361111111111112,4.166666666666666,52.43055555555556,0.4166666666666667,hold hope see be do offer
+Moldenke,Altobello,1.7361111111111112,4.166666666666666,52.43055555555556,0.4166666666666667,hold hope see be do offer
+Moldenke,Altobello,1.7361111111111112,4.166666666666666,52.43055555555556,0.4166666666666667,hold hope see be do offer
+Altobello,Udo,0.4807692307692308,0.0,53.36538461538461,INF,hear gear turn see pull
+Moldenke,Udo,0.0,2.083333333333333,36.80555555555556,0.0,get say turn crank open
+Udo,Altobello,0.0,3.804347826086957,52.71739130434783,0.0,accelerate
+Salmonella,Altobello,0.0,1.1363636363636365,53.40909090909091,0.0,jump clap
+Salmonella,Altobello,0.0,1.1363636363636365,53.40909090909091,0.0,jump clap
+Udo,Moldenke,0.0,2.272727272727273,43.18181818181818,0.0,follow step
+Udo,Coward,0.0,1.25,43.75,0.0,ask
+Salmonella,Udo,0.0,1.0416666666666665,48.95833333333333,0.0,give take
+Udo,Salmonella,1.5,1.0,61.5,1.5,get have finish be sit fan
+Moldenke,Salmonella,0.0,0.0,44.44444444444444,INF,offer
+Udo,Moldenke,0.0,0.0,50.0,INF,finish be
+Udo,Salmonella,0.0,1.1363636363636365,35.22727272727273,0.0,settle
+Salmonella,Udo,0.0,1.1363636363636365,35.22727272727273,0.0,settle
+Moldenke,Udo,2.0,0.5,53.5,4.0,want keep read put sleep
+Moldenke,Udo,4.411764705882353,9.191176470588236,51.10294117647059,0.48,read paraphrase go be cry cause
+Salmonella,Moldenke,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,be be
+Udo,Moldenke,0.0,2.272727272727273,61.36363636363637,0.0,hand flay
+Moldenke,Udo,0.0,0.0,50.0,INF,place
+Udo,Moldenke,0.0,2.8846153846153846,58.65384615384615,0.0,be return
+Udo,Salmonella,0.0,6.8181818181818175,47.72727272727273,0.0,do say
+Moldenke,Udo,2.34375,3.90625,56.25,0.6,let run be be come pull set
+Moldenke,Saposcat,2.34375,3.90625,56.25,0.6,let run be be come pull set
+Udo,Saposcat,2.34375,3.90625,56.25,0.6,let run be be come pull set
+Salmonella,Moldenke,0.0,0.0,75.0,INF,stand drive
+Salmonella,Udo,0.0,0.0,75.0,INF,stand drive
+Moldenke,Udo,0.0,0.0,75.0,INF,stand drive
+Udo,Salmonella,0.78125,3.90625,51.5625,0.2,sit
+Udo,Moldenke,0.78125,3.90625,51.5625,0.2,sit
+Salmonella,Moldenke,0.78125,3.90625,51.5625,0.2,sit
+Udo,Moldenke,2.7777777777777777,0.0,58.333333333333336,INF,seem mention trigger
+Salmonella,Udo,0.0,0.0,50.0,INF,help
+Moldenke,Udo,0.0,0.0,38.095238095238095,INF,say have take use
+Zanzetti,Udo,0.0,0.0,36.36363636363637,INF,figure say
+Moldenke,Udo,1.6304347826086956,0.0,54.891304347826086,INF,eat drink wave
+Moldenke,Udo,1.6304347826086956,0.0,54.891304347826086,INF,eat drink wave
+Moldenke,Udo,1.6304347826086956,0.0,54.891304347826086,INF,eat drink wave
+Ozzie,Altobello,1.1363636363636365,4.924242424242424,45.45454545454545,0.23076923076923078,be throng celebrate
+Moldenke,Udo,0.0,0.625,54.37499999999999,0.0,make aim kill
+Moldenke,Salmonella,0.0,1.1363636363636365,26.136363636363637,0.0,be say
+Moldenke,Udo,3.90625,3.90625,54.6875,1.0,set change bite numb
+Moldenke,Udo,0.0,5.681818181818182,57.95454545454546,0.0,be aggravate
+Moldenke,Udo,3.4090909090909087,1.1363636363636365,54.54545454545454,3.0,do seem understand be say be speak
+Udo,Moldenke,0.0,0.0,50.0,INF,reach pull
+Udo,Arden,0.0,0.0,60.0,INF,drive
+Salmonella,Udo,5.681818181818182,3.4090909090909087,45.45454545454545,1.6666666666666667,think
+Moldenke,Salmonella,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Moldenke,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Moldenke,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Moldenke,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Salmonella,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Salmonella,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Salmonella,Udo,5.514705882352941,1.8382352941176472,57.35294117647059,3.0,have become have be surprise see show
+Udo,Moldenke,0.0,0.0,50.0,INF,be throb take
+Udo,Moldenke,0.0,0.0,50.0,INF,be throb take
+Salmonella,Moldenke,0.0,0.0,37.5,INF,say be come
+Moldenke,Udo,0.0,0.0,20.0,INF,say
+Moldenke,Salmonella,5.0,0.8333333333333334,47.5,6.0,think prove be
+Salmonella,Udo,0.0,0.0,60.0,INF,square
+Udo,Tunney,0.0,0.5,63.5,0.0,park pack
+Udo,Salmonella,0.0,0.5,63.5,0.0,park pack
+Tunney,Salmonella,0.0,0.5,63.5,0.0,park pack
+Tunney,Udo,0.0,0.5,63.5,0.0,park pack
+Salmonella,Udo,0.0,0.5,63.5,0.0,park pack
+Udo,Moldenke,0.0,1.0416666666666665,57.291666666666664,0.0,receive wake enter
+Udo,Salmonella,0.0,1.0416666666666665,57.291666666666664,0.0,receive wake enter
+Moldenke,Salmonella,0.0,1.0416666666666665,57.291666666666664,0.0,receive wake enter
+Udo,Moldenke,0.0,0.0,53.84615384615385,INF,put look
+Salmonella,Moldenke,2.25,2.0,55.75,1.125,lead hang give get
+Franklin,Moldenke,1.0416666666666665,0.0,32.29166666666667,INF,say
+Moldenke,Altobello,0.0,0.0,54.54545454545454,INF,shake pull
+Moldenke,Altobello,0.0,0.0,54.54545454545454,INF,shake pull
+Moldenke,Bunkerville,6.25,0.0,31.25,INF,be be do
+Ozzie,Saposcat,0.0,4.464285714285714,38.392857142857146,0.0,be fry
+Salmonella,Moldenke,0.0,4.166666666666666,51.388888888888886,0.0,kick
+Moldenke,Salmonella,0.0,0.0,64.70588235294117,INF,be arrive
+Moldenke,Salmonella,0.0,0.0,44.44444444444444,INF,say
+Moldenke,Salmonella,3.977272727272727,1.7045454545454544,57.95454545454546,2.3333333333333335,happen seem smile give
+Ozzie,Bunkerville,3.4482758620689653,0.0,41.37931034482759,INF,get go tell be appoint
+Moldenke,Salmonella,1.893939393939394,0.7575757575757576,51.89393939393939,2.5,relieve be have claw catch go
+Moldenke,Arden,1.893939393939394,0.7575757575757576,51.89393939393939,2.5,relieve be have claw catch go
+Salmonella,Arden,1.893939393939394,0.7575757575757576,51.89393939393939,2.5,relieve be have claw catch go
+Moldenke,Ernie,2.272727272727273,5.113636363636364,51.70454545454546,0.4444444444444444,get see
+Moldenke,Ernie,0.0,1.7857142857142856,69.64285714285714,0.0,take
+Moldenke,Burke,0.0,1.7857142857142856,69.64285714285714,0.0,take
+Ernie,Burke,0.0,1.7857142857142856,69.64285714285714,0.0,take
+Moldenke,Ernie,0.0,5.208333333333334,53.125,0.0,greet reach
+Ernie,Arden,1.0416666666666665,0.0,53.125,INF,wait eat settle
+Ernie,Moldenke,1.0416666666666665,0.0,53.125,INF,wait eat settle
+Arden,Moldenke,1.0416666666666665,0.0,53.125,INF,wait eat settle
+Arden,Ernie,1.0416666666666665,0.0,53.125,INF,wait eat settle
+Moldenke,Ernie,1.0416666666666665,0.0,53.125,INF,wait eat settle
+Ernie,Tunney,0.625,3.125,51.24999999999999,0.2,save offer get
+Ernie,Tunney,0.625,3.125,51.24999999999999,0.2,save offer get
+Saposcat,Moldenke,0.0,0.0,42.30769230769231,INF,part pay leave
+Saposcat,Tunney,0.0,0.0,42.30769230769231,INF,part pay leave
+Moldenke,Tunney,0.0,0.0,42.30769230769231,INF,part pay leave
+Moldenke,Burke,0.0,1.7857142857142856,55.35714285714286,0.0,pick
+Saposcat,Moldenke,2.1739130434782608,0.0,36.95652173913043,INF,pore search churn
+Ozzie,Moldenke,3.260869565217391,3.260869565217391,50.0,1.0,worry stop
+Ozzie,Moldenke,3.260869565217391,3.260869565217391,50.0,1.0,worry stop
+Ozzie,Moldenke,3.260869565217391,3.260869565217391,50.0,1.0,worry stop
+Ozzie,Ernie,1.7241379310344827,0.43103448275862066,63.36206896551724,4.0,be have bathe be boil dry be
+Ozzie,Ernie,1.7241379310344827,0.43103448275862066,63.36206896551724,4.0,be have bathe be boil dry be
+Ozzie,Ernie,1.7241379310344827,0.43103448275862066,63.36206896551724,4.0,be have bathe be boil dry be
+Moldenke,Ernie,2.1551724137931036,2.586206896551724,53.879310344827594,0.8333333333333334,get find have tack wait
+Moldenke,Ernie,2.1551724137931036,2.586206896551724,53.879310344827594,0.8333333333333334,get find have tack wait
+Moldenke,Franklin,0.0,2.7777777777777777,47.22222222222222,0.0,retrieve climb go change
+Moldenke,Enfield Peters,0.0,0.9615384615384616,52.88461538461539,0.0,hand emboss
+Ernie,Moldenke,6.944444444444445,0.0,26.38888888888889,INF,know say
+Moldenke,Enfield Peters,4.545454545454546,1.1363636363636365,51.89393939393939,4.0,think take reconsider realize pave get
+Moldenke,Enfield Peters,4.545454545454546,1.1363636363636365,51.89393939393939,4.0,think take reconsider realize pave get
+Moldenke,Enfield Peters,4.545454545454546,1.1363636363636365,51.89393939393939,4.0,think take reconsider realize pave get
+Enfield Peters,Moldenke,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,pass prove board
+Enfield Peters,Tunney,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,pass prove board
+Moldenke,Tunney,1.4705882352941175,0.7352941176470588,56.61764705882353,2.0,pass prove board
+Moldenke,Tunney,2.083333333333333,5.555555555555555,47.91666666666667,0.375,get walk
+Moldenke,Arden,2.083333333333333,5.555555555555555,47.91666666666667,0.375,get walk
+Tunney,Arden,2.083333333333333,5.555555555555555,47.91666666666667,0.375,get walk
+Moldenke,Burke,5.555555555555555,4.166666666666666,51.388888888888886,1.3333333333333333,settle light read claim be
+Arden,Saposcat,2.364864864864865,1.6891891891891893,63.51351351351351,1.4,have lean make kite pile
+Moldenke,Salmonella,0.0,5.208333333333334,36.45833333333333,0.0,moldenke be
+Moldenke,Udo,0.0,5.208333333333334,36.45833333333333,0.0,moldenke be
+Salmonella,Udo,0.0,5.208333333333334,36.45833333333333,0.0,moldenke be
+Moldenke,Heeney,0.0,3.6764705882352944,43.38235294117647,0.0,do see be gain go watch burn
+Moldenke,Ernie,0.5952380952380952,2.976190476190476,44.047619047619044,0.2,place offer put say want fall clutch
+Ernie,Bunkerville,1.1363636363636365,3.125,68.4659090909091,0.36363636363636365,turn be hear report dump occupy
+Ernie,Bunkerville,1.1363636363636365,3.125,68.4659090909091,0.36363636363636365,turn be hear report dump occupy
+Ozzie,Moldenke,0.29069767441860467,0.0,62.5,INF,be go organize be go be explode depend schedule
+Ozzie,Moldenke,0.0,0.0,58.333333333333336,INF,wake hear rap
+Salmonella,Moldenke,0.0,0.8333333333333334,39.166666666666664,0.0,reach hand
+Ernie,Salmonella,3.225806451612903,2.4193548387096775,49.193548387096776,1.3333333333333333,be go take deal bring
+Ernie,Moldenke,6.25,0.6944444444444444,37.5,9.0,look
+Moldenke,Ernie,3.0172413793103448,0.8620689655172413,51.293103448275865,3.5,be be mate be
+Saposcat,Moldenke,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Saposcat,Salmonella,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Saposcat,Heeney,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Moldenke,Salmonella,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Moldenke,Heeney,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Salmonella,Heeney,0.0,2.7777777777777777,30.555555555555557,0.0,pass
+Saposcat,Salmonella,0.0,0.6756756756756757,61.48648648648649,0.0,say be be go see have
+Salmonella,Heeney,0.0,0.0,60.0,INF,open
+Moldenke,Heeney,0.7352941176470588,0.0,52.20588235294118,INF,run squint see
+Moldenke,Bunkerville,2.6515151515151514,1.1363636363636365,38.63636363636363,2.3333333333333335,tell say be go help do go
+Moldenke,Heeney,1.6666666666666667,4.166666666666666,47.5,0.4,have burn
+Moldenke,Heeney,1.6666666666666667,4.166666666666666,47.5,0.4,have burn
+Moldenke,Heeney,4.166666666666666,0.0,54.166666666666664,INF,have cool eat
+Salmonella,Moldenke,0.0,0.0,57.14285714285714,INF,point
+Moldenke,Heeney,0.0,5.208333333333334,44.79166666666667,0.0,polish stand
+Salmonella,Moldenke,8.333333333333332,0.0,41.66666666666667,INF,hold
+Moldenke,Tunney,0.0,3.3333333333333335,30.0,0.0,lead
+Moldenke,Heeney,0.0,3.3333333333333335,30.0,0.0,lead
+Tunney,Heeney,0.0,3.3333333333333335,30.0,0.0,lead
+Heeney,Udo,0.0,0.4629629629629629,55.092592592592595,0.0,be park coat
+Salmonella,Udo,0.0,0.0,70.0,INF,rush unlock
+Moldenke,Arden,2.34375,0.0,60.15625,INF,gear drive
+Bunkerville,Altobello,0.0,0.0,50.0,INF,be liberate be come
+Bunkerville,Altobello,3.4482758620689653,0.0,48.275862068965516,INF,carry
+Bunkerville,Altobello,3.4482758620689653,0.0,48.275862068965516,INF,carry
+Altobello,Bunkerville,3.4482758620689653,0.0,48.275862068965516,INF,carry
+Altobello,Bunkerville,3.4482758620689653,0.0,48.275862068965516,INF,carry
+Salmonella,Grendon,0.0,1.9230769230769231,59.61538461538461,0.0,sleep fight stay
+Salmonella,Moldenke,0.0,1.9230769230769231,59.61538461538461,0.0,sleep fight stay
+Grendon,Moldenke,0.0,1.9230769230769231,59.61538461538461,0.0,sleep fight stay
+Moldenke,Bunkerville,2.272727272727273,3.4090909090909087,39.77272727272727,0.6666666666666666,feel excite return
+Ozzie,Salmonella,0.6578947368421052,0.0,41.44736842105263,INF,explode go assess see work put
+Ozzie,Salmonella,0.6578947368421052,0.0,41.44736842105263,INF,explode go assess see work put
+Ozzie,Salmonella,0.0,1.5625,60.9375,0.0,turn
+Altobello,Bunkerville,1.1363636363636365,3.4090909090909087,54.54545454545454,0.3333333333333333,have be report
+Altobello,Zanzetti,1.3157894736842104,0.0,46.05263157894737,INF,have travel say
+Grendon,Misti Gaynor,0.7352941176470588,3.308823529411765,48.89705882352941,0.2222222222222222,poison be have go see
+Grendon,Enfield Peters,0.7352941176470588,3.308823529411765,48.89705882352941,0.2222222222222222,poison be have go see
+Misti Gaynor,Enfield Peters,0.7352941176470588,3.308823529411765,48.89705882352941,0.2222222222222222,poison be have go see
+Moldenke,Salmonella,7.916666666666666,1.25,37.5,6.333333333333333,consider find sit have lean
+Moldenke,Enfield Peters,4.166666666666666,1.1904761904761905,51.78571428571429,3.5,close sit begin
+Moldenke,Enfield Peters,4.166666666666666,1.1904761904761905,51.78571428571429,3.5,close sit begin
+Enfield Peters,Salmonella,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,be have tell
+Salmonella,Zanzetti,0.0,0.0,66.66666666666666,INF,close
+Moldenke,Salmonella,0.0,6.25,43.75,0.0,run catch
+Moldenke,Enfield Peters,0.0,0.0,50.0,INF,show pass
+Moldenke,Salmonella,0.0,0.0,53.333333333333336,INF,be tell
+Moldenke,Salmonella,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be allow tell hurry
+Moldenke,Salmonella,0.8333333333333334,0.0,59.166666666666664,INF,walk look
+Salmonella,Moldenke,0.0,0.0,46.666666666666664,INF,gather
+Salmonella,Moldenke,0.0,0.0,47.05882352941176,INF,say listen
+Moldenke,Ozzie,1.0714285714285714,0.35714285714285715,61.42857142857143,3.0,walk remain be stand come drip
+Moldenke,Ozzie,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,follow hold lead recognize
+Moldenke,Ozzie,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,follow hold lead recognize
+Moldenke,Ozzie,0.7352941176470588,0.0,52.20588235294118,INF,recognize set
+Ozzie,Myron,1.5,0.5,54.0,3.0,see be hang
+Ozzie,Myron,1.5,0.5,54.0,3.0,see be hang
+Moldenke,Ozzie,4.166666666666666,2.083333333333333,37.083333333333336,2.0,be say want know be do have
+Ozzie,Moldenke,0.0,0.0,50.0,INF,pour light
+Moldenke,Ozzie,0.0,0.0,69.23076923076923,INF,inhale speak hold
+Moldenke,Ozzie,0.0,0.0,53.84615384615385,INF,empty lay
+Moldenke,Ozzie,2.5,0.625,61.875,4.0,wonder be recognize need get
+Moldenke,Ozzie,0.0,0.0,54.54545454545454,INF,finish pour
+Moldenke,Ozzie,0.0,0.0,54.54545454545454,INF,finish pour
+Salmonella,Ozzie,0.0,0.0,66.66666666666666,INF,wipe
+Zanzetti,Molly,0.625,0.0,59.375,INF,make be develop
+Zanzetti,Ozzie,0.625,0.0,59.375,INF,make be develop
+Zanzetti,Ozzie,0.625,0.0,59.375,INF,make be develop
+Molly,Ozzie,0.625,0.0,59.375,INF,make be develop
+Molly,Ozzie,0.625,0.0,59.375,INF,make be develop
+Moldenke,Ozzie,0.9615384615384616,1.9230769230769231,50.96153846153846,0.5,crush swallow
+Ozzie,Moldenke,4.910714285714286,0.8928571428571428,54.91071428571429,5.5,go roust make remain
+Ozzie,Salmonella,4.910714285714286,0.8928571428571428,54.91071428571429,5.5,go roust make remain
+Moldenke,Salmonella,4.910714285714286,0.8928571428571428,54.91071428571429,5.5,go roust make remain
+Moldenke,Salmonella,0.4464285714285714,0.4464285714285714,45.535714285714285,1.0,be
+Ozzie,Moldenke,0.0,0.0,37.5,INF,pour
+Moldenke,Enfield Peters,0.0,0.0,50.0,INF,show
+Moldenke,Enfield Peters,2.34375,4.6875,55.46875,0.5,be move think be
+Enfield Peters,Moldenke,0.5208333333333333,0.0,53.645833333333336,INF,order dangle allow sink
+Enfield Peters,Moldenke,0.5208333333333333,0.0,53.645833333333336,INF,order dangle allow sink
+Moldenke,Enfield Peters,0.5208333333333333,0.0,53.645833333333336,INF,order dangle allow sink
+Moldenke,Enfield Peters,0.0,4.807692307692308,49.03846153846153,0.0,open slide
+Moldenke,Enfield Peters,0.0,4.807692307692308,49.03846153846153,0.0,open slide
+Jerry,Leon,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,be be
+Jerry,Jack,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,be be
+Leon,Jack,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,be be
+Moldenke,Leon,3.3653846153846154,3.8461538461538463,46.63461538461539,0.875,apply dry be go frighten
+Jack,Moldenke,0.0,0.0,55.55555555555556,INF,bring wring pour
+Leon,Salmonella,4.166666666666666,2.604166666666667,51.5625,1.6,come awaken find sit
+Moldenke,Salmonella,0.0,0.0,42.857142857142854,INF,turn
+Ozzie,Gus,2.5,1.25,36.25,2.0,be say
+Salmonella,Gus,4.545454545454546,0.0,59.09090909090909,INF,take leave
+Salmonella,Moldenke,1.3888888888888888,0.0,54.166666666666664,INF,squeeze

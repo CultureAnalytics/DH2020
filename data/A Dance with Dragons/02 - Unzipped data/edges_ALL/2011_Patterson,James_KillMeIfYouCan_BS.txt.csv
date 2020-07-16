@@ -1,0 +1,786 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Zelvas,Starbucks,0.0,0.5208333333333333,57.8125,0.0,drain stand crumple deposit
+Zelvas,Starbucks,0.0,0.5208333333333333,57.8125,0.0,drain stand crumple deposit
+Starbucks,Zelvas,0.0,0.5208333333333333,57.8125,0.0,drain stand crumple deposit
+Matthew,Parsons,3.125,1.25,65.625,2.5,be be
+Katherine,George Luks,0.0,0.6578947368421052,51.973684210526315,0.0,come say be
+Katherine,Hopper,0.0,0.0,81.25,INF,find gawk
+Katherine,Peter Luger,2.380952380952381,0.5952380952380952,63.69047619047619,4.0,be have
+Katherine,Parsons,0.4629629629629629,2.314814814814815,67.5925925925926,0.2,start see be
+Karns,Katherine,0.0,5.208333333333334,53.125,0.0,have pontificate cut
+Katherine,Karns,0.0,5.208333333333334,53.125,0.0,have pontificate cut
+Mr. Bannon,Katherine,1.6666666666666667,3.3333333333333335,45.0,0.5,do come be go have give say
+Matthew,Katherine,0.0,3.571428571428571,25.0,0.0,whisper
+Doc,Kendall,0.0,4.807692307692308,33.65384615384615,0.0,say holster
+Zelvas,NYPD,0.0,0.0,70.0,INF,bleed pull
+NYPD,Zelvas,0.0,0.0,70.0,INF,bleed pull
+Rice,Benzetti,2.7777777777777777,9.027777777777777,49.30555555555556,0.3076923076923077,be bust
+Rice,Chukov,2.083333333333333,1.0416666666666665,46.875,2.0,do care be
+Benzetti,Rice,0.0,0.0,47.368421052631575,INF,stand draw
+Chukov,Zelvas,3.125,0.0,34.375,INF,know want
+Zelvas,Rice,1.5625,0.78125,41.40625,2.0,be take say
+Zelvas,Benzetti,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,be think have match
+Zelvas,Benzetti,3.6764705882352944,2.941176470588235,46.32352941176471,1.25,be think have match
+Benzetti,Rice,6.25,0.0,52.083333333333336,INF,see
+Zelvas,Rice,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,be guess be say point
+Zelvas,Rice,2.380952380952381,1.7857142857142856,52.976190476190474,1.3333333333333333,be guess be say point
+Chukov,Benzetti,0.0,0.0,28.57142857142857,INF,be work
+Chukov,Rice,0.0,0.0,28.57142857142857,INF,be work
+Benzetti,Rice,0.0,0.0,28.57142857142857,INF,be work
+Rice,Benzetti,0.0,0.0,60.0,INF,look
+Chukov,Zelvas,6.25,7.291666666666667,36.45833333333333,0.8571428571428571,say have
+Chukov,Natalia,0.0,0.0,33.33333333333333,INF,do work say
+Chukov,Benzetti,0.0,0.0,57.14285714285714,INF,send pick say
+Nathaniel,Natalia,0.0,0.0,36.36363636363637,INF,work say
+Nathaniel,Chukov,0.0,0.0,41.17647058823529,INF,send be
+Nathaniel,Chukov,0.0,0.0,41.17647058823529,INF,send be
+Chukov,Benzetti,1.0416666666666665,0.0,40.625,INF,think be say
+Chukov,Nathaniel,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,work send put let finish start
+Chukov,Nathaniel,0.9259259259259258,0.4629629629629629,50.46296296296296,2.0,work send put let finish start
+Benzetti,Rice,0.0,0.0,60.0,INF,nod
+Zelvas,Rice,1.1363636363636365,0.0,53.40909090909091,INF,have handcuff
+Zelvas,Natalia,1.1363636363636365,0.0,53.40909090909091,INF,have handcuff
+Rice,Natalia,1.1363636363636365,0.0,53.40909090909091,INF,have handcuff
+Jesus,Benzetti,4.166666666666666,7.291666666666667,55.208333333333336,0.5714285714285714,do want make
+Zelvas,Benzetti,0.0,2.7777777777777777,19.444444444444446,0.0,say
+Zelvas,Chukov,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be say
+Benzetti,Rice,0.0,0.0,50.0,INF,repeat hear
+Zelvas,Chukov,0.0,0.0,37.5,INF,do do see say
+Nathaniel,Benzetti,1.9230769230769231,0.0,44.230769230769226,INF,do name say
+Rice,Chukov,0.0,0.0,33.33333333333333,INF,say
+Natalia,Zelvas,1.1363636363636365,0.0,35.22727272727273,INF,have get handcuff
+Natalia,Nathaniel,3.125,1.5625,32.8125,2.0,be
+Natalia,Zelvas,0.0,0.0,33.33333333333333,INF,say be
+Natalia,Zelvas,0.0,0.0,33.33333333333333,INF,say be
+Natalia,Nathaniel,1.0714285714285714,4.642857142857143,37.142857142857146,0.23076923076923078,uncuff apologize know be tell be go do get
+Natalia,Nathaniel,1.0714285714285714,4.642857142857143,37.142857142857146,0.23076923076923078,uncuff apologize know be tell be go do get
+Natalia,Nathaniel,1.0714285714285714,4.642857142857143,37.142857142857146,0.23076923076923078,uncuff apologize know be tell be go do get
+Chukov,Nathaniel,3.571428571428571,0.0,60.71428571428571,INF,be wait give
+Chukov,Nathaniel,3.571428571428571,0.0,60.71428571428571,INF,be wait give
+Chukov,Zelvas,0.0,0.0,52.17391304347826,INF,shower dress take transfer pay eliminate
+Chukov,Nathaniel,0.0,3.125,63.541666666666664,0.0,start dial hang
+Chukov,Nathaniel,0.0,3.90625,46.09375,0.0,face
+Chukov,Nathaniel,3.6764705882352944,2.2058823529411766,47.05882352941176,1.6666666666666667,have give have follow
+Chukov,Nathaniel,3.4090909090909087,1.1363636363636365,59.09090909090909,3.0,show have
+Nathaniel,Diamond Syndicate,0.5434782608695652,0.0,51.63043478260869,INF,be approach propel
+Nathaniel,Diamond Syndicate,0.5434782608695652,0.0,51.63043478260869,INF,be approach propel
+Diamond Syndicate,Nathaniel,0.5434782608695652,0.0,51.63043478260869,INF,be approach propel
+Chukov,Zelvas,3.260869565217391,0.5434782608695652,57.065217391304344,6.0,realize be take have amass
+Chukov,Nathaniel,2.8846153846153846,3.8461538461538463,54.807692307692314,0.75,down dial
+Chukov,Nathaniel,7.6923076923076925,0.0,30.76923076923077,INF,be say
+Rice,Benzetti,0.0,0.0,54.54545454545454,INF,be close
+Rice,Benzetti,0.0,0.0,16.666666666666664,INF,
+Nathaniel,NYPD,1.4423076923076923,2.8846153846153846,57.21153846153846,0.5,be intimidate do want live have beef
+Nathaniel,NYPD,1.4423076923076923,2.8846153846153846,57.21153846153846,0.5,be intimidate do want live have beef
+Nathaniel,Natalia,2.083333333333333,0.0,47.91666666666667,INF,share
+Natalia,Nathaniel,0.0,0.0,40.0,INF,smile
+Zelvas,Chukov,1.9736842105263157,3.9473684210526314,36.18421052631579,0.5,have screw be
+Chukov,Natalia,2.083333333333333,5.208333333333334,42.70833333333333,0.4,want run say
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Natalia,Nathaniel,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,4.861111111111112,1.3888888888888888,49.30555555555556,3.5,have be bury tantalize intoxicate
+Nathaniel,Natalia,12.5,0.0,45.39473684210527,INF,do have leave spend
+Natalia,Nathaniel,12.5,0.0,45.39473684210527,INF,do have leave spend
+Nathaniel,Natalia,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Nathaniel,Natalia,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Nathaniel,Natalia,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Nathaniel,Natalia,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Natalia,Nathaniel,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Natalia,Nathaniel,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Natalia,Nathaniel,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Natalia,Nathaniel,1.1904761904761905,0.0,51.19047619047619,INF,watch slide begin stir
+Zelvas,Natalia,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,be be say massage
+Zelvas,Natalia,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,be be say massage
+Zelvas,Natalia,1.0416666666666665,0.5208333333333333,44.27083333333333,2.0,be be say massage
+Natalia,Nathaniel,3.90625,0.0,39.84375,INF,walk sit
+Zelvas,Natalia,6.770833333333333,0.5208333333333333,30.208333333333332,13.0,know say dump say rub
+Zelvas,Natalia,6.770833333333333,0.5208333333333333,30.208333333333332,13.0,know say dump say rub
+Chukov,Zelvas,5.0,1.25,63.74999999999999,4.0,have be drink
+Dmitriov Cab Company,Chukov,0.0,0.0,41.66666666666667,INF,belong say
+Natalia,Nathaniel,3.125,1.5625,20.3125,2.0,be
+Nathaniel,Chukov,0.0,0.0,44.44444444444444,INF,kill say
+Zelvas,Natalia,2.083333333333333,5.208333333333334,59.375,0.4,have steal run
+Zelvas,Natalia,2.083333333333333,5.208333333333334,59.375,0.4,have steal run
+Zelvas,Natalia,2.083333333333333,5.208333333333334,59.375,0.4,have steal run
+Zelvas,Natalia,0.0,6.25,60.416666666666664,0.0,despise
+Zelvas,Natalia,0.0,0.0,33.33333333333333,INF,leave
+Shmuel,Chana,0.5952380952380952,0.0,51.78571428571429,INF,say sit face
+Karns,Hopper,0.0,2.7777777777777777,52.77777777777778,0.0,ignore jump check
+Karns,Hopper,0.0,2.7777777777777777,52.77777777777778,0.0,ignore jump check
+Karns,Katherine,0.0,3.125,34.375,0.0,whisper
+Newton,Katherine,0.0,0.0,33.33333333333333,INF,say
+Matt,Newton,2.272727272727273,3.4090909090909087,30.681818181818183,0.6666666666666666,be say
+Matt,Katherine,2.272727272727273,3.4090909090909087,30.681818181818183,0.6666666666666666,be say
+Newton,Katherine,2.272727272727273,3.4090909090909087,30.681818181818183,0.6666666666666666,be say
+Newton,Matthew,3.9473684210526314,2.631578947368421,40.78947368421053,1.5,be be tell
+Newton,Katherine,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be look say
+Newton,Mr. Bannon,2.8846153846153846,1.9230769230769231,52.88461538461539,1.5,say think have go be
+Katherine,Newton,0.0,0.0,55.55555555555556,INF,give say pull
+Katherine,Newton,0.0,0.0,63.63636363636363,INF,wink lead
+NYPD,Benzetti,0.0,1.5625,35.9375,0.0,say
+NYPD,MTA,0.0,1.5625,35.9375,0.0,say
+Benzetti,MTA,0.0,1.5625,35.9375,0.0,say
+Rice,Kylie,3.125,6.25,40.625,0.5,be
+MTA,Kylie,2.857142857142857,0.35714285714285715,45.357142857142854,8.0,do say let glide have do
+MTA,Kylie,2.857142857142857,0.35714285714285715,45.357142857142854,8.0,do say let glide have do
+MTA,Kylie,2.857142857142857,0.35714285714285715,45.357142857142854,8.0,do say let glide have do
+Black,Kylie,0.0,7.5,52.5,0.0,shake
+Benzetti,Rice,0.0,0.0,45.0,INF,be do pay do care
+Rice,Benzetti,0.0,0.0,45.0,INF,be do pay do care
+Rice,Zelvas,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,be say watch go
+Rice,Starbucks,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,be say watch go
+Zelvas,Starbucks,2.083333333333333,0.6944444444444444,47.22222222222222,3.0,be say watch go
+Chukov,Zelvas,1.1363636363636365,0.0,26.136363636363637,INF,be hire waste
+Zelvas,MTA,2.272727272727273,0.0,61.36363636363637,INF,point have head have deal
+Zelvas,MTA,2.272727272727273,0.0,61.36363636363637,INF,point have head have deal
+Rice,Zelvas,0.0,0.0,50.0,INF,slump
+Zelvas,Rice,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be tell say
+Benzetti,Zelvas,0.8928571428571428,0.0,41.964285714285715,INF,say watch die
+NYPD,Rice,2.5,1.25,36.25,2.0,be say
+Benzetti,Rice,1.3157894736842104,4.605263157894736,46.71052631578947,0.2857142857142857,be buy say holster
+Rice,Kendall,0.0,0.8928571428571428,45.535714285714285,0.0,be buy pause zoom
+Rice,Kendall,0.8928571428571428,0.0,63.39285714285714,INF,hit watch listen
+Rice,Kendall,0.8928571428571428,0.0,63.39285714285714,INF,hit watch listen
+Kendall,Benzetti,0.0,0.0,25.0,INF,say
+Chukov,Benzetti,0.4629629629629629,0.0,47.68518518518518,INF,do put bring say
+Chukov,Nathaniel,2.083333333333333,0.0,47.91666666666667,INF,have call say
+Nathaniel,Chukov,4.166666666666666,0.0,35.833333333333336,INF,be go call say
+Zelvas,Nathaniel,5.46875,0.78125,43.75,7.0,tell be say
+Natalia,Zelvas,1.0,1.0,46.0,1.0,know do trust think
+Natalia,Chukov,1.0,1.0,46.0,1.0,know do trust think
+Zelvas,Natalia,1.0,1.0,46.0,1.0,know do trust think
+Zelvas,Chukov,1.0,1.0,46.0,1.0,know do trust think
+Natalia,Chukov,1.0,1.0,46.0,1.0,know do trust think
+Nathaniel,Chukov,5.208333333333334,0.0,36.45833333333333,INF,do know say
+Nathaniel,Chukov,4.017857142857143,0.4464285714285714,59.82142857142857,9.0,do know say work be
+Chukov,Nathaniel,4.017857142857143,0.4464285714285714,59.82142857142857,9.0,do know say work be
+Rice,Benzetti,0.0,0.0,26.666666666666668,INF,say
+Rice,Chukov,0.0,0.0,26.666666666666668,INF,say
+Benzetti,Chukov,0.0,0.0,26.666666666666668,INF,say
+Nathaniel,Chukov,0.0,3.9473684210526314,53.94736842105263,0.0,have cut finish
+Nathaniel,Natalia,0.0,0.0,50.0,INF,show
+Natalia,Nathaniel,5.208333333333334,0.0,28.125,INF,be say toy
+Natalia,Nathaniel,0.0,0.625,49.375,0.0,drop kiss let linger
+Nathaniel,Natalia,0.0,0.625,49.375,0.0,drop kiss let linger
+Nathaniel,Natalia,0.0,0.0,66.66666666666666,INF,kiss
+Natalia,Nathaniel,0.0,0.0,54.54545454545454,INF,unbutton
+Nathaniel,Natalia,0.0,3.75,66.25,0.0,unbutton
+Nathaniel,Natalia,6.25,0.0,60.416666666666664,INF,cup
+Nathaniel,Natalia,2.717391304347826,0.0,62.5,INF,pull get lean
+Nathaniel,Natalia,2.717391304347826,0.0,62.5,INF,pull get lean
+Nathaniel,Natalia,2.717391304347826,0.0,62.5,INF,pull get lean
+Nathaniel,Natalia,2.717391304347826,0.0,62.5,INF,pull get lean
+Natalia,Nathaniel,2.717391304347826,0.0,62.5,INF,pull get lean
+Natalia,Nathaniel,2.717391304347826,0.0,62.5,INF,pull get lean
+Natalia,Nathaniel,2.717391304347826,0.0,62.5,INF,pull get lean
+Natalia,Nathaniel,2.717391304347826,0.0,62.5,INF,pull get lean
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,47.61904761904761,INF,drop plant angle enter
+Nathaniel,Natalia,0.0,0.0,42.857142857142854,INF,be race wait
+Nathaniel,Natalia,0.0,0.0,42.857142857142854,INF,be race wait
+Nathaniel,Natalia,1.6666666666666667,1.6666666666666667,63.33333333333333,1.0,come exhale
+Natalia,Nathaniel,4.391891891891892,0.0,49.66216216216216,INF,call have call sit watch
+Nathaniel,Natalia,4.391891891891892,0.0,49.66216216216216,INF,call have call sit watch
+Nathaniel,Natalia,4.391891891891892,0.0,49.66216216216216,INF,call have call sit watch
+Nathaniel,Natalia,4.391891891891892,0.0,49.66216216216216,INF,call have call sit watch
+Nathaniel,Natalia,4.391891891891892,0.0,49.66216216216216,INF,call have call sit watch
+Chukov,Marta,4.166666666666666,0.0,40.27777777777778,INF,have track
+Marta,Chukov,0.4807692307692308,3.8461538461538463,64.90384615384616,0.125,enter wear
+Marta,Chukov,3.125,0.0,46.875,INF,sit stare
+New York Times,Zelvas,4.6875,1.5625,56.25,3.0,read be find say
+New York Times,Marta,4.6875,1.5625,56.25,3.0,read be find say
+Zelvas,Marta,4.6875,1.5625,56.25,3.0,read be find say
+Zelvas,Marta,3.3333333333333335,0.0,50.0,INF,be plan leave say
+Chukov,Marta,0.5681818181818182,0.5681818181818182,53.40909090909091,1.0,say hand stand
+Marta,Chukov,2.083333333333333,8.333333333333332,39.58333333333333,0.25,have meet despise
+Marta,Chukov,2.083333333333333,8.333333333333332,39.58333333333333,0.25,have meet despise
+Chukov,Marta,0.0,9.375,40.625,0.0,know handle
+Chukov,Marta,0.0,9.375,40.625,0.0,know handle
+Chukov,Marta,1.3888888888888888,0.0,54.166666666666664,INF,watch head
+Nathaniel,Marta,0.0,0.0,44.44444444444444,INF,kill lose
+Nathaniel,Marta,0.0,0.0,44.44444444444444,INF,kill lose
+Nathaniel,Marta,0.0,0.0,44.44444444444444,INF,kill lose
+Marta,Chukov,5.555555555555555,0.0,38.88888888888889,INF,reach shake
+Marta,Etienne,1.1904761904761905,0.5952380952380952,69.64285714285714,2.0,find call
+Etienne,Marta,9.722222222222223,0.0,34.72222222222222,INF,be hear
+Marta,Etienne,7.352941176470589,0.7352941176470588,44.85294117647059,10.0,have save have be pay
+Marta,Etienne,7.352941176470589,0.7352941176470588,44.85294117647059,10.0,have save have be pay
+Etienne,Marta,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be
+Etienne,Marta,0.0,0.0,11.11111111111111,INF,say
+Chukov,Marta,0.0,0.0,50.0,INF,be hire kill
+Marta,Etienne,2.34375,0.0,47.65625,INF,be identify
+Etienne,Ira,3.125,0.0,71.875,INF,be
+Ira,Marta,1.25,3.125,45.625,0.4,hate disappoint say have
+Marta,Ira,0.6944444444444444,1.3888888888888888,53.47222222222222,0.5,say point sag
+Ira,Marta,2.0,4.0,46.0,0.5,be say be have get
+Gus,Katherine,0.5434782608695652,1.0869565217391304,54.891304347826086,0.5,bring
+Tiffany,Katherine,3.571428571428571,2.6785714285714284,40.17857142857143,1.3333333333333333,say sparkle be expect say
+Arc de Triomphe,Katherine,1.8518518518518516,0.0,42.592592592592595,INF,say thumb
+Arc de Triomphe,Katherine,1.8518518518518516,0.0,42.592592592592595,INF,say thumb
+Rice,Benzetti,0.4464285714285714,0.4464285714285714,49.107142857142854,1.0,track pick
+Rice,Bagboy,0.4464285714285714,0.4464285714285714,49.107142857142854,1.0,track pick
+Benzetti,Bagboy,0.4464285714285714,0.4464285714285714,49.107142857142854,1.0,track pick
+Kendall,Rice,0.0,0.0,36.36363636363637,INF,say
+Rice,Kendall,6.25,0.0,60.416666666666664,INF,call get
+Kendall,Rice,2.5,1.25,56.25,2.0,be
+Rice,Kendall,3.571428571428571,1.4285714285714286,55.00000000000001,2.5,listen expect check say put ooze
+St. Vincent,Kendall,0.0,0.0,63.63636363636363,INF,remember say work say flip
+St. Vincent,Kendall,0.0,0.0,63.63636363636363,INF,remember say work say flip
+Dr. Jason Wood,Rice,5.921052631578947,1.3157894736842104,40.131578947368425,4.5,be make say
+Dr. Jason Wood,Rice,0.0,0.0,46.15384615384615,INF,do pay say
+Dr. Jason Wood,Rice,0.0,4.807692307692308,41.34615384615385,0.0,be go let say
+Dr. Jason Wood,Rice,0.0,6.25,33.75,0.0,hear say
+Marta,Benzetti,0.0,0.0,53.333333333333336,INF,slide keep point
+Marta,Benzetti,0.0,0.0,53.333333333333336,INF,slide keep point
+Chukov,Rice,0.0,0.0,53.333333333333336,INF,talk recognize say
+Marta,Benzetti,0.0,0.0,50.0,INF,wag
+Benzetti,Chukov,0.8928571428571428,6.25,42.857142857142854,0.14285714285714285,be
+Katherine,Hopper,0.0,0.0,40.0,INF,be tell
+Matthew,Etienne,2.083333333333333,1.0416666666666665,30.208333333333332,2.0,be say
+Marta,Etienne,0.0,0.0,66.66666666666666,INF,take suffer
+Matthew,Etienne,0.0,6.730769230769231,39.42307692307692,0.0,be say
+Matthew,Parsons,4.166666666666666,0.8333333333333334,68.33333333333333,5.0,be
+Mr. Bannon,Perry,1.3888888888888888,3.4722222222222223,45.13888888888889,0.4,be say give
+Mr. Bannon,Marta,1.3888888888888888,3.4722222222222223,45.13888888888889,0.4,be say give
+Perry,Marta,1.3888888888888888,3.4722222222222223,45.13888888888889,0.4,be say give
+Parsons,Etienne,0.0,1.3888888888888888,50.46296296296296,0.0,e-mail say
+Parsons,Etienne,0.0,1.3888888888888888,50.46296296296296,0.0,e-mail say
+Parsons,Marta,1.9230769230769231,2.8846153846153846,33.65384615384615,0.6666666666666666,be miss be say
+Marta,Etienne,0.0,0.0,36.36363636363637,INF,be say
+Perry,Marta,2.314814814814815,0.0,38.425925925925924,INF,stop look check
+Matthew,Marta,1.0416666666666665,0.0,32.29166666666667,INF,be look say
+Matthew,Parsons,0.0,0.0,42.857142857142854,INF,be say
+Matthew,Marta,0.0,0.0,42.857142857142854,INF,be say
+Parsons,Marta,0.0,0.0,42.857142857142854,INF,be say
+Marta,Matthew,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Marta,Matthew,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Marta,Matthew,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Matthew,Marta,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Matthew,Marta,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Matthew,Marta,0.4464285714285714,2.232142857142857,47.32142857142857,0.2,be go be wait get have kill block
+Marta,Perry,1.25,0.0,48.75,INF,walk
+Katherine,Morales,0.33783783783783783,1.0135135135135136,68.91891891891892,0.3333333333333333,be stop wear say
+Matt,Morales,0.78125,0.0,42.96875,INF,tell be do say
+Tom,Katherine,3.125,1.0416666666666665,29.166666666666668,3.0,be say
+Katherine,Tom,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Katherine,Tom,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Katherine,Tom,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Katherine,Tom,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Tom,Katherine,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Katherine,Tom,2.6785714285714284,2.6785714285714284,61.30952380952381,1.0,wish have tell have save miss be leave steal
+Katherine,Starbucks,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,do want decide backtrack have see walk
+Katherine,Starbucks,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,do want decide backtrack have see walk
+Yankees,Katherine,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,lift fade
+Karns,Katherine,2.5735294117647056,2.2058823529411766,51.10294117647059,1.1666666666666667,know have be hate
+Karns,Matthew,2.5735294117647056,2.2058823529411766,51.10294117647059,1.1666666666666667,know have be hate
+Katherine,Matthew,2.5735294117647056,2.2058823529411766,51.10294117647059,1.1666666666666667,know have be hate
+Matthew,Katherine,0.0,4.6875,32.8125,0.0,despise
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Karns,Matthew,4.032258064516129,1.6129032258064515,49.193548387096776,2.5,be sit think flash say be want
+Matt,Parsons,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,invite join say
+Matt,Katherine,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,invite join say
+Parsons,Katherine,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,invite join say
+Matt,Katherine,1.6304347826086956,4.3478260869565215,37.5,0.375,hope be spend get say
+Parsons,Katherine,6.8181818181818175,0.0,38.63636363636363,INF,be say
+Rice,Benzetti,1.5625,0.78125,53.90625,2.0,be wait
+Karns,Benzetti,6.696428571428571,0.0,50.44642857142857,INF,hang hear cackle escape
+Karns,Benzetti,6.696428571428571,0.0,50.44642857142857,INF,hang hear cackle escape
+Karns,Benzetti,6.696428571428571,0.0,50.44642857142857,INF,hang hear cackle escape
+Rice,Karns,0.0,5.357142857142857,51.78571428571429,0.0,dial
+Karns,Rice,3.125,2.34375,50.78125,1.3333333333333333,be say identify
+Rice,Benzetti,4.62962962962963,1.8518518518518516,49.074074074074076,2.5,be have decide bother call
+Rice,Benzetti,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,get tell hang
+Benzetti,Rice,0.6944444444444444,0.6944444444444444,59.72222222222222,1.0,get tell hang
+Karns,Bagboy,7.8125,4.6875,37.5,1.6666666666666667,think know be
+Karns,Benzetti,0.0,0.0,46.15384615384615,INF,let go pay say
+Karns,Marta,0.0,8.928571428571429,33.92857142857143,0.0,be
+Rice,Marta,4.166666666666666,0.0,45.83333333333333,INF,call
+Marta,Karns,2.7777777777777777,0.0,30.555555555555557,INF,check ring
+Marta,Karns,2.7777777777777777,0.0,30.555555555555557,INF,check ring
+Karns,Marta,0.0,0.0,35.714285714285715,INF,buzz take
+Karns,Marta,0.0,0.0,35.714285714285715,INF,buzz take
+Marta,Karns,0.0,0.0,41.66666666666667,INF,step shut
+Marta,Karns,1.5625,1.5625,46.875,1.0,stop look give
+Karns,Marta,3.571428571428571,3.571428571428571,57.14285714285714,1.0,settle mumble
+Marta,Karns,3.571428571428571,3.571428571428571,57.14285714285714,1.0,settle mumble
+Marta,Karns,3.4722222222222223,0.0,40.97222222222222,INF,take be try find hand
+Marta,Karns,3.4722222222222223,0.0,40.97222222222222,INF,take be try find hand
+Marta,Karns,1.3157894736842104,3.9473684210526314,52.63157894736842,0.3333333333333333,wave sit
+Marta,Karns,4.166666666666666,1.3888888888888888,66.66666666666666,3.0,pull get
+Marta,Karns,4.166666666666666,1.3888888888888888,66.66666666666666,3.0,pull get
+Karns,Marta,4.166666666666666,1.3888888888888888,66.66666666666666,3.0,pull get
+Marta,Karns,0.0,0.0,53.333333333333336,INF,take sit wait speak
+Matthew,Karns,2.5,0.8333333333333334,30.0,3.0,be look be say
+Matthew,Parsons,0.0,0.0,54.54545454545454,INF,be
+Marta,Karns,3.6764705882352944,0.0,55.14705882352941,INF,turn write find
+Marta,Karns,3.6764705882352944,0.0,55.14705882352941,INF,turn write find
+Karns,Marta,3.571428571428571,0.0,67.85714285714286,INF,watch write
+Karns,Katherine,1.9230769230769231,0.0,59.61538461538461,INF,take write
+Marta,Karns,0.0,2.7777777777777777,19.444444444444446,0.0,give
+Marta,Karns,0.0,2.7777777777777777,19.444444444444446,0.0,give
+Karns,Katherine,0.0,0.0,54.54545454545454,INF,open
+Katherine,Matthew,1.7857142857142856,0.0,33.92857142857143,INF,think be
+Karns,Marta,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Karns,Marta,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Marta,Karns,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Marta,Karns,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Karns,Marta,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Marta,Karns,0.4807692307692308,5.288461538461538,51.92307692307693,0.09090909090909091,be stare lick pull blow
+Marta,Karns,0.0,0.0,40.0,INF,take remember
+Katherine,Arc de Triomphe,0.0,3.040540540540541,53.71621621621622,0.0,lay
+Matthew,Marta,2.272727272727273,0.0,43.18181818181818,INF,decide
+Katherine,Marta,0.0,0.0,55.55555555555556,INF,be sit
+Marta,Katherine,0.0,0.0,28.57142857142857,INF,open
+Katherine,Etienne,3.125,0.0,46.875,INF,shut call
+Katherine,Interpol,3.125,0.0,46.875,INF,shut call
+Etienne,Interpol,3.125,0.0,46.875,INF,shut call
+Matthew,Katherine,1.3157894736842104,0.6578947368421052,40.131578947368425,2.0,find be say
+Matthew,Katherine,1.3157894736842104,0.6578947368421052,40.131578947368425,2.0,find be say
+Matthew,Katherine,0.0,0.0,27.27272727272727,INF,be travel
+Matthew,Marta,0.0,6.730769230769231,39.42307692307692,0.0,be say
+Marta,Katherine,0.0,0.0,54.166666666666664,INF,soften find eat
+Katherine,Chukov,2.7777777777777777,0.0,41.66666666666667,INF,be eat call
+Katherine,Chukov,2.7777777777777777,0.0,41.66666666666667,INF,be eat call
+Matthew,Marta,1.5625,0.0,42.1875,INF,be say
+Matthew,Marta,1.5625,0.0,42.1875,INF,be say
+Marta,Chukov,4.891304347826087,2.1739130434782608,53.80434782608695,2.25,relax say enjoy listen whine be
+Marta,Katherine,0.0,0.0,50.0,INF,leave
+Chukov,Marta,5.625,0.0,49.375,INF,have be pay kill
+Chukov,Marta,5.625,0.0,49.375,INF,have be pay kill
+Marta,Delta,0.0,0.0,57.14285714285714,INF,catch
+Matthew,Katherine,1.5625,0.0,42.1875,INF,
+Matthew,Katherine,0.0,0.0,12.5,INF,
+Laurent,Marta,2.5,0.0,37.5,INF,say
+Marta,Laurent,0.0,0.0,62.5,INF,slide
+Marta,Laurent,0.0,0.0,50.0,INF,lean
+Laurent,Marta,0.0,0.0,50.0,INF,lean
+Marta,Laurent,2.5,3.125,54.37499999999999,0.8,divulge grab hold
+Marta,Laurent,2.380952380952381,2.6785714285714284,40.17857142857143,0.8888888888888888,mean say press squeeze do care
+Laurent,Marta,2.380952380952381,2.6785714285714284,40.17857142857143,0.8888888888888888,mean say press squeeze do care
+Marta,Laurent,1.6129032258064515,0.8064516129032258,49.193548387096776,2.0,be threaten snap be follow pierce
+Marta,Laurent,1.6129032258064515,0.8064516129032258,49.193548387096776,2.0,be threaten snap be follow pierce
+Chukov,Marta,1.0416666666666665,0.0,48.95833333333333,INF,be take think
+Marta,Laurent,0.0,2.083333333333333,31.25,0.0,release
+Laurent,Marta,1.3888888888888888,0.0,70.83333333333334,INF,stand cower pick have put
+Laurent,Marta,1.3888888888888888,0.0,70.83333333333334,INF,stand cower pick have put
+Marta,Laurent,1.3888888888888888,0.0,70.83333333333334,INF,stand cower pick have put
+Marta,Laurent,1.3888888888888888,0.0,70.83333333333334,INF,stand cower pick have put
+Monsieur Bannon,Marta,0.0,0.0,36.36363636363637,INF,be say
+Marta,Matthew,2.380952380952381,2.380952380952381,52.38095238095239,1.0,buy be find kill
+Marta,Matthew,2.380952380952381,2.380952380952381,52.38095238095239,1.0,buy be find kill
+Chukov,Marta,1.25,3.75,45.0,0.3333333333333333,have say know be
+Chukov,Marta,1.25,3.75,45.0,0.3333333333333333,have say know be
+Jesus,Katherine,0.0,0.0,33.33333333333333,INF,say
+Matthew,Katherine,9.615384615384617,0.0,28.846153846153843,INF,know love say
+Matthew,Zelvas,3.2407407407407405,0.0,48.61111111111111,INF,do know be say say have
+Katherine,Marta,3.289473684210526,0.0,44.07894736842105,INF,be
+Marta,Katherine,3.289473684210526,0.0,44.07894736842105,INF,be
+Mr. Bannon,Katherine,0.0,2.8846153846153846,35.57692307692308,0.0,presume continue
+Marta,Chukov,3.125,0.0,30.208333333333332,INF,have come
+Marta,Chukov,3.125,0.0,30.208333333333332,INF,have come
+Matthew,Marta,0.7352941176470588,0.0,52.20588235294118,INF,think be figure take
+Matthew,Marta,0.7352941176470588,0.0,52.20588235294118,INF,think be figure take
+Matthew,Marta,0.7352941176470588,0.0,52.20588235294118,INF,think be figure take
+Mr. Bannon,Marta,2.6785714285714284,0.8928571428571428,42.857142857142854,3.0,tell say be sleep
+Marta,Katherine,6.25,0.0,43.75,INF,go
+Katherine,Marta,0.8928571428571428,0.0,49.107142857142854,INF,push fling
+Zelvas,Marta,0.0,0.0,55.00000000000001,INF,hire kill hire kill get
+Jett,Katherine,2.717391304347826,0.0,58.152173913043484,INF,be have smell
+De Smet,Diamond Syndicate,2.1341463414634148,2.7439024390243905,63.41463414634146,0.7777777777777778,push escalate know do have worry rat
+Katherine,Peter Luger,2.1551724137931036,0.0,59.91379310344828,INF,be trigger share celebrate get
+Katherine,Parsons,2.1551724137931036,0.0,59.91379310344828,INF,be trigger share celebrate get
+Peter Luger,Parsons,2.1551724137931036,0.0,59.91379310344828,INF,be trigger share celebrate get
+Anna,Katherine,0.0,0.0,37.5,INF,look
+Anna,Katherine,0.0,0.0,40.0,INF,take
+Ms. Sanborne,Mr. Bannon,1.7857142857142856,0.0,45.83333333333333,INF,look do like lead do
+Ms. Sanborne,Mr. Bannon,1.7857142857142856,0.0,45.83333333333333,INF,look do like lead do
+Marta,Zelvas,2.083333333333333,12.5,18.75,0.16666666666666666,be
+Marta,Katherine,0.0,0.7352941176470588,52.20588235294118,0.0,be threaten kill
+Domingo,Castro,4.411764705882353,0.0,48.529411764705884,INF,have work
+Mr. Ziffer,De Smet,4.583333333333333,1.25,37.5,3.6666666666666665,do mean offend say know say let
+Katje,Schoningh,2.7777777777777777,1.3888888888888888,18.055555555555554,2.0,be say
+Kino,Marta,5.5,0.5,62.0,11.0,think have make be have be take
+Mr. Bannon,Fennessy,0.0,0.0,43.75,INF,have choose say
+Fennessy,Matthew,2.0,0.0,62.0,INF,do correct be concern have
+Fennessy,Matthew,2.0,0.0,62.0,INF,do correct be concern have
+Matthew,Katherine,6.25,5.592105263157895,43.42105263157895,1.1176470588235294,be be fly win live
+Chukov,Matthew,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Chukov,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Chukov,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Chukov,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Matthew,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Matthew,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Matthew,Katherine,3.571428571428571,2.976190476190476,48.214285714285715,1.2,be go be gun have put have make be stay
+Zach,Ty,0.7352941176470588,0.0,46.32352941176471,INF,be
+Zach,Adam,0.7352941176470588,0.0,46.32352941176471,INF,be
+Ty,Adam,0.7352941176470588,0.0,46.32352941176471,INF,be
+Zelvas,Chukov,0.0,0.0,23.809523809523807,INF,
+Zelvas,Marta,0.0,0.0,23.809523809523807,INF,
+Zelvas,Katherine,0.0,0.0,23.809523809523807,INF,
+Chukov,Marta,0.0,0.0,23.809523809523807,INF,
+Chukov,Katherine,0.0,0.0,23.809523809523807,INF,
+Marta,Katherine,0.0,0.0,23.809523809523807,INF,
+Ty,Katherine,3.0,1.0,28.000000000000004,3.0,know say find go
+Zelvas,Chukov,0.0,0.0,46.15384615384615,INF,be steal say
+Marta,Chukov,2.5,1.25,26.25,2.0,be say
+Marta,Matthew,0.0,2.631578947368421,39.473684210526315,0.0,put track kill
+Marta,Matthew,0.0,2.631578947368421,39.473684210526315,0.0,put track kill
+Matthew,Marta,0.0,2.631578947368421,39.473684210526315,0.0,put track kill
+Matthew,Marta,0.0,2.631578947368421,39.473684210526315,0.0,put track kill
+Chukov,Nathaniel,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Chukov,Marta,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Chukov,Matthew,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Chukov,Nathaniel,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Chukov,Marta,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Chukov,Matthew,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Nathaniel,Marta,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Nathaniel,Matthew,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Nathaniel,Chukov,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Marta,Matthew,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Marta,Chukov,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Matthew,Chukov,0.6578947368421052,0.6578947368421052,51.31578947368421,1.0,have hold let aim spawn
+Nathaniel,Chukov,3.289473684210526,5.263157894736842,44.07894736842105,0.625,know sound be say
+Natalia,Nathaniel,0.0,0.0,42.857142857142854,INF,be shout
+Marta,Nathaniel,0.0,5.113636363636364,35.79545454545455,0.0,be tell hire say
+Marta,Nathaniel,0.0,5.113636363636364,35.79545454545455,0.0,be tell hire say
+Nathaniel,Chukov,0.0,0.0,30.76923076923077,INF,promise stop
+Chukov,Nathaniel,1.4705882352941175,9.558823529411764,59.55882352941176,0.15384615384615385,have see go be
+Nathaniel,Benzetti,10.416666666666668,0.0,56.25,INF,call
+Matthew,Chukov,5.208333333333334,1.0416666666666665,43.75,5.0,be say
+Nathaniel,Natalia,0.0,0.0,37.5,INF,catch
+Nathaniel,Zelvas,0.0,3.125,46.875,0.0,find be steal know report return steal
+Nathaniel,Zelvas,0.0,3.125,46.875,0.0,find be steal know report return steal
+Nathaniel,Zelvas,0.0,3.125,46.875,0.0,find be steal know report return steal
+Zelvas,Natalia,6.730769230769231,0.0,54.807692307692314,INF,have have tell
+Zelvas,Natalia,2.5,0.0,47.5,INF,have recruit get
+Natalia,Zelvas,2.5,0.0,47.5,INF,have recruit get
+Chukov,Zelvas,1.6304347826086956,1.0869565217391304,53.80434782608695,1.5,be fall get let
+Natalia,Nathaniel,0.0,0.0,44.44444444444444,INF,be
+Nathaniel,Natalia,0.0,0.0,44.44444444444444,INF,be
+Zelvas,Natalia,5.263157894736842,1.9736842105263157,40.131578947368425,2.6666666666666665,turn make leave
+Natalia,Zelvas,5.263157894736842,1.9736842105263157,40.131578947368425,2.6666666666666665,turn make leave
+Zelvas,Nathaniel,0.6944444444444444,3.8194444444444446,48.26388888888889,0.18181818181818182,have come miss cut steal put betray
+Zelvas,Nathaniel,0.6944444444444444,3.8194444444444446,48.26388888888889,0.18181818181818182,have come miss cut steal put betray
+Nathaniel,Natalia,2.6785714285714284,0.0,61.60714285714286,INF,take realize be come
+Nathaniel,Natalia,0.0,0.0,58.333333333333336,INF,sit wrap
+Nathaniel,Natalia,0.0,0.0,58.333333333333336,INF,sit wrap
+Natalia,Nathaniel,0.0,0.0,58.333333333333336,INF,sit wrap
+Nathaniel,Natalia,0.0,0.0,58.333333333333336,INF,sit wrap
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Nathaniel,Natalia,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Nathaniel,Natalia,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Natalia,Nathaniel,1.953125,0.78125,41.015625,2.5,wrap stream kiss
+Nathaniel,Natalia,1.2096774193548387,2.0161290322580645,51.61290322580645,0.6,pick drive escort
+Nathaniel,Natalia,0.3472222222222222,4.513888888888888,59.02777777777778,0.07692307692307693,escort unlock lead decorate
+Natalia,Nathaniel,0.3472222222222222,4.513888888888888,59.02777777777778,0.07692307692307693,escort unlock lead decorate
+Zelvas,Nathaniel,1.3888888888888888,8.333333333333332,29.166666666666668,0.16666666666666666,be steal retrieve say
+Arnoff,Nathaniel,0.0,0.0,65.625,INF,be lean turn fill steam
+Arnoff,Nathaniel,0.5681818181818182,3.4090909090909087,50.56818181818182,0.16666666666666666,roar lift dump
+Zelvas,Arnoff,0.0,1.3888888888888888,31.944444444444443,0.0,be bellow
+Zelvas,Nathaniel,3.3333333333333335,3.3333333333333335,40.0,1.0,be be say sob
+Gutov,Nathaniel,2.8846153846153846,2.8846153846153846,71.15384615384616,1.0,look spit
+Nathaniel,Arnoff,2.380952380952381,4.761904761904762,30.952380952380953,0.5,be say
+Arnoff,Nathaniel,2.380952380952381,4.761904761904762,30.952380952380953,0.5,be say
+Katherine,Chukov,5.208333333333334,2.083333333333333,59.375,2.5,be find do
+Adam,Zach,1.7857142857142856,0.5952380952380952,40.476190476190474,3.0,be attach
+Adam,Ty,1.7857142857142856,0.5952380952380952,40.476190476190474,3.0,be attach
+Zach,Ty,1.7857142857142856,0.5952380952380952,40.476190476190474,3.0,be attach
+Karns,Katherine,5.0,5.0,43.333333333333336,1.0,be
+Ty,Perry,2.8846153846153846,0.0,58.65384615384615,INF,have point
+Umar Clarke,Adam,0.0,0.0,25.0,INF,say
+Virzi,Adam,0.0,0.0,37.5,INF,say
+Chukov,Ty,0.5434782608695652,4.3478260869565215,47.28260869565217,0.125,like hire say pan
+Chukov,Vic,0.5434782608695652,4.3478260869565215,47.28260869565217,0.125,like hire say pan
+Ty,Vic,0.5434782608695652,4.3478260869565215,47.28260869565217,0.125,like hire say pan
+Benzetti,Umar Clarke,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,storm draw suppress shoot
+Benzetti,Virzi,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,storm draw suppress shoot
+Umar Clarke,Virzi,0.5681818181818182,1.1363636363636365,34.659090909090914,0.5,storm draw suppress shoot
+Virzi,Benzetti,0.0,0.0,46.666666666666664,INF,hear push rush
+Virzi,Benzetti,0.0,0.625,54.37499999999999,0.0,hit see charge
+Umar Clarke,Benzetti,0.0,0.0,66.66666666666666,INF,turn fire pinpoint
+Umar Clarke,Benzetti,0.0,0.0,66.66666666666666,INF,turn fire pinpoint
+Ty,Roger,1.7045454545454544,2.272727272727273,41.47727272727273,0.75,expect say come
+Roger,Ty,1.7045454545454544,2.272727272727273,41.47727272727273,0.75,expect say come
+Matt,Katherine,0.0,3.571428571428571,25.0,0.0,be
+Katherine,Perry,0.9615384615384616,0.0,45.19230769230769,INF,be walk head
+Matt,Katherine,0.0,1.9230769230769231,44.230769230769226,0.0,be go get
+Chukov,Katherine,0.0,2.7777777777777777,41.66666666666667,0.0,see
+Chukov,Katherine,1.5625,6.25,42.1875,0.25,recognize
+Chukov,Katherine,0.0,0.0,33.33333333333333,INF,grab
+Chukov,Katherine,0.0,2.5,47.5,0.0,have
+Chukov,Matthew,0.0,2.5,47.5,0.0,have
+Katherine,Matthew,0.0,2.5,47.5,0.0,have
+Chukov,Katherine,0.0,0.0,57.14285714285714,INF,take
+Katherine,Chukov,0.0,0.0,57.14285714285714,INF,take
+Matt,Zach,4.166666666666666,10.119047619047619,33.33333333333333,0.4117647058823529,be say look
+Katherine,Chukov,3.571428571428571,1.7857142857142856,37.5,2.0,be negotiate
+Chukov,Katherine,0.0,0.0,33.33333333333333,INF,trade
+Katherine,Chukov,0.0,0.0,60.0,INF,hear cry grab scream
+Mr. Bannon,Chukov,6.25,0.0,36.607142857142854,INF,be say
+Chukov,Matthew,3.125,1.875,65.0,1.6666666666666667,believe feel surround walk
+Adam,Zach,2.5,0.8333333333333334,43.333333333333336,3.0,be scop arrive
+Adam,Ty,2.5,0.8333333333333334,43.333333333333336,3.0,be scop arrive
+Zach,Ty,2.5,0.8333333333333334,43.333333333333336,3.0,be scop arrive
+Chukov,Katherine,2.616279069767442,1.744186046511628,56.104651162790695,1.5,trade start fly realize give
+Katherine,Chukov,2.616279069767442,1.744186046511628,56.104651162790695,1.5,trade start fly realize give
+Katherine,Chukov,2.616279069767442,1.744186046511628,56.104651162790695,1.5,trade start fly realize give
+Katherine,Chukov,2.616279069767442,1.744186046511628,56.104651162790695,1.5,trade start fly realize give
+Katherine,Chukov,4.032258064516129,0.4032258064516129,47.17741935483871,10.0,help get guarantee know be get
+Katherine,Chukov,4.032258064516129,0.4032258064516129,47.17741935483871,10.0,help get guarantee know be get
+Katherine,Chukov,4.032258064516129,0.4032258064516129,47.17741935483871,10.0,help get guarantee know be get
+Chukov,Adam,0.3676470588235294,0.3676470588235294,58.08823529411765,1.0,guarantee do say start shoot
+Adam,Chukov,0.3676470588235294,0.3676470588235294,58.08823529411765,1.0,guarantee do say start shoot
+Adam,Chukov,0.3676470588235294,0.3676470588235294,58.08823529411765,1.0,guarantee do say start shoot
+Zach,Chukov,0.0,0.0,61.76470588235294,INF,leave call see arrive take
+Zach,Chukov,0.0,0.0,61.76470588235294,INF,leave call see arrive take
+Dad,Chukov,1.4705882352941175,0.0,48.529411764705884,INF,tell find have tell call
+Dad,Chukov,1.4705882352941175,0.0,48.529411764705884,INF,tell find have tell call
+Adam,Zach,0.0,0.0,37.5,INF,get split
+Adam,Ty,0.0,0.0,37.5,INF,get split
+Adam,Katherine,0.0,0.0,37.5,INF,get split
+Zach,Ty,0.0,0.0,37.5,INF,get split
+Zach,Katherine,0.0,0.0,37.5,INF,get split
+Ty,Katherine,0.0,0.0,37.5,INF,get split
+Zach,Adam,0.0,4.464285714285714,52.67857142857143,0.0,rattle mark
+Zach,Chukov,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Zach,Katherine,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Chukov,Zach,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Chukov,Katherine,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Chukov,Zach,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Zach,Katherine,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Katherine,Zach,3.7037037037037033,1.8518518518518516,50.0,2.0,follow get catch do want think rescue
+Vanderbilt,Zach,2.941176470588235,0.7352941176470588,49.26470588235294,4.0,be say
+Chukov,Adam,2.5,0.5,56.99999999999999,5.0,sound take call say
+Chukov,Adam,2.5,0.5,56.99999999999999,5.0,sound take call say
+Matt,Ty,0.0,2.7777777777777777,30.555555555555557,0.0,say
+Matt,Ty,2.272727272727273,2.272727272727273,31.818181818181817,1.0,do worry say
+Zach,Vanderbilt,0.0,0.0,40.0,INF,be
+Katherine,Chukov,3.260869565217391,2.717391304347826,50.54347826086957,1.2,know be make
+Zach,Vanderbilt,0.0,0.0,62.5,INF,be call
+Adam,Vanderbilt,1.25,2.5,71.25,0.5,speak walk
+Mr. Bannon,Chukov,0.0,0.0,40.0,INF,say
+Matt,Katherine,0.0,4.166666666666666,29.166666666666668,0.0,be
+Chukov,Katherine,2.5,2.5,55.00000000000001,1.0,be brim be
+Chukov,Katherine,2.5,2.5,55.00000000000001,1.0,be brim be
+Chukov,Katherine,0.0,0.0,36.36363636363637,INF,stop
+Katherine,Chukov,0.0,4.464285714285714,38.392857142857146,0.0,be go see say
+Vanderbilt,Zach,5.681818181818182,1.1363636363636365,47.72727272727273,5.0,have get check say
+Katherine,Chukov,0.0,0.0,55.55555555555556,INF,send have
+Grigor,Chukov,0.0,0.0,28.57142857142857,INF,say
+Chukov,Katherine,0.0,0.0,37.5,INF,let go
+Grigor,Katherine,0.78125,0.0,42.96875,INF,step tap say go
+Grigor,Chukov,3.3333333333333335,4.166666666666666,45.83333333333333,0.8,stand
+Grigor,Katherine,3.3333333333333335,4.166666666666666,45.83333333333333,0.8,stand
+Chukov,Katherine,3.3333333333333335,4.166666666666666,45.83333333333333,0.8,stand
+Zach,Vanderbilt,0.0,0.4464285714285714,63.83928571428571,0.0,push explode
+NYPD,MTA,1.1627906976744187,2.616279069767442,49.7093023255814,0.4444444444444444,be bolt start race nail explode
+Adam,Ty,0.0,0.0,50.0,INF,launch
+Katherine,Zach,5.681818181818182,0.0,35.22727272727273,INF,be be yell pass
+Katherine,Zach,5.681818181818182,0.0,35.22727272727273,INF,be be yell pass
+Zach,Katherine,3.125,1.7857142857142856,45.089285714285715,1.75,put drag carry designate
+Zach,Katherine,3.125,1.7857142857142856,45.089285714285715,1.75,put drag carry designate
+Zach,Katherine,3.125,1.7857142857142856,45.089285714285715,1.75,put drag carry designate
+Zach,Katherine,3.125,1.7857142857142856,45.089285714285715,1.75,put drag carry designate
+Adam,Ty,1.6666666666666667,0.0,58.333333333333336,INF,have race
+Adam,Michael Jordan,1.6666666666666667,0.0,58.333333333333336,INF,have race
+Ty,Michael Jordan,1.6666666666666667,0.0,58.333333333333336,INF,have race
+Chukov,Adam,0.0,2.083333333333333,64.58333333333334,0.0,be daze fire
+Ty,Adam,5.5,3.5000000000000004,55.00000000000001,1.5714285714285714,have have be shoot stumble
+Chukov,Adam,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have begin riddle shatter pop
+Chukov,Ty,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have begin riddle shatter pop
+Chukov,Adam,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have begin riddle shatter pop
+Chukov,Ty,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have begin riddle shatter pop
+Adam,Ty,2.027027027027027,1.6891891891891893,55.74324324324324,1.2,do have begin riddle shatter pop
+Ty,Adam,0.0,0.0,42.857142857142854,INF,stand
+Chukov,Ty,0.0,6.25,27.083333333333332,0.0,
+Adam,Zach,1.0416666666666665,0.0,40.625,INF,bless think
+Adam,Ty,1.0416666666666665,0.0,40.625,INF,bless think
+Zach,Ty,1.0416666666666665,0.0,40.625,INF,bless think
+Chukov,Katherine,0.7352941176470588,4.411764705882353,53.67647058823529,0.16666666666666666,know finish shoot
+Chukov,Katherine,0.7352941176470588,4.411764705882353,53.67647058823529,0.16666666666666666,know finish shoot
+Katherine,Chukov,0.0,0.0,50.0,INF,hurl
+Chukov,Katherine,0.0,0.0,50.0,INF,throw scream
+Chukov,Katherine,0.0,0.0,50.0,INF,throw scream
+Matthew,Katherine,0.0,4.166666666666666,35.833333333333336,0.0,yell get
+Matthew,Katherine,4.166666666666666,4.166666666666666,38.333333333333336,1.0,please be beg
+Matthew,Katherine,4.166666666666666,4.166666666666666,38.333333333333336,1.0,please be beg
+Katherine,Ty,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,have bury be sob
+Katherine,Ty,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,have bury be sob
+Ty,Katherine,0.0,0.0,35.714285714285715,INF,be find say
+Ty,Zach,0.0,0.0,35.714285714285715,INF,be find say
+Katherine,Zach,0.0,0.0,35.714285714285715,INF,be find say
+Matt,Katherine,0.0,1.7857142857142856,41.07142857142857,0.0,kick let happen
+Zach,Ty,0.0,1.7857142857142856,12.5,0.0,hesitate
+Matt,Katherine,0.0,2.7777777777777777,30.555555555555557,0.0,say
+Matt,Chukov,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,go say
+Matt,Ty,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,go say
+Chukov,Ty,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,go say
+Mr. Perez,Katherine,4.166666666666666,1.1904761904761905,42.26190476190476,3.5,try stay say put
+Adam,Katherine,0.0,0.0,41.17647058823529,INF,wait say put
+Adam,Katherine,0.0,0.0,41.17647058823529,INF,wait say put
+Katherine,Matthew,0.0,1.6666666666666667,25.0,0.0,do want see say
+Katherine,Zach,0.0,1.6666666666666667,25.0,0.0,do want see say
+Matthew,Zach,0.0,1.6666666666666667,25.0,0.0,do want see say
+Matthew,Adam,0.0,0.0,44.44444444444444,INF,be go say
+Adam,Katherine,0.0,0.0,44.44444444444444,INF,try move
+Garber,Watt,0.0,0.0,22.22222222222222,INF,
+Garber,NYPD,0.0,0.0,22.22222222222222,INF,
+Watt,NYPD,0.0,0.0,22.22222222222222,INF,
+Katherine,Hopper,1.0869565217391304,0.0,59.78260869565217,INF,be be curl purr
+Hopper,Katherine,1.0869565217391304,0.0,59.78260869565217,INF,be be curl purr
+Matthew,Katherine,1.0416666666666665,1.0416666666666665,31.25,1.0,need go say
+Newton,Katherine,0.0,1.9230769230769231,28.846153846153843,0.0,be say
+Newton,Katherine,0.0,1.25,38.75,0.0,keep talk say
+Katherine,Newton,4.6875,0.0,39.0625,INF,have say pluck
+Newton,Katherine,0.0,0.9615384615384616,68.26923076923077,0.0,leave start rummage
+Newton,Katherine,0.0,0.9615384615384616,68.26923076923077,0.0,leave start rummage
+Matthew,Katherine,2.8846153846153846,0.0,35.57692307692308,INF,say
+Katherine,Newton,0.0,0.0,66.66666666666666,INF,look
+Matthew,Katherine,0.0,0.0,27.27272727272727,INF,be toast say
+Copernicus,Katherine,0.0,0.0,28.57142857142857,INF,say
+Newton,Copernicus,0.0,0.0,33.33333333333333,INF,draw
+Nathaniel,Natalia,2.616279069767442,0.5813953488372093,45.63953488372093,4.5,be draw sit smother
+Natalia,Nathaniel,2.616279069767442,0.5813953488372093,45.63953488372093,4.5,be draw sit smother
+Natalia,Nathaniel,2.616279069767442,0.5813953488372093,45.63953488372093,4.5,be draw sit smother
+Nathaniel,Natalia,4.166666666666666,1.0416666666666665,53.125,4.0,have be allow live
+Nathaniel,Chukov,0.7142857142857143,3.214285714285714,47.5,0.2222222222222222,hold recover
+Nathaniel,Chukov,0.7142857142857143,3.214285714285714,47.5,0.2222222222222222,hold recover
+Nathaniel,Arnoff,0.7142857142857143,3.214285714285714,47.5,0.2222222222222222,hold recover
+Chukov,Arnoff,0.7142857142857143,3.214285714285714,47.5,0.2222222222222222,hold recover
+Chukov,Arnoff,0.7142857142857143,3.214285714285714,47.5,0.2222222222222222,hold recover
+Nathaniel,Arnoff,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Nathaniel,Natalia,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Nathaniel,Arnoff,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Nathaniel,Natalia,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Arnoff,Nathaniel,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Arnoff,Natalia,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Nathaniel,Natalia,0.8064516129032258,0.0,47.58064516129033,INF,sell rape move
+Nathaniel,Natalia,0.0,0.0,59.523809523809526,INF,be be push
+Diamond Syndicate,Nathaniel,0.0,0.9615384615384616,52.88461538461539,0.0,
+Chukov,Nathaniel,0.0,0.8928571428571428,41.964285714285715,0.0,silence
+Chukov,Maxim,3.75,1.25,35.0,3.0,be say
+Natalia,Maxim,0.0,0.0,61.904761904761905,INF,be spin watch make
+Maxim,Natalia,2.5,3.3333333333333335,34.166666666666664,0.75,rip gasp
+Maxim,Natalia,2.5,3.3333333333333335,34.166666666666664,0.75,rip gasp
+Natalia,Nathaniel,5.0,1.6666666666666667,33.33333333333333,3.0,be hear
+Newton,Katherine,1.3392857142857142,0.0,66.51785714285714,INF,fly attend
+Ty,Zach,1.25,0.0,48.75,INF,meet
+Ty,Adam,1.25,0.0,48.75,INF,meet
+Zach,Adam,1.25,0.0,48.75,INF,meet
+Matt,Zach,0.0,2.7777777777777777,19.444444444444446,0.0,say
+Matt,Adam,2.6785714285714284,6.25,41.07142857142857,0.42857142857142855,be make say
+Adam,Ty,0.0,0.0,40.0,INF,pass
+Adam,Zach,0.0,0.0,40.0,INF,pass
+Adam,Ty,0.0,0.0,40.0,INF,pass
+Adam,Zach,0.0,0.0,40.0,INF,pass
+Ty,Zach,0.0,0.0,40.0,INF,pass
+Matt,Ty,1.9230769230769231,6.730769230769231,37.5,0.2857142857142857,be say
+Matthew,Katherine,0.0,0.0,16.666666666666664,INF,
+Mr. Perez,Manny,0.0,0.0,9.090909090909092,INF,
+Adam,Zach,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,hand have give
+Adam,Ty,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,hand have give
+Zach,Ty,2.631578947368421,1.3157894736842104,53.94736842105263,2.0,hand have give
+Katherine,Ty,2.272727272727273,2.272727272727273,31.818181818181817,1.0,be invite say
+Zach,Ty,1.4705882352941175,0.0,39.705882352941174,INF,
+Zach,Adam,1.4705882352941175,0.0,39.705882352941174,INF,
+Ty,Adam,1.4705882352941175,0.0,39.705882352941174,INF,
+Coyle,Ethan,0.0,1.3888888888888888,37.5,0.0,involve
+Coyle,Zoe,0.0,1.3888888888888888,37.5,0.0,involve
+Ethan,Zoe,0.0,1.3888888888888888,37.5,0.0,involve
+Ethan,Branaff School,2.380952380952381,0.0,61.904761904761905,INF,notice camp do worry use do know try snap
+Branaff School,Ethan,2.380952380952381,0.0,61.904761904761905,INF,notice camp do worry use do know try snap
+Branaff School,Ethan,2.380952380952381,0.0,61.904761904761905,INF,notice camp do worry use do know try snap
+Branaff School,Ethan,2.380952380952381,0.0,61.904761904761905,INF,notice camp do worry use do know try snap
+Branaff School,Ethan,2.380952380952381,0.0,61.904761904761905,INF,notice camp do worry use do know try snap
+Ethan,Townsend,0.6578947368421052,4.605263157894736,52.63157894736842,0.14285714285714285,see head wish disappear
+Townsend,Ethan,0.6578947368421052,4.605263157894736,52.63157894736842,0.14285714285714285,see head wish disappear
+Townsend,Ethan,0.6578947368421052,4.605263157894736,52.63157894736842,0.14285714285714285,see head wish disappear
+Townsend,Ethan,0.6578947368421052,4.605263157894736,52.63157894736842,0.14285714285714285,see head wish disappear
+Townsend,Ethan,4.605263157894736,4.605263157894736,38.15789473684211,1.0,have be
+Townsend,Ethan,4.605263157894736,4.605263157894736,38.15789473684211,1.0,have be
+Ethan,Townsend,1.6891891891891893,2.027027027027027,66.55405405405406,0.8333333333333334,be take let know be kick
+Ethan,Townsend,1.6891891891891893,2.027027027027027,66.55405405405406,0.8333333333333334,be take let know be kick
+Ethan,Townsend,1.6891891891891893,2.027027027027027,66.55405405405406,0.8333333333333334,be take let know be kick
+Ethan,Zoe,2.976190476190476,0.0,54.166666666666664,INF,look see step
+Ethan,Townsend,2.976190476190476,0.0,54.166666666666664,INF,look see step
+Ethan,Zoe,2.976190476190476,0.0,54.166666666666664,INF,look see step
+Ethan,Townsend,2.976190476190476,0.0,54.166666666666664,INF,look see step
+Zoe,Townsend,2.976190476190476,0.0,54.166666666666664,INF,look see step
+Zoe,Townsend,0.0,4.411764705882353,48.529411764705884,0.0,swing
+Zoe,Townsend,0.0,4.411764705882353,48.529411764705884,0.0,swing
+Findlay,Zoe,6.25,0.0,37.5,INF,hold wedge
+Findlay,Musgrove,6.25,0.0,37.5,INF,hold wedge
+Findlay,Ethan,6.25,0.0,37.5,INF,hold wedge
+Findlay,Townsend,6.25,0.0,37.5,INF,hold wedge
+Zoe,Musgrove,6.25,0.0,37.5,INF,hold wedge
+Zoe,Ethan,6.25,0.0,37.5,INF,hold wedge
+Zoe,Townsend,6.25,0.0,37.5,INF,hold wedge
+Musgrove,Ethan,6.25,0.0,37.5,INF,hold wedge
+Musgrove,Townsend,6.25,0.0,37.5,INF,hold wedge
+Ethan,Townsend,6.25,0.0,37.5,INF,hold wedge
+Townsend,Ethan,0.625,0.0,59.375,INF,shout drip
+Townsend,Zoe,0.625,0.0,59.375,INF,shout drip
+Townsend,Branaff School,0.625,0.0,59.375,INF,shout drip
+Ethan,Zoe,0.625,0.0,59.375,INF,shout drip
+Ethan,Townsend,0.625,0.0,59.375,INF,shout drip
+Ethan,Branaff School,0.625,0.0,59.375,INF,shout drip
+Zoe,Townsend,0.625,0.0,59.375,INF,shout drip
+Zoe,Branaff School,0.625,0.0,59.375,INF,shout drip
+Townsend,Branaff School,0.625,0.0,59.375,INF,shout drip
+Townsend,Ethan,0.0,0.0,52.38095238095239,INF,be hover scatter
+Townsend,Ethan,0.0,0.0,52.38095238095239,INF,be hover scatter
+Findlay,Ethan,5.0,2.5,28.499999999999996,2.0,hustle raise
+Findlay,Zoe,5.0,2.5,28.499999999999996,2.0,hustle raise
+Ethan,Zoe,5.0,2.5,28.499999999999996,2.0,hustle raise
+Zoe,Findlay,0.5434782608695652,1.0869565217391304,41.84782608695652,0.5,tell say go answer
+Zoe,Findlay,0.0,0.0,52.0,INF,be promise say close leave
+Zoe,Findlay,0.0,0.0,52.0,INF,be promise say close leave
+Ethan,Zoe,0.0,0.0,45.83333333333333,INF,cut head
+Ethan,Zoe,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,do want miss say roll
+Ethan,Zoe,6.8181818181818175,2.272727272727273,45.45454545454545,3.0,do want miss say roll
+CNN,Zoe,0.0,0.0,50.0,INF,watch say
+Dad,Ethan,4.464285714285714,0.0,24.107142857142858,INF,be say
+Ethan,Zoe,1.6666666666666667,0.4166666666666667,61.25000000000001,4.0,have be allow include
+Townsend,Coyle,2.314814814814815,3.7037037037037033,64.35185185185185,0.625,be make think make

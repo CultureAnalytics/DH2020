@@ -1,0 +1,450 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Paul,Daniel,1.5625,4.6875,68.75,0.3333333333333333,give say be expect get
+Paul,Daniel,1.5625,4.6875,68.75,0.3333333333333333,give say be expect get
+Neruda,Daniel,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Neruda,Daniel,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Daniel,Neruda,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Daniel,Neruda,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Daniel,Neruda,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Daniel,Neruda,3.225806451612903,1.6129032258064515,59.67741935483871,2.0,come raise know respond be ask go have be set
+Arthur,Daniel,1.5873015873015872,0.3968253968253968,44.047619047619044,4.0,talk lose claim be care
+Daniel,Lorca,4.861111111111112,0.6944444444444444,66.66666666666666,7.0,be tell have be use
+Paul,Daniel,1.4705882352941175,1.1029411764705883,59.19117647058824,1.3333333333333333,tell have be take know
+Daniel,Pinochet,4.3478260869565215,1.0869565217391304,55.434782608695656,4.0,grow be count silence
+Daniel,Pinochet,4.3478260869565215,1.0869565217391304,55.434782608695656,4.0,grow be count silence
+Daniel,Pinochet,4.3478260869565215,1.0869565217391304,55.434782608695656,4.0,grow be count silence
+Daniel,Paul,2.5,1.4285714285714286,47.5,1.75,disappear write ask have send
+Paul,Daniel,2.5,1.4285714285714286,47.5,1.75,disappear write ask have send
+Paul,Daniel,2.5,1.4285714285714286,47.5,1.75,disappear write ask have send
+Leah,Daniel,2.604166666666667,1.5625,54.166666666666664,1.6666666666666667,have have leave
+Leah,Daniel,1.4705882352941175,0.0,45.588235294117645,INF,have find be write
+Leah,Daniel,1.4705882352941175,0.0,45.588235294117645,INF,have find be write
+Leah,Daniel,1.4705882352941175,0.0,45.588235294117645,INF,have find be write
+Leah,Daniel,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,hear have be arrest
+Leah,Daniel,4.464285714285714,5.357142857142857,47.32142857142857,0.8333333333333334,hear have be arrest
+Daniel,Lotte,2.1341463414634148,0.0,71.03658536585365,INF,lodge find have forget name inscribe
+Daniel,Lotte,2.1341463414634148,0.0,71.03658536585365,INF,lodge find have forget name inscribe
+Leah,Daniel,3.77906976744186,2.3255813953488373,61.337209302325576,1.625,look do realize have be have be meet
+Leah,Daniel,3.8461538461538463,8.653846153846153,49.03846153846153,0.4444444444444444,be have be
+Daniel,Leah,3.515625,5.859375,56.25,0.6,fall have pass have notice
+Daniel,Leah,3.515625,5.859375,56.25,0.6,fall have pass have notice
+Leah,Vlad,1.744186046511628,1.1627906976744187,48.25581395348838,1.5,bear watch be cart tell be make be let
+Vlad,Leah,1.744186046511628,1.1627906976744187,48.25581395348838,1.5,bear watch be cart tell be make be let
+Uri,Ronit,2.7777777777777777,1.7361111111111112,51.041666666666664,1.6,say want go shrug call pack go find
+Uri,Arab,3.225806451612903,2.0161290322580645,49.596774193548384,1.6,have reach feel say want
+Arab,Uri,2.5,1.25,46.25,2.0,regard lower snip come
+Mr. Shatzner,Dovi,5.357142857142857,3.125,48.660714285714285,1.7142857142857142,say put be realize be
+Daniel,Adam,3.90625,3.90625,67.1875,1.0,notice have
+Adam,Daniel,3.90625,3.90625,67.1875,1.0,notice have
+Daniel,Lotte,0.78125,0.0,61.71875,INF,cross be
+Lotte,Daniel,2.307692307692308,2.1153846153846154,60.192307692307686,1.0909090909090908,be go sound live know have meet feel be align align be separate
+Lotte,Daniel,2.307692307692308,2.1153846153846154,60.192307692307686,1.0909090909090908,be go sound live know have meet feel be align align be separate
+Lotte,St. Giles,0.0,0.4166666666666667,66.25,0.0,overhear tell see knock
+Hitler,Lotte,3.4722222222222223,3.4722222222222223,37.5,1.0,be go carry disappear
+Lotte,Hitler,3.4722222222222223,3.4722222222222223,37.5,1.0,be go carry disappear
+Heath,House,1.9642857142857142,0.8928571428571428,54.285714285714285,2.2,cross stop show visit come associate ruin take become
+Heath,Lotte,1.9642857142857142,0.8928571428571428,54.285714285714285,2.2,cross stop show visit come associate ruin take become
+House,Lotte,1.9642857142857142,0.8928571428571428,54.285714285714285,2.2,cross stop show visit come associate ruin take become
+Daniel,Lotte,4.166666666666666,0.0,62.5,INF,know pick say
+Daniel,Lotte,1.7361111111111112,2.083333333333333,57.291666666666664,0.8333333333333334,remember walk have exchange think remember
+Daniel,Lotte,1.7361111111111112,2.083333333333333,57.291666666666664,0.8333333333333334,remember walk have exchange think remember
+Lotte,Neruda,1.9607843137254901,1.9607843137254901,45.09803921568628,1.0,remove give betray toss
+Lotte,Neruda,2.631578947368421,3.289473684210526,60.74561403508771,0.8,accompany prefer have turn receive hold long host
+Daniel,Lotte,1.056338028169014,0.35211267605633806,56.33802816901409,3.0,lie agitate read hang see strut go choose drop do care slide have share
+Lotte,Daniel,0.6355932203389831,0.0,62.07627118644068,INF,make eat search have end be bar follow be subdue lose let be have
+Daniel,Lotte,0.6355932203389831,0.0,62.07627118644068,INF,make eat search have end be bar follow be subdue lose let be have
+Lotte,St. Giles,4.545454545454546,1.893939393939394,54.166666666666664,2.4,think bother be hit be have react
+Ms. Berg,Lotte,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,be say lead be
+Ms. Berg,Lotte,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,be say lead be
+Ms. Berg,Lotte,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,be say lead be
+Lotte,Ms. Berg,0.8620689655172413,0.43103448275862066,60.775862068965516,2.0,be say lead be
+Arthur,Ms. Berg,0.0,0.0,50.0,INF,say smooth walk
+Arthur,Ms. Berg,0.0,0.0,50.0,INF,say smooth walk
+Liverpool,Lotte,0.0,1.0416666666666665,73.95833333333334,0.0,be adopt say
+Daniel,Lotte,3.532608695652174,0.8152173913043478,67.3913043478261,4.333333333333333,have be ring pick get realize have be cry
+Lotte,Daniel,2.734375,0.390625,46.875,7.0,ask know tell have be correspond stop hear
+Lotte,Daniel,2.734375,0.390625,46.875,7.0,ask know tell have be correspond stop hear
+Yoav,Leah,0.8620689655172413,0.0,57.758620689655174,INF,be live share
+Yoav,Leah,0.8620689655172413,0.0,57.758620689655174,INF,be live share
+Yoav,Leah,0.8620689655172413,0.0,57.758620689655174,INF,be live share
+Yoav,Leah,0.8620689655172413,0.0,57.758620689655174,INF,be live share
+Yoav,Leah,2.393617021276596,1.5957446808510638,53.45744680851063,1.5,come see have clear stain have accumulate
+Ein Kerem,Yoav,2.1929824561403506,0.8771929824561403,54.824561403508774,2.5,be travel live choke have live be close keep punish
+Ein Kerem,Leah,2.1929824561403506,0.8771929824561403,54.824561403508774,2.5,be travel live choke have live be close keep punish
+Yoav,Leah,2.1929824561403506,0.8771929824561403,54.824561403508774,2.5,be travel live choke have live be close keep punish
+Leah,Freud,3.787878787878788,1.1363636363636365,52.65151515151515,3.3333333333333335,do know be lose
+Bogna,Yoav,1.953125,1.953125,52.34375,1.0,be meet understand have look be be mention
+Bogna,Leah,1.953125,1.953125,52.34375,1.0,be meet understand have look be be mention
+Yoav,Leah,1.953125,1.953125,52.34375,1.0,be meet understand have look be be mention
+Bogna,Leah,2.0348837209302326,2.0348837209302326,58.720930232558146,1.0,scrape dry cook think hope retire have long do
+Bogna,Leah,2.0348837209302326,2.0348837209302326,58.720930232558146,1.0,scrape dry cook think hope retire have long do
+Yoav,Leah,2.6785714285714284,1.7857142857142856,66.96428571428571,1.5,think be play
+Leah,Yoav,0.8333333333333334,1.6666666666666667,57.49999999999999,0.5,write celebrate have kill
+Izzy,Leah,3.488372093023256,4.069767441860465,45.93023255813954,0.8571428571428571,awaken think drop put
+Izzy,Yoav,3.488372093023256,4.069767441860465,45.93023255813954,0.8571428571428571,awaken think drop put
+Izzy,Leah,3.488372093023256,4.069767441860465,45.93023255813954,0.8571428571428571,awaken think drop put
+Leah,Yoav,3.488372093023256,4.069767441860465,45.93023255813954,0.8571428571428571,awaken think drop put
+Yoav,Leah,3.488372093023256,4.069767441860465,45.93023255813954,0.8571428571428571,awaken think drop put
+Izzy,Leah,0.0,0.0,50.0,INF,be sleep say
+Izzy,Leah,1.5625,12.5,23.4375,0.125,be break
+Izzy,Leah,1.5625,12.5,23.4375,0.125,be break
+Yoav,Leah,1.3297872340425532,2.127659574468085,47.6063829787234,0.625,have die be leah anchor haunt have wander stay
+Leah,Yoav,1.3297872340425532,2.127659574468085,47.6063829787234,0.625,have die be leah anchor haunt have wander stay
+Leah,Yoav,1.3297872340425532,2.127659574468085,47.6063829787234,0.625,have die be leah anchor haunt have wander stay
+George Weisz,Yoav,1.6791044776119404,2.798507462686567,49.25373134328358,0.6,long have sit think sit furnish lose dream arrive remain
+Yoav,Leah,2.34375,1.5625,58.59375,1.5,dream find screw
+Yoav,Leah,1.0542168674698795,1.0542168674698795,68.97590361445783,1.0,pass fill daybe arrive breathe materialize be play make have be
+George Weisz,Yoav,1.744186046511628,0.5813953488372093,44.18604651162791,3.0,become crowd catch understand explain be
+George Weisz,Leah,1.744186046511628,0.5813953488372093,44.18604651162791,3.0,become crowd catch understand explain be
+Yoav,Leah,1.744186046511628,0.5813953488372093,44.18604651162791,3.0,become crowd catch understand explain be
+Yoav,Leah,3.7162162162162162,5.405405405405405,58.445945945945944,0.6875,point do have live snap be love
+Leah,Yoav,3.7162162162162162,5.405405405405405,58.445945945945944,0.6875,point do have live snap be love
+Leah,Yoav,3.7162162162162162,5.405405405405405,58.445945945945944,0.6875,point do have live snap be love
+Yoav,Leah,0.0,0.0,52.17391304347826,INF,turn leah decide send
+Leah,Monsieur Boulier,3.278688524590164,1.2295081967213115,52.86885245901639,2.6666666666666665,think be do have assure find have fall shatter throw
+Leah,Monsieur Boulier,4.081632653061225,2.295918367346939,52.806122448979586,1.7777777777777777,do believe have break be know have break disturb allow recede
+Leah,Yoav,1.644736842105263,2.631578947368421,50.98684210526315,0.625,do drive walk take insist accompany
+Yoav,Leah,1.644736842105263,2.631578947368421,50.98684210526315,0.625,do drive walk take insist accompany
+Leah,Yoav,1.715686274509804,2.696078431372549,64.2156862745098,0.6363636363636364,stop name leave browse go see
+Leah,Yoav,1.715686274509804,2.696078431372549,64.2156862745098,0.6363636363636364,stop name leave browse go see
+Yoav,Leah,1.715686274509804,2.696078431372549,64.2156862745098,0.6363636363636364,stop name leave browse go see
+Leah,Yoav,1.715686274509804,2.696078431372549,64.2156862745098,0.6363636363636364,stop name leave browse go see
+Leah,Yoav,1.0416666666666665,3.6458333333333335,66.14583333333334,0.2857142857142857,be go do have have invent
+Leah,Yoav,1.0416666666666665,3.6458333333333335,66.14583333333334,0.2857142857142857,be go do have have invent
+Leah,Yoav,1.0416666666666665,3.6458333333333335,66.14583333333334,0.2857142857142857,be go do have have invent
+Leah,Yoav,0.5952380952380952,0.0,42.26190476190476,INF,arrive bring
+Leah,Monsieur Boulier,0.5952380952380952,0.0,42.26190476190476,INF,arrive bring
+Yoav,Monsieur Boulier,0.5952380952380952,0.0,42.26190476190476,INF,arrive bring
+Monsieur Boulier,Leah,0.3289473684210526,2.302631578947368,52.63157894736842,0.14285714285714285,wait help speak
+Yoav,Leah,1.7857142857142856,0.0,55.35714285714286,INF,embrace accompany be live
+Yoav,Leah,1.7857142857142856,0.0,55.35714285714286,INF,embrace accompany be live
+Yoav,Leah,1.7857142857142856,0.0,55.35714285714286,INF,embrace accompany be live
+Yoav,Leah,0.0,0.0,42.30769230769231,INF,be know live
+Yoav,Leah,0.0,7.5,42.5,0.0,grow
+Yoav,Leah,0.0,0.0,31.25,INF,send
+Yoav,Leah,0.0,0.0,31.25,INF,send
+Yoav,Leah,0.0,0.3205128205128205,50.96153846153846,0.0,take meet
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Leah,Yoav,2.0454545454545454,1.8181818181818181,48.86363636363637,1.125,travel rest hurtle hold
+Yoav,Leah,0.8064516129032258,0.0,66.93548387096774,INF,begin have flee decide return
+Yoav,Leah,0.8064516129032258,0.0,66.93548387096774,INF,begin have flee decide return
+Yoav,Leah,2.272727272727273,0.3787878787878788,60.984848484848484,6.0,travel come carry have love
+Leah,Yoav,2.272727272727273,0.3787878787878788,60.984848484848484,6.0,travel come carry have love
+Leah,Yoav,2.272727272727273,0.3787878787878788,60.984848484848484,6.0,travel come carry have love
+Yoav,Leah,3.8461538461538463,3.8461538461538463,46.15384615384615,1.0,enjoy be allow change
+Yoav,Leah,3.0660377358490565,3.5377358490566038,48.113207547169814,0.8666666666666667,live try cajole go be rebuff begin spread be have
+Leah,Yoav,3.0660377358490565,3.5377358490566038,48.113207547169814,0.8666666666666667,live try cajole go be rebuff begin spread be have
+Leah,Yoav,3.0660377358490565,3.5377358490566038,48.113207547169814,0.8666666666666667,live try cajole go be rebuff begin spread be have
+Leah,Yoav,3.0660377358490565,3.5377358490566038,48.113207547169814,0.8666666666666667,live try cajole go be rebuff begin spread be have
+Monsieur Boulier,Leah,1.8333333333333333,1.0,50.5,1.8333333333333333,clear try approach retreat approach fall cough ask hold be rescue rush restore return tell know
+Monsieur Boulier,Leah,1.8333333333333333,1.0,50.5,1.8333333333333333,clear try approach retreat approach fall cough ask hold be rescue rush restore return tell know
+Yeats,A. L. Plummer,1.5909090909090908,0.0,47.5,INF,describe order have reject
+Yeats,A. L. Plummer,1.5909090909090908,0.0,47.5,INF,describe order have reject
+Leah,Bogna,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Leah,Yoav,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Bogna,Leah,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Bogna,Yoav,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Bogna,Leah,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Leah,Yoav,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Yoav,Leah,1.7543859649122806,1.7543859649122806,47.368421052631575,1.0,wear come clean have drop come seem
+Yoav,Leah,6.25,0.0,48.75,INF,understand have
+Yoav,Leah,5.921052631578947,5.592105263157895,35.85526315789473,1.0588235294117647,come know master move
+Yoav,Leah,0.2976190476190476,0.8928571428571428,48.80952380952381,0.3333333333333333,begin spend make see treat pass constitute
+Yoav,Leah,1.7500000000000002,0.25,56.00000000000001,7.0,take be bring consider know begin think call borrow
+Leah,Yoav,2.272727272727273,0.5681818181818182,51.70454545454546,4.0,meet be intimidate hold
+Leah,Yoav,2.272727272727273,0.5681818181818182,51.70454545454546,4.0,meet be intimidate hold
+Yoav,Leah,2.1551724137931036,0.0,53.01724137931034,INF,refer speak
+Yoav,Leah,2.1551724137931036,0.0,53.01724137931034,INF,refer speak
+Leah,Yoav,2.1551724137931036,0.0,53.01724137931034,INF,refer speak
+Leah,Yoav,2.1551724137931036,0.0,53.01724137931034,INF,refer speak
+Leah,Yoav,0.25510204081632654,0.25510204081632654,58.673469387755105,1.0,get go hang find rig
+Yoav,Leah,0.25510204081632654,0.25510204081632654,58.673469387755105,1.0,get go hang find rig
+Yoav,Leah,2.0,0.0,66.0,INF,claim have help have go come be
+Yoav,Leah,2.0,0.0,66.0,INF,claim have help have go come be
+Leah,Yoav,2.0,0.0,66.0,INF,claim have help have go come be
+Leah,Yoav,2.0,0.0,66.0,INF,claim have help have go come be
+Leah,Yoav,2.430555555555556,2.083333333333333,59.375,1.1666666666666667,ask have do reply sound ring
+Yoav,Leah,0.0,0.0,50.0,INF,be
+Yoav,Leah,7.5,0.0,22.5,INF,suit
+Leah,Yoav,1.7857142857142856,3.571428571428571,37.5,0.5,seem understand stand
+Yoav,Leah,1.7857142857142856,3.571428571428571,37.5,0.5,seem understand stand
+Yoav,Leah,1.7857142857142856,3.571428571428571,37.5,0.5,seem understand stand
+Bogna,Leah,2.272727272727273,0.0,52.27272727272727,INF,have do
+Leah,Yoav,0.9615384615384616,0.0,49.03846153846153,INF,be pay have answer be appear
+Leah,Yoav,0.9615384615384616,0.0,49.03846153846153,INF,be pay have answer be appear
+Leah,Yoav,0.9615384615384616,0.0,49.03846153846153,INF,be pay have answer be appear
+Yoav,Leah,2.840909090909091,4.545454545454546,38.06818181818182,0.625,seem disappear punish
+Yoav,Leah,0.0,0.0,46.875,INF,go see sit
+Leah,Yoav,1.6304347826086956,0.0,48.369565217391305,INF,watch rent read practice get open read
+Leah,Amichai,1.6304347826086956,0.0,48.369565217391305,INF,watch rent read practice get open read
+Yoav,Amichai,1.6304347826086956,0.0,48.369565217391305,INF,watch rent read practice get open read
+Yoav,Leah,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,time ask assist show travel pick have acquire attend
+Leah,Yoav,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,time ask assist show travel pick have acquire attend
+Leah,Yoav,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,time ask assist show travel pick have acquire attend
+Leah,Yoav,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,time ask assist show travel pick have acquire attend
+Leah,Yoav,1.3020833333333335,1.5625,53.385416666666664,0.8333333333333334,time ask assist show travel pick have acquire attend
+Yoav,Amichai,3.6764705882352944,0.7352941176470588,36.76470588235294,5.0,slide talk want go see be
+Yoav,Amichai,1.7361111111111112,0.6944444444444444,58.68055555555556,2.5,tell be use point walk carry
+Yoav,Amichai,1.7361111111111112,0.6944444444444444,58.68055555555556,2.5,tell be use point walk carry
+Yoav,Amichai,1.7361111111111112,0.6944444444444444,58.68055555555556,2.5,tell be use point walk carry
+Amichai,Yoav,1.7361111111111112,0.6944444444444444,58.68055555555556,2.5,tell be use point walk carry
+Leclercq,Himmler,2.604166666666667,1.0416666666666665,58.854166666666664,2.5,extend be paralyze respond struggle be recall remind be clench begin spread do realize be
+Leclercq,Himmler,2.604166666666667,1.0416666666666665,58.854166666666664,2.5,extend be paralyze respond struggle be recall remind be clench begin spread do realize be
+Leclercq,Himmler,2.604166666666667,1.0416666666666665,58.854166666666664,2.5,extend be paralyze respond struggle be recall remind be clench begin spread do realize be
+Yoav,Leclercq,3.4482758620689653,5.172413793103448,46.55172413793103,0.6666666666666666,try catch tell be follow
+Yoav,Leclercq,3.4482758620689653,5.172413793103448,46.55172413793103,0.6666666666666666,try catch tell be follow
+Leclercq,Yoav,1.5957446808510638,1.0638297872340425,50.53191489361703,1.5,feel turn begin speak tell plant
+Leclercq,Yoav,1.5957446808510638,1.0638297872340425,50.53191489361703,1.5,feel turn begin speak tell plant
+Yoav,Leclercq,1.5957446808510638,1.0638297872340425,50.53191489361703,1.5,feel turn begin speak tell plant
+Leclercq,Himmler,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Himmler,Yoav,2.166666666666667,1.5,59.0,1.4444444444444444,ask notice be laugh see have be say have notice press admit be squint
+Leclercq,Yoav,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,be know marry
+Leclercq,Yoav,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,be know marry
+Leclercq,Yoav,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,be know marry
+Leclercq,Yoav,0.5681818181818182,2.840909090909091,46.590909090909086,0.2,be know marry
+Leclercq,Himmler,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Leah,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Himmler,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Leah,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Himmler,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Leah,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Himmler,Leah,2.462121212121212,1.893939393939394,51.70454545454546,1.3,be slip crack have admit falter grow make be bear
+Leclercq,Yoav,1.7500000000000002,1.7500000000000002,58.5,1.0,seem have forget come mention be be be bring
+Leclercq,Yoav,1.7500000000000002,1.7500000000000002,58.5,1.0,seem have forget come mention be be be bring
+Yoav,Leclercq,4.044117647058823,5.147058823529411,43.75,0.7857142857142857,go get leave busy mutter have
+Brueghel,Leclercq,1.3157894736842104,0.0,67.10526315789474,INF,be have point
+Yoav,Gigi,0.0,0.0,45.0,INF,carry think
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Gigi,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Gigi,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Leclercq,Gigi,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Leclercq,Gigi,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Gigi,Leclercq,3.6157024793388426,0.8264462809917356,61.67355371900827,4.375,walk dangle emerge lead spill deposit have greet sway think be have navigate continue exhale
+Yoav,Leclercq,1.5625,0.0,48.4375,INF,retrace have take
+Leclercq,Gigi,0.872093023255814,0.0,54.94186046511628,INF,come think be have unlock show shift try handle
+Gigi,Yoav,2.1739130434782608,0.0,54.347826086956516,INF,lay watch
+Gigi,Yoav,0.0,2.0348837209302326,58.43023255813954,0.0,be make do be serve
+Gigi,Yoav,0.0,2.0348837209302326,58.43023255813954,0.0,be make do be serve
+Yoav,Leclercq,0.0,0.0,41.66666666666667,INF,ask turn
+Yoav,Leclercq,0.0,0.0,53.84615384615385,INF,be live say
+Leclercq,Yoav,2.403846153846154,0.0,59.13461538461539,INF,stand ask follow discuss be have come
+Leclercq,Yoav,2.403846153846154,0.0,59.13461538461539,INF,stand ask follow discuss be have come
+Yoav,Leah,2.5,2.083333333333333,45.416666666666664,1.2,follow have leave begin settle
+Yoav,Bogna,2.5,2.083333333333333,45.416666666666664,1.2,follow have leave begin settle
+Leah,Bogna,2.5,2.083333333333333,45.416666666666664,1.2,follow have leave begin settle
+Leah,Yoav,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Leah,Yoav,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Leah,Bogna,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Leah,Yoav,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Leah,Yoav,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Leah,Bogna,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Yoav,Bogna,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Yoav,Bogna,1.715686274509804,0.24509803921568626,54.90196078431373,7.0,be absorb learn be do begin study come go return
+Yoav,Leah,0.4166666666666667,0.8333333333333334,52.083333333333336,0.5,seem know be lift fly
+Leah,Yoav,0.6578947368421052,0.0,62.5,INF,be call say be arrive
+Yoav,Leah,0.0,3.6290322580645165,51.20967741935484,0.0,sweep become agitate come go
+Leah,Yoav,0.0,1.3392857142857142,66.51785714285714,0.0,stand hold walk handle
+Yoav,Leah,0.6578947368421052,3.9473684210526314,53.289473684210535,0.16666666666666666,be believe be wield
+Leah,Yoav,0.0,0.0,46.15384615384615,INF,take kiss
+Leah,Yoav,0.0,0.0,46.15384615384615,INF,take kiss
+Leah,Yoav,0.0,0.0,46.15384615384615,INF,take kiss
+Leah,Yoav,0.641025641025641,4.487179487179487,46.15384615384615,0.14285714285714285,speak turn have intrude assume hurry deny shake
+Leah,Yoav,0.641025641025641,4.487179487179487,46.15384615384615,0.14285714285714285,speak turn have intrude assume hurry deny shake
+Leah,Yoav,0.641025641025641,4.487179487179487,46.15384615384615,0.14285714285714285,speak turn have intrude assume hurry deny shake
+Leah,Yoav,0.0,0.0,53.333333333333336,INF,let go stop
+Leah,Yoav,5.0,6.25,38.75,0.8,wince take
+Leah,Yoav,0.0,0.0,40.0,INF,raise
+Yoav,Leah,0.0,0.0,58.333333333333336,INF,sit
+Leah,Yoav,5.729166666666666,1.3020833333333335,49.21875,4.4,strike seem know have understand have buy do lead
+Leah,Yoav,5.729166666666666,1.3020833333333335,49.21875,4.4,strike seem know have understand have buy do lead
+Leah,Yoav,5.729166666666666,1.3020833333333335,49.21875,4.4,strike seem know have understand have buy do lead
+Yoav,Leah,3.3333333333333335,3.3333333333333335,46.666666666666664,1.0,eat ask reply
+Leah,Yoav,3.3333333333333335,3.3333333333333335,46.666666666666664,1.0,eat ask reply
+Yoav,Leah,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,know be work
+Yoav,Leah,2.717391304347826,1.0869565217391304,57.065217391304344,2.5,know be work
+Leah,Amalia,1.4423076923076923,0.0,44.71153846153847,INF,ask have say be go
+Leah,Amalia,1.4423076923076923,0.0,44.71153846153847,INF,ask have say be go
+Leah,Amalia,1.4423076923076923,0.0,44.71153846153847,INF,ask have say be go
+Leah,Amalia,1.4423076923076923,0.0,44.71153846153847,INF,ask have say be go
+Leah,Amalia,1.4423076923076923,0.0,44.71153846153847,INF,ask have say be go
+Amalia,Leah,0.8620689655172413,4.310344827586207,56.896551724137936,0.2,have hear know go
+Yoav,Leah,1.9736842105263157,0.3289473684210526,45.06578947368421,6.0,have come be say be leave be wash comb
+Leah,Yoav,1.9736842105263157,0.3289473684210526,45.06578947368421,6.0,have come be say be leave be wash comb
+Leah,Yoav,1.9736842105263157,0.3289473684210526,45.06578947368421,6.0,have come be say be leave be wash comb
+Leah,Yoav,5.263157894736842,1.3157894736842104,30.263157894736842,4.0,satisfy turn ask
+Leah,Yoav,5.263157894736842,1.3157894736842104,30.263157894736842,4.0,satisfy turn ask
+Leah,Yoav,5.263157894736842,1.3157894736842104,30.263157894736842,4.0,satisfy turn ask
+Leah,Yoav,5.263157894736842,1.3157894736842104,30.263157894736842,4.0,satisfy turn ask
+Leah,Yoav,3.225806451612903,2.0161290322580645,56.048387096774185,1.6,make assure be go be
+Leah,Yoav,3.225806451612903,2.0161290322580645,56.048387096774185,1.6,make assure be go be
+Leah,Yoav,3.6585365853658534,4.878048780487805,54.87804878048781,0.75,watch spoon hold be fill be tell
+Leah,Yoav,3.6585365853658534,4.878048780487805,54.87804878048781,0.75,watch spoon hold be fill be tell
+Leah,Yoav,0.0,0.0,54.54545454545454,INF,wipe turn
+Leah,Yoav,2.604166666666667,2.083333333333333,61.979166666666664,1.25,repeat be try put know
+Leah,Yoav,2.604166666666667,2.083333333333333,61.979166666666664,1.25,repeat be try put know
+Leah,Yoav,4.605263157894736,2.631578947368421,53.289473684210535,1.75,be be word believe be wish uncover
+Yoav,Leah,0.4098360655737705,4.918032786885246,48.77049180327869,0.08333333333333333,speak fall be leave be hover wrong injure
+Yoav,Leah,0.4098360655737705,4.918032786885246,48.77049180327869,0.08333333333333333,speak fall be leave be hover wrong injure
+Yoav,Leah,0.0,0.0,60.0,INF,write leave get run
+Yoav,Leah,0.0,0.0,60.0,INF,write leave get run
+Leah,Yoav,1.5625,0.5208333333333333,47.91666666666667,3.0,be go fuck
+Beringer,Benny,1.1986301369863013,0.8561643835616438,58.21917808219178,1.4,give pick carry finger attach hold lay dream dream tell be model
+Beringer,Dovik,1.1986301369863013,0.8561643835616438,58.21917808219178,1.4,give pick carry finger attach hold lay dream dream tell be model
+Beringer,Benny,1.1986301369863013,0.8561643835616438,58.21917808219178,1.4,give pick carry finger attach hold lay dream dream tell be model
+Benny,Dovik,1.1986301369863013,0.8561643835616438,58.21917808219178,1.4,give pick carry finger attach hold lay dream dream tell be model
+Dovik,Benny,1.1986301369863013,0.8561643835616438,58.21917808219178,1.4,give pick carry finger attach hold lay dream dream tell be model
+Benny,Noa,0.26595744680851063,2.393617021276596,50.53191489361703,0.1111111111111111,develop take remind
+Benny,Noa,0.26595744680851063,2.393617021276596,50.53191489361703,0.1111111111111111,develop take remind
+Uri,Sinai,3.8461538461538463,0.9615384615384616,41.34615384615385,4.0,know have be send
+Noa,Benny,4.166666666666666,4.166666666666666,25.0,1.0,
+Lorca,Daniel,3.088235294117647,0.7352941176470588,59.705882352941174,4.2,have swoop have make chortle bite grin have escape become have rise have be abandon
+Daniel,Paul,3.0172413793103448,0.43103448275862066,44.827586206896555,7.0,raise refill toast kidnap
+Paul,Daniel,4.0476190476190474,3.0952380952380953,60.476190476190474,1.3076923076923077,remember sit have fall feel double have fall think fall need buy be be
+Paul,Daniel,4.0476190476190474,3.0952380952380953,60.476190476190474,1.3076923076923077,remember sit have fall feel double have fall think fall need buy be be
+Adam,Daniel,2.5735294117647056,3.6764705882352944,64.33823529411765,0.7,do forget be know be disappear
+Rafi,Adam,2.462121212121212,1.3257575757575757,55.3030303030303,1.8571428571428572,give need see wish take require have be offer
+Adam,Dina,4.53125,2.8125,52.65625000000001,1.6111111111111112,need deliver live have see like trust please send return be offer
+Rafi,Daniel,1.7857142857142856,0.8928571428571428,55.892857142857146,2.0,wonder be put haunt turn smile be turn be lay have change be
+Rafi,Daniel,1.7857142857142856,0.8928571428571428,55.892857142857146,2.0,wonder be put haunt turn smile be turn be lay have change be
+Daniel,Arab,1.9970414201183433,1.849112426035503,52.95857988165681,1.08,cling catch drive come know lead trail have be rip loom slam squint let stoop clutch pull wrap unravel be pull sweep sail be
+Daniel,Arab,1.9970414201183433,1.849112426035503,52.95857988165681,1.08,cling catch drive come know lead trail have be rip loom slam squint let stoop clutch pull wrap unravel be pull sweep sail be
+Adam,Daniel,2.8017241379310347,1.5086206896551724,64.65517241379311,1.8571428571428572,be carry contain plan play find be search have be
+Daniel,Adam,2.8017241379310347,1.5086206896551724,64.65517241379311,1.8571428571428572,be carry contain plan play find be search have be
+Daniel,Adam,2.8017241379310347,1.5086206896551724,64.65517241379311,1.8571428571428572,be carry contain plan play find be search have be
+Daniel,Adam,2.8017241379310347,1.5086206896551724,64.65517241379311,1.8571428571428572,be carry contain plan play find be search have be
+Adam,Daniel,2.82258064516129,0.4032258064516129,66.12903225806451,7.0,be go watch remove fold have live be school fold
+Adam,Daniel,2.82258064516129,0.4032258064516129,66.12903225806451,7.0,be go watch remove fold have live be school fold
+Adam,Daniel,2.82258064516129,0.4032258064516129,66.12903225806451,7.0,be go watch remove fold have live be school fold
+Adam,Daniel,2.82258064516129,0.4032258064516129,66.12903225806451,7.0,be go watch remove fold have live be school fold
+Daniel,Leah,1.9230769230769231,1.9230769230769231,59.23076923076923,1.0,lean feel be have do think say arrive have come take
+Daniel,Leah,1.9230769230769231,1.9230769230769231,59.23076923076923,1.0,lean feel be have do think say arrive have come take
+Ein Kerem,Adam,0.0,0.0,38.88888888888889,INF,arrive stop ask
+Rafi,Dina,2.083333333333333,2.083333333333333,37.5,1.0,bother be
+Dina,Rafi,1.4705882352941175,0.9803921568627451,62.254901960784316,1.5,tell say say turn hide seize collapse come wipe
+Dina,Rafi,1.4705882352941175,0.9803921568627451,62.254901960784316,1.5,tell say say turn hide seize collapse come wipe
+Dina,Rafi,1.4705882352941175,0.9803921568627451,62.254901960784316,1.5,tell say say turn hide seize collapse come wipe
+Dina,Rafi,1.4705882352941175,0.9803921568627451,62.254901960784316,1.5,tell say say turn hide seize collapse come wipe
+Dina,Rafi,1.4705882352941175,0.9803921568627451,62.254901960784316,1.5,tell say say turn hide seize collapse come wipe
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Rafi,Daniel,1.953125,1.66015625,54.19921875,1.1764705882352942,cluck swing pull think have bath have lift feel unwrap sing imagine slip be be imagine be be go
+Yoav,Leah,2.314814814814815,0.0,60.64814814814815,INF,say say come see pick
+Yoav,Leah,2.314814814814815,0.0,60.64814814814815,INF,say say come see pick
+Adam,Leah,0.0,0.0,58.82352941176471,INF,pull offer
+Leah,Adam,0.0,0.0,58.82352941176471,INF,pull offer
+Paul,Daniel,4.375,1.875,53.75,2.3333333333333335,clear ask think
+Paul,Daniel,4.375,1.875,53.75,2.3333333333333335,clear ask think
+Paul,Daniel,0.0,0.0,66.66666666666666,INF,survive meet know
+Paul,Daniel,2.127659574468085,2.393617021276596,52.92553191489362,0.8888888888888888,speak occur be have meet have be write
+Paul,Daniel,2.127659574468085,2.393617021276596,52.92553191489362,0.8888888888888888,speak occur be have meet have be write
+Paul,Daniel,2.127659574468085,2.393617021276596,52.92553191489362,0.8888888888888888,speak occur be have meet have be write
+Paul,Daniel,2.127659574468085,2.393617021276596,52.92553191489362,0.8888888888888888,speak occur be have meet have be write
+Daniel,Adam,5.405405405405405,4.054054054054054,58.108108108108105,1.3333333333333333,distract think torment let slip concentrate
+Adam,Gad,5.319148936170213,2.6595744680851063,62.23404255319149,2.0,have feel think get come be forget be fetch
+Adam,Gad,5.319148936170213,2.6595744680851063,62.23404255319149,2.0,have feel think get come be forget be fetch
+House,Adam,2.272727272727273,0.3787878787878788,48.86363636363637,6.0,be have have hear be go
+House,Adam,2.272727272727273,0.3787878787878788,48.86363636363637,6.0,be have have hear be go
+Lotte,Gottlieb,1.6304347826086956,0.0,67.93478260869566,INF,die have come see be get
+Slough,Lotte,0.6147540983606558,0.20491803278688525,63.114754098360656,3.0,reek gaze fold be have swing glimpse
+Lotte,Gottlieb,0.0,2.0,66.0,0.0,turn take fill find
+Heath,Gottlieb,0.6944444444444444,4.861111111111112,66.66666666666666,0.14285714285714285,set walk live
+Gottlieb,Lotte,4.6875,3.90625,50.78125,1.2,be say speak murder be exile
+Lotte,Gottlieb,0.78125,0.0,58.59375,INF,be tell discover be have keep
+Gottlieb,Lotte,2.8301886792452833,2.5943396226415096,58.72641509433962,1.0909090909090908,have be tell sit rise have be watch be talk leave
+Gottlieb,Lotte,2.8301886792452833,2.5943396226415096,58.72641509433962,1.0909090909090908,have be tell sit rise have be watch be talk leave
+Gottlieb,Lotte,4.910714285714286,1.5625,54.24107142857143,3.142857142857143,tell have take describe find feel know be
+Gottlieb,Lotte,2.232142857142857,0.0,58.48214285714286,INF,ask have arrive have live meet
+Lotte,Gottlieb,2.232142857142857,0.0,58.48214285714286,INF,ask have arrive have live meet
+Lotte,Gottlieb,2.232142857142857,0.0,58.48214285714286,INF,ask have arrive have live meet
+Lotte,Gottlieb,1.7857142857142856,0.0,55.35714285714286,INF,be want meet
+Lotte,Gottlieb,0.0,0.0,63.63636363636363,INF,become
+Lotte,Gottlieb,4.032258064516129,1.6129032258064515,52.41935483870967,2.5,do understand be move give
+Gottlieb,Lotte,0.0,0.6944444444444444,54.861111111111114,0.0,come discover give
+Daniel,Gottlieb,1.8518518518518516,1.3888888888888888,59.72222222222222,1.3333333333333333,do come understand be give
+Daniel,Gottlieb,3.571428571428571,3.571428571428571,50.0,1.0,move have be have grasp
+Gottlieb,Daniel,3.571428571428571,3.571428571428571,50.0,1.0,move have be have grasp
+Daniel,Gottlieb,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Daniel,Gottlieb,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Gottlieb,Daniel,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Gottlieb,Daniel,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Daniel,Gottlieb,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Gottlieb,Daniel,4.3478260869565215,2.1739130434782608,41.30434782608695,2.0,have wonder see give
+Gottlieb,Lotte,3.4574468085106385,1.8617021276595744,50.0,1.8571428571428572,be cut say take mean nod wish say be be make
+Gottlieb,Lotte,3.4574468085106385,1.8617021276595744,50.0,1.8571428571428572,be cut say take mean nod wish say be be make
+Gottlieb,Lotte,4.910714285714286,2.232142857142857,57.14285714285714,2.2,have take track have adopt find
+Elsie,John,0.0,0.0,20.0,INF,
+Elsie,Liverpool,0.2777777777777778,5.277777777777778,56.666666666666664,0.05263157894736842,separate imagine scrape dress light
+Elsie,Liverpool,0.2777777777777778,5.277777777777778,56.666666666666664,0.05263157894736842,separate imagine scrape dress light
+Lotte,Elsie,3.571428571428571,1.1904761904761905,52.38095238095239,3.0,be
+Lotte,Elsie,0.7692307692307693,0.9615384615384616,58.269230769230774,0.8,think place pull imagine pass flicker have say bind
+Lotte,Elsie,0.7692307692307693,0.9615384615384616,58.269230769230774,0.8,think place pull imagine pass flicker have say bind
+Gottlieb,Lotte,1.6666666666666667,1.875,49.791666666666664,0.8888888888888888,say hold lead return have try fail find
+Lotte,Mrs. Fiske,1.7857142857142856,0.0,55.35714285714286,INF,have keep
+Lotte,Mrs. Fiske,5.147058823529411,8.088235294117647,57.35294117647059,0.6363636363636364,have haunt have be allow intrude
+Mrs. Fiske,Lotte,5.147058823529411,8.088235294117647,57.35294117647059,0.6363636363636364,have haunt have be allow intrude
+Mr. Bender,Mrs. Fiske,0.0,4.861111111111112,67.36111111111111,0.0,do address
+Mrs. Fiske,John,2.0,2.25,51.74999999999999,0.8888888888888888,be call say look be frighten think see
+Mrs. Fiske,John,2.0,2.25,51.74999999999999,0.8888888888888888,be call say look be frighten think see
+Mrs. Fiske,John,3.431372549019608,2.450980392156863,50.98039215686274,1.4,explain say see have do do happen be dwell
+Mrs. Fiske,John,3.431372549019608,2.450980392156863,50.98039215686274,1.4,explain say see have do do happen be dwell
+Mrs. Fiske,Lotte,1.9230769230769231,1.7307692307692308,50.19230769230769,1.1111111111111112,leave close listen recede begin spin do occur be lie have belong
+Mrs. Fiske,Lotte,1.9230769230769231,1.7307692307692308,50.19230769230769,1.1111111111111112,leave close listen recede begin spin do occur be lie have belong
+Mrs. Fiske,Lotte,1.9230769230769231,1.7307692307692308,50.19230769230769,1.1111111111111112,leave close listen recede begin spin do occur be lie have belong
+Mrs. Fiske,Lotte,1.9230769230769231,1.7307692307692308,50.19230769230769,1.1111111111111112,leave close listen recede begin spin do occur be lie have belong
+Mr. Bender,Mrs. Fiske,0.0,0.0,50.0,INF,say
+Arthur,Mrs. Fiske,2.34375,3.90625,56.25,0.6,say call regret know be allow speak
+Arthur,Mrs. Fiske,2.34375,3.90625,56.25,0.6,say call regret know be allow speak
+Leah,Yoav,3.125,1.5625,45.3125,2.0,be say
+Mr. Bender,Lotte,0.0,0.0,63.63636363636363,INF,walk stand wait
+Mr. Bender,Lotte,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,look be have make
+Mr. Bender,Lotte,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,look be have make
+Mr. Bender,Lotte,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,look be have make
+Mr. Bender,Lotte,0.9615384615384616,0.4807692307692308,63.942307692307686,2.0,look be have make
+Leah,Yoav,3.125,0.0,46.875,INF,reach rub knead
+Leah,Yoav,3.125,0.0,46.875,INF,reach rub knead
+Leah,Yoav,3.125,0.0,46.875,INF,reach rub knead
+Yoav,Mr. Bender,0.0,4.166666666666666,54.166666666666664,0.0,imagine hound
+Mr. Bender,Leah,6.25,3.125,34.375,2.0,forget say lower
+Mr. Bender,Yoav,6.25,3.125,34.375,2.0,forget say lower
+Leah,Yoav,6.25,3.125,34.375,2.0,forget say lower
+Mr. Bender,ben Zakkai,0.8928571428571428,0.0,41.964285714285715,INF,be
+Yoav,ben Zakkai,4.761904761904762,1.7857142857142856,60.11904761904761,2.6666666666666665,be be besiege
+Yoav,Leah,0.0,0.0,57.89473684210527,INF,war stage say
+Yoav,Leah,0.0,0.0,57.89473684210527,INF,war stage say
+ben Zakkai,House,0.0,0.5434782608695652,58.152173913043484,0.0,become know burn burn
+House,ben Zakkai,0.0,0.5434782608695652,58.152173913043484,0.0,become know burn burn
+House,Leah,2.0,1.25,58.75,1.6,be put join be build say be
+Leah,House,2.0,1.25,58.75,1.6,be put join be build say be
+Yoav,Leah,5.833333333333333,3.75,40.416666666666664,1.5555555555555556,call answer call answer put sleep need know
+Yoav,Leah,5.833333333333333,3.75,40.416666666666664,1.5555555555555556,call answer call answer put sleep need know
+Leah,Yoav,5.833333333333333,3.75,40.416666666666664,1.5555555555555556,call answer call answer put sleep need know
+Leah,Yoav,5.833333333333333,3.75,40.416666666666664,1.5555555555555556,call answer call answer put sleep need know

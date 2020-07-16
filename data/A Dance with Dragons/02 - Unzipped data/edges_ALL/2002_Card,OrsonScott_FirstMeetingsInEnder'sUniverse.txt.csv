@@ -1,0 +1,750 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Ender,John Paul,1.7857142857142856,4.166666666666666,55.952380952380956,0.42857142857142855,book hate
+John Paul,Mother,3.205128205128205,2.2435897435897436,38.141025641025635,1.4285714285714286,do teach have teach tend be
+Mother,John Paul,3.205128205128205,2.2435897435897436,38.141025641025635,1.4285714285714286,do teach have teach tend be
+Anna,John Paul,3.787878787878788,0.3787878787878788,53.40909090909091,10.0,teach do seem try understand enable learn
+Anna,John Paul,3.787878787878788,0.3787878787878788,53.40909090909091,10.0,teach do seem try understand enable learn
+John Paul,Mother,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,try get tell learn concentrate
+Mother,John Paul,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,try get tell learn concentrate
+Mother,John Paul,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,try get tell learn concentrate
+Mother,John Paul,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,try get tell learn concentrate
+Mother,John Paul,1.6129032258064515,1.2096774193548387,58.46774193548387,1.3333333333333333,try get tell learn concentrate
+Mother,John Paul,5.625,0.0,54.37499999999999,INF,do realize read write
+Mother,John Paul,5.625,0.0,54.37499999999999,INF,do realize read write
+Mother,John Paul,2.976190476190476,0.0,58.92857142857143,INF,make recite be read
+Mother,John Paul,2.976190476190476,0.0,58.92857142857143,INF,make recite be read
+John Paul,Mother,1.5625,0.0,48.4375,INF,try tell read
+John Paul,Mother,1.5625,0.0,48.4375,INF,try tell read
+Mother,John Paul,0.0,1.9230769230769231,44.230769230769226,0.0,answer be
+John Paul,Mother,3.125,0.0,51.041666666666664,INF,do turn realize be
+Mother,John Paul,3.125,0.0,51.041666666666664,INF,do turn realize be
+John Paul,Mother,4.166666666666666,0.0,62.5,INF,be bear slow impress
+John Paul,Mother,4.166666666666666,0.0,62.5,INF,be bear slow impress
+John Paul,Mother,0.0,0.0,40.0,INF,do have do
+John Paul,Andrew,0.0,4.464285714285714,52.67857142857143,0.0,be play say be
+Peter,Catherine,0.0,0.0,56.25,INF,do go say
+Peter,John Paul,0.0,0.0,56.25,INF,do go say
+Catherine,John Paul,0.0,0.0,56.25,INF,do go say
+John Paul,Andrew,4.861111111111112,0.0,61.80555555555556,INF,want ask mean realize mean be ask have call
+John Paul,Andrew,4.861111111111112,0.0,61.80555555555556,INF,want ask mean realize mean be ask have call
+John Paul,Andrew,4.861111111111112,0.0,61.80555555555556,INF,want ask mean realize mean be ask have call
+John Paul,Andrew,4.861111111111112,0.0,61.80555555555556,INF,want ask mean realize mean be ask have call
+John Paul,Anna,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Andrew,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Peter,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Catherine,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Anna,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Andrew,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Peter,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Catherine,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Anna,Andrew,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Anna,Peter,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Anna,Catherine,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Anna,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Anna,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Andrew,Peter,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Andrew,Catherine,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Andrew,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Andrew,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Peter,Catherine,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Peter,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Peter,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Catherine,Nicholas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Catherine,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+Nicholas,Thomas,1.4705882352941175,0.7352941176470588,50.73529411764706,2.0,have learn have be overhear
+John Paul,Mother,2.0,4.0,57.99999999999999,0.5,see be talk shush
+John Paul,Mother,2.0,4.0,57.99999999999999,0.5,see be talk shush
+John Paul,Mother,0.1736111111111111,0.3472222222222222,64.75694444444444,0.5,be go be work tend try run go work be see
+Mother,Anna,1.5,3.25,55.25,0.46153846153846156,be ask be dress snap be go say ask
+Anna,Mother,1.5,3.25,55.25,0.46153846153846156,be ask be dress snap be go say ask
+Anna,Catherine,0.0,3.0303030303030303,60.60606060606061,0.0,be make flee end go
+Mother,Andrew,1.1904761904761905,0.0,65.47619047619048,INF,knock come have send run get
+Peter,Catherine,1.7857142857142856,0.0,55.35714285714286,INF,pass say
+Peter,Andrew,1.7857142857142856,0.0,55.35714285714286,INF,pass say
+Catherine,Andrew,1.7857142857142856,0.0,55.35714285714286,INF,pass say
+Anna,John Paul,2.232142857142857,1.3392857142857142,50.0,1.6666666666666667,do work take be get go come storm quarrel be
+Anna,John Paul,2.232142857142857,1.3392857142857142,50.0,1.6666666666666667,do work take be get go come storm quarrel be
+John Paul,Anna,2.232142857142857,1.3392857142857142,50.0,1.6666666666666667,do work take be get go come storm quarrel be
+Nicholas,Thomas,5.357142857142857,3.571428571428571,38.69047619047619,1.5,assume be be be
+Nicholas,Andrew,5.357142857142857,3.571428571428571,38.69047619047619,1.5,assume be be be
+Thomas,Andrew,5.357142857142857,3.571428571428571,38.69047619047619,1.5,assume be be be
+Peter,Catherine,1.6304347826086956,0.5434782608695652,50.0,3.0,be want take be be give
+Andrew,Nicholas,0.0,0.0,62.5,INF,do think carry kill
+Thomas,John Paul,1.3888888888888888,0.0,76.38888888888889,INF,be be do look have see
+Thomas,John Paul,1.3888888888888888,0.0,76.38888888888889,INF,be be do look have see
+Thomas,John Paul,1.3888888888888888,0.0,76.38888888888889,INF,be be do look have see
+Mother,John Paul,1.4423076923076923,0.0,56.25,INF,look look seem give
+Mother,Peter,1.3888888888888888,9.027777777777777,39.58333333333333,0.15384615384615385,wish have
+Mother,Catherine,1.3888888888888888,9.027777777777777,39.58333333333333,0.15384615384615385,wish have
+Peter,Catherine,1.3888888888888888,9.027777777777777,39.58333333333333,0.15384615384615385,wish have
+John Paul,Mother,1.3157894736842104,3.9473684210526314,52.63157894736842,0.3333333333333333,ask go read give
+John Paul,Mother,1.3157894736842104,3.9473684210526314,52.63157894736842,0.3333333333333333,ask go read give
+Mother,John Paul,0.0,7.758620689655173,43.96551724137931,0.0,assume mean say mean
+Mother,John Paul,2.7777777777777777,0.0,63.888888888888886,INF,have forbid enter be go do prevent sit read listen
+Mother,John Paul,2.7777777777777777,0.0,63.888888888888886,INF,have forbid enter be go do prevent sit read listen
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul II,John Paul,5.89622641509434,1.8867924528301887,58.25471698113207,3.125,be have be name be fascinate be get be do like
+John Paul,Andrew,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+John Paul,Mother,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+Andrew,John Paul,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+Andrew,John Paul,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+Andrew,Mother,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+John Paul,Mother,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+John Paul,Mother,4.310344827586207,1.293103448275862,53.01724137931034,3.3333333333333335,be finish be ask take speak
+Mother,John Paul,0.0,0.0,60.0,INF,glare
+John Paul,Mother,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,say be go read say
+John Paul,Mother,1.4705882352941175,3.6764705882352944,53.67647058823529,0.4,say be go read say
+John Paul,Mother,1.0416666666666665,0.0,48.95833333333333,INF,be hear say
+John Paul,Mother,2.1551724137931036,0.8620689655172413,55.603448275862064,2.5,see be go give do bother say try influence
+Mother,John Paul,2.1551724137931036,0.8620689655172413,55.603448275862064,2.5,see be go give do bother say try influence
+John Paul II,John Paul,0.8928571428571428,0.0,63.39285714285714,INF,do think be say
+John Paul II,John Paul,0.8928571428571428,0.0,63.39285714285714,INF,do think be say
+John Paul II,John Paul,2.272727272727273,2.272727272727273,59.09090909090909,1.0,be brave say
+John Paul,Helena,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,be say
+Rudolf,Sillain,2.34375,0.0,28.90625,INF,be say
+Mother,John Paul,1.5151515151515151,1.893939393939394,60.22727272727273,0.8,have make beg want suck chew last last
+Mother,John Paul,1.5151515151515151,1.893939393939394,60.22727272727273,0.8,have make beg want suck chew last last
+Mother,John Paul,1.0416666666666665,10.416666666666668,63.541666666666664,0.1,fool
+Sillain,John Paul,0.0,0.0,41.66666666666667,INF,listen say turn
+John Paul,Sillain,0.0,0.0,57.14285714285714,INF,turn
+John Paul,Sillain,3.4090909090909087,0.0,42.04545454545455,INF,know say
+Sillain,Helena,3.125,0.0,38.54166666666667,INF,have see
+Sillain,John Paul,2.272727272727273,0.0,34.090909090909086,INF,have watch
+Helena,Sillain,6.25,8.59375,41.40625,0.7272727272727273,enjoy hate have watch manipulate
+Helena,Sillain,3.3333333333333335,0.8333333333333334,42.5,4.0,want say
+Chamrajnagar,Graff,2.6785714285714284,4.464285714285714,35.714285714285715,0.6,be say
+Helena,Rudolf,4.464285714285714,3.125,49.55357142857143,1.4285714285714286,be stay go test
+Chamrajnagar,Sillain,0.0,2.976190476190476,39.88095238095239,0.0,think say carry
+Helena,Sillain,2.857142857142857,0.7142857142857143,47.85714285714286,4.0,want smile say be accord have be compromise say
+Helena,Chamrajnagar,2.857142857142857,0.7142857142857143,47.85714285714286,4.0,want smile say be accord have be compromise say
+Helena,Sillain,2.857142857142857,0.7142857142857143,47.85714285714286,4.0,want smile say be accord have be compromise say
+Helena,Chamrajnagar,2.857142857142857,0.7142857142857143,47.85714285714286,4.0,want smile say be accord have be compromise say
+Sillain,Chamrajnagar,2.857142857142857,0.7142857142857143,47.85714285714286,4.0,want smile say be accord have be compromise say
+Sillain,Graff,6.25,0.0,38.19444444444444,INF,be careerist know hand ask
+Helena,Graff,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,know have be seethe show
+Helena,Chamrajnagar,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,know have be seethe show
+Helena,Graff,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,know have be seethe show
+Graff,Chamrajnagar,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,know have be seethe show
+Chamrajnagar,Graff,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,know have be seethe show
+Sillain,Graff,0.9615384615384616,2.8846153846153846,42.30769230769231,0.3333333333333333,ask remain say
+Chamrajnagar,Battle School,0.4032258064516129,0.0,51.20967741935484,INF,think say have demonstrate have
+Magda,John Paul,0.0,2.5,37.5,0.0,answer hear
+John Paul,Magda,3.125,1.5625,57.8125,2.0,silence be
+Graff,Mother,5.208333333333334,2.083333333333333,59.375,2.5,gaze skip
+Graff,Mother,5.208333333333334,2.083333333333333,59.375,2.5,gaze skip
+Graff,Magda,5.208333333333334,2.083333333333333,59.375,2.5,gaze skip
+Mother,Magda,5.208333333333334,2.083333333333333,59.375,2.5,gaze skip
+Mother,Magda,5.208333333333334,2.083333333333333,59.375,2.5,gaze skip
+Graff,John Paul,0.0,0.0,63.63636363636363,INF,turn look
+Graff,John Paul,0.0,0.0,63.63636363636363,INF,turn look
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Mother,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Mother,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Graff,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+John Paul,Mother,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+Graff,Mother,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+Graff,Mother,3.75,2.5,60.416666666666664,1.5,think say get gaze turn
+Graff,John Paul,0.0,0.0,50.0,INF,beckon
+Graff,Battle School,7.5,2.5,40.0,3.0,begin explain
+Graff,Battle School,7.5,2.5,40.0,3.0,begin explain
+Graff,John Paul,5.208333333333334,0.0,53.125,INF,do answer study
+Graff,John Paul,1.3888888888888888,0.0,54.166666666666664,INF,have suggest say
+Graff,Rudolf,2.8846153846153846,0.0,50.96153846153846,INF,look
+Graff,John Paul,2.8846153846153846,0.0,50.96153846153846,INF,look
+Rudolf,John Paul,2.8846153846153846,0.0,50.96153846153846,INF,look
+Mother,John Paul,0.0,2.7777777777777777,75.0,0.0,rub
+John Paul,Graff,3.571428571428571,0.0,67.85714285714286,INF,look
+Graff,John Paul,3.125,4.6875,42.1875,0.6666666666666666,give need
+John Paul,Battle School,6.25,0.0,56.25,INF,have think be turn help
+John Paul,Battle School,6.25,0.0,56.25,INF,have think be turn help
+Battle School,John Paul,6.25,0.0,56.25,INF,have think be turn help
+John Paul,Mother,2.8846153846153846,0.4807692307692308,50.480769230769226,6.0,feel stiffen gasp
+John Paul,Mother,2.8846153846153846,0.4807692307692308,50.480769230769226,6.0,feel stiffen gasp
+John Paul,Mother,2.8846153846153846,0.4807692307692308,50.480769230769226,6.0,feel stiffen gasp
+John Paul,Mother,2.8846153846153846,0.4807692307692308,50.480769230769226,6.0,feel stiffen gasp
+Battle School,Graff,2.6785714285714284,1.7857142857142856,38.392857142857146,1.5,do go say be do
+John Paul,Graff,1.7857142857142856,0.0,69.64285714285714,INF,look
+Graff,Battle School,1.5151515151515151,0.7575757575757576,46.21212121212121,2.0,say be try get agree come face
+John Paul,Graff,1.1363636363636365,4.545454545454546,48.86363636363637,0.25,know be do
+Graff,John Paul,7.6923076923076925,0.0,53.84615384615385,INF,realize want show
+Graff,John Paul,7.6923076923076925,0.0,53.84615384615385,INF,realize want show
+Graff,John Paul,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,speak gaze
+Graff,John Paul,4.807692307692308,1.9230769230769231,54.807692307692314,2.5,speak gaze
+John Paul,Graff,0.0,1.3157894736842104,35.526315789473685,0.0,say do want go
+Graff,John Paul,5.769230769230769,1.9230769230769231,61.53846153846154,3.0,be have goad understand
+John Paul,Graff,4.761904761904762,3.571428571428571,53.57142857142857,1.3333333333333333,make have go decide
+Mother,John Paul,0.0,0.0,50.0,INF,turn
+Graff,John Paul,0.4464285714285714,0.8928571428571428,55.80357142857143,0.5,look raise say have remove do want
+Graff,John Paul,0.0,7.142857142857142,50.0,0.0,know do bother deny
+Graff,John Paul,0.0,0.0,60.0,INF,be walk be ask
+John Paul,Battle School,10.9375,1.5625,56.25,7.0,be get
+John Paul,Andrew,1.3888888888888888,0.0,59.72222222222222,INF,remind have say be teach play
+Andrew,John Paul,1.3888888888888888,0.0,59.72222222222222,INF,remind have say be teach play
+Andrew,John Paul,1.3888888888888888,0.0,59.72222222222222,INF,remind have say be teach play
+John Paul,Andrew,5.208333333333334,1.0416666666666665,77.08333333333334,5.0,understand explain
+Graff,John Paul,0.0,0.0,61.111111111111114,INF,mean be lie cheat
+Graff,John Paul,0.0,0.0,61.111111111111114,INF,mean be lie cheat
+Graff,Helena,4.6875,3.125,42.1875,1.5,be speak
+Rudolf,Graff,3.225806451612903,0.8064516129032258,41.12903225806452,4.0,say see see be get
+John Paul,Battle School,3.9473684210526314,3.289473684210526,40.131578947368425,1.2,do make go
+John Paul,I.F.,1.1904761904761905,2.976190476190476,38.69047619047619,0.4,be indoctrinate
+Battle School,Graff,1.0416666666666665,0.0,40.625,INF,be think say
+John Paul,Battle School,2.7777777777777777,3.4722222222222223,65.97222222222221,0.8,be be go change
+Graff,Helena,0.0,0.78125,49.21875,0.0,clap walk wait
+Graff,Helena,0.0,0.78125,49.21875,0.0,clap walk wait
+Ms. Brown,John Paul,1.9230769230769231,2.8846153846153846,49.03846153846153,0.6666666666666666,be say
+Ms. Brown,John Paul,3.5000000000000004,1.5,59.0,2.3333333333333335,walk wipe have blow cut
+Ms. Brown,John Paul,5.357142857142857,0.0,51.78571428571429,INF,turn
+John Paul,Ms. Brown,1.5625,1.953125,71.484375,0.8,be make go make be be let play question
+John Paul,Ms. Brown,1.5625,1.953125,71.484375,0.8,be make go make be be let play question
+John Paul,Ms. Brown,1.5625,1.953125,71.484375,0.8,be make go make be be let play question
+John Paul,Theresa,0.8928571428571428,4.464285714285714,80.35714285714286,0.2,watch field riff
+John Paul,Theresa,5.978260869565218,4.3478260869565215,50.54347826086957,1.375,realize be be put like
+Theresa,John Paul,5.978260869565218,4.3478260869565215,50.54347826086957,1.375,realize be be put like
+Theresa,John Paul,0.0,0.0,40.0,INF,look
+Mr. Wiggin,Ms. Brown,0.0,0.0,36.36363636363637,INF,enlighten say
+Ms. Brown,John Paul,2.9166666666666665,3.75,53.333333333333336,0.7777777777777778,name say know be go oppose
+Ms. Brown,John Paul,2.083333333333333,0.0,47.91666666666667,INF,look
+International Fleet,I.F.,1.0714285714285714,1.7857142857142856,51.42857142857142,0.6,be resign go refuse go
+International Fleet,Hinckley Brown,1.0714285714285714,1.7857142857142856,51.42857142857142,0.6,be resign go refuse go
+I.F.,Hinckley Brown,1.0714285714285714,1.7857142857142856,51.42857142857142,0.6,be resign go refuse go
+Theresa,Ms. Brown,3.8461538461538463,5.769230769230769,44.230769230769226,0.6666666666666666,let carry
+Theresa,Andrew,0.0,0.0,62.5,INF,be be
+Theresa,Dr. Howell,0.0,3.125,34.375,0.0,say
+Theresa,Dr. Howell,1.5,1.0,33.5,1.5,tell get tell say
+Theresa,Dr. Howell,3.3783783783783785,2.7027027027027026,45.27027027027027,1.25,shake accept hug whisper have be
+Theresa,Dr. Howell,3.3783783783783785,2.7027027027027026,45.27027027027027,1.25,shake accept hug whisper have be
+Theresa,Dr. Howell,3.3783783783783785,2.7027027027027026,45.27027027027027,1.25,shake accept hug whisper have be
+Dr. Howell,Theresa,3.3783783783783785,2.7027027027027026,45.27027027027027,1.25,shake accept hug whisper have be
+John Paul,Theresa,1.3392857142857142,0.0,62.94642857142857,INF,spot cross make be lean
+Andrew,Theresa,0.0,0.0,14.285714285714285,INF,say
+Ms. Brown,John Paul,0.0,0.0,36.36363636363637,INF,walk
+Ms. Brown,John Paul,0.0,10.0,30.0,0.0,face
+Ms. Brown,John Paul,5.681818181818182,4.545454545454546,44.31818181818182,1.25,say do want talk
+Ms. Brown,John Paul,0.0,5.263157894736842,47.368421052631575,0.0,say be go go
+Ms. Brown,John Paul,0.0,4.166666666666666,51.388888888888886,0.0,say
+Theresa,John Paul Wiggin,1.5625,0.0,48.4375,INF,know be look
+Theresa,John Paul Wiggin,1.5625,0.0,48.4375,INF,know be look
+Theresa,John Paul Wiggin,1.5625,0.0,48.4375,INF,know be look
+John Paul Wiggin,Theresa,7.142857142857142,1.7857142857142856,62.5,4.0,have say be intrigue
+John Paul Wiggin,Theresa,7.142857142857142,1.7857142857142856,62.5,4.0,have say be intrigue
+John Paul Wiggin,Theresa,2.5,2.5,51.0,1.0,look be do fret be do
+John Paul Wiggin,Theresa,2.5,2.5,51.0,1.0,look be do fret be do
+Brian,Andrew,4.807692307692308,0.0,49.03846153846153,INF,name
+Brian,Andrew,4.807692307692308,0.0,49.03846153846153,INF,name
+Andrew,John Paul,2.083333333333333,1.0416666666666665,30.208333333333332,2.0,be be
+Theresa,John Paul,5.357142857142857,1.1904761904761905,55.35714285714286,4.5,ask suspect find say be
+Theresa,John Paul,5.357142857142857,1.1904761904761905,55.35714285714286,4.5,ask suspect find say be
+Theresa,John Paul,6.25,0.0,33.75,INF,find touch
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+John Paul,Theresa,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+John Paul,Theresa,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+John Paul,Theresa,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,4.924242424242424,5.681818181818182,28.78787878787879,0.8666666666666667,tell be flatter lead do have
+Theresa,John Paul,0.0,1.4705882352941175,39.705882352941174,0.0,say be
+John Paul,Theresa,0.625,0.625,48.75,1.0,get lean kiss
+John Paul,Theresa,0.625,0.625,48.75,1.0,get lean kiss
+John Paul,Theresa,0.625,0.625,48.75,1.0,get lean kiss
+John Paul,Theresa,0.625,0.625,48.75,1.0,get lean kiss
+John Paul,Theresa,0.0,0.0,60.0,INF,kiss
+Theresa,John Paul,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+Theresa,John Paul,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+John Paul,Theresa,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+John Paul,Theresa,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+John Paul,Theresa,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+Theresa,John Paul,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+Theresa,John Paul,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+Theresa,John Paul,6.666666666666667,2.2222222222222223,48.888888888888886,3.0,be do be do know be yield kiss
+John Paul,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+John Paul,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+John Paul,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+John Paul,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+John Paul,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+John Paul,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Andrew,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Andrew,Theresa,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Theresa,Andrew,2.976190476190476,1.5873015873015872,43.05555555555556,1.875,come pay tip lean try think have happen be happen happen
+Graff,Ender,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,stroke lean
+Graff,Ender,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,stroke lean
+Graff,Ender,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,stroke lean
+Ender,Anderson,2.083333333333333,0.0,81.25,INF,sit be point
+Anderson,Graff,0.0,0.0,70.0,INF,lean
+Anderson,Graff,4.166666666666666,0.0,54.166666666666664,INF,have reach call
+Anderson,Graff,4.166666666666666,0.0,54.166666666666664,INF,have reach call
+Anderson,Graff,4.6875,0.0,32.8125,INF,say
+Graff,Anderson,0.0,6.25,63.74999999999999,0.0,sit look
+Ender,Dragon Army,3.4722222222222223,1.3888888888888888,50.69444444444444,2.5,think smile be go take
+Dragon Army,Rabbit Army,0.0,0.0,25.0,INF,
+Dragon Army,Ender,0.0,0.0,25.0,INF,
+Dragon Army,Carn Carby,0.0,0.0,25.0,INF,
+Rabbit Army,Ender,0.0,0.0,25.0,INF,
+Rabbit Army,Carn Carby,0.0,0.0,25.0,INF,
+Ender,Carn Carby,0.0,0.0,25.0,INF,
+Ender,Dragon Army,3.1818181818181817,1.5909090909090908,58.86363636363636,2.0,fly lay protect reach have lose do impair
+Ender,Carn Carby,0.0,0.7352941176470588,46.32352941176471,0.0,be assess
+Ender,Carn Carby,0.0,0.7352941176470588,46.32352941176471,0.0,be assess
+Carn Carby,Ender,3.125,3.125,56.25,1.0,have be have think
+Ender,Dragon Army,3.125,0.78125,61.71875,4.0,take go reverse touch
+Ender,Dragon Army,3.125,0.78125,61.71875,4.0,take go reverse touch
+Ender,Rabbit Army,2.2058823529411766,0.0,68.38235294117648,INF,assemble
+Ender,Rabbit Army,2.2058823529411766,0.0,68.38235294117648,INF,assemble
+Dragon Army,Ender,7.5,5.0,47.5,1.5,join laugh
+Anderson,Morris,1.0869565217391304,0.5434782608695652,50.54347826086957,2.0,be laugh come
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Anderson,Ender,5.592105263157895,0.6578947368421052,54.276315789473685,8.5,keep see wink hold offer be give
+Morris,Carn Carby,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Morris,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Morris,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Carn Carby,Morris,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Carn Carby,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Carn Carby,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Morris,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Morris,Ender,1.7857142857142856,3.125,34.375,0.5714285714285714,find unfreeze come present laugh hold
+Carn Carby,Ender,6.730769230769231,0.0,47.11538461538461,INF,take bow
+Carn Carby,Ender,6.730769230769231,0.0,47.11538461538461,INF,take bow
+Anderson,Dragon Army,0.5208333333333333,0.0,53.645833333333336,INF,dismiss leave
+Ender,Rabbit Army,0.0,0.0,55.55555555555556,INF,look
+Ender,Carn Carby,5.921052631578947,0.6578947368421052,51.31578947368421,9.0,be surprise find be
+Carn Carby,Ender,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,be look
+Ender,Dragon Army,4.651162790697675,4.651162790697675,37.2093023255814,1.0,smile know be mean hate mean go be scare
+Ender,Dragon Army,4.651162790697675,4.651162790697675,37.2093023255814,1.0,smile know be mean hate mean go be scare
+Ender,Dragon Army,4.651162790697675,4.651162790697675,37.2093023255814,1.0,smile know be mean hate mean go be scare
+Ender,Carn Carby,0.7352941176470588,5.147058823529411,41.17647058823529,0.14285714285714285,look find
+Carn Carby,Ender,0.7352941176470588,5.147058823529411,41.17647058823529,0.14285714285714285,look find
+Ender,Carn Carby,1.9736842105263157,3.289473684210526,47.368421052631575,0.6,stare nudge point
+Carn Carby,Ender,1.9736842105263157,3.289473684210526,47.368421052631575,0.6,stare nudge point
+Carn Carby,Ender,2.7777777777777777,2.083333333333333,39.58333333333333,1.3333333333333333,turn lean begin eat
+Carn Carby,Ender,2.7777777777777777,2.083333333333333,39.58333333333333,1.3333333333333333,turn lean begin eat
+Anderson,Ender,0.0,1.4705882352941175,57.35294117647059,0.0,stride whisper
+Anderson,Ender,0.0,1.4705882352941175,57.35294117647059,0.0,stride whisper
+Anderson,Ender,4.807692307692308,4.807692307692308,51.92307692307693,1.0,become leave
+Graff,Anderson,0.0,0.0,57.14285714285714,INF,nod sit
+Graff,Ender,0.0,0.0,42.857142857142854,INF,clear speak
+Graff,Ender,0.0,0.0,25.0,INF,ask
+Ender,Anderson,5.0,0.0,48.333333333333336,INF,glance speak
+Graff,Ender,0.0,0.0,42.857142857142854,INF,look
+Anderson,Graff,0.0,0.0,60.0,INF,look
+Graff,Ender,0.0,1.5625,35.9375,0.0,shrug turn
+Graff,Ender,0.0,0.0,45.45454545454545,INF,ring stop hand
+Graff,Ender,0.0,0.0,45.45454545454545,INF,ring stop hand
+Dragon Army,Leopard Army,0.0,0.0,31.25,INF,
+Dragon Army,Ender,0.0,0.0,31.25,INF,
+Dragon Army,Pol Slattery,0.0,0.0,31.25,INF,
+Leopard Army,Ender,0.0,0.0,31.25,INF,
+Leopard Army,Pol Slattery,0.0,0.0,31.25,INF,
+Ender,Pol Slattery,0.0,0.0,31.25,INF,
+Ender,Graff,5.357142857142857,0.0,51.78571428571429,INF,look
+Ender,Pol Slattery,4.891304347826087,1.0869565217391304,63.58695652173913,4.5,leave realize be have be hand leave
+Ender,Pol Slattery,4.891304347826087,1.0869565217391304,63.58695652173913,4.5,leave realize be have be hand leave
+Pol Slattery,Ender,4.891304347826087,1.0869565217391304,63.58695652173913,4.5,leave realize be have be hand leave
+Pol Slattery,Ender,4.891304347826087,1.0869565217391304,63.58695652173913,4.5,leave realize be have be hand leave
+Leopard Army,Ender,2.7777777777777777,1.9444444444444444,50.83333333333333,1.4285714285714286,be lay press float arm carve
+Ender,Anderson,0.0,6.25,63.74999999999999,0.0,glance be float
+Pol Slattery,Ender,8.75,0.0,31.25,INF,grin grip
+Ender,Anderson,1.3888888888888888,0.0,54.166666666666664,INF,do smile
+Dragon Army,Griffin Army,0.0,2.840909090909091,51.70454545454546,0.0,be deliver trot
+Ender,Griffin Army,0.0,0.0,58.82352941176471,INF,drop tell be situate
+William Bee,Griffin Army,0.6944444444444444,0.0,54.861111111111114,INF,wait approach wait be become
+William Bee,Griffin Army,0.6944444444444444,0.0,54.861111111111114,INF,wait approach wait be become
+Dragon Army,Griffin Army,1.5151515151515151,0.7575757575757576,70.45454545454545,2.0,be move hold be hook
+Griffin Army,William Bee,2.380952380952381,1.7857142857142856,62.5,1.3333333333333333,be win concentrate approach
+Ender,Anderson,2.5,0.0,37.5,INF,call break
+Ender,Anderson,0.0,3.125,30.208333333333332,0.0,be say
+William Bee,Griffin Army,0.0,0.0,41.66666666666667,INF,be
+Anderson,Ender,2.82258064516129,0.8064516129032258,57.66129032258065,3.5,nod be turn add be go be be give fight
+William Bee,Ender,5.303030303030303,3.0303030303030303,55.3030303030303,1.75,count wonder have lose have be flash be
+William Bee,Ender,5.303030303030303,3.0303030303030303,55.3030303030303,1.75,count wonder have lose have be flash be
+William Bee,Ender,5.303030303030303,3.0303030303030303,55.3030303030303,1.75,count wonder have lose have be flash be
+Peder,Brian,1.25,0.0,18.75,INF,win
+Anderson,Graff,5.357142857142857,0.0,66.07142857142857,INF,be follow
+Ender,Graff,0.0,0.0,33.33333333333333,INF,say hold
+Ender,Graff,0.0,0.0,33.33333333333333,INF,say hold
+Ender,Graff,0.0,0.0,33.33333333333333,INF,say hold
+Command School,Ender,1.9736842105263157,1.3157894736842104,49.34210526315789,1.5,answer be go close
+Command School,Anderson,1.9736842105263157,1.3157894736842104,49.34210526315789,1.5,answer be go close
+Ender,Anderson,1.9736842105263157,1.3157894736842104,49.34210526315789,1.5,answer be go close
+Ender,Command School,3.0,0.0,56.99999999999999,INF,break
+Ender,Battle School,0.0,6.25,83.75,0.0,do remember leave
+Ender,Battle School,3.125,2.083333333333333,69.79166666666666,1.5,have miss
+Ender,Battle School,3.125,2.083333333333333,69.79166666666666,1.5,have miss
+Ender,Battle School,0.0,0.0,63.63636363636363,INF,transfer learn
+Ender,Command School,0.0,0.0,63.63636363636363,INF,transfer learn
+Battle School,Command School,0.0,0.0,63.63636363636363,INF,transfer learn
+Mazer,Ender,0.0,0.0,58.333333333333336,INF,be sit awake
+Mazer,Ender,1.3157894736842104,1.3157894736842104,50.0,1.0,have speak be go leave
+Mazer,Ender,3.289473684210526,0.0,65.13157894736842,INF,be make have see
+Mazer,Ender,3.289473684210526,0.0,65.13157894736842,INF,be make have see
+Mazer,Ender,5.555555555555555,9.722222222222223,40.27777777777778,0.5714285714285714,do take
+Mazer,Ender,5.555555555555555,9.722222222222223,40.27777777777778,0.5714285714285714,do take
+Mazer,Ender,0.7352941176470588,2.941176470588235,55.14705882352941,0.25,watch try pretend do notice
+Mazer,Ender,0.7352941176470588,2.941176470588235,55.14705882352941,0.25,watch try pretend do notice
+Mazer,Ender,0.7352941176470588,2.941176470588235,55.14705882352941,0.25,watch try pretend do notice
+Ender,Mazer,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Ender,Mazer,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Ender,Mazer,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Mazer,Ender,3.787878787878788,0.0,59.84848484848485,INF,walk have shoot push
+Ender,Mazer,1.6666666666666667,4.166666666666666,67.5,0.4,find sit have move
+Ender,Mazer,1.6666666666666667,4.166666666666666,67.5,0.4,find sit have move
+Ender,Mazer,2.6515151515151514,1.1363636363636365,59.84848484848485,2.3333333333333335,be be press be be pinion
+Ender,Mazer,0.0,3.4090909090909087,32.95454545454545,0.0,whisper
+Mazer,Ender,5.681818181818182,0.0,48.86363636363637,INF,let fall
+Mazer,Ender,7.8125,0.0,54.6875,INF,stand let
+Mazer,Ender,2.0,2.0,60.0,1.0,dance close catch
+Mazer,Ender,2.0,2.0,60.0,1.0,dance close catch
+Mazer,Ender,2.0,2.0,60.0,1.0,dance close catch
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Mazer,Ender,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Mazer,Ender,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,4.285714285714286,52.85714285714286,0.0,be lie spin be smash
+Ender,Mazer,0.0,0.0,48.275862068965516,INF,touch handle leap kick
+Ender,Mazer,0.0,3.571428571428571,63.095238095238095,0.0,hit rebound cry collapse
+Ender,Mazer,0.0,3.571428571428571,63.095238095238095,0.0,hit rebound cry collapse
+Ender,Mazer,0.0,3.571428571428571,63.095238095238095,0.0,hit rebound cry collapse
+Mazer,Ender,0.0,1.1363636363636365,53.40909090909091,0.0,seem do trust
+Mazer,Ender,0.0,1.1363636363636365,53.40909090909091,0.0,seem do trust
+Ender,Mazer,1.4705882352941175,8.823529411764707,60.29411764705882,0.16666666666666666,be catch
+Ender,Mazer,1.4705882352941175,8.823529411764707,60.29411764705882,0.16666666666666666,be catch
+Ender,Mazer,0.9615384615384616,3.8461538461538463,60.57692307692307,0.25,have drift sleep remember limp laugh
+Ender,Mazer,0.9615384615384616,3.8461538461538463,60.57692307692307,0.25,have drift sleep remember limp laugh
+Ender,Mazer,0.9615384615384616,3.8461538461538463,60.57692307692307,0.25,have drift sleep remember limp laugh
+Ender,Mazer,0.9615384615384616,3.8461538461538463,60.57692307692307,0.25,have drift sleep remember limp laugh
+Mazer,Ender,0.78125,0.0,49.21875,INF,be stand
+Mazer,Ender,0.78125,0.0,49.21875,INF,be stand
+Mazer,Ender,0.78125,0.0,49.21875,INF,be stand
+Mazer,Ender,0.78125,0.0,49.21875,INF,be stand
+Mazer,Ender,0.0,0.0,60.0,INF,shake
+Mazer,Ender,2.7777777777777777,0.0,47.22222222222222,INF,move say use
+Mazer,Ender,1.5625,0.0,48.4375,INF,walk be call
+Mazer,Ender,1.5625,0.0,48.4375,INF,walk be call
+Mazer,Ender,0.0,0.0,28.57142857142857,INF,say defeat
+Ender,Mazer,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,be fight say
+Mazer,Ender,4.861111111111112,3.4722222222222223,52.77777777777778,1.4,point show have lose
+Mazer,Ender,4.861111111111112,3.4722222222222223,52.77777777777778,1.4,point show have lose
+Mazer,Ender,0.0,0.6944444444444444,54.861111111111114,0.0,let learn handle
+Ender,Mazer,0.0,0.6944444444444444,54.861111111111114,0.0,let learn handle
+Mazer,Ender,5.5,0.0,46.5,INF,come shake say be
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Ender,Mazer,0.625,2.5,49.375,0.25,go drill drill endure study pile
+Mazer,Ender,3.125,0.0,59.375,INF,look reach touch
+Mazer,Ender,3.125,0.0,59.375,INF,look reach touch
+Ender,Mazer,2.8846153846153846,5.769230769230769,45.19230769230769,0.5,be be wait
+Ender,Mazer,2.8846153846153846,5.769230769230769,45.19230769230769,0.5,be be wait
+Mazer,Ender,0.0,0.0,47.05882352941176,INF,eat say put
+Mazer,Ender,0.0,0.0,47.05882352941176,INF,eat say put
+Ender,Anderson,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Graff,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Anderson,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Graff,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Anderson,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Graff,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Anderson,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Ender,Graff,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Anderson,Graff,3.289473684210526,0.0,70.39473684210526,INF,think see think see
+Graff,Mazer,2.5,0.0,57.49999999999999,INF,wake be
+Graff,Mazer,2.5,0.0,57.49999999999999,INF,wake be
+Ender,Mazer,0.0,0.0,50.0,INF,recognize
+Ender,Mazer,1.25,6.25,52.5,0.2,resent intrude
+Ender,Mazer,1.25,6.25,52.5,0.2,resent intrude
+Mazer,Command School,3.289473684210526,0.0,65.13157894736842,INF,be do know
+Command School,Mazer,3.289473684210526,0.0,65.13157894736842,INF,be do know
+Ender,Mazer,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,turn notice be
+Mazer,Graff,0.0,0.0,62.5,INF,recognize remember
+Mazer,Anderson,0.0,0.0,62.5,INF,recognize remember
+Mazer,Battle School,0.0,0.0,62.5,INF,recognize remember
+Mazer,Command School,0.0,0.0,62.5,INF,recognize remember
+Graff,Anderson,0.0,0.0,62.5,INF,recognize remember
+Graff,Battle School,0.0,0.0,62.5,INF,recognize remember
+Graff,Command School,0.0,0.0,62.5,INF,recognize remember
+Anderson,Battle School,0.0,0.0,62.5,INF,recognize remember
+Anderson,Command School,0.0,0.0,62.5,INF,recognize remember
+Battle School,Command School,0.0,0.0,62.5,INF,recognize remember
+Mazer,Ender,1.7857142857142856,1.1904761904761905,54.166666666666664,1.5,answer be apply
+Mazer,Ender,2.5,0.0,57.49999999999999,INF,be go lead
+Mazer,Ender,2.5,0.0,57.49999999999999,INF,be go lead
+Ender,Graff,1.171875,0.0,45.703125,INF,be do shake keep clasp unclasp cross uncross
+Ender,Graff,1.171875,0.0,45.703125,INF,be do shake keep clasp unclasp cross uncross
+Ender,Graff,1.171875,0.0,45.703125,INF,be do shake keep clasp unclasp cross uncross
+Ender,Battle School,1.4423076923076923,2.403846153846154,61.53846153846154,0.6,laugh think have play win
+Ender,Battle School,1.4423076923076923,2.403846153846154,61.53846153846154,0.6,laugh think have play win
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Ender,Mazer,0.5,1.5,57.99999999999999,0.3333333333333333,be let beat outnumber
+Mazer,Battle School,2.941176470588235,0.7352941176470588,58.08823529411765,4.0,have win go do expect have win go
+Battle School,Mazer,2.941176470588235,0.7352941176470588,58.08823529411765,4.0,have win go do expect have win go
+William Bee,Ender,7.87037037037037,3.2407407407407405,55.55555555555556,2.4285714285714284,be have be stop activate
+Graff,Ender,3.125,0.0,30.208333333333332,INF,detach come
+Mazer,Ender,3.8461538461538463,0.0,50.0,INF,come hold
+Mazer,Ender,3.8461538461538463,0.0,50.0,INF,come hold
+Mazer,Ender,3.260869565217391,0.5434782608695652,44.02173913043478,6.0,grow say have be
+Ender,Mazer,3.618421052631579,0.6578947368421052,56.25,5.5,walk walk whisper walk arrive close
+Graff,Mazer,0.0,0.0,45.45454545454545,INF,be find
+Graff,Mazer,0.0,0.0,45.45454545454545,INF,be find
+Ender,Graff,0.0,0.0,14.285714285714285,INF,say
+Graff,Ender,0.0,0.0,44.44444444444444,INF,reach touch
+Graff,Mazer,0.0,6.944444444444445,48.61111111111111,0.0,look
+Graff,Anderson,0.0,0.0,45.45454545454545,INF,walk
+Anderson,Graff,2.6785714285714284,0.0,54.46428571428571,INF,stand walk
+Andrew,Sorelledolce,0.0,0.0,64.28571428571429,INF,turn reach
+Andrew,Sorelledolce,0.0,0.0,64.28571428571429,INF,turn reach
+Valentine,Andrew,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Valentine,Andrew,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Valentine,Andrew,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Andrew,Valentine,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Valentine,Andrew,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Valentine,Andrew,0.0,0.5681818181818182,49.43181818181818,0.0,emerge be greet
+Andrew,Valentine,2.4193548387096775,2.0161290322580645,50.403225806451616,1.2,have make disappear know be be
+Andrew,Valentine,2.4193548387096775,2.0161290322580645,50.403225806451616,1.2,have make disappear know be be
+Andrew,Valentine,0.0,0.0,75.0,INF,ask
+Andrew,Sorelledolce,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Andrew,Valentine,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Andrew,Sorelledolce,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Andrew,Valentine,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Sorelledolce,Valentine,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Sorelledolce,Andrew,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Valentine,Andrew,1.7543859649122806,0.43859649122807015,55.70175438596491,4.0,have eat sit discover fail have achieve
+Andrew,Valentine,7.352941176470589,5.88235294117647,45.588235294117645,1.25,make call stride
+Benedetto,Andrew,0.0,0.0,55.55555555555556,INF,turn offer
+Benedetto,Andrew,0.0,0.0,55.55555555555556,INF,turn offer
+Benedetto,Andrew,0.0,0.0,55.55555555555556,INF,turn offer
+Benedetto,Sorelledolce,2.616279069767442,0.0,53.19767441860465,INF,be buy keep
+Sorelledolce,Benedetto,2.616279069767442,0.0,53.19767441860465,INF,be buy keep
+Sorelledolce,Benedetto,2.616279069767442,0.0,53.19767441860465,INF,be buy keep
+Benedetto,Andrew,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Benedetto,Sorelledolce,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Andrew,Benedetto,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Andrew,Sorelledolce,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Andrew,Benedetto,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Andrew,Benedetto,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Benedetto,Sorelledolce,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Sorelledolce,Benedetto,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Sorelledolce,Benedetto,1.6666666666666667,2.2916666666666665,59.375,0.7272727272727273,give allow log turn pay estimate promise leave have be evaluate confirm
+Sorelledolce,Starways Congress,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Sorelledolce,Andrew,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Sorelledolce,Starways Congress,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Starways Congress,Andrew,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Starways Congress,Sorelledolce,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Andrew,Starways Congress,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Andrew,Sorelledolce,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Starways Congress,Sorelledolce,0.8064516129032258,0.0,54.03225806451613,INF,be have be send try subvert
+Andrew,Benedetto,1.0,2.5,48.5,0.4,be be go be cheat inherit
+Andrew,Benedetto,1.0,2.5,48.5,0.4,be be go be cheat inherit
+Benedetto,Andrew,7.051282051282051,1.282051282051282,48.07692307692308,5.5,wait have do mean find get be
+Andrew,Benedetto,7.051282051282051,1.282051282051282,48.07692307692308,5.5,wait have do mean find get be
+Andrew,Benedetto,7.051282051282051,1.282051282051282,48.07692307692308,5.5,wait have do mean find get be
+Andrew,Benedetto,7.051282051282051,1.282051282051282,48.07692307692308,5.5,wait have do mean find get be
+Andrew,Valentine,0.0,1.3888888888888888,65.27777777777779,0.0,be make
+Andrew,Valentine,0.0,1.3888888888888888,65.27777777777779,0.0,be make
+Andrew,Valentine,2.631578947368421,0.9868421052631579,59.539473684210535,2.6666666666666665,be go keep have spend search find share
+Valentine,Demosthenes,1.936619718309859,2.112676056338028,55.1056338028169,0.9166666666666666,be respond have attempt identify figure be voyage work
+Demosthenes,Valentine,1.936619718309859,2.112676056338028,55.1056338028169,0.9166666666666666,be respond have attempt identify figure be voyage work
+Demosthenes,Valentine,1.936619718309859,2.112676056338028,55.1056338028169,0.9166666666666666,be respond have attempt identify figure be voyage work
+Valentine,Andrew,2.5,0.0,37.5,INF,say
+Valentine,Andrew,10.9375,3.125,48.4375,3.5,have have
+Andrew,Valentine,3.8306451612903225,2.217741935483871,50.403225806451616,1.7272727272727273,have know have skip find want gather get write journey
+Valentine,Andrew,3.8306451612903225,2.217741935483871,50.403225806451616,1.7272727272727273,have know have skip find want gather get write journey
+Valentine,Andrew,3.8306451612903225,2.217741935483871,50.403225806451616,1.7272727272727273,have know have skip find want gather get write journey
+Valentine,Andrew,3.8306451612903225,2.217741935483871,50.403225806451616,1.7272727272727273,have know have skip find want gather get write journey
+Valentine,Andrew,2.941176470588235,0.7352941176470588,43.38235294117647,4.0,immerse doubt write
+Andrew,Valentine,1.4423076923076923,1.9230769230769231,62.019230769230774,0.75,help play make stay
+Valentine,Andrew,1.4423076923076923,1.9230769230769231,62.019230769230774,0.75,help play make stay
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Andrew,3.125,1.0416666666666665,52.083333333333336,3.0,be tell be be be need need have meet correspond
+Valentine,Ender,0.8333333333333334,2.083333333333333,53.75,0.4,be have serve write
+Ender,Valentine,0.8333333333333334,2.083333333333333,53.75,0.4,be have serve write
+Ender,Valentine,0.8333333333333334,2.083333333333333,53.75,0.4,be have serve write
+Ender,Valentine,0.0,3.75,66.25,0.0,publish
+Andrew,Benedetto,4.545454545454546,2.840909090909091,51.70454545454546,1.6,be be
+Benedetto,Andrew,4.545454545454546,2.840909090909091,51.70454545454546,1.6,be be
+Benedetto,Andrew,3.571428571428571,4.910714285714286,52.23214285714286,0.7272727272727273,judge get see be
+Benedetto,Andrew,3.571428571428571,4.910714285714286,52.23214285714286,0.7272727272727273,judge get see be
+Andrew,Benedetto,6.944444444444445,2.7777777777777777,45.83333333333333,2.5,think
+Andrew,Valentine,4.435483870967742,1.6129032258064515,45.564516129032256,2.75,discuss promise ask have be trust
+Valentine,Andrew,4.435483870967742,1.6129032258064515,45.564516129032256,2.75,discuss promise ask have be trust
+Valentine,Andrew,4.435483870967742,1.6129032258064515,45.564516129032256,2.75,discuss promise ask have be trust
+Valentine,Andrew,4.435483870967742,1.6129032258064515,45.564516129032256,2.75,discuss promise ask have be trust
+Valentine,Andrew,4.435483870967742,1.6129032258064515,45.564516129032256,2.75,discuss promise ask have be trust
+Andrew,Valentine,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Andrew,Demosthenes,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Valentine,Andrew,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Valentine,Andrew,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Valentine,Andrew,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Valentine,Demosthenes,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Andrew,Demosthenes,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Andrew,Demosthenes,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Andrew,Demosthenes,2.1875,2.5,60.3125,0.875,have watch pop be be avoid
+Andrew,Benedetto,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Andrew,Benedetto,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Andrew,Benedetto,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Benedetto,Andrew,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Benedetto,Andrew,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Benedetto,Andrew,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Benedetto,Andrew,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Andrew,Benedetto,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Benedetto,Andrew,0.9615384615384616,0.4807692307692308,58.17307692307693,2.0,give show be avoid size come
+Andrew,Benedetto,6.0,7.000000000000001,55.00000000000001,0.8571428571428571,mind have do know say
+Andrew,Benedetto,6.0,7.000000000000001,55.00000000000001,0.8571428571428571,mind have do know say
+Jane,Ender,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,have pull
+Jane,Andrew,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,have pull
+Ender,Andrew,1.7857142857142856,2.380952380952381,52.976190476190474,0.75,have pull
+Jane,Andrew,3.5984848484848486,2.6515151515151514,52.84090909090909,1.3571428571428572,be try be imagine get email have know be
+Jane,Andrew,3.5984848484848486,2.6515151515151514,52.84090909090909,1.3571428571428572,be try be imagine get email have know be
+Jane,Andrew,3.5984848484848486,2.6515151515151514,52.84090909090909,1.3571428571428572,be try be imagine get email have know be
+Jane,Andrew,3.5984848484848486,2.6515151515151514,52.84090909090909,1.3571428571428572,be try be imagine get email have know be
+Benedetto,Valentine,3.308823529411765,1.4705882352941175,59.92647058823529,2.25,realize track be have
+Benedetto,Valentine,3.308823529411765,1.4705882352941175,59.92647058823529,2.25,realize track be have
+Benedetto,Valentine,3.308823529411765,1.4705882352941175,59.92647058823529,2.25,realize track be have
+Benedetto,Andrew,2.2058823529411766,2.941176470588235,45.83333333333333,0.75,have trace colonize occur be be
+Benedetto,Andrew,2.2058823529411766,2.941176470588235,45.83333333333333,0.75,have trace colonize occur be be
+Andrew,Valentine,3.9473684210526314,1.3157894736842104,57.89473684210527,3.0,be have do
+Valentine,Andrew,5.555555555555555,2.7777777777777777,69.44444444444444,2.0,show
+Andrew,Valentine,2.7027027027027026,0.33783783783783783,61.82432432432432,8.0,have become have unite
+Andrew,Peter,2.7027027027027026,0.33783783783783783,61.82432432432432,8.0,have become have unite
+Valentine,Peter,2.7027027027027026,0.33783783783783783,61.82432432432432,8.0,have become have unite
+Andrew,Peter,1.875,3.125,60.0,0.6,prove be enlighten set share be get
+Peter,Andrew,4.605263157894736,7.236842105263158,40.78947368421053,0.6363636363636364,have be fear
+Peter,Valentine,4.605263157894736,7.236842105263158,40.78947368421053,0.6363636363636364,have be fear
+Peter,Andrew,4.605263157894736,7.236842105263158,40.78947368421053,0.6363636363636364,have be fear
+Andrew,Valentine,4.605263157894736,7.236842105263158,40.78947368421053,0.6363636363636364,have be fear
+Valentine,Andrew,4.605263157894736,7.236842105263158,40.78947368421053,0.6363636363636364,have be fear
+Peter,Andrew,2.083333333333333,2.604166666666667,70.3125,0.8,be arrange return
+Peter,Andrew,2.083333333333333,2.604166666666667,70.3125,0.8,be arrange return
+Andrew,Valentine,3.3653846153846154,3.125,60.817307692307686,1.0769230769230769,have get use be do have attend expect jump do do have
+Andrew,Jane,0.0,0.0,45.0,INF,do
+Benedetto,Ender,1.293103448275862,3.4482758620689653,33.189655172413794,0.375,think say come agree show be
+Andrew,Benedetto,0.0,0.0,42.857142857142854,INF,say
+Benedetto,Andrew,0.0,2.8846153846153846,58.65384615384615,0.0,smile bring
+Benedetto,Andrew,0.0,2.8846153846153846,58.65384615384615,0.0,smile bring
+Andrew,Benedetto,5.681818181818182,0.5681818181818182,43.75,10.0,pound race decide opt
+Andrew,Benedetto,5.681818181818182,0.5681818181818182,43.75,10.0,pound race decide opt
+Andrew,Benedetto,2.083333333333333,6.25,58.333333333333336,0.3333333333333333,be go become fill
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,3.4482758620689653,0.8620689655172413,68.10344827586206,4.0,try duplicate have lead have be slap bring warn persist attempt classify be investigate
+Benedetto,Andrew,5.625,0.0,44.375,INF,become try find
+Benedetto,Andrew,5.625,0.0,44.375,INF,become try find
+Andrew,Ender,1.6304347826086956,2.1739130434782608,48.369565217391305,0.75,find be be ransack disappear
+Andrew,Ender,1.6304347826086956,2.1739130434782608,48.369565217391305,0.75,find be be ransack disappear
+Andrew,Ender,1.6304347826086956,2.1739130434782608,48.369565217391305,0.75,find be be ransack disappear
+Andrew,Ender,1.6304347826086956,2.1739130434782608,48.369565217391305,0.75,find be be ransack disappear
+Benedetto,Andrew,1.5625,0.0,48.4375,INF,have be
+Andrew,Jane,1.875,1.25,51.87500000000001,1.5,feel be resecure hide be connect happen
+Andrew,Jane,1.875,1.25,51.87500000000001,1.5,feel be resecure hide be connect happen
+Jane,Andrew,1.875,1.25,51.87500000000001,1.5,feel be resecure hide be connect happen
+Jane,Andrew,1.875,1.25,51.87500000000001,1.5,feel be resecure hide be connect happen
+Andrew,Benedetto,2.5,4.0,53.5,0.625,have protect blackmail be have do
+Benedetto,Andrew,3.260869565217391,4.891304347826087,44.02173913043478,0.6666666666666666,have be seize be provide
+Jane,Andrew,0.0,0.0,50.0,INF,assure afford notice
+Jane,Andrew,0.0,0.0,50.0,INF,assure afford notice
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Andrew,Benedetto,8.620689655172415,0.0,53.44827586206896,INF,admit be try bring help make do
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Jane,Benedetto,3.5416666666666665,2.5,48.95833333333333,1.4166666666666667,help discover prove be grow develop provide love take belong
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Sorelledolce,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Valentine,Sorelledolce,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Valentine,Andrew,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Sorelledolce,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Sorelledolce,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Sorelledolce,Andrew,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Sorelledolce,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Sorelledolce,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Valentine,Andrew,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Valentine,Andrew,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Andrew,Valentine,2.1341463414634148,1.2195121951219512,57.62195121951219,1.75,leave be write be go
+Jane,Andrew,0.0,0.0,27.27272727272727,INF,take
+Valentine,Jane,5.88235294117647,4.411764705882353,48.529411764705884,1.3333333333333333,be ask find
+Valentine,Jane,5.88235294117647,4.411764705882353,48.529411764705884,1.3333333333333333,be ask find
+Jane,Valentine,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Valentine,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Valentine,Jane,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Valentine,Jane,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Valentine,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Valentine,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,4.779411764705882,1.1029411764705883,47.05882352941176,4.333333333333333,be be help need remain personalize
+Jane,Andrew,3.8461538461538463,2.8846153846153846,54.807692307692314,1.3333333333333333,be say
+Andrew,Valentine,1.4423076923076923,0.0,52.40384615384615,INF,leave continue have do
+Andrew,Sorelledolce,1.4423076923076923,0.0,52.40384615384615,INF,leave continue have do
+Valentine,Sorelledolce,1.4423076923076923,0.0,52.40384615384615,INF,leave continue have do
+Ender,Orson Scott Card,0.6578947368421052,0.0,54.60526315789473,INF,appear
+Ender,Orson Scott Card,0.6578947368421052,0.0,54.60526315789473,INF,appear
+Ender,Orson Scott Card,0.0,0.0,55.55555555555556,INF,appear
+Ender,Orson Scott Card,0.5813953488372093,1.4534883720930232,56.104651162790695,0.4,novella authorize
+Ender,Orson Scott Card,0.5813953488372093,1.4534883720930232,56.104651162790695,0.4,novella authorize
+Orson Scott Card,Ender,0.5813953488372093,1.4534883720930232,56.104651162790695,0.4,novella authorize

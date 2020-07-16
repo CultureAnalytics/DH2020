@@ -1,0 +1,377 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Rachel,Chuck,1.4705882352941175,5.147058823529411,46.32352941176471,0.2857142857142857,tell have be find
+Rachel,Chuck,0.0,0.0,40.0,INF,repeat
+Walker Park,Chuck,0.7142857142857143,0.35714285714285715,67.5,2.0,be play be give
+Bush,Chuck,1.9329896907216495,2.0618556701030926,54.76804123711341,0.9375,dismiss inflict be be play swan converge scatter start breathe
+Hans,Chuck,0.0,0.8928571428571428,49.107142857142854,0.0,say try
+Chuck,Coca-Cola,2.4456521739130435,3.804347826086957,45.92391304347826,0.6428571428571429,laugh strike make say
+Coca-Cola,Chuck,2.4456521739130435,3.804347826086957,45.92391304347826,0.6428571428571429,laugh strike make say
+Rachel,Jake,0.0,0.0,46.15384615384615,INF,move give
+Rachel,Jake,0.0,0.0,46.15384615384615,INF,move give
+Hans,Rachel,2.5,2.5,48.333333333333336,1.0,be say
+Rachel,Charles,0.4807692307692308,1.4423076923076923,48.07692307692308,0.3333333333333333,phone ask deal
+Rachel,Charles,0.4807692307692308,1.4423076923076923,48.07692307692308,0.3333333333333333,phone ask deal
+Rachel,Charles,0.4807692307692308,1.4423076923076923,48.07692307692308,0.3333333333333333,phone ask deal
+Appleby,Rivera,1.9444444444444444,0.5555555555555556,59.72222222222222,3.5,mark be take leave name
+Rivera,Appleby,0.5434782608695652,0.0,42.934782608695656,INF,be say order
+Appleby,Rivera,0.0,0.0,41.66666666666667,INF,say be stand
+Appleby,Rivera,0.0,0.0,41.66666666666667,INF,say be stand
+Appleby,Behar,2.2058823529411766,0.0,38.970588235294116,INF,describe tell counsel
+Rivera,Jesus,0.0,0.0,40.0,INF,say be go
+Rivera,Hans,0.0,0.0,40.0,INF,say be go
+Jesus,Hans,0.0,0.0,40.0,INF,say be go
+Rachel,Hans,4.6875,4.6875,40.625,1.0,say be
+Hans,Rachel,0.0,0.0,44.44444444444444,INF,say
+Hans,Rachel,0.0,0.8928571428571428,34.82142857142857,0.0,have abandon say sniff
+Taspinar,Mark,0.8928571428571428,0.8928571428571428,62.5,1.0,buy
+Taspinar,Mark,0.8928571428571428,0.8928571428571428,62.5,1.0,buy
+Rachel,Jake,2.1739130434782608,5.434782608695652,57.608695652173914,0.4,suggest watch ride be go
+Rachel,Jake,2.1739130434782608,5.434782608695652,57.608695652173914,0.4,suggest watch ride be go
+Chelsea,HBS,0.5434782608695652,1.4492753623188406,58.87681159420289,0.375,ache pause be rest sling
+Vinay,Mark,2.604166666666667,3.125,31.770833333333332,0.8333333333333334,be laugh
+Chuck,Roy,1.25,1.25,60.83333333333333,1.0,be show occupy wear embroider
+Chuck,Vinay,1.5625,0.5208333333333333,52.083333333333336,3.0,accept be join arrive carry
+Chuck,Roy,0.0,0.0,50.0,INF,urge eat
+Roy,Chuck,0.9615384615384616,0.0,52.88461538461539,INF,turn be
+Vinay,Roy,5.147058823529411,2.2058823529411766,27.941176470588236,2.3333333333333335,remark start chortle
+Vinay,Chuck,5.147058823529411,2.2058823529411766,27.941176470588236,2.3333333333333335,remark start chortle
+Roy,Chuck,5.147058823529411,2.2058823529411766,27.941176470588236,2.3333333333333335,remark start chortle
+Roy,Bush,1.5625,0.78125,47.65625,2.0,address say be
+Chuck,Vinay,3.3333333333333335,6.666666666666667,43.333333333333336,0.5,say be talk
+Chuck,Bush,3.3333333333333335,6.666666666666667,43.333333333333336,0.5,say be talk
+Vinay,Bush,3.3333333333333335,6.666666666666667,43.333333333333336,0.5,say be talk
+Chuck,Vinay,0.0,0.0,57.14285714285714,INF,hand
+Roy,Chuck,0.0,0.0,50.0,INF,laugh
+Chuck,Vinay,0.0,0.0,45.45454545454545,INF,ask fill
+Chuck,Vinay,0.0,0.0,45.45454545454545,INF,ask fill
+Chuck,DMV,3.6764705882352944,0.0,55.14705882352941,INF,hang say be walk
+Chuck,Abelsky,0.0,0.0,47.05882352941176,INF,be do say be
+Chuck,Abelsky,0.0,0.0,47.05882352941176,INF,be do say be
+Chuck,Yankees,0.0,0.0,85.71428571428571,INF,put
+Chuck,Hans,0.9615384615384616,0.0,45.19230769230769,INF,say believe have meet
+Chuck,Eliza,0.9615384615384616,0.0,45.19230769230769,INF,say believe have meet
+Hans,Eliza,0.9615384615384616,0.0,45.19230769230769,INF,say believe have meet
+Chuck,Eliza,7.954545454545454,2.272727272727273,44.31818181818182,3.5,walk say be
+Chuck,Cadillac,0.8333333333333334,0.8333333333333334,48.333333333333336,1.0,drive
+Chuck,Congress,1.0714285714285714,1.4285714285714286,57.49999999999999,0.75,tell conclude make be decide depict grasp be adopt
+Chuck,Yankees,1.3888888888888888,6.944444444444445,52.77777777777778,0.2,think pause adjust
+Chuck,Yankees,1.3888888888888888,6.944444444444445,52.77777777777778,0.2,think pause adjust
+Chuck,Cadillac,0.0,0.0,46.15384615384615,INF,spurt
+Floyd Bennett Field,Chuck,0.0,0.0,45.45454545454545,INF,say
+Westland,Holland,0.8771929824561403,0.6578947368421052,51.09649122807017,1.3333333333333333,think play specialize
+National Park Service,Chuck,0.7716049382716049,0.9259259259259258,60.03086419753087,0.8333333333333334,get hear involve sport develop envisage describe put use
+National Park Service,Chuck,0.7716049382716049,0.9259259259259258,60.03086419753087,0.8333333333333334,get hear involve sport develop envisage describe put use
+Chuck,National Park Service,1.8181818181818181,1.7045454545454544,53.75,1.0666666666666667,figure build install be line play happen reason transform build have succeed happen pile happen be
+Chuck,National Park Service,1.8181818181818181,1.7045454545454544,53.75,1.0666666666666667,figure build install be line play happen reason transform build have succeed happen pile happen be
+Chuck,National Park Service,1.8181818181818181,1.7045454545454544,53.75,1.0666666666666667,figure build install be line play happen reason transform build have succeed happen pile happen be
+Chuck,National Park Service,1.8181818181818181,1.7045454545454544,53.75,1.0666666666666667,figure build install be line play happen reason transform build have succeed happen pile happen be
+Chuck,Corrigan,5.208333333333334,1.0416666666666665,52.083333333333336,5.0,have be call
+Corrigan,Chuck,3.8461538461538463,7.6923076923076925,34.61538461538461,0.5,say
+Corrigan,Chuck,0.8333333333333334,1.25,54.58333333333333,0.6666666666666666,be fly
+Chuck,Corrigan,0.8333333333333334,1.25,54.58333333333333,0.6666666666666666,be fly
+Corrigan,Chuck,0.0,0.0,50.0,INF,come hold say
+Corrigan,Chuck,0.0,0.0,50.0,INF,come hold say
+Jake,Rachel,1.4423076923076923,2.8846153846153846,53.36538461538461,0.5,be recover stay fly
+Rachel,Jake,1.4423076923076923,2.8846153846153846,53.36538461538461,0.5,be recover stay fly
+Rachel,Monica Lewinsky,0.0,0.0,50.0,INF,spot
+Rachel,Jake,3.3333333333333335,2.9166666666666665,60.416666666666664,1.1428571428571428,tell have take have carry
+Jake,Saddam Hussein,0.78125,1.5625,41.40625,0.5,want believe send
+Bush,Hitler,2.8846153846153846,0.9615384615384616,50.0,3.0,be say be say
+Bush,Hitler,0.0,8.75,41.25,0.0,be compare
+Chuck,New York Cricket Club,3.6458333333333335,2.604166666666667,64.58333333333334,1.4,sign have be replace
+Chuck,New York Cricket Club,3.6458333333333335,2.604166666666667,64.58333333333334,1.4,sign have be replace
+Pallot,Rivera,0.0,0.0,30.76923076923077,INF,be give say
+Rivera,Pallot,0.9259259259259258,0.0,73.14814814814815,INF,come see be go have take
+Pallot,Rivera,0.9259259259259258,0.0,73.14814814814815,INF,come see be go have take
+Appleby,Rivera,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,go talk
+Appleby,Rivera,2.586206896551724,1.7241379310344827,57.758620689655174,1.5,go talk
+Rivera,Vinay,5.241935483870968,0.8064516129032258,48.79032258064516,6.5,be have decamp
+Rivera,Appleby,2.840909090909091,2.272727272727273,49.43181818181818,1.25,hear move grow be be go work
+Rivera,Appleby,2.840909090909091,2.272727272727273,49.43181818181818,1.25,hear move grow be be go work
+Rivera,Appleby,2.840909090909091,2.272727272727273,49.43181818181818,1.25,hear move grow be be go work
+Rivera,Appleby,2.840909090909091,2.272727272727273,49.43181818181818,1.25,hear move grow be be go work
+Jesus,Danielle,3.4090909090909087,1.3257575757575757,60.416666666666664,2.5714285714285716,feel do give be plan be ring tell have call have be talk
+Danielle,Jesus,3.4090909090909087,1.3257575757575757,60.416666666666664,2.5714285714285716,feel do give be plan be ring tell have call have be talk
+Carl,BQE,2.6785714285714284,0.4464285714285714,61.16071428571429,6.0,tell head have be wait have take
+BQE,Carl,2.6785714285714284,0.4464285714285714,61.16071428571429,6.0,tell head have be wait have take
+BQE,Carl,2.6785714285714284,0.4464285714285714,61.16071428571429,6.0,tell head have be wait have take
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Jake,Willem,3.2352941176470593,1.7647058823529411,50.294117647058826,1.8333333333333333,see come ask fall repeat relate speak know assist
+Carl,BQE,0.6944444444444444,0.0,71.52777777777779,INF,be get catch
+Rachel,Jake,0.872093023255814,0.872093023255814,42.44186046511628,1.0,be admit bob mention head
+Jake,Daddy,0.9146341463414633,0.3048780487804878,59.756097560975604,3.0,sleep press feel heave inform wake be
+Rachel,Jake,0.9615384615384616,2.403846153846154,54.32692307692307,0.4,be originate make be shop
+Rachel,Jake,0.9615384615384616,2.403846153846154,54.32692307692307,0.4,be originate make be shop
+Jake,Rachel,2.8125,6.5625,53.125,0.42857142857142855,lie prick overhear be
+Jake,Rachel,2.8125,6.5625,53.125,0.42857142857142855,lie prick overhear be
+Rachel,Jake,1.1904761904761905,0.0,53.57142857142857,INF,lay have go have shut
+Rachel,Jake,1.1904761904761905,0.0,53.57142857142857,INF,lay have go have shut
+Rachel,Jake,1.1904761904761905,0.0,53.57142857142857,INF,lay have go have shut
+Chuck,Jake,0.0,0.0,50.0,INF,begin run commission put
+Eliza,Abraham,0.75,0.5,48.75,1.5,beard end become
+Eliza,Abraham,0.75,0.5,48.75,1.5,beard end become
+Eliza,Chuck,3.515625,0.390625,55.46875,9.0,be devote be
+Chuck,Hans,0.78125,4.6875,50.78125,0.16666666666666666,tell drop say surprise
+Hubert,HBS,0.6097560975609756,0.3048780487804878,67.3780487804878,2.0,learn have go play find
+HBS,Hubert,0.6097560975609756,0.3048780487804878,67.3780487804878,2.0,learn have go play find
+Chuck,Anne,4.411764705882353,0.3676470588235294,54.04411764705882,12.0,arrive be be marry start work suppose
+Anne,Chuck,4.411764705882353,0.3676470588235294,54.04411764705882,12.0,arrive be be marry start work suppose
+Anne,Chuck,4.411764705882353,0.3676470588235294,54.04411764705882,12.0,arrive be be marry start work suppose
+Chuck,Antun,2.3255813953488373,0.29069767441860467,46.22093023255814,8.0,happen happen hold
+Chuck,Hans,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Chuck,Prashanth Ramachandran,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Chuck,Dr. Flavian Seem,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Hans,Prashanth Ramachandran,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Hans,Dr. Flavian Seem,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Hans,Chuck,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Prashanth Ramachandran,Dr. Flavian Seem,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Prashanth Ramachandran,Chuck,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Dr. Flavian Seem,Chuck,0.7462686567164178,0.7462686567164178,53.73134328358209,1.0,introduce smile name be inform order back
+Chuck,Avalon,4.0,0.5,59.5,8.0,drop explain be put
+Avalon,Chuck,4.0,0.5,59.5,8.0,drop explain be put
+Avalon,Dr. Flavian Seem,2.403846153846154,3.8461538461538463,62.980769230769226,0.625,be be sit watch
+Avalon,Chuck,0.0,0.0,57.14285714285714,INF,be dance
+Rachel,Holland,2.314814814814815,2.199074074074074,49.18981481481482,1.0526315789473684,look stricken suppose be speak be feed have explain come see be amaze see throw abandon be bear
+Antun,Chuck,2.922077922077922,2.5162337662337664,59.496753246753244,1.1612903225806452,have astonish learn look ask do represent lead wonder be be backtrack go be be doom walk lead be lead end notice lead hobble
+Antun,Dr. Flavian Seem,2.922077922077922,2.5162337662337664,59.496753246753244,1.1612903225806452,have astonish learn look ask do represent lead wonder be be backtrack go be be doom walk lead be lead end notice lead hobble
+Chuck,Dr. Flavian Seem,2.922077922077922,2.5162337662337664,59.496753246753244,1.1612903225806452,have astonish learn look ask do represent lead wonder be be backtrack go be be doom walk lead be lead end notice lead hobble
+Avalon,Chuck,1.0245901639344261,2.8688524590163933,46.92622950819672,0.35714285714285715,smile laugh give notice turn gyrate jingle replace
+Avalon,Chuck,1.0245901639344261,2.8688524590163933,46.92622950819672,0.35714285714285715,smile laugh give notice turn gyrate jingle replace
+Avalon,Chuck,1.0245901639344261,2.8688524590163933,46.92622950819672,0.35714285714285715,smile laugh give notice turn gyrate jingle replace
+Chuck,Avalon,0.0,1.5625,56.770833333333336,0.0,approach begin shimmy
+Avalon,Dr. Flavian Seem,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Avalon,Prashanth Ramachandran,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Avalon,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Avalon,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Avalon,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Dr. Flavian Seem,Prashanth Ramachandran,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Dr. Flavian Seem,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Dr. Flavian Seem,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Dr. Flavian Seem,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Prashanth Ramachandran,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Prashanth Ramachandran,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Prashanth Ramachandran,Chuck,2.2869674185463658,0.9711779448621554,51.62907268170426,2.3548387096774195,embolden give give make go swing be dress have be play pick rub hang go persuade come stop double stop load be stop order curry be name join call lose play have do be belong pick wreck drop splash make walk sweat
+Abelsky,Chuck,0.0,0.0,62.5,INF,place
+Chuck,Abelsky,3.5000000000000004,4.0,48.5,0.875,be want show have be orchestrate
+Chuck,Abelsky,0.0,2.976190476190476,54.166666666666664,0.0,excuse make
+Tony,Chuck,0.5952380952380952,0.0,56.547619047619044,INF,say use be say nod
+Tony,Chuck,0.5952380952380952,0.0,56.547619047619044,INF,say use be say nod
+Chuck,Tony,0.5952380952380952,0.0,56.547619047619044,INF,say use be say nod
+Tony,Chuck,0.0,0.4629629629629629,62.5,0.0,sleep eat convert sit house
+Tony,Chuck,0.0,0.0,46.666666666666664,INF,say
+Tony,Chuck,3.125,5.208333333333334,41.66666666666667,0.6,say understand
+Chuck,Tony,5.208333333333334,0.0,36.45833333333333,INF,say look
+Tony,Chuck,0.5617977528089888,1.1235955056179776,56.74157303370787,0.5,be transform redden tell be be be grow
+Tony,Chuck,0.5617977528089888,1.1235955056179776,56.74157303370787,0.5,be transform redden tell be be be grow
+Tony,Chuck,0.5617977528089888,1.1235955056179776,56.74157303370787,0.5,be transform redden tell be be be grow
+Cadillac,Chuck,0.0,2.403846153846154,55.28846153846154,0.0,be wait be park make
+Chuck,Hans,1.6304347826086956,0.0,54.891304347826086,INF,walk say have make
+Chuck,Anne,4.166666666666666,1.4705882352941175,49.26470588235294,2.8333333333333335,be think tell know run enable cross appear
+Anne,Chuck,1.875,1.875,56.25,1.0,be
+Anne,Chuck,4.166666666666666,0.0,62.5,INF,smile make
+Chuck,Hans,8.552631578947368,1.3157894736842104,42.76315789473684,6.5,say be admire
+Anne,Chuck,2.272727272727273,0.0,52.27272727272727,INF,eat correct
+Chuck,Roop,0.0,0.0,50.0,INF,die
+Chuck,Anne,1.1904761904761905,0.0,75.0,INF,eat chop make
+Hans,Chuck,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,tell put say
+Chuck,Anne,0.0,0.0,40.0,INF,say
+Hans,Chuck,2.631578947368421,0.0,50.0,INF,hear make say
+George,Chuck,2.3706896551724137,0.646551724137931,65.94827586206897,3.6666666666666665,be have produce rehabilitate drive have meet have hop say
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Faruk,Chuck,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Faruk,Chuck,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Faruk,1.403061224489796,1.2755102040816326,56.505102040816325,1.1,believe have speak have be have find be play have track corner sell come extract show
+Chuck,Abelsky,1.1363636363636365,3.0303030303030303,44.31818181818182,0.375,talk be call do ignore
+Chuck,Abelsky,1.1363636363636365,3.0303030303030303,44.31818181818182,0.375,talk be call do ignore
+Abelsky,Chuck,1.1363636363636365,3.0303030303030303,44.31818181818182,0.375,talk be call do ignore
+Abelsky,Chuck,1.1363636363636365,3.0303030303030303,44.31818181818182,0.375,talk be call do ignore
+Chuck,Eliza,0.0,1.6666666666666667,41.66666666666667,0.0,buzz gurgle answer be
+Chuck,Eliza,0.0,1.6666666666666667,41.66666666666667,0.0,buzz gurgle answer be
+Chuck,Holland,4.166666666666666,1.6025641025641024,45.51282051282051,2.6,be hesitate inform draw
+Chuck,Holland,4.166666666666666,1.6025641025641024,45.51282051282051,2.6,be hesitate inform draw
+Holland,Congress,3.25,2.0,56.75,1.625,begin understand be extemporize meet be shape be call address
+Holland,Congress,3.25,2.0,56.75,1.625,begin understand be extemporize meet be shape be call address
+Holland,Congress,3.25,2.0,56.75,1.625,begin understand be extemporize meet be shape be call address
+Holland,Congress,3.25,2.0,56.75,1.625,begin understand be extemporize meet be shape be call address
+Holland,National Park Service,0.25510204081632654,0.0,56.88775510204081,INF,tell build be
+Holland,National Park Service,0.25510204081632654,0.0,56.88775510204081,INF,tell build be
+Holland,National Park Service,0.25510204081632654,0.0,56.88775510204081,INF,tell build be
+National Park Service,Holland,0.25510204081632654,0.0,56.88775510204081,INF,tell build be
+National Park Service,Holland,0.25510204081632654,0.0,56.88775510204081,INF,tell build be
+Rachel,Chuck,1.6666666666666667,0.8333333333333334,50.83333333333333,2.0,be think look
+Rachel,Chuck,5.241935483870968,1.2096774193548387,41.935483870967744,4.333333333333333,continue suppose say be expect know
+Rachel,Chuck,5.241935483870968,1.2096774193548387,41.935483870967744,4.333333333333333,continue suppose say be expect know
+Rachel,Chuck,5.88235294117647,0.0,47.05882352941176,INF,take point say amuse do take
+Rachel,Chuck,2.564102564102564,1.9230769230769231,49.358974358974365,1.3333333333333333,have accuse exoticize give fail grant distrust perpetrate infantilize
+Rachel,Chuck,2.564102564102564,1.9230769230769231,49.358974358974365,1.3333333333333333,have accuse exoticize give fail grant distrust perpetrate infantilize
+Rachel,Chuck,2.564102564102564,1.9230769230769231,49.358974358974365,1.3333333333333333,have accuse exoticize give fail grant distrust perpetrate infantilize
+Rachel,Juliet Schwarz,4.807692307692308,0.0,25.961538461538463,INF,call bias
+Chuck,Nelson,4.545454545454546,4.545454545454546,31.818181818181817,1.0,see be step call
+Chuck,Nelson,4.545454545454546,4.545454545454546,31.818181818181817,1.0,see be step call
+Chuck,Nelson,4.411764705882353,4.411764705882353,55.88235294117647,1.0,watch count
+Chuck,Hans,0.0,0.0,50.0,INF,shout
+Chuck,Roop,0.0,2.717391304347826,58.152173913043484,0.0,digress go steal
+Abelsky,Chuck,0.0,4.807692307692308,41.34615384615385,0.0,be trust say
+Cardozo,Chelsea,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,have have forgive
+Cardozo,Worcestershire,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,have have forgive
+Chelsea,Worcestershire,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,have have forgive
+Cardozo,Worcestershire,3.2407407407407405,2.314814814814815,57.407407407407405,1.4,mull pop point
+Cardozo,Worcestershire,3.2407407407407405,2.314814814814815,57.407407407407405,1.4,mull pop point
+Hans,Cardozo,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,be go ask say sound daze
+Hans,Cardozo,1.0416666666666665,1.0416666666666665,52.083333333333336,1.0,be go ask say sound daze
+Rachel,Matt,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Rachel,Tony,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Rachel,George,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Rachel,Bush,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Rachel,Matt,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Matt,Tony,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Matt,George,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Matt,Bush,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Tony,George,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Tony,Bush,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Tony,Matt,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+George,Bush,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+George,Matt,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Bush,Matt,4.090909090909091,6.363636363636363,47.72727272727273,0.6428571428571429,name make describe
+Rachel,Matt,1.0416666666666665,3.125,54.166666666666664,0.3333333333333333,say be
+Hans,Matt,1.9230769230769231,1.9230769230769231,50.0,1.0,come sit say
+Rachel,Hans,0.0,1.5625,23.4375,0.0,
+Matt,Rachel,0.6944444444444444,4.861111111111112,33.33333333333333,0.14285714285714285,piss say
+Martin,Jake,0.0,0.0,47.05882352941176,INF,go be introduce
+Mrs. Taspinar,Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Mrs. Taspinar,Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Mrs. Taspinar,Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Mrs. Taspinar,Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Taspinar,Mrs. Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Taspinar,Mrs. Taspinar,0.8064516129032258,0.0,47.58064516129033,INF,drop run scream follow catch
+Mrs. Taspinar,Taspinar,1.5625,0.0,23.4375,INF,keep scream
+Mrs. Taspinar,Taspinar,1.5625,0.0,23.4375,INF,keep scream
+Gianni,Floris,3.4274193548387095,1.6129032258064515,48.185483870967744,2.125,seem be hold need find lurk have be stake
+Rachel,Jake,0.0,0.0,54.54545454545454,INF,reveal be bear
+Rachel,Martin,0.6578947368421052,0.0,46.71052631578947,INF,be obsess say
+Martin,Vinay,4.276315789473684,2.9605263157894735,53.289473684210535,1.4444444444444444,be be know ring say
+Vinay,Martin,4.276315789473684,2.9605263157894735,53.289473684210535,1.4444444444444444,be be know ring say
+Martin,Hans,0.0,0.0,62.5,INF,be
+Jake,Rachel,0.78125,1.5625,28.90625,0.5,come say lift
+Anne,Chuck,1.25,3.75,40.0,0.3333333333333333,continue have know be
+Abelsky,Anne,1.1363636363636365,3.977272727272727,58.52272727272727,0.2857142857142857,be live beat do complain
+Chuck,Cadillac,0.0,0.0,50.0,INF,turn
+Chadwick,Chuck,1.7045454545454544,0.8522727272727272,54.26136363636363,2.0,say be inaugurate go popularize modernize
+Chadwick,Chuck,1.7045454545454544,0.8522727272727272,54.26136363636363,2.0,say be inaugurate go popularize modernize
+Chuck,Chadwick,0.4629629629629629,0.4629629629629629,65.74074074074075,1.0,be engrave hand stand clasp
+Chuck,Chadwick,0.4629629629629629,0.4629629629629629,65.74074074074075,1.0,be engrave hand stand clasp
+Chadwick,Chuck,0.4629629629629629,0.4629629629629629,65.74074074074075,1.0,be engrave hand stand clasp
+Chuck,National Park Service,0.6756756756756757,0.0,53.37837837837838,INF,post say deploy be prepare
+Chuck,National Park Service,0.6756756756756757,0.0,53.37837837837838,INF,post say deploy be prepare
+Chuck,National Park Service,0.6756756756756757,0.0,53.37837837837838,INF,post say deploy be prepare
+Chuck,National Park Service,0.6756756756756757,0.0,53.37837837837838,INF,post say deploy be prepare
+Chuck,National Park Service,0.6756756756756757,0.0,53.37837837837838,INF,post say deploy be prepare
+Chuck,Hans,0.625,0.0,49.375,INF,snap shut say
+Chuck,Hans,0.625,0.0,49.375,INF,snap shut say
+Chuck,Hans,0.625,0.0,49.375,INF,snap shut say
+Chuck,Chadwick,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be look
+Chuck,Chadwick,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be look
+Chuck,Chadwick,2.083333333333333,0.6944444444444444,52.77777777777778,3.0,be be look
+Chuck,BQE,5.0,2.857142857142857,55.00000000000001,1.75,be catch drive say run have see
+Chuck,Hans,0.0,0.0,45.45454545454545,INF,say remember
+Chuck,Abelsky,0.0,0.0,45.45454545454545,INF,say remember
+Hans,Abelsky,0.0,0.0,45.45454545454545,INF,say remember
+NutraSweet,Abelsky,0.9615384615384616,1.9230769230769231,43.269230769230774,0.5,taste say
+Chuck,Abelsky,1.5957446808510638,3.723404255319149,54.25531914893617,0.42857142857142855,see have terrorize smash shove threaten know arrive
+Chuck,Abelsky,1.5957446808510638,3.723404255319149,54.25531914893617,0.42857142857142855,see have terrorize smash shove threaten know arrive
+Chuck,Abelsky,1.5957446808510638,3.723404255319149,54.25531914893617,0.42857142857142855,see have terrorize smash shove threaten know arrive
+Chuck,Abelsky,1.5957446808510638,3.723404255319149,54.25531914893617,0.42857142857142855,see have terrorize smash shove threaten know arrive
+Schulz,Coke,0.0,0.5,59.5,0.0,present fill
+Juliet Schwarz,Rachel,6.451612903225806,1.6129032258064515,40.32258064516129,4.0,turn ask love be love
+Juliet Schwarz,Rachel,6.451612903225806,1.6129032258064515,40.32258064516129,4.0,turn ask love be love
+Juliet Schwarz,Rachel,6.451612903225806,1.6129032258064515,40.32258064516129,4.0,turn ask love be love
+Dr. Schwarz,Rachel,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Dr. Schwarz,Jake,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Dr. Schwarz,Martin,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Rachel,Jake,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Rachel,Martin,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Jake,Martin,0.25510204081632654,0.0,46.683673469387756,INF,happen set say be be move live
+Martin,Rachel,1.25,4.166666666666666,57.91666666666667,0.3,be join be wonder fill
+Martin,Jake,1.25,4.166666666666666,57.91666666666667,0.3,be join be wonder fill
+Martin,Rachel,1.25,4.166666666666666,57.91666666666667,0.3,be join be wonder fill
+Rachel,Jake,1.25,4.166666666666666,57.91666666666667,0.3,be join be wonder fill
+Jake,Rachel,1.25,4.166666666666666,57.91666666666667,0.3,be join be wonder fill
+Martin,Rachel,3.4722222222222223,0.0,57.638888888888886,INF,receive be have jilt
+Jake,Martin,0.0,0.0,60.0,INF,run leap begin paw
+Martin,Jake,0.0,0.0,60.0,INF,run leap begin paw
+Rachel,Jake,0.0,2.8846153846153846,50.96153846153846,0.0,marry be
+Jake,Rachel,0.0,2.8846153846153846,50.96153846153846,0.0,marry be
+Jake,Martin,4.545454545454546,0.0,40.909090909090914,INF,be say
+Hans,Rachel,2.5,2.5,45.0,1.0,say
+Rachel,Martin,1.7857142857142856,0.0,55.35714285714286,INF,watch leave
+Rachel,Martin,0.0,0.0,36.36363636363637,INF,be say go kiss
+Rachel,Martin,0.0,0.0,36.36363636363637,INF,be say go kiss
+Rachel,Martin,0.0,0.0,36.36363636363637,INF,be say go kiss
+Rachel,Martin,0.0,0.0,36.36363636363637,INF,be say go kiss
+Rachel,Martin,3.9473684210526314,3.289473684210526,61.18421052631579,1.2,be feel ask
+Rachel,Martin,8.333333333333332,3.3333333333333335,48.333333333333336,2.5,remark say be
+Rachel,Juliet Schwarz,3.4722222222222223,0.0,52.083333333333336,INF,have stay marry state feel see feel
+Rachel,Juliet Schwarz,3.4722222222222223,0.0,52.083333333333336,INF,have stay marry state feel see feel
+Juliet Schwarz,Rachel,3.4722222222222223,0.0,52.083333333333336,INF,have stay marry state feel see feel
+Juliet Schwarz,Rachel,0.0,0.0,40.0,INF,turn
+Marinello,Chuck,4.6875,2.34375,49.21875,2.0,be
+Anne,Abelsky,1.3157894736842104,2.631578947368421,59.210526315789465,0.5,do have be list
+Hans,Abelsky,1.0,6.5,44.5,0.15384615384615385,disappear say say kill
+Abelsky,Hans,1.0,6.5,44.5,0.15384615384615385,disappear say say kill
+Abelsky,Anne,5.357142857142857,2.976190476190476,53.57142857142857,1.8,tell do know give anne
+Abelsky,Anne,5.357142857142857,2.976190476190476,53.57142857142857,1.8,tell do know give anne
+Chuck,Abelsky,7.5,0.0,59.166666666666664,INF,know say
+Abelsky,Chuck,13.095238095238097,1.7857142857142856,32.73809523809524,7.333333333333333,calm say do know know
+Abelsky,Chuck,13.095238095238097,1.7857142857142856,32.73809523809524,7.333333333333333,calm say do know know
+Eliza,Chuck,0.0,1.3513513513513513,47.2972972972973,0.0,say be meet walk catch
+Eliza,Chuck,0.0,1.3513513513513513,47.2972972972973,0.0,say be meet walk catch
+Eliza,Chuck,0.0,1.3513513513513513,47.2972972972973,0.0,say be meet walk catch
+Eliza,Chuck,0.0,1.3513513513513513,47.2972972972973,0.0,say be meet walk catch
+Chuck,Eliza,0.0,0.0,50.0,INF,be say meet say
+Chuck,Eliza,0.0,0.0,50.0,INF,be say meet say
+Chuck,Eliza,4.807692307692308,4.807692307692308,21.153846153846153,1.0,be go find wail
+Chuck,Eliza,3.4090909090909087,1.1363636363636365,50.0,3.0,turn break
+Ronald McDonald,Eliza,2.054794520547945,1.36986301369863,50.0,1.5,fall do be try apprehend provoke duck draw lead grab
+Abelsky,Anne,0.0,6.730769230769231,47.11538461538461,0.0,talk ring
+Rachel,Chuck,4.6875,2.8125,50.0,1.6666666666666667,do take tell meet stay come collaborate
+Chuck,Hans,4.878048780487805,0.9146341463414633,45.426829268292686,5.333333333333333,wonder say think look be be run have
+Marinello,Chuck,2.0,1.0,65.0,2.0,phone have think
+Marinello,Chuck,0.0,0.0,47.61904761904761,INF,ask have pertain
+Anne,Chuck,4.5,3.5000000000000004,56.00000000000001,1.2857142857142858,ring be find be
+Abelsky,Chuck,1.9230769230769231,6.730769230769231,55.44871794871795,0.2857142857142857,have be conclude suggest have
+Abelsky,Marinello,1.9230769230769231,6.730769230769231,55.44871794871795,0.2857142857142857,have be conclude suggest have
+Chuck,Marinello,1.9230769230769231,6.730769230769231,55.44871794871795,0.2857142857142857,have be conclude suggest have
+Faruk,Chuck,2.5,3.0,62.5,0.8333333333333334,read claim be
+Faruk,Chuck,2.0,0.0,46.0,INF,tell continue lean waggle be
+New York Cricket Club,Faruk,3.7037037037037033,0.0,51.85185185185185,INF,say raise be
+New York Cricket Club,Faruk,3.7037037037037033,0.0,51.85185185185185,INF,say raise be
+Chuck,Faruk,5.172413793103448,1.7241379310344827,41.37931034482759,3.0,say say look want take
+Leeds,Jake,1.639344262295082,1.2295081967213115,52.86885245901639,1.3333333333333333,rise be present become know meet be have stay seat
+Jake,Rachel,2.9166666666666665,1.6666666666666667,55.41666666666667,1.75,notice have start need be bring order be stand
+Jake,Rachel,0.7352941176470588,0.0,40.44117647058824,INF,see tell look
+Jake,Rachel,0.7352941176470588,0.0,40.44117647058824,INF,see tell look
+Rachel,Jake,0.7352941176470588,0.0,40.44117647058824,INF,see tell look

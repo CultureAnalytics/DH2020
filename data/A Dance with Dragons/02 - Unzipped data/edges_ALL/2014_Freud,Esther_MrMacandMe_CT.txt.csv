@@ -1,0 +1,903 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Mary,Ann,0.9615384615384616,1.4423076923076923,55.28846153846154,0.6666666666666666,take be
+Danky,Runnicles,1.293103448275862,1.7241379310344827,53.879310344827594,0.75,stand accept like use look fetch
+Danky,Runnicles,1.293103448275862,1.7241379310344827,53.879310344827594,0.75,stand accept like use look fetch
+Danky,Runnicles,1.293103448275862,1.7241379310344827,53.879310344827594,0.75,stand accept like use look fetch
+Danky,Runnicles,1.293103448275862,1.7241379310344827,53.879310344827594,0.75,stand accept like use look fetch
+Danky,Runnicles,1.293103448275862,1.7241379310344827,53.879310344827594,0.75,stand accept like use look fetch
+Danky,Runnicles,0.6578947368421052,3.7280701754385963,51.75438596491229,0.17647058823529413,come keep say rattle go pass hear catch shake weep
+Danky,Bell,0.6578947368421052,3.7280701754385963,51.75438596491229,0.17647058823529413,come keep say rattle go pass hear catch shake weep
+Runnicles,Bell,0.6578947368421052,3.7280701754385963,51.75438596491229,0.17647058823529413,come keep say rattle go pass hear catch shake weep
+Tommy,Tom,1.9736842105263157,0.6578947368421052,50.0,3.0,be know be tell be ask
+William,Mary,0.0,0.0,41.17647058823529,INF,be survive
+William,James,6.8181818181818175,2.272727272727273,59.09090909090909,3.0,come last see be strike
+Ann,Mother,2.380952380952381,0.0,45.23809523809524,INF,help wash polish
+Ann,Mary,0.8620689655172413,2.1551724137931036,62.5,0.4,whisper dream join wear
+Ann,Mary,0.8620689655172413,2.1551724137931036,62.5,0.4,whisper dream join wear
+James,William,1.25,0.0,58.75,INF,be cling bear
+James,William,1.25,0.0,58.75,INF,be cling bear
+James,Thomas,1.25,0.0,58.75,INF,be cling bear
+William,James,1.25,0.0,58.75,INF,be cling bear
+William,Thomas,1.25,0.0,58.75,INF,be cling bear
+James,William,1.25,0.0,58.75,INF,be cling bear
+James,Thomas,1.25,0.0,58.75,INF,be cling bear
+William,Thomas,1.25,0.0,58.75,INF,be cling bear
+Ann,Mary,1.5625,3.75,52.1875,0.4166666666666667,like talk look get
+Ann,Mary,1.5625,3.75,52.1875,0.4166666666666667,like talk look get
+Ann,Mary,1.5625,3.75,52.1875,0.4166666666666667,like talk look get
+Ann,Mary,1.5625,3.75,52.1875,0.4166666666666667,like talk look get
+George Allard,Danky,2.0348837209302326,2.0348837209302326,65.69767441860465,1.0,see be shift watch make
+Danky,George Allard,2.0348837209302326,2.0348837209302326,65.69767441860465,1.0,see be shift watch make
+Danky,George Allard,2.0348837209302326,2.0348837209302326,65.69767441860465,1.0,see be shift watch make
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,George Allard,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Danky,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+George Allard,Bell,2.0491803278688523,1.0245901639344261,54.30327868852459,2.0,stand be be be go catch take make model call drink
+Mac,Bell,2.083333333333333,0.5208333333333333,64.0625,4.0,pass be sit
+Ann,Mother,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Ann,Jimmy,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Mother,Ann,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Mother,Ann,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Mother,Jimmy,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Ann,Jimmy,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Ann,Jimmy,1.8292682926829267,0.3048780487804878,51.52439024390244,6.0,know have hear be set leave have come
+Mary,Blyfield House,1.5,0.0,46.5,INF,be say fly have
+Mary,Blyfield House,1.5,0.0,46.5,INF,be say fly have
+Danky,Bell,4.891304347826087,0.0,51.63043478260869,INF,glide cord wade throw
+Thomas,Mrs Lusher,0.0,3.4090909090909087,51.13636363636363,0.0,leave dry
+Mrs Mac,Mac,4.166666666666666,1.893939393939394,60.60606060606061,2.2,be pack think have have ask be see
+Mrs Mac,Mac,4.166666666666666,1.893939393939394,60.60606060606061,2.2,be pack think have have ask be see
+Mac,Mother,1.0416666666666665,3.6458333333333335,57.8125,0.2857142857142857,want tell see admit
+Mac,Mother,1.0416666666666665,3.6458333333333335,57.8125,0.2857142857142857,want tell see admit
+Mac,Mrs Horrod,1.9927536231884055,0.9057971014492754,56.52173913043478,2.2,promise meet tell be walk be turn go visit have take look leave be loom
+Mac,Mrs Horrod,1.9927536231884055,0.9057971014492754,56.52173913043478,2.2,promise meet tell be walk be turn go visit have take look leave be loom
+Mac,Mrs Horrod,1.9927536231884055,0.9057971014492754,56.52173913043478,2.2,promise meet tell be walk be turn go visit have take look leave be loom
+Mac,Mrs Horrod,1.9927536231884055,0.9057971014492754,56.52173913043478,2.2,promise meet tell be walk be turn go visit have take look leave be loom
+Mother,Mrs Horrod,1.4705882352941175,1.1029411764705883,59.19117647058824,1.3333333333333333,turn be rush do pause slow be
+Mother,Mrs Horrod,1.4705882352941175,1.1029411764705883,59.19117647058824,1.3333333333333333,turn be rush do pause slow be
+Mother,Mrs Horrod,1.4705882352941175,1.1029411764705883,59.19117647058824,1.3333333333333333,turn be rush do pause slow be
+Mac,Mrs Mac,0.0,3.3653846153846154,62.019230769230774,0.0,do see fear have go
+Mr Allard,Abb,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be join
+Ann,Mother,0.0,3.571428571428571,34.523809523809526,0.0,be move hurry
+Ann,Mother,0.0,3.571428571428571,34.523809523809526,0.0,be move hurry
+Jimmy,Ann,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,have dock whisper spare go see have fare
+Ann,Jimmy,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,have dock whisper spare go see have fare
+Mother,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Mother,Jimmy,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Mother,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Mother,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Mother,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Ann,Jimmy,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Jimmy,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Jimmy,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Jimmy,Ann,3.061224489795918,4.336734693877551,49.744897959183675,0.7058823529411765,have admit have hold gaze feel show have forget
+Ann,Jimmy,2.8846153846153846,4.086538461538462,56.49038461538461,0.7058823529411765,hope be do marry set put be
+Ann,Jimmy,2.8846153846153846,4.086538461538462,56.49038461538461,0.7058823529411765,hope be do marry set put be
+Ann,Jimmy,2.8846153846153846,4.086538461538462,56.49038461538461,0.7058823529411765,hope be do marry set put be
+Danky,Mac,1.4534883720930232,0.5813953488372093,53.779069767441854,2.5,walk peel be lock keep walk be
+William,James,0.0,0.0,25.0,INF,
+William,James,0.0,0.0,25.0,INF,
+William,Thomas,0.0,0.0,25.0,INF,
+William,James,0.0,0.0,25.0,INF,
+William,James,0.0,0.0,25.0,INF,
+William,Thomas,0.0,0.0,25.0,INF,
+James,William,0.0,0.0,25.0,INF,
+James,Thomas,0.0,0.0,25.0,INF,
+William,James,0.0,0.0,25.0,INF,
+William,Thomas,0.0,0.0,25.0,INF,
+James,Thomas,0.0,0.0,25.0,INF,
+William,James,0.0,0.0,31.25,INF,name take be
+William,James,0.0,0.0,31.25,INF,name take be
+William,Thomas,0.0,0.0,31.25,INF,name take be
+William,James,0.0,0.0,31.25,INF,name take be
+William,James,0.0,0.0,31.25,INF,name take be
+William,Thomas,0.0,0.0,31.25,INF,name take be
+James,William,0.0,0.0,31.25,INF,name take be
+James,Thomas,0.0,0.0,31.25,INF,name take be
+William,James,0.0,0.0,31.25,INF,name take be
+William,Thomas,0.0,0.0,31.25,INF,name take be
+James,Thomas,0.0,0.0,31.25,INF,name take be
+Runnicles,Jimmy,6.25,3.308823529411765,55.14705882352941,1.8888888888888888,be seem know be remember
+Mrs Horrod,Vic,1.7361111111111112,0.6944444444444444,39.23611111111111,2.5,be have take
+Mrs Horrod,Spence,1.7361111111111112,0.6944444444444444,39.23611111111111,2.5,be have take
+Vic,Spence,1.7361111111111112,0.6944444444444444,39.23611111111111,2.5,be have take
+Abb,Mr Allard,1.0,0.0,63.0,INF,have gather look press
+Abb,Mr Allard,1.0,0.0,63.0,INF,have gather look press
+Abb,Mr Allard,1.0,0.0,63.0,INF,have gather look press
+Ann,Jimmy,3.618421052631579,7.236842105263158,44.40789473684211,0.5,be stand be be be
+Jimmy,Ann,3.618421052631579,7.236842105263158,44.40789473684211,0.5,be stand be be be
+Jimmy,Ann,0.0,0.8333333333333334,59.166666666666664,0.0,be promise be marry return
+Ann,Jimmy,0.0,0.8333333333333334,59.166666666666664,0.0,be promise be marry return
+Ann,Mother,0.0,0.0,66.66666666666666,INF,hear ask
+Blyfield House,Mary,0.0,0.0,60.526315789473685,INF,be billet be send tell have sleep
+Mother,Mary,2.586206896551724,0.8620689655172413,65.51724137931035,3.0,take inspect have make be arrive
+Mary,Mother,2.586206896551724,0.8620689655172413,65.51724137931035,3.0,take inspect have make be arrive
+Mother,Mrs Horrod,4.605263157894736,3.289473684210526,55.26315789473685,1.4,wish be have be boast have have accept be give say
+Mother,Mrs Horrod,4.605263157894736,3.289473684210526,55.26315789473685,1.4,wish be have be boast have have accept be give say
+Mother,Mrs Horrod,4.605263157894736,3.289473684210526,55.26315789473685,1.4,wish be have be boast have have accept be give say
+Mother,Ann,0.3472222222222222,0.6944444444444444,62.84722222222222,0.5,go pull have plan knit wear
+Ann,Mother,0.3472222222222222,0.6944444444444444,62.84722222222222,0.5,go pull have plan knit wear
+Mr Allard,Mother,1.5625,2.34375,61.71875,0.6666666666666666,do tell think be steal warn keep
+Mr Allard,Mother,1.5625,2.34375,61.71875,0.6666666666666666,do tell think be steal warn keep
+Mr Allard,Mother,1.5625,2.34375,61.71875,0.6666666666666666,do tell think be steal warn keep
+Mr Allard,Mother,1.5625,2.34375,61.71875,0.6666666666666666,do tell think be steal warn keep
+Mother,Ann,1.2096774193548387,2.82258064516129,50.806451612903224,0.42857142857142855,be need set stand
+Mother,Ann,1.3513513513513513,3.7162162162162162,46.28378378378378,0.36363636363636365,take have fear be be hover flit seize rush
+Mother,Ann,1.3513513513513513,3.7162162162162162,46.28378378378378,0.36363636363636365,take have fear be be hover flit seize rush
+Mother,Ann,1.3513513513513513,3.7162162162162162,46.28378378378378,0.36363636363636365,take have fear be be hover flit seize rush
+Mother,Ann,1.3513513513513513,3.7162162162162162,46.28378378378378,0.36363636363636365,take have fear be be hover flit seize rush
+Ann,Mother,0.625,1.5625,55.3125,0.4,be be lie pray hear battle
+Tommy,Ann,0.0,1.7857142857142856,12.5,0.0,
+Ann,Mother,3.3854166666666665,0.0,52.864583333333336,INF,get fool hold crawl be let fold use do be
+Ann,Mother,3.3854166666666665,0.0,52.864583333333336,INF,get fool hold crawl be let fold use do be
+Ann,Mother,3.3854166666666665,0.0,52.864583333333336,INF,get fool hold crawl be let fold use do be
+Ann,Jimmy,4.573170731707317,3.6585365853658534,57.62195121951219,1.25,be rely go be get be go roam
+Jimmy,Ann,4.573170731707317,3.6585365853658534,57.62195121951219,1.25,be rely go be get be go roam
+Mac,Dora,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Mac,Dora,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Dora,Mac,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Dora,Mac,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Dora,Mac,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Dora,Mac,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Dora,Mac,3.804347826086957,1.6304347826086956,51.08695652173913,2.3333333333333335,be serve have forget have be tap
+Mother,Mac,5.0,1.25,53.75,4.0,ask be be
+Mother,Mac,1.0,0.5,46.5,2.0,raise look check be be ban
+Mother,Mac,1.0,0.5,46.5,2.0,raise look check be be ban
+Mother,Mac,1.0,0.5,46.5,2.0,raise look check be be ban
+Mother,Mac,1.0,0.5,46.5,2.0,raise look check be be ban
+Mother,Mac,0.9868421052631579,3.9473684210526314,58.223684210526315,0.25,dare go fill be be say soften offer
+Runnicles,Mac,4.583333333333333,0.4166666666666667,58.333333333333336,11.0,remember tell know be make
+Runnicles,Mac,4.583333333333333,0.4166666666666667,58.333333333333336,11.0,remember tell know be make
+Runnicles,Mac,4.583333333333333,0.4166666666666667,58.333333333333336,11.0,remember tell know be make
+Runnicles,Mac,4.583333333333333,0.4166666666666667,58.333333333333336,11.0,remember tell know be make
+Mrs Mollett,Mrs Mac,0.8064516129032258,1.6129032258064515,62.096774193548384,0.5,go tell be wear hold
+Mac,Mrs Mollett,2.083333333333333,0.0,56.25,INF,stand be forget
+Mrs Mac,Mrs Mollett,2.976190476190476,0.0,49.404761904761905,INF,be think promise marry take
+Mrs Mollett,Mrs Mac,0.0,0.0,64.70588235294117,INF,lean
+Mrs Mac,Mrs Mollett,2.5,0.0,37.5,INF,smile
+Mrs Mac,Mrs Mollett,7.142857142857142,0.0,35.714285714285715,INF,let
+Mrs Mollett,Margaret,2.941176470588235,3.6764705882352944,63.970588235294116,0.8,say be have hear
+Toshie,Margaret,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,answer
+Hertz,Rose,1.7857142857142856,0.0,69.64285714285714,INF,be say
+Mrs Horrod,Vic,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Mrs Horrod,Vic,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Mrs Horrod,Vic,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Vic,Mrs Horrod,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Mrs Horrod,Vic,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Mrs Horrod,Vic,3.508771929824561,1.9736842105263157,52.41228070175439,1.7777777777777777,fill do be herr be do know imagine come find squeeze
+Mrs Horrod,Mother,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mrs Horrod,Vic,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mother,Mrs Horrod,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mother,Mrs Horrod,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mother,Vic,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mrs Horrod,Vic,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Mrs Horrod,Vic,2.5510204081632653,2.0408163265306123,50.51020408163265,1.25,stop tell be do bang make be deliver
+Hertz,Rose,0.0,6.25,65.17857142857143,0.0,be mutter stumble
+Rose,Hertz,3.571428571428571,1.7857142857142856,37.5,2.0,be be
+Hertz,Rose,1.25,2.083333333333333,50.0,0.6,wait seem listen push
+Hertz,Rundschau,1.25,2.083333333333333,50.0,0.6,wait seem listen push
+Rose,Rundschau,1.25,2.083333333333333,50.0,0.6,wait seem listen push
+Thorogood,Mac,0.0,2.989130434782609,57.88043478260869,0.0,twist stare sit see be sit
+Thorogood,Mac,0.0,2.989130434782609,57.88043478260869,0.0,twist stare sit see be sit
+George Allard,Mother,0.0,0.0,70.58823529411765,INF,stand let
+Mother,George Allard,0.0,0.0,70.58823529411765,INF,stand let
+Mac,Mrs Mac,1.3392857142857142,0.8928571428571428,72.76785714285714,1.5,puff
+Mac,Mrs Mac,1.3392857142857142,0.8928571428571428,72.76785714285714,1.5,puff
+Mrs Mac,Mac,1.3392857142857142,0.8928571428571428,72.76785714285714,1.5,puff
+Mrs Mac,Mac,1.3392857142857142,0.8928571428571428,72.76785714285714,1.5,puff
+Mother,Mary,0.78125,0.390625,58.203125,2.0,wait come have squeeze slide
+Mother,Mary,0.0,0.0,61.904761904761905,INF,turn take
+Mother,Mary,4.807692307692308,0.0,41.34615384615385,INF,be choke
+Mother,Runnicles,3.7037037037037033,3.2407407407407405,57.870370370370374,1.1428571428571428,hold stay test be pray have be advance keep
+Mother,Mary,3.7037037037037033,3.2407407407407405,57.870370370370374,1.1428571428571428,hold stay test be pray have be advance keep
+Runnicles,Mary,3.7037037037037033,3.2407407407407405,57.870370370370374,1.1428571428571428,hold stay test be pray have be advance keep
+Mac,Mr Mackintosh,5.88235294117647,1.4705882352941175,63.23529411764706,4.0,have give hope come
+Mac,George Allard,4.411764705882353,0.0,57.35294117647059,INF,like take make be wait
+Mac,George Allard,2.7777777777777777,1.3888888888888888,62.5,2.0,be
+Ann,Jimmy,3.90625,3.125,61.71875,1.25,cling be wait pass
+Dora,Runnicles,7.421875,1.953125,53.125,3.8,be waste be help run
+Dora,Runnicles,7.421875,1.953125,53.125,3.8,be waste be help run
+Fred Tilson,Runnicles,0.3125,0.0,54.6875,INF,be turn course be rage restrain
+Fred Tilson,Runnicles,0.3125,0.0,54.6875,INF,be turn course be rage restrain
+Fred Tilson,Runnicles,0.3125,0.0,54.6875,INF,be turn course be rage restrain
+Fred Tilson,Runnicles,0.3125,0.0,54.6875,INF,be turn course be rage restrain
+Runnicles,Mr Mackintosh,3.6764705882352944,0.7352941176470588,72.05882352941177,5.0,be slide stare
+Margaret,Frances,1.5625,4.6875,50.0,0.3333333333333333,see be
+Margaret,Frances,1.5625,4.6875,50.0,0.3333333333333333,see be
+Runnicles,Mac,1.25,1.25,55.00000000000001,1.0,speak be try imagine make educate speak
+Runnicles,Mac,1.25,1.25,55.00000000000001,1.0,speak be try imagine make educate speak
+Runnicles,Mac,1.25,1.25,55.00000000000001,1.0,speak be try imagine make educate speak
+Hertz,Rose,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,mumble
+Hertz,Rundschau,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,mumble
+Rose,Rundschau,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,mumble
+Dora,Rose,4.464285714285714,0.4464285714285714,37.94642857142857,10.0,wonder be go be recite ask translate
+Dora,Rose,4.464285714285714,0.4464285714285714,37.94642857142857,10.0,wonder be go be recite ask translate
+Mac,Rose,0.9615384615384616,2.403846153846154,63.942307692307686,0.4,be work scratch go sink stand rub be leave
+Mac,Rose,0.9615384615384616,2.403846153846154,63.942307692307686,0.4,be work scratch go sink stand rub be leave
+Whatman,Rose,3.125,1.5625,57.8125,2.0,tell be
+Mac,Mayhew,2.5,1.7857142857142856,58.57142857142858,1.4,hear see be listen check hum
+Mac,Mayhew,2.5,1.7857142857142856,58.57142857142858,1.4,hear see be listen check hum
+Mac,Mayhew,3.571428571428571,1.7857142857142856,66.07142857142857,2.0,be smoke
+Betty,Meg,1.0714285714285714,0.7142857142857143,52.5,1.5,be feel redden squeeze squelch remind be
+Betty,Frances,1.282051282051282,4.166666666666666,45.83333333333333,0.3076923076923077,trace hang be sleep be think be
+Betty,Frances,1.282051282051282,4.166666666666666,45.83333333333333,0.3076923076923077,trace hang be sleep be think be
+Frances,Betty,1.282051282051282,4.166666666666666,45.83333333333333,0.3076923076923077,trace hang be sleep be think be
+Frances,Betty,1.282051282051282,4.166666666666666,45.83333333333333,0.3076923076923077,trace hang be sleep be think be
+Mac,Mrs Mac,1.5909090909090908,1.5909090909090908,58.63636363636363,1.0,wait be check be see take appear cut be
+Mrs Herr Macdonald,Muthesius,1.0,2.0,65.0,0.5,be stop be mean
+Mrs Herr Macdonald,Herr Mackintosh,1.0,2.0,65.0,0.5,be stop be mean
+Muthesius,Herr Mackintosh,1.0,2.0,65.0,0.5,be stop be mean
+William,Mother,0.0,6.25,33.75,0.0,frown
+Mother,William,0.0,6.25,33.75,0.0,frown
+Runnicles,Mac,4.934210526315789,1.9736842105263157,53.61842105263158,2.5,be have stop waste be keep give store
+Mr Mackintosh,Thorogood,0.9615384615384616,0.0,52.88461538461539,INF,be take
+Hertz,Rundschau,0.0,0.0,25.0,INF,
+Mac,Thorogood,0.4629629629629629,0.9259259259259258,61.57407407407407,0.5,swivel hesitate show soak need
+Thorogood,Jimmy,3.125,0.0,42.70833333333333,INF,tell be go make
+Mac,Mrs Mac,5.392156862745098,7.352941176470589,48.03921568627451,0.7333333333333333,be be fall wear protect
+Mac,Mrs Mac,5.392156862745098,7.352941176470589,48.03921568627451,0.7333333333333333,be be fall wear protect
+Mac,Mrs Mac,5.392156862745098,7.352941176470589,48.03921568627451,0.7333333333333333,be be fall wear protect
+Mac,Mrs Mac,5.392156862745098,7.352941176470589,48.03921568627451,0.7333333333333333,be be fall wear protect
+Betty,Meg,1.5151515151515151,0.3787878787878788,37.5,4.0,be wave
+Betty,Mrs Lusher,1.5151515151515151,0.3787878787878788,37.5,4.0,be wave
+Meg,Mrs Lusher,1.5151515151515151,0.3787878787878788,37.5,4.0,be wave
+Mother,Dora,3.532608695652174,1.358695652173913,51.63043478260869,2.6,say walk come read be pin be
+Tom,Betty,5.0,0.0,43.0,INF,smile greet lift
+Tom,Betty,5.0,0.0,43.0,INF,smile greet lift
+Mrs Lusher,Mrs Horrod,4.166666666666666,0.0,51.388888888888886,INF,have provide
+Betty,Mrs Horrod,1.6891891891891893,0.0,55.067567567567565,INF,slow reach keep do waste look
+Betty,Mrs Horrod,3.7162162162162162,0.0,50.33783783783784,INF,wait knock open feel know answer stand
+Betty,Mrs Horrod,3.7162162162162162,0.0,50.33783783783784,INF,wait knock open feel know answer stand
+Betty,Meg,3.7162162162162162,0.0,50.33783783783784,INF,wait knock open feel know answer stand
+Mrs Horrod,Meg,3.7162162162162162,0.0,50.33783783783784,INF,wait knock open feel know answer stand
+Mrs Horrod,Meg,3.7162162162162162,0.0,50.33783783783784,INF,wait knock open feel know answer stand
+Tommy,Meg,0.78125,0.0,30.46875,INF,say see
+Tommy,Meg,0.78125,0.0,30.46875,INF,say see
+Betty,Mother,1.6129032258064515,0.8064516129032258,49.193548387096776,2.0,be call ask have let have draw
+Ann,Jimmy,1.1029411764705883,2.2058823529411766,49.63235294117647,0.5,turn snore sit write follow have go
+Meg,Betty,0.5434782608695652,5.978260869565218,41.30434782608695,0.09090909090909091,imagine smear fight
+Meg,Mac,0.5434782608695652,5.978260869565218,41.30434782608695,0.09090909090909091,imagine smear fight
+Betty,Mac,0.5434782608695652,5.978260869565218,41.30434782608695,0.09090909090909091,imagine smear fight
+James,Rose,0.43103448275862066,0.0,47.8448275862069,INF,be date bear
+Meg,Betty,5.681818181818182,2.272727272727273,51.13636363636363,2.5,begin drift wonder be fare be manage herr
+Meg,Betty,5.681818181818182,2.272727272727273,51.13636363636363,2.5,begin drift wonder be fare be manage herr
+George Allard,Blyth,0.5208333333333333,0.26041666666666663,57.552083333333336,2.0,mention be be attack sink moor seize leave strand
+Mrs Horrod,Betty,3.125,0.390625,43.359375,8.0,come be put rush
+Mrs Horrod,Betty,3.125,0.390625,43.359375,8.0,come be put rush
+Mrs Horrod,Betty,3.125,0.390625,43.359375,8.0,come be put rush
+Mrs Horrod,Betty,3.125,0.390625,43.359375,8.0,come be put rush
+Meg,Betty,0.0,0.0,50.0,INF,raise take
+Thorogood,Mrs Horrod,0.0,0.0,65.21739130434783,INF,do go wait call
+Thorogood,Mother,0.0,0.0,65.21739130434783,INF,do go wait call
+Mrs Horrod,Mother,0.0,0.0,65.21739130434783,INF,do go wait call
+Mac,Vic,0.43103448275862066,1.7241379310344827,66.8103448275862,0.25,roam gather have abandon move
+Mac,Bly,0.0,0.0,64.28571428571429,INF,remember tell
+Mother,Mary,0.0,0.0,40.0,INF,keep
+Mother,Ann,0.0,0.0,40.0,INF,keep
+Mary,Ann,0.0,0.0,40.0,INF,keep
+Bell,Mother,4.166666666666666,0.8333333333333334,55.00000000000001,5.0,have come have clatter know
+Bell,Ann,4.166666666666666,0.8333333333333334,55.00000000000001,5.0,have come have clatter know
+Mother,Ann,4.166666666666666,0.8333333333333334,55.00000000000001,5.0,have come have clatter know
+Danky,George Allard,0.9615384615384616,2.403846153846154,50.480769230769226,0.4,be approach knock
+George Allard,Danky,3.75,3.3333333333333335,46.25,1.125,close
+Danky,George Allard,3.75,3.3333333333333335,46.25,1.125,close
+Danky,George Allard,3.75,3.3333333333333335,46.25,1.125,close
+Danky,George Allard,2.5,1.5,44.0,1.6666666666666667,be take
+Danky,George Allard,2.5,1.5,44.0,1.6666666666666667,be take
+Mother,Mrs Horrod,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mother,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Horrod,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mrs Lusher,Mac,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Lusher,1.4583333333333333,1.6666666666666667,51.87500000000001,0.875,have hear go fall be come be buoy
+Mac,Mrs Mac,3.273809523809524,3.273809523809524,50.595238095238095,1.0,peer hope catch be be be work be lean
+Margaret,Mac,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,ask surprise find have appear tell be go
+Mac,Margaret,4.3478260869565215,3.260869565217391,53.2608695652174,1.3333333333333333,ask surprise find have appear tell be go
+Mac,Betty,0.3048780487804878,0.0,60.670731707317074,INF,be say have ask accompany wait head
+Mac,Betty,0.3048780487804878,0.0,60.670731707317074,INF,be say have ask accompany wait head
+Betty,Mac,0.3048780487804878,0.0,60.670731707317074,INF,be say have ask accompany wait head
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,Thomas,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,Thomas,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+James,William,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+James,Thomas,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,Thomas,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+William,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+James,Thomas,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+Thomas,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+Thomas,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+Thomas,James,1.9886363636363635,2.840909090909091,45.17045454545455,0.7,whisper huddle imagine be be
+Betty,Mrs Horrod,0.0,0.0,47.368421052631575,INF,bring round
+Mac,Margaret,2.5,8.75,58.75,0.2857142857142857,be go
+Thorogood,Bell,1.6129032258064515,2.4193548387096775,60.483870967741936,0.6666666666666666,order have be be be chase
+Thorogood,Bell,1.6129032258064515,2.4193548387096775,60.483870967741936,0.6666666666666666,order have be be be chase
+Thorogood,Bell,1.6129032258064515,2.4193548387096775,60.483870967741936,0.6666666666666666,order have be be be chase
+Thorogood,Bell,1.6129032258064515,2.4193548387096775,60.483870967741936,0.6666666666666666,order have be be be chase
+Margaret,Frances,0.0,0.0,40.0,INF,work
+Margaret,Mr Mackintosh,0.0,0.0,40.0,INF,work
+Margaret,MacNair,0.0,0.0,40.0,INF,work
+Frances,Mr Mackintosh,0.0,0.0,40.0,INF,work
+Frances,MacNair,0.0,0.0,40.0,INF,work
+Mr Mackintosh,MacNair,0.0,0.0,40.0,INF,work
+Spook School,MacNair,0.7352941176470588,3.308823529411765,51.83823529411765,0.2222222222222222,call take work
+Spook School,Liverpool,0.7352941176470588,3.308823529411765,51.83823529411765,0.2222222222222222,call take work
+MacNair,Liverpool,0.7352941176470588,3.308823529411765,51.83823529411765,0.2222222222222222,call take work
+MacNair,Mac,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Mac,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Liverpool,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+Liverpool,MacNair,1.7857142857142856,4.081632653061225,45.1530612244898,0.4375,suck have make be do appreciate
+MacNair,Sylvan,1.0,2.5,52.5,0.4,be paint support
+Wideawake,Napoleon,1.6891891891891893,1.0135135135135136,48.64864864864865,1.6666666666666667,be give be be raise let know commence
+Wideawake,Napoleon,1.6891891891891893,1.0135135135135136,48.64864864864865,1.6666666666666667,be give be be raise let know commence
+Margaret,Mac,4.545454545454546,1.4204545454545454,55.39772727272727,3.2,like show be be sit tremble use keep
+Margaret,Mac,4.545454545454546,1.4204545454545454,55.39772727272727,3.2,like show be be sit tremble use keep
+Ann,Mac,0.5681818181818182,0.0,51.70454545454546,INF,rise hold seal curl begin peel separate
+Frances,MacNair,0.0,6.730769230769231,47.11538461538461,0.0,be hear continue
+Jimmy,Mrs Cady,1.530612244897959,0.5102040816326531,55.10204081632652,3.0,have be tell get catch move look
+Jimmy,Mrs Cady,1.530612244897959,0.5102040816326531,55.10204081632652,3.0,have be tell get catch move look
+Napoleon,Runnicles,4.166666666666666,0.5208333333333333,45.3125,8.0,offer have give know be like hear
+Runnicles,George Allard,1.530612244897959,2.806122448979592,50.76530612244898,0.5454545454545454,move be leave try decide run warn be go get
+Runnicles,George Allard,1.530612244897959,2.806122448979592,50.76530612244898,0.5454545454545454,move be leave try decide run warn be go get
+Lewis,Betty,0.9615384615384616,5.128205128205128,52.88461538461539,0.1875,stop rumble cross arrive
+Danky,George Allard,0.3048780487804878,0.6097560975609756,52.743902439024396,0.5,stop go read take have miss be wait
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Runnicles,Mrs Lusher,2.5462962962962963,0.0,53.00925925925925,INF,have tell mail arrive forget hand call
+Ann,Jimmy,5.0,0.5,46.5,10.0,be have have set write
+Ann,Jimmy,5.0,0.5,46.5,10.0,be have have set write
+Mac,Jimmy,1.5,3.0,63.5,0.5,be pretend be start be grow
+Mac,Jimmy,1.5,3.0,63.5,0.5,be pretend be start be grow
+Margaret,Mac,1.7361111111111112,2.430555555555556,59.72222222222222,0.7142857142857143,ask look have cut do speak have be write
+Margaret,Jimmy,1.7361111111111112,2.430555555555556,59.72222222222222,0.7142857142857143,ask look have cut do speak have be write
+Margaret,Jimmy,1.7361111111111112,2.430555555555556,59.72222222222222,0.7142857142857143,ask look have cut do speak have be write
+Mac,Jimmy,1.7361111111111112,2.430555555555556,59.72222222222222,0.7142857142857143,ask look have cut do speak have be write
+Mac,Jimmy,1.7361111111111112,2.430555555555556,59.72222222222222,0.7142857142857143,ask look have cut do speak have be write
+Ann,Margaret,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,do tell censor watch see stick
+Ann,Margaret,3.0172413793103448,0.8620689655172413,58.189655172413794,3.5,do tell censor watch see stick
+Margaret,Jimmy,8.52,4.8133333333333335,50.0,1.770083102493075,wonder write have be
+Jimmy,Margaret,8.52,4.8133333333333335,50.0,1.770083102493075,wonder write have be
+Gleave,Ann,4.0,1.0,47.0,4.0,find lean listen
+Gleave,Ann,4.0,1.0,47.0,4.0,find lean listen
+Mrs Mac,Mac,0.0,0.0,65.0,INF,come take
+Mac,Mr Hutchison,0.0,0.0,71.42857142857143,INF,shift
+Mac,Renfrew,0.7978723404255319,0.26595744680851063,50.0,3.0,be shake push chivy find put
+Mr Hutchison,Honeyman,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Mr Hutchison,Keppie,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Mr Hutchison,Glasgow School of Art,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Honeyman,Keppie,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Honeyman,Glasgow School of Art,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Keppie,Glasgow School of Art,1.650943396226415,0.0,51.17924528301887,INF,leave be work be draw submit be win design
+Mac,Glasgow School of Art,0.0,0.0,60.0,INF,drain
+Honeyman,Keppie,0.6578947368421052,0.6578947368421052,53.07017543859649,1.0,put be work be be be give be finish be be acknowledge
+Keppie,Jessie,0.0,0.0,20.0,INF,
+Margaret,Keppie,1.6176470588235297,2.3529411764705883,51.3235294117647,0.6875,tell take open hurry be get be include do tell guess be mention
+Keppie,Margaret,1.6176470588235297,2.3529411764705883,51.3235294117647,0.6875,tell take open hurry be get be include do tell guess be mention
+Mac,Keppie,1.25,0.625,63.125,2.0,take see be
+Ann,Mac,2.314814814814815,2.314814814814815,52.77777777777778,1.0,climb shake close think have see rise open
+Ann,Mac,2.314814814814815,2.314814814814815,52.77777777777778,1.0,climb shake close think have see rise open
+Mary,Blyfield House,0.0,2.840909090909091,60.79545454545454,0.0,be have
+Ann,Mac,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,notice be walk wait see collect
+Ann,Mac,0.8620689655172413,2.1551724137931036,48.706896551724135,0.4,notice be walk wait see collect
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+Mac,Mrs Lusher,2.2058823529411766,2.2058823529411766,50.49019607843137,1.0,be go tell do be pass hand
+William,James,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,James,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Thomas,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,James,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,James,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Thomas,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,William,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,Thomas,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,William,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,James,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Thomas,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,Thomas,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,William,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+James,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+Thomas,William,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+Thomas,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+William,Mary,1.4423076923076923,0.4807692307692308,36.53846153846153,3.0,
+Ann,Jimmy,2.6785714285714284,0.8928571428571428,53.57142857142857,3.0,have hope be
+Ann,Jimmy,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Jimmy,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Jimmy,Ann,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Jimmy,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Jimmy,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Mrs Kerridge,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Ann,Jimmy,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Mrs Kerridge,Jimmy,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Mrs Kerridge,Jimmy,3.205128205128205,3.205128205128205,50.0,1.0,have see have tell be be allow know
+Mrs Kerridge,Jimmy,0.0,5.681818181818182,39.77272727272727,0.0,do tell write
+Mac,Mrs Mac,5.88235294117647,2.941176470588235,44.11764705882353,2.0,pretend be surprise know expect
+Jimmy,Mrs Mac,0.0,0.8333333333333334,65.83333333333333,0.0,have light be be drink
+Jimmy,Mrs Mac,0.0,0.8333333333333334,65.83333333333333,0.0,have light be be drink
+Ann,Jimmy,0.4807692307692308,1.9230769230769231,43.75,0.25,sit feel imagine
+Ann,Jimmy,0.4807692307692308,1.9230769230769231,43.75,0.25,sit feel imagine
+Ann,Mother,3.90625,1.5625,63.28125,2.5,pile
+Mother,Ann,3.90625,1.5625,63.28125,2.5,pile
+Mac,Mrs Mac,0.0,0.0,60.0,INF,come
+Danky,Bell,2.380952380952381,1.1904761904761905,50.0,2.0,shake tell anger move hurry be be be think climb open shout be be be
+Mother,Danky,1.25,3.125,38.125,0.4,tug slip be
+Mother,Ann,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,have be crouch
+Mother,Ann,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,have be crouch
+Mother,Ann,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,have be crouch
+Ann,Jimmy,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Ann,Jimmy,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Jimmy,Ann,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Jimmy,Ann,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Ann,Jimmy,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Jimmy,Ann,3.273809523809524,2.380952380952381,58.63095238095239,1.375,watch think be be tell love be do
+Jimmy,Ann,0.0,0.0,55.55555555555556,INF,be come marry
+Mother,Mrs Horrod,3.125,3.6458333333333335,34.89583333333333,0.8571428571428571,need eat be appear
+Mr Mackintosh,Thomas,5.113636363636364,2.840909090909091,55.68181818181818,1.8,trace flow
+Mac,Betty,1.8518518518518516,0.4629629629629629,45.83333333333333,4.0,smack yawl give smile
+Betty,Runnicles,1.7857142857142856,0.0,58.92857142857143,INF,put remove rush
+Mother,Mrs Horrod,1.4705882352941175,2.2058823529411766,55.14705882352941,0.6666666666666666,be go polter
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+Mother,Mrs Horrod,1.0869565217391304,2.1739130434782608,46.73913043478261,0.5,call amble take be bring run search
+James,Mother,2.330508474576271,0.0,55.29661016949152,INF,do see tell send find lead be round tell
+James,Mrs Horrod,2.330508474576271,0.0,55.29661016949152,INF,do see tell send find lead be round tell
+James,Mother,2.330508474576271,0.0,55.29661016949152,INF,do see tell send find lead be round tell
+James,Mrs Horrod,2.330508474576271,0.0,55.29661016949152,INF,do see tell send find lead be round tell
+Mother,Mrs Horrod,2.330508474576271,0.0,55.29661016949152,INF,do see tell send find lead be round tell
+Mrs Horrod,George Allard,1.8382352941176472,0.3676470588235294,50.73529411764706,5.0,be look see nod say see have train
+Mrs Horrod,George Allard,1.8382352941176472,0.3676470588235294,50.73529411764706,5.0,be look see nod say see have train
+Mother,Mrs Horrod,3.125,0.4464285714285714,50.0,7.0,prompt shake be chant thank
+George Allard,Abb,4.166666666666666,4.166666666666666,58.333333333333336,1.0,be
+Vic,Spence,2.925531914893617,1.8617021276595744,52.659574468085104,1.5714285714285714,have fight be drive hear lose
+Abb,Mr Allard,1.1363636363636365,0.3787878787878788,56.060606060606055,3.0,ride be finish have tell be promise send come
+Abb,Mr Allard,1.1363636363636365,0.3787878787878788,56.060606060606055,3.0,ride be finish have tell be promise send come
+Mac,Margaret,0.8064516129032258,2.0161290322580645,52.016129032258064,0.4,have make be visit have forget be wait
+Mac,Margaret,0.8064516129032258,2.0161290322580645,52.016129032258064,0.4,have make be visit have forget be wait
+Margaret,Mrs Mollett,0.0,0.0,53.333333333333336,INF,slide lay move see have prepare
+Margaret,Mrs Mollett,0.0,0.0,53.333333333333336,INF,slide lay move see have prepare
+Margaret,Mrs Mollett,0.0,0.0,53.333333333333336,INF,slide lay move see have prepare
+Mac,Margaret,0.4464285714285714,2.6785714285714284,61.16071428571429,0.16666666666666666,have vanish do see go stand have leave look
+Mrs Mac,Mac,0.0,0.0,76.92307692307693,INF,bring eat fork take
+Mrs Mac,Mac,0.0,0.0,50.0,INF,come tell
+Tom,Mac,3.3653846153846154,2.8846153846153846,36.05769230769231,1.1666666666666667,be rest have
+Mac,Mrs Mac,0.0,0.0,62.5,INF,be wait
+Thomas,Glasgow School of Art,5.769230769230769,0.9615384615384616,62.5,6.0,see be
+Abb,Jimmy,0.0,1.0416666666666665,57.291666666666664,0.0,go try be send
+Abb,George Allard,0.0,1.0416666666666665,57.291666666666664,0.0,go try be send
+Abb,Jimmy,0.0,1.0416666666666665,57.291666666666664,0.0,go try be send
+Jimmy,George Allard,0.0,1.0416666666666665,57.291666666666664,0.0,go try be send
+George Allard,Jimmy,0.0,1.0416666666666665,57.291666666666664,0.0,go try be send
+Mr Allard,Blyth,2.083333333333333,1.3888888888888888,54.861111111111114,1.5,stand forget tell sail
+Ann,Mrs Kerridge,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have go visit be begin gripe
+Ann,Mrs Kerridge,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have go visit be begin gripe
+Mrs Kerridge,Ann,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have go visit be begin gripe
+Ann,Jimmy,2.083333333333333,1.0416666666666665,46.875,2.0,marry be lose
+Ann,Jimmy,2.083333333333333,1.0416666666666665,46.875,2.0,marry be lose
+Gleave,Ann,0.0,0.78125,36.71875,0.0,try talk
+Mother,Ann,2.083333333333333,2.604166666666667,45.3125,0.8,tread shrink rile keep
+Mother,Ann,2.083333333333333,2.604166666666667,45.3125,0.8,tread shrink rile keep
+Ann,Mother,0.5681818181818182,3.977272727272727,36.36363636363637,0.14285714285714285,be cry be ail say blink turn
+George Allard,Mother,1.7241379310344827,2.1551724137931036,54.741379310344826,0.8,be be turn help leave undo
+George Allard,Ann,1.7241379310344827,2.1551724137931036,54.741379310344826,0.8,be be turn help leave undo
+Mother,Ann,1.7241379310344827,2.1551724137931036,54.741379310344826,0.8,be be turn help leave undo
+Mac,George Allard,1.0416666666666665,2.083333333333333,63.541666666666664,0.5,try paint dig wilt bring
+Thorogood,Mac,1.5625,1.5625,59.375,1.0,be damp work have settle
+Thorogood,Lea House,1.5625,1.5625,59.375,1.0,be damp work have settle
+Mac,Lea House,1.5625,1.5625,59.375,1.0,be damp work have settle
+Mary,Mother,1.171875,2.34375,46.484375,0.5,sit listen watch see look
+Mary,Ann,1.171875,2.34375,46.484375,0.5,sit listen watch see look
+Mary,Mother,1.171875,2.34375,46.484375,0.5,sit listen watch see look
+Mary,Ann,1.171875,2.34375,46.484375,0.5,sit listen watch see look
+Mother,Ann,1.171875,2.34375,46.484375,0.5,sit listen watch see look
+Mother,Mrs Horrod,8.75,3.75,67.5,2.3333333333333335,be prepare make walk be get
+Mother,Mrs Horrod,8.75,3.75,67.5,2.3333333333333335,be prepare make walk be get
+Zimmer,Mac,0.0,0.0,46.875,INF,watch ask do mean
+Zimmer,Mac,0.0,0.0,46.875,INF,watch ask do mean
+Mrs Mac,Zimmer,1.1904761904761905,1.1904761904761905,50.0,1.0,come tell want learn
+Zimmer,Mrs Mac,1.1904761904761905,1.1904761904761905,50.0,1.0,come tell want learn
+Betty,Ann,0.0,0.4166666666666667,56.25,0.0,have fill sleep wedge draw flounder
+Betty,Ann,0.0,0.4166666666666667,56.25,0.0,have fill sleep wedge draw flounder
+Betty,Tom,2.5,0.0,17.5,INF,
+Margaret,Tom,2.272727272727273,0.0,43.18181818181818,INF,be call
+Mother,Ann,2.734375,3.90625,49.609375,0.7,keep be kneel be hang retch
+Mother,Ann,0.0,5.208333333333334,44.79166666666667,0.0,retch
+Mrs Horrod,Mother,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,come be go put round
+Mrs Horrod,Mother,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,come be go put round
+Mother,Ann,3.6290322580645165,3.225806451612903,54.43548387096774,1.125,have freeze be set be do shake go
+Mother,Ann,3.6290322580645165,3.225806451612903,54.43548387096774,1.125,have freeze be set be do shake go
+Mother,Ann,3.6290322580645165,3.225806451612903,54.43548387096774,1.125,have freeze be set be do shake go
+Mother,Ann,3.6290322580645165,3.225806451612903,54.43548387096774,1.125,have freeze be set be do shake go
+Ann,Mac,1.7361111111111112,1.7361111111111112,60.416666666666664,1.0,have see have be look be let go
+Ann,Mary,3.9285714285714284,1.7857142857142856,45.714285714285715,2.2,do help be give come
+Ann,Mary,3.9285714285714284,1.7857142857142856,45.714285714285715,2.2,do help be give come
+Mary,Ann,7.142857142857142,0.0,50.0,INF,help move
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Ann,Mary,2.82258064516129,1.2096774193548387,54.03225806451613,2.3333333333333335,squeeze look shrink feed slip
+Mary,Ann,0.0,0.0,52.94117647058824,INF,stay tuck
+Mary,Ann,0.0,3.4722222222222223,63.19444444444444,0.0,do shout come have do
+Ann,Zeppelin,1.6025641025641024,0.9615384615384616,51.28205128205128,1.6666666666666667,lie pull keep spark fall
+Ann,Zeppelin,1.6025641025641024,0.9615384615384616,51.28205128205128,1.6666666666666667,lie pull keep spark fall
+Mother,Mrs Horrod,3.125,4.166666666666666,59.375,0.75,want be shun
+Mrs Horrod,Mother,2.7027027027027026,0.6756756756756757,37.16216216216216,4.0,stand come look be speak do know
+Mrs Horrod,Mother,2.7027027027027026,0.6756756756756757,37.16216216216216,4.0,stand come look be speak do know
+Mrs Horrod,Mother,2.7027027027027026,0.6756756756756757,37.16216216216216,4.0,stand come look be speak do know
+Mrs Horrod,Mother,2.7027027027027026,0.6756756756756757,37.16216216216216,4.0,stand come look be speak do know
+Mother,Mrs Horrod,0.8620689655172413,3.0172413793103448,51.293103448275865,0.2857142857142857,turn save remember be be need
+Mother,Mrs Horrod,0.8620689655172413,3.0172413793103448,51.293103448275865,0.2857142857142857,turn save remember be be need
+Mrs Horrod,Vic,0.0,0.0,50.0,INF,ask have
+Mrs Horrod,Vic,3.571428571428571,0.0,46.42857142857143,INF,smile say be do
+Mrs Horrod,Mother,3.125,0.0,46.875,INF,fall have leave
+Mrs Mac,Mac,2.5,1.25,61.25000000000001,2.0,be sweep be struggle
+Bly,Mr Mackintosh,1.2254901960784315,2.941176470588235,52.69607843137255,0.4166666666666667,do think want ask pull be be build
+Bly,Mr Mackintosh,1.2254901960784315,2.941176470588235,52.69607843137255,0.4166666666666667,do think want ask pull be be build
+Mr Mackintosh,Liverpool,13.636363636363635,2.272727272727273,47.72727272727273,6.0,wonder design
+Mother,Ann,2.941176470588235,0.3676470588235294,52.57352941176471,8.0,help be do have look step
+Ann,Mother,1.893939393939394,0.7575757575757576,57.95454545454546,2.5,take have run hear cry shake
+Ann,Mother,1.893939393939394,0.7575757575757576,57.95454545454546,2.5,take have run hear cry shake
+Ann,Mother,1.893939393939394,0.7575757575757576,57.95454545454546,2.5,take have run hear cry shake
+Ann,Mother,1.893939393939394,0.7575757575757576,57.95454545454546,2.5,take have run hear cry shake
+Mary,Mother,3.125,0.0,53.125,INF,help comb plait
+Mary,Ann,3.125,0.0,53.125,INF,help comb plait
+Mary,Ann,3.125,0.0,53.125,INF,help comb plait
+Mother,Ann,3.125,0.0,53.125,INF,help comb plait
+Mother,Ann,3.125,0.0,53.125,INF,help comb plait
+Ann,George Allard,1.0,1.5,49.5,0.6666666666666666,use fasten
+George Allard,Ann,1.0,1.5,49.5,0.6666666666666666,use fasten
+Ann,Zeppelin,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Ann,Mother,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Zeppelin,Ann,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Zeppelin,Ann,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Zeppelin,Mother,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Ann,Mother,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+Ann,Mother,0.5208333333333333,0.5208333333333333,48.95833333333333,1.0,listen have come knock be turn put round shake
+James,Thomas,3.353658536585366,1.524390243902439,53.65853658536586,2.2,downy make strain see
+James,Thomas,3.353658536585366,1.524390243902439,53.65853658536586,2.2,downy make strain see
+James,Thomas,3.353658536585366,1.524390243902439,53.65853658536586,2.2,downy make strain see
+Mac,Thomas,0.0,0.6944444444444444,65.97222222222221,0.0,have choose walk see have
+Mac,Thomas,0.0,0.6944444444444444,65.97222222222221,0.0,have choose walk see have
+Ann,Mother,0.3289473684210526,1.3157894736842104,53.61842105263158,0.25,open start do mention take let
+Mother,Ann,0.3289473684210526,1.3157894736842104,53.61842105263158,0.25,open start do mention take let
+Mother,Ann,0.3289473684210526,1.3157894736842104,53.61842105263158,0.25,open start do mention take let
+Mother,Ann,2.5,1.25,56.25,2.0,be sit
+Ann,Mac,2.9166666666666665,2.083333333333333,58.333333333333336,1.4,have see be remind sleep lie
+Ann,Mac,1.5625,0.0,51.5625,INF,dance do allow think seal paste
+Mother,Mac,0.8928571428571428,2.976190476190476,50.89285714285714,0.3,scrape squeeze leave blacken stink catch come carry
+Danky,Thorogood,0.9259259259259258,4.166666666666666,39.351851851851855,0.2222222222222222,be cling weep
+Veronica,George Allard,2.272727272727273,1.7045454545454544,59.65909090909091,1.3333333333333333,say be have hear call
+Veronica,Mrs Horrod,2.272727272727273,1.7045454545454544,59.65909090909091,1.3333333333333333,say be have hear call
+George Allard,Mrs Horrod,2.272727272727273,1.7045454545454544,59.65909090909091,1.3333333333333333,say be have hear call
+Mac,George Allard,0.0,0.0,75.0,INF,nod keep draw
+Ann,Betty,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,be know be sprinkle turn
+Ann,Betty,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,be know be sprinkle turn
+Ann,Betty,2.1551724137931036,2.1551724137931036,43.96551724137931,1.0,be know be sprinkle turn
+Betty,Ann,2.232142857142857,4.017857142857143,50.89285714285714,0.5555555555555556,be open want hear take
+Betty,Meg,0.0,0.0,33.33333333333333,INF,
+Betty,Meg,0.0,0.0,33.33333333333333,INF,
+Mary,Mother,1.5625,0.78125,47.65625,2.0,be have move
+Mary,Ann,1.5625,0.78125,47.65625,2.0,be have move
+Mary,Mother,1.5625,0.78125,47.65625,2.0,be have move
+Mary,Ann,1.5625,0.78125,47.65625,2.0,be have move
+Mother,Ann,1.5625,0.78125,47.65625,2.0,be have move
+Tommy,Mother,3.3333333333333335,0.0,30.0,INF,call help
+Mary,Mother,0.5952380952380952,0.0,51.78571428571429,INF,turn look say let
+Mother,Mary,0.0,0.0,57.14285714285714,INF,keep hear sit
+Mother,Ann,0.0,0.0,57.14285714285714,INF,keep hear sit
+Mary,Ann,0.0,0.0,57.14285714285714,INF,keep hear sit
+Zeppelin,Blythburgh,3.0172413793103448,2.586206896551724,56.46551724137932,1.1666666666666667,be keep run want catch
+Blythburgh,Zeppelin,0.6944444444444444,2.7777777777777777,52.083333333333336,0.25,stand wait fall float light sink crash
+Mother,Ann,3.75,1.875,44.375,2.0,be
+Mother,Ann,3.75,1.875,44.375,2.0,be
+Zeppelin,Ann,2.142857142857143,0.0,63.57142857142857,INF,wish have give shake watch blacken fall
+Zeppelin,Ann,0.5434782608695652,0.0,47.28260869565217,INF,lift
+Zeppelin,Ann,0.5434782608695652,0.0,47.28260869565217,INF,lift
+Tommy,Ann,1.3888888888888888,0.0,43.05555555555556,INF,thank say gaze drop
+Tommy,Ann,1.3888888888888888,0.0,43.05555555555556,INF,thank say gaze drop
+Tommy,Ann,1.3888888888888888,0.0,43.05555555555556,INF,thank say gaze drop
+Mother,Ann,0.4807692307692308,0.4807692307692308,52.88461538461539,1.0,cry look smile quieten take
+Mother,Ann,0.4807692307692308,0.4807692307692308,52.88461538461539,1.0,cry look smile quieten take
+Mac,Margaret,5.46875,3.90625,34.375,1.4,write
+Mac,Zeppelin,5.46875,3.90625,34.375,1.4,write
+Margaret,Zeppelin,5.46875,3.90625,34.375,1.4,write
+Ann,Mac,3.5000000000000004,1.0,55.50000000000001,3.5,bring be be tell
+Mac,Ann,12.5,3.125,46.875,4.0,wonder do be keep
+Ann,Mother,1.358695652173913,1.9021739130434785,53.2608695652174,0.7142857142857143,be rescue remember hear call ring rush hurry
+Ann,Zeppelin,0.0,0.0,50.0,INF,
+Mother,Ann,1.7857142857142856,0.8928571428571428,72.32142857142857,2.0,do see be crowd be sit
+Ann,Jimmy,5.555555555555555,0.0,38.88888888888889,INF,take
+Ann,Jim,3.125,4.166666666666666,51.041666666666664,0.75,look begin
+Ann,Jim,3.125,4.166666666666666,51.041666666666664,0.75,look begin
+Ann,Jimmy,6.25,3.90625,46.09375,1.6,sit take
+Ann,Jimmy,6.25,3.90625,46.09375,1.6,sit take
+Ann,Jimmy,0.9259259259259258,2.314814814814815,48.61111111111111,0.4,be be torpedo
+Jimmy,Ann,3.3333333333333335,0.0,50.0,INF,be
+Ann,Jimmy,1.7241379310344827,3.0172413793103448,40.08620689655172,0.5714285714285714,have let go hold
+Ann,Jimmy,1.7241379310344827,3.0172413793103448,40.08620689655172,0.5714285714285714,have let go hold
+Ann,Jimmy,1.7241379310344827,3.0172413793103448,40.08620689655172,0.5714285714285714,have let go hold
+Ann,Jimmy,1.7241379310344827,3.0172413793103448,40.08620689655172,0.5714285714285714,have let go hold
+Zeppelin,Lea House,1.3513513513513513,0.0,60.810810810810814,INF,do have walk drag have reach
+Mac,Margaret,5.0,2.5,32.5,2.0,be
+Mac,Zeppelin,0.5434782608695652,1.0869565217391304,59.2391304347826,0.5,ease draw
+Mac,Mrs Mac,0.5434782608695652,1.0869565217391304,59.2391304347826,0.5,ease draw
+Zeppelin,Mrs Mac,0.5434782608695652,1.0869565217391304,59.2391304347826,0.5,ease draw
+Tommy,Ann,1.1363636363636365,2.6515151515151514,35.60606060606061,0.42857142857142855,climb want follow bite show be
+Tommy,Ann,1.1363636363636365,2.6515151515151514,35.60606060606061,0.42857142857142855,climb want follow bite show be
+Tommy,Ann,1.1363636363636365,2.6515151515151514,35.60606060606061,0.42857142857142855,climb want follow bite show be
+Ann,Jimmy,0.0,3.289473684210526,44.07894736842105,0.0,be marry
+Ann,Jimmy,2.272727272727273,0.0,34.090909090909086,INF,take read
+Jimmy,Ann,2.083333333333333,1.0416666666666665,46.875,2.0,be give say sign
+Ann,Jimmy,2.083333333333333,1.0416666666666665,46.875,2.0,be give say sign
+Ann,Jimmy,1.5,0.0,58.5,INF,hand back take have take
+Ann,Jimmy,1.5,0.0,58.5,INF,hand back take have take
+Ann,Jimmy,1.5,0.0,58.5,INF,hand back take have take
+Ann,Jimmy,1.5,0.0,58.5,INF,hand back take have take
+Jimmy,Ann,1.5,0.0,58.5,INF,hand back take have take
+Jimmy,Ann,1.5,0.0,58.5,INF,hand back take have take
+Jimmy,Ann,1.5,0.0,58.5,INF,hand back take have take
+Jimmy,Ann,1.5,0.0,58.5,INF,hand back take have take
+Mother,Jimmy,1.0869565217391304,0.0,59.78260869565217,INF,ask say be start haul deliver
+Mother,Jimmy,1.0869565217391304,0.0,59.78260869565217,INF,ask say be start haul deliver
+Mother,Jimmy,1.0869565217391304,0.0,59.78260869565217,INF,ask say be start haul deliver
+Mrs Kerridge,Jim,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Mrs Kerridge,Jimmy,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Mrs Kerridge,Jim,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Mrs Kerridge,Jimmy,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jim,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jim,Jimmy,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jim,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jim,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jim,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Mrs Kerridge,Jimmy,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jimmy,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jimmy,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+Jimmy,Mrs Kerridge,2.8846153846153846,0.0,43.269230769230774,INF,say make be look bite stop smile
+William,James,0.0,0.0,16.666666666666664,INF,
+William,James,0.0,0.0,16.666666666666664,INF,
+William,James,0.0,0.0,33.33333333333333,INF,
+William,Thomas,0.0,0.0,33.33333333333333,INF,
+James,Thomas,0.0,0.0,33.33333333333333,INF,
+Mac,Thomas,0.0,0.0,61.111111111111114,INF,watch follow see be
+Mac,Thomas,0.625,2.5,49.375,0.25,fly have hop leap raise lose
+Mac,Thomas,0.625,2.5,49.375,0.25,fly have hop leap raise lose
+Danky,Watson,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Danky,Watson,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Danky,Thorogood,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Danky,Mac,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Watson,Thorogood,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Watson,Mac,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Watson,Thorogood,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Watson,Mac,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Thorogood,Mac,2.295918367346939,0.0,42.60204081632653,INF,run keep tuck get crouch
+Watson,Whatman,0.0,0.0,61.904761904761905,INF,lift lay stem
+Mac,Watson,0.0,0.0,60.0,INF,wipe
+Margaret,Mac,7.6923076923076925,1.4423076923076923,33.17307692307692,5.333333333333333,say frill be have
+Mac,Margaret,7.6923076923076925,1.4423076923076923,33.17307692307692,5.333333333333333,say frill be have
+Bly,Mary,2.7777777777777777,0.9259259259259258,66.66666666666666,3.0,think call see have be raise be know
+Margaret,Frances,0.0,0.0,42.857142857142854,INF,come
+Margaret,Frances,0.0,0.0,42.857142857142854,INF,come
+Mac,Frances,5.357142857142857,1.7857142857142856,64.28571428571429,3.0,be
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Keppie,Miss Cranston,2.083333333333333,0.9259259259259258,54.39814814814815,2.25,be make suppose have keep commission be rely keep
+Jessie,Margaret,2.083333333333333,5.46875,50.78125,0.38095238095238093,complain have have tell become
+Jessie,Muthesius,2.083333333333333,5.46875,50.78125,0.38095238095238093,complain have have tell become
+Margaret,Muthesius,2.083333333333333,5.46875,50.78125,0.38095238095238093,complain have have tell become
+Muthesius,Lea House,2.857142857142857,2.5,51.78571428571429,1.1428571428571428,begin write be hear organise
+Muthesius,Lea House,2.857142857142857,2.5,51.78571428571429,1.1428571428571428,begin write be hear organise
+Mrs Mac,Mac,4.166666666666666,1.6666666666666667,54.166666666666664,2.5,be dream tell
+Mrs Mac,Mac,4.166666666666666,1.6666666666666667,54.166666666666664,2.5,be dream tell
+Mrs Mac,Lea House,0.0,0.43103448275862066,61.63793103448276,0.0,go sit slide
+Lea House,Mrs Mac,0.0,0.43103448275862066,61.63793103448276,0.0,go sit slide
+Margaret,Mrs Mac,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,read swallow change begin read
+Margaret,Mrs Mac,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,read swallow change begin read
+Margaret,Mrs Mac,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,read swallow change begin read
+Waerndorfer,Mrs Mac,4.807692307692308,1.9230769230769231,31.73076923076923,2.5,shrug
+Mac,Mrs Mac,2.7777777777777777,1.3888888888888888,56.94444444444444,2.0,see
+Ann,Jimmy,2.4193548387096775,6.048387096774194,43.145161290322584,0.4,be marry fear
+Ann,Mother,2.4193548387096775,6.048387096774194,43.145161290322584,0.4,be marry fear
+Jimmy,Mother,2.4193548387096775,6.048387096774194,43.145161290322584,0.4,be marry fear
+Mrs Kerridge,Jimmy,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Mrs Kerridge,Mother,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Mrs Kerridge,Mary,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Jimmy,Mrs Kerridge,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Jimmy,Mother,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Jimmy,Mary,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Mrs Kerridge,Mother,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Mrs Kerridge,Mary,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+Mother,Mary,2.989130434782609,0.2717391304347826,55.434782608695656,11.0,seem be get sit stare look
+George Allard,Fred Tilson,2.0,1.5,40.5,1.3333333333333333,be squeeze
+George Allard,Tibbles,2.0,1.5,40.5,1.3333333333333333,be squeeze
+Fred Tilson,Tibbles,2.0,1.5,40.5,1.3333333333333333,be squeeze
+Ann,Jimmy,0.0,0.0,40.0,INF,
+Mother,Bell,2.314814814814815,0.4629629629629629,45.370370370370374,5.0,protest be sweep swish
+Mother,Bell,2.314814814814815,0.4629629629629629,45.370370370370374,5.0,protest be sweep swish
+Betty,Ellen,0.625,0.0,49.375,INF,see hover
+Tommy,Tom,2.083333333333333,0.0,14.583333333333334,INF,
+Mother,Ann,0.9615384615384616,1.4423076923076923,59.13461538461539,0.6666666666666666,think hear be sleep
+Mrs Horrod,Mother,2.5,0.8333333333333334,56.666666666666664,3.0,be stand entwine
+Ann,Jimmy,0.0,0.0,46.666666666666664,INF,be dance
+Jimmy,Ann,3.571428571428571,3.571428571428571,50.0,1.0,go catch
+Jimmy,Mother,3.571428571428571,3.571428571428571,50.0,1.0,go catch
+Jimmy,Mother,3.571428571428571,3.571428571428571,50.0,1.0,go catch
+Ann,Mother,3.571428571428571,3.571428571428571,50.0,1.0,go catch
+Ann,Mother,3.571428571428571,3.571428571428571,50.0,1.0,go catch
+Tibbles,Fred Tilson,0.8928571428571428,0.0,56.25,INF,have squeeze shut fasten latch
+Mary,Danky,3.6458333333333335,0.5208333333333333,29.166666666666668,7.0,be be be
+George Allard,Danky,0.0,0.0,45.0,INF,swing hold wait get
+George Allard,Danky,0.0,0.0,45.0,INF,swing hold wait get
+Thorogood,Lea House,1.25,1.25,62.5,1.0,be
+Mac,Keppie,0.7352941176470588,4.411764705882353,53.67647058823529,0.16666666666666666,stare be be talk
+Honeyman,Keppie,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,be name
+Honeyman,Mr Mackintosh,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,be name
+Keppie,Mr Mackintosh,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,be name
+Glasgow School of Art,Keppie,3.3333333333333335,0.4166666666666667,59.583333333333336,8.0,be be describe have be design
+Glasgow School of Art,Mr Mackintosh,3.3333333333333335,0.4166666666666667,59.583333333333336,8.0,be be describe have be design
+Keppie,Mr Mackintosh,3.3333333333333335,0.4166666666666667,59.583333333333336,8.0,be be describe have be design
+Keppie,Mac,1.9736842105263157,3.289473684210526,47.368421052631575,0.6,have go drift
+Honeyman,Keppie,5.729166666666666,3.6458333333333335,40.625,1.5714285714285714,be hear have win miss
+Honeyman,Jordanhill,5.729166666666666,3.6458333333333335,40.625,1.5714285714285714,be hear have win miss
+Keppie,Jordanhill,5.729166666666666,3.6458333333333335,40.625,1.5714285714285714,be hear have win miss
+Danky,Mac,0.0,0.0,55.172413793103445,INF,be include shoot be leaf
+Mrs Herr Macdonald,Mac,1.3157894736842104,0.6578947368421052,40.131578947368425,2.0,read strike
+George Allard,Betty,0.6578947368421052,0.0,67.76315789473685,INF,run remember flick walk
+George Allard,Betty,0.6578947368421052,0.0,67.76315789473685,INF,run remember flick walk
+George Allard,Betty,0.6578947368421052,0.0,67.76315789473685,INF,run remember flick walk
+George Allard,Betty,0.6578947368421052,0.0,67.76315789473685,INF,run remember flick walk
+William,Thomas,0.0,5.0,35.0,0.0,whisper
+Ann,Mary,2.604166666666667,0.5208333333333333,59.375,5.0,order be roll
+Ann,Mother,2.604166666666667,0.5208333333333333,59.375,5.0,order be roll
+Mary,Mother,2.604166666666667,0.5208333333333333,59.375,5.0,order be roll
+Mother,Ann,1.875,0.0,48.125,INF,rise brush call be scrub
+Mother,Ann,1.875,0.0,48.125,INF,rise brush call be scrub
+Mother,Blythburgh,5.357142857142857,1.7857142857142856,50.0,3.0,be be trot
+Mother,Ann,0.4166666666666667,2.9166666666666665,46.666666666666664,0.14285714285714285,do have set give tie
+Ann,Mother,0.4166666666666667,2.9166666666666665,46.666666666666664,0.14285714285714285,do have set give tie
+Mac,Margaret,2.7777777777777777,1.3888888888888888,53.61111111111111,2.0,see jump watch find stand anchor
+Mac,Margaret,2.7777777777777777,1.3888888888888888,53.61111111111111,2.0,see jump watch find stand anchor
+Mac,Royal Navy,2.7777777777777777,1.3888888888888888,53.61111111111111,2.0,see jump watch find stand anchor
+Margaret,Royal Navy,2.7777777777777777,1.3888888888888888,53.61111111111111,2.0,see jump watch find stand anchor
+Margaret,Royal Navy,2.7777777777777777,1.3888888888888888,53.61111111111111,2.0,see jump watch find stand anchor
+Royal Navy,Margaret,2.5735294117647056,2.5735294117647056,50.73529411764706,1.0,be think take question put
+Royal Navy,Margaret,2.5735294117647056,2.5735294117647056,50.73529411764706,1.0,be think take question put
+Royal Navy,Margaret,2.5735294117647056,2.5735294117647056,50.73529411764706,1.0,be think take question put
+Mac,Margaret,1.1904761904761905,0.5952380952380952,64.88095238095238,2.0,cling float watch be hand
+Zimmer,Der Vogel,0.0,0.0,12.5,INF,
+Margaret,Mac,0.0,0.5434782608695652,60.32608695652174,0.0,take sit put
+Margaret,Der Vogel,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,come be do
+Der Vogel,Margaret,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,come be do
+Margaret,Der Vogel,0.0,0.0,50.0,INF,stroke
+Mother,Mrs Horrod,2.272727272727273,3.977272727272727,39.20454545454545,0.5714285714285714,be watch lie tend
+Mother,Mrs Horrod,2.272727272727273,3.977272727272727,39.20454545454545,0.5714285714285714,be watch lie tend
+Mother,Mrs Horrod,2.272727272727273,3.977272727272727,39.20454545454545,0.5714285714285714,be watch lie tend
+Mother,Mrs Horrod,2.272727272727273,3.977272727272727,39.20454545454545,0.5714285714285714,be watch lie tend
+Ann,Jimmy,3.3333333333333335,1.25,52.083333333333336,2.6666666666666665,have be go return take
+Mac,Jimmy,0.0,0.0,85.71428571428571,INF,follow go
+Margaret,Mr Mackintosh,1.0204081632653061,1.2755102040816326,52.806122448979586,0.8,be prevent do impress be hold
+Betty,Royal Navy,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,be flap think say know swim catch
+Betty,Royal Navy,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,be flap think say know swim catch
+Betty,Royal Navy,0.6944444444444444,1.3888888888888888,42.36111111111111,0.5,be flap think say know swim catch
+Ann,Jimmy,7.03125,6.25,49.21875,1.125,be have
+Jimmy,Bell,2.941176470588235,0.3676470588235294,55.51470588235294,8.0,be be drink chase be run use do
+Jimmy,Bell,2.941176470588235,0.3676470588235294,55.51470588235294,8.0,be be drink chase be run use do
+Jimmy,Bell,2.941176470588235,0.3676470588235294,55.51470588235294,8.0,be be drink chase be run use do
+Jimmy,Bell,2.941176470588235,0.3676470588235294,55.51470588235294,8.0,be be drink chase be run use do
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Betty,Bell,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Betty,Bell,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Betty,Bell,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Betty,Bell,0.3205128205128205,1.282051282051282,47.11538461538461,0.25,be stand come stoop listen
+Bell,Betty,5.681818181818182,0.0,30.681818181818183,INF,do know tell
+Bell,Betty,0.0,0.0,50.0,INF,tell wait
+Bell,Betty,1.1363636363636365,0.0,44.31818181818182,INF,come have
+Bell,Betty,1.1363636363636365,0.0,44.31818181818182,INF,come have
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Thomas,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Thomas,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Thomas,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Vic,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Betty,Thomas,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Thomas,Betty,3.1862745098039214,1.715686274509804,48.03921568627451,1.8571428571428572,be call know be come unwrap see be
+Mac,Margaret,2.6515151515151514,1.5151515151515151,44.31818181818182,1.75,do need survive be be know have look
+Mac,MacNair,1.9927536231884055,1.0869565217391304,56.34057971014492,1.8333333333333333,write do offer offer reduce write afford take be be give be drink
+Mac,Mr Mackintosh,0.0,4.464285714285714,52.67857142857143,0.0,be give
+Ann,Mary,1.4423076923076923,0.0,52.40384615384615,INF,be be come stay go turn
+Ann,Mother,1.4423076923076923,0.0,52.40384615384615,INF,be be come stay go turn
+Mary,Mother,1.4423076923076923,0.0,52.40384615384615,INF,be be come stay go turn
+Rose,Lea House,1.7857142857142856,0.5952380952380952,50.0,3.0,use re-create make have be build

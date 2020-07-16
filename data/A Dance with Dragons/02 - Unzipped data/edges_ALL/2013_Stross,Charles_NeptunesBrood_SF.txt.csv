@@ -1,0 +1,590 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Taj Beacon,Dojima System,1.3157894736842104,0.6578947368421052,55.92105263157895,2.0,be be flow enter leave
+Taj Beacon,Atlantis,1.3888888888888888,3.373015873015873,57.14285714285714,0.4117647058823529,be have visit be preside grasp boil churn
+Taj Beacon,Ana,0.35714285714285715,1.7857142857142856,55.00000000000001,0.2,spend buy propagate
+Ana,Shin-Tethys,1.5,1.0,61.5,1.5,have be miss begin download give have live float
+Mother Church,Krina,2.941176470588235,1.4705882352941175,25.0,2.0,be be
+Sondra,Briony,2.925531914893617,2.393617021276596,47.87234042553192,1.2222222222222223,shape twist turn understand
+Mother,Gould,1.3888888888888888,3.4722222222222223,39.58333333333333,0.4,be traumatize be
+Cook,Mother,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,cook choose persevere do
+Cook,Gould,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,cook choose persevere do
+Mother,Gould,2.083333333333333,1.0416666666666665,51.041666666666664,2.0,cook choose persevere do
+Dennett,Ms. Alizond,0.6578947368421052,1.9736842105263157,50.0,0.3333333333333333,puff spike burn be
+Dennett,Ms. Alizond,0.6578947368421052,1.9736842105263157,50.0,0.3333333333333333,puff spike burn be
+Rosa,Cybelle,0.0,0.0,37.5,INF,
+Shin-Tethys,Taj Beacon,3.90625,2.734375,52.734375,1.4285714285714286,be work reach berth be buy
+Dennett,Taj Beacon,2.8846153846153846,7.6923076923076925,50.96153846153846,0.375,say have be leave be kill
+Dennett,Cybelle,1.5625,1.3888888888888888,56.770833333333336,1.125,decide share have tell be lie engage lie
+Dennett,Cybelle,1.5625,1.3888888888888888,56.770833333333336,1.125,decide share have tell be lie engage lie
+Dennett,Cybelle,1.5625,1.3888888888888888,56.770833333333336,1.125,decide share have tell be lie engage lie
+Hector,Sondra,0.0,1.3392857142857142,62.94642857142857,0.0,be
+Sondra,Hector,2.734375,2.34375,57.421875,1.1666666666666667,take amass labor take take be spare hesitate call
+Hector,Sondra,2.734375,2.34375,57.421875,1.1666666666666667,take amass labor take take be spare hesitate call
+Mother,Cybelle,4.0,1.5,38.5,2.6666666666666665,be enjoy
+Mother,Cybelle,4.0,1.5,38.5,2.6666666666666665,be enjoy
+Shin-Tethys,Ana,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Shin-Tethys,Taj Beacon,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Shin-Tethys,Ganesh,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Ana,Taj Beacon,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Ana,Ganesh,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Taj Beacon,Ganesh,1.1363636363636365,3.977272727272727,53.97727272727273,0.2857142857142857,be be
+Dennett,Gould,0.0,1.0714285714285714,58.92857142857143,0.0,be work risk open float follow
+Ms. Alizond,Dennett,1.3020833333333335,1.8229166666666667,55.208333333333336,0.7142857142857143,get jab do add fry harvest
+Mother,Dennett,0.0,0.0,33.33333333333333,INF,say
+Dennett,Gould,0.0,2.7777777777777777,52.77777777777778,0.0,catch say toss
+Cybelle,Dennett,7.352941176470589,4.411764705882353,29.411764705882355,1.6666666666666667,be impregnate say
+Cybelle,Dennett,7.352941176470589,4.411764705882353,29.411764705882355,1.6666666666666667,be impregnate say
+Rosen,Dr. Jansen,1.5,0.0,54.50000000000001,INF,proceed take work
+Taj Beacon,Dojima System,1.0273972602739725,0.17123287671232876,53.5958904109589,6.0,skip head study arrive
+Taj Beacon,Ana,1.0273972602739725,0.17123287671232876,53.5958904109589,6.0,skip head study arrive
+Dojima System,Ana,1.0273972602739725,0.17123287671232876,53.5958904109589,6.0,skip head study arrive
+Dr. Jansen,Ana,0.0,0.0,59.375,INF,reach be wait be move
+Dr. Jansen,Ana,0.0,0.0,59.375,INF,reach be wait be move
+Dr. Jansen,Shin-Tethys,0.0,0.0,59.375,INF,reach be wait be move
+Ana,Shin-Tethys,0.0,0.0,59.375,INF,reach be wait be move
+Ana,Shin-Tethys,0.0,0.0,59.375,INF,reach be wait be move
+Taj Beacon,Shin-Tethys,3.3333333333333335,2.083333333333333,54.58333333333333,1.6,find
+Mother,Gould,0.3205128205128205,1.9230769230769231,59.294871794871796,0.16666666666666666,task convey clean run
+Dennett,Gould,0.3125,1.5625,63.125,0.2,enter discover attend wrap hang
+Dennett,Gould,0.3125,1.5625,63.125,0.2,enter discover attend wrap hang
+Dennett,Gould,0.3125,1.5625,63.125,0.2,enter discover attend wrap hang
+Ms. Alizond,Mother Church,6.832432432432432,4.316216216216216,51.01351351351351,1.582968065122104,be know be hold warn reap
+Cybelle,Taj Beacon,1.6609756097560977,5.65609756097561,53.65853658536586,0.2936610608020699,be spare be have handle
+Cook,Mother,1.7543859649122806,1.0964912280701753,55.04385964912281,1.6,have notice have choose remain confine communicate cook stick gestate lurk
+Cook,Dennett,1.7543859649122806,1.0964912280701753,55.04385964912281,1.6,have notice have choose remain confine communicate cook stick gestate lurk
+Cook,Dennett,1.7543859649122806,1.0964912280701753,55.04385964912281,1.6,have notice have choose remain confine communicate cook stick gestate lurk
+Mother,Dennett,1.7543859649122806,1.0964912280701753,55.04385964912281,1.6,have notice have choose remain confine communicate cook stick gestate lurk
+Mother,Dennett,1.7543859649122806,1.0964912280701753,55.04385964912281,1.6,have notice have choose remain confine communicate cook stick gestate lurk
+Cook,Mother,4.807692307692308,0.9615384615384616,40.38461538461539,5.0,be
+Mother,Cook,0.0,0.625,44.375,0.0,glare float entwine
+Cook,Mother,3.1976744186046515,2.9069767441860463,59.01162790697675,1.1,be share have be be
+Cybelle,Willard,0.6578947368421052,1.3157894736842104,40.131578947368425,0.5,be tell
+Mother,Cook,0.0,1.5625,60.9375,0.0,give cook
+Mother,Cook,1.3157894736842104,1.9736842105263157,49.34210526315789,0.6666666666666666,be come stumble be happen
+Dennett,Cybelle,3.9893617021276597,1.3297872340425532,52.12765957446809,3.0,press have promise meddle meddle be qualify meddle
+Dennett,Cybelle,3.9893617021276597,1.3297872340425532,52.12765957446809,3.0,press have promise meddle meddle be qualify meddle
+Cybelle,Dennett,3.9893617021276597,1.3297872340425532,52.12765957446809,3.0,press have promise meddle meddle be qualify meddle
+Dennett,Cybelle,1.8518518518518516,1.8518518518518516,40.74074074074074,1.0,have retrieve be leave
+Dennett,Cybelle,1.8518518518518516,1.8518518518518516,40.74074074074074,1.0,have retrieve be leave
+Dennett,Cybelle,1.8518518518518516,1.8518518518518516,40.74074074074074,1.0,have retrieve be leave
+Dennett,Cybelle,0.6756756756756757,2.364864864864865,59.12162162162162,0.2857142857142857,send round do wait return turn push
+Dennett,Cybelle,0.6756756756756757,2.364864864864865,59.12162162162162,0.2857142857142857,send round do wait return turn push
+Dennett,Cybelle,0.6756756756756757,2.364864864864865,59.12162162162162,0.2857142857142857,send round do wait return turn push
+Dennett,Cybelle,0.6756756756756757,2.364864864864865,59.12162162162162,0.2857142857142857,send round do wait return turn push
+Dennett,Cybelle,0.2232142857142857,1.1160714285714286,52.23214285714286,0.2,be etiolate sit look be fasten climb
+Dennett,Cybelle,0.2232142857142857,1.1160714285714286,52.23214285714286,0.2,be etiolate sit look be fasten climb
+Dennett,Cybelle,1.4150943396226416,1.650943396226415,61.08490566037735,0.8571428571428571,dance dart pull push be enthral fail see twitch attract
+Dennett,Cybelle,1.4150943396226416,1.650943396226415,61.08490566037735,0.8571428571428571,dance dart pull push be enthral fail see twitch attract
+Dennett,Cybelle,1.4150943396226416,1.650943396226415,61.08490566037735,0.8571428571428571,dance dart pull push be enthral fail see twitch attract
+Dennett,Cybelle,1.4150943396226416,1.650943396226415,61.08490566037735,0.8571428571428571,dance dart pull push be enthral fail see twitch attract
+Cybelle,Dennett,1.4150943396226416,1.650943396226415,61.08490566037735,0.8571428571428571,dance dart pull push be enthral fail see twitch attract
+Dennett,Cybelle,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Dennett,Cybelle,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Dennett,Cybelle,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Dennett,Cybelle,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Cybelle,Dennett,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Cybelle,Dennett,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Dennett,Cybelle,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Cybelle,Dennett,1.25,2.5,52.916666666666664,0.5,have hunch have land sink
+Dennett,Cybelle,0.0,0.0,47.05882352941176,INF,remove
+Cybelle,Dennett,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,overshoot crash impose jut look catch squawk recoil
+Cybelle,Dennett,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,overshoot crash impose jut look catch squawk recoil
+Cybelle,Dennett,1.1904761904761905,2.380952380952381,53.57142857142857,0.5,overshoot crash impose jut look catch squawk recoil
+Dennett,Cybelle,0.0,0.0,63.63636363636363,INF,tumble turn
+Dennett,Cybelle,3.6458333333333335,3.6458333333333335,59.375,1.0,hurl
+Krina,Cybelle,2.6785714285714284,5.952380952380952,55.654761904761905,0.45,have anticipate outrun hide work
+Krina,Cybelle,2.6785714285714284,5.952380952380952,55.654761904761905,0.45,have anticipate outrun hide work
+Krina,Cybelle,2.34375,0.0,53.90625,INF,have pass attend
+Cook,Mother,0.0,0.0,41.17647058823529,INF,begin fall
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Willard,Mother,4.280821917808219,1.8835616438356164,44.52054794520548,2.272727272727273,be go send be be be go send start be be give
+Mother,Willard,0.0,0.0,60.0,INF,cower raise be
+Mother,Willard,0.0,0.0,60.0,INF,cower raise be
+Willard,Cook,0.4464285714285714,0.0,42.410714285714285,INF,make surround
+Willard,Cook,0.4464285714285714,0.0,42.410714285714285,INF,make surround
+Cook,Mother,4.62962962962963,6.018518518518518,56.018518518518526,0.7692307692307693,be seethe have interrupt fetch
+Cook,Mother,4.62962962962963,6.018518518518518,56.018518518518526,0.7692307692307693,be seethe have interrupt fetch
+Dennett,Cook,5.113636363636364,3.125,53.125,1.6363636363636365,be tell have leg realize be
+Dennett,Cybelle,1.6666666666666667,1.6666666666666667,56.666666666666664,1.0,think be say be
+Dennett,Cybelle,1.6666666666666667,1.6666666666666667,56.666666666666664,1.0,think be say be
+Willard,Cybelle,1.3888888888888888,3.888888888888889,48.05555555555556,0.35714285714285715,be record be loom claw
+Cybelle,Willard,1.3888888888888888,3.888888888888889,48.05555555555556,0.35714285714285715,be record be loom claw
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Willard,Cybelle,0.8771929824561403,1.3157894736842104,52.19298245614035,0.6666666666666666,be be swing shift dart wrap grab
+Cook,Cybelle,0.0,0.3787878787878788,51.13636363636363,0.0,be die absorb
+Cook,Cybelle,0.0,0.3787878787878788,51.13636363636363,0.0,be die absorb
+Cybelle,Willard,4.3478260869565215,2.1739130434782608,56.52173913043478,2.0,infer be feed lean swivel sidelong
+Cybelle,Willard,4.3478260869565215,2.1739130434782608,56.52173913043478,2.0,infer be feed lean swivel sidelong
+Cybelle,Willard,4.3478260869565215,2.1739130434782608,56.52173913043478,2.0,infer be feed lean swivel sidelong
+Willard,Cybelle,2.4193548387096775,2.0161290322580645,63.306451612903224,1.2,find manufacture unseal squirt
+Cybelle,Cook,4.166666666666666,0.0,58.333333333333336,INF,be distract cook make haul float
+Cybelle,Cook,4.166666666666666,0.0,58.333333333333336,INF,be distract cook make haul float
+Andrea,Ana,3.0,2.0,43.0,1.5,be think
+Dennett,Gould,1.1029411764705883,2.2058823529411766,67.27941176470588,0.5,have manage lock form
+Dennett,Cybelle,1.1029411764705883,2.2058823529411766,67.27941176470588,0.5,have manage lock form
+Gould,Cybelle,1.1029411764705883,2.2058823529411766,67.27941176470588,0.5,have manage lock form
+Cybelle,Gould,2.4456521739130435,1.0869565217391304,57.33695652173913,2.25,be be suckle be take be lash
+Gould,Cybelle,2.4456521739130435,1.0869565217391304,57.33695652173913,2.25,be be suckle be take be lash
+Dennett,Cybelle,0.0,7.142857142857142,57.14285714285714,0.0,lean lose
+Cybelle,Gould,3.7280701754385963,5.482456140350877,53.94736842105263,0.68,be have die have vote liquidate compare have raven subdue be
+Cybelle,Gould,3.7280701754385963,5.482456140350877,53.94736842105263,0.68,be have die have vote liquidate compare have raven subdue be
+Gould,Cybelle,3.7280701754385963,5.482456140350877,53.94736842105263,0.68,be have die have vote liquidate compare have raven subdue be
+Gould,Cybelle,3.7280701754385963,5.482456140350877,53.94736842105263,0.68,be have die have vote liquidate compare have raven subdue be
+Dennett,Cybelle,4.807692307692308,4.807692307692308,48.07692307692308,1.0,be have be talk heat crank force-feed integrate
+Dennett,Cybelle,4.807692307692308,4.807692307692308,48.07692307692308,1.0,be have be talk heat crank force-feed integrate
+Dennett,Cybelle,4.807692307692308,4.807692307692308,48.07692307692308,1.0,be have be talk heat crank force-feed integrate
+Dennett,Cybelle,0.0,2.717391304347826,36.41304347826087,0.0,put regenerate supply swallow
+Cybelle,Dennett,1.3888888888888888,4.166666666666666,53.70370370370371,0.3333333333333333,be turn be try evade board
+Cybelle,Dennett,1.3888888888888888,4.166666666666666,53.70370370370371,0.3333333333333333,be turn be try evade board
+Cybelle,Dennett,1.3888888888888888,4.166666666666666,53.70370370370371,0.3333333333333333,be turn be try evade board
+Mother,Cook,2.34375,3.90625,50.0,0.6,note cook
+Dennett,Cybelle,3.75,1.25,35.0,3.0,twitch swivel gaze
+Dennett,Cybelle,3.75,1.25,35.0,3.0,twitch swivel gaze
+Dennett,Gould,2.8846153846153846,0.0,66.34615384615384,INF,glance sidelong
+Dennett,Cybelle,2.8846153846153846,0.0,66.34615384615384,INF,glance sidelong
+Gould,Cybelle,2.8846153846153846,0.0,66.34615384615384,INF,glance sidelong
+Dennett,Ms. Alizond,2.083333333333333,1.5625,50.520833333333336,1.3333333333333333,raise be do ask
+Ms. Alizond,Dennett,2.5,3.125,44.375,0.8,divert be add
+Ms. Alizond,Shin-Tethys,2.34375,1.5625,42.96875,1.5,trail be have go be define be mean go
+Shin-Tethys,Ms. Alizond,2.34375,1.5625,42.96875,1.5,trail be have go be define be mean go
+Ms. Alizond,Dojima System,5.232558139534884,3.77906976744186,53.779069767441854,1.3846153846153846,have mention have attract
+Ms. Alizond,Dojima System,5.232558139534884,3.77906976744186,53.779069767441854,1.3846153846153846,have mention have attract
+Ana,Krina,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,do know be
+Shin-Tethys,Nova Ploetsk,0.5319148936170213,1.0638297872340425,40.95744680851064,0.5,go be comment scritch
+Shin-Tethys,Argos,0.5319148936170213,1.0638297872340425,40.95744680851064,0.5,go be comment scritch
+Shin-Tethys,Nova Ploetsk,0.5319148936170213,1.0638297872340425,40.95744680851064,0.5,go be comment scritch
+Nova Ploetsk,Argos,0.5319148936170213,1.0638297872340425,40.95744680851064,0.5,go be comment scritch
+Argos,Nova Ploetsk,0.5319148936170213,1.0638297872340425,40.95744680851064,0.5,go be comment scritch
+Cybelle,Dennett,3.3333333333333335,1.9444444444444444,50.27777777777778,1.7142857142857142,throw recall explain
+Dennett,Cybelle,3.3333333333333335,1.9444444444444444,50.27777777777778,1.7142857142857142,throw recall explain
+Andrea,Ana,2.0089285714285716,2.455357142857143,63.39285714285714,0.8181818181818182,know babble take call think be have arrive disappear
+Andrea,Ana,2.0089285714285716,2.455357142857143,63.39285714285714,0.8181818181818182,know babble take call think be have arrive disappear
+Andrea,Ana,2.0089285714285716,2.455357142857143,63.39285714285714,0.8181818181818182,know babble take call think be have arrive disappear
+Taj Beacon,Ana,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Taj Beacon,Ana,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Taj Beacon,Ana,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Taj Beacon,Dennett,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Taj Beacon,Andrea,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Dennett,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Andrea,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Dennett,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Andrea,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Dennett,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Ana,Andrea,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Dennett,Andrea,4.588607594936709,1.740506329113924,54.43037974683544,2.6363636363636362,have depart hijack get ask have get be be hide have betray take
+Andrea,Atlantis,2.403846153846154,1.9230769230769231,41.82692307692308,1.25,pause compose upset continue appear have leak
+Ana,Dojima System,0.625,0.625,58.75,1.0,need lie be stick
+Ana,Shin-Kyoto,3.389830508474576,1.9067796610169492,40.46610169491525,1.7777777777777777,tell be do head be find meet have stop listen be overhear
+Ana,Shin-Kyoto,3.389830508474576,1.9067796610169492,40.46610169491525,1.7777777777777777,tell be do head be find meet have stop listen be overhear
+Ana,Shin-Kyoto,3.389830508474576,1.9067796610169492,40.46610169491525,1.7777777777777777,tell be do head be find meet have stop listen be overhear
+Shin-Kyoto,Ana,3.389830508474576,1.9067796610169492,40.46610169491525,1.7777777777777777,tell be do head be find meet have stop listen be overhear
+Dojima System,Shin-Tethys,1.25,2.5,46.25,0.5,avoid plague
+Ana,Atlantis,3.313253012048193,4.518072289156627,51.204819277108435,0.7333333333333333,be run have loathe fear be be wind do redeem tarnish
+Atlantis,Dennett,5.902777777777778,0.6944444444444444,43.40277777777778,8.5,understand be need continue wave
+Ms. Alizond,Ana,1.2096774193548387,2.4193548387096775,54.43548387096774,0.5,be ask miss be note
+Rudi,Ms. Alizond,3.4090909090909087,2.840909090909091,61.93181818181818,1.2,yawn reveal polish have be
+Dennett,Cybelle,2.7777777777777777,1.0416666666666665,48.95833333333333,2.6666666666666665,be get finish reprogram be
+Cybelle,Dennett,0.0,0.0,42.857142857142854,INF,swallow shove
+Ms. Alizond,Ana,2.840909090909091,1.1363636363636365,55.11363636363637,2.5,let be want lead
+Branch Office,Shin-Kyoto,1.1904761904761905,0.7936507936507936,58.333333333333336,1.5,be assure accept be recognize enforce be tell be carry sign
+Rudi,Dojima System,1.4705882352941175,4.411764705882353,41.17647058823529,0.3333333333333333,count be
+Rudi,Dojima System,1.4705882352941175,4.411764705882353,41.17647058823529,0.3333333333333333,count be
+Dojima System,Taj Beacon,2.9605263157894735,1.4802631578947367,54.76973684210527,2.0,be be want trace lock lead trail
+Mira,Shin-Tethys,0.0,0.0,32.0,INF,war
+Mira,Shin-Tethys,2.7439024390243905,2.4390243902439024,48.47560975609756,1.125,orbit be be
+Shin-Tethys,Dojima System,2.083333333333333,0.5208333333333333,51.5625,4.0,do need draw explain
+Shin-Tethys,Ana,1.8145161290322582,0.4032258064516129,49.395161290322584,4.5,have hear send be say discuss
+Shin-Tethys,Ana,1.8145161290322582,0.4032258064516129,49.395161290322584,4.5,have hear send be say discuss
+Shin-Tethys,Taj Beacon,2.1604938271604937,0.6172839506172839,54.01234567901234,3.5,be recognize recognize maintain float have comprise form
+Ivar Trask-1,Taj Beacon,0.4629629629629629,0.4629629629629629,50.92592592592593,1.0,be set establish
+Ivar Trask-1,Dojima System,0.4629629629629629,0.4629629629629629,50.92592592592593,1.0,be set establish
+Taj Beacon,Dojima System,0.4629629629629629,0.4629629629629629,50.92592592592593,1.0,be set establish
+Argos,Nova Ploetsk,2.5,2.083333333333333,58.75,1.2,have take
+Dennett,Taj Beacon,0.0,2.5,44.166666666666664,0.0,remind depart
+Rudi,Ana,6.0,1.5,40.5,4.0,have let descend need help find
+Rudi,Ana,6.0,1.5,40.5,4.0,have let descend need help find
+Rudi,Shin-Kyoto,1.5625,0.625,55.3125,2.5,spend consider cut run
+Rudi,Shin-Kyoto,1.5625,0.625,55.3125,2.5,spend consider cut run
+Ana,Rudi,5.0,2.857142857142857,52.142857142857146,1.75,be help find extricate find smuggle
+Ana,Rudi,5.0,2.857142857142857,52.142857142857146,1.75,be help find extricate find smuggle
+Ana,Rudi,5.0,2.857142857142857,52.142857142857146,1.75,be help find extricate find smuggle
+Ana,Rudi,2.295918367346939,1.530612244897959,47.19387755102041,1.5,return seem be extricate be take
+Ana,Rudi,2.295918367346939,1.530612244897959,47.19387755102041,1.5,return seem be extricate be take
+Argos,Ana,4.166666666666666,4.6875,41.14583333333333,0.8888888888888888,be be have live
+Argos,Krina,4.166666666666666,4.6875,41.14583333333333,0.8888888888888888,be be have live
+Ana,Krina,4.166666666666666,4.6875,41.14583333333333,0.8888888888888888,be be have live
+Nova Ploetsk,Argos,1.1363636363636365,0.0,53.40909090909091,INF,travel
+Mari,Argos,3.8793103448275863,2.1551724137931036,52.58620689655172,1.8,be recognize be
+Nova Ploetsk,Shin-Tethys,1.2096774193548387,0.4032258064516129,53.2258064516129,3.0,be scream
+Argos,Ms. Alizond,0.7978723404255319,3.723404255319149,44.41489361702128,0.21428571428571427,welcome say echo have put
+Medea,Argos,2.083333333333333,1.7361111111111112,54.513888888888886,1.2,be be meet be incarnate
+Argos,Medea,2.083333333333333,1.7361111111111112,54.513888888888886,1.2,be be meet be incarnate
+Medea,Rudi,3.0172413793103448,1.293103448275862,50.86206896551724,2.3333333333333335,ask say look believe be wonder have go
+Ana,Dojima System,4.6875,1.5625,56.25,3.0,explain immigrate
+Hector,Ana,2.330508474576271,1.694915254237288,51.90677966101694,1.375,mean send handle provide specify continue define
+Hector,Ana,2.330508474576271,1.694915254237288,51.90677966101694,1.375,mean send handle provide specify continue define
+Argos,Sondra,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Sondra,Rosen,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Sondra,Shin-Tethys,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Sondra,Rosen,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Sondra,Shin-Tethys,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Rosen,Sondra,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Rosen,Sondra,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Rosen,Shin-Tethys,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Sondra,Shin-Tethys,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Sondra,Shin-Tethys,0.26041666666666663,0.0,45.57291666666667,INF,be go stay study be get send be move
+Taj Beacon,Sondra,3.125,4.6875,42.1875,0.6666666666666666,get disappear
+Rudi,Krina,0.7352941176470588,2.941176470588235,31.61764705882353,0.25,imagine go
+Argos,Medea,5.232558139534884,9.883720930232558,45.348837209302324,0.5294117647058824,consider be have encourage be
+Argos,Medea,5.232558139534884,9.883720930232558,45.348837209302324,0.5294117647058824,consider be have encourage be
+Serjeant Bull,Andrea,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Serjeant Bull,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Rudi,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Andrea,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Rudi,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Rudi,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Rudi,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Rudi,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Rudi,Dennett,2.05078125,1.46484375,55.859375,1.4,have take assume be have darken have tell omit deem be be feel expend
+Ana,Taj Beacon,3.8194444444444446,0.3472222222222222,62.5,11.0,believe find arrive accept
+Ana,Shin-Tethys,3.8194444444444446,0.3472222222222222,62.5,11.0,believe find arrive accept
+Taj Beacon,Ana,3.8194444444444446,0.3472222222222222,62.5,11.0,believe find arrive accept
+Taj Beacon,Shin-Tethys,3.8194444444444446,0.3472222222222222,62.5,11.0,believe find arrive accept
+Ana,Shin-Tethys,3.8194444444444446,0.3472222222222222,62.5,11.0,believe find arrive accept
+Dojima System,Ana,5.769230769230769,8.653846153846153,47.11538461538461,0.6666666666666666,have be come study
+Nova Ploetsk,Argos,0.0,0.4032258064516129,57.66129032258065,0.0,let describe float
+Nova Ploetsk,Argos,5.416666666666667,0.8333333333333334,53.75,6.5,be
+Nova Ploetsk,Ana,2.8125,2.03125,52.65625000000001,1.3846153846153846,be be be flood have adapt have watch
+Ana,Andrea,0.5208333333333333,0.0,53.645833333333336,INF,have communicate write dump
+Ana,Serjeant Bull,7.000000000000001,1.0,52.0,7.0,pay explain help
+Shin-Tethys,Mother Church,1.89873417721519,3.481012658227848,54.11392405063291,0.5454545454545454,discover modify survive have be survive make export have bother dispatch
+Serjeant Bull,Ana,2.941176470588235,2.2058823529411766,59.55882352941176,1.3333333333333333,shake be go try conceal think be
+Medea,Rudi,3.723404255319149,0.0,57.97872340425532,INF,be run back have go claim owe climb
+Medea,Rudi,3.723404255319149,0.0,57.97872340425532,INF,be run back have go claim owe climb
+Medea,Rudi,3.723404255319149,0.0,57.97872340425532,INF,be run back have go claim owe climb
+Rudi,Shin-Tethys,3.6363636363636362,5.681818181818182,52.5,0.64,be be assemble suit be
+Rudi,Shin-Tethys,3.6363636363636362,5.681818181818182,52.5,0.64,be be assemble suit be
+Rudi,Shin-Tethys,3.6363636363636362,5.681818181818182,52.5,0.64,be be assemble suit be
+Argos,Taj Beacon,1.232394366197183,1.584507042253521,63.38028169014085,0.7777777777777778,anticipate negotiate be lose leave sit
+Ana,Krina,0.0,1.7857142857142856,33.92857142857143,0.0,sell
+Ana,Dojima System,1.6666666666666667,0.0,51.66666666666667,INF,have forget have live
+Ana,Rudi,4.5,0.0,47.5,INF,have meet say add know do
+Rudi,Ana,4.5,0.0,47.5,INF,have meet say add know do
+Ana,Atlantis,6.521739130434782,3.260869565217391,51.08695652173913,2.0,tell investigate happen
+Ivar Trask-1,Dojima SystemBank,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Ivar Trask-1,Taj Beacon,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Ivar Trask-1,Ana,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Ivar Trask-1,Atlantis,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Dojima SystemBank,Taj Beacon,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Dojima SystemBank,Ana,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Dojima SystemBank,Atlantis,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Taj Beacon,Ana,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Taj Beacon,Atlantis,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Ana,Atlantis,0.0,1.744186046511628,51.74418604651163,0.0,go miss carry seem think be trace
+Ana,Trask,5.288461538461538,0.0,52.40384615384615,INF,decide be try track happen master
+Ana,Trask,2.9605263157894735,3.9473684210526314,56.25,0.75,tell be have disappear have be be
+Ana,Shin-Tethys,2.9605263157894735,3.9473684210526314,56.25,0.75,tell be have disappear have be be
+Trask,Shin-Tethys,2.9605263157894735,3.9473684210526314,56.25,0.75,tell be have disappear have be be
+Trask,Ana,2.9605263157894735,3.9473684210526314,56.25,0.75,tell be have disappear have be be
+Shin-Tethys,Ana,2.9605263157894735,3.9473684210526314,56.25,0.75,tell be have disappear have be be
+Rudi,Ana,1.953125,1.171875,43.75,1.6666666666666667,fold refold cover
+Rudi,Ana,1.953125,1.171875,43.75,1.6666666666666667,fold refold cover
+Ana,Medea,5.208333333333334,0.0,36.45833333333333,INF,find be
+Ms. Alizond,Rudi,0.0,0.0,45.45454545454545,INF,come say
+Ana,Taj Beacon,2.989130434782609,1.6304347826086956,60.597826086956516,1.8333333333333333,be go be wreck trail need think charter make reconsider
+Ana,Atlantis,0.8750000000000001,1.7500000000000002,57.375,0.5,be learn launder turn do be account establish begin investigate
+Andrea,Taj Beacon,3.571428571428571,1.3888888888888888,58.53174603174603,2.5714285714285716,ask hold freewheel send acknowledge confirm be return berth wonder need be go cost
+Branch Office,Rudi,2.272727272727273,2.272727272727273,68.18181818181817,1.0,prompt
+Ana,Andrea,0.35714285714285715,1.0714285714285714,50.0,0.3333333333333333,do go look receive
+Ana,Atlantis,0.35714285714285715,1.0714285714285714,50.0,0.3333333333333333,do go look receive
+Andrea,Atlantis,0.35714285714285715,1.0714285714285714,50.0,0.3333333333333333,do go look receive
+Atlantis,Hector,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Atlantis,Hector,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Atlantis,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Atlantis,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Hector,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Hector,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Hector,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Hector,Sondra,2.5684931506849313,0.3424657534246575,53.25342465753424,7.5,pick leave form travel launch make buy be instantiate
+Cybelle,Dennett,5.357142857142857,2.5,49.28571428571429,2.142857142857143,designate be incarnate ask have be behave
+Dennett,Cybelle,5.357142857142857,2.5,49.28571428571429,2.142857142857143,designate be incarnate ask have be behave
+Dennett,Cybelle,5.059523809523809,0.5952380952380952,53.86904761904761,8.5,weaken make appear have fail
+Cybelle,Cook,6.61764705882353,0.7352941176470588,27.941176470588236,9.0,be charm cook
+Cybelle,Cook,6.61764705882353,0.7352941176470588,27.941176470588236,9.0,be charm cook
+Rudi,Nova Ploetsk,0.9259259259259258,0.9259259259259258,46.2962962962963,1.0,enter
+Rudi,Nova Ploetsk,0.9259259259259258,0.9259259259259258,46.2962962962963,1.0,enter
+Gould,Cybelle,1.7857142857142856,1.7857142857142856,41.66666666666667,1.0,be wait do wait acknowledge turn accompany
+Gould,Cybelle,1.7857142857142856,1.7857142857142856,41.66666666666667,1.0,be wait do wait acknowledge turn accompany
+Gould,Dennett,1.7857142857142856,1.7857142857142856,41.66666666666667,1.0,be wait do wait acknowledge turn accompany
+Cybelle,Dennett,1.7857142857142856,1.7857142857142856,41.66666666666667,1.0,be wait do wait acknowledge turn accompany
+Cybelle,Dennett,1.7857142857142856,1.7857142857142856,41.66666666666667,1.0,be wait do wait acknowledge turn accompany
+Cybelle,Krina,6.61764705882353,5.147058823529411,47.05882352941176,1.2857142857142858,make bear
+Cybelle,Mother Church,0.6578947368421052,0.0,49.34210526315789,INF,be discharge
+Cybelle,Dojima System,0.6578947368421052,0.0,49.34210526315789,INF,be discharge
+Mother Church,Dojima System,0.6578947368421052,0.0,49.34210526315789,INF,be discharge
+Mother Church,Medea,0.3289473684210526,0.0,33.881578947368425,INF,be
+Mother Church,Argos,0.3289473684210526,0.0,33.881578947368425,INF,be
+Mother Church,Argos,0.3289473684210526,0.0,33.881578947368425,INF,be
+Medea,Argos,0.3289473684210526,0.0,33.881578947368425,INF,be
+Medea,Argos,0.3289473684210526,0.0,33.881578947368425,INF,be
+Medea,Argos,0.0,0.9615384615384616,56.730769230769226,0.0,be act
+Argos,Mother Church,3.4090909090909087,4.924242424242424,49.24242424242424,0.6923076923076923,be be single be
+Ana,Andrea,4.664179104477612,1.6791044776119404,51.865671641791046,2.7777777777777777,anticipate try trace purloin have abstract have expect return bear be return rest
+Ana,Atlantis,4.664179104477612,1.6791044776119404,51.865671641791046,2.7777777777777777,anticipate try trace purloin have abstract have expect return bear be return rest
+Andrea,Atlantis,4.664179104477612,1.6791044776119404,51.865671641791046,2.7777777777777777,anticipate try trace purloin have abstract have expect return bear be return rest
+Medea,Argos,3.8461538461538463,1.9230769230769231,55.769230769230774,2.0,have
+Krina,Ana,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Krina,Ana,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Krina,Ana,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Krina,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Krina,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Ana,Sondra,4.62962962962963,0.4629629629629629,46.75925925925926,10.0,be masquerade find take kill bring
+Alef,Ana,1.5625,0.0,60.9375,INF,roll look
+Ana,Sondra,5.208333333333334,5.208333333333334,64.58333333333334,1.0,confess be be spook know
+Ana,Mother,0.0,0.0,35.714285714285715,INF,mean catch
+Medea,Sondra,1.639344262295082,1.2295081967213115,59.42622950819673,1.3333333333333333,think be lie be pay organize keep steal keep continue
+Ana,Krina,0.0,0.0,50.0,INF,look meet accuse gaze do
+Atlantis,Hector,2.0408163265306123,2.295918367346939,48.724489795918366,0.8888888888888888,come go save disappear shuffle
+Ivar Trask-1,Shin-Tethys,0.8333333333333334,0.0,32.5,INF,pick be
+Sondra,Dojima System,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Sondra,Krina,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Sondra,Dojima System,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Sondra,Krina,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Sondra,Dojima System,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Sondra,Krina,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Dojima System,Krina,0.9615384615384616,1.282051282051282,46.47435897435898,0.75,have turn be train have mean
+Krina,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Shin-Kyoto,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Krina,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Shin-Kyoto,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Shin-Kyoto,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Shin-Kyoto,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Shin-Kyoto,Sondra,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Shin-Kyoto,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Shin-Kyoto,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Dojima System,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Sondra,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Dojima System,Ganesh,2.1634615384615383,1.6826923076923077,53.84615384615385,1.2857142857142858,have send tell cut go doubt catch head meet be
+Dojima System,Sondra,2.941176470588235,3.431372549019608,54.41176470588235,0.8571428571428571,do leave turn be change change find take
+Krina,Sondra,2.5,5.416666666666667,52.083333333333336,0.46153846153846156,get warn do send be receive
+Krina,Sondra,2.5,5.416666666666667,52.083333333333336,0.46153846153846156,get warn do send be receive
+Atlantis,Sondra,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,designate be involve
+Sondra,Andrea,2.8017241379310347,3.6637931034482754,45.258620689655174,0.7647058823529411,have become have set have pilfer guess intend do be teach do
+Sondra,Andrea,2.8017241379310347,3.6637931034482754,45.258620689655174,0.7647058823529411,have become have set have pilfer guess intend do be teach do
+Sondra,Andrea,2.8017241379310347,3.6637931034482754,45.258620689655174,0.7647058823529411,have become have set have pilfer guess intend do be teach do
+Sondra,Andrea,2.8017241379310347,3.6637931034482754,45.258620689655174,0.7647058823529411,have become have set have pilfer guess intend do be teach do
+Sondra,Andrea,2.8017241379310347,3.6637931034482754,45.258620689655174,0.7647058823529411,have become have set have pilfer guess intend do be teach do
+Sondra,Atlantis,3.3653846153846154,5.769230769230769,48.55769230769231,0.5833333333333334,be be be
+Atlantis,Sondra,3.3653846153846154,5.769230769230769,48.55769230769231,0.5833333333333334,be be be
+Ana,Atlantis,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Ana,Andrea,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Ana,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Ana,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Atlantis,Andrea,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Atlantis,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Atlantis,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Andrea,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Andrea,Sondra,3.6016949152542375,3.1779661016949152,44.06779661016949,1.1333333333333333,have be dig dig have archive have steal
+Rudi,Medea,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Rudi,Argos,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Rudi,Medea,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Rudi,Medea,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Medea,Argos,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Argos,Medea,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Argos,Medea,2.857142857142857,2.857142857142857,45.714285714285715,1.0,have follow doubtless have apply need
+Cybelle,Dennett,4.6875,4.296875,50.390625,1.0909090909090908,ask penetrate be expect
+Cybelle,Medea,4.6875,4.296875,50.390625,1.0909090909090908,ask penetrate be expect
+Dennett,Medea,4.6875,4.296875,50.390625,1.0909090909090908,ask penetrate be expect
+Krina,Ana,0.0,0.0,28.57142857142857,INF,pause
+Sondra,Trask,0.0,0.0,56.52173913043478,INF,appear be engage launder
+Ana,Taj Beacon,1.893939393939394,0.0,52.65151515151515,INF,be follow be play
+Sondra,Taj Beacon,3.260869565217391,1.6304347826086956,42.934782608695656,2.0,require entertain
+Sondra,Dojima SystemBank,2.4709302325581395,1.88953488372093,54.94186046511628,1.3076923076923077,be know be accompany aggravate make insert get
+Sondra,Taj Beacon,3.4090909090909087,0.5681818181818182,50.56818181818182,6.0,have be make have arrive
+Mother Church,Medea,1.9230769230769231,2.564102564102564,44.230769230769226,0.75,be ignore suppress enter harbor
+Mother Church,Shin-Tethys,4.62962962962963,3.7037037037037033,54.629629629629626,1.25,have be fulminate threaten make have be balance follow
+Mother Church,Medea,4.62962962962963,3.7037037037037033,54.629629629629626,1.25,have be fulminate threaten make have be balance follow
+Shin-Tethys,Medea,4.62962962962963,3.7037037037037033,54.629629629629626,1.25,have be fulminate threaten make have be balance follow
+Cybelle,Gould,2.0,0.0,62.0,INF,shake hold take take
+Cybelle,Gould,2.0,0.0,62.0,INF,shake hold take take
+Gould,Cybelle,2.0,0.0,62.0,INF,shake hold take take
+Hector,Dojima System,1.3888888888888888,3.009259259259259,47.4537037037037,0.46153846153846156,be be send be complete act disappear
+Hector,Trask,1.3888888888888888,3.009259259259259,47.4537037037037,0.46153846153846156,be be send be complete act disappear
+Dojima System,Trask,1.3888888888888888,3.009259259259259,47.4537037037037,0.46153846153846156,be be send be complete act disappear
+Ivar Trask-1,Cybelle,0.4629629629629629,0.0,43.98148148148148,INF,take be be discover shrug be
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Ana,Sondra,2.556818181818182,1.1363636363636365,39.48863636363637,2.25,make merge be go
+Mother Church,Dojima System,2.5,2.0,51.5,1.25,have be have get send sniff
+Andrea,Sondra,3.308823529411765,0.7352941176470588,54.779411764705884,4.5,tell be exist be reach
+Atlantis,Sondra,3.977272727272727,4.829545454545454,52.55681818181818,0.8235294117647058,be trouble send slander
+Atlantis,Sondra,3.977272727272727,4.829545454545454,52.55681818181818,0.8235294117647058,be trouble send slander
+Mother,Ana,0.0,0.0,38.46153846153847,INF,give propose
+Medea,Yankee,5.681818181818182,2.840909090909091,55.11363636363637,2.0,depend decide jump say
+Sondra,Rudi,6.8181818181818175,3.0303030303030303,56.81818181818182,2.25,have follow need ensure have decide sell
+Sondra,Rudi,6.8181818181818175,3.0303030303030303,56.81818181818182,2.25,have follow need ensure have decide sell
+Rudi,Sondra,6.8181818181818175,3.0303030303030303,56.81818181818182,2.25,have follow need ensure have decide sell
+Sondra,Rudi,6.8181818181818175,3.0303030303030303,56.81818181818182,2.25,have follow need ensure have decide sell
+Krina,Argos,0.6097560975609756,1.524390243902439,53.963414634146346,0.4,have get shut do want risk emit identify leave get
+Sondra,Dojima System,1.5350877192982455,0.6578947368421052,43.42105263157895,2.3333333333333335,refactor reinvent be be gather have
+Sondra,Dojima System,1.5350877192982455,0.6578947368421052,43.42105263157895,2.3333333333333335,refactor reinvent be be gather have
+Sondra,Dojima System,1.5350877192982455,0.6578947368421052,43.42105263157895,2.3333333333333335,refactor reinvent be be gather have
+Dojima System,Sondra,1.5350877192982455,0.6578947368421052,43.42105263157895,2.3333333333333335,refactor reinvent be be gather have
+Dojima System,Sondra,1.5350877192982455,0.6578947368421052,43.42105263157895,2.3333333333333335,refactor reinvent be be gather have
+Hector,Atlantis,3.125,1.5625,57.8125,2.0,have launch
+Dojima System,Hector,0.0,4.166666666666666,67.26190476190477,0.0,be
+Dojima System,Atlantis,0.0,4.166666666666666,67.26190476190477,0.0,be
+Hector,Atlantis,0.0,4.166666666666666,67.26190476190477,0.0,be
+Sondra,Taj Beacon,1.2096774193548387,1.6129032258064515,48.79032258064516,0.75,be etiolate have wear
+Sondra,Taj Beacon,1.2096774193548387,1.6129032258064515,48.79032258064516,0.75,be etiolate have wear
+Andrea,Ana,1.1627906976744187,2.616279069767442,47.383720930232556,0.4444444444444444,name suck try run be
+Andrea,Atlantis,1.1627906976744187,2.616279069767442,47.383720930232556,0.4444444444444444,name suck try run be
+Ana,Atlantis,1.1627906976744187,2.616279069767442,47.383720930232556,0.4444444444444444,name suck try run be
+Rudi,Dojima System,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,acquire be reap be support be have be seek
+Rudi,Dojima System,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,acquire be reap be support be have be seek
+Rudi,Dojima System,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,acquire be reap be support be have be seek
+Rudi,Argos,0.0,0.78125,36.71875,0.0,be talk
+Medea,Ana,5.833333333333333,1.6666666666666667,59.166666666666664,3.5,have intend use be have be snatch
+Medea,Ana,5.833333333333333,1.6666666666666667,59.166666666666664,3.5,have intend use be have be snatch
+Ana,Rudi,0.6944444444444444,4.166666666666666,50.69444444444444,0.16666666666666666,guess be involve be see
+Ana,Atlantis,0.5952380952380952,0.0,47.023809523809526,INF,be try stake use
+Ana,Atlantis,0.5952380952380952,0.0,47.023809523809526,INF,be try stake use
+Crimson Permanent Assurance,Ana,1.8115942028985508,0.7246376811594203,55.434782608695656,2.5,do have render secure have take hammer
+Crimson Permanent Assurance,Rudi,1.8115942028985508,0.7246376811594203,55.434782608695656,2.5,do have render secure have take hammer
+Ana,Rudi,1.8115942028985508,0.7246376811594203,55.434782608695656,2.5,do have render secure have take hammer
+Mother Church,Trask,3.8461538461538463,2.403846153846154,66.82692307692307,1.6,have produce say be bilk
+Rudi,Dojima System,5.416666666666667,2.9166666666666665,48.333333333333336,1.8571428571428572,be have arrive
+Rudi,Atlantis,2.314814814814815,3.2407407407407405,46.2962962962963,0.7142857142857143,be have wait die liquidate
+Nova Ploetsk,Shin-Tethys,1.0,0.75,64.25,1.3333333333333333,recline display
+Medea,Cybelle,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Medea,Mother Church,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Medea,Argos,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Cybelle,Mother Church,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Cybelle,Argos,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Mother Church,Argos,1.9444444444444444,2.2222222222222223,44.72222222222222,0.875,be wait attend
+Cybelle,Medea,0.8928571428571428,0.0,34.82142857142857,INF,turn add do like
+Cybelle,Medea,0.0,0.0,62.5,INF,smile
+Sondra,Taj Beacon,5.46875,0.78125,56.25,7.0,have receive be
+Rudi,Sondra,2.8017241379310347,3.8793103448275863,48.491379310344826,0.7222222222222222,do believe allow think be get do be near depart be
+Rudi,Argos,3.8194444444444446,1.7361111111111112,55.55555555555556,2.2,have be bluff have be telegraph
+Rudi,Medea,3.8194444444444446,1.7361111111111112,55.55555555555556,2.2,have be bluff have be telegraph
+Argos,Medea,3.8194444444444446,1.7361111111111112,55.55555555555556,2.2,have be bluff have be telegraph
+Medea,Mother Church,1.8518518518518516,5.092592592592593,52.31481481481482,0.36363636363636365,wait arrive be circle
+Mother Church,Dennett,1.9135135135135133,5.856756756756757,46.28378378378378,0.32671896631287495,be be imagine contemplate
+Mother Church,Dennett,1.9135135135135133,5.856756756756757,46.28378378378378,0.32671896631287495,be be imagine contemplate
+Rudi,Ana,5.232558139534884,2.9069767441860463,47.674418604651166,1.8,be expect micromanage ignore grapple lose
+Rudi,Ana,5.232558139534884,2.9069767441860463,47.674418604651166,1.8,be expect micromanage ignore grapple lose
+Ana,Sondra,2.083333333333333,3.009259259259259,50.46296296296296,0.6923076923076923,slide compose close slide wake open have have grow
+Argos,Shin-Tethys,1.7307692307692308,1.9230769230769231,50.19230769230769,0.9,read leave flee be get hunt kill be
+Mother Church,Dojima System,0.3472222222222222,2.430555555555556,63.888888888888886,0.14285714285714285,be tell arrive train
+Andrea,Sondra,0.7978723404255319,0.0,48.138297872340424,INF,be turn know be be find collect
+Sondra,Andrea,0.7978723404255319,0.0,48.138297872340424,INF,be turn know be be find collect
+Sondra,Andrea,0.7978723404255319,0.0,48.138297872340424,INF,be turn know be be find collect
+Sondra,Dojima System,5.833333333333333,5.833333333333333,55.00000000000001,1.0,do expect find
+Krina,Sondra,1.7045454545454544,0.0,43.75,INF,have wonder do become
+Andrea,Sondra,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Andrea,Hector,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Andrea,Sondra,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Andrea,Sondra,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Sondra,Hector,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Hector,Sondra,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Hector,Sondra,2.840909090909091,0.0,47.159090909090914,INF,find research get
+Hector,Atlantis,5.46875,4.6875,46.09375,1.1666666666666667,have realize be underwrite
+Sondra,Atlantis,0.0,5.555555555555555,46.2962962962963,0.0,be launder be
+Sondra,Atlantis,0.0,5.555555555555555,46.2962962962963,0.0,be launder be
+Sondra,Hector,1.4705882352941175,0.0,45.588235294117645,INF,be forge
+Sondra,Atlantis,1.488095238095238,3.869047619047619,42.26190476190476,0.38461538461538464,be do imagine have do
+Sondra,Medea,7.6923076923076925,1.6025641025641024,54.807692307692314,4.8,make talk arrange merge keep synchronize
+Sondra,Medea,7.6923076923076925,1.6025641025641024,54.807692307692314,4.8,make talk arrange merge keep synchronize
+Sondra,Shin-Tethys,0.9146341463414633,2.1341463414634148,57.92682926829268,0.42857142857142855,have plan be hold be divide kill
+Atlantis,Ivar Trask-1,0.0,0.4807692307692308,37.980769230769226,0.0,
+Andrea,Sondra,1.0416666666666665,8.854166666666668,27.604166666666668,0.11764705882352941,be be
+Atlantis,Sondra,3.125,5.208333333333334,44.44444444444444,0.6,have pursue be mention miss be
+Rudi,Branch Office,2.5735294117647056,0.7352941176470588,49.63235294117647,3.5,think be ask come say
+Rudi,Crimson Permanent Assurance,2.5735294117647056,0.7352941176470588,49.63235294117647,3.5,think be ask come say
+Branch Office,Crimson Permanent Assurance,2.5735294117647056,0.7352941176470588,49.63235294117647,3.5,think be ask come say
+Atlantis,Rudi,1.25,0.0,38.75,INF,believe come
+Sondra,Mother Church,3.0172413793103448,3.8793103448275863,44.827586206896555,0.7777777777777778,be move give
+Sondra,Atlantis,3.125,3.125,50.89285714285714,1.0,be send murder tell need know
+Shin-Tethys,Taj Beacon,3.0303030303030303,1.3257575757575757,57.765151515151516,2.2857142857142856,notice be detect need position watch drift be begin be
+Rudi,Taj Beacon,2.4390243902439024,3.048780487804878,65.2439024390244,0.8,have visit punch be
+Sondra,Taj Beacon,7.386363636363637,5.681818181818182,50.56818181818182,1.3,be
+Dojima System,Sondra,1.1904761904761905,0.0,46.42857142857143,INF,be
+Dojima System,Taj Beacon,1.1904761904761905,0.0,46.42857142857143,INF,be
+Sondra,Taj Beacon,1.1904761904761905,0.0,46.42857142857143,INF,be
+Medea,Shin-Tethys,0.0,0.0,54.54545454545454,INF,dog come equip spiral lead
+Rudi,Mother Church,1.3888888888888888,2.314814814814815,46.2962962962963,0.6,lumber blat advise ignore be cut be
+Rudi,Sondra,1.9607843137254901,1.4705882352941175,49.50980392156863,1.3333333333333333,point be have come doubtless assign suppress make
+Rudi,Sondra,1.9607843137254901,1.4705882352941175,49.50980392156863,1.3333333333333333,point be have come doubtless assign suppress make
+Rudi,Sondra,1.9607843137254901,1.4705882352941175,49.50980392156863,1.3333333333333333,point be have come doubtless assign suppress make
+Hector,Atlantis,0.5,1.5,54.0,0.3333333333333333,wind
+Hector,Dojima System,0.5,1.5,54.0,0.3333333333333333,wind
+Atlantis,Dojima System,0.5,1.5,54.0,0.3333333333333333,wind
+Atlantis,Dojima System,1.2096774193548387,1.6129032258064515,45.564516129032256,0.75,send go miss be arrive be sabotage be hijack
+Atlantis,Krina,0.0,0.0,23.52941176470588,INF,be
+Branch Office,Taj Beacon,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,transmit suppose believe radiate reach
+Branch Office,Sondra,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,transmit suppose believe radiate reach
+Taj Beacon,Sondra,1.7857142857142856,1.7857142857142856,53.57142857142857,1.0,transmit suppose believe radiate reach
+Atlantis,Taj Beacon,3.3653846153846154,0.9615384615384616,45.67307692307692,3.5,be attempt destroy keep leak
+Taj Beacon,Atlantis,3.3653846153846154,0.9615384615384616,45.67307692307692,3.5,be attempt destroy keep leak
+Mother,Taj Beacon,5.803571428571429,0.0,44.19642857142857,INF,know be occupy know be plan arrive
+Sondra,Taj Beacon,2.5,1.5,40.0,1.6666666666666667,be gull think be cut run
+Branch Office,Crimson Permanent Assurance,3.4090909090909087,2.0454545454545454,61.81818181818181,1.6666666666666667,make be do be squawk know
+Jean,Sondra,0.0,3.6764705882352944,49.26470588235294,0.0,do intend let murmur
+Sondra,Shin-Tethys,0.5208333333333333,0.26041666666666663,61.71875,2.0,receive agree trail sputter fade leave fall
+Nova Ploetsk,Argos,3.2407407407407405,0.9259259259259258,62.5,3.5,be be keep
+Rudi,Branch Office,0.8802816901408451,1.936619718309859,59.154929577464785,0.45454545454545453,be require issue be be mention
+Ana,Dojima System,4.6875,5.46875,39.84375,0.8571428571428571,be arrive
+Ana,Dojima System,4.6875,5.46875,39.84375,0.8571428571428571,be arrive
+Sondra,Medea,1.3888888888888888,0.2777777777777778,53.888888888888886,5.0,dispatch monitor hold account misidentify have silence
+Sondra,Medea,1.3888888888888888,0.2777777777777778,53.888888888888886,5.0,dispatch monitor hold account misidentify have silence
+Sondra,Rudi,4.545454545454546,0.0,50.0,INF,have have
+Krina,Mother,0.0,0.0,28.57142857142857,INF,be
+Atlantis,Mother,0.0,0.0,50.0,INF,do think learn happen
+Branch Office,Ana,1.179245283018868,1.179245283018868,56.132075471698116,1.0,gesture be broadcast have receive

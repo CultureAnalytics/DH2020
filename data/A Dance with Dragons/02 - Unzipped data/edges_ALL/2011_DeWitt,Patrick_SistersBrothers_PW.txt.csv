@@ -1,0 +1,407 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Charlie,Eli,4.166666666666666,0.5208333333333333,49.47916666666667,8.0,have say be
+Charlie,Eli,4.166666666666666,0.5208333333333333,49.47916666666667,8.0,have say be
+Charlie,Eli,4.166666666666666,0.5208333333333333,49.47916666666667,8.0,have say be
+Charlie,Eli,0.3205128205128205,2.2435897435897436,53.84615384615385,0.14285714285714285,pour pour be prepare say be be
+Charlie,Eli,0.3205128205128205,2.2435897435897436,53.84615384615385,0.14285714285714285,pour pour be prepare say be be
+Charlie,Morris,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Charlie,Hermann,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Charlie,Morris,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Charlie,Morris,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Charlie,Hermann,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Charlie,Morris,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Morris,Hermann,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Hermann,Morris,1.2254901960784315,0.0,59.55882352941176,INF,produce name go gather have study offer follow
+Hermann,Morris,3.488372093023256,2.9069767441860463,61.04651162790697,1.2,have make have be stand have know be
+Hermann,Morris,3.488372093023256,2.9069767441860463,61.04651162790697,1.2,have make have be stand have know be
+Charlie,Morris,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,mention say be wait
+Charlie,Morris,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,mention say be wait
+Morris,Hermann,6.730769230769231,1.9230769230769231,60.57692307692307,3.5,think be discover say
+Hermann,Morris,6.730769230769231,1.9230769230769231,60.57692307692307,3.5,think be discover say
+Charlie,Eli,1.3392857142857142,0.0,55.80357142857143,INF,say be tell bet be
+Charlie,Doc,1.3392857142857142,0.0,55.80357142857143,INF,say be tell bet be
+Eli,Doc,1.3392857142857142,0.0,55.80357142857143,INF,say be tell bet be
+Eli,Charlie,1.3392857142857142,0.0,55.80357142857143,INF,say be tell bet be
+Doc,Charlie,1.3392857142857142,0.0,55.80357142857143,INF,say be tell bet be
+Charlie,Watts,0.0,0.0,42.10526315789473,INF,shake ask do get
+Charlie,Watts,0.8333333333333334,0.0,59.166666666666664,INF,cuff bring
+Watts,Charlie,0.8333333333333334,0.0,59.166666666666664,INF,cuff bring
+Eli,Charlie,0.0,0.0,22.22222222222222,INF,be
+Williams,Stamm,9.722222222222223,1.3888888888888888,61.111111111111114,7.0,be go call
+Stamm,Williams,1.7857142857142856,1.7857142857142856,60.71428571428571,1.0,say kill
+Stamm,Williams,4.6875,0.0,64.0625,INF,hire chase owe
+Williams,Stamm,4.6875,0.0,64.0625,INF,hire chase owe
+Stamm,Williams,0.0,0.0,50.0,INF,come challenge
+Williams,Stamm,1.25,0.625,48.125,2.0,hear be
+Stamm,Williams,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,nod ask wish check say do
+Stamm,Williams,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,nod ask wish check say do
+Stamm,Williams,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,nod ask wish check say do
+Williams,Stamm,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,nod ask wish check say do
+Williams,Stamm,0.5681818181818182,4.545454545454546,49.43181818181818,0.125,nod ask wish check say do
+Williams,Stamm,0.0,4.807692307692308,56.730769230769226,0.0,approach stand face
+Williams,Stamm,0.0,4.807692307692308,56.730769230769226,0.0,approach stand face
+Williams,Stamm,4.086538461538462,6.490384615384616,41.34615384615385,0.6296296296296297,do seem be whisper say wish make satisfy
+Williams,Stamm,4.086538461538462,6.490384615384616,41.34615384615385,0.6296296296296297,do seem be whisper say wish make satisfy
+Williams,Stamm,4.086538461538462,6.490384615384616,41.34615384615385,0.6296296296296297,do seem be whisper say wish make satisfy
+Williams,Stamm,3.6290322580645165,2.4193548387096775,55.24193548387096,1.5,be shine be tremble have be walk display
+Williams,Stamm,3.6290322580645165,2.4193548387096775,55.24193548387096,1.5,be shine be tremble have be walk display
+Williams,Stamm,3.6290322580645165,2.4193548387096775,55.24193548387096,1.5,be shine be tremble have be walk display
+Williams,Stamm,3.6290322580645165,2.4193548387096775,55.24193548387096,1.5,be shine be tremble have be walk display
+Williams,Stamm,0.0,1.6666666666666667,58.333333333333336,0.0,miss strike
+Stamm,Williams,0.0,1.6666666666666667,58.333333333333336,0.0,miss strike
+Stamm,Williams,0.0,1.6666666666666667,58.333333333333336,0.0,miss strike
+Jimmy,Tom,3.7037037037037033,0.0,44.44444444444444,INF,
+Jimmy,Tom,3.7037037037037033,0.0,44.44444444444444,INF,
+Jimmy,Tom,3.7037037037037033,0.0,44.44444444444444,INF,
+Daddy,Jimmy,0.7692307692307693,0.7692307692307693,44.61538461538462,1.0,starve be be pull go be be look be think
+Lucky Paul,Charlie,1.5625,0.78125,41.40625,2.0,lead be do say
+Lucky Paul,Charlie,1.5625,0.78125,41.40625,2.0,lead be do say
+Mayfield,Charlie,3.90625,1.5625,41.40625,2.5,be explain relay have say
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.641025641025641,0.0,55.769230769230774,INF,catch leave search say have see trail lead
+Charlie,Mayfield,0.78125,2.734375,40.234375,0.2857142857142857,hand transform gaze
+Charlie,Mayfield,0.0,3.6764705882352944,31.61764705882353,0.0,be be say
+Charlie,Mayfield,0.0,3.6764705882352944,31.61764705882353,0.0,be be say
+Mayfield,Charlie,4.545454545454546,0.0,50.0,INF,watch turn
+Mayfield,Charlie,0.0,1.5625,54.6875,0.0,toss drag
+Mayfield,Charlie,0.0,1.5625,54.6875,0.0,toss drag
+Charlie,Mayfield,2.5,2.5,59.0,1.0,find depress be see grow
+Charlie,Mayfield,2.5,2.5,59.0,1.0,find depress be see grow
+Charlie,Mayfield,3.260869565217391,2.1739130434782608,56.88405797101449,1.5,realize look be witness propose be be have say bear be pickle
+Charlie,Mayfield,3.260869565217391,2.1739130434782608,56.88405797101449,1.5,realize look be witness propose be be have say bear be pickle
+Charlie,Mayfield,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,be say
+Mayfield,Charlie,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,be say
+Robinson,Charlie,3.8461538461538463,2.8846153846153846,39.42307692307692,1.3333333333333333,be talk say
+Mayfield,Charlie,0.8928571428571428,6.25,42.857142857142854,0.14285714285714285,fumble be scribble
+Mayfield,Robinson,2.2435897435897436,0.641025641025641,53.52564102564102,3.5,excuse make be have speak whisper do mean give
+Mayfield,Robinson,2.2435897435897436,0.641025641025641,53.52564102564102,3.5,excuse make be have speak whisper do mean give
+Charlie,Mayfield,2.734375,3.90625,55.859375,0.7,begin ask put do like hear speak
+Charlie,Mayfield,2.734375,3.90625,55.859375,0.7,begin ask put do like hear speak
+Mayfield,Charlie,5.965909090909091,1.7045454545454544,44.60227272727273,3.5,be involve be speak wish hear make debunk divine
+Mayfield,Charlie,5.965909090909091,1.7045454545454544,44.60227272727273,3.5,be involve be speak wish hear make debunk divine
+Charlie,Mayfield,5.965909090909091,1.7045454545454544,44.60227272727273,3.5,be involve be speak wish hear make debunk divine
+Charlie,Mayfield,5.965909090909091,1.7045454545454544,44.60227272727273,3.5,be involve be speak wish hear make debunk divine
+Charlie,Mayfield,5.833333333333333,5.833333333333333,55.00000000000001,1.0,be have understand
+Mayfield,Charlie,0.0,0.0,25.0,INF,say
+Charlie,Eli,0.0,0.0,33.33333333333333,INF,say be go kill
+Charlie,Eli,0.0,0.0,33.33333333333333,INF,say be go kill
+Charlie,Mayfield,0.8928571428571428,4.910714285714286,51.33928571428571,0.18181818181818182,be open repeat answer tell
+Charlie,Mayfield,0.8928571428571428,4.910714285714286,51.33928571428571,0.18181818181818182,be open repeat answer tell
+Mayfield,Charlie,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,say remove grip
+Charlie,Mayfield,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,say remove grip
+Mayfield,Charlie,0.0,0.0,63.63636363636363,INF,begin bleed press sit
+Mayfield,Charlie,0.0,0.0,63.63636363636363,INF,begin bleed press sit
+Mayfield,Charlie,0.0,0.0,63.63636363636363,INF,begin bleed press sit
+Charlie,Mayfield,0.0,0.0,37.5,INF,snap regain
+Charlie,Mayfield,0.0,0.0,37.5,INF,snap regain
+Charlie,Mayfield,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,prop be tense be be drip
+Charlie,Mayfield,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,prop be tense be be drip
+Charlie,Mayfield,0.8620689655172413,0.8620689655172413,53.44827586206896,1.0,prop be tense be be drip
+Charlie,Mayfield,0.0,0.0,50.0,INF,be rifle
+Mayfield,Charlie,0.8928571428571428,5.357142857142857,43.75,0.16666666666666666,describe say
+Mayfield,Charlie,0.8928571428571428,5.357142857142857,43.75,0.16666666666666666,describe say
+Mayfield,Robinson,2.083333333333333,2.083333333333333,49.53703703703704,1.0,say put be see travel lay
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Mayfield,Robinson,2.3214285714285716,1.4285714285714286,46.25,1.625,seal come be give get be stick ask inform know have know recall
+Charlie,Mother,2.083333333333333,1.3888888888888888,49.30555555555556,1.5,say be be sit eat listen scream
+Morris,Charlie,0.9615384615384616,0.0,52.88461538461539,INF,have wait say
+Smith,Miller,0.5681818181818182,0.0,53.97727272727273,INF,drag
+Smith,Miller,0.5681818181818182,0.0,53.97727272727273,INF,drag
+Miller,Smith,2.857142857142857,0.0,68.57142857142857,INF,receive be lose buy
+Miller,Smith,2.857142857142857,0.0,68.57142857142857,INF,receive be lose buy
+Miller,Smith,2.857142857142857,0.0,68.57142857142857,INF,receive be lose buy
+Miller,Smith,2.857142857142857,0.0,68.57142857142857,INF,receive be lose buy
+Charlie,Mayfield,0.0,1.6666666666666667,51.66666666666667,0.0,say pay
+Morris,Charlie,3.8461538461538463,1.4423076923076923,54.32692307692307,2.6666666666666665,strike border be be arrive be wait be stray
+Charlie,Morris,3.8461538461538463,1.4423076923076923,54.32692307692307,2.6666666666666665,strike border be be arrive be wait be stray
+Charlie,Morris,1.6666666666666667,5.0,33.33333333333333,0.3333333333333333,readdress say be
+Mr. Morris,Hermann,2.631578947368421,3.289473684210526,51.973684210526315,0.8,leave say be come
+Hermann,Mr. Morris,2.631578947368421,3.289473684210526,51.973684210526315,0.8,leave say be come
+Charlie,Morris,1.650943396226415,1.4150943396226416,53.5377358490566,1.1666666666666667,seem hope be pay stand hand begin fish catch tell keep enter
+Charlie,Morris,1.650943396226415,1.4150943396226416,53.5377358490566,1.1666666666666667,seem hope be pay stand hand begin fish catch tell keep enter
+Morris,Hermann,2.083333333333333,0.2976190476190476,47.61904761904761,7.0,follow be
+Morris,Hermann,2.083333333333333,0.2976190476190476,47.61904761904761,7.0,follow be
+Hermann,Morris,2.083333333333333,0.2976190476190476,47.61904761904761,7.0,follow be
+Hermann,Morris,5.0,3.5000000000000004,51.5,1.4285714285714286,approach have lay
+Hermann,Mr. Morris,1.6891891891891893,1.3513513513513513,48.310810810810814,1.25,become understand dissect leave say return
+Hermann,Charlie,3.4090909090909087,0.0,32.95454545454545,INF,be say
+Charlie,Mr. Morris,0.0,0.0,61.53846153846154,INF,dine
+Hermann,Morris,9.722222222222223,0.0,34.72222222222222,INF,be
+Morris,Hermann,4.861111111111112,1.3888888888888888,32.63888888888889,3.5,tell defect
+Hermann,Morris,6.25,0.0,56.25,INF,say ride find
+Charlie,Hermann,6.428571428571428,4.285714285714286,57.85714285714286,1.5,pass be do please soothe be
+Charlie,Morris,6.428571428571428,4.285714285714286,57.85714285714286,1.5,pass be do please soothe be
+Charlie,Hermann,6.428571428571428,4.285714285714286,57.85714285714286,1.5,pass be do please soothe be
+Charlie,Morris,6.428571428571428,4.285714285714286,57.85714285714286,1.5,pass be do please soothe be
+Hermann,Morris,6.428571428571428,4.285714285714286,57.85714285714286,1.5,pass be do please soothe be
+Charlie,Mayfield,6.521739130434782,1.4492753623188406,48.55072463768116,4.5,want quit stop walk return construct be
+Mayfield,Charlie,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,be be do enact continue wheeze make rejoin fall head
+Mayfield,Charlie,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,be be do enact continue wheeze make rejoin fall head
+Hermann,Morris,3.6764705882352944,0.0,43.38235294117647,INF,kill
+Morris,Hermann,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,run hide return come claim have miss have lose
+Hermann,Mayfield,7.608695652173914,0.0,53.2608695652174,INF,do know think be dam
+Hermann,Morris,3.125,0.0,46.875,INF,
+Hermann,Charlie,3.273809523809524,2.6785714285714284,48.80952380952381,1.2222222222222223,find decide spend be rest focus lay
+Charlie,Benny,0.0,1.6666666666666667,58.333333333333336,0.0,come be go
+Benny,Charlie,0.0,3.9473684210526314,43.42105263157895,0.0,be ask be
+Charlie,Hermann,4.583333333333333,2.083333333333333,53.333333333333336,2.2,show say be make
+Charlie,Morris,4.583333333333333,2.083333333333333,53.333333333333336,2.2,show say be make
+Hermann,Morris,4.583333333333333,2.083333333333333,53.333333333333336,2.2,show say be make
+Morris,Hermann,2.7777777777777777,0.0,69.44444444444444,INF,be wall
+Morris,Hermann,1.5625,1.875,64.0625,0.8333333333333334,be fix be speak stand hear be say
+Morris,Hermann,1.5625,1.875,64.0625,0.8333333333333334,be fix be speak stand hear be say
+Hermann,Morris,1.5625,1.875,64.0625,0.8333333333333334,be fix be speak stand hear be say
+Hermann,Morris,1.5625,1.875,64.0625,0.8333333333333334,be fix be speak stand hear be say
+Hermann,Charlie,3.125,0.0,38.54166666666667,INF,be say
+Hermann,Morris,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,be wear roll be stain think have be
+Hermann,Morris,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,be wear roll be stain think have be
+Hermann,Morris,3.4722222222222223,0.6944444444444444,56.94444444444444,5.0,be wear roll be stain think have be
+Charlie,Hermann,2.631578947368421,0.6578947368421052,49.34210526315789,4.0,notice ask have be make
+Charlie,Hermann,3.4722222222222223,6.944444444444445,45.13888888888889,0.5,rub answer
+Morris,Hermann,1.7857142857142856,0.4464285714285714,65.625,4.0,look whistle come perform whistle
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Morris,Charlie,2.7027027027027026,2.364864864864865,57.0945945945946,1.1428571428571428,come bound smile see freeze wash
+Charlie,Morris,5.208333333333334,0.0,36.45833333333333,INF,say be
+Hermann,Morris,6.25,3.125,50.625,2.0,speak give sense watch wonder
+Charlie,Hermann,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Charlie,Hermann,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Charlie,Hermann,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Hermann,Charlie,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Hermann,Charlie,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Hermann,Charlie,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Hermann,Charlie,2.976190476190476,1.488095238095238,57.44047619047619,2.0,have leave be demand seal speak look see train
+Hermann,Charlie,0.8928571428571428,0.5952380952380952,60.416666666666664,1.5,be move draw list list lose fall disappear
+Morris,Charlie,0.0,0.0,62.96296296296296,INF,spin run raise reach catch
+Morris,Charlie,0.0,0.0,62.96296296296296,INF,spin run raise reach catch
+Morris,Charlie,0.0,0.0,62.96296296296296,INF,spin run raise reach catch
+Charlie,Morris,1.9230769230769231,4.807692307692308,70.1923076923077,0.4,raise have duck
+Charlie,Morris,1.9230769230769231,4.807692307692308,70.1923076923077,0.4,raise have duck
+Morris,Charlie,4.521276595744681,2.925531914893617,62.76595744680851,1.5454545454545454,break give have have be catch abandon double have drop be have snuck
+Morris,Hermann,4.521276595744681,2.925531914893617,62.76595744680851,1.5454545454545454,break give have have be catch abandon double have drop be have snuck
+Morris,Charlie,4.521276595744681,2.925531914893617,62.76595744680851,1.5454545454545454,break give have have be catch abandon double have drop be have snuck
+Morris,Hermann,4.521276595744681,2.925531914893617,62.76595744680851,1.5454545454545454,break give have have be catch abandon double have drop be have snuck
+Charlie,Hermann,4.521276595744681,2.925531914893617,62.76595744680851,1.5454545454545454,break give have have be catch abandon double have drop be have snuck
+Hermann,Charlie,9.166666666666666,4.583333333333333,49.583333333333336,2.0,have be help be amuse
+Hermann,Morris,0.7142857142857143,0.35714285714285715,58.92857142857143,2.0,take cross double creep
+Morris,Hermann,5.288461538461538,3.3653846153846154,60.57692307692307,1.5714285714285714,think be engage know decide be feel drive see come
+Charlie,Hermann,6.395348837209303,3.77906976744186,50.2906976744186,1.6923076923076923,find be focus know bring be watch
+Charlie,Morris,6.395348837209303,3.77906976744186,50.2906976744186,1.6923076923076923,find be focus know bring be watch
+Charlie,Hermann,6.395348837209303,3.77906976744186,50.2906976744186,1.6923076923076923,find be focus know bring be watch
+Charlie,Morris,6.395348837209303,3.77906976744186,50.2906976744186,1.6923076923076923,find be focus know bring be watch
+Hermann,Morris,6.395348837209303,3.77906976744186,50.2906976744186,1.6923076923076923,find be focus know bring be watch
+Hermann,Morris,1.0080645161290323,1.2096774193548387,51.00806451612904,0.8333333333333334,trace be hide stand begin creep catch
+Hermann,Charlie,1.0080645161290323,1.2096774193548387,51.00806451612904,0.8333333333333334,trace be hide stand begin creep catch
+Morris,Charlie,1.0080645161290323,1.2096774193548387,51.00806451612904,0.8333333333333334,trace be hide stand begin creep catch
+Hermann,Morris,3.75,2.5,48.75,1.5,keep shoot be
+Hermann,Morris,3.225806451612903,3.225806451612903,48.38709677419355,1.0,be see be tuck toss
+Morris,Hermann,2.631578947368421,0.0,60.526315789473685,INF,think detect look
+Morris,Charlie,2.631578947368421,0.0,60.526315789473685,INF,think detect look
+Hermann,Charlie,2.631578947368421,0.0,60.526315789473685,INF,think detect look
+Charlie,Hermann,3.571428571428571,0.0,39.285714285714285,INF,smile say be
+Charlie,Morris,3.571428571428571,0.0,39.285714285714285,INF,smile say be
+Hermann,Morris,3.571428571428571,0.0,39.285714285714285,INF,smile say be
+Morris,Hermann,2.6785714285714284,1.5625,65.40178571428571,1.7142857142857142,be give pause hear hurry give heat cross
+Morris,Hermann,1.5625,3.125,57.8125,0.5,plead come cry
+Morris,Hermann,1.5625,3.125,57.8125,0.5,plead come cry
+Morris,Hermann,4.464285714285714,2.6785714285714284,52.38095238095239,1.6666666666666667,fall begin return shoot close
+Charlie,Hermann,1.7241379310344827,0.0,39.6551724137931,INF,call be do hear
+Morris,Hermann,1.171875,3.125,51.953125,0.375,bring fall hiss disagree worry
+Charlie,Hermann,3.040540540540541,1.3513513513513513,46.95945945945946,2.25,point speak do see discuss force
+Morris,Hermann,3.7037037037037033,2.314814814814815,56.94444444444444,1.6,say make translate say think get
+Hermann,Morris,3.7037037037037033,2.314814814814815,56.94444444444444,1.6,say make translate say think get
+Hermann,Morris,3.7037037037037033,2.314814814814815,56.94444444444444,1.6,say make translate say think get
+Hermann,Morris,3.7037037037037033,2.314814814814815,56.94444444444444,1.6,say make translate say think get
+Hermann,Morris,1.875,6.25,51.87500000000001,0.3,do speak hear speak
+Hermann,Morris,1.875,6.25,51.87500000000001,0.3,do speak hear speak
+Morris,Hermann,6.25,11.11111111111111,43.75,0.5625,make
+Hermann,Morris,11.538461538461538,9.615384615384617,48.07692307692308,1.2,do know know
+Hermann,Morris,2.083333333333333,0.0,64.58333333333334,INF,be face look search grow
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Morris,Charlie,3.2407407407407405,3.8580246913580245,54.629629629629626,0.84,be be be be be say be think like see whistle have be impress
+Hermann,Charlie,5.729166666666666,0.5208333333333333,43.75,11.0,offer take have solidify
+Hermann,Charlie,5.729166666666666,0.5208333333333333,43.75,11.0,offer take have solidify
+Charlie,Hermann,4.0,1.5,58.5,2.6666666666666665,be dump demur say be exhaust
+Charlie,Morris,4.0,1.5,58.5,2.6666666666666665,be dump demur say be exhaust
+Hermann,Charlie,4.0,1.5,58.5,2.6666666666666665,be dump demur say be exhaust
+Hermann,Morris,4.0,1.5,58.5,2.6666666666666665,be dump demur say be exhaust
+Charlie,Morris,4.0,1.5,58.5,2.6666666666666665,be dump demur say be exhaust
+Morris,Charlie,4.166666666666666,3.4090909090909087,50.0,1.2222222222222223,see be trouble join watch watch be concern say do
+Morris,Charlie,4.166666666666666,3.4090909090909087,50.0,1.2222222222222223,see be trouble join watch watch be concern say do
+Morris,Charlie,4.545454545454546,2.272727272727273,56.81818181818182,2.0,shake look shrug pass
+Charlie,Morris,4.545454545454546,2.272727272727273,56.81818181818182,2.0,shake look shrug pass
+Morris,Hermann,2.8846153846153846,2.8846153846153846,51.92307692307693,1.0,be fray be say be
+Morris,Hermann,2.8846153846153846,2.8846153846153846,51.92307692307693,1.0,be fray be say be
+Morris,Hermann,2.8846153846153846,2.8846153846153846,51.92307692307693,1.0,be fray be say be
+Charlie,Hermann,2.5,0.0,67.5,INF,take pass
+Hermann,Charlie,3.225806451612903,0.8064516129032258,57.25806451612904,4.0,take screw hide say be
+Morris,Charlie,0.0,0.0,33.33333333333333,INF,be say
+Hermann,Morris,2.5,2.5,51.0,1.0,begin itch ask do pull
+Hermann,Morris,2.5,2.5,51.0,1.0,begin itch ask do pull
+Morris,Hermann,6.896551724137931,0.0,58.620689655172406,INF,look be be think feel watch
+Hermann,Morris,6.896551724137931,0.0,58.620689655172406,INF,look be be think feel watch
+Hermann,Morris,6.896551724137931,0.0,58.620689655172406,INF,look be be think feel watch
+Charlie,Hermann,8.088235294117647,2.941176470588235,47.794117647058826,2.75,be study read
+Hermann,Charlie,8.088235294117647,2.941176470588235,47.794117647058826,2.75,be study read
+Hermann,Charlie,3.125,1.953125,54.296875,1.6,do think notice continue be have see
+Hermann,Charlie,3.125,1.953125,54.296875,1.6,do think notice continue be have see
+Morris,Hermann,1.9736842105263157,2.9605263157894735,55.5921052631579,0.6666666666666666,call excuse return wear confide be have acclimate
+Morris,Hermann,1.9736842105263157,2.9605263157894735,55.5921052631579,0.6666666666666666,call excuse return wear confide be have acclimate
+Hermann,Morris,1.9736842105263157,2.9605263157894735,55.5921052631579,0.6666666666666666,call excuse return wear confide be have acclimate
+Hermann,Morris,1.9736842105263157,2.9605263157894735,55.5921052631579,0.6666666666666666,call excuse return wear confide be have acclimate
+Hermann,Morris,1.9736842105263157,2.9605263157894735,55.5921052631579,0.6666666666666666,call excuse return wear confide be have acclimate
+Charlie,Hermann,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,send collect hammer
+Charlie,Hermann,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,send collect hammer
+Charlie,Hermann,2.976190476190476,2.976190476190476,48.80952380952381,1.0,return weigh have drag understand stand
+Morris,Charlie,3.125,0.78125,58.59375,4.0,leave tend assist dispose
+Hermann,Charlie,5.729166666666666,2.083333333333333,67.1875,2.75,stand raise set strike
+Charlie,Morris,0.0,0.0,54.54545454545454,INF,go have swim
+Charlie,Morris,6.944444444444445,5.555555555555555,54.166666666666664,1.25,look say be complain say think soothe
+Charlie,Morris,6.944444444444445,5.555555555555555,54.166666666666664,1.25,look say be complain say think soothe
+Charlie,Morris,6.944444444444445,5.555555555555555,54.166666666666664,1.25,look say be complain say think soothe
+Charlie,Hermann,3.061224489795918,2.806122448979592,53.316326530612244,1.0909090909090908,be weaken be speak be engage
+Hermann,Charlie,3.061224489795918,2.806122448979592,53.316326530612244,1.0909090909090908,be weaken be speak be engage
+Charlie,Morris,3.8461538461538463,0.4807692307692308,49.519230769230774,8.0,straighten ask do think kill do
+Eli,Morris,5.492424242424242,2.462121212121212,54.166666666666664,2.230769230769231,say like ask grant be wish know be put be wonder be come work
+Eli,Morris,5.492424242424242,2.462121212121212,54.166666666666664,2.230769230769231,say like ask grant be wish know be put be wonder be come work
+Eli,Morris,5.492424242424242,2.462121212121212,54.166666666666664,2.230769230769231,say like ask grant be wish know be put be wonder be come work
+Eli,Morris,5.492424242424242,2.462121212121212,54.166666666666664,2.230769230769231,say like ask grant be wish know be put be wonder be come work
+Hermann,Charlie,1.3157894736842104,2.631578947368421,59.210526315789465,0.5,cease turn watch lose
+Hermann,Morris,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,return answer be be work
+Morris,Hermann,0.8333333333333334,0.8333333333333334,51.66666666666667,1.0,return answer be be work
+Morris,Hermann,0.0,0.0,33.33333333333333,INF,make call
+Hermann,Eli,5.113636363636364,0.0,44.88636363636363,INF,squint look ask help please
+Eli,Hermann,4.440789473684211,3.125,47.69736842105263,1.4210526315789473,pass encourage speak recount have do want forget turn be enjoy
+Eli,Hermann,4.440789473684211,3.125,47.69736842105263,1.4210526315789473,pass encourage speak recount have do want forget turn be enjoy
+Eli,Hermann,4.440789473684211,3.125,47.69736842105263,1.4210526315789473,pass encourage speak recount have do want forget turn be enjoy
+Eli,Hermann,4.440789473684211,3.125,47.69736842105263,1.4210526315789473,pass encourage speak recount have do want forget turn be enjoy
+Hermann,Eli,1.1904761904761905,0.5952380952380952,50.595238095238095,2.0,leave
+Morris,Hermann,2.083333333333333,0.0,56.25,INF,call give
+Morris,Hermann,5.769230769230769,0.0,55.769230769230774,INF,be frighten be
+Hermann,Charlie,3.571428571428571,0.0,39.285714285714285,INF,look
+Charlie,Morris,2.5,1.0,52.5,2.5,be come nod say
+Charlie,Morris,2.5,1.0,52.5,2.5,be come nod say
+Hermann,Morris,0.9146341463414633,0.0,50.30487804878049,INF,lead install shoo continue be
+Hermann,Morris,0.9146341463414633,0.0,50.30487804878049,INF,lead install shoo continue be
+Hermann,Morris,0.9146341463414633,0.0,50.30487804878049,INF,lead install shoo continue be
+Hermann,Morris,0.9146341463414633,0.0,50.30487804878049,INF,lead install shoo continue be
+Morris,Charlie,0.8333333333333334,2.9166666666666665,49.583333333333336,0.2857142857142857,call dump warn let
+Hermann,Morris,5.769230769230769,0.0,55.769230769230774,INF,instruct begin stir
+Hermann,Morris,5.769230769230769,0.0,55.769230769230774,INF,instruct begin stir
+Hermann,Morris,3.75,1.5625,62.18749999999999,2.4,keep forage agitate be
+Hermann,Charlie,9.558823529411764,9.558823529411764,45.588235294117645,1.0,do know be do have have
+Hermann,Charlie,4.0,0.5,55.50000000000001,8.0,be work dip dart
+Hermann,Charlie,4.0,0.5,55.50000000000001,8.0,be work dip dart
+Charlie,Morris,8.035714285714286,0.0,63.39285714285714,INF,have finish hear shout
+Charlie,Hermann,1.6666666666666667,0.0,51.66666666666667,INF,run have move pull
+Hermann,Charlie,1.6666666666666667,0.0,51.66666666666667,INF,run have move pull
+Hermann,Charlie,1.6666666666666667,0.0,51.66666666666667,INF,run have move pull
+Charlie,Morris,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Morris,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Morris,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Morris,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Morris,Charlie,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Morris,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Hermann,2.564102564102564,1.6025641025641024,52.243589743589745,1.6,stare call use wedge pull do seem hear
+Charlie,Morris,0.0,1.5625,60.9375,0.0,resurface
+Morris,Charlie,0.0,1.5625,60.9375,0.0,resurface
+Charlie,Hermann,4.310344827586207,5.603448275862069,41.810344827586206,0.7692307692307693,clear come help shout touch do
+Morris,Hermann,1.4150943396226416,2.5943396226415096,54.48113207547169,0.5454545454545454,douse moan thank wash drag lay
+Morris,Charlie,1.4150943396226416,2.5943396226415096,54.48113207547169,0.5454545454545454,douse moan thank wash drag lay
+Hermann,Charlie,1.4150943396226416,2.5943396226415096,54.48113207547169,0.5454545454545454,douse moan thank wash drag lay
+Hermann,Morris,7.8125,7.8125,59.375,1.0,say see
+Morris,Hermann,6.25,6.25,45.83333333333333,1.0,begin search
+Hermann,Morris,6.25,6.25,45.83333333333333,1.0,begin search
+Charlie,Hermann,1.6666666666666667,0.0,45.0,INF,leave carry
+Charlie,Hermann,1.6666666666666667,0.0,45.0,INF,leave carry
+Hermann,Charlie,1.6666666666666667,0.0,45.0,INF,leave carry
+Charlie,Morris,0.0,0.5434782608695652,47.28260869565217,0.0,be lay say do pull
+Charlie,Morris,0.0,0.5434782608695652,47.28260869565217,0.0,be lay say do pull
+Charlie,Morris,0.0,0.5434782608695652,47.28260869565217,0.0,be lay say do pull
+Charlie,Morris,0.0,0.5434782608695652,47.28260869565217,0.0,be lay say do pull
+Morris,Charlie,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,make wish wake speak decide let
+Morris,Charlie,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,make wish wake speak decide let
+Morris,Charlie,1.0416666666666665,1.0416666666666665,47.91666666666667,1.0,make wish wake speak decide let
+Hermann,Charlie,1.4705882352941175,3.6764705882352944,71.32352941176471,0.4,take be sleep do wake
+Hermann,Charlie,1.4705882352941175,3.6764705882352944,71.32352941176471,0.4,take be sleep do wake
+Charlie,Hermann,0.6097560975609756,0.9146341463414633,59.45121951219512,0.6666666666666666,come be pour be roil
+Charlie,Morris,1.6129032258064515,2.4193548387096775,54.03225806451613,0.6666666666666666,have take say look have give
+Morris,Charlie,1.6129032258064515,2.4193548387096775,54.03225806451613,0.6666666666666666,have take say look have give
+Morris,Charlie,1.6129032258064515,2.4193548387096775,54.03225806451613,0.6666666666666666,have take say look have give
+Mayfield,Morris,1.1029411764705883,0.3676470588235294,42.64705882352941,3.0,recall remove drop be
+Charlie,Hermann,3.75,3.125,53.125,1.2,ask mark say ask
+Charlie,Hermann,3.75,3.125,53.125,1.2,ask mark say ask
+Morris,Hermann,1.1029411764705883,1.4705882352941175,50.36764705882353,0.75,combine make
+Morris,Charlie,0.0,0.0,50.0,INF,be go adopt say
+Hermann,Charlie,3.804347826086957,3.804347826086957,53.2608695652174,1.0,be transport do think be save move
+Hermann,Charlie,3.804347826086957,3.804347826086957,53.2608695652174,1.0,be transport do think be save move
+Charlie,Eli,0.625,1.25,38.125,0.5,be say do talk
+Charlie,Eli,0.625,1.25,38.125,0.5,be say do talk
+Hermann,Charlie,3.571428571428571,0.0,46.42857142857143,INF,call enter
+Hermann,Charlie,3.571428571428571,0.0,46.42857142857143,INF,call enter
+Charlie,Morris,0.0,1.6666666666666667,58.333333333333336,0.0,tell be dictate
+Charlie,Hermann,4.032258064516129,1.6129032258064515,45.96774193548387,2.5,have fall be lie feel speak
+Hermann,Charlie,4.166666666666666,0.0,62.5,INF,be breathe
+Charlie,Hermann,7.8125,2.34375,46.09375,3.3333333333333335,be be
+Eli,Hermann,7.291666666666667,2.083333333333333,40.625,3.5,know like
+Hermann,Charlie,2.5,0.0,37.5,INF,tell
+Hermann,Charlie,3.571428571428571,0.8928571428571428,52.67857142857143,4.0,put be
+Hermann,Charlie,3.571428571428571,0.8928571428571428,52.67857142857143,4.0,put be
+Hermann,Charlie,4.481132075471698,1.8867924528301887,44.575471698113205,2.375,be fill search understand have write owe be
+Hermann,Charlie,4.481132075471698,1.8867924528301887,44.575471698113205,2.375,be fill search understand have write owe be
+Hermann,Charlie,4.481132075471698,1.8867924528301887,44.575471698113205,2.375,be fill search understand have write owe be
+Charlie,Mayfield,0.0,0.0,47.368421052631575,INF,be go say do think do
+Mayfield,Charlie,8.088235294117647,0.7352941176470588,44.11764705882353,11.0,admit have say wonder be
+Crane,Charlie,0.0,0.0,57.14285714285714,INF,take tell give tell be
+Crane,Charlie,0.0,0.0,57.14285714285714,INF,take tell give tell be
+Crane,Charlie,3.4482758620689653,6.0344827586206895,45.689655172413794,0.5714285714285714,be bother retrieve be care remain cross lift
+Crane,Charlie,3.4482758620689653,6.0344827586206895,45.689655172413794,0.5714285714285714,be bother retrieve be care remain cross lift
+Charlie,Crane,1.488095238095238,0.5952380952380952,64.58333333333334,2.5,lay bandage drug encourage take say be be
+Crane,Charlie,1.488095238095238,0.5952380952380952,64.58333333333334,2.5,lay bandage drug encourage take say be be
+Charlie,Mother,0.5952380952380952,2.976190476190476,39.285714285714285,0.2,rouse tie ride
+Charlie,Mother,0.5952380952380952,2.976190476190476,39.285714285714285,0.2,rouse tie ride
+Charlie,Mother,0.5952380952380952,2.976190476190476,39.285714285714285,0.2,rouse tie ride
+Mother,Charlie,6.25,4.6875,39.0625,1.3333333333333333,watch
+Charlie,Mother,0.0,0.0,22.22222222222222,INF,say
+Mother,Charlie,0.0,5.681818181818182,57.95454545454546,0.0,do look turn
+Mother,Charlie,0.0,0.0,46.666666666666664,INF,tell go thank make leave
+Mother,Charlie,0.0,0.0,46.666666666666664,INF,tell go thank make leave
+Charlie,Mother,0.0,0.0,46.666666666666664,INF,tell go thank make leave
+Charlie,Mother,0.0,0.0,46.666666666666664,INF,tell go thank make leave
+Charlie,Mother,6.25,0.0,58.03571428571429,INF,have go say look
+Mother,Charlie,6.25,0.0,58.03571428571429,INF,have go say look
+Charlie,Mother,5.357142857142857,4.017857142857143,44.19642857142857,1.3333333333333333,explain have lose say hope do expect
+Charlie,Mother,5.357142857142857,4.017857142857143,44.19642857142857,1.3333333333333333,explain have lose say hope do expect

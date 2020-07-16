@@ -1,0 +1,279 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Grace,Harrow,12.5,0.0,62.5,INF,
+Victoria,Luis,0.0,0.0,37.5,INF,tell bang
+Stella,Post,4.166666666666666,1.3888888888888888,50.0,3.0,do tell read
+Stella,Post,4.166666666666666,1.3888888888888888,50.0,3.0,do tell read
+Mark,Rick,4.807692307692308,1.9230769230769231,62.5,2.5,be call
+Rick,Persephone,0.0,0.0,66.66666666666666,INF,give
+Rick,Mina,0.0,0.0,60.0,INF,come stumble
+Mina,Rick,1.7045454545454544,0.5681818181818182,43.18181818181818,3.0,be like call
+Rick,Mina,1.7045454545454544,0.5681818181818182,43.18181818181818,3.0,be like call
+Rick,Mina,3.289473684210526,7.236842105263158,47.368421052631575,0.45454545454545453,stare be
+Rick,Mark,2.7777777777777777,1.3888888888888888,51.388888888888886,2.0,be look
+Bathsheba,David,2.0,0.0,74.0,INF,be spy be
+Bathsheba,David,2.0,0.0,74.0,INF,be spy be
+David,Bathsheba,2.5,1.25,56.25,2.0,be do
+Mark,Persephone,6.25,0.0,68.75,INF,hold
+Mark,Persephone,1.1363636363636365,1.1363636363636365,61.36363636363637,1.0,agree let be
+T. K. Harrow,Radio City,3.125,1.5625,66.14583333333334,2.0,be find look
+T. K. Harrow,Radio City,3.125,1.5625,66.14583333333334,2.0,be find look
+T. K. Harrow,Radio City,3.125,1.5625,66.14583333333334,2.0,be find look
+Mary,Magdalene,4.166666666666666,2.083333333333333,27.083333333333332,2.0,be
+Mr Spademan,Stella,0.0,0.0,60.0,INF,
+Harrow,Mark,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,sound
+Simon,Jesus,1.3888888888888888,0.0,65.27777777777779,INF,be
+Harrow,Simon,1.9736842105263157,0.0,61.18421052631579,INF,go let
+Simon,Jesus,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,say like think
+Simon,Jesus,1.7857142857142856,0.8928571428571428,54.46428571428571,2.0,say like think
+Simon,Mr Spademan,5.434782608695652,0.0,55.434782608695656,INF,do know do be upstage
+Mr Spademan,Simon,5.434782608695652,0.0,55.434782608695656,INF,do know do be upstage
+Harrow,Simon,0.0,0.0,80.0,INF,look
+Harrow,Simon,1.25,1.25,57.49999999999999,1.0,stand size
+Harrow,Mark,1.25,1.25,57.49999999999999,1.0,stand size
+Simon,Mark,1.25,1.25,57.49999999999999,1.0,stand size
+Harrow,Simon,0.9615384615384616,0.0,68.26923076923077,INF,step hold
+Mark,Simon,1.5625,1.5625,59.375,1.0,meet
+Harrow,Simon,10.0,0.0,50.0,INF,
+Simon,Mr Spademan,1.7857142857142856,0.0,55.35714285714286,INF,tap
+Harrow,Mark,1.9230769230769231,0.9615384615384616,74.03846153846155,2.0,look hover tremble
+Radio City,Harrow,4.166666666666666,0.9615384615384616,74.35897435897436,4.333333333333333,rent have set be yawn arrive
+Rick,Mark,1.9736842105263157,2.302631578947368,56.25,0.8571428571428571,get be go wear drink
+Rick,Mark,1.9736842105263157,2.302631578947368,56.25,0.8571428571428571,get be go wear drink
+Mark,Persephone,15.625,9.375,50.0,1.6666666666666667,
+Simon,Harrow,0.0,0.0,40.0,INF,be
+Grace,Harrow,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,tell like meet call show
+Grace,Harrow,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,tell like meet call show
+Grace,Harrow,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,tell like meet call show
+Grace,Harrow,3.214285714285714,1.0714285714285714,58.57142857142858,3.0,tell like meet call show
+Rachel,Harrow,0.0,0.78125,67.96875,0.0,be become
+Harrow,Rachel,0.78125,1.5625,53.90625,0.5,be give provide
+Harrow,Rachel,0.78125,1.5625,53.90625,0.5,be give provide
+Harrow,Rachel,0.78125,1.5625,53.90625,0.5,be give provide
+Rachel,Grace,1.3157894736842104,1.9736842105263157,59.86842105263158,0.6666666666666666,be become
+Rachel,Grace,1.3157894736842104,1.9736842105263157,59.86842105263158,0.6666666666666666,be become
+Grace,Rachel,2.0161290322580645,0.0,49.596774193548384,INF,joke be live be come take
+Rachel,Grace,1.7857142857142856,3.571428571428571,51.78571428571429,0.5,warn date ask
+Harrow,Rachel,4.166666666666666,1.3888888888888888,61.111111111111114,3.0,call
+Rachel,Harrow,4.166666666666666,1.3888888888888888,61.111111111111114,3.0,call
+Rachel,Harrow,6.25,2.083333333333333,47.22222222222222,3.0,think be go talk offer help
+Harrow,Rachel,6.25,2.083333333333333,47.22222222222222,3.0,think be go talk offer help
+Harrow,Rachel,6.25,2.083333333333333,47.22222222222222,3.0,think be go talk offer help
+Harrow,Rachel,8.75,2.5,48.75,3.5,tell
+Harrow,Rachel,0.0,0.0,50.0,INF,escort
+T. K. Harrow,Rachel,0.0,0.0,25.0,INF,
+Rachel,T. K. Harrow,0.0,0.0,25.0,INF,
+T. K. Harrow,Rachel,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+T. K. Harrow,Rachel,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Rachel,T. K. Harrow,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Rachel,T. K. Harrow,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Rachel,T. K. Harrow,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+T. K. Harrow,Rachel,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Rachel,T. K. Harrow,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Rachel,T. K. Harrow,3.6290322580645165,0.4032258064516129,50.806451612903224,9.0,deliver say wait come tell be build feel
+Harrow,Rachel,1.4705882352941175,0.9803921568627451,64.2156862745098,1.5,tap put lay lock wonder be tear be
+Harrow,Rachel,1.4705882352941175,0.9803921568627451,64.2156862745098,1.5,tap put lay lock wonder be tear be
+Rachel,Grace,3.90625,2.34375,65.625,1.6666666666666667,have be allow see get have harbor
+Rachel,Grace,3.90625,2.34375,65.625,1.6666666666666667,have be allow see get have harbor
+Grace,Rachel,3.90625,2.34375,65.625,1.6666666666666667,have be allow see get have harbor
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Grace,Rachel,1.7857142857142856,1.1904761904761905,58.92857142857143,1.5,get come visit say
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,4.411764705882353,1.4705882352941175,47.05882352941176,3.0,smile strain stroke cry
+Rachel,Grace,3.4090909090909087,0.0,60.22727272727273,INF,ask carry
+Grace,Rachel,3.4090909090909087,0.0,60.22727272727273,INF,ask carry
+Grace,Rachel,4.081632653061225,1.530612244897959,65.81632653061224,2.6666666666666665,circle cut get say let have reach give
+Rachel,Grace,4.081632653061225,1.530612244897959,65.81632653061224,2.6666666666666665,circle cut get say let have reach give
+Rachel,Grace,6.382978723404255,0.5319148936170213,65.42553191489363,12.0,slash bind plunge plunge plunge smile say love love hope see
+Rachel,Grace,6.382978723404255,0.5319148936170213,65.42553191489363,12.0,slash bind plunge plunge plunge smile say love love hope see
+Rachel,Grace,6.382978723404255,0.5319148936170213,65.42553191489363,12.0,slash bind plunge plunge plunge smile say love love hope see
+Rick,Mark,0.5514705882352942,1.4705882352941175,59.74264705882353,0.375,fold hide do tell sit deflate trap
+Rick,Mark,0.5514705882352942,1.4705882352941175,59.74264705882353,0.375,fold hide do tell sit deflate trap
+Rick,Mark,0.5514705882352942,1.4705882352941175,59.74264705882353,0.375,fold hide do tell sit deflate trap
+Mina,Rick,0.0,0.0,54.54545454545454,INF,come slouch slurp steam
+Persephone,Harrow,4.807692307692308,0.0,64.42307692307693,INF,convince stop ask
+Mark,Harrow,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,do be tap
+Mark,Rick,3.90625,1.5625,44.53125,2.5,pivot be talk
+Persephone,Harrow,1.25,0.0,58.75,INF,be convince tap
+Harrow,Mark,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Rick,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Rick,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mark,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Harrow,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Rick,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Harrow,Simon,3.6111111111111107,3.425925925925926,54.44444444444444,1.054054054054054,break set dangle slip use be be give make see offer fuck knock be track sidestep get dispatch be compare
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Mina,Rick,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,3.90625,0.78125,42.1875,5.0,be be try follow
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Rick,Mina,1.650943396226415,2.8301886792452833,44.575471698113205,0.5833333333333334,decide shake be give stand ask walk have get lose
+Simon,Rick,2.4390243902439024,3.353658536585366,57.62195121951219,0.7272727272727273,turn step feel get horsewhip
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,1.5,0.0,54.50000000000001,INF,hold stutter slam
+Simon,Rick,0.0,0.0,69.23076923076923,INF,get do
+Simon,Rick,0.0,0.0,69.23076923076923,INF,get do
+Rick,Simon,0.0,0.0,58.82352941176471,INF,be bind commence
+Rick,Simon,0.0,0.0,58.82352941176471,INF,be bind commence
+Milgram,Rick,5.434782608695652,0.5434782608695652,50.54347826086957,10.0,wait do know talk slash shut
+Mina,Rick,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,catch be topple bind cough
+Mina,Rick,1.3392857142857142,2.232142857142857,53.57142857142857,0.6,catch be topple bind cough
+Mina,Rick,0.0,5.681818181818182,39.77272727272727,0.0,fall cradle burn
+Rick,Mina,0.0,5.681818181818182,39.77272727272727,0.0,fall cradle burn
+Simon,Mina,0.0,0.0,60.0,INF,stand
+Mina,Simon,3.571428571428571,1.7857142857142856,44.642857142857146,2.0,look
+Simon,Mina,0.0,0.0,60.0,INF,stand
+Simon,Mina,3.8461538461538463,0.0,57.692307692307686,INF,put
+Simon,Mina,3.8461538461538463,0.0,57.692307692307686,INF,put
+Simon,Mina,3.8461538461538463,0.0,57.692307692307686,INF,put
+Simon,Mina,3.8461538461538463,0.0,57.692307692307686,INF,put
+Simon,Mina,7.894736842105263,1.9736842105263157,48.026315789473685,4.0,
+Simon,Mina,7.894736842105263,1.9736842105263157,48.026315789473685,4.0,
+Rachel,Dave,4.6875,1.5625,56.25,3.0,cut
+Rick,Post,6.25,2.083333333333333,58.333333333333336,3.0,read
+Harrow,Mark,6.25,1.0416666666666665,34.375,6.0,stop find
+Harrow,Mark,6.25,1.0416666666666665,34.375,6.0,stop find
+Harrow,Mark,6.25,1.0416666666666665,34.375,6.0,stop find
+Harrow,Mark,6.25,1.0416666666666665,34.375,6.0,stop find
+Milgram,Mr Spademan,2.272727272727273,7.954545454545454,44.31818181818182,0.2857142857142857,work
+Milgram,Simon,8.088235294117647,1.4705882352941175,55.14705882352941,5.5,squint have tell do understand
+Milgram,Simon,8.088235294117647,1.4705882352941175,55.14705882352941,5.5,squint have tell do understand
+Beth,David,0.0,0.0,50.0,INF,
+Mark,Beth,0.0,0.0,62.5,INF,know
+Beth,David,0.0,0.0,60.0,INF,start date
+David,Beth,2.083333333333333,0.0,64.58333333333334,INF,hear have split
+David,Beth,3.0,1.0,56.00000000000001,3.0,unpack stop surprise
+David,Beth,3.0,1.0,56.00000000000001,3.0,unpack stop surprise
+Beth,David,3.0,1.0,56.00000000000001,3.0,unpack stop surprise
+Beth,David,3.0,1.0,56.00000000000001,3.0,unpack stop surprise
+David,Beth,2.7777777777777777,0.0,52.77777777777778,INF,remember
+Beth,David,0.0,0.0,72.72727272727273,INF,stop
+Beth,David,0.0,0.0,72.72727272727273,INF,stop
+David,Mark,4.807692307692308,2.8846153846153846,53.84615384615385,1.6666666666666667,ask be
+Beth,David,0.0,3.125,21.875,0.0,swat
+Mark,Rick,3.4090909090909087,10.984848484848484,46.21212121212121,0.3103448275862069,have tell imagine pull
+Mark,Simon,3.4090909090909087,10.984848484848484,46.21212121212121,0.3103448275862069,have tell imagine pull
+Rick,Simon,3.4090909090909087,10.984848484848484,46.21212121212121,0.3103448275862069,have tell imagine pull
+Simon,Mr Spademan,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,do say think be suppose protect
+Simon,Mr Spademan,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,do say think be suppose protect
+Mark,Persephone,0.7352941176470588,1.4705882352941175,50.73529411764706,0.5,
+Persephone,Mark,0.0,4.6875,32.8125,0.0,want talk
+Mark,Persephone,3.571428571428571,4.761904761904762,63.095238095238095,0.75,begin
+Mark,Persephone,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,go
+Milgram,Mr Harrow,3.5000000000000004,2.5,50.0,1.4,form be be
+Milgram,Mr Harrow,2.5,0.0,37.5,INF,fold
+Harrow,Simon,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,be
+Harrow,Mark,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,be
+Simon,Mark,0.6578947368421052,3.9473684210526314,48.026315789473685,0.16666666666666666,be
+Margo,Mark,3.4090909090909087,1.1363636363636365,50.0,3.0,tell be dream drown
+Mark,Mina,1.3888888888888888,0.0,65.27777777777779,INF,think be ride
+Mary,Magdalene,0.0,0.0,44.44444444444444,INF,take
+Harrow,Rachel,2.941176470588235,0.0,61.76470588235294,INF,explain arrange tap put
+Harrow,Rachel,2.941176470588235,0.0,61.76470588235294,INF,explain arrange tap put
+Rachel,Harrow,2.941176470588235,0.0,61.76470588235294,INF,explain arrange tap put
+Rachel,Grace,8.333333333333332,3.125,55.208333333333336,2.6666666666666665,get
+Grace,Simon,0.0,0.0,50.0,INF,remember
+Simon,Grace,0.0,0.0,60.0,INF,slip
+Harrow,Grace,1.524390243902439,3.50609756097561,55.94512195121951,0.43478260869565216,seem pause search use be be be shift curl wound send
+Grace,Harrow,0.0,0.0,46.15384615384615,INF,do think hide
+Simon,Harrow,10.416666666666668,1.3888888888888888,54.861111111111114,7.5,turn salute
+Simon,Harrow,0.0,0.0,66.66666666666666,INF,show
+Simon,Harrow,0.0,0.0,60.0,INF,open show
+Simon,Harrow,0.0,0.0,60.0,INF,open show
+Persephone,Mark,2.083333333333333,2.083333333333333,62.5,1.0,grab
+Simon,Mark,2.5,2.5,55.00000000000001,1.0,look
+Mark,Persephone,2.083333333333333,2.083333333333333,29.166666666666668,1.0,
+Uriel,Sternbergh,0.78125,0.78125,54.6875,1.0,hold banish
+Persephone,Mark,0.5952380952380952,0.5952380952380952,51.19047619047619,1.0,leave take
+Social Club,Mark,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Social Club,Rick,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Social Club,Simon,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Mark,Rick,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Mark,Simon,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Rick,Simon,2.7439024390243905,8.841463414634147,46.95121951219512,0.3103448275862069,tell imagine pull
+Mr Spademan,Simon,0.0,0.0,42.857142857142854,INF,listen
+Harrow,Simon,9.166666666666666,0.8333333333333334,56.666666666666664,11.0,have appoint be
+Harrow,Simon,9.166666666666666,0.8333333333333334,56.666666666666664,11.0,have appoint be
+Rachel,Simon,0.0,0.0,42.857142857142854,INF,go
+Simon,Rachel,10.416666666666668,2.083333333333333,37.5,5.0,help
+Simon,Rachel,4.6875,3.125,42.1875,1.5,tug
+Simon,Social Club,3.75,2.9166666666666665,50.0,1.2857142857142858,shake do know change deny
+Harrow,Persephone,1.1363636363636365,0.5681818181818182,48.29545454545455,2.0,want take allow
+Sternbergh,Grossman,0.9375,6.875000000000001,49.6875,0.13636363636363635,
+Sternbergh,Grossman,0.9375,6.875000000000001,49.6875,0.13636363636363635,
+Grossman,Sternbergh,0.9375,6.875000000000001,49.6875,0.13636363636363635,
+Sternbergh,Grossman,2.425373134328358,3.3582089552238807,55.41044776119403,0.7222222222222222,hit be have retreat
+Mr Spademan,Sternbergh,1.25,1.875,51.87500000000001,0.6666666666666666,be be
+Sternbergh,Grossman,4.166666666666666,2.450980392156863,50.245098039215684,1.7,speak be
+Star Trek,Tolkien,1.1111111111111112,5.555555555555555,46.666666666666664,0.2,be
+Sternbergh,Tolkien,0.4807692307692308,2.403846153846154,66.34615384615384,0.2,grow be leave
+Sternbergh,Star Trek,2.1341463414634148,0.0,46.646341463414636,INF,be be be build take graft
+Sternbergh,Mr Spademan,2.34375,0.390625,56.640625,6.0,read be sell
+Lesser,Moore,9.375,9.375,31.25,1.0,

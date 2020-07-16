@@ -1,0 +1,1017 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Kathy,Hailsham,0.7575757575757576,1.893939393939394,39.77272727272727,0.4,say get pick choose choose
+Kathy,Hailsham,0.7575757575757576,1.893939393939394,39.77272727272727,0.4,say get pick choose choose
+Kathy,Hailsham,0.7575757575757576,1.893939393939394,39.77272727272727,0.4,say get pick choose choose
+Kathy,Hailsham,0.7575757575757576,1.893939393939394,39.77272727272727,0.4,say get pick choose choose
+Ruth,Tommy,0.4629629629629629,2.314814814814815,52.77777777777778,0.2,start choose have get
+Ruth,Hailsham,2.142857142857143,3.75,55.53571428571429,0.5714285714285714,manage see do vanish seem grow know remember do
+Tommy,Ruth,10.775862068965516,0.43103448275862066,37.06896551724138,25.0,be understand understand be
+Ruth,Tommy,4.326923076923077,2.8846153846153846,38.94230769230769,1.5,say look search be go do
+Ruth,Tommy,4.326923076923077,2.8846153846153846,38.94230769230769,1.5,say look search be go do
+Laura,Tommy,2.5956521739130434,3.110869565217391,52.9891304347826,0.8343815513626833,do think hear be laugh mimic appear run wave call tackle
+Laura,Tommy,2.5956521739130434,3.110869565217391,52.9891304347826,0.8343815513626833,do think hear be laugh mimic appear run wave call tackle
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,4.4921875,2.734375,55.2734375,1.6428571428571428,keep do go puzzle have go have be choose begin be go
+Laura,Tommy,0.0,0.0,55.88235294117647,INF,do keep glance be watch know be do keep egg
+Tommy,Laura,0.0,0.0,55.88235294117647,INF,do keep glance be watch know be do keep egg
+Tommy,Laura,0.0,0.0,55.88235294117647,INF,do keep glance be watch know be do keep egg
+Tommy,Ruth,4.5,1.0,54.50000000000001,4.5,be leave begin snigger hear say be come
+Laura,Tommy,0.0,0.0,54.54545454545454,INF,say be rehearse
+Laura,Tommy,0.0,0.0,54.54545454545454,INF,say be rehearse
+Ruth,Tommy,1.5625,1.0416666666666665,51.5625,1.5,suppose be say work
+Tommy,Hannah,0.0,0.0,38.46153846153847,INF,keep say
+Tommy,Ruth,1.7857142857142856,0.0,41.07142857142857,INF,get say
+Tommy,Kath,4.6875,0.78125,44.53125,6.0,say have be look
+Tommy,Kath,1.7045454545454544,0.0,43.75,INF,begin climb hear shout see
+Ruth,Kathy,1.6666666666666667,0.0,48.333333333333336,INF,keep wait hear say have get
+Ruth,Kathy,1.6666666666666667,0.0,48.333333333333336,INF,keep wait hear say have get
+Hailsham,Ruth,0.0,0.0,47.05882352941176,INF,be make say
+Susie,Jackie,2.403846153846154,0.4807692307692308,47.11538461538461,5.0,come be stand tear use make
+Jackie,Ruth,0.0,0.0,41.66666666666667,INF,say
+Ruth,Hailsham,4.573170731707317,0.9146341463414633,45.73170731707317,5.0,love visit love meander have sit talk drift
+Ruth,Christy,0.0,1.9230769230769231,44.230769230769226,0.0,do dare
+Ruth,Christy,5.681818181818182,2.272727272727273,51.13636363636363,2.5,let say think be
+Christy,Peter,2.941176470588235,0.0,67.64705882352942,INF,laugh say have get
+Ruth,Tommy,2.5,2.857142857142857,57.49999999999999,0.875,say have bring sum think
+Ruth,Tommy,2.5,2.857142857142857,57.49999999999999,0.875,say have bring sum think
+Ruth,Hailsham,2.5,2.857142857142857,57.49999999999999,0.875,say have bring sum think
+Tommy,Hailsham,2.5,2.857142857142857,57.49999999999999,0.875,say have bring sum think
+Tommy,Hailsham,2.5,2.857142857142857,57.49999999999999,0.875,say have bring sum think
+Ruth,Tommy,1.9444444444444444,1.6666666666666667,58.611111111111114,1.1666666666666667,be say do occur lay try be have be do
+Ruth,Tommy,1.9444444444444444,1.6666666666666667,58.611111111111114,1.1666666666666667,be say do occur lay try be have be do
+Tommy,Miss Geraldine,1.3157894736842104,0.0,61.8421052631579,INF,accord have start
+Miss Geraldine,Tommy,2.142857142857143,2.142857142857143,58.57142857142858,1.0,have do be start
+Tommy,Miss Geraldine,0.7142857142857143,3.9285714285714284,55.35714285714286,0.18181818181818182,be be take say take
+Tommy,Miss Emily,0.7142857142857143,3.9285714285714284,55.35714285714286,0.18181818181818182,be be take say take
+Miss Geraldine,Miss Emily,0.7142857142857143,3.9285714285714284,55.35714285714286,0.18181818181818182,be be take say take
+Tommy,Miss Geraldine,5.0,5.0,44.285714285714285,1.0,guess be get go find praise point
+Tommy,Arthur H.,1.282051282051282,0.0,57.692307692307686,INF,go think be do get go
+Tommy,Arthur H.,1.282051282051282,0.0,57.692307692307686,INF,go think be do get go
+Tommy,Arthur H.,1.282051282051282,0.0,57.692307692307686,INF,go think be do get go
+Tommy,Arthur H.,1.282051282051282,0.0,57.692307692307686,INF,go think be do get go
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Arthur H.,Tommy,1.530612244897959,0.7653061224489796,58.92857142857143,2.0,spread see begin mimic do be stand
+Tommy,Arthur H.,4.296875,1.953125,53.125,2.2,have see be look wait be be
+Tommy,Arthur H.,4.296875,1.953125,53.125,2.2,have see be look wait be be
+Tommy,Arthur H.,4.296875,1.953125,53.125,2.2,have see be look wait be be
+Tommy,Arthur H.,4.296875,1.953125,53.125,2.2,have see be look wait be be
+Tommy,Arthur H.,0.0,0.0,45.45454545454545,INF,float go do try
+Tommy,Kath,3.4482758620689653,2.1551724137931036,46.12068965517241,1.6,say keep look give say be
+Tommy,Kath,3.4482758620689653,2.1551724137931036,46.12068965517241,1.6,say keep look give say be
+Tommy,Kath,0.0,0.0,48.717948717948715,INF,be carry come say be try pull be think
+Tommy,Miss Lucy,1.875,2.5,58.12500000000001,0.75,give walk respond suppose begin entertain be make
+Tommy,Miss Lucy,1.875,2.5,58.12500000000001,0.75,give walk respond suppose begin entertain be make
+Miss Lucy,Hailsham,3.804347826086957,5.978260869565218,51.08695652173913,0.6363636363636364,be sport have guess
+Hailsham,Miss Lucy,3.804347826086957,5.978260869565218,51.08695652173913,0.6363636363636364,be sport have guess
+James B.,Miss Lucy,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+James B.,Miss Lucy,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+Miss Lucy,James B.,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+Miss Lucy,James B.,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+Miss Lucy,James B.,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+Miss Lucy,James B.,0.0,0.0,58.620689655172406,INF,remember watch try go be send fly
+Miss Lucy,Miss Geraldine,3.5000000000000004,6.0,38.5,0.5833333333333334,be be turn be upset
+Tommy,Miss Lucy,0.9615384615384616,0.0,29.807692307692307,INF,be say
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Lucy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Tommy,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Miss Lucy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Emily,4.6875,2.864583333333333,42.44791666666667,1.6363636363636365,ask come explain expect try have include
+Tommy,Miss Lucy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Tommy,Miss Lucy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Tommy,Miss Lucy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Tommy,Miss Lucy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Tommy,Miss Lucy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Miss Lucy,Tommy,3.6931818181818183,0.8522727272727272,52.27272727272727,4.333333333333333,be seat remain ask tell see have be happen
+Tommy,Miss Lucy,1.3888888888888888,1.3888888888888888,63.888888888888886,1.0,be have break start talk
+Tommy,Miss Lucy,3.125,4.166666666666666,55.208333333333336,0.75,have hear be make keep listen
+Miss Lucy,Tommy,3.125,4.166666666666666,55.208333333333336,0.75,have hear be make keep listen
+Tommy,Miss Lucy,0.0,0.0,44.44444444444444,INF,tell tell be lead
+Miss Lucy,Tommy,1.7857142857142856,9.821428571428571,52.67857142857143,0.18181818181818182,be say find follow
+Miss Lucy,Tommy,3.125,0.0,63.541666666666664,INF,keep repeat begin understand
+Tommy,Miss Lucy,8.455882352941178,3.308823529411765,50.0,2.5555555555555554,have try be say be be be worry
+Miss Lucy,Tommy,8.455882352941178,3.308823529411765,50.0,2.5555555555555554,have try be say be be be worry
+Miss Lucy,Tommy,8.455882352941178,3.308823529411765,50.0,2.5555555555555554,have try be say be be be worry
+Tommy,Miss Lucy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Tommy,Miss Lucy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Tommy,Miss Lucy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Miss Lucy,Tommy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Tommy,Miss Lucy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Tommy,Miss Lucy,1.3888888888888888,2.7777777777777777,56.94444444444444,0.5,have protest be say do think be give look
+Tommy,Miss Lucy,0.0,1.9230769230769231,48.07692307692308,0.0,turn say say be shake
+Tommy,Miss Lucy,0.0,1.9230769230769231,48.07692307692308,0.0,turn say say be shake
+Tommy,Miss Lucy,1.524390243902439,1.524390243902439,53.04878048780488,1.0,have remind do have puzzle
+Tommy,Miss Lucy,1.524390243902439,1.524390243902439,53.04878048780488,1.0,have remind do have puzzle
+Tommy,Miss Lucy,1.524390243902439,1.524390243902439,53.04878048780488,1.0,have remind do have puzzle
+Tommy,Miss Lucy,1.524390243902439,1.524390243902439,53.04878048780488,1.0,have remind do have puzzle
+Miss Geraldine,Hailsham,5.0,4.0,51.0,1.25,ask be come say be
+Miss Geraldine,Hailsham,5.0,4.0,51.0,1.25,ask be come say be
+Amanda C.,Kathy,7.352941176470589,0.7352941176470588,47.794117647058826,10.0,remember be be look be make exclaim be
+Ruth,Hailsham,0.5208333333333333,0.0,57.8125,INF,settle put come
+Ruth,Hailsham,6.547619047619048,0.5952380952380952,45.23809523809524,11.0,be get be
+Mr Frank,Ruth,0.0,0.4807692307692308,61.057692307692314,0.0,draw see
+Tommy,Ruth,2.82258064516129,0.0,55.24193548387096,INF,want suppose be get happen grow leave
+Tommy,Hailsham,2.82258064516129,0.0,55.24193548387096,INF,want suppose be get happen grow leave
+Ruth,Hailsham,2.82258064516129,0.0,55.24193548387096,INF,want suppose be get happen grow leave
+Tommy,Miss Lucy,2.083333333333333,2.083333333333333,58.333333333333336,1.0,crop start tell find tug
+Tommy,Miss Lucy,2.083333333333333,2.083333333333333,58.333333333333336,1.0,crop start tell find tug
+Roy,Miss Emily,3.125,1.4204545454545454,63.63636363636363,2.2,go be have have take decide go see
+Miss Emily,Hailsham,4.166666666666666,0.0,55.35714285714286,INF,consider be recognise be intimidate be make feel
+Miss Emily,Hailsham,4.166666666666666,0.0,55.35714285714286,INF,consider be recognise be intimidate be make feel
+Miss Emily,Hailsham,4.166666666666666,0.0,55.35714285714286,INF,consider be recognise be intimidate be make feel
+Miss Emily,Roy,0.0,0.9615384615384616,52.88461538461539,0.0,take go see be summon go be make seem
+Polly,Miss Lucy,0.78125,1.5625,47.65625,0.5,be ask
+Laura,Miss Lucy,2.82258064516129,0.8064516129032258,60.88709677419355,3.5,have lead make laugh include
+Miss Lucy,Hailsham,5.714285714285714,2.5,43.214285714285715,2.2857142857142856,have say be talk forget spend exchange
+Miss Lucy,Polly,2.9166666666666665,0.8333333333333334,52.916666666666664,3.5,do get cross do know think be
+Miss Lucy,Polly,2.9166666666666665,0.8333333333333334,52.916666666666664,3.5,do get cross do know think be
+Polly,Miss Lucy,7.661290322580645,4.838709677419355,58.46774193548387,1.5833333333333333,remember feel break be excite give
+Polly,Miss Lucy,4.166666666666666,2.564102564102564,52.243589743589745,1.625,be turn be suppose
+Miss Lucy,Polly,4.166666666666666,2.564102564102564,52.243589743589745,1.625,be turn be suppose
+Tommy,Miss Lucy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Tommy,Miss Lucy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Tommy,Miss Lucy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Tommy,Miss Lucy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Miss Lucy,Tommy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Miss Lucy,Tommy,3.731343283582089,3.171641791044776,48.32089552238806,1.1764705882352942,be be tell say be be teach start tug
+Ruth,Hailsham,2.5,2.9166666666666665,57.91666666666667,0.8571428571428571,be be be be behave
+Ruth,Miss Emily,4.513888888888888,4.513888888888888,49.30555555555556,1.0,be remember remark be have be be
+Hailsham,Ruth,1.4705882352941175,2.2058823529411766,52.20588235294118,0.6666666666666666,mention see wander talk take say be
+Hailsham,Ruth,1.4705882352941175,2.2058823529411766,52.20588235294118,0.6666666666666666,mention see wander talk take say be
+Miss Emily,Miss Lucy,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,shout say do get get be
+Miss Emily,Miss Lucy,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,shout say do get get be
+Miss Lucy,Miss Emily,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,shout say do get get be
+Miss Lucy,Miss Emily,2.7777777777777777,3.7037037037037033,45.370370370370374,0.75,shout say do get get be
+Laura,Miss Emily,3.308823529411765,0.0,55.51470588235294,INF,have get get catch run snap be
+Hannah,Laura,0.0,2.840909090909091,51.70454545454546,0.0,remember do
+Hannah,Ruth,0.0,2.840909090909091,51.70454545454546,0.0,remember do
+Laura,Ruth,0.0,2.840909090909091,51.70454545454546,0.0,remember do
+Ruth,Bramble,1.8867924528301887,3.30188679245283,58.9622641509434,0.5714285714285714,be tell do have let try shout handle
+Ruth,Miss Geraldine,4.166666666666666,0.0,37.5,INF,ask do
+Miss Geraldine,Hailsham,1.5151515151515151,0.0,59.09090909090909,INF,believe be work give press glue come mind
+Hailsham,Miss Geraldine,1.5151515151515151,0.0,59.09090909090909,INF,believe be work give press glue come mind
+Ruth,Miss Geraldine,3.5000000000000004,1.5,51.0,2.3333333333333335,join have know kidnap
+Miss Eileen,Mr Roger,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,watch talk
+Miss Eileen,Miss Geraldine,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,watch talk
+Mr Roger,Miss Geraldine,0.9615384615384616,0.4807692307692308,48.55769230769231,2.0,watch talk
+Miss Geraldine,Miss Eileen,1.358695652173913,1.6304347826086956,57.88043478260869,0.8333333333333334,say go keep watch see put confer fix recede
+Miss Geraldine,Mr Roger,1.358695652173913,1.6304347826086956,57.88043478260869,0.8333333333333334,say go keep watch see put confer fix recede
+Miss Eileen,Mr Roger,1.358695652173913,1.6304347826086956,57.88043478260869,0.8333333333333334,say go keep watch see put confer fix recede
+Miss Eileen,Miss Geraldine,1.358695652173913,1.6304347826086956,57.88043478260869,0.8333333333333334,say go keep watch see put confer fix recede
+Mr Roger,Miss Geraldine,1.358695652173913,1.6304347826086956,57.88043478260869,0.8333333333333334,say go keep watch see put confer fix recede
+Mr Roger,Ruth,0.0,0.0,46.666666666666664,INF,sigh shake
+Mr Roger,Ruth,0.0,0.0,46.666666666666664,INF,sigh shake
+Ruth,Kathy,0.4464285714285714,2.232142857142857,50.89285714285714,0.2,feel go stare say be
+Kathy,Ruth,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,finish turn be have walk
+Kathy,Ruth,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,finish turn be have walk
+Moira,Ruth,2.127659574468085,0.5319148936170213,54.78723404255319,4.0,push make glance gaze play have happen
+Ruth,Moira,2.127659574468085,0.5319148936170213,54.78723404255319,4.0,push make glance gaze play have happen
+Moira,Ruth,4.891304347826087,2.989130434782609,55.16304347826087,1.6363636363636365,be want bring have happen be care
+Ruth,Miss Geraldine,1.9230769230769231,0.0,55.769230769230774,INF,know have mean be claim be
+Ruth,Miss Geraldine,1.9230769230769231,0.0,55.769230769230774,INF,know have mean be claim be
+Ruth,Miss Geraldine,1.9230769230769231,0.0,55.769230769230774,INF,know have mean be claim be
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Ruth,Miss Geraldine,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,4.044117647058823,1.9607843137254901,59.681372549019606,2.0625,be use accompany raise want hint have show have allow play have order walk have draw start talk let
+Miss Geraldine,Ruth,3.125,3.6458333333333335,55.729166666666664,0.8571428571428571,have hear give
+Ruth,Hailsham,3.4722222222222223,6.25,62.5,0.5555555555555556,risk know have knock
+Ruth,Miss Geraldine,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,have do be take have mention
+Ruth,Miss Geraldine,3.8461538461538463,2.8846153846153846,62.5,1.3333333333333333,have do be take have mention
+Ruth,Miss Geraldine,3.8461538461538463,0.9615384615384616,56.730769230769226,4.0,do take imply have
+Miss Geraldine,Ruth,2.430555555555556,0.0,53.125,INF,notice be say go ask stand
+Ruth,Miss Geraldine,2.430555555555556,0.0,53.125,INF,notice be say go ask stand
+Ruth,Miss Geraldine,0.4807692307692308,0.0,61.057692307692314,INF,do be slow come pass
+Midge,Ruth,4.545454545454546,0.3787878787878788,55.68181818181818,12.0,call come be say
+Ruth,Midge,1.25,2.5,51.24999999999999,0.5,be reply have get
+Ruth,Midge,1.25,2.5,51.24999999999999,0.5,be reply have get
+Midge,Ruth,8.333333333333332,0.0,58.333333333333336,INF,be quiz be
+Midge,Ruth,6.547619047619048,2.976190476190476,66.66666666666666,2.2,come have notice be
+Ruth,Midge,0.625,1.25,53.125,0.5,look
+Ruth,Midge,2.604166666666667,2.604166666666667,51.041666666666664,1.0,be talk do be thank intervene
+Ruth,Midge,2.604166666666667,2.604166666666667,51.041666666666664,1.0,be talk do be thank intervene
+Ruth,Midge,2.604166666666667,2.604166666666667,51.041666666666664,1.0,be talk do be thank intervene
+Ruth,Midge,4.017857142857143,1.3392857142857142,62.5,3.0,be do come lose
+Ruth,Hailsham,2.006172839506173,0.7716049382716049,58.95061728395061,2.6,remember be believe come be go move deliver leave call
+Marge,Miss Lucy,0.6944444444444444,5.555555555555555,60.416666666666664,0.125,be be ask
+Marge,Miss Lucy,0.6944444444444444,5.555555555555555,60.416666666666664,0.125,be be ask
+Miss Lucy,Marge,3.8194444444444446,1.0416666666666665,75.69444444444444,3.6666666666666665,be sit have be give ask have have
+Marge,Miss Lucy,3.8194444444444446,1.0416666666666665,75.69444444444444,3.6666666666666665,be sit have be give ask have have
+Miss Lucy,Marge,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Miss Lucy,Marge,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Miss Lucy,Marge,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Marge,Miss Lucy,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Marge,Miss Lucy,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Marge,Miss Lucy,5.681818181818182,2.272727272727273,55.68181818181818,2.5,be glare ask have ask have attack
+Miss Lucy,Marge,3.5000000000000004,2.5,57.99999999999999,1.4,say do be confuse think
+Miss Lucy,Marge,3.5000000000000004,2.5,57.99999999999999,1.4,say do be confuse think
+Miss Lucy,Ruth,3.515625,8.203125,53.90625,0.42857142857142855,say go be be be think say
+Miss Lucy,Ruth,3.515625,8.203125,53.90625,0.42857142857142855,say go be be be think say
+Judy Bridgewater,Hailsham,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,mean have do sing be like
+Judy Bridgewater,Hailsham,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,mean have do sing be like
+Judy Bridgewater,Hailsham,1.4423076923076923,1.9230769230769231,46.63461538461539,0.75,mean have do sing be like
+Tommy,Miss Lucy,2.727272727272727,2.5,56.59090909090909,1.0909090909090908,be follow confide see start wonder ask keep go
+Midge,Ruth,3.289473684210526,1.9736842105263157,57.89473684210527,1.6666666666666667,have remember be lose have quiz come
+Midge,Ruth,3.289473684210526,1.9736842105263157,57.89473684210527,1.6666666666666667,have remember be lose have quiz come
+Ruth,Hannah,1.744186046511628,1.4534883720930232,50.2906976744186,1.2,be come hear be ask be have see
+Ruth,Hannah,1.744186046511628,1.4534883720930232,50.2906976744186,1.2,be come hear be ask be have see
+Ruth,Hannah,1.744186046511628,1.4534883720930232,50.2906976744186,1.2,be come hear be ask be have see
+Ruth,Kathy,0.0,7.142857142857142,42.857142857142854,0.0,say be
+Miss Lucy,Hailsham,4.166666666666666,0.4166666666666667,52.083333333333336,10.0,keep watch pull smile say be be electrify
+Miss Lucy,Laura,0.0,0.0,74.19354838709677,INF,be watch be laugh be steal
+Laura,Miss Lucy,0.0,0.0,74.19354838709677,INF,be watch be laugh be steal
+Miss Lucy,Laura,2.5,2.5,49.28571428571429,1.0,remember be be stop turn be say
+Peter,Gordon,4.605263157894736,0.6578947368421052,36.84210526315789,7.0,do tell be say
+Miss Lucy,Peter,3.289473684210526,0.6578947368421052,64.47368421052632,5.0,say go
+Miss Lucy,Gordon,4.310344827586207,0.43103448275862066,36.637931034482754,10.0,say be say have go stand
+Peter,Miss Lucy,1.6666666666666667,5.0,46.666666666666664,0.3333333333333333,shrug mutter
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Ruth,Miss Lucy,2.355072463768116,1.4492753623188406,59.96376811594203,1.625,be discuss claim have tell explain have spend be do
+Miss Lucy,Miss Emily,4.094827586206897,4.956896551724138,54.741379310344826,0.8260869565217391,think have lose have be ask say have be have be think have be tell be
+Miss Lucy,Miss Emily,4.094827586206897,4.956896551724138,54.741379310344826,0.8260869565217391,think have lose have be ask say have be have be think have be tell be
+Miss Lucy,Miss Emily,4.094827586206897,4.956896551724138,54.741379310344826,0.8260869565217391,think have lose have be ask say have be have be think have be tell be
+Miss Lucy,Miss Emily,4.094827586206897,4.956896551724138,54.741379310344826,0.8260869565217391,think have lose have be ask say have be have be think have be tell be
+Miss Emily,Miss Lucy,4.094827586206897,4.956896551724138,54.741379310344826,0.8260869565217391,think have lose have be ask say have be have be think have be tell be
+Tommy,Miss Lucy,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,be go remind tell tell come
+Tommy,Miss Lucy,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,be go remind tell tell come
+Miss Lucy,Tommy,0.9615384615384616,1.9230769230769231,58.65384615384615,0.5,be go remind tell tell come
+Tommy,Hailsham,6.25,1.7857142857142856,53.86904761904761,3.5,think have time tell be understand
+Tommy,Christopher,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,look worry be look ask mean
+Christopher,Tommy,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,look worry be look ask mean
+Christopher,Tommy,1.1904761904761905,2.380952380952381,58.333333333333336,0.5,look worry be look ask mean
+Tommy,Christopher,1.1363636363636365,4.545454545454546,39.77272727272727,0.25,hear complain have warn shrug say think know
+Tommy,Christopher,1.1363636363636365,4.545454545454546,39.77272727272727,0.25,hear complain have warn shrug say think know
+Tommy,Kath,3.289473684210526,0.3289473684210526,54.276315789473685,10.0,be leave come say have
+Tommy,Christopher,4.054054054054054,1.3513513513513513,54.054054054054056,3.0,quiz become have be have be come repeat
+Tommy,Christopher,4.054054054054054,1.3513513513513513,54.054054054054056,3.0,quiz become have be have be come repeat
+Tommy,Hailsham,2.0,1.5,64.5,1.3333333333333333,be talk stumble
+Tommy,Miss Lucy,2.0,1.5,64.5,1.3333333333333333,be talk stumble
+Hailsham,Miss Lucy,2.0,1.5,64.5,1.3333333333333333,be talk stumble
+Tommy,Miss Lucy,0.8928571428571428,4.464285714285714,48.214285714285715,0.2,say consider occur say do support
+Tommy,Miss Lucy,0.8928571428571428,4.464285714285714,48.214285714285715,0.2,say consider occur say do support
+Miss Lucy,Tommy,3.869047619047619,2.380952380952381,58.03571428571429,1.625,do know be have happen see have leave disorientate
+Miss Lucy,Tommy,3.869047619047619,2.380952380952381,58.03571428571429,1.625,do know be have happen see have leave disorientate
+Miss Lucy,Tommy,3.869047619047619,2.380952380952381,58.03571428571429,1.625,do know be have happen see have leave disorientate
+Miss Lucy,Tommy,3.869047619047619,2.380952380952381,58.03571428571429,1.625,do know be have happen see have leave disorientate
+Tommy,Ruth,1.1627906976744187,1.4534883720930232,60.17441860465116,0.8,have say be go put notice
+Ruth,Tommy,1.1627906976744187,1.4534883720930232,60.17441860465116,0.8,have say be go put notice
+Laura,Tommy,0.9615384615384616,0.0,37.5,INF,be shout
+Laura,Tommy,0.9615384615384616,0.0,37.5,INF,be shout
+Tommy,Laura,0.9615384615384616,2.8846153846153846,65.38461538461539,0.3333333333333333,be come wheel stare
+Tommy,Patricia,0.0,6.25,50.89285714285714,0.0,be show
+Patricia,Hailsham,0.4807692307692308,1.9230769230769231,55.28846153846154,0.25,be be
+Patricia,Tommy,2.82258064516129,2.82258064516129,49.193548387096776,1.0,be be be be want show
+Patricia,Tommy,0.7352941176470588,0.0,46.32352941176471,INF,be be hand
+Tommy,Miss Lucy,4.861111111111112,3.125,50.34722222222222,1.5555555555555556,think have guess have do be
+Miss Lucy,Tommy,4.861111111111112,3.125,50.34722222222222,1.5555555555555556,think have guess have do be
+Ruth,Tommy,5.0,0.0,55.00000000000001,INF,have have
+Ruth,Tommy,3.289473684210526,5.592105263157895,51.64473684210527,0.5882352941176471,do cuddle feel be do
+Mr Jack,Miss Emily,2.5735294117647056,2.941176470588235,38.60294117647059,0.875,be have be do be say tell go see
+Laura,Mr Chris,5.147058823529411,0.0,41.911764705882355,INF,say mean be want have
+Hailsham,Ruth,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,be tell leave say
+Laura,Rob D.,6.666666666666667,9.166666666666666,37.5,0.7272727272727273,be
+Ruth,Tommy,0.0,0.0,20.0,INF,
+Ruth,Tommy,0.5952380952380952,0.5952380952380952,55.952380952380956,1.0,be go accord split get confuse
+Cynthia E.,Tommy,3.2407407407407405,2.314814814814815,31.48148148148148,1.4,get say look
+Cynthia E.,Tommy,3.2407407407407405,2.314814814814815,31.48148148148148,1.4,get say look
+Hannah,Tommy,0.9615384615384616,0.4807692307692308,60.09615384615385,2.0,have mean do be look
+Hannah,Ruth,0.9615384615384616,0.4807692307692308,60.09615384615385,2.0,have mean do be look
+Tommy,Ruth,0.9615384615384616,0.4807692307692308,60.09615384615385,2.0,have mean do be look
+Ruth,Tommy,6.521739130434782,2.717391304347826,55.97826086956522,2.4,be talk get confuse
+Harry,Ruth,1.5625,3.6458333333333335,57.291666666666664,0.42857142857142855,put last come
+Ruth,Tommy,1.4423076923076923,0.9615384615384616,59.13461538461539,1.5,find say want get
+Ruth,Tommy,7.6923076923076925,1.9230769230769231,44.230769230769226,4.0,ask be
+Ruth,Tommy,7.2727272727272725,2.0454545454545454,52.5,3.5555555555555554,want go be be be suit do keep have
+Tommy,Patricia,3.040540540540541,6.418918918918918,39.189189189189186,0.47368421052631576,have be show march remember be stand
+Patricia,Tommy,3.040540540540541,6.418918918918918,39.189189189189186,0.47368421052631576,have be show march remember be stand
+Hailsham,Tommy,6.686046511627906,4.069767441860465,45.05813953488372,1.6428571428571428,do know await guess need do feel
+Kath,Tommy,4.545454545454546,4.545454545454546,31.818181818181817,1.0,be say be be bother
+Tommy,Miss Lucy,4.62962962962963,1.8518518518518516,49.074074074074076,2.5,be come hear have happen
+Tommy,Miss Lucy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Tommy,Miss Lucy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Tommy,Miss Lucy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Miss Lucy,Tommy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Miss Lucy,Tommy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Miss Lucy,Tommy,2.380952380952381,0.0,52.38095238095239,INF,have see come load look drop run offer help
+Miss Lucy,Tommy,3.3333333333333335,5.833333333333333,44.166666666666664,0.5714285714285714,start say make say do
+Miss Lucy,Tommy,1.0416666666666665,0.0,23.958333333333336,INF,say be think
+Miss Lucy,Tommy,10.15625,0.78125,32.8125,13.0,say listen be
+Miss Lucy,Tommy,4.310344827586207,0.8620689655172413,43.103448275862064,5.0,say look be do understand tell
+Miss Lucy,Tommy,3.90625,0.0,39.84375,INF,say do
+Miss Lucy,Hailsham,3.125,1.3888888888888888,59.375,2.25,be file come rush leave spread
+Miss Emily,Miss Lucy,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,have be tell come take
+Miss Emily,Miss Lucy,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,have be tell come take
+Miss Emily,Miss Lucy,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,have be tell come take
+Miss Emily,Miss Lucy,3.8793103448275863,0.43103448275862066,50.86206896551724,9.0,have be tell come take
+Miss Emily,Miss Lucy,6.640625,3.90625,48.828125,1.7,have break talk announce have leave be return
+Miss Emily,Hailsham,6.640625,3.90625,48.828125,1.7,have break talk announce have leave be return
+Miss Lucy,Hailsham,6.640625,3.90625,48.828125,1.7,have break talk announce have leave be return
+Tommy,Ruth,1.0714285714285714,0.7142857142857143,66.78571428571428,1.5,get remember find thank sort
+Tommy,Ruth,1.0714285714285714,0.7142857142857143,66.78571428571428,1.5,get remember find thank sort
+Cynthia E.,Ruth,1.1627906976744187,1.744186046511628,45.93023255813954,0.6666666666666666,have say be have mind go
+Cynthia E.,Ruth,1.1627906976744187,1.744186046511628,45.93023255813954,0.6666666666666666,have say be have mind go
+Cynthia E.,Ruth,1.1627906976744187,1.744186046511628,45.93023255813954,0.6666666666666666,have say be have mind go
+Cynthia E.,Ruth,1.1627906976744187,1.744186046511628,45.93023255813954,0.6666666666666666,have say be have mind go
+Tommy,Ruth,4.044117647058823,2.5735294117647056,46.32352941176471,1.5714285714285714,know treat seem please
+Tommy,Ruth,4.044117647058823,2.5735294117647056,46.32352941176471,1.5714285714285714,know treat seem please
+Ruth,Tommy,2.564102564102564,2.8846153846153846,58.65384615384615,0.8888888888888888,arrive make put snog be
+Ruth,Tommy,2.564102564102564,2.8846153846153846,58.65384615384615,0.8888888888888888,arrive make put snog be
+Ruth,Tommy,2.564102564102564,2.8846153846153846,58.65384615384615,0.8888888888888888,arrive make put snog be
+Ruth,Tommy,2.564102564102564,2.8846153846153846,58.65384615384615,0.8888888888888888,arrive make put snog be
+Susie,Greg,1.5151515151515151,0.3787878787878788,49.621212121212125,4.0,come watch think be
+Susie,Greg,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Susie,Greg,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Greg,Susie,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Greg,Susie,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Greg,Susie,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Greg,Susie,6.5,2.75,46.75,2.3636363636363638,be do set smile roll help
+Ruth,Tommy,3.488372093023256,3.77906976744186,50.872093023255815,0.9230769230769231,be be realise have be carry be set change do
+Ruth,Tommy,3.488372093023256,3.77906976744186,50.872093023255815,0.9230769230769231,be be realise have be carry be set change do
+Tommy,Ruth,3.488372093023256,3.77906976744186,50.872093023255815,0.9230769230769231,be be realise have be carry be set change do
+Ruth,Tommy,2.586206896551724,0.43103448275862066,59.05172413793104,6.0,have fade arrive be be go be do
+Tommy,Ruth,0.4166666666666667,0.0,46.25,INF,mind do have be go turn go
+Ruth,Tommy,2.5,0.5,49.0,5.0,have be forget
+Ruth,Tommy,2.5,0.5,49.0,5.0,have be forget
+Ruth,Tommy,2.5,0.5,49.0,5.0,have be forget
+Ruth,Tommy,3.0303030303030303,1.893939393939394,64.77272727272727,1.6,suppose have be manage do
+Daniel Deronda,Ruth,0.0,0.0,68.75,INF,be be read be be decide be point
+Daniel Deronda,Ruth,0.0,0.0,68.75,INF,be be read be be decide be point
+Daniel Deronda,Ruth,2.1551724137931036,0.43103448275862066,66.37931034482759,5.0,be lie say come wander sit
+Ruth,Daniel Deronda,6.0,1.0,49.0,6.0,know begin outline
+Ruth,Daniel Deronda,6.0,1.0,49.0,6.0,know begin outline
+Ruth,Daniel Deronda,3.0,2.0,47.0,1.5,be start be enjoy close sit say have be mean ask
+Daniel Deronda,Ruth,3.0,2.0,47.0,1.5,be start be enjoy close sit say have be mean ask
+Daniel Deronda,Ruth,3.0,2.0,47.0,1.5,be start be enjoy close sit say have be mean ask
+Chrissie,Rodney,2.083333333333333,1.0416666666666665,30.208333333333332,2.0,mean be do
+Chrissie,Rodney,12.5,4.166666666666666,27.77777777777778,3.0,be talk
+Tommy,Chrissie,1.3157894736842104,0.0,40.78947368421053,INF,do feel do be
+Tommy,Rodney,1.3157894736842104,0.0,40.78947368421053,INF,do feel do be
+Chrissie,Rodney,1.3157894736842104,0.0,40.78947368421053,INF,do feel do be
+Chrissie,Tommy,1.3157894736842104,0.0,40.78947368421053,INF,do feel do be
+Rodney,Tommy,1.3157894736842104,0.0,40.78947368421053,INF,do feel do be
+Chrissie,Rodney,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Chrissie,Ruth,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Chrissie,Tommy,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Rodney,Ruth,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Rodney,Tommy,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Ruth,Tommy,2.9605263157894735,2.631578947368421,33.881578947368425,1.125,accept refer refer
+Ruth,Tommy,0.78125,4.6875,60.15625,0.16666666666666666,be watch be give
+Ruth,Miss Emily,5.555555555555555,1.3888888888888888,41.94444444444444,4.0,tell happen want have do have do have warn
+Miss Emily,Ruth,4.166666666666666,0.0,42.5,INF,say want ask
+Ruth,Tommy,0.33783783783783783,3.7162162162162162,44.5945945945946,0.09090909090909091,be be try impress hesitate ignore think cramp
+Tommy,Ruth,0.33783783783783783,3.7162162162162162,44.5945945945946,0.09090909090909091,be be try impress hesitate ignore think cramp
+Tommy,Ruth,0.33783783783783783,3.7162162162162162,44.5945945945946,0.09090909090909091,be be try impress hesitate ignore think cramp
+Ruth,Hailsham,2.027027027027027,1.6891891891891893,47.63513513513514,1.2,sit outstretch steam hold be have be happen pick leave have sit
+Ruth,Hailsham,2.027027027027027,1.6891891891891893,47.63513513513514,1.2,sit outstretch steam hold be have be happen pick leave have sit
+Hailsham,Ruth,2.027027027027027,1.6891891891891893,47.63513513513514,1.2,sit outstretch steam hold be have be happen pick leave have sit
+Ruth,Hailsham,0.4166666666666667,2.5,63.74999999999999,0.16666666666666666,suppose appreciate be make move grow leave
+Ruth,Hailsham,3.1818181818181817,0.45454545454545453,56.36363636363636,7.0,have be sit watch do enjoy bring be tell have stow pine
+Ruth,Hailsham,3.1818181818181817,0.45454545454545453,56.36363636363636,7.0,have be sit watch do enjoy bring be tell have stow pine
+Ruth,Hailsham,5.128205128205128,1.6025641025641024,44.55128205128205,3.2,be try lead make happen say have do
+Keffers,Ruth,1.9230769230769231,3.3653846153846154,56.25,0.5714285714285714,ask be drive take
+Keffers,Ruth,1.9230769230769231,3.3653846153846154,56.25,0.5714285714285714,ask be drive take
+Keffers,Ruth,2.840909090909091,0.5681818181818182,55.68181818181818,5.0,rummage do know be
+Keffers,Ruth,2.840909090909091,0.5681818181818182,55.68181818181818,5.0,rummage do know be
+Keffers,Steve,0.8928571428571428,0.0,52.67857142857143,INF,remember have collect storm
+Laura,Keffers,2.232142857142857,1.3392857142857142,39.285714285714285,1.6666666666666667,point have leave say stay put
+Keffers,Laura,2.232142857142857,1.3392857142857142,39.285714285714285,1.6666666666666667,point have leave say stay put
+Kath,Tommy,2.5,0.0,37.5,INF,say
+Tommy,Kath,3.571428571428571,0.0,32.142857142857146,INF,ask be look
+Keffers,Tommy,0.0,0.0,40.0,INF,have recruit
+Ruth,Chrissie,2.083333333333333,2.272727272727273,47.159090909090914,0.9166666666666666,have keep round talk be be lark say suppose have hear have be say
+Ruth,Rodney,2.083333333333333,2.272727272727273,47.159090909090914,0.9166666666666666,have keep round talk be be lark say suppose have hear have be say
+Ruth,Chrissie,2.083333333333333,2.272727272727273,47.159090909090914,0.9166666666666666,have keep round talk be be lark say suppose have hear have be say
+Ruth,Rodney,2.083333333333333,2.272727272727273,47.159090909090914,0.9166666666666666,have keep round talk be be lark say suppose have hear have be say
+Chrissie,Rodney,2.083333333333333,2.272727272727273,47.159090909090914,0.9166666666666666,have keep round talk be be lark say suppose have hear have be say
+Chrissie,Rodney,1.1904761904761905,0.2976190476190476,55.654761904761905,4.0,see want drag keep press say remember be
+Chrissie,Rodney,1.1904761904761905,0.2976190476190476,55.654761904761905,4.0,see want drag keep press say remember be
+Chrissie,Rodney,1.1904761904761905,0.2976190476190476,55.654761904761905,4.0,see want drag keep press say remember be
+Chrissie,Rodney,1.1904761904761905,0.2976190476190476,55.654761904761905,4.0,see want drag keep press say remember be
+Ruth,Chrissie,4.326923076923077,0.4807692307692308,49.03846153846153,9.0,accord have be explore go have split
+Ruth,Rodney,4.326923076923077,0.4807692307692308,49.03846153846153,9.0,accord have be explore go have split
+Chrissie,Rodney,4.326923076923077,0.4807692307692308,49.03846153846153,9.0,accord have be explore go have split
+Rodney,Chrissie,3.8461538461538463,3.205128205128205,51.92307692307693,1.2,meet be have tell be wander have go
+Chrissie,Rodney,3.8461538461538463,3.205128205128205,51.92307692307693,1.2,meet be have tell be wander have go
+Rodney,Ruth,0.0,0.0,36.36363636363637,INF,be spot
+Chrissie,Rodney,1.875,0.0,48.125,INF,make describe do be tell
+Chrissie,Rodney,1.875,0.0,48.125,INF,make describe do be tell
+Chrissie,Rodney,1.875,0.0,48.125,INF,make describe do be tell
+Chrissie,Rodney,3.571428571428571,1.1904761904761905,47.61904761904761,3.0,be be have make
+Chrissie,Rodney,6.578947368421052,8.552631578947368,37.5,0.7692307692307693,do want suggest be be
+Chrissie,Hailsham,4.435483870967742,2.0161290322580645,41.935483870967744,2.2,be be mention come explain do
+Chrissie,Hailsham,5.434782608695652,4.891304347826087,50.54347826086957,1.1111111111111112,be ask do try make be see be
+Hailsham,Chrissie,5.434782608695652,4.891304347826087,50.54347826086957,1.1111111111111112,be ask do try make be see be
+Hailsham,Chrissie,5.434782608695652,4.891304347826087,50.54347826086957,1.1111111111111112,be ask do try make be see be
+Chrissie,Rodney,1.0416666666666665,0.0,32.29166666666667,INF,see
+Chrissie,Rodney,1.0416666666666665,0.0,32.29166666666667,INF,see
+Rodney,Chrissie,6.25,6.25,54.166666666666664,1.0,get like be
+Rodney,Chrissie,6.25,6.25,54.166666666666664,1.0,get like be
+Rodney,Chrissie,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Rodney,Chrissie,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.7439024390243905,0.9146341463414633,52.4390243902439,3.0,know say be chortle shake believe be
+Chrissie,Rodney,2.5,4.285714285714286,50.357142857142854,0.5833333333333334,make have do give work
+Hailsham,Miss Lucy,3.51123595505618,0.9831460674157303,55.0561797752809,3.5714285714285716,be be become drive be forget be forget have tell forget develop
+Chrissie,Rodney,1.5625,0.78125,35.15625,2.0,be hang
+Chrissie,Ruth,4.605263157894736,1.9736842105263157,56.57894736842105,2.3333333333333335,keep try get talk
+Chrissie,Hailsham,3.75,1.875,39.375,2.0,apply be patronise arrive be be
+Chrissie,Hailsham,3.75,1.875,39.375,2.0,apply be patronise arrive be be
+Chrissie,Hailsham,3.75,1.875,39.375,2.0,apply be patronise arrive be be
+Ruth,Chrissie,4.807692307692308,6.730769230769231,53.84615384615385,0.7142857142857143,take have talk work mind
+Ruth,Hailsham,0.0,0.0,52.63157894736842,INF,be come
+Chrissie,Ruth,3.0555555555555554,1.1111111111111112,53.61111111111111,2.75,be see suppose do say encourage apply
+Chrissie,Hailsham,3.0555555555555554,1.1111111111111112,53.61111111111111,2.75,be see suppose do say encourage apply
+Ruth,Hailsham,3.0555555555555554,1.1111111111111112,53.61111111111111,2.75,be see suppose do say encourage apply
+Chrissie,Rodney,3.787878787878788,0.7575757575757576,50.0,5.0,be have see see be
+Chrissie,Ruth,3.787878787878788,0.7575757575757576,50.0,5.0,be have see see be
+Rodney,Ruth,3.787878787878788,0.7575757575757576,50.0,5.0,be have see see be
+Ruth,Tommy,2.7777777777777777,0.9259259259259258,48.148148148148145,3.0,do seem be let come
+Ruth,Tommy,2.7777777777777777,0.9259259259259258,48.148148148148145,3.0,do seem be let come
+Tommy,Ruth,2.7777777777777777,0.9259259259259258,48.148148148148145,3.0,do seem be let come
+Chrissie,Rodney,0.0,0.0,36.0,INF,go
+Chrissie,Ruth,0.0,0.0,36.0,INF,go
+Chrissie,Tommy,0.0,0.0,36.0,INF,go
+Rodney,Ruth,0.0,0.0,36.0,INF,go
+Rodney,Tommy,0.0,0.0,36.0,INF,go
+Ruth,Tommy,0.0,0.0,36.0,INF,go
+Rodney,Ruth,3.4574468085106385,2.925531914893617,61.702127659574465,1.1818181818181819,get sort walk get be respond look have be call
+Ruth,Chrissie,5.241935483870968,0.8064516129032258,45.564516129032256,6.5,have be make be be go please
+Ruth,Chrissie,5.241935483870968,0.8064516129032258,45.564516129032256,6.5,have be make be be go please
+Chrissie,Hailsham,4.166666666666666,0.9615384615384616,43.58974358974359,4.333333333333333,talk be explore leave want go find lose
+Hailsham,Chrissie,4.166666666666666,0.9615384615384616,43.58974358974359,4.333333333333333,talk be explore leave want go find lose
+Ruth,Fiona,3.040540540540541,1.3513513513513513,55.067567567567565,2.25,go remember have be stroll come be make
+Fiona,Ruth,4.435483870967742,4.435483870967742,39.516129032258064,1.0,start say do know say be
+Chrissie,Rodney,0.0,0.0,45.45454545454545,INF,sit be
+Rodney,Ruth,2.25,1.7500000000000002,60.0,1.2857142857142858,have bring wind be lean put begin talk
+Rodney,Ruth,2.25,1.7500000000000002,60.0,1.2857142857142858,have bring wind be lean put begin talk
+Ruth,Tommy,0.5813953488372093,2.0348837209302326,46.22093023255814,0.2857142857142857,do mean hear be say be talk see
+Tommy,Ruth,0.5813953488372093,2.0348837209302326,46.22093023255814,0.2857142857142857,do mean hear be say be talk see
+Tommy,Ruth,0.5813953488372093,2.0348837209302326,46.22093023255814,0.2857142857142857,do mean hear be say be talk see
+Ruth,Chrissie,0.0,0.4464285714285714,49.55357142857143,0.0,go talk have
+Ruth,Tommy,0.0,0.4464285714285714,49.55357142857143,0.0,go talk have
+Chrissie,Tommy,0.0,0.4464285714285714,49.55357142857143,0.0,go talk have
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Rodney,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Rodney,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Rodney,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Rodney,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Chrissie,Rodney,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Rodney,Chrissie,2.0522388059701493,2.6119402985074625,52.052238805970156,0.7857142857142857,be do make see see be make present be threaten undermine start
+Ruth,Chrissie,0.2976190476190476,0.8928571428571428,60.71428571428571,0.3333333333333333,drive stay sit shout respond
+Ruth,Rodney,0.2976190476190476,0.8928571428571428,60.71428571428571,0.3333333333333333,drive stay sit shout respond
+Ruth,Chrissie,0.2976190476190476,0.8928571428571428,60.71428571428571,0.3333333333333333,drive stay sit shout respond
+Ruth,Rodney,0.2976190476190476,0.8928571428571428,60.71428571428571,0.3333333333333333,drive stay sit shout respond
+Chrissie,Rodney,0.2976190476190476,0.8928571428571428,60.71428571428571,0.3333333333333333,drive stay sit shout respond
+Rodney,Martin,1.7361111111111112,2.7777777777777777,56.59722222222222,0.625,start begin talk have leave be live
+Chrissie,Martin,5.288461538461538,1.9230769230769231,58.17307692307693,2.75,take be come have get
+Chrissie,Rodney,8.088235294117647,1.4705882352941175,31.61764705882353,5.5,follow be enjoy
+Ruth,Martin,5.288461538461538,1.9230769230769231,54.32692307692307,2.75,be laugh laugh keep nod say be remember
+Martin,Ruth,5.288461538461538,1.9230769230769231,54.32692307692307,2.75,be laugh laugh keep nod say be remember
+Chrissie,Martin,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,make say put
+Chrissie,Martin,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,make say put
+Chrissie,Martin,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,make say put
+Chrissie,Martin,4.435483870967742,0.4032258064516129,46.774193548387096,11.0,make say put
+Ruth,Chrissie,3.214285714285714,1.4285714285714286,52.5,2.25,give signal say go explain enjoy
+Chrissie,Rodney,0.9375,0.625,55.93749999999999,1.5,let go start discuss go say be do
+Chrissie,Martin,0.9375,0.625,55.93749999999999,1.5,let go start discuss go say be do
+Chrissie,Martin,0.9375,0.625,55.93749999999999,1.5,let go start discuss go say be do
+Rodney,Martin,0.9375,0.625,55.93749999999999,1.5,let go start discuss go say be do
+Rodney,Martin,0.9375,0.625,55.93749999999999,1.5,let go start discuss go say be do
+Chrissie,Martin,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,lean say be explain be be
+Chrissie,Martin,1.4423076923076923,1.4423076923076923,50.96153846153846,1.0,lean say be explain be be
+Ruth,Kathy,3.571428571428571,2.6785714285714284,43.75,1.3333333333333333,join say hate be
+Tommy,Ruth,5.681818181818182,5.681818181818182,47.72727272727273,1.0,be look puzzle have take be
+Tommy,Ruth,5.681818181818182,5.681818181818182,47.72727272727273,1.0,be look puzzle have take be
+Tommy,Ruth,2.083333333333333,0.0,47.91666666666667,INF,ask be see
+Tommy,Rodney,2.083333333333333,0.0,47.91666666666667,INF,ask be see
+Ruth,Rodney,2.083333333333333,0.0,47.91666666666667,INF,ask be see
+Rodney,Ruth,1.2096774193548387,0.8064516129032258,56.048387096774185,1.5,do seem be see
+Ruth,Rodney,5.902777777777778,3.8194444444444446,62.5,1.5454545454545454,have be think be look do have make
+Ruth,Rodney,5.902777777777778,3.8194444444444446,62.5,1.5454545454545454,have be think be look do have make
+Ruth,Rodney,5.902777777777778,3.8194444444444446,62.5,1.5454545454545454,have be think be look do have make
+Chrissie,Ruth,6.0344827586206895,1.7241379310344827,54.310344827586206,3.5,say know be come visit
+Chrissie,Hailsham,0.0,0.0,53.84615384615385,INF,be
+Hailsham,Rodney,1.1904761904761905,2.976190476190476,33.92857142857143,0.4,be say shake
+Hailsham,Rodney,1.1904761904761905,2.976190476190476,33.92857142857143,0.4,be say shake
+Chrissie,Ruth,5.803571428571429,5.803571428571429,41.964285714285715,1.0,be have turn be tell
+Tommy,Chrissie,2.403846153846154,1.9230769230769231,53.36538461538461,1.25,be kick make have pick
+Chrissie,Ruth,2.8846153846153846,0.9615384615384616,57.692307692307686,3.0,look fix gaze
+Chrissie,Ruth,2.8846153846153846,0.9615384615384616,57.692307692307686,3.0,look fix gaze
+Chrissie,Rodney,1.0416666666666665,0.5208333333333333,35.9375,2.0,tell be come be
+Rodney,Chrissie,1.5625,0.78125,35.15625,2.0,be say
+Tommy,Ruth,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,have puzzle have tell be go
+Tommy,Ruth,2.403846153846154,0.9615384615384616,54.32692307692307,2.5,have puzzle have tell be go
+Chrissie,Hailsham,5.921052631578947,1.5350877192982455,38.15789473684211,3.857142857142857,say continue be be be show run sort
+Chrissie,Rodney,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,notice watch be hypnotise
+Rodney,Chrissie,3.4722222222222223,2.083333333333333,44.44444444444444,1.6666666666666667,notice watch be hypnotise
+Chrissie,Rodney,2.2058823529411766,0.7352941176470588,47.05882352941176,3.0,have lead probe prod
+Chrissie,Rodney,1.6304347826086956,0.0,54.891304347826086,INF,look gaze try read
+Chrissie,Ruth,1.6304347826086956,0.0,54.891304347826086,INF,look gaze try read
+Rodney,Ruth,1.6304347826086956,0.0,54.891304347826086,INF,look gaze try read
+Chrissie,Rodney,1.9736842105263157,0.0,61.18421052631579,INF,look settle
+Chrissie,Ruth,1.9736842105263157,0.0,61.18421052631579,INF,look settle
+Rodney,Ruth,1.9736842105263157,0.0,61.18421052631579,INF,look settle
+Ruth,Tommy,4.054054054054054,2.7027027027027026,41.891891891891895,1.5,look be say be do know be talk
+Ruth,Tommy,4.054054054054054,2.7027027027027026,41.891891891891895,1.5,look be say be do know be talk
+Ruth,Tommy,4.411764705882353,0.0,42.64705882352941,INF,stare say know
+Ruth,Tommy,4.411764705882353,0.0,42.64705882352941,INF,stare say know
+Ruth,Tommy,0.6578947368421052,1.3157894736842104,45.39473684210527,0.5,see be be
+Ruth,Tommy,0.0,0.0,50.0,INF,turn
+Ruth,Chrissie,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Ruth,Tommy,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Ruth,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Ruth,Tommy,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Ruth,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Chrissie,Tommy,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Chrissie,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Chrissie,Tommy,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Chrissie,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Tommy,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Tommy,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Hailsham,Tommy,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Tommy,Hailsham,2.272727272727273,0.7575757575757576,39.39393939393939,3.0,have get realise say be be be like
+Rodney,Chrissie,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Rodney,Hailsham,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Rodney,Ruth,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Rodney,Tommy,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Chrissie,Hailsham,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Chrissie,Ruth,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Chrissie,Tommy,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Hailsham,Ruth,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Hailsham,Tommy,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Ruth,Tommy,4.508196721311475,3.278688524590164,47.950819672131146,1.375,cross see confer wonder have do believe be hold be do have
+Chrissie,Rodney,3.4090909090909087,0.0,46.590909090909086,INF,cross announce want go
+Chrissie,Rodney,3.4090909090909087,0.0,46.590909090909086,INF,cross announce want go
+Ruth,Chrissie,4.761904761904762,1.1904761904761905,55.952380952380956,4.0,be stun go buy
+Chrissie,Woolworth,0.0,0.0,45.45454545454545,INF,point
+Ruth,Rodney,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,tell be be be do
+Rodney,Tommy,3.515625,1.171875,57.8125,3.0,have stay spot rummage
+Ruth,Chrissie,2.631578947368421,1.644736842105263,53.61842105263158,1.6,turn realise be stand have
+Hailsham,Ruth,2.083333333333333,2.430555555555556,51.041666666666664,0.8571428571428571,suppose have know want look have do be get see break
+Rodney,Ruth,0.3472222222222222,3.4722222222222223,57.291666666666664,0.1,set follow see be
+Rodney,Ruth,0.3472222222222222,3.4722222222222223,57.291666666666664,0.1,set follow see be
+Ruth,Chrissie,1.179245283018868,0.9433962264150944,52.594339622641506,1.25,agree walk have indicate say do get see be agree be
+Chrissie,Ruth,1.179245283018868,0.9433962264150944,52.594339622641506,1.25,agree walk have indicate say do get see be agree be
+Chrissie,Ruth,1.179245283018868,0.9433962264150944,52.594339622641506,1.25,agree walk have indicate say do get see be agree be
+Tommy,Rodney,5.625,1.875,52.5,3.0,have be muck jump go
+Rodney,Ruth,4.166666666666666,0.0,29.166666666666668,INF,say be
+Chrissie,Ruth,3.6458333333333335,2.083333333333333,48.4375,1.75,be worry notice keep go follow
+Chrissie,Ruth,3.6458333333333335,2.083333333333333,48.4375,1.75,be worry notice keep go follow
+Chrissie,Ruth,3.6458333333333335,2.083333333333333,48.4375,1.75,be worry notice keep go follow
+Chrissie,Ruth,3.6458333333333335,2.083333333333333,48.4375,1.75,be worry notice keep go follow
+Rodney,Chrissie,0.0,3.6764705882352944,55.14705882352941,0.0,be point
+Chrissie,Rodney,0.0,0.0,40.909090909090914,INF,turn say think be agree be
+Ruth,Rodney,1.25,5.0,48.75,0.25,say give
+Ruth,Rodney,1.25,5.0,48.75,0.25,say give
+Rodney,Ruth,1.25,5.0,48.75,0.25,say give
+Rodney,Ruth,1.25,5.0,48.75,0.25,say give
+Chrissie,Rodney,4.166666666666666,1.3888888888888888,44.44444444444444,3.0,watch remember think be
+Tommy,Ruth,1.9230769230769231,2.8846153846153846,49.03846153846153,0.6666666666666666,remember be do be
+Chrissie,Rodney,8.75,0.625,35.625,14.0,remember think be
+Tommy,Ruth,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,say gaze
+Tommy,Ruth,2.1739130434782608,0.5434782608695652,45.108695652173914,4.0,say gaze
+Tommy,Ruth,4.464285714285714,0.0,31.25,INF,thank say
+Ruth,Chrissie,5.0,0.5,42.5,10.0,want feel have touch choose
+Ruth,Rodney,5.0,0.5,42.5,10.0,want feel have touch choose
+Ruth,Chrissie,5.0,0.5,42.5,10.0,want feel have touch choose
+Chrissie,Rodney,5.0,0.5,42.5,10.0,want feel have touch choose
+Rodney,Chrissie,5.0,0.5,42.5,10.0,want feel have touch choose
+Chrissie,Tommy,1.5,1.0,53.5,1.5,expect accept understand do
+Tommy,Chrissie,1.5,1.0,53.5,1.5,expect accept understand do
+Ruth,Tommy,0.0,3.571428571428571,67.85714285714286,0.0,give
+Chrissie,Rodney,4.0,2.0,42.0,2.0,turn go do want say tell
+Chrissie,Rodney,4.0,2.0,42.0,2.0,turn go do want say tell
+Ruth,Rodney,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,be have let forget go see
+Ruth,Martin,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,be have let forget go see
+Rodney,Martin,3.571428571428571,1.3392857142857142,52.23214285714286,2.6666666666666665,be have let forget go see
+Chrissie,Ruth,0.0,1.7857142857142856,69.64285714285714,0.0,put
+Ruth,Rodney,1.1363636363636365,0.0,44.31818181818182,INF,get start walk
+Ruth,Rodney,1.1363636363636365,0.0,44.31818181818182,INF,get start walk
+Ruth,Chrissie,0.0,1.5625,48.4375,0.0,shrug exchange
+Ruth,Chrissie,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,lean say be
+Ruth,Kathy,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,lean say be
+Chrissie,Kathy,2.314814814814815,1.8518518518518516,47.68518518518518,1.25,lean say be
+Ruth,Chrissie,0.0,0.0,45.45454545454545,INF,follow do move
+Ruth,Tommy,0.0,0.0,45.45454545454545,INF,follow do move
+Chrissie,Tommy,0.0,0.0,45.45454545454545,INF,follow do move
+Ruth,Tommy,1.4705882352941175,0.0,51.470588235294116,INF,stare do say stay
+Ruth,Tommy,1.4705882352941175,0.0,51.470588235294116,INF,stare do say stay
+Ruth,Kath,1.4705882352941175,0.0,51.470588235294116,INF,stare do say stay
+Tommy,Kath,1.4705882352941175,0.0,51.470588235294116,INF,stare do say stay
+Tommy,Kath,1.4705882352941175,0.0,51.470588235294116,INF,stare do say stay
+Ruth,Tommy,4.807692307692308,8.653846153846153,55.769230769230774,0.5555555555555556,glare turn stride
+Chrissie,Rodney,4.166666666666666,1.6666666666666667,47.5,2.5,look begin walk
+Chrissie,Tommy,4.166666666666666,1.6666666666666667,47.5,2.5,look begin walk
+Rodney,Tommy,4.166666666666666,1.6666666666666667,47.5,2.5,look begin walk
+Tommy,Woolworth,2.82258064516129,0.4032258064516129,48.38709677419355,7.0,be try think change say know be
+Tommy,Woolworth,1.1904761904761905,1.1904761904761905,45.23809523809524,1.0,look puzzle say have
+Tommy,Woolworth,1.1904761904761905,1.1904761904761905,45.23809523809524,1.0,look puzzle say have
+Tommy,Chrissie,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,find walk be leave go slow say be obsess
+Tommy,Rodney,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,find walk be leave go slow say be obsess
+Chrissie,Rodney,1.530612244897959,1.2755102040816326,46.1734693877551,1.2,find walk be leave go slow say be obsess
+Rodney,Ruth,1.8518518518518516,0.9259259259259258,52.77777777777778,2.0,see be do do say wait
+Kath,Rodney,6.25,1.875,41.875,3.3333333333333335,say have be think
+Tommy,Hailsham,3.75,0.8333333333333334,58.75,4.5,have lower step be talk
+Tommy,Hailsham,3.75,0.8333333333333334,58.75,4.5,have lower step be talk
+Roy,Miss Emily,4.166666666666666,2.083333333333333,43.75,2.0,go see
+Roy,Miss Emily,0.0,0.0,46.15384615384615,INF,ask take
+Miss Emily,Roy,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Miss Emily,Kath,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Roy,Miss Emily,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Roy,Miss Emily,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Roy,Kath,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Miss Emily,Kath,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Miss Emily,Kath,0.0,0.0,37.03703703703704,INF,tell let do mean let do remember
+Miss Emily,Roy,1.9230769230769231,0.4807692307692308,47.59615384615385,4.0,tell say reveal be
+Roy,Miss Emily,1.9230769230769231,0.4807692307692308,47.59615384615385,4.0,tell say reveal be
+Roy,Laura,1.25,0.0,58.75,INF,say remember draw have do laugh
+Roy,Laura,1.25,0.0,58.75,INF,say remember draw have do laugh
+Miss Emily,Roy,2.941176470588235,0.0,26.47058823529412,INF,be say explain say
+Miss Emily,Roy,2.941176470588235,0.0,26.47058823529412,INF,be say explain say
+Tommy,Ruth,1.875,0.625,57.49999999999999,3.0,say be believe be say
+Kath,Tommy,3.6764705882352944,0.7352941176470588,48.529411764705884,5.0,say have be do
+Tommy,Hailsham,1.3888888888888888,4.62962962962963,53.24074074074075,0.3,have admit be remind have start
+Tommy,Keffers,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Keffers,Tommy,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Keffers,Tommy,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Keffers,Tommy,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Keffers,Tommy,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Keffers,Tommy,2.7777777777777777,3.8194444444444446,48.95833333333333,0.7272727272727273,persuade give scribble have finish
+Kath,Hailsham,4.6875,1.5625,43.75,3.0,be do
+Tommy,Kath,7.065217391304348,2.717391304347826,51.08695652173913,2.6,say say do know
+Tommy,Ruth,7.065217391304348,2.717391304347826,51.08695652173913,2.6,say say do know
+Kath,Ruth,7.065217391304348,2.717391304347826,51.08695652173913,2.6,say say do know
+Tommy,Ruth,1.893939393939394,1.5151515151515151,35.984848484848484,1.25,know say say do see look leave
+Tommy,Ruth,1.893939393939394,1.5151515151515151,35.984848484848484,1.25,know say say do see look leave
+Ruth,Tommy,1.893939393939394,1.5151515151515151,35.984848484848484,1.25,know say say do see look leave
+Ruth,Tommy,1.893939393939394,1.5151515151515151,35.984848484848484,1.25,know say say do see look leave
+Kath,Tommy,3.6764705882352944,0.0,55.14705882352941,INF,do get say
+Hughie,Tommy,1.7361111111111112,3.125,56.25,0.5555555555555556,do have do go have start cry feel go
+Ruth,Chrissie,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Ruth,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Ruth,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Ruth,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Chrissie,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Chrissie,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Chrissie,Martin,8.173076923076923,2.8846153846153846,38.94230769230769,2.8333333333333335,have find be relish leave
+Rodney,Ruth,1.6304347826086956,4.891304347826087,50.0,0.3333333333333333,look disapprove realise be make tease
+Rodney,Chrissie,1.6304347826086956,4.891304347826087,50.0,0.3333333333333333,look disapprove realise be make tease
+Ruth,Chrissie,1.6304347826086956,4.891304347826087,50.0,0.3333333333333333,look disapprove realise be make tease
+Ruth,Rodney,1.6304347826086956,4.891304347826087,50.0,0.3333333333333333,look disapprove realise be make tease
+Chrissie,Rodney,1.6304347826086956,4.891304347826087,50.0,0.3333333333333333,look disapprove realise be make tease
+Ruth,Tommy,5.208333333333334,2.604166666666667,50.520833333333336,2.0,notice be have take keep keep turn explain be talk
+Tommy,Ruth,5.208333333333334,2.604166666666667,50.520833333333336,2.0,notice be have take keep keep turn explain be talk
+Tommy,Ruth,2.8846153846153846,0.9615384615384616,42.30769230769231,3.0,understand do recognise behave be admit
+Tommy,Ruth,2.8846153846153846,0.9615384615384616,42.30769230769231,3.0,understand do recognise behave be admit
+Tommy,Ruth,2.8846153846153846,0.9615384615384616,42.30769230769231,3.0,understand do recognise behave be admit
+Ruth,Tommy,3.1914893617021276,3.1914893617021276,53.191489361702125,1.0,be sit do spend talk turn give
+Ruth,Tommy,3.1914893617021276,3.1914893617021276,53.191489361702125,1.0,be sit do spend talk turn give
+Ruth,Tommy,3.1914893617021276,3.1914893617021276,53.191489361702125,1.0,be sit do spend talk turn give
+Ruth,Tommy,3.1914893617021276,3.1914893617021276,53.191489361702125,1.0,be sit do spend talk turn give
+Judy Bridgewater,Tommy,1.7857142857142856,0.0,48.214285714285715,INF,do mention have buy
+Ruth,Tommy,4.891304347826087,2.1739130434782608,49.45652173913043,2.25,make keep tell buy
+Ruth,Judy Bridgewater,4.891304347826087,2.1739130434782608,49.45652173913043,2.25,make keep tell buy
+Tommy,Judy Bridgewater,4.891304347826087,2.1739130434782608,49.45652173913043,2.25,make keep tell buy
+Ruth,Hailsham,6.481481481481481,2.314814814814815,50.46296296296296,2.8,be want tell want reminisce
+Hailsham,Gordon,2.82258064516129,4.435483870967742,44.354838709677416,0.6363636363636364,think be become leave do
+Chrissie,Rodney,3.5256410256410255,2.8846153846153846,57.692307692307686,1.2222222222222223,seem affect be have speak
+Chrissie,Rodney,3.723404255319149,0.7978723404255319,50.797872340425535,4.666666666666667,have be back have be look get go
+Tommy,Keffers,3.3333333333333335,2.9166666666666665,50.416666666666664,1.1428571428571428,be know draw laugh hold go
+Tommy,Kath,1.1904761904761905,0.0,32.142857142857146,INF,wait say show
+Hannah,Laura,5.989583333333334,1.5625,46.61458333333333,3.8333333333333335,be be talk follow start have find be forget have do
+Hannah,Hailsham,5.989583333333334,1.5625,46.61458333333333,3.8333333333333335,be be talk follow start have find be forget have do
+Laura,Hailsham,5.989583333333334,1.5625,46.61458333333333,3.8333333333333335,be be talk follow start have find be forget have do
+Ruth,Hailsham,7.5,2.5,56.666666666666664,3.0,be keep pretend forget
+Ruth,Miss Geraldine,3.4090909090909087,1.9886363636363635,51.42045454545454,1.7142857142857142,have be talk turn say remember use tell
+Lenny,Ruth,7.565789473684211,2.302631578947368,63.81578947368421,3.2857142857142856,have go be sit get laugh
+Ruth,Lenny,7.565789473684211,2.302631578947368,63.81578947368421,3.2857142857142856,have go be sit get laugh
+Lenny,Ruth,4.444444444444445,2.7777777777777777,55.00000000000001,1.6,have be start tell do seem do be keep
+Ruth,Lenny,4.444444444444445,2.7777777777777777,55.00000000000001,1.6,have be start tell do seem do be keep
+Ruth,Lenny,4.444444444444445,2.7777777777777777,55.00000000000001,1.6,have be start tell do seem do be keep
+Ruth,Judy Bridgewater,1.0714285714285714,0.0,56.07142857142857,INF,be lie peer be
+Ruth,Judy Bridgewater,1.0714285714285714,0.0,56.07142857142857,INF,be lie peer be
+Ruth,Judy Bridgewater,1.0714285714285714,0.0,56.07142857142857,INF,be lie peer be
+Ruth,Judy Bridgewater,1.0714285714285714,0.0,56.07142857142857,INF,be lie peer be
+Judy Bridgewater,Tommy,3.3333333333333335,1.25,45.416666666666664,2.6666666666666665,tell have come have be go
+Tommy,Judy Bridgewater,3.3333333333333335,1.25,45.416666666666664,2.6666666666666665,tell have come have be go
+Judy Bridgewater,Tommy,2.083333333333333,0.0,47.91666666666667,INF,go examine say find
+Lenny,Tommy,8.59375,5.46875,29.6875,1.5714285714285714,drift laugh laugh
+Ruth,Kathy,4.017857142857143,0.0,45.982142857142854,INF,touch say be keep
+Ruth,Kathy,4.017857142857143,0.0,45.982142857142854,INF,touch say be keep
+Ruth,Tommy,0.8333333333333334,3.0555555555555554,58.333333333333336,0.2727272727272727,be come read see
+Ruth,Tommy,1.6129032258064515,0.0,69.35483870967742,INF,be sit be stand do stretch talk
+Ruth,Tommy,8.59375,3.125,50.78125,2.75,say be tell
+Ruth,Tommy,8.59375,3.125,50.78125,2.75,say be tell
+Tommy,Ruth,3.2407407407407405,4.166666666666666,51.85185185185185,0.7777777777777778,give be say say
+Ruth,Tommy,3.2407407407407405,4.166666666666666,51.85185185185185,0.7777777777777778,give be say say
+Tommy,Ruth,7.916666666666666,1.25,50.83333333333333,6.333333333333333,want come be try think make feel make
+Tommy,Ruth,7.916666666666666,1.25,50.83333333333333,6.333333333333333,want come be try think make feel make
+Tommy,Ruth,3.125,0.0,34.375,INF,look have get understand go
+Tommy,Ruth,1.9736842105263157,0.0,55.92105263157895,INF,have go hug
+Tommy,Ruth,1.9736842105263157,0.0,55.92105263157895,INF,have go hug
+Tommy,Ruth,2.976190476190476,1.7857142857142856,52.38095238095239,1.6666666666666667,behave have occur do
+Ruth,Hailsham,6.41025641025641,1.282051282051282,56.41025641025641,5.0,be have be happen have get pretend forget
+Ruth,Hailsham,6.41025641025641,1.282051282051282,56.41025641025641,5.0,be have be happen have get pretend forget
+Tommy,Ruth,3.3854166666666665,1.8229166666666667,51.041666666666664,1.8571428571428572,have come have get be think decide be talk have happen
+Tommy,Ruth,3.3854166666666665,1.8229166666666667,51.041666666666664,1.8571428571428572,have come have get be think decide be talk have happen
+Ruth,Kathy,7.236842105263158,1.9736842105263157,32.89473684210527,3.6666666666666665,say look be be talk
+Ruth,Tommy,7.236842105263158,1.9736842105263157,32.89473684210527,3.6666666666666665,say look be be talk
+Kathy,Tommy,7.236842105263158,1.9736842105263157,32.89473684210527,3.6666666666666665,say look be be talk
+Kathy,Tommy,1.9736842105263157,0.6578947368421052,34.21052631578947,3.0,have realise be do see
+Laura,Hannah,1.1363636363636365,2.272727272727273,32.95454545454545,0.5,
+Hailsham,Miss Geraldine,2.34375,0.78125,59.375,3.0,be remember be be have
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,James B.,1.6304347826086956,0.8152173913043478,51.902173913043484,2.0,say remember say try clinch be get prove be come
+Ruth,Tommy,5.46875,3.125,53.90625,1.75,keep do
+Ruth,Laura,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,find talk have run be
+Laura,Ruth,2.272727272727273,1.1363636363636365,60.22727272727273,2.0,find talk have run be
+Hannah,Ruth,6.578947368421052,4.605263157894736,51.973684210526315,1.4285714285714286,say hear have
+Laura,Kathy,5.681818181818182,1.1363636363636365,38.63636363636363,5.0,ask be
+Laura,Ruth,0.0,0.0,33.33333333333333,INF,choose say do become
+Hailsham,Laura,2.1739130434782608,1.0869565217391304,66.30434782608695,2.0,start hear close
+Mr Roger,Hailsham,2.0089285714285716,2.232142857142857,56.47321428571429,0.9,think mean put begin speculate have be transfer be
+Mr Roger,Hailsham,2.0089285714285716,2.232142857142857,56.47321428571429,0.9,think mean put begin speculate have be transfer be
+Hailsham,Mr Roger,5.147058823529411,2.941176470588235,56.61764705882353,1.75,be tell have make say suppose make
+Hailsham,Mr Roger,5.147058823529411,2.941176470588235,56.61764705882353,1.75,be tell have make say suppose make
+Mr Roger,Hailsham,4.5,2.5,53.0,1.8,keep think
+Laura,Ruth,2.142857142857143,1.0714285714285714,48.214285714285715,2.0,be say become have stone-wall
+Laura,Ruth,2.142857142857143,1.0714285714285714,48.214285714285715,2.0,be say become have stone-wall
+Ruth,Laura,2.0161290322580645,1.6129032258064515,64.11290322580645,1.25,turn
+Ruth,Laura,3.8461538461538463,0.4807692307692308,61.057692307692314,8.0,have be have say have go
+Ruth,Kathy,5.769230769230769,1.4423076923076923,42.78846153846153,4.0,laugh add be have be go
+Tommy,Kingsfield,0.0,0.0,50.0,INF,know be
+Ruth,Tommy,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,tell leave have drift
+Ruth,Tommy,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,tell leave have drift
+Ruth,Tommy,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,tell leave have drift
+Ruth,Tommy,0.576923076923077,1.153846153846154,53.65384615384615,0.5,keep bring grow send say hear tell show follow
+Ruth,Tommy,0.576923076923077,1.153846153846154,53.65384615384615,0.5,keep bring grow send say hear tell show follow
+Ruth,Kingsfield,0.576923076923077,1.153846153846154,53.65384615384615,0.5,keep bring grow send say hear tell show follow
+Tommy,Kingsfield,0.576923076923077,1.153846153846154,53.65384615384615,0.5,keep bring grow send say hear tell show follow
+Tommy,Kingsfield,0.576923076923077,1.153846153846154,53.65384615384615,0.5,keep bring grow send say hear tell show follow
+Kingsfield,Ruth,2.9605263157894735,1.3157894736842104,56.25,2.25,be have consult arrive
+Kingsfield,Ruth,0.3472222222222222,1.7361111111111112,61.80555555555556,0.2,fall seal handle
+Ruth,Kingsfield,0.0,1.1904761904761905,58.333333333333336,0.0,go be drive be desert
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,1.171875,0.0,58.203125,INF,stay be be come gaze fall be hug
+Ruth,Tommy,3.125,0.4464285714285714,71.42857142857143,7.0,get have be be watch
+Tommy,Ruth,3.125,0.4464285714285714,71.42857142857143,7.0,get have be be watch
+Tommy,Ruth,0.0,0.9615384615384616,52.88461538461539,0.0,make take get have
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,4.411764705882353,0.7352941176470588,59.55882352941176,6.0,continue turn be face keep look
+Ruth,Tommy,3.125,5.208333333333334,54.166666666666664,0.6,have say see look
+Ruth,Tommy,3.125,5.208333333333334,54.166666666666664,0.6,have say see look
+Tommy,Ruth,3.804347826086957,0.0,52.71739130434783,INF,keep look
+Tommy,Ruth,3.804347826086957,0.0,52.71739130434783,INF,keep look
+Ruth,Tommy,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Ruth,Tommy,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Tommy,Ruth,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Tommy,Ruth,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Tommy,Ruth,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Tommy,Ruth,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Ruth,Tommy,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Ruth,Tommy,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Ruth,Tommy,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Tommy,Ruth,3.0660377358490565,5.188679245283019,54.009433962264154,0.5909090909090909,take gaze start have hear keep look leave
+Ruth,Tommy,3.4574468085106385,1.0638297872340425,55.053191489361694,3.25,be get bore want help interrupt say do need hear
+Tommy,Ruth,3.4574468085106385,1.0638297872340425,55.053191489361694,3.25,be get bore want help interrupt say do need hear
+Ruth,Tommy,1.7857142857142856,3.214285714285714,69.28571428571428,0.5555555555555556,pause be speak make hear make
+Ruth,Tommy,1.7857142857142856,3.214285714285714,69.28571428571428,0.5555555555555556,pause be speak make hear make
+Tommy,Ruth,5.0,4.375,55.625,1.1428571428571428,be be address
+Ruth,Tommy,1.6025641025641024,1.9230769230769231,63.141025641025635,0.8333333333333334,stand try decipher be stand talk wait be tell go
+Ruth,Tommy,5.0,0.0,46.42857142857143,INF,be stand rise fall seem become be
+Ruth,Tommy,5.0,0.0,46.42857142857143,INF,be stand rise fall seem become be
+Ruth,Tommy,5.0,0.0,46.42857142857143,INF,be stand rise fall seem become be
+Tommy,Ruth,5.0,0.0,46.42857142857143,INF,be stand rise fall seem become be
+Tommy,Ruth,5.208333333333334,0.0,69.79166666666666,INF,stare
+Tommy,Ruth,3.3854166666666665,1.8229166666666667,46.875,1.8571428571428572,think happen know be remember have happen gang
+Tommy,Ruth,1.5625,3.6458333333333335,48.95833333333333,0.42857142857142855,take support begin guide
+Tommy,Ruth,1.5625,3.6458333333333335,48.95833333333333,0.42857142857142855,take support begin guide
+Tommy,Ruth,2.380952380952381,0.0,54.761904761904766,INF,hold help
+Ruth,Tommy,1.875,3.125,55.00000000000001,0.6,make help hold
+Tommy,Ruth,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,come bother say be bend
+Ruth,Tommy,1.1363636363636365,0.5681818181818182,52.84090909090909,2.0,come bother say be bend
+Tommy,Ruth,4.166666666666666,0.7575757575757576,61.74242424242424,5.5,be look wonder be embarrass have happen be remember gang
+Tommy,Ruth,4.166666666666666,0.7575757575757576,61.74242424242424,5.5,be look wonder be embarrass have happen be remember gang
+Tommy,Ruth,4.166666666666666,0.7575757575757576,61.74242424242424,5.5,be look wonder be embarrass have happen be remember gang
+Ruth,Tommy,1.293103448275862,3.8793103448275863,56.896551724137936,0.3333333333333333,do get lose hear say see
+Ruth,Tommy,0.0,1.6666666666666667,55.00000000000001,0.0,sink pause wait catch put
+Tommy,Ruth,0.0,1.6666666666666667,55.00000000000001,0.0,sink pause wait catch put
+Tommy,Ruth,0.78125,3.125,61.71875,0.25,be raise glance see be hold
+Tommy,Ruth,0.0,0.0,53.333333333333336,INF,follow make
+Tommy,Hailsham,4.861111111111112,0.6944444444444444,55.55555555555556,7.0,hear say be look
+Rodney,Chrissie,3.3333333333333335,1.6666666666666667,61.66666666666667,2.0,bet be cut say
+Rodney,Ruth,3.3333333333333335,1.6666666666666667,61.66666666666667,2.0,bet be cut say
+Chrissie,Ruth,3.3333333333333335,1.6666666666666667,61.66666666666667,2.0,bet be cut say
+Tommy,Chrissie,3.125,7.291666666666667,56.25,0.42857142857142855,say think have mind
+Tommy,Chrissie,3.125,7.291666666666667,56.25,0.42857142857142855,say think have mind
+Tommy,Chrissie,5.208333333333334,0.0,36.45833333333333,INF,know have feel
+Rodney,Ruth,5.0,2.5,52.5,2.0,believe be say
+Tommy,Kath,3.308823529411765,1.8382352941176472,36.029411764705884,1.8,say say split make
+Tommy,Ruth,3.308823529411765,1.8382352941176472,36.029411764705884,1.8,say say split make
+Kath,Ruth,3.308823529411765,1.8382352941176472,36.029411764705884,1.8,say say split make
+Ruth,Tommy,1.6666666666666667,2.7777777777777777,48.888888888888886,0.6,be compare be keep ask be
+Ruth,Tommy,0.0,0.0,50.0,INF,stay say get
+Ruth,Tommy,0.0,0.0,33.33333333333333,INF,say
+Tommy,Ruth,1.893939393939394,0.0,64.77272727272727,INF,shift be lean look be
+Ruth,Tommy,1.893939393939394,0.0,64.77272727272727,INF,shift be lean look be
+Ruth,Tommy,1.25,0.0,38.75,INF,say look
+Ruth,Tommy,2.4193548387096775,2.4193548387096775,56.451612903225815,1.0,be be ignore be try get have be blur
+Tommy,Ruth,2.4193548387096775,2.4193548387096775,56.451612903225815,1.0,be be ignore be try get have be blur
+Ruth,Tommy,0.0,1.6666666666666667,51.66666666666667,0.0,turn take gaze
+Tommy,Ruth,0.0,1.6666666666666667,51.66666666666667,0.0,turn take gaze
+Kathy,Ruth,0.0,0.0,33.33333333333333,INF,listen say
+Tommy,Ruth,0.0,0.0,14.285714285714285,INF,tell
+Ruth,Tommy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,say give
+Ruth,Tommy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,say give
+Tommy,Ruth,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,say give
+Ruth,Tommy,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,say give
+Ruth,Hailsham,2.166666666666667,0.6666666666666667,49.166666666666664,3.25,be come come sit watch go talk drift
+Ruth,Hailsham,2.166666666666667,0.6666666666666667,49.166666666666664,3.25,be come come sit watch go talk drift
+Ruth,Tommy,3.75,1.25,40.0,3.0,come have think become
+Kingsfield,Tommy,0.9615384615384616,0.9615384615384616,59.61538461538461,1.0,get be give
+Tommy,Keffers,0.8928571428571428,1.1904761904761905,59.82142857142857,0.75,stop come look close notice look get
+Tommy,Keffers,0.8928571428571428,1.1904761904761905,59.82142857142857,0.75,stop come look close notice look get
+Tommy,Keffers,0.8928571428571428,1.1904761904761905,59.82142857142857,0.75,stop come look close notice look get
+Tommy,Kath,6.25,1.5625,48.4375,4.0,say want tell
+Ruth,Tommy,0.0,2.8846153846153846,50.96153846153846,0.0,do say
+Tommy,Kath,2.34375,2.34375,32.8125,1.0,say be
+Tommy,Kath,2.34375,2.34375,32.8125,1.0,say be
+Ruth,Tommy,0.0,3.4090909090909087,48.10606060606061,0.0,stop hear echo seem be
+Ruth,Tommy,0.0,3.4090909090909087,48.10606060606061,0.0,stop hear echo seem be
+Hailsham,Kathy,2.7777777777777777,0.0,41.66666666666667,INF,say go
+Hailsham,Kathy,2.7777777777777777,0.0,41.66666666666667,INF,say go
+Hailsham,Tommy,0.0,2.7777777777777777,30.555555555555557,0.0,be whisper
+Kathy,Tommy,2.9605263157894735,0.6578947368421052,49.01315789473684,4.5,think be wait explain be say tell be be correct
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Hailsham,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Hailsham,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Kathy,Hailsham,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Kathy,Hailsham,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Hailsham,Kathy,2.6515151515151514,0.5681818181818182,46.78030303030303,4.666666666666667,say think be burst open lead be have back
+Tommy,Kathy,2.5735294117647056,2.2058823529411766,56.98529411764706,1.1666666666666667,be say see clasp be get sing
+Tommy,Kathy,2.5735294117647056,2.2058823529411766,56.98529411764706,1.1666666666666667,be say see clasp be get sing
+Tommy,Kathy,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Tommy,Hailsham,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Tommy,Kathy,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Tommy,Kathy,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Kathy,Hailsham,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Hailsham,Kathy,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Hailsham,Kathy,3.2467532467532463,1.948051948051948,50.649350649350644,1.6666666666666667,be agree discuss have be be face have say do suggest appear meet
+Kathy,Hailsham,4.642857142857143,4.285714285714286,36.78571428571429,1.0833333333333333,tell hear realise be be
+Kathy,Tommy,0.0,0.0,40.0,INF,switch gaze
+Kathy,Tommy,0.0,0.0,40.0,INF,switch gaze
+Miss Emily,Tommy,0.0,9.090909090909092,27.27272727272727,0.0,say
+Marie-Claude,Miss Emily,4.166666666666666,1.0416666666666665,44.79166666666667,4.0,be say
+Morningdale,Hailsham,4.464285714285714,1.7857142857142856,55.654761904761905,2.5,be consider shine move do be
+Miss Emily,Hailsham,4.807692307692308,0.0,49.03846153846153,INF,say
+Morningdale,Marie-Claude,2.717391304347826,6.521739130434782,47.28260869565217,0.4166666666666667,have dream ask
+Marie-Claude,Tommy,0.0,0.0,50.0,INF,pause exchange
+Marie-Claude,Hailsham,2.34375,2.34375,57.8125,1.0,start be
+Miss Emily,Marie-Claude,2.586206896551724,4.741379310344827,51.293103448275865,0.5454545454545454,come say lose do
+Hailsham,Glenmorgan,1.5151515151515151,2.272727272727273,47.72727272727273,0.6666666666666666,want be see support be sweep
+Hailsham,Saunders Trust,1.5151515151515151,2.272727272727273,47.72727272727273,0.6666666666666666,want be see support be sweep
+Glenmorgan,Saunders Trust,1.5151515151515151,2.272727272727273,47.72727272727273,0.6666666666666666,want be see support be sweep
+Morningdale,Miss Emily,0.0,0.8928571428571428,34.82142857142857,0.0,be keep mention
+Miss Emily,Tommy,1.1363636363636365,2.272727272727273,42.04545454545455,0.5,say
+Tommy,Miss Lucy,1.9230769230769231,0.9615384615384616,50.96153846153846,2.0,ask be leave
+Miss Emily,Tommy,1.5,0.0,58.5,INF,think be be go have hear
+Lucy Wainright,Tommy,4.166666666666666,0.0,45.83333333333333,INF,pause adjust face
+Lucy Wainright,Tommy,4.166666666666666,0.0,45.83333333333333,INF,pause adjust face
+Lucy Wainright,Miss Emily,4.573170731707317,1.2195121951219512,47.86585365853659,3.75,think be go leave ask be like know happen
+Lucy Wainright,Miss Lucy,4.573170731707317,1.2195121951219512,47.86585365853659,3.75,think be go leave ask be like know happen
+Miss Emily,Miss Lucy,4.573170731707317,1.2195121951219512,47.86585365853659,3.75,think be go leave ask be like know happen
+Miss Lucy,Hailsham,4.3478260869565215,1.6304347826086956,46.19565217391305,2.6666666666666665,be be
+Miss Lucy,Hailsham,4.3478260869565215,1.6304347826086956,46.19565217391305,2.6666666666666665,be be
+Miss Emily,Lucy Wainright,0.0,0.0,53.333333333333336,INF,say be
+Miss Emily,Lucy Wainright,0.0,0.0,53.333333333333336,INF,say be
+Miss Lucy,Hailsham,8.823529411764707,0.7352941176470588,37.5,12.0,have have be shatter
+Miss Lucy,Hailsham,8.823529411764707,0.7352941176470588,37.5,12.0,have have be shatter
+Miss Emily,Hailsham,4.513888888888888,2.083333333333333,48.95833333333333,2.1666666666666665,turn throw flash remind
+Miss Emily,Hailsham,4.513888888888888,2.083333333333333,48.95833333333333,2.1666666666666665,turn throw flash remind
+Miss Emily,Hailsham,4.513888888888888,2.083333333333333,48.95833333333333,2.1666666666666665,turn throw flash remind
+Miss Emily,Hailsham,4.513888888888888,2.083333333333333,48.95833333333333,2.1666666666666665,turn throw flash remind
+Miss Emily,Marie-Claude,0.0,3.289473684210526,38.81578947368421,0.0,be reply have give
+Miss Emily,Marie-Claude,0.0,3.289473684210526,38.81578947368421,0.0,be reply have give
+Tommy,George,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+Tommy,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+Tommy,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+Tommy,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+Tommy,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+George,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+George,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+George,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+George,Miss Emily,1.6304347826086956,0.8152173913043478,58.42391304347826,2.0,feel slip be help stand be get wait
+Miss Emily,George,4.3478260869565215,2.717391304347826,53.80434782608695,1.6,begin make leave look
+Miss Emily,George,0.0,0.0,60.0,INF,be crouch nod be say close move
+Tommy,Kath,5.434782608695652,1.0869565217391304,50.0,5.0,be remark know
+Tommy,Kath,5.434782608695652,1.0869565217391304,50.0,5.0,be remark know
+Tommy,Miss Lucy,3.125,3.125,68.75,1.0,be go say think be
+Tommy,Kath,0.0,0.0,56.25,INF,say stop
+Tommy,Kath,3.289473684210526,4.605263157894736,39.473684210526315,0.7142857142857143,pull mutter be
+Tommy,Kath,8.125,6.875000000000001,45.0,1.1818181818181819,say be
+Hailsham,Tommy,3.260869565217391,1.6304347826086956,53.80434782608695,2.0,be reminisce move have say do be recall
+Hailsham,Tommy,3.260869565217391,1.6304347826086956,53.80434782608695,2.0,be reminisce move have say do be recall
+Tommy,Kath,5.208333333333334,2.7777777777777777,53.125,1.875,lie come say know be worry
+Tommy,Kath,1.9736842105263157,5.263157894736842,40.131578947368425,0.375,say do want take
+Ruth,Tommy,1.9230769230769231,4.807692307692308,39.42307692307692,0.4,want say
+Ruth,Tommy,1.9230769230769231,4.807692307692308,39.42307692307692,0.4,want repeat
+Tommy,Ruth,1.9736842105263157,0.0,50.6578947368421,INF,be say shake have understand
+Tommy,Ruth,1.9736842105263157,0.0,50.6578947368421,INF,be say shake have understand
+Tommy,Ruth,3.571428571428571,0.2976190476190476,55.654761904761905,12.0,be wander do ask be complete find do
+Miss Emily,Ruth,3.125,0.8928571428571428,42.410714285714285,3.5,add find do change
+Tommy,Ruth,3.4722222222222223,4.513888888888888,42.01388888888889,0.7692307692307693,say want say forgive be
+Tommy,Ruth,3.4722222222222223,4.513888888888888,42.01388888888889,0.7692307692307693,say want say forgive be
+Tommy,Ruth,3.4722222222222223,4.513888888888888,42.01388888888889,0.7692307692307693,say want say forgive be
+Tommy,Ruth,3.4722222222222223,4.513888888888888,42.01388888888889,0.7692307692307693,say want say forgive be
+Ruth,Tommy,5.303030303030303,3.0303030303030303,49.24242424242424,1.75,say wish find be feel finish
+Ruth,Tommy,5.303030303030303,3.0303030303030303,49.24242424242424,1.75,say wish find be feel finish
+Tommy,Kath,4.0,1.0,51.0,4.0,do say know use play
+Tommy,Hailsham,4.0,1.0,51.0,4.0,do say know use play
+Kath,Hailsham,4.0,1.0,51.0,4.0,do say know use play
+Ruth,Tommy,1.9736842105263157,2.631578947368421,48.026315789473685,0.75,lose lose lose
+Tommy,Ruth,1.0416666666666665,0.0,32.29166666666667,INF,be

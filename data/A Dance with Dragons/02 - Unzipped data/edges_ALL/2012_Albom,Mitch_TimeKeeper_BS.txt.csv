@@ -1,0 +1,987 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Victor,Sarah,0.0,0.0,44.0,INF,drift sit
+Alli,Dor,1.0416666666666665,0.0,48.95833333333333,INF,run look grin
+Dor,Alli,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,run be count
+Dor,Alli,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,run be count
+Dor,Alli,9.722222222222223,2.083333333333333,43.75,4.666666666666667,be go
+Dor,Alli,9.722222222222223,2.083333333333333,43.75,4.666666666666667,be go
+Dor,Alli,0.0,0.0,42.10526315789473,INF,count
+Alli,Nim,7.236842105263158,1.9736842105263157,64.47368421052632,3.6666666666666665,be tackle
+Nim,Alli,0.0,1.0416666666666665,73.95833333333334,0.0,crow put
+Nim,Dor,0.0,1.0416666666666665,73.95833333333334,0.0,crow put
+Alli,Dor,0.0,1.0416666666666665,73.95833333333334,0.0,crow put
+Sarah,Lorraine,0.0,0.0,40.0,INF,
+Victor,Grace,0.0,0.0,45.45454545454545,INF,
+Victor,Grace,0.0,0.0,72.72727272727273,INF,hear
+Dor,Nim,0.0,0.0,43.75,INF,do
+Dor,Alli,0.0,0.0,43.75,INF,do
+Nim,Alli,0.0,0.0,43.75,INF,do
+Alli,Victor,7.083333333333333,7.916666666666666,38.333333333333336,0.8947368421052632,grow warn keep braid lower encourage
+Alli,Victor,7.083333333333333,7.916666666666666,38.333333333333336,0.8947368421052632,grow warn keep braid lower encourage
+Alli,Victor,7.083333333333333,7.916666666666666,38.333333333333336,0.8947368421052632,grow warn keep braid lower encourage
+Alli,Victor,7.083333333333333,7.916666666666666,38.333333333333336,0.8947368421052632,grow warn keep braid lower encourage
+Alli,Victor,7.083333333333333,7.916666666666666,38.333333333333336,0.8947368421052632,grow warn keep braid lower encourage
+Dor,Alli,0.5434782608695652,0.0,38.58695652173913,INF,run race beckon follow
+Dor,Alli,0.5434782608695652,0.0,38.58695652173913,INF,run race beckon follow
+Dor,Alli,0.5434782608695652,0.0,38.58695652173913,INF,run race beckon follow
+Dor,Alli,0.5434782608695652,0.0,38.58695652173913,INF,run race beckon follow
+Sarah,Lorraine,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,stay blame
+Sarah,Tom,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,stay blame
+Lorraine,Tom,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,stay blame
+Lorraine,Sarah,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,stay blame
+Tom,Sarah,0.4807692307692308,4.807692307692308,48.55769230769231,0.1,stay blame
+Lorraine,Sarah,0.8333333333333334,2.5,56.666666666666664,0.3333333333333333,be wait admit be have rescue
+Lorraine,Sarah,0.8333333333333334,2.5,56.666666666666664,0.3333333333333333,be wait admit be have rescue
+Sarah,P.M.,1.3888888888888888,0.6944444444444444,47.91666666666667,2.0,run be
+Victor,P.M.,1.282051282051282,0.641025641025641,69.87179487179486,2.0,see include be buy
+Victor,P.M.,1.282051282051282,0.641025641025641,69.87179487179486,2.0,see include be buy
+P.M.,Victor,1.282051282051282,0.641025641025641,69.87179487179486,2.0,see include be buy
+P.M.,Victor,1.282051282051282,0.641025641025641,69.87179487179486,2.0,see include be buy
+Victor,Grace,1.5625,0.0,73.4375,INF,hear walk
+Dor,Alli,3.571428571428571,1.7857142857142856,37.5,2.0,be marry
+Dor,Alli,3.214285714285714,1.4285714285714286,46.785714285714285,2.25,feel say be be be
+Dor,Alli,3.214285714285714,1.4285714285714286,46.785714285714285,2.25,feel say be be be
+Dor,Alli,3.571428571428571,0.0,39.285714285714285,INF,have
+Dor,Alli,0.0,2.840909090909091,51.70454545454546,0.0,live make
+Dor,Alli,1.0,2.0,45.0,0.5,begin walk
+Dor,Nim,0.0,1.3157894736842104,56.57894736842105,0.0,count work count run
+Dor,Alli,0.0,1.3157894736842104,56.57894736842105,0.0,count work count run
+Nim,Alli,0.0,1.3157894736842104,56.57894736842105,0.0,count work count run
+Alli,Nim,7.5,1.6666666666666667,57.49999999999999,4.5,think have turn
+Alli,Nim,7.5,1.6666666666666667,57.49999999999999,4.5,think have turn
+Dor,Alli,2.6785714285714284,3.125,58.48214285714286,0.8571428571428571,do show grow dabble
+Dor,Nim,2.1551724137931036,0.43103448275862066,59.48275862068966,5.0,be run have
+Dor,Nim,2.1551724137931036,0.43103448275862066,59.48275862068966,5.0,be run have
+Dor,Nim,1.7241379310344827,0.0,56.896551724137936,INF,spend lead neighbor take declare follow
+Nim,Dor,3.75,6.25,50.0,0.6,do understand say
+Dor,Nim,0.0,4.807692307692308,56.730769230769226,0.0,listen see storm
+P.M.,Sarah,1.744186046511628,4.069767441860465,52.32558139534884,0.42857142857142855,be find wash be tumble be want cut
+P.M.,Sarah,1.744186046511628,4.069767441860465,52.32558139534884,0.42857142857142855,be find wash be tumble be want cut
+P.M.,Sarah,1.744186046511628,4.069767441860465,52.32558139534884,0.42857142857142855,be find wash be tumble be want cut
+P.M.,Sarah,1.744186046511628,4.069767441860465,52.32558139534884,0.42857142857142855,be find wash be tumble be want cut
+Victor,Grace,5.0,2.5,52.5,2.0,think order
+Nim,Dor,0.5952380952380952,0.0,51.78571428571429,INF,climb watch
+Nim,Alli,0.5952380952380952,0.0,51.78571428571429,INF,climb watch
+Dor,Alli,0.5952380952380952,0.0,51.78571428571429,INF,climb watch
+Alli,Nim,4.166666666666666,2.083333333333333,43.75,2.0,sit tell
+Alli,Nim,4.166666666666666,2.083333333333333,43.75,2.0,sit tell
+Dor,Alli,4.285714285714286,1.4285714285714286,54.285714285714285,3.0,feel hold be wrap know love understand do
+Dor,Alli,4.285714285714286,1.4285714285714286,54.285714285714285,3.0,feel hold be wrap know love understand do
+Dor,Alli,4.285714285714286,1.4285714285714286,54.285714285714285,3.0,feel hold be wrap know love understand do
+Alli,Nim,2.142857142857143,1.7857142857142856,61.78571428571429,1.2,remove plug have mock begin drip
+Dor,Alli,0.0,0.0,40.0,INF,stay
+Grace,Victor,0.0,0.0,58.333333333333336,INF,enter hang
+Dor,Alli,0.625,3.125,56.25,0.2,load go live
+Dor,Alli,0.0,0.0,44.44444444444444,INF,continue use stick
+Dor,Nim,2.0454545454545454,1.1363636363636365,45.909090909090914,1.8,bring speak have grow be make come
+Nim,Alli,3.289473684210526,1.3157894736842104,58.55263157894737,2.5,think run
+Nim,Alli,11.25,0.0,48.75,INF,be want be
+Dor,Alli,2.586206896551724,0.8620689655172413,55.172413793103445,3.0,have pass be
+Dor,Alli,11.11111111111111,6.944444444444445,26.38888888888889,1.6,be
+Dor,Alli,2.941176470588235,2.941176470588235,52.94117647058824,1.0,check see disappear
+Dor,Alli,0.7575757575757576,2.272727272727273,54.54545454545454,0.3333333333333333,look change give gouge notice
+Dor,Alli,0.7575757575757576,2.272727272727273,54.54545454545454,0.3333333333333333,look change give gouge notice
+Alli,Asu,4.166666666666666,1.3888888888888888,57.407407407407405,3.0,know seek give make go
+Asu,Alli,4.166666666666666,1.3888888888888888,57.407407407407405,3.0,know seek give make go
+Dor,Alli,0.0,6.25,53.75,0.0,do see blink
+Sarah,Lorraine,3.289473684210526,7.894736842105263,57.23684210526315,0.4166666666666667,do discuss have be discuss
+Dor,Victor,0.0,0.0,50.0,INF,lay
+Victor,Alli,0.0,6.944444444444445,48.61111111111111,0.0,bear
+Alli,Dor,3.977272727272727,2.272727272727273,48.29545454545455,1.75,remember have be
+Dor,Alli,3.977272727272727,2.272727272727273,48.29545454545455,1.75,remember have be
+Dor,Asu,5.625,0.0,34.375,INF,happen have find cure
+Dor,Alli,5.625,0.0,34.375,INF,happen have find cure
+Asu,Alli,5.625,0.0,34.375,INF,happen have find cure
+Dor,Alli,1.6304347826086956,3.260869565217391,55.97826086956522,0.5,feel begin shoot
+Dor,Alli,1.6304347826086956,3.260869565217391,55.97826086956522,0.5,feel begin shoot
+Dor,Alli,1.6304347826086956,3.260869565217391,55.97826086956522,0.5,feel begin shoot
+Dor,Alli,0.0,1.1904761904761905,51.19047619047619,0.0,reach look suspect try
+Sarah,Lorraine,0.9375,0.0,54.0625,INF,eat walk spend have clack refer
+Sarah,Lorraine,0.9375,0.0,54.0625,INF,eat walk spend have clack refer
+Lorraine,Sarah,0.9375,0.0,54.0625,INF,eat walk spend have clack refer
+Sarah,Lorraine,0.0,2.4193548387096775,62.096774193548384,0.0,rank be wait afford
+Sarah,Lorraine,0.0,2.4193548387096775,62.096774193548384,0.0,rank be wait afford
+Sarah,Lorraine,0.0,2.4193548387096775,62.096774193548384,0.0,rank be wait afford
+Sarah,Lorraine,0.0,2.4193548387096775,62.096774193548384,0.0,rank be wait afford
+Sarah,Ethan,0.78125,3.90625,57.8125,0.2,have enter
+Ethan,Sarah,2.9605263157894735,0.9868421052631579,67.10526315789474,3.0,have be volunteer call
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Ethan,Sarah,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Ethan,Sarah,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Ethan,Sarah,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Ethan,Sarah,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Sarah,Ethan,1.1029411764705883,0.7352941176470588,54.04411764705882,1.5,notice own notice
+Ethan,Sarah,0.0,0.0,33.33333333333333,INF,
+Sarah,Ethan,0.0,1.4285714285714286,50.0,0.0,offer say do want take
+Sarah,Ethan,0.0,1.4285714285714286,50.0,0.0,offer say do want take
+Sarah,Ethan,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,begin view do
+Ethan,Sarah,1.3157894736842104,1.3157894736842104,60.526315789473685,1.0,begin view do
+Sarah,Ethan,3.1779661016949152,1.2711864406779663,48.09322033898305,2.5,talk have stand leave wear blush say
+Sarah,Ethan,3.1779661016949152,1.2711864406779663,48.09322033898305,2.5,talk have stand leave wear blush say
+Sarah,Ethan,3.1779661016949152,1.2711864406779663,48.09322033898305,2.5,talk have stand leave wear blush say
+Sarah,Ethan,3.1779661016949152,1.2711864406779663,48.09322033898305,2.5,talk have stand leave wear blush say
+Sarah,Ethan,3.1779661016949152,1.2711864406779663,48.09322033898305,2.5,talk have stand leave wear blush say
+Sarah,Ethan,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Sarah,Ethan,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Ethan,Sarah,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Ethan,Sarah,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Sarah,Ethan,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Sarah,Ethan,0.8928571428571428,5.654761904761905,45.83333333333333,0.15789473684210525,pass grow believe be feel be feel be wind
+Sarah,Ethan,2.82258064516129,3.6290322580645165,45.16129032258064,0.7777777777777778,have muster ask want hang say
+Sarah,Ethan,2.82258064516129,3.6290322580645165,45.16129032258064,0.7777777777777778,have muster ask want hang say
+Ethan,Sarah,9.375,1.5625,26.5625,6.0,break
+Victor,Grace,0.0,1.3888888888888888,76.38888888888889,0.0,meet
+Victor,Grace,10.0,0.8333333333333334,62.5,12.0,learn have be marry
+Grace,Victor,1.6666666666666667,0.4166666666666667,61.25000000000001,4.0,be wed
+Grace,Victor,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,chafe correct interrupt
+Grace,Victor,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,chafe correct interrupt
+Grace,Victor,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,chafe correct interrupt
+Grace,Victor,4.032258064516129,2.82258064516129,51.20967741935484,1.4285714285714286,chafe correct interrupt
+Victor,Grace,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Victor,Grace,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Grace,Victor,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Grace,Victor,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Grace,Victor,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Grace,Victor,2.5,5.5,48.0,0.45454545454545453,disdain take get leave look
+Victor,Grace,2.6785714285714284,0.0,61.60714285714286,INF,have see
+Grace,Victor,2.840909090909091,2.272727272727273,49.43181818181818,1.25,want ask say be do have leave
+Sarah,Ethan,2.5,0.0,57.49999999999999,INF,read
+Ethan,Sarah,2.5,0.0,57.49999999999999,INF,read
+Sarah,Ethan,5.357142857142857,0.0,37.5,INF,want change
+Sarah,Ethan,5.681818181818182,7.954545454545454,54.54545454545454,0.7142857142857143,demand take think be
+Ethan,Sarah,5.681818181818182,7.954545454545454,54.54545454545454,0.7142857142857143,demand take think be
+Sarah,Ethan,2.5,6.875000000000001,55.625,0.36363636363636365,lean try tell be have bail be talk
+Sarah,Ethan,2.5,6.875000000000001,55.625,0.36363636363636365,lean try tell be have bail be talk
+Ethan,Sarah,2.5,6.875000000000001,55.625,0.36363636363636365,lean try tell be have bail be talk
+Ethan,Sarah,2.5,6.875000000000001,55.625,0.36363636363636365,lean try tell be have bail be talk
+Victor,Roger,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Victor,Roger,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Victor,Roger,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Victor,Roger,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Roger,Victor,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Roger,Victor,2.1929824561403506,1.9736842105263157,62.5,1.1111111111111112,have weaken be force tolerate have dictate be update
+Dor,Victor,0.0,3.571428571428571,58.333333333333336,0.0,be form be
+Sarah,Ethan,0.0,0.0,42.857142857142854,INF,be see
+Sarah,Ethan,0.0,0.0,42.857142857142854,INF,be see
+Ethan,Sarah,1.7045454545454544,0.5681818181818182,56.81818181818182,3.0,open steal hope have cause
+Sarah,Ethan,1.7045454545454544,0.5681818181818182,56.81818181818182,3.0,open steal hope have cause
+Sarah,Ethan,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Sarah,Ethan,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Sarah,Ethan,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Ethan,Sarah,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Sarah,Ethan,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Sarah,Ethan,1.7857142857142856,0.0,51.78571428571429,INF,want mention unpack whistle
+Sarah,Ethan,2.459016393442623,1.8442622950819672,54.713114754098356,1.3333333333333333,load ask say thank mumble grab wipe have unpack have come have spill
+Sarah,Ethan,2.459016393442623,1.8442622950819672,54.713114754098356,1.3333333333333333,load ask say thank mumble grab wipe have unpack have come have spill
+Sarah,Ethan,2.459016393442623,1.8442622950819672,54.713114754098356,1.3333333333333333,load ask say thank mumble grab wipe have unpack have come have spill
+Victor,Grace,2.083333333333333,1.0416666666666665,80.20833333333334,2.0,try picture sit
+Lorraine,Sarah,4.807692307692308,0.9615384615384616,63.46153846153846,5.0,hope have pick
+Lorraine,Sarah,4.807692307692308,0.9615384615384616,63.46153846153846,5.0,hope have pick
+Grace,Victor,4.166666666666666,0.0,79.16666666666666,INF,know be frustrate
+Lorraine,Sarah,0.0,0.0,55.00000000000001,INF,hear whisk
+Lorraine,Sarah,0.0,0.0,55.00000000000001,INF,hear whisk
+Lorraine,Sarah,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,hear move want speak
+Lorraine,Sarah,5.769230769230769,1.9230769230769231,46.15384615384615,3.0,hear move want speak
+Grace,Victor,3.125,1.5625,57.8125,2.0,hear return
+Grace,Victor,3.125,1.5625,57.8125,2.0,hear return
+Dor,Victor,2.34375,2.734375,57.421875,0.8571428571428571,hear see sleep see
+Alli,Dor,1.5625,2.232142857142857,42.63392857142857,0.7,be throw be walk be be remind lay die
+Dor,Alli,1.5625,2.232142857142857,42.63392857142857,0.7,be throw be walk be be remind lay die
+Ethan,Sarah,7.5,5.0,54.166666666666664,1.5,have think
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.23728813559322,1.9067796610169492,44.70338983050847,2.2222222222222223,feel consider have criticize be be scream complain justify have
+Sarah,Ethan,4.166666666666666,0.0,37.5,INF,want have change
+Ethan,Sarah,4.166666666666666,0.0,37.5,INF,want have change
+Ethan,Sarah,0.5681818181818182,0.5681818181818182,48.86363636363637,1.0,say try be feel
+Victor,Jed,1.6666666666666667,0.0,58.333333333333336,INF,remember have say
+Victor,Jed,5.0,0.0,65.0,INF,review have explain
+Victor,Jed,10.0,0.0,50.0,INF,have ask
+Grace,Victor,7.5,4.166666666666666,48.333333333333336,1.8,disagree be have be
+Grace,Victor,7.5,4.166666666666666,48.333333333333336,1.8,disagree be have be
+Jed,Victor,3.571428571428571,0.8928571428571428,31.25,4.0,be say
+Jed,Victor,3.571428571428571,0.8928571428571428,31.25,4.0,be say
+Victor,Dor,3.289473684210526,1.9736842105263157,52.63157894736842,1.6666666666666667,spend have try
+Lorraine,Sarah,0.0,0.0,58.333333333333336,INF,remember take be
+Sarah,Lorraine,0.0,0.0,58.333333333333336,INF,remember take be
+Lorraine,Sarah,0.6578947368421052,1.3157894736842104,76.97368421052632,0.5,watch amaze place
+Sarah,Lorraine,0.6578947368421052,1.3157894736842104,76.97368421052632,0.5,watch amaze place
+Lorraine,Tom,4.761904761904762,2.380952380952381,50.0,2.0,realize dote work get
+Lorraine,Tom,4.761904761904762,2.380952380952381,50.0,2.0,realize dote work get
+Lorraine,Tom,4.761904761904762,2.380952380952381,50.0,2.0,realize dote work get
+Sarah,Lorraine,2.5735294117647056,0.7352941176470588,40.80882352941176,3.5,turn beam say want be get vow do
+Sarah,Lorraine,2.5735294117647056,0.7352941176470588,40.80882352941176,3.5,turn beam say want be get vow do
+Lorraine,Sarah,1.5625,1.5625,62.5,1.0,walk see know be arrest sit
+Lorraine,Sarah,1.5625,1.5625,62.5,1.0,walk see know be arrest sit
+Lorraine,Sarah,1.5625,1.5625,62.5,1.0,walk see know be arrest sit
+Lorraine,Sarah,1.5625,1.5625,62.5,1.0,walk see know be arrest sit
+Ethan,P.M.,1.2711864406779663,1.4830508474576272,46.39830508474576,0.8571428571428571,sit do commit want come drink grab
+P.M.,Ethan,1.2711864406779663,1.4830508474576272,46.39830508474576,0.8571428571428571,sit do commit want come drink grab
+Ethan,Sarah,1.8292682926829267,2.1341463414634148,49.69512195121951,0.8571428571428571,like wear say like have see
+Ethan,Sarah,1.8292682926829267,2.1341463414634148,49.69512195121951,0.8571428571428571,like wear say like have see
+Ethan,Sarah,1.8292682926829267,2.1341463414634148,49.69512195121951,0.8571428571428571,like wear say like have see
+Sarah,Ethan,3.571428571428571,1.7857142857142856,58.92857142857143,2.0,wear have wear figure have like do seem
+Sarah,Ethan,3.571428571428571,1.7857142857142856,58.92857142857143,2.0,wear have wear figure have like do seem
+Sarah,Ethan,3.571428571428571,1.7857142857142856,58.92857142857143,2.0,wear have wear figure have like do seem
+Sarah,Ethan,3.571428571428571,1.7857142857142856,58.92857142857143,2.0,wear have wear figure have like do seem
+Sarah,Ethan,0.0,0.0,43.75,INF,make say see
+Ethan,Sarah,3.7037037037037033,0.4629629629629629,55.092592592592595,8.0,take program signal be call
+Ethan,Sarah,3.7037037037037033,0.4629629629629629,55.092592592592595,8.0,take program signal be call
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Sarah,Ethan,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Sarah,Ethan,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Ethan,Sarah,3.4090909090909087,1.7045454545454544,58.52272727272727,2.0,offer rub accept make shiver melt
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Ethan,Sarah,3.75,2.5,53.75,1.5,try talk do have seem say be say be stress get rub say be get make feel
+Sarah,Ethan,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Sarah,Ethan,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Sarah,Ethan,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Sarah,Ethan,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Ethan,Sarah,0.3125,0.625,49.0625,0.5,feel turn edge turn bump happen
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Sarah,Ethan,2.840909090909091,4.545454545454546,41.09848484848485,0.625,close faint use say have be kiss turn grab remember think be kiss want
+Ethan,Sarah,2.272727272727273,4.545454545454546,56.81818181818182,0.5,start get move pull try
+Ethan,Sarah,2.272727272727273,4.545454545454546,56.81818181818182,0.5,start get move pull try
+Ethan,Sarah,0.0,0.5952380952380952,51.78571428571429,0.0,fill gulp have
+Ethan,Sarah,0.0,0.5952380952380952,51.78571428571429,0.0,fill gulp have
+Ethan,Sarah,0.0,0.5952380952380952,51.78571428571429,0.0,fill gulp have
+Sarah,Ethan,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Sarah,Ethan,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Sarah,Ethan,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Ethan,Sarah,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Ethan,Sarah,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Ethan,Sarah,1.7857142857142856,1.0714285714285714,42.857142857142854,1.6666666666666667,remember laugh push pull kiss get pull repeat
+Sarah,Ethan,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Sarah,Ethan,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Ethan,Sarah,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Ethan,Sarah,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Ethan,Sarah,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Sarah,Ethan,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Sarah,Ethan,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Sarah,Ethan,3.3333333333333335,2.083333333333333,37.916666666666664,1.6,realize be be ponder be suppose show
+Ethan,Sarah,1.9230769230769231,0.0,36.53846153846153,INF,kiss want
+Sarah,Ethan,0.0,0.0,50.0,INF,keep see
+Sarah,Ethan,2.34375,3.515625,59.765625,0.6666666666666666,be go be be be come have buy
+Sarah,Ethan,2.34375,3.515625,59.765625,0.6666666666666666,be go be be be come have buy
+Sarah,Ethan,2.34375,3.515625,59.765625,0.6666666666666666,be go be be be come have buy
+Sarah,Ethan,7.142857142857142,0.0,35.714285714285715,INF,buy
+Victor,Jed,2.7777777777777777,0.0,63.888888888888886,INF,pour
+Victor,Dor,0.9868421052631579,1.3157894736842104,58.223684210526315,0.75,look belong study manipulate allow
+Dor,Victor,0.9868421052631579,1.3157894736842104,58.223684210526315,0.75,look belong study manipulate allow
+Dor,Victor,0.9868421052631579,1.3157894736842104,58.223684210526315,0.75,look belong study manipulate allow
+Dor,Victor,0.9868421052631579,1.3157894736842104,58.223684210526315,0.75,look belong study manipulate allow
+Sarah,Ethan,0.0,0.0,50.0,INF,raise end clip
+Ethan,Sarah,0.5952380952380952,3.571428571428571,43.452380952380956,0.16666666666666666,grin say lose laugh
+Sarah,Ethan,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Sarah,Ethan,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Sarah,Ethan,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Sarah,Ethan,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Sarah,Ethan,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Ethan,Sarah,7.291666666666667,1.0416666666666665,37.5,7.0,be hope add want hear say do hear say wonder have be
+Sarah,Ethan,2.734375,1.5625,51.953125,1.75,withdraw take buy
+Sarah,Ethan,2.734375,1.5625,51.953125,1.75,withdraw take buy
+Sarah,Ethan,2.734375,1.5625,51.953125,1.75,withdraw take buy
+Victor,Grace,3.3333333333333335,1.6666666666666667,41.66666666666667,2.0,go be wait
+Victor,Grace,4.5,1.0,62.5,4.5,be surprise energize be be tell
+Victor,Grace,4.5,1.0,62.5,4.5,be surprise energize be be tell
+Victor,Grace,4.5,1.0,62.5,4.5,be surprise energize be be tell
+Sarah,Ethan,1.5625,0.0,23.4375,INF,think tell
+Sarah,Ethan,1.5625,0.0,23.4375,INF,think tell
+Sarah,Ethan,0.0,0.0,33.33333333333333,INF,pull text
+Sarah,Ethan,0.0,0.0,33.33333333333333,INF,pull text
+Victor,Roger,2.8846153846153846,0.0,50.96153846153846,INF,nod wheel
+Victor,Roger,2.8846153846153846,0.0,50.96153846153846,INF,nod wheel
+Roger,Victor,1.5625,0.0,56.770833333333336,INF,sag be
+Victor,Roger,2.5,2.5,51.0,1.0,mumble push gather
+Roger,Victor,2.5,2.5,51.0,1.0,mumble push gather
+Victor,Grace,4.605263157894736,1.9736842105263157,56.57894736842105,2.3333333333333335,be think set take
+Grace,Victor,4.605263157894736,1.9736842105263157,56.57894736842105,2.3333333333333335,be think set take
+Mr. Delamonte,Victor,1.0,1.0,38.0,1.0,ask be plan snort
+Ethan,Sarah,11.904761904761903,5.952380952380952,44.047619047619044,2.0,think make
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Ethan,Sarah,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Ethan,Sarah,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Ethan,Sarah,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Sarah,Ethan,4.261363636363636,1.278409090909091,46.73295454545455,3.3333333333333335,be talk listen make seem have be think do talk confide have tell follow be let
+Alli,Victor,3.4574468085106385,1.3297872340425532,44.148936170212764,2.6,recite be run be throw be be wed look
+Roger,Victor,2.0348837209302326,0.0,60.75581395348837,INF,use work keep prop connect
+Roger,Victor,2.0348837209302326,0.0,60.75581395348837,INF,use work keep prop connect
+Roger,Victor,2.0348837209302326,0.0,60.75581395348837,INF,use work keep prop connect
+Roger,Victor,2.0348837209302326,0.0,60.75581395348837,INF,use work keep prop connect
+Alli,Victor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Alli,Victor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Alli,Victor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Alli,Dor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Alli,Victor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Victor,Dor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Victor,Dor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Victor,Dor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Dor,Victor,2.4193548387096775,0.0,55.64516129032258,INF,approach sit have address reach
+Victor,Nim,4.375,3.125,52.5,1.4,be seem be treat
+Dor,Victor,3.289473684210526,0.0,54.60526315789473,INF,notice furrow pull
+Dor,Victor,3.289473684210526,0.0,54.60526315789473,INF,notice furrow pull
+Dor,Victor,3.289473684210526,0.0,54.60526315789473,INF,notice furrow pull
+Sarah,Ethan,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,have need give
+Sarah,Ethan,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,have need give
+Ethan,Sarah,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,have need give
+Sarah,Ethan,3.4090909090909087,1.1363636363636365,45.45454545454545,3.0,have need give
+Sarah,Ethan,0.0,0.0,45.45454545454545,INF,keep text do respond
+Sarah,Ethan,0.0,0.0,45.45454545454545,INF,keep text do respond
+Sarah,Ethan,0.8928571428571428,4.464285714285714,44.642857142857146,0.2,follow speak
+Sarah,Ethan,0.8928571428571428,4.464285714285714,44.642857142857146,0.2,follow speak
+Sarah,Ethan,5.681818181818182,1.1363636363636365,65.9090909090909,5.0,know have
+Sarah,Ethan,0.78125,0.0,42.96875,INF,decide wait bump
+Sarah,Ethan,5.357142857142857,0.8928571428571428,50.89285714285714,6.0,have be count come
+Ethan,Sarah,0.0,3.125,38.54166666666667,0.0,dare defy
+Ethan,Sarah,0.0,3.125,38.54166666666667,0.0,dare defy
+Ethan,Sarah,6.25,0.0,43.75,INF,want
+Sarah,Ethan,2.083333333333333,0.0,56.25,INF,feel have
+Sarah,Eva,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Eva,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Eva,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Eva,Ashley,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Eva,Sarah,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Ashley,Sarah,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Ashley,Sarah,0.7142857142857143,1.7857142857142856,46.07142857142857,0.4,spot have know walk squeeze
+Sarah,Eva,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Ashley,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Eva,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Ashley,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Eva,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Ashley,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Eva,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Ashley,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Eva,Ashley,1.4285714285714286,0.35714285714285715,49.642857142857146,4.0,ring signal flick hear
+Sarah,Ethan,1.25,0.0,48.75,INF,feel be put leave
+Sarah,Ethan,1.25,0.0,48.75,INF,feel be put leave
+Ethan,Sarah,1.25,0.0,48.75,INF,feel be put leave
+Ethan,Sarah,2.4193548387096775,5.64516129032258,50.0,0.42857142857142855,believe be have be chase
+Ethan,Sarah,2.4193548387096775,5.64516129032258,50.0,0.42857142857142855,believe be have be chase
+Sarah,Ethan,2.4193548387096775,5.64516129032258,50.0,0.42857142857142855,believe be have be chase
+Sarah,Ethan,2.4193548387096775,5.64516129032258,50.0,0.42857142857142855,believe be have be chase
+Sarah,Ethan,1.25,0.0,28.749999999999996,INF,get text
+Sarah,Ethan,1.25,0.0,28.749999999999996,INF,get text
+Lorraine,Sarah,1.0416666666666665,1.0416666666666665,56.25,1.0,say think
+Lorraine,Ethan,1.0416666666666665,1.0416666666666665,56.25,1.0,say think
+Sarah,Ethan,1.0416666666666665,1.0416666666666665,56.25,1.0,say think
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,1.6025641025641024,1.282051282051282,48.3974358974359,1.25,cut have require take
+Sarah,Ethan,3.3333333333333335,1.6666666666666667,48.333333333333336,2.0,be have tell
+Dor,Sarah,1.7857142857142856,3.571428571428571,37.5,0.5,look puzzle
+Dor,Victor,4.166666666666666,0.0,45.83333333333333,INF,remember
+Dor,Victor,1.9230769230769231,0.0,59.61538461538461,INF,know be speak
+Dor,Victor,1.9230769230769231,0.0,59.61538461538461,INF,know be speak
+Roger,Charlene,2.5,0.0,50.83333333333333,INF,be head be
+Roger,Charlene,2.5,0.0,50.83333333333333,INF,be head be
+Charlene,Roger,2.5,0.0,50.83333333333333,INF,be head be
+Roger,Charlene,0.0,0.0,66.66666666666666,INF,notice
+Grace,Roger,0.0,0.0,72.72727272727273,INF,be ask be come
+Victor,Grace,0.0,0.0,57.14285714285714,INF,tell be cry
+Victor,Grace,1.0416666666666665,2.083333333333333,55.208333333333336,0.5,know have
+Ethan,Grace,0.0,0.0,50.0,INF,meet know be
+Ethan,Grace,0.0,0.0,50.0,INF,meet know be
+Sarah,Ethan,2.5,2.5,45.0,1.0,have reach
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Ethan,Sarah,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,1.0638297872340425,2.6595744680851063,51.59574468085106,0.4,leave have walk spark call dial answer
+Sarah,Ethan,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,hear say catch
+Ethan,Sarah,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,hear say catch
+Ethan,Sarah,0.8928571428571428,0.8928571428571428,48.214285714285715,1.0,hear say catch
+Ethan,Sarah,0.0,0.0,66.66666666666666,INF,do sound hear
+Ethan,Sarah,0.7142857142857143,0.0,59.285714285714285,INF,settle have go hang be have
+Sarah,Ethan,4.166666666666666,7.638888888888889,49.30555555555556,0.5454545454545454,try ignore distract figure be
+Sarah,Ethan,3.125,4.6875,29.6875,0.6666666666666666,think kiss
+Ethan,Sarah,3.125,4.6875,29.6875,0.6666666666666666,think kiss
+Ethan,Sarah,6.25,0.0,43.75,INF,want
+Sarah,Ethan,0.0,0.0,42.857142857142854,INF,let do
+Grace,Victor,2.7777777777777777,0.0,52.77777777777778,INF,wait come
+Lorraine,Sarah,0.0,0.0,62.5,INF,wait come
+Grace,Lorraine,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Grace,Victor,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Grace,Sarah,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Lorraine,Victor,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Lorraine,Sarah,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Victor,Sarah,2.380952380952381,2.380952380952381,52.38095238095239,1.0,include stop age
+Grace,Victor,0.0,0.0,66.66666666666666,INF,stay sleep
+Grace,Victor,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Grace,Victor,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Grace,Victor,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Victor,Grace,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Victor,Grace,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Grace,Victor,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,have accept know accept let be embrace
+Grace,Victor,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,hide tear ask bring
+Grace,Roger,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,hide tear ask bring
+Victor,Roger,1.7857142857142856,0.5952380952380952,59.523809523809526,3.0,hide tear ask bring
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Victor,1.9444444444444444,0.8333333333333334,48.333333333333336,2.3333333333333335,do be tell be hold be be
+Grace,Roger,5.46875,4.6875,46.09375,1.1666666666666667,do know be bring protect
+Grace,Victor,5.46875,4.6875,46.09375,1.1666666666666667,do know be bring protect
+Roger,Victor,5.46875,4.6875,46.09375,1.1666666666666667,do know be bring protect
+Grace,Victor,3.75,2.5,33.75,1.5,offer take let hold
+Grace,Victor,3.75,2.5,33.75,1.5,offer take let hold
+Grace,Victor,3.75,2.5,33.75,1.5,offer take let hold
+Victor,Grace,3.75,2.5,33.75,1.5,offer take let hold
+Victor,Grace,3.75,2.5,33.75,1.5,offer take let hold
+Grace,Victor,3.75,2.5,33.75,1.5,offer take let hold
+Victor,Grace,3.125,0.0,59.375,INF,see
+Roger,Jed,0.0,0.8333333333333334,45.83333333333333,0.0,happen choose be be pay
+Grace,Victor,0.0,0.0,38.46153846153847,INF,listen say
+Grace,Victor,0.0,0.0,38.46153846153847,INF,listen say
+Ethan,Victor,6.25,0.0,37.5,INF,be love
+Ethan,Victor,6.25,0.0,37.5,INF,be love
+P.M.,Victor,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Victor,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+P.M.,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Sarah,Victor,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Sarah,Victor,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Victor,Sarah,3.125,1.0416666666666665,59.72222222222222,3.0,become offer wrap contain engrave blurt feel have be hold explode have tell
+Sarah,Ethan,2.232142857142857,5.803571428571429,45.535714285714285,0.38461538461538464,have blow have look look
+Ethan,Sarah,2.232142857142857,5.803571428571429,45.535714285714285,0.38461538461538464,have blow have look look
+Ethan,Sarah,2.232142857142857,5.803571428571429,45.535714285714285,0.38461538461538464,have blow have look look
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Ethan,Sarah,5.253623188405797,1.0869565217391304,48.731884057971016,4.833333333333333,have kiss have want have push decide be bother know be have shut do desire be save be go come
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Ethan,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Ethan,Sarah,2.2222222222222223,0.2777777777777778,44.166666666666664,8.0,want call hit call see be fall drop
+Sarah,Victor,7.638888888888889,0.0,59.02777777777778,INF,have pause try understand
+Victor,Grace,3.787878787878788,0.0,59.84848484848485,INF,want tell be be do feel be go
+Victor,Grace,3.787878787878788,0.0,59.84848484848485,INF,want tell be be do feel be go
+Grace,Victor,3.787878787878788,0.0,59.84848484848485,INF,want tell be be do feel be go
+Grace,Victor,3.787878787878788,0.0,59.84848484848485,INF,want tell be be do feel be go
+Victor,Grace,3.571428571428571,1.0714285714285714,61.07142857142858,3.3333333333333335,include attend present
+Grace,Victor,0.0,0.0,38.46153846153847,INF,go say
+Sarah,Lorraine,0.0,0.0,62.5,INF,awake bang
+Lorraine,Sarah,3.571428571428571,0.4464285714285714,63.83928571428571,8.0,have be return have snuck lock
+Lorraine,Sarah,3.571428571428571,0.4464285714285714,63.83928571428571,8.0,have be return have snuck lock
+Lorraine,Sarah,3.571428571428571,0.4464285714285714,63.83928571428571,8.0,have be return have snuck lock
+Lorraine,Sarah,3.571428571428571,0.4464285714285714,63.83928571428571,8.0,have be return have snuck lock
+Sarah,Ethan,0.9259259259259258,0.0,43.51851851851852,INF,pound flop relive say say
+Sarah,Ethan,0.9259259259259258,0.0,43.51851851851852,INF,pound flop relive say say
+Sarah,Ethan,0.9259259259259258,0.0,43.51851851851852,INF,pound flop relive say say
+Sarah,Ethan,0.9259259259259258,0.0,43.51851851851852,INF,pound flop relive say say
+Sarah,Ethan,0.0,0.0,53.333333333333336,INF,begin cry see wrap sit
+Sarah,Ethan,0.0,0.0,53.333333333333336,INF,begin cry see wrap sit
+Ethan,Sarah,0.0,0.0,53.333333333333336,INF,begin cry see wrap sit
+Sarah,Ethan,8.928571428571429,3.571428571428571,44.642857142857146,2.5,think walk
+Sarah,Ethan,0.0,0.0,33.33333333333333,INF,write
+Sarah,Ethan,5.357142857142857,0.0,51.78571428571429,INF,have tell steer
+Sarah,Ethan,0.0,2.083333333333333,56.25,0.0,do want pop
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Ethan,Sarah,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Ethan,Sarah,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Ethan,Sarah,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Sarah,Ethan,3.5984848484848486,3.5984848484848486,39.77272727272727,1.0,start listen be go understand be put get say do take
+Ethan,Sarah,3.3653846153846154,2.403846153846154,48.07692307692308,1.4,have tell sympathize be be
+Sarah,Ethan,1.25,2.5,58.75,0.5,be be slap
+Sarah,Ethan,1.25,2.5,58.75,0.5,be be slap
+Sarah,Ethan,1.25,2.5,58.75,0.5,be be slap
+Ethan,Roger,3.125,2.083333333333333,48.95833333333333,1.5,make drink say sit
+Victor,Grace,5.0,1.25,63.74999999999999,4.0,have be
+Victor,Roger,1.3157894736842104,1.3157894736842104,44.73684210526316,1.0,call approach whisper
+Victor,Roger,1.3157894736842104,1.3157894736842104,44.73684210526316,1.0,call approach whisper
+Victor,Roger,1.3157894736842104,1.3157894736842104,44.73684210526316,1.0,call approach whisper
+Sarah,Tom,0.78125,0.0,74.21875,INF,be sit
+Lorraine,Sarah,1.0416666666666665,0.0,57.291666666666664,INF,go knock
+Ethan,Sarah,3.8194444444444446,1.3888888888888888,53.125,2.75,ask be think make admit be be drink
+Sarah,Ethan,3.8194444444444446,1.3888888888888888,53.125,2.75,ask be think make admit be be drink
+Sarah,Ethan,3.8194444444444446,1.3888888888888888,53.125,2.75,ask be think make admit be be drink
+Sarah,Ethan,3.8194444444444446,1.3888888888888888,53.125,2.75,ask be think make admit be be drink
+Sarah,Ethan,1.4285714285714286,2.5,44.642857142857146,0.5714285714285714,know face see know know be be
+Sarah,Ethan,1.4285714285714286,2.5,44.642857142857146,0.5714285714285714,know face see know know be be
+Sarah,Ethan,1.4285714285714286,2.5,44.642857142857146,0.5714285714285714,know face see know know be be
+Sarah,Ethan,1.4285714285714286,2.5,44.642857142857146,0.5714285714285714,know face see know know be be
+Sarah,Ethan,3.2407407407407405,3.2407407407407405,49.074074074074076,1.0,take rip join try climb
+Ethan,Sarah,3.2407407407407405,3.2407407407407405,49.074074074074076,1.0,take rip join try climb
+Ethan,Sarah,3.2407407407407405,3.2407407407407405,49.074074074074076,1.0,take rip join try climb
+Roger,Jed,2.083333333333333,0.0,39.58333333333333,INF,lower
+Roger,Victor,2.083333333333333,0.0,39.58333333333333,INF,lower
+Jed,Victor,2.083333333333333,0.0,39.58333333333333,INF,lower
+Victor,Jed,1.4705882352941175,0.0,51.470588235294116,INF,be be remove say promise take
+Victor,Jed,1.4705882352941175,0.0,51.470588235294116,INF,be be remove say promise take
+Sarah,Ford,1.0416666666666665,0.0,65.625,INF,have turn
+Sarah,Ethan,1.0,1.0,46.0,1.0,leave murmur picture walk
+Sarah,Ethan,1.0,1.0,46.0,1.0,leave murmur picture walk
+Sarah,Ethan,1.0,1.0,46.0,1.0,leave murmur picture walk
+Sarah,Ethan,1.0,1.0,46.0,1.0,leave murmur picture walk
+Ethan,Sarah,0.0,6.944444444444445,37.5,0.0,be tell
+Dor,Victor,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be
+Sarah,Victor,5.555555555555555,0.0,61.111111111111114,INF,have bring
+Victor,Sarah,0.0,0.0,61.53846153846154,INF,carry
+Victor,Sarah,0.0,1.7857142857142856,55.35714285714286,0.0,rest
+Victor,Sarah,1.8518518518518516,1.8518518518518516,44.44444444444444,1.0,lift surround bring place
+Victor,Sarah,1.8518518518518516,1.8518518518518516,44.44444444444444,1.0,lift surround bring place
+Victor,Sarah,1.8518518518518516,1.8518518518518516,44.44444444444444,1.0,lift surround bring place
+Victor,Sarah,1.8518518518518516,1.8518518518518516,44.44444444444444,1.0,lift surround bring place
+Victor,Alli,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Victor,Alli,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Alli,Victor,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Alli,Victor,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Alli,Victor,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Alli,Victor,1.8867924528301887,1.179245283018868,47.87735849056604,1.6,place whisper perish want be say push funnel separate have fall have
+Dor,Victor,2.5735294117647056,0.0,56.25,INF,be pass be travel traverse have transpire be be
+Victor,Sarah,3.125,0.0,34.375,INF,listen remind
+Sarah,Tom,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Sarah,Tom,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Sarah,Tom,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Sarah,Tom,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Tom,Sarah,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Tom,Sarah,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Tom,Sarah,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Tom,Sarah,2.586206896551724,1.7241379310344827,54.310344827586206,1.5,be stand run thin tell keep want be expect
+Ethan,Sarah,0.0,1.3888888888888888,65.27777777777779,0.0,put
+Ethan,Sarah,2.272727272727273,10.227272727272728,42.04545454545455,0.2222222222222222,replace
+Sarah,Ethan,1.5625,0.0,23.4375,INF,drop
+Ethan,Sarah,14.0625,7.8125,53.125,1.8,have want
+Ethan,Sarah,1.3157894736842104,3.289473684210526,32.23684210526316,0.4,expose have fear be
+Ethan,Sarah,1.3157894736842104,3.289473684210526,32.23684210526316,0.4,expose have fear be
+Ethan,Sarah,1.3157894736842104,3.289473684210526,32.23684210526316,0.4,expose have fear be
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Victor,Sarah,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Victor,Sarah,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,3.3333333333333335,0.8333333333333334,49.166666666666664,4.0,tell have tell
+Sarah,Victor,1.8518518518518516,1.3888888888888888,59.72222222222222,1.3333333333333333,be feel figure know let
+Sarah,Victor,1.8518518518518516,1.3888888888888888,59.72222222222222,1.3333333333333333,be feel figure know let
+Sarah,Victor,1.8518518518518516,1.3888888888888888,59.72222222222222,1.3333333333333333,be feel figure know let
+Sarah,Victor,1.8518518518518516,1.3888888888888888,59.72222222222222,1.3333333333333333,be feel figure know let
+Sarah,Ethan,2.5,1.875,40.625,1.3333333333333333,get feel soak
+Ethan,Sarah,2.5,1.875,40.625,1.3333333333333333,get feel soak
+Victor,Sarah,8.653846153846153,1.9230769230769231,50.96153846153846,4.5,look be paint
+Victor,Sarah,8.653846153846153,1.9230769230769231,50.96153846153846,4.5,look be paint
+Victor,Sarah,6.25,0.5208333333333333,59.895833333333336,12.0,be lie blink realize be stand
+Victor,Sarah,6.25,0.5208333333333333,59.895833333333336,12.0,be lie blink realize be stand
+Victor,Sarah,6.25,0.5208333333333333,59.895833333333336,12.0,be lie blink realize be stand
+Victor,Sarah,6.25,0.5208333333333333,59.895833333333336,12.0,be lie blink realize be stand
+Sarah,Victor,6.25,0.5208333333333333,59.895833333333336,12.0,be lie blink realize be stand
+Dor,Victor,2.7777777777777777,0.0,41.66666666666667,INF,try clear
+Victor,Sarah,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,see reattach realize be have guess
+Sarah,Victor,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,see reattach realize be have guess
+Sarah,Victor,6.0344827586206895,0.43103448275862066,48.706896551724135,14.0,see reattach realize be have guess
+Dor,Victor,7.8125,0.0,54.6875,INF,look
+Victor,Dor,0.0,0.0,52.94117647058824,INF,carve
+Dor,Alli,0.5952380952380952,0.0,42.26190476190476,INF,watch do cry pray
+Dor,Alli,0.5952380952380952,0.0,42.26190476190476,INF,watch do cry pray
+Dor,Sarah,0.5952380952380952,0.0,42.26190476190476,INF,watch do cry pray
+Alli,Sarah,0.5952380952380952,0.0,42.26190476190476,INF,watch do cry pray
+Alli,Sarah,0.5952380952380952,0.0,42.26190476190476,INF,watch do cry pray
+Alli,Asu,0.0,0.5681818181818182,63.06818181818182,0.0,be tell be do
+Sarah,Victor,2.7777777777777777,0.0,63.888888888888886,INF,look look
+Sarah,Victor,3.90625,2.34375,53.125,1.6666666666666667,be picture slump inhale lift become
+Dor,Victor,7.142857142857142,0.0,35.714285714285715,INF,rub
+Dor,Victor,0.0,0.0,40.0,INF,shake
+Dor,Victor,2.5,5.0,32.5,0.5,lift
+Dor,Sarah,0.0,0.0,40.0,INF,turn
+Victor,Sarah,8.928571428571429,0.0,48.214285714285715,INF,make stop say sound
+Sarah,Victor,4.6875,1.5625,68.75,3.0,stare
+Sarah,Victor,0.0,0.0,60.0,INF,study
+Dor,Victor,0.0,1.1363636363636365,53.40909090909091,0.0,look
+Dor,Victor,5.921052631578947,5.263157894736842,57.23684210526315,1.125,ask
+Dor,Victor,5.921052631578947,5.263157894736842,57.23684210526315,1.125,ask
+Dor,Victor,6.944444444444445,0.0,48.61111111111111,INF,smile say do know
+Dor,Victor,0.0,6.25,50.89285714285714,0.0,remember get
+Dor,Victor,0.0,6.25,50.89285714285714,0.0,remember get
+Dor,Sarah,0.0,0.0,60.0,INF,look remember
+Gildesh,Sarah,4.605263157894736,1.3157894736842104,57.23684210526315,3.5,wonder become be reject have be
+Gildesh,Sarah,4.605263157894736,1.3157894736842104,57.23684210526315,3.5,wonder become be reject have be
+Victor,Dor,0.0,0.0,40.0,INF,remove step
+Victor,Sarah,3.571428571428571,0.0,53.57142857142857,INF,motion
+Sarah,Victor,3.571428571428571,0.0,53.57142857142857,INF,motion
+Sarah,Victor,3.571428571428571,0.0,53.57142857142857,INF,say turn
+Victor,Sarah,0.0,0.0,80.0,INF,look
+Victor,Sarah,15.0,0.0,45.0,INF,take
+Sarah,Victor,14.583333333333334,0.0,52.083333333333336,INF,squeeze
+Sarah,Victor,5.681818181818182,6.8181818181818175,42.04545454545455,0.8333333333333334,nod grip descend
+Sarah,Victor,5.555555555555555,6.944444444444445,54.166666666666664,0.8,be like think
+Sarah,Victor,5.555555555555555,6.944444444444445,54.166666666666664,0.8,be like think
+Victor,Dor,6.25,0.0,43.75,INF,ask
+Sarah,Ethan,1.1363636363636365,0.0,35.22727272727273,INF,be
+Ethan,Sarah,0.9615384615384616,0.0,49.03846153846153,INF,be walk
+Sarah,Ethan,0.9615384615384616,0.0,49.03846153846153,INF,be walk
+Victor,Sarah,4.166666666666666,0.0,62.5,INF,notice
+Sarah,Victor,6.25,10.0,43.75,0.625,feel see
+Sarah,Ethan,3.571428571428571,7.142857142857142,39.285714285714285,0.5,be go do regret have do
+Sarah,Ethan,3.571428571428571,7.142857142857142,39.285714285714285,0.5,be go do regret have do
+Ethan,Sarah,8.928571428571429,3.571428571428571,58.92857142857143,2.5,be think
+Ethan,Sarah,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Ethan,Sarah,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Ethan,Sarah,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Sarah,Ethan,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Sarah,Ethan,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Sarah,Ethan,1.7857142857142856,1.7857142857142856,58.333333333333336,1.0,be mourn look have look
+Sarah,Ethan,0.625,1.25,38.125,0.5,start move smile lift say
+Sarah,Ethan,0.625,1.25,38.125,0.5,start move smile lift say
+Ethan,Sarah,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,open enter blow style dig
+Ethan,Sarah,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,open enter blow style dig
+Ethan,Sarah,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,open enter blow style dig
+Ethan,Sarah,1.6666666666666667,2.083333333333333,59.583333333333336,0.8,open enter blow style dig
+Sarah,Ethan,4.6875,4.6875,53.125,1.0,hear say be be blame
+Sarah,Ethan,1.0,5.0,42.0,0.2,sink be be torture
+Sarah,Ethan,1.0,5.0,42.0,0.2,sink be be torture
+Sarah,Ethan,1.0,5.0,42.0,0.2,sink be be torture
+Sarah,Ethan,1.0,5.0,42.0,0.2,sink be be torture
+Sarah,Ethan,4.296875,0.78125,57.421875,5.5,realize see grab have be declare
+Sarah,Ethan,4.296875,0.78125,57.421875,5.5,realize see grab have be declare
+Ethan,Sarah,4.296875,0.78125,57.421875,5.5,realize see grab have be declare
+Sarah,Ethan,4.296875,0.78125,57.421875,5.5,realize see grab have be declare
+Sarah,Dor,4.166666666666666,0.0,45.83333333333333,INF,look
+Sarah,Ethan,5.769230769230769,1.9230769230769231,53.84615384615385,3.0,like think do
+Sarah,Dor,0.0,0.0,20.0,INF,turn
+Sarah,Dor,3.125,0.78125,52.34375,4.0,be
+Sarah,Victor,3.125,0.78125,52.34375,4.0,be
+Dor,Victor,3.125,0.78125,52.34375,4.0,be
+Sarah,Mark,1.5625,1.5625,46.875,1.0,
+Mark,Lorraine,1.3157894736842104,3.289473684210526,58.55263157894737,0.4,try scratch
+Dor,Sarah,0.0,0.0,57.14285714285714,INF,step
+Mark,Lorraine,4.166666666666666,6.944444444444445,66.66666666666666,0.6,repeat have ask
+Sarah,Ethan,3.1818181818181817,3.4090909090909087,51.590909090909086,0.9333333333333333,want explain cause see expose shatter die seem
+Sarah,Ethan,3.1818181818181817,3.4090909090909087,51.590909090909086,0.9333333333333333,want explain cause see expose shatter die seem
+Sarah,Ethan,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,want blame blame
+Ethan,Sarah,1.9230769230769231,7.6923076923076925,28.846153846153843,0.25,want blame blame
+Ethan,Sarah,2.358490566037736,0.7075471698113208,45.990566037735846,3.3333333333333335,see see see have know take envelop say be be
+Ethan,Sarah,2.358490566037736,0.7075471698113208,45.990566037735846,3.3333333333333335,see see see have know take envelop say be be
+Ethan,Sarah,2.358490566037736,0.7075471698113208,45.990566037735846,3.3333333333333335,see see see have know take envelop say be be
+Ethan,Sarah,2.358490566037736,0.7075471698113208,45.990566037735846,3.3333333333333335,see see see have know take envelop say be be
+Ethan,Sarah,2.358490566037736,0.7075471698113208,45.990566037735846,3.3333333333333335,see see see have know take envelop say be be
+Sarah,Dor,2.5,2.5,55.00000000000001,1.0,see
+Dor,Sarah,11.11111111111111,2.7777777777777777,30.555555555555557,4.0,remove
+Dor,Sarah,0.0,0.0,44.44444444444444,INF,know be start heal
+Victor,Sarah,4.513888888888888,0.6944444444444444,58.68055555555556,6.5,have try kill look tell be bias be come like
+Victor,Sarah,4.513888888888888,0.6944444444444444,58.68055555555556,6.5,have try kill look tell be bias be come like
+Victor,Sarah,4.513888888888888,0.6944444444444444,58.68055555555556,6.5,have try kill look tell be bias be come like
+Sarah,Victor,7.142857142857142,4.017857142857143,49.55357142857143,1.7777777777777777,have be show have tell be
+Victor,Sarah,7.142857142857142,4.017857142857143,49.55357142857143,1.7777777777777777,have be show have tell be
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Grace,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Grace,Victor,2.717391304347826,1.358695652173913,56.79347826086957,2.0,doubt end have do love be look live do come
+Victor,Dor,1.3888888888888888,0.0,65.27777777777779,INF,watch be move
+Dor,Victor,1.3888888888888888,0.0,65.27777777777779,INF,watch be move
+Dor,Victor,3.977272727272727,0.0,50.56818181818182,INF,rise wipe look confuse
+Dor,Victor,3.977272727272727,0.0,50.56818181818182,INF,rise wipe look confuse
+Victor,Sarah,1.3888888888888888,4.166666666666666,61.111111111111114,0.3333333333333333,turn be see reveal
+Victor,Sarah,1.3888888888888888,4.166666666666666,61.111111111111114,0.3333333333333333,turn be see reveal
+Sarah,Victor,0.0,0.0,50.0,INF,step
+Dor,Jed,0.0,0.0,41.66666666666667,INF,answer open jed enter
+Victor,Grace,0.0,3.125,80.20833333333334,0.0,be follow wear
+Victor,Grace,0.0,0.0,55.55555555555556,INF,know learn
+Grace,Victor,0.0,0.0,55.55555555555556,INF,know learn
+Victor,Grace,0.0,11.25,58.75,0.0,imagine watch do
+Victor,Grace,0.0,11.25,58.75,0.0,imagine watch do
+Victor,Jed,0.0,4.166666666666666,62.5,0.0,see
+Victor,Grace,0.0,0.0,72.72727272727273,INF,see draw
+Grace,Jed,1.5625,0.0,35.9375,INF,thank watch go
+Grace,Jed,1.5625,0.0,35.9375,INF,thank watch go
+Grace,Victor,2.083333333333333,0.0,47.91666666666667,INF,be blurt
+Dor,Sarah,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,look look feel expose
+Dor,Victor,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,look look feel expose
+Dor,Victor,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,look look feel expose
+Sarah,Victor,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,look look feel expose
+Sarah,Victor,1.6666666666666667,0.8333333333333334,57.49999999999999,2.0,look look feel expose
+Victor,Sarah,0.9615384615384616,1.9230769230769231,66.34615384615384,0.5,glance look embarrass
+Victor,Dor,0.0,0.0,40.0,INF,turn
+Victor,Grace,0.29069767441860467,0.0,62.5,INF,see shake deliver look scan
+Victor,Grace,0.29069767441860467,0.0,62.5,INF,see shake deliver look scan
+Victor,Grace,0.29069767441860467,0.0,62.5,INF,see shake deliver look scan
+Victor,Grace,0.29069767441860467,0.0,62.5,INF,see shake deliver look scan
+Victor,Dor,0.0,0.0,50.0,INF,ask
+Dor,Victor,0.0,0.0,40.0,INF,wipe
+Victor,Dor,5.0,0.0,35.0,INF,spin
+Victor,Dor,2.5,0.0,45.5,INF,have accelerate realize be
+Victor,Dor,2.5,0.0,45.5,INF,have accelerate realize be
+Victor,Grace,3.125,0.0,71.875,INF,show watch leave
+Dor,Victor,0.0,0.0,60.0,INF,reach take
+Dor,Victor,4.166666666666666,0.0,58.79629629629629,INF,have take comprehend have tell share
+Victor,Sarah,0.9615384615384616,0.0,49.03846153846153,INF,grow speak be bear
+Victor,Sarah,0.9615384615384616,0.0,49.03846153846153,INF,grow speak be bear
+Victor,Sarah,0.9615384615384616,0.0,49.03846153846153,INF,grow speak be bear
+Victor,Sarah,0.9615384615384616,0.0,49.03846153846153,INF,grow speak be bear
+Sarah,Victor,0.9615384615384616,0.0,49.03846153846153,INF,grow speak be bear
+Victor,Alli,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Victor,Alli,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Victor,Alli,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Alli,Victor,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Alli,Victor,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Alli,Victor,0.26041666666666663,0.5208333333333333,51.302083333333336,0.5,speak invent make bowl visit imprison
+Victor,Dor,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Victor,Nim,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Victor,Sarah,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Dor,Nim,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Dor,Sarah,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Dor,Victor,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Nim,Sarah,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Nim,Victor,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Sarah,Victor,4.0625,2.8125,40.625,1.4444444444444444,seem speak climb whisper mumble be
+Victor,Dor,4.75,1.0,50.24999999999999,4.75,reach place let see
+Victor,Dor,4.75,1.0,50.24999999999999,4.75,reach place let see
+Dor,Victor,4.75,1.0,50.24999999999999,4.75,reach place let see
+Dor,Victor,4.75,1.0,50.24999999999999,4.75,reach place let see
+Dor,Victor,4.75,1.0,50.24999999999999,4.75,reach place let see
+Victor,Dor,1.6304347826086956,0.0,46.19565217391305,INF,view attempt escape pound crawl
+Dor,Victor,1.6304347826086956,0.0,46.19565217391305,INF,view attempt escape pound crawl
+Dor,Victor,1.6304347826086956,0.0,46.19565217391305,INF,view attempt escape pound crawl
+Dor,Victor,0.0,0.0,40.0,INF,shake
+Sarah,Dor,1.25,2.5,36.25,0.5,lift
+Dor,Sarah,1.25,2.5,36.25,0.5,lift
+Sarah,Victor,2.272727272727273,5.681818181818182,37.5,0.4,take tell
+Dor,Victor,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,see lean perspire blotch be
+Dor,Victor,1.3392857142857142,1.3392857142857142,47.32142857142857,1.0,see lean perspire blotch be
+Dor,Nim,0.0,0.0,44.44444444444444,INF,see run
+Victor,Sarah,1.6666666666666667,0.0,51.66666666666667,INF,let go
+Sarah,Victor,1.6666666666666667,0.0,51.66666666666667,INF,let go
+Sarah,Victor,5.0,3.0,56.00000000000001,1.6666666666666667,be
+Sarah,Victor,2.5,1.25,66.25,2.0,hold remove
+Dor,Victor,1.282051282051282,0.3205128205128205,54.807692307692314,4.0,do have see do pour spread have spread
+Victor,Sarah,3.75,5.0,31.25,0.75,assure
+Victor,Sarah,1.1363636363636365,0.0,62.5,INF,walk go drift
+Victor,Dor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Dor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Dor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Dor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Dor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Victor,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Dor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Grace,6.743421052631579,4.605263157894736,59.70394736842105,1.4642857142857142,look be realize have be be have be have choose paint hope realize have be
+Victor,Dor,0.0,0.0,44.44444444444444,INF,slip
+Dor,Victor,6.25,3.125,28.125,2.0,be close
+Sarah,Ethan,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Sarah,Ethan,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Sarah,Ethan,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Sarah,Ethan,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Sarah,Ethan,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Ethan,Sarah,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Ethan,Sarah,7.8125,0.5208333333333333,45.83333333333333,15.0,clear stop throb remind have be have ring program signal call wish
+Sarah,Victor,3.8461538461538463,0.0,65.38461538461539,INF,be name
+Victor,Roger,3.4722222222222223,2.7777777777777777,54.861111111111114,1.25,be lift pop open see
+Victor,Roger,3.4722222222222223,2.7777777777777777,54.861111111111114,1.25,be lift pop open see
+Victor,Roger,3.4722222222222223,2.7777777777777777,54.861111111111114,1.25,be lift pop open see
+Victor,Roger,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Victor,Roger,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Roger,Victor,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Roger,Victor,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Roger,Victor,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Victor,Roger,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Victor,Roger,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Victor,Roger,3.723404255319149,1.0638297872340425,52.659574468085104,3.5,have instruct whisper change signal say abort
+Roger,Grace,0.8620689655172413,0.0,50.86206896551724,INF,follow do listen be
+Roger,Grace,0.8620689655172413,0.0,50.86206896551724,INF,follow do listen be
+Roger,Grace,0.8620689655172413,0.0,50.86206896551724,INF,follow do listen be
+Roger,Grace,0.8620689655172413,0.0,50.86206896551724,INF,follow do listen be
+Roger,Sarah,1.488095238095238,5.059523809523809,57.738095238095234,0.29411764705882354,introduce express have find save be
+Roger,Lorraine,1.0,0.0,47.0,INF,introduce stand hold smile
+Roger,Lorraine,1.0,0.0,47.0,INF,introduce stand hold smile
+Roger,Lorraine,1.0,0.0,47.0,INF,introduce stand hold smile
+Roger,Lorraine,1.0,0.0,47.0,INF,introduce stand hold smile
+Lorraine,Roger,1.0,0.0,47.0,INF,introduce stand hold smile
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Sarah,Victor,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Sarah,4.315476190476191,2.5297619047619047,58.63095238095239,1.7058823529411764,note have be name be apply have bequeath go be change die have find
+Victor,Grace,1.4705882352941175,2.2058823529411766,49.26470588235294,0.6666666666666666,say be
+Dor,Alli,1.8867924528301887,1.8867924528301887,60.37735849056604,1.0,be lift name name run barefoot toss laugh cross

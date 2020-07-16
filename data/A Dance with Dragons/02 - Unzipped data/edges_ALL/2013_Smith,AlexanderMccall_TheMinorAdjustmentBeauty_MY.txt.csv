@@ -1,0 +1,884 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Ladies ' Detective Agency,Mma Ramotswe,4.044117647058823,2.7573529411764706,57.904411764705884,1.4666666666666666,mind have make have make have manage juggle end break provide practise call
+Mma Ramotswe,Mma Makutsi,1.4705882352941175,1.2254901960784315,54.166666666666664,1.2,read have be take believe turn see maximise
+Mr. J.L.B. Matekoni,Tlokweng Road Speedy Motors,4.6875,1.5625,34.375,3.0,think share wonder fare
+Mr. J.L.B. Matekoni,Fanwell,3.977272727272727,0.0,46.02272727272727,INF,have be qualify
+Mr. J.L.B. Matekoni,Fanwell,3.977272727272727,0.0,46.02272727272727,INF,have be qualify
+Mr. J.L.B. Matekoni,Mma Ramotswe,4.166666666666666,0.6944444444444444,50.69444444444444,6.0,have look have mislay
+Mma Ramotswe,Obed Ramotswe,3.75,4.75,43.5,0.7894736842105263,be give take feel be find explain have happen
+Mma Ramotswe,Obed Ramotswe,3.75,4.75,43.5,0.7894736842105263,be give take feel be find explain have happen
+Charlie,Mma Makutsi,0.0,0.0,40.909090909090914,INF,defend do ask walk
+Charlie,Mr. J.L.B. Matekoni,0.8333333333333334,1.6666666666666667,54.166666666666664,0.5,be fix
+Mma Makutsi,Mma Ramotswe,3.8194444444444446,2.7777777777777777,43.40277777777778,1.375,have be say be surround be resolve
+Mma Makutsi,Mma Ramotswe,3.8194444444444446,2.7777777777777777,43.40277777777778,1.375,have be say be surround be resolve
+Mma Makutsi,Ladies ' Detective Agency,1.6129032258064515,7.661290322580645,45.564516129032256,0.21052631578947367,be be seem be talk
+Mma Ramotswe,Mr. J.L.B. Matekoni,3.308823529411765,0.0,49.63235294117647,INF,have discuss do have raise
+Mma Ramotswe,Mr. J.L.B. Matekoni,3.308823529411765,0.0,49.63235294117647,INF,have discuss do have raise
+Mr. J.L.B. Matekoni,Mma Makutsi,6.0,1.0,41.0,6.0,have forget say
+Mma Makutsi,Rra Molapo,0.0,0.0,0.0,INF,
+Mma Ramotswe,Mr. J.L.B. Matekoni,3.571428571428571,0.0,39.285714285714285,INF,look
+Mma Ramotswe,Mr. J.L.B. Matekoni,1.1363636363636365,0.0,39.77272727272727,INF,do have encourage
+Mr. J.L.B. Matekoni,Mma Ramotswe,1.875,1.25,46.875,1.5,look be
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.0,4.464285714285714,45.535714285714285,0.0,be speak strike
+Mr. J.L.B. Matekoni,Mma Makutsi,3.125,7.291666666666667,47.91666666666667,0.42857142857142855,listen wonder be try hide
+Mr. J.L.B. Matekoni,Mma Makutsi,3.125,7.291666666666667,47.91666666666667,0.42857142857142855,listen wonder be try hide
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.0,3.90625,52.34375,0.0,identify be use
+Mr. J.L.B. Matekoni,Mma Ramotswe,3.787878787878788,2.272727272727273,45.45454545454545,1.6666666666666667,shake be
+Mr. J.L.B. Matekoni,Mma Ramotswe,3.787878787878788,2.272727272727273,45.45454545454545,1.6666666666666667,shake be
+Mr. J.L.B. Matekoni,Rra Molapo,5.241935483870968,4.032258064516129,39.11290322580645,1.3,notice have guess say have be
+Mr. J.L.B. Matekoni,Mma Makutsi,3.77906976744186,1.744186046511628,45.63953488372093,2.1666666666666665,be say add say have think have work
+Puso,Mr. J.L.B. Matekoni,0.0,1.5625,29.6875,0.0,teach cook mutter
+Mma Makutsi,Mma Ramotswe,2.8846153846153846,0.0,27.884615384615387,INF,understand say
+Mma Ramotswe,Mr. J.L.B. Matekoni,2.5,1.25,41.25,2.0,tell shake
+Mma Ramotswe,Mr. J.L.B. Matekoni,2.5,1.25,41.25,2.0,tell shake
+Mma Ramotswe,Mr. J.L.B. Matekoni,2.5,1.25,41.25,2.0,tell shake
+Mma Ramotswe,Mr. J.L.B. Matekoni,1.5625,3.125,45.3125,0.5,be have mention say
+Mma Ramotswe,Mr. J.L.B. Matekoni,2.0,1.5,36.5,1.3333333333333333,be say add
+Mma Ramotswe,Mma Makutsi,0.0,2.34375,50.78125,0.0,lie be be say come
+Mma Makutsi,Mma Ramotswe,0.0,2.34375,50.78125,0.0,lie be be say come
+Mma Kutso,Mma Ramotswe,1.7500000000000002,0.75,53.5,2.3333333333333335,say be gaze draw nose be occupy
+Mma Kutso,Mma Ramotswe,1.6129032258064515,0.8064516129032258,45.96774193548387,2.0,watch be be observe moisten dab
+Mma Sheba,Mma Makutsi,10.15625,0.78125,20.3125,13.0,be know
+Mma Makutsi,Mma Ramotswe,0.0,0.0,18.181818181818183,INF,ask
+Mma Ramotswe,Mma Sheba,3.2407407407407405,6.481481481481481,49.53703703703704,0.5,think do say have do have enter
+Mma Ramotswe,Mma Sheba,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Ramotswe,Mr. J.L.B. Matekoni,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Ramotswe,Motholeli,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Ramotswe,Puso,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Sheba,Mr. J.L.B. Matekoni,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Sheba,Motholeli,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Sheba,Puso,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mr. J.L.B. Matekoni,Motholeli,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mr. J.L.B. Matekoni,Puso,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Motholeli,Puso,4.583333333333333,2.083333333333333,36.666666666666664,2.2,greet ask
+Mma Sheba,Mr. J.L.B. Matekoni,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Sheba,Motholeli,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Sheba,Puso,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Sheba,Mr. J.L.B. Matekoni,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mr. J.L.B. Matekoni,Motholeli,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mr. J.L.B. Matekoni,Mma Sheba,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mr. J.L.B. Matekoni,Puso,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Motholeli,Mma Sheba,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Motholeli,Puso,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Motholeli,Mr. J.L.B. Matekoni,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Sheba,Puso,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Sheba,Mr. J.L.B. Matekoni,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Puso,Mr. J.L.B. Matekoni,2.86144578313253,2.4096385542168677,56.174698795180724,1.1875,receive be do lose have suffer have be deal be be grow seem have leave run ride
+Mma Makutsi,Mma Sheba,2.631578947368421,1.3157894736842104,38.15789473684211,2.0,have be smile
+Mma Makutsi,Mma Sheba,4.166666666666666,0.0,22.5,INF,be hear say
+Mma Sheba,Phuti,2.631578947368421,1.9736842105263157,42.76315789473684,1.3333333333333333,do think be say have
+Mma Sheba,Mma Makutsi,0.0,0.0,25.0,INF,glare
+Mma Sheba,Mma Ramotswe,0.0,0.0,25.0,INF,glare
+Mma Makutsi,Mma Ramotswe,0.0,0.0,25.0,INF,glare
+Mma Ramotswe,Charlie,1.6025641025641024,1.9230769230769231,52.88461538461539,0.8333333333333334,mean say be spend chase
+Mma Sheba,Mma Ramotswe,0.0,0.0,37.5,INF,look
+Mma Ramotswe,Mma Makutsi,0.0,1.25,48.75,0.0,throw
+Mma Makutsi,Mma Ramotswe,1.3888888888888888,1.8518518518518516,26.38888888888889,0.75,say be like
+Mma Makutsi,Mma Sheba,1.3888888888888888,1.8518518518518516,26.38888888888889,0.75,say be like
+Mma Ramotswe,Mma Sheba,1.3888888888888888,1.8518518518518516,26.38888888888889,0.75,say be like
+bush,Mma Makutsi,0.6578947368421052,5.263157894736842,36.18421052631579,0.125,like say hover
+bush,Mma Sheba,0.6578947368421052,5.263157894736842,36.18421052631579,0.125,like say hover
+Mma Makutsi,Mma Sheba,0.6578947368421052,5.263157894736842,36.18421052631579,0.125,like say hover
+Mma Sheba,Mma Makutsi,1.5,2.5,36.0,0.6,let look interfere
+bush,Mma Sheba,0.0,2.6785714285714284,47.32142857142857,0.0,think try say
+Mma Ramotswe,Mma Sheba,1.6304347826086956,3.260869565217391,55.97826086956522,0.5,barb be be ignore look
+Mma Ramotswe,Mma Sheba,1.0416666666666665,2.604166666666667,54.6875,0.4,have find seat
+Mma Makutsi,Mma Ramotswe,2.34375,3.90625,43.75,0.6,have have say
+Mma Makutsi,Mma Sheba,0.0,2.272727272727273,25.0,0.0,excuse say
+Mma Sheba,Mma Ramotswe,1.0416666666666665,0.5208333333333333,35.9375,2.0,have end make talk
+Mma Makutsi,Mma Ramotswe,0.8928571428571428,1.7857142857142856,25.892857142857146,0.5,say
+Mma Makutsi,Mma Ramotswe,0.0,0.0,18.181818181818183,INF,prompt
+Mma Ramotswe,Mma Sheba,3.4722222222222223,0.6944444444444444,34.72222222222222,5.0,know say be
+Mma Makutsi,Mma Sheba,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,have make bring place
+Mma Makutsi,Mma Ramotswe,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,have make bring place
+Mma Makutsi,Mma Sheba,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,have make bring place
+Mma Sheba,Mma Ramotswe,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,have make bring place
+Mma Ramotswe,Mma Sheba,1.1904761904761905,1.1904761904761905,40.476190476190474,1.0,have make bring place
+bush,Mma Sheba,0.0,3.4090909090909087,32.95454545454545,0.0,be say
+Mma Sheba,Mma Ramotswe,4.761904761904762,4.166666666666666,24.404761904761905,1.1428571428571428,thank be please see disappear
+Mma Sheba,Mma Makutsi,4.761904761904762,4.166666666666666,24.404761904761905,1.1428571428571428,thank be please see disappear
+Mma Sheba,Mma Ramotswe,4.761904761904762,4.166666666666666,24.404761904761905,1.1428571428571428,thank be please see disappear
+Mma Sheba,Mma Makutsi,4.761904761904762,4.166666666666666,24.404761904761905,1.1428571428571428,thank be please see disappear
+Mma Ramotswe,Mma Makutsi,4.761904761904762,4.166666666666666,24.404761904761905,1.1428571428571428,thank be please see disappear
+Mma Ramotswe,Obed Ramotswe,0.5681818181818182,0.0,31.25,INF,think refer
+Mma Ramotswe,Mma Sheba,0.0,0.0,25.0,INF,hold gaze
+Motholeli,Puso,6.730769230769231,2.403846153846154,21.634615384615387,2.8,be think have be love
+Mma Makutsi,Mma Sheba,0.8333333333333334,4.166666666666666,28.333333333333332,0.2,wait say do
+Mma Sheba,Rra Edgar,3.125,1.5625,39.0625,2.0,say die
+Rra Edgar,Mma Ramotswe,3.8461538461538463,1.4423076923076923,48.55769230769231,2.6666666666666665,say be have last do
+Rra Edgar,Mma Ramotswe,3.8461538461538463,1.4423076923076923,48.55769230769231,2.6666666666666665,say be have last do
+Obed Ramotswe,Mma Sheba,5.0,1.5,53.5,3.3333333333333335,obe have be think have miss
+Obed Ramotswe,Mma Sheba,5.0,1.5,53.5,3.3333333333333335,obe have be think have miss
+Rra Edgar,Mma Sheba,2.2058823529411766,0.0,56.61764705882353,INF,have ask draw go
+Mma Sheba,Ladies ' Detective Agency,1.1904761904761905,0.0,65.47619047619048,INF,be have make open
+Mma Ramotswe,Mma Sheba,2.7777777777777777,0.0,41.66666666666667,INF,think know get
+Mma Makutsi,Mma Sheba,5.357142857142857,7.142857142857142,23.214285714285715,0.75,fear be say
+Mma Ramotswe,Mma Sheba,0.0,0.0,42.857142857142854,INF,draw
+Mma Sheba,Mma Makutsi,0.0,0.0,33.33333333333333,INF,turn address
+Mma Sheba,Rra Edgar,0.0,1.3392857142857142,59.375,0.0,sketch
+Mma Sheba,Rra Edgar,0.0,1.3392857142857142,59.375,0.0,sketch
+Mma Makutsi,Mma Sheba,1.4705882352941175,0.0,33.82352941176471,INF,do investigate say
+Phuti,Grace,1.4705882352941175,1.8382352941176472,55.51470588235294,0.8,be have build stand clear
+Phuti,bush,1.4705882352941175,1.8382352941176472,55.51470588235294,0.8,be have build stand clear
+Grace,bush,1.4705882352941175,1.8382352941176472,55.51470588235294,0.8,be have build stand clear
+Grace,Phuti,4.807692307692308,6.25,58.17307692307693,0.7692307692307693,have prefer have despatch do believe kill
+Grace,bush,4.807692307692308,6.25,58.17307692307693,0.7692307692307693,have prefer have despatch do believe kill
+Phuti,bush,4.807692307692308,6.25,58.17307692307693,0.7692307692307693,have prefer have despatch do believe kill
+Mma Sheba,Ladies ' Detective Agency,0.0,0.0,44.0,INF,return
+Mma Sheba,Mma Makutsi,0.0,0.0,44.0,INF,return
+Ladies ' Detective Agency,Mma Makutsi,0.0,0.0,44.0,INF,return
+Mma Sheba,Mma Ramotswe,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Mma Sheba,Mma Ramotswe,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Mma Ramotswe,Mma Sheba,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Mma Ramotswe,Mma Sheba,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Mma Sheba,Mma Ramotswe,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Mma Ramotswe,Mma Sheba,3.4090909090909087,0.7575757575757576,44.31818181818182,4.5,explain be feel have be have suggest go take
+Phuti,Mma Makutsi,0.0,0.0,27.27272727272727,INF,listen say
+Mma Makutsi,Mealies,1.5,1.5,56.99999999999999,1.0,be agree be try arrive
+Mealies,Phuti,0.4166666666666667,0.4166666666666667,65.83333333333333,1.0,be stay be return follow be bed
+Mealies,Phuti,0.4166666666666667,0.4166666666666667,65.83333333333333,1.0,be stay be return follow be bed
+bush,Phuti,0.6756756756756757,1.6891891891891893,57.0945945945946,0.4,be have make cut give
+Mma Ramotswe,Mr. J.L.B. Matekoni,3.0303030303030303,1.1363636363636365,50.378787878787875,2.6666666666666665,have plant have give be surround arrange
+Mr. J.L.B. Matekoni,Motholeli,2.9166666666666665,0.8333333333333334,39.58333333333333,3.5,drive be get
+Mr. J.L.B. Matekoni,Mma Ramotswe,2.9166666666666665,0.8333333333333334,39.58333333333333,3.5,drive be get
+Motholeli,Mr. J.L.B. Matekoni,2.9166666666666665,0.8333333333333334,39.58333333333333,3.5,drive be get
+Motholeli,Mma Ramotswe,2.9166666666666665,0.8333333333333334,39.58333333333333,3.5,drive be get
+Mr. J.L.B. Matekoni,Mma Ramotswe,2.9166666666666665,0.8333333333333334,39.58333333333333,3.5,drive be get
+Puso,Mr. J.L.B. Matekoni,5.0,0.4166666666666667,51.24999999999999,12.0,have go prefer make feel be be be
+Puso,Mr. J.L.B. Matekoni,5.0,0.4166666666666667,51.24999999999999,12.0,have go prefer make feel be be be
+Puso,Mr. J.L.B. Matekoni,5.0,0.4166666666666667,51.24999999999999,12.0,have go prefer make feel be be be
+Mr. J.L.B. Matekoni,Mma Makutsi,0.8152173913043478,3.260869565217391,50.27173913043478,0.25,imagine be be sit catch flash
+Mma Makutsi,Mr. J.L.B. Matekoni,0.8152173913043478,3.260869565217391,50.27173913043478,0.25,imagine be be sit catch flash
+Mma Makutsi,Mr. J.L.B. Matekoni,0.8152173913043478,3.260869565217391,50.27173913043478,0.25,imagine be be sit catch flash
+Bobonong,Mr. J.L.B. Matekoni,0.0,0.0,27.77777777777778,INF,muse be look
+Bobonong,Mma Makutsi,0.0,0.0,27.77777777777778,INF,muse be look
+Mr. J.L.B. Matekoni,Mma Makutsi,0.0,0.0,27.77777777777778,INF,muse be look
+Mr. J.L.B. Matekoni,Obed Ramotswe,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,be have be bear bring
+Mr. J.L.B. Matekoni,Obed Ramotswe,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,be have be bear bring
+Mr. J.L.B. Matekoni,Obed Ramotswe,1.7857142857142856,0.4464285714285714,44.19642857142857,4.0,be have be bear bring
+Mma Makutsi,Botswana Secretarial College,1.0135135135135136,3.040540540540541,50.0,0.3333333333333333,be see happen be
+Ladies ' Detective Agency,Mr. J.L.B. Matekoni,1.3513513513513513,0.0,52.702702702702695,INF,reach have arrive share
+Ladies ' Detective Agency,Tlokweng Road Speedy Motors,1.3513513513513513,0.0,52.702702702702695,INF,reach have arrive share
+Mr. J.L.B. Matekoni,Tlokweng Road Speedy Motors,1.3513513513513513,0.0,52.702702702702695,INF,reach have arrive share
+Tlokweng Road Speedy Motors,Mma Ramotswe,2.232142857142857,1.7857142857142856,58.48214285714286,1.25,be talk have bring notice seem be break bring buy
+Tlokweng Road Speedy Motors,Mma Ramotswe,2.232142857142857,1.7857142857142856,58.48214285714286,1.25,be talk have bring notice seem be break bring buy
+Mma Ramotswe,Mr. J.L.B. Matekoni,4.924242424242424,0.7575757575757576,45.83333333333333,6.5,understand love have resist trade
+Botswana Secretarial College,Violet Sephotho,2.5943396226415096,2.1226415094339623,57.54716981132076,1.2222222222222223,have point be learn be learn do include learn distract
+Mma Sheba,Rra Edgar,4.166666666666666,2.976190476190476,35.714285714285715,1.4,seem be doubt
+Mma Sheba,Rra Edgar,4.166666666666666,2.976190476190476,35.714285714285715,1.4,seem be doubt
+Mma Sheba,Liso,3.571428571428571,1.530612244897959,47.95918367346938,2.3333333333333335,be say be have be come stay be be
+Mma Sheba,Liso,3.571428571428571,1.530612244897959,47.95918367346938,2.3333333333333335,be say be have be come stay be be
+Mma Makutsi,Mma Ramotswe,3.75,0.0,16.25,INF,be wonder
+Bobonong,Mma Ramotswe,7.352941176470589,1.4705882352941175,38.23529411764706,5.0,be go
+Mma Ramotswe,Phuti,4.166666666666666,7.638888888888889,49.30555555555556,0.5454545454545454,imagine be involve
+Phuti,Mma Makutsi,16.0,3.5000000000000004,32.5,4.571428571428571,be have make
+Mma Ramotswe,Phuti,1.1363636363636365,0.0,44.31818181818182,INF,reach pat
+Mma Ramotswe,Phuti,3.9473684210526314,1.3157894736842104,47.368421052631575,3.0,know have meet
+Phuti,Mma Makutsi,4.391891891891892,3.040540540540541,38.513513513513516,1.4444444444444444,be have try come
+Grace,Rra Molapo,5.208333333333334,4.166666666666666,32.29166666666667,1.25,suppose be
+Grace,Mma Ramotswe,1.6666666666666667,5.0,33.33333333333333,0.3333333333333333,tell be advise
+Clovis Andersen,Mma Makutsi,1.7857142857142856,0.4464285714285714,51.33928571428571,4.0,be have serve
+Grace,Clovis Andersen,2.7777777777777777,3.4722222222222223,49.30555555555556,0.8,say have discuss say
+Phuti,Mma Ramotswe,4.166666666666666,6.547619047619048,41.66666666666667,0.6363636363636364,look puzzle occur have understand mean
+Phuti,Clovis Andersen,4.166666666666666,6.547619047619048,41.66666666666667,0.6363636363636364,look puzzle occur have understand mean
+Mma Ramotswe,Clovis Andersen,4.166666666666666,6.547619047619048,41.66666666666667,0.6363636363636364,look puzzle occur have understand mean
+Phuti,Clovis Andersen,0.0,0.0,40.0,INF,shake
+Mma Ramotswe,Phuti,3.571428571428571,0.0,39.285714285714285,INF,look
+Mma Makutsi,Phuti,0.0,3.4090909090909087,14.772727272727273,0.0,say
+Motholeli,Puso,0.0,0.0,57.14285714285714,INF,have look
+Mma Ramotswe,Mma Makutsi,1.9736842105263157,0.0,40.131578947368425,INF,have buy take go see
+Mma Makutsi,Mma Ramotswe,1.9736842105263157,0.0,40.131578947368425,INF,have buy take go see
+Mma Makutsi,Mma Ramotswe,1.9736842105263157,0.0,40.131578947368425,INF,have buy take go see
+Mma Makutsi,Mma Ramotswe,1.9736842105263157,0.0,40.131578947368425,INF,have buy take go see
+Mma Ramotswe,Phuti,1.0638297872340425,0.0,58.51063829787234,INF,follow ring tell be come be visit
+Phuti,Mma Ramotswe,1.0638297872340425,0.0,58.51063829787234,INF,follow ring tell be come be visit
+Phuti,Mma Ramotswe,1.0638297872340425,0.0,58.51063829787234,INF,follow ring tell be come be visit
+Phuti,Mma Ramotswe,1.0638297872340425,0.0,58.51063829787234,INF,follow ring tell be come be visit
+Grace,Mma Ramotswe,3.4722222222222223,2.7777777777777777,49.30555555555556,1.25,be go have speak have stand suggest
+Grace,Phuti,2.8846153846153846,0.9615384615384616,42.30769230769231,3.0,be look see say
+Mma Ramotswe,Grace,1.9230769230769231,9.615384615384617,26.923076923076923,0.2,be want
+Mma Makutsi,Phuti,2.1341463414634148,5.182926829268292,51.21951219512195,0.4117647058823529,have tell be be come come
+Phuti,Dr. Moffat,3.453947368421053,6.578947368421052,45.23026315789473,0.525,be try listen talk urge hurry be be tell understand
+Phuti,Dr. Moffat,3.453947368421053,6.578947368421052,45.23026315789473,0.525,be try listen talk urge hurry be be tell understand
+Mma Ramotswe,Mma Makutsi,1.3888888888888888,1.3888888888888888,56.481481481481474,1.0,think have agree
+Mma Makutsi,Mma Ramotswe,1.875,0.0,48.125,INF,be return close
+Ladies ' Detective Agency,Mma Ramotswe,3.75,5.0,53.75,0.75,have be be have note
+Mma Ramotswe,Mr. J.L.B. Matekoni,1.0416666666666665,0.0,57.291666666666664,INF,have meet bring
+Mmakosi,Phuti,4.166666666666666,2.9166666666666665,46.25,1.4285714285714286,be do know be be
+Charlie,Fanwell,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be wear
+Mr. J.L.B. Matekoni,Mma Makutsi,2.302857142857143,1.2685714285714287,47.85714285714286,1.8153153153153154,be smile
+Mma Makutsi,Mmakosi,0.0,0.0,20.0,INF,say
+Mma Ramotswe,Mmakosi,1.1363636363636365,1.5151515151515151,64.01515151515152,0.75,leave be contain stuff stuff
+Mmakosi,Mma Ramotswe,3.8461538461538463,3.205128205128205,46.794871794871796,1.2,be make dye have be choose have convince be
+Mmakosi,Phuti,3.8461538461538463,3.205128205128205,46.794871794871796,1.2,be make dye have be choose have convince be
+Mma Ramotswe,Phuti,3.8461538461538463,3.205128205128205,46.794871794871796,1.2,be make dye have be choose have convince be
+Mma Makutsi,Mmakosi,2.083333333333333,0.5208333333333333,39.0625,4.0,be like believe say
+Mma Ramotswe,Mmakosi,1.7045454545454544,2.272727272727273,32.38636363636363,0.75,be astonish have know express
+Mma Ramotswe,Mma Makutsi,1.7045454545454544,2.272727272727273,32.38636363636363,0.75,be astonish have know express
+Mmakosi,Mma Makutsi,1.7045454545454544,2.272727272727273,32.38636363636363,0.75,be astonish have know express
+Violet Sephotho,Mma Makutsi,6.173333333333334,2.16,51.66666666666667,2.858024691358025,seem have dedicate be go have get have fail
+Violet Sephotho,Botswana Secretarial College,6.173333333333334,2.16,51.66666666666667,2.858024691358025,seem have dedicate be go have get have fail
+Mma Makutsi,Botswana Secretarial College,6.173333333333334,2.16,51.66666666666667,2.858024691358025,seem have dedicate be go have get have fail
+Mma Ramotswe,Mma Makutsi,5.113636363636364,2.272727272727273,33.52272727272727,2.25,examine have be select
+Mma Makutsi,Mma Ramotswe,4.487179487179487,4.166666666666666,45.19230769230769,1.0769230769230769,tickle think be give have take be design
+Mma Ramotswe,Mmakosi,0.0,0.0,16.666666666666664,INF,say
+Mma Sheba,Liso,2.083333333333333,4.166666666666666,43.75,0.5,be be have be go
+Mma Sheba,Liso,2.083333333333333,4.166666666666666,43.75,0.5,be be have be go
+Mma Ramotswe,Mma Soleti,6.707317073170732,0.9146341463414633,53.35365853658537,7.333333333333333,have meet have operate be move
+Mma Soleti,Mma Ramotswe,6.707317073170732,0.9146341463414633,53.35365853658537,7.333333333333333,have meet have operate be move
+Rra Molapo,Mma Ramotswe,0.0,0.0,11.11111111111111,INF,say
+Mr. J.L.B. Matekoni,Ladies ' Detective Agency,3.1818181818181817,6.363636363636363,54.090909090909086,0.5,be become start have do wish
+Mma Makutsi,Mma Soleti,1.7857142857142856,4.761904761904762,31.547619047619047,0.375,take say peer
+Mma Makutsi,Mma Ramotswe,1.7857142857142856,4.761904761904762,31.547619047619047,0.375,take say peer
+Mma Soleti,Mma Ramotswe,1.7857142857142856,4.761904761904762,31.547619047619047,0.375,take say peer
+Mma Makutsi,Mma Soleti,2.840909090909091,3.977272727272727,34.090909090909086,0.7142857142857143,be say lay
+Mma Makutsi,Mma Ramotswe,4.411764705882353,0.0,36.76470588235294,INF,admit cross say
+Mma Makutsi,Mma Soleti,2.232142857142857,2.232142857142857,41.964285714285715,1.0,be wait finish die
+Mma Makutsi,Mma Ramotswe,2.232142857142857,2.232142857142857,41.964285714285715,1.0,be wait finish die
+Mma Soleti,Mma Ramotswe,2.232142857142857,2.232142857142857,41.964285714285715,1.0,be wait finish die
+Mma Makutsi,Phuti,4.166666666666666,3.205128205128205,54.166666666666664,1.3,be marry have be concern attract stop worry have wear
+Mma Soleti,Mma Ramotswe,4.741379310344827,0.8620689655172413,46.12068965517241,5.5,be have do be say
+Mma Soleti,Mma Ramotswe,1.3888888888888888,0.0,48.61111111111111,INF,have turn be replace
+Mma Soleti,Mma Ramotswe,1.3888888888888888,0.0,48.61111111111111,INF,have turn be replace
+Mma Soleti,Mma Ramotswe,1.3888888888888888,0.0,48.61111111111111,INF,have turn be replace
+Mma Makutsi,Mma Ramotswe,1.6666666666666667,0.8333333333333334,30.833333333333336,2.0,tell be worry say
+Mma Ramotswe,Mma Soleti,2.82258064516129,0.0,42.33870967741936,INF,have reply take start lead
+Mma Makutsi,Mma Soleti,3.048780487804878,5.487804878048781,45.1219512195122,0.5555555555555556,listen know say be bring include interject
+Mma Makutsi,Mma Ramotswe,0.0,0.0,23.076923076923077,INF,tell supply
+Mma Soleti,Mma Makutsi,2.5,0.625,21.875,4.0,hesitate say be say
+Mma Ramotswe,Phuti,2.083333333333333,0.2976190476190476,50.0,7.0,be receive have return be look
+Mma Ramotswe,Mma Makutsi,2.083333333333333,0.2976190476190476,50.0,7.0,be receive have return be look
+Mma Ramotswe,Phuti,2.083333333333333,0.2976190476190476,50.0,7.0,be receive have return be look
+Mma Ramotswe,Mma Makutsi,2.083333333333333,0.2976190476190476,50.0,7.0,be receive have return be look
+Phuti,Mma Makutsi,2.083333333333333,0.2976190476190476,50.0,7.0,be receive have return be look
+Mma Makutsi,Mma Ramotswe,1.7857142857142856,2.857142857142857,38.21428571428571,0.625,be have write find settle
+Mr. J.L.B. Matekoni,Charlie,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,be attempt instruct
+Mr. J.L.B. Matekoni,Fanwell,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,be attempt instruct
+Charlie,Fanwell,2.364864864864865,0.6756756756756757,53.71621621621622,3.5,be attempt instruct
+Mr. J.L.B. Matekoni,Fanwell,5.603448275862069,0.8620689655172413,59.05172413793104,6.5,have be take have qualify have be address
+Fanwell,Charlie,3.4090909090909087,3.977272727272727,47.159090909090914,0.8571428571428571,know protest do call
+Mma Makutsi,Mr. J.L.B. Matekoni,0.0,0.0,33.33333333333333,INF,take say
+Charlie,Mr. J.L.B. Matekoni,1.3392857142857142,2.232142857142857,35.714285714285715,0.6,warn be get
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.0,0.0,47.05882352941176,INF,glance be follow
+Mma Ramotswe,Charlie,0.0,3.9473684210526314,48.68421052631579,0.0,try fix decide go
+Mr. J.L.B. Matekoni,Charlie,0.0,0.0,43.47826086956522,INF,follow wipe keep
+Charlie,Mr. J.L.B. Matekoni,0.0,0.0,43.47826086956522,INF,follow wipe keep
+Charlie,Mr. J.L.B. Matekoni,0.0,0.0,43.47826086956522,INF,follow wipe keep
+Mr. J.L.B. Matekoni,Charlie,2.083333333333333,0.0,64.58333333333334,INF,look
+Mr. J.L.B. Matekoni,Charlie,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,think be know do be
+Mr. J.L.B. Matekoni,Charlie,2.403846153846154,5.769230769230769,49.519230769230774,0.4166666666666667,think be know do be
+Mma Ramotswe,Mr. J.L.B. Matekoni,1.25,0.0,28.749999999999996,INF,wait say
+Mma Ramotswe,Mr. J.L.B. Matekoni,2.631578947368421,0.0,28.947368421052634,INF,manage understand be make
+Phuti,Mma Makutsi,2.5,3.75,51.24999999999999,0.6666666666666666,see be park do surprise have tell be take settle
+Mma Ramotswe,Phuti,2.976190476190476,5.357142857142857,34.523809523809526,0.5555555555555556,fear be open
+Ladies ' Detective Agency,Mma Ramotswe,1.6666666666666667,0.0,38.333333333333336,INF,correct
+Mma Makutsi,Mr. Radiphuti,1.9230769230769231,0.9615384615384616,35.57692307692308,2.0,be
+Phuti,Mma Makutsi,2.2058823529411766,1.4705882352941175,55.14705882352941,1.5,be be wear
+Phuti,Mma Makutsi,0.0,0.0,42.857142857142854,INF,rise remain
+Mma Makutsi,Phuti,3.125,0.78125,46.09375,4.0,be think tell
+Mma Ramotswe,Phuti,1.3888888888888888,0.0,31.944444444444443,INF,turn smile
+Mma Ramotswe,Mma Makutsi,0.0,0.0,37.5,INF,look
+Mma Makutsi,Phuti,7.291666666666667,0.0,34.375,INF,explain be
+Mma Ramotswe,Mma Makutsi,2.314814814814815,2.314814814814815,47.22222222222222,1.0,wonder be go disclose have learn do
+Mma Ramotswe,Botswana Secretarial College,2.314814814814815,2.314814814814815,47.22222222222222,1.0,wonder be go disclose have learn do
+Mma Makutsi,Botswana Secretarial College,2.314814814814815,2.314814814814815,47.22222222222222,1.0,wonder be go disclose have learn do
+Mma Makutsi,Phuti,1.5625,3.125,32.8125,0.5,glance have disappear
+Mma Ramotswe,Mma Makutsi,2.5,1.25,36.25,2.0,be say
+Bobonong,Mma Makutsi,3.061224489795918,3.316326530612245,58.92857142857143,0.9230769230769231,be have travel lead mint have talk snap
+Bobonong,Mma Makutsi,3.061224489795918,3.316326530612245,58.92857142857143,0.9230769230769231,be have travel lead mint have talk snap
+Mma Makutsi,Phuti,3.125,2.631578947368421,38.98026315789473,1.1875,come have have earn be be have
+Mma Ramotswe,Mma Makutsi,2.6515151515151514,3.4090909090909087,54.54545454545454,0.7777777777777778,be relieve be go be shelve return
+Phuti,Mma Sheba,3.8461538461538463,0.641025641025641,46.794871794871796,6.0,have pay inspect decide be tackle have entrust
+Phuti,Mma Sheba,3.8461538461538463,0.641025641025641,46.794871794871796,6.0,have pay inspect decide be tackle have entrust
+Mma Sheba,bush,0.7142857142857143,1.0714285714285714,63.92857142857142,0.6666666666666666,seat brew take write know
+bush,Mma Sheba,0.7142857142857143,1.0714285714285714,63.92857142857142,0.6666666666666666,seat brew take write know
+bush,Mma Sheba,0.7142857142857143,1.0714285714285714,63.92857142857142,0.6666666666666666,seat brew take write know
+Rra Edgar,Mma Sheba,0.0,0.0,33.33333333333333,INF,write
+Mma Sheba,Rra Edgar,3.125,9.375,37.5,0.3333333333333333,think be
+Mma Sheba,Liso,3.125,9.375,37.5,0.3333333333333333,think be
+Rra Edgar,Liso,3.125,9.375,37.5,0.3333333333333333,think be
+Liso,Mma Sheba,2.604166666666667,2.604166666666667,23.958333333333336,1.0,be be be
+Liso,Mma Sheba,2.604166666666667,2.604166666666667,23.958333333333336,1.0,be be be
+Mma Sheba,Mma Makutsi,9.166666666666666,4.166666666666666,50.0,2.2,do take find read have do have be
+Mma Sheba,Mma Makutsi,9.166666666666666,4.166666666666666,50.0,2.2,do take find read have do have be
+Mma Sheba,Mma Makutsi,9.166666666666666,4.166666666666666,50.0,2.2,do take find read have do have be
+Clovis Andersen,Liso,5.304761904761905,6.004761904761905,50.595238095238095,0.8834258524980173,bring be be
+Mma Ramotswe,Mr. J.L.B. Matekoni,3.618421052631579,1.3157894736842104,60.85526315789473,2.75,drive shatter bring renew have arrive get
+Mma Sheba,Mma Ramotswe,0.0,0.0,25.0,INF,work say
+Mma Makutsi,Mma Ramotswe,6.25,1.0416666666666665,17.708333333333336,6.0,be say
+Seretse Khama,Charles,0.2840909090909091,0.2840909090909091,69.88636363636364,1.0,be frame meet
+Mma Molapo,Mma Ramotswe,0.0,0.0,35.714285714285715,INF,notice
+Mma Molapo,Seretse Khama,0.0,0.0,35.714285714285715,INF,notice
+Mma Ramotswe,Seretse Khama,0.0,0.0,35.714285714285715,INF,notice
+Mma Sheba,Mma Molapo,3.289473684210526,2.631578947368421,41.44736842105263,1.25,be take say sip
+Mma Ramotswe,Mma Molapo,0.4032258064516129,0.4032258064516129,41.12903225806452,1.0,detect think be discuss conduct
+Mma Molapo,Mma Ramotswe,0.6578947368421052,0.0,46.71052631578947,INF,leave sit
+Mma Molapo,Seretse Khama,0.6578947368421052,0.0,46.71052631578947,INF,leave sit
+Mma Ramotswe,Seretse Khama,0.6578947368421052,0.0,46.71052631578947,INF,leave sit
+Mma Molapo,Liso,3.90625,0.0,39.84375,INF,effect step offer
+Liso,Mma Ramotswe,0.0,0.0,20.0,INF,begin
+Liso,Mma Molapo,0.0,0.0,50.0,INF,direct be intercept
+Mma Molapo,Mma Ramotswe,3.125,0.625,51.24999999999999,5.0,have be look turn beam
+Liso,Mma Molapo,1.9230769230769231,0.0,51.92307692307693,INF,look purse
+Liso,Mma Ramotswe,3.571428571428571,0.0,53.57142857142857,INF,look turn smile
+Mma Ramotswe,Mma Makutsi,1.7857142857142856,7.142857142857142,33.92857142857143,0.25,reply be
+Liso,Mma Molapo,1.7857142857142856,10.714285714285714,37.5,0.16666666666666666,have answer have veto
+Mma Ramotswe,Seretse Khama,2.272727272727273,0.0,38.63636363636363,INF,rise start make follow
+Mma Ramotswe,Liso,2.272727272727273,0.0,38.63636363636363,INF,rise start make follow
+Seretse Khama,Liso,2.272727272727273,0.0,38.63636363636363,INF,rise start make follow
+Mma Sheba,Liso,1.9230769230769231,4.807692307692308,31.73076923076923,0.4,have tell
+Mma Sheba,Liso,1.9230769230769231,4.807692307692308,31.73076923076923,0.4,have tell
+Liso,Tlokweng Road Speedy Motors,1.6666666666666667,2.5,64.72222222222223,0.6666666666666666,be have pass be assume drive be be
+Liso,Tlokweng Road Speedy Motors,1.6666666666666667,2.5,64.72222222222223,0.6666666666666666,be have pass be assume drive be be
+Liso,Tlokweng Road Speedy Motors,1.6666666666666667,2.5,64.72222222222223,0.6666666666666666,be have pass be assume drive be be
+Tlokweng Road Speedy Motors,Mma Sheba,0.0,0.0,58.82352941176471,INF,leave lead
+Mma Makutsi,Tlokweng Road Speedy Motors,1.3888888888888888,0.6944444444444444,31.25,2.0,be keep say
+Tlokweng Road Speedy Motors,Mma Sheba,0.0,0.0,66.66666666666666,INF,grin
+Tlokweng Road Speedy Motors,Mma Sheba,5.208333333333334,2.083333333333333,59.375,2.5,speak know be
+Liso,Mma Sheba,2.6785714285714284,0.0,33.035714285714285,INF,hold say
+Tlokweng Road Speedy Motors,Mma Sheba,0.0,0.0,60.0,INF,smile
+Mma Sheba,Tlokweng Road Speedy Motors,0.8333333333333334,0.0,52.5,INF,search pronounce
+Tlokweng Road Speedy Motors,Mma Sheba,0.8333333333333334,0.0,52.5,INF,search pronounce
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Mma Sheba,Tlokweng Road Speedy Motors,2.806122448979592,5.1020408163265305,53.316326530612244,0.55,be be look have do know be go be have
+Tlokweng Road Speedy Motors,Mma Sheba,7.03125,1.5625,47.65625,4.5,show appear accept say
+Mma Sheba,Mma Molapo,2.8846153846153846,5.769230769230769,37.5,0.5,be surprise have be watch
+Mma Ramotswe,Mma Sheba,2.5,0.0,37.5,INF,thank show say offer shake
+Mma Ramotswe,Liso,2.5,0.0,37.5,INF,thank show say offer shake
+Mma Sheba,Liso,2.5,0.0,37.5,INF,thank show say offer shake
+Mma Sheba,Ladies ' Detective Agency,2.564102564102564,1.9230769230769231,51.92307692307693,1.3333333333333333,turn find think have occur have be run
+Mma Sheba,Ladies ' Detective Agency,2.564102564102564,1.9230769230769231,51.92307692307693,1.3333333333333333,turn find think have occur have be run
+Mma Sheba,Ladies ' Detective Agency,2.564102564102564,1.9230769230769231,51.92307692307693,1.3333333333333333,turn find think have occur have be run
+Mma Sheba,Ladies ' Detective Agency,2.564102564102564,1.9230769230769231,51.92307692307693,1.3333333333333333,turn find think have occur have be run
+Mma Ramotswe,Mma Sheba,2.631578947368421,1.3157894736842104,43.42105263157895,2.0,be plan do welcome
+Mma Sheba,Mokolodi,3.125,0.78125,64.84375,4.0,be be call
+Mokolodi,Mma Ramotswe,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,be be live
+Mokolodi,Gwithie,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,be be live
+Mma Ramotswe,Gwithie,2.616279069767442,1.4534883720930232,47.093023255813954,1.8,be be live
+Gwithie,Mma Ramotswe,2.34375,0.0,41.40625,INF,put walk welcome
+Mmapuso,Mma Ramotswe,0.8333333333333334,0.0,32.5,INF,say get
+Mmapuso,Puso,0.0,3.125,41.875,0.0,use be know
+Puso,Mma Ramotswe,2.083333333333333,1.3888888888888888,46.52777777777778,1.5,have
+Mma Ramotswe,Gwithie,6.25,2.604166666666667,45.3125,2.4,embrace take press
+Mr. J.L.B. Matekoni,Obed Ramotswe,0.7575757575757576,6.4393939393939394,47.34848484848485,0.11764705882352941,grow have shrivel find imagine recover arrive
+Gwithie,Obed Ramotswe,1.5625,0.0,48.4375,INF,be look
+Gwithie,Obed Ramotswe,0.0,10.416666666666668,39.58333333333333,0.0,do press
+Gwithie,Obed Ramotswe,0.0,0.0,40.0,INF,shake
+Rra Edgar,Mma Ramotswe,6.25,2.083333333333333,41.66666666666667,3.0,speak say
+Mma Ramotswe,Obed Ramotswe,1.7857142857142856,0.0,41.07142857142857,INF,put
+Obed Ramotswe,Mma Molapo,1.4285714285714286,4.642857142857143,53.92857142857142,0.3076923076923077,have occur be suspect be claim be
+Obed Ramotswe,Liso,1.4285714285714286,4.642857142857143,53.92857142857142,0.3076923076923077,have occur be suspect be claim be
+Obed Ramotswe,Mma Molapo,1.4285714285714286,4.642857142857143,53.92857142857142,0.3076923076923077,have occur be suspect be claim be
+Obed Ramotswe,Liso,1.4285714285714286,4.642857142857143,53.92857142857142,0.3076923076923077,have occur be suspect be claim be
+Mma Molapo,Liso,1.4285714285714286,4.642857142857143,53.92857142857142,0.3076923076923077,have occur be suspect be claim be
+Mma Molapo,Obed Ramotswe,13.125,2.5,29.375,5.25,have prefer succeed
+Mma Molapo,Obed Ramotswe,13.125,2.5,29.375,5.25,have prefer succeed
+Liso,Mma Molapo,0.6578947368421052,3.289473684210526,43.42105263157895,0.2,be mean be
+Gwithie,Mma Ramotswe,0.7352941176470588,6.61764705882353,51.470588235294116,0.1111111111111111,say sink do catch
+Mmapuso,Mma Ramotswe,0.0,5.208333333333334,19.791666666666664,0.0,be say
+Gwithie,Mma Ramotswe,0.43103448275862066,0.43103448275862066,50.86206896551724,1.0,speak stop draw
+Mma Ramotswe,Gwithie,1.5151515151515151,0.7575757575757576,43.18181818181818,2.0,move hold turn be
+Ladies ' Detective Agency,Mma Makutsi,5.078125,2.9296875,54.4921875,1.7333333333333334,have be have be have be have spend try find do give have
+Mma Makutsi,Mma Ramotswe,4.166666666666666,2.083333333333333,54.861111111111114,2.0,be pay be make have try get clarify
+Mma Makutsi,Mma Ramotswe,4.166666666666666,2.083333333333333,54.861111111111114,2.0,be pay be make have try get clarify
+Mma Makutsi,Mma Ramotswe,1.5,4.0,42.5,0.375,be do look say
+Mma Makutsi,Mma Ramotswe,0.0,0.0,26.666666666666668,INF,be hear say
+Mma Ramotswe,Mma Makutsi,0.0,6.0344827586206895,38.793103448275865,0.0,say be have cut
+Mma Makutsi,Mma Ramotswe,2.2058823529411766,5.88235294117647,44.85294117647059,0.375,stare flash
+Mma Makutsi,Mma Ramotswe,2.2058823529411766,5.88235294117647,44.85294117647059,0.375,stare flash
+Mma Ramotswe,Mma Makutsi,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,say be discover be be
+Mma Ramotswe,Mma Makutsi,0.9615384615384616,3.8461538461538463,56.730769230769226,0.25,say be discover be be
+Mma Ramotswe,Mma Makutsi,7.4074074074074066,3.2407407407407405,52.31481481481482,2.2857142857142856,come venture have learn discern
+Violet Sephotho,Mma Makutsi,0.0,2.083333333333333,14.583333333333334,0.0,
+Bobonong,Botswana Secretarial College,0.0,1.953125,51.171875,0.0,be flash
+Mma Potokwane,Charlie,2.2222222222222223,1.6666666666666667,53.888888888888886,1.3333333333333333,be be stand put make
+Mma Potokwane,Charlie,2.2222222222222223,1.6666666666666667,53.888888888888886,1.3333333333333333,be be stand put make
+Mma Potokwane,Charlie,2.2222222222222223,1.6666666666666667,53.888888888888886,1.3333333333333333,be be stand put make
+Mma Makutsi,Mma Ramotswe,2.302631578947368,6.25,46.71052631578947,0.3684210526315789,decide return think be be continue
+Mma Makutsi,Ladies ' Detective Agency,2.302631578947368,6.25,46.71052631578947,0.3684210526315789,decide return think be be continue
+Mma Ramotswe,Ladies ' Detective Agency,2.302631578947368,6.25,46.71052631578947,0.3684210526315789,decide return think be be continue
+Mr. J.L.B. Matekoni,Mma Makutsi,0.625,6.875000000000001,42.5,0.09090909090909091,be achieve
+Mr. J.L.B. Matekoni,Charlie,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Mr. J.L.B. Matekoni,Fanwell,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Charlie,Fanwell,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Charlie,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Charlie,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Charlie,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Charlie,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Fanwell,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Fanwell,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Fanwell,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Fanwell,Mr. J.L.B. Matekoni,1.9642857142857142,0.35714285714285715,41.964285714285715,5.5,thank say be do sit make take sip decide do
+Mr. J.L.B. Matekoni,Mma Potokwane,6.104651162790697,2.0348837209302326,59.30232558139535,3.0,be take have fit want check be bed be see
+Mr. J.L.B. Matekoni,Mma Potokwane,6.104651162790697,2.0348837209302326,59.30232558139535,3.0,be take have fit want check be bed be see
+Mr. J.L.B. Matekoni,Mma Potokwane,6.104651162790697,2.0348837209302326,59.30232558139535,3.0,be take have fit want check be bed be see
+Mr. J.L.B. Matekoni,Mma Potokwane,0.0,0.3787878787878788,45.07575757575758,0.0,wave make run
+Mr. J.L.B. Matekoni,Mma Potokwane,0.0,0.3787878787878788,45.07575757575758,0.0,wave make run
+Mr. J.L.B. Matekoni,Mma Ramotswe,7.03125,0.0,24.21875,INF,welcome enquire
+Mr. J.L.B. Matekoni,Mma Makutsi,7.03125,0.0,24.21875,INF,welcome enquire
+Mma Ramotswe,Mma Makutsi,7.03125,0.0,24.21875,INF,welcome enquire
+Mma Makutsi,Mr. J.L.B. Matekoni,2.272727272727273,2.272727272727273,40.909090909090914,1.0,be do say
+Mma Ramotswe,Phuti,0.0,0.0,41.17647058823529,INF,be tell have move
+Mma Ramotswe,Rra Molapo,0.0,0.0,0.0,INF,
+Charlie,Fanwell,3.90625,0.0,52.34375,INF,bring give
+Rra Molapo,Mma Potokwane,0.0,0.0,33.33333333333333,INF,tell say
+Mma Potokwane,Mr. J.L.B. Matekoni,3.125,3.125,35.41666666666667,1.0,be look
+Dr. Moffat,Mr. J.L.B. Matekoni,0.8928571428571428,0.0,34.82142857142857,INF,be say
+Mr. J.L.B. Matekoni,Mma Potokwane,8.333333333333332,0.6944444444444444,40.97222222222222,12.0,call give
+Mr. J.L.B. Matekoni,Mma Potokwane,2.027027027027027,0.6756756756756757,54.054054054054056,3.0,have come know advise seek be follow
+Mma Potokwane,Mr. J.L.B. Matekoni,2.027027027027027,0.6756756756756757,54.054054054054056,3.0,have come know advise seek be follow
+Mma Potokwane,Mr. J.L.B. Matekoni,2.027027027027027,0.6756756756756757,54.054054054054056,3.0,have come know advise seek be follow
+Mma Ramotswe,Mr. J.L.B. Matekoni,4.761904761904762,1.1904761904761905,55.952380952380956,4.0,have tell have mention
+Mr. J.L.B. Matekoni,Mma Potokwane,1.25,0.0,55.41666666666667,INF,enquire be hold explain believe be hold
+Mr. J.L.B. Matekoni,Mma Ramotswe,1.4285714285714286,1.4285714285714286,54.285714285714285,1.0,be trigger be
+Mma Makutsi,Mma Ramotswe,2.5,3.75,51.24999999999999,0.6666666666666666,have say do intend take be consult need
+Mma Makutsi,Liso,1.530612244897959,3.571428571428571,41.83673469387755,0.42857142857142855,do decide visit see make claim be be lie
+Edgar Molapo,Liso,1.488095238095238,1.1904761904761905,49.702380952380956,1.25,tell be work live have call
+Rra Edgar,Liso,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Rra Edgar,Liso,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Liso,Rra Edgar,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Liso,Rra Edgar,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Liso,Rra Edgar,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Liso,Rra Edgar,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Liso,Rra Edgar,2.82258064516129,1.6129032258064515,43.95161290322581,1.75,make be think
+Mma Soleti,Mma Makutsi,4.5,2.0,45.5,2.25,be exchange say come be stand
+Mma Makutsi,Mma Ramotswe,2.6785714285714284,6.25,26.785714285714285,0.42857142857142855,be say
+Mma Makutsi,Bobonong,5.0,3.125,53.541666666666664,1.6,sense be drift do be start talk happen be hope talk
+Mma Makutsi,Botswana Secretarial College,5.0,3.125,53.541666666666664,1.6,sense be drift do be start talk happen be hope talk
+Bobonong,Botswana Secretarial College,5.0,3.125,53.541666666666664,1.6,sense be drift do be start talk happen be hope talk
+Mma Makutsi,Mma Soleti,6.875000000000001,2.5,35.625,2.75,have know continue
+Mma Makutsi,Mma Ramotswe,3.8461538461538463,9.615384615384617,17.307692307692307,0.4,be say
+Mma Makutsi,Mma Ramotswe,2.82258064516129,2.0161290322580645,43.54838709677419,1.4,be venture say
+Mma Makutsi,Clovis Andersen,2.82258064516129,2.0161290322580645,43.54838709677419,1.4,be venture say
+Mma Ramotswe,Clovis Andersen,2.82258064516129,2.0161290322580645,43.54838709677419,1.4,be venture say
+Clovis Andersen,Mma Ramotswe,2.6785714285714284,1.7857142857142856,52.67857142857143,1.5,be think
+Mma Makutsi,Clovis Andersen,6.707317073170732,0.6097560975609756,51.21951219512195,11.0,think have meet have sit drink have write have sit talk have be
+Mma Makutsi,Clovis Andersen,6.707317073170732,0.6097560975609756,51.21951219512195,11.0,think have meet have sit drink have write have sit talk have be
+Mma Ramotswe,Mma Soleti,0.872093023255814,1.1627906976744187,46.80232558139535,0.75,have admit be press come identify think
+Obed Ramotswe,Ladies ' Detective Agency,0.9615384615384616,0.9615384615384616,48.07692307692308,1.0,be value be
+Mma Ramotswe,Mma Potokwane,5.921052631578947,0.6578947368421052,53.94736842105263,9.0,be value have take encourage be admit have push
+Mr. J.L.B. Matekoni,Keitumeste,1.3157894736842104,0.0,56.57894736842105,INF,be be have close enter think be leave be spot challenge
+Keitumeste,Mr. J.L.B. Matekoni,1.3157894736842104,0.0,56.57894736842105,INF,be be have close enter think be leave be spot challenge
+Mma Ramotswe,Seretse Khama,0.0,5.0,40.0,0.0,be reflect
+Mma Ramotswe,Mr. J.L.B. Matekoni,0.0,5.0,40.0,0.0,be reflect
+Seretse Khama,Mr. J.L.B. Matekoni,0.0,5.0,40.0,0.0,be reflect
+Seretse Khama,Mr. J.L.B. Matekoni,1.9736842105263157,2.302631578947368,53.61842105263158,0.8571428571428571,be claim believe be have consider be pronounce
+Rra Molapo,Keitumeste,2.5,0.0,37.5,INF,commend say
+Mr. J.L.B. Matekoni,Mma Ramotswe,5.0,0.0,60.0,INF,remember have buy
+Mr. J.L.B. Matekoni,Mma Ramotswe,5.0,0.0,60.0,INF,remember have buy
+Mma Ramotswe,Mr. J.L.B. Matekoni,5.0,0.0,60.0,INF,remember have buy
+Keitumeste,Mr. J.L.B. Matekoni,1.7045454545454544,3.6931818181818183,55.96590909090909,0.46153846153846156,stay answer have slip return
+Keitumeste,Mr. J.L.B. Matekoni,1.7045454545454544,3.6931818181818183,55.96590909090909,0.46153846153846156,stay answer have slip return
+Mma Potokwane,Mr. J.L.B. Matekoni,4.3604651162790695,2.9069767441860463,64.82558139534885,1.5,be be be feel reach desire be be
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.0,0.0,53.57142857142857,INF,be attend be be visit
+Mr. J.L.B. Matekoni,Mma Makutsi,0.0,0.0,53.57142857142857,INF,be attend be be visit
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.0,0.0,53.57142857142857,INF,be attend be be visit
+Mr. J.L.B. Matekoni,Mma Makutsi,0.0,0.0,53.57142857142857,INF,be attend be be visit
+Mma Ramotswe,Mma Makutsi,0.0,0.0,53.57142857142857,INF,be attend be be visit
+Mma Makutsi,Phuti,6.451612903225806,3.225806451612903,41.935483870967744,2.0,have telephone arrange have be surprise have be answer
+Mma Ramotswe,Phuti,0.78125,0.78125,54.6875,1.0,be agree have close be drive
+Mma Ramotswe,Phuti,1.6304347826086956,3.260869565217391,51.63043478260869,0.5,have hope be be open
+Mr. J.L.B. Matekoni,Mma Makutsi,10.9375,4.6875,34.375,2.3333333333333335,be
+Mr. J.L.B. Matekoni,Phuti,8.333333333333332,0.0,36.11111111111111,INF,sound
+Mma Ramotswe,bush,1.6304347826086956,1.9021739130434785,50.815217391304344,0.8571428571428571,see have be touch keep be be
+Mma Ramotswe,Mma Molapo,0.0,0.0,25.0,INF,begin
+Mma Makutsi,Mma Sheba,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mma Makutsi,Mma Ramotswe,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mma Makutsi,Liso,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mma Sheba,Mma Ramotswe,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mma Sheba,Liso,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mma Ramotswe,Liso,2.1341463414634148,0.3048780487804878,34.146341463414636,7.0,have be bring have happen include
+Mr. Andersen,Mma Makutsi,0.0,9.722222222222223,34.72222222222222,0.0,have
+Clovis Andersen,Mma Ramotswe,3.353658536585366,0.6097560975609756,61.890243902439025,5.5,have arrive have come have be read reread be file devote
+Clovis Andersen,Mma Makutsi,3.353658536585366,0.6097560975609756,61.890243902439025,5.5,have arrive have come have be read reread be file devote
+Mma Ramotswe,Mma Makutsi,3.353658536585366,0.6097560975609756,61.890243902439025,5.5,have arrive have come have be read reread be file devote
+Clovis Andersen,Mma Makutsi,6.25,3.125,36.45833333333333,2.0,muse write tell
+Clovis Andersen,Mr. Andersen,6.25,3.125,36.45833333333333,2.0,muse write tell
+Clovis Andersen,Mr. Andersen,6.25,3.125,36.45833333333333,2.0,muse write tell
+Mma Makutsi,Mr. Andersen,6.25,3.125,36.45833333333333,2.0,muse write tell
+Mma Makutsi,Mr. Andersen,6.25,3.125,36.45833333333333,2.0,muse write tell
+Mr. Andersen,Mma Makutsi,3.75,2.5,33.75,1.5,be
+Mma Ramotswe,Mma Makutsi,0.0,0.0,45.0,INF,take glance
+Itumelang,Mma Makutsi,0.0,0.0,12.5,INF,say
+Itumelang,Mma Makutsi,5.769230769230769,1.9230769230769231,23.076923076923077,3.0,sound
+Mr. Andersen,Mma Makutsi,0.0,0.0,27.27272727272727,INF,say
+Mr. Andersen,Mma Makutsi,0.9615384615384616,6.730769230769231,46.15384615384615,0.14285714285714285,have say
+Mr. Andersen,Itumelang,1.1363636363636365,0.0,44.31818181818182,INF,be
+Mma Makutsi,Mma Ramotswe,4.326923076923077,5.288461538461538,40.38461538461539,0.8181818181818182,be continue end like
+Mma Ramotswe,Liso,4.761904761904762,2.976190476190476,39.88095238095239,1.6,move describe have feel leave
+Liso,Mma Ramotswe,4.761904761904762,2.976190476190476,39.88095238095239,1.6,move describe have feel leave
+Mma Makutsi,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Makutsi,Gwithie,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Makutsi,Liso,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Makutsi,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Makutsi,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Ramotswe,Gwithie,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Ramotswe,Liso,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Gwithie,Liso,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Gwithie,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Gwithie,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Liso,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Liso,Mma Ramotswe,3.125,1.0416666666666665,41.66666666666667,3.0,refresh listen have tell call
+Mma Ramotswe,Mma Makutsi,2.734375,2.734375,50.78125,1.0,be have tell be see
+Liso,Mma Makutsi,1.875,3.75,39.375,0.5,show stand gain be say
+Liso,Mma Makutsi,1.875,3.75,39.375,0.5,show stand gain be say
+Phuti,Mma Makutsi,2.5,0.35714285714285715,48.57142857142857,7.0,have marry enter be describe have buy
+Mma Makutsi,Mma Ramotswe,0.0,0.0,14.285714285714285,INF,agree
+Mma Ramotswe,Mma Makutsi,2.941176470588235,1.4705882352941175,36.76470588235294,2.0,tell whisper
+Itumelang,Mma Ramotswe,3.2327586206896552,3.4482758620689653,48.491379310344826,0.9375,be do like be be know have be be miss be miss have
+Mma Makutsi,Mma Ramotswe,0.0,1.5625,29.6875,0.0,have smile
+Phuti,Mma Makutsi,0.0,6.25,29.464285714285715,0.0,want change say
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.6944444444444444,3.4722222222222223,34.72222222222222,0.2,like change say
+Mma Ramotswe,Mma Soleti,2.631578947368421,4.824561403508771,45.17543859649123,0.5454545454545454,do do discuss have wrong seem say be leave be be
+Mma Ramotswe,Daisy Manchwe,2.631578947368421,4.824561403508771,45.17543859649123,0.5454545454545454,do do discuss have wrong seem say be leave be be
+Mma Soleti,Daisy Manchwe,2.631578947368421,4.824561403508771,45.17543859649123,0.5454545454545454,do do discuss have wrong seem say be leave be be
+Daisy Manchwe,Mma Soleti,5.357142857142857,1.0204081632653061,42.60204081632653,5.25,have find go see feel be find have do justify be nurture
+Daisy Manchwe,Mma Soleti,5.357142857142857,1.0204081632653061,42.60204081632653,5.25,have find go see feel be find have do justify be nurture
+Daisy Manchwe,Mma Soleti,5.357142857142857,1.0204081632653061,42.60204081632653,5.25,have find go see feel be find have do justify be nurture
+Daisy Manchwe,Mma Soleti,5.357142857142857,1.0204081632653061,42.60204081632653,5.25,have find go see feel be find have do justify be nurture
+Daisy Manchwe,Mma Soleti,5.357142857142857,1.0204081632653061,42.60204081632653,5.25,have find go see feel be find have do justify be nurture
+Mma Ramotswe,Daisy Manchwe,2.4193548387096775,1.2096774193548387,47.983870967741936,2.0,be give require investigate
+Mma Ramotswe,Daisy Manchwe,2.4193548387096775,1.2096774193548387,47.983870967741936,2.0,be give require investigate
+Daisy Manchwe,Mma Soleti,3.571428571428571,7.738095238095238,31.547619047619047,0.46153846153846156,do mean think be
+Daisy Manchwe,Mma Manchwe,3.571428571428571,7.738095238095238,31.547619047619047,0.46153846153846156,do mean think be
+Mma Soleti,Mma Manchwe,3.571428571428571,7.738095238095238,31.547619047619047,0.46153846153846156,do mean think be
+Mma Soleti,Daisy Manchwe,4.166666666666666,2.604166666666667,39.0625,1.6,think nurse steal be
+Mma Makutsi,Daisy Manchwe,1.8229166666666667,2.34375,58.333333333333336,0.7777777777777778,be rely believe be complete look keep
+Mma Makutsi,Daisy Manchwe,1.8229166666666667,2.34375,58.333333333333336,0.7777777777777778,be rely believe be complete look keep
+Daisy Manchwe,Mma Ramotswe,0.0,0.0,30.76923076923077,INF,be say
+Mma Ramotswe,Daisy Manchwe,8.333333333333332,1.6666666666666667,36.666666666666664,5.0,strike be
+Daisy Manchwe,Mma Makutsi,0.8064516129032258,2.4193548387096775,48.38709677419355,0.3333333333333333,be pass do amount be mention pick
+Mma Makutsi,Daisy Manchwe,0.8064516129032258,2.4193548387096775,48.38709677419355,0.3333333333333333,be pass do amount be mention pick
+Mma Makutsi,Daisy Manchwe,0.8064516129032258,2.4193548387096775,48.38709677419355,0.3333333333333333,be pass do amount be mention pick
+Mma Makutsi,Daisy Manchwe,0.8064516129032258,2.4193548387096775,48.38709677419355,0.3333333333333333,be pass do amount be mention pick
+Daisy Manchwe,Mma Makutsi,0.0,0.0,46.666666666666664,INF,ask settle
+Mma Makutsi,Daisy Manchwe,0.0,0.0,33.33333333333333,INF,shake
+Mma Ramotswe,Daisy Manchwe,5.147058823529411,6.61764705882353,52.94117647058824,0.7777777777777778,have hear like
+Mma Makutsi,Daisy Manchwe,0.0,0.0,33.33333333333333,INF,shake
+Mma Ramotswe,Daisy Manchwe,0.0,2.083333333333333,47.91666666666667,0.0,look cause swerve
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Daisy Manchwe,Mma Makutsi,1.5,1.25,49.25,1.2,be have be think imagine lock clutch struggle hold
+Mma Ramotswe,Mma Makutsi,5.263157894736842,3.9473684210526314,43.42105263157895,1.3333333333333333,recall have say have kill
+Mma Ramotswe,Phuti,5.263157894736842,3.9473684210526314,43.42105263157895,1.3333333333333333,recall have say have kill
+Mma Makutsi,Phuti,5.263157894736842,3.9473684210526314,43.42105263157895,1.3333333333333333,recall have say have kill
+Phuti,Mma Ramotswe,4.411764705882353,6.61764705882353,41.911764705882355,0.6666666666666666,say think be imagine make
+Mma Ramotswe,Auntie,2.6785714285714284,8.928571428571429,52.67857142857143,0.3,say be
+Phuti,Mma Ramotswe,2.6785714285714284,9.821428571428571,51.78571428571429,0.2727272727272727,keep tell be be
+Phuti,Mma Ramotswe,3.260869565217391,2.717391304347826,50.54347826086957,1.2,have go do say climb
+Phuti,Mma Ramotswe,0.0,6.944444444444445,37.5,0.0,do lie
+Mma Makutsi,Mma Ramotswe,2.083333333333333,1.0416666666666665,21.875,2.0,be say
+Mma Makutsi,Mma Ramotswe,3.1976744186046515,2.0348837209302326,52.90697674418605,1.5714285714285714,stop have be walk pause admire wait examine
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.7352941176470588,4.411764705882353,41.911764705882355,0.16666666666666666,do need say
+Mma Makutsi,Phuti,3.571428571428571,2.6785714285714284,47.32142857142857,1.3333333333333333,be think be buy
+Mma Ramotswe,Mma Makutsi,0.0,1.4423076923076923,60.09615384615385,0.0,operate be look appear
+Mma Ramotswe,Mma Makutsi,0.0,0.0,47.368421052631575,INF,notice catch be reflect
+Mma Makutsi,Mma Ramotswe,2.5,1.875,40.625,1.3333333333333333,notice glance be need
+Ladies ' Detective Agency,Mma Ramotswe,0.0,0.0,41.17647058823529,INF,be say
+Mma Ramotswe,Mma Makutsi,0.0,1.3888888888888888,20.833333333333336,0.0,sense stiffen
+Mma Ramotswe,Mma Makutsi,0.0,0.0,36.36363636363637,INF,reach touch
+Mma Ramotswe,Mma Makutsi,0.0,0.0,33.33333333333333,INF,touch
+Mma Soleti,Mma Makutsi,0.0,0.0,33.33333333333333,INF,be work
+Mma Makutsi,Mma Ramotswe,1.25,2.5,46.25,0.5,shoot puzzle
+Mma Manchwe,Mma Makutsi,1.6666666666666667,0.0,25.0,INF,say
+Mma Ramotswe,Mma Makutsi,0.9615384615384616,0.0,45.19230769230769,INF,glance be purse
+Mma Ramotswe,Mma Makutsi,0.0,4.464285714285714,9.821428571428571,0.0,be
+Motholeli,Puso,1.171875,0.0,42.578125,INF,attend have arrange include visit speak
+Motholeli,Puso,6.25,0.8928571428571428,50.0,7.0,be
+Puso,Motholeli,2.8846153846153846,0.3205128205128205,58.333333333333336,9.0,be be break sing be sing
+Mma Ramotswe,Motholeli,8.333333333333332,4.166666666666666,20.833333333333336,2.0,lower
+Puso,Mma Ramotswe,2.083333333333333,0.0,47.91666666666667,INF,have
+Mr. J.L.B. Matekoni,Mma Ramotswe,4.761904761904762,4.166666666666666,43.452380952380956,1.1428571428571428,feel exhaust be begin
+Mr. J.L.B. Matekoni,Tlokweng Road Speedy Motors,0.5555555555555556,1.1111111111111112,51.66666666666667,0.5,have give help be make be
+Tlokweng Road Speedy Motors,Mr. J.L.B. Matekoni,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Tlokweng Road Speedy Motors,Charlie,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Tlokweng Road Speedy Motors,Fanwell,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Tlokweng Road Speedy Motors,Mma Ramotswe,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Mr. J.L.B. Matekoni,Charlie,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Mr. J.L.B. Matekoni,Fanwell,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Mr. J.L.B. Matekoni,Mma Ramotswe,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Charlie,Fanwell,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Charlie,Mma Ramotswe,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Fanwell,Mma Ramotswe,0.3676470588235294,0.0,40.80882352941176,INF,pelt join
+Boss,Charlie,0.0,0.0,53.333333333333336,INF,get come say
+Charlie,Mr. J.L.B. Matekoni,0.0,6.61764705882353,34.55882352941176,0.0,be say
+Boss,Charlie,0.0,0.0,40.0,INF,come say
+Mr. J.L.B. Matekoni,Charlie,0.78125,9.375,39.84375,0.08333333333333333,stare continue
+Mr. J.L.B. Matekoni,Charlie,0.78125,9.375,39.84375,0.08333333333333333,stare continue
+Fanwell,Charlie,2.083333333333333,0.0,47.91666666666667,INF,be stare
+Mma Ramotswe,Charlie,5.555555555555555,3.4722222222222223,46.52777777777778,1.6,watch amuse be cost
+Mma Ramotswe,Charlie,5.555555555555555,3.4722222222222223,46.52777777777778,1.6,watch amuse be cost
+Mma Ramotswe,Mma Makutsi,3.4926470588235294,2.0220588235294117,50.36764705882353,1.7272727272727273,reflect be be be pick be mop be make
+Mma Sheba,Mma Makutsi,3.571428571428571,5.357142857142857,45.357142857142854,0.6666666666666666,tell do know be suggest look
+Motholeli,Puso,5.0,5.416666666666667,46.25,0.9230769230769231,be relate have have
+Edgar Molapo,Mma Makutsi,5.952380952380952,5.357142857142857,45.83333333333333,1.1111111111111112,have have do know
+Edgar Molapo,Mma Makutsi,5.952380952380952,5.357142857142857,45.83333333333333,1.1111111111111112,have have do know
+Mma Sheba,Mma Makutsi,7.738095238095238,0.0,35.11904761904761,INF,know say keep watch
+Mma Sheba,Mma Ramotswe,7.738095238095238,0.0,35.11904761904761,INF,know say keep watch
+Mma Makutsi,Mma Ramotswe,7.738095238095238,0.0,35.11904761904761,INF,know say keep watch
+Mma Ramotswe,Mma Sheba,3.4090909090909087,2.840909090909091,46.02272727272727,1.2,be be guard think be think be be
+Mma Sheba,Mma Makutsi,8.75,0.0,21.25,INF,know
+Mma Sheba,Mma Molapo,3.515625,3.515625,42.96875,1.0,have turn stand benefit be change
+Ladies ' Detective Agency,Phuti,0.4807692307692308,1.201923076923077,56.00961538461539,0.4,drive have appear decide go go
+Mma Ramotswe,Mma Molapo,2.941176470588235,1.4705882352941175,42.64705882352941,2.0,have confess stay talk be discuss be
+Mma Ramotswe,Phuti,0.0,0.0,42.30769230769231,INF,turn lead
+Mma Ramotswe,Mma Makutsi,1.9736842105263157,0.0,40.131578947368425,INF,tell have learn
+Mma Ramotswe,Mma Makutsi,3.90625,0.0,46.09375,INF,be surprise have draw have
+Mma Makutsi,Mma Ramotswe,0.0,0.0,28.57142857142857,INF,look
+Mma Ramotswe,Phuti,3.0172413793103448,6.0344827586206895,46.12068965517241,0.5,stop imagine see
+Mma Makutsi,Mma Ramotswe,7.352941176470589,5.147058823529411,34.55882352941176,1.4285714285714286,be be say
+Mma Makutsi,Botswana Secretarial College,3.125,3.90625,44.53125,0.8,want say be have miss have miss have miss have miss go have miss
+Botswana Secretarial College,Mma Makutsi,3.125,3.90625,44.53125,0.8,want say be have miss have miss have miss have miss go have miss
+Mma Makutsi,Phuti,0.4464285714285714,1.3392857142857142,48.214285714285715,0.3333333333333333,spatter be arrange telephone
+Ladies ' Detective Agency,Mma Makutsi,4.772727272727273,5.681818181818182,49.54545454545455,0.84,be make choose go be border work
+Mma Ramotswe,Itumelang,4.166666666666666,0.0,29.166666666666668,INF,wonder be put
+Mma Ramotswe,Mma Soleti,0.0,0.0,33.33333333333333,INF,enter turn
+Mma Makutsi,Mma Ramotswe,0.0,0.0,12.5,INF,say
+Mma Ramotswe,Mma Makutsi,5.208333333333334,2.083333333333333,34.375,2.5,know argue be be
+Mma Makutsi,Mma Ramotswe,2.314814814814815,1.8518518518518516,55.092592592592595,1.25,be be pay coordinate have let slip
+Mma Makutsi,Mma Molapo,4.545454545454546,1.7045454545454544,39.20454545454545,2.6666666666666665,await be
+Mma Ramotswe,Mma Makutsi,3.125,1.5625,39.0625,2.0,tell cloud
+Mma Ramotswe,Mma Manchwe,0.0,0.0,47.05882352941176,INF,riffle extract
+Mma Ramotswe,Clovis Andersen,5.859375,0.0,47.265625,INF,remember have buy entitle have
+Mma Makutsi,Mma Ramotswe,2.314814814814815,0.0,45.83333333333333,INF,enable accompany have take be look
+Mma Ramotswe,Mma Makutsi,4.5,8.0,43.5,0.5625,be be be be be
+Mr. J.L.B. Matekoni,Mma Ramotswe,5.357142857142857,1.7857142857142856,45.23809523809524,3.0,know have be miss be please see
+Mr. J.L.B. Matekoni,Mma Makutsi,5.357142857142857,1.7857142857142856,45.23809523809524,3.0,know have be miss be please see
+Mma Ramotswe,Mma Makutsi,5.357142857142857,1.7857142857142856,45.23809523809524,3.0,know have be miss be please see
+Mma Ramotswe,Mr. J.L.B. Matekoni,5.357142857142857,1.7857142857142856,45.23809523809524,3.0,know have be miss be please see
+Mma Makutsi,Mr. J.L.B. Matekoni,5.357142857142857,1.7857142857142856,45.23809523809524,3.0,know have be miss be please see
+Mr. J.L.B. Matekoni,Ladies ' Detective Agency,1.282051282051282,0.641025641025641,57.05128205128205,2.0,think be search come
+Mr. J.L.B. Matekoni,Mma Makutsi,1.282051282051282,0.641025641025641,57.05128205128205,2.0,think be search come
+Ladies ' Detective Agency,Mma Makutsi,1.282051282051282,0.641025641025641,57.05128205128205,2.0,think be search come
+Mma Makutsi,Mr. J.L.B. Matekoni,3.9473684210526314,3.070175438596491,50.877192982456144,1.2857142857142858,have prepare steam stir
+Mma Makutsi,Mma Ramotswe,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+Mma Makutsi,bush,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+Mma Ramotswe,bush,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+Mma Ramotswe,Mma Makutsi,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+Mma Ramotswe,Mma Makutsi,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+bush,Mma Makutsi,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+bush,Mma Makutsi,2.5,3.3333333333333335,40.833333333333336,0.75,make make accord know please
+Charlie,Fanwell,2.34375,0.78125,28.125,3.0,come be see
+Charlie,Mma Makutsi,2.34375,0.78125,28.125,3.0,come be see
+Fanwell,Mma Makutsi,2.34375,0.78125,28.125,3.0,come be see
+Mma Makutsi,Charlie,4.6875,1.5625,43.75,3.0,flash
+Itumelang,Charlie,0.0,0.0,27.27272727272727,INF,have meet
+Charlie,Mma Makutsi,7.6923076923076925,4.807692307692308,49.03846153846153,1.6,have see
+Charlie,Mma Makutsi,6.25,1.5625,35.9375,4.0,be be
+Mma Makutsi,Charlie,6.25,1.5625,35.9375,4.0,be be
+Charlie,Mma Makutsi,1.7857142857142856,0.0,33.92857142857143,INF,look say
+Charlie,Fanwell,0.0,0.0,50.0,INF,creep follow
+Fanwell,Mma Makutsi,0.0,0.0,33.33333333333333,INF,smile
+Fanwell,Mma Makutsi,0.0,0.0,26.666666666666668,INF,thank say glance
+Fanwell,Charlie,0.0,0.0,26.666666666666668,INF,thank say glance
+Mma Makutsi,Charlie,0.0,0.0,26.666666666666668,INF,thank say glance
+Mma Makutsi,Charlie,2.5,2.5,25.0,1.0,whisper
+Charlie,Mma Makutsi,3.125,8.59375,32.03125,0.36363636363636365,be reply
+Mma Makutsi,Charlie,3.125,8.59375,32.03125,0.36363636363636365,be reply
+Charlie,Mma Makutsi,2.272727272727273,1.1363636363636365,32.95454545454545,2.0,be
+Charlie,Mma Makutsi,2.7777777777777777,0.6944444444444444,52.083333333333336,4.0,have be peer sleep turn
+Charlie,Mma Makutsi,0.0,1.7857142857142856,48.214285714285715,0.0,think be wake whisper
+Mma Makutsi,Charlie,0.0,1.7857142857142856,48.214285714285715,0.0,think be wake whisper
+Charlie,Mma Makutsi,2.8846153846153846,0.0,35.57692307692308,INF,be wake say
+Charlie,Mma Makutsi,4.166666666666666,0.0,45.83333333333333,INF,look
+Mma Makutsi,Charlie,0.0,0.0,26.31578947368421,INF,do think do think think
+Mma Ramotswe,Mma Makutsi,12.5,0.0,27.500000000000004,INF,think have witness
+Charlie,Mma Makutsi,0.0,0.0,23.52941176470588,INF,think let say
+Charlie,Mma Makutsi,0.0,0.0,23.52941176470588,INF,think let say
+Charlie,Mma Makutsi,0.0,0.0,23.52941176470588,INF,think let say
+Fanwell,Charlie,0.0,0.0,42.857142857142854,INF,shake make
+Fanwell,Charlie,0.0,0.0,42.857142857142854,INF,shake make
+Mma Makutsi,Charlie,0.6578947368421052,0.0,41.44736842105263,INF,think say go wash
+Mma Makutsi,Charlie,0.6578947368421052,0.0,41.44736842105263,INF,think say go wash
+Charlie,Fanwell,1.1363636363636365,0.0,44.31818181818182,INF,think like say
+Charlie,Fanwell,1.1363636363636365,0.0,44.31818181818182,INF,think like say
+Charlie,Mma Makutsi,0.0,0.0,35.714285714285715,INF,see say show
+Charlie,Mma Makutsi,0.0,0.0,35.714285714285715,INF,see say show
+Mma Makutsi,Charlie,4.166666666666666,2.7777777777777777,37.5,1.5,pick
+Charlie,Mma Makutsi,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Charlie,Mma Makutsi,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Mma Makutsi,Charlie,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Mma Makutsi,Charlie,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Mma Makutsi,Charlie,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Mma Makutsi,Charlie,0.7352941176470588,0.0,28.676470588235293,INF,hold say hand
+Mma Makutsi,Charlie,0.0,0.0,30.0,INF,look say
+Mma Ramotswe,Mr. J.L.B. Matekoni,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Mma Ramotswe,Mma Makutsi,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Mma Ramotswe,Charlie,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Mr. J.L.B. Matekoni,Mma Makutsi,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Mr. J.L.B. Matekoni,Charlie,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Mma Makutsi,Charlie,0.5681818181818182,0.0,44.88636363636363,INF,catch tell be
+Charlie,Itumelang,0.0,1.3157894736842104,46.05263157894737,0.0,want get marry say hand
+Charlie,Itumelang,0.0,1.3157894736842104,46.05263157894737,0.0,want get marry say hand
+Itumelang,Charlie,0.0,1.3157894736842104,46.05263157894737,0.0,want get marry say hand
+Mma Makutsi,Charlie,0.0,1.9230769230769231,28.846153846153843,0.0,be say
+Itumelang,Charlie,6.875000000000001,0.625,37.5,11.0,need have do
+Itumelang,Mma Ramotswe,6.875000000000001,0.625,37.5,11.0,need have do
+Charlie,Mma Ramotswe,6.875000000000001,0.625,37.5,11.0,need have do
+Mma Makutsi,Itumelang,4.605263157894736,0.0,32.23684210526316,INF,have leave be
+Mma Makutsi,Mma Ramotswe,1.7857142857142856,0.0,26.785714285714285,INF,stare
+Mma Manchwe,Mma Ramotswe,0.9615384615384616,0.0,52.88461538461539,INF,study make
+Mma Ramotswe,Mma Makutsi,0.0,0.0,30.76923076923077,INF,glance return
+Violet Sephotho,Mma Makutsi,0.0,0.8928571428571428,41.964285714285715,0.0,be say
+Mma Ramotswe,Mma Makutsi,0.0,5.357142857142857,37.5,0.0,leave hear mutter
+Mma Makutsi,Mma Ramotswe,3.298611111111111,1.3888888888888888,45.3125,2.375,be make be say happen be come be prepare pay be be do say telephone
+Botswana Secretarial College,Mma Ramotswe,2.2260273972602738,3.9383561643835616,45.89041095890411,0.5652173913043478,laugh mock say get have come have be wait expose be hold
+Botswana Secretarial College,Bobonong,2.2260273972602738,3.9383561643835616,45.89041095890411,0.5652173913043478,laugh mock say get have come have be wait expose be hold
+Botswana Secretarial College,Mma Ramotswe,2.2260273972602738,3.9383561643835616,45.89041095890411,0.5652173913043478,laugh mock say get have come have be wait expose be hold
+Mma Ramotswe,Bobonong,2.2260273972602738,3.9383561643835616,45.89041095890411,0.5652173913043478,laugh mock say get have come have be wait expose be hold
+Bobonong,Mma Ramotswe,2.2260273972602738,3.9383561643835616,45.89041095890411,0.5652173913043478,laugh mock say get have come have be wait expose be hold
+Mma Makutsi,Ladies ' Detective Agency,1.875,3.4375000000000004,54.6875,0.5454545454545454,be treat do appear have take
+Mma Makutsi,Itumelang,1.875,3.4375000000000004,54.6875,0.5454545454545454,be treat do appear have take
+Ladies ' Detective Agency,Itumelang,1.875,3.4375000000000004,54.6875,0.5454545454545454,be treat do appear have take
+Mma Makutsi,Mma Ramotswe,2.631578947368421,5.921052631578947,28.289473684210524,0.4444444444444444,be reassure
+Mma Ramotswe,Itumelang,4.464285714285714,2.083333333333333,55.35714285714286,2.142857142857143,be assure do think be have point be tend be
+Mma Makutsi,Rra Molapo,8.75,1.25,10.0,7.0,know be
+Mma Ramotswe,Mma Makutsi,1.644736842105263,1.9736842105263157,35.85526315789473,0.8333333333333334,leave face spend
+Mma Soleti,Mma Molapo,2.631578947368421,2.9605263157894735,44.40789473684211,0.8888888888888888,have make have sort feel be go be
+Mma Potokwane,Mma Ramotswe,2.0,2.0,46.0,1.0,lead lead stand smile call be
+Mr. J.L.B. Matekoni,Mma Makutsi,4.6875,0.0,51.5625,INF,blurt
+Mr. J.L.B. Matekoni,Tlokweng Road Speedy Motors,0.625,0.0,49.375,INF,
+Mma Ramotswe,Charlie,2.7777777777777777,0.0,41.66666666666667,INF,shake
+Mma Makutsi,Charlie,0.0,0.0,20.0,INF,tell
+Boss,Charlie,1.6666666666666667,0.0,38.333333333333336,INF,call
+Mma Potokwane,Mma Ramotswe,3.289473684210526,0.3289473684210526,38.48684210526316,10.0,have spot get stretch call be time
+Mma Potokwane,Mma Ramotswe,3.289473684210526,0.3289473684210526,38.48684210526316,10.0,have spot get stretch call be time
+Mma Ramotswe,Mma Potokwane,0.0,0.0,22.22222222222222,INF,accompany
+Mma Potokwane,Mma Makutsi,7.196969696969697,1.5151515151515151,42.803030303030305,4.75,ask be tell expose
+Mmamodise,Mma Potokwane,2.5,1.25,16.25,2.0,be say
+Mmamodise,Mma Ramotswe,0.0,0.0,16.666666666666664,INF,turn
+Mma Ramotswe,Mmamodise,7.738095238095238,1.7857142857142856,28.57142857142857,4.333333333333333,be say look have lead
+Mma Molapo,Mma Makutsi,0.0,0.0,31.57894736842105,INF,use work hear begin
+Rra Edgar,Seretse Khama,0.5434782608695652,0.0,42.934782608695656,INF,believe work
+Rra Edgar,Seretse Khama,6.944444444444445,0.0,59.72222222222222,INF,be
+Mmamodise,Mma Makutsi,4.375,1.5625,41.5625,2.8,have add appear realise be require say be
+Rra Edgar,Mma Makutsi,7.291666666666667,1.0416666666666665,33.33333333333333,7.0,know be
+Mma Ramotswe,Mmamodise,0.0,4.166666666666666,45.83333333333333,0.0,decide know be go reveal
+Rra Edgar,Liso,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have meet have doubt come stay
+Rra Edgar,Liso,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have meet have doubt come stay
+Rra Edgar,Liso,2.314814814814815,3.2407407407407405,53.70370370370371,0.7142857142857143,have meet have doubt come stay
+Mma Ramotswe,Mmamodise,0.0,0.0,33.33333333333333,INF,look
+Rra Edgar,Mma Ramotswe,0.0,2.7777777777777777,19.444444444444446,0.0,mutter
+Mma Makutsi,Mma Ramotswe,0.0,2.5,17.5,0.0,say
+Mma Ramotswe,Mmamodise,6.8181818181818175,6.25,50.56818181818182,1.0909090909090908,speak understand do like talk
+Mma Ramotswe,Mma Potokwane,8.088235294117647,2.2058823529411766,36.76470588235294,3.6666666666666665,have be be shock
+Ladies ' Detective Agency,Itumelang,1.5625,0.9375,67.5,1.6666666666666667,arrive follow be wear
+Itumelang,Charlie,0.0,0.0,33.33333333333333,INF,see turn
+Itumelang,Mma Makutsi,0.0,0.0,33.33333333333333,INF,see turn
+Charlie,Mma Makutsi,0.0,0.0,33.33333333333333,INF,see turn
+Itumelang,Mma Makutsi,0.0,0.0,27.27272727272727,INF,say
+Itumelang,Charlie,0.0,0.0,33.33333333333333,INF,repeat reach
+Itumelang,Charlie,0.0,0.0,33.33333333333333,INF,repeat reach
+Charlie,Mma Makutsi,0.0,0.0,33.33333333333333,INF,do touch say point
+Mma Makutsi,Charlie,0.0,0.0,33.33333333333333,INF,do touch say point
+Charlie,Mma Makutsi,6.25,2.6785714285714284,41.07142857142857,2.3333333333333335,have be think say
+Mma Makutsi,Charlie,6.25,2.6785714285714284,41.07142857142857,2.3333333333333335,have be think say
+Mma Makutsi,Itumelang,0.0,0.7352941176470588,40.44117647058824,0.0,smile go put
+Mma Makutsi,Charlie,0.0,0.7352941176470588,40.44117647058824,0.0,smile go put
+Itumelang,Charlie,0.0,0.7352941176470588,40.44117647058824,0.0,smile go put
+Charlie,Mma Makutsi,1.0416666666666665,0.0,32.29166666666667,INF,be think say
+Itumelang,Mma Makutsi,0.0,0.0,45.45454545454545,INF,be settle take look
+Itumelang,Mma Ramotswe,0.0,0.0,45.45454545454545,INF,be settle take look
+Mma Makutsi,Mma Ramotswe,0.0,0.0,45.45454545454545,INF,be settle take look
+Mma Ramotswe,Mma Makutsi,6.5,3.5000000000000004,30.0,1.8571428571428572,tell
+Mma Ramotswe,Mma Molapo,6.5,3.5000000000000004,30.0,1.8571428571428572,tell
+Mma Makutsi,Mma Molapo,6.5,3.5000000000000004,30.0,1.8571428571428572,tell
+Mma Ramotswe,Mma Potokwane,7.8125,0.5208333333333333,45.83333333333333,15.0,be shock have be see make
+Mma Ramotswe,Liso,0.0,0.0,22.22222222222222,INF,return
+Liso,Mma Sheba,4.605263157894736,0.6578947368421052,36.84210526315789,7.0,be go
+Rra Edgar,Liso,2.6785714285714284,0.8928571428571428,39.285714285714285,3.0,say be go
+Liso,Mma Ramotswe,0.7575757575757576,0.0,41.66666666666667,INF,say do mean mean say
+Liso,Mma Ramotswe,0.7575757575757576,0.0,41.66666666666667,INF,say do mean mean say
+Mma Sheba,Mma Ramotswe,0.5434782608695652,2.717391304347826,35.869565217391305,0.2,be lie tell suggest say
+Liso,Rra Edgar,2.380952380952381,1.1904761904761905,44.047619047619044,2.0,tell be be think make
+Liso,Rra Edgar,2.380952380952381,1.1904761904761905,44.047619047619044,2.0,tell be be think make
+Mma Soleti,Violet Sephotho,2.0,0.5,41.5,4.0,have tell have identify be wage
+Mma Makutsi,Violet Sephotho,2.232142857142857,0.8928571428571428,46.875,2.5,be look have be take
+Mma Makutsi,Violet Sephotho,2.232142857142857,0.8928571428571428,46.875,2.5,be look have be take
+Itumelang,Phuti,0.5952380952380952,0.2976190476190476,46.726190476190474,2.0,leave sound have buy travel
+Itumelang,Mma Makutsi,0.5952380952380952,0.2976190476190476,46.726190476190474,2.0,leave sound have buy travel
+Phuti,Mma Makutsi,0.5952380952380952,0.2976190476190476,46.726190476190474,2.0,leave sound have buy travel
+Mma Soleti,Itumelang,3.571428571428571,0.5952380952380952,43.452380952380956,6.0,hand wipe have be apply
+Violet Sephotho,Mma Makutsi,2.272727272727273,2.272727272727273,31.818181818181817,1.0,be say
+Mma Soleti,Angela,4.166666666666666,2.976190476190476,50.0,1.4,be want set
+Angela,Mma Ramotswe,1.7857142857142856,0.0,26.785714285714285,INF,do
+Mma Makutsi,Mma Soleti,5.147058823529411,6.61764705882353,41.17647058823529,0.7777777777777778,do seem take
+Itumelang,Angela,2.631578947368421,3.289473684210526,51.973684210526315,0.8,have drop sleep hold lay
+Itumelang,Mma Soleti,2.631578947368421,3.289473684210526,51.973684210526315,0.8,have drop sleep hold lay
+Itumelang,Angela,2.631578947368421,3.289473684210526,51.973684210526315,0.8,have drop sleep hold lay
+Angela,Mma Soleti,2.631578947368421,3.289473684210526,51.973684210526315,0.8,have drop sleep hold lay
+Mma Soleti,Angela,2.631578947368421,3.289473684210526,51.973684210526315,0.8,have drop sleep hold lay
+Angela,Mma Ramotswe,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,take be sit have
+Mma Ramotswe,Angela,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,take be sit have
+Mma Ramotswe,Angela,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,take be sit have
+Mma Ramotswe,Angela,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,take be sit have
+Mma Makutsi,Angela,2.5,1.5,48.0,1.6666666666666667,be have sort say begin apply
+Mma Makutsi,Angela,2.5,1.5,48.0,1.6666666666666667,be have sort say begin apply
+Violet Sephotho,Angela,0.0,1.3888888888888888,20.833333333333336,0.0,say
+Angela,Mma Ramotswe,2.5,0.0,27.500000000000004,INF,rub
+Angela,Mma Ramotswe,4.411764705882353,0.0,36.76470588235294,INF,work decide be
+Mma Ramotswe,Angela,4.411764705882353,0.0,36.76470588235294,INF,work decide be
+Mma Ramotswe,Angela,4.411764705882353,0.0,36.76470588235294,INF,work decide be
+Violet Sephotho,Mma Ramotswe,0.0,3.125,30.208333333333332,0.0,want say
+Mma Ramotswe,Angela,0.0,0.0,33.33333333333333,INF,sit hold
+Angela,Mma Ramotswe,2.5,0.0,37.5,INF,remove stand
+Angela,Mma Soleti,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,return address be apply
+Angela,Mma Makutsi,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,return address be apply
+Mma Soleti,Mma Makutsi,0.9615384615384616,1.9230769230769231,47.11538461538461,0.5,return address be apply
+Angela,Violet Sephotho,1.875,6.25,41.875,0.3,think begin be
+Mma Ramotswe,Mma Makutsi,0.0,0.0,28.57142857142857,INF,glance
+Mma Makutsi,Mma Ramotswe,0.0,0.0,30.76923076923077,INF,do tell agree
+Angela,Mma Makutsi,3.5000000000000004,0.0,20.5,INF,say be have take
+Angela,Mma Makutsi,3.5000000000000004,0.0,20.5,INF,say be have take
+Angela,Mma Makutsi,3.5000000000000004,0.0,20.5,INF,say be have take
+Angela,Mma Makutsi,3.5000000000000004,0.0,20.5,INF,say be have take
+Mma Makutsi,Angela,1.1363636363636365,3.4090909090909087,50.0,0.3333333333333333,be be
+Mma Ramotswe,Mma Makutsi,0.0,0.0,14.285714285714285,INF,turn
+Violet Sephotho,Mma Ramotswe,0.0,5.357142857142857,37.5,0.0,be be say
+Mma Ramotswe,Angela,0.0,0.0,16.666666666666664,INF,turn
+Mma Makutsi,Violet Sephotho,1.0416666666666665,0.0,32.29166666666667,INF,go speak
+Mma Ramotswe,Mma Soleti,1.6304347826086956,3.804347826086957,38.04347826086957,0.42857142857142855,take whisper do hear say
+Mma Ramotswe,Angela,1.6304347826086956,3.804347826086957,38.04347826086957,0.42857142857142855,take whisper do hear say
+Mma Ramotswe,Angela,1.6304347826086956,3.804347826086957,38.04347826086957,0.42857142857142855,take whisper do hear say
+Mma Soleti,Angela,1.6304347826086956,3.804347826086957,38.04347826086957,0.42857142857142855,take whisper do hear say
+Mma Soleti,Angela,1.6304347826086956,3.804347826086957,38.04347826086957,0.42857142857142855,take whisper do hear say
+Mma Makutsi,Daisy Manchwe,2.840909090909091,2.272727272727273,44.88636363636363,1.25,be need think happen
+Mma Soleti,Mma Ramotswe,0.0,1.0416666666666665,23.958333333333336,0.0,begin protest quiet
+Mma Soleti,Angela,0.0,1.0416666666666665,23.958333333333336,0.0,begin protest quiet
+Mma Ramotswe,Angela,0.0,1.0416666666666665,23.958333333333336,0.0,begin protest quiet
+Mma Ramotswe,Mma Makutsi,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Ramotswe,Itumelang,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Ramotswe,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Ramotswe,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Makutsi,Itumelang,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Makutsi,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Makutsi,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Itumelang,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Itumelang,Phuti,0.390625,1.953125,47.65625,0.2,drive be delay collect
+Mma Makutsi,Angela,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Makutsi,Mma Soleti,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Makutsi,Mma Ramotswe,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Makutsi,Angela,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Angela,Mma Soleti,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Angela,Mma Ramotswe,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Soleti,Mma Ramotswe,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Soleti,Angela,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Ramotswe,Angela,1.7857142857142856,0.0,41.07142857142857,INF,have apply invite return share
+Mma Makutsi,Angela,2.8846153846153846,0.0,43.269230769230774,INF,have say
+Angela,Mma Makutsi,3.7037037037037033,5.092592592592593,31.944444444444443,0.7272727272727273,be say work expect
+Mma Ramotswe,Angela,0.0,0.0,50.0,INF,lean
+Mma Makutsi,Angela,5.0,3.3333333333333335,18.333333333333332,1.5,be say
+Mma Makutsi,Angela,0.0,0.0,12.5,INF,say
+Mma Makutsi,Mma Ramotswe,3.6764705882352944,0.7352941176470588,42.64705882352941,5.0,look think be
+Mma Ramotswe,Mma Makutsi,1.4423076923076923,0.0,40.86538461538461,INF,be say think be settle

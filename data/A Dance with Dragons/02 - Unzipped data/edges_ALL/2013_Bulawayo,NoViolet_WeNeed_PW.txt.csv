@@ -1,0 +1,847 @@
+NAME 1,NAME 2,% POS,% NEG,% NEUTRAL,POS:NEG,VERBS
+Bastard,Chipo,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Bastard,Godknows,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Bastard,Sbho,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Bastard,Stina,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Chipo,Godknows,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Chipo,Sbho,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Chipo,Stina,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Godknows,Sbho,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Godknows,Stina,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Sbho,Stina,0.0,2.840909090909091,33.52272727272727,0.0,hit be
+Mzilikazi,Bastard,1.9886363636363635,3.6931818181818183,62.5,0.5384615384615384,be go be allow cross be suppose be watch kill find be go
+Mzilikazi,Mother,1.9886363636363635,3.6931818181818183,62.5,0.5384615384615384,be go be allow cross be suppose be watch kill find be go
+Bastard,Mother,1.9886363636363635,3.6931818181818183,62.5,0.5384615384615384,be go be allow cross be suppose be watch kill find be go
+Bastard,Godknows,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Bastard,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Bastard,Sbho,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Bastard,Chipo,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Bastard,Paradise,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Bastard,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Godknows,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Godknows,Sbho,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Godknows,Chipo,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Godknows,Paradise,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Godknows,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Stina,Sbho,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Stina,Chipo,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Stina,Paradise,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Sbho,Chipo,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Sbho,Paradise,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Sbho,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Chipo,Paradise,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Chipo,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Paradise,Stina,2.5943396226415096,2.8301886792452833,43.63207547169811,0.9166666666666666,be win think make use outrun make
+Mzilikazi,bush,1.875,2.8125,57.8125,0.6666666666666666,cross cut zip cruise glimmer sit hit
+Chipo,Stina,0.8620689655172413,2.586206896551724,44.827586206896555,0.3333333333333333,have stop sit get have rest
+Chipo,Stina,0.8620689655172413,2.586206896551724,44.827586206896555,0.3333333333333333,have stop sit get have rest
+Bastard,Chipo,0.6944444444444444,3.4722222222222223,45.83333333333333,0.2,do like have stop do
+Stina,Chipo,1.25,0.625,48.125,2.0,have say speak do talk
+Chipo,Stina,1.25,0.625,48.125,2.0,have say speak do talk
+Godknows,Chipo,2.7777777777777777,1.3888888888888888,29.166666666666668,2.0,be reply
+Bastard,Sbho,5.681818181818182,5.113636363636364,43.75,1.1111111111111112,be be do know have
+Bastard,Stina,5.681818181818182,5.113636363636364,43.75,1.1111111111111112,be be do know have
+Sbho,Stina,5.681818181818182,5.113636363636364,43.75,1.1111111111111112,be be do know have
+Jesus,God,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,be think be do mean
+Jesus,God,2.083333333333333,1.0416666666666665,55.208333333333336,2.0,be think be do mean
+Chipo,Stina,5.0,0.0,48.333333333333336,INF,walk follow
+Bastard,Victoria,1.2755102040816326,1.7857142857142856,54.08163265306123,0.7142857142857143,stop start shout remember throw ask want begin shout join
+Bastard,Sbho,1.3392857142857142,2.6785714285714284,45.982142857142854,0.5,be go do say throw
+Sbho,Bastard,2.5,4.166666666666666,40.0,0.6,look stain
+Sbho,Bastard,8.333333333333332,4.513888888888888,48.26388888888889,1.8461538461538463,have do be be
+Sbho,Bastard,8.333333333333332,4.513888888888888,48.26388888888889,1.8461538461538463,have do be be
+Sbho,Bastard,8.333333333333332,4.513888888888888,48.26388888888889,1.8461538461538463,have do be be
+Bastard,Sbho,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Bastard,Chipo,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Bastard,Godknows,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Bastard,Stina,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Sbho,Chipo,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Sbho,Godknows,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Sbho,Bastard,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Sbho,Stina,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Chipo,Godknows,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Chipo,Bastard,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Chipo,Stina,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Godknows,Bastard,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Godknows,Stina,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Bastard,Stina,1.0416666666666665,0.0,48.95833333333333,INF,have beat have beat
+Bastard,Cornell,2.6785714285714284,9.821428571428571,58.92857142857143,0.2727272727272727,wear fade say
+Bastard,Sbho,0.0,0.0,75.0,INF,turn start walk face
+Bastard,Sbho,0.0,0.0,75.0,INF,turn start walk face
+Bastard,Paradise,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Bastard,Fambeki,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Bastard,Sbho,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Paradise,Fambeki,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Paradise,Sbho,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Fambeki,Sbho,1.0869565217391304,0.5434782608695652,33.15217391304348,2.0,take say
+Chipo,Stina,0.0,0.0,40.0,INF,walk
+Sbho,Godknows,0.0,0.0,40.0,INF,shout
+Sbho,Paradise,4.6875,2.083333333333333,43.22916666666667,2.25,know be
+Stina,Bastard,4.62962962962963,3.7037037037037033,47.22222222222222,1.25,be go school say need make say stop face
+Stina,Bastard,9.210526315789473,1.3157894736842104,47.368421052631575,7.0,do say open know be
+Stina,Bastard,9.210526315789473,1.3157894736842104,47.368421052631575,7.0,do say open know be
+Bastard,Stina,1.5625,3.90625,57.03125,0.4,bring bite
+Bastard,Stina,1.5625,3.90625,57.03125,0.4,bring bite
+Stina,Bastard,1.5625,3.90625,57.03125,0.4,bring bite
+Stina,Bastard,1.5625,3.90625,57.03125,0.4,bring bite
+Stina,Bastard,4.166666666666666,3.7037037037037033,58.79629629629629,1.125,fight want look be bore eat
+Godknows,Bastard,1.7857142857142856,8.928571428571429,32.142857142857146,0.2,say agree
+Godknows,Bastard,9.375,4.6875,42.1875,2.0,think be say please
+Chipo,Stina,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Chipo,Godknows,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Chipo,Bastard,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Stina,Godknows,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Stina,Bastard,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Godknows,Bastard,2.2435897435897436,3.205128205128205,48.3974358974359,0.7,do care be go say walk catch know end
+Bastard,Fostalina,6.896551724137931,3.0172413793103448,48.706896551724135,2.2857142857142856,be think have turn beat say
+Fostalina,Bastard,3.125,9.375,37.5,0.3333333333333333,be
+God,Godknows,2.5,0.0,37.5,INF,punish say
+God,Bastard,6.8181818181818175,11.363636363636363,54.54545454545454,0.6,do live say
+Stina,Chipo,0.0,0.0,18.75,INF,start leave follow
+Stina,Sbho,0.0,0.0,18.75,INF,start leave follow
+Stina,Godknows,0.0,0.0,18.75,INF,start leave follow
+Stina,Bastard,0.0,0.0,18.75,INF,start leave follow
+Chipo,Sbho,0.0,0.0,18.75,INF,start leave follow
+Chipo,Godknows,0.0,0.0,18.75,INF,start leave follow
+Chipo,Bastard,0.0,0.0,18.75,INF,start leave follow
+Sbho,Godknows,0.0,0.0,18.75,INF,start leave follow
+Sbho,Bastard,0.0,0.0,18.75,INF,start leave follow
+Godknows,Bastard,0.0,0.0,18.75,INF,start leave follow
+Bastard,bush,6.481481481481481,1.8518518518518516,65.74074074074075,3.5,know stay want make be
+bush,Bastard,6.481481481481481,1.8518518518518516,65.74074074074075,3.5,know stay want make be
+bush,Bastard,6.481481481481481,1.8518518518518516,65.74074074074075,3.5,know stay want make be
+Bastard,Cornell,2.8846153846153846,0.0,58.65384615384615,INF,say tighten smile
+Cornell,Bastard,2.8846153846153846,0.0,58.65384615384615,INF,say tighten smile
+Bastard,bush,2.5,1.3888888888888888,53.888888888888886,1.8,turn follow be rush be run be run laugh laugh laugh
+Bastard,Lobels,2.5,1.3888888888888888,53.888888888888886,1.8,turn follow be rush be run be run laugh laugh laugh
+bush,Lobels,2.5,1.3888888888888888,53.888888888888886,1.8,turn follow be rush be run be run laugh laugh laugh
+Bitchington Mborro,Bastard,4.62962962962963,3.7037037037037033,43.51851851851852,1.25,say be be hear
+MaDumane,Annamaria,1.8292682926829267,3.353658536585366,53.35365853658537,0.5454545454545454,finish splash have disappear see be lie
+MaDumane,Mother,1.8292682926829267,3.353658536585366,53.35365853658537,0.5454545454545454,finish splash have disappear see be lie
+Annamaria,Mother,1.8292682926829267,3.353658536585366,53.35365853658537,0.5454545454545454,finish splash have disappear see be lie
+Simon,Peter,4.411764705882353,0.0,52.450980392156865,INF,make go start count fade be do know have remember
+Simon,Andrew,4.411764705882353,0.0,52.450980392156865,INF,make go start count fade be do know have remember
+Peter,Andrew,4.411764705882353,0.0,52.450980392156865,INF,make go start count fade be do know have remember
+Mother,Jesus,0.0,0.0,70.83333333333334,INF,come be keep have
+Jesus,Makhosi,3.571428571428571,3.571428571428571,50.0,1.0,be carry be
+Makhosi,Jesus,3.125,1.0416666666666665,54.166666666666664,3.0,come be decay
+Mother,Bornfree,1.5432098765432098,1.5432098765432098,56.17283950617284,1.0,keep shut be suppose shout see be pound hold sit peer scream dictate have see
+Mother,MaDube,1.5432098765432098,1.5432098765432098,56.17283950617284,1.0,keep shut be suppose shout see be pound hold sit peer scream dictate have see
+Bornfree,MaDube,1.5432098765432098,1.5432098765432098,56.17283950617284,1.0,keep shut be suppose shout see be pound hold sit peer scream dictate have see
+Vodloza,Mother,0.390625,1.953125,57.03125,0.2,pass stand shout be
+Bastard,Mother,3.125,3.125,47.91666666666667,1.0,do know be suppose talk be
+Bastard,Mother,3.125,3.125,47.91666666666667,1.0,do know be suppose talk be
+Bastard,Mother,2.6515151515151514,1.893939393939394,53.03030303030303,1.4,start raise shut say turn leave hear
+Mother,Fambeki,0.0,0.5952380952380952,61.30952380952381,0.0,stop use tie do start
+Fambeki,Mother,4.3478260869565215,0.8152173913043478,55.70652173913043,5.333333333333333,get be be want sit be sing have climb
+Fambeki,Mother,4.3478260869565215,0.8152173913043478,55.70652173913043,5.333333333333333,get be be want sit be sing have climb
+Chipo,Mr. Hove,0.8620689655172413,0.43103448275862066,57.327586206896555,2.0,have come have elbow sit
+Mr. Hove,Chipo,0.8620689655172413,0.43103448275862066,57.327586206896555,2.0,have come have elbow sit
+Bitchington Mborro,Mikoro,5.357142857142857,0.7653061224489796,53.06122448979592,7.0,come know have begin stand start want die bore do know
+Mother,Mikoro,4.032258064516129,1.6129032258064515,55.64516129032258,2.5,pretend sing look see be move have spark
+Fambeki,God,2.083333333333333,0.0,53.47222222222222,INF,be feel be see
+British Airways,Fostalina,0.7352941176470588,0.0,69.85294117647058,INF,be go
+Fostalina,Chipo,0.5681818181818182,2.272727272727273,51.70454545454546,0.25,be take follow whisper
+God,Bitchington Mborro,3.125,0.625,58.75,5.0,tell need move want be
+God,Simon,3.125,0.625,58.75,5.0,tell need move want be
+Bitchington Mborro,God,3.125,0.625,58.75,5.0,tell need move want be
+Bitchington Mborro,God,3.125,0.625,58.75,5.0,tell need move want be
+Bitchington Mborro,Simon,3.125,0.625,58.75,5.0,tell need move want be
+God,Simon,3.125,0.625,58.75,5.0,tell need move want be
+God,Simon,3.125,0.625,58.75,5.0,tell need move want be
+Bitchington Mborro,Jesus,3.571428571428571,1.0714285714285714,61.07142857142858,3.3333333333333335,be thunder make be see
+Bitchington Mborro,Jesus,3.571428571428571,1.0714285714285714,61.07142857142858,3.3333333333333335,be thunder make be see
+Mikoro,Bitchington Mborro,3.0,0.0,53.0,INF,interrupt keep thunder do hear
+Bitchington Mborro,Jesus,2.2222222222222223,3.3333333333333335,58.88888888888889,0.6666666666666666,give become listen say command shut
+Mikoro,God,2.6785714285714284,1.7857142857142856,45.535714285714285,1.5,be silence bring be make tell be
+Bitchington Mborro,Vodloza,1.25,0.625,48.125,2.0,be wait pounce go see be refer hear come
+Bitchington Mborro,Jesus,3.260869565217391,1.6304347826086956,55.97826086956522,2.0,stand see command sit ask rise get have tell be come
+Bitchington Mborro,God,3.260869565217391,1.6304347826086956,55.97826086956522,2.0,stand see command sit ask rise get have tell be come
+Jesus,God,3.260869565217391,1.6304347826086956,55.97826086956522,2.0,stand see command sit ask rise get have tell be come
+Bitchington Mborro,Jesus,2.1739130434782608,0.5434782608695652,49.45652173913043,4.0,pray pin call scream
+Jesus,Chipo,1.0416666666666665,3.6458333333333335,45.3125,0.2857142857142857,do be do say shake want break
+Jesus,Chipo,1.0416666666666665,3.6458333333333335,45.3125,0.2857142857142857,do be do say shake want break
+Mother,Bitchington Mborro,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Mother,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Mother,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Mother,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Bitchington Mborro,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Bitchington Mborro,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Bitchington Mborro,Jesus,8.19672131147541,2.459016393442623,58.19672131147541,3.3333333333333335,bring be make be be be be be lie clobber nail
+Jesus,Laden,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Jesus,Chipo,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Jesus,Mother,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Laden,Chipo,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Laden,Mother,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Chipo,Mother,3.125,1.1029411764705883,64.88970588235294,2.8333333333333335,do be come play find be be get pin clamp be say come be
+Sbho,Moshe,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Sbho,Moshe,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Sbho,Paradise,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Sbho,Moshe,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Moshe,Paradise,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Moshe,Paradise,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Paradise,Moshe,5.296610169491525,1.4830508474576272,38.983050847457626,3.5714285714285716,do come be make come find work tell come want talk do know
+Bastard,Moshe,0.0,5.833333333333333,40.833333333333336,0.0,stand shout want see
+Moshe,Bastard,1.3888888888888888,6.944444444444445,58.333333333333336,0.2,do say
+Godknows,Bastard,0.6944444444444444,0.0,54.861111111111114,INF,be draw say pick
+NGO,Fambeki,1.1904761904761905,2.976190476190476,52.976190476190474,0.4,be run see pass head
+Bastard,Godknows,2.631578947368421,4.605263157894736,50.6578947368421,0.5714285714285714,turn cover be hide
+Godknows,Bastard,1.7857142857142856,0.0,62.5,INF,say be beat
+Sis Betty,NGO,1.5151515151515151,3.4090909090909087,64.77272727272727,0.4444444444444444,be get stop scream do do understand
+Sis Betty,NGO,1.5151515151515151,3.4090909090909087,64.77272727272727,0.4444444444444444,be get stop scream do do understand
+Sis Betty,NGO,4.464285714285714,3.571428571428571,41.964285714285715,1.25,turn smile
+NGO,MotherLove,2.5,10.0,44.166666666666664,0.25,take stand wave smile
+NGO,MotherLove,2.5,10.0,44.166666666666664,0.25,take stand wave smile
+NGO,MotherLove,1.0416666666666665,3.125,62.5,0.3333333333333333,hold grin
+Bastard,Stina,0.0,0.0,60.0,INF,turn look
+Stina,Bastard,0.0,0.0,60.0,INF,turn look
+Godknows,Bastard,1.7857142857142856,2.976190476190476,42.857142857142854,0.6,cry make be
+Godknows,NGO,1.7857142857142856,2.976190476190476,42.857142857142854,0.6,cry make be
+Bastard,NGO,1.7857142857142856,2.976190476190476,42.857142857142854,0.6,cry make be
+Mother,Bastard,4.761904761904762,2.380952380952381,54.761904761904766,2.0,tell be hunt sleep
+Mother,Bastard,4.761904761904762,2.380952380952381,54.761904761904766,2.0,tell be hunt sleep
+Paradise,Mother,3.804347826086957,5.978260869565218,33.69565217391305,0.6363636363636364,be want
+Josephat,Ncane,2.7777777777777777,0.0,41.66666666666667,INF,be hear
+Ncane,Josephat,0.4807692307692308,0.0,37.980769230769226,INF,knock
+BBC,Jesus,2.1929824561403506,2.1929824561403506,51.75438596491229,1.0,say come shake look take be say be tear be tear
+Fambeki,Godknows,3.75,3.125,48.125,1.2,be be appear say
+MotherLove,Paradise,2.403846153846154,1.4423076923076923,50.0,1.6666666666666667,go be do have bend
+MotherLove,Jesus,2.8846153846153846,1.9230769230769231,49.03846153846153,1.5,stand start
+Bastard,Godknows,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Bastard,Stina,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Bastard,Sbho,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Godknows,Stina,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Godknows,Sbho,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Stina,Sbho,5.0,1.7857142857142856,41.785714285714285,2.8,be leave be be
+Sbho,Chipo,3.4482758620689653,3.0172413793103448,52.1551724137931,1.1428571428571428,be read let come need help
+Sbho,bush,2.5735294117647056,1.4705882352941175,63.60294117647059,1.75,emerge carry do know be
+Sbho,Chipo,2.5,0.625,51.87500000000001,4.0,hand sprinkle stir sit take drink ask
+Sbho,Chipo,1.893939393939394,0.0,49.621212121212125,INF,tell lie kneel lift push expose grow
+Sbho,Chipo,1.893939393939394,0.0,49.621212121212125,INF,tell lie kneel lift push expose grow
+Sbho,Chipo,2.083333333333333,0.0,39.58333333333333,INF,start poke
+Dr. Bullet,Sbho,5.288461538461538,0.9615384615384616,51.442307692307686,5.5,be be be be say nod
+Sbho,Chipo,1.293103448275862,0.8620689655172413,53.01724137931034,1.5,be remember be be say make cut
+Dr. Cutter,Sbho,3.125,2.5,34.375,1.25,be say ignore
+Dr. Cutter,Sbho,3.125,2.5,34.375,1.25,be say ignore
+Dr. Bullet,Dr. Cutter,3.6111111111111107,0.8333333333333334,57.77777777777777,4.333333333333333,think collect be rub realize be run help
+Dr. Bullet,Dr. Cutter,0.0,0.0,58.333333333333336,INF,do stop keep massage massage
+Fostalina,Dr. Bullet,0.5952380952380952,3.571428571428571,48.214285714285715,0.16666666666666666,look see think need take
+Dr. Bullet,Fostalina,0.5952380952380952,3.571428571428571,48.214285714285715,0.16666666666666666,look see think need take
+Dr. Bullet,Fostalina,0.5952380952380952,3.571428571428571,48.214285714285715,0.16666666666666666,look see think need take
+MotherLove,Sbho,0.9259259259259258,3.2407407407407405,51.388888888888886,0.2857142857142857,see pee start run call point
+Sbho,Mother,2.272727272727273,1.1363636363636365,51.13636363636363,2.0,be draw
+Mother,Chipo,7.291666666666667,0.0,51.041666666666664,INF,say look keep cry
+MotherLove,Sbho,0.0,0.0,20.0,INF,turn
+Sbho,Mother,2.083333333333333,0.0,47.91666666666667,INF,look say say do
+Chipo,Mother,0.0,8.333333333333332,36.11111111111111,0.0,raise start wail
+MotherLove,Mother,4.605263157894736,3.9473684210526314,49.34210526315789,1.1666666666666667,shake heave be fall
+MotherLove,Mother,4.605263157894736,3.9473684210526314,49.34210526315789,1.1666666666666667,shake heave be fall
+MotherLove,Mother,4.605263157894736,3.9473684210526314,49.34210526315789,1.1666666666666667,shake heave be fall
+MotherLove,Chipo,7.8125,0.0,42.1875,INF,reach hold
+Chipo,Mother,6.25,0.0,53.75,INF,stop cry wrap do reach
+Chipo,MotherLove,6.25,0.0,53.75,INF,stop cry wrap do reach
+Mother,MotherLove,6.25,0.0,53.75,INF,stop cry wrap do reach
+Jesus,Laden,2.734375,5.729166666666666,51.953125,0.4772727272727273,come forget send love visit move talk vomit vomit vomit defecate smell rot come play find be
+Jesus,Laden,2.734375,5.729166666666666,51.953125,0.4772727272727273,come forget send love visit move talk vomit vomit vomit defecate smell rot come play find be
+Jesus,Laden,2.734375,5.729166666666666,51.953125,0.4772727272727273,come forget send love visit move talk vomit vomit vomit defecate smell rot come play find be
+Jesus,Laden,2.734375,5.729166666666666,51.953125,0.4772727272727273,come forget send love visit move talk vomit vomit vomit defecate smell rot come play find be
+Jesus,Mother,1.3888888888888888,0.6944444444444444,59.02777777777778,2.0,look look do
+God,Mother,4.583333333333333,4.583333333333333,62.5,1.0,be get be forsake be say rub be wash be apologize be
+God,Mother,4.583333333333333,4.583333333333333,62.5,1.0,be get be forsake be say rub be wash be apologize be
+Mother,God,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+Mother,God,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+Mother,God,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+Mother,Laden,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+God,Laden,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+God,Laden,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+God,Laden,4.166666666666666,2.083333333333333,62.268518518518526,2.0,say know be space count miss speak play find
+Mother,God,0.0,0.0,50.0,INF,be feel say
+Stina,Godknows,2.976190476190476,3.571428571428571,60.11904761904761,0.8333333333333334,read be look
+Bastard,Sbho,6.854838709677419,3.6290322580645165,41.12903225806452,1.8888888888888888,be narrow watch be steal be twist be
+Bastard,Stina,6.854838709677419,3.6290322580645165,41.12903225806452,1.8888888888888888,be narrow watch be steal be twist be
+Sbho,Stina,6.854838709677419,3.6290322580645165,41.12903225806452,1.8888888888888888,be narrow watch be steal be twist be
+Fambeki,Mother,0.8620689655172413,2.586206896551724,55.172413793103445,0.3333333333333333,climb be ask come pray
+Fambeki,Bitchington Mborro,0.8620689655172413,2.586206896551724,55.172413793103445,0.3333333333333333,climb be ask come pray
+Mother,Bitchington Mborro,0.8620689655172413,2.586206896551724,55.172413793103445,0.3333333333333333,climb be ask come pray
+Mother,God,0.625,0.3125,59.06249999999999,2.0,wipe drip tell show have be have leave
+Mother,God,0.625,0.3125,59.06249999999999,2.0,wipe drip tell show have be have leave
+Mother,Fambeki,4.5,1.0,50.5,4.5,have go sell be pray be fast
+Mother,Fambeki,4.5,1.0,50.5,4.5,have go sell be pray be fast
+Bitchington Mborro,Mother,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+Bitchington Mborro,Fambeki,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+Bitchington Mborro,God,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+Mother,Fambeki,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+Mother,God,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+Fambeki,God,1.9642857142857142,2.3214285714285716,58.57142857142858,0.8461538461538461,afford say get be be be do get pray pray pray ignore
+God,Bastard,0.992063492063492,2.7777777777777777,50.198412698412696,0.35714285714285715,be tell do do do be tuck do like punish keep wake go wash be say
+Jobho,Godknows,0.3676470588235294,3.308823529411765,46.32352941176471,0.1111111111111111,die want go be end be sing say
+Godknows,Jobho,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,Sbho,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,Jobho,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Godknows,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,Sbho,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Sbho,Jobho,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Sbho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Sbho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Sbho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Sbho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,2.314814814814815,0.7716049382716049,53.70370370370371,3.0,start join listen sing be scratch be leave scratch do lie scratch be torture play see have
+Jobho,God,10.0,3.5000000000000004,54.50000000000001,2.857142857142857,make call know be occupy look
+Stina,Bastard,7.065217391304348,5.434782608695652,44.02173913043478,1.3,reach take start move move
+Godknows,Bastard,2.380952380952381,5.952380952380952,39.285714285714285,0.4,be say clap talk
+Godknows,Sbho,0.5952380952380952,0.0,37.5,INF,refrain utilize be address say
+Stina,Bastard,0.4464285714285714,3.125,46.42857142857143,0.14285714285714285,have dry see say point be yell clap
+Sbho,Stina,0.0,3.125,55.208333333333336,0.0,stop cry hear
+God,Jesus,4.017857142857143,0.0,53.125,INF,know do have pray
+Sbho,Bastard,1.25,6.666666666666667,55.41666666666667,0.1875,say have hear fall have call
+Chipo,Godknows,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,be go have stay be go say sound be feed
+Chipo,Bastard,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,be go have stay be go say sound be feed
+Godknows,Bastard,1.3513513513513513,0.33783783783783783,60.47297297297297,4.0,be go have stay be go say sound be feed
+Bastard,Stina,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Bastard,Godknows,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Stina,Bastard,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Stina,Godknows,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Stina,Bastard,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Bastard,Godknows,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Godknows,Bastard,2.0161290322580645,1.2096774193548387,58.06451612903226,1.6666666666666667,start move slide reach grab do be
+Stina,Godknows,1.3888888888888888,0.0,50.46296296296296,INF,sit wait hold be be let
+Stina,Bastard,1.3888888888888888,0.0,50.46296296296296,INF,sit wait hold be be let
+Godknows,Bastard,1.3888888888888888,0.0,50.46296296296296,INF,sit wait hold be be let
+Bastard,Godknows,1.3888888888888888,2.7777777777777777,55.092592592592595,0.5,come push be have
+Godknows,Bastard,1.3888888888888888,2.7777777777777777,55.092592592592595,0.5,come push be have
+Godknows,Bastard,1.3888888888888888,2.7777777777777777,55.092592592592595,0.5,come push be have
+Sbho,Bastard,4.166666666666666,2.7777777777777777,48.61111111111111,1.5,say mean do know
+Bitchington Mborro,Bastard,0.3205128205128205,5.448717948717949,53.205128205128204,0.058823529411764705,be do wear say tell keep continue bark bark bark
+Bitchington Mborro,Bastard,0.3205128205128205,5.448717948717949,53.205128205128204,0.058823529411764705,be do wear say tell keep continue bark bark bark
+Jesus,Sbho,1.875,0.625,57.49999999999999,3.0,see be kill say
+Jesus,Godknows,0.9615384615384616,0.0,52.88461538461539,INF,mean own say
+Makhosi,Bastard,1.3157894736842104,3.289473684210526,48.026315789473685,0.4,be work
+Sbho,Bastard,2.925531914893617,2.393617021276596,58.51063829787234,1.2222222222222223,be smash get stand
+Bastard,Sbho,4.6875,7.8125,50.0,0.6,get
+Godknows,Stina,1.5,3.5000000000000004,51.0,0.42857142857142855,push want get
+Stina,Godknows,1.5,3.5000000000000004,51.0,0.42857142857142855,push want get
+Stina,Sbho,1.5,2.5,56.00000000000001,0.6,laugh give laugh give laugh give
+Stina,Bastard,1.5,2.5,56.00000000000001,0.6,laugh give laugh give laugh give
+Sbho,Bastard,1.5,2.5,56.00000000000001,0.6,laugh give laugh give laugh give
+Jesus,Dan,4.464285714285714,0.0,45.535714285714285,INF,find be go
+MotherLove,Paradise,1.1904761904761905,0.5952380952380952,55.35714285714286,2.0,do sleep
+Bornfree,MaDube,0.7142857142857143,8.571428571428571,50.71428571428571,0.08333333333333333,be wear die be suppose wear
+Bitchington Mborro,Bornfree,1.9230769230769231,0.0,63.46153846153846,INF,read say call be try lead
+Bitchington Mborro,Fambeki,0.641025641025641,1.282051282051282,51.92307692307693,0.5,follow keep pray come pray
+Fambeki,bush,2.0408163265306123,0.5102040816326531,54.59183673469388,4.0,be see be light rise tumble maul happen pass
+Fambeki,God,1.5625,2.34375,56.510416666666664,0.6666666666666666,come fold trickle drag be do ignore
+Bornfree,MaDube,1.0,1.0,54.0,1.0,be have become rage
+Bornfree,MaDube,0.9868421052631579,0.6578947368421052,50.98684210526315,1.5,be form put mark sink
+Sbho,Bastard,1.7045454545454544,3.4090909090909087,44.88636363636363,0.5,start say shut see be
+MaDube,Bornfree,1.4285714285714286,0.35714285714285715,55.35714285714286,4.0,see be pat line make
+Bornfree,Bastard,6.25,5.681818181818182,51.70454545454546,1.1,be find kill burn
+Bornfree,Bastard,6.25,5.681818181818182,51.70454545454546,1.1,be find kill burn
+Bastard,Bornfree,1.7857142857142856,3.571428571428571,61.30952380952381,0.5,be start interrupt say be
+Godknows,Bornfree,4.807692307692308,3.8461538461538463,52.88461538461539,1.25,start make groan know be become bring come
+Stina,Jesus,0.0,6.944444444444445,37.5,0.0,take do
+Bastard,Bornfree,1.9230769230769231,5.769230769230769,53.84615384615385,0.3333333333333333,pounce be
+Chipo,Bornfree,0.0,0.0,40.0,INF,climb have become
+Chipo,MaDube,0.0,0.0,40.0,INF,climb have become
+Bornfree,MaDube,0.0,0.0,40.0,INF,climb have become
+Sbho,MaDube,6.0,3.0,55.00000000000001,2.0,run hold thrash possess scream scream
+MaDube,Paradise,3.125,1.875,60.0,1.6666666666666667,be be stand do
+Bastard,Stina,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Bastard,Godknows,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Bastard,Chipo,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Bastard,Sbho,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Stina,Godknows,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Stina,Chipo,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Stina,Sbho,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Godknows,Chipo,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Godknows,Sbho,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+Chipo,Sbho,0.6944444444444444,10.416666666666668,33.33333333333333,0.06666666666666667,be call
+MaDube,Fostalina,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+MaDube,Bornfree,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+MaDube,Fostalina,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+MaDube,Fostalina,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+Fostalina,Bornfree,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+Bornfree,Fostalina,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+Bornfree,Fostalina,7.03125,3.125,42.96875,2.25,be suffer kill do know be
+Kojo,Fostalina,3.125,2.604166666666667,46.35416666666667,1.2,be do think be come say
+Kojo,Fostalina,3.125,2.604166666666667,46.35416666666667,1.2,be do think be come say
+Kojo,Fostalina,3.125,2.604166666666667,46.35416666666667,1.2,be do think be come say
+Bastard,Godknows,5.0,5.0,26.0,1.0,be be be be be
+Bastard,Chipo,5.0,5.0,26.0,1.0,be be be be be
+Bastard,Stina,5.0,5.0,26.0,1.0,be be be be be
+Bastard,Godknows,5.0,5.0,26.0,1.0,be be be be be
+Godknows,Chipo,5.0,5.0,26.0,1.0,be be be be be
+Godknows,Stina,5.0,5.0,26.0,1.0,be be be be be
+Chipo,Stina,5.0,5.0,26.0,1.0,be be be be be
+Chipo,Godknows,5.0,5.0,26.0,1.0,be be be be be
+Stina,Godknows,5.0,5.0,26.0,1.0,be be be be be
+Fostalina,Mother,1.7857142857142856,0.8928571428571428,47.32142857142857,2.0,be be
+Fostalina,Mother,3.8793103448275863,2.1551724137931036,62.93103448275862,1.8,be think be have be bear have become
+Mother,Fostalina,3.8793103448275863,2.1551724137931036,62.93103448275862,1.8,be think be have be bear have become
+Mother,Fostalina,3.8793103448275863,2.1551724137931036,62.93103448275862,1.8,be think be have be bear have become
+Mother,Vodloza,0.2777777777777778,0.0,59.72222222222222,INF,leave take make smoke sneeze sneeze smile say be bear
+Vodloza,Fostalina,1.25,1.875,36.875,0.6666666666666666,nod show say be
+Kojo,Fostalina,4.391891891891892,0.0,57.770270270270274,INF,look walk fold say know do understand be do
+Fostalina,Kojo,4.391891891891892,0.0,57.770270270270274,INF,look walk fold say know do understand be do
+Fostalina,Kojo,4.391891891891892,0.0,57.770270270270274,INF,look walk fold say know do understand be do
+Fostalina,Kojo,0.7352941176470588,0.0,34.55882352941176,INF,say be go do
+Kojo,Fostalina,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,do seem bother listen say
+Fostalina,Kojo,3.4722222222222223,2.083333333333333,50.0,1.6666666666666667,do seem bother listen say
+Sbho,Bastard,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Sbho,Chipo,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Sbho,Godknows,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Sbho,Stina,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Bastard,Chipo,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Bastard,Godknows,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Bastard,Stina,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Chipo,Godknows,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Chipo,Stina,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Godknows,Stina,0.0,2.976190476190476,39.88095238095239,0.0,be steal
+Fostalina,Prince,1.25,0.0,68.75,INF,arrive be move live call
+Fostalina,Prince,1.25,0.0,68.75,INF,arrive be move live call
+Fostalina,Prince,1.25,0.0,68.75,INF,arrive be move live call
+Prince,Kojo,2.8846153846153846,0.9615384615384616,69.23076923076923,3.0,be look look have
+Prince,Kojo,2.8846153846153846,0.9615384615384616,69.23076923076923,3.0,be look look have
+Kojo,Fostalina,5.0,2.142857142857143,52.85714285714286,2.3333333333333335,come say know do understand be
+Kojo,Fostalina,5.0,2.142857142857143,52.85714285714286,2.3333333333333335,come say know do understand be
+Fostalina,Kojo,3.571428571428571,1.7857142857142856,51.78571428571429,2.0,look squeeze say
+Kojo,Fostalina,0.7352941176470588,3.6764705882352944,42.64705882352941,0.2,say start cook
+Kojo,Fostalina,11.666666666666666,5.833333333333333,49.166666666666664,2.0,think be do understand say be
+Fostalina,Kojo,11.666666666666666,5.833333333333333,49.166666666666664,2.0,think be do understand say be
+Fostalina,Kojo,11.666666666666666,5.833333333333333,49.166666666666664,2.0,think be do understand say be
+Kojo,Prince,3.6764705882352944,0.0,43.38235294117647,INF,say be look
+Kojo,Prince,3.6764705882352944,0.0,43.38235294117647,INF,say be look
+Fostalina,Kojo,2.941176470588235,1.8382352941176472,42.279411764705884,1.6,look want cut say see be cope happen
+Kojo,Fostalina,2.941176470588235,1.8382352941176472,42.279411764705884,1.6,look want cut say see be cope happen
+Kojo,Fostalina,2.941176470588235,1.8382352941176472,42.279411764705884,1.6,look want cut say see be cope happen
+Fostalina,Mother,2.0161290322580645,4.838709677419355,64.11290322580645,0.4166666666666667,leave do force beat be do want
+Fostalina,Mother,2.0161290322580645,4.838709677419355,64.11290322580645,0.4166666666666667,leave do force beat be do want
+Fostalina,Prince,8.333333333333332,5.0,53.333333333333336,1.6666666666666667,shake make stop be
+Fostalina,Prince,8.333333333333332,5.0,53.333333333333336,1.6666666666666667,shake make stop be
+Prince,Fostalina,8.333333333333332,5.0,53.333333333333336,1.6666666666666667,shake make stop be
+Prince,Fostalina,8.333333333333332,5.0,53.333333333333336,1.6666666666666667,shake make stop be
+Prince,Fostalina,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Prince,Fostalina,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Fostalina,Prince,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Fostalina,Prince,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Prince,Fostalina,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Fostalina,Prince,2.083333333333333,0.6944444444444444,63.888888888888886,3.0,stop wrap be
+Prince,Fostalina,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,quieten
+Fostalina,Prince,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,quieten
+Fostalina,Prince,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,quieten
+Fostalina,Prince,0.8928571428571428,0.8928571428571428,41.07142857142857,1.0,quieten
+Prince,Fostalina,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Prince,Fostalina,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Prince,Fostalina,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Prince,Fostalina,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Fostalina,Prince,2.734375,1.6927083333333333,42.44791666666667,1.6153846153846154,start talk sing sing sing hammer want make bleed be go be go see be see
+Bastard,Godknows,1.25,3.125,35.625,0.4,be return
+Bastard,Sbho,1.25,3.125,35.625,0.4,be return
+Bastard,Stina,1.25,3.125,35.625,0.4,be return
+Bastard,Chipo,1.25,3.125,35.625,0.4,be return
+Godknows,Sbho,1.25,3.125,35.625,0.4,be return
+Godknows,Stina,1.25,3.125,35.625,0.4,be return
+Godknows,Chipo,1.25,3.125,35.625,0.4,be return
+Sbho,Stina,1.25,3.125,35.625,0.4,be return
+Sbho,Chipo,1.25,3.125,35.625,0.4,be return
+Stina,Chipo,1.25,3.125,35.625,0.4,be return
+Miriam Makeba,Lucky Dube,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Miriam Makeba,Brenda Fassie,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Miriam Makeba,Hugh Masekela,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Miriam Makeba,Mother,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Lucky Dube,Brenda Fassie,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Lucky Dube,Hugh Masekela,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Lucky Dube,Mother,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Brenda Fassie,Hugh Masekela,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Brenda Fassie,Mother,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Hugh Masekela,Mother,1.650943396226415,0.4716981132075472,33.72641509433962,3.5,play play play remember be sing
+Tom,Google,3.048780487804878,2.1341463414634148,60.670731707317074,1.4285714285714286,remember want fight call have have hear be be learn
+Tom,Google,3.048780487804878,2.1341463414634148,60.670731707317074,1.4285714285714286,remember want fight call have have hear be be learn
+Kojo,Fostalina,0.4807692307692308,0.4807692307692308,68.26923076923077,1.0,do respond finish put gloss smack have see do
+Kojo,Fostalina,1.744186046511628,1.4534883720930232,59.59302325581395,1.2,be blare come be shout have wake be shout be say
+Kojo,Fostalina,1.744186046511628,1.4534883720930232,59.59302325581395,1.2,be blare come be shout have wake be shout be say
+Kojo,Fostalina,0.0,8.653846153846153,37.5,0.0,ignore get mutter
+Fostalina,Kojo,3.125,0.625,51.24999999999999,5.0,say retrieve
+Fostalina,JCPenney,5.0,1.25,43.75,4.0,go buy
+JCPenney,Fostalina,5.0,1.25,43.75,4.0,go buy
+JCPenney,Fostalina,5.681818181818182,0.8522727272727272,43.465909090909086,6.666666666666667,spend try want run find want cling
+JCPenney,Fostalina,5.681818181818182,0.8522727272727272,43.465909090909086,6.666666666666667,spend try want run find want cling
+JCPenney,Fostalina,5.681818181818182,0.8522727272727272,43.465909090909086,6.666666666666667,spend try want run find want cling
+Fostalina,Dumi,8.088235294117647,2.941176470588235,50.73529411764706,2.75,look be smile look know be be be
+Fostalina,Dumi,8.088235294117647,2.941176470588235,50.73529411764706,2.75,look be smile look know be be be
+Fostalina,Dumi,8.088235294117647,2.941176470588235,50.73529411764706,2.75,look be smile look know be be be
+Paradise,NGO,3.7037037037037033,3.2407407407407405,52.31481481481482,1.1428571428571428,be see be be take
+Tshaka Zulu,Bitchington Mborro,4.25531914893617,0.7978723404255319,58.77659574468085,5.333333333333333,have remind be be sing lose be seat smile be
+Bitchington Mborro,Tshaka Zulu,4.25531914893617,0.7978723404255319,58.77659574468085,5.333333333333333,have remind be be sing lose be seat smile be
+Bitchington Mborro,Tshaka Zulu,4.25531914893617,0.7978723404255319,58.77659574468085,5.333333333333333,have remind be be sing lose be seat smile be
+Fostalina,Kojo,2.586206896551724,0.8620689655172413,51.724137931034484,3.0,be eat have pile have be starve
+Dumi,Kojo,4.326923076923077,4.807692307692308,48.55769230769231,0.9,be look go be be
+Mandla,Dumi,4.6875,1.5625,31.25,3.0,be say
+Mandla,Dumi,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,be say hear
+Dumi,Mandla,4.166666666666666,0.8333333333333334,48.333333333333336,5.0,be say hear
+Dumi,Mandla,0.5434782608695652,0.0,55.97826086956522,INF,pass say ruffle
+Dumi,Mandla,0.5434782608695652,0.0,55.97826086956522,INF,pass say ruffle
+Dumi,Mandla,0.5434782608695652,0.0,55.97826086956522,INF,pass say ruffle
+Mandla,Dumi,2.941176470588235,0.0,67.64705882352942,INF,squirm want be let
+Mandla,Fostalina,0.0,0.0,58.82352941176471,INF,throw
+Mandla,Fostalina,0.0,0.0,58.82352941176471,INF,throw
+Mandla,Fostalina,0.0,0.0,58.82352941176471,INF,throw
+Mandla,Dumi,0.8928571428571428,1.7857142857142856,33.035714285714285,0.5,do do say
+Mandla,Fostalina,0.625,3.125,51.24999999999999,0.2,apologize lean fall
+Fostalina,Mandla,0.625,3.125,51.24999999999999,0.2,apologize lean fall
+Dumi,Mandla,0.0,0.6944444444444444,49.30555555555556,0.0,finish wipe hold
+Dumi,Mandla,0.0,0.6944444444444444,49.30555555555556,0.0,finish wipe hold
+Dumi,Mandla,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,say look see be use get want
+Dumi,Mandla,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,say look see be use get want
+Dumi,Mandla,4.166666666666666,1.25,54.58333333333333,3.3333333333333335,say look see be use get want
+Mandla,Dumi,0.0,0.0,47.368421052631575,INF,scrunch start cry look
+Mandla,Fostalina,0.0,0.0,47.368421052631575,INF,scrunch start cry look
+Mandla,Dumi,0.0,0.0,47.368421052631575,INF,scrunch start cry look
+Mandla,Fostalina,0.0,0.0,47.368421052631575,INF,scrunch start cry look
+Dumi,Fostalina,0.0,0.0,47.368421052631575,INF,scrunch start cry look
+Mandla,Dumi,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,stand look do
+Dumi,Mandla,0.8333333333333334,1.6666666666666667,44.166666666666664,0.5,stand look do
+Dumi,Mandla,5.769230769230769,1.4423076923076923,50.480769230769226,4.0,shake tell be do know do
+Dumi,Mandla,5.769230769230769,1.4423076923076923,50.480769230769226,4.0,shake tell be do know do
+Dumi,Mandla,5.769230769230769,1.4423076923076923,50.480769230769226,4.0,shake tell be do know do
+Dumi,Mandla,6.0344827586206895,3.4482758620689653,56.03448275862068,1.75,be carry know be be scream get pay
+Dumi,Mandla,6.0344827586206895,3.4482758620689653,56.03448275862068,1.75,be carry know be be scream get pay
+Dumi,Mandla,6.0344827586206895,3.4482758620689653,56.03448275862068,1.75,be carry know be be scream get pay
+Dumi,Mandla,6.0344827586206895,3.4482758620689653,56.03448275862068,1.75,be carry know be be scream get pay
+Dumi,Mandla,6.0344827586206895,3.4482758620689653,56.03448275862068,1.75,be carry know be be scream get pay
+Dumi,Mandla,2.2058823529411766,0.0,50.73529411764706,INF,be relieve carry lead
+Fostalina,Mandla,5.681818181818182,7.954545454545454,43.18181818181818,0.7142857142857143,have be have be be be
+Fostalina,Mandla,5.681818181818182,7.954545454545454,43.18181818181818,0.7142857142857143,have be have be be be
+Fostalina,Mandla,5.681818181818182,7.954545454545454,43.18181818181818,0.7142857142857143,have be have be be be
+Fostalina,Mandla,5.681818181818182,7.954545454545454,43.18181818181818,0.7142857142857143,have be have be be be
+Fostalina,Mother,2.027027027027027,1.3513513513513513,56.08108108108109,1.5,tell want go visit see be
+Fostalina,Mother,2.027027027027027,1.3513513513513513,56.08108108108109,1.5,tell want go visit see be
+Fostalina,Victoria,1.9736842105263157,1.9736842105263157,64.47368421052632,1.0,be look wear
+Fostalina,Paradise,4.166666666666666,0.8928571428571428,56.845238095238095,4.666666666666667,keep chew understand take leave leave find
+Bastard,Stina,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Bastard,Godknows,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Bastard,Chipo,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Bastard,Sbho,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Stina,Godknows,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Stina,Chipo,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Stina,Sbho,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Godknows,Chipo,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Godknows,Sbho,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Chipo,Sbho,2.941176470588235,2.941176470588235,47.05882352941176,1.0,have lose leave promise stay
+Fostalina,Mzilikazi,2.027027027027027,1.0135135135135136,59.12162162162162,2.0,write be be write remember say get
+Fambeki,Paradise,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Fambeki,Mother,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Fambeki,Mother,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Fambeki,MotherLove,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Fambeki,Bitchington Mborro,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Paradise,Mother,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Paradise,Mother,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Paradise,MotherLove,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Paradise,Bitchington Mborro,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Mother,MotherLove,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Mother,Bitchington Mborro,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Mother,MotherLove,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Mother,Bitchington Mborro,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+MotherLove,Bitchington Mborro,0.3205128205128205,4.166666666666666,46.794871794871796,0.07692307692307693,miss miss miss miss miss
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Fostalina,Mother,4.310344827586207,3.8793103448275863,53.879310344827594,1.1111111111111112,be work be finish pay buy
+Mother,Fostalina,0.7352941176470588,1.4705882352941175,65.44117647058823,0.5,be be bear be fight
+Fostalina,Kojo,2.5,0.0,52.5,INF,glare get leave say
+Fostalina,Kojo,2.840909090909091,2.840909090909091,56.439393939393945,1.0,say leave be tell have be wait leave say do mind ban be throw pump
+Fostalina,Kojo,2.840909090909091,2.840909090909091,56.439393939393945,1.0,say leave be tell have be wait leave say do mind ban be throw pump
+Fostalina,Kojo,2.840909090909091,2.840909090909091,56.439393939393945,1.0,say leave be tell have be wait leave say do mind ban be throw pump
+Fostalina,Kojo,2.840909090909091,2.840909090909091,56.439393939393945,1.0,say leave be tell have be wait leave say do mind ban be throw pump
+Fostalina,Victoria,0.6944444444444444,1.3888888888888888,59.02777777777778,0.5,poke say
+Victoria,Fostalina,0.6944444444444444,1.3888888888888888,59.02777777777778,0.5,poke say
+Fostalina,Victoria,2.6785714285714284,4.464285714285714,50.0,0.6,get be hang
+Victoria,Fostalina,2.6785714285714284,4.464285714285714,50.0,0.6,get be hang
+Victoria,Fostalina,2.6785714285714284,4.464285714285714,50.0,0.6,get be hang
+Fostalina,Victoria,5.0,1.875,48.125,2.6666666666666665,know be call be need tell be do happen
+Fostalina,Victoria,5.0,1.875,48.125,2.6666666666666665,know be call be need tell be do happen
+Marina,Fostalina,4.086538461538462,4.086538461538462,59.13461538461539,1.0,contain be think be be wear be make
+Marina,Fostalina,4.086538461538462,4.086538461538462,59.13461538461539,1.0,contain be think be be wear be make
+Marina,Fostalina,4.086538461538462,4.086538461538462,59.13461538461539,1.0,contain be think be be wear be make
+Marina,Fostalina,4.086538461538462,4.086538461538462,59.13461538461539,1.0,contain be think be be wear be make
+Kristal,Marina,5.833333333333333,1.6666666666666667,50.27777777777778,3.5,think teach wear have be be write show be
+Kristal,Marina,5.833333333333333,1.6666666666666667,50.27777777777778,3.5,think teach wear have be be write show be
+Kristal,Marina,5.833333333333333,1.6666666666666667,50.27777777777778,3.5,think teach wear have be be write show be
+Marina,Kristal,5.833333333333333,1.6666666666666667,50.27777777777778,3.5,think teach wear have be be write show be
+Marina,Kristal,5.833333333333333,1.6666666666666667,50.27777777777778,3.5,think teach wear have be be write show be
+Fostalina,Kojo,0.9375,0.3125,58.75,3.0,do be be come sleep be
+Kristal,Marina,3.9473684210526314,3.289473684210526,61.18421052631579,1.2,be have surpass
+Kristal,Marina,3.9473684210526314,3.289473684210526,61.18421052631579,1.2,be have surpass
+Fostalina,MaDumane,3.4375000000000004,0.3125,53.75,11.0,call say work have be take have write
+MaDumane,Fostalina,3.4375000000000004,0.3125,53.75,11.0,call say work have be take have write
+Fostalina,Tsepang,2.840909090909091,0.2840909090909091,55.96590909090909,10.0,call say be have be eat try cross
+Fostalina,Tsepang,2.840909090909091,0.2840909090909091,55.96590909090909,10.0,call say be have be eat try cross
+Fostalina,Bank of America,4.545454545454546,0.5681818181818182,53.97727272727273,8.0,keep come come have hear be marry
+Fostalina,Mother,3.6764705882352944,2.941176470588235,61.029411764705884,1.25,choose tell have say see send buy be import
+Fostalina,Mother,3.6764705882352944,2.941176470588235,61.029411764705884,1.25,choose tell have say see send buy be import
+Godknows,Sbho,3.289473684210526,0.6578947368421052,48.68421052631579,5.0,stand get hear talk
+Godknows,Sbho,2.1739130434782608,0.0,54.347826086956516,INF,save snatch hear beg give
+Godknows,Kim Kardashian,2.1739130434782608,0.0,54.347826086956516,INF,save snatch hear beg give
+Sbho,Kim Kardashian,2.1739130434782608,0.0,54.347826086956516,INF,save snatch hear beg give
+Kristal,Marina,3.125,1.0416666666666665,70.83333333333334,3.0,have forget be
+Godknows,Bastard,6.578947368421052,7.236842105263158,49.34210526315789,0.9090909090909091,do know get find talk
+Victoria,JCPenney,0.5,1.7500000000000002,65.75,0.2857142857142857,address say join tape
+Victoria,Bank of America,0.5,1.7500000000000002,65.75,0.2857142857142857,address say join tape
+JCPenney,Bank of America,0.5,1.7500000000000002,65.75,0.2857142857142857,address say join tape
+Chipo,Stina,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,be be be get say have greet
+Chipo,Stina,5.0,2.9166666666666665,52.083333333333336,1.7142857142857142,be be be get say have greet
+Victoria,Fostalina,5.357142857142857,2.380952380952381,44.642857142857146,2.25,be be address know be
+Kristal,Marina,0.0,0.78125,42.96875,0.0,get be watch
+Kristal,Marina,5.147058823529411,4.411764705882353,55.14705882352941,1.1666666666666667,look see think remind be try see
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,2.696078431372549,1.2254901960784315,54.90196078431373,2.2,be run start do shrug start make accompany explode stop be do
+Kristal,Marina,0.0,0.9615384615384616,52.88461538461539,0.0,have
+Marina,Kristal,2.9166666666666665,2.7083333333333335,59.375,1.0769230769230769,have do do be watch reverse put use get brave jump fasten giggle
+Mr. Harris,Marina,2.3255813953488373,0.5813953488372093,62.2093023255814,4.0,be be drive crawl have duck stay hear shut
+Marina,Mr. Harris,2.3255813953488373,0.5813953488372093,62.2093023255814,4.0,be be drive crawl have duck stay hear shut
+Marina,Mr. Harris,2.3255813953488373,0.5813953488372093,62.2093023255814,4.0,be be drive crawl have duck stay hear shut
+Marina,Kristal,1.9736842105263157,1.644736842105263,56.9078947368421,1.2,be be be be do
+Marina,Kristal,1.9736842105263157,1.644736842105263,56.9078947368421,1.2,be be be be do
+Marina,Kristal,5.555555555555555,1.7361111111111112,48.26388888888889,3.2,be mean be be think tell be play take forget
+Marina,Kristal,5.555555555555555,1.7361111111111112,48.26388888888889,3.2,be mean be be think tell be play take forget
+Marina,Kristal,5.555555555555555,1.7361111111111112,48.26388888888889,3.2,be mean be be think tell be play take forget
+Marina,Kristal,0.6648936170212766,0.26595744680851063,51.196808510638306,2.5,pass pass pass attend go pass
+Marina,Walgreens,0.6648936170212766,0.26595744680851063,51.196808510638306,2.5,pass pass pass attend go pass
+Kristal,Walgreens,0.6648936170212766,0.26595744680851063,51.196808510638306,2.5,pass pass pass attend go pass
+Kojo,Fostalina,1.3513513513513513,0.6756756756756757,52.02702702702703,2.0,be stop be be do remember come
+Kojo,Fostalina,3.3783783783783785,0.0,56.08108108108109,INF,want take do beg beg let pay
+Marina,Kristal,5.989583333333334,4.947916666666666,49.47916666666667,1.2105263157894737,be say kill be say be follow be think happen be
+Marina,Kristal,5.989583333333334,4.947916666666666,49.47916666666667,1.2105263157894737,be say kill be say be follow be think happen be
+Marina,Kristal,5.989583333333334,4.947916666666666,49.47916666666667,1.2105263157894737,be say kill be say be follow be think happen be
+Kristal,Marina,1.25,2.8125,53.43750000000001,0.4444444444444444,be steal be lift lift lift
+Kristal,Rihanna,1.25,2.8125,53.43750000000001,0.4444444444444444,be steal be lift lift lift
+Marina,Rihanna,1.25,2.8125,53.43750000000001,0.4444444444444444,be steal be lift lift lift
+Marina,Kristal,2.989130434782609,4.076086956521739,49.45652173913043,0.7333333333333333,be be be sing be burn sing be yell have turn be say
+Kristal,Marina,1.9230769230769231,3.8461538461538463,32.69230769230769,0.5,be say
+Kristal,Marina,1.7857142857142856,1.7857142857142856,39.285714285714285,1.0,say turn
+Kristal,Marina,5.303030303030303,6.4393939393939394,36.74242424242424,0.8235294117647058,talk be say be be pull say
+Google,Marina,5.681818181818182,2.272727272727273,60.22727272727273,2.5,be say
+Kristal,Marina,0.0,1.875,73.125,0.0,be walk keep glance glance
+Bastard,Stina,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Bastard,Chipo,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Bastard,Godknows,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Bastard,Sbho,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Stina,Chipo,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Stina,Godknows,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Stina,Sbho,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Chipo,Godknows,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Chipo,Sbho,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Godknows,Sbho,1.3888888888888888,5.092592592592593,30.555555555555557,0.2727272727272727,be be scream tease howl die
+Kristal,Marina,4.464285714285714,1.7857142857142856,43.75,2.5,be
+Kristal,Marina,4.464285714285714,1.7857142857142856,43.75,2.5,be
+Angelina Jolie,Sbho,6.25,5.357142857142857,45.535714285714285,1.1666666666666667,have pick
+Fostalina,Nelson Mandela,1.3513513513513513,0.6756756756756757,62.83783783783784,2.0,have see have hear ask pick ask get
+JCPenney,Kristal,4.3478260869565215,0.0,34.78260869565217,INF,be go say be get
+JCPenney,Kristal,4.3478260869565215,0.0,34.78260869565217,INF,be go say be get
+Kristal,JCPenney,0.0,0.0,50.0,INF,stop keep walk
+Kristal,Marina,4.375,2.5,53.125,1.75,need wear say look
+Marina,Kristal,0.0,0.4032258064516129,57.66129032258065,0.0,look be wear be wear
+Kristal,Marina,0.7142857142857143,1.0714285714285714,58.214285714285715,0.6666666666666666,shut say be change be go say
+Kristal,Marina,1.893939393939394,4.545454545454546,51.13636363636363,0.4166666666666667,overtake get hear scream be break
+Fostalina,Tshaka Zulu,6.61764705882353,2.941176470588235,43.38235294117647,2.25,be summon pacify
+Tshaka Zulu,Claudine,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Tshaka Zulu,Fostalina,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Tshaka Zulu,Claudine,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Tshaka Zulu,Fostalina,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Tshaka Zulu,Claudine,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Tshaka Zulu,Fostalina,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Claudine,Fostalina,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Claudine,Tshaka Zulu,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Fostalina,Tshaka Zulu,1.5086206896551724,1.7241379310344827,50.21551724137932,0.875,be come keep work refuse speak run call talk
+Fostalina,Tshaka Zulu,3.571428571428571,2.142857142857143,54.285714285714285,1.6666666666666667,seem be work have discover be be do need listen
+Fostalina,Tshaka Zulu,3.571428571428571,2.142857142857143,54.285714285714285,1.6666666666666667,seem be work have discover be be do need listen
+Tshaka Zulu,Fostalina,2.717391304347826,1.0869565217391304,48.369565217391305,2.5,appear be make talk bring get
+Tshaka Zulu,Fostalina,2.717391304347826,1.0869565217391304,48.369565217391305,2.5,appear be make talk bring get
+Tshaka Zulu,Fostalina,2.717391304347826,1.0869565217391304,48.369565217391305,2.5,appear be make talk bring get
+Tshaka Zulu,Fostalina,2.717391304347826,1.0869565217391304,48.369565217391305,2.5,appear be make talk bring get
+Tshaka Zulu,Andrew,5.0,2.5,52.5,2.0,be
+Fostalina,Tshaka Zulu,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be be
+Fostalina,Tshaka Zulu,2.7777777777777777,1.3888888888888888,40.27777777777778,2.0,be be
+Peter,Andrew,1.3888888888888888,0.0,54.166666666666664,INF,say
+Andrew,Peter,2.272727272727273,0.0,70.45454545454545,INF,have stop correct call
+Andrew,Peter,2.272727272727273,0.0,70.45454545454545,INF,have stop correct call
+God,Claudine,0.0,4.166666666666666,37.5,0.0,thank be whisper
+God,Fostalina,0.0,4.166666666666666,37.5,0.0,thank be whisper
+Claudine,Fostalina,0.0,4.166666666666666,37.5,0.0,thank be whisper
+Tshaka Zulu,Nelson Mandela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Tshaka Zulu,Nelson Mandela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Tshaka Zulu,Miriam Makeba,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Tshaka Zulu,Brenda Fassie,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Tshaka Zulu,Hugh Masekela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Tshaka Zulu,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Miriam Makeba,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Brenda Fassie,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Hugh Masekela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Miriam Makeba,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Brenda Fassie,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Hugh Masekela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Nelson Mandela,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Miriam Makeba,Brenda Fassie,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Miriam Makeba,Hugh Masekela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Miriam Makeba,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Brenda Fassie,Hugh Masekela,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Brenda Fassie,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Hugh Masekela,Lucky Dube,1.7201834862385321,0.34403669724770647,45.642201834862384,5.0,be be be be choke come become have frame
+Lucky Dube,Tshaka Zulu,1.3392857142857142,0.4464285714285714,55.35714285714286,3.0,be go
+Lucky Dube,Tshaka Zulu,1.3392857142857142,0.4464285714285714,55.35714285714286,3.0,be go
+Tshaka Zulu,Makhosi,1.2755102040816326,0.7653061224489796,40.816326530612244,1.6666666666666667,have name give think give
+Tshaka Zulu,Makhosi,1.2755102040816326,0.7653061224489796,40.816326530612244,1.6666666666666667,have name give think give
+Tshaka Zulu,Fostalina,3.316326530612245,1.0204081632653061,69.13265306122449,3.25,do know suffer tell have forget be think be have see
+Thabani,Nyarai,0.0,0.0,31.03448275862069,INF,say be be be
+Jesus,Thabani,1.5625,5.46875,42.96875,0.2857142857142857,listen say be
+Pepsi,Miller,1.2755102040816326,1.530612244897959,50.255102040816325,0.8333333333333334,be clean bag be sort
+Pepsi,Heineken,1.2755102040816326,1.530612244897959,50.255102040816325,0.8333333333333334,be clean bag be sort
+Miller,Heineken,1.2755102040816326,1.530612244897959,50.255102040816325,0.8333333333333334,be clean bag be sort
+Miller,Jim,2.7027027027027026,0.6756756756756757,58.78378378378378,4.0,come be stand look think be do feel crawl
+Jim,Megan,1.3888888888888888,0.0,43.05555555555556,INF,be say
+Kojo,Vasco da Gama,3.515625,1.953125,60.15625,1.8,do be drive be call
+Kojo,Vasco da Gama,3.515625,1.953125,60.15625,1.8,do be drive be call
+Vasco da Gama,Kojo,3.515625,1.953125,60.15625,1.8,do be drive be call
+NGO,Paradise,1.3274336283185841,3.0973451327433628,58.4070796460177,0.42857142857142855,stay sit stare use wait stand be look pull see strut be walk stand bear
+Vasco da Gama,Lincoln,0.0,0.0,54.54545454545454,INF,proceed turn take get
+Fostalina,Vasco da Gama,0.9615384615384616,0.0,29.807692307692307,INF,
+Kojo,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Kojo,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Kojo,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Kojo,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Kojo,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Kojo,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Vasco da Gama,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Vasco da Gama,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Vasco da Gama,Fostalina,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Fostalina,Vasco da Gama,1.4492753623188406,0.9057971014492754,45.471014492753625,1.6,happen be leave stop eat laugh say keep start lose go get be get eat
+Eliot,Fostalina,1.6666666666666667,0.8333333333333334,44.166666666666664,2.0,be
+Fostalina,Eliot,0.5208333333333333,0.0,55.729166666666664,INF,say come go work clean
+Fostalina,Eliot,0.5208333333333333,0.0,55.729166666666664,INF,say come go work clean
+Fostalina,Eliot,0.5208333333333333,0.0,55.729166666666664,INF,say come go work clean
+Eliot,Fostalina,4.261363636363636,2.556818181818182,56.81818181818182,1.6666666666666667,call look say have mean tell think touch be hide
+Eliot,Fostalina,4.261363636363636,2.556818181818182,56.81818181818182,1.6666666666666667,call look say have mean tell think touch be hide
+Eliot,Fostalina,4.261363636363636,2.556818181818182,56.81818181818182,1.6666666666666667,call look say have mean tell think touch be hide
+Eliot,Fostalina,4.261363636363636,2.556818181818182,56.81818181818182,1.6666666666666667,call look say have mean tell think touch be hide
+Eliot,Kate,1.0,1.7500000000000002,65.25,0.5714285714285714,have do need do be do open walk have see think be
+Eliot,Kate,1.0,1.7500000000000002,65.25,0.5714285714285714,have do need do be do open walk have see think be
+Eliot,Kate,0.8928571428571428,0.0,56.25,INF,respond say have meet
+Kate,Fostalina,2.5,1.25,26.25,2.0,be
+Eliot,Kate,6.770833333333333,1.0416666666666665,63.020833333333336,6.5,turn look be stand need come
+Eliot,Kate,6.770833333333333,1.0416666666666665,63.020833333333336,6.5,turn look be stand need come
+Kate,Bastard,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,be be wear
+Kate,Cornell,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,be be wear
+Kate,Bastard,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,be be wear
+Kate,Cornell,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,be be wear
+Bastard,Cornell,3.571428571428571,6.25,54.46428571428571,0.5714285714285714,be be wear
+Kate,Bastard,5.603448275862069,4.741379310344827,48.275862068965516,1.1818181818181819,open tell close be say
+Kate,Paradise,5.603448275862069,4.741379310344827,48.275862068965516,1.1818181818181819,open tell close be say
+Bastard,Paradise,5.603448275862069,4.741379310344827,48.275862068965516,1.1818181818181819,open tell close be say
+Vasco da Gama,Kate,3.8461538461538463,1.6826923076923077,52.16346153846154,2.2857142857142856,come pick say do respond be come know be do care be steal
+Vasco da Gama,Kate,3.8461538461538463,1.6826923076923077,52.16346153846154,2.2857142857142856,come pick say do respond be come know be do care be steal
+Vasco da Gama,Kate,3.8461538461538463,1.6826923076923077,52.16346153846154,2.2857142857142856,come pick say do respond be come know be do care be steal
+Vasco da Gama,Kate,3.8461538461538463,1.6826923076923077,52.16346153846154,2.2857142857142856,come pick say do respond be come know be do care be steal
+Vasco da Gama,Fostalina,0.0,0.0,56.666666666666664,INF,fish glance mean be
+Vasco da Gama,Fostalina,0.0,0.0,56.666666666666664,INF,fish glance mean be
+Vasco da Gama,Walgreens,3.1976744186046515,1.1627906976744187,46.80232558139535,2.75,do make suck look have be save
+Tshaka Zulu,Kojo,1.7578125,1.953125,61.9140625,0.9,meet be call step push say be drip be allow settle
+Tshaka Zulu,Kojo,1.7578125,1.953125,61.9140625,0.9,meet be call step push say be drip be allow settle
+Tshaka Zulu,Kojo,1.7578125,1.953125,61.9140625,0.9,meet be call step push say be drip be allow settle
+Kojo,Tshaka Zulu,2.754237288135593,2.9661016949152543,58.686440677966104,0.9285714285714286,ask start translate be concentrate be tilt utter be have hear have close be ring
+Tshaka Zulu,Kojo,2.754237288135593,2.9661016949152543,58.686440677966104,0.9285714285714286,ask start translate be concentrate be tilt utter be have hear have close be ring
+Tshaka Zulu,Kojo,2.754237288135593,2.9661016949152543,58.686440677966104,0.9285714285714286,ask start translate be concentrate be tilt utter be have hear have close be ring
+Tshaka Zulu,Kojo,2.754237288135593,2.9661016949152543,58.686440677966104,0.9285714285714286,ask start translate be concentrate be tilt utter be have hear have close be ring
+Tshaka Zulu,Kojo,2.754237288135593,2.9661016949152543,58.686440677966104,0.9285714285714286,ask start translate be concentrate be tilt utter be have hear have close be ring
+Kojo,Tshaka Zulu,1.25,4.166666666666666,57.91666666666667,0.3,wear have paint be
+Kojo,Tshaka Zulu,1.25,4.166666666666666,57.91666666666667,0.3,wear have paint be
+Kojo,Tshaka Zulu,1.25,4.166666666666666,57.91666666666667,0.3,wear have paint be
+Tshaka Zulu,Kojo,0.6944444444444444,0.0,65.97222222222221,INF,start follow
+Fostalina,Marina,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Fostalina,Kristal,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Fostalina,Marina,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Fostalina,Marina,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Marina,Kristal,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Kristal,Marina,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Kristal,Marina,0.23148148148148145,3.935185185185185,53.24074074074075,0.058823529411764705,give watch find whup spare say do want get call whup make see do
+Kristal,Marina,3.125,1.875,60.0,1.6666666666666667,be see be be
+Amma,Tony,1.0869565217391304,3.260869565217391,52.17391304347826,0.3333333333333333,be come join
+Vasco da Gama,God,1.293103448275862,0.43103448275862066,60.3448275862069,3.0,picture tilt hold be be listen speak wake reach
+Vasco da Gama,God,1.293103448275862,0.43103448275862066,60.3448275862069,3.0,picture tilt hold be be listen speak wake reach
+Vasco da Gama,God,1.293103448275862,0.43103448275862066,60.3448275862069,3.0,picture tilt hold be be listen speak wake reach
+Fostalina,Vasco da Gama,9.239130434782608,2.1739130434782608,40.76086956521739,4.25,be be do
+Fostalina,Vasco da Gama,9.239130434782608,2.1739130434782608,40.76086956521739,4.25,be be do
+Fostalina,Vasco da Gama,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Fostalina,Vasco da Gama,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Vasco da Gama,Fostalina,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Vasco da Gama,Fostalina,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Fostalina,Vasco da Gama,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Vasco da Gama,Fostalina,3.9634146341463414,0.9146341463414633,53.65853658536586,4.333333333333333,hope get travel think be keep go do want deal do know do
+Fostalina,Kojo,5.0,0.625,54.37499999999999,8.0,mean be do be live neighbor
+Fostalina,Eliot,0.0,0.0,61.53846153846154,INF,come catch
+Eliot,Kristal,1.639344262295082,1.4344262295081966,64.13934426229508,1.1428571428571428,have be come make park start text appear wear stick
+Kristal,Eliot,1.639344262295082,1.4344262295081966,64.13934426229508,1.1428571428571428,have be come make park start text appear wear stick
+Kristal,Eliot,1.639344262295082,1.4344262295081966,64.13934426229508,1.1428571428571428,have be come make park start text appear wear stick
+Kristal,Eliot,1.639344262295082,1.4344262295081966,64.13934426229508,1.1428571428571428,have be come make park start text appear wear stick
+Chipo,Stina,3.0,6.0,43.0,0.5,be picture help feel feel
+Chipo,Stina,3.0,6.0,43.0,0.5,be picture help feel feel
+Tshaka Zulu,Fostalina,2.0348837209302326,0.5813953488372093,62.5,3.5,be report tell be sleep be be arrest
+Tshaka Zulu,Fostalina,1.8867924528301887,1.8867924528301887,58.490566037735846,1.0,say want fly have bury be suppose be go
+Tshaka Zulu,Fostalina,1.8867924528301887,1.8867924528301887,58.490566037735846,1.0,say want fly have bury be suppose be go
+Jesus,Laden,6.25,0.6944444444444444,48.61111111111111,9.0,look be say
+Jesus,Godknows,6.25,0.6944444444444444,48.61111111111111,9.0,look be say
+Jesus,Laden,6.25,0.6944444444444444,48.61111111111111,9.0,look be say
+Jesus,Godknows,6.25,0.6944444444444444,48.61111111111111,9.0,look be say
+Laden,Godknows,6.25,0.6944444444444444,48.61111111111111,9.0,look be say
+Jesus,Bastard,5.147058823529411,11.76470588235294,53.67647058823529,0.4375,be find say
+Jesus,Bastard,5.147058823529411,11.76470588235294,53.67647058823529,0.4375,be find say
+Mother,Bastard,0.0,0.0,55.55555555555556,INF,find say
+Stina,Laden,4.605263157894736,1.3157894736842104,41.44736842105263,3.5,throw throw watch fly
+Stina,Laden,4.605263157894736,1.3157894736842104,41.44736842105263,3.5,throw throw watch fly
+Bastard,Godknows,2.2058823529411766,3.6764705882352944,35.294117647058826,0.6,go start urinate join
+Bastard,Stina,2.2058823529411766,3.6764705882352944,35.294117647058826,0.6,go start urinate join
+Godknows,Stina,2.2058823529411766,3.6764705882352944,35.294117647058826,0.6,go start urinate join
+Chipo,Sbho,2.083333333333333,0.4166666666666667,47.5,5.0,stay watch thrust shoot want go
+Laden,Mzilikazi,6.25,1.3888888888888888,53.47222222222222,4.5,have give be walk see
+Laden,Ncuncu,6.25,1.3888888888888888,53.47222222222222,4.5,have give be walk see
+Mzilikazi,Ncuncu,6.25,1.3888888888888888,53.47222222222222,4.5,have give be walk see
+Ncuncu,Bornfree,7.03125,2.34375,46.875,3.0,have be decide know stop be
+Ncuncu,Stina,7.03125,2.34375,46.875,3.0,have be decide know stop be
+Bornfree,Stina,7.03125,2.34375,46.875,3.0,have be decide know stop be
+Stina,Paradise,2.232142857142857,6.25,52.23214285714286,0.35714285714285715,roam respond call whistle
+Paradise,Stina,2.232142857142857,6.25,52.23214285714286,0.35714285714285715,roam respond call whistle
+Paradise,Stina,2.232142857142857,6.25,52.23214285714286,0.35714285714285715,roam respond call whistle
+Stina,Mzilikazi,0.0,0.0,38.88888888888889,INF,see run shout
+Stina,Laden,0.0,0.0,38.88888888888889,INF,see run shout
+Mzilikazi,Stina,0.0,0.0,38.88888888888889,INF,see run shout
+Mzilikazi,Laden,0.0,0.0,38.88888888888889,INF,see run shout
+Stina,Laden,0.0,0.0,38.88888888888889,INF,see run shout
