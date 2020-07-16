@@ -89,3 +89,8 @@ Mathieu produced three videos ahead of the workshop, to help you familiraize wit
 * [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
 * [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
 * [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
+
+## Network data sets
+
+The data sets are hosted on the GitHub repository. Instructions in the READ ME:
+https://github.com/CultureAnalytics/DH2020/tree/master/data
