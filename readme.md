@@ -11,14 +11,14 @@ The videos themselves are described in the schedule below and will be made avail
 
 We hope you will join us for this series of asynchronous and synchronous events! If you cannot, please feel free to view and/or download the materials and explore network studies of culture in a way most productive to you! If you have any questions, please feel free to contact one of us. 
 
-Please sign up for the workshop using [this Google Form](https://forms.gle/jMXXvTFaW4VZgJcx9). (If you have any difficulties or prefer not to use Google Forms, please email one of the workshop facilitators: we will log your registration.) Please note that, for the time being, we are offering registration on a first-come, first-served basis. 
+The workshop is already full, and the registrations is closed. 
 
 
 ## Schedule
 
 The planned half-day workshop is now a collection of videos to watch ahead of a two-hour interactive session with our presenter, Mathieu Jacomy. The videos offer an exploration of culture analytics and networks for those interested in understanding the intersection of analytics and the humanities. Participants in the interactive session are expected to have Gephi already installed and the sample datasets already downloaded.
 
-### Videos to View in Advance of the July 21 Workshop
+### What to do in Advance of the July 21 Workshop
 
 Traditionally, we would all gather in a room and warm up for the workshop with some overviews and case studies to prime our imaginations for the possibilities. While we cannot be together this year, we still thought it would be useful to have some way to suggest some possibilities. 
 
@@ -28,6 +28,12 @@ We are especially excited by the opportunity to have Tim Tangherlini join us thi
 * **Example**: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
 * **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). 
 
+For the workshop, please do the following things:
+1.	Watch these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).
+2.	Download and install [Gephi](https://gephi.org/users/download/)
+3.	If you have any questions you would like Mathieu to address during the workshop, please write them down in this Drive document. Here you can also signify their your interest  to the questions asked by other participants. This will ensure that we will be able to address those questions that so that I have a kind of ranking.
+
+ 
 
 ### The Workshop
 
