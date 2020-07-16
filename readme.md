@@ -24,9 +24,9 @@ Traditionally, we would all gather in a room and warm up for the workshop with s
 
 We are especially excited by the opportunity to have Tim Tangherlini join us this year. Tangherlini has been instrumental not only in the development of culture analytics, through the long program he co-developed at UCLA's Institute for Pure and Applied Mathematics, but also in the introduction of network studies to humanities scholars: the NEH seminar on *Network Studies in the Humanities* was meeting ground, and launching pad, for a number of scholars active in the digital humanities today.
 
-* **Keynote**: *Culture Analytics and Networks*. Tim Tangherlini (University of California - Berkeley). 
+* **Keynote**: *Conspiracy in the Time of Covid: A Computational Pipeline for the Discovery of Conspiracy Narrative Frameworks*. Tim Tangherlini (University of California - Berkeley). [Watch the Keynote](keynote.md).
 * **Example**: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
-* **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). 
+<!-- * **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). -->
 
 To be able to use our time together efficiently, we would like to ask you to do the following things before the workshop:
 * **Watch these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).**
