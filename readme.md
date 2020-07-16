@@ -79,3 +79,13 @@ Key project: https://sites.utu.fi/pseudohistoria/en/
 ## About Culture Analytics
 
 Culture Analytics is a collaborative, translational data science that explores culture and cultural interaction as a multi-scale / multi-resolution phenomenon. The macroscopic view, that allows a researcher to move from the microscale of close reading, up through the mesoscales, and on to the macroscale of distant reading, is a hallmark of the field. Culture analytics is focused on the productive intersection between humanities, mathematics, and data science.
+
+## Workshop material
+
+### Gephi videos
+
+Mathieu produced three videos ahead of the workshop, to help you familiraize with Gephi beforehand. The first one, in particular, helps you install Gephi and tackle possible Java issues.
+
+* [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
+* [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
+* [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
