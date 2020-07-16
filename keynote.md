@@ -10,6 +10,8 @@ This year's keynote is by one of the principal figures in culture analytics, Tim
 
 <iframe src="https://player.vimeo.com/video/438917396" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+Clicking on the arrows in the lower righthand corner of the video will make the video full size: you can also click on the gear icon to change the resolution -- an HD version of the video is available.
+
 For those who would rather listen to the keynote, an audio recording is [available][], and Tim has also generously provided us with the [slides][].
 
 *Tangherlini is the author of three books and two documentary films as well as a host of publications. (For more, see his [UCLA profile](https://scandinavian.ucla.edu/person/timothy-r-tangherlini/).) [A complete list of Tangherlini's publications -- with links](http://tango.bol.ucla.edu/publications/pubs.html).*
