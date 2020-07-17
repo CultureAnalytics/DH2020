@@ -25,7 +25,7 @@ Traditionally, we would all gather in a room and warm up for the workshop with s
 We are especially excited by the opportunity to have Tim Tangherlini join us this year. Tangherlini has been instrumental not only in the development of culture analytics, through the long program he co-developed at UCLA's Institute for Pure and Applied Mathematics, but also in the introduction of network studies to humanities scholars: the NEH seminar on *Network Studies in the Humanities* was meeting ground, and launching pad, for a number of scholars active in the digital humanities today.
 
 * **[Watch the Keynote](keynote.md)**: *Conspiracy in the Time of Covid: A Computational Pipeline for the Discovery of Conspiracy Narrative Frameworks*. Tim Tangherlini (University of California - Berkeley).
-* Watch the **example** study: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
+* Watch the **example** study: *[Visualising the Merce Cunningham Company Network](https://youtu.be/aMKJFu12-sY)*. Clarisse Bardiot (UPHF).
 <!-- * **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). -->
 * **Watch [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ)** (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html)).
 * **Watch [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)**.
