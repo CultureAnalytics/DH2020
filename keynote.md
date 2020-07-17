@@ -1,4 +1,5 @@
-[DH 2020 CA Workshop HOME](./readme.md)
+[HOME](./readme.md)
+
 # Keynote
 
 ## Conspiracy in the Time of Covid: <br />
