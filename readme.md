@@ -27,14 +27,18 @@ We are especially excited by the opportunity to have Tim Tangherlini join us thi
 * Watch the **Keynote**: *Conspiracy in the Time of Covid: A Computational Pipeline for the Discovery of Conspiracy Narrative Frameworks*. Tim Tangherlini (University of California - Berkeley). [Watch the Keynote](keynote.md).
 * Watch the **example** study: *Visualising the Merce Cunningham Company Network*. Clarisse Bardiot (UPHF).
 <!-- * **Example**: *Understanding Small Corpora through Word Collocation Networks*. John Laudun (University of Louisiana). -->
-
-To be able to use our time together efficiently, we would like to ask you to do the following things before the workshop:
-
-* **Watch** these [three videos](https://www.youtube.com/playlist?list=PL7wfgmADqQfajFq4vcL6S4dTNI5WO-G3K).
+* Watch [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
+* Watch [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
+* Watch [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
 * **Download** and **install** [Gephi](https://gephi.org/users/download/).
 * Please **write down your questions in the Drive document** emailed to the participants. Here you can also signify your interest in the questions asked by other participants. This will ensure that we will be able to address the most pressing questions during the course of the workshop.
 
- 
+
+### Network data sets
+
+The data sets are hosted on the GitHub repository. Instructions in the READ ME:
+https://github.com/CultureAnalytics/DH2020/tree/master/data
+
 
 ### The Workshop
 
@@ -52,21 +56,6 @@ During the workshop, we want to encourage everyone to work alongside Mathieu as 
 |06:45pm | Continuation of the hands-on session.  |
 |07:45pm | Wrap up                                |
 |08:00pm | End of the workshop                    |
-
-## Workshop material
-
-### Gephi videos
-
-Mathieu produced three videos ahead of the workshop, to help you familiraize with Gephi beforehand. The first one, in particular, helps you install Gephi and tackle possible Java issues.
-
-* [How to install Gephi 0.9.2](https://youtu.be/DMOWhqp6lHQ) (also [on GitHub](https://cultureanalytics.github.io/DH2020/video/How%20to%20install%20Gephi/2020-06%20How%20to%20install%20Gephi.html))
-* [First contact with Gephi 0.9.2](https://youtu.be/YM_37z_uURM)
-* [Layouts, clusters, and where to find them](https://youtu.be/0LqY8OfSsKE)
-
-### Network data sets
-
-The data sets are hosted on the GitHub repository. Instructions in the READ ME:
-https://github.com/CultureAnalytics/DH2020/tree/master/data
 
 ## Workshop Leaders
 
