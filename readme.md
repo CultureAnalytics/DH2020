@@ -1,5 +1,7 @@
 
-[WEBSITE]( https://cultureanalytics.github.io/DH2020/)
+[HOME]( https://cultureanalytics.github.io/DH2020/) · 
+[KEYNOTE](./kenote.md) · 
+[INTERVIEW](./interview.md)
 
 # Network Studies of Culture
 
