@@ -1,5 +1,5 @@
 [HOME]( https://cultureanalytics.github.io/DH2020/) · 
-[KEYNOTE](./kenote.md) · 
+[KEYNOTE](./keynote.md) · 
 [INTERVIEW](./interview.md)
 
 # Keynote
